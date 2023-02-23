@@ -112,9 +112,10 @@ void _writeChanges(IOSink output, List<_Changes> pagedChanges) {
 }
 
 bool _ignore(_Commit commit) {
-  if (commit.pullRequest.authorLogin == 'engine-flutter-autoroll' &&
-      commit.pullRequest.title.startsWith('Roll Flutter Engine from')) {
-    return true;
+  final pr = commit.pullRequest;
+  if (pr.authorLogin == 'engine-flutter-autoroll') {
+    if (pr.title.startsWith('Roll Flutter Engine from')) return true;
+    if (pr.title.startsWith('Roll Plugins from')) return true;
   }
 
   return false;
