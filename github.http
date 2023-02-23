@@ -1,0 +1,71 @@
+### Get latest commits
+
+POST https://api.github.com/graphql
+Accept: application/vnd.github+json 
+Authorization: Bearer ghp_ABC1234
+X-Request-Type: GraphQL
+
+query LatestCommits {
+  repository(owner: "flutter", name: "flutter") {
+    defaultBranchRef {
+      target {
+        ... on Commit {
+          history(first: 10 after: "71c45709329e4e71f2a11e06bdbf03b8e3ae5eae 9") {
+            pageInfo {
+              endCursor
+            }
+            edges {
+              node {
+                ... on Commit {
+                  associatedPullRequests(first: 1) {
+                    nodes {
+                      number
+                      url
+                      title
+                      additions
+                      changedFiles
+                      totalCommentsCount
+                      mergeCommit {
+                        abbreviatedOid
+                        url
+                      }
+                      deletions
+                      author {
+                        login
+                        url
+                        ... on User {
+                          name
+                          organizations(first: 3) {
+                            nodes {
+                              name
+                            }
+                          }
+                        }
+                      }
+                      closingIssuesReferences(first: 1) {
+                        nodes {
+                          url
+                          title
+                          labels(first: 5) {
+                            nodes {
+                              name
+                              url
+                            }
+                          }
+                        }
+                      }
+                      reactions {
+                        totalCount
+                      }
+                    }
+                  }
+                  committedDate
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
