@@ -11,10 +11,17 @@ void main(List<String> arguments) async {
   String? after;
 
   final commits = <_Commit>[];
-  for (var i = 0; i < 3; i++) {
+  for (var i = 0; i < 10; i++) {
     final changes = await _loadChanges(token, owner, repository, after);
     commits.addAll(changes.commits.where((commit) => !_ignore(commit)));
     after = changes.endCursor;
+
+    final done = changes.commits.any((commit) {
+      final ago = DateTime.now().difference(commit.commitDate);
+      return ago.inDays > 7;
+    });
+
+    if (done) break;
   }
 
   commits.sort((a, b) => _score(b).compareTo(_score(a)));
