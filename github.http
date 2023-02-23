@@ -5,8 +5,9 @@ Accept: application/vnd.github+json
 Authorization: Bearer ghp_ABC1234
 X-Request-Type: GraphQL
 
-query LatestCommits {
+query LatestChanges {
   repository(owner: "flutter", name: "flutter") {
+    nameWithOwner
     defaultBranchRef {
       target {
         ... on Commit {
@@ -17,6 +18,9 @@ query LatestCommits {
             edges {
               node {
                 ... on Commit {
+                  abbreviatedOid
+                  committedDate
+                  url
                   associatedPullRequests(first: 1) {
                     nodes {
                       number
@@ -24,12 +28,8 @@ query LatestCommits {
                       title
                       additions
                       changedFiles
-                      totalCommentsCount
-                      mergeCommit {
-                        abbreviatedOid
-                        url
-                      }
                       deletions
+                      totalCommentsCount
                       author {
                         login
                         url
@@ -59,7 +59,6 @@ query LatestCommits {
                       }
                     }
                   }
-                  committedDate
                 }
               }
             }
