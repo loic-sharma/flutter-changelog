@@ -8,7 +8,7 @@ void main(List<String> arguments) async {
   String owner = 'flutter';
 
   var output = File('README.md').openWrite();
-  output.writeln('# Changelog');
+  output.writeln('# Flutter changelog');
 
   for (final repository in ['flutter', 'engine', 'packages']) {
     String? after;
