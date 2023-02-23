@@ -92,20 +92,12 @@ void _writeChanges(
 
   for (var commit in commits) {
     final pullRequest = commit.pullRequest;
-    final issue = pullRequest.issue;
-
     final commitedAt = DateFormat.yMMMMd().format(commit.commitDate);
-    final labels = (issue?.labels ?? <String, Uri>{})
-      .entries
-      .map((e) => '[${e.key}](${e.value})')
-      .join(', ');
 
     output.writeln(
       '[${pullRequest.title}](${pullRequest.url})'
       '<br />'
       '<sub>'
-        '$labels'
-        '${labels.isNotEmpty ? '<br />' : ''}'
         '[#${pullRequest.number}](${pullRequest.url}) merged on $commitedAt '
         'by [${pullRequest.authorName ?? pullRequest.authorLogin}](${pullRequest.authorUrl})'
       '</sub>'
