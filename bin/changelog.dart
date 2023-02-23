@@ -6,32 +6,38 @@ import 'package:intl/intl.dart' show DateFormat;
 
 void main(List<String> arguments) async {
   String? token = 'ghp_ABCD1234';
+  String owner = 'flutter';
+  String repository = 'flutter';
   String? after;
 
-  final pagedChanges = <_Changes>[];
+  final commits = <_Commit>[];
   for (var i = 0; i < 3; i++) {
-    final changes = await _loadChanges(token, after);
-    pagedChanges.add(changes);
+    final changes = await _loadChanges(token, owner, repository, after);
+    commits.addAll(changes.commits.where((commit) => !_ignore(commit)));
     after = changes.endCursor;
   }
 
+  commits.sort((a, b) => _score(b).compareTo(_score(a)));
+
   var output = File('README.md').openWrite();
   output.writeln('# Changelog');
-  _writeChanges(output, pagedChanges);
+  _writeChanges(output, repository, commits);
   await output.flush();
   output.close();
 }
 
 Future<_Changes> _loadChanges(
   String? token,
+  String owner,
+  String repository,
   String? after
 ) async {
   final uri = Uri.parse('https://api.github.com/graphql');
   final body = json.encode({
     'query': _query,
     'variables': {
-      'owner': 'flutter',
-      'repository': 'flutter',
+      'owner': owner,
+      'repository': repository,
       'after': after,
     },
   });
@@ -63,52 +69,66 @@ Future<_Changes> _loadChanges(
   throw 'Failed to load changes in 3 attempts.';
 }
 
-void _writeChanges(IOSink output, List<_Changes> pagedChanges) {
-  var commits = 0;
-  for (final changes in pagedChanges) {
-    for (final commit in changes.commits) {
-      if (!_ignore(commit)) commits++;
-    }
-  }
-
-  output.writeln('## ${pagedChanges.first.repository}');
+void _writeChanges(
+  IOSink output,
+  String repository,
+  List<_Commit> commits
+) {
+  output.writeln('## $repository');
   output.writeln();
 
-  output.writeln('$commits commits.');
+  output.writeln('${commits.length} commits.');
   output.writeln();
 
   output.writeln('Name | Comments');
   output.writeln('-- | --');
 
-  for (final changes in pagedChanges) {
-    for (var commit in changes.commits) {
-      if (_ignore(commit)) continue;
+  for (var commit in commits) {
+    final pullRequest = commit.pullRequest;
+    final issue = pullRequest.issue;
 
-      final pullRequest = commit.pullRequest;
-      final issue = pullRequest.issue;
+    final commitedAt = DateFormat.yMMMMd().format(commit.commitDate);
+    final labels = (issue?.labels ?? <String, Uri>{})
+      .entries
+      .map((e) => '[${e.key}](${e.value})')
+      .join(', ');
 
-      final commitedAt = DateFormat.yMMMMd().format(commit.commitDate);
-      final labels = (issue?.labels ?? <String, Uri>{})
-        .entries
-        .map((e) => '[${e.key}](${e.value})')
-        .join(', ');
+    output.writeln(
+      '[${pullRequest.title}](${pullRequest.url})'
+      '<br />'
+      '<sub>'
+        '$labels'
+        '${labels.isNotEmpty ? '<br />' : ''}'
+        '[#${pullRequest.number}](${pullRequest.url}) merged on $commitedAt '
+        'by [${pullRequest.authorName ?? pullRequest.authorLogin}](${pullRequest.authorUrl})'
+      '</sub>'
 
-      output.writeln(
-        '[${pullRequest.title}](${pullRequest.url})'
-        '<br />'
-        '<sub>'
-          '$labels'
-          '${labels.isNotEmpty ? '<br />' : ''}'
-          '[#${pullRequest.number}](${pullRequest.url}) merged on $commitedAt '
-          'by [${pullRequest.authorName ?? pullRequest.authorLogin}](${pullRequest.authorUrl})'
-        '</sub>'
+      ' | '
 
-        ' | '
-
-        '💬 [${pullRequest.comments}](${pullRequest.url})'
-      );
-    }
+      '💬 [${pullRequest.comments}](${pullRequest.url})'
+    );
   }
+}
+
+int _score(_Commit commit) {
+  final pr = commit.pullRequest;
+  final issue = pr.issue;
+
+  var score = 0;
+
+  score += pr.reactions * 5;
+
+  if (pr.comments > 10) score += 10;
+  if (pr.additions > 300 || pr.deletions > 300) score += 10;
+
+  if (issue != null) {
+    if (issue.labels.containsKey('P0')) score += 10;
+    if (issue.labels.containsKey('P1')) score += 10;
+    if (issue.labels.containsKey('P2')) score += 10;
+    if (issue.labels.containsKey('P3')) score += 5;
+  }
+
+  return score;
 }
 
 bool _ignore(_Commit commit) {
