@@ -108,7 +108,7 @@ Name | Comments
 
 ## flutter/packages
 
-16 commits.
+17 commits.
 
 Name | Comments
 -- | --
@@ -120,6 +120,7 @@ Name | Comments
 [[pigeon] Eliminate some of the test pigeons](https://github.com/flutter/packages/pull/3213)<br /><sub>[#3213](https://github.com/flutter/packages/pull/3213) merged on February 16, 2023 by [stuartmorgan](https://github.com/stuartmorgan)</sub> | 💬 [6](https://github.com/flutter/packages/pull/3213)
 [[extension_gsi] Update extension to support gsi 5 and 6.](https://github.com/flutter/packages/pull/3235)<br /><sub>[#3235](https://github.com/flutter/packages/pull/3235) merged on February 23, 2023 by [David Iglesias](https://github.com/ditman)</sub> | 💬 [3](https://github.com/flutter/packages/pull/3235)
 [[go_router] Fix deprecation message for GoRouterState.namedLocation](https://github.com/flutter/packages/pull/3092)<br /><sub>[#3092](https://github.com/flutter/packages/pull/3092) merged on February 17, 2023 by [Jørgen Tjernø](https://github.com/jorgenpt)</sub> | 💬 [13](https://github.com/flutter/packages/pull/3092)
+[[flutter_migrate] Skip slow tests](https://github.com/flutter/packages/pull/3270)<br /><sub>[#3270](https://github.com/flutter/packages/pull/3270) merged on February 23, 2023 by [stuartmorgan](https://github.com/stuartmorgan)</sub> | 💬 [2](https://github.com/flutter/packages/pull/3270)
 [Update .gitignore with missing values from flutter/plugins](https://github.com/flutter/packages/pull/3265)<br /><sub>[#3265](https://github.com/flutter/packages/pull/3265) merged on February 23, 2023 by [Maurice Parrish](https://github.com/bparrishMines)</sub> | 💬 [2](https://github.com/flutter/packages/pull/3265)
 [[ci] Re-enable pathified unit tests](https://github.com/flutter/packages/pull/3268)<br /><sub>[#3268](https://github.com/flutter/packages/pull/3268) merged on February 23, 2023 by [stuartmorgan](https://github.com/stuartmorgan)</sub> | 💬 [3](https://github.com/flutter/packages/pull/3268)
 [Merge in plugin README and CONTRIBUTING](https://github.com/flutter/packages/pull/3252)<br /><sub>[#3252](https://github.com/flutter/packages/pull/3252) merged on February 22, 2023 by [stuartmorgan](https://github.com/stuartmorgan)</sub> | 💬 [1](https://github.com/flutter/packages/pull/3252)
