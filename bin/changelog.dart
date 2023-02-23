@@ -12,17 +12,27 @@ void main(List<String> arguments) async {
 
   for (final repository in ['flutter', 'engine', 'packages']) {
     String? after;
+    final seen = <int>{};
     final commits = <Commit>[];
     for (var i = 0; i < 10; i++) {
+      var done = false;
       final changes = await loadChanges(token, owner, repository, after);
-      commits.addAll(changes.commits.where((commit) => !_ignore(commit)));
-      after = changes.endCursor;
 
-      final done = changes.commits.any((commit) {
+      for (final commit in changes.commits) {
         final ago = DateTime.now().difference(commit.commitDate);
-        return ago.inDays > 7;
-      });
+        if (ago.inDays >= 7) {
+          done = true;
+          continue;
+        }
 
+        if (_ignore(commit)) continue;
+        if (seen.contains(commit.pullRequest.number)) continue;
+
+        seen.add(commit.pullRequest.number);
+        commits.add(commit);
+      }
+
+      after = changes.endCursor;
       if (done) break;
     }
 
