@@ -6,17 +6,18 @@ import 'package:intl/intl.dart' show DateFormat;
 
 void main(List<String> arguments) async {
   String? token = 'ghp_ABCD1234';
-  String? after = null;
+  String? after;
 
-  final changes = await _loadChanges(token, after);
-
-  for (final commit in changes.commits) {
-    print('${commit.pullRequest.title} by ${commit.pullRequest.authorLogin}');
+  final pagedChanges = <_Changes>[];
+  for (var i = 0; i < 3; i++) {
+    final changes = await _loadChanges(token, after);
+    pagedChanges.add(changes);
+    after = changes.endCursor;
   }
 
   var output = File('README.md').openWrite();
   output.writeln('# Changelog');
-  _writeChanges(output, changes);
+  _writeChanges(output, pagedChanges);
   await output.flush();
   output.close();
 }
@@ -41,10 +42,16 @@ Future<_Changes> _loadChanges(
   };
 
   for (var attempt = 0; attempt < 3; attempt++) {
+    stdout.write('POST $uri...');
+    await stdout.flush();
+
+    final timer = Stopwatch()..start();
     final response = await http.post(uri, body: body, headers: headers);
 
+    stdout.writeln(' ${response.statusCode} (${timer.elapsed.inMilliseconds}ms)');
+
     if (response.statusCode != 200) {
-      print('Response ${response.statusCode}. Attempt ${attempt + 1}/3...');
+      print('Attempt ${attempt + 1}/3...');
       await Future.delayed(Duration(seconds: 3));
       continue;
     }
@@ -56,40 +63,47 @@ Future<_Changes> _loadChanges(
   throw 'Failed to load changes in 3 attempts.';
 }
 
-void _writeChanges(IOSink output, _Changes changes) {
-  output.writeln('## ${changes.repository}');
+void _writeChanges(IOSink output, List<_Changes> pagedChanges) {
+  var commits = 0;
+  for (final changes in pagedChanges) {
+    commits += changes.commits.length;
+  }
+
+  output.writeln('## ${pagedChanges.first.repository}');
   output.writeln();
 
-  output.writeln('${changes.commits.length} commits.');
+  output.writeln('$commits commits.');
   output.writeln();
 
   output.writeln('Name | Comments');
   output.writeln('-- | --');
 
-  for (var commit in changes.commits) {
-    final pullRequest = commit.pullRequest;
-    final issue = pullRequest.issue;
+  for (final changes in pagedChanges) {
+    for (var commit in changes.commits) {
+      final pullRequest = commit.pullRequest;
+      final issue = pullRequest.issue;
 
-    final commitedAt = DateFormat.yMMMMd().format(commit.commitDate);
-    final labels = (issue?.labels ?? <String, Uri>{})
-      .entries
-      .map((e) => '[${e.key}](${e.value})')
-      .join(', ');
+      final commitedAt = DateFormat.yMMMMd().format(commit.commitDate);
+      final labels = (issue?.labels ?? <String, Uri>{})
+        .entries
+        .map((e) => '[${e.key}](${e.value})')
+        .join(', ');
 
-    output.writeln(
-      '[${pullRequest.title}](${pullRequest.url})'
-      '<br />'
-      '<sub>'
-        '$labels'
-        '${labels.isNotEmpty ? '<br />' : ''}'
-        '[#${pullRequest.number}](${pullRequest.url}) merged on $commitedAt '
-        'by [${pullRequest.authorName ?? pullRequest.authorLogin}](${pullRequest.authorUrl})'
-      '</sub>'
+      output.writeln(
+        '[${pullRequest.title}](${pullRequest.url})'
+        '<br />'
+        '<sub>'
+          '$labels'
+          '${labels.isNotEmpty ? '<br />' : ''}'
+          '[#${pullRequest.number}](${pullRequest.url}) merged on $commitedAt '
+          'by [${pullRequest.authorName ?? pullRequest.authorLogin}](${pullRequest.authorUrl})'
+        '</sub>'
 
-      ' | '
+        ' | '
 
-      '💬 [${pullRequest.comments}](${pullRequest.url})'
-    );
+        '💬 [${pullRequest.comments}](${pullRequest.url})'
+      );
+    }
   }
 }
 
