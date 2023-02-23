@@ -99,7 +99,7 @@ int _score(Commit commit) {
     pr.authorOrganizations.contains('google') ||
     pr.authorOrganizations.contains('googlers');
 
-  if (team) score += 10;
+  if (team) score += 2;
 
   if (issue != null) {
     if (issue.labels.containsKey('P0')) score += 10;
