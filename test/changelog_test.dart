@@ -1,4 +1,4 @@
-import 'package:changelog/changelog.dart';
+import 'package:changelog/github.dart';
 import 'package:test/test.dart';
 
 void main() {
