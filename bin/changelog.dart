@@ -4,7 +4,7 @@ import 'package:changelog/github.dart';
 import 'package:intl/intl.dart' show DateFormat;
 
 void main(List<String> arguments) async {
-  String? token = 'ghp_ABCD1234';
+  String? token = Platform.environment['GITHUB_TOKEN'];
   String owner = 'flutter';
 
   var output = File('README.md').openWrite();
