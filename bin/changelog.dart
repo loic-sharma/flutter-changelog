@@ -90,8 +90,15 @@ int _score(Commit commit) {
   score += pr.reactions * 5;
   score += issue?.reactions ?? 0 * 5;
 
-  if (pr.comments > 10) score += 10;
+  if (pr.comments > 10) score += 5;
+  if (pr.comments > 20) score += 5;
+  if (pr.comments > 40) score += 5;
   if (pr.additions > 300 || pr.deletions > 300) score += 10;
+
+  if (pr.authorOrganizations.contains('flutter')) score += 10;
+
+  if (pr.authorOrganizations.contains('google') ||
+    pr.authorOrganizations.contains('googlers')) score += 10;
 
   if (issue != null) {
     if (issue.labels.containsKey('P0')) score += 10;

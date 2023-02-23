@@ -218,7 +218,7 @@ class PullRequest {
       authorUrl: author['url'] as String,
       authorOrganizations: [
         for (final organization in organizations['nodes'] as List<dynamic>)
-          organization['name'] as String,
+          (organization['name'] as String).toLowerCase(),
       ],
       issue: issues.isNotEmpty
         ? Issue.fromJson(issues[0] as Map<String, dynamic>)
