@@ -107,12 +107,13 @@ Name | Comments
 
 ## flutter/packages
 
-17 commits.
+18 commits.
 
 Name | Comments
 -- | --
 [Merge flutter/plugins](https://github.com/flutter/packages/pull/3233)<br /><sub>[#3233](https://github.com/flutter/packages/pull/3233) merged on February 22, 2023 by [stuartmorgan](https://github.com/stuartmorgan)</sub> | 💬 [10](https://github.com/flutter/packages/pull/3233)
 [[go_router]: implemented helpers for ShellRoute](https://github.com/flutter/packages/pull/2730)<br /><sub>[#2730](https://github.com/flutter/packages/pull/2730) merged on February 23, 2023 by [Michael Lazebnyi](https://github.com/hawkkiller)</sub> | 💬 [37](https://github.com/flutter/packages/pull/2730)
+[[go_router_builder] Add support for Iterable, List  and Set to TypedGoRoute](https://github.com/flutter/packages/pull/2679)<br /><sub>[#2679](https://github.com/flutter/packages/pull/2679) merged on February 23, 2023 by [Mirko Mucaria](https://github.com/Skogsfrae)</sub> | 💬 [13](https://github.com/flutter/packages/pull/2679)
 [[various] Update flutter/plugins links](https://github.com/flutter/packages/pull/3256)<br /><sub>[#3256](https://github.com/flutter/packages/pull/3256) merged on February 22, 2023 by [stuartmorgan](https://github.com/stuartmorgan)</sub> | 💬 [5](https://github.com/flutter/packages/pull/3256)
 [[go_router_builder] Generate replace method in RouteExtension](https://github.com/flutter/packages/pull/2838)<br /><sub>[#2838](https://github.com/flutter/packages/pull/2838) merged on February 21, 2023 by [Mijael Viricochea](https://github.com/omensight)</sub> | 💬 [23](https://github.com/flutter/packages/pull/2838)
 [[extension_gsi] Update extension to support gsi 5 and 6.](https://github.com/flutter/packages/pull/3235)<br /><sub>[#3235](https://github.com/flutter/packages/pull/3235) merged on February 23, 2023 by [David Iglesias](https://github.com/ditman)</sub> | 💬 [3](https://github.com/flutter/packages/pull/3235)
