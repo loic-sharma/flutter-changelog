@@ -28,7 +28,7 @@ Future<_Changes> _loadChanges(
 ) async {
   final uri = Uri.parse('https://api.github.com/graphql');
   final body = json.encode({
-    'query': _buildQuery(),
+    'query': _query,
     'variables': {
       'owner': 'flutter',
       'repository': 'flutter',
@@ -66,7 +66,9 @@ Future<_Changes> _loadChanges(
 void _writeChanges(IOSink output, List<_Changes> pagedChanges) {
   var commits = 0;
   for (final changes in pagedChanges) {
-    commits += changes.commits.length;
+    for (final commit in changes.commits) {
+      if (!_ignore(commit)) commits++;
+    }
   }
 
   output.writeln('## ${pagedChanges.first.repository}');
@@ -80,6 +82,8 @@ void _writeChanges(IOSink output, List<_Changes> pagedChanges) {
 
   for (final changes in pagedChanges) {
     for (var commit in changes.commits) {
+      if (_ignore(commit)) continue;
+
       final pullRequest = commit.pullRequest;
       final issue = pullRequest.issue;
 
@@ -107,8 +111,16 @@ void _writeChanges(IOSink output, List<_Changes> pagedChanges) {
   }
 }
 
-String _buildQuery() {
-  return
+bool _ignore(_Commit commit) {
+  if (commit.pullRequest.authorLogin == 'engine-flutter-autoroll' &&
+      commit.pullRequest.title.startsWith('Roll Flutter Engine from')) {
+    return true;
+  }
+
+  return false;
+}
+
+const _query =
 'query LatestChanges(\$owner: String!, \$repository: String!, \$after: String) {'
 '  repository(owner: \$owner, name: \$repository) {'
 '    nameWithOwner'
@@ -172,7 +184,6 @@ String _buildQuery() {
 '    }'
 '  }'
 '}';
-}
 
 class _Changes {
   _Changes({
