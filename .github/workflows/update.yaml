@@ -18,7 +18,7 @@ jobs:
       - name: Install dependencies
         run: dart pub get
 
-      - name: Generate dashboards
+      - name: Generate CHANGELOG
         run: dart run
         env:
           GITHUB_TOKEN: ${{ github.token }}
