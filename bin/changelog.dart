@@ -14,7 +14,7 @@ void main(List<String> arguments) async {
     print('${commit.pullRequest.title} by ${commit.pullRequest.authorLogin}');
   }
 
-  var output = File('CHANGELOG.md').openWrite();
+  var output = File('README.md').openWrite();
   output.writeln('# Changelog');
   _writeChanges(output, changes);
   await output.flush();
@@ -26,7 +26,14 @@ Future<_Changes> _loadChanges(
   String? after
 ) async {
   final uri = Uri.parse('https://api.github.com/graphql');
-  final body = json.encode({'query': _buildQuery()});
+  final body = json.encode({
+    'query': _buildQuery(),
+    'variables': {
+      'owner': 'flutter',
+      'repository': 'flutter',
+      'after': after,
+    },
+  });
   final headers = <String, String>{
     'Accept': 'application/vnd.github+json',
     'X-Request-Type': 'GraphQL',
@@ -88,13 +95,13 @@ void _writeChanges(IOSink output, _Changes changes) {
 
 String _buildQuery() {
   return
-'query LatestChanges {'
-'  repository(owner: "flutter", name: "flutter") {'
+'query LatestChanges(\$owner: String!, \$repository: String!, \$after: String) {'
+'  repository(owner: \$owner, name: \$repository) {'
 '    nameWithOwner'
 '    defaultBranchRef {'
 '      target {'
 '        ... on Commit {'
-'          history(first: 10 after: "71c45709329e4e71f2a11e06bdbf03b8e3ae5eae 9") {'
+'          history(first: 20 after: \$after) {'
 '            pageInfo {'
 '              endCursor'
 '            }'
