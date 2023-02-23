@@ -52,6 +52,9 @@ query LatestChanges($owner: String!, $repository: String!, $after: String) {
                               url
                             }
                           }
+                          reactions {
+                            totalCount
+                          }
                         }
                       }
                       reactions {

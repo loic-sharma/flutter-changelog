@@ -78,6 +78,7 @@ int _score(Commit commit) {
   var score = 0;
 
   score += pr.reactions * 5;
+  score += issue?.reactions ?? 0 * 5;
 
   if (pr.comments > 10) score += 10;
   if (pr.additions > 300 || pr.deletions > 300) score += 10;

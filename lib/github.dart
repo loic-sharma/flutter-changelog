@@ -94,6 +94,9 @@ const _query =
 '                              url'
 '                            }'
 '                          }'
+'                          reactions {'
+'                            totalCount'
+'                          }'
 '                        }'
 '                      }'
 '                      reactions {'
@@ -229,12 +232,14 @@ class Issue {
     required this.url,
     required this.title,
     required this.labels,
+    required this.reactions,
   });
 
   final Uri url;
   final String title;
   // Label to label URL
   final Map<String, Uri> labels;
+  final int reactions;
 
   factory Issue.fromJson(Map<String, dynamic> json) {
     final labels = json['labels']['nodes'] as List<dynamic>;
@@ -246,6 +251,7 @@ class Issue {
         for (final label in labels.cast<Map<String, dynamic>>())
           label['name'] as String: Uri.parse(label['url'] as String),
       },
+      reactions: json['reactions']['totalCount'] as int,
     );
   }
 }
