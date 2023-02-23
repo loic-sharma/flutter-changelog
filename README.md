@@ -107,7 +107,7 @@ Name | Comments
 
 ## flutter/packages
 
-18 commits.
+17 commits.
 
 Name | Comments
 -- | --
@@ -115,7 +115,6 @@ Name | Comments
 [[go_router]: implemented helpers for ShellRoute](https://github.com/flutter/packages/pull/2730)<br /><sub>[#2730](https://github.com/flutter/packages/pull/2730) merged on February 23, 2023 by [Michael Lazebnyi](https://github.com/hawkkiller)</sub> | 💬 [37](https://github.com/flutter/packages/pull/2730)
 [[various] Update flutter/plugins links](https://github.com/flutter/packages/pull/3256)<br /><sub>[#3256](https://github.com/flutter/packages/pull/3256) merged on February 22, 2023 by [stuartmorgan](https://github.com/stuartmorgan)</sub> | 💬 [5](https://github.com/flutter/packages/pull/3256)
 [[go_router_builder] Generate replace method in RouteExtension](https://github.com/flutter/packages/pull/2838)<br /><sub>[#2838](https://github.com/flutter/packages/pull/2838) merged on February 21, 2023 by [Mijael Viricochea](https://github.com/omensight)</sub> | 💬 [23](https://github.com/flutter/packages/pull/2838)
-[[pigeon] Eliminate some of the test pigeons](https://github.com/flutter/packages/pull/3213)<br /><sub>[#3213](https://github.com/flutter/packages/pull/3213) merged on February 16, 2023 by [stuartmorgan](https://github.com/stuartmorgan)</sub> | 💬 [6](https://github.com/flutter/packages/pull/3213)
 [[extension_gsi] Update extension to support gsi 5 and 6.](https://github.com/flutter/packages/pull/3235)<br /><sub>[#3235](https://github.com/flutter/packages/pull/3235) merged on February 23, 2023 by [David Iglesias](https://github.com/ditman)</sub> | 💬 [3](https://github.com/flutter/packages/pull/3235)
 [[go_router] Fix deprecation message for GoRouterState.namedLocation](https://github.com/flutter/packages/pull/3092)<br /><sub>[#3092](https://github.com/flutter/packages/pull/3092) merged on February 17, 2023 by [Jørgen Tjernø](https://github.com/jorgenpt)</sub> | 💬 [13](https://github.com/flutter/packages/pull/3092)
 [Export super types in route_data.dart library](https://github.com/flutter/packages/pull/3286)<br /><sub>[#3286](https://github.com/flutter/packages/pull/3286) merged on February 23, 2023 by [John Ryan](https://github.com/johnpryan)</sub> | 💬 [2](https://github.com/flutter/packages/pull/3286)
