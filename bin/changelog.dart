@@ -95,10 +95,11 @@ int _score(Commit commit) {
   if (pr.comments > 40) score += 5;
   if (pr.additions > 300 || pr.deletions > 300) score += 10;
 
-  if (pr.authorOrganizations.contains('flutter')) score += 10;
+  bool team =  pr.authorOrganizations.contains('flutter') ||
+    pr.authorOrganizations.contains('google') ||
+    pr.authorOrganizations.contains('googlers');
 
-  if (pr.authorOrganizations.contains('google') ||
-    pr.authorOrganizations.contains('googlers')) score += 10;
+  if (team) score += 10;
 
   if (issue != null) {
     if (issue.labels.containsKey('P0')) score += 10;
