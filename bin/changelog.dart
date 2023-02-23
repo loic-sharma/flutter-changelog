@@ -113,6 +113,11 @@ int _score(Commit commit) {
 
 bool _ignore(Commit commit) {
   final pr = commit.pullRequest;
+
+  if (pr.authorLogin == 'fluttergithubbot') {
+    if (pr.title.startsWith('Roll pub packages')) return true;
+  }
+
   if (pr.authorLogin == 'engine-flutter-autoroll') {
     if (pr.title.startsWith('Roll Flutter Engine from')) return true;
     if (pr.title.startsWith('Roll Flutter from')) return true;
