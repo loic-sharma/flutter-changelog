@@ -47,72 +47,74 @@ Future<Changes> loadChanges(
 }
 
 const _query =
-'query LatestChanges(\$owner: String!, \$repository: String!, \$after: String) {'
-'  repository(owner: \$owner, name: \$repository) {'
-'    nameWithOwner'
-'    defaultBranchRef {'
-'      target {'
-'        ... on Commit {'
-'          history(first: 20 after: \$after) {'
-'            pageInfo {'
-'              endCursor'
-'            }'
-'            edges {'
-'              node {'
-'                ... on Commit {'
-'                  abbreviatedOid'
-'                  committedDate'
-'                  url'
-'                  associatedPullRequests(first: 1) {'
-'                    nodes {'
-'                      number'
-'                      url'
-'                      title'
-'                      additions'
-'                      changedFiles'
-'                      deletions'
-'                      totalCommentsCount'
-'                      author {'
-'                        login'
-'                        url'
-'                        ... on User {'
-'                          name'
-'                          organizations(first: 3) {'
-'                            nodes {'
-'                              name'
-'                            }'
-'                          }'
-'                        }'
-'                      }'
-'                      closingIssuesReferences(first: 1) {'
-'                        nodes {'
-'                          url'
-'                          title'
-'                          labels(first: 5) {'
-'                            nodes {'
-'                              name'
-'                              url'
-'                            }'
-'                          }'
-'                          reactions {'
-'                            totalCount'
-'                          }'
-'                        }'
-'                      }'
-'                      reactions {'
-'                        totalCount'
-'                      }'
-'                    }'
-'                  }'
-'                }'
-'              }'
-'            }'
-'          }'
-'        }'
-'      }'
-'    }'
-'  }'
-'}';
+'''
+query LatestChanges(\$owner: String!, \$repository: String!, \$after: String) {
+  repository(owner: \$owner, name: \$repository) {
+    nameWithOwner
+    defaultBranchRef {
+      target {
+        ... on Commit {
+          history(first: 20 after: \$after) {
+            pageInfo {
+              endCursor
+            }
+            edges {
+              node {
+                ... on Commit {
+                  abbreviatedOid
+                  committedDate
+                  url
+                  associatedPullRequests(first: 1) {
+                    nodes {
+                      number
+                      url
+                      title
+                      additions
+                      changedFiles
+                      deletions
+                      totalCommentsCount
+                      author {
+                        login
+                        url
+                        ... on User {
+                          name
+                          organizations(first: 3) {
+                            nodes {
+                              name
+                            }
+                          }
+                        }
+                      }
+                      closingIssuesReferences(first: 1) {
+                        nodes {
+                          url
+                          title
+                          labels(first: 5) {
+                            nodes {
+                              name
+                              url
+                            }
+                          }
+                          reactions {
+                            totalCount
+                          }
+                        }
+                      }
+                      reactions {
+                        totalCount
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+''';
 
 class Changes {
   Changes({
