@@ -102,6 +102,17 @@ query LatestChanges(\$owner: String!, \$repository: String!, \$after: String) {
                           }
                         }
                       }
+                      latestReviews(first: 5) {
+                        nodes {
+                          author {
+                            login
+                            url
+                            ... on User {
+                              name
+                            }
+                          }
+                        }
+                      }
                       reactions {
                         totalCount
                       }
@@ -185,6 +196,7 @@ class PullRequest {
     required this.authorName,
     required this.authorUrl,
     required this.authorOrganizations,
+    required this.reviews,
     required this.issue,
   });
 
@@ -205,12 +217,15 @@ class PullRequest {
   final String authorUrl;
   final List<String> authorOrganizations;
 
+  final List<Review> reviews;
+
   final Issue? issue;
 
   factory PullRequest.fromJson(Map<String, dynamic> json) {
     final author = json['author'] as Map<String, dynamic>;
     final organizations = author['organizations'] as Map<String, dynamic>;
     final issues = json['closingIssuesReferences']['nodes'] as List<dynamic>;
+    final reviews = json['latestReviews']['nodes'] as List<dynamic>;
 
     return PullRequest(
       number: json['number'] as int,
@@ -229,6 +244,10 @@ class PullRequest {
       authorOrganizations: [
         for (final organization in organizations['nodes'] as List<dynamic>)
           (organization['name'] as String).toLowerCase(),
+      ],
+      reviews: [
+        for (Map<String, dynamic> review in reviews)
+          Review.fromJson(review),
       ],
       issue: issues.isNotEmpty
         ? Issue.fromJson(issues[0] as Map<String, dynamic>)
@@ -263,5 +282,24 @@ class Issue {
       },
       reactions: json['reactions']['totalCount'] as int,
     );
+  }
+}
+
+class Review {
+  Review({
+    required this.reviewerLogin,
+    required this.reviewerName,
+    required this.reviewerUrl,
+  });
+
+  final String reviewerLogin;
+  final String? reviewerName;
+  final Uri reviewerUrl;
+
+  factory Review.fromJson(Map<String, dynamic> json) {
+    return Review(
+      reviewerLogin: json['author']['login'] as String,
+      reviewerName: json['author']['name'] as String?,
+      reviewerUrl: Uri.parse(json['author']['url'] as String));
   }
 }

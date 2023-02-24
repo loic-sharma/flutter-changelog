@@ -11,11 +11,11 @@ void main(List<String> arguments) async {
   output.writeln('# Flutter changelog');
 
   for (final repository in ['flutter', 'engine', 'packages']) {
+    var done = false;
     String? after;
     final seen = <int>{};
     final commits = <Commit>[];
-    for (var i = 0; i < 10; i++) {
-      var done = false;
+    while (!done) {
       final changes = await loadChanges(token, owner, repository, after);
 
       for (final commit in changes.commits) {
@@ -33,7 +33,6 @@ void main(List<String> arguments) async {
       }
 
       after = changes.endCursor;
-      if (done) break;
     }
 
     commits.sort((a, b) => _score(b).compareTo(_score(a)));
@@ -57,13 +56,17 @@ void _writeChanges(
   output.writeln('${commits.length} commits.');
   output.writeln();
 
-  output.writeln('Name | Time in review | Comments');
-  output.writeln('-- | -- | --');
+  output.writeln('Name | Reviewers | Time in review | Comments');
+  output.writeln('-- | -- | -- | --');
 
   for (var commit in commits) {
     final pullRequest = commit.pullRequest;
     final commitedAt = DateFormat.yMMMMd().format(commit.commitDate);
     final reviewDuration = commit.commitDate.difference(pullRequest.createdAt);
+
+    final reviewers = pullRequest.reviews
+        .map((r) => '[`${r.reviewerName ?? r.reviewerLogin}`](${r.reviewerUrl})')
+        .join('<br />');
 
     output.writeln(
       '[${pullRequest.title}](${pullRequest.url})'
@@ -73,7 +76,7 @@ void _writeChanges(
         'by [${pullRequest.authorName ?? pullRequest.authorLogin}](${pullRequest.authorUrl})'
       '</sub>'
 
-      ' | '
+      ' | $reviewers | '
 
       '${_humanizeDuration(reviewDuration)}'
 
