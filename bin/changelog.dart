@@ -65,7 +65,7 @@ void _writeChanges(
     final reviewDuration = commit.commitDate.difference(pullRequest.createdAt);
 
     final reviewers = pullRequest.reviews
-        .map((r) => '[`${r.reviewerName ?? r.reviewerLogin}`](${r.reviewerUrl})')
+        .map((r) => '[${r.reviewerName ?? r.reviewerLogin}](${r.reviewerUrl})')
         .join('<br />');
 
     output.writeln(
