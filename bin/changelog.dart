@@ -81,6 +81,7 @@ void _writeChanges(
   output.writeln();
 }
 
+final _imgMdRegex = RegExp(r'\!\[.*\]\(.+\)');
 int _score(Commit commit) {
   final pr = commit.pullRequest;
   final issue = pr.issue;
@@ -94,6 +95,8 @@ int _score(Commit commit) {
   if (pr.comments > 20) score += 5;
   if (pr.comments > 40) score += 5;
   if (pr.additions > 300 || pr.deletions > 300) score += 10;
+
+  if (_imgMdRegex.hasMatch(pr.body)) score += 20;
 
   bool team =  pr.authorOrganizations.contains('flutter') ||
     pr.authorOrganizations.contains('google') ||
