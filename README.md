@@ -104,7 +104,7 @@ Name | Reviewers | Time in review | Comments
 
 ## flutter/packages
 
-17 commits.
+16 commits.
 
 Name | Reviewers | Time in review | Comments
 -- | -- | -- | --
@@ -124,5 +124,4 @@ Name | Reviewers | Time in review | Comments
 [Merge in plugin README and CONTRIBUTING](https://github.com/flutter/packages/pull/3252)<br /><sub>[#3252](https://github.com/flutter/packages/pull/3252) merged on February 22, 2023 by [stuartmorgan](https://github.com/stuartmorgan)</sub> | [Maurice Parrish](https://github.com/bparrishMines) | 18 hours | 💬 [1](https://github.com/flutter/packages/pull/3252)
 [[go_router] Disable logging in tests](https://github.com/flutter/packages/pull/3263)<br /><sub>[#3263](https://github.com/flutter/packages/pull/3263) merged on February 22, 2023 by [John Ryan](https://github.com/johnpryan)</sub> | [chunhtai](https://github.com/chunhtai) | 1 hour | 💬 [8](https://github.com/flutter/packages/pull/3263)
 [[tool] Allow importing packages with NEXT](https://github.com/flutter/packages/pull/3215)<br /><sub>[#3215](https://github.com/flutter/packages/pull/3215) merged on February 18, 2023 by [stuartmorgan](https://github.com/stuartmorgan)</sub> | [Tarrin Neal](https://github.com/tarrinneal) | 2 days | 💬 [2](https://github.com/flutter/packages/pull/3215)
-[[go_router] Bump example `compileSdkVersion` and `package_info_plus` dependency version](https://github.com/flutter/packages/pull/3219)<br /><sub>[#3219](https://github.com/flutter/packages/pull/3219) merged on February 17, 2023 by [Camille Simon](https://github.com/camsim99)</sub> | [stuartmorgan](https://github.com/stuartmorgan)<br />[chunhtai](https://github.com/chunhtai) | 4 hours | 💬 [5](https://github.com/flutter/packages/pull/3219)
 
