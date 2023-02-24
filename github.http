@@ -27,6 +27,7 @@ query LatestChanges($owner: String!, $repository: String!, $after: String) {
                       url
                       title
                       body
+                      createdAt
                       additions
                       changedFiles
                       deletions

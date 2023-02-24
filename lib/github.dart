@@ -70,6 +70,7 @@ query LatestChanges(\$owner: String!, \$repository: String!, \$after: String) {
                       url
                       title
                       body
+                      createdAt
                       additions
                       changedFiles
                       deletions
@@ -174,6 +175,7 @@ class PullRequest {
     required this.url,
     required this.title,
     required this.body,
+    required this.createdAt,
     required this.additions,
     required this.changedFiles,
     required this.comments,
@@ -190,6 +192,7 @@ class PullRequest {
   final Uri url;
   final String title;
   final String body;
+  final DateTime createdAt;
 
   final int additions;
   final int changedFiles;
@@ -214,6 +217,7 @@ class PullRequest {
       url: Uri.parse(json['url'] as String),
       title: json['title'] as String,
       body: json['body'] as String,
+      createdAt: DateTime.parse(json['createdAt'] as String),
       additions: json['additions'] as int,
       changedFiles: json['changedFiles'] as int,
       comments: json['totalCommentsCount'] as int,

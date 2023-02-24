@@ -57,12 +57,13 @@ void _writeChanges(
   output.writeln('${commits.length} commits.');
   output.writeln();
 
-  output.writeln('Name | Comments');
-  output.writeln('-- | --');
+  output.writeln('Name | Time in review | Comments');
+  output.writeln('-- | -- | --');
 
   for (var commit in commits) {
     final pullRequest = commit.pullRequest;
     final commitedAt = DateFormat.yMMMMd().format(commit.commitDate);
+    final reviewDuration = commit.commitDate.difference(pullRequest.createdAt);
 
     output.writeln(
       '[${pullRequest.title}](${pullRequest.url})'
@@ -74,11 +75,28 @@ void _writeChanges(
 
       ' | '
 
+      '${_humanizeDuration(reviewDuration)}'
+
+      ' | '
+
       '💬 [${pullRequest.comments}](${pullRequest.url})'
     );
   }
 
   output.writeln();
+}
+
+String _humanizeDuration(Duration duration) {
+  final months = (duration.inDays / 30).floor();
+  final weeks = (duration.inDays / 7).floor();
+
+  if (months > 0) return '${months} month${months == 1 ? '' : 's'}';
+  if (weeks > 0) return '${weeks} week${weeks == 1 ? '' : 's'}';
+  if (duration.inDays > 0) return '${duration.inDays} day${duration.inDays == 1 ? '' : 's'}';
+  if (duration.inHours > 0) return '${duration.inHours} hour${duration.inHours == 1 ? '' : 's'}';
+  if (duration.inMinutes > 0) return '${duration.inMinutes} minute${duration.inMinutes == 1 ? '' : 's'}';
+
+  return '${duration.inSeconds} second${duration.inSeconds == 1 ? '' : 's'}';
 }
 
 final _imgMdRegex = RegExp(r'\!\[.*\]\(.+\)');
@@ -95,6 +113,9 @@ int _score(Commit commit) {
   if (pr.comments > 20) score += 5;
   if (pr.comments > 40) score += 5;
   if (pr.additions > 300 || pr.deletions > 300) score += 10;
+
+  final reviewDuration = commit.commitDate.difference(pr.createdAt);
+  if (reviewDuration.inDays > 14) score += 5;
 
   if (_imgMdRegex.hasMatch(pr.body)) score += 20;
 
