@@ -102,7 +102,7 @@ Name | Reviewers | Time in review | Comments
 
 ## flutter/packages
 
-15 commits.
+16 commits.
 
 Name | Reviewers | Time in review | Comments
 -- | -- | -- | --
@@ -111,6 +111,7 @@ Name | Reviewers | Time in review | Comments
 [[go_router_builder] Add support for Iterable, List  and Set to TypedGoRoute](https://github.com/flutter/packages/pull/2679)<br /><sub>[#2679](https://github.com/flutter/packages/pull/2679) merged on February 23, 2023 by [Mirko Mucaria](https://github.com/Skogsfrae)</sub> | [chunhtai](https://github.com/chunhtai)<br />[hangyu](https://github.com/hangyujin) | 4 months | 💬 [13](https://github.com/flutter/packages/pull/2679)
 [[go_router_builder] Generate replace method in RouteExtension](https://github.com/flutter/packages/pull/2838)<br /><sub>[#2838](https://github.com/flutter/packages/pull/2838) merged on February 21, 2023 by [Mijael Viricochea](https://github.com/omensight)</sub> | [chunhtai](https://github.com/chunhtai)<br />[hangyu](https://github.com/hangyujin) | 3 months | 💬 [23](https://github.com/flutter/packages/pull/2838)
 [[various] Update flutter/plugins links](https://github.com/flutter/packages/pull/3256)<br /><sub>[#3256](https://github.com/flutter/packages/pull/3256) merged on February 22, 2023 by [stuartmorgan](https://github.com/stuartmorgan)</sub> | [Chris Bracken](https://github.com/cbracken)<br />[David Iglesias](https://github.com/ditman)<br />[Maurice Parrish](https://github.com/bparrishMines)<br />[hellohuanlin](https://github.com/hellohuanlin) | 3 hours | 💬 [5](https://github.com/flutter/packages/pull/3256)
+[[ci] Fix some web-platform_tests.](https://github.com/flutter/packages/pull/3285)<br /><sub>[#3285](https://github.com/flutter/packages/pull/3285) merged on February 25, 2023 by [David Iglesias](https://github.com/ditman)</sub> | [stuartmorgan](https://github.com/stuartmorgan) | 1 day | 💬 [1](https://github.com/flutter/packages/pull/3285)
 [[extension_gsi] Update extension to support gsi 5 and 6.](https://github.com/flutter/packages/pull/3235)<br /><sub>[#3235](https://github.com/flutter/packages/pull/3235) merged on February 23, 2023 by [David Iglesias](https://github.com/ditman)</sub> | [stuartmorgan](https://github.com/stuartmorgan) | 1 day | 💬 [3](https://github.com/flutter/packages/pull/3235)
 [[go_router] Fix some broken links in doc](https://github.com/flutter/packages/pull/3288)<br /><sub>[#3288](https://github.com/flutter/packages/pull/3288) merged on February 24, 2023 by [dddrop](https://github.com/dddrop)</sub> | [John Ryan](https://github.com/johnpryan)<br />[chunhtai](https://github.com/chunhtai) | 14 hours | 💬 [3](https://github.com/flutter/packages/pull/3288)
 [Export super types in route_data.dart library](https://github.com/flutter/packages/pull/3286)<br /><sub>[#3286](https://github.com/flutter/packages/pull/3286) merged on February 23, 2023 by [John Ryan](https://github.com/johnpryan)</sub> | [chunhtai](https://github.com/chunhtai) | 21 minutes | 💬 [2](https://github.com/flutter/packages/pull/3286)
