@@ -102,7 +102,7 @@ Name | Reviewers | Time in review | Comments
 
 ## flutter/packages
 
-16 commits.
+15 commits.
 
 Name | Reviewers | Time in review | Comments
 -- | -- | -- | --
@@ -121,5 +121,4 @@ Name | Reviewers | Time in review | Comments
 [[ci] Re-enable pathified unit tests](https://github.com/flutter/packages/pull/3268)<br /><sub>[#3268](https://github.com/flutter/packages/pull/3268) merged on February 23, 2023 by [stuartmorgan](https://github.com/stuartmorgan)</sub> | [David Iglesias](https://github.com/ditman) | 6 hours | 💬 [3](https://github.com/flutter/packages/pull/3268)
 [Merge in plugin README and CONTRIBUTING](https://github.com/flutter/packages/pull/3252)<br /><sub>[#3252](https://github.com/flutter/packages/pull/3252) merged on February 22, 2023 by [stuartmorgan](https://github.com/stuartmorgan)</sub> | [Maurice Parrish](https://github.com/bparrishMines) | 18 hours | 💬 [1](https://github.com/flutter/packages/pull/3252)
 [[go_router] Disable logging in tests](https://github.com/flutter/packages/pull/3263)<br /><sub>[#3263](https://github.com/flutter/packages/pull/3263) merged on February 22, 2023 by [John Ryan](https://github.com/johnpryan)</sub> | [chunhtai](https://github.com/chunhtai) | 1 hour | 💬 [8](https://github.com/flutter/packages/pull/3263)
-[[tool] Allow importing packages with NEXT](https://github.com/flutter/packages/pull/3215)<br /><sub>[#3215](https://github.com/flutter/packages/pull/3215) merged on February 18, 2023 by [stuartmorgan](https://github.com/stuartmorgan)</sub> | [Tarrin Neal](https://github.com/tarrinneal) | 2 days | 💬 [2](https://github.com/flutter/packages/pull/3215)
 
