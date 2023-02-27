@@ -117,12 +117,13 @@ Name | Reviewers | Time in review | Comments
 
 ## flutter/packages
 
-18 commits.
+19 commits.
 
 Name | Reviewers | Time in review | Comments
 -- | -- | -- | --
 [[go_router]: implemented helpers for ShellRoute](https://github.com/flutter/packages/pull/2730)<br /><sub>[#2730](https://github.com/flutter/packages/pull/2730) merged on February 23, 2023 by [Michael Lazebnyi](https://github.com/hawkkiller)</sub> | [John Ryan](https://github.com/johnpryan)<br />[Kostadin Damyanov](https://github.com/kostadin-damyanov-prime)<br />[chunhtai](https://github.com/chunhtai) | 4 months | 💬 [37](https://github.com/flutter/packages/pull/2730)
 [Merge flutter/plugins](https://github.com/flutter/packages/pull/3233)<br /><sub>[#3233](https://github.com/flutter/packages/pull/3233) merged on February 22, 2023 by [stuartmorgan](https://github.com/stuartmorgan)</sub> | [David Iglesias](https://github.com/ditman)<br />[Tarrin Neal](https://github.com/tarrinneal) | 7 hours | 💬 [10](https://github.com/flutter/packages/pull/3233)
+[[go_router_builder]Update the way to pass the `extra` param in router_config](https://github.com/flutter/packages/pull/3005)<br /><sub>[#3005](https://github.com/flutter/packages/pull/3005) merged on February 27, 2023 by [hangyu](https://github.com/hangyujin)</sub> | [chunhtai](https://github.com/chunhtai) | 2 months | 💬 [12](https://github.com/flutter/packages/pull/3005)
 [[go_router_builder] Add support for Iterable, List  and Set to TypedGoRoute](https://github.com/flutter/packages/pull/2679)<br /><sub>[#2679](https://github.com/flutter/packages/pull/2679) merged on February 23, 2023 by [Mirko Mucaria](https://github.com/Skogsfrae)</sub> | [chunhtai](https://github.com/chunhtai)<br />[hangyu](https://github.com/hangyujin) | 4 months | 💬 [13](https://github.com/flutter/packages/pull/2679)
 [[tool] Always run publish check](https://github.com/flutter/packages/pull/3279)<br /><sub>[#3279](https://github.com/flutter/packages/pull/3279) merged on February 27, 2023 by [stuartmorgan](https://github.com/stuartmorgan)</sub> | [Greg Spencer](https://github.com/gspencergoog) | 3 days | 💬 [3](https://github.com/flutter/packages/pull/3279)
 [[go_router_builder] Generate replace method in RouteExtension](https://github.com/flutter/packages/pull/2838)<br /><sub>[#2838](https://github.com/flutter/packages/pull/2838) merged on February 21, 2023 by [Mijael Viricochea](https://github.com/omensight)</sub> | [chunhtai](https://github.com/chunhtai)<br />[hangyu](https://github.com/hangyujin) | 3 months | 💬 [23](https://github.com/flutter/packages/pull/2838)
