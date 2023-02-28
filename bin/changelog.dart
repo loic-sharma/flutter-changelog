@@ -77,10 +77,6 @@ void _writeChanges(
       '</sub>'
       ' | '
       '[${pullRequest.authorName ?? pullRequest.authorLogin}](${pullRequest.authorUrl})'
-      '${pullRequest.authorOrganizations.contains('flutter')
-        ? ' <img title="Flutter team member" src="https://storage.googleapis.com/cms-storage-bucket/4fd0db61df0567c0f352.png" width="15" height="15">'
-        : ''
-      }'
       ' | '
       '$reviewers'
       ' | '
