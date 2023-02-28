@@ -83,7 +83,7 @@ void _writeChanges(
       '<div title="'
         '${_pluralize(pullRequest.additions, 'addition')} and '
         '${_pluralize(pullRequest.deletions, 'deletion')} in '
-        '${_pluralize(pullRequest.changedFiles, 'file')} files'
+        '${_pluralize(pullRequest.changedFiles, 'file')}'
       '">'
       '${_size(pullRequest)}'
       '</div>'
