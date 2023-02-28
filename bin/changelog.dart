@@ -56,7 +56,7 @@ void _writeChanges(
   output.writeln('${commits.length} commits.');
   output.writeln();
 
-  output.writeln('Name | Author | Reviewers | Changes');
+  output.writeln('Name | Author | Reviewers | Size');
   output.writeln('-- | -- | -- | --');
 
   for (var commit in commits) {
@@ -80,13 +80,27 @@ void _writeChanges(
       ' | '
       '$reviewers'
       ' | '
-      '${_pluralize(pullRequest.changedFiles, 'file')} <br /> '
-      '${_pluralize(pullRequest.additions, 'addition')} <br />'
-      '${_pluralize(pullRequest.deletions, 'deletion')}'
+      '<div title="'
+        '${_pluralize(pullRequest.additions, 'addition')} and '
+        '${_pluralize(pullRequest.deletions, 'deletion')} in '
+        '${_pluralize(pullRequest.changedFiles, 'file')} files'
+      '">'
+      '${_size(pullRequest)}'
+      '</div>'
     );
   }
 
   output.writeln();
+}
+
+String _size(PullRequest pullRequest) {
+  final changes = pullRequest.additions + pullRequest.deletions;
+
+  if (changes > 1500) return 'XL';
+  if (changes > 500) return 'L';
+  if (changes > 300) return 'M';
+
+  return 'S';
 }
 
 String _pluralize(int count, String word) {
