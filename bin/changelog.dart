@@ -77,6 +77,10 @@ void _writeChanges(
       '</sub>'
       ' | '
       '[${pullRequest.authorName ?? pullRequest.authorLogin}](${pullRequest.authorUrl})'
+      '${pullRequest.authorOrganizations.contains('flutter')
+        ? ' <img title="Flutter team member" src="https://storage.googleapis.com/cms-storage-bucket/4fd0db61df0567c0f352.png" width="15" height="15">'
+        : ''
+      }'
       ' | '
       '$reviewers'
       ' | '
@@ -168,6 +172,7 @@ bool _ignore(Commit commit) {
   }
 
   if (pr.authorLogin == 'engine-flutter-autoroll') {
+    if (pr.title.startsWith('Manual roll Flutter Engine from')) return true;
     if (pr.title.startsWith('Roll Flutter Engine from')) return true;
     if (pr.title.startsWith('Roll Flutter from')) return true;
     if (pr.title.startsWith('Roll Plugins from')) return true;
