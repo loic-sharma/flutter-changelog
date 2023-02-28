@@ -223,7 +223,7 @@ class PullRequest {
 
   factory PullRequest.fromJson(Map<String, dynamic> json) {
     final author = json['author'] as Map<String, dynamic>;
-    final organizations = author['organizations'] as Map<String, dynamic>;
+    final organizations = author['organizations']?['nodes'] as List<dynamic>?;
     final issues = json['closingIssuesReferences']['nodes'] as List<dynamic>;
     final reviews = json['latestReviews']['nodes'] as List<dynamic>;
 
@@ -242,7 +242,7 @@ class PullRequest {
       authorName: author['name'] as String?,
       authorUrl: author['url'] as String,
       authorOrganizations: [
-        for (final organization in organizations['nodes'] as List<dynamic>)
+        for (final organization in organizations ?? [])
           (organization['name'] as String).toLowerCase(),
       ],
       reviews: [

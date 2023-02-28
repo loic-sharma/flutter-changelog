@@ -56,7 +56,7 @@ void _writeChanges(
   output.writeln('${commits.length} commits.');
   output.writeln();
 
-  output.writeln('Name | Reviewers | Time in review | Comments');
+  output.writeln('Name | Author | Reviewers | Changes');
   output.writeln('-- | -- | -- | --');
 
   for (var commit in commits) {
@@ -72,34 +72,38 @@ void _writeChanges(
       '[${pullRequest.title}](${pullRequest.url})'
       '<br />'
       '<sub>'
-        '[#${pullRequest.number}](${pullRequest.url}) merged on $commitedAt '
-        'by [${pullRequest.authorName ?? pullRequest.authorLogin}](${pullRequest.authorUrl})'
+        '[#${pullRequest.number}](${pullRequest.url}) merged on $commitedAt <br /> '
+        '[${_pluralize(pullRequest.comments, 'comment')}](${pullRequest.url}) over ${_humanizeDuration(reviewDuration)}'
       '</sub>'
-
-      ' | $reviewers | '
-
-      '${_humanizeDuration(reviewDuration)}'
-
       ' | '
-
-      '💬 [${pullRequest.comments}](${pullRequest.url})'
+      '[${pullRequest.authorName ?? pullRequest.authorLogin}](${pullRequest.authorUrl})'
+      ' | '
+      '$reviewers'
+      ' | '
+      '${_pluralize(pullRequest.changedFiles, 'file')} <br /> '
+      '${_pluralize(pullRequest.additions, 'addition')} <br />'
+      '${_pluralize(pullRequest.deletions, 'deletion')}'
     );
   }
 
   output.writeln();
 }
 
+String _pluralize(int count, String word) {
+  return '$count $word${count == 1 ? '' : 's'}';
+}
+
 String _humanizeDuration(Duration duration) {
   final months = (duration.inDays / 30).floor();
   final weeks = (duration.inDays / 7).floor();
 
-  if (months > 0) return '${months} month${months == 1 ? '' : 's'}';
-  if (weeks > 0) return '${weeks} week${weeks == 1 ? '' : 's'}';
-  if (duration.inDays > 0) return '${duration.inDays} day${duration.inDays == 1 ? '' : 's'}';
-  if (duration.inHours > 0) return '${duration.inHours} hour${duration.inHours == 1 ? '' : 's'}';
-  if (duration.inMinutes > 0) return '${duration.inMinutes} minute${duration.inMinutes == 1 ? '' : 's'}';
+  if (months > 0) return _pluralize(months, 'month');
+  if (weeks > 0) return _pluralize(weeks, 'week');
+  if (duration.inDays > 0) return _pluralize(duration.inDays, 'day');
+  if (duration.inHours > 0) return _pluralize(duration.inHours, 'hour');
+  if (duration.inMinutes > 0) return _pluralize(duration.inMinutes, 'minute');
 
-  return '${duration.inSeconds} second${duration.inSeconds == 1 ? '' : 's'}';
+  return _pluralize(duration.inSeconds, 'second');
 }
 
 final _imgMdRegex = RegExp(r'\!\[.*\]\(.+\)');
@@ -140,6 +144,10 @@ int _score(Commit commit) {
 
 bool _ignore(Commit commit) {
   final pr = commit.pullRequest;
+
+  if (pr.authorLogin == 'dependabot') {
+    if (pr.title.startsWith('Bump ')) return true;
+  }
 
   if (pr.authorLogin == 'fluttergithubbot') {
     if (pr.title.startsWith('Roll pub packages')) return true;
