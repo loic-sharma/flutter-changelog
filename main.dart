@@ -79,8 +79,14 @@ int _score(Commit commit) {
   if (reviewDuration.inDays > 14) score += 5;
 
   if (_imageRegex.hasMatch(pr.body)) score += 20;
-  if (_revertRegex.hasMatch(pr.title)) score -= 20;
-  if (_relandRegex.hasMatch(pr.title)) score -= 20;
+
+  if (_revertRegex.hasMatch(pr.title)) {
+    score -= 20;
+  } else if (_relandRegex.hasMatch(pr.title)) {
+    score -= 20;
+  } else if (pr.title.toLowerCase().contains('reland')) {
+    score -= 20;
+  }
 
   if (_bots.contains(pr.authorLogin)) score -= 10;
 
