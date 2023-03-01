@@ -147,7 +147,7 @@ Name | Author | Reviewers | Size
 
 ## flutter/packages
 
-23 commits.
+22 commits.
 
 Name | Author | Reviewers | Size
 -- | -- | -- | --
@@ -171,7 +171,6 @@ Name | Author | Reviewers | Size
 [[flutter_migrate] Skip slow tests](https://github.com/flutter/packages/pull/3270)<br /><sub>[#3270](https://github.com/flutter/packages/pull/3270) merged on February 23, 2023 <br /> [2 comments](https://github.com/flutter/packages/pull/3270) over 17 hours</sub> | [stuartmorgan](https://github.com/stuartmorgan) | [bparrishMines](https://github.com/bparrishMines) | <div title="37 additions and 8 deletions in 3 files">S</div>
 [Update .gitignore with missing values from flutter/plugins](https://github.com/flutter/packages/pull/3265)<br /><sub>[#3265](https://github.com/flutter/packages/pull/3265) merged on February 23, 2023 <br /> [2 comments](https://github.com/flutter/packages/pull/3265) over 17 hours</sub> | [bparrishMines](https://github.com/bparrishMines) | [stuartmorgan](https://github.com/stuartmorgan) | <div title="21 additions and 1 deletion in 1 file">S</div>
 [[ci] Re-enable pathified unit tests](https://github.com/flutter/packages/pull/3268)<br /><sub>[#3268](https://github.com/flutter/packages/pull/3268) merged on February 23, 2023 <br /> [3 comments](https://github.com/flutter/packages/pull/3268) over 6 hours</sub> | [stuartmorgan](https://github.com/stuartmorgan) | [ditman](https://github.com/ditman) | <div title="3 additions and 4 deletions in 1 file">S</div>
-[Merge in plugin README and CONTRIBUTING](https://github.com/flutter/packages/pull/3252)<br /><sub>[#3252](https://github.com/flutter/packages/pull/3252) merged on February 22, 2023 <br /> [1 comment](https://github.com/flutter/packages/pull/3252) over 18 hours</sub> | [stuartmorgan](https://github.com/stuartmorgan) | [bparrishMines](https://github.com/bparrishMines) | <div title="66 additions and 36 deletions in 2 files">S</div>
 [Manual roll Flutter from 7175de4fe686 to c8d80163b03f (96 revisions)](https://github.com/flutter/packages/pull/3319)<br /><sub>[#3319](https://github.com/flutter/packages/pull/3319) merged on February 28, 2023 <br /> [0 comments](https://github.com/flutter/packages/pull/3319) over 3 hours</sub> | [engine-flutter-autoroll](https://github.com/engine-flutter-autoroll) | [fluttergithubbot](https://github.com/fluttergithubbot) | <div title="1 addition and 1 deletion in 1 file">S</div>
 [Roll Flutter (stable) from 994429713884 to c07f78888884 (5 revisions)](https://github.com/flutter/packages/pull/3305)<br /><sub>[#3305](https://github.com/flutter/packages/pull/3305) merged on February 26, 2023 <br /> [2 comments](https://github.com/flutter/packages/pull/3305) over 2 hours</sub> | [engine-flutter-autoroll](https://github.com/engine-flutter-autoroll) | [fluttergithubbot](https://github.com/fluttergithubbot) | <div title="1 addition and 1 deletion in 1 file">S</div>
 
