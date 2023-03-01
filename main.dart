@@ -119,6 +119,9 @@ bool _ignore(Commit commit) {
 
   if (pr.authorLogin == 'engine-flutter-autoroll') {
     if (pr.title.startsWith('Manual roll Flutter Engine from')) return true;
+    if (pr.title.startsWith('Manual roll Flutter from')) return true;
+    if (pr.title.startsWith('Manual roll Packages from')) return true;
+    if (pr.title.startsWith('Manual roll Plugins from')) return true;
     if (pr.title.startsWith('Roll Flutter Engine from')) return true;
     if (pr.title.startsWith('Roll Flutter from')) return true;
     if (pr.title.startsWith('Roll Packages from')) return true;
