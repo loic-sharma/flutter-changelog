@@ -42,6 +42,8 @@ void main(List<String> arguments) async {
 }
 
 final _imageRegex = RegExp(r'\!\[.*\]\(.+\)');
+final _revertRegex = RegExp(r'^Revert "(.+)"$');
+final _relandRegex = RegExp(r'^Reland "(.+)"$');
 int _score(Commit commit) {
   final pr = commit.pullRequest;
   final issue = pr.issue;
@@ -60,6 +62,8 @@ int _score(Commit commit) {
   if (reviewDuration.inDays > 14) score += 5;
 
   if (_imageRegex.hasMatch(pr.body)) score += 20;
+  if (_revertRegex.hasMatch(pr.title)) score -= 20;
+  if (_relandRegex.hasMatch(pr.title)) score -= 20;
 
   bool team =  pr.authorOrganizations.contains('flutter') ||
     pr.authorOrganizations.contains('google') ||
