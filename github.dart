@@ -214,7 +214,7 @@ class PullRequest {
 
   final String authorLogin;
   final String? authorName;
-  final String authorUrl;
+  final Uri authorUrl;
   final List<String> authorOrganizations;
 
   final List<Review> reviews;
@@ -240,7 +240,7 @@ class PullRequest {
       reactions: json['reactions']['totalCount'] as int,
       authorLogin: author['login'] as String,
       authorName: author['name'] as String?,
-      authorUrl: author['url'] as String,
+      authorUrl: Uri.parse(author['url'] as String),
       authorOrganizations: [
         for (final organization in organizations ?? [])
           (organization['name'] as String).toLowerCase(),

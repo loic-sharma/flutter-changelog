@@ -36,7 +36,7 @@ void writeCommits(
     final reviewDuration = commit.commitDate.difference(pullRequest.createdAt);
 
     final reviewers = pullRequest.reviews
-        .map((r) => '[${r.reviewerName ?? r.reviewerLogin}](${r.reviewerUrl})')
+        .map((r) => '[${r.reviewerLogin}](${r.reviewerUrl})')
         .join('<br />');
 
     output.writeln(
@@ -47,7 +47,7 @@ void writeCommits(
         '[${_pluralize(pullRequest.comments, 'comment')}](${pullRequest.url}) over ${_humanizeDuration(reviewDuration)}'
       '</sub>'
       ' | '
-      '[${pullRequest.authorName ?? pullRequest.authorLogin}](${pullRequest.authorUrl})'
+      '[${pullRequest.authorLogin}](${pullRequest.authorUrl})'
       ' | '
       '$reviewers'
       ' | '
