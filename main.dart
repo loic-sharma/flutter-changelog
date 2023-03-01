@@ -115,6 +115,7 @@ bool _ignore(Commit commit) {
     if (pr.title.startsWith('Manual roll Flutter Engine from')) return true;
     if (pr.title.startsWith('Roll Flutter Engine from')) return true;
     if (pr.title.startsWith('Roll Flutter from')) return true;
+    if (pr.title.startsWith('Roll Packages from')) return true;
     if (pr.title.startsWith('Roll Plugins from')) return true;
   }
 
