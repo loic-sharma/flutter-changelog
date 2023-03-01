@@ -1,7 +1,8 @@
 import 'dart:io';
 
-import 'package:changelog/github.dart';
 import 'package:intl/intl.dart' show DateFormat;
+
+import './github.dart';
 
 void main(List<String> arguments) async {
   String? token = Platform.environment['GITHUB_TOKEN'];
