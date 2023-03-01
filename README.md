@@ -147,7 +147,7 @@ Name | Author | Reviewers | Size
 
 ## flutter/packages
 
-24 commits.
+23 commits.
 
 Name | Author | Reviewers | Size
 -- | -- | -- | --
@@ -174,5 +174,4 @@ Name | Author | Reviewers | Size
 [Update .gitignore with missing values from flutter/plugins](https://github.com/flutter/packages/pull/3265)<br /><sub>[#3265](https://github.com/flutter/packages/pull/3265) merged on February 23, 2023 <br /> [2 comments](https://github.com/flutter/packages/pull/3265) over 17 hours</sub> | [Maurice Parrish](https://github.com/bparrishMines) | [stuartmorgan](https://github.com/stuartmorgan) | <div title="21 additions and 1 deletion in 1 file">S</div>
 [[ci] Re-enable pathified unit tests](https://github.com/flutter/packages/pull/3268)<br /><sub>[#3268](https://github.com/flutter/packages/pull/3268) merged on February 23, 2023 <br /> [3 comments](https://github.com/flutter/packages/pull/3268) over 6 hours</sub> | [stuartmorgan](https://github.com/stuartmorgan) | [David Iglesias](https://github.com/ditman) | <div title="3 additions and 4 deletions in 1 file">S</div>
 [Merge in plugin README and CONTRIBUTING](https://github.com/flutter/packages/pull/3252)<br /><sub>[#3252](https://github.com/flutter/packages/pull/3252) merged on February 22, 2023 <br /> [1 comment](https://github.com/flutter/packages/pull/3252) over 18 hours</sub> | [stuartmorgan](https://github.com/stuartmorgan) | [Maurice Parrish](https://github.com/bparrishMines) | <div title="66 additions and 36 deletions in 2 files">S</div>
-[[go_router] Disable logging in tests](https://github.com/flutter/packages/pull/3263)<br /><sub>[#3263](https://github.com/flutter/packages/pull/3263) merged on February 22, 2023 <br /> [8 comments](https://github.com/flutter/packages/pull/3263) over 1 hour</sub> | [John Ryan](https://github.com/johnpryan) | [chunhtai](https://github.com/chunhtai) | <div title="1 addition and 1 deletion in 1 file">S</div>
 
