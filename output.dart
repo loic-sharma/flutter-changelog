@@ -19,49 +19,69 @@ void writeCommits(
   IOSink output,
   String owner,
   String repository,
-  List<Commit> commits
+  Map<String, List<Commit>> commits
 ) {
   output.writeln('## $owner/$repository');
   output.writeln();
 
-  output.writeln('${commits.length} commits.');
-  output.writeln();
+  var first = true;
+  for (final subsection in commits.entries) {
+    output.writeln('### ${subsection.key}');
+    output.writeln();
 
-  output.writeln('Name | Author | Reviewers | Size');
-  output.writeln('-- | -- | -- | --');
+    if (first) {
+      output.writeln('${subsection.value.length} commits.');
+      output.writeln();
+    } else {
+      output.writeln('<details>');
+      output.writeln('<summary>${subsection.value.length} commits...</summary>');
+      output.writeln();
+    }
 
-  for (var commit in commits) {
-    final pullRequest = commit.pullRequest;
-    final commitedAt = DateFormat.yMMMMd().format(commit.commitDate);
-    final reviewDuration = commit.commitDate.difference(pullRequest.createdAt);
 
-    final reviewers = pullRequest.reviews
-        .map((r) => '[${r.reviewerLogin}](${r.reviewerUrl})')
-        .join('<br />');
+    output.writeln('Name | Author | Reviewers | Size');
+    output.writeln('-- | -- | -- | --');
 
-    output.writeln(
-      '[${pullRequest.title}](${pullRequest.url})'
-      '<br />'
-      '<sub>'
-        '[#${pullRequest.number}](${pullRequest.url}) merged on $commitedAt <br /> '
-        '[${_pluralize(pullRequest.comments, 'comment')}](${pullRequest.url}) over ${_humanizeDuration(reviewDuration)}'
-      '</sub>'
-      ' | '
-      '[${pullRequest.authorLogin}](${pullRequest.authorUrl})'
-      ' | '
-      '$reviewers'
-      ' | '
-      '<div title="'
-        '${_pluralize(pullRequest.additions, 'addition')} and '
-        '${_pluralize(pullRequest.deletions, 'deletion')} in '
-        '${_pluralize(pullRequest.changedFiles, 'file')}'
-      '">'
-      '${_size(pullRequest)}'
-      '</div>'
-    );
+    for (var commit in subsection.value) {
+      final pullRequest = commit.pullRequest;
+      final commitedAt = DateFormat.yMMMMd().format(commit.commitDate);
+      final reviewDuration = commit.commitDate.difference(pullRequest.createdAt);
+
+      final reviewers = pullRequest.reviews
+          .map((r) => '[${r.reviewerLogin}](${r.reviewerUrl})')
+          .join('<br />');
+
+      output.writeln(
+        '[${pullRequest.title}](${pullRequest.url})'
+        '<br />'
+        '<sub>'
+          '[#${pullRequest.number}](${pullRequest.url}) merged on $commitedAt <br /> '
+          '[${_pluralize(pullRequest.comments, 'comment')}](${pullRequest.url}) over ${_humanizeDuration(reviewDuration)}'
+        '</sub>'
+        ' | '
+        '[${pullRequest.authorLogin}](${pullRequest.authorUrl})'
+        ' | '
+        '$reviewers'
+        ' | '
+        '<div title="'
+          '${_pluralize(pullRequest.additions, 'addition')} and '
+          '${_pluralize(pullRequest.deletions, 'deletion')} in '
+          '${_pluralize(pullRequest.changedFiles, 'file')}'
+        '">'
+        '${_size(pullRequest)}'
+        '</div>'
+      );
+    }
+
+    output.writeln();
+
+    if (!first) {
+      output.writeln('</details>');
+      output.writeln();
+    }
+
+    first = false;
   }
-
-  output.writeln();
 }
 
 String _size(PullRequest pullRequest) {

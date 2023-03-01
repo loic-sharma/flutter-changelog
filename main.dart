@@ -1,5 +1,7 @@
 import 'dart:io';
 
+import 'package:intl/intl.dart';
+
 import './github.dart';
 import './output.dart';
 
@@ -7,19 +9,24 @@ void main(List<String> arguments) async {
   String? token = Platform.environment['GITHUB_TOKEN'];
 
   await writeChangelog((output) async {
-    String owner = 'flutter';
+    // Add the last 3 weeks of commits starting on Saturday.
+    DateTime start = DateTime.now().subtract(Duration(days: 21));
+    start = DateTime(start.year, start.month, start.day);
+    start = start.add(
+      Duration(days: 6 - start.weekday)
+    );
 
+    String owner = 'flutter';
     for (final repository in ['flutter', 'engine', 'packages']) {
       var done = false;
       String? after;
       final seen = <int>{};
-      final commits = <Commit>[];
+      final commits = <String, List<Commit>>{};
       while (!done) {
         final changes = await loadChanges(token, owner, repository, after);
 
         for (final commit in changes.commits) {
-          final ago = DateTime.now().difference(commit.commitDate);
-          if (ago.inDays >= 7) {
+          if (commit.commitDate.isBefore(start)) {
             done = true;
             continue;
           }
@@ -27,14 +34,18 @@ void main(List<String> arguments) async {
           if (_ignore(commit)) continue;
           if (seen.contains(commit.pullRequest.number)) continue;
 
+          final subsection = _subsection(commit);
+          if (!commits.containsKey(subsection)) {
+            commits[subsection] = [];
+          }
+
           seen.add(commit.pullRequest.number);
-          commits.add(commit);
+          commits[subsection]!.add(commit);
+          commits[subsection]!.sort((a, b) => _score(b).compareTo(_score(a)));
         }
 
         after = changes.endCursor;
       }
-
-      commits.sort((a, b) => _score(b).compareTo(_score(a)));
 
       writeCommits(output, owner, repository, commits);
     }
@@ -115,4 +126,18 @@ bool _ignore(Commit commit) {
   }
 
   return false;
+}
+
+String _subsection(Commit commit) {
+  // Subsections start on Saturday and end on Friday.
+  final date = DateTime(
+    commit.commitDate.year,
+    commit.commitDate.month,
+    commit.commitDate.day,
+  );
+
+  final start = date.subtract(Duration(days: commit.commitDate.weekday - 6 + 7));
+  final end = date.add(Duration(days: 5 - commit.commitDate.weekday));
+
+  return '${DateFormat.yMMMMd().format(start)} to ${DateFormat.yMMMMd().format(end)}';
 }
