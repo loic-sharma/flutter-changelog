@@ -55,12 +55,12 @@ void writeCommitsList(
           .map((r) => '[${r.reviewerName ?? r.reviewerLogin}](${r.reviewerUrl})')
           .join(', ');
 
-      final images = <Uri>{
+      final images = <String>{
         for (final match in _htmlImageRegex.allMatches(pullRequest.body))
-          Uri.parse(match.group(1)!),
+          match.group(0)!,
 
         for (final match in _mdImageRegex.allMatches(pullRequest.body))
-          Uri.parse(match.group(1)!),
+          match.group(0)!,
       };
 
       output.write('* ');
@@ -97,11 +97,7 @@ void writeCommitsList(
         output.write('<sub>');
         output.write('<details>');
         output.write('<summary>${_pluralize(images.length, 'image')}...</summary>');
-
-        for (final image in images) {
-          output.write('<img src="$image">');
-        }
-
+        output.writeAll(images);
         output.write('</details>');
         output.write('</sub>');
         output.writeln();
