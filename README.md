@@ -9,7 +9,7 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `OverlayPortal` <br />
     <sub>[#105335](https://github.com/flutter/flutter/pull/105335) merged on March 2, 2023 &mdash; **Extra large:** [428 comments](https://github.com/flutter/flutter/pull/105335) over 9 months, 3066 additions and 132 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Ian Hickson](https://github.com/Hixie), [fzyzcjy](https://github.com/fzyzcjy), [Dan Field](https://github.com/dnfield), [Alex Li](https://github.com/AlexV525)</sub><br />
-    <sub><details><summary>1 image...</summary><img src="https://user-images.githubusercontent.com/31859944/171971838-62ed3975-4b5d-4733-a9c9-f79e263b8fcc.jpg"></details></sub>
+    <sub><details><summary>1 image...</summary><img src="https://user-images.githubusercontent.com/31859944/171971838-62ed3975-4b5d-4733-a9c9-f79e263b8fcc.jpg" width="600"></details></sub>
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Make ClampingScrollSimulation ballistic and more like Android<br />
     <sub>[#120420](https://github.com/flutter/flutter/pull/120420) merged on February 28, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/120420) over 2 weeks, 230 additions and 66 deletions in 6 files</sub><br />
@@ -18,17 +18,17 @@
 * **[ivirtex](https://github.com/ivirtex)** &mdash; Fix text color not resolving when `CupertinoThemeData.brightness` is null<br />
     <sub>[#115026](https://github.com/flutter/flutter/pull/115026) merged on February 27, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/115026) over 3 months, 94 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
-    <sub><details><summary>2 images...</summary><img src="https://user-images.githubusercontent.com/57679865/200957641-ebd8ad75-a06e-49be-8e87-10f5baf281a1.png"><img src="https://user-images.githubusercontent.com/57679865/200957649-6175c8e1-0e10-4eff-b90c-a12d1b91a2e6.png"></details></sub>
+    <sub><details><summary>2 images...</summary><img src="https://user-images.githubusercontent.com/57679865/200957641-ebd8ad75-a06e-49be-8e87-10f5baf281a1.png" width="40%"/><img src="https://user-images.githubusercontent.com/57679865/200957649-6175c8e1-0e10-4eff-b90c-a12d1b91a2e6.png" width="40%"/></details></sub>
 
 * **[Nabeel Parkar](https://github.com/exaby73)** &mdash; Migrate activation issue template to Github form issues<br />
     <sub>[#119916](https://github.com/flutter/flutter/pull/119916) merged on February 28, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/119916) over 3 weeks, 91 additions and 56 deletions in 5 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
-    <sub><details><summary>1 image...</summary><img src="https://user-images.githubusercontent.com/50555895/219013692-998115e0-0683-46aa-bce6-80203ac69c9e.png"></details></sub>
+    <sub><details><summary>1 image...</summary>![image](https://user-images.githubusercontent.com/50555895/219013692-998115e0-0683-46aa-bce6-80203ac69c9e.png)</details></sub>
 
 * **[Skandar Munir](https://github.com/sikandernoori)** &mdash; fixes Show Week Day in CupertinoDatePicker with CupertinoDatePickerMo…<br />
     <sub>[#120052](https://github.com/flutter/flutter/pull/120052) merged on February 28, 2023 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/120052) over 3 weeks, 74 additions and 11 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
-    <sub><details><summary>1 image...</summary><img src="https://user-images.githubusercontent.com/16399272/216860750-d0ec0c97-858e-44a3-a077-ed6cd235c89e.png"></details></sub>
+    <sub><details><summary>1 image...</summary><img src="https://user-images.githubusercontent.com/16399272/216860750-d0ec0c97-858e-44a3-a077-ed6cd235c89e.png" width="400" height="850"></details></sub>
 
 * **[takashi kasai](https://github.com/takassh)** &mdash; moving the left handle automatically scrolls EditableText to the right handle, which doesn't happen on native<br />
     <sub>[#105836](https://github.com/flutter/flutter/pull/105836) merged on March 1, 2023 &mdash; **Medium:** [105 comments](https://github.com/flutter/flutter/pull/105836) over 8 months, 356 additions and 11 deletions in 6 files</sub><br />
@@ -37,17 +37,17 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add visual density for menu default style<br />
     <sub>[#114878](https://github.com/flutter/flutter/pull/114878) merged on March 1, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/114878) over 3 months, 155 additions and 36 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
-    <sub><details><summary>2 images...</summary><img src="https://user-images.githubusercontent.com/36861262/200518958-f787b29c-2417-4ef3-815d-1f790627a7f8.png"><img src="https://user-images.githubusercontent.com/36861262/200519037-93822bbd-5c77-4378-875c-1a1b39a30eb9.png"></details></sub>
+    <sub><details><summary>2 images...</summary><img width="250" alt="Screen Shot 2022-11-08 at 12 52 33 AM" src="https://user-images.githubusercontent.com/36861262/200518958-f787b29c-2417-4ef3-815d-1f790627a7f8.png"><img width="250" alt="Screen Shot 2022-11-08 at 12 52 55 AM" src="https://user-images.githubusercontent.com/36861262/200519037-93822bbd-5c77-4378-875c-1a1b39a30eb9.png"></details></sub>
 
 * **[Paul](https://github.com/gonft)** &mdash; Remove @param onDone<br />
     <sub>[#113371](https://github.com/flutter/flutter/pull/113371) merged on March 1, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/113371) over 4 months, 0 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-    <sub><details><summary>1 image...</summary><img src="https://user-images.githubusercontent.com/3823239/195579022-48db387e-0e31-4c11-b2f3-86351532d1d3.png"></details></sub>
+    <sub><details><summary>1 image...</summary>![스크린샷 2022-10-13 오후 7 57 06](https://user-images.githubusercontent.com/3823239/195579022-48db387e-0e31-4c11-b2f3-86351532d1d3.png)</details></sub>
 
 * **[James Lee](https://github.com/bebe0612)** &mdash; Add  typically used parameter name to the builder used in layout_builder<br />
     <sub>[#119877](https://github.com/flutter/flutter/pull/119877) merged on March 1, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/119877) over 3 weeks, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
-    <sub><details><summary>1 image...</summary><img src="https://user-images.githubusercontent.com/72788825/216486897-b56453d2-b309-47ea-885b-b0ec6ed1b648.png"></details></sub>
+    <sub><details><summary>1 image...</summary><img width="272" alt="스크린샷 2023-02-03 오전 10 09 24" src="https://user-images.githubusercontent.com/72788825/216486897-b56453d2-b309-47ea-885b-b0ec6ed1b648.png"></details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `ExpansionTile` double tap to collapse/expanded and expanded/collapsed states semantics announcements<br />
     <sub>[#120881](https://github.com/flutter/flutter/pull/120881) merged on February 27, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/120881) over 1 week, 1488 additions and 81 deletions in 84 files</sub><br />
@@ -229,22 +229,22 @@
 * **[David Neuy](https://github.com/inouiw)** &mdash; Fix DataCell overflows when cell height is large by adding dataRowMinHeight, dataRowMaxHeight props.<br />
     <sub>[#114338](https://github.com/flutter/flutter/pull/114338) merged on February 23, 2023 &mdash; **Medium:** [30 comments](https://github.com/flutter/flutter/pull/114338) over 3 months, 405 additions and 46 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Ian Hickson](https://github.com/Hixie)</sub><br />
-    <sub><details><summary>2 images...</summary><img src="https://user-images.githubusercontent.com/12761049/198904304-c56ccb12-5c4e-4470-80f4-4ee1452dcad3.png"><img src="https://user-images.githubusercontent.com/12761049/198904314-5b26428e-b690-437c-836a-edc221559d65.png"></details></sub>
+    <sub><details><summary>2 images...</summary><img width="684" alt="flutter-fix-before" src="https://user-images.githubusercontent.com/12761049/198904304-c56ccb12-5c4e-4470-80f4-4ee1452dcad3.png"><img width="685" alt="flutter-fix-after" src="https://user-images.githubusercontent.com/12761049/198904314-5b26428e-b690-437c-836a-edc221559d65.png"></details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `SliverAppBar.medium` & `SliverAppBar.large` title overlap with leading/actions widgets, leading width, and title spacing<br />
     <sub>[#120780](https://github.com/flutter/flutter/pull/120780) merged on February 23, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/120780) over 1 week, 595 additions and 72 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
-    <sub><details><summary>6 images...</summary><img src="https://user-images.githubusercontent.com/48603081/219005125-18b52e9e-613a-4a55-8a42-daf0216f0344.gif"><img src="https://user-images.githubusercontent.com/48603081/219005140-43be7d71-aa61-4a68-90e8-eb74fc30eb38.gif"><img src="https://user-images.githubusercontent.com/48603081/219005254-df7099ad-8250-4909-8897-9a88027a4c44.gif"><img src="https://user-images.githubusercontent.com/48603081/219005277-6fedbf51-19f8-483d-8493-7604b442c340.gif"><img src="https://user-images.githubusercontent.com/48603081/219005349-8f8a198d-c640-48ff-8d60-c4ff7faa6876.gif"><img src="https://user-images.githubusercontent.com/48603081/219005385-b1013141-7a07-4838-beea-2fcccee620f6.gif"></details></sub>
+    <sub><details><summary>6 images...</summary>![title_overlap_before](https://user-images.githubusercontent.com/48603081/219005125-18b52e9e-613a-4a55-8a42-daf0216f0344.gif)![title_overlap_after](https://user-images.githubusercontent.com/48603081/219005140-43be7d71-aa61-4a68-90e8-eb74fc30eb38.gif)![title_spacing_before](https://user-images.githubusercontent.com/48603081/219005254-df7099ad-8250-4909-8897-9a88027a4c44.gif)![title_spacing_after](https://user-images.githubusercontent.com/48603081/219005277-6fedbf51-19f8-483d-8493-7604b442c340.gif)![leading_width_before](https://user-images.githubusercontent.com/48603081/219005349-8f8a198d-c640-48ff-8d60-c4ff7faa6876.gif)![leading_width_after](https://user-images.githubusercontent.com/48603081/219005385-b1013141-7a07-4838-beea-2fcccee620f6.gif)</details></sub>
 
 * **[Mushaheed Syed](https://github.com/predatorx7)** &mdash; Add ActionButtonIconsData for overriding action icons<br />
     <sub>[#118229](https://github.com/flutter/flutter/pull/118229) merged on February 22, 2023 &mdash; **Extra large:** [32 comments](https://github.com/flutter/flutter/pull/118229) over 1 month, 1321 additions and 220 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
-    <sub><details><summary>4 images...</summary><img src="https://user-images.githubusercontent.com/33719927/211521123-7977bad4-8aea-457e-b47d-b03ea58770f6.png"><img src="https://user-images.githubusercontent.com/33719927/211521138-5ea41cde-6362-4a35-a3e8-1a312c8bd7e0.png"><img src="https://user-images.githubusercontent.com/33719927/211521297-cd1ebf5d-2ed0-4aec-8748-296a04b9ddd2.png"><img src="https://user-images.githubusercontent.com/33719927/211521307-40c1c569-d109-4456-a1cc-63368bf111fe.png"></details></sub>
+    <sub><details><summary>4 images...</summary>![Customized Drawer button](https://user-images.githubusercontent.com/33719927/211521123-7977bad4-8aea-457e-b47d-b03ea58770f6.png)![Customed EndDrawer and Back button](https://user-images.githubusercontent.com/33719927/211521138-5ea41cde-6362-4a35-a3e8-1a312c8bd7e0.png)![Default Drawer button](https://user-images.githubusercontent.com/33719927/211521297-cd1ebf5d-2ed0-4aec-8748-296a04b9ddd2.png)![Default EndDrawer and Back button](https://user-images.githubusercontent.com/33719927/211521307-40c1c569-d109-4456-a1cc-63368bf111fe.png)</details></sub>
 
 * **[David Skelly](https://github.com/davidskelly)** &mdash; Add padding to DropdownButton<br />
     <sub>[#115806](https://github.com/flutter/flutter/pull/115806) merged on February 23, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/115806) over 3 months, 45 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Bruno D'Luka](https://github.com/bdlukaa), [Eilidh Southren](https://github.com/esouthren), [Kate Lovett](https://github.com/Piinks)</sub><br />
-    <sub><details><summary>2 images...</summary><img src="https://user-images.githubusercontent.com/10343858/203187030-45962796-09e1-4168-8655-ff71d1b0ea09.png"><img src="https://user-images.githubusercontent.com/10343858/203187040-46bc2a32-fb96-4eff-ab8e-1da6a6675c9f.png"></details></sub>
+    <sub><details><summary>2 images...</summary>![Screenshot from 2022-11-21 16-19-41](https://user-images.githubusercontent.com/10343858/203187030-45962796-09e1-4168-8655-ff71d1b0ea09.png)![Screenshot from 2022-11-21 16-20-02](https://user-images.githubusercontent.com/10343858/203187040-46bc2a32-fb96-4eff-ab8e-1da6a6675c9f.png)</details></sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fix text.rich to merge widget span<br />
     <sub>[#113461](https://github.com/flutter/flutter/pull/113461) merged on February 23, 2023 &mdash; **Medium:** [46 comments](https://github.com/flutter/flutter/pull/113461) over 4 months, 312 additions and 21 deletions in 4 files</sub><br />
@@ -253,12 +253,12 @@
 * **[Eilidh Southren](https://github.com/esouthren)** &mdash; [M3] Update checkbox shape value<br />
     <sub>[#120976](https://github.com/flutter/flutter/pull/120976) merged on February 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/120976) over 2 days, 53 additions and 5 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub><br />
-    <sub><details><summary>1 image...</summary><img src="https://user-images.githubusercontent.com/15033982/219656670-806d89ce-7abf-4b90-9eed-60a4aac68295.png"></details></sub>
+    <sub><details><summary>1 image...</summary>![Screenshot 2023-02-17 12 44 42 PM](https://user-images.githubusercontent.com/15033982/219656767-36cb4076-107b-4b50-a008-63fb60e0ab88.png) | ![Screenshot 2023-02-17 12 43 56 PM](https://user-images.githubusercontent.com/15033982/219656670-806d89ce-7abf-4b90-9eed-60a4aac68295.png)</details></sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Change mouse cursor to be SystemMouseCursors.click when not editable<br />
     <sub>[#121353](https://github.com/flutter/flutter/pull/121353) merged on February 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/121353) over 3 hours, 32 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
-    <sub><details><summary>1 image...</summary><img src="https://user-images.githubusercontent.com/36861262/221005143-e6ee7d8b-85e7-45bc-8c42-70875f49b49e.png"></details></sub>
+    <sub><details><summary>1 image...</summary><img width="200" alt="Screenshot 2023-02-23 at 11 03 10 AM" src="https://user-images.githubusercontent.com/36861262/221005143-e6ee7d8b-85e7-45bc-8c42-70875f49b49e.png"></details></sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Move semantic-related bindings to SemanticsBinding<br />
     <sub>[#121289](https://github.com/flutter/flutter/pull/121289) merged on February 24, 2023 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/121289) over 1 day, 339 additions and 88 deletions in 12 files</sub><br />
@@ -438,7 +438,7 @@
 * **[Manuel](https://github.com/manuthebyte)** &mdash; Improve CupertinoContextMenu to match native more<br />
     <sub>[#117698](https://github.com/flutter/flutter/pull/117698) merged on February 15, 2023 &mdash; **Small:** [46 comments](https://github.com/flutter/flutter/pull/117698) over 1 month, 159 additions and 71 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
-    <sub><details><summary>1 image...</summary><img src="https://user-images.githubusercontent.com/71405615/209725285-8706627d-6175-4bcd-aa3b-abe0cd7880f2.PNG"></details></sub>
+    <sub><details><summary>1 image...</summary>![IMG_0131](https://user-images.githubusercontent.com/71405615/209725260-3d870aee-2851-46f4-9101-c3a6d31310c9.PNG) | ![IMG_0126](https://user-images.githubusercontent.com/71405615/209725285-8706627d-6175-4bcd-aa3b-abe0cd7880f2.PNG)</details></sub>
 
 * **[Jan Kuß](https://github.com/jankuss)** &mdash; Fix `StretchingOverscrollIndicator` not handling directional changes correctly<br />
     <sub>[#116548](https://github.com/flutter/flutter/pull/116548) merged on February 15, 2023 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/116548) over 2 months, 350 additions and 21 deletions in 3 files</sub><br />
@@ -447,7 +447,7 @@
 * **[Eilidh Southren](https://github.com/esouthren)** &mdash; [M3] Add customizable overflow property to Snackbar's action<br />
     <sub>[#120394](https://github.com/flutter/flutter/pull/120394) merged on February 14, 2023 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/120394) over 4 days, 155 additions and 31 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Pierre-Louis](https://github.com/guidezpl)</sub><br />
-    <sub><details><summary>1 image...</summary><img src="https://user-images.githubusercontent.com/15033982/217928442-412220f3-a150-4cff-97b0-805f731ce120.png"></details></sub>
+    <sub><details><summary>1 image...</summary>![image](https://user-images.githubusercontent.com/15033982/217928474-3ae83524-0909-4e1b-a135-0536e3088316.png) |![image](https://user-images.githubusercontent.com/15033982/217928442-412220f3-a150-4cff-97b0-805f731ce120.png)</details></sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Remove references to Observatory<br />
     <sub>[#118577](https://github.com/flutter/flutter/pull/118577) merged on February 13, 2023 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/118577) over 4 weeks, 495 additions and 492 deletions in 90 files</sub><br />
@@ -456,7 +456,7 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `InheritedTheme` support  to `ScrollbarTheme`<br />
     <sub>[#120970](https://github.com/flutter/flutter/pull/120970) merged on February 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/120970) over 6 hours, 192 additions and 1 deletion in 3 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
-    <sub><details><summary>4 images...</summary><img src="https://user-images.githubusercontent.com/48603081/219660192-ddb30c02-4b27-45e6-aa41-6535daeef5fc.png"><img src="https://user-images.githubusercontent.com/48603081/219660205-7a4d6a79-1abf-419f-9035-1a263c1cc23b.png"><img src="https://user-images.githubusercontent.com/48603081/219660493-c9223561-57cf-43ed-89c4-cdf9f201ad30.png"><img src="https://user-images.githubusercontent.com/48603081/219660501-d316575b-b24d-4b11-9b4e-a569c64a70a3.png"></details></sub>
+    <sub><details><summary>4 images...</summary><img src="https://user-images.githubusercontent.com/48603081/219660192-ddb30c02-4b27-45e6-aa41-6535daeef5fc.png"  /><img src="https://user-images.githubusercontent.com/48603081/219660205-7a4d6a79-1abf-419f-9035-1a263c1cc23b.png" /><img src="https://user-images.githubusercontent.com/48603081/219660493-c9223561-57cf-43ed-89c4-cdf9f201ad30.png"  /><img src="https://user-images.githubusercontent.com/48603081/219660501-d316575b-b24d-4b11-9b4e-a569c64a70a3.png" /></details></sub>
 
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Avoid null terminating characters in strings from Utf8FromUtf16()<br />
     <sub>[#109729](https://github.com/flutter/flutter/pull/109729) merged on February 13, 2023 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/109729) over 5 months, 53 additions and 47 deletions in 13 files</sub><br />
@@ -708,7 +708,7 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Improve atlas blending performance by reducing size of subpass.<br />
     <sub>[#39669](https://github.com/flutter/engine/pull/39669) merged on March 1, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/39669) over 1 week, 287 additions and 17 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
-    <sub><details><summary>1 image...</summary><img src="https://user-images.githubusercontent.com/8975114/219519220-cea47583-20f3-4992-a4b3-1db9ca4799ab.png"></details></sub>
+    <sub><details><summary>1 image...</summary>![image](https://user-images.githubusercontent.com/8975114/219519220-cea47583-20f3-4992-a4b3-1db9ca4799ab.png)</details></sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Start stroke tessellation in compute<br />
     <sub>[#39543](https://github.com/flutter/engine/pull/39543) merged on February 28, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/39543) over 2 weeks, 1003 additions and 15 deletions in 21 files</sub><br />
@@ -914,7 +914,7 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Implement invert colors flag.<br />
     <sub>[#39729](https://github.com/flutter/engine/pull/39729) merged on February 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/39729) over 2 days, 38 additions and 1 deletion in 4 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-    <sub><details><summary>2 images...</summary><img src="https://user-images.githubusercontent.com/8975114/219815455-b3e7016c-d68b-4b74-b1c2-41a41b5fbb6e.png"><img src="https://user-images.githubusercontent.com/8975114/219815465-b2f70fa8-7ac9-471e-b18f-e1667ab6e546.png"></details></sub>
+    <sub><details><summary>2 images...</summary>![flutter_02](https://user-images.githubusercontent.com/8975114/219815455-b3e7016c-d68b-4b74-b1c2-41a41b5fbb6e.png)![flutter_03](https://user-images.githubusercontent.com/8975114/219815465-b2f70fa8-7ac9-471e-b18f-e1667ab6e546.png)</details></sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Glue code for CanvasKit Chromium<br />
     <sub>[#39592](https://github.com/flutter/engine/pull/39592) merged on February 24, 2023 &mdash; **Medium:** [23 comments](https://github.com/flutter/engine/pull/39592) over 1 week, 382 additions and 63 deletions in 9 files</sub><br />
@@ -1058,7 +1058,7 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] read from framebuffer for advanced blends on iOS.<br />
     <sub>[#39567](https://github.com/flutter/engine/pull/39567) merged on February 14, 2023 &mdash; **Large:** [16 comments](https://github.com/flutter/engine/pull/39567) over 2 days, 793 additions and 59 deletions in 26 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
-    <sub><details><summary>1 image...</summary><img src="https://user-images.githubusercontent.com/8975114/218615028-dbac71b0-5eef-4b1a-8d01-699a54d802b1.png"></details></sub>
+    <sub><details><summary>1 image...</summary>![image (11)](https://user-images.githubusercontent.com/8975114/218615028-dbac71b0-5eef-4b1a-8d01-699a54d802b1.png)</details></sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement platform view mutators<br />
     <sub>[#38699](https://github.com/flutter/engine/pull/38699) merged on February 16, 2023 &mdash; **Large:** [21 comments](https://github.com/flutter/engine/pull/38699) over 1 month, 893 additions and 30 deletions in 7 files</sub><br />
@@ -1087,7 +1087,7 @@
 * **[luckysmg](https://github.com/luckysmg)** &mdash; [Impeller] Fix render transform is not correct.<br />
     <sub>[#39617](https://github.com/flutter/engine/pull/39617) merged on February 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/39617) over 1 day, 49 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-    <sub><details><summary>3 images...</summary><img src="https://user-images.githubusercontent.com/49340347/218709794-d7b5e4c7-2876-4044-a8cd-789639746510.jpg"><img src="https://user-images.githubusercontent.com/49340347/218708390-7d7ea610-9eec-4483-b938-75d100b63cda.jpg"><img src="https://user-images.githubusercontent.com/49340347/218708393-6e63740c-b1ee-49c7-a3c8-a51e2afcd68f.jpg"></details></sub>
+    <sub><details><summary>3 images...</summary><img src="https://user-images.githubusercontent.com/49340347/218709794-d7b5e4c7-2876-4044-a8cd-789639746510.jpg" width=200 /><img src="https://user-images.githubusercontent.com/49340347/218708390-7d7ea610-9eec-4483-b938-75d100b63cda.jpg" width = 200 /><img src="https://user-images.githubusercontent.com/49340347/218708393-6e63740c-b1ee-49c7-a3c8-a51e2afcd68f.jpg" width = 200 /></details></sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Add support for double tap action from Apple Pencil 2<br />
     <sub>[#39267](https://github.com/flutter/engine/pull/39267) merged on February 13, 2023 &mdash; **Small:** [62 comments](https://github.com/flutter/engine/pull/39267) over 1 week, 230 additions and 37 deletions in 12 files</sub><br />
@@ -1327,7 +1327,7 @@
 * **[Preston Schwartz](https://github.com/FXschwartz)** &mdash; [image_picker_android] Adds Android 13 photo picker functionality<br />
     <sub>[#3267](https://github.com/flutter/packages/pull/3267) merged on March 1, 2023 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/3267) over 6 days, 162 additions and 13 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
-    <sub><details><summary>1 image...</summary><img src="https://user-images.githubusercontent.com/16527593/215168683-9b1cdf78-ef99-487d-b19c-ebd0ea5b5f77.gif"></details></sub>
+    <sub><details><summary>1 image...</summary>![sdk30-photo-picker](https://user-images.githubusercontent.com/16527593/215168722-36c04871-aa5b-46d4-a231-c9bbd6e5bc10.gif)  |  ![sdk33-photo-picker](https://user-images.githubusercontent.com/16527593/215168683-9b1cdf78-ef99-487d-b19c-ebd0ea5b5f77.gif)</details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci+various] Partially enable javac warning checks<br />
     <sub>[#3293](https://github.com/flutter/packages/pull/3293) merged on March 2, 2023 &mdash; **Large:** [22 comments](https://github.com/flutter/packages/pull/3293) over 6 days, 436 additions and 70 deletions in 39 files</sub><br />
