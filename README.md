@@ -1294,7 +1294,7 @@
 
 ### February 25, 2023 to March 3, 2023
 
-12 commits.
+18 commits.
 
 * **[Preston Schwartz](https://github.com/FXschwartz)** &mdash; [image_picker_android] Adds Android 13 photo picker functionality<br />
     <sub>[#3267](https://github.com/flutter/packages/pull/3267) merged on March 1, 2023 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/3267) over 6 days, 162 additions and 13 deletions in 8 files</sub><br />
@@ -1319,6 +1319,30 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Enable warnings as errors for remaining languages<br />
     <sub>[#3317](https://github.com/flutter/packages/pull/3317) merged on February 28, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/3317) over 22 hours, 127 additions and 155 deletions in 36 files</sub><br />
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [webview_flutter] Update minimum Flutter version to 3.3 and iOS 11<br />
+    <sub>[#3336](https://github.com/flutter/packages/pull/3336) merged on March 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3336) over 1 day, 89 additions and 114 deletions in 20 files</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [local_auth] Update minimum Flutter version to 3.3 and iOS 11<br />
+    <sub>[#3335](https://github.com/flutter/packages/pull/3335) merged on March 2, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/3335) over 1 day, 141 additions and 187 deletions in 16 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [google_sign_in] Update minimum Flutter version to 3.3 and iOS 11<br />
+    <sub>[#3330](https://github.com/flutter/packages/pull/3330) merged on March 2, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3330) over 1 day, 49 additions and 25 deletions in 15 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [google_maps_flutter] Update minimum Flutter version to 3.3 and iOS 11<br />
+    <sub>[#3329](https://github.com/flutter/packages/pull/3329) merged on March 2, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3329) over 1 day, 115 additions and 153 deletions in 18 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [video_player] Update minimum Flutter version to 3.3 and iOS 11<br />
+    <sub>[#3328](https://github.com/flutter/packages/pull/3328) merged on March 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3328) over 1 day, 42 additions and 20 deletions in 15 files</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [file_selector] Update minimum Flutter version to 3.3 and iOS 11<br />
+    <sub>[#3325](https://github.com/flutter/packages/pull/3325) merged on March 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3325) over 1 day, 91 additions and 46 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [image_picker] Update minimum Flutter version to 3.3 and iOS 11<br />
     <sub>[#3327](https://github.com/flutter/packages/pull/3327) merged on March 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3327) over 3 hours, 50 additions and 47 deletions in 17 files</sub><br />
