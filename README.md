@@ -1302,11 +1302,15 @@
 
 ### February 25, 2023 to March 3, 2023
 
-18 commits.
+19 commits.
 
 * **[Preston Schwartz](https://github.com/FXschwartz)** &mdash; [image_picker_android] Adds Android 13 photo picker functionality<br />
     <sub>[#3267](https://github.com/flutter/packages/pull/3267) merged on March 1, 2023 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/3267) over 6 days, 162 additions and 13 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci+various] Partially enable javac warning checks<br />
+    <sub>[#3293](https://github.com/flutter/packages/pull/3293) merged on March 2, 2023 &mdash; **Large:** [22 comments](https://github.com/flutter/packages/pull/3293) over 6 days, 436 additions and 70 deletions in 39 files</sub><br />
+    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; [go_router_builder]Update the way to pass the `extra` param in router_config<br />
     <sub>[#3005](https://github.com/flutter/packages/pull/3005) merged on February 27, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/3005) over 2 months, 121 additions and 69 deletions in 8 files</sub><br />

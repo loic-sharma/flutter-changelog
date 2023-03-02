@@ -393,11 +393,12 @@ Name | Author | Reviewers | Size
 
 ### February 25, 2023 to March 3, 2023
 
-18 commits.
+19 commits.
 
 Name | Author | Reviewers | Size
 -- | -- | -- | --
 [[image_picker_android] Adds Android 13 photo picker functionality](https://github.com/flutter/packages/pull/3267)<br /><sub>[#3267](https://github.com/flutter/packages/pull/3267) merged on March 1, 2023 <br /> [22 comments](https://github.com/flutter/packages/pull/3267) over 6 days</sub> | [FXschwartz](https://github.com/FXschwartz) | [gnprice](https://github.com/gnprice)<br />[reidbaker](https://github.com/reidbaker)<br />[tarrinneal](https://github.com/tarrinneal) | <div title="162 additions and 13 deletions in 8 files">S</div>
+[[ci+various] Partially enable javac warning checks](https://github.com/flutter/packages/pull/3293)<br /><sub>[#3293](https://github.com/flutter/packages/pull/3293) merged on March 2, 2023 <br /> [22 comments](https://github.com/flutter/packages/pull/3293) over 6 days</sub> | [stuartmorgan](https://github.com/stuartmorgan) | [gnprice](https://github.com/gnprice)<br />[reidbaker](https://github.com/reidbaker) | <div title="436 additions and 70 deletions in 39 files">L</div>
 [[go_router_builder]Update the way to pass the `extra` param in router_config](https://github.com/flutter/packages/pull/3005)<br /><sub>[#3005](https://github.com/flutter/packages/pull/3005) merged on February 27, 2023 <br /> [12 comments](https://github.com/flutter/packages/pull/3005) over 2 months</sub> | [hangyujin](https://github.com/hangyujin) | [chunhtai](https://github.com/chunhtai) | <div title="121 additions and 69 deletions in 8 files">S</div>
 [Update annotation and espresso dependencies](https://github.com/flutter/packages/pull/3271)<br /><sub>[#3271](https://github.com/flutter/packages/pull/3271) merged on March 2, 2023 <br /> [49 comments](https://github.com/flutter/packages/pull/3271) over 1 week</sub> | [reidbaker](https://github.com/reidbaker) | [jmagman](https://github.com/jmagman)<br />[ditman](https://github.com/ditman)<br />[stuartmorgan](https://github.com/stuartmorgan)<br />[dnfield](https://github.com/dnfield)<br />[bparrishMines](https://github.com/bparrishMines) | <div title="143 additions and 58 deletions in 67 files">S</div>
 [[tool] Always run publish check](https://github.com/flutter/packages/pull/3279)<br /><sub>[#3279](https://github.com/flutter/packages/pull/3279) merged on February 27, 2023 <br /> [3 comments](https://github.com/flutter/packages/pull/3279) over 3 days</sub> | [stuartmorgan](https://github.com/stuartmorgan) | [gspencergoog](https://github.com/gspencergoog) | <div title="122 additions and 363 deletions in 10 files">M</div>
