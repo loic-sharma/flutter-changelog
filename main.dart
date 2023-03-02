@@ -53,7 +53,8 @@ void main(List<String> arguments) async {
   });
 }
 
-final _imageRegex = RegExp(r'\!\[.*\]\(.+\)');
+final _htmlImageRegex = RegExp(r'<img\s+[^>]*src="([^"]*)"[^>]*>');
+final _mdImageRegex = RegExp(r'\!\[.*\]\(.+\)');
 final _revertRegex = RegExp(r'^Revert "(.+)"$');
 final _relandRegex = RegExp(r'^Reland "(.+)"$');
 const _bots = {
@@ -79,7 +80,8 @@ int _score(Commit commit) {
   final reviewDuration = commit.commitDate.difference(pr.createdAt);
   if (reviewDuration.inDays > 14) score += 5;
 
-  if (_imageRegex.hasMatch(pr.body)) score += 20;
+  final hasImage = _htmlImageRegex.hasMatch(pr.body) || _mdImageRegex.hasMatch(pr.body);
+  if (hasImage) score += 20;
 
   if (_revertRegex.hasMatch(pr.title)) {
     score -= 20;

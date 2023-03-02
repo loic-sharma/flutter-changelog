@@ -55,6 +55,14 @@ void writeCommitsList(
           .map((r) => '[${r.reviewerName ?? r.reviewerLogin}](${r.reviewerUrl})')
           .join(', ');
 
+      final images = <Uri>{
+        for (final match in _htmlImageRegex.allMatches(pullRequest.body))
+          Uri.parse(match.group(1)!),
+
+        for (final match in _mdImageRegex.allMatches(pullRequest.body))
+          Uri.parse(match.group(1)!),
+      };
+
       output.write('* ');
       output.write('**[${pullRequest.authorName ?? pullRequest.authorLogin}](${pullRequest.authorUrl})** ');
       output.write('&mdash; ');
@@ -83,6 +91,21 @@ void writeCommitsList(
       output.write('</sub>');
       output.write('<br />');
       output.writeln();
+
+      if (images.isNotEmpty) {
+        output.write('    ');
+        output.write('<sub>');
+        output.write('<details>');
+        output.write('<summary>${_pluralize(images.length, 'image')}...</summary>');
+
+        for (final image in images) {
+          output.write('<img src="$image">');
+        }
+
+        output.write('</details>');
+        output.write('</sub>');
+        output.writeln();
+      }
 
       output.writeln();
     }
@@ -164,6 +187,9 @@ void writeCommitsTable(
     first = false;
   }
 }
+
+final _htmlImageRegex = RegExp(r'<img\s+[^>]*src="([^"]*)"[^>]*>');
+final _mdImageRegex = RegExp(r'\!\[.*\]\((.+)\)');
 
 String _size(PullRequest pullRequest, {bool compact = false}) {
   final changes = pullRequest.additions + pullRequest.deletions;
