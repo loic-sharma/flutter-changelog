@@ -8,7 +8,7 @@
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `OverlayPortal` <br />
     <sub>[#105335](https://github.com/flutter/flutter/pull/105335) merged on March 2, 2023 &mdash; **Extra large:** [430 comments](https://github.com/flutter/flutter/pull/105335) over 9 months, 3066 additions and 132 deletions in 10 files</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Ian Hickson](https://github.com/Hixie), [fzyzcjy](https://github.com/fzyzcjy), [Dan Field](https://github.com/dnfield), [Alex Li](https://github.com/AlexV525), [creativecreatorormaybenot](https://github.com/creativecreatorormaybenot), [Remi Rousselet](https://github.com/rrousselGit), [chunhtai](https://github.com/chunhtai), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Ian Hickson](https://github.com/Hixie), [fzyzcjy](https://github.com/fzyzcjy), [Dan Field](https://github.com/dnfield), [Alex Li](https://github.com/AlexV525), and [4 others](https://github.com/flutter/flutter/pull/105335)</sub><br />
     <sub><details><summary>1 image...</summary><img src="https://user-images.githubusercontent.com/31859944/171971838-62ed3975-4b5d-4733-a9c9-f79e263b8fcc.jpg" width="600"></details></sub>
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Make ClampingScrollSimulation ballistic and more like Android<br />
@@ -1628,7 +1628,7 @@
 
 * **[Angjelko Miloshevski](https://github.com/angjelkom)** &mdash; [go_router] [shell_route] Add observers parameter<br />
     <sub>[#2664](https://github.com/flutter/packages/pull/2664) merged on February 14, 2023 &mdash; **Small:** [63 comments](https://github.com/flutter/packages/pull/2664) over 4 months, 133 additions and 5 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Yurii Cherniavskyi](https://github.com/ycherniavskyi), [grimatoma](https://github.com/grimatoma), [Florian Daniel](https://github.com/flodaniel), [Thipok Cholsaipant](https://github.com/thipokch), [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
+    <sub>Reviewed by: [Yurii Cherniavskyi](https://github.com/ycherniavskyi), [grimatoma](https://github.com/grimatoma), [Florian Daniel](https://github.com/flodaniel), [Thipok Cholsaipant](https://github.com/thipokch), [chunhtai](https://github.com/chunhtai), and [1 other](https://github.com/flutter/packages/pull/2664)</sub><br />
 
 * **[Mirko Mucaria](https://github.com/Skogsfrae)** &mdash; [go_router] Add support for Iterable, List and Set to TypedGoRoute<br />
     <sub>[#2698](https://github.com/flutter/packages/pull/2698) merged on February 16, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/2698) over 4 months, 6 additions and 2 deletions in 3 files</sub><br />
