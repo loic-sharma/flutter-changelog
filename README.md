@@ -1382,7 +1382,7 @@
 
 ### February 25, 2023 to March 3, 2023
 
-19 commits.
+20 commits.
 
 * **[Preston Schwartz](https://github.com/FXschwartz)** &mdash; [image_picker_android] Adds Android 13 photo picker functionality<br />
     <sub>[#3267](https://github.com/flutter/packages/pull/3267) merged on March 1, 2023 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/3267) over 6 days, 162 additions and 13 deletions in 8 files</sub><br />
@@ -1404,6 +1404,11 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Always run publish check<br />
     <sub>[#3279](https://github.com/flutter/packages/pull/3279) merged on February 27, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/packages/pull/3279) over 3 days, 122 additions and 363 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [webview]: Bump androidx.webkit:webkit from 1.5.0 to 1.6.0 in /packages/webview_flutter/webview_flutter_android/android<br />
+    <sub>[#3243](https://github.com/flutter/packages/pull/3243) merged on March 3, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3243) over 1 week, 4 additions and 3 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.webkit:webkit&package-manager=gradle&previous-version=1.5.0&new-version=1.6.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] removes safe casting from nullables in kotlin and swift<br />
     <sub>[#3284](https://github.com/flutter/packages/pull/3284) merged on February 28, 2023 &mdash; **Small:** [26 comments](https://github.com/flutter/packages/pull/3284) over 4 days, 117 additions and 112 deletions in 28 files</sub><br />
