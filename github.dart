@@ -102,7 +102,7 @@ query LatestChanges(\$owner: String!, \$repository: String!, \$after: String) {
                           }
                         }
                       }
-                      latestReviews(first: 5) {
+                      latestReviews(first: 10) {
                         nodes {
                           author {
                             login
