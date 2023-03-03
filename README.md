@@ -142,7 +142,7 @@
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Harry Terkelsen](https://github.com/hterkelsen)</sub><br />
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Use AnimatedSwitcher's _childNumber as Key in layoutBuilder's Stack"<br />
-    <sub>[#121835](https://github.com/flutter/flutter/pull/121835) merged on March 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/121835) over 41 minutes, 15 additions and 38 deletions in 2 files</sub><br />
+    <sub>[#121835](https://github.com/flutter/flutter/pull/121835) merged on March 2, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/121835) over 41 minutes, 15 additions and 38 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Christopher Fujino](https://github.com/christopherfujino), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; flutter_tool: only enable wasm compile in master channel<br />
