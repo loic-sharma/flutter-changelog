@@ -44,7 +44,8 @@ query LatestChanges($owner: String!, $repository: String!, $after: String) {
                           }
                         }
                       }
-                      latestReviews(first: 10) {
+                      latestReviews(first: 5) {
+                        totalCount
                         nodes {
                           author {
                             login

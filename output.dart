@@ -88,6 +88,14 @@ void writeCommitsList(
       output.write('<sub>');
       output.write('Reviewed by: ');
       output.write(reviewers);
+
+      final extraReviewers = pullRequest.totalReviews - pullRequest.reviews.length;
+      if (extraReviewers > 0) {
+
+        output.write(', and ');
+        output.write('[${_pluralize(extraReviewers, 'other')}](${pullRequest.url})');
+      }
+
       output.write('</sub>');
       output.write('<br />');
       output.writeln();

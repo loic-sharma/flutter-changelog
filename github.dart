@@ -102,7 +102,8 @@ query LatestChanges(\$owner: String!, \$repository: String!, \$after: String) {
                           }
                         }
                       }
-                      latestReviews(first: 10) {
+                      latestReviews(first: 5) {
+                        totalCount
                         nodes {
                           author {
                             login
@@ -196,6 +197,7 @@ class PullRequest {
     required this.authorName,
     required this.authorUrl,
     required this.authorOrganizations,
+    required this.totalReviews,
     required this.reviews,
     required this.issue,
   });
@@ -217,6 +219,7 @@ class PullRequest {
   final Uri authorUrl;
   final List<String> authorOrganizations;
 
+  final int totalReviews;
   final List<Review> reviews;
 
   final Issue? issue;
@@ -245,6 +248,7 @@ class PullRequest {
         for (final organization in organizations ?? [])
           (organization['name'] as String).toLowerCase(),
       ],
+      totalReviews: json['latestReviews']['totalCount'] as int,
       reviews: [
         for (Map<String, dynamic> review in reviews)
           Review.fromJson(review),
