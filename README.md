@@ -971,7 +971,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Roll Dart SDK from b1016d8f293a to c757f4bf468d (2 revisions)"<br />
-    <sub>[#40054](https://github.com/flutter/engine/pull/40054) merged on March 3, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40054) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#40054](https://github.com/flutter/engine/pull/40054) merged on March 3, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40054) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Revert "[lint + clang tidy] add lint check for python file changes"<br />
