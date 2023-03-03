@@ -1382,7 +1382,7 @@
 
 ### February 25, 2023 to March 3, 2023
 
-20 commits.
+21 commits.
 
 * **[Preston Schwartz](https://github.com/FXschwartz)** &mdash; [image_picker_android] Adds Android 13 photo picker functionality<br />
     <sub>[#3267](https://github.com/flutter/packages/pull/3267) merged on March 1, 2023 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/3267) over 6 days, 162 additions and 13 deletions in 8 files</sub><br />
@@ -1453,6 +1453,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [camera] Update minimum Flutter version to 3.3 and iOS 11<br />
     <sub>[#3296](https://github.com/flutter/packages/pull/3296) merged on February 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3296) over 2 days, 82 additions and 102 deletions in 19 files</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Only check generated files on master<br />
+    <sub>[#3357](https://github.com/flutter/packages/pull/3357) merged on March 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3357) over 19 hours, 8 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Fix the example for default values in the README<br />
     <sub>[#3231](https://github.com/flutter/packages/pull/3231) merged on March 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3231) over 1 week, 7 additions and 3 deletions in 3 files</sub><br />
