@@ -1491,12 +1491,16 @@
 
 ### February 25, 2023 to March 3, 2023
 
-25 commits.
+26 commits.
 
 * **[Preston Schwartz](https://github.com/FXschwartz)** &mdash; [image_picker_android] Adds Android 13 photo picker functionality<br />
     <sub>[#3267](https://github.com/flutter/packages/pull/3267) merged on March 1, 2023 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/3267) over 6 days, 162 additions and 13 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
     <sub><details><summary>1 image...</summary>![sdk30-photo-picker](https://user-images.githubusercontent.com/16527593/215168722-36c04871-aa5b-46d4-a231-c9bbd6e5bc10.gif)  |  ![sdk33-photo-picker](https://user-images.githubusercontent.com/16527593/215168683-9b1cdf78-ef99-487d-b19c-ebd0ea5b5f77.gif)</details></sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Align Flutter and Dart SDK constraints<br />
+    <sub>[#3349](https://github.com/flutter/packages/pull/3349) merged on March 4, 2023 &mdash; **Extra large:** [29 comments](https://github.com/flutter/packages/pull/3349) over 2 days, 1363 additions and 838 deletions in 496 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Jonah Williams](https://github.com/jonahwilliams), [chunhtai](https://github.com/chunhtai), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci+various] Partially enable javac warning checks<br />
     <sub>[#3293](https://github.com/flutter/packages/pull/3293) merged on March 2, 2023 &mdash; **Large:** [22 comments](https://github.com/flutter/packages/pull/3293) over 6 days, 436 additions and 70 deletions in 39 files</sub><br />
