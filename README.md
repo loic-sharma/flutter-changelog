@@ -1474,7 +1474,7 @@
 
 ### February 25, 2023 to March 3, 2023
 
-24 commits.
+25 commits.
 
 * **[Preston Schwartz](https://github.com/FXschwartz)** &mdash; [image_picker_android] Adds Android 13 photo picker functionality<br />
     <sub>[#3267](https://github.com/flutter/packages/pull/3267) merged on March 1, 2023 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/3267) over 6 days, 162 additions and 13 deletions in 8 files</sub><br />
@@ -1505,6 +1505,10 @@
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] removes safe casting from nullables in kotlin and swift<br />
     <sub>[#3284](https://github.com/flutter/packages/pull/3284) merged on February 28, 2023 &mdash; **Small:** [26 comments](https://github.com/flutter/packages/pull/3284) over 4 days, 117 additions and 112 deletions in 28 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Enable warnings-as-errors on Android<br />
+    <sub>[#3356](https://github.com/flutter/packages/pull/3356) merged on March 4, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/3356) over 1 day, 157 additions and 132 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Enable warnings as errors for remaining languages<br />
     <sub>[#3317](https://github.com/flutter/packages/pull/3317) merged on February 28, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/3317) over 22 hours, 127 additions and 155 deletions in 36 files</sub><br />
