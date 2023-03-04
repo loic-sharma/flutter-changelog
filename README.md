@@ -1470,7 +1470,7 @@
 
 ### February 25, 2023 to March 3, 2023
 
-23 commits.
+24 commits.
 
 * **[Preston Schwartz](https://github.com/FXschwartz)** &mdash; [image_picker_android] Adds Android 13 photo picker functionality<br />
     <sub>[#3267](https://github.com/flutter/packages/pull/3267) merged on March 1, 2023 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/3267) over 6 days, 162 additions and 13 deletions in 8 files</sub><br />
@@ -1541,6 +1541,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [camera] Update minimum Flutter version to 3.3 and iOS 11<br />
     <sub>[#3296](https://github.com/flutter/packages/pull/3296) merged on February 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3296) over 2 days, 82 additions and 102 deletions in 19 files</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Increase Android platform test sharding<br />
+    <sub>[#3365](https://github.com/flutter/packages/pull/3365) merged on March 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3365) over 9 hours, 7 additions and 5 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [Espresso] Update truth package to 1.1.3<br />
     <sub>[#3358](https://github.com/flutter/packages/pull/3358) merged on March 3, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3358) over 21 hours, 9 additions and 5 deletions in 4 files</sub><br />
