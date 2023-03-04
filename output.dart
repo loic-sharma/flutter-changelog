@@ -4,21 +4,31 @@ import 'package:intl/intl.dart';
 
 import './github.dart';
 
-typedef ChangelogWriter = Future<void> Function(IOSink list, IOSink table);
+typedef ChangelogWriter = Future<void> Function(
+  IOSink readme,
+  IOSink list,
+  IOSink table,
+);
 
 Future<void> writeChangelog(ChangelogWriter changelog) async {
-  final list = File('README.md').openWrite();
+  final readme = File('README.md').openWrite();
+  readme.writeln('# Flutter changelog');
+  readme.writeln();
+
+  final list = File('list.md').openWrite();
   list.writeln('# Flutter changelog');
   list.writeln();
 
-  final table = File('CHANGELOG.md').openWrite();
+  final table = File('table.md').openWrite();
   table.writeln('# Flutter changelog');
   table.writeln();
 
-  await changelog(list, table);
+  await changelog(readme, list, table);
+  await readme.flush();
   await list.flush();
   await table.flush();
 
+  readme.close();
   list.close();
   table.close();
 }
@@ -27,8 +37,12 @@ void writeCommitsList(
   IOSink output,
   String owner,
   String repository,
-  Map<String, List<Commit>> commits
+  Map<String, List<Commit>> commits, {
+    bool addBreaks = true,
+  }
 ) {
+  final htmlBreak = addBreaks ? '<br />' : '';
+
   output.writeln('## $owner/$repository');
   output.writeln();
 
@@ -67,7 +81,7 @@ void writeCommitsList(
       output.write('**[${pullRequest.authorName ?? pullRequest.authorLogin}](${pullRequest.authorUrl})** ');
       output.write('&mdash; ');
       output.write(pullRequest.title);
-      output.write('<br />');
+      output.write(htmlBreak);
       output.writeln();
 
       output.write('    ');
@@ -81,7 +95,7 @@ void writeCommitsList(
       output.write('${_pluralize(pullRequest.deletions, 'deletion')} in ');
       output.write(_pluralize(pullRequest.changedFiles, 'file'));
       output.write('</sub>');
-      output.write('<br />');
+      output.write(htmlBreak);
       output.writeln();
 
       output.write('    ');
@@ -97,7 +111,7 @@ void writeCommitsList(
       }
 
       output.write('</sub>');
-      output.write('<br />');
+      output.write(htmlBreak);
       output.writeln();
 
       if (images.isNotEmpty) {

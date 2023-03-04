@@ -8,7 +8,7 @@ import './output.dart';
 void main(List<String> arguments) async {
   String? token = Platform.environment['GITHUB_TOKEN'];
 
-  await writeChangelog((list, table) async {
+  await writeChangelog((readme, list, table) async {
     // Add the last 3 weeks of commits starting on Saturday.
     DateTime start = DateTime.now().subtract(Duration(days: 21));
     start = DateTime(start.year, start.month, start.day);
@@ -47,7 +47,8 @@ void main(List<String> arguments) async {
         after = changes.endCursor;
       }
 
-      writeCommitsList(list, owner, repository, commits);
+      writeCommitsList(readme, owner, repository, commits, addBreaks: true);
+      writeCommitsList(list, owner, repository, commits, addBreaks: false);
       writeCommitsTable(table, owner, repository, commits);
     }
   });
