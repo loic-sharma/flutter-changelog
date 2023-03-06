@@ -4,7 +4,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-7 commits.
+8 commits.
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Removes single window assumptions from `flutter_test`<br />
     <sub>[#121549](https://github.com/flutter/flutter/pull/121549) merged on March 6, 2023 &mdash; **Extra large:** [112 comments](https://github.com/flutter/flutter/pull/121549) over 6 days, 2267 additions and 1308 deletions in 16 files</sub><br />
@@ -34,6 +34,10 @@
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Revert "Removes single window assumptions from `flutter_test`"<br />
     <sub>[#122037](https://github.com/flutter/flutter/pull/122037) merged on March 6, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/122037) over 12 minutes, 1310 additions and 2269 deletions in 16 files</sub><br />
     <sub>Reviewed by: [Tae Hyung Kim](https://github.com/thkim1011)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Reland "Speed up first asset load by using the binary-formatted asset manifest for image resolution<br />
+    <sub>[#121322](https://github.com/flutter/flutter/pull/121322) merged on March 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/121322) over 1 week, 93 additions and 156 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 ### February 25, 2023 to March 3, 2023
 
