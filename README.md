@@ -4,7 +4,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-8 commits.
+11 commits.
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Removes single window assumptions from `flutter_test`<br />
     <sub>[#121549](https://github.com/flutter/flutter/pull/121549) merged on March 6, 2023 &mdash; **Extra large:** [112 comments](https://github.com/flutter/flutter/pull/121549) over 6 days, 2267 additions and 1308 deletions in 16 files</sub><br />
@@ -15,6 +15,10 @@
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2023-02-24 3 04 29 PM](https://user-images.githubusercontent.com/15033982/221222322-7674ef0f-6f3f-4c29-a97c-070bef7dfe8f.png)</details></sub>
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update test font<br />
+    <sub>[#121306](https://github.com/flutter/flutter/pull/121306) merged on March 6, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/121306) over 1 week, 290 additions and 350 deletions in 23 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
 * **[Seiya Kokushi](https://github.com/ronnnnn)** &mdash; [tool] Proposal to multiple defines for --dart-define-from-file<br />
     <sub>[#120878](https://github.com/flutter/flutter/pull/120878) merged on March 6, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/120878) over 2 weeks, 156 additions and 73 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
@@ -22,6 +26,14 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix license page title color issues<br />
     <sub>[#121872](https://github.com/flutter/flutter/pull/121872) merged on March 6, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/121872) over 3 days, 167 additions and 45 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; pin flutter_plugin_android_lifecycle and roll other pub deps<br />
+    <sub>[#122043](https://github.com/flutter/flutter/pull/122043) merged on March 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122043) over 1 hour, 13 additions and 9 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Add backward compatibility in proxied_devices.<br />
+    <sub>[#122040](https://github.com/flutter/flutter/pull/122040) merged on March 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122040) over 2 hours, 2 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[J-P Nurmi](https://github.com/jpnurmi)** &mdash; Add missing properties to `ListTileTheme.merge`<br />
     <sub>[#121975](https://github.com/flutter/flutter/pull/121975) merged on March 6, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/121975) over 1 day, 92 additions and 0 deletions in 2 files</sub><br />
