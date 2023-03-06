@@ -4,7 +4,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-12 commits.
+13 commits.
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Removes single window assumptions from `flutter_test`
     <sub>[#121549](https://github.com/flutter/flutter/pull/121549) merged on March 6, 2023 &mdash; **Extra large:** [112 comments](https://github.com/flutter/flutter/pull/121549) over 6 days, 2267 additions and 1308 deletions in 16 files</sub>
@@ -22,6 +22,10 @@
 * **[Seiya Kokushi](https://github.com/ronnnnn)** &mdash; [tool] Proposal to multiple defines for --dart-define-from-file
     <sub>[#120878](https://github.com/flutter/flutter/pull/120878) merged on March 6, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/120878) over 2 weeks, 156 additions and 73 deletions in 4 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds vmservices for getting iOS build options
+    <sub>[#121736](https://github.com/flutter/flutter/pull/121736) merged on March 6, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/121736) over 5 days, 198 additions and 87 deletions in 11 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix license page title color issues
     <sub>[#121872](https://github.com/flutter/flutter/pull/121872) merged on March 6, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/121872) over 3 days, 167 additions and 45 deletions in 2 files</sub>
