@@ -125,11 +125,11 @@
 
 * **[Daniel Austin](https://github.com/Danau5tin)** &mdash; Added `_ErrorDescription.toString()`
     <sub>[#118263](https://github.com/flutter/flutter/pull/118263) merged on March 1, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/118263) over 1 month, 14 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Jim Gerth](https://github.com/JimGerth)** &mdash; Use AnimatedSwitcher's _childNumber as Key in layoutBuilder's Stack
     <sub>[#121408](https://github.com/flutter/flutter/pull/121408) merged on February 28, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/121408) over 4 days, 38 additions and 15 deletions in 2 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix documentation error in README of `integration_test`
     <sub>[#117977](https://github.com/flutter/flutter/pull/117977) merged on February 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/117977) over 1 month, 13 additions and 3 deletions in 1 file</sub>
@@ -205,11 +205,11 @@
 
 * **[Davide Dessì](https://github.com/DavideDessi319)** &mdash; Fix CupertinoSliverNavigationBar's alwaysShowMiddle not working properly during page transition
     <sub>[#120895](https://github.com/flutter/flutter/pull/120895) merged on March 1, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/120895) over 1 week, 66 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Kate Lovett](https://github.com/Piinks)</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Give error on too many arguments to `flutter config`
     <sub>[#121494](https://github.com/flutter/flutter/pull/121494) merged on February 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/121494) over 19 hours, 23 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [conductor] Roll engine whenever version is out of date
     <sub>[#121502](https://github.com/flutter/flutter/pull/121502) merged on March 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/121502) over 4 days, 59 additions and 30 deletions in 2 files</sub>
@@ -277,7 +277,7 @@
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Reorganize CLI flags for `build web`
     <sub>[#121837](https://github.com/flutter/flutter/pull/121837) merged on March 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/121837) over 1 hour, 44 additions and 30 deletions in 1 file</sub>
-    <sub>Reviewed by: [Harry Terkelsen](https://github.com/hterkelsen), [Yegor](https://github.com/yjbanov)</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Harry Terkelsen](https://github.com/hterkelsen)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Windows plugin_test to be unflaky
     <sub>[#113711](https://github.com/flutter/flutter/pull/113711) merged on March 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/113711) over 4 months, 0 additions and 1 deletion in 1 file</sub>
@@ -293,7 +293,7 @@
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_ios flutter_gallery_ios_sksl_warmup__transition_perf to be flaky
     <sub>[#121232](https://github.com/flutter/flutter/pull/121232) merged on March 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/121232) over 1 week, 1 addition and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jenn Magder](https://github.com/jmagman)</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "Remove references to Observatory (#118577)" 
     <sub>[#121606](https://github.com/flutter/flutter/pull/121606) merged on February 28, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/121606) over 2 hours, 518 additions and 490 deletions in 90 files</sub>
@@ -366,7 +366,7 @@
 
 * **[suragch](https://github.com/suragch)** &mdash; fix spelling typo
     <sub>[#120062](https://github.com/flutter/flutter/pull/120062) merged on February 21, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/120062) over 2 weeks, 2 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Update jdk in cirrus dockerfile image.
     <sub>[#121251](https://github.com/flutter/flutter/pull/121251) merged on February 22, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/121251) over 4 hours, 25 additions and 14 deletions in 1 file</sub>
@@ -402,7 +402,7 @@
 
 * **[codiss](https://github.com/xuelongqy)** &mdash; Fix Material3 TabBarTheme.dividerColor not working
     <sub>[#119690](https://github.com/flutter/flutter/pull/119690) merged on February 23, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/119690) over 3 weeks, 31 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Lioness100](https://github.com/Lioness100)** &mdash; Fix typos
     <sub>[#121171](https://github.com/flutter/flutter/pull/121171) merged on February 23, 2023 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/121171) over 1 day, 285 additions and 284 deletions in 175 files</sub>
@@ -438,7 +438,7 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; remove Christopher Fujino from codeowners of //dev/ci
     <sub>[#121281](https://github.com/flutter/flutter/pull/121281) merged on February 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/121281) over 2 hours, 0 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [Jenn Magder](https://github.com/jmagman)</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Ricardo Amador](https://github.com/ricardoamador)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Rename WindowPadding to ViewPadding
     <sub>[#121152](https://github.com/flutter/flutter/pull/121152) merged on February 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/121152) over 1 day, 149 additions and 89 deletions in 15 files</sub>
@@ -482,7 +482,7 @@
 
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Remove outdated TODO
     <sub>[#121200](https://github.com/flutter/flutter/pull/121200) merged on February 23, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/121200) over 16 hours, 0 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Add a note about updating and fix env variable
     <sub>[#121293](https://github.com/flutter/flutter/pull/121293) merged on February 24, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/121293) over 1 day, 2 additions and 3 deletions in 1 file</sub>
@@ -502,7 +502,7 @@
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix buggy formula for critically-damped springs
     <sub>[#120488](https://github.com/flutter/flutter/pull/120488) merged on February 23, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/120488) over 1 week, 12 additions and 9 deletions in 2 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Do not swallow the error from the licenses acceptance
     <sub>[#121243](https://github.com/flutter/flutter/pull/121243) merged on February 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/121243) over 2 minutes, 1 addition and 1 deletion in 1 file</sub>
@@ -510,7 +510,7 @@
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Reland Button padding M3
     <sub>[#119656](https://github.com/flutter/flutter/pull/119656) merged on February 22, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/119656) over 3 weeks, 339 additions and 32 deletions in 10 files</sub>
-    <sub>Reviewed by: [Eilidh Southren](https://github.com/esouthren), [Pierre-Louis](https://github.com/guidezpl)</sub>
+    <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl), [Eilidh Southren](https://github.com/esouthren)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux run_debug_test_linux to be unflaky
     <sub>[#121237](https://github.com/flutter/flutter/pull/121237) merged on February 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/121237) over 1 day, 0 additions and 1 deletion in 1 file</sub>
@@ -522,7 +522,7 @@
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Speed up first asset load by using the binary-formatted asset manifest for image resolution"
     <sub>[#121220](https://github.com/flutter/flutter/pull/121220) merged on February 23, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/121220) over 8 hours, 149 additions and 98 deletions in 6 files</sub>
-    <sub>Reviewed by: [Xilai Zhang](https://github.com/XilaiZhang), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Xilai Zhang](https://github.com/XilaiZhang)</sub>
 
 </details>
 
