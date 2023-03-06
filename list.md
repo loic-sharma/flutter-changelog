@@ -511,9 +511,18 @@
 
 ## flutter/engine
 
+### March 4, 2023 to March 10, 2023
+
+1 commits.
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Round glyph locations per-run to fix per-glyph jitter
+    <sub>[#40073](https://github.com/flutter/engine/pull/40073) merged on March 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40073) over 2 days, 64 additions and 14 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 ### February 25, 2023 to March 3, 2023
 
-78 commits.
+<details>
+<summary>78 commits...</summary>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Patch up sundry issues in the Vulkan backend.
     <sub>[#39905](https://github.com/flutter/engine/pull/39905) merged on February 28, 2023 &mdash; **Extra large:** [25 comments](https://github.com/flutter/engine/pull/39905) over 21 hours, 2869 additions and 2430 deletions in 71 files</sub>
@@ -828,6 +837,8 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Reland: Add testing hints (#39868)
     <sub>[#39931](https://github.com/flutter/engine/pull/39931) merged on February 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/39931) over 20 hours, 24 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+</details>
 
 ### February 18, 2023 to February 24, 2023
 

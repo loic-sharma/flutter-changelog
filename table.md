@@ -150,9 +150,18 @@ Name | Author | Reviewers | Size
 
 ## flutter/engine
 
+### March 4, 2023 to March 10, 2023
+
+1 commits.
+
+Name | Author | Reviewers | Size
+-- | -- | -- | --
+[[Impeller] Round glyph locations per-run to fix per-glyph jitter](https://github.com/flutter/engine/pull/40073)<br /><sub>[#40073](https://github.com/flutter/engine/pull/40073) merged on March 6, 2023 <br /> [2 comments](https://github.com/flutter/engine/pull/40073) over 2 days</sub> | [bdero](https://github.com/bdero) | [chinmaygarde](https://github.com/chinmaygarde)<br />[jonahwilliams](https://github.com/jonahwilliams) | <div title="64 additions and 14 deletions in 2 files">S</div>
+
 ### February 25, 2023 to March 3, 2023
 
-78 commits.
+<details>
+<summary>78 commits...</summary>
 
 Name | Author | Reviewers | Size
 -- | -- | -- | --
@@ -234,6 +243,8 @@ Name | Author | Reviewers | Size
 [[Impeller] Reland uniquely label offscreen resources](https://github.com/flutter/engine/pull/39995)<br /><sub>[#39995](https://github.com/flutter/engine/pull/39995) merged on March 2, 2023 <br /> [2 comments](https://github.com/flutter/engine/pull/39995) over 56 minutes</sub> | [bdero](https://github.com/bdero) | [jonahwilliams](https://github.com/jonahwilliams) | <div title="30 additions and 29 deletions in 12 files">S</div>
 [Revert "[Impeller] Uniquely label offscreen resources"](https://github.com/flutter/engine/pull/39993)<br /><sub>[#39993](https://github.com/flutter/engine/pull/39993) merged on March 1, 2023 <br /> [1 comment](https://github.com/flutter/engine/pull/39993) over 1 minute</sub> | [godofredoc](https://github.com/godofredoc) | [fluttergithubbot](https://github.com/fluttergithubbot) | <div title="28 additions and 28 deletions in 11 files">S</div>
 [Reland: Add testing hints (#39868)](https://github.com/flutter/engine/pull/39931)<br /><sub>[#39931](https://github.com/flutter/engine/pull/39931) merged on February 28, 2023 <br /> [0 comments](https://github.com/flutter/engine/pull/39931) over 20 hours</sub> | [gspencergoog](https://github.com/gspencergoog) | [cbracken](https://github.com/cbracken) | <div title="24 additions and 1 deletion in 2 files">S</div>
+
+</details>
 
 ### February 18, 2023 to February 24, 2023
 
