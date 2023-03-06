@@ -4,7 +4,11 @@
 
 ### March 4, 2023 to March 10, 2023
 
-4 commits.
+6 commits.
+
+* **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Removes single window assumptions from `flutter_test`
+    <sub>[#121549](https://github.com/flutter/flutter/pull/121549) merged on March 6, 2023 &mdash; **Extra large:** [112 comments](https://github.com/flutter/flutter/pull/121549) over 6 days, 2267 additions and 1308 deletions in 16 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Eilidh Southren](https://github.com/esouthren)** &mdash; Bottom appbar/sheet shadow property
     <sub>[#121406](https://github.com/flutter/flutter/pull/121406) merged on March 6, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/121406) over 1 week, 152 additions and 18 deletions in 10 files</sub>
@@ -18,6 +22,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix license page title color issues
     <sub>[#121872](https://github.com/flutter/flutter/pull/121872) merged on March 6, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/121872) over 3 days, 167 additions and 45 deletions in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+
+* **[J-P Nurmi](https://github.com/jpnurmi)** &mdash; Add missing properties to `ListTileTheme.merge`
+    <sub>[#121975](https://github.com/flutter/flutter/pull/121975) merged on March 6, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/121975) over 1 day, 92 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Use `dart pub` instead of `dart __deprecated pub`
     <sub>[#121605](https://github.com/flutter/flutter/pull/121605) merged on March 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/121605) over 5 days, 62 additions and 42 deletions in 7 files</sub>

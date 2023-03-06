@@ -4,13 +4,15 @@
 
 ### March 4, 2023 to March 10, 2023
 
-4 commits.
+6 commits.
 
 Name | Author | Reviewers | Size
 -- | -- | -- | --
+[Removes single window assumptions from `flutter_test`](https://github.com/flutter/flutter/pull/121549)<br /><sub>[#121549](https://github.com/flutter/flutter/pull/121549) merged on March 6, 2023 <br /> [112 comments](https://github.com/flutter/flutter/pull/121549) over 6 days</sub> | [pdblasi-google](https://github.com/pdblasi-google) | [goderbauer](https://github.com/goderbauer) | <div title="2267 additions and 1308 deletions in 16 files">XL</div>
 [Bottom appbar/sheet shadow property](https://github.com/flutter/flutter/pull/121406)<br /><sub>[#121406](https://github.com/flutter/flutter/pull/121406) merged on March 6, 2023 <br /> [14 comments](https://github.com/flutter/flutter/pull/121406) over 1 week</sub> | [esouthren](https://github.com/esouthren) | [HansMuller](https://github.com/HansMuller) | <div title="152 additions and 18 deletions in 10 files">S</div>
 [[tool] Proposal to multiple defines for --dart-define-from-file](https://github.com/flutter/flutter/pull/120878)<br /><sub>[#120878](https://github.com/flutter/flutter/pull/120878) merged on March 6, 2023 <br /> [16 comments](https://github.com/flutter/flutter/pull/120878) over 2 weeks</sub> | [ronnnnn](https://github.com/ronnnnn) | [christopherfujino](https://github.com/christopherfujino)<br />[andrewkolos](https://github.com/andrewkolos) | <div title="156 additions and 73 deletions in 4 files">S</div>
 [Fix license page title color issues](https://github.com/flutter/flutter/pull/121872)<br /><sub>[#121872](https://github.com/flutter/flutter/pull/121872) merged on March 6, 2023 <br /> [8 comments](https://github.com/flutter/flutter/pull/121872) over 3 days</sub> | [TahaTesser](https://github.com/TahaTesser) | [HansMuller](https://github.com/HansMuller) | <div title="167 additions and 45 deletions in 2 files">S</div>
+[Add missing properties to `ListTileTheme.merge`](https://github.com/flutter/flutter/pull/121975)<br /><sub>[#121975](https://github.com/flutter/flutter/pull/121975) merged on March 6, 2023 <br /> [7 comments](https://github.com/flutter/flutter/pull/121975) over 1 day</sub> | [jpnurmi](https://github.com/jpnurmi) | [HansMuller](https://github.com/HansMuller)<br />[TahaTesser](https://github.com/TahaTesser) | <div title="92 additions and 0 deletions in 2 files">S</div>
 [Use `dart pub` instead of `dart __deprecated pub`](https://github.com/flutter/flutter/pull/121605)<br /><sub>[#121605](https://github.com/flutter/flutter/pull/121605) merged on March 6, 2023 <br /> [6 comments](https://github.com/flutter/flutter/pull/121605) over 5 days</sub> | [sigurdm](https://github.com/sigurdm) | [christopherfujino](https://github.com/christopherfujino) | <div title="62 additions and 42 deletions in 7 files">S</div>
 
 ### February 25, 2023 to March 3, 2023
