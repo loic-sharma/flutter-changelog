@@ -4,7 +4,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-11 commits.
+12 commits.
 
 Name | Author | Reviewers | Size
 -- | -- | -- | --
@@ -18,6 +18,7 @@ Name | Author | Reviewers | Size
 [Add missing properties to `ListTileTheme.merge`](https://github.com/flutter/flutter/pull/121975)<br /><sub>[#121975](https://github.com/flutter/flutter/pull/121975) merged on March 6, 2023 <br /> [7 comments](https://github.com/flutter/flutter/pull/121975) over 1 day</sub> | [jpnurmi](https://github.com/jpnurmi) | [HansMuller](https://github.com/HansMuller)<br />[TahaTesser](https://github.com/TahaTesser) | <div title="92 additions and 0 deletions in 2 files">S</div>
 [Use `dart pub` instead of `dart __deprecated pub`](https://github.com/flutter/flutter/pull/121605)<br /><sub>[#121605](https://github.com/flutter/flutter/pull/121605) merged on March 6, 2023 <br /> [6 comments](https://github.com/flutter/flutter/pull/121605) over 5 days</sub> | [sigurdm](https://github.com/sigurdm) | [christopherfujino](https://github.com/christopherfujino) | <div title="62 additions and 42 deletions in 7 files">S</div>
 [Revert "Removes single window assumptions from `flutter_test`"](https://github.com/flutter/flutter/pull/122037)<br /><sub>[#122037](https://github.com/flutter/flutter/pull/122037) merged on March 6, 2023 <br /> [1 comment](https://github.com/flutter/flutter/pull/122037) over 12 minutes</sub> | [pdblasi-google](https://github.com/pdblasi-google) | [thkim1011](https://github.com/thkim1011) | <div title="1310 additions and 2269 deletions in 16 files">XL</div>
+[Revert "Update test font"](https://github.com/flutter/flutter/pull/122053)<br /><sub>[#122053](https://github.com/flutter/flutter/pull/122053) merged on March 6, 2023 <br /> [1 comment](https://github.com/flutter/flutter/pull/122053) over 6 minutes</sub> | [LongCatIsLooong](https://github.com/LongCatIsLooong) | [christopherfujino](https://github.com/christopherfujino) | <div title="350 additions and 290 deletions in 23 files">L</div>
 [Reland "Speed up first asset load by using the binary-formatted asset manifest for image resolution](https://github.com/flutter/flutter/pull/121322)<br /><sub>[#121322](https://github.com/flutter/flutter/pull/121322) merged on March 6, 2023 <br /> [3 comments](https://github.com/flutter/flutter/pull/121322) over 1 week</sub> | [andrewkolos](https://github.com/andrewkolos) | [jonahwilliams](https://github.com/jonahwilliams) | <div title="93 additions and 156 deletions in 5 files">S</div>
 
 ### February 25, 2023 to March 3, 2023
