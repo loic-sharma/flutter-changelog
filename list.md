@@ -1176,7 +1176,7 @@
     <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps] Relax the Android renderer request test
-    <sub>[#3364](https://github.com/flutter/packages/pull/3364) merged on March 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3364) over 1 hour, 8 additions and 1 deletion in 1 file</sub>
+    <sub>[#3364](https://github.com/flutter/packages/pull/3364) merged on March 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3364) over 1 hour, 8 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Only check generated files on master
