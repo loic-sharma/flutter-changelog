@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### March 4, 2023 to March 10, 2023
+
+1 commits.
+
+Name | Author | Reviewers | Size
+-- | -- | -- | --
+[Use `dart pub` instead of `dart __deprecated pub`](https://github.com/flutter/flutter/pull/121605)<br /><sub>[#121605](https://github.com/flutter/flutter/pull/121605) merged on March 6, 2023 <br /> [6 comments](https://github.com/flutter/flutter/pull/121605) over 5 days</sub> | [sigurdm](https://github.com/sigurdm) | [christopherfujino](https://github.com/christopherfujino) | <div title="62 additions and 42 deletions in 7 files">S</div>
+
 ### February 25, 2023 to March 3, 2023
 
-68 commits.
+<details>
+<summary>68 commits...</summary>
 
 Name | Author | Reviewers | Size
 -- | -- | -- | --
@@ -76,6 +85,8 @@ Name | Author | Reviewers | Size
 [Revert "[flutter_tools] show web-server in flutter devices"](https://github.com/flutter/flutter/pull/121532)<br /><sub>[#121532](https://github.com/flutter/flutter/pull/121532) merged on February 27, 2023 <br /> [1 comment](https://github.com/flutter/flutter/pull/121532) over 1 hour</sub> | [christopherfujino](https://github.com/christopherfujino) | [DanTup](https://github.com/DanTup) | <div title="32 additions and 3 deletions in 3 files">S</div>
 [Reland: Add visual density for menu default style (#114878)](https://github.com/flutter/flutter/pull/121918)<br /><sub>[#121918](https://github.com/flutter/flutter/pull/121918) merged on March 4, 2023 <br /> [4 comments](https://github.com/flutter/flutter/pull/121918) over 1 hour</sub> | [QuncCccccc](https://github.com/QuncCccccc) | [gspencergoog](https://github.com/gspencergoog) | <div title="155 additions and 36 deletions in 3 files">S</div>
 [Revert "Add visual density for menu default style"](https://github.com/flutter/flutter/pull/121810)<br /><sub>[#121810](https://github.com/flutter/flutter/pull/121810) merged on March 2, 2023 <br /> [5 comments](https://github.com/flutter/flutter/pull/121810) over 1 hour</sub> | [QuncCccccc](https://github.com/QuncCccccc) | [Renzo-Olivares](https://github.com/Renzo-Olivares)<br />[goderbauer](https://github.com/goderbauer)<br />[esouthren](https://github.com/esouthren)<br />[chunhtai](https://github.com/chunhtai) | <div title="36 additions and 155 deletions in 3 files">S</div>
+
+</details>
 
 ### February 18, 2023 to February 24, 2023
 

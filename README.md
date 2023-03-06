@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### March 4, 2023 to March 10, 2023
+
+1 commits.
+
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Use `dart pub` instead of `dart __deprecated pub`<br />
+    <sub>[#121605](https://github.com/flutter/flutter/pull/121605) merged on March 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/121605) over 5 days, 62 additions and 42 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
 ### February 25, 2023 to March 3, 2023
 
-68 commits.
+<details>
+<summary>68 commits...</summary>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `OverlayPortal` <br />
     <sub>[#105335](https://github.com/flutter/flutter/pull/105335) merged on March 2, 2023 &mdash; **Extra large:** [430 comments](https://github.com/flutter/flutter/pull/105335) over 9 months, 3066 additions and 132 deletions in 10 files</sub><br />
@@ -284,6 +293,8 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Revert "Add visual density for menu default style"<br />
     <sub>[#121810](https://github.com/flutter/flutter/pull/121810) merged on March 2, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/121810) over 1 hour, 36 additions and 155 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Michael Goderbauer](https://github.com/goderbauer), [Eilidh Southren](https://github.com/esouthren), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+</details>
 
 ### February 18, 2023 to February 24, 2023
 
