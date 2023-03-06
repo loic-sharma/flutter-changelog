@@ -4,7 +4,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-6 commits.
+7 commits.
 
 Name | Author | Reviewers | Size
 -- | -- | -- | --
@@ -14,6 +14,7 @@ Name | Author | Reviewers | Size
 [Fix license page title color issues](https://github.com/flutter/flutter/pull/121872)<br /><sub>[#121872](https://github.com/flutter/flutter/pull/121872) merged on March 6, 2023 <br /> [8 comments](https://github.com/flutter/flutter/pull/121872) over 3 days</sub> | [TahaTesser](https://github.com/TahaTesser) | [HansMuller](https://github.com/HansMuller) | <div title="167 additions and 45 deletions in 2 files">S</div>
 [Add missing properties to `ListTileTheme.merge`](https://github.com/flutter/flutter/pull/121975)<br /><sub>[#121975](https://github.com/flutter/flutter/pull/121975) merged on March 6, 2023 <br /> [7 comments](https://github.com/flutter/flutter/pull/121975) over 1 day</sub> | [jpnurmi](https://github.com/jpnurmi) | [HansMuller](https://github.com/HansMuller)<br />[TahaTesser](https://github.com/TahaTesser) | <div title="92 additions and 0 deletions in 2 files">S</div>
 [Use `dart pub` instead of `dart __deprecated pub`](https://github.com/flutter/flutter/pull/121605)<br /><sub>[#121605](https://github.com/flutter/flutter/pull/121605) merged on March 6, 2023 <br /> [6 comments](https://github.com/flutter/flutter/pull/121605) over 5 days</sub> | [sigurdm](https://github.com/sigurdm) | [christopherfujino](https://github.com/christopherfujino) | <div title="62 additions and 42 deletions in 7 files">S</div>
+[Revert "Removes single window assumptions from `flutter_test`"](https://github.com/flutter/flutter/pull/122037)<br /><sub>[#122037](https://github.com/flutter/flutter/pull/122037) merged on March 6, 2023 <br /> [1 comment](https://github.com/flutter/flutter/pull/122037) over 12 minutes</sub> | [pdblasi-google](https://github.com/pdblasi-google) | [thkim1011](https://github.com/thkim1011) | <div title="1310 additions and 2269 deletions in 16 files">XL</div>
 
 ### February 25, 2023 to March 3, 2023
 

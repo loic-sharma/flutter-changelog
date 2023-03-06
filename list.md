@@ -4,7 +4,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-6 commits.
+7 commits.
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Removes single window assumptions from `flutter_test`
     <sub>[#121549](https://github.com/flutter/flutter/pull/121549) merged on March 6, 2023 &mdash; **Extra large:** [112 comments](https://github.com/flutter/flutter/pull/121549) over 6 days, 2267 additions and 1308 deletions in 16 files</sub>
@@ -30,6 +30,10 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Use `dart pub` instead of `dart __deprecated pub`
     <sub>[#121605](https://github.com/flutter/flutter/pull/121605) merged on March 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/121605) over 5 days, 62 additions and 42 deletions in 7 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Revert "Removes single window assumptions from `flutter_test`"
+    <sub>[#122037](https://github.com/flutter/flutter/pull/122037) merged on March 6, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/122037) over 12 minutes, 1310 additions and 2269 deletions in 16 files</sub>
+    <sub>Reviewed by: [Tae Hyung Kim](https://github.com/thkim1011)</sub>
 
 ### February 25, 2023 to March 3, 2023
 
