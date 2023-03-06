@@ -4,7 +4,12 @@
 
 ### March 4, 2023 to March 10, 2023
 
-1 commits.
+2 commits.
+
+* **[Eilidh Southren](https://github.com/esouthren)** &mdash; Bottom appbar/sheet shadow property<br />
+    <sub>[#121406](https://github.com/flutter/flutter/pull/121406) merged on March 6, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/121406) over 1 week, 152 additions and 18 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub><details><summary>1 image...</summary>![Screenshot 2023-02-24 3 04 29 PM](https://user-images.githubusercontent.com/15033982/221222322-7674ef0f-6f3f-4c29-a97c-070bef7dfe8f.png)</details></sub>
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Use `dart pub` instead of `dart __deprecated pub`<br />
     <sub>[#121605](https://github.com/flutter/flutter/pull/121605) merged on March 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/121605) over 5 days, 62 additions and 42 deletions in 7 files</sub><br />
