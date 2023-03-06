@@ -4,11 +4,12 @@
 
 ### March 4, 2023 to March 10, 2023
 
-2 commits.
+3 commits.
 
 Name | Author | Reviewers | Size
 -- | -- | -- | --
 [Bottom appbar/sheet shadow property](https://github.com/flutter/flutter/pull/121406)<br /><sub>[#121406](https://github.com/flutter/flutter/pull/121406) merged on March 6, 2023 <br /> [14 comments](https://github.com/flutter/flutter/pull/121406) over 1 week</sub> | [esouthren](https://github.com/esouthren) | [HansMuller](https://github.com/HansMuller) | <div title="152 additions and 18 deletions in 10 files">S</div>
+[Fix license page title color issues](https://github.com/flutter/flutter/pull/121872)<br /><sub>[#121872](https://github.com/flutter/flutter/pull/121872) merged on March 6, 2023 <br /> [8 comments](https://github.com/flutter/flutter/pull/121872) over 3 days</sub> | [TahaTesser](https://github.com/TahaTesser) | [HansMuller](https://github.com/HansMuller) | <div title="167 additions and 45 deletions in 2 files">S</div>
 [Use `dart pub` instead of `dart __deprecated pub`](https://github.com/flutter/flutter/pull/121605)<br /><sub>[#121605](https://github.com/flutter/flutter/pull/121605) merged on March 6, 2023 <br /> [6 comments](https://github.com/flutter/flutter/pull/121605) over 5 days</sub> | [sigurdm](https://github.com/sigurdm) | [christopherfujino](https://github.com/christopherfujino) | <div title="62 additions and 42 deletions in 7 files">S</div>
 
 ### February 25, 2023 to March 3, 2023
