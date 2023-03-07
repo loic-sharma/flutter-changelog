@@ -4,7 +4,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-14 commits.
+15 commits.
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Removes single window assumptions from `flutter_test`<br />
     <sub>[#121549](https://github.com/flutter/flutter/pull/121549) merged on March 6, 2023 &mdash; **Extra large:** [112 comments](https://github.com/flutter/flutter/pull/121549) over 6 days, 2267 additions and 1308 deletions in 16 files</sub><br />
@@ -14,6 +14,10 @@
     <sub>[#121406](https://github.com/flutter/flutter/pull/121406) merged on March 6, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/121406) over 1 week, 152 additions and 18 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2023-02-24 3 04 29 PM](https://user-images.githubusercontent.com/15033982/221222322-7674ef0f-6f3f-4c29-a97c-070bef7dfe8f.png)</details></sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] delete unhelpful image loading e2e test<br />
+    <sub>[#122059](https://github.com/flutter/flutter/pull/122059) merged on March 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122059) over 59 minutes, 0 additions and 128 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update test font<br />
     <sub>[#121306](https://github.com/flutter/flutter/pull/121306) merged on March 6, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/121306) over 1 week, 290 additions and 350 deletions in 23 files</sub><br />
@@ -577,11 +581,15 @@
 
 ### March 4, 2023 to March 10, 2023
 
-4 commits.
+5 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Sequester all Skia<->DL interactions into the skia sub-module<br />
     <sub>[#40083](https://github.com/flutter/engine/pull/40083) merged on March 6, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/40083) over 12 hours, 4597 additions and 3764 deletions in 90 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jia Hao](https://github.com/jiahaog)** &mdash; Optimize search for the default bundle<br />
+    <sub>[#39975](https://github.com/flutter/engine/pull/39975) merged on March 7, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/39975) over 5 days, 61 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Compile skwasm with better space saving flags.<br />
     <sub>[#40093](https://github.com/flutter/engine/pull/40093) merged on March 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40093) over 2 hours, 5 additions and 6 deletions in 2 files</sub><br />
