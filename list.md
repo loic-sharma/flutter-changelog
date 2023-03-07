@@ -585,7 +585,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-9 commits.
+10 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [canvaskit] read pixels back in Picture.toImage
     <sub>[#40004](https://github.com/flutter/engine/pull/40004) merged on March 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40004) over 4 days, 59 additions and 22 deletions in 2 files</sub>
@@ -598,6 +598,10 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Optimize search for the default bundle
     <sub>[#39975](https://github.com/flutter/engine/pull/39975) merged on March 7, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/39975) over 5 days, 61 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Fix the test 'Play/DisplayListTest.CanDrawBackdropFilter/Metal'
+    <sub>[#40105](https://github.com/flutter/engine/pull/40105) merged on March 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40105) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix imports for FlutterApplication
     <sub>[#40100](https://github.com/flutter/engine/pull/40100) merged on March 7, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/40100) over 1 hour, 3 additions and 3 deletions in 1 file</sub>
