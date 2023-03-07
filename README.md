@@ -4,7 +4,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-17 commits.
+18 commits.
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Removes single window assumptions from `flutter_test`<br />
     <sub>[#121549](https://github.com/flutter/flutter/pull/121549) merged on March 6, 2023 &mdash; **Extra large:** [112 comments](https://github.com/flutter/flutter/pull/121549) over 6 days, 2267 additions and 1308 deletions in 16 files</sub><br />
@@ -70,6 +70,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Revert "Update test font"<br />
     <sub>[#122053](https://github.com/flutter/flutter/pull/122053) merged on March 6, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/122053) over 6 minutes, 350 additions and 290 deletions in 23 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "[integration_test] upgrade androidx test to 1.4.0"<br />
+    <sub>[#122106](https://github.com/flutter/flutter/pull/122106) merged on March 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122106) over 2 minutes, 67 additions and 71 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Reland "Speed up first asset load by using the binary-formatted asset manifest for image resolution<br />
     <sub>[#121322](https://github.com/flutter/flutter/pull/121322) merged on March 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/121322) over 1 week, 93 additions and 156 deletions in 5 files</sub><br />
@@ -589,7 +593,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-11 commits.
+12 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [canvaskit] read pixels back in Picture.toImage<br />
     <sub>[#40004](https://github.com/flutter/engine/pull/40004) merged on March 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40004) over 4 days, 59 additions and 22 deletions in 2 files</sub><br />
@@ -626,6 +630,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Sequester all Skia<->DL interactions into the skia sub-module (#40083)"<br />
     <sub>[#40103](https://github.com/flutter/engine/pull/40103) merged on March 7, 2023 &mdash; **Extra large:** [6 comments](https://github.com/flutter/engine/pull/40103) over 54 minutes, 3764 additions and 4597 deletions in 90 files</sub><br />
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from de9de602355a to 57e44338da37 (5 revisions)<br />
+    <sub>[#40112](https://github.com/flutter/engine/pull/40112) merged on March 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40112) over 7 hours, 142 additions and 4 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 1ae877e6c3d3 to de9de602355a (5 revisions)<br />
     <sub>[#40107](https://github.com/flutter/engine/pull/40107) merged on March 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40107) over 50 minutes, 5 additions and 160 deletions in 4 files</sub><br />
@@ -1127,11 +1135,15 @@
 
 ### March 4, 2023 to March 10, 2023
 
-1 commits.
+2 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [camera_android] Fix camera android deprecation warning for CamcorderProfile.get()<br />
     <sub>[#3273](https://github.com/flutter/packages/pull/3273) merged on March 7, 2023 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/3273) over 1 week, 218 additions and 178 deletions in 14 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Enable -Werror for Android<br />
+    <sub>[#3399](https://github.com/flutter/packages/pull/3399) merged on March 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3399) over 38 minutes, 33 additions and 13 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 ### February 25, 2023 to March 3, 2023
 
