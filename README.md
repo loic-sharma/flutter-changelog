@@ -20,7 +20,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] delete unhelpful image loading e2e test<br />
-    <sub>[#122059](https://github.com/flutter/flutter/pull/122059) merged on March 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122059) over 59 minutes, 0 additions and 128 deletions in 4 files</sub><br />
+    <sub>[#122059](https://github.com/flutter/flutter/pull/122059) merged on March 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122059) over 59 minutes, 0 additions and 128 deletions in 4 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Josh Matthews](https://github.com/jmatth)** &mdash; Fix PlatformMenuItems with onSelectedIntent are never enabled<br />
