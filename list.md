@@ -1166,7 +1166,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Braden Bagby](https://github.com/BradenBagby)** &mdash; [camera] Reland implementations of flip/change camera while recording
-    <sub>[#3272](https://github.com/flutter/packages/pull/3272) merged on March 7, 2023 &mdash; **Large:** [18 comments](https://github.com/flutter/packages/pull/3272) over 1 week, 1042 additions and 128 deletions in 27 files</sub>
+    <sub>[#3272](https://github.com/flutter/packages/pull/3272) merged on March 7, 2023 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/3272) over 1 week, 1042 additions and 128 deletions in 27 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin), [Camille Simon](https://github.com/camsim99)</sub>
 
 ### February 25, 2023 to March 3, 2023
