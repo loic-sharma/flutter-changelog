@@ -597,7 +597,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-18 commits.
+19 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [canvaskit] read pixels back in Picture.toImage
     <sub>[#40004](https://github.com/flutter/engine/pull/40004) merged on March 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40004) over 4 days, 59 additions and 22 deletions in 2 files</sub>
@@ -618,6 +618,10 @@
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Fix the test 'Play/DisplayListTest.CanDrawBackdropFilter/Metal'
     <sub>[#40105](https://github.com/flutter/engine/pull/40105) merged on March 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40105) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web][felt] Add 'archive' target + 'profile' mode
+    <sub>[#40060](https://github.com/flutter/engine/pull/40060) merged on March 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40060) over 4 days, 60 additions and 9 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix some includes missing "flutter/" prefix.
     <sub>[#40122](https://github.com/flutter/engine/pull/40122) merged on March 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40122) over 59 minutes, 5 additions and 5 deletions in 2 files</sub>
