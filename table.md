@@ -4,7 +4,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-18 commits.
+19 commits.
 
 Name | Author | Reviewers | Size
 -- | -- | -- | --
@@ -17,6 +17,7 @@ Name | Author | Reviewers | Size
 [[tool] Proposal to multiple defines for --dart-define-from-file](https://github.com/flutter/flutter/pull/120878)<br /><sub>[#120878](https://github.com/flutter/flutter/pull/120878) merged on March 6, 2023 <br /> [16 comments](https://github.com/flutter/flutter/pull/120878) over 2 weeks</sub> | [ronnnnn](https://github.com/ronnnnn) | [christopherfujino](https://github.com/christopherfujino)<br />[andrewkolos](https://github.com/andrewkolos) | <div title="156 additions and 73 deletions in 4 files">S</div>
 [Adds vmservices for getting iOS build options](https://github.com/flutter/flutter/pull/121736)<br /><sub>[#121736](https://github.com/flutter/flutter/pull/121736) merged on March 6, 2023 <br /> [18 comments](https://github.com/flutter/flutter/pull/121736) over 5 days</sub> | [chunhtai](https://github.com/chunhtai) | [jmagman](https://github.com/jmagman)<br />[christopherfujino](https://github.com/christopherfujino) | <div title="198 additions and 87 deletions in 11 files">S</div>
 [Fix license page title color issues](https://github.com/flutter/flutter/pull/121872)<br /><sub>[#121872](https://github.com/flutter/flutter/pull/121872) merged on March 6, 2023 <br /> [8 comments](https://github.com/flutter/flutter/pull/121872) over 3 days</sub> | [TahaTesser](https://github.com/TahaTesser) | [HansMuller](https://github.com/HansMuller) | <div title="167 additions and 45 deletions in 2 files">S</div>
+[Reland: Removes single window assumptions from `flutter_test`](https://github.com/flutter/flutter/pull/122060)<br /><sub>[#122060](https://github.com/flutter/flutter/pull/122060) merged on March 7, 2023 <br /> [12 comments](https://github.com/flutter/flutter/pull/122060) over 21 hours</sub> | [pdblasi-google](https://github.com/pdblasi-google) | [goderbauer](https://github.com/goderbauer) | <div title="2300 additions and 1308 deletions in 16 files">XL</div>
 [pin flutter_plugin_android_lifecycle and roll other pub deps](https://github.com/flutter/flutter/pull/122043)<br /><sub>[#122043](https://github.com/flutter/flutter/pull/122043) merged on March 6, 2023 <br /> [1 comment](https://github.com/flutter/flutter/pull/122043) over 1 hour</sub> | [christopherfujino](https://github.com/christopherfujino) | [reidbaker](https://github.com/reidbaker) | <div title="13 additions and 9 deletions in 6 files">S</div>
 [Add ZoomPageTransitionsBuilder.allowSnapshotting](https://github.com/flutter/flutter/pull/122019)<br /><sub>[#122019](https://github.com/flutter/flutter/pull/122019) merged on March 6, 2023 <br /> [2 comments](https://github.com/flutter/flutter/pull/122019) over 7 hours</sub> | [bleroux](https://github.com/bleroux) | [jonahwilliams](https://github.com/jonahwilliams) | <div title="288 additions and 8 deletions in 5 files">S</div>
 [Add backward compatibility in proxied_devices.](https://github.com/flutter/flutter/pull/122040)<br /><sub>[#122040](https://github.com/flutter/flutter/pull/122040) merged on March 6, 2023 <br /> [1 comment](https://github.com/flutter/flutter/pull/122040) over 2 hours</sub> | [chingjun](https://github.com/chingjun) | [bkonyi](https://github.com/bkonyi) | <div title="2 additions and 1 deletion in 1 file">S</div>
