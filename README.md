@@ -4,7 +4,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-15 commits.
+16 commits.
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Removes single window assumptions from `flutter_test`<br />
     <sub>[#121549](https://github.com/flutter/flutter/pull/121549) merged on March 6, 2023 &mdash; **Extra large:** [112 comments](https://github.com/flutter/flutter/pull/121549) over 6 days, 2267 additions and 1308 deletions in 16 files</sub><br />
@@ -18,6 +18,10 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] delete unhelpful image loading e2e test<br />
     <sub>[#122059](https://github.com/flutter/flutter/pull/122059) merged on March 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122059) over 59 minutes, 0 additions and 128 deletions in 4 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[Josh Matthews](https://github.com/jmatth)** &mdash; Fix PlatformMenuItems with onSelectedIntent are never enabled<br />
+    <sub>[#121885](https://github.com/flutter/flutter/pull/121885) merged on March 7, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/121885) over 3 days, 171 additions and 123 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update test font<br />
     <sub>[#121306](https://github.com/flutter/flutter/pull/121306) merged on March 6, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/121306) over 1 week, 290 additions and 350 deletions in 23 files</sub><br />
