@@ -581,7 +581,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-8 commits.
+9 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [canvaskit] read pixels back in Picture.toImage<br />
     <sub>[#40004](https://github.com/flutter/engine/pull/40004) merged on March 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40004) over 4 days, 59 additions and 22 deletions in 2 files</sub><br />
@@ -610,6 +610,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Round glyph locations per-run to fix per-glyph jitter<br />
     <sub>[#40073](https://github.com/flutter/engine/pull/40073) merged on March 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40073) over 2 days, 64 additions and 14 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Sequester all Skia<->DL interactions into the skia sub-module (#40083)"<br />
+    <sub>[#40103](https://github.com/flutter/engine/pull/40103) merged on March 7, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/40103) over 54 minutes, 3764 additions and 4597 deletions in 90 files</sub><br />
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from b1016d8f293a to 1ae877e6c3d3 (5 revisions)<br />
     <sub>[#40089](https://github.com/flutter/engine/pull/40089) merged on March 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40089) over 6 hours, 2 additions and 2 deletions in 2 files</sub><br />
