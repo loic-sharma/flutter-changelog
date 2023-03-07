@@ -1161,6 +1161,10 @@
     <sub>[#3378](https://github.com/flutter/packages/pull/3378) merged on March 7, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3378) over 1 day, 2 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[Braden Bagby](https://github.com/BradenBagby)** &mdash; [camera] Reland implementations of flip/change camera while recording
+    <sub>[#3272](https://github.com/flutter/packages/pull/3272) merged on March 7, 2023 &mdash; **Large:** [21 comments](https://github.com/flutter/packages/pull/3272) over 1 week, 1042 additions and 128 deletions in 27 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin), [Camille Simon](https://github.com/camsim99)</sub>
+
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Minor updates for pana
     <sub>[#3397](https://github.com/flutter/packages/pull/3397) merged on March 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3397) over 19 hours, 37 additions and 38 deletions in 22 files</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
@@ -1172,10 +1176,6 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Enable -Werror for Android
     <sub>[#3399](https://github.com/flutter/packages/pull/3399) merged on March 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3399) over 38 minutes, 33 additions and 13 deletions in 4 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
-
-* **[Braden Bagby](https://github.com/BradenBagby)** &mdash; [camera] Reland implementations of flip/change camera while recording
-    <sub>[#3272](https://github.com/flutter/packages/pull/3272) merged on March 7, 2023 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/3272) over 1 week, 1042 additions and 128 deletions in 27 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin), [Camille Simon](https://github.com/camsim99)</sub>
 
 ### February 25, 2023 to March 3, 2023
 
