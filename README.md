@@ -1171,7 +1171,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-8 commits.
+9 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [camera_android] Fix camera android deprecation warning for CamcorderProfile.get()<br />
     <sub>[#3273](https://github.com/flutter/packages/pull/3273) merged on March 7, 2023 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/3273) over 1 week, 218 additions and 178 deletions in 14 files</sub><br />
@@ -1180,6 +1180,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Revert Android part of #3272<br />
     <sub>[#3405](https://github.com/flutter/packages/pull/3405) merged on March 7, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/packages/pull/3405) over 23 minutes, 47 additions and 780 deletions in 12 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [go_router_builder] Remove Flutter SDK constraint<br />
+    <sub>[#3406](https://github.com/flutter/packages/pull/3406) merged on March 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3406) over 1 hour, 5 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update CODEOWNERS<br />
     <sub>[#3402](https://github.com/flutter/packages/pull/3402) merged on March 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3402) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
