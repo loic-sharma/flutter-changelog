@@ -16,7 +16,7 @@
     <sub><details><summary>1 image...</summary>![Screenshot 2023-02-24 3 04 29 PM](https://user-images.githubusercontent.com/15033982/221222322-7674ef0f-6f3f-4c29-a97c-070bef7dfe8f.png)</details></sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] delete unhelpful image loading e2e test
-    <sub>[#122059](https://github.com/flutter/flutter/pull/122059) merged on March 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122059) over 59 minutes, 0 additions and 128 deletions in 4 files</sub>
+    <sub>[#122059](https://github.com/flutter/flutter/pull/122059) merged on March 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122059) over 59 minutes, 0 additions and 128 deletions in 4 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update test font
