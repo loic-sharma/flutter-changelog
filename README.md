@@ -593,7 +593,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-12 commits.
+13 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [canvaskit] read pixels back in Picture.toImage<br />
     <sub>[#40004](https://github.com/flutter/engine/pull/40004) merged on March 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40004) over 4 days, 59 additions and 22 deletions in 2 files</sub><br />
@@ -630,6 +630,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Sequester all Skia<->DL interactions into the skia sub-module (#40083)"<br />
     <sub>[#40103](https://github.com/flutter/engine/pull/40103) merged on March 7, 2023 &mdash; **Extra large:** [6 comments](https://github.com/flutter/engine/pull/40103) over 54 minutes, 3764 additions and 4597 deletions in 90 files</sub><br />
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Adam Perry](https://github.com/anp)** &mdash; Revert "[fuchsia] Remove CFv1 support"<br />
+    <sub>[#40104](https://github.com/flutter/engine/pull/40104) merged on March 7, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/40104) over 16 hours, 1093 additions and 2 deletions in 17 files</sub><br />
+    <sub>Reviewed by: [Tom Robinson](https://github.com/tarobins)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from de9de602355a to 57e44338da37 (5 revisions)<br />
     <sub>[#40112](https://github.com/flutter/engine/pull/40112) merged on March 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40112) over 7 hours, 142 additions and 4 deletions in 4 files</sub><br />
@@ -1135,7 +1139,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-4 commits.
+5 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [camera_android] Fix camera android deprecation warning for CamcorderProfile.get()<br />
     <sub>[#3273](https://github.com/flutter/packages/pull/3273) merged on March 7, 2023 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/3273) over 1 week, 218 additions and 178 deletions in 14 files</sub><br />
@@ -1152,6 +1156,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Enable -Werror for Android<br />
     <sub>[#3399](https://github.com/flutter/packages/pull/3399) merged on March 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3399) over 38 minutes, 33 additions and 13 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Braden Bagby](https://github.com/BradenBagby)** &mdash; [camera] Reland implementations of flip/change camera while recording<br />
+    <sub>[#3272](https://github.com/flutter/packages/pull/3272) merged on March 7, 2023 &mdash; **Large:** [18 comments](https://github.com/flutter/packages/pull/3272) over 1 week, 1042 additions and 128 deletions in 27 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 ### February 25, 2023 to March 3, 2023
 

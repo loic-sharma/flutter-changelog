@@ -180,7 +180,7 @@ Name | Author | Reviewers | Size
 
 ### March 4, 2023 to March 10, 2023
 
-12 commits.
+13 commits.
 
 Name | Author | Reviewers | Size
 -- | -- | -- | --
@@ -193,6 +193,7 @@ Name | Author | Reviewers | Size
 [Fix incorrect response to platform SystemSound.play](https://github.com/flutter/engine/pull/39992)<br /><sub>[#39992](https://github.com/flutter/engine/pull/39992) merged on March 6, 2023 <br /> [2 comments](https://github.com/flutter/engine/pull/39992) over 4 days</sub> | [robert-ancell](https://github.com/robert-ancell) | [cbracken](https://github.com/cbracken) | <div title="51 additions and 1 deletion in 4 files">S</div>
 [[Impeller] Round glyph locations per-run to fix per-glyph jitter](https://github.com/flutter/engine/pull/40073)<br /><sub>[#40073](https://github.com/flutter/engine/pull/40073) merged on March 6, 2023 <br /> [2 comments](https://github.com/flutter/engine/pull/40073) over 2 days</sub> | [bdero](https://github.com/bdero) | [chinmaygarde](https://github.com/chinmaygarde)<br />[jonahwilliams](https://github.com/jonahwilliams) | <div title="64 additions and 14 deletions in 2 files">S</div>
 [Revert "Sequester all Skia<->DL interactions into the skia sub-module (#40083)"](https://github.com/flutter/engine/pull/40103)<br /><sub>[#40103](https://github.com/flutter/engine/pull/40103) merged on March 7, 2023 <br /> [6 comments](https://github.com/flutter/engine/pull/40103) over 54 minutes</sub> | [jason-simmons](https://github.com/jason-simmons) | [flar](https://github.com/flar) | <div title="3764 additions and 4597 deletions in 90 files">XL</div>
+[Revert "[fuchsia] Remove CFv1 support"](https://github.com/flutter/engine/pull/40104)<br /><sub>[#40104](https://github.com/flutter/engine/pull/40104) merged on March 7, 2023 <br /> [1 comment](https://github.com/flutter/engine/pull/40104) over 16 hours</sub> | [anp](https://github.com/anp) | [tarobins](https://github.com/tarobins) | <div title="1093 additions and 2 deletions in 17 files">L</div>
 [Manual roll Dart SDK from de9de602355a to 57e44338da37 (5 revisions)](https://github.com/flutter/engine/pull/40112)<br /><sub>[#40112](https://github.com/flutter/engine/pull/40112) merged on March 7, 2023 <br /> [1 comment](https://github.com/flutter/engine/pull/40112) over 7 hours</sub> | [skia-flutter-autoroll](https://github.com/skia-flutter-autoroll) | [fluttergithubbot](https://github.com/fluttergithubbot) | <div title="142 additions and 4 deletions in 4 files">S</div>
 [Manual roll Dart SDK from 1ae877e6c3d3 to de9de602355a (5 revisions)](https://github.com/flutter/engine/pull/40107)<br /><sub>[#40107](https://github.com/flutter/engine/pull/40107) merged on March 7, 2023 <br /> [0 comments](https://github.com/flutter/engine/pull/40107) over 50 minutes</sub> | [skia-flutter-autoroll](https://github.com/skia-flutter-autoroll) | [fluttergithubbot](https://github.com/fluttergithubbot) | <div title="5 additions and 160 deletions in 4 files">S</div>
 [Manual roll Dart SDK from b1016d8f293a to 1ae877e6c3d3 (5 revisions)](https://github.com/flutter/engine/pull/40089)<br /><sub>[#40089](https://github.com/flutter/engine/pull/40089) merged on March 7, 2023 <br /> [1 comment](https://github.com/flutter/engine/pull/40089) over 6 hours</sub> | [skia-flutter-autoroll](https://github.com/skia-flutter-autoroll) | [fluttergithubbot](https://github.com/fluttergithubbot) | <div title="2 additions and 2 deletions in 2 files">S</div>
@@ -347,7 +348,7 @@ Name | Author | Reviewers | Size
 
 ### March 4, 2023 to March 10, 2023
 
-4 commits.
+5 commits.
 
 Name | Author | Reviewers | Size
 -- | -- | -- | --
@@ -355,6 +356,7 @@ Name | Author | Reviewers | Size
 [[pigeon] Minor updates for pana](https://github.com/flutter/packages/pull/3397)<br /><sub>[#3397](https://github.com/flutter/packages/pull/3397) merged on March 7, 2023 <br /> [1 comment](https://github.com/flutter/packages/pull/3397) over 19 hours</sub> | [stuartmorgan](https://github.com/stuartmorgan) | [tarrinneal](https://github.com/tarrinneal) | <div title="37 additions and 38 deletions in 22 files">S</div>
 [[various] Remove enableR8](https://github.com/flutter/packages/pull/3400)<br /><sub>[#3400](https://github.com/flutter/packages/pull/3400) merged on March 7, 2023 <br /> [0 comments](https://github.com/flutter/packages/pull/3400) over 48 minutes</sub> | [stuartmorgan](https://github.com/stuartmorgan) | [reidbaker](https://github.com/reidbaker) | <div title="0 additions and 21 deletions in 21 files">S</div>
 [[google_maps_flutter] Enable -Werror for Android](https://github.com/flutter/packages/pull/3399)<br /><sub>[#3399](https://github.com/flutter/packages/pull/3399) merged on March 7, 2023 <br /> [0 comments](https://github.com/flutter/packages/pull/3399) over 38 minutes</sub> | [stuartmorgan](https://github.com/stuartmorgan) | [reidbaker](https://github.com/reidbaker) | <div title="33 additions and 13 deletions in 4 files">S</div>
+[[camera] Reland implementations of flip/change camera while recording](https://github.com/flutter/packages/pull/3272)<br /><sub>[#3272](https://github.com/flutter/packages/pull/3272) merged on March 7, 2023 <br /> [18 comments](https://github.com/flutter/packages/pull/3272) over 1 week</sub> | [BradenBagby](https://github.com/BradenBagby) | [stuartmorgan](https://github.com/stuartmorgan)<br />[hellohuanlin](https://github.com/hellohuanlin)<br />[camsim99](https://github.com/camsim99) | <div title="1042 additions and 128 deletions in 27 files">L</div>
 
 ### February 25, 2023 to March 3, 2023
 
