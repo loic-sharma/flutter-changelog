@@ -620,7 +620,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Sequester all Skia<->DL interactions into the skia sub-module (#40083)"
-    <sub>[#40103](https://github.com/flutter/engine/pull/40103) merged on March 7, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/40103) over 54 minutes, 3764 additions and 4597 deletions in 90 files</sub>
+    <sub>[#40103](https://github.com/flutter/engine/pull/40103) merged on March 7, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/40103) over 54 minutes, 3764 additions and 4597 deletions in 90 files</sub>
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from b1016d8f293a to 1ae877e6c3d3 (5 revisions)
