@@ -4,7 +4,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-19 commits.
+20 commits.
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Removes single window assumptions from `flutter_test`
     <sub>[#121549](https://github.com/flutter/flutter/pull/121549) merged on March 6, 2023 &mdash; **Extra large:** [112 comments](https://github.com/flutter/flutter/pull/121549) over 6 days, 2267 additions and 1308 deletions in 16 files</sub>
@@ -50,6 +50,10 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; pin flutter_plugin_android_lifecycle and roll other pub deps
     <sub>[#122043](https://github.com/flutter/flutter/pull/122043) merged on March 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122043) over 1 hour, 13 additions and 9 deletions in 6 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Ensure CanvasKit is served from the correct location
+    <sub>[#121902](https://github.com/flutter/flutter/pull/121902) merged on March 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/121902) over 4 days, 38 additions and 7 deletions in 3 files</sub>
+    <sub>Reviewed by: [Harry Terkelsen](https://github.com/hterkelsen), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add ZoomPageTransitionsBuilder.allowSnapshotting
     <sub>[#122019](https://github.com/flutter/flutter/pull/122019) merged on March 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122019) over 7 hours, 288 additions and 8 deletions in 5 files</sub>
