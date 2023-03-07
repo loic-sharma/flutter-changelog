@@ -1135,11 +1135,15 @@
 
 ### March 4, 2023 to March 10, 2023
 
-2 commits.
+3 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [camera_android] Fix camera android deprecation warning for CamcorderProfile.get()
     <sub>[#3273](https://github.com/flutter/packages/pull/3273) merged on March 7, 2023 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/3273) over 1 week, 218 additions and 178 deletions in 14 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Remove enableR8
+    <sub>[#3400](https://github.com/flutter/packages/pull/3400) merged on March 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3400) over 48 minutes, 0 additions and 21 deletions in 21 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Enable -Werror for Android
     <sub>[#3399](https://github.com/flutter/packages/pull/3399) merged on March 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3399) over 38 minutes, 33 additions and 13 deletions in 4 files</sub>
