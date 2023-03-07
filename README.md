@@ -4,7 +4,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-16 commits.
+17 commits.
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Removes single window assumptions from `flutter_test`<br />
     <sub>[#121549](https://github.com/flutter/flutter/pull/121549) merged on March 6, 2023 &mdash; **Extra large:** [112 comments](https://github.com/flutter/flutter/pull/121549) over 6 days, 2267 additions and 1308 deletions in 16 files</sub><br />
@@ -14,6 +14,10 @@
     <sub>[#121406](https://github.com/flutter/flutter/pull/121406) merged on March 6, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/121406) over 1 week, 152 additions and 18 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2023-02-24 3 04 29 PM](https://user-images.githubusercontent.com/15033982/221222322-7674ef0f-6f3f-4c29-a97c-070bef7dfe8f.png)</details></sub>
+
+* **[Micael Cid](https://github.com/micaelcid)** &mdash; [integration_test] upgrade androidx test to 1.4.0<br />
+    <sub>[#109547](https://github.com/flutter/flutter/pull/109547) merged on March 7, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/109547) over 6 months, 71 additions and 67 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] delete unhelpful image loading e2e test<br />
     <sub>[#122059](https://github.com/flutter/flutter/pull/122059) merged on March 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122059) over 59 minutes, 0 additions and 128 deletions in 4 files</sub><br />
@@ -1121,9 +1125,18 @@
 
 ## flutter/packages
 
+### March 4, 2023 to March 10, 2023
+
+1 commits.
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [camera_android] Fix camera android deprecation warning for CamcorderProfile.get()<br />
+    <sub>[#3273](https://github.com/flutter/packages/pull/3273) merged on March 7, 2023 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/3273) over 1 week, 218 additions and 178 deletions in 14 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
+
 ### February 25, 2023 to March 3, 2023
 
-26 commits.
+<details>
+<summary>26 commits...</summary>
 
 * **[Preston Schwartz](https://github.com/FXschwartz)** &mdash; [image_picker_android] Adds Android 13 photo picker functionality<br />
     <sub>[#3267](https://github.com/flutter/packages/pull/3267) merged on March 1, 2023 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/3267) over 6 days, 162 additions and 13 deletions in 8 files</sub><br />
@@ -1230,6 +1243,8 @@
 * **[Paolo Rotolo](https://github.com/paolorotolo)** &mdash; [pigeon] Add Kotlin parameters to run pigeon command<br />
     <sub>[#3260](https://github.com/flutter/packages/pull/3260) merged on March 1, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3260) over 6 days, 26 additions and 20 deletions in 22 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+</details>
 
 ### February 18, 2023 to February 24, 2023
 

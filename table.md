@@ -4,12 +4,13 @@
 
 ### March 4, 2023 to March 10, 2023
 
-16 commits.
+17 commits.
 
 Name | Author | Reviewers | Size
 -- | -- | -- | --
 [Removes single window assumptions from `flutter_test`](https://github.com/flutter/flutter/pull/121549)<br /><sub>[#121549](https://github.com/flutter/flutter/pull/121549) merged on March 6, 2023 <br /> [112 comments](https://github.com/flutter/flutter/pull/121549) over 6 days</sub> | [pdblasi-google](https://github.com/pdblasi-google) | [goderbauer](https://github.com/goderbauer) | <div title="2267 additions and 1308 deletions in 16 files">XL</div>
 [Bottom appbar/sheet shadow property](https://github.com/flutter/flutter/pull/121406)<br /><sub>[#121406](https://github.com/flutter/flutter/pull/121406) merged on March 6, 2023 <br /> [14 comments](https://github.com/flutter/flutter/pull/121406) over 1 week</sub> | [esouthren](https://github.com/esouthren) | [HansMuller](https://github.com/HansMuller) | <div title="152 additions and 18 deletions in 10 files">S</div>
+[[integration_test] upgrade androidx test to 1.4.0](https://github.com/flutter/flutter/pull/109547)<br /><sub>[#109547](https://github.com/flutter/flutter/pull/109547) merged on March 7, 2023 <br /> [21 comments](https://github.com/flutter/flutter/pull/109547) over 6 months</sub> | [micaelcid](https://github.com/micaelcid) | [reidbaker](https://github.com/reidbaker)<br />[ricardoamador](https://github.com/ricardoamador) | <div title="71 additions and 67 deletions in 12 files">S</div>
 [[web] delete unhelpful image loading e2e test](https://github.com/flutter/flutter/pull/122059)<br /><sub>[#122059](https://github.com/flutter/flutter/pull/122059) merged on March 7, 2023 <br /> [2 comments](https://github.com/flutter/flutter/pull/122059) over 59 minutes</sub> | [yjbanov](https://github.com/yjbanov) | [ditman](https://github.com/ditman) | <div title="0 additions and 128 deletions in 4 files">S</div>
 [Fix PlatformMenuItems with onSelectedIntent are never enabled](https://github.com/flutter/flutter/pull/121885)<br /><sub>[#121885](https://github.com/flutter/flutter/pull/121885) merged on March 7, 2023 <br /> [21 comments](https://github.com/flutter/flutter/pull/121885) over 3 days</sub> | [jmatth](https://github.com/jmatth) | [cbracken](https://github.com/cbracken)<br />[justinmc](https://github.com/justinmc)<br />[loic-sharma](https://github.com/loic-sharma) | <div title="171 additions and 123 deletions in 2 files">S</div>
 [Update test font](https://github.com/flutter/flutter/pull/121306)<br /><sub>[#121306](https://github.com/flutter/flutter/pull/121306) merged on March 6, 2023 <br /> [4 comments](https://github.com/flutter/flutter/pull/121306) over 1 week</sub> | [LongCatIsLooong](https://github.com/LongCatIsLooong) | [justinmc](https://github.com/justinmc) | <div title="290 additions and 350 deletions in 23 files">L</div>
@@ -342,9 +343,18 @@ Name | Author | Reviewers | Size
 
 ## flutter/packages
 
+### March 4, 2023 to March 10, 2023
+
+1 commits.
+
+Name | Author | Reviewers | Size
+-- | -- | -- | --
+[[camera_android] Fix camera android deprecation warning for CamcorderProfile.get()](https://github.com/flutter/packages/pull/3273)<br /><sub>[#3273](https://github.com/flutter/packages/pull/3273) merged on March 7, 2023 <br /> [41 comments](https://github.com/flutter/packages/pull/3273) over 1 week</sub> | [navaronbracke](https://github.com/navaronbracke) | [stuartmorgan](https://github.com/stuartmorgan)<br />[reidbaker](https://github.com/reidbaker)<br />[camsim99](https://github.com/camsim99) | <div title="218 additions and 178 deletions in 14 files">M</div>
+
 ### February 25, 2023 to March 3, 2023
 
-26 commits.
+<details>
+<summary>26 commits...</summary>
 
 Name | Author | Reviewers | Size
 -- | -- | -- | --
@@ -374,6 +384,8 @@ Name | Author | Reviewers | Size
 [[go_router_builder] Fix the example for default values in the README](https://github.com/flutter/packages/pull/3231)<br /><sub>[#3231](https://github.com/flutter/packages/pull/3231) merged on March 2, 2023 <br /> [2 comments](https://github.com/flutter/packages/pull/3231) over 1 week</sub> | [ValentinVignal](https://github.com/ValentinVignal) | [chunhtai](https://github.com/chunhtai)<br />[hangyujin](https://github.com/hangyujin) | <div title="7 additions and 3 deletions in 3 files">S</div>
 [[tool] Provide a --base-branch flag](https://github.com/flutter/packages/pull/3322)<br /><sub>[#3322](https://github.com/flutter/packages/pull/3322) merged on March 1, 2023 <br /> [1 comment](https://github.com/flutter/packages/pull/3322) over 18 hours</sub> | [stuartmorgan](https://github.com/stuartmorgan) | [reidbaker](https://github.com/reidbaker)<br />[tarrinneal](https://github.com/tarrinneal) | <div title="66 additions and 15 deletions in 4 files">S</div>
 [[pigeon] Add Kotlin parameters to run pigeon command](https://github.com/flutter/packages/pull/3260)<br /><sub>[#3260](https://github.com/flutter/packages/pull/3260) merged on March 1, 2023 <br /> [9 comments](https://github.com/flutter/packages/pull/3260) over 6 days</sub> | [paolorotolo](https://github.com/paolorotolo) | [stuartmorgan](https://github.com/stuartmorgan)<br />[tarrinneal](https://github.com/tarrinneal) | <div title="26 additions and 20 deletions in 22 files">S</div>
+
+</details>
 
 ### February 18, 2023 to February 24, 2023
 
