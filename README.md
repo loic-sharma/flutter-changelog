@@ -1213,7 +1213,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-14 commits.
+15 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [camera_android] Fix camera android deprecation warning for CamcorderProfile.get()<br />
     <sub>[#3273](https://github.com/flutter/packages/pull/3273) merged on March 7, 2023 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/3273) over 1 week, 218 additions and 178 deletions in 14 files</sub><br />
@@ -1238,6 +1238,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [pigeon] Removed my name from the readme<br />
     <sub>[#3395](https://github.com/flutter/packages/pull/3395) merged on March 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3395) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [in_app_purchase] Enable -Werror for Android<br />
+    <sub>[#3403](https://github.com/flutter/packages/pull/3403) merged on March 8, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3403) over 1 day, 109 additions and 61 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [google_maps_flutter] Update example android configuration<br />
     <sub>[#3408](https://github.com/flutter/packages/pull/3408) merged on March 8, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3408) over 20 hours, 8 additions and 10 deletions in 5 files</sub><br />
