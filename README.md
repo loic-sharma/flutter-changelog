@@ -681,7 +681,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-25 commits.
+26 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] move asset mapping copy to background thread<br />
     <sub>[#39918](https://github.com/flutter/engine/pull/39918) merged on March 8, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/39918) over 1 week, 145 additions and 16 deletions in 6 files</sub><br />
@@ -724,6 +724,10 @@
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Fix the test 'Play/DisplayListTest.CanDrawBackdropFilter/Metal'<br />
     <sub>[#40105](https://github.com/flutter/engine/pull/40105) merged on March 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40105) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
+
+* **[Eric Seidel](https://github.com/eseidel)** &mdash; Add missing inputs declaration<br />
+    <sub>[#40133](https://github.com/flutter/engine/pull/40133) merged on March 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40133) over 17 hours, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web][felt] Add 'archive' target + 'profile' mode<br />
     <sub>[#40060](https://github.com/flutter/engine/pull/40060) merged on March 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40060) over 4 days, 60 additions and 9 deletions in 2 files</sub><br />
