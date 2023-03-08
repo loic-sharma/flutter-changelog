@@ -1224,7 +1224,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Adds a WebViewFlutterApi<br />
-    <sub>[#3324](https://github.com/flutter/packages/pull/3324) merged on March 8, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/packages/pull/3324) over 1 week, 271 additions and 56 deletions in 14 files</sub><br />
+    <sub>[#3324](https://github.com/flutter/packages/pull/3324) merged on March 8, 2023 &mdash; **Medium:** [8 comments](https://github.com/flutter/packages/pull/3324) over 1 week, 271 additions and 56 deletions in 14 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Clarify endorsement in READMEs<br />
