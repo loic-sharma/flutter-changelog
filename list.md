@@ -4,7 +4,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-27 commits.
+30 commits.
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Removes single window assumptions from `flutter_test`
     <sub>[#121549](https://github.com/flutter/flutter/pull/121549) merged on March 6, 2023 &mdash; **Extra large:** [113 comments](https://github.com/flutter/flutter/pull/121549) over 6 days, 2267 additions and 1308 deletions in 16 files</sub>
@@ -59,6 +59,14 @@
     <sub>[#122043](https://github.com/flutter/flutter/pull/122043) merged on March 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122043) over 1 hour, 13 additions and 9 deletions in 6 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; ModalBottomSheetRoute: Remove gap at screen bottom with `useSafeArea: true`
+    <sub>[#122118](https://github.com/flutter/flutter/pull/122118) merged on March 8, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/122118) over 1 day, 27 additions and 13 deletions in 2 files</sub>
+    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [hangyu](https://github.com/hangyujin)</sub>
+
+* **[Callum Moffat](https://github.com/moffatman)** &mdash; Clear _scribbleCacheKey when connection closes
+    <sub>[#122145](https://github.com/flutter/flutter/pull/122145) merged on March 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122145) over 20 hours, 82 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix DomCSSStyleSheetExtension to work with dart2wasm.
     <sub>[#122154](https://github.com/flutter/flutter/pull/122154) merged on March 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122154) over 1 hour, 5 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [joshualitt](https://github.com/joshualitt)</sub>
@@ -98,6 +106,10 @@
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Revert "Removes single window assumptions from `flutter_test`"
     <sub>[#122037](https://github.com/flutter/flutter/pull/122037) merged on March 6, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/122037) over 12 minutes, 1310 additions and 2269 deletions in 16 files</sub>
     <sub>Reviewed by: [Tae Hyung Kim](https://github.com/thkim1011)</sub>
+
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Reland: Removes single window assumptions from `flutter_test`"
+    <sub>[#122193](https://github.com/flutter/flutter/pull/122193) merged on March 8, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/122193) over 3 hours, 1310 additions and 2302 deletions in 16 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Revert "Update test font"
     <sub>[#122053](https://github.com/flutter/flutter/pull/122053) merged on March 6, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/122053) over 6 minutes, 350 additions and 290 deletions in 23 files</sub>
