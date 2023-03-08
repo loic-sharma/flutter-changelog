@@ -206,7 +206,7 @@ Name | Author | Reviewers | Size
 
 ### March 4, 2023 to March 10, 2023
 
-28 commits.
+29 commits.
 
 Name | Author | Reviewers | Size
 -- | -- | -- | --
@@ -216,6 +216,7 @@ Name | Author | Reviewers | Size
 [[canvaskit] read pixels back in Picture.toImage](https://github.com/flutter/engine/pull/40004)<br /><sub>[#40004](https://github.com/flutter/engine/pull/40004) merged on March 7, 2023 <br /> [5 comments](https://github.com/flutter/engine/pull/40004) over 4 days</sub> | [yjbanov](https://github.com/yjbanov) | [jonahwilliams](https://github.com/jonahwilliams)<br />[hterkelsen](https://github.com/hterkelsen) | <div title="59 additions and 22 deletions in 2 files">S</div>
 [Sequester all Skia<->DL interactions into the skia sub-module](https://github.com/flutter/engine/pull/40083)<br /><sub>[#40083](https://github.com/flutter/engine/pull/40083) merged on March 6, 2023 <br /> [1 comment](https://github.com/flutter/engine/pull/40083) over 12 hours</sub> | [flar](https://github.com/flar) | [chinmaygarde](https://github.com/chinmaygarde) | <div title="4597 additions and 3764 deletions in 90 files">XL</div>
 [Use a single FlGLArea](https://github.com/flutter/engine/pull/39473)<br /><sub>[#39473](https://github.com/flutter/engine/pull/39473) merged on March 7, 2023 <br /> [11 comments](https://github.com/flutter/engine/pull/39473) over 3 weeks</sub> | [robert-ancell](https://github.com/robert-ancell) | [cbracken](https://github.com/cbracken) | <div title="66 additions and 284 deletions in 4 files">M</div>
+[Fix gif frame reuse](https://github.com/flutter/engine/pull/40125)<br /><sub>[#40125](https://github.com/flutter/engine/pull/40125) merged on March 8, 2023 <br /> [9 comments](https://github.com/flutter/engine/pull/40125) over 1 day</sub> | [dnfield](https://github.com/dnfield) | [bdero](https://github.com/bdero) | <div title="58 additions and 9 deletions in 6 files">S</div>
 [Optimize search for the default bundle](https://github.com/flutter/engine/pull/39975)<br /><sub>[#39975](https://github.com/flutter/engine/pull/39975) merged on March 7, 2023 <br /> [11 comments](https://github.com/flutter/engine/pull/39975) over 5 days</sub> | [jiahaog](https://github.com/jiahaog) | [jmagman](https://github.com/jmagman) | <div title="61 additions and 2 deletions in 3 files">S</div>
 [Improve error messaging when render target cannot be created](https://github.com/flutter/engine/pull/40150)<br /><sub>[#40150](https://github.com/flutter/engine/pull/40150) merged on March 8, 2023 <br /> [1 comment](https://github.com/flutter/engine/pull/40150) over 1 hour</sub> | [dnfield](https://github.com/dnfield) | [jonahwilliams](https://github.com/jonahwilliams) | <div title="10 additions and 3 deletions in 2 files">S</div>
 [[Impeller] Optimize the calculation of interpolant value of linear gradient](https://github.com/flutter/engine/pull/40085)<br /><sub>[#40085](https://github.com/flutter/engine/pull/40085) merged on March 8, 2023 <br /> [8 comments](https://github.com/flutter/engine/pull/40085) over 1 day</sub> | [ColdPaleLight](https://github.com/ColdPaleLight) | [chinmaygarde](https://github.com/chinmaygarde) | <div title="8 additions and 8 deletions in 2 files">S</div>

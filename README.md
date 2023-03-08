@@ -697,7 +697,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-28 commits.
+29 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] move asset mapping copy to background thread<br />
     <sub>[#39918](https://github.com/flutter/engine/pull/39918) merged on March 8, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/39918) over 1 week, 145 additions and 16 deletions in 6 files</sub><br />
@@ -724,6 +724,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use a single FlGLArea<br />
     <sub>[#39473](https://github.com/flutter/engine/pull/39473) merged on March 7, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/39473) over 3 weeks, 66 additions and 284 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Fix gif frame reuse<br />
+    <sub>[#40125](https://github.com/flutter/engine/pull/40125) merged on March 8, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/40125) over 1 day, 58 additions and 9 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Optimize search for the default bundle<br />
     <sub>[#39975](https://github.com/flutter/engine/pull/39975) merged on March 7, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/39975) over 5 days, 61 additions and 2 deletions in 3 files</sub><br />
