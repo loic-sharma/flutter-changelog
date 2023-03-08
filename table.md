@@ -187,7 +187,7 @@ Name | Author | Reviewers | Size
 
 ### March 4, 2023 to March 10, 2023
 
-21 commits.
+22 commits.
 
 Name | Author | Reviewers | Size
 -- | -- | -- | --
@@ -197,6 +197,7 @@ Name | Author | Reviewers | Size
 [Sequester all Skia<->DL interactions into the skia sub-module](https://github.com/flutter/engine/pull/40083)<br /><sub>[#40083](https://github.com/flutter/engine/pull/40083) merged on March 6, 2023 <br /> [1 comment](https://github.com/flutter/engine/pull/40083) over 12 hours</sub> | [flar](https://github.com/flar) | [chinmaygarde](https://github.com/chinmaygarde) | <div title="4597 additions and 3764 deletions in 90 files">XL</div>
 [Use a single FlGLArea](https://github.com/flutter/engine/pull/39473)<br /><sub>[#39473](https://github.com/flutter/engine/pull/39473) merged on March 7, 2023 <br /> [11 comments](https://github.com/flutter/engine/pull/39473) over 3 weeks</sub> | [robert-ancell](https://github.com/robert-ancell) | [cbracken](https://github.com/cbracken) | <div title="66 additions and 284 deletions in 4 files">M</div>
 [Optimize search for the default bundle](https://github.com/flutter/engine/pull/39975)<br /><sub>[#39975](https://github.com/flutter/engine/pull/39975) merged on March 7, 2023 <br /> [11 comments](https://github.com/flutter/engine/pull/39975) over 5 days</sub> | [jiahaog](https://github.com/jiahaog) | [jmagman](https://github.com/jmagman) | <div title="61 additions and 2 deletions in 3 files">S</div>
+[[Impeller] Optimize the calculation of interpolant value of linear gradient](https://github.com/flutter/engine/pull/40085)<br /><sub>[#40085](https://github.com/flutter/engine/pull/40085) merged on March 8, 2023 <br /> [8 comments](https://github.com/flutter/engine/pull/40085) over 1 day</sub> | [ColdPaleLight](https://github.com/ColdPaleLight) | [chinmaygarde](https://github.com/chinmaygarde) | <div title="8 additions and 8 deletions in 2 files">S</div>
 [[Impeller] Fix the test 'Play/DisplayListTest.CanDrawBackdropFilter/Metal'](https://github.com/flutter/engine/pull/40105)<br /><sub>[#40105](https://github.com/flutter/engine/pull/40105) merged on March 7, 2023 <br /> [1 comment](https://github.com/flutter/engine/pull/40105) over 1 hour</sub> | [ColdPaleLight](https://github.com/ColdPaleLight) | [dnfield](https://github.com/dnfield) | <div title="1 addition and 1 deletion in 1 file">S</div>
 [[web][felt] Add 'archive' target + 'profile' mode](https://github.com/flutter/engine/pull/40060)<br /><sub>[#40060](https://github.com/flutter/engine/pull/40060) merged on March 7, 2023 <br /> [2 comments](https://github.com/flutter/engine/pull/40060) over 4 days</sub> | [mdebbar](https://github.com/mdebbar) | [eyebrowsoffire](https://github.com/eyebrowsoffire) | <div title="60 additions and 9 deletions in 2 files">S</div>
 [Fix some includes missing "flutter/" prefix.](https://github.com/flutter/engine/pull/40122)<br /><sub>[#40122](https://github.com/flutter/engine/pull/40122) merged on March 7, 2023 <br /> [3 comments](https://github.com/flutter/engine/pull/40122) over 59 minutes</sub> | [gspencergoog](https://github.com/gspencergoog) | [CaseyHillers](https://github.com/CaseyHillers) | <div title="5 additions and 5 deletions in 2 files">S</div>

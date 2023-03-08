@@ -621,7 +621,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-21 commits.
+22 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] move asset mapping copy to background thread<br />
     <sub>[#39918](https://github.com/flutter/engine/pull/39918) merged on March 8, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/39918) over 1 week, 145 additions and 16 deletions in 6 files</sub><br />
@@ -648,6 +648,10 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Optimize search for the default bundle<br />
     <sub>[#39975](https://github.com/flutter/engine/pull/39975) merged on March 7, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/39975) over 5 days, 61 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Optimize the calculation of interpolant value of linear gradient<br />
+    <sub>[#40085](https://github.com/flutter/engine/pull/40085) merged on March 8, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/40085) over 1 day, 8 additions and 8 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Fix the test 'Play/DisplayListTest.CanDrawBackdropFilter/Metal'<br />
     <sub>[#40105](https://github.com/flutter/engine/pull/40105) merged on March 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40105) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
