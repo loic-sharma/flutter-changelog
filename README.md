@@ -625,7 +625,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-22 commits.
+23 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] move asset mapping copy to background thread<br />
     <sub>[#39918](https://github.com/flutter/engine/pull/39918) merged on March 8, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/39918) over 1 week, 145 additions and 16 deletions in 6 files</sub><br />
@@ -636,6 +636,10 @@
     <sub>[#40091](https://github.com/flutter/engine/pull/40091) merged on March 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40091) over 1 day, 118 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz)</sub><br />
     <sub><details><summary>3 images...</summary>![right before my PR](https://user-images.githubusercontent.com/41930132/223202804-1b11f3fa-5584-4bd6-87ae-b2039b875af0.png)![on my PR](https://user-images.githubusercontent.com/41930132/223202882-6b850ab7-7eb9-447d-8409-98c6586df0b9.png)![no-op fix righ tafter my PR](https://user-images.githubusercontent.com/41930132/223202975-5c6c2ea8-0f66-48d1-8c4e-9fb115dd0ece.png)</details></sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Replace FML_OS_PHYSICAL_IOS compile check with runtime capabilties check based on metal GPU family.<br />
+    <sub>[#40124](https://github.com/flutter/engine/pull/40124) merged on March 8, 2023 &mdash; **Medium:** [14 comments](https://github.com/flutter/engine/pull/40124) over 6 hours, 235 additions and 166 deletions in 19 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [canvaskit] read pixels back in Picture.toImage<br />
     <sub>[#40004](https://github.com/flutter/engine/pull/40004) merged on March 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40004) over 4 days, 59 additions and 22 deletions in 2 files</sub><br />

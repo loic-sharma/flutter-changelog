@@ -188,12 +188,13 @@ Name | Author | Reviewers | Size
 
 ### March 4, 2023 to March 10, 2023
 
-22 commits.
+23 commits.
 
 Name | Author | Reviewers | Size
 -- | -- | -- | --
 [[engine] move asset mapping copy to background thread](https://github.com/flutter/engine/pull/39918)<br /><sub>[#39918](https://github.com/flutter/engine/pull/39918) merged on March 8, 2023 <br /> [16 comments](https://github.com/flutter/engine/pull/39918) over 1 week</sub> | [jonahwilliams](https://github.com/jonahwilliams) | [dnfield](https://github.com/dnfield) | <div title="145 additions and 16 deletions in 6 files">S</div>
 [[platform_view]fix regression for addSubview when re-ordering](https://github.com/flutter/engine/pull/40091)<br /><sub>[#40091](https://github.com/flutter/engine/pull/40091) merged on March 7, 2023 <br /> [5 comments](https://github.com/flutter/engine/pull/40091) over 1 day</sub> | [hellohuanlin](https://github.com/hellohuanlin) | [cyanglaz](https://github.com/cyanglaz) | <div title="118 additions and 4 deletions in 2 files">S</div>
+[[Impeller] Replace FML_OS_PHYSICAL_IOS compile check with runtime capabilties check based on metal GPU family.](https://github.com/flutter/engine/pull/40124)<br /><sub>[#40124](https://github.com/flutter/engine/pull/40124) merged on March 8, 2023 <br /> [14 comments](https://github.com/flutter/engine/pull/40124) over 6 hours</sub> | [jonahwilliams](https://github.com/jonahwilliams) | [chinmaygarde](https://github.com/chinmaygarde) | <div title="235 additions and 166 deletions in 19 files">M</div>
 [[canvaskit] read pixels back in Picture.toImage](https://github.com/flutter/engine/pull/40004)<br /><sub>[#40004](https://github.com/flutter/engine/pull/40004) merged on March 7, 2023 <br /> [5 comments](https://github.com/flutter/engine/pull/40004) over 4 days</sub> | [yjbanov](https://github.com/yjbanov) | [jonahwilliams](https://github.com/jonahwilliams)<br />[hterkelsen](https://github.com/hterkelsen) | <div title="59 additions and 22 deletions in 2 files">S</div>
 [Sequester all Skia<->DL interactions into the skia sub-module](https://github.com/flutter/engine/pull/40083)<br /><sub>[#40083](https://github.com/flutter/engine/pull/40083) merged on March 6, 2023 <br /> [1 comment](https://github.com/flutter/engine/pull/40083) over 12 hours</sub> | [flar](https://github.com/flar) | [chinmaygarde](https://github.com/chinmaygarde) | <div title="4597 additions and 3764 deletions in 90 files">XL</div>
 [Use a single FlGLArea](https://github.com/flutter/engine/pull/39473)<br /><sub>[#39473](https://github.com/flutter/engine/pull/39473) merged on March 7, 2023 <br /> [11 comments](https://github.com/flutter/engine/pull/39473) over 3 weeks</sub> | [robert-ancell](https://github.com/robert-ancell) | [cbracken](https://github.com/cbracken) | <div title="66 additions and 284 deletions in 4 files">M</div>
