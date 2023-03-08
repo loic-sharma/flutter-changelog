@@ -609,7 +609,12 @@
 
 ### March 4, 2023 to March 10, 2023
 
-19 commits.
+20 commits.
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [platform_view]fix regression for addSubview when re-ordering
+    <sub>[#40091](https://github.com/flutter/engine/pull/40091) merged on March 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40091) over 1 day, 118 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz)</sub>
+    <sub><details><summary>3 images...</summary>![right before my PR](https://user-images.githubusercontent.com/41930132/223202804-1b11f3fa-5584-4bd6-87ae-b2039b875af0.png)![on my PR](https://user-images.githubusercontent.com/41930132/223202882-6b850ab7-7eb9-447d-8409-98c6586df0b9.png)![no-op fix righ tafter my PR](https://user-images.githubusercontent.com/41930132/223202975-5c6c2ea8-0f66-48d1-8c4e-9fb115dd0ece.png)</details></sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [canvaskit] read pixels back in Picture.toImage
     <sub>[#40004](https://github.com/flutter/engine/pull/40004) merged on March 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40004) over 4 days, 59 additions and 22 deletions in 2 files</sub>
