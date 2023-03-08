@@ -366,7 +366,7 @@ Name | Author | Reviewers | Size
 
 ### March 4, 2023 to March 10, 2023
 
-13 commits.
+14 commits.
 
 Name | Author | Reviewers | Size
 -- | -- | -- | --
@@ -376,6 +376,7 @@ Name | Author | Reviewers | Size
 [[webview_flutter] Add android `webSettings.setTextZoom` api](https://github.com/flutter/packages/pull/3298)<br /><sub>[#3298](https://github.com/flutter/packages/pull/3298) merged on March 8, 2023 <br /> [23 comments](https://github.com/flutter/packages/pull/3298) over 1 week</sub> | [apremalal](https://github.com/apremalal) | [stuartmorgan](https://github.com/stuartmorgan)<br />[bparrishMines](https://github.com/bparrishMines) | <div title="185 additions and 2 deletions in 16 files">S</div>
 [[camera] Revert Android part of #3272](https://github.com/flutter/packages/pull/3405)<br /><sub>[#3405](https://github.com/flutter/packages/pull/3405) merged on March 7, 2023 <br /> [0 comments](https://github.com/flutter/packages/pull/3405) over 23 minutes</sub> | [stuartmorgan](https://github.com/stuartmorgan) | [camsim99](https://github.com/camsim99) | <div title="47 additions and 780 deletions in 12 files">L</div>
 [[pigeon] Removed my name from the readme](https://github.com/flutter/packages/pull/3395)<br /><sub>[#3395](https://github.com/flutter/packages/pull/3395) merged on March 8, 2023 <br /> [3 comments](https://github.com/flutter/packages/pull/3395) over 1 day</sub> | [gaaclarke](https://github.com/gaaclarke) | [stuartmorgan](https://github.com/stuartmorgan)<br />[tarrinneal](https://github.com/tarrinneal) | <div title="1 addition and 1 deletion in 1 file">S</div>
+[[google_maps_flutter] Update example android configuration](https://github.com/flutter/packages/pull/3408)<br /><sub>[#3408](https://github.com/flutter/packages/pull/3408) merged on March 8, 2023 <br /> [9 comments](https://github.com/flutter/packages/pull/3408) over 20 hours</sub> | [Rexios80](https://github.com/Rexios80) | [stuartmorgan](https://github.com/stuartmorgan)<br />[reidbaker](https://github.com/reidbaker) | <div title="8 additions and 10 deletions in 5 files">S</div>
 [[go_router_builder] Remove Flutter SDK constraint](https://github.com/flutter/packages/pull/3406)<br /><sub>[#3406](https://github.com/flutter/packages/pull/3406) merged on March 7, 2023 <br /> [2 comments](https://github.com/flutter/packages/pull/3406) over 1 hour</sub> | [stuartmorgan](https://github.com/stuartmorgan) | [chunhtai](https://github.com/chunhtai) | <div title="5 additions and 5 deletions in 2 files">S</div>
 [Update CODEOWNERS](https://github.com/flutter/packages/pull/3402)<br /><sub>[#3402](https://github.com/flutter/packages/pull/3402) merged on March 7, 2023 <br /> [1 comment](https://github.com/flutter/packages/pull/3402) over 1 hour</sub> | [stuartmorgan](https://github.com/stuartmorgan) | [ditman](https://github.com/ditman) | <div title="1 addition and 1 deletion in 1 file">S</div>
 [[go_router] Fix a typo in the ShellRoute docstring](https://github.com/flutter/packages/pull/3378)<br /><sub>[#3378](https://github.com/flutter/packages/pull/3378) merged on March 7, 2023 <br /> [6 comments](https://github.com/flutter/packages/pull/3378) over 1 day</sub> | [emesterhazy](https://github.com/emesterhazy) | [johnpryan](https://github.com/johnpryan)<br />[chunhtai](https://github.com/chunhtai) | <div title="2 additions and 2 deletions in 1 file">S</div>
