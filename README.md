@@ -7,7 +7,7 @@
 26 commits.
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Removes single window assumptions from `flutter_test`<br />
-    <sub>[#121549](https://github.com/flutter/flutter/pull/121549) merged on March 6, 2023 &mdash; **Extra large:** [112 comments](https://github.com/flutter/flutter/pull/121549) over 6 days, 2267 additions and 1308 deletions in 16 files</sub><br />
+    <sub>[#121549](https://github.com/flutter/flutter/pull/121549) merged on March 6, 2023 &mdash; **Extra large:** [113 comments](https://github.com/flutter/flutter/pull/121549) over 6 days, 2267 additions and 1308 deletions in 16 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Eilidh Southren](https://github.com/esouthren)** &mdash; Bottom appbar/sheet shadow property<br />
@@ -1213,15 +1213,19 @@
 
 ### March 4, 2023 to March 10, 2023
 
-12 commits.
+13 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [camera_android] Fix camera android deprecation warning for CamcorderProfile.get()<br />
     <sub>[#3273](https://github.com/flutter/packages/pull/3273) merged on March 7, 2023 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/3273) over 1 week, 218 additions and 178 deletions in 14 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Adds a WebViewFlutterApi<br />
-    <sub>[#3324](https://github.com/flutter/packages/pull/3324) merged on March 8, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/packages/pull/3324) over 1 week, 271 additions and 56 deletions in 14 files</sub><br />
+    <sub>[#3324](https://github.com/flutter/packages/pull/3324) merged on March 8, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/packages/pull/3324) over 1 week, 271 additions and 56 deletions in 14 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Clarify endorsement in READMEs<br />
+    <sub>[#3404](https://github.com/flutter/packages/pull/3404) merged on March 8, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/3404) over 21 hours, 368 additions and 140 deletions in 135 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Anuruddha](https://github.com/apremalal)** &mdash; [webview_flutter] Add android `webSettings.setTextZoom` api<br />
     <sub>[#3298](https://github.com/flutter/packages/pull/3298) merged on March 8, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/packages/pull/3298) over 1 week, 185 additions and 2 deletions in 16 files</sub><br />
