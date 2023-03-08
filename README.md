@@ -80,7 +80,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Temporary flag flip for devicelab tests to use Impeller.<br />
-    <sub>[#122224](https://github.com/flutter/flutter/pull/122224) merged on March 8, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/122224) over 1 hour, 41 additions and 20 deletions in 21 files</sub><br />
+    <sub>[#122224](https://github.com/flutter/flutter/pull/122224) merged on March 8, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/122224) over 1 hour, 41 additions and 20 deletions in 21 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; ModalBottomSheetRoute: Remove gap at screen bottom with `useSafeArea: true`<br />
