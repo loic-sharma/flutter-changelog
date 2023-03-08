@@ -4,7 +4,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-25 commits.
+26 commits.
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Removes single window assumptions from `flutter_test`
     <sub>[#121549](https://github.com/flutter/flutter/pull/121549) merged on March 6, 2023 &mdash; **Extra large:** [112 comments](https://github.com/flutter/flutter/pull/121549) over 6 days, 2267 additions and 1308 deletions in 16 files</sub>
@@ -58,6 +58,10 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; pin flutter_plugin_android_lifecycle and roll other pub deps
     <sub>[#122043](https://github.com/flutter/flutter/pull/122043) merged on March 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122043) over 1 hour, 13 additions and 9 deletions in 6 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix DomCSSStyleSheetExtension to work with dart2wasm.
+    <sub>[#122154](https://github.com/flutter/flutter/pull/122154) merged on March 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122154) over 1 hour, 5 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [joshualitt](https://github.com/joshualitt)</sub>
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Delete `FlutterCommand.intArg()`, which is not used anywhere
     <sub>[#122124](https://github.com/flutter/flutter/pull/122124) merged on March 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122124) over 4 hours, 0 additions and 3 deletions in 1 file</sub>
@@ -1205,11 +1209,15 @@
 
 ### March 4, 2023 to March 10, 2023
 
-10 commits.
+11 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [camera_android] Fix camera android deprecation warning for CamcorderProfile.get()
     <sub>[#3273](https://github.com/flutter/packages/pull/3273) merged on March 7, 2023 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/3273) over 1 week, 218 additions and 178 deletions in 14 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Anuruddha](https://github.com/apremalal)** &mdash; [webview_flutter] Add android `webSettings.setTextZoom` api
+    <sub>[#3298](https://github.com/flutter/packages/pull/3298) merged on March 8, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/packages/pull/3298) over 1 week, 185 additions and 2 deletions in 16 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Revert Android part of #3272
     <sub>[#3405](https://github.com/flutter/packages/pull/3405) merged on March 7, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/packages/pull/3405) over 23 minutes, 47 additions and 780 deletions in 12 files</sub>

@@ -4,7 +4,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-25 commits.
+26 commits.
 
 Name | Author | Reviewers | Size
 -- | -- | -- | --
@@ -21,6 +21,7 @@ Name | Author | Reviewers | Size
 [Print on failure in web hotrestart tests](https://github.com/flutter/flutter/pull/122115)<br /><sub>[#122115](https://github.com/flutter/flutter/pull/122115) merged on March 7, 2023 <br /> [2 comments](https://github.com/flutter/flutter/pull/122115) over 5 hours</sub> | [annagrin](https://github.com/annagrin) | [ditman](https://github.com/ditman)<br />[christopherfujino](https://github.com/christopherfujino) | <div title="3 additions and 0 deletions in 1 file">S</div>
 [Reland: Removes single window assumptions from `flutter_test`](https://github.com/flutter/flutter/pull/122060)<br /><sub>[#122060](https://github.com/flutter/flutter/pull/122060) merged on March 7, 2023 <br /> [12 comments](https://github.com/flutter/flutter/pull/122060) over 21 hours</sub> | [pdblasi-google](https://github.com/pdblasi-google) | [goderbauer](https://github.com/goderbauer) | <div title="2300 additions and 1308 deletions in 16 files">XL</div>
 [pin flutter_plugin_android_lifecycle and roll other pub deps](https://github.com/flutter/flutter/pull/122043)<br /><sub>[#122043](https://github.com/flutter/flutter/pull/122043) merged on March 6, 2023 <br /> [1 comment](https://github.com/flutter/flutter/pull/122043) over 1 hour</sub> | [christopherfujino](https://github.com/christopherfujino) | [reidbaker](https://github.com/reidbaker) | <div title="13 additions and 9 deletions in 6 files">S</div>
+[Fix DomCSSStyleSheetExtension to work with dart2wasm.](https://github.com/flutter/flutter/pull/122154)<br /><sub>[#122154](https://github.com/flutter/flutter/pull/122154) merged on March 8, 2023 <br /> [2 comments](https://github.com/flutter/flutter/pull/122154) over 1 hour</sub> | [eyebrowsoffire](https://github.com/eyebrowsoffire) | [joshualitt](https://github.com/joshualitt) | <div title="5 additions and 2 deletions in 1 file">S</div>
 [Delete `FlutterCommand.intArg()`, which is not used anywhere](https://github.com/flutter/flutter/pull/122124)<br /><sub>[#122124](https://github.com/flutter/flutter/pull/122124) merged on March 8, 2023 <br /> [3 comments](https://github.com/flutter/flutter/pull/122124) over 4 hours</sub> | [bartekpacia](https://github.com/bartekpacia) | [jmagman](https://github.com/jmagman)<br />[christopherfujino](https://github.com/christopherfujino) | <div title="0 additions and 3 deletions in 1 file">S</div>
 [Use tearoffs in TestRenderingFlutterBinding](https://github.com/flutter/flutter/pull/122091)<br /><sub>[#122091](https://github.com/flutter/flutter/pull/122091) merged on March 7, 2023 <br /> [3 comments](https://github.com/flutter/flutter/pull/122091) over 12 hours</sub> | [tgucio](https://github.com/tgucio) | [goderbauer](https://github.com/goderbauer) | <div title="2 additions and 6 deletions in 1 file">S</div>
 [[web] Ensure CanvasKit is served from the correct location](https://github.com/flutter/flutter/pull/121902)<br /><sub>[#121902](https://github.com/flutter/flutter/pull/121902) merged on March 7, 2023 <br /> [2 comments](https://github.com/flutter/flutter/pull/121902) over 4 days</sub> | [mdebbar](https://github.com/mdebbar) | [hterkelsen](https://github.com/hterkelsen)<br />[eyebrowsoffire](https://github.com/eyebrowsoffire) | <div title="38 additions and 7 deletions in 3 files">S</div>
@@ -364,11 +365,12 @@ Name | Author | Reviewers | Size
 
 ### March 4, 2023 to March 10, 2023
 
-10 commits.
+11 commits.
 
 Name | Author | Reviewers | Size
 -- | -- | -- | --
 [[camera_android] Fix camera android deprecation warning for CamcorderProfile.get()](https://github.com/flutter/packages/pull/3273)<br /><sub>[#3273](https://github.com/flutter/packages/pull/3273) merged on March 7, 2023 <br /> [41 comments](https://github.com/flutter/packages/pull/3273) over 1 week</sub> | [navaronbracke](https://github.com/navaronbracke) | [stuartmorgan](https://github.com/stuartmorgan)<br />[reidbaker](https://github.com/reidbaker)<br />[camsim99](https://github.com/camsim99) | <div title="218 additions and 178 deletions in 14 files">M</div>
+[[webview_flutter] Add android `webSettings.setTextZoom` api](https://github.com/flutter/packages/pull/3298)<br /><sub>[#3298](https://github.com/flutter/packages/pull/3298) merged on March 8, 2023 <br /> [23 comments](https://github.com/flutter/packages/pull/3298) over 1 week</sub> | [apremalal](https://github.com/apremalal) | [stuartmorgan](https://github.com/stuartmorgan)<br />[bparrishMines](https://github.com/bparrishMines) | <div title="185 additions and 2 deletions in 16 files">S</div>
 [[camera] Revert Android part of #3272](https://github.com/flutter/packages/pull/3405)<br /><sub>[#3405](https://github.com/flutter/packages/pull/3405) merged on March 7, 2023 <br /> [0 comments](https://github.com/flutter/packages/pull/3405) over 23 minutes</sub> | [stuartmorgan](https://github.com/stuartmorgan) | [camsim99](https://github.com/camsim99) | <div title="47 additions and 780 deletions in 12 files">L</div>
 [[pigeon] Removed my name from the readme](https://github.com/flutter/packages/pull/3395)<br /><sub>[#3395](https://github.com/flutter/packages/pull/3395) merged on March 8, 2023 <br /> [3 comments](https://github.com/flutter/packages/pull/3395) over 1 day</sub> | [gaaclarke](https://github.com/gaaclarke) | [stuartmorgan](https://github.com/stuartmorgan)<br />[tarrinneal](https://github.com/tarrinneal) | <div title="1 addition and 1 deletion in 1 file">S</div>
 [[go_router_builder] Remove Flutter SDK constraint](https://github.com/flutter/packages/pull/3406)<br /><sub>[#3406](https://github.com/flutter/packages/pull/3406) merged on March 7, 2023 <br /> [2 comments](https://github.com/flutter/packages/pull/3406) over 1 hour</sub> | [stuartmorgan](https://github.com/stuartmorgan) | [chunhtai](https://github.com/chunhtai) | <div title="5 additions and 5 deletions in 2 files">S</div>
