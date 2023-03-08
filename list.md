@@ -629,7 +629,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-23 commits.
+24 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] move asset mapping copy to background thread
     <sub>[#39918](https://github.com/flutter/engine/pull/39918) merged on March 8, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/39918) over 1 week, 145 additions and 16 deletions in 6 files</sub>
@@ -724,6 +724,10 @@
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from b1016d8f293a to 1ae877e6c3d3 (5 revisions)
     <sub>[#40089](https://github.com/flutter/engine/pull/40089) merged on March 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40089) over 6 hours, 2 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "[engine] move asset mapping copy to background thread"
+    <sub>[#40147](https://github.com/flutter/engine/pull/40147) merged on March 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40147) over 40 minutes, 16 additions and 145 deletions in 6 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 ### February 25, 2023 to March 3, 2023
 
