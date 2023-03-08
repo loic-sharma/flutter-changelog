@@ -366,11 +366,12 @@ Name | Author | Reviewers | Size
 
 ### March 4, 2023 to March 10, 2023
 
-11 commits.
+12 commits.
 
 Name | Author | Reviewers | Size
 -- | -- | -- | --
 [[camera_android] Fix camera android deprecation warning for CamcorderProfile.get()](https://github.com/flutter/packages/pull/3273)<br /><sub>[#3273](https://github.com/flutter/packages/pull/3273) merged on March 7, 2023 <br /> [41 comments](https://github.com/flutter/packages/pull/3273) over 1 week</sub> | [navaronbracke](https://github.com/navaronbracke) | [stuartmorgan](https://github.com/stuartmorgan)<br />[reidbaker](https://github.com/reidbaker)<br />[camsim99](https://github.com/camsim99) | <div title="218 additions and 178 deletions in 14 files">M</div>
+[[webview_flutter_android] Adds a WebViewFlutterApi](https://github.com/flutter/packages/pull/3324)<br /><sub>[#3324](https://github.com/flutter/packages/pull/3324) merged on March 8, 2023 <br /> [3 comments](https://github.com/flutter/packages/pull/3324) over 1 week</sub> | [bparrishMines](https://github.com/bparrishMines) | [stuartmorgan](https://github.com/stuartmorgan) | <div title="271 additions and 56 deletions in 14 files">M</div>
 [[webview_flutter] Add android `webSettings.setTextZoom` api](https://github.com/flutter/packages/pull/3298)<br /><sub>[#3298](https://github.com/flutter/packages/pull/3298) merged on March 8, 2023 <br /> [23 comments](https://github.com/flutter/packages/pull/3298) over 1 week</sub> | [apremalal](https://github.com/apremalal) | [stuartmorgan](https://github.com/stuartmorgan)<br />[bparrishMines](https://github.com/bparrishMines) | <div title="185 additions and 2 deletions in 16 files">S</div>
 [[camera] Revert Android part of #3272](https://github.com/flutter/packages/pull/3405)<br /><sub>[#3405](https://github.com/flutter/packages/pull/3405) merged on March 7, 2023 <br /> [0 comments](https://github.com/flutter/packages/pull/3405) over 23 minutes</sub> | [stuartmorgan](https://github.com/stuartmorgan) | [camsim99](https://github.com/camsim99) | <div title="47 additions and 780 deletions in 12 files">L</div>
 [[pigeon] Removed my name from the readme](https://github.com/flutter/packages/pull/3395)<br /><sub>[#3395](https://github.com/flutter/packages/pull/3395) merged on March 8, 2023 <br /> [3 comments](https://github.com/flutter/packages/pull/3395) over 1 day</sub> | [gaaclarke](https://github.com/gaaclarke) | [stuartmorgan](https://github.com/stuartmorgan)<br />[tarrinneal](https://github.com/tarrinneal) | <div title="1 addition and 1 deletion in 1 file">S</div>
