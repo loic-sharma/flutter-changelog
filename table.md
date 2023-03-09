@@ -397,7 +397,7 @@ Name | Author | Reviewers | Size
 
 ### March 4, 2023 to March 10, 2023
 
-17 commits.
+18 commits.
 
 Name | Author | Reviewers | Size
 -- | -- | -- | --
@@ -418,6 +418,7 @@ Name | Author | Reviewers | Size
 [[pigeon] Minor updates for pana](https://github.com/flutter/packages/pull/3397)<br /><sub>[#3397](https://github.com/flutter/packages/pull/3397) merged on March 7, 2023 <br /> [1 comment](https://github.com/flutter/packages/pull/3397) over 19 hours</sub> | [stuartmorgan](https://github.com/stuartmorgan) | [tarrinneal](https://github.com/tarrinneal) | <div title="37 additions and 38 deletions in 22 files">S</div>
 [[various] Remove enableR8](https://github.com/flutter/packages/pull/3400)<br /><sub>[#3400](https://github.com/flutter/packages/pull/3400) merged on March 7, 2023 <br /> [0 comments](https://github.com/flutter/packages/pull/3400) over 48 minutes</sub> | [stuartmorgan](https://github.com/stuartmorgan) | [reidbaker](https://github.com/reidbaker) | <div title="0 additions and 21 deletions in 21 files">S</div>
 [[google_maps_flutter] Enable -Werror for Android](https://github.com/flutter/packages/pull/3399)<br /><sub>[#3399](https://github.com/flutter/packages/pull/3399) merged on March 7, 2023 <br /> [0 comments](https://github.com/flutter/packages/pull/3399) over 38 minutes</sub> | [stuartmorgan](https://github.com/stuartmorgan) | [reidbaker](https://github.com/reidbaker) | <div title="33 additions and 13 deletions in 4 files">S</div>
+[Revert "[video_player] Passing http headers to file constructor "](https://github.com/flutter/packages/pull/3424)<br /><sub>[#3424](https://github.com/flutter/packages/pull/3424) merged on March 9, 2023 <br /> [0 comments](https://github.com/flutter/packages/pull/3424) over 8 hours</sub> | [stuartmorgan](https://github.com/stuartmorgan) | [tarrinneal](https://github.com/tarrinneal) | <div title="35 additions and 151 deletions in 10 files">S</div>
 
 ### February 25, 2023 to March 3, 2023
 

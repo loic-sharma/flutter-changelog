@@ -1337,7 +1337,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-17 commits.
+18 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [camera_android] Fix camera android deprecation warning for CamcorderProfile.get()<br />
     <sub>[#3273](https://github.com/flutter/packages/pull/3273) merged on March 7, 2023 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/3273) over 1 week, 218 additions and 178 deletions in 14 files</sub><br />
@@ -1406,6 +1406,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Enable -Werror for Android<br />
     <sub>[#3399](https://github.com/flutter/packages/pull/3399) merged on March 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3399) over 38 minutes, 33 additions and 13 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[video_player] Passing http headers to file constructor "<br />
+    <sub>[#3424](https://github.com/flutter/packages/pull/3424) merged on March 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3424) over 8 hours, 35 additions and 151 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 ### February 25, 2023 to March 3, 2023
 
