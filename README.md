@@ -1356,7 +1356,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Abdelaziz Mahdy](https://github.com/zezo357)** &mdash; [video_player] Passing http headers to file constructor <br />
-    <sub>[#3266](https://github.com/flutter/packages/pull/3266) merged on March 9, 2023 &mdash; **Small:** [27 comments](https://github.com/flutter/packages/pull/3266) over 2 weeks, 151 additions and 35 deletions in 10 files</sub><br />
+    <sub>[#3266](https://github.com/flutter/packages/pull/3266) merged on March 9, 2023 &mdash; **Small:** [28 comments](https://github.com/flutter/packages/pull/3266) over 2 weeks, 151 additions and 35 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Clarify endorsement in READMEs<br />
