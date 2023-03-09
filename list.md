@@ -4,7 +4,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-44 commits.
+45 commits.
 
 * **[Jami Couch](https://github.com/fbcouch)** &mdash; Add support for iOS UndoManager
     <sub>[#98294](https://github.com/flutter/flutter/pull/98294) merged on March 8, 2023 &mdash; **Extra large:** [93 comments](https://github.com/flutter/flutter/pull/98294) over 12 months, 1429 additions and 347 deletions in 14 files</sub>
@@ -83,6 +83,10 @@
     <sub>[#122043](https://github.com/flutter/flutter/pull/122043) merged on March 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122043) over 1 hour, 13 additions and 9 deletions in 6 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[xubaolin](https://github.com/xu-baolin)** &mdash; Fix a scrolling stutter caused by dragging scrollbar
+    <sub>[#121786](https://github.com/flutter/flutter/pull/121786) merged on March 9, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/121786) over 6 days, 85 additions and 9 deletions in 2 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; ModalBottomSheetRoute: Remove gap at screen bottom with `useSafeArea: true`
     <sub>[#122118](https://github.com/flutter/flutter/pull/122118) merged on March 8, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/122118) over 1 day, 27 additions and 13 deletions in 2 files</sub>
     <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [hangyu](https://github.com/hangyujin)</sub>
@@ -111,37 +115,37 @@
     <sub>[#122145](https://github.com/flutter/flutter/pull/122145) merged on March 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122145) over 20 hours, 82 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix DomCSSStyleSheetExtension to work with dart2wasm.
-    <sub>[#122154](https://github.com/flutter/flutter/pull/122154) merged on March 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122154) over 1 hour, 5 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [joshualitt](https://github.com/joshualitt)</sub>
-
-* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Add backward compatibility in proxied_devices.
-    <sub>[#122040](https://github.com/flutter/flutter/pull/122040) merged on March 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122040) over 2 hours, 2 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
-
-* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Use `dart pub` instead of `dart __deprecated pub`
-    <sub>[#121605](https://github.com/flutter/flutter/pull/121605) merged on March 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/121605) over 5 days, 62 additions and 42 deletions in 7 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add ZoomPageTransitionsBuilder.allowSnapshotting
     <sub>[#122019](https://github.com/flutter/flutter/pull/122019) merged on March 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122019) over 7 hours, 288 additions and 8 deletions in 5 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Use tearoffs in TestRenderingFlutterBinding
-    <sub>[#122091](https://github.com/flutter/flutter/pull/122091) merged on March 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122091) over 12 hours, 2 additions and 6 deletions in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Ensure CanvasKit is served from the correct location
     <sub>[#121902](https://github.com/flutter/flutter/pull/121902) merged on March 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/121902) over 4 days, 38 additions and 7 deletions in 3 files</sub>
     <sub>Reviewed by: [Harry Terkelsen](https://github.com/hterkelsen), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Use `dart pub` instead of `dart __deprecated pub`
+    <sub>[#121605](https://github.com/flutter/flutter/pull/121605) merged on March 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/121605) over 5 days, 62 additions and 42 deletions in 7 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Delete `FlutterCommand.intArg()`, which is not used anywhere
     <sub>[#122124](https://github.com/flutter/flutter/pull/122124) merged on March 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122124) over 4 hours, 0 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
+* **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Use tearoffs in TestRenderingFlutterBinding
+    <sub>[#122091](https://github.com/flutter/flutter/pull/122091) merged on March 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122091) over 12 hours, 2 additions and 6 deletions in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix DomCSSStyleSheetExtension to work with dart2wasm.
+    <sub>[#122154](https://github.com/flutter/flutter/pull/122154) merged on March 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122154) over 1 hour, 5 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [joshualitt](https://github.com/joshualitt)</sub>
+
 * **[J-P Nurmi](https://github.com/jpnurmi)** &mdash; Add missing properties to `ListTileTheme.merge`
     <sub>[#121975](https://github.com/flutter/flutter/pull/121975) merged on March 6, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/121975) over 1 day, 92 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Add backward compatibility in proxied_devices.
+    <sub>[#122040](https://github.com/flutter/flutter/pull/122040) merged on March 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122040) over 2 hours, 2 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_ios hot_mode_dev_cycle_ios__benchmark to be flaky
     <sub>[#120809](https://github.com/flutter/flutter/pull/120809) merged on March 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/120809) over 2 weeks, 1 addition and 0 deletions in 1 file</sub>
