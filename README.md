@@ -709,7 +709,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-31 commits.
+32 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] move asset mapping copy to background thread<br />
     <sub>[#39918](https://github.com/flutter/engine/pull/39918) merged on March 8, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/39918) over 1 week, 145 additions and 16 deletions in 6 files</sub><br />
@@ -744,6 +744,10 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Optimize search for the default bundle<br />
     <sub>[#39975](https://github.com/flutter/engine/pull/39975) merged on March 7, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/39975) over 5 days, 61 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller][Compute] Guard subgroups with feature detection<br />
+    <sub>[#40159](https://github.com/flutter/engine/pull/40159) merged on March 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40159) over 2 hours, 59 additions and 5 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove single-window assumption from scenario_app<br />
     <sub>[#40156](https://github.com/flutter/engine/pull/40156) merged on March 9, 2023 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/40156) over 47 minutes, 236 additions and 276 deletions in 16 files</sub><br />
