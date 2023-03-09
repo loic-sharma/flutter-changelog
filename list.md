@@ -540,13 +540,13 @@
     <sub>[#118782](https://github.com/flutter/flutter/pull/118782) merged on February 21, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/118782) over 1 month, 98 additions and 149 deletions in 6 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Todd Volkert](https://github.com/tvolkert)** &mdash; Add ResizeImage.policy
-    <sub>[#121154](https://github.com/flutter/flutter/pull/121154) merged on February 23, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/121154) over 1 day, 855 additions and 119 deletions in 3 files</sub>
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Remove accessibleNavigation reference from BottomSheet
     <sub>[#121132](https://github.com/flutter/flutter/pull/121132) merged on February 24, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/121132) over 3 days, 28 additions and 8 deletions in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Todd Volkert](https://github.com/tvolkert)** &mdash; Add ResizeImage.policy
+    <sub>[#121154](https://github.com/flutter/flutter/pull/121154) merged on February 23, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/121154) over 1 day, 855 additions and 119 deletions in 3 files</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; allow passing --file-reporter option to test running refs #69425
     <sub>[#120716](https://github.com/flutter/flutter/pull/120716) merged on February 21, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/120716) over 6 days, 48 additions and 0 deletions in 3 files</sub>
