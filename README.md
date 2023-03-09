@@ -1337,11 +1337,15 @@
 
 ### March 4, 2023 to March 10, 2023
 
-18 commits.
+19 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [camera_android] Fix camera android deprecation warning for CamcorderProfile.get()<br />
     <sub>[#3273](https://github.com/flutter/packages/pull/3273) merged on March 7, 2023 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/3273) over 1 week, 218 additions and 178 deletions in 14 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] moves Android 13 image picker to options<br />
+    <sub>[#3370](https://github.com/flutter/packages/pull/3370) merged on March 9, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/3370) over 5 days, 167 additions and 13 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Daniel Mossaband](https://github.com/DanMossa), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Adds a WebViewFlutterApi<br />
     <sub>[#3324](https://github.com/flutter/packages/pull/3324) merged on March 8, 2023 &mdash; **Medium:** [8 comments](https://github.com/flutter/packages/pull/3324) over 1 week, 271 additions and 56 deletions in 14 files</sub><br />
