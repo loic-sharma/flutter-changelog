@@ -251,13 +251,13 @@
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
     <sub><details><summary>2 images...</summary><img width="250" alt="Screen Shot 2022-11-08 at 12 52 33 AM" src="https://user-images.githubusercontent.com/36861262/200518958-f787b29c-2417-4ef3-815d-1f790627a7f8.png"><img width="250" alt="Screen Shot 2022-11-08 at 12 52 55 AM" src="https://user-images.githubusercontent.com/36861262/200519037-93822bbd-5c77-4378-875c-1a1b39a30eb9.png"></details></sub>
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `ExpansionTile` double tap to collapse/expanded and expanded/collapsed states semantics announcements
-    <sub>[#120881](https://github.com/flutter/flutter/pull/120881) merged on February 27, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/120881) over 1 week, 1488 additions and 81 deletions in 84 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [chunhtai](https://github.com/chunhtai)</sub>
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update device filtering and introduce isConnected and connectionInterface
     <sub>[#121359](https://github.com/flutter/flutter/pull/121359) merged on March 3, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/121359) over 1 week, 759 additions and 167 deletions in 25 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `ExpansionTile` double tap to collapse/expanded and expanded/collapsed states semantics announcements
+    <sub>[#120881](https://github.com/flutter/flutter/pull/120881) merged on February 27, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/120881) over 1 week, 1488 additions and 81 deletions in 84 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `OverflowBox` example and update existing examples under `basic.dart`
     <sub>[#121213](https://github.com/flutter/flutter/pull/121213) merged on February 27, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/121213) over 5 days, 811 additions and 287 deletions in 35 files</sub>
