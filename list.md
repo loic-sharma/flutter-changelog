@@ -1337,7 +1337,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-19 commits.
+20 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [camera_android] Fix camera android deprecation warning for CamcorderProfile.get()
     <sub>[#3273](https://github.com/flutter/packages/pull/3273) merged on March 7, 2023 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/3273) over 1 week, 218 additions and 178 deletions in 14 files</sub>
@@ -1366,6 +1366,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Revert Android part of #3272
     <sub>[#3405](https://github.com/flutter/packages/pull/3405) merged on March 7, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/packages/pull/3405) over 23 minutes, 47 additions and 780 deletions in 12 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Chris Yang](https://github.com/cyanglaz)** &mdash; Manual roll Flutter from f2f80059ff87 to 5a279edc239f (44 revisions) + fixes
+    <sub>[#3420](https://github.com/flutter/packages/pull/3420) merged on March 9, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/3420) over 17 hours, 107 additions and 185 deletions in 17 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [pigeon] Removed my name from the readme
     <sub>[#3395](https://github.com/flutter/packages/pull/3395) merged on March 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3395) over 1 day, 1 addition and 1 deletion in 1 file</sub>
