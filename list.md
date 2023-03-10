@@ -1491,7 +1491,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-24 commits.
+25 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [camera_android] Fix camera android deprecation warning for CamcorderProfile.get()
     <sub>[#3273](https://github.com/flutter/packages/pull/3273) merged on March 7, 2023 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/3273) over 1 week, 218 additions and 178 deletions in 14 files</sub>
@@ -1584,6 +1584,10 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from c07f78888884 to 2ad6cd72c040 (5 revisions)
     <sub>[#3426](https://github.com/flutter/packages/pull/3426) merged on March 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3426) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Reland: [video_player] Passing http headers to file constructor
+    <sub>[#3425](https://github.com/flutter/packages/pull/3425) merged on March 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3425) over 21 hours, 153 additions and 36 deletions in 11 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[video_player] Passing http headers to file constructor "
     <sub>[#3424](https://github.com/flutter/packages/pull/3424) merged on March 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3424) over 8 hours, 35 additions and 151 deletions in 10 files</sub>
