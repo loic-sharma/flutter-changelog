@@ -1008,7 +1008,7 @@
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Reland "Sequester all Skia<->DL interactions into the skia sub-module"<br />
-    <sub>[#40114](https://github.com/flutter/engine/pull/40114) merged on March 7, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/40114) over 8 hours, 4695 additions and 3841 deletions in 94 files</sub><br />
+    <sub>[#40114](https://github.com/flutter/engine/pull/40114) merged on March 7, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/40114) over 8 hours, 4695 additions and 3841 deletions in 94 files</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Adam Perry](https://github.com/anp)** &mdash; Reland "[fuchsia] Remove component framework v1 support. (#39732)"<br />
