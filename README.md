@@ -245,7 +245,7 @@
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[Impeller] Temporary flag flip for devicelab tests to use Impeller redux."<br />
-    <sub>[#122362](https://github.com/flutter/flutter/pull/122362) merged on March 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122362) over 13 hours, 21 additions and 47 deletions in 21 files</sub><br />
+    <sub>[#122362](https://github.com/flutter/flutter/pull/122362) merged on March 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122362) over 13 hours, 21 additions and 47 deletions in 21 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[Impeller] Temporary flag flip for devicelab tests to use Impeller."<br />
