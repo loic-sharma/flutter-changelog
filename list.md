@@ -1535,7 +1535,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-28 commits.
+29 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [camera_android] Fix camera android deprecation warning for CamcorderProfile.get()
     <sub>[#3273](https://github.com/flutter/packages/pull/3273) merged on March 7, 2023 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/3273) over 1 week, 218 additions and 178 deletions in 14 files</sub>
@@ -1584,6 +1584,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [pigeon] Removed my name from the readme
     <sub>[#3395](https://github.com/flutter/packages/pull/3395) merged on March 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3395) over 1 day, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Generate the enum map for enum used in iterable
+    <sub>[#3415](https://github.com/flutter/packages/pull/3415) merged on March 10, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3415) over 2 days, 116 additions and 4 deletions in 9 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_platform_interface] Adds support to track url changes in the platform interface
     <sub>[#3323](https://github.com/flutter/packages/pull/3323) merged on March 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3323) over 1 week, 81 additions and 59 deletions in 9 files</sub>
