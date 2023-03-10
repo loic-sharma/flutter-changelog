@@ -457,7 +457,7 @@
     <sub>Reviewed by: [Harry Terkelsen](https://github.com/hterkelsen)</sub>
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Use AnimatedSwitcher's _childNumber as Key in layoutBuilder's Stack"
-    <sub>[#121835](https://github.com/flutter/flutter/pull/121835) merged on March 2, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/121835) over 41 minutes, 15 additions and 38 deletions in 2 files</sub>
+    <sub>[#121835](https://github.com/flutter/flutter/pull/121835) merged on March 2, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/121835) over 41 minutes, 15 additions and 38 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Christopher Fujino](https://github.com/christopherfujino), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Issues/111931 reland
