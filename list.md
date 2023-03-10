@@ -25,7 +25,7 @@
     <sub><details><summary>1 image...</summary>![Screenshot 2023-02-24 3 04 29 PM](https://user-images.githubusercontent.com/15033982/221222322-7674ef0f-6f3f-4c29-a97c-070bef7dfe8f.png)</details></sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Introduce the PipelineOwner tree
-    <sub>[#122231](https://github.com/flutter/flutter/pull/122231) merged on March 10, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/122231) over 1 day, 1341 additions and 34 deletions in 6 files</sub>
+    <sub>[#122231](https://github.com/flutter/flutter/pull/122231) merged on March 10, 2023 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/122231) over 1 day, 1341 additions and 34 deletions in 6 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Micael Cid](https://github.com/micaelcid)** &mdash; [integration_test] upgrade androidx test to 1.4.0
@@ -1531,7 +1531,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-27 commits.
+28 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [camera_android] Fix camera android deprecation warning for CamcorderProfile.get()
     <sub>[#3273](https://github.com/flutter/packages/pull/3273) merged on March 7, 2023 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/3273) over 1 week, 218 additions and 178 deletions in 14 files</sub>
@@ -1560,6 +1560,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Revert Android part of #3272
     <sub>[#3405](https://github.com/flutter/packages/pull/3405) merged on March 7, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/packages/pull/3405) over 23 minutes, 47 additions and 780 deletions in 12 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] finish kotlin and swift safe cast removal
+    <sub>[#3360](https://github.com/flutter/packages/pull/3360) merged on March 10, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3360) over 1 week, 293 additions and 291 deletions in 30 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Include examples when pathifying deps
     <sub>[#3393](https://github.com/flutter/packages/pull/3393) merged on March 10, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/3393) over 4 days, 205 additions and 104 deletions in 2 files</sub>
