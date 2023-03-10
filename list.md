@@ -1531,7 +1531,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-26 commits.
+27 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [camera_android] Fix camera android deprecation warning for CamcorderProfile.get()
     <sub>[#3273](https://github.com/flutter/packages/pull/3273) merged on March 7, 2023 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/3273) over 1 week, 218 additions and 178 deletions in 14 files</sub>
@@ -1560,6 +1560,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Revert Android part of #3272
     <sub>[#3405](https://github.com/flutter/packages/pull/3405) merged on March 7, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/packages/pull/3405) over 23 minutes, 47 additions and 780 deletions in 12 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Include examples when pathifying deps
+    <sub>[#3393](https://github.com/flutter/packages/pull/3393) merged on March 10, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/3393) over 4 days, 205 additions and 104 deletions in 2 files</sub>
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [espresso] Enable warnings as errors
     <sub>[#3414](https://github.com/flutter/packages/pull/3414) merged on March 9, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/3414) over 1 day, 28 additions and 10 deletions in 11 files</sub>
