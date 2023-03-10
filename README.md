@@ -1499,7 +1499,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-25 commits.
+26 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [camera_android] Fix camera android deprecation warning for CamcorderProfile.get()<br />
     <sub>[#3273](https://github.com/flutter/packages/pull/3273) merged on March 7, 2023 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/3273) over 1 week, 218 additions and 178 deletions in 14 files</sub><br />
@@ -1540,6 +1540,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [pigeon] Removed my name from the readme<br />
     <sub>[#3395](https://github.com/flutter/packages/pull/3395) merged on March 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3395) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_platform_interface] Adds support to track url changes in the platform interface<br />
+    <sub>[#3323](https://github.com/flutter/packages/pull/3323) merged on March 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3323) over 1 week, 81 additions and 59 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Fix federated safety check<br />
     <sub>[#3417](https://github.com/flutter/packages/pull/3417) merged on March 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3417) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
