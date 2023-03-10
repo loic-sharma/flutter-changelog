@@ -844,8 +844,8 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Desktop] Use references for semantics update<br />
-    <sub>[#40167](https://github.com/flutter/engine/pull/40167) merged on March 9, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/40167) over 16 hours, 157 additions and 160 deletions in 10 files</sub><br />
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+    <sub>[#40167](https://github.com/flutter/engine/pull/40167) merged on March 9, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/40167) over 16 hours, 157 additions and 160 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Improve error messaging when render target cannot be created<br />
     <sub>[#40150](https://github.com/flutter/engine/pull/40150) merged on March 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40150) over 1 hour, 10 additions and 3 deletions in 2 files</sub><br />
