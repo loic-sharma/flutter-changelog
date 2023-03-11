@@ -654,13 +654,13 @@
     <sub>[#121251](https://github.com/flutter/flutter/pull/121251) merged on February 22, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/121251) over 4 hours, 25 additions and 14 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Nehal Patel](https://github.com/nehalvpatel)</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Speed up first asset load by using the binary-formatted asset manifest for image resolution<br />
-    <sub>[#118782](https://github.com/flutter/flutter/pull/118782) merged on February 21, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/118782) over 1 month, 98 additions and 149 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Remove accessibleNavigation reference from BottomSheet<br />
     <sub>[#121132](https://github.com/flutter/flutter/pull/121132) merged on February 24, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/121132) over 3 days, 28 additions and 8 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Speed up first asset load by using the binary-formatted asset manifest for image resolution<br />
+    <sub>[#118782](https://github.com/flutter/flutter/pull/118782) merged on February 21, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/118782) over 1 month, 98 additions and 149 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; Add ResizeImage.policy<br />
     <sub>[#121154](https://github.com/flutter/flutter/pull/121154) merged on February 23, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/121154) over 1 day, 855 additions and 119 deletions in 3 files</sub><br />
