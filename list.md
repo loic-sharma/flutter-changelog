@@ -1588,7 +1588,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-31 commits.
+32 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [camera_android] Fix camera android deprecation warning for CamcorderProfile.get()
     <sub>[#3273](https://github.com/flutter/packages/pull/3273) merged on March 7, 2023 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/3273) over 1 week, 218 additions and 178 deletions in 14 files</sub>
@@ -1641,6 +1641,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [pigeon] Removed my name from the readme
     <sub>[#3395](https://github.com/flutter/packages/pull/3395) merged on March 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3395) over 1 day, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [video_player_android] Enable -Werror and use dependency override
+    <sub>[#3412](https://github.com/flutter/packages/pull/3412) merged on March 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3412) over 3 days, 29 additions and 4 deletions in 3 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[maRci002](https://github.com/maRci002)** &mdash; [video_player] add missing_enum_constant_in_switch
     <sub>[#3435](https://github.com/flutter/packages/pull/3435) merged on March 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3435) over 9 hours, 3 additions and 0 deletions in 3 files</sub>
