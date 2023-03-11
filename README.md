@@ -1576,7 +1576,7 @@
 
 ### March 4, 2023 to March 10, 2023
 
-30 commits.
+31 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [camera_android] Fix camera android deprecation warning for CamcorderProfile.get()<br />
     <sub>[#3273](https://github.com/flutter/packages/pull/3273) merged on March 7, 2023 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/3273) over 1 week, 218 additions and 178 deletions in 14 files</sub><br />
@@ -1589,6 +1589,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Adds a WebViewFlutterApi<br />
     <sub>[#3324](https://github.com/flutter/packages/pull/3324) merged on March 8, 2023 &mdash; **Medium:** [8 comments](https://github.com/flutter/packages/pull/3324) over 1 week, 271 additions and 56 deletions in 14 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Remove MethodCall from most Android code<br />
+    <sub>[#3438](https://github.com/flutter/packages/pull/3438) merged on March 11, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/3438) over 8 hours, 329 additions and 257 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Abdelaziz Mahdy](https://github.com/zezo357)** &mdash; [video_player] Passing http headers to file constructor <br />
     <sub>[#3266](https://github.com/flutter/packages/pull/3266) merged on March 9, 2023 &mdash; **Small:** [28 comments](https://github.com/flutter/packages/pull/3266) over 2 weeks, 151 additions and 35 deletions in 10 files</sub><br />
