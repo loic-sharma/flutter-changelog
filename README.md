@@ -1607,7 +1607,7 @@
     <sub>Reviewed by: [Daniel Mossaband](https://github.com/DanMossa), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Adds a WebViewFlutterApi<br />
-    <sub>[#3324](https://github.com/flutter/packages/pull/3324) merged on March 8, 2023 &mdash; **Medium:** [8 comments](https://github.com/flutter/packages/pull/3324) over 1 week, 271 additions and 56 deletions in 14 files</sub><br />
+    <sub>[#3324](https://github.com/flutter/packages/pull/3324) merged on March 8, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/packages/pull/3324) over 1 week, 271 additions and 56 deletions in 14 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Remove MethodCall from most Android code<br />
