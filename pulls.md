@@ -63,7 +63,7 @@
     <sub>[#122333](https://github.com/flutter/flutter/pull/122333) opened on on March 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122333) 23 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add dual scrollbar constructors for 2D<br />
-    <sub>[#122349](https://github.com/flutter/flutter/pull/122349) opened on on March 9, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/122349) 434 additions and 13 deletions in 13 files</sub><br />
+    <sub>[#122349](https://github.com/flutter/flutter/pull/122349) opened on on March 9, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/122349) 434 additions and 13 deletions in 13 files</sub><br />
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; [ios] fix hold and drag spacebar does not move cursor when obscureTex…<br />
     <sub>[#122383](https://github.com/flutter/flutter/pull/122383) opened on on March 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122383) 41 additions and 0 deletions in 2 files</sub><br />
