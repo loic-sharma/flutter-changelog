@@ -626,7 +626,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-5 commits.
+6 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] support for foreground shaders on text<br />
     <sub>[#40193](https://github.com/flutter/engine/pull/40193) merged on March 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40193) over 3 days, 215 additions and 10 deletions in 11 files</sub><br />
@@ -640,6 +640,10 @@
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller][Compute] Fix visual issues with heart<br />
     <sub>[#40240](https://github.com/flutter/engine/pull/40240) merged on March 13, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/40240) over 2 days, 235 additions and 226 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use plain Uint32List objects with the fragmenter APIs.<br />
+    <sub>[#40239](https://github.com/flutter/engine/pull/40239) merged on March 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40239) over 2 days, 23 additions and 33 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Change `extends Iterator` to using `implements`<br />
     <sub>[#40175](https://github.com/flutter/engine/pull/40175) merged on March 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40175) over 3 days, 2 additions and 2 deletions in 1 file</sub><br />
