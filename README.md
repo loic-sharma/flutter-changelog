@@ -650,7 +650,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-9 commits.
+10 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] support for foreground shaders on text<br />
     <sub>[#40193](https://github.com/flutter/engine/pull/40193) merged on March 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40193) over 3 days, 215 additions and 10 deletions in 11 files</sub><br />
@@ -684,6 +684,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "[Impeller] More sundry fixes to the Vulkan backend."<br />
     <sub>[#40247](https://github.com/flutter/engine/pull/40247) merged on March 13, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/40247) over 39 minutes, 1423 additions and 2539 deletions in 74 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Make no_lto in presubmit explicit in .ci.yaml"<br />
+    <sub>[#40260](https://github.com/flutter/engine/pull/40260) merged on March 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40260) over 2 minutes, 0 additions and 81 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Roll Dart SDK from c766fffb626e to cfcbda5733ac (1 revision)"<br />
     <sub>[#40257](https://github.com/flutter/engine/pull/40257) merged on March 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40257) over 3 minutes, 3 additions and 2 deletions in 3 files</sub><br />

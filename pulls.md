@@ -89,3 +89,6 @@
 * **[Cc](https://github.com/lycstar)** &mdash; async.dart file reformat.<br />
     <sub>[#122521](https://github.com/flutter/flutter/pull/122521) opened on on March 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122521) 1 addition and 2 deletions in 1 file</sub><br />
 
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] stop using deprecated jsonwire web-driver protocol<br />
+    <sub>[#122560](https://github.com/flutter/flutter/pull/122560) opened on on March 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122560) 10 additions and 20 deletions in 3 files</sub><br />
+
