@@ -1,7 +1,7 @@
 ### Get latest commits
 
 POST https://api.github.com/graphql
-Accept: application/vnd.github+json 
+Accept: application/vnd.github+json
 Authorization: Bearer ghp_ABC1234
 X-Request-Type: GraphQL
 
@@ -27,6 +27,7 @@ query LatestChanges($owner: String!, $repository: String!, $after: String) {
                       url
                       title
                       body
+                      isDraft
                       createdAt
                       additions
                       changedFiles
@@ -77,6 +78,70 @@ query LatestChanges($owner: String!, $repository: String!, $after: String) {
                     }
                   }
                 }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+### Open pull requests
+
+POST https://api.github.com/graphql
+Accept: application/vnd.github+json
+Authorization: Bearer ghp_ABC1234
+X-Request-Type: GraphQL
+
+query OpenPulls($owner: String!, $repository: String!, $after: String) {
+  repository(owner: $owner, name: $repository) {
+    pullRequests(states: [OPEN] first: 25 after: $after) {
+      pageInfo {
+        endCursor
+        hasNextPage
+      }
+      nodes {
+        number
+        url
+        title
+        body
+        isDraft
+        createdAt
+        additions
+        changedFiles
+        deletions
+        totalCommentsCount
+        author {
+          login
+          url
+          ... on User {
+            name
+          }
+        }
+        latestReviews(first: 10) {
+          totalCount
+          nodes {
+            author {
+              login
+              url
+              ... on User {
+                name
+              }
+            }
+          }
+        }
+        reactions {
+          totalCount
+        }
+        reviewRequests(first: 10) {
+          totalCount
+          nodes {
+            author: requestedReviewer {
+              ... on User {
+                login
+                url
+                name
               }
             }
           }

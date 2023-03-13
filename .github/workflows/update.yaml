@@ -22,6 +22,7 @@ jobs:
         run: dart run main.dart
         env:
           GITHUB_TOKEN: ${{ github.token }}
+          FLUTTER_TEAM: ${{ vars.FLUTTER_TEAM }}
 
       - name: Commit and push if data has changed
         id: commit-if-changed

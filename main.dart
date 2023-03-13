@@ -7,8 +7,9 @@ import './output.dart';
 
 void main(List<String> arguments) async {
   String? token = Platform.environment['GITHUB_TOKEN'];
+  String? flutterTeam = Platform.environment['FLUTTER_TEAM'];
 
-  await writeChangelog((readme, list, table) async {
+  await writeChangelog((readme, list) async {
     // Add the last 3 weeks of commits starting on Saturday.
     DateTime start = DateTime.now().subtract(Duration(days: 21));
     start = DateTime(start.year, start.month, start.day);
@@ -49,8 +50,33 @@ void main(List<String> arguments) async {
 
       writeCommitsList(readme, owner, repository, commits, addBreaks: true);
       writeCommitsList(list, owner, repository, commits, addBreaks: false);
-      writeCommitsTable(table, owner, repository, commits);
     }
+  });
+
+  await writeUnassignedPullRequests((output) async {
+    final team = _parseTeam(flutterTeam);
+
+    final unassignedPullRequests = <PullRequest>[];
+    String? after;
+    while (true) {
+      final open = await loadOpenPullRequests(token, 'flutter', 'flutter', after);
+      for (final pullRequest in open.pullRequests) {
+        if (pullRequest.isDraft) continue;
+        if (_bots.contains(pullRequest.authorLogin.toLowerCase())) continue;
+        if (pullRequest.reviews.any((review) => team.contains(review.reviewerLogin.toLowerCase()))) continue;
+        if (pullRequest.reviewRequests.any((review) => team.contains(review.reviewerLogin.toLowerCase()))) continue;
+
+        unassignedPullRequests.add(pullRequest);
+      }
+
+      if (open.hasNextPage) {
+        after = open.endCursor;
+      } else {
+        break;
+      }
+    }
+
+    writePullRequests(output, 'flutter', 'flutter', unassignedPullRequests);
   });
 }
 
@@ -154,4 +180,25 @@ String _subsection(Commit commit) {
   final end = date.add(Duration(days: 5 - commit.commitDate.weekday));
 
   return '${DateFormat.yMMMMd().format(start)} to ${DateFormat.yMMMMd().format(end)}';
+}
+
+final _teamRegex = RegExp(
+  r'^\s*([a-zA-Z0-9_\-]+)\s*,\s*(.+?)\s*$',
+  multiLine: true,
+);
+Set<String> _parseTeam(String? team) {
+  if (team == null) return <String>{};
+
+  final result = <String>{};
+  for (final match in _teamRegex.allMatches(team)) {
+    // The team string has two line formats:
+    // 1. Comments which start with "//" and are ignored.
+    // 2. A login and a name, separated by a comma.
+    final login = match.group(1)!.toLowerCase();
+    // final name = match.group(2)!;
+
+    result.add(login);
+  }
+
+  return result;
 }

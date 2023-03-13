@@ -7,10 +7,13 @@ import './github.dart';
 typedef ChangelogWriter = Future<void> Function(
   IOSink readme,
   IOSink list,
-  IOSink table,
 );
 
-Future<void> writeChangelog(ChangelogWriter changelog) async {
+typedef UnassignedPullRequestWriter = Future<void> Function(
+  IOSink pullRequests,
+);
+
+Future<void> writeChangelog(ChangelogWriter writer) async {
   final readme = File('README.md').openWrite();
   readme.writeln('# Flutter changelog');
   readme.writeln();
@@ -19,18 +22,22 @@ Future<void> writeChangelog(ChangelogWriter changelog) async {
   list.writeln('# Flutter changelog');
   list.writeln();
 
-  final table = File('table.md').openWrite();
-  table.writeln('# Flutter changelog');
-  table.writeln();
-
-  await changelog(readme, list, table);
+  await writer(readme, list);
   await readme.flush();
   await list.flush();
-  await table.flush();
 
   readme.close();
   list.close();
-  table.close();
+}
+
+Future<void> writeUnassignedPullRequests(UnassignedPullRequestWriter writer) async {
+  final pulls = File('pulls.md').openWrite();
+  pulls.writeln('# Flutter pull requests without reviewers');
+  pulls.writeln();
+
+  await writer(pulls);
+  await pulls.flush();
+  pulls.close();
 }
 
 void writeCommitsList(
@@ -203,6 +210,41 @@ void writeCommitsTable(
     }
 
     first = false;
+  }
+}
+
+void writePullRequests(
+  IOSink output,
+  String owner,
+  String repository,
+  List<PullRequest> pullRequests,
+) {
+  output.writeln('## $owner/$repository');
+  output.writeln();
+
+  for (final pullRequest in pullRequests) {
+    final createdAt = DateFormat.yMMMMd().format(pullRequest.createdAt);
+
+    output.write('* ');
+    output.write('**[${pullRequest.authorName ?? pullRequest.authorLogin}](${pullRequest.authorUrl})** ');
+    output.write('&mdash; ');
+    output.write(pullRequest.title);
+    output.write('<br />');
+    output.writeln();
+
+    output.write('    ');
+    output.write('<sub>');
+    output.write('[#${pullRequest.number}](${pullRequest.url}) opened on on $createdAt ');
+    output.write('&mdash; ');
+    output.write('**${_size(pullRequest)}:** ');
+    output.write('[${_pluralize(pullRequest.comments, 'comment')}](${pullRequest.url}) ');
+    output.write('${_pluralize(pullRequest.additions, 'addition')} and ');
+    output.write('${_pluralize(pullRequest.deletions, 'deletion')} in ');
+    output.write(_pluralize(pullRequest.changedFiles, 'file'));
+    output.write('</sub>');
+    output.write('<br />');
+    output.writeln();
+    output.writeln();
   }
 }
 

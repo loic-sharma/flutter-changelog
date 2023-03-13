@@ -7,17 +7,48 @@ Future<Changes> loadChanges(
   String? token,
   String owner,
   String repository,
-  String? after
+  String? after,
 ) async {
+  return await _runQuery(
+    token: token,
+    body: json.encode({
+      'query': _changesQuery,
+      'variables': {
+        'owner': owner,
+        'repository': repository,
+        'after': after,
+      },
+    }),
+    resultCallback: Changes.fromJson,
+  );
+}
+
+Future<OpenPullRequests> loadOpenPullRequests(
+  String? token,
+  String owner,
+  String repository,
+  String? after,
+) async {
+  return await _runQuery(
+    token: token,
+    body: json.encode({
+      'query': _openPullRequestQuery,
+      'variables': {
+        'owner': owner,
+        'repository': repository,
+        'after': after,
+      },
+    }),
+    resultCallback: OpenPullRequests.fromJson,
+  );
+}
+
+Future<T> _runQuery<T>({
+  String? token,
+  String? body,
+  required T Function(Map<String, dynamic>) resultCallback,
+}) async {
   final uri = Uri.parse('https://api.github.com/graphql');
-  final body = json.encode({
-    'query': _query,
-    'variables': {
-      'owner': owner,
-      'repository': repository,
-      'after': after,
-    },
-  });
   final headers = <String, String>{
     'Accept': 'application/vnd.github+json',
     'X-Request-Type': 'GraphQL',
@@ -40,13 +71,13 @@ Future<Changes> loadChanges(
     }
 
     final json = jsonDecode(response.body) as Map<String, dynamic>;
-    return Changes.fromJson(json);
+    return resultCallback(json);
   }
 
-  throw 'Failed to load changes in 3 attempts.';
+  throw 'Failed to run query in 3 attempts.';
 }
 
-const _query =
+const _changesQuery =
 '''
 query LatestChanges(\$owner: String!, \$repository: String!, \$after: String) {
   repository(owner: \$owner, name: \$repository) {
@@ -70,6 +101,7 @@ query LatestChanges(\$owner: String!, \$repository: String!, \$after: String) {
                       url
                       title
                       body
+                      isDraft
                       createdAt
                       additions
                       changedFiles
@@ -130,6 +162,65 @@ query LatestChanges(\$owner: String!, \$repository: String!, \$after: String) {
 }
 ''';
 
+const _openPullRequestQuery = '''
+query OpenPulls(\$owner: String!, \$repository: String!, \$after: String) {
+  repository(owner: \$owner, name: \$repository) {
+    pullRequests(states: [OPEN] first: 25 after: \$after) {
+      pageInfo {
+        endCursor
+        hasNextPage
+      }
+      nodes {
+        number
+        url
+        title
+        body
+        isDraft
+        createdAt
+        additions
+        changedFiles
+        deletions
+        totalCommentsCount
+        author {
+          login
+          url
+          ... on User {
+            name
+          }
+        }
+        latestReviews(first: 10) {
+          totalCount
+          nodes {
+            author {
+              login
+              url
+              ... on User {
+                name
+              }
+            }
+          }
+        }
+        reactions {
+          totalCount
+        }
+        reviewRequests(first: 10) {
+          totalCount
+          nodes {
+            author: requestedReviewer {
+              ... on User {
+                login
+                url
+                name
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+''';
+
 class Changes {
   Changes({
     required this.repository,
@@ -150,6 +241,31 @@ class Changes {
       commits: [
         for (final commit in history['edges'] as List<dynamic>)
           Commit.fromJson(commit['node'] as Map<String, dynamic>),
+      ],
+    );
+  }
+}
+
+class OpenPullRequests {
+  OpenPullRequests({
+    required this.endCursor,
+    required this.hasNextPage,
+    required this.pullRequests,
+  });
+
+  final String endCursor;
+  final bool hasNextPage;
+  final List<PullRequest> pullRequests;
+
+  factory OpenPullRequests.fromJson(Map<String, dynamic> json) {
+    final pulls = json['data']['repository']['pullRequests'];
+
+    return OpenPullRequests(
+      endCursor: pulls['pageInfo']['endCursor'] as String,
+      hasNextPage: pulls['pageInfo']['hasNextPage'] as bool,
+      pullRequests: [
+        for (final pull in pulls['nodes'] as List<dynamic>)
+          PullRequest.fromJson(pull as Map<String, dynamic>),
       ],
     );
   }
@@ -187,6 +303,7 @@ class PullRequest {
     required this.url,
     required this.title,
     required this.body,
+    required this.isDraft,
     required this.createdAt,
     required this.additions,
     required this.changedFiles,
@@ -199,6 +316,8 @@ class PullRequest {
     required this.authorOrganizations,
     required this.totalReviews,
     required this.reviews,
+    required this.totalReviewRequests,
+    required this.reviewRequests,
     required this.issue,
   });
 
@@ -206,6 +325,7 @@ class PullRequest {
   final Uri url;
   final String title;
   final String body;
+  final bool isDraft;
   final DateTime createdAt;
 
   final int additions;
@@ -221,20 +341,24 @@ class PullRequest {
 
   final int totalReviews;
   final List<Review> reviews;
+  final int totalReviewRequests;
+  final List<Review> reviewRequests;
 
   final Issue? issue;
 
   factory PullRequest.fromJson(Map<String, dynamic> json) {
     final author = json['author'] as Map<String, dynamic>;
     final organizations = author['organizations']?['nodes'] as List<dynamic>?;
-    final issues = json['closingIssuesReferences']['nodes'] as List<dynamic>;
+    final issues = json['closingIssuesReferences']?['nodes'] as List<dynamic>?;
     final reviews = json['latestReviews']['nodes'] as List<dynamic>;
+    final reviewRequests = json['reviewRequests']?['nodes'] as List<dynamic>? ?? [];
 
     return PullRequest(
       number: json['number'] as int,
       url: Uri.parse(json['url'] as String),
       title: json['title'] as String,
       body: json['body'] as String,
+      isDraft: json['isDraft'] as bool,
       createdAt: DateTime.parse(json['createdAt'] as String),
       additions: json['additions'] as int,
       changedFiles: json['changedFiles'] as int,
@@ -253,7 +377,12 @@ class PullRequest {
         for (Map<String, dynamic> review in reviews)
           Review.fromJson(review),
       ],
-      issue: issues.isNotEmpty
+      totalReviewRequests: json['reviewRequests']?['totalCount'] as int? ?? 0,
+      reviewRequests: [
+        for (Map<String, dynamic> review in reviewRequests)
+          Review.fromJson(review),
+      ],
+      issue: issues != null && issues.isNotEmpty
         ? Issue.fromJson(issues[0] as Map<String, dynamic>)
         : null,
     );
