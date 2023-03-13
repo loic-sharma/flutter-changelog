@@ -4,11 +4,15 @@
 
 ### March 11, 2023 to March 17, 2023
 
-10 commits.
+11 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; [flutter_tools] Clean up `boolArgDeprecated` and `stringArgDeprecated`
     <sub>[#122184](https://github.com/flutter/flutter/pull/122184) merged on March 13, 2023 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/122184) over 5 days, 424 additions and 370 deletions in 40 files</sub>
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix Caret Height On Empty Lines
+    <sub>[#120834](https://github.com/flutter/flutter/pull/120834) merged on March 13, 2023 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/120834) over 3 weeks, 297 additions and 115 deletions in 8 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Move target devices logic to its own classes and file
     <sub>[#121903](https://github.com/flutter/flutter/pull/121903) merged on March 13, 2023 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/121903) over 1 week, 811 additions and 452 deletions in 9 files</sub>
