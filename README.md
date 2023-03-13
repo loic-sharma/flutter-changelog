@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### March 11, 2023 to March 17, 2023
+
+1 commits.
+
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Always use user-level pub cache<br />
+    <sub>[#121802](https://github.com/flutter/flutter/pull/121802) merged on March 13, 2023 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/121802) over 1 week, 160 additions and 256 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Jonas Finnemann Jensen](https://github.com/jonasfj), [Christopher Fujino](https://github.com/christopherfujino), [Jesús S Guerrero](https://github.com/Jasguerrero)</sub><br />
+
 ### March 4, 2023 to March 10, 2023
 
-76 commits.
+<details>
+<summary>76 commits...</summary>
 
 * **[Jami Couch](https://github.com/fbcouch)** &mdash; Add support for iOS UndoManager<br />
     <sub>[#98294](https://github.com/flutter/flutter/pull/98294) merged on March 8, 2023 &mdash; **Extra large:** [93 comments](https://github.com/flutter/flutter/pull/98294) over 12 months, 1429 additions and 347 deletions in 14 files</sub><br />
@@ -312,6 +321,8 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Reland "Speed up first asset load by using the binary-formatted asset manifest for image resolution<br />
     <sub>[#121322](https://github.com/flutter/flutter/pull/121322) merged on March 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/121322) over 1 week, 93 additions and 156 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+</details>
 
 ### February 25, 2023 to March 3, 2023
 
