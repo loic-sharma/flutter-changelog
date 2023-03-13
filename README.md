@@ -19,7 +19,7 @@
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino), [Jonas Finnemann Jensen](https://github.com/jonasfj), [Jesús S Guerrero](https://github.com/Jasguerrero)</sub><br />
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update Material tokens to 0.162<br />
-    <sub>[#122388](https://github.com/flutter/flutter/pull/122388) merged on March 13, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/122388) over 3 days, 153 additions and 156 deletions in 102 files</sub><br />
+    <sub>[#122388](https://github.com/flutter/flutter/pull/122388) merged on March 13, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/122388) over 3 days, 153 additions and 156 deletions in 102 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Introduce the PipelineOwner tree (#122231)"<br />
