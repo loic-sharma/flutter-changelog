@@ -1281,9 +1281,18 @@
 
 ## flutter/packages
 
+### March 11, 2023 to March 17, 2023
+
+1 commits.
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker_android] Removes unneeded permissions from tests<br />
+    <sub>[#3433](https://github.com/flutter/packages/pull/3433) merged on March 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3433) over 3 days, 10 additions and 28 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 ### March 4, 2023 to March 10, 2023
 
-32 commits.
+<details>
+<summary>32 commits...</summary>
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [camera_android] Fix camera android deprecation warning for CamcorderProfile.get()<br />
     <sub>[#3273](https://github.com/flutter/packages/pull/3273) merged on March 7, 2023 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/3273) over 1 week, 218 additions and 178 deletions in 14 files</sub><br />
@@ -1412,6 +1421,8 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[video_player] Passing http headers to file constructor "<br />
     <sub>[#3424](https://github.com/flutter/packages/pull/3424) merged on March 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3424) over 8 hours, 35 additions and 151 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+</details>
 
 ### February 25, 2023 to March 3, 2023
 
