@@ -4,7 +4,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-6 commits.
+7 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Move target devices logic to its own classes and file
     <sub>[#121903](https://github.com/flutter/flutter/pull/121903) merged on March 13, 2023 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/121903) over 1 week, 811 additions and 452 deletions in 9 files</sub>
@@ -21,6 +21,10 @@
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update Material tokens to 0.162
     <sub>[#122388](https://github.com/flutter/flutter/pull/122388) merged on March 13, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/122388) over 3 days, 153 additions and 156 deletions in 102 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Remove key simulation obsolete comments
+    <sub>[#122389](https://github.com/flutter/flutter/pull/122389) merged on March 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122389) over 3 days, 21 additions and 26 deletions in 2 files</sub>
+    <sub>Reviewed by: [pdblasi-google](https://github.com/pdblasi-google)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Introduce the PipelineOwner tree (#122231)"
     <sub>[#122452](https://github.com/flutter/flutter/pull/122452) merged on March 13, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/122452) over 2 days, 1241 additions and 34 deletions in 6 files</sub>
