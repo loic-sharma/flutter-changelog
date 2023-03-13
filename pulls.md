@@ -92,3 +92,6 @@
 * **[Cc](https://github.com/lycstar)** &mdash; async.dart file reformat.<br />
     <sub>[#122521](https://github.com/flutter/flutter/pull/122521) opened on on March 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122521) 1 addition and 2 deletions in 1 file</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update ScrollableDetails for 2D scrolling<br />
+    <sub>[#122555](https://github.com/flutter/flutter/pull/122555) opened on on March 13, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/122555) 432 additions and 16 deletions in 16 files</sub><br />
+
