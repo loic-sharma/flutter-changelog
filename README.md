@@ -614,11 +614,15 @@
 
 ### March 11, 2023 to March 17, 2023
 
-1 commits.
+2 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] More sundry fixes to the Vulkan backend.<br />
     <sub>[#40244](https://github.com/flutter/engine/pull/40244) merged on March 13, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/40244) over 7 hours, 2539 additions and 1423 deletions in 74 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Change `extends Iterator` to using `implements`<br />
+    <sub>[#40175](https://github.com/flutter/engine/pull/40175) merged on March 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40175) over 3 days, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub><br />
 
 ### March 4, 2023 to March 10, 2023
 
