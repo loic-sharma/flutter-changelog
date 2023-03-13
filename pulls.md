@@ -32,9 +32,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Regenerate gradle lockfiles<br />
     <sub>[#119290](https://github.com/flutter/flutter/pull/119290) opened on on January 26, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/119290) 2527 additions and 1392 deletions in 85 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Remove sound null safety flag<br />
-    <sub>[#120936](https://github.com/flutter/flutter/pull/120936) opened on on February 17, 2023 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/120936) 129 additions and 1120 deletions in 67 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] throw tool exit on invocation of flutter format<br />
     <sub>[#121646](https://github.com/flutter/flutter/pull/121646) opened on on February 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/121646) 7 additions and 194 deletions in 3 files</sub><br />
 
