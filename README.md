@@ -11,8 +11,8 @@
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Always use user-level pub cache<br />
-    <sub>[#121802](https://github.com/flutter/flutter/pull/121802) merged on March 13, 2023 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/121802) over 1 week, 160 additions and 256 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonas Finnemann Jensen](https://github.com/jonasfj), [Christopher Fujino](https://github.com/christopherfujino), [Jesús S Guerrero](https://github.com/Jasguerrero)</sub><br />
+    <sub>[#121802](https://github.com/flutter/flutter/pull/121802) merged on March 13, 2023 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/121802) over 1 week, 160 additions and 256 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino), [Jonas Finnemann Jensen](https://github.com/jonasfj), [Jesús S Guerrero](https://github.com/Jasguerrero)</sub><br />
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update Material tokens to 0.162<br />
     <sub>[#122388](https://github.com/flutter/flutter/pull/122388) merged on March 13, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/122388) over 3 days, 153 additions and 156 deletions in 102 files</sub><br />
