@@ -650,7 +650,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-7 commits.
+8 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] support for foreground shaders on text<br />
     <sub>[#40193](https://github.com/flutter/engine/pull/40193) merged on March 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40193) over 3 days, 215 additions and 10 deletions in 11 files</sub><br />
@@ -660,6 +660,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] More sundry fixes to the Vulkan backend.<br />
     <sub>[#40244](https://github.com/flutter/engine/pull/40244) merged on March 13, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/40244) over 7 hours, 2539 additions and 1423 deletions in 74 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Make no_lto in presubmit explicit in .ci.yaml<br />
+    <sub>[#40254](https://github.com/flutter/engine/pull/40254) merged on March 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40254) over 47 minutes, 81 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller][Compute] Fix visual issues with heart<br />
     <sub>[#40240](https://github.com/flutter/engine/pull/40240) merged on March 13, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/40240) over 2 days, 235 additions and 226 deletions in 4 files</sub><br />

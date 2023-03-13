@@ -75,7 +75,7 @@
     <sub>[#122437](https://github.com/flutter/flutter/pull/122437) opened on on March 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122437) 144 additions and 127 deletions in 25 files</sub><br />
 
 * **[Benjamin Quinn](https://github.com/Blquinn)** &mdash; Expose toggle to textfield's opacity animation.<br />
-    <sub>[#122474](https://github.com/flutter/flutter/pull/122474) opened on on March 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122474) 20 additions and 7 deletions in 2 files</sub><br />
+    <sub>[#122474](https://github.com/flutter/flutter/pull/122474) opened on on March 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122474) 18 additions and 7 deletions in 2 files</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix out-of-bounds and reversed TextBox queries in computing caret metrics<br />
     <sub>[#122480](https://github.com/flutter/flutter/pull/122480) opened on on March 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122480) 165 additions and 4 deletions in 2 files</sub><br />
@@ -88,7 +88,4 @@
 
 * **[Cc](https://github.com/lycstar)** &mdash; async.dart file reformat.<br />
     <sub>[#122521](https://github.com/flutter/flutter/pull/122521) opened on on March 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122521) 1 addition and 2 deletions in 1 file</sub><br />
-
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Refine the directional traversal algorithm for out of band widgets<br />
-    <sub>[#122556](https://github.com/flutter/flutter/pull/122556) opened on on March 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122556) 226 additions and 4 deletions in 2 files</sub><br />
 
