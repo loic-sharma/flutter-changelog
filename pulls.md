@@ -74,9 +74,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Remove references to BindingBase.window (#122119 & #122341)"<br />
     <sub>[#122412](https://github.com/flutter/flutter/pull/122412) opened on on March 10, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/122412) 266 additions and 98 deletions in 14 files</sub><br />
 
-* **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Reland (3): Removes single window assumptions from `flutter_test`<br />
-    <sub>[#122422](https://github.com/flutter/flutter/pull/122422) opened on on March 10, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/122422) 2411 additions and 1290 deletions in 16 files</sub><br />
-
 * **[Micael Cid](https://github.com/micaelcid)** &mdash; [integration_test] upgrade androidx test to 1.4.0<br />
     <sub>[#122437](https://github.com/flutter/flutter/pull/122437) opened on on March 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122437) 144 additions and 127 deletions in 25 files</sub><br />
 
