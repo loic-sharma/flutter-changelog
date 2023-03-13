@@ -4,11 +4,19 @@
 
 ### March 11, 2023 to March 17, 2023
 
-2 commits.
+4 commits.
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Move target devices logic to its own classes and file<br />
+    <sub>[#121903](https://github.com/flutter/flutter/pull/121903) merged on March 13, 2023 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/121903) over 1 week, 811 additions and 452 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Always use user-level pub cache<br />
-    <sub>[#121802](https://github.com/flutter/flutter/pull/121802) merged on March 13, 2023 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/121802) over 1 week, 160 additions and 256 deletions in 8 files</sub><br />
+    <sub>[#121802](https://github.com/flutter/flutter/pull/121802) merged on March 13, 2023 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/121802) over 1 week, 160 additions and 256 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonas Finnemann Jensen](https://github.com/jonasfj), [Christopher Fujino](https://github.com/christopherfujino), [Jesús S Guerrero](https://github.com/Jasguerrero)</sub><br />
+
+* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update Material tokens to 0.162<br />
+    <sub>[#122388](https://github.com/flutter/flutter/pull/122388) merged on March 13, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/122388) over 3 days, 153 additions and 156 deletions in 102 files</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Roll Flutter Engine from 57f7120ef923 to ae979a854eed (1 revision)"<br />
     <sub>[#122527](https://github.com/flutter/flutter/pull/122527) merged on March 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122527) over 1 minute, 1 addition and 1 deletion in 1 file</sub><br />
