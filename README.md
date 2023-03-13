@@ -690,7 +690,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Make no_lto in presubmit explicit in .ci.yaml"<br />
-    <sub>[#40260](https://github.com/flutter/engine/pull/40260) merged on March 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40260) over 2 minutes, 0 additions and 81 deletions in 1 file</sub><br />
+    <sub>[#40260](https://github.com/flutter/engine/pull/40260) merged on March 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40260) over 2 minutes, 0 additions and 81 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Roll Dart SDK from c766fffb626e to cfcbda5733ac (1 revision)"<br />
