@@ -4,11 +4,15 @@
 
 ### March 11, 2023 to March 17, 2023
 
-1 commits.
+2 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Always use user-level pub cache<br />
     <sub>[#121802](https://github.com/flutter/flutter/pull/121802) merged on March 13, 2023 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/121802) over 1 week, 160 additions and 256 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Jonas Finnemann Jensen](https://github.com/jonasfj), [Christopher Fujino](https://github.com/christopherfujino), [Jesús S Guerrero](https://github.com/Jasguerrero)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Roll Flutter Engine from 57f7120ef923 to ae979a854eed (1 revision)"<br />
+    <sub>[#122527](https://github.com/flutter/flutter/pull/122527) merged on March 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122527) over 1 minute, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### March 4, 2023 to March 10, 2023
 
