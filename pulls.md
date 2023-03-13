@@ -71,9 +71,6 @@
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Fix: `IndexedStack` says its children are offstage when dumping render tree, but they are indeed onstage and users get confused<br />
     <sub>[#122393](https://github.com/flutter/flutter/pull/122393) opened on on March 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122393) 5 additions and 1 deletion in 1 file</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Remove references to BindingBase.window (#122119 & #122341)"<br />
-    <sub>[#122412](https://github.com/flutter/flutter/pull/122412) opened on on March 10, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/122412) 266 additions and 98 deletions in 14 files</sub><br />
-
 * **[Micael Cid](https://github.com/micaelcid)** &mdash; [integration_test] upgrade androidx test to 1.4.0<br />
     <sub>[#122437](https://github.com/flutter/flutter/pull/122437) opened on on March 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122437) 144 additions and 127 deletions in 25 files</sub><br />
 
@@ -92,6 +89,6 @@
 * **[Cc](https://github.com/lycstar)** &mdash; async.dart file reformat.<br />
     <sub>[#122521](https://github.com/flutter/flutter/pull/122521) opened on on March 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122521) 1 addition and 2 deletions in 1 file</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update ScrollableDetails for 2D scrolling<br />
-    <sub>[#122555](https://github.com/flutter/flutter/pull/122555) opened on on March 13, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/122555) 432 additions and 16 deletions in 16 files</sub><br />
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Refine the directional traversal algorithm for out of band widgets<br />
+    <sub>[#122556](https://github.com/flutter/flutter/pull/122556) opened on on March 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122556) 226 additions and 4 deletions in 2 files</sub><br />
 
