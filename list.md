@@ -4,7 +4,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-5 commits.
+6 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Move target devices logic to its own classes and file
     <sub>[#121903](https://github.com/flutter/flutter/pull/121903) merged on March 13, 2023 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/121903) over 1 week, 811 additions and 452 deletions in 9 files</sub>
@@ -21,6 +21,10 @@
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update Material tokens to 0.162
     <sub>[#122388](https://github.com/flutter/flutter/pull/122388) merged on March 13, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/122388) over 3 days, 153 additions and 156 deletions in 102 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Introduce the PipelineOwner tree (#122231)"
+    <sub>[#122452](https://github.com/flutter/flutter/pull/122452) merged on March 13, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/122452) over 2 days, 1241 additions and 34 deletions in 6 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Roll Flutter Engine from 57f7120ef923 to ae979a854eed (1 revision)"
     <sub>[#122527](https://github.com/flutter/flutter/pull/122527) merged on March 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122527) over 1 minute, 1 addition and 1 deletion in 1 file</sub>
@@ -1287,7 +1291,12 @@
 
 ### March 11, 2023 to March 17, 2023
 
-1 commits.
+2 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [video_player]: Bump com.google.android.exoplayer:exoplayer-smoothstreaming from 2.18.1 to 2.18.4 in /packages/video_player/video_player_android/android
+    <sub>[#3386](https://github.com/flutter/packages/pull/3386) merged on March 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3386) over 1 week, 10 additions and 5 deletions in 3 files</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.google.android.exoplayer:exoplayer-smoothstreaming&package-manager=gradle&previous-version=2.18.1&new-version=2.18.4)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker_android] Removes unneeded permissions from tests
     <sub>[#3433](https://github.com/flutter/packages/pull/3433) merged on March 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3433) over 3 days, 10 additions and 28 deletions in 1 file</sub>
