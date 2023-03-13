@@ -68,9 +68,6 @@
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; [ios] fix hold and drag spacebar does not move cursor when obscureTex…<br />
     <sub>[#122383](https://github.com/flutter/flutter/pull/122383) opened on on March 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122383) 41 additions and 0 deletions in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Remove key simulation obsolete comments<br />
-    <sub>[#122389](https://github.com/flutter/flutter/pull/122389) opened on on March 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122389) 21 additions and 26 deletions in 2 files</sub><br />
-
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Fix: `IndexedStack` says its children are offstage when dumping render tree, but they are indeed onstage and users get confused<br />
     <sub>[#122393](https://github.com/flutter/flutter/pull/122393) opened on on March 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122393) 5 additions and 1 deletion in 1 file</sub><br />
 
