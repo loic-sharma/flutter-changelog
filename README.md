@@ -4,7 +4,11 @@
 
 ### March 11, 2023 to March 17, 2023
 
-7 commits.
+9 commits.
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; [flutter_tools] Clean up `boolArgDeprecated` and `stringArgDeprecated`<br />
+    <sub>[#122184](https://github.com/flutter/flutter/pull/122184) merged on March 13, 2023 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/122184) over 5 days, 424 additions and 370 deletions in 40 files</sub><br />
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Move target devices logic to its own classes and file<br />
     <sub>[#121903](https://github.com/flutter/flutter/pull/121903) merged on March 13, 2023 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/121903) over 1 week, 811 additions and 452 deletions in 9 files</sub><br />
@@ -17,6 +21,10 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Always use user-level pub cache<br />
     <sub>[#121802](https://github.com/flutter/flutter/pull/121802) merged on March 13, 2023 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/121802) over 1 week, 160 additions and 256 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino), [Jonas Finnemann Jensen](https://github.com/jonasfj), [Jesús S Guerrero](https://github.com/Jasguerrero)</sub><br />
+
+* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Refactor icon update script<br />
+    <sub>[#122392](https://github.com/flutter/flutter/pull/122392) merged on March 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122392) over 3 days, 47 additions and 42 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [xster](https://github.com/xster)</sub><br />
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update Material tokens to 0.162<br />
     <sub>[#122388](https://github.com/flutter/flutter/pull/122388) merged on March 13, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/122388) over 3 days, 153 additions and 156 deletions in 102 files</sub><br />
