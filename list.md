@@ -601,9 +601,18 @@
 
 ## flutter/engine
 
+### March 11, 2023 to March 17, 2023
+
+1 commits.
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] More sundry fixes to the Vulkan backend.
+    <sub>[#40244](https://github.com/flutter/engine/pull/40244) merged on March 13, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/40244) over 7 hours, 2539 additions and 1423 deletions in 74 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 ### March 4, 2023 to March 10, 2023
 
-68 commits.
+<details>
+<summary>68 commits...</summary>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] move asset mapping copy to background thread
     <sub>[#39918](https://github.com/flutter/engine/pull/39918) merged on March 8, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/39918) over 1 week, 145 additions and 16 deletions in 6 files</sub>
@@ -879,6 +888,8 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Revert "Make FlutterTest the default test font"
     <sub>[#40237](https://github.com/flutter/engine/pull/40237) merged on March 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40237) over 3 minutes, 20 additions and 30 deletions in 6 files</sub>
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
+
+</details>
 
 ### February 25, 2023 to March 3, 2023
 
