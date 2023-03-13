@@ -4,11 +4,15 @@
 
 ### March 11, 2023 to March 17, 2023
 
-4 commits.
+5 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Move target devices logic to its own classes and file<br />
     <sub>[#121903](https://github.com/flutter/flutter/pull/121903) merged on March 13, 2023 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/121903) over 1 week, 811 additions and 452 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Relocate some tests from scrollable_test.dart <br />
+    <sub>[#122426](https://github.com/flutter/flutter/pull/122426) merged on March 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/122426) over 2 days, 478 additions and 386 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Always use user-level pub cache<br />
     <sub>[#121802](https://github.com/flutter/flutter/pull/121802) merged on March 13, 2023 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/121802) over 1 week, 160 additions and 256 deletions in 8 files</sub><br />
@@ -28,7 +32,7 @@
 <summary>76 commits...</summary>
 
 * **[Hasnen Tai](https://github.com/hasnentai)** &mdash; Feat : `TextField` cursor color matching M2 and M3 Spec in error state<br />
-    <sub>[#119225](https://github.com/flutter/flutter/pull/119225) merged on March 9, 2023 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/119225) over 1 month, 31 additions and 5 deletions in 2 files</sub><br />
+    <sub>[#119225](https://github.com/flutter/flutter/pull/119225) merged on March 9, 2023 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/119225) over 1 month, 31 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Justin McCandless](https://github.com/justinmc)</sub><br />
     <sub><details><summary>1 image...</summary><img src="https://user-images.githubusercontent.com/26821037/214796347-7ea84fa3-da0c-49de-96ae-57eb6e5e07b4.png" height="400"/></details></sub>
 
