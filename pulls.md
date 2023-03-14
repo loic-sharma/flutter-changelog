@@ -92,3 +92,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Fix style issues<br />
     <sub>[#122586](https://github.com/flutter/flutter/pull/122586) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122586) 4 additions and 8 deletions in 1 file</sub><br />
 
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Notify about existing caches when preloading<br />
+    <sub>[#122592](https://github.com/flutter/flutter/pull/122592) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122592) 166 additions and 39 deletions in 2 files</sub><br />
+
