@@ -54,7 +54,7 @@
     <sub>[#122259](https://github.com/flutter/flutter/pull/122259) opened on on March 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122259) 0 additions and 0 deletions in 0 files</sub><br />
 
 * **[Ruben Aster](https://github.com/rubenaster)** &mdash; Fix transitioning a TabBarView manually doesn't honor duration and curve #16892<br />
-    <sub>[#122279](https://github.com/flutter/flutter/pull/122279) opened on on March 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122279) 45 additions and 16 deletions in 2 files</sub><br />
+    <sub>[#122279](https://github.com/flutter/flutter/pull/122279) opened on on March 9, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/122279) 45 additions and 16 deletions in 2 files</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Avoid clipping edges when possible.<br />
     <sub>[#122317](https://github.com/flutter/flutter/pull/122317) opened on on March 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122317) 44 additions and 1 deletion in 2 files</sub><br />
