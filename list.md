@@ -4,7 +4,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-15 commits.
+18 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; [flutter_tools] Clean up `boolArgDeprecated` and `stringArgDeprecated`
     <sub>[#122184](https://github.com/flutter/flutter/pull/122184) merged on March 13, 2023 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/122184) over 5 days, 424 additions and 370 deletions in 40 files</sub>
@@ -33,6 +33,18 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Always use user-level pub cache
     <sub>[#121802](https://github.com/flutter/flutter/pull/121802) merged on March 13, 2023 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/121802) over 1 week, 160 additions and 256 deletions in 8 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino), [Jonas Finnemann Jensen](https://github.com/jonasfj), [Jesús S Guerrero](https://github.com/Jasguerrero)</sub>
+
+* **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Updates `integration_test` to no longer use `TestWindow`
+    <sub>[#122358](https://github.com/flutter/flutter/pull/122358) merged on March 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122358) over 4 days, 8 additions and 8 deletions in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Updates `flutter/test/widgets` to no longer reference `TestWindow`
+    <sub>[#122354](https://github.com/flutter/flutter/pull/122354) merged on March 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122354) over 4 days, 92 additions and 132 deletions in 9 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] stop using deprecated jsonwire web-driver protocol
+    <sub>[#122560](https://github.com/flutter/flutter/pull/122560) merged on March 14, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/122560) over 19 hours, 88 additions and 90 deletions in 4 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Cleanup M3 token templates for theme lookups
     <sub>[#122601](https://github.com/flutter/flutter/pull/122601) merged on March 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122601) over 4 hours, 172 additions and 111 deletions in 24 files</sub>
