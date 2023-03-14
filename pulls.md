@@ -89,3 +89,6 @@
 * **[Cc](https://github.com/lycstar)** &mdash; async.dart file reformat.<br />
     <sub>[#122521](https://github.com/flutter/flutter/pull/122521) opened on on March 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122521) 1 addition and 2 deletions in 1 file</sub><br />
 
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Fix style issues<br />
+    <sub>[#122586](https://github.com/flutter/flutter/pull/122586) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122586) 4 additions and 8 deletions in 1 file</sub><br />
+
