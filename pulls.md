@@ -95,3 +95,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Notify about existing caches when preloading<br />
     <sub>[#122592](https://github.com/flutter/flutter/pull/122592) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122592) 165 additions and 38 deletions in 2 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `allowNotifications` parameter to `Drawer` and `NavigationDrawer`<br />
+    <sub>[#122600](https://github.com/flutter/flutter/pull/122600) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122600) 162 additions and 11 deletions in 4 files</sub><br />
+

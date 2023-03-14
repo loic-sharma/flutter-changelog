@@ -1344,7 +1344,11 @@
 
 ### March 11, 2023 to March 17, 2023
 
-2 commits.
+3 commits.
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Fixes swift int64 support for Swift
+    <sub>[#3455](https://github.com/flutter/packages/pull/3455) merged on March 14, 2023 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/3455) over 6 hours, 540 additions and 313 deletions in 31 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [video_player]: Bump com.google.android.exoplayer:exoplayer-smoothstreaming from 2.18.1 to 2.18.4 in /packages/video_player/video_player_android/android
     <sub>[#3386](https://github.com/flutter/packages/pull/3386) merged on March 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3386) over 1 week, 10 additions and 5 deletions in 3 files</sub>
