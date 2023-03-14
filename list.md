@@ -662,7 +662,11 @@
 
 ### March 11, 2023 to March 17, 2023
 
-14 commits.
+15 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Implement two-point conical gradient.
+    <sub>[#40236](https://github.com/flutter/engine/pull/40236) merged on March 14, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/40236) over 3 days, 576 additions and 3 deletions in 11 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] support for foreground shaders on text
     <sub>[#40193](https://github.com/flutter/engine/pull/40193) merged on March 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40193) over 3 days, 215 additions and 10 deletions in 11 files</sub>
