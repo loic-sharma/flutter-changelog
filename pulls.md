@@ -59,9 +59,6 @@
 * **[Greg Price](https://github.com/gnprice)** &mdash; Give PolynomialFit more docs, and a debug toString<br />
     <sub>[#122333](https://github.com/flutter/flutter/pull/122333) opened on on March 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122333) 23 additions and 1 deletion in 2 files</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add dual scrollbar constructors for 2D<br />
-    <sub>[#122349](https://github.com/flutter/flutter/pull/122349) opened on on March 9, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/122349) 434 additions and 13 deletions in 13 files</sub><br />
-
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; [ios] fix hold and drag spacebar does not move cursor when obscureTex…<br />
     <sub>[#122383](https://github.com/flutter/flutter/pull/122383) opened on on March 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122383) 41 additions and 0 deletions in 2 files</sub><br />
 
@@ -69,7 +66,7 @@
     <sub>[#122393](https://github.com/flutter/flutter/pull/122393) opened on on March 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122393) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[Micael Cid](https://github.com/micaelcid)** &mdash; [integration_test] upgrade androidx test to 1.4.0<br />
-    <sub>[#122437](https://github.com/flutter/flutter/pull/122437) opened on on March 10, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/122437) 144 additions and 127 deletions in 25 files</sub><br />
+    <sub>[#122437](https://github.com/flutter/flutter/pull/122437) opened on on March 10, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/122437) 144 additions and 127 deletions in 25 files</sub><br />
 
 * **[Benjamin Quinn](https://github.com/Blquinn)** &mdash; Expose toggle to textfield's opacity animation.<br />
     <sub>[#122474](https://github.com/flutter/flutter/pull/122474) opened on on March 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122474) 18 additions and 7 deletions in 2 files</sub><br />
