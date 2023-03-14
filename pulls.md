@@ -95,3 +95,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Separate attached and wireless devices<br />
     <sub>[#122615](https://github.com/flutter/flutter/pull/122615) opened on on March 14, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/122615) 1511 additions and 520 deletions in 18 files</sub><br />
 
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [semantics] Use static color in Flutter test<br />
+    <sub>[#122617](https://github.com/flutter/flutter/pull/122617) opened on on March 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122617) 4 additions and 1 deletion in 1 file</sub><br />
+
