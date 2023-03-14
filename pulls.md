@@ -87,5 +87,5 @@
     <sub>[#122625](https://github.com/flutter/flutter/pull/122625) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122625) 52 additions and 6 deletions in 6 files</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Do not use colors in output if running from CI.<br />
-    <sub>[#122645](https://github.com/flutter/flutter/pull/122645) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122645) 2 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#122645](https://github.com/flutter/flutter/pull/122645) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122645) 5 additions and 1 deletion in 1 file</sub><br />
 
