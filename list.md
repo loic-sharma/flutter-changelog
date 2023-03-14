@@ -1481,7 +1481,7 @@
     <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Braden Bagby](https://github.com/BradenBagby)** &mdash; [camera] Reland implementations of flip/change camera while recording
-    <sub>[#3272](https://github.com/flutter/packages/pull/3272) merged on March 7, 2023 &mdash; **Large:** [22 comments](https://github.com/flutter/packages/pull/3272) over 1 week, 1042 additions and 128 deletions in 27 files</sub>
+    <sub>[#3272](https://github.com/flutter/packages/pull/3272) merged on March 7, 2023 &mdash; **Large:** [23 comments](https://github.com/flutter/packages/pull/3272) over 1 week, 1042 additions and 128 deletions in 27 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Minor updates for pana
