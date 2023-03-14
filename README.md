@@ -22,13 +22,13 @@
     <sub>[#122426](https://github.com/flutter/flutter/pull/122426) merged on March 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/122426) over 2 days, 478 additions and 386 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Always use user-level pub cache<br />
-    <sub>[#121802](https://github.com/flutter/flutter/pull/121802) merged on March 13, 2023 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/121802) over 1 week, 160 additions and 256 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino), [Jonas Finnemann Jensen](https://github.com/jonasfj), [Jesús S Guerrero](https://github.com/Jasguerrero)</sub><br />
-
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Refine the directional traversal algorithm for out of band widgets<br />
     <sub>[#122556](https://github.com/flutter/flutter/pull/122556) merged on March 14, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/122556) over 2 hours, 254 additions and 18 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Always use user-level pub cache<br />
+    <sub>[#121802](https://github.com/flutter/flutter/pull/121802) merged on March 13, 2023 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/121802) over 1 week, 160 additions and 256 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino), [Jonas Finnemann Jensen](https://github.com/jonasfj), [Jesús S Guerrero](https://github.com/Jasguerrero)</sub><br />
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Refactor icon update script<br />
     <sub>[#122392](https://github.com/flutter/flutter/pull/122392) merged on March 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122392) over 3 days, 47 additions and 42 deletions in 2 files</sub><br />
