@@ -4,7 +4,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-12 commits.
+13 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; [flutter_tools] Clean up `boolArgDeprecated` and `stringArgDeprecated`<br />
     <sub>[#122184](https://github.com/flutter/flutter/pull/122184) merged on March 13, 2023 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/122184) over 5 days, 424 additions and 370 deletions in 40 files</sub><br />
@@ -49,6 +49,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Introduce the PipelineOwner tree (#122231)"<br />
     <sub>[#122452](https://github.com/flutter/flutter/pull/122452) merged on March 13, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/122452) over 2 days, 1241 additions and 34 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Remove references to BindingBase.window (#122119 & #122341)"<br />
+    <sub>[#122412](https://github.com/flutter/flutter/pull/122412) merged on March 14, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/122412) over 3 days, 266 additions and 98 deletions in 14 files</sub><br />
+    <sub>Reviewed by: [pdblasi-google](https://github.com/pdblasi-google)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Roll Flutter Engine from 57f7120ef923 to ae979a854eed (1 revision)"<br />
     <sub>[#122527](https://github.com/flutter/flutter/pull/122527) merged on March 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122527) over 1 minute, 1 addition and 1 deletion in 1 file</sub><br />
