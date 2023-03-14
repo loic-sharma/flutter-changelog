@@ -767,7 +767,7 @@
     <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Reland "Sequester all Skia<->DL interactions into the skia sub-module"<br />
-    <sub>[#40243](https://github.com/flutter/engine/pull/40243) merged on March 14, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/40243) over 2 days, 4729 additions and 3876 deletions in 94 files</sub><br />
+    <sub>[#40243](https://github.com/flutter/engine/pull/40243) merged on March 14, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/40243) over 2 days, 4729 additions and 3876 deletions in 94 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "[Impeller] More sundry fixes to the Vulkan backend."<br />
