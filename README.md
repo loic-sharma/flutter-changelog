@@ -4,7 +4,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-11 commits.
+12 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; [flutter_tools] Clean up `boolArgDeprecated` and `stringArgDeprecated`<br />
     <sub>[#122184](https://github.com/flutter/flutter/pull/122184) merged on March 13, 2023 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/122184) over 5 days, 424 additions and 370 deletions in 40 files</sub><br />
@@ -25,6 +25,10 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Always use user-level pub cache<br />
     <sub>[#121802](https://github.com/flutter/flutter/pull/121802) merged on March 13, 2023 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/121802) over 1 week, 160 additions and 256 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino), [Jonas Finnemann Jensen](https://github.com/jonasfj), [Jesús S Guerrero](https://github.com/Jasguerrero)</sub><br />
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Refine the directional traversal algorithm for out of band widgets<br />
+    <sub>[#122556](https://github.com/flutter/flutter/pull/122556) merged on March 14, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/122556) over 2 hours, 254 additions and 18 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Refactor icon update script<br />
     <sub>[#122392](https://github.com/flutter/flutter/pull/122392) merged on March 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122392) over 3 days, 47 additions and 42 deletions in 2 files</sub><br />
@@ -654,12 +658,17 @@
 
 ### March 11, 2023 to March 17, 2023
 
-12 commits.
+13 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] support for foreground shaders on text<br />
     <sub>[#40193](https://github.com/flutter/engine/pull/40193) merged on March 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40193) over 3 days, 215 additions and 10 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
     <sub><details><summary>2 images...</summary>![flutter_08](https://user-images.githubusercontent.com/8975114/224189221-d3bfc467-ccd1-4274-b451-f5bb84219a34.png)![flutter_09](https://user-images.githubusercontent.com/8975114/224189246-eb605961-13f7-47d7-8bf8-923462b62b7d.png)</details></sub>
+
+* **[luckysmg](https://github.com/luckysmg)** &mdash; [Impeller] Fix incorrect rendering path when duplicated point exists.<br />
+    <sub>[#40115](https://github.com/flutter/engine/pull/40115) merged on March 14, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40115) over 6 days, 240 additions and 56 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Dan Field](https://github.com/dnfield)</sub><br />
+    <sub><details><summary>2 images...</summary><img src="https://user-images.githubusercontent.com/49340347/223973096-c4ba3a49-d91b-40fe-bcb0-832108140609.jpg" width=600 /><img src="https://user-images.githubusercontent.com/49340347/223971535-81d3d952-a821-4c03-a36a-49dc5bf8c04e.jpg" width=200 /></details></sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] More sundry fixes to the Vulkan backend.<br />
     <sub>[#40244](https://github.com/flutter/engine/pull/40244) merged on March 13, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/40244) over 7 hours, 2539 additions and 1423 deletions in 74 files</sub><br />
