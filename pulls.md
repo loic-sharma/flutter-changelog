@@ -48,7 +48,7 @@
     <sub>[#121990](https://github.com/flutter/flutter/pull/121990) opened on on March 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/121990) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[Tim Sneath](https://github.com/timsneath)** &mdash; Disable formatting on save for Dart and HTML files<br />
-    <sub>[#122048](https://github.com/flutter/flutter/pull/122048) opened on on March 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122048) 11 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#122048](https://github.com/flutter/flutter/pull/122048) opened on on March 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/122048) 11 additions and 1 deletion in 2 files</sub><br />
 
 * **[Joseph, NamKung](https://github.com/JosephNK)** &mdash; Fix localize CupertinoDatePicker for Korea locale<br />
     <sub>[#122259](https://github.com/flutter/flutter/pull/122259) opened on on March 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122259) 0 additions and 0 deletions in 0 files</sub><br />
