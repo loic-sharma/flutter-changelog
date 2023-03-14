@@ -4,11 +4,15 @@
 
 ### March 11, 2023 to March 17, 2023
 
-22 commits.
+23 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; [flutter_tools] Clean up `boolArgDeprecated` and `stringArgDeprecated`<br />
     <sub>[#122184](https://github.com/flutter/flutter/pull/122184) merged on March 13, 2023 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/122184) over 5 days, 424 additions and 370 deletions in 40 files</sub><br />
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update ScrollableDetails for 2D scrolling<br />
+    <sub>[#122555](https://github.com/flutter/flutter/pull/122555) merged on March 14, 2023 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/122555) over 22 hours, 446 additions and 27 deletions in 16 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Refine the directional traversal algorithm for out of band widgets<br />
     <sub>[#122556](https://github.com/flutter/flutter/pull/122556) merged on March 14, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/122556) over 2 hours, 254 additions and 18 deletions in 2 files</sub><br />
