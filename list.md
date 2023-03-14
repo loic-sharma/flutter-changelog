@@ -99,8 +99,8 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Revert "Run Skia gold framework tests on arm64 Mac builders"
-    <sub>[#122639](https://github.com/flutter/flutter/pull/122639) merged on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122639) over 5 minutes, 3 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub>[#122639](https://github.com/flutter/flutter/pull/122639) merged on March 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122639) over 5 minutes, 3 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Remove references to BindingBase.window (#122119 & #122341)"
     <sub>[#122412](https://github.com/flutter/flutter/pull/122412) merged on March 14, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/122412) over 3 days, 266 additions and 98 deletions in 14 files</sub>
@@ -111,7 +111,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Revert "Updates `flutter/test/material` to no longer use `TestWindow`"
-    <sub>[#122636](https://github.com/flutter/flutter/pull/122636) merged on March 14, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/122636) over 1 minute, 234 additions and 183 deletions in 13 files</sub>
+    <sub>[#122636](https://github.com/flutter/flutter/pull/122636) merged on March 14, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/122636) over 1 minute, 234 additions and 183 deletions in 13 files</sub>
     <sub>Reviewed by: [pdblasi-google](https://github.com/pdblasi-google)</sub>
 
 ### March 4, 2023 to March 10, 2023
