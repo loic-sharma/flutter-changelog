@@ -89,3 +89,6 @@
 * **[Cc](https://github.com/lycstar)** &mdash; async.dart file reformat.<br />
     <sub>[#122521](https://github.com/flutter/flutter/pull/122521) opened on on March 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122521) 1 addition and 2 deletions in 1 file</sub><br />
 
+* **[Todd Volkert](https://github.com/tvolkert)** &mdash; [WIP] Make InkDecoration not paint if the ink is not visible<br />
+    <sub>[#122585](https://github.com/flutter/flutter/pull/122585) opened on on March 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122585) 103 additions and 20 deletions in 3 files</sub><br />
+
