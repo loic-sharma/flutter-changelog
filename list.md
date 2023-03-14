@@ -658,7 +658,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-13 commits.
+14 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] support for foreground shaders on text
     <sub>[#40193](https://github.com/flutter/engine/pull/40193) merged on March 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40193) over 3 days, 215 additions and 10 deletions in 11 files</sub>
@@ -673,6 +673,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] More sundry fixes to the Vulkan backend.
     <sub>[#40244](https://github.com/flutter/engine/pull/40244) merged on March 13, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/40244) over 7 hours, 2539 additions and 1423 deletions in 74 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[htoor3](https://github.com/htoor3)** &mdash; Add null-aware access to semantics instance
+    <sub>[#40146](https://github.com/flutter/engine/pull/40146) merged on March 14, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/40146) over 5 days, 34 additions and 6 deletions in 2 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; .ci.yaml: s/flutter_internal/flutter
     <sub>[#40262](https://github.com/flutter/engine/pull/40262) merged on March 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40262) over 59 minutes, 3 additions and 3 deletions in 1 file</sub>
