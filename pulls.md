@@ -89,9 +89,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Fix style issues<br />
     <sub>[#122586](https://github.com/flutter/flutter/pull/122586) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122586) 4 additions and 8 deletions in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Separate attached and wireless devices<br />
-    <sub>[#122615](https://github.com/flutter/flutter/pull/122615) opened on on March 14, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/122615) 1511 additions and 520 deletions in 18 files</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Set plugin template minimum iOS version to 11.0<br />
     <sub>[#122625](https://github.com/flutter/flutter/pull/122625) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122625) 49 additions and 3 deletions in 4 files</sub><br />
 
