@@ -4,7 +4,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-14 commits.
+15 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; [flutter_tools] Clean up `boolArgDeprecated` and `stringArgDeprecated`
     <sub>[#122184](https://github.com/flutter/flutter/pull/122184) merged on March 13, 2023 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/122184) over 5 days, 424 additions and 370 deletions in 40 files</sub>
@@ -25,6 +25,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Relocate some tests from scrollable_test.dart 
     <sub>[#122426](https://github.com/flutter/flutter/pull/122426) merged on March 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/122426) over 2 days, 478 additions and 386 deletions in 2 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Tim Sneath](https://github.com/timsneath)** &mdash; Disable formatting on save for Dart and HTML files
+    <sub>[#122048](https://github.com/flutter/flutter/pull/122048) merged on March 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/122048) over 1 week, 13 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup)</sub>
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Always use user-level pub cache
     <sub>[#121802](https://github.com/flutter/flutter/pull/121802) merged on March 13, 2023 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/121802) over 1 week, 160 additions and 256 deletions in 8 files</sub>
