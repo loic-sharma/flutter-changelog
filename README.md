@@ -4,7 +4,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-24 commits.
+25 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; [flutter_tools] Clean up `boolArgDeprecated` and `stringArgDeprecated`<br />
     <sub>[#122184](https://github.com/flutter/flutter/pull/122184) merged on March 13, 2023 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/122184) over 5 days, 424 additions and 370 deletions in 40 files</sub><br />
@@ -37,6 +37,10 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Always use user-level pub cache<br />
     <sub>[#121802](https://github.com/flutter/flutter/pull/121802) merged on March 13, 2023 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/121802) over 1 week, 160 additions and 256 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino), [Jonas Finnemann Jensen](https://github.com/jonasfj), [Jesús S Guerrero](https://github.com/Jasguerrero)</sub><br />
+
+* **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Updates `flutter/test/material` to no longer use `TestWindow`<br />
+    <sub>[#122337](https://github.com/flutter/flutter/pull/122337) merged on March 14, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/122337) over 4 days, 183 additions and 234 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Updates `integration_test` to no longer use `TestWindow`<br />
     <sub>[#122358](https://github.com/flutter/flutter/pull/122358) merged on March 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122358) over 4 days, 8 additions and 8 deletions in 1 file</sub><br />
