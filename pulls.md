@@ -24,7 +24,7 @@
     <sub>[#117348](https://github.com/flutter/flutter/pull/117348) opened on on December 19, 2022 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/117348) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Precache after channel switch<br />
-    <sub>[#118129](https://github.com/flutter/flutter/pull/118129) opened on on January 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/118129) 38 additions and 25 deletions in 3 files</sub><br />
+    <sub>[#118129](https://github.com/flutter/flutter/pull/118129) opened on on January 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/118129) 38 additions and 25 deletions in 3 files</sub><br />
 
 * **[Hunter Wilhelm](https://github.com/hunterwilhelm)** &mdash; CupertinoDatePicker with month and year (#93508)<br />
     <sub>[#118492](https://github.com/flutter/flutter/pull/118492) opened on on January 14, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/118492) 289 additions and 5 deletions in 1 file</sub><br />

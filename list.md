@@ -4,7 +4,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-26 commits.
+27 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; [flutter_tools] Clean up `boolArgDeprecated` and `stringArgDeprecated`
     <sub>[#122184](https://github.com/flutter/flutter/pull/122184) merged on March 13, 2023 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/122184) over 5 days, 424 additions and 370 deletions in 40 files</sub>
@@ -97,6 +97,10 @@
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Reland: Updates `flutter/test/gestures` to no longer reference `TestWindow`
     <sub>[#122619](https://github.com/flutter/flutter/pull/122619) merged on March 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122619) over 53 minutes, 5 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Revert "Run Skia gold framework tests on arm64 Mac builders"
+    <sub>[#122639](https://github.com/flutter/flutter/pull/122639) merged on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122639) over 5 minutes, 3 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Remove references to BindingBase.window (#122119 & #122341)"
     <sub>[#122412](https://github.com/flutter/flutter/pull/122412) merged on March 14, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/122412) over 3 days, 266 additions and 98 deletions in 14 files</sub>
