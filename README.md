@@ -1486,7 +1486,11 @@
 
 ### March 11, 2023 to March 17, 2023
 
-3 commits.
+4 commits.
+
+* **[Gabriel Gava](https://github.com/gabrielgarciagava)** &mdash; [video_player] Make video player avfoundation seek to async<br />
+    <sub>[#3299](https://github.com/flutter/packages/pull/3299) merged on March 15, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/3299) over 2 weeks, 365 additions and 340 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Fixes swift int64 support for Swift<br />
     <sub>[#3455](https://github.com/flutter/packages/pull/3455) merged on March 14, 2023 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/3455) over 6 hours, 540 additions and 313 deletions in 31 files</sub><br />
