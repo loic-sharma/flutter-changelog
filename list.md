@@ -4,7 +4,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-29 commits.
+30 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; [flutter_tools] Clean up `boolArgDeprecated` and `stringArgDeprecated`
     <sub>[#122184](https://github.com/flutter/flutter/pull/122184) merged on March 13, 2023 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/122184) over 5 days, 424 additions and 370 deletions in 40 files</sub>
@@ -89,6 +89,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Introduce the PipelineOwner tree (#122231)"
     <sub>[#122452](https://github.com/flutter/flutter/pull/122452) merged on March 13, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/122452) over 2 days, 1241 additions and 34 deletions in 6 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Reland: Updates `flutter/test/material` to no longer use `TestWindow`
+    <sub>[#122643](https://github.com/flutter/flutter/pull/122643) merged on March 15, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/122643) over 1 hour, 184 additions and 233 deletions in 13 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Reland: Updates `flutter/test/rendering` to no longer use `TestWindow`
     <sub>[#122621](https://github.com/flutter/flutter/pull/122621) merged on March 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122621) over 2 hours, 21 additions and 48 deletions in 3 files</sub>
