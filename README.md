@@ -131,7 +131,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Revert "Updates `flutter/test/material` to no longer use `TestWindow`"<br />
-    <sub>[#122636](https://github.com/flutter/flutter/pull/122636) merged on March 14, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/122636) over 1 minute, 234 additions and 183 deletions in 13 files</sub><br />
+    <sub>[#122636](https://github.com/flutter/flutter/pull/122636) merged on March 14, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/122636) over 1 minute, 234 additions and 183 deletions in 13 files</sub><br />
     <sub>Reviewed by: [pdblasi-google](https://github.com/pdblasi-google)</sub><br />
 
 ### March 4, 2023 to March 10, 2023
