@@ -86,3 +86,6 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Do not use colors in output if running from CI.<br />
     <sub>[#122645](https://github.com/flutter/flutter/pull/122645) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122645) 9 additions and 1 deletion in 2 files</sub><br />
 
+* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Allow `ProgressIndicator` to be round<br />
+    <sub>[#122664](https://github.com/flutter/flutter/pull/122664) opened on on March 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122664) 97 additions and 13 deletions in 4 files</sub><br />
+
