@@ -4,7 +4,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-38 commits.
+39 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; [flutter_tools] Clean up `boolArgDeprecated` and `stringArgDeprecated`
     <sub>[#122184](https://github.com/flutter/flutter/pull/122184) merged on March 13, 2023 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/122184) over 5 days, 424 additions and 370 deletions in 40 files</sub>
@@ -54,13 +54,13 @@
     <sub>[#122354](https://github.com/flutter/flutter/pull/122354) merged on March 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122354) over 4 days, 92 additions and 132 deletions in 9 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; DateRangePicker keyboardType
-    <sub>[#122353](https://github.com/flutter/flutter/pull/122353) merged on March 15, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122353) over 5 days, 69 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Run Skia gold framework tests on arm64 Mac builders
     <sub>[#122618](https://github.com/flutter/flutter/pull/122618) merged on March 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122618) over 2 hours, 1 addition and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [yusuf-goog](https://github.com/yusuf-goog)</sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; DateRangePicker keyboardType
+    <sub>[#122353](https://github.com/flutter/flutter/pull/122353) merged on March 15, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122353) over 5 days, 69 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] stop using deprecated jsonwire web-driver protocol
     <sub>[#122560](https://github.com/flutter/flutter/pull/122560) merged on March 14, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/122560) over 19 hours, 88 additions and 90 deletions in 4 files</sub>
@@ -89,6 +89,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Take screenshot on devicelab failure
     <sub>[#122249](https://github.com/flutter/flutter/pull/122249) merged on March 15, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/122249) over 6 days, 81 additions and 16 deletions in 2 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix MenuAnchor closes on internal scroll
+    <sub>[#122696](https://github.com/flutter/flutter/pull/122696) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122696) over 6 hours, 76 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Run dart command to update widget defaults
     <sub>[#122557](https://github.com/flutter/flutter/pull/122557) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122557) over 1 day, 10 additions and 8 deletions in 6 files</sub>
