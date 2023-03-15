@@ -750,7 +750,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-30 commits.
+31 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Improve performance of CupertinoPicker with opacity peephole<br />
     <sub>[#40101](https://github.com/flutter/engine/pull/40101) merged on March 15, 2023 &mdash; **Medium:** [35 comments](https://github.com/flutter/engine/pull/40101) over 1 week, 421 additions and 13 deletions in 24 files</sub><br />
@@ -872,6 +872,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Roll Dart SDK from c766fffb626e to cfcbda5733ac (1 revision)"<br />
     <sub>[#40257](https://github.com/flutter/engine/pull/40257) merged on March 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40257) over 3 minutes, 3 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland "Make FlutterTest the default test font" (#40188)<br />
+    <sub>[#40245](https://github.com/flutter/engine/pull/40245) merged on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40245) over 2 days, 48 additions and 25 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Added wide-gamut color support for `ui.Image.toByteData` and `ui.Image.colorSpace`"<br />
     <sub>[#40295](https://github.com/flutter/engine/pull/40295) merged on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40295) over 55 minutes, 8 additions and 153 deletions in 13 files</sub><br />
