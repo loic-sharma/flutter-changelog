@@ -1579,7 +1579,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-4 commits.
+5 commits.
 
 * **[Gabriel Gava](https://github.com/gabrielgarciagava)** &mdash; [video_player] Make video player avfoundation seek to async<br />
     <sub>[#3299](https://github.com/flutter/packages/pull/3299) merged on March 15, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/3299) over 2 weeks, 365 additions and 340 deletions in 11 files</sub><br />
@@ -1593,6 +1593,10 @@
     <sub>[#3386](https://github.com/flutter/packages/pull/3386) merged on March 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3386) over 1 week, 10 additions and 5 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.google.android.exoplayer:exoplayer-smoothstreaming&package-manager=gradle&previous-version=2.18.1&new-version=2.18.4)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[maRci002](https://github.com/maRci002)** &mdash; [video_player_platform_interface] synchronize isPlaying state<br />
+    <sub>[#3361](https://github.com/flutter/packages/pull/3361) merged on March 15, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/3361) over 1 week, 21 additions and 4 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker_android] Removes unneeded permissions from tests<br />
     <sub>[#3433](https://github.com/flutter/packages/pull/3433) merged on March 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3433) over 3 days, 10 additions and 28 deletions in 1 file</sub><br />
