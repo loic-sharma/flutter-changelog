@@ -4,7 +4,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-33 commits.
+34 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; [flutter_tools] Clean up `boolArgDeprecated` and `stringArgDeprecated`<br />
     <sub>[#122184](https://github.com/flutter/flutter/pull/122184) merged on March 13, 2023 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/122184) over 5 days, 424 additions and 370 deletions in 40 files</sub><br />
@@ -30,13 +30,13 @@
     <sub>[#122426](https://github.com/flutter/flutter/pull/122426) merged on March 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/122426) over 2 days, 478 additions and 386 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[Tim Sneath](https://github.com/timsneath)** &mdash; Disable formatting on save for Dart and HTML files<br />
-    <sub>[#122048](https://github.com/flutter/flutter/pull/122048) merged on March 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/122048) over 1 week, 13 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup)</sub><br />
-
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Always use user-level pub cache<br />
     <sub>[#121802](https://github.com/flutter/flutter/pull/121802) merged on March 13, 2023 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/121802) over 1 week, 160 additions and 256 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino), [Jonas Finnemann Jensen](https://github.com/jonasfj), [Jesús S Guerrero](https://github.com/Jasguerrero)</sub><br />
+
+* **[Tim Sneath](https://github.com/timsneath)** &mdash; Disable formatting on save for Dart and HTML files<br />
+    <sub>[#122048](https://github.com/flutter/flutter/pull/122048) merged on March 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/122048) over 1 week, 13 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup)</sub><br />
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Updates `flutter/test/material` to no longer use `TestWindow`<br />
     <sub>[#122337](https://github.com/flutter/flutter/pull/122337) merged on March 14, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/122337) over 4 days, 183 additions and 234 deletions in 13 files</sub><br />
@@ -49,10 +49,6 @@
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Updates `flutter/test/widgets` to no longer reference `TestWindow`<br />
     <sub>[#122354](https://github.com/flutter/flutter/pull/122354) merged on March 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122354) over 4 days, 92 additions and 132 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump pubspec to unblock engine roller<br />
-    <sub>[#122699](https://github.com/flutter/flutter/pull/122699) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122699) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Take screenshot on devicelab failure<br />
     <sub>[#122249](https://github.com/flutter/flutter/pull/122249) merged on March 15, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/122249) over 6 days, 81 additions and 16 deletions in 2 files</sub><br />
@@ -81,6 +77,14 @@
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update Material tokens to 0.162<br />
     <sub>[#122388](https://github.com/flutter/flutter/pull/122388) merged on March 13, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/122388) over 3 days, 153 additions and 156 deletions in 102 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump pubspec to unblock engine roller<br />
+    <sub>[#122699](https://github.com/flutter/flutter/pull/122699) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122699) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TabBarView and TabBar animations are not synchronized<br />
+    <sub>[#122021](https://github.com/flutter/flutter/pull/122021) merged on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122021) over 1 week, 127 additions and 50 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Fix globs in runIf configurations.<br />
     <sub>[#122630](https://github.com/flutter/flutter/pull/122630) merged on March 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/122630) over 2 hours, 108 additions and 108 deletions in 1 file</sub><br />
