@@ -738,7 +738,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-26 commits.
+27 commits.
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Make matrix image filter in saving layer work as expected<br />
     <sub>[#40171](https://github.com/flutter/engine/pull/40171) merged on March 15, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40171) over 5 days, 98 additions and 40 deletions in 13 files</sub><br />
@@ -834,6 +834,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "[Impeller] More sundry fixes to the Vulkan backend."<br />
     <sub>[#40247](https://github.com/flutter/engine/pull/40247) merged on March 13, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/40247) over 39 minutes, 1423 additions and 2539 deletions in 74 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from c766fffb626e to 3b109a04f783 (9 revisions)<br />
+    <sub>[#40296](https://github.com/flutter/engine/pull/40296) merged on March 15, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40296) over 3 hours, 4 additions and 4 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Make no_lto in presubmit explicit in .ci.yaml"<br />
     <sub>[#40260](https://github.com/flutter/engine/pull/40260) merged on March 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40260) over 2 minutes, 0 additions and 81 deletions in 1 file</sub><br />
