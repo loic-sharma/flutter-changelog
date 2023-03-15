@@ -738,7 +738,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-25 commits.
+26 commits.
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Make matrix image filter in saving layer work as expected<br />
     <sub>[#40171](https://github.com/flutter/engine/pull/40171) merged on March 15, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40171) over 5 days, 98 additions and 40 deletions in 13 files</sub><br />
@@ -774,6 +774,10 @@
 * **[htoor3](https://github.com/htoor3)** &mdash; Add null-aware access to semantics instance<br />
     <sub>[#40146](https://github.com/flutter/engine/pull/40146) merged on March 14, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/40146) over 5 days, 34 additions and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump pubspecs to unblock Dart SDK roller<br />
+    <sub>[#40297](https://github.com/flutter/engine/pull/40297) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40297) over 57 minutes, 3 additions and 3 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Correct the results of 'GetRight()' and 'GetBottom()' for maximum rect<br />
     <sub>[#40271](https://github.com/flutter/engine/pull/40271) merged on March 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40271) over 14 hours, 75 additions and 13 deletions in 2 files</sub><br />
