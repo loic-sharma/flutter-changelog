@@ -84,7 +84,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump pubspec to unblock engine roller
     <sub>[#122699](https://github.com/flutter/flutter/pull/122699) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122699) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub>
+    <sub>Reviewed by: [Siva](https://github.com/a-siva), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TabBarView and TabBar animations are not synchronized
     <sub>[#122021](https://github.com/flutter/flutter/pull/122021) merged on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122021) over 1 week, 127 additions and 50 deletions in 2 files</sub>
@@ -634,7 +634,7 @@
 
 * **[Davide Dessì](https://github.com/DavideDessi319)** &mdash; Fix CupertinoSliverNavigationBar's alwaysShowMiddle not working properly during page transition
     <sub>[#120895](https://github.com/flutter/flutter/pull/120895) merged on March 1, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/120895) over 1 week, 66 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Give error on too many arguments to `flutter config`
     <sub>[#121494](https://github.com/flutter/flutter/pull/121494) merged on February 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/121494) over 19 hours, 23 additions and 0 deletions in 2 files</sub>
@@ -722,7 +722,7 @@
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_ios flutter_gallery_ios_sksl_warmup__transition_perf to be flaky
     <sub>[#121232](https://github.com/flutter/flutter/pull/121232) merged on March 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/121232) over 1 week, 1 addition and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "Remove references to Observatory (#118577)" 
     <sub>[#121606](https://github.com/flutter/flutter/pull/121606) merged on February 28, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/121606) over 2 hours, 518 additions and 490 deletions in 90 files</sub>
