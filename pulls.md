@@ -89,14 +89,8 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Do not use colors in output if running from CI.<br />
     <sub>[#122645](https://github.com/flutter/flutter/pull/122645) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122645) 9 additions and 1 deletion in 2 files</sub><br />
 
-* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Allow `ProgressIndicator` to be round<br />
-    <sub>[#122664](https://github.com/flutter/flutter/pull/122664) opened on on March 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122664) 93 additions and 9 deletions in 4 files</sub><br />
-
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Add decimalPatternDigits to gen-l10n valid NumberFormats<br />
     <sub>[#122682](https://github.com/flutter/flutter/pull/122682) opened on on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122682) 2 additions and 0 deletions in 1 file</sub><br />
-
-* **[Brayden](https://github.com/BrayFlex)** &mdash; Prevent browser caching main.dart.js on new web builds<br />
-    <sub>[#122695](https://github.com/flutter/flutter/pull/122695) opened on on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122695) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix MenuAnchor closes on internal scroll<br />
     <sub>[#122696](https://github.com/flutter/flutter/pull/122696) opened on on March 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122696) 76 additions and 4 deletions in 2 files</sub><br />
