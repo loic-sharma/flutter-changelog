@@ -92,3 +92,6 @@
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Add decimalPatternDigits to gen-l10n valid NumberFormats<br />
     <sub>[#122682](https://github.com/flutter/flutter/pull/122682) opened on on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122682) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[Brayden](https://github.com/BrayFlex)** &mdash; Prevent browser caching main.dart.js on new web builds<br />
+    <sub>[#122695](https://github.com/flutter/flutter/pull/122695) opened on on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122695) 3 additions and 1 deletion in 1 file</sub><br />
+
