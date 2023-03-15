@@ -730,7 +730,12 @@
 
 ### March 11, 2023 to March 17, 2023
 
-21 commits.
+22 commits.
+
+* **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Make matrix image filter in saving layer work as expected
+    <sub>[#40171](https://github.com/flutter/engine/pull/40171) merged on March 15, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40171) over 5 days, 98 additions and 40 deletions in 13 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub><details><summary>2 images...</summary>![6x6UAiK8Fk](https://user-images.githubusercontent.com/31977171/223971021-093837ee-64de-45ca-9ae8-a4e96b3d0b38.jpg)![vyWLtiMFW7](https://user-images.githubusercontent.com/31977171/223971128-e584513c-1306-47a7-8c3e-a75dfbe83a38.jpg)</details></sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Implement two-point conical gradient.
     <sub>[#40236](https://github.com/flutter/engine/pull/40236) merged on March 14, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/40236) over 3 days, 576 additions and 3 deletions in 11 files</sub>
@@ -787,7 +792,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Fix forward declares and includes of some Skia Ganesh types
-    <sub>[#40279](https://github.com/flutter/engine/pull/40279) merged on March 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40279) over 2 hours, 14 additions and 0 deletions in 8 files</sub>
+    <sub>[#40279](https://github.com/flutter/engine/pull/40279) merged on March 14, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40279) over 2 hours, 14 additions and 0 deletions in 8 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use plain Uint32List objects with the fragmenter APIs.
