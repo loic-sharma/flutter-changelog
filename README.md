@@ -862,7 +862,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart SDK to c766fffb626e<br />
-    <sub>[#40315](https://github.com/flutter/engine/pull/40315) merged on March 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40315) over 50 minutes, 4 additions and 4 deletions in 2 files</sub><br />
+    <sub>[#40315](https://github.com/flutter/engine/pull/40315) merged on March 15, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40315) over 50 minutes, 4 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added float32 support to decodeImageFromPixels<br />
