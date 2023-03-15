@@ -92,3 +92,6 @@
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Add decimalPatternDigits to gen-l10n valid NumberFormats<br />
     <sub>[#122682](https://github.com/flutter/flutter/pull/122682) opened on on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122682) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Update SDK constraint because Dart SDK API 2.19 is used.<br />
+    <sub>[#122737](https://github.com/flutter/flutter/pull/122737) opened on on March 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122737) 1 addition and 1 deletion in 1 file</sub><br />
+
