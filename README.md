@@ -1283,7 +1283,7 @@
     <sub>Reviewed by: [David Worsham](https://github.com/arbreng)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont append to existing atlas if type changed<br />
-    <sub>[#39913](https://github.com/flutter/engine/pull/39913) merged on February 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/39913) over 46 minutes, 38 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#39913](https://github.com/flutter/engine/pull/39913) merged on February 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/39913) over 46 minutes, 38 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Freeze parts of API for ABI stability<br />
