@@ -62,6 +62,9 @@
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; [ios] fix hold and drag spacebar does not move cursor when obscureTex…<br />
     <sub>[#122383](https://github.com/flutter/flutter/pull/122383) opened on on March 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122383) 41 additions and 0 deletions in 2 files</sub><br />
 
+* **[Nabeel Parkar](https://github.com/exaby73)** &mdash; Bug report 2 issue template<br />
+    <sub>[#122385](https://github.com/flutter/flutter/pull/122385) opened on on March 10, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/122385) 148 additions and 108 deletions in 9 files</sub><br />
+
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Fix: `IndexedStack` says its children are offstage when dumping render tree, but they are indeed onstage and users get confused<br />
     <sub>[#122393](https://github.com/flutter/flutter/pull/122393) opened on on March 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122393) 5 additions and 1 deletion in 1 file</sub><br />
 
@@ -69,7 +72,7 @@
     <sub>[#122437](https://github.com/flutter/flutter/pull/122437) opened on on March 10, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/122437) 144 additions and 127 deletions in 25 files</sub><br />
 
 * **[Benjamin Quinn](https://github.com/Blquinn)** &mdash; Expose toggle to textfield's opacity animation.<br />
-    <sub>[#122474](https://github.com/flutter/flutter/pull/122474) opened on on March 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122474) 18 additions and 7 deletions in 2 files</sub><br />
+    <sub>[#122474](https://github.com/flutter/flutter/pull/122474) opened on on March 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122474) 26 additions and 7 deletions in 2 files</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix out-of-bounds and reversed TextBox queries in computing caret metrics<br />
     <sub>[#122480](https://github.com/flutter/flutter/pull/122480) opened on on March 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122480) 165 additions and 4 deletions in 2 files</sub><br />
@@ -94,4 +97,7 @@
 
 * **[Brayden](https://github.com/BrayFlex)** &mdash; Prevent browser caching main.dart.js on new web builds<br />
     <sub>[#122695](https://github.com/flutter/flutter/pull/122695) opened on on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122695) 3 additions and 1 deletion in 1 file</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix MenuAnchor closes on internal scroll<br />
+    <sub>[#122696](https://github.com/flutter/flutter/pull/122696) opened on on March 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122696) 76 additions and 4 deletions in 2 files</sub><br />
 
