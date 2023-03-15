@@ -734,7 +734,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-22 commits.
+23 commits.
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Make matrix image filter in saving layer work as expected
     <sub>[#40171](https://github.com/flutter/engine/pull/40171) merged on March 15, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40171) over 5 days, 98 additions and 40 deletions in 13 files</sub>
@@ -794,6 +794,10 @@
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller][Compute] Fix visual issues with heart
     <sub>[#40240](https://github.com/flutter/engine/pull/40240) merged on March 13, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/40240) over 2 days, 235 additions and 226 deletions in 4 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Improve Linux texture examples.
+    <sub>[#40289](https://github.com/flutter/engine/pull/40289) merged on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40289) over 1 hour, 26 additions and 17 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Fix forward declares and includes of some Skia Ganesh types
     <sub>[#40279](https://github.com/flutter/engine/pull/40279) merged on March 14, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40279) over 2 hours, 14 additions and 0 deletions in 8 files</sub>
