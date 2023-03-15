@@ -100,7 +100,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Fix globs in runIf configurations.<br />
     <sub>[#122630](https://github.com/flutter/flutter/pull/122630) merged on March 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/122630) over 2 hours, 108 additions and 108 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [keyonghan](https://github.com/keyonghan)</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Remove ownership on ci.yaml<br />
     <sub>[#122624](https://github.com/flutter/flutter/pull/122624) merged on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122624) over 3 hours, 0 additions and 1 deletion in 1 file</sub><br />
@@ -380,7 +380,7 @@
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Update cmake version to the latest in infra/3pp/tools<br />
     <sub>[#122147](https://github.com/flutter/flutter/pull/122147) merged on March 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122147) over 20 hours, 8 additions and 8 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [godofredoc](https://github.com/godofredoc)</sub><br />
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Ensure CanvasKit is served from the correct location<br />
     <sub>[#121902](https://github.com/flutter/flutter/pull/121902) merged on March 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/121902) over 4 days, 38 additions and 7 deletions in 3 files</sub><br />
