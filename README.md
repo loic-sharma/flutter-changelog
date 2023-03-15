@@ -638,7 +638,7 @@
 
 * **[Davide Dessì](https://github.com/DavideDessi319)** &mdash; Fix CupertinoSliverNavigationBar's alwaysShowMiddle not working properly during page transition<br />
     <sub>[#120895](https://github.com/flutter/flutter/pull/120895) merged on March 1, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/120895) over 1 week, 66 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Give error on too many arguments to `flutter config`<br />
     <sub>[#121494](https://github.com/flutter/flutter/pull/121494) merged on February 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/121494) over 19 hours, 23 additions and 0 deletions in 2 files</sub><br />
@@ -726,7 +726,7 @@
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_ios flutter_gallery_ios_sksl_warmup__transition_perf to be flaky<br />
     <sub>[#121232](https://github.com/flutter/flutter/pull/121232) merged on March 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/121232) over 1 week, 1 addition and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "Remove references to Observatory (#118577)" <br />
     <sub>[#121606](https://github.com/flutter/flutter/pull/121606) merged on February 28, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/121606) over 2 hours, 518 additions and 490 deletions in 90 files</sub><br />
