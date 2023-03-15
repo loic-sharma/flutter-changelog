@@ -408,7 +408,7 @@
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_ios hot_mode_dev_cycle_ios__benchmark to be flaky<br />
     <sub>[#120809](https://github.com/flutter/flutter/pull/120809) merged on March 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/120809) over 2 weeks, 1 addition and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jenn Magder](https://github.com/jmagman)</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert "Introduce the PipelineOwner tree"<br />
     <sub>[#122425](https://github.com/flutter/flutter/pull/122425) merged on March 10, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/122425) over 4 minutes, 34 additions and 1341 deletions in 6 files</sub><br />
@@ -646,11 +646,11 @@
 
 * **[Davide Dessì](https://github.com/DavideDessi319)** &mdash; Fix CupertinoSliverNavigationBar's alwaysShowMiddle not working properly during page transition<br />
     <sub>[#120895](https://github.com/flutter/flutter/pull/120895) merged on March 1, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/120895) over 1 week, 66 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Give error on too many arguments to `flutter config`<br />
     <sub>[#121494](https://github.com/flutter/flutter/pull/121494) merged on February 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/121494) over 19 hours, 23 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [conductor] Roll engine whenever version is out of date<br />
     <sub>[#121502](https://github.com/flutter/flutter/pull/121502) merged on March 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/121502) over 4 days, 59 additions and 30 deletions in 2 files</sub><br />
