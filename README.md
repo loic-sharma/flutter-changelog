@@ -738,7 +738,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-24 commits.
+25 commits.
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Make matrix image filter in saving layer work as expected<br />
     <sub>[#40171](https://github.com/flutter/engine/pull/40171) merged on March 15, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40171) over 5 days, 98 additions and 40 deletions in 13 files</sub><br />
@@ -838,6 +838,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Roll Dart SDK from c766fffb626e to cfcbda5733ac (1 revision)"<br />
     <sub>[#40257](https://github.com/flutter/engine/pull/40257) merged on March 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40257) over 3 minutes, 3 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Added wide-gamut color support for `ui.Image.toByteData` and `ui.Image.colorSpace`"<br />
+    <sub>[#40295](https://github.com/flutter/engine/pull/40295) merged on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40295) over 55 minutes, 8 additions and 153 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 ### March 4, 2023 to March 10, 2023
 
