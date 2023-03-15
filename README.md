@@ -750,7 +750,12 @@
 
 ### March 11, 2023 to March 17, 2023
 
-28 commits.
+30 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Improve performance of CupertinoPicker with opacity peephole<br />
+    <sub>[#40101](https://github.com/flutter/engine/pull/40101) merged on March 15, 2023 &mdash; **Medium:** [35 comments](https://github.com/flutter/engine/pull/40101) over 1 week, 421 additions and 13 deletions in 24 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+    <sub><details><summary>3 images...</summary><img src="https://user-images.githubusercontent.com/8975114/221440853-fe3f8f4e-7e62-4d97-a3cc-ac4c78280ca5.png"/>![image](https://user-images.githubusercontent.com/8975114/223287716-01e15a85-ef01-42f7-93d0-666620faafc2.png)![image](https://user-images.githubusercontent.com/8975114/223287757-ab378358-331c-4289-9e97-215138dc03c5.png)</details></sub>
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Make matrix image filter in saving layer work as expected<br />
     <sub>[#40171](https://github.com/flutter/engine/pull/40171) merged on March 15, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40171) over 5 days, 98 additions and 40 deletions in 13 files</sub><br />
@@ -782,6 +787,10 @@
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] More sundry fixes to the Vulkan backend.<br />
     <sub>[#40244](https://github.com/flutter/engine/pull/40244) merged on March 13, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/40244) over 7 hours, 2539 additions and 1423 deletions in 74 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Analyze more shaders<br />
+    <sub>[#40285](https://github.com/flutter/engine/pull/40285) merged on March 15, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/40285) over 19 hours, 9199 additions and 2566 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Preserve order when regenerating GPU images<br />
