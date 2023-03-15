@@ -89,3 +89,6 @@
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Allow `ProgressIndicator` to be round<br />
     <sub>[#122664](https://github.com/flutter/flutter/pull/122664) opened on on March 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122664) 93 additions and 9 deletions in 4 files</sub><br />
 
+* **[Albert Wolszon](https://github.com/Albert221)** &mdash; Add decimalPatternDigits to gen-l10n valid NumberFormats<br />
+    <sub>[#122682](https://github.com/flutter/flutter/pull/122682) opened on on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122682) 2 additions and 0 deletions in 1 file</sub><br />
+
