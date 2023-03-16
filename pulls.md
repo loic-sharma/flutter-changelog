@@ -108,5 +108,5 @@
     <sub>[#122816](https://github.com/flutter/flutter/pull/122816) opened on on March 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122816) 55 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use depfile with dart2wasm to determine when to rebuild.<br />
-    <sub>[#122817](https://github.com/flutter/flutter/pull/122817) opened on on March 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122817) 12 additions and 0 deletions in 3 files</sub><br />
+    <sub>[#122817](https://github.com/flutter/flutter/pull/122817) opened on on March 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122817) 11 additions and 0 deletions in 2 files</sub><br />
 
