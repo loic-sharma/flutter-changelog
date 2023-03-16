@@ -1619,7 +1619,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-8 commits.
+9 commits.
 
 * **[xegrox](https://github.com/xegrox)** &mdash; [pigeon] Standardize host api error handling
     <sub>[#3234](https://github.com/flutter/packages/pull/3234) merged on March 16, 2023 &mdash; **Extra large:** [60 comments](https://github.com/flutter/packages/pull/3234) over 3 weeks, 1580 additions and 1273 deletions in 31 files</sub>
@@ -1649,6 +1649,10 @@
 * **[maRci002](https://github.com/maRci002)** &mdash; [video_player_platform_interface] synchronize isPlaying state
     <sub>[#3361](https://github.com/flutter/packages/pull/3361) merged on March 15, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/3361) over 1 week, 21 additions and 4 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [image_picker] Move HashSet construction within if-statement
+    <sub>[#3448](https://github.com/flutter/packages/pull/3448) merged on March 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3448) over 3 days, 15 additions and 3 deletions in 4 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker_android] Removes unneeded permissions from tests
     <sub>[#3433](https://github.com/flutter/packages/pull/3433) merged on March 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3433) over 3 days, 10 additions and 28 deletions in 1 file</sub>
