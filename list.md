@@ -790,7 +790,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-53 commits.
+54 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Improve performance of CupertinoPicker with opacity peephole
     <sub>[#40101](https://github.com/flutter/engine/pull/40101) merged on March 15, 2023 &mdash; **Medium:** [36 comments](https://github.com/flutter/engine/pull/40101) over 1 week, 421 additions and 13 deletions in 24 files</sub>
@@ -849,40 +849,44 @@
     <sub>[#40146](https://github.com/flutter/engine/pull/40146) merged on March 14, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/40146) over 5 days, 34 additions and 6 deletions in 2 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS,Windows] Use static casts where possible
-    <sub>[#40334](https://github.com/flutter/engine/pull/40334) merged on March 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40334) over 1 hour, 5 additions and 5 deletions in 2 files</sub>
-    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Print the malioc_diff.py command to update for new shaders
-    <sub>[#40322](https://github.com/flutter/engine/pull/40322) merged on March 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40322) over 21 hours, 10 additions and 4 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub>
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Pass parameters by value to `StreamHandlerError`
+    <sub>[#40311](https://github.com/flutter/engine/pull/40311) merged on March 16, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/40311) over 1 day, 38 additions and 9 deletions in 3 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Correct the results of 'GetRight()' and 'GetBottom()' for maximum rect
     <sub>[#40271](https://github.com/flutter/engine/pull/40271) merged on March 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40271) over 14 hours, 75 additions and 13 deletions in 2 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] implement GetPositionUVBuffer
-    <sub>[#40248](https://github.com/flutter/engine/pull/40248) merged on March 15, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/40248) over 2 days, 257 additions and 148 deletions in 8 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump pubspecs to unblock Dart SDK roller
+    <sub>[#40297](https://github.com/flutter/engine/pull/40297) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40297) over 57 minutes, 3 additions and 3 deletions in 3 files</sub>
+    <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart SDK to c766fffb626e
+    <sub>[#40315](https://github.com/flutter/engine/pull/40315) merged on March 15, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40315) over 50 minutes, 4 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Write entitlements for Dart SDK binary wasm-opt
     <sub>[#40349](https://github.com/flutter/engine/pull/40349) merged on March 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40349) over 51 minutes, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump pubspecs to unblock Dart SDK roller
-    <sub>[#40297](https://github.com/flutter/engine/pull/40297) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40297) over 57 minutes, 3 additions and 3 deletions in 3 files</sub>
-    <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump lower Dart SDK constraints to 3.0
+    <sub>[#40178](https://github.com/flutter/engine/pull/40178) merged on March 15, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40178) over 6 days, 69 additions and 96 deletions in 43 files</sub>
+    <sub>Reviewed by: [Jacob MacDonald](https://github.com/jakemac53)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS,Windows] Use static casts where possible
+    <sub>[#40334](https://github.com/flutter/engine/pull/40334) merged on March 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40334) over 1 hour, 5 additions and 5 deletions in 2 files</sub>
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Rename FlutterViewController.id to viewId
     <sub>[#40323](https://github.com/flutter/engine/pull/40323) merged on March 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40323) over 2 hours, 18 additions and 20 deletions in 4 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added float32 support to decodeImageFromPixels
+    <sub>[#40068](https://github.com/flutter/engine/pull/40068) merged on March 15, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/40068) over 1 week, 99 additions and 6 deletions in 6 files</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move Fuchsia FEMU to bringup due to flakes
     <sub>[#40321](https://github.com/flutter/engine/pull/40321) merged on March 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40321) over 39 minutes, 2 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart SDK to c766fffb626e
-    <sub>[#40315](https://github.com/flutter/engine/pull/40315) merged on March 15, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40315) over 50 minutes, 4 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; .ci.yaml: s/flutter_internal/flutter
@@ -905,13 +909,13 @@
     <sub>[#40240](https://github.com/flutter/engine/pull/40240) merged on March 13, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/40240) over 2 days, 235 additions and 226 deletions in 4 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added float32 support to decodeImageFromPixels
-    <sub>[#40068](https://github.com/flutter/engine/pull/40068) merged on March 15, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/40068) over 1 week, 99 additions and 6 deletions in 6 files</sub>
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] implement GetPositionUVBuffer
+    <sub>[#40248](https://github.com/flutter/engine/pull/40248) merged on March 15, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/40248) over 2 days, 257 additions and 148 deletions in 8 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump lower Dart SDK constraints to 3.0
-    <sub>[#40178](https://github.com/flutter/engine/pull/40178) merged on March 15, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40178) over 6 days, 69 additions and 96 deletions in 43 files</sub>
-    <sub>Reviewed by: [Jacob MacDonald](https://github.com/jakemac53)</sub>
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Print the malioc_diff.py command to update for new shaders
+    <sub>[#40322](https://github.com/flutter/engine/pull/40322) merged on March 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40322) over 21 hours, 10 additions and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Add drone dimensions to `windows_android_aot_engine`
     <sub>[#40324](https://github.com/flutter/engine/pull/40324) merged on March 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40324) over 19 hours, 24 additions and 6 deletions in 1 file</sub>
@@ -961,16 +965,16 @@
     <sub>[#40243](https://github.com/flutter/engine/pull/40243) merged on March 14, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/40243) over 2 days, 4729 additions and 3876 deletions in 94 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from c766fffb626e to e5d18aac86df (14 revisions)
-    <sub>[#40341](https://github.com/flutter/engine/pull/40341) merged on March 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40341) over 1 hour, 3 additions and 3 deletions in 2 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from c766fffb626e to 3b109a04f783 (9 revisions)
     <sub>[#40296](https://github.com/flutter/engine/pull/40296) merged on March 15, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40296) over 3 hours, 4 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from e5d18aac86df to 2cd913e06b8c (1 revision)
     <sub>[#40351](https://github.com/flutter/engine/pull/40351) merged on March 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40351) over 48 minutes, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from c766fffb626e to e5d18aac86df (14 revisions)
+    <sub>[#40341](https://github.com/flutter/engine/pull/40341) merged on March 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40341) over 1 hour, 3 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland: Bump lower Dart SDK constraints to 3.0
@@ -1639,11 +1643,16 @@
 
 ### March 11, 2023 to March 17, 2023
 
-11 commits.
+12 commits.
 
 * **[xegrox](https://github.com/xegrox)** &mdash; [pigeon] Standardize host api error handling
     <sub>[#3234](https://github.com/flutter/packages/pull/3234) merged on March 16, 2023 &mdash; **Extra large:** [60 comments](https://github.com/flutter/packages/pull/3234) over 3 weeks, 1580 additions and 1273 deletions in 31 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [image_picker]: Bump androidx.exifinterface:exifinterface from 1.3.3 to 1.3.6 in /packages/image_picker/image_picker_android/android
+    <sub>[#3238](https://github.com/flutter/packages/pull/3238) merged on March 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3238) over 3 weeks, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.exifinterface:exifinterface&package-manager=gradle&previous-version=1.3.3&new-version=1.3.6)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Gabriel Gava](https://github.com/gabrielgarciagava)** &mdash; [video_player] Make video player avfoundation seek to async
     <sub>[#3299](https://github.com/flutter/packages/pull/3299) merged on March 15, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/3299) over 2 weeks, 365 additions and 340 deletions in 11 files</sub>
