@@ -1607,7 +1607,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-7 commits.
+8 commits.
 
 * **[xegrox](https://github.com/xegrox)** &mdash; [pigeon] Standardize host api error handling
     <sub>[#3234](https://github.com/flutter/packages/pull/3234) merged on March 16, 2023 &mdash; **Extra large:** [60 comments](https://github.com/flutter/packages/pull/3234) over 3 weeks, 1580 additions and 1273 deletions in 31 files</sub>
@@ -1616,6 +1616,10 @@
 * **[Gabriel Gava](https://github.com/gabrielgarciagava)** &mdash; [video_player] Make video player avfoundation seek to async
     <sub>[#3299](https://github.com/flutter/packages/pull/3299) merged on March 15, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/3299) over 2 weeks, 365 additions and 340 deletions in 11 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Support default value for `Set`, `List` and `Iterable` route parameters
+    <sub>[#3391](https://github.com/flutter/packages/pull/3391) merged on March 16, 2023 &mdash; **Medium:** [8 comments](https://github.com/flutter/packages/pull/3391) over 1 week, 410 additions and 21 deletions in 9 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Fixes swift int64 support for Swift
     <sub>[#3455](https://github.com/flutter/packages/pull/3455) merged on March 14, 2023 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/3455) over 6 hours, 540 additions and 313 deletions in 31 files</sub>
