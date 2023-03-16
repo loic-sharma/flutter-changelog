@@ -101,3 +101,6 @@
 * **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Add alignmentOffset when menu is positioned on the opposite side<br />
     <sub>[#122812](https://github.com/flutter/flutter/pull/122812) opened on on March 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122812) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Ayush Bherwani](https://github.com/AyushBherwani1998)** &mdash; [Stepper] adds stepIconBuilder property<br />
+    <sub>[#122816](https://github.com/flutter/flutter/pull/122816) opened on on March 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122816) 55 additions and 1 deletion in 2 files</sub><br />
+
