@@ -98,3 +98,6 @@
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Add support for secondary tab bar<br />
     <sub>[#122756](https://github.com/flutter/flutter/pull/122756) opened on on March 15, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/122756) 356 additions and 20 deletions in 3 files</sub><br />
 
+* **[Harry Terkelsen](https://github.com/hterkelsen)** &mdash; Inject the gstatic CanvasKit CDN URL by default in `flutter build web`<br />
+    <sub>[#122772](https://github.com/flutter/flutter/pull/122772) opened on on March 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122772) 52 additions and 1 deletion in 3 files</sub><br />
+
