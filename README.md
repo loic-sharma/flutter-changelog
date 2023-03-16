@@ -192,7 +192,7 @@
 <summary>76 commits...</summary>
 
 * **[Hasnen Tai](https://github.com/hasnentai)** &mdash; Feat : `TextField` cursor color matching M2 and M3 Spec in error state<br />
-    <sub>[#119225](https://github.com/flutter/flutter/pull/119225) merged on March 9, 2023 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/119225) over 1 month, 31 additions and 5 deletions in 2 files</sub><br />
+    <sub>[#119225](https://github.com/flutter/flutter/pull/119225) merged on March 9, 2023 &mdash; **Small:** [45 comments](https://github.com/flutter/flutter/pull/119225) over 1 month, 31 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Justin McCandless](https://github.com/justinmc)</sub><br />
     <sub><details><summary>1 image...</summary><img src="https://user-images.githubusercontent.com/26821037/214796347-7ea84fa3-da0c-49de-96ae-57eb6e5e07b4.png" height="400"/></details></sub>
 
