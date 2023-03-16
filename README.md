@@ -4,7 +4,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-42 commits.
+43 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; [flutter_tools] Clean up `boolArgDeprecated` and `stringArgDeprecated`<br />
     <sub>[#122184](https://github.com/flutter/flutter/pull/122184) merged on March 13, 2023 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/122184) over 5 days, 424 additions and 370 deletions in 40 files</sub><br />
@@ -54,17 +54,17 @@
     <sub>[#122354](https://github.com/flutter/flutter/pull/122354) merged on March 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122354) over 4 days, 92 additions and 132 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Run Skia gold framework tests on arm64 Mac builders<br />
-    <sub>[#122618](https://github.com/flutter/flutter/pull/122618) merged on March 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122618) over 2 hours, 1 addition and 3 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [gallery] roll gallery to 6a8d738c94d0710e229d726729c09fdb5ccaf7ed<br />
+    <sub>[#122747](https://github.com/flutter/flutter/pull/122747) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122747) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] stop using deprecated jsonwire web-driver protocol<br />
     <sub>[#122560](https://github.com/flutter/flutter/pull/122560) merged on March 14, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/122560) over 19 hours, 88 additions and 90 deletions in 4 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [gallery] roll gallery to 6a8d738c94d0710e229d726729c09fdb5ccaf7ed<br />
-    <sub>[#122747](https://github.com/flutter/flutter/pull/122747) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122747) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Run Skia gold framework tests on arm64 Mac builders<br />
+    <sub>[#122618](https://github.com/flutter/flutter/pull/122618) merged on March 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122618) over 2 hours, 1 addition and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Cleanup M3 token templates for theme lookups<br />
     <sub>[#122601](https://github.com/flutter/flutter/pull/122601) merged on March 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122601) over 4 hours, 172 additions and 111 deletions in 24 files</sub><br />
@@ -94,6 +94,10 @@
     <sub>[#122249](https://github.com/flutter/flutter/pull/122249) merged on March 15, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/122249) over 6 days, 81 additions and 16 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix cursor disappear on undo.<br />
+    <sub>[#122402](https://github.com/flutter/flutter/pull/122402) merged on March 16, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/122402) over 5 days, 68 additions and 14 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add macos project auto migration code for FlutterApplication<br />
     <sub>[#122336](https://github.com/flutter/flutter/pull/122336) merged on March 16, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/122336) over 6 days, 285 additions and 29 deletions in 20 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
@@ -110,17 +114,17 @@
     <sub>[#122021](https://github.com/flutter/flutter/pull/122021) merged on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122021) over 1 week, 127 additions and 50 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Fix globs in runIf configurations.<br />
-    <sub>[#122630](https://github.com/flutter/flutter/pull/122630) merged on March 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/122630) over 2 hours, 108 additions and 108 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [keyonghan](https://github.com/keyonghan)</sub><br />
+* **[keyonghan](https://github.com/keyonghan)** &mdash; Remove ownership on ci.yaml<br />
+    <sub>[#122624](https://github.com/flutter/flutter/pull/122624) merged on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122624) over 3 hours, 0 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Remove key simulation obsolete comments<br />
     <sub>[#122389](https://github.com/flutter/flutter/pull/122389) merged on March 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122389) over 3 days, 21 additions and 26 deletions in 2 files</sub><br />
     <sub>Reviewed by: [pdblasi-google](https://github.com/pdblasi-google)</sub><br />
 
-* **[keyonghan](https://github.com/keyonghan)** &mdash; Remove ownership on ci.yaml<br />
-    <sub>[#122624](https://github.com/flutter/flutter/pull/122624) merged on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122624) over 3 hours, 0 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Fix globs in runIf configurations.<br />
+    <sub>[#122630](https://github.com/flutter/flutter/pull/122630) merged on March 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/122630) over 2 hours, 108 additions and 108 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Reland (3): Removes single window assumptions from `flutter_test`<br />
     <sub>[#122422](https://github.com/flutter/flutter/pull/122422) merged on March 13, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/122422) over 3 days, 2411 additions and 1290 deletions in 16 files</sub><br />
