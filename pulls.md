@@ -33,7 +33,7 @@
     <sub>[#119290](https://github.com/flutter/flutter/pull/119290) opened on on January 26, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/119290) 2527 additions and 1392 deletions in 85 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] throw tool exit on invocation of flutter format<br />
-    <sub>[#121646](https://github.com/flutter/flutter/pull/121646) opened on on February 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/121646) 7 additions and 194 deletions in 3 files</sub><br />
+    <sub>[#121646](https://github.com/flutter/flutter/pull/121646) opened on on February 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/121646) 9 additions and 193 deletions in 4 files</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add Non-Uniform Border to Border.<br />
     <sub>[#121921](https://github.com/flutter/flutter/pull/121921) opened on on March 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/121921) 123 additions and 40 deletions in 3 files</sub><br />
@@ -109,7 +109,4 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use depfile with dart2wasm to determine when to rebuild.<br />
     <sub>[#122817](https://github.com/flutter/flutter/pull/122817) opened on on March 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122817) 11 additions and 0 deletions in 2 files</sub><br />
-
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Use packages/packages recipe.<br />
-    <sub>[#122822](https://github.com/flutter/flutter/pull/122822) opened on on March 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122822) 8 additions and 8 deletions in 1 file</sub><br />
 
