@@ -32,9 +32,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Regenerate gradle lockfiles<br />
     <sub>[#119290](https://github.com/flutter/flutter/pull/119290) opened on on January 26, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/119290) 2527 additions and 1392 deletions in 85 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] throw tool exit on invocation of flutter format<br />
-    <sub>[#121646](https://github.com/flutter/flutter/pull/121646) opened on on February 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/121646) 9 additions and 193 deletions in 4 files</sub><br />
-
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add Non-Uniform Border to Border.<br />
     <sub>[#121921](https://github.com/flutter/flutter/pull/121921) opened on on March 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/121921) 123 additions and 40 deletions in 3 files</sub><br />
 
