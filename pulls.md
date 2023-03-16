@@ -81,7 +81,7 @@
     <sub>[#122481](https://github.com/flutter/flutter/pull/122481) opened on on March 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122481) 17 additions and 4 deletions in 1 file</sub><br />
 
 * **[Mubarak Bakarman](https://github.com/mub-pro)** &mdash; Customize color and thickness of connected lines in Stepper.dart<br />
-    <sub>[#122485](https://github.com/flutter/flutter/pull/122485) opened on on March 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122485) 111 additions and 9 deletions in 2 files</sub><br />
+    <sub>[#122485](https://github.com/flutter/flutter/pull/122485) opened on on March 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122485) 110 additions and 9 deletions in 2 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Fix style issues<br />
     <sub>[#122586](https://github.com/flutter/flutter/pull/122586) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122586) 4 additions and 8 deletions in 1 file</sub><br />

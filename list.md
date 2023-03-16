@@ -4,7 +4,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-47 commits.
+48 commits.
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Assert that runApp is called in the same zone as binding.ensureInitialized
     <sub>[#117113](https://github.com/flutter/flutter/pull/117113) merged on March 16, 2023 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/117113) over 3 months, 266 additions and 11 deletions in 14 files</sub>
@@ -42,17 +42,21 @@
     <sub>[#122426](https://github.com/flutter/flutter/pull/122426) merged on March 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/122426) over 2 days, 478 additions and 386 deletions in 2 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[Anna Gringauze](https://github.com/annagrin)** &mdash; Fix hot restart flake
+    <sub>[#122776](https://github.com/flutter/flutter/pull/122776) merged on March 16, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/122776) over 16 hours, 18 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Always use user-level pub cache
     <sub>[#121802](https://github.com/flutter/flutter/pull/121802) merged on March 13, 2023 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/121802) over 1 week, 160 additions and 256 deletions in 8 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino), [Jonas Finnemann Jensen](https://github.com/jonasfj), [Jesús S Guerrero](https://github.com/Jasguerrero)</sub>
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Separate attached and wireless devices
-    <sub>[#122615](https://github.com/flutter/flutter/pull/122615) merged on March 15, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/122615) over 23 hours, 1597 additions and 621 deletions in 34 files</sub>
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
-
 * **[Tim Sneath](https://github.com/timsneath)** &mdash; Disable formatting on save for Dart and HTML files
     <sub>[#122048](https://github.com/flutter/flutter/pull/122048) merged on March 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/122048) over 1 week, 13 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Separate attached and wireless devices
+    <sub>[#122615](https://github.com/flutter/flutter/pull/122615) merged on March 15, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/122615) over 23 hours, 1597 additions and 621 deletions in 34 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Updates `flutter/test/material` to no longer use `TestWindow`
     <sub>[#122337](https://github.com/flutter/flutter/pull/122337) merged on March 14, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/122337) over 4 days, 183 additions and 234 deletions in 13 files</sub>
@@ -70,17 +74,13 @@
     <sub>[#122560](https://github.com/flutter/flutter/pull/122560) merged on March 14, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/122560) over 19 hours, 88 additions and 90 deletions in 4 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Take screenshot on devicelab failure
-    <sub>[#122249](https://github.com/flutter/flutter/pull/122249) merged on March 15, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/122249) over 6 days, 81 additions and 16 deletions in 2 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [gallery] roll gallery to 6a8d738c94d0710e229d726729c09fdb5ccaf7ed
+    <sub>[#122747](https://github.com/flutter/flutter/pull/122747) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122747) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Cleanup M3 token templates for theme lookups
     <sub>[#122601](https://github.com/flutter/flutter/pull/122601) merged on March 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122601) over 4 hours, 172 additions and 111 deletions in 24 files</sub>
     <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [gallery] roll gallery to 6a8d738c94d0710e229d726729c09fdb5ccaf7ed
-    <sub>[#122747](https://github.com/flutter/flutter/pull/122747) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122747) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump pubspec to unblock engine roller
     <sub>[#122699](https://github.com/flutter/flutter/pull/122699) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122699) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
@@ -90,25 +90,29 @@
     <sub>[#122353](https://github.com/flutter/flutter/pull/122353) merged on March 15, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122353) over 5 days, 69 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Take screenshot on devicelab failure
+    <sub>[#122249](https://github.com/flutter/flutter/pull/122249) merged on March 15, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/122249) over 6 days, 81 additions and 16 deletions in 2 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Refactor icon update script
     <sub>[#122392](https://github.com/flutter/flutter/pull/122392) merged on March 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122392) over 3 days, 47 additions and 42 deletions in 2 files</sub>
     <sub>Reviewed by: [xster](https://github.com/xster)</sub>
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove last few references to window singleton
-    <sub>[#122644](https://github.com/flutter/flutter/pull/122644) merged on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122644) over 2 hours, 52 additions and 46 deletions in 19 files</sub>
-    <sub>Reviewed by: [pdblasi-google](https://github.com/pdblasi-google)</sub>
-
-* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update Material tokens to 0.162
-    <sub>[#122388](https://github.com/flutter/flutter/pull/122388) merged on March 13, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/122388) over 3 days, 153 additions and 156 deletions in 102 files</sub>
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll Flutter Engine from 3194afad72f0 to 7ee528267b03 (4 revisions)
     <sub>[#122806](https://github.com/flutter/flutter/pull/122806) merged on March 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122806) over 53 minutes, 3 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
+* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update Material tokens to 0.162
+    <sub>[#122388](https://github.com/flutter/flutter/pull/122388) merged on March 13, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/122388) over 3 days, 153 additions and 156 deletions in 102 files</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Run Skia gold framework tests on arm64 Mac builders
     <sub>[#122618](https://github.com/flutter/flutter/pull/122618) merged on March 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122618) over 2 hours, 1 addition and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [yusuf-goog](https://github.com/yusuf-goog)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove last few references to window singleton
+    <sub>[#122644](https://github.com/flutter/flutter/pull/122644) merged on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122644) over 2 hours, 52 additions and 46 deletions in 19 files</sub>
+    <sub>Reviewed by: [pdblasi-google](https://github.com/pdblasi-google)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix cursor disappear on undo.
     <sub>[#122402](https://github.com/flutter/flutter/pull/122402) merged on March 16, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/122402) over 5 days, 68 additions and 14 deletions in 3 files</sub>
@@ -126,21 +130,21 @@
     <sub>[#122557](https://github.com/flutter/flutter/pull/122557) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122557) over 1 day, 10 additions and 8 deletions in 6 files</sub>
     <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub>
 
-* **[keyonghan](https://github.com/keyonghan)** &mdash; Remove ownership on ci.yaml
-    <sub>[#122624](https://github.com/flutter/flutter/pull/122624) merged on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122624) over 3 hours, 0 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Remove key simulation obsolete comments
+    <sub>[#122389](https://github.com/flutter/flutter/pull/122389) merged on March 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122389) over 3 days, 21 additions and 26 deletions in 2 files</sub>
+    <sub>Reviewed by: [pdblasi-google](https://github.com/pdblasi-google)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TabBarView and TabBar animations are not synchronized
     <sub>[#122021](https://github.com/flutter/flutter/pull/122021) merged on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122021) over 1 week, 127 additions and 50 deletions in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Remove key simulation obsolete comments
-    <sub>[#122389](https://github.com/flutter/flutter/pull/122389) merged on March 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122389) over 3 days, 21 additions and 26 deletions in 2 files</sub>
-    <sub>Reviewed by: [pdblasi-google](https://github.com/pdblasi-google)</sub>
-
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Fix globs in runIf configurations.
     <sub>[#122630](https://github.com/flutter/flutter/pull/122630) merged on March 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/122630) over 2 hours, 108 additions and 108 deletions in 1 file</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [keyonghan](https://github.com/keyonghan)</sub>
+
+* **[keyonghan](https://github.com/keyonghan)** &mdash; Remove ownership on ci.yaml
+    <sub>[#122624](https://github.com/flutter/flutter/pull/122624) merged on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122624) over 3 hours, 0 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Reland (3): Removes single window assumptions from `flutter_test`
     <sub>[#122422](https://github.com/flutter/flutter/pull/122422) merged on March 13, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/122422) over 3 days, 2411 additions and 1290 deletions in 16 files</sub>
