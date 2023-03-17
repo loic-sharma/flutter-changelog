@@ -47,9 +47,6 @@
 * **[Joseph, NamKung](https://github.com/JosephNK)** &mdash; Fix localize CupertinoDatePicker for Korea locale<br />
     <sub>[#122259](https://github.com/flutter/flutter/pull/122259) opened on on March 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122259) 0 additions and 0 deletions in 0 files</sub><br />
 
-* **[ivirtex](https://github.com/ivirtex)** &mdash; Update `CupertinoPageRoute` transition animation curves<br />
-    <sub>[#122275](https://github.com/flutter/flutter/pull/122275) opened on on March 9, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/122275) 166 additions and 157 deletions in 7 files</sub><br />
-
 * **[Ruben Aster](https://github.com/rubenaster)** &mdash; Fix transitioning a TabBarView manually doesn't honor duration and curve #16892<br />
     <sub>[#122279](https://github.com/flutter/flutter/pull/122279) opened on on March 9, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/122279) 45 additions and 16 deletions in 2 files</sub><br />
 
