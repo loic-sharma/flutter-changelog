@@ -81,7 +81,7 @@
     <sub>[#122756](https://github.com/flutter/flutter/pull/122756) opened on on March 15, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/122756) 356 additions and 20 deletions in 3 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Documentation improvements<br />
-    <sub>[#122787](https://github.com/flutter/flutter/pull/122787) opened on on March 16, 2023 &mdash; **Large:** [40 comments](https://github.com/flutter/flutter/pull/122787) 730 additions and 211 deletions in 30 files</sub><br />
+    <sub>[#122787](https://github.com/flutter/flutter/pull/122787) opened on on March 16, 2023 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/122787) 730 additions and 211 deletions in 30 files</sub><br />
 
 * **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Add alignmentOffset when menu is positioned on the opposite side<br />
     <sub>[#122812](https://github.com/flutter/flutter/pull/122812) opened on on March 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122812) 2 additions and 2 deletions in 1 file</sub><br />
