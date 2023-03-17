@@ -1760,11 +1760,15 @@
 
 ### March 11, 2023 to March 17, 2023
 
-16 commits.
+17 commits.
 
 * **[xegrox](https://github.com/xegrox)** &mdash; [pigeon] Standardize host api error handling
     <sub>[#3234](https://github.com/flutter/packages/pull/3234) merged on March 16, 2023 &mdash; **Extra large:** [60 comments](https://github.com/flutter/packages/pull/3234) over 3 weeks, 1580 additions and 1273 deletions in 31 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Updates Dart and Java InstanceManagers
+    <sub>[#3282](https://github.com/flutter/packages/pull/3282) merged on March 17, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/3282) over 3 weeks, 541 additions and 68 deletions in 23 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci/tool] Add external dependency validation
     <sub>[#3466](https://github.com/flutter/packages/pull/3466) merged on March 17, 2023 &mdash; **Medium:** [18 comments](https://github.com/flutter/packages/pull/3466) over 1 day, 434 additions and 50 deletions in 51 files</sub>
