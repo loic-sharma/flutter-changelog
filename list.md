@@ -1760,7 +1760,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-15 commits.
+16 commits.
 
 * **[xegrox](https://github.com/xegrox)** &mdash; [pigeon] Standardize host api error handling
     <sub>[#3234](https://github.com/flutter/packages/pull/3234) merged on March 16, 2023 &mdash; **Extra large:** [60 comments](https://github.com/flutter/packages/pull/3234) over 3 weeks, 1580 additions and 1273 deletions in 31 files</sub>
@@ -1811,6 +1811,10 @@
 * **[maRci002](https://github.com/maRci002)** &mdash; [video_player_platform_interface] synchronize isPlaying state
     <sub>[#3361](https://github.com/flutter/packages/pull/3361) merged on March 15, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/3361) over 1 week, 21 additions and 4 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update goldens
+    <sub>[#3442](https://github.com/flutter/packages/pull/3442) merged on March 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3442) over 6 days, 3 additions and 2 deletions in 5 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; [script] Require Dart SDK 2.14, because of using APIs.
     <sub>[#3468](https://github.com/flutter/packages/pull/3468) merged on March 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3468) over 1 day, 1 addition and 1 deletion in 1 file</sub>
