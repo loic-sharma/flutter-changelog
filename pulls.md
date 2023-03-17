@@ -60,7 +60,7 @@
     <sub>[#122385](https://github.com/flutter/flutter/pull/122385) opened on on March 10, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/122385) 148 additions and 108 deletions in 9 files</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Fix: `IndexedStack` says its children are offstage when dumping render tree, but they are indeed onstage and users get confused<br />
-    <sub>[#122393](https://github.com/flutter/flutter/pull/122393) opened on on March 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122393) 5 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#122393](https://github.com/flutter/flutter/pull/122393) opened on on March 10, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/122393) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[Micael Cid](https://github.com/micaelcid)** &mdash; [integration_test] upgrade androidx test to 1.4.0<br />
     <sub>[#122437](https://github.com/flutter/flutter/pull/122437) opened on on March 10, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/122437) 144 additions and 127 deletions in 25 files</sub><br />
