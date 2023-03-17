@@ -942,7 +942,7 @@
     <sub>[#40315](https://github.com/flutter/engine/pull/40315) merged on March 15, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40315) over 50 minutes, 4 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed the conical gradient.
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Fixed the conical gradient.
     <sub>[#40371](https://github.com/flutter/engine/pull/40371) merged on March 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40371) over 43 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
