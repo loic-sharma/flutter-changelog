@@ -216,7 +216,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Revert "Fix hot restart flake"
-    <sub>[#122855](https://github.com/flutter/flutter/pull/122855) merged on March 17, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/122855) over 5 hours, 1 addition and 18 deletions in 2 files</sub>
+    <sub>[#122855](https://github.com/flutter/flutter/pull/122855) merged on March 17, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/122855) over 5 hours, 1 addition and 18 deletions in 2 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog), [Anna Gringauze](https://github.com/annagrin)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Revert "Run Skia gold framework tests on arm64 Mac builders"

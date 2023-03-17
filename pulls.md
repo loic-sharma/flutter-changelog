@@ -41,9 +41,6 @@
 * **[Matias Sebastian Ramirez Brizuela](https://github.com/ramirezsebas)** &mdash; Added support for Custom ExpansionPanel Icon<br />
     <sub>[#121957](https://github.com/flutter/flutter/pull/121957) opened on on March 5, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/121957) 373 additions and 25 deletions in 4 files</sub><br />
 
-* **[kecson](https://github.com/kecson)** &mdash; Fix inherit fontFamily in ButtonStyle<br />
-    <sub>[#121990](https://github.com/flutter/flutter/pull/121990) opened on on March 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/121990) 5 additions and 1 deletion in 1 file</sub><br />
-
 * **[Joseph, NamKung](https://github.com/JosephNK)** &mdash; Fix localize CupertinoDatePicker for Korea locale<br />
     <sub>[#122259](https://github.com/flutter/flutter/pull/122259) opened on on March 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122259) 0 additions and 0 deletions in 0 files</sub><br />
 
