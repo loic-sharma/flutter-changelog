@@ -35,6 +35,10 @@
     <sub>[#122184](https://github.com/flutter/flutter/pull/122184) merged on March 13, 2023 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/122184) over 5 days, 424 additions and 370 deletions in 40 files</sub>
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
+* **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Exposes onSecondaryTap in InkWell.
+    <sub>[#119058](https://github.com/flutter/flutter/pull/119058) merged on March 16, 2023 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/119058) over 1 month, 116 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update ScrollableDetails for 2D scrolling
     <sub>[#122555](https://github.com/flutter/flutter/pull/122555) merged on March 14, 2023 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/122555) over 22 hours, 446 additions and 27 deletions in 16 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
@@ -54,10 +58,6 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Refine the directional traversal algorithm for out of band widgets
     <sub>[#122556](https://github.com/flutter/flutter/pull/122556) merged on March 14, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/122556) over 2 hours, 254 additions and 18 deletions in 2 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
-
-* **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Exposes onSecondaryTap in InkWell.
-    <sub>[#119058](https://github.com/flutter/flutter/pull/119058) merged on March 16, 2023 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/119058) over 1 month, 116 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Relocate some tests from scrollable_test.dart 
     <sub>[#122426](https://github.com/flutter/flutter/pull/122426) merged on March 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/122426) over 2 days, 478 additions and 386 deletions in 2 files</sub>
@@ -1816,7 +1816,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-18 commits.
+19 commits.
 
 * **[xegrox](https://github.com/xegrox)** &mdash; [pigeon] Standardize host api error handling
     <sub>[#3234](https://github.com/flutter/packages/pull/3234) merged on March 16, 2023 &mdash; **Extra large:** [60 comments](https://github.com/flutter/packages/pull/3234) over 3 weeks, 1580 additions and 1273 deletions in 31 files</sub>
@@ -1871,6 +1871,10 @@
 * **[maRci002](https://github.com/maRci002)** &mdash; [video_player_platform_interface] synchronize isPlaying state
     <sub>[#3361](https://github.com/flutter/packages/pull/3361) merged on March 15, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/3361) over 1 week, 21 additions and 4 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[Jakub Walusiak](https://github.com/SynSzakala)** &mdash; [image_picker_android] Adjust file extension in FileUtils when it does not match its mime type
+    <sub>[#3409](https://github.com/flutter/packages/pull/3409) merged on March 17, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/3409) over 1 week, 57 additions and 10 deletions in 4 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update goldens
     <sub>[#3442](https://github.com/flutter/packages/pull/3442) merged on March 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3442) over 6 days, 3 additions and 2 deletions in 5 files</sub>
