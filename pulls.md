@@ -32,9 +32,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Regenerate gradle lockfiles<br />
     <sub>[#119290](https://github.com/flutter/flutter/pull/119290) opened on on January 26, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/119290) 2527 additions and 1392 deletions in 85 files</sub><br />
 
-* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add Non-Uniform Border to Border.<br />
-    <sub>[#121921](https://github.com/flutter/flutter/pull/121921) opened on on March 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/121921) 123 additions and 40 deletions in 3 files</sub><br />
-
 * **[Sohrab Vahidli](https://github.com/sohrabonline)** &mdash; Update nav_bar.dart<br />
     <sub>[#121943](https://github.com/flutter/flutter/pull/121943) opened on on March 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/121943) 26 additions and 4 deletions in 1 file</sub><br />
 
@@ -47,26 +44,11 @@
 * **[Ruben Aster](https://github.com/rubenaster)** &mdash; Fix transitioning a TabBarView manually doesn't honor duration and curve #16892<br />
     <sub>[#122279](https://github.com/flutter/flutter/pull/122279) opened on on March 9, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/122279) 45 additions and 16 deletions in 2 files</sub><br />
 
-* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Avoid clipping edges when possible.<br />
-    <sub>[#122317](https://github.com/flutter/flutter/pull/122317) opened on on March 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122317) 44 additions and 1 deletion in 2 files</sub><br />
-
-* **[Greg Price](https://github.com/gnprice)** &mdash; Give PolynomialFit more docs, and a debug toString<br />
-    <sub>[#122333](https://github.com/flutter/flutter/pull/122333) opened on on March 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122333) 23 additions and 1 deletion in 2 files</sub><br />
-
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; [ios] fix hold and drag spacebar does not move cursor when obscureTex…<br />
     <sub>[#122383](https://github.com/flutter/flutter/pull/122383) opened on on March 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122383) 41 additions and 0 deletions in 2 files</sub><br />
 
 * **[Nabeel Parkar](https://github.com/exaby73)** &mdash; Bug report 2 issue template<br />
     <sub>[#122385](https://github.com/flutter/flutter/pull/122385) opened on on March 10, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/122385) 148 additions and 108 deletions in 9 files</sub><br />
-
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Fix: `IndexedStack` says its children are offstage when dumping render tree, but they are indeed onstage and users get confused<br />
-    <sub>[#122393](https://github.com/flutter/flutter/pull/122393) opened on on March 10, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/122393) 5 additions and 1 deletion in 1 file</sub><br />
-
-* **[Micael Cid](https://github.com/micaelcid)** &mdash; [integration_test] upgrade androidx test to 1.4.0<br />
-    <sub>[#122437](https://github.com/flutter/flutter/pull/122437) opened on on March 10, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/122437) 144 additions and 127 deletions in 25 files</sub><br />
-
-* **[Greg Price](https://github.com/gnprice)** &mdash; Fix out-of-bounds and reversed TextBox queries in computing caret metrics<br />
-    <sub>[#122480](https://github.com/flutter/flutter/pull/122480) opened on on March 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122480) 165 additions and 4 deletions in 2 files</sub><br />
 
 * **[hyiso](https://github.com/hyiso)** &mdash; Set plugin aar version to plugin pubspec.yaml version<br />
     <sub>[#122481](https://github.com/flutter/flutter/pull/122481) opened on on March 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122481) 17 additions and 4 deletions in 1 file</sub><br />
@@ -82,10 +64,4 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Documentation improvements<br />
     <sub>[#122787](https://github.com/flutter/flutter/pull/122787) opened on on March 16, 2023 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/122787) 730 additions and 211 deletions in 30 files</sub><br />
-
-* **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Add alignmentOffset when menu is positioned on the opposite side<br />
-    <sub>[#122812](https://github.com/flutter/flutter/pull/122812) opened on on March 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122812) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[Ayush Bherwani](https://github.com/AyushBherwani1998)** &mdash; [Stepper] adds stepIconBuilder property<br />
-    <sub>[#122816](https://github.com/flutter/flutter/pull/122816) opened on on March 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122816) 55 additions and 1 deletion in 2 files</sub><br />
 
