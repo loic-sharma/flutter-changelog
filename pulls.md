@@ -71,6 +71,3 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Unskip #62819 Fixes #12357<br />
     <sub>[#122945](https://github.com/flutter/flutter/pull/122945) opened on on March 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122945) 52 additions and 91 deletions in 6 files</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable shuffling for flutter/test/material/text_field_test.dart<br />
-    <sub>[#122956](https://github.com/flutter/flutter/pull/122956) opened on on March 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122956) 6 additions and 1 deletion in 1 file</sub><br />
-
