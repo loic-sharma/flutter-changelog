@@ -36,7 +36,7 @@
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Exposes onSecondaryTap in InkWell.<br />
-    <sub>[#119058](https://github.com/flutter/flutter/pull/119058) merged on March 16, 2023 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/119058) over 1 month, 116 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#119058](https://github.com/flutter/flutter/pull/119058) merged on March 16, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/119058) over 1 month, 116 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update ScrollableDetails for 2D scrolling<br />
