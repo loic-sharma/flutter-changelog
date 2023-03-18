@@ -1900,7 +1900,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-20 commits.
+21 commits.
 
 * **[xegrox](https://github.com/xegrox)** &mdash; [pigeon] Standardize host api error handling
     <sub>[#3234](https://github.com/flutter/packages/pull/3234) merged on March 16, 2023 &mdash; **Extra large:** [60 comments](https://github.com/flutter/packages/pull/3234) over 3 weeks, 1580 additions and 1273 deletions in 31 files</sub>
@@ -1926,6 +1926,10 @@
 * **[Gabriel Gava](https://github.com/gabrielgarciagava)** &mdash; [video_player] Make video player avfoundation seek to async
     <sub>[#3299](https://github.com/flutter/packages/pull/3299) merged on March 15, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/3299) over 2 weeks, 365 additions and 340 deletions in 11 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Convert iOS to Pigeon
+    <sub>[#3481](https://github.com/flutter/packages/pull/3481) merged on March 18, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/3481) over 1 day, 755 additions and 243 deletions in 15 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Migrate Android to Pigeon
     <sub>[#3476](https://github.com/flutter/packages/pull/3476) merged on March 16, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/3476) over 2 hours, 2123 additions and 1417 deletions in 17 files</sub>
