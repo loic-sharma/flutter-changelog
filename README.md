@@ -10,6 +10,10 @@
     <sub>[#120936](https://github.com/flutter/flutter/pull/120936) merged on March 17, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/120936) over 4 weeks, 130 additions and 1126 deletions in 67 files</sub><br />
     <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
+* **[Eilidh Southren](https://github.com/esouthren)** &mdash; Add content-based colorScheme functionality<br />
+    <sub>[#122919](https://github.com/flutter/flutter/pull/122919) merged on March 19, 2023 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/122919) over 1 day, 757 additions and 0 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Assert that runApp is called in the same zone as binding.ensureInitialized<br />
     <sub>[#117113](https://github.com/flutter/flutter/pull/117113) merged on March 16, 2023 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/117113) over 3 months, 266 additions and 11 deletions in 14 files</sub><br />
     <sub>Reviewed by: [Chuck Batson](https://github.com/cbatson), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
@@ -23,10 +27,6 @@
     <sub>[#122445](https://github.com/flutter/flutter/pull/122445) merged on March 19, 2023 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/122445) over 1 week, 374 additions and 15 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub><br />
     <sub><details><summary>2 images...</summary>![571677645837_ pic](https://user-images.githubusercontent.com/108393416/222046829-7e4db280-8b23-43fa-bf8d-d77d5088fcfd.jpg)![581677646439_ pic](https://user-images.githubusercontent.com/108393416/222048179-ef8876e4-c3ef-4cd7-9cec-56236f7ac7a3.jpg)</details></sub>
-
-* **[Eilidh Southren](https://github.com/esouthren)** &mdash; Add content-based colorScheme functionality<br />
-    <sub>[#122919](https://github.com/flutter/flutter/pull/122919) merged on March 19, 2023 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/122919) over 1 day, 757 additions and 0 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Assert that runApp is called in the same zone as binding.ensureInitialized<br />
     <sub>[#122836](https://github.com/flutter/flutter/pull/122836) merged on March 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122836) over 1 hour, 266 additions and 11 deletions in 14 files</sub><br />
