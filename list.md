@@ -1933,7 +1933,7 @@
 
 ### March 11, 2023 to March 17, 2023
 
-21 commits.
+22 commits.
 
 * **[xegrox](https://github.com/xegrox)** &mdash; [pigeon] Standardize host api error handling
     <sub>[#3234](https://github.com/flutter/packages/pull/3234) merged on March 16, 2023 &mdash; **Extra large:** [60 comments](https://github.com/flutter/packages/pull/3234) over 3 weeks, 1580 additions and 1273 deletions in 31 files</sub>
@@ -1996,6 +1996,10 @@
 * **[maRci002](https://github.com/maRci002)** &mdash; [video_player_platform_interface] synchronize isPlaying state
     <sub>[#3361](https://github.com/flutter/packages/pull/3361) merged on March 15, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/3361) over 1 week, 21 additions and 4 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Updates the README with the migration of `WebView.initialCookies` and Hybrid Composition on
+    <sub>[#3470](https://github.com/flutter/packages/pull/3470) merged on March 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3470) over 3 days, 12 additions and 5 deletions in 3 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Jakub Walusiak](https://github.com/SynSzakala)** &mdash; [image_picker_android] Adjust file extension in FileUtils when it does not match its mime type
     <sub>[#3409](https://github.com/flutter/packages/pull/3409) merged on March 17, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/3409) over 1 week, 57 additions and 10 deletions in 4 files</sub>
