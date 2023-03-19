@@ -71,9 +71,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Unskip #62819 Fixes #12357<br />
     <sub>[#122945](https://github.com/flutter/flutter/pull/122945) opened on on March 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122945) 52 additions and 91 deletions in 6 files</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [flutter_tool] Adds a flag to disable Impeller<br />
-    <sub>[#122960](https://github.com/flutter/flutter/pull/122960) opened on on March 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122960) 53 additions and 16 deletions in 9 files</sub><br />
-
 * **[acumen](https://github.com/acumen1005)** &mdash; Revert "Revert "Fix bug with clicking `Copy` or `Select All` within contextMenu""<br />
     <sub>[#122973](https://github.com/flutter/flutter/pull/122973) opened on on March 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122973) 145 additions and 3 deletions in 2 files</sub><br />
 
