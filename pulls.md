@@ -44,9 +44,6 @@
 * **[Ruben Aster](https://github.com/rubenaster)** &mdash; Fix transitioning a TabBarView manually doesn't honor duration and curve #16892<br />
     <sub>[#122279](https://github.com/flutter/flutter/pull/122279) opened on on March 9, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/122279) 45 additions and 16 deletions in 2 files</sub><br />
 
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix Gradle warning in a freshly `flutter create`ed Android project<br />
-    <sub>[#122290](https://github.com/flutter/flutter/pull/122290) opened on on March 9, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/122290) 174 additions and 5 deletions in 7 files</sub><br />
-
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; [ios] fix hold and drag spacebar does not move cursor when obscureTex…<br />
     <sub>[#122383](https://github.com/flutter/flutter/pull/122383) opened on on March 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122383) 41 additions and 0 deletions in 2 files</sub><br />
 
