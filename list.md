@@ -992,7 +992,7 @@
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove work queues.
-    <sub>[#40429](https://github.com/flutter/engine/pull/40429) merged on March 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40429) over 4 hours, 0 additions and 258 deletions in 17 files</sub>
+    <sub>[#40429](https://github.com/flutter/engine/pull/40429) merged on March 18, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40429) over 4 hours, 0 additions and 258 deletions in 17 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Eliminate unnecessary dynamic declaration
