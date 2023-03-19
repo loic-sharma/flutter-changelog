@@ -72,5 +72,5 @@
     <sub>[#122945](https://github.com/flutter/flutter/pull/122945) opened on on March 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122945) 52 additions and 91 deletions in 6 files</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [flutter_tool] Adds a flag to disable Impeller<br />
-    <sub>[#122960](https://github.com/flutter/flutter/pull/122960) opened on on March 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122960) 50 additions and 16 deletions in 9 files</sub><br />
+    <sub>[#122960](https://github.com/flutter/flutter/pull/122960) opened on on March 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122960) 53 additions and 16 deletions in 9 files</sub><br />
 
