@@ -677,11 +677,15 @@
 
 ### March 18, 2023 to March 24, 2023
 
-8 commits.
+9 commits.
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Send PointerSignalKind.scale events from web<br />
     <sub>[#36348](https://github.com/flutter/engine/pull/36348) merged on March 20, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/36348) over 5 months, 189 additions and 45 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] serialize texture upload<br />
+    <sub>[#40464](https://github.com/flutter/engine/pull/40464) merged on March 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40464) over 58 minutes, 5 additions and 8 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Rename FontCollection to FlutterFontCollection<br />
     <sub>[#40395](https://github.com/flutter/engine/pull/40395) merged on March 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40395) over 3 days, 6 additions and 6 deletions in 6 files</sub><br />
