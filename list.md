@@ -1365,12 +1365,16 @@
 
 ### March 18, 2023 to March 24, 2023
 
-1 commits.
+2 commits.
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; [flutter_adaptive_scaffold] : 🐛 [FIX] : Issue: 121392.
     <sub>[#3297](https://github.com/flutter/packages/pull/3297) merged on March 20, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3297) over 3 weeks, 412 additions and 113 deletions in 9 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Greg Spencer](https://github.com/gspencergoog)</sub>
     <sub><details><summary>2 images...</summary>![image](https://user-images.githubusercontent.com/38110731/221140004-f1480e6a-72dc-4c4a-b223-35736d628205.png)![image](https://user-images.githubusercontent.com/38110731/221341697-c97148df-646e-4748-a28d-d07bfa2ea64d.png)</details></sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [Espresso] Create integration test and remove exemption
+    <sub>[#3367](https://github.com/flutter/packages/pull/3367) merged on March 20, 2023 &mdash; **Small:** [40 comments](https://github.com/flutter/packages/pull/3367) over 2 weeks, 82 additions and 98 deletions in 13 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub>
 
 ### March 11, 2023 to March 17, 2023
 
