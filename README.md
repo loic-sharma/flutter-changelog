@@ -1406,6 +1406,10 @@
     <sub>[#3450](https://github.com/flutter/packages/pull/3450) merged on March 16, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/3450) over 2 days, 186 additions and 8 deletions in 14 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
+* **[Jakub Walusiak](https://github.com/SynSzakala)** &mdash; [image_picker_android] Adjust file extension in FileUtils when it does not match its mime type<br />
+    <sub>[#3409](https://github.com/flutter/packages/pull/3409) merged on March 17, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/3409) over 1 week, 57 additions and 10 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub><br />
+
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Clean up iOS simulators<br />
     <sub>[#3458](https://github.com/flutter/packages/pull/3458) merged on March 16, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3458) over 2 days, 20 additions and 3 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
@@ -1421,10 +1425,6 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Updates the README with the migration of `WebView.initialCookies` and Hybrid Composition on<br />
     <sub>[#3470](https://github.com/flutter/packages/pull/3470) merged on March 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3470) over 3 days, 12 additions and 5 deletions in 3 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
-
-* **[Jakub Walusiak](https://github.com/SynSzakala)** &mdash; [image_picker_android] Adjust file extension in FileUtils when it does not match its mime type<br />
-    <sub>[#3409](https://github.com/flutter/packages/pull/3409) merged on March 17, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/3409) over 1 week, 57 additions and 10 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update goldens<br />
     <sub>[#3442](https://github.com/flutter/packages/pull/3442) merged on March 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3442) over 6 days, 3 additions and 2 deletions in 5 files</sub><br />
