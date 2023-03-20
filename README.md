@@ -673,11 +673,15 @@
 
 ### March 18, 2023 to March 24, 2023
 
-6 commits.
+8 commits.
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Send PointerSignalKind.scale events from web<br />
     <sub>[#36348](https://github.com/flutter/engine/pull/36348) merged on March 20, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/36348) over 5 months, 189 additions and 45 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Rename FontCollection to FlutterFontCollection<br />
+    <sub>[#40395](https://github.com/flutter/engine/pull/40395) merged on March 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40395) over 3 days, 6 additions and 6 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Disable MTLCommandBufferErrorOptionEncoderExecutionStatus in release mode<br />
     <sub>[#40453](https://github.com/flutter/engine/pull/40453) merged on March 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40453) over 3 hours, 2 additions and 0 deletions in 1 file</sub><br />
@@ -690,6 +694,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; add final class modifiers to fix dart roll<br />
     <sub>[#40434](https://github.com/flutter/engine/pull/40434) merged on March 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40434) over 1 day, 18 additions and 18 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Rename setters for lifecycle state<br />
+    <sub>[#40462](https://github.com/flutter/engine/pull/40462) merged on March 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40462) over 1 hour, 24 additions and 21 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Load instead of restore drawing for non-MSAA passes<br />
     <sub>[#40436](https://github.com/flutter/engine/pull/40436) merged on March 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40436) over 23 hours, 11 additions and 3 deletions in 2 files</sub><br />
