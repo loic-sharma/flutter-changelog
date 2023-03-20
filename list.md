@@ -142,7 +142,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable shuffling for flutter/test/material/text_field_test.dart
     <sub>[#122956](https://github.com/flutter/flutter/pull/122956) merged on March 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122956) over 1 hour, 6 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [gallery] roll gallery to 6a8d738c94d0710e229d726729c09fdb5ccaf7ed
     <sub>[#122747](https://github.com/flutter/flutter/pull/122747) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122747) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
@@ -526,7 +526,7 @@
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Update cmake version to the latest in infra/3pp/tools
     <sub>[#122147](https://github.com/flutter/flutter/pull/122147) merged on March 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122147) over 20 hours, 8 additions and 8 deletions in 1 file</sub>
-    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Ricardo Amador](https://github.com/ricardoamador)</sub>
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [godofredoc](https://github.com/godofredoc)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Ensure CanvasKit is served from the correct location
     <sub>[#121902](https://github.com/flutter/flutter/pull/121902) merged on March 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/121902) over 4 days, 38 additions and 7 deletions in 3 files</sub>
@@ -1365,7 +1365,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-2 commits.
+3 commits.
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; [flutter_adaptive_scaffold] : 🐛 [FIX] : Issue: 121392.
     <sub>[#3297](https://github.com/flutter/packages/pull/3297) merged on March 20, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3297) over 3 weeks, 412 additions and 113 deletions in 9 files</sub>
@@ -1375,6 +1375,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [Espresso] Create integration test and remove exemption
     <sub>[#3367](https://github.com/flutter/packages/pull/3367) merged on March 20, 2023 &mdash; **Small:** [40 comments](https://github.com/flutter/packages/pull/3367) over 2 weeks, 82 additions and 98 deletions in 13 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Add documentation to some methods in matching.dart
+    <sub>[#3462](https://github.com/flutter/packages/pull/3462) merged on March 20, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/3462) over 5 days, 48 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [chunhtai](https://github.com/chunhtai)</sub>
 
 ### March 11, 2023 to March 17, 2023
 
