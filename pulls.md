@@ -42,7 +42,7 @@
     <sub>[#122259](https://github.com/flutter/flutter/pull/122259) opened on on March 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122259) 0 additions and 0 deletions in 0 files</sub><br />
 
 * **[Ruben Aster](https://github.com/rubenaster)** &mdash; Fix transitioning a TabBarView manually doesn't honor duration and curve #16892<br />
-    <sub>[#122279](https://github.com/flutter/flutter/pull/122279) opened on on March 9, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/122279) 45 additions and 16 deletions in 2 files</sub><br />
+    <sub>[#122279](https://github.com/flutter/flutter/pull/122279) opened on on March 9, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/122279) 45 additions and 16 deletions in 2 files</sub><br />
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; [ios] fix hold and drag spacebar does not move cursor when obscureTex…<br />
     <sub>[#122383](https://github.com/flutter/flutter/pull/122383) opened on on March 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122383) 41 additions and 0 deletions in 2 files</sub><br />
