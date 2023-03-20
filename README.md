@@ -4,12 +4,16 @@
 
 ### March 18, 2023 to March 24, 2023
 
-5 commits.
+6 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TimePicker` input mode width for 12-hour format<br />
     <sub>[#122868](https://github.com/flutter/flutter/pull/122868) merged on March 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122868) over 3 days, 164 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
     <sub><details><summary>2 images...</summary><img src="https://user-images.githubusercontent.com/48603081/225846402-4765388f-3b9b-4f02-8c3b-44df29ef8549.png" height="450" /><img src="https://user-images.githubusercontent.com/48603081/225846447-45d063f6-fc5a-4404-adc6-77ba4a1d82ca.png" height="450" /></details></sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Tool] [Windows] Output app path on build completion<br />
+    <sub>[#122928](https://github.com/flutter/flutter/pull/122928) merged on March 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122928) over 2 days, 40 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused replacement from Visibility.maintain<br />
     <sub>[#123039](https://github.com/flutter/flutter/pull/123039) merged on March 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/123039) over 1 hour, 2 additions and 4 deletions in 1 file</sub><br />
