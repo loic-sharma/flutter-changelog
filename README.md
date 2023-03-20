@@ -669,11 +669,15 @@
 
 ### March 18, 2023 to March 24, 2023
 
-4 commits.
+5 commits.
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Send PointerSignalKind.scale events from web<br />
     <sub>[#36348](https://github.com/flutter/engine/pull/36348) merged on March 20, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/36348) over 5 months, 189 additions and 45 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 01350005aab7a7bfe2dc98066cb7acc95a811f7a<br />
+    <sub>[#40455](https://github.com/flutter/engine/pull/40455) merged on March 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40455) over 2 hours, 20 additions and 7 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; add final class modifiers to fix dart roll<br />
     <sub>[#40434](https://github.com/flutter/engine/pull/40434) merged on March 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40434) over 1 day, 18 additions and 18 deletions in 10 files</sub><br />
