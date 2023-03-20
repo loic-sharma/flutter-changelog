@@ -65,9 +65,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Documentation improvements<br />
     <sub>[#122787](https://github.com/flutter/flutter/pull/122787) opened on on March 16, 2023 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/122787) 730 additions and 211 deletions in 30 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Unskip #62819 Fixes #12357<br />
-    <sub>[#122945](https://github.com/flutter/flutter/pull/122945) opened on on March 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122945) 55 additions and 94 deletions in 6 files</sub><br />
-
 * **[acumen](https://github.com/acumen1005)** &mdash; Revert "Revert "Fix bug with clicking `Copy` or `Select All` within contextMenu""<br />
     <sub>[#122973](https://github.com/flutter/flutter/pull/122973) opened on on March 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122973) 145 additions and 3 deletions in 2 files</sub><br />
 
