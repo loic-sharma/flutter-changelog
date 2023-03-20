@@ -65,9 +65,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Documentation improvements<br />
     <sub>[#122787](https://github.com/flutter/flutter/pull/122787) opened on on March 16, 2023 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/122787) 730 additions and 211 deletions in 30 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update device selection to wait for wireless devices to load<br />
-    <sub>[#122932](https://github.com/flutter/flutter/pull/122932) opened on on March 17, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/122932) 3822 additions and 404 deletions in 36 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] remove fuchsia tooling<br />
     <sub>[#123043](https://github.com/flutter/flutter/pull/123043) opened on on March 20, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/123043) 25 additions and 4704 deletions in 63 files</sub><br />
 
