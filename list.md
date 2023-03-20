@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### March 18, 2023 to March 24, 2023
+
+1 commits.
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Skip web hot restart tests
+    <sub>[#123019](https://github.com/flutter/flutter/pull/123019) merged on March 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123019) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 ### March 11, 2023 to March 17, 2023
 
-74 commits.
+<details>
+<summary>74 commits...</summary>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Remove sound null safety flag
     <sub>[#120936](https://github.com/flutter/flutter/pull/120936) merged on March 17, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/120936) over 4 weeks, 130 additions and 1126 deletions in 67 files</sub>
@@ -289,7 +298,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Revert "Fix bug with clicking `Copy` or `Select All` within contextMenu"
-    <sub>[#122832](https://github.com/flutter/flutter/pull/122832) merged on March 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122832) over 2 minutes, 3 additions and 143 deletions in 2 files</sub>
+    <sub>[#122832](https://github.com/flutter/flutter/pull/122832) merged on March 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/122832) over 2 minutes, 3 additions and 143 deletions in 2 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Revert "Assert that runApp is called in the same zone as binding.ensureInitialized"
@@ -303,6 +312,8 @@
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Revert "Updates `flutter/test/material` to no longer use `TestWindow`"
     <sub>[#122636](https://github.com/flutter/flutter/pull/122636) merged on March 14, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/122636) over 1 minute, 234 additions and 183 deletions in 13 files</sub>
     <sub>Reviewed by: [pdblasi-google](https://github.com/pdblasi-google)</sub>
+
+</details>
 
 ### March 4, 2023 to March 10, 2023
 
@@ -641,7 +652,15 @@
 
 ### March 18, 2023 to March 24, 2023
 
-1 commits.
+3 commits.
+
+* **[Callum Moffat](https://github.com/moffatman)** &mdash; Send PointerSignalKind.scale events from web
+    <sub>[#36348](https://github.com/flutter/engine/pull/36348) merged on March 20, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/36348) over 5 months, 189 additions and 45 deletions in 5 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; add final class modifiers to fix dart roll
+    <sub>[#40434](https://github.com/flutter/engine/pull/40434) merged on March 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40434) over 1 day, 18 additions and 18 deletions in 10 files</sub>
+    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Load instead of restore drawing for non-MSAA passes
     <sub>[#40436](https://github.com/flutter/engine/pull/40436) merged on March 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40436) over 23 hours, 11 additions and 3 deletions in 2 files</sub>
