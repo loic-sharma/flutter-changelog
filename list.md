@@ -673,11 +673,15 @@
 
 ### March 18, 2023 to March 24, 2023
 
-5 commits.
+6 commits.
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Send PointerSignalKind.scale events from web
     <sub>[#36348](https://github.com/flutter/engine/pull/36348) merged on March 20, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/36348) over 5 months, 189 additions and 45 deletions in 5 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Disable MTLCommandBufferErrorOptionEncoderExecutionStatus in release mode
+    <sub>[#40453](https://github.com/flutter/engine/pull/40453) merged on March 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40453) over 3 hours, 2 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 01350005aab7a7bfe2dc98066cb7acc95a811f7a
     <sub>[#40455](https://github.com/flutter/engine/pull/40455) merged on March 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40455) over 2 hours, 20 additions and 7 deletions in 3 files</sub>
@@ -753,13 +757,13 @@
     <sub>[#40316](https://github.com/flutter/engine/pull/40316) merged on March 17, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/40316) over 2 days, 81 additions and 13 deletions in 3 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Dan Field](https://github.com/dnfield)** &mdash; Preserve order when regenerating GPU images
-    <sub>[#40268](https://github.com/flutter/engine/pull/40268) merged on March 14, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/40268) over 13 hours, 80 additions and 9 deletions in 4 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Better way to detect CanvasKit variant
     <sub>[#40154](https://github.com/flutter/engine/pull/40154) merged on March 15, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/40154) over 6 days, 40 additions and 63 deletions in 5 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Preserve order when regenerating GPU images
+    <sub>[#40268](https://github.com/flutter/engine/pull/40268) merged on March 14, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/40268) over 13 hours, 80 additions and 9 deletions in 4 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Add doc comment to Pipeline
     <sub>[#40388](https://github.com/flutter/engine/pull/40388) merged on March 17, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/40388) over 3 hours, 37 additions and 6 deletions in 2 files</sub>
