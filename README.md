@@ -1363,9 +1363,19 @@
 
 ## flutter/packages
 
+### March 18, 2023 to March 24, 2023
+
+1 commits.
+
+* **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; [flutter_adaptive_scaffold] : 🐛 [FIX] : Issue: 121392.<br />
+    <sub>[#3297](https://github.com/flutter/packages/pull/3297) merged on March 20, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3297) over 3 weeks, 412 additions and 113 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+    <sub><details><summary>2 images...</summary>![image](https://user-images.githubusercontent.com/38110731/221140004-f1480e6a-72dc-4c4a-b223-35736d628205.png)![image](https://user-images.githubusercontent.com/38110731/221341697-c97148df-646e-4748-a28d-d07bfa2ea64d.png)</details></sub>
+
 ### March 11, 2023 to March 17, 2023
 
-22 commits.
+<details>
+<summary>22 commits...</summary>
 
 * **[xegrox](https://github.com/xegrox)** &mdash; [pigeon] Standardize host api error handling<br />
     <sub>[#3234](https://github.com/flutter/packages/pull/3234) merged on March 16, 2023 &mdash; **Extra large:** [60 comments](https://github.com/flutter/packages/pull/3234) over 3 weeks, 1580 additions and 1273 deletions in 31 files</sub><br />
@@ -1456,6 +1466,8 @@
 * **[Braden Bagby](https://github.com/BradenBagby)** &mdash; [camera] Reland android flip/change camera while recording<br />
     <sub>[#3460](https://github.com/flutter/packages/pull/3460) merged on March 17, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3460) over 2 days, 780 additions and 47 deletions in 12 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+</details>
 
 ### March 4, 2023 to March 10, 2023
 
