@@ -1437,7 +1437,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-4 commits.
+5 commits.
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; [flutter_adaptive_scaffold] : 🐛 [FIX] : Issue: 121392.<br />
     <sub>[#3297](https://github.com/flutter/packages/pull/3297) merged on March 20, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3297) over 3 weeks, 412 additions and 113 deletions in 9 files</sub><br />
@@ -1451,6 +1451,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Add documentation to some methods in matching.dart<br />
     <sub>[#3462](https://github.com/flutter/packages/pull/3462) merged on March 20, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/3462) over 5 days, 48 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Update tests to ignore `deprecated_member_use` where `TestWindow` API is used<br />
+    <sub>[#3485](https://github.com/flutter/packages/pull/3485) merged on March 20, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3485) over 3 days, 60 additions and 0 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Adopt readme excerpts<br />
     <sub>[#3491](https://github.com/flutter/packages/pull/3491) merged on March 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3491) over 2 hours, 119 additions and 7 deletions in 8 files</sub><br />
