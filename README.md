@@ -103,7 +103,7 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use depfile with dart2wasm to determine when to rebuild.<br />
     <sub>[#122817](https://github.com/flutter/flutter/pull/122817) merged on March 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122817) over 5 hours, 11 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Yegor](https://github.com/yjbanov)</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Separate attached and wireless devices<br />
     <sub>[#122615](https://github.com/flutter/flutter/pull/122615) merged on March 15, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/122615) over 23 hours, 1597 additions and 621 deletions in 34 files</sub><br />
@@ -167,7 +167,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump pubspec to unblock engine roller<br />
     <sub>[#122699](https://github.com/flutter/flutter/pull/122699) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122699) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Siva](https://github.com/a-siva), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; DateRangePicker keyboardType<br />
     <sub>[#122353](https://github.com/flutter/flutter/pull/122353) merged on March 15, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122353) over 5 days, 69 additions and 2 deletions in 2 files</sub><br />
