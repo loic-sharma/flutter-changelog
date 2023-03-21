@@ -745,7 +745,7 @@
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Add Windows exit requests and responses<br />
-    <sub>[#40400](https://github.com/flutter/engine/pull/40400) merged on March 21, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/40400) over 3 days, 158 additions and 1 deletion in 3 files</sub><br />
+    <sub>[#40400](https://github.com/flutter/engine/pull/40400) merged on March 21, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/40400) over 3 days, 158 additions and 1 deletion in 3 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Rename setters for lifecycle state<br />
