@@ -698,7 +698,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-15 commits.
+16 commits.
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Send PointerSignalKind.scale events from web<br />
     <sub>[#36348](https://github.com/flutter/engine/pull/36348) merged on March 20, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/36348) over 5 months, 189 additions and 45 deletions in 5 files</sub><br />
@@ -739,6 +739,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; add final class modifiers to fix dart roll<br />
     <sub>[#40434](https://github.com/flutter/engine/pull/40434) merged on March 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40434) over 1 day, 18 additions and 18 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Turn on CanvasKit Chromium<br />
+    <sub>[#40459](https://github.com/flutter/engine/pull/40459) merged on March 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40459) over 21 hours, 63 additions and 8 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Add Windows exit requests and responses<br />
     <sub>[#40400](https://github.com/flutter/engine/pull/40400) merged on March 21, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/40400) over 3 days, 158 additions and 1 deletion in 3 files</sub><br />
