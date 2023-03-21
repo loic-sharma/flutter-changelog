@@ -45,7 +45,7 @@
     <sub>[#122279](https://github.com/flutter/flutter/pull/122279) opened on on March 9, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/122279) 45 additions and 16 deletions in 2 files</sub><br />
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; [ios] fix hold and drag spacebar does not move cursor when obscureTex…<br />
-    <sub>[#122383](https://github.com/flutter/flutter/pull/122383) opened on on March 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122383) 41 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#122383](https://github.com/flutter/flutter/pull/122383) opened on on March 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122383) 41 additions and 0 deletions in 2 files</sub><br />
 
 * **[Nabeel Parkar](https://github.com/exaby73)** &mdash; Bug report 2 issue template<br />
     <sub>[#122385](https://github.com/flutter/flutter/pull/122385) opened on on March 10, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/122385) 148 additions and 108 deletions in 9 files</sub><br />
@@ -68,13 +68,10 @@
 * **[yeleibo](https://github.com/yeleibo)** &mdash; Fix FormField implementation components TextFormField, DropdownButtonFormField, CupertinoTextFormFieldRow. The problem that their onChange() method cannot be executed when the parent Form component calls the reset() method<br />
     <sub>[#123108](https://github.com/flutter/flutter/pull/123108) opened on on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123108) 17 additions and 4 deletions in 3 files</sub><br />
 
-* **[Simon Binder](https://github.com/simolus3)** &mdash; Treat hidden `IndexedStack` children as offstage for test finder<br />
-    <sub>[#123129](https://github.com/flutter/flutter/pull/123129) opened on on March 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123129) 133 additions and 96 deletions in 6 files</sub><br />
-
 * **[xiao xiao](https://github.com/xiaoxiaowesley)** &mdash; Fix caret misplaced for emoji with modifier scalar.<br />
     <sub>[#123136](https://github.com/flutter/flutter/pull/123136) opened on on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123136) 25 additions and 3 deletions in 1 file</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Add macOS platform_channel test<br />
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Add platform_channel sample/test<br />
     <sub>[#123141](https://github.com/flutter/flutter/pull/123141) opened on on March 21, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/123141) 1471 additions and 0 deletions in 25 files</sub><br />
 
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; [Documentation] Add ActionChip in disabled state<br />

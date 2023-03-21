@@ -718,7 +718,11 @@
 
 ### March 18, 2023 to March 24, 2023
 
-26 commits.
+28 commits.
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Deprecate SingletonFlutterWindow and global window singleton<br />
+    <sub>[#39302](https://github.com/flutter/engine/pull/39302) merged on March 21, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/39302) over 1 month, 65 additions and 36 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks), [pdblasi-google](https://github.com/pdblasi-google)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Allocate images into host buffer, blit to device private texture.<br />
     <sub>[#40410](https://github.com/flutter/engine/pull/40410) merged on March 21, 2023 &mdash; **Large:** [19 comments](https://github.com/flutter/engine/pull/40410) over 3 days, 499 additions and 84 deletions in 18 files</sub><br />
@@ -743,6 +747,10 @@
 * **[Valentin Hăloiu](https://github.com/vially)** &mdash; [Linux] Fix duplicate calls to system font loading during startup<br />
     <sub>[#40469](https://github.com/flutter/engine/pull/40469) merged on March 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40469) over 22 hours, 1 addition and 11 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Avoid truncation to zero when resizing threadgroups<br />
+    <sub>[#40502](https://github.com/flutter/engine/pull/40502) merged on March 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40502) over 1 hour, 83 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll buildroot to b44849ee7d2b080fd5cc699e7fd37d79c13d012d<br />
     <sub>[#40489](https://github.com/flutter/engine/pull/40489) merged on March 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40489) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
