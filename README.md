@@ -1506,7 +1506,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-12 commits.
+14 commits.
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; [flutter_adaptive_scaffold] : 🐛 [FIX] : Issue: 121392.<br />
     <sub>[#3297](https://github.com/flutter/packages/pull/3297) merged on March 20, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3297) over 3 weeks, 412 additions and 113 deletions in 9 files</sub><br />
@@ -1525,6 +1525,10 @@
     <sub>[#3462](https://github.com/flutter/packages/pull/3462) merged on March 20, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/3462) over 5 days, 48 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Add README discussion of reload<br />
+    <sub>[#3508](https://github.com/flutter/packages/pull/3508) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3508) over 32 minutes, 29 additions and 1 deletion in 3 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
 * **[asaarnak](https://github.com/asaarnak)** &mdash; [google_maps_flutter_android, url_launcher_android] bump roboelectric version<br />
     <sub>[#3372](https://github.com/flutter/packages/pull/3372) merged on March 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3372) over 2 weeks, 18 additions and 6 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gmackall](https://github.com/gmackall)</sub><br />
@@ -1532,6 +1536,10 @@
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Update tests to ignore `deprecated_member_use` where `TestWindow` API is used<br />
     <sub>[#3485](https://github.com/flutter/packages/pull/3485) merged on March 20, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3485) over 3 days, 60 additions and 0 deletions in 6 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] removes experimental tag from swift and kotlin<br />
+    <sub>[#3501](https://github.com/flutter/packages/pull/3501) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3501) over 22 hours, 52 additions and 45 deletions in 25 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Fix the leak in the legacy implementation<br />
     <sub>[#3483](https://github.com/flutter/packages/pull/3483) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3483) over 4 days, 149 additions and 21 deletions in 4 files</sub><br />
