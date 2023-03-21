@@ -726,7 +726,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-28 commits.
+29 commits.
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Deprecate SingletonFlutterWindow and global window singleton<br />
     <sub>[#39302](https://github.com/flutter/engine/pull/39302) merged on March 21, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/39302) over 1 month, 65 additions and 36 deletions in 1 file</sub><br />
@@ -799,6 +799,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; add final class modifiers to fix dart roll<br />
     <sub>[#40434](https://github.com/flutter/engine/pull/40434) merged on March 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40434) over 1 day, 18 additions and 18 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Remove unopt build from linux_android debug.<br />
+    <sub>[#40498](https://github.com/flutter/engine/pull/40498) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40498) over 3 hours, 0 additions and 29 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Put image codecs back into CanvasKit Chromium<br />
     <sub>[#40501](https://github.com/flutter/engine/pull/40501) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40501) over 40 minutes, 7 additions and 3 deletions in 1 file</sub><br />
