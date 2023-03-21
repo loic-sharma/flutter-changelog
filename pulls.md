@@ -66,5 +66,5 @@
     <sub>[#122787](https://github.com/flutter/flutter/pull/122787) opened on on March 16, 2023 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/122787) 730 additions and 211 deletions in 30 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] remove fuchsia tooling<br />
-    <sub>[#123043](https://github.com/flutter/flutter/pull/123043) opened on on March 20, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/123043) 25 additions and 4704 deletions in 63 files</sub><br />
+    <sub>[#123043](https://github.com/flutter/flutter/pull/123043) opened on on March 20, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/123043) 25 additions and 4713 deletions in 64 files</sub><br />
 
