@@ -71,6 +71,9 @@
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Treat hidden `IndexedStack` children as offstage for test finder<br />
     <sub>[#123129](https://github.com/flutter/flutter/pull/123129) opened on on March 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123129) 133 additions and 96 deletions in 6 files</sub><br />
 
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Add adaptive Checkbox and CheckboxListTile<br />
+    <sub>[#123132](https://github.com/flutter/flutter/pull/123132) opened on on March 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123132) 203 additions and 4 deletions in 4 files</sub><br />
+
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] replace --no-analytics with --suppress-analytics<br />
     <sub>[#123133](https://github.com/flutter/flutter/pull/123133) opened on on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123133) 31 additions and 31 deletions in 5 files</sub><br />
 
