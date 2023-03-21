@@ -714,7 +714,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-22 commits.
+23 commits.
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Send PointerSignalKind.scale events from web<br />
     <sub>[#36348](https://github.com/flutter/engine/pull/36348) merged on March 20, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/36348) over 5 months, 189 additions and 45 deletions in 5 files</sub><br />
@@ -731,6 +731,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] change default sampler descriptor to use nearest mip level and remove kNone<br />
     <sub>[#40460](https://github.com/flutter/engine/pull/40460) merged on March 21, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40460) over 8 hours, 29 additions and 27 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll buildroot to b44849ee7d2b080fd5cc699e7fd37d79c13d012d<br />
+    <sub>[#40489](https://github.com/flutter/engine/pull/40489) merged on March 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40489) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] add CompressionType enum to texture descriptor<br />
     <sub>[#40499](https://github.com/flutter/engine/pull/40499) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40499) over 48 minutes, 28 additions and 0 deletions in 2 files</sub><br />
