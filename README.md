@@ -714,7 +714,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-23 commits.
+24 commits.
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Send PointerSignalKind.scale events from web<br />
     <sub>[#36348](https://github.com/flutter/engine/pull/36348) merged on March 20, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/36348) over 5 months, 189 additions and 45 deletions in 5 files</sub><br />
@@ -731,6 +731,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] change default sampler descriptor to use nearest mip level and remove kNone<br />
     <sub>[#40460](https://github.com/flutter/engine/pull/40460) merged on March 21, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40460) over 8 hours, 29 additions and 27 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Valentin Hăloiu](https://github.com/vially)** &mdash; [Linux] Fix duplicate calls to system font loading during startup<br />
+    <sub>[#40469](https://github.com/flutter/engine/pull/40469) merged on March 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40469) over 22 hours, 1 addition and 11 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll buildroot to b44849ee7d2b080fd5cc699e7fd37d79c13d012d<br />
     <sub>[#40489](https://github.com/flutter/engine/pull/40489) merged on March 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40489) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1526,7 +1530,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-18 commits.
+19 commits.
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; [flutter_adaptive_scaffold] : 🐛 [FIX] : Issue: 121392.<br />
     <sub>[#3297](https://github.com/flutter/packages/pull/3297) merged on March 20, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3297) over 3 weeks, 412 additions and 113 deletions in 9 files</sub><br />
@@ -1536,6 +1540,11 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] When `replace` is called, reuse the same key when possible <br />
     <sub>[#2846](https://github.com/flutter/packages/pull/2846) merged on March 21, 2023 &mdash; **Medium:** [66 comments](https://github.com/flutter/packages/pull/2846) over 3 months, 392 additions and 20 deletions in 7 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [image_picker]: Bump androidx.core:core from 1.8.0 to 1.9.0 in /packages/image_picker/image_picker_android/android<br />
+    <sub>[#3241](https://github.com/flutter/packages/pull/3241) merged on March 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3241) over 3 weeks, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.core:core&package-manager=gradle&previous-version=1.8.0&new-version=1.9.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump org.json:json from 20220924 to 20230227 in /packages/in_app_purchase/in_app_purchase_android/example/android/app<br />
     <sub>[#3384](https://github.com/flutter/packages/pull/3384) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3384) over 2 weeks, 1 addition and 1 deletion in 1 file</sub><br />
