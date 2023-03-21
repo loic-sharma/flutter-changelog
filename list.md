@@ -4,12 +4,16 @@
 
 ### March 18, 2023 to March 24, 2023
 
-8 commits.
+9 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TimePicker` input mode width for 12-hour format
     <sub>[#122868](https://github.com/flutter/flutter/pull/122868) merged on March 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122868) over 3 days, 164 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
     <sub><details><summary>2 images...</summary><img src="https://user-images.githubusercontent.com/48603081/225846402-4765388f-3b9b-4f02-8c3b-44df29ef8549.png" height="450" /><img src="https://user-images.githubusercontent.com/48603081/225846447-45d063f6-fc5a-4404-adc6-77ba4a1d82ca.png" height="450" /></details></sub>
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; manual pub roll
+    <sub>[#123071](https://github.com/flutter/flutter/pull/123071) merged on March 21, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/123071) over 1 hour, 260 additions and 260 deletions in 60 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Remove sound null safety flag #2
     <sub>[#123031](https://github.com/flutter/flutter/pull/123031) merged on March 20, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/123031) over 5 hours, 130 additions and 1126 deletions in 67 files</sub>
