@@ -1469,7 +1469,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-7 commits.
+8 commits.
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; [flutter_adaptive_scaffold] : 🐛 [FIX] : Issue: 121392.<br />
     <sub>[#3297](https://github.com/flutter/packages/pull/3297) merged on March 20, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3297) over 3 weeks, 412 additions and 113 deletions in 9 files</sub><br />
@@ -1487,6 +1487,10 @@
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Update tests to ignore `deprecated_member_use` where `TestWindow` API is used<br />
     <sub>[#3485](https://github.com/flutter/packages/pull/3485) merged on March 20, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3485) over 3 days, 60 additions and 0 deletions in 6 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Adopt readme excerpts<br />
+    <sub>[#3494](https://github.com/flutter/packages/pull/3494) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3494) over 20 hours, 89 additions and 7 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] Changes test class to extend platform rather than implement.<br />
     <sub>[#3502](https://github.com/flutter/packages/pull/3502) merged on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3502) over 5 hours, 1 addition and 4 deletions in 1 file</sub><br />
