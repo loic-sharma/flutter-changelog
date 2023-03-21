@@ -740,7 +740,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[Impeller] change default sampler descriptor to use nearest mip level and remove kNone"
-    <sub>[#40481](https://github.com/flutter/engine/pull/40481) merged on March 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40481) over 24 seconds, 27 additions and 29 deletions in 9 files</sub>
+    <sub>[#40481](https://github.com/flutter/engine/pull/40481) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40481) over 24 seconds, 27 additions and 29 deletions in 9 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Reland "[ios_platform_view] MaskView pool to reuse maskViews" (#39608)"
