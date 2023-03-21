@@ -4,12 +4,16 @@
 
 ### March 18, 2023 to March 24, 2023
 
-15 commits.
+16 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Create cupertino checkbox
     <sub>[#122244](https://github.com/flutter/flutter/pull/122244) merged on March 21, 2023 &mdash; **Large:** [44 comments](https://github.com/flutter/flutter/pull/122244) over 1 week, 1058 additions and 0 deletions in 4 files</sub>
     <sub>Reviewed by: [Bernardo Ferrari](https://github.com/bernaferrari), [Greg Spencer](https://github.com/gspencergoog)</sub>
     <sub><details><summary>4 images...</summary><img width="23" alt="Screenshot 2023-03-08 at 3 03 44 PM" src="https://user-images.githubusercontent.com/58190796/223872242-d08779e6-2983-4548-96a1-0bdd10fcf948.png"><img width="42" alt="Screenshot 2023-03-08 at 3 02 39 PM" src="https://user-images.githubusercontent.com/58190796/223872243-ca996ad4-31af-4fcd-9ed0-e47fac5ec1e6.png"><img width="42" alt="Screenshot 2023-03-08 at 3 02 34 PM" src="https://user-images.githubusercontent.com/58190796/223872245-adac00b3-ead8-4a5b-9a22-0012c5a03a46.png"><img width="42" alt="Screenshot 2023-03-08 at 3 02 29 PM" src="https://user-images.githubusercontent.com/58190796/223872246-00b4e927-7237-4f04-8caa-7bb6b2d0e4d7.png"></details></sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump lower Dart SDK constraints to 3.0 & add class modifiers
+    <sub>[#122546](https://github.com/flutter/flutter/pull/122546) merged on March 21, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/122546) over 1 week, 145 additions and 130 deletions in 103 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks), [Christopher Fujino](https://github.com/christopherfujino), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Deprecates `TestWindow`
     <sub>[#122824](https://github.com/flutter/flutter/pull/122824) merged on March 21, 2023 &mdash; **Medium:** [30 comments](https://github.com/flutter/flutter/pull/122824) over 4 days, 458 additions and 34 deletions in 2 files</sub>
