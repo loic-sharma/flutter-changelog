@@ -693,7 +693,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-13 commits.
+14 commits.
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Send PointerSignalKind.scale events from web<br />
     <sub>[#36348](https://github.com/flutter/engine/pull/36348) merged on March 20, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/36348) over 5 months, 189 additions and 45 deletions in 5 files</sub><br />
@@ -710,6 +710,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] change default sampler descriptor to use nearest mip level and remove kNone<br />
     <sub>[#40460](https://github.com/flutter/engine/pull/40460) merged on March 21, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40460) over 8 hours, 29 additions and 27 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Avoid registering service extensions in flutter-release mode<br />
+    <sub>[#40484](https://github.com/flutter/engine/pull/40484) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40484) over 54 minutes, 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] serialize texture upload<br />
     <sub>[#40464](https://github.com/flutter/engine/pull/40464) merged on March 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40464) over 58 minutes, 5 additions and 8 deletions in 1 file</sub><br />
