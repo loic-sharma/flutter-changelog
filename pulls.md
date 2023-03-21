@@ -74,3 +74,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] replace --no-analytics with --suppress-analytics<br />
     <sub>[#123133](https://github.com/flutter/flutter/pull/123133) opened on on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123133) 31 additions and 31 deletions in 5 files</sub><br />
 
+* **[xiao xiao](https://github.com/xiaoxiaowesley)** &mdash; Fix caret misplaced for emoji with modifier scalar.<br />
+    <sub>[#123136](https://github.com/flutter/flutter/pull/123136) opened on on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123136) 30 additions and 5 deletions in 1 file</sub><br />
+
