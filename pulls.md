@@ -72,5 +72,8 @@
     <sub>[#123136](https://github.com/flutter/flutter/pull/123136) opened on on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123136) 25 additions and 3 deletions in 1 file</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Add macOS platform_channel test<br />
-    <sub>[#123141](https://github.com/flutter/flutter/pull/123141) opened on on March 21, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/123141) 1461 additions and 0 deletions in 25 files</sub><br />
+    <sub>[#123141](https://github.com/flutter/flutter/pull/123141) opened on on March 21, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/123141) 1460 additions and 0 deletions in 25 files</sub><br />
+
+* **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; [Documentation] Add ActionChip in disabled state<br />
+    <sub>[#123143](https://github.com/flutter/flutter/pull/123143) opened on on March 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123143) 4 additions and 3 deletions in 1 file</sub><br />
 

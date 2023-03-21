@@ -615,7 +615,7 @@
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_ios hot_mode_dev_cycle_ios__benchmark to be flaky<br />
     <sub>[#120809](https://github.com/flutter/flutter/pull/120809) merged on March 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/120809) over 2 weeks, 1 addition and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert "Introduce the PipelineOwner tree"<br />
     <sub>[#122425](https://github.com/flutter/flutter/pull/122425) merged on March 10, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/122425) over 4 minutes, 34 additions and 1341 deletions in 6 files</sub><br />
