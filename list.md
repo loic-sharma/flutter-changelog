@@ -4,7 +4,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-20 commits.
+21 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Create cupertino checkbox
     <sub>[#122244](https://github.com/flutter/flutter/pull/122244) merged on March 21, 2023 &mdash; **Large:** [44 comments](https://github.com/flutter/flutter/pull/122244) over 1 week, 1058 additions and 0 deletions in 4 files</sub>
@@ -47,6 +47,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Set plugin template minimum iOS version to 11.0
     <sub>[#122625](https://github.com/flutter/flutter/pull/122625) merged on March 21, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/122625) over 6 days, 58 additions and 32 deletions in 9 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[yusuf-goog](https://github.com/yusuf-goog)** &mdash; Adding timestamps to task runner output lines.
+    <sub>[#123075](https://github.com/flutter/flutter/pull/123075) merged on March 21, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123075) over 23 hours, 4 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [godofredoc](https://github.com/godofredoc)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable prefer_mixin
     <sub>[#123159](https://github.com/flutter/flutter/pull/123159) merged on March 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/123159) over 2 hours, 13 additions and 7 deletions in 3 files</sub>
