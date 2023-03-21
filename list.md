@@ -685,11 +685,15 @@
 
 ### March 18, 2023 to March 24, 2023
 
-10 commits.
+11 commits.
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Send PointerSignalKind.scale events from web
     <sub>[#36348](https://github.com/flutter/engine/pull/36348) merged on March 20, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/36348) over 5 months, 189 additions and 45 deletions in 5 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll HarfBuzz to version 7.1.0
+    <sub>[#40131](https://github.com/flutter/engine/pull/40131) merged on March 21, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/40131) over 1 week, 564 additions and 99 deletions in 4 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; restructure DL sources into sub-directories and new file naming conventions
     <sub>[#40157](https://github.com/flutter/engine/pull/40157) merged on March 21, 2023 &mdash; **Extra large:** [7 comments](https://github.com/flutter/engine/pull/40157) over 1 week, 822 additions and 801 deletions in 153 files</sub>
