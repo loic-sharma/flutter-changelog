@@ -710,7 +710,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-19 commits.
+21 commits.
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Send PointerSignalKind.scale events from web
     <sub>[#36348](https://github.com/flutter/engine/pull/36348) merged on March 20, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/36348) over 5 months, 189 additions and 45 deletions in 5 files</sub>
@@ -727,6 +727,14 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] change default sampler descriptor to use nearest mip level and remove kNone
     <sub>[#40460](https://github.com/flutter/engine/pull/40460) merged on March 21, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40460) over 8 hours, 29 additions and 27 deletions in 9 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] add CompressionType enum to texture descriptor
+    <sub>[#40499](https://github.com/flutter/engine/pull/40499) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40499) over 48 minutes, 28 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] disable opacity peephole due to stencil issues
+    <sub>[#40497](https://github.com/flutter/engine/pull/40497) merged on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40497) over 55 minutes, 4 additions and 7 deletions in 1 file</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Remove MipFilter::kNone redux
     <sub>[#40491](https://github.com/flutter/engine/pull/40491) merged on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40491) over 1 hour, 30 additions and 28 deletions in 10 files</sub>
@@ -1506,7 +1514,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-14 commits.
+18 commits.
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; [flutter_adaptive_scaffold] : 🐛 [FIX] : Issue: 121392.
     <sub>[#3297](https://github.com/flutter/packages/pull/3297) merged on March 20, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3297) over 3 weeks, 412 additions and 113 deletions in 9 files</sub>
@@ -1516,6 +1524,21 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] When `replace` is called, reuse the same key when possible 
     <sub>[#2846](https://github.com/flutter/packages/pull/2846) merged on March 21, 2023 &mdash; **Medium:** [66 comments](https://github.com/flutter/packages/pull/2846) over 3 months, 392 additions and 20 deletions in 7 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump org.json:json from 20220924 to 20230227 in /packages/in_app_purchase/in_app_purchase_android/example/android/app
+    <sub>[#3384](https://github.com/flutter/packages/pull/3384) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3384) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.json:json&package-manager=gradle&previous-version=20220924&new-version=20230227)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump org.json:json from 20220924 to 20230227 in /packages/in_app_purchase/in_app_purchase/example/android/app
+    <sub>[#3388](https://github.com/flutter/packages/pull/3388) merged on March 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3388) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.json:json&package-manager=gradle&previous-version=20220924&new-version=20230227)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump org.json:json from 20220924 to 20230227 in /packages/in_app_purchase/in_app_purchase_android/android
+    <sub>[#3380](https://github.com/flutter/packages/pull/3380) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3380) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.json:json&package-manager=gradle&previous-version=20220924&new-version=20230227)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [Espresso] Create integration test and remove exemption
     <sub>[#3367](https://github.com/flutter/packages/pull/3367) merged on March 20, 2023 &mdash; **Small:** [40 comments](https://github.com/flutter/packages/pull/3367) over 2 weeks, 82 additions and 98 deletions in 13 files</sub>
@@ -1564,6 +1587,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Adopt readme excerpts
     <sub>[#3491](https://github.com/flutter/packages/pull/3491) merged on March 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3491) over 2 hours, 119 additions and 7 deletions in 8 files</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [camera]: Bump camerax_version from 1.3.0-alpha03 to 1.3.0-alpha04 in /packages/camera/camera_android_camerax/android
+    <sub>[#3387](https://github.com/flutter/packages/pull/3387) merged on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3387) over 2 weeks, 2 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### March 11, 2023 to March 17, 2023
 
