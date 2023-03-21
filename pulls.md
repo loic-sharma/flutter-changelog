@@ -75,11 +75,14 @@
     <sub>[#123136](https://github.com/flutter/flutter/pull/123136) opened on on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123136) 25 additions and 3 deletions in 1 file</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Add macOS platform_channel test<br />
-    <sub>[#123141](https://github.com/flutter/flutter/pull/123141) opened on on March 21, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/123141) 1460 additions and 0 deletions in 25 files</sub><br />
+    <sub>[#123141](https://github.com/flutter/flutter/pull/123141) opened on on March 21, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/123141) 1471 additions and 0 deletions in 25 files</sub><br />
 
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; [Documentation] Add ActionChip in disabled state<br />
     <sub>[#123143](https://github.com/flutter/flutter/pull/123143) opened on on March 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123143) 4 additions and 3 deletions in 1 file</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Use DeviceDiscoveryFilter correctly in ProxiedDevices.<br />
     <sub>[#123144](https://github.com/flutter/flutter/pull/123144) opened on on March 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123144) 96 additions and 21 deletions in 2 files</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update gradle_utils.dart and flutter.gradle to have a min api version of 19<br />
+    <sub>[#123151](https://github.com/flutter/flutter/pull/123151) opened on on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123151) 2 additions and 2 deletions in 2 files</sub><br />
 
