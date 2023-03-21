@@ -4,7 +4,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-10 commits.
+11 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TimePicker` input mode width for 12-hour format
     <sub>[#122868](https://github.com/flutter/flutter/pull/122868) merged on March 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122868) over 3 days, 164 additions and 3 deletions in 2 files</sub>
@@ -22,6 +22,10 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Remove sound null safety flag #2
     <sub>[#123031](https://github.com/flutter/flutter/pull/123031) merged on March 20, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/123031) over 5 hours, 130 additions and 1126 deletions in 67 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [flutter_tool] Support disabling Impeller
+    <sub>[#122960](https://github.com/flutter/flutter/pull/122960) merged on March 21, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/122960) over 2 days, 104 additions and 47 deletions in 20 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix error message for unbounded viewports
     <sub>[#123035](https://github.com/flutter/flutter/pull/123035) merged on March 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123035) over 3 hours, 198 additions and 71 deletions in 4 files</sub>
@@ -689,7 +693,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-12 commits.
+13 commits.
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Send PointerSignalKind.scale events from web
     <sub>[#36348](https://github.com/flutter/engine/pull/36348) merged on March 20, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/36348) over 5 months, 189 additions and 45 deletions in 5 files</sub>
@@ -734,6 +738,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Load instead of restore drawing for non-MSAA passes
     <sub>[#40436](https://github.com/flutter/engine/pull/40436) merged on March 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40436) over 23 hours, 11 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[Impeller] change default sampler descriptor to use nearest mip level and remove kNone"
+    <sub>[#40481](https://github.com/flutter/engine/pull/40481) merged on March 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40481) over 24 seconds, 27 additions and 29 deletions in 9 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Reland "[ios_platform_view] MaskView pool to reuse maskViews" (#39608)"
     <sub>[#40456](https://github.com/flutter/engine/pull/40456) merged on March 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40456) over 1 hour, 238 additions and 15 deletions in 4 files</sub>
