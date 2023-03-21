@@ -4,7 +4,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-21 commits.
+22 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Create cupertino checkbox<br />
     <sub>[#122244](https://github.com/flutter/flutter/pull/122244) merged on March 21, 2023 &mdash; **Large:** [44 comments](https://github.com/flutter/flutter/pull/122244) over 1 week, 1058 additions and 0 deletions in 4 files</sub><br />
@@ -23,6 +23,10 @@
     <sub>[#122868](https://github.com/flutter/flutter/pull/122868) merged on March 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122868) over 3 days, 164 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
     <sub><details><summary>2 images...</summary><img src="https://user-images.githubusercontent.com/48603081/225846402-4765388f-3b9b-4f02-8c3b-44df29ef8549.png" height="450" /><img src="https://user-images.githubusercontent.com/48603081/225846447-45d063f6-fc5a-4404-adc6-77ba4a1d82ca.png" height="450" /></details></sub>
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix Gradle warning in a freshly `flutter create`ed Android project<br />
+    <sub>[#122290](https://github.com/flutter/flutter/pull/122290) merged on March 21, 2023 &mdash; **Small:** [45 comments](https://github.com/flutter/flutter/pull/122290) over 1 week, 192 additions and 43 deletions in 44 files</sub><br />
+    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Jenn Magder](https://github.com/jmagman), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; manual pub roll<br />
     <sub>[#123071](https://github.com/flutter/flutter/pull/123071) merged on March 21, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/123071) over 1 hour, 260 additions and 260 deletions in 60 files</sub><br />
