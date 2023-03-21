@@ -4,7 +4,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-9 commits.
+10 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TimePicker` input mode width for 12-hour format<br />
     <sub>[#122868](https://github.com/flutter/flutter/pull/122868) merged on March 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122868) over 3 days, 164 additions and 3 deletions in 2 files</sub><br />
@@ -14,6 +14,10 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; manual pub roll<br />
     <sub>[#123071](https://github.com/flutter/flutter/pull/123071) merged on March 21, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/123071) over 1 hour, 260 additions and 260 deletions in 60 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Make EditableText respect MediaQuery.boldTextOf<br />
+    <sub>[#122754](https://github.com/flutter/flutter/pull/122754) merged on March 21, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/122754) over 5 days, 83 additions and 19 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [LongCatIsLooong](https://github.com/LongCatIsLooong), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Remove sound null safety flag #2<br />
     <sub>[#123031](https://github.com/flutter/flutter/pull/123031) merged on March 20, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/123031) over 5 hours, 130 additions and 1126 deletions in 67 files</sub><br />
@@ -685,7 +689,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-11 commits.
+12 commits.
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Send PointerSignalKind.scale events from web<br />
     <sub>[#36348](https://github.com/flutter/engine/pull/36348) merged on March 20, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/36348) over 5 months, 189 additions and 45 deletions in 5 files</sub><br />
@@ -698,6 +702,10 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; restructure DL sources into sub-directories and new file naming conventions<br />
     <sub>[#40157](https://github.com/flutter/engine/pull/40157) merged on March 21, 2023 &mdash; **Extra large:** [7 comments](https://github.com/flutter/engine/pull/40157) over 1 week, 822 additions and 801 deletions in 153 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] change default sampler descriptor to use nearest mip level and remove kNone<br />
+    <sub>[#40460](https://github.com/flutter/engine/pull/40460) merged on March 21, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40460) over 8 hours, 29 additions and 27 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] serialize texture upload<br />
     <sub>[#40464](https://github.com/flutter/engine/pull/40464) merged on March 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40464) over 58 minutes, 5 additions and 8 deletions in 1 file</sub><br />
