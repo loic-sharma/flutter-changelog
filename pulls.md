@@ -62,9 +62,6 @@
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Add support for secondary tab bar<br />
     <sub>[#122756](https://github.com/flutter/flutter/pull/122756) opened on on March 15, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/122756) 356 additions and 20 deletions in 3 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Documentation improvements<br />
-    <sub>[#122787](https://github.com/flutter/flutter/pull/122787) opened on on March 16, 2023 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/122787) 730 additions and 211 deletions in 30 files</sub><br />
-
 * **[yeleibo](https://github.com/yeleibo)** &mdash; Fix FormField implementation components TextFormField, DropdownButtonFormField, CupertinoTextFormFieldRow. The problem that their onChange() method cannot be executed when the parent Form component calls the reset() method<br />
     <sub>[#123108](https://github.com/flutter/flutter/pull/123108) opened on on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123108) 17 additions and 4 deletions in 3 files</sub><br />
 
