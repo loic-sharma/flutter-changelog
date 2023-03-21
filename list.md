@@ -714,7 +714,11 @@
 
 ### March 18, 2023 to March 24, 2023
 
-24 commits.
+25 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Allocate images into host buffer, blit to device private texture.
+    <sub>[#40410](https://github.com/flutter/engine/pull/40410) merged on March 21, 2023 &mdash; **Large:** [19 comments](https://github.com/flutter/engine/pull/40410) over 3 days, 499 additions and 84 deletions in 18 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Send PointerSignalKind.scale events from web
     <sub>[#36348](https://github.com/flutter/engine/pull/36348) merged on March 20, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/36348) over 5 months, 189 additions and 45 deletions in 5 files</sub>
@@ -1530,7 +1534,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-19 commits.
+20 commits.
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; [flutter_adaptive_scaffold] : 🐛 [FIX] : Issue: 121392.
     <sub>[#3297](https://github.com/flutter/packages/pull/3297) merged on March 20, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3297) over 3 weeks, 412 additions and 113 deletions in 9 files</sub>
@@ -1580,6 +1584,10 @@
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Update tests to ignore `deprecated_member_use` where `TestWindow` API is used
     <sub>[#3485](https://github.com/flutter/packages/pull/3485) merged on March 20, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3485) over 3 days, 60 additions and 0 deletions in 6 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; remove temporary flag after migration
+    <sub>[#3498](https://github.com/flutter/packages/pull/3498) merged on March 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3498) over 1 day, 2 additions and 3 deletions in 3 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] removes experimental tag from swift and kotlin
     <sub>[#3501](https://github.com/flutter/packages/pull/3501) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3501) over 22 hours, 52 additions and 45 deletions in 25 files</sub>
