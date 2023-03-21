@@ -4,7 +4,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-19 commits.
+20 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Create cupertino checkbox<br />
     <sub>[#122244](https://github.com/flutter/flutter/pull/122244) merged on March 21, 2023 &mdash; **Large:** [44 comments](https://github.com/flutter/flutter/pull/122244) over 1 week, 1058 additions and 0 deletions in 4 files</sub><br />
@@ -47,6 +47,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Set plugin template minimum iOS version to 11.0<br />
     <sub>[#122625](https://github.com/flutter/flutter/pull/122625) merged on March 21, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/122625) over 6 days, 58 additions and 32 deletions in 9 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable prefer_mixin<br />
+    <sub>[#123159](https://github.com/flutter/flutter/pull/123159) merged on March 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/123159) over 2 hours, 13 additions and 7 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; delete sksl benchmarks<br />
     <sub>[#123163](https://github.com/flutter/flutter/pull/123163) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123163) over 49 minutes, 0 additions and 178 deletions in 3 files</sub><br />
@@ -829,8 +833,8 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "[web] Turn on CanvasKit Chromium"<br />
-    <sub>[#40495](https://github.com/flutter/engine/pull/40495) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40495) over 7 minutes, 8 additions and 63 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>[#40495](https://github.com/flutter/engine/pull/40495) merged on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40495) over 7 minutes, 8 additions and 63 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Roll Dart SDK from 440d8b1fb962 to 0ec0ac0d7bbf (3 revisions)"<br />
     <sub>[#40496](https://github.com/flutter/engine/pull/40496) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40496) over 5 minutes, 11 additions and 11 deletions in 2 files</sub><br />
@@ -1203,8 +1207,8 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Default the CanvasKit base URL to local artifacts."<br />
-    <sub>[#40415](https://github.com/flutter/engine/pull/40415) merged on March 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40415) over 1 minute, 207 additions and 1 deletion in 4 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>[#40415](https://github.com/flutter/engine/pull/40415) merged on March 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40415) over 1 minute, 207 additions and 1 deletion in 4 files</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[Impeller] mark decoded images as optimized for GPU access"<br />
     <sub>[#40387](https://github.com/flutter/engine/pull/40387) merged on March 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40387) over 2 hours, 0 additions and 86 deletions in 12 files</sub><br />
