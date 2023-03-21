@@ -1469,7 +1469,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-8 commits.
+9 commits.
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; [flutter_adaptive_scaffold] : 🐛 [FIX] : Issue: 121392.<br />
     <sub>[#3297](https://github.com/flutter/packages/pull/3297) merged on March 20, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3297) over 3 weeks, 412 additions and 113 deletions in 9 files</sub><br />
@@ -1487,6 +1487,10 @@
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Update tests to ignore `deprecated_member_use` where `TestWindow` API is used<br />
     <sub>[#3485](https://github.com/flutter/packages/pull/3485) merged on March 20, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3485) over 3 days, 60 additions and 0 deletions in 6 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [Many] i123017 integration annotation documentation<br />
+    <sub>[#3495](https://github.com/flutter/packages/pull/3495) merged on March 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3495) over 18 hours, 177 additions and 2 deletions in 26 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Adopt readme excerpts<br />
     <sub>[#3494](https://github.com/flutter/packages/pull/3494) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3494) over 20 hours, 89 additions and 7 deletions in 8 files</sub><br />
