@@ -1445,7 +1445,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-6 commits.
+7 commits.
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; [flutter_adaptive_scaffold] : 🐛 [FIX] : Issue: 121392.<br />
     <sub>[#3297](https://github.com/flutter/packages/pull/3297) merged on March 20, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3297) over 3 weeks, 412 additions and 113 deletions in 9 files</sub><br />
@@ -1463,6 +1463,10 @@
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Update tests to ignore `deprecated_member_use` where `TestWindow` API is used<br />
     <sub>[#3485](https://github.com/flutter/packages/pull/3485) merged on March 20, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3485) over 3 days, 60 additions and 0 deletions in 6 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] Changes test class to extend platform rather than implement.<br />
+    <sub>[#3502](https://github.com/flutter/packages/pull/3502) merged on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3502) over 5 hours, 1 addition and 4 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[GP4cK](https://github.com/GP4cK)** &mdash; [go_router] Add navigator key to typed routes<br />
     <sub>[#3471](https://github.com/flutter/packages/pull/3471) merged on March 20, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3471) over 4 days, 17 additions and 3 deletions in 4 files</sub><br />
