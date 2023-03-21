@@ -1502,12 +1502,16 @@
 
 ### March 18, 2023 to March 24, 2023
 
-9 commits.
+12 commits.
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; [flutter_adaptive_scaffold] : 🐛 [FIX] : Issue: 121392.
     <sub>[#3297](https://github.com/flutter/packages/pull/3297) merged on March 20, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3297) over 3 weeks, 412 additions and 113 deletions in 9 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Greg Spencer](https://github.com/gspencergoog)</sub>
     <sub><details><summary>2 images...</summary>![image](https://user-images.githubusercontent.com/38110731/221140004-f1480e6a-72dc-4c4a-b223-35736d628205.png)![image](https://user-images.githubusercontent.com/38110731/221341697-c97148df-646e-4748-a28d-d07bfa2ea64d.png)</details></sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] When `replace` is called, reuse the same key when possible 
+    <sub>[#2846](https://github.com/flutter/packages/pull/2846) merged on March 21, 2023 &mdash; **Medium:** [66 comments](https://github.com/flutter/packages/pull/2846) over 3 months, 392 additions and 20 deletions in 7 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [Espresso] Create integration test and remove exemption
     <sub>[#3367](https://github.com/flutter/packages/pull/3367) merged on March 20, 2023 &mdash; **Small:** [40 comments](https://github.com/flutter/packages/pull/3367) over 2 weeks, 82 additions and 98 deletions in 13 files</sub>
@@ -1517,9 +1521,17 @@
     <sub>[#3462](https://github.com/flutter/packages/pull/3462) merged on March 20, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/3462) over 5 days, 48 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[asaarnak](https://github.com/asaarnak)** &mdash; [google_maps_flutter_android, url_launcher_android] bump roboelectric version
+    <sub>[#3372](https://github.com/flutter/packages/pull/3372) merged on March 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3372) over 2 weeks, 18 additions and 6 deletions in 9 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gmackall](https://github.com/gmackall)</sub>
+
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Update tests to ignore `deprecated_member_use` where `TestWindow` API is used
     <sub>[#3485](https://github.com/flutter/packages/pull/3485) merged on March 20, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3485) over 3 days, 60 additions and 0 deletions in 6 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Fix the leak in the legacy implementation
+    <sub>[#3483](https://github.com/flutter/packages/pull/3483) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3483) over 4 days, 149 additions and 21 deletions in 4 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [Many] i123017 integration annotation documentation
     <sub>[#3495](https://github.com/flutter/packages/pull/3495) merged on March 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3495) over 18 hours, 177 additions and 2 deletions in 26 files</sub>

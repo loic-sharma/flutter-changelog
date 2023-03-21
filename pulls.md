@@ -77,3 +77,6 @@
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; [Documentation] Add ActionChip in disabled state<br />
     <sub>[#123143](https://github.com/flutter/flutter/pull/123143) opened on on March 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123143) 4 additions and 3 deletions in 1 file</sub><br />
 
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Use DeviceDiscoveryFilter correctly in ProxiedDevices.<br />
+    <sub>[#123144](https://github.com/flutter/flutter/pull/123144) opened on on March 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123144) 96 additions and 21 deletions in 2 files</sub><br />
+
