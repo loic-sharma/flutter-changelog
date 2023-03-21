@@ -217,7 +217,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump pubspec to unblock engine roller<br />
     <sub>[#122699](https://github.com/flutter/flutter/pull/122699) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122699) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Siva](https://github.com/a-siva), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; DateRangePicker keyboardType<br />
     <sub>[#122353](https://github.com/flutter/flutter/pull/122353) merged on March 15, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122353) over 5 days, 69 additions and 2 deletions in 2 files</sub><br />
@@ -591,7 +591,7 @@
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Update cmake version to the latest in infra/3pp/tools<br />
     <sub>[#122147](https://github.com/flutter/flutter/pull/122147) merged on March 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122147) over 20 hours, 8 additions and 8 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Ensure CanvasKit is served from the correct location<br />
     <sub>[#121902](https://github.com/flutter/flutter/pull/121902) merged on March 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/121902) over 4 days, 38 additions and 7 deletions in 3 files</sub><br />
@@ -619,7 +619,7 @@
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_ios hot_mode_dev_cycle_ios__benchmark to be flaky<br />
     <sub>[#120809](https://github.com/flutter/flutter/pull/120809) merged on March 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/120809) over 2 weeks, 1 addition and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jenn Magder](https://github.com/jmagman)</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert "Introduce the PipelineOwner tree"<br />
     <sub>[#122425](https://github.com/flutter/flutter/pull/122425) merged on March 10, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/122425) over 4 minutes, 34 additions and 1341 deletions in 6 files</sub><br />
@@ -706,7 +706,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-18 commits.
+19 commits.
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Send PointerSignalKind.scale events from web<br />
     <sub>[#36348](https://github.com/flutter/engine/pull/36348) merged on March 20, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/36348) over 5 months, 189 additions and 45 deletions in 5 files</sub><br />
@@ -723,6 +723,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] change default sampler descriptor to use nearest mip level and remove kNone<br />
     <sub>[#40460](https://github.com/flutter/engine/pull/40460) merged on March 21, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40460) over 8 hours, 29 additions and 27 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Remove MipFilter::kNone redux<br />
+    <sub>[#40491](https://github.com/flutter/engine/pull/40491) merged on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40491) over 1 hour, 30 additions and 28 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Avoid registering service extensions in flutter-release mode<br />
     <sub>[#40484](https://github.com/flutter/engine/pull/40484) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40484) over 54 minutes, 2 additions and 0 deletions in 1 file</sub><br />
