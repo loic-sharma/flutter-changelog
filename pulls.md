@@ -68,3 +68,6 @@
 * **[yeleibo](https://github.com/yeleibo)** &mdash; Fix FormField implementation components TextFormField, DropdownButtonFormField, CupertinoTextFormFieldRow. The problem that their onChange() method cannot be executed when the parent Form component calls the reset() method<br />
     <sub>[#123108](https://github.com/flutter/flutter/pull/123108) opened on on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123108) 17 additions and 4 deletions in 3 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix divider width in scrollable `TabBar` for  Material 3 and add `dividerHeight` parameter<br />
+    <sub>[#123127](https://github.com/flutter/flutter/pull/123127) opened on on March 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123127) 149 additions and 70 deletions in 6 files</sub><br />
+
