@@ -4,7 +4,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-22 commits.
+23 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Create cupertino checkbox<br />
     <sub>[#122244](https://github.com/flutter/flutter/pull/122244) merged on March 21, 2023 &mdash; **Large:** [44 comments](https://github.com/flutter/flutter/pull/122244) over 1 week, 1058 additions and 0 deletions in 4 files</sub><br />
@@ -51,6 +51,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Set plugin template minimum iOS version to 11.0<br />
     <sub>[#122625](https://github.com/flutter/flutter/pull/122625) merged on March 21, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/122625) over 6 days, 58 additions and 32 deletions in 9 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove indicator from scrolling tab bars<br />
+    <sub>[#123057](https://github.com/flutter/flutter/pull/123057) merged on March 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123057) over 1 day, 18 additions and 7 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[yusuf-goog](https://github.com/yusuf-goog)** &mdash; Adding timestamps to task runner output lines.<br />
     <sub>[#123075](https://github.com/flutter/flutter/pull/123075) merged on March 21, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123075) over 23 hours, 4 additions and 2 deletions in 1 file</sub><br />
@@ -738,7 +742,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-29 commits.
+30 commits.
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Deprecate SingletonFlutterWindow and global window singleton<br />
     <sub>[#39302](https://github.com/flutter/engine/pull/39302) merged on March 21, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/39302) over 1 month, 65 additions and 36 deletions in 1 file</sub><br />
@@ -767,6 +771,10 @@
 * **[Valentin Hăloiu](https://github.com/vially)** &mdash; [Linux] Fix duplicate calls to system font loading during startup<br />
     <sub>[#40469](https://github.com/flutter/engine/pull/40469) merged on March 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40469) over 22 hours, 1 addition and 11 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Refactor Cubic/Quad tests to make sure all threads reach barrier()<br />
+    <sub>[#40506](https://github.com/flutter/engine/pull/40506) merged on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40506) over 48 minutes, 124 additions and 87 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Avoid truncation to zero when resizing threadgroups<br />
     <sub>[#40502](https://github.com/flutter/engine/pull/40502) merged on March 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40502) over 1 hour, 83 additions and 2 deletions in 2 files</sub><br />
