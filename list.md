@@ -693,7 +693,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-14 commits.
+15 commits.
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Send PointerSignalKind.scale events from web
     <sub>[#36348](https://github.com/flutter/engine/pull/36348) merged on March 20, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/36348) over 5 months, 189 additions and 45 deletions in 5 files</sub>
@@ -734,6 +734,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; add final class modifiers to fix dart roll
     <sub>[#40434](https://github.com/flutter/engine/pull/40434) merged on March 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40434) over 1 day, 18 additions and 18 deletions in 10 files</sub>
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Add Windows exit requests and responses
+    <sub>[#40400](https://github.com/flutter/engine/pull/40400) merged on March 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40400) over 3 days, 158 additions and 1 deletion in 3 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Rename setters for lifecycle state
     <sub>[#40462](https://github.com/flutter/engine/pull/40462) merged on March 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40462) over 1 hour, 24 additions and 21 deletions in 7 files</sub>

@@ -68,3 +68,6 @@
 * **[yeleibo](https://github.com/yeleibo)** &mdash; Fix FormField implementation components TextFormField, DropdownButtonFormField, CupertinoTextFormFieldRow. The problem that their onChange() method cannot be executed when the parent Form component calls the reset() method<br />
     <sub>[#123108](https://github.com/flutter/flutter/pull/123108) opened on on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123108) 17 additions and 4 deletions in 3 files</sub><br />
 
+* **[xubaolin](https://github.com/xu-baolin)** &mdash; DraggableScrollableSheet should respect NeverScrollableScrollPhysics<br />
+    <sub>[#123109](https://github.com/flutter/flutter/pull/123109) opened on on March 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123109) 52 additions and 1 deletion in 3 files</sub><br />
+
