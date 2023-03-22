@@ -75,11 +75,14 @@
     <sub>[#123216](https://github.com/flutter/flutter/pull/123216) opened on on March 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123216) 14 additions and 6 deletions in 1 file</sub><br />
 
 * **[Janice Collins](https://github.com/jcollins-g)** &mdash; Suppress analytics flag pass through to analysis server<br />
-    <sub>[#123235](https://github.com/flutter/flutter/pull/123235) opened on on March 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123235) 71 additions and 1 deletion in 10 files</sub><br />
+    <sub>[#123235](https://github.com/flutter/flutter/pull/123235) opened on on March 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123235) 71 additions and 1 deletion in 10 files</sub><br />
 
 * **[André Sousa](https://github.com/beroso)** &mdash; Update AUTHORS<br />
     <sub>[#123266](https://github.com/flutter/flutter/pull/123266) opened on on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123266) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add myself to AUTHORS<br />
     <sub>[#123268](https://github.com/flutter/flutter/pull/123268) opened on on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123268) 2 additions and 0 deletions in 1 file</sub><br />
+
+* **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; implement Iterator and Comparable instead of extending them<br />
+    <sub>[#123282](https://github.com/flutter/flutter/pull/123282) opened on on March 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123282) 2 additions and 2 deletions in 2 files</sub><br />
 
