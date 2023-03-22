@@ -1622,7 +1622,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-22 commits.
+23 commits.
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; [flutter_adaptive_scaffold] : 🐛 [FIX] : Issue: 121392.<br />
     <sub>[#3297](https://github.com/flutter/packages/pull/3297) merged on March 20, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3297) over 3 weeks, 412 additions and 113 deletions in 9 files</sub><br />
@@ -1680,6 +1680,10 @@
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Update tests to ignore `deprecated_member_use` where `TestWindow` API is used<br />
     <sub>[#3485](https://github.com/flutter/packages/pull/3485) merged on March 20, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3485) over 3 days, 60 additions and 0 deletions in 6 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Switch to quotation imports<br />
+    <sub>[#3511](https://github.com/flutter/packages/pull/3511) merged on March 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3511) over 8 hours, 23 additions and 18 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; remove temporary flag after migration<br />
     <sub>[#3498](https://github.com/flutter/packages/pull/3498) merged on March 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3498) over 1 day, 2 additions and 3 deletions in 3 files</sub><br />
