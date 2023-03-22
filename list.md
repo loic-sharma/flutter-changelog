@@ -762,7 +762,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-36 commits.
+38 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Introduce new update semantics callback
     <sub>[#39807](https://github.com/flutter/engine/pull/39807) merged on March 22, 2023 &mdash; **Large:** [34 comments](https://github.com/flutter/engine/pull/39807) over 3 weeks, 691 additions and 48 deletions in 8 files</sub>
@@ -856,9 +856,21 @@
     <sub>[#40513](https://github.com/flutter/engine/pull/40513) merged on March 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40513) over 1 hour, 2 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Brandon DeRosier](https://github.com/bdero)</sub>
 
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Remove unopt build from linux_android debug.
+    <sub>[#40498](https://github.com/flutter/engine/pull/40498) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40498) over 3 hours, 0 additions and 29 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Load instead of restore drawing for non-MSAA passes
     <sub>[#40436](https://github.com/flutter/engine/pull/40436) merged on March 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40436) over 23 hours, 11 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Rename setters for lifecycle state
+    <sub>[#40462](https://github.com/flutter/engine/pull/40462) merged on March 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40462) over 1 hour, 24 additions and 21 deletions in 7 files</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[keyonghan](https://github.com/keyonghan)** &mdash; Add drone_dimension to target `Linux Web Framework tests`
+    <sub>[#40466](https://github.com/flutter/engine/pull/40466) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40466) over 22 hours, 2 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Turn on CanvasKit Chromium
     <sub>[#40459](https://github.com/flutter/engine/pull/40459) merged on March 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40459) over 21 hours, 63 additions and 8 deletions in 3 files</sub>
@@ -868,21 +880,9 @@
     <sub>[#40400](https://github.com/flutter/engine/pull/40400) merged on March 21, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/40400) over 3 days, 158 additions and 1 deletion in 3 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Rename setters for lifecycle state
-    <sub>[#40462](https://github.com/flutter/engine/pull/40462) merged on March 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40462) over 1 hour, 24 additions and 21 deletions in 7 files</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Remove unopt build from linux_android debug.
-    <sub>[#40498](https://github.com/flutter/engine/pull/40498) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40498) over 3 hours, 0 additions and 29 deletions in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Put image codecs back into CanvasKit Chromium
     <sub>[#40501](https://github.com/flutter/engine/pull/40501) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40501) over 40 minutes, 7 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
-
-* **[keyonghan](https://github.com/keyonghan)** &mdash; Add drone_dimension to target `Linux Web Framework tests`
-    <sub>[#40466](https://github.com/flutter/engine/pull/40466) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40466) over 22 hours, 2 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 440d8b1fb962 to 9c3b6d5c2d6c (7 revisions)
     <sub>[#40523](https://github.com/flutter/engine/pull/40523) merged on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40523) over 47 minutes, 11 additions and 11 deletions in 2 files</sub>
@@ -903,6 +903,14 @@
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Reland "[ios_platform_view] MaskView pool to reuse maskViews" (#39608)"
     <sub>[#40456](https://github.com/flutter/engine/pull/40456) merged on March 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40456) over 1 hour, 238 additions and 15 deletions in 4 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reland "[web] Turn on CanvasKit Chromium (#40459)"
+    <sub>[#40503](https://github.com/flutter/engine/pull/40503) merged on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40503) over 16 hours, 59 additions and 7 deletions in 2 files</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "Roll Dart SDK from 440d8b1fb962 to 9c3b6d5c2d6c (7 revisions)"
+    <sub>[#40527](https://github.com/flutter/engine/pull/40527) merged on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40527) over 1 hour, 11 additions and 11 deletions in 2 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "Deprecate SingletonFlutterWindow and global window singleton"
     <sub>[#40507](https://github.com/flutter/engine/pull/40507) merged on March 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40507) over 47 minutes, 36 additions and 65 deletions in 1 file</sub>
