@@ -4,7 +4,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-27 commits.
+28 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Create cupertino checkbox
     <sub>[#122244](https://github.com/flutter/flutter/pull/122244) merged on March 21, 2023 &mdash; **Large:** [44 comments](https://github.com/flutter/flutter/pull/122244) over 1 week, 1058 additions and 0 deletions in 4 files</sub>
@@ -55,6 +55,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Set plugin template minimum iOS version to 11.0
     <sub>[#122625](https://github.com/flutter/flutter/pull/122625) merged on March 21, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/122625) over 6 days, 58 additions and 32 deletions in 9 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove window reference from doc snippet
+    <sub>[#123176](https://github.com/flutter/flutter/pull/123176) merged on March 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123176) over 3 hours, 2 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] toolexit on malformed yaml during gen-l10n
     <sub>[#123167](https://github.com/flutter/flutter/pull/123167) merged on March 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123167) over 2 hours, 22 additions and 1 deletion in 2 files</sub>
