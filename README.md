@@ -1657,6 +1657,10 @@
     <sub>[#3367](https://github.com/flutter/packages/pull/3367) merged on March 20, 2023 &mdash; **Small:** [40 comments](https://github.com/flutter/packages/pull/3367) over 2 weeks, 82 additions and 98 deletions in 13 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub><br />
 
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Add README discussion of reload<br />
+    <sub>[#3508](https://github.com/flutter/packages/pull/3508) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3508) over 32 minutes, 29 additions and 1 deletion in 3 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Add documentation to some methods in matching.dart<br />
     <sub>[#3462](https://github.com/flutter/packages/pull/3462) merged on March 20, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/3462) over 5 days, 48 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [chunhtai](https://github.com/chunhtai)</sub><br />
@@ -1664,10 +1668,6 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [all] Update Dart SDK max to 4.0.0<br />
     <sub>[#3509](https://github.com/flutter/packages/pull/3509) merged on March 22, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/packages/pull/3509) over 9 hours, 216 additions and 213 deletions in 197 files</sub><br />
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Yegor](https://github.com/yjbanov), [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman), [Reid Baker](https://github.com/reidbaker), and [8 others](https://github.com/flutter/packages/pull/3509)</sub><br />
-
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Add README discussion of reload<br />
-    <sub>[#3508](https://github.com/flutter/packages/pull/3508) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3508) over 32 minutes, 29 additions and 1 deletion in 3 files</sub><br />
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[asaarnak](https://github.com/asaarnak)** &mdash; [google_maps_flutter_android, url_launcher_android] bump roboelectric version<br />
     <sub>[#3372](https://github.com/flutter/packages/pull/3372) merged on March 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3372) over 2 weeks, 18 additions and 6 deletions in 9 files</sub><br />
