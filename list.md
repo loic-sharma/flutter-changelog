@@ -233,7 +233,7 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use depfile with dart2wasm to determine when to rebuild.
     <sub>[#122817](https://github.com/flutter/flutter/pull/122817) merged on March 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122817) over 5 hours, 11 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Separate attached and wireless devices
     <sub>[#122615](https://github.com/flutter/flutter/pull/122615) merged on March 15, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/122615) over 23 hours, 1597 additions and 621 deletions in 34 files</sub>
@@ -727,7 +727,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Reland "Speed up first asset load by using the binary-formatted asset manifest for image resolution"
     <sub>[#122449](https://github.com/flutter/flutter/pull/122449) merged on March 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122449) over 2 hours, 156 additions and 93 deletions in 5 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Revert "[web:tools] always use CanvasKit from the cache when building web apps (#93002)"
     <sub>[#117693](https://github.com/flutter/flutter/pull/117693) merged on March 8, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/117693) over 2 months, 35 additions and 64 deletions in 6 files</sub>
