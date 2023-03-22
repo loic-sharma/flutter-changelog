@@ -869,7 +869,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[joshualitt](https://github.com/joshualitt)** &mdash; Migrate SVG to JS types
-    <sub>[#40401](https://github.com/flutter/engine/pull/40401) merged on March 22, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/40401) over 4 days, 156 additions and 66 deletions in 12 files</sub>
+    <sub>[#40401](https://github.com/flutter/engine/pull/40401) merged on March 22, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/40401) over 4 days, 156 additions and 66 deletions in 12 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Remove unopt build from linux_android debug.
