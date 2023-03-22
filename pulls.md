@@ -60,7 +60,7 @@
     <sub>[#122682](https://github.com/flutter/flutter/pull/122682) opened on on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122682) 50 additions and 0 deletions in 2 files</sub><br />
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Add support for secondary tab bar<br />
-    <sub>[#122756](https://github.com/flutter/flutter/pull/122756) opened on on March 15, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/122756) 356 additions and 20 deletions in 3 files</sub><br />
+    <sub>[#122756](https://github.com/flutter/flutter/pull/122756) opened on on March 15, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/122756) 803 additions and 124 deletions in 10 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add documentation saying that people can add themselves to the AUTHORS file<br />
     <sub>[#123061](https://github.com/flutter/flutter/pull/123061) opened on on March 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123061) 6 additions and 0 deletions in 1 file</sub><br />
