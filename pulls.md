@@ -77,3 +77,6 @@
 * **[Sebastian Schneider](https://github.com/Sese-Schneider)** &mdash; Add documentation on how to use `dart-define` with `gradlew`<br />
     <sub>[#123205](https://github.com/flutter/flutter/pull/123205) opened on on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123205) 7 additions and 0 deletions in 1 file</sub><br />
 
+* **[Dream.Machine](https://github.com/944095635)** &mdash; Update app_bar.dart<br />
+    <sub>[#123216](https://github.com/flutter/flutter/pull/123216) opened on on March 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123216) 14 additions and 6 deletions in 1 file</sub><br />
+

@@ -44,6 +44,10 @@
     <sub>[#123031](https://github.com/flutter/flutter/pull/123031) merged on March 20, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/123031) over 5 hours, 130 additions and 1126 deletions in 67 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Provide an ApplicationPackage to the flutter_tools logs command
+    <sub>[#123149](https://github.com/flutter/flutter/pull/123149) merged on March 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123149) over 19 hours, 6 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Deprecate BindingBase.window
     <sub>[#120998](https://github.com/flutter/flutter/pull/120998) merged on March 21, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/120998) over 1 month, 46 additions and 32 deletions in 4 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
@@ -55,10 +59,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Set plugin template minimum iOS version to 11.0
     <sub>[#122625](https://github.com/flutter/flutter/pull/122625) merged on March 21, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/122625) over 6 days, 58 additions and 32 deletions in 9 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Provide an ApplicationPackage to the flutter_tools logs command
-    <sub>[#123149](https://github.com/flutter/flutter/pull/123149) merged on March 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123149) over 19 hours, 6 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove window reference from doc snippet
     <sub>[#123176](https://github.com/flutter/flutter/pull/123176) merged on March 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123176) over 3 hours, 2 additions and 1 deletion in 1 file</sub>
