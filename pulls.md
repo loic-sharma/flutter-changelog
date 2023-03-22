@@ -77,3 +77,6 @@
 * **[Dream.Machine](https://github.com/944095635)** &mdash; Update app_bar.dart<br />
     <sub>[#123216](https://github.com/flutter/flutter/pull/123216) opened on on March 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123216) 14 additions and 6 deletions in 1 file</sub><br />
 
+* **[Janice Collins](https://github.com/jcollins-g)** &mdash; Suppress analytics flag pass through to analysis server<br />
+    <sub>[#123235](https://github.com/flutter/flutter/pull/123235) opened on on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123235) 71 additions and 1 deletion in 10 files</sub><br />
+
