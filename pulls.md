@@ -80,3 +80,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; WIP<br />
     <sub>[#123259](https://github.com/flutter/flutter/pull/123259) opened on on March 22, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/123259) 2 additions and 1749 deletions in 291 files</sub><br />
 
+* **[André Sousa](https://github.com/beroso)** &mdash; Update AUTHORS<br />
+    <sub>[#123266](https://github.com/flutter/flutter/pull/123266) opened on on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123266) 1 addition and 0 deletions in 1 file</sub><br />
+
