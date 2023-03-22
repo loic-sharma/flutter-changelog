@@ -789,8 +789,8 @@
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] if not creating mipmaps dont set mip count
-    <sub>[#40513](https://github.com/flutter/engine/pull/40513) merged on March 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40513) over 1 hour, 2 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub>[#40513](https://github.com/flutter/engine/pull/40513) merged on March 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40513) over 1 hour, 2 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Refactor Cubic/Quad tests to make sure all threads reach barrier()
     <sub>[#40506](https://github.com/flutter/engine/pull/40506) merged on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40506) over 48 minutes, 124 additions and 87 deletions in 3 files</sub>
