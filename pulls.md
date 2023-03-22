@@ -86,6 +86,3 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add myself to AUTHORS<br />
     <sub>[#123268](https://github.com/flutter/flutter/pull/123268) opened on on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123268) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Harry Terkelsen](https://github.com/hterkelsen)** &mdash; Add smoke test for gstatic resources<br />
-    <sub>[#123270](https://github.com/flutter/flutter/pull/123270) opened on on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123270) 50 additions and 0 deletions in 2 files</sub><br />
-
