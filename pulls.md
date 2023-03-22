@@ -89,3 +89,6 @@
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; BottomAppBar: Fix doubled layers of color and shadow<br />
     <sub>[#123294](https://github.com/flutter/flutter/pull/123294) opened on on March 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123294) 134 additions and 33 deletions in 5 files</sub><br />
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Added ExpansionTileController<br />
+    <sub>[#123298](https://github.com/flutter/flutter/pull/123298) opened on on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123298) 251 additions and 2 deletions in 4 files</sub><br />
+
