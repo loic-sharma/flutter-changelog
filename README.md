@@ -805,7 +805,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Refactor Cubic/Quad tests to make sure all threads reach barrier()<br />
-    <sub>[#40506](https://github.com/flutter/engine/pull/40506) merged on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40506) over 48 minutes, 124 additions and 87 deletions in 3 files</sub><br />
+    <sub>[#40506](https://github.com/flutter/engine/pull/40506) merged on March 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40506) over 48 minutes, 124 additions and 87 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll buildroot to b44849ee7d2b080fd5cc699e7fd37d79c13d012d<br />
