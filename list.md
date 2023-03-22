@@ -1650,7 +1650,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-23 commits.
+24 commits.
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; [flutter_adaptive_scaffold] : 🐛 [FIX] : Issue: 121392.
     <sub>[#3297](https://github.com/flutter/packages/pull/3297) merged on March 20, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3297) over 3 weeks, 412 additions and 113 deletions in 9 files</sub>
@@ -1708,6 +1708,10 @@
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Update tests to ignore `deprecated_member_use` where `TestWindow` API is used
     <sub>[#3485](https://github.com/flutter/packages/pull/3485) merged on March 20, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3485) over 3 days, 60 additions and 0 deletions in 6 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Sarbagya Dhaubanjar](https://github.com/sarbagyastha)** &mdash; [go_router] Added `initialExtra` param to GoRouter
+    <sub>[#3472](https://github.com/flutter/packages/pull/3472) merged on March 22, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3472) over 6 days, 61 additions and 5 deletions in 5 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Switch to quotation imports
     <sub>[#3511](https://github.com/flutter/packages/pull/3511) merged on March 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3511) over 8 hours, 23 additions and 18 deletions in 3 files</sub>
