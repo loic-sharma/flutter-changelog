@@ -742,7 +742,11 @@
 
 ### March 18, 2023 to March 24, 2023
 
-30 commits.
+31 commits.
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Introduce new update semantics callback<br />
+    <sub>[#39807](https://github.com/flutter/engine/pull/39807) merged on March 22, 2023 &mdash; **Large:** [34 comments](https://github.com/flutter/engine/pull/39807) over 3 weeks, 691 additions and 48 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [chunhtai](https://github.com/chunhtai), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Deprecate SingletonFlutterWindow and global window singleton<br />
     <sub>[#39302](https://github.com/flutter/engine/pull/39302) merged on March 21, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/39302) over 1 month, 65 additions and 36 deletions in 1 file</sub><br />
