@@ -80,6 +80,3 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update gradle_utils.dart and flutter.gradle to have a min api version of 19<br />
     <sub>[#123151](https://github.com/flutter/flutter/pull/123151) opened on on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123151) 2 additions and 2 deletions in 2 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] toolexit on malformed yaml during gen-l10n<br />
-    <sub>[#123167](https://github.com/flutter/flutter/pull/123167) opened on on March 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123167) 22 additions and 1 deletion in 2 files</sub><br />
-

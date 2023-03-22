@@ -742,7 +742,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-31 commits.
+32 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Introduce new update semantics callback<br />
     <sub>[#39807](https://github.com/flutter/engine/pull/39807) merged on March 22, 2023 &mdash; **Large:** [34 comments](https://github.com/flutter/engine/pull/39807) over 3 weeks, 691 additions and 48 deletions in 8 files</sub><br />
@@ -867,6 +867,10 @@
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Reland "[ios_platform_view] MaskView pool to reuse maskViews" (#39608)"<br />
     <sub>[#40456](https://github.com/flutter/engine/pull/40456) merged on March 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40456) over 1 hour, 238 additions and 15 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "Deprecate SingletonFlutterWindow and global window singleton"<br />
+    <sub>[#40507](https://github.com/flutter/engine/pull/40507) merged on March 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40507) over 47 minutes, 36 additions and 65 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 ### March 11, 2023 to March 17, 2023
 
