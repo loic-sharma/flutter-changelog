@@ -80,3 +80,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update gradle_utils.dart and flutter.gradle to have a min api version of 19<br />
     <sub>[#123151](https://github.com/flutter/flutter/pull/123151) opened on on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123151) 2 additions and 2 deletions in 2 files</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update dartdoc to 6.2.0<br />
+    <sub>[#123193](https://github.com/flutter/flutter/pull/123193) opened on on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123193) 1 addition and 1 deletion in 1 file</sub><br />
+
