@@ -59,9 +59,6 @@
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Add decimalPatternDigits to gen-l10n valid NumberFormats<br />
     <sub>[#122682](https://github.com/flutter/flutter/pull/122682) opened on on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122682) 50 additions and 0 deletions in 2 files</sub><br />
 
-* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Add support for secondary tab bar<br />
-    <sub>[#122756](https://github.com/flutter/flutter/pull/122756) opened on on March 15, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/122756) 803 additions and 124 deletions in 10 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add documentation saying that people can add themselves to the AUTHORS file<br />
     <sub>[#123061](https://github.com/flutter/flutter/pull/123061) opened on on March 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123061) 6 additions and 0 deletions in 1 file</sub><br />
 
@@ -79,7 +76,4 @@
 
 * **[Sebastian Schneider](https://github.com/Sese-Schneider)** &mdash; Add documentation on how to use `dart-define` with `gradlew`<br />
     <sub>[#123205](https://github.com/flutter/flutter/pull/123205) opened on on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123205) 7 additions and 0 deletions in 1 file</sub><br />
-
-* **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Make custom `Utf8Decoder` replacement not extend platform class.<br />
-    <sub>[#123211](https://github.com/flutter/flutter/pull/123211) opened on on March 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123211) 20 additions and 6 deletions in 1 file</sub><br />
 
