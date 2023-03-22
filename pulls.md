@@ -69,7 +69,7 @@
     <sub>[#123108](https://github.com/flutter/flutter/pull/123108) opened on on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123108) 17 additions and 4 deletions in 3 files</sub><br />
 
 * **[xiao xiao](https://github.com/xiaoxiaowesley)** &mdash; Fix caret misplaced for emoji with modifier scalar.<br />
-    <sub>[#123136](https://github.com/flutter/flutter/pull/123136) opened on on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123136) 40 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#123136](https://github.com/flutter/flutter/pull/123136) opened on on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123136) 43 additions and 3 deletions in 2 files</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Add platform_channel sample/test<br />
     <sub>[#123141](https://github.com/flutter/flutter/pull/123141) opened on on March 21, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/123141) 1471 additions and 0 deletions in 25 files</sub><br />
