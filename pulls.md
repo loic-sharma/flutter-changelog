@@ -83,3 +83,6 @@
 * **[Sebastian Schneider](https://github.com/Sese-Schneider)** &mdash; Add documentation on how to use `dart-define` with `gradlew`<br />
     <sub>[#123205](https://github.com/flutter/flutter/pull/123205) opened on on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123205) 7 additions and 0 deletions in 1 file</sub><br />
 
+* **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Make custom `Utf8Decoder` replacement not extend platform class.<br />
+    <sub>[#123211](https://github.com/flutter/flutter/pull/123211) opened on on March 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123211) 24 additions and 11 deletions in 1 file</sub><br />
+
