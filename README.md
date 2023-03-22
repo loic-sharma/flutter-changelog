@@ -869,8 +869,8 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[joshualitt](https://github.com/joshualitt)** &mdash; Migrate SVG to JS types<br />
-    <sub>[#40401](https://github.com/flutter/engine/pull/40401) merged on March 22, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/40401) over 4 days, 156 additions and 66 deletions in 12 files</sub><br />
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+    <sub>[#40401](https://github.com/flutter/engine/pull/40401) merged on March 22, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/40401) over 4 days, 156 additions and 66 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Load instead of restore drawing for non-MSAA passes<br />
     <sub>[#40436](https://github.com/flutter/engine/pull/40436) merged on March 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40436) over 23 hours, 11 additions and 3 deletions in 2 files</sub><br />
