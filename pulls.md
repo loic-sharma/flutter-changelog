@@ -80,3 +80,6 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add myself to AUTHORS<br />
     <sub>[#123268](https://github.com/flutter/flutter/pull/123268) opened on on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123268) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[joshualitt](https://github.com/joshualitt)** &mdash; [web] Migrate the bulk of JS interop to JS types.<br />
+    <sub>[#123286](https://github.com/flutter/flutter/pull/123286) opened on on March 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123286) 174 additions and 105 deletions in 5 files</sub><br />
+

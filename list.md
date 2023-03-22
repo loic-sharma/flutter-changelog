@@ -4,7 +4,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-35 commits.
+36 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Create cupertino checkbox
     <sub>[#122244](https://github.com/flutter/flutter/pull/122244) merged on March 21, 2023 &mdash; **Large:** [44 comments](https://github.com/flutter/flutter/pull/122244) over 1 week, 1058 additions and 0 deletions in 4 files</sub>
@@ -68,6 +68,10 @@
     <sub>[#122625](https://github.com/flutter/flutter/pull/122625) merged on March 21, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/122625) over 6 days, 58 additions and 32 deletions in 9 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub>
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Workaround for exhaustiveness bug in dart2js
+    <sub>[#123242](https://github.com/flutter/flutter/pull/123242) merged on March 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123242) over 5 hours, 6 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
+
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add documentation saying that people can add themselves to the AUTHORS file
     <sub>[#123061](https://github.com/flutter/flutter/pull/123061) merged on March 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123061) over 1 day, 6 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
@@ -88,13 +92,13 @@
     <sub>[#123075](https://github.com/flutter/flutter/pull/123075) merged on March 21, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123075) over 23 hours, 4 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [godofredoc](https://github.com/godofredoc)</sub>
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable prefer_mixin
-    <sub>[#123159](https://github.com/flutter/flutter/pull/123159) merged on March 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/123159) over 2 hours, 13 additions and 7 deletions in 3 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused replacement from Visibility.maintain
     <sub>[#123039](https://github.com/flutter/flutter/pull/123039) merged on March 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/123039) over 1 hour, 2 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Todd Volkert](https://github.com/tvolkert)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable prefer_mixin
+    <sub>[#123159](https://github.com/flutter/flutter/pull/123159) merged on March 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/123159) over 2 hours, 13 additions and 7 deletions in 3 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Skip web hot restart tests
     <sub>[#123019](https://github.com/flutter/flutter/pull/123019) merged on March 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123019) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
