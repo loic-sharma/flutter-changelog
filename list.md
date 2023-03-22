@@ -4,7 +4,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-23 commits.
+25 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Create cupertino checkbox
     <sub>[#122244](https://github.com/flutter/flutter/pull/122244) merged on March 21, 2023 &mdash; **Large:** [44 comments](https://github.com/flutter/flutter/pull/122244) over 1 week, 1058 additions and 0 deletions in 4 files</sub>
@@ -40,6 +40,10 @@
     <sub>[#123031](https://github.com/flutter/flutter/pull/123031) merged on March 20, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/123031) over 5 hours, 130 additions and 1126 deletions in 67 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove indicator from scrolling tab bars
+    <sub>[#123057](https://github.com/flutter/flutter/pull/123057) merged on March 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123057) over 1 day, 18 additions and 7 deletions in 2 files</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Deprecate BindingBase.window
     <sub>[#120998](https://github.com/flutter/flutter/pull/120998) merged on March 21, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/120998) over 1 month, 46 additions and 32 deletions in 4 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
@@ -52,9 +56,9 @@
     <sub>[#122625](https://github.com/flutter/flutter/pull/122625) merged on March 21, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/122625) over 6 days, 58 additions and 32 deletions in 9 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub>
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove indicator from scrolling tab bars
-    <sub>[#123057](https://github.com/flutter/flutter/pull/123057) merged on March 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123057) over 1 day, 18 additions and 7 deletions in 2 files</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] toolexit on malformed yaml during gen-l10n
+    <sub>[#123167](https://github.com/flutter/flutter/pull/123167) merged on March 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123167) over 2 hours, 22 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[yusuf-goog](https://github.com/yusuf-goog)** &mdash; Adding timestamps to task runner output lines.
     <sub>[#123075](https://github.com/flutter/flutter/pull/123075) merged on March 21, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123075) over 23 hours, 4 additions and 2 deletions in 1 file</sub>
@@ -95,6 +99,10 @@
 * **[Greg Price](https://github.com/gnprice)** &mdash; Give PolynomialFit more docs, and a debug toString
     <sub>[#122333](https://github.com/flutter/flutter/pull/122333) merged on March 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122333) over 1 week, 23 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_android old_gallery__transition_perf to be unflaky
+    <sub>[#107552](https://github.com/flutter/flutter/pull/107552) merged on March 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/107552) over 8 months, 0 additions and 0 deletions in 0 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[acumen](https://github.com/acumen1005)** &mdash; Reland "Fix bug with clicking `Copy` or `Select All` within contextMenu"
     <sub>[#122973](https://github.com/flutter/flutter/pull/122973) merged on March 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122973) over 1 day, 145 additions and 3 deletions in 2 files</sub>
@@ -742,7 +750,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-32 commits.
+33 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Introduce new update semantics callback
     <sub>[#39807](https://github.com/flutter/engine/pull/39807) merged on March 22, 2023 &mdash; **Large:** [34 comments](https://github.com/flutter/engine/pull/39807) over 3 weeks, 691 additions and 48 deletions in 8 files</sub>
@@ -775,6 +783,10 @@
 * **[Valentin Hăloiu](https://github.com/vially)** &mdash; [Linux] Fix duplicate calls to system font loading during startup
     <sub>[#40469](https://github.com/flutter/engine/pull/40469) merged on March 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40469) over 22 hours, 1 addition and 11 deletions in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] if not creating mipmaps dont set mip count
+    <sub>[#40513](https://github.com/flutter/engine/pull/40513) merged on March 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40513) over 1 hour, 2 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Refactor Cubic/Quad tests to make sure all threads reach barrier()
     <sub>[#40506](https://github.com/flutter/engine/pull/40506) merged on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40506) over 48 minutes, 124 additions and 87 deletions in 3 files</sub>
