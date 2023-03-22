@@ -1682,7 +1682,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-25 commits.
+26 commits.
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; [flutter_adaptive_scaffold] : 🐛 [FIX] : Issue: 121392.<br />
     <sub>[#3297](https://github.com/flutter/packages/pull/3297) merged on March 20, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3297) over 3 weeks, 412 additions and 113 deletions in 9 files</sub><br />
@@ -1692,6 +1692,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] When `replace` is called, reuse the same key when possible <br />
     <sub>[#2846](https://github.com/flutter/packages/pull/2846) merged on March 21, 2023 &mdash; **Medium:** [66 comments](https://github.com/flutter/packages/pull/2846) over 3 months, 392 additions and 20 deletions in 7 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implement image capture<br />
+    <sub>[#3287](https://github.com/flutter/packages/pull/3287) merged on March 22, 2023 &mdash; **Extra large:** [27 comments](https://github.com/flutter/packages/pull/3287) over 3 weeks, 1460 additions and 47 deletions in 23 files</sub><br />
+    <sub>Reviewed by: [Xi Zhang](https://github.com/xizhang), [Reid Baker](https://github.com/reidbaker), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Update instance manager and replace Java 8 language usages with Java 7<br />
     <sub>[#3318](https://github.com/flutter/packages/pull/3318) merged on March 22, 2023 &mdash; **Large:** [27 comments](https://github.com/flutter/packages/pull/3318) over 3 weeks, 463 additions and 81 deletions in 22 files</sub><br />
