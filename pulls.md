@@ -68,9 +68,6 @@
 * **[Dream.Machine](https://github.com/944095635)** &mdash; Update app_bar.dart<br />
     <sub>[#123216](https://github.com/flutter/flutter/pull/123216) opened on on March 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123216) 14 additions and 6 deletions in 1 file</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Refactor reorderable list semantics<br />
-    <sub>[#123263](https://github.com/flutter/flutter/pull/123263) opened on on March 22, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/123263) 4333 additions and 2442 deletions in 241 files</sub><br />
-
 * **[André Sousa](https://github.com/beroso)** &mdash; Update AUTHORS<br />
     <sub>[#123266](https://github.com/flutter/flutter/pull/123266) opened on on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123266) 1 addition and 0 deletions in 1 file</sub><br />
 
