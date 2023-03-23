@@ -1787,7 +1787,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-28 commits.
+29 commits.
 
 * **[Nazareno Cavazzon](https://github.com/NazarenoCavazzon)** &mdash; Return value when pop<br />
     <sub>[#3368](https://github.com/flutter/packages/pull/3368) merged on March 23, 2023 &mdash; **Small:** [53 comments](https://github.com/flutter/packages/pull/3368) over 2 weeks, 117 additions and 31 deletions in 12 files</sub><br />
@@ -1905,6 +1905,10 @@
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [camera]: Bump camerax_version from 1.3.0-alpha03 to 1.3.0-alpha04 in /packages/camera/camera_android_camerax/android<br />
     <sub>[#3387](https://github.com/flutter/packages/pull/3387) merged on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3387) over 2 weeks, 2 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 2ad6cd72c040 to 90c64ed42ba5 (3 revisions)<br />
+    <sub>[#3533](https://github.com/flutter/packages/pull/3533) merged on March 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3533) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### March 11, 2023 to March 17, 2023
 
