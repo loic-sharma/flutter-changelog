@@ -77,6 +77,3 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [flutter_releases] Flutter beta 3.9.0-0.2.pre Framework Cherrypicks<br />
     <sub>[#123357](https://github.com/flutter/flutter/pull/123357) opened on on March 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123357) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Harry Terkelsen](https://github.com/hterkelsen)** &mdash; Use Web resources CDN in service_worker_test by default<br />
-    <sub>[#123360](https://github.com/flutter/flutter/pull/123360) opened on on March 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123360) 8 additions and 1 deletion in 1 file</sub><br />
-
