@@ -925,7 +925,7 @@
     <sub>Reviewed by: [Brian Osman](https://github.com/brianosman)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Run windows_arm build only on main branch.<br />
-    <sub>[#40546](https://github.com/flutter/engine/pull/40546) merged on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40546) over 1 hour, 3 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#40546](https://github.com/flutter/engine/pull/40546) merged on March 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40546) over 1 hour, 3 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add validation for mipmap generation enforced at binding time<br />
