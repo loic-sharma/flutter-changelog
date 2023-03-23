@@ -68,15 +68,15 @@
 * **[Dream.Machine](https://github.com/944095635)** &mdash; Update app_bar.dart<br />
     <sub>[#123216](https://github.com/flutter/flutter/pull/123216) opened on on March 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123216) 14 additions and 6 deletions in 1 file</sub><br />
 
-* **[André Sousa](https://github.com/beroso)** &mdash; Update AUTHORS<br />
-    <sub>[#123266](https://github.com/flutter/flutter/pull/123266) opened on on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123266) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add myself to AUTHORS<br />
-    <sub>[#123268](https://github.com/flutter/flutter/pull/123268) opened on on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123268) 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#123268](https://github.com/flutter/flutter/pull/123268) opened on on March 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123268) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[joshualitt](https://github.com/joshualitt)** &mdash; [web] Migrate the bulk of JS interop to JS types.<br />
     <sub>[#123286](https://github.com/flutter/flutter/pull/123286) opened on on March 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123286) 174 additions and 105 deletions in 5 files</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [flutter_releases] Flutter beta 3.9.0-0.2.pre Framework Cherrypicks<br />
     <sub>[#123357](https://github.com/flutter/flutter/pull/123357) opened on on March 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123357) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Harry Terkelsen](https://github.com/hterkelsen)** &mdash; Use Web resources CDN in service_worker_test by default<br />
+    <sub>[#123360](https://github.com/flutter/flutter/pull/123360) opened on on March 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123360) 8 additions and 1 deletion in 1 file</sub><br />
 
