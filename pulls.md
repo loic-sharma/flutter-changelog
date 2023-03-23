@@ -89,3 +89,6 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Added ExpansionTileController<br />
     <sub>[#123298](https://github.com/flutter/flutter/pull/123298) opened on on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123298) 251 additions and 2 deletions in 4 files</sub><br />
 
+* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Convert `AndroidSemanticsAction` to enum.<br />
+    <sub>[#123312](https://github.com/flutter/flutter/pull/123312) opened on on March 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123312) 52 additions and 116 deletions in 4 files</sub><br />
+
