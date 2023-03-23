@@ -29,7 +29,7 @@
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Rydmike](https://github.com/rydmike)** &mdash; FIX: NavigationDrawer hover/focus/pressed do not use indicatorShape<br />
-    <sub>[#123325](https://github.com/flutter/flutter/pull/123325) merged on March 23, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/123325) over 6 hours, 12 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#123325](https://github.com/flutter/flutter/pull/123325) merged on March 23, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/123325) over 6 hours, 12 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
     <sub><details><summary>2 images...</summary>![Screenshot 2023-03-23 at 12 03 19](https://user-images.githubusercontent.com/39990307/227186716-7ab26f68-5c40-44dd-b592-17d248a8b46a.png) | ![Screenshot 2023-03-23 at 12 02 59](https://user-images.githubusercontent.com/39990307/227186745-80cbc0df-5df3-4357-afcb-7bdf6046f098.png)![Screenshot 2023-03-23 at 12 23 38](https://user-images.githubusercontent.com/39990307/227186332-2f85f32a-cb25-4bbb-8682-2710c6f4710a.png) | ![Screenshot 2023-03-23 at 12 23 23](https://user-images.githubusercontent.com/39990307/227186367-7df4c5ef-9135-4db8-8156-696f83b930a9.png)</details></sub>
 
