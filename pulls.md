@@ -29,9 +29,6 @@
 * **[Hunter Wilhelm](https://github.com/hunterwilhelm)** &mdash; CupertinoDatePicker with month and year (#93508)<br />
     <sub>[#118492](https://github.com/flutter/flutter/pull/118492) opened on on January 14, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/118492) 289 additions and 5 deletions in 1 file</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; document StaticIconProvider<br />
-    <sub>[#120935](https://github.com/flutter/flutter/pull/120935) opened on on February 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/120935) 21 additions and 2 deletions in 1 file</sub><br />
-
 * **[Sohrab Vahidli](https://github.com/sohrabonline)** &mdash; Update nav_bar.dart<br />
     <sub>[#121943](https://github.com/flutter/flutter/pull/121943) opened on on March 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/121943) 26 additions and 4 deletions in 1 file</sub><br />
 
