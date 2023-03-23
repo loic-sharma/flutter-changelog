@@ -77,6 +77,3 @@
 * **[joshualitt](https://github.com/joshualitt)** &mdash; [web] Migrate the bulk of JS interop to JS types.<br />
     <sub>[#123286](https://github.com/flutter/flutter/pull/123286) opened on on March 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123286) 174 additions and 105 deletions in 5 files</sub><br />
 
-* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Convert `AndroidSemanticsAction` to enum.<br />
-    <sub>[#123312](https://github.com/flutter/flutter/pull/123312) opened on on March 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123312) 52 additions and 116 deletions in 4 files</sub><br />
-
