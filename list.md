@@ -452,8 +452,8 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Revert "Assert that runApp is called in the same zone as binding.ensureInitialized"
-    <sub>[#122830](https://github.com/flutter/flutter/pull/122830) merged on March 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122830) over 2 minutes, 11 additions and 266 deletions in 14 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub>[#122830](https://github.com/flutter/flutter/pull/122830) merged on March 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122830) over 2 minutes, 11 additions and 266 deletions in 14 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Reland "Speed up first asset load by using the binary-formatted asset manifest for image resolution"
     <sub>[#122505](https://github.com/flutter/flutter/pull/122505) merged on March 15, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/122505) over 2 days, 169 additions and 215 deletions in 7 files</sub>
