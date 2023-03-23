@@ -1779,7 +1779,11 @@
 
 ### March 18, 2023 to March 24, 2023
 
-27 commits.
+28 commits.
+
+* **[Nazareno Cavazzon](https://github.com/NazarenoCavazzon)** &mdash; Return value when pop<br />
+    <sub>[#3368](https://github.com/flutter/packages/pull/3368) merged on March 23, 2023 &mdash; **Small:** [51 comments](https://github.com/flutter/packages/pull/3368) over 2 weeks, 117 additions and 31 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [HBS](https://github.com/MrHBS), [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; [flutter_adaptive_scaffold] : 🐛 [FIX] : Issue: 121392.<br />
     <sub>[#3297](https://github.com/flutter/packages/pull/3297) merged on March 20, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3297) over 3 weeks, 412 additions and 113 deletions in 9 files</sub><br />
