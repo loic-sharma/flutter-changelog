@@ -62,9 +62,6 @@
 * **[Leibo Ye](https://github.com/yeleibo)** &mdash; Fix FormField implementation components TextFormField, DropdownButtonFormField, CupertinoTextFormFieldRow. The problem that their onChange() method cannot be executed when the parent Form component calls the reset() method<br />
     <sub>[#123108](https://github.com/flutter/flutter/pull/123108) opened on on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123108) 17 additions and 4 deletions in 3 files</sub><br />
 
-* **[xiao xiao](https://github.com/xiaoxiaowesley)** &mdash; Fix caret misplaced for emoji with modifier scalar.<br />
-    <sub>[#123136](https://github.com/flutter/flutter/pull/123136) opened on on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123136) 43 additions and 3 deletions in 2 files</sub><br />
-
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; [Documentation] Add ActionChip in disabled state<br />
     <sub>[#123143](https://github.com/flutter/flutter/pull/123143) opened on on March 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123143) 4 additions and 3 deletions in 1 file</sub><br />
 
