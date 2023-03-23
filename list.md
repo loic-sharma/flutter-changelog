@@ -69,7 +69,7 @@
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Stop serving Observatory by default
-    <sub>[#122419](https://github.com/flutter/flutter/pull/122419) merged on March 23, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/122419) over 1 week, 8 additions and 44 deletions in 5 files</sub>
+    <sub>[#122419](https://github.com/flutter/flutter/pull/122419) merged on March 23, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/122419) over 1 week, 8 additions and 44 deletions in 5 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Set plugin template minimum iOS version to 11.0
