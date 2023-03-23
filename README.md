@@ -1730,7 +1730,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-26 commits.
+27 commits.
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; [flutter_adaptive_scaffold] : 🐛 [FIX] : Issue: 121392.<br />
     <sub>[#3297](https://github.com/flutter/packages/pull/3297) merged on March 20, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3297) over 3 weeks, 412 additions and 113 deletions in 9 files</sub><br />
@@ -1800,6 +1800,10 @@
 * **[Sarbagya Dhaubanjar](https://github.com/sarbagyastha)** &mdash; [go_router] Added `initialExtra` param to GoRouter<br />
     <sub>[#3472](https://github.com/flutter/packages/pull/3472) merged on March 22, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3472) over 6 days, 61 additions and 5 deletions in 5 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; Skip failing legacy test<br />
+    <sub>[#3526](https://github.com/flutter/packages/pull/3526) merged on March 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3526) over 40 minutes, 3 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Switch to quotation imports<br />
     <sub>[#3511](https://github.com/flutter/packages/pull/3511) merged on March 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3511) over 8 hours, 23 additions and 18 deletions in 3 files</sub><br />
