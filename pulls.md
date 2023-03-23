@@ -92,6 +92,3 @@
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Convert `AndroidSemanticsAction` to enum.<br />
     <sub>[#123312](https://github.com/flutter/flutter/pull/123312) opened on on March 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123312) 52 additions and 116 deletions in 4 files</sub><br />
 
-* **[Rydmike](https://github.com/rydmike)** &mdash; FIX: NavigationDrawer hover/focus/pressed do not use indicatorShape<br />
-    <sub>[#123325](https://github.com/flutter/flutter/pull/123325) opened on on March 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123325) 12 additions and 1 deletion in 2 files</sub><br />
-
