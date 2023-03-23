@@ -38,8 +38,8 @@
     <sub><details><summary>2 images...</summary>![Screenshot 2023-03-23 at 12 03 19](https://user-images.githubusercontent.com/39990307/227186716-7ab26f68-5c40-44dd-b592-17d248a8b46a.png) | ![Screenshot 2023-03-23 at 12 02 59](https://user-images.githubusercontent.com/39990307/227186745-80cbc0df-5df3-4357-afcb-7bdf6046f098.png)![Screenshot 2023-03-23 at 12 23 38](https://user-images.githubusercontent.com/39990307/227186332-2f85f32a-cb25-4bbb-8682-2710c6f4710a.png) | ![Screenshot 2023-03-23 at 12 23 23](https://user-images.githubusercontent.com/39990307/227186367-7df4c5ef-9135-4db8-8156-696f83b930a9.png)</details></sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Add platform_channel sample/test<br />
-    <sub>[#123141](https://github.com/flutter/flutter/pull/123141) merged on March 23, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/123141) over 2 days, 1477 additions and 0 deletions in 24 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Loïc Sharma](https://github.com/loic-sharma), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+    <sub>[#123141](https://github.com/flutter/flutter/pull/123141) merged on March 23, 2023 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/123141) over 2 days, 1477 additions and 0 deletions in 24 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman), [Loïc Sharma](https://github.com/loic-sharma), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove indicator from scrolling tab bars<br />
     <sub>[#123057](https://github.com/flutter/flutter/pull/123057) merged on March 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123057) over 1 day, 18 additions and 7 deletions in 2 files</sub><br />
