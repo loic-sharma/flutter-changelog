@@ -1118,7 +1118,7 @@
     <sub>Reviewed by: [Brian Osman](https://github.com/brianosman)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Run windows_arm build only on main branch.
-    <sub>[#40546](https://github.com/flutter/engine/pull/40546) merged on March 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40546) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
+    <sub>[#40546](https://github.com/flutter/engine/pull/40546) merged on March 22, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40546) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Added additional uri field to routeInformationUpdated to accept entir…
