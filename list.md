@@ -941,6 +941,10 @@
     <sub>[#36348](https://github.com/flutter/engine/pull/36348) merged on March 20, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/36348) over 5 months, 189 additions and 45 deletions in 5 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Ensure all golden filenames end in .png.
+    <sub>[#40604](https://github.com/flutter/engine/pull/40604) merged on March 24, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40604) over 1 hour, 5 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Yegor](https://github.com/yjbanov), [Harry Terkelsen](https://github.com/hterkelsen)</sub>
+
 * **[Jim Graham](https://github.com/flar)** &mdash; restructure DL sources into sub-directories and new file naming conventions
     <sub>[#40157](https://github.com/flutter/engine/pull/40157) merged on March 21, 2023 &mdash; **Extra large:** [7 comments](https://github.com/flutter/engine/pull/40157) over 1 week, 822 additions and 801 deletions in 153 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
@@ -948,10 +952,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll HarfBuzz to version 7.1.0
     <sub>[#40131](https://github.com/flutter/engine/pull/40131) merged on March 21, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/40131) over 1 week, 564 additions and 99 deletions in 4 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Ensure all golden filenames end in .png.
-    <sub>[#40604](https://github.com/flutter/engine/pull/40604) merged on March 24, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40604) over 1 hour, 5 additions and 2 deletions in 3 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Harry Terkelsen](https://github.com/hterkelsen)</sub>
 
 * **[joshualitt](https://github.com/joshualitt)** &mdash; [web] Migrate canvaskit_api to JS types.
     <sub>[#40538](https://github.com/flutter/engine/pull/40538) merged on March 24, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/40538) over 1 day, 1461 additions and 348 deletions in 3 files</sub>
