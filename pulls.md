@@ -83,3 +83,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Use SemanticsService.announce to announce form text validation error<br />
     <sub>[#123373](https://github.com/flutter/flutter/pull/123373) opened on on March 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123373) 19 additions and 1 deletion in 2 files</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add version info migration<br />
+    <sub>[#123414](https://github.com/flutter/flutter/pull/123414) opened on on March 24, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/123414) 325 additions and 0 deletions in 4 files</sub><br />
+
