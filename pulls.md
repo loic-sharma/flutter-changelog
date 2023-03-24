@@ -77,3 +77,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Use SemanticsService.announce to announce form text validation error<br />
     <sub>[#123373](https://github.com/flutter/flutter/pull/123373) opened on on March 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123373) 19 additions and 1 deletion in 2 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Animations in NavigationDestination icons don't work<br />
+    <sub>[#123400](https://github.com/flutter/flutter/pull/123400) opened on on March 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123400) 85 additions and 44 deletions in 2 files</sub><br />
+
