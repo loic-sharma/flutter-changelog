@@ -1738,7 +1738,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Round glyph locations per-run to fix per-glyph jitter<br />
     <sub>[#40073](https://github.com/flutter/engine/pull/40073) merged on March 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40073) over 2 days, 64 additions and 14 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix some includes missing "flutter/" prefix.<br />
     <sub>[#40122](https://github.com/flutter/engine/pull/40122) merged on March 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40122) over 59 minutes, 5 additions and 5 deletions in 2 files</sub><br />
