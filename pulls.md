@@ -75,7 +75,7 @@
     <sub>[#123296](https://github.com/flutter/flutter/pull/123296) opened on on March 22, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/123296) 808 additions and 0 deletions in 5 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Use SemanticsService.announce to announce form text validation error<br />
-    <sub>[#123373](https://github.com/flutter/flutter/pull/123373) opened on on March 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123373) 19 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#123373](https://github.com/flutter/flutter/pull/123373) opened on on March 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123373) 25 additions and 10 deletions in 3 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix warning in `flutter create`d project ("package attribute is deprecated" in AndroidManifest)<br />
     <sub>[#123426](https://github.com/flutter/flutter/pull/123426) opened on on March 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123426) 5 additions and 6 deletions in 5 files</sub><br />
