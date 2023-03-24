@@ -74,3 +74,6 @@
 * **[joshualitt](https://github.com/joshualitt)** &mdash; [web] Migrate the bulk of JS interop to JS types.<br />
     <sub>[#123286](https://github.com/flutter/flutter/pull/123286) opened on on March 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123286) 174 additions and 105 deletions in 5 files</sub><br />
 
+* **[hangyu](https://github.com/hangyujin)** &mdash; Use SemanticsService.announce to announce form text validation error<br />
+    <sub>[#123373](https://github.com/flutter/flutter/pull/123373) opened on on March 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123373) 19 additions and 1 deletion in 2 files</sub><br />
+
