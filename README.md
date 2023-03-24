@@ -1846,7 +1846,7 @@
 
 ### March 18, 2023 to March 24, 2023
 
-29 commits.
+30 commits.
 
 * **[Nazareno Cavazzon](https://github.com/NazarenoCavazzon)** &mdash; Return value when pop<br />
     <sub>[#3368](https://github.com/flutter/packages/pull/3368) merged on March 23, 2023 &mdash; **Small:** [53 comments](https://github.com/flutter/packages/pull/3368) over 2 weeks, 117 additions and 31 deletions in 12 files</sub><br />
@@ -1920,6 +1920,10 @@
 * **[Sarbagya Dhaubanjar](https://github.com/sarbagyastha)** &mdash; [go_router] Added `initialExtra` param to GoRouter<br />
     <sub>[#3472](https://github.com/flutter/packages/pull/3472) merged on March 22, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3472) over 6 days, 61 additions and 5 deletions in 5 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
+
+* **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Adding autosubmit configuration pointer file<br />
+    <sub>[#3521](https://github.com/flutter/packages/pull/3521) merged on March 24, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/3521) over 1 day, 7 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; Skip failing legacy test<br />
     <sub>[#3526](https://github.com/flutter/packages/pull/3526) merged on March 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3526) over 40 minutes, 3 additions and 0 deletions in 1 file</sub><br />
