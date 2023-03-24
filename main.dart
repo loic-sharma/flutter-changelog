@@ -145,6 +145,7 @@ bool _ignore(Commit commit) {
 
   if (pr.authorLogin == 'fluttergithubbot') {
     if (pr.title.startsWith('Roll pub packages')) return true;
+    if (pr.title.startsWith('Marks') && pr.title.endsWith('to be unflaky')) return true;
   }
 
   if (pr.authorLogin == 'engine-flutter-autoroll') {
