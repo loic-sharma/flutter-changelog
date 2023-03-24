@@ -83,6 +83,3 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Use SemanticsService.announce to announce form text validation error<br />
     <sub>[#123373](https://github.com/flutter/flutter/pull/123373) opened on on March 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123373) 19 additions and 1 deletion in 2 files</sub><br />
 
-* **[Harry Terkelsen](https://github.com/hterkelsen)** &mdash; Turn on --web-resources-cdn by default<br />
-    <sub>[#123425](https://github.com/flutter/flutter/pull/123425) opened on on March 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123425) 1 addition and 1 deletion in 1 file</sub><br />
-
