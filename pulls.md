@@ -62,14 +62,8 @@
 * **[Leibo Ye](https://github.com/yeleibo)** &mdash; Fix FormField implementation components TextFormField, DropdownButtonFormField, CupertinoTextFormFieldRow. The problem that their onChange() method cannot be executed when the parent Form component calls the reset() method<br />
     <sub>[#123108](https://github.com/flutter/flutter/pull/123108) opened on on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123108) 17 additions and 4 deletions in 3 files</sub><br />
 
-* **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; [Documentation] Add ActionChip in disabled state<br />
-    <sub>[#123143](https://github.com/flutter/flutter/pull/123143) opened on on March 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123143) 4 additions and 3 deletions in 1 file</sub><br />
-
 * **[Sebastian Schneider](https://github.com/Sese-Schneider)** &mdash; Add documentation on how to use `dart-define` with `gradlew`<br />
     <sub>[#123205](https://github.com/flutter/flutter/pull/123205) opened on on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123205) 7 additions and 0 deletions in 1 file</sub><br />
-
-* **[Dream.Machine](https://github.com/944095635)** &mdash; Update app_bar.dart<br />
-    <sub>[#123216](https://github.com/flutter/flutter/pull/123216) opened on on March 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123216) 14 additions and 6 deletions in 1 file</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add myself to AUTHORS<br />
     <sub>[#123268](https://github.com/flutter/flutter/pull/123268) opened on on March 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123268) 2 additions and 0 deletions in 1 file</sub><br />
