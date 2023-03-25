@@ -52,8 +52,8 @@
     <sub><details><summary>2 images...</summary><img width="391" alt="Screenshot 2023-03-21 at 9 45 35 AM" src="https://user-images.githubusercontent.com/58190796/226682345-fdbde5b8-236a-4ff4-afd5-9c9780a13e8b.png"><img width="391" alt="Screenshot 2023-03-21 at 9 45 22 AM" src="https://user-images.githubusercontent.com/58190796/226682366-fbb0776b-e92b-4cef-a7c7-36fa5cddeb40.png"></details></sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Add platform_channel sample/test<br />
-    <sub>[#123141](https://github.com/flutter/flutter/pull/123141) merged on March 23, 2023 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/123141) over 2 days, 1477 additions and 0 deletions in 24 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman), [Loïc Sharma](https://github.com/loic-sharma), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+    <sub>[#123141](https://github.com/flutter/flutter/pull/123141) merged on March 23, 2023 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/123141) over 2 days, 1477 additions and 0 deletions in 24 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin), [Loïc Sharma](https://github.com/loic-sharma), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Rydmike](https://github.com/rydmike)** &mdash; FIX: NavigationDrawer hover/focus/pressed do not use indicatorShape<br />
     <sub>[#123325](https://github.com/flutter/flutter/pull/123325) merged on March 23, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/123325) over 6 hours, 12 additions and 1 deletion in 2 files</sub><br />
