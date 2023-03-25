@@ -74,6 +74,9 @@
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Create CupertinoRadio Widget<br />
     <sub>[#123296](https://github.com/flutter/flutter/pull/123296) opened on on March 22, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/123296) 808 additions and 0 deletions in 5 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Remove --no-sound-null-safety #3<br />
+    <sub>[#123297](https://github.com/flutter/flutter/pull/123297) opened on on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123297) 97 additions and 136 deletions in 8 files</sub><br />
+
 * **[hangyu](https://github.com/hangyujin)** &mdash; Use SemanticsService.announce to announce form text validation error<br />
     <sub>[#123373](https://github.com/flutter/flutter/pull/123373) opened on on March 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123373) 25 additions and 10 deletions in 3 files</sub><br />
 
