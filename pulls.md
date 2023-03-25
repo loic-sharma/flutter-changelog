@@ -81,5 +81,5 @@
     <sub>[#123426](https://github.com/flutter/flutter/pull/123426) opened on on March 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123426) 5 additions and 6 deletions in 5 files</sub><br />
 
 * **[Gil Nobrega](https://github.com/gilnobrega)** &mdash; Do not animate `TabBarView` if controller is invalid<br />
-    <sub>[#123442](https://github.com/flutter/flutter/pull/123442) opened on on March 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123442) 4 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#123442](https://github.com/flutter/flutter/pull/123442) opened on on March 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123442) 66 additions and 0 deletions in 2 files</sub><br />
 
