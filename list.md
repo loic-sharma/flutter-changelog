@@ -937,10 +937,6 @@
     <sub>[#39302](https://github.com/flutter/engine/pull/39302) merged on March 21, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/39302) over 1 month, 65 additions and 36 deletions in 1 file</sub>
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks), [pdblasi-google](https://github.com/pdblasi-google)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] More sundry fixes to the Vulkan backend.
-    <sub>[#40603](https://github.com/flutter/engine/pull/40603) merged on March 25, 2023 &mdash; **Extra large:** [7 comments](https://github.com/flutter/engine/pull/40603) over 1 day, 3200 additions and 1696 deletions in 96 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso), [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Send PointerSignalKind.scale events from web
     <sub>[#36348](https://github.com/flutter/engine/pull/36348) merged on March 20, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/36348) over 5 months, 189 additions and 45 deletions in 5 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mouad Debbar](https://github.com/mdebbar)</sub>
@@ -956,6 +952,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll HarfBuzz to version 7.1.0
     <sub>[#40131](https://github.com/flutter/engine/pull/40131) merged on March 21, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/40131) over 1 week, 564 additions and 99 deletions in 4 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] More sundry fixes to the Vulkan backend.
+    <sub>[#40603](https://github.com/flutter/engine/pull/40603) merged on March 25, 2023 &mdash; **Extra large:** [7 comments](https://github.com/flutter/engine/pull/40603) over 1 day, 3200 additions and 1696 deletions in 96 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso), [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[joshualitt](https://github.com/joshualitt)** &mdash; [web] Migrate canvaskit_api to JS types.
     <sub>[#40538](https://github.com/flutter/engine/pull/40538) merged on March 24, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/40538) over 1 day, 1461 additions and 348 deletions in 3 files</sub>
