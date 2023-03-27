@@ -365,7 +365,7 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use depfile with dart2wasm to determine when to rebuild.<br />
     <sub>[#122817](https://github.com/flutter/flutter/pull/122817) merged on March 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122817) over 5 hours, 11 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Yegor](https://github.com/yjbanov)</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField should support disabled input text style<br />
     <sub>[#119216](https://github.com/flutter/flutter/pull/119216) merged on March 17, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/119216) over 1 month, 90 additions and 7 deletions in 3 files</sub><br />
@@ -842,7 +842,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove bringup option from Fuchsia Linux FEMU<br />
     <sub>[#40537](https://github.com/flutter/engine/pull/40537) merged on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40537) over 55 minutes, 0 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Added additional uri field to routeInformationUpdated to accept entir…<br />
     <sub>[#40250](https://github.com/flutter/engine/pull/40250) merged on March 24, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40250) over 1 week, 40 additions and 1 deletion in 2 files</sub><br />
@@ -1010,7 +1010,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove work around for dart 3 compiler bug<br />
     <sub>[#40350](https://github.com/flutter/engine/pull/40350) merged on March 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40350) over 5 hours, 0 additions and 3 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [Impeller] Un-bitrot impeller_unittests; disable failing tests; disable non-metal backends.<br />
     <sub>[#40339](https://github.com/flutter/engine/pull/40339) merged on March 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40339) over 22 hours, 156 additions and 65 deletions in 18 files</sub><br />
@@ -1046,7 +1046,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Ignore some MTLCompiler failures in impeller unit tests<br />
     <sub>[#40391](https://github.com/flutter/engine/pull/40391) merged on March 17, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/40391) over 1 hour, 55 additions and 29 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Rename FlutterViewController.id to viewId<br />
     <sub>[#40323](https://github.com/flutter/engine/pull/40323) merged on March 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40323) over 2 hours, 18 additions and 20 deletions in 4 files</sub><br />
@@ -1573,7 +1573,7 @@
 
 * **[Braden Bagby](https://github.com/BradenBagby)** &mdash; [camera] Reland android flip/change camera while recording<br />
     <sub>[#3460](https://github.com/flutter/packages/pull/3460) merged on March 17, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3460) over 2 days, 780 additions and 47 deletions in 12 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 </details>
 
