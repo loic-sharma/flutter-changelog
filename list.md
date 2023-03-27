@@ -4,7 +4,11 @@
 
 ### March 25, 2023 to March 31, 2023
 
-3 commits.
+4 commits.
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make Element tree root generic
+    <sub>[#123352](https://github.com/flutter/flutter/pull/123352) merged on March 27, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/123352) over 4 days, 95 additions and 55 deletions in 19 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; throw `ToolExit` when `--web-port` is an integer outside the valid TCP port range
     <sub>[#123269](https://github.com/flutter/flutter/pull/123269) merged on March 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123269) over 5 days, 48 additions and 7 deletions in 3 files</sub>
@@ -64,7 +68,7 @@
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Navaron Bracke](https://github.com/navaronbracke), [Greg Price](https://github.com/gnprice)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Add platform_channel sample/test
-    <sub>[#123141](https://github.com/flutter/flutter/pull/123141) merged on March 23, 2023 &mdash; **Large:** [43 comments](https://github.com/flutter/flutter/pull/123141) over 2 days, 1477 additions and 0 deletions in 24 files</sub>
+    <sub>[#123141](https://github.com/flutter/flutter/pull/123141) merged on March 23, 2023 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/123141) over 2 days, 1477 additions and 0 deletions in 24 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin), [Loïc Sharma](https://github.com/loic-sharma), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; Make InkDecoration not paint if the ink is not visible
