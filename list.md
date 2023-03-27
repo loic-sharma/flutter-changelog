@@ -599,7 +599,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Reland "Speed up first asset load by using the binary-formatted asset manifest for image resolution"
     <sub>[#122449](https://github.com/flutter/flutter/pull/122449) merged on March 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122449) over 2 hours, 156 additions and 93 deletions in 5 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert "Manual roll Flutter Engine from e9ca7b2c457b to 7572fe5b9226 (16 revisions)"
     <sub>[#122455](https://github.com/flutter/flutter/pull/122455) merged on March 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122455) over 29 minutes, 1 addition and 1 deletion in 1 file</sub>
@@ -1358,9 +1358,18 @@
 
 ## flutter/packages
 
+### March 25, 2023 to March 31, 2023
+
+1 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Fix CameraInfo cast causing failure in integration test
+    <sub>[#3558](https://github.com/flutter/packages/pull/3558) merged on March 27, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3558) over 1 hour, 2 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
 ### March 18, 2023 to March 24, 2023
 
-31 commits.
+<details>
+<summary>31 commits...</summary>
 
 * **[Nazareno Cavazzon](https://github.com/NazarenoCavazzon)** &mdash; Return value when pop
     <sub>[#3368](https://github.com/flutter/packages/pull/3368) merged on March 23, 2023 &mdash; **Small:** [53 comments](https://github.com/flutter/packages/pull/3368) over 2 weeks, 117 additions and 31 deletions in 12 files</sub>
@@ -1490,6 +1499,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 2ad6cd72c040 to 90c64ed42ba5 (3 revisions)
     <sub>[#3533](https://github.com/flutter/packages/pull/3533) merged on March 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3533) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### March 11, 2023 to March 17, 2023
 
