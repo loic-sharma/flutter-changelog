@@ -648,7 +648,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-14 commits.
+15 commits.
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Post 3.0 lint sync<br />
     <sub>[#40394](https://github.com/flutter/engine/pull/40394) merged on March 27, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/40394) over 1 week, 68 additions and 377 deletions in 75 files</sub><br />
@@ -665,6 +665,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Accepts assetBase through JS config.<br />
     <sub>[#40615](https://github.com/flutter/engine/pull/40615) merged on March 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40615) over 2 days, 211 additions and 21 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Improved readme for impeller golden tests.<br />
+    <sub>[#40679](https://github.com/flutter/engine/pull/40679) merged on March 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40679) over 2 hours, 15 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] initialize text alpha to 1.0<br />
     <sub>[#40667](https://github.com/flutter/engine/pull/40667) merged on March 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40667) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
