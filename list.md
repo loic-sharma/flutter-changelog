@@ -72,6 +72,10 @@
     <sub>[#123057](https://github.com/flutter/flutter/pull/123057) merged on March 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123057) over 1 day, 18 additions and 7 deletions in 2 files</sub>
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove 1745 decorative breaks
+    <sub>[#123259](https://github.com/flutter/flutter/pull/123259) merged on March 22, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/123259) over 2 hours, 2 additions and 1749 deletions in 291 files</sub>
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chris Bracken](https://github.com/cbracken)</sub>
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add customizable mouse cursor to `DataTable`
     <sub>[#123128](https://github.com/flutter/flutter/pull/123128) merged on March 24, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/123128) over 2 days, 329 additions and 17 deletions in 4 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
@@ -84,10 +88,6 @@
     <sub>[#123071](https://github.com/flutter/flutter/pull/123071) merged on March 21, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/123071) over 1 hour, 260 additions and 260 deletions in 60 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[Jan Kuß](https://github.com/jankuss)** &mdash; Fix selection toolbar not showing on drag end
-    <sub>[#121110](https://github.com/flutter/flutter/pull/121110) merged on March 26, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/121110) over 1 month, 50 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
-
 * **[Dan Field](https://github.com/dnfield)** &mdash; Make EditableText respect MediaQuery.boldTextOf
     <sub>[#122754](https://github.com/flutter/flutter/pull/122754) merged on March 21, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/122754) over 5 days, 83 additions and 19 deletions in 3 files</sub>
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [LongCatIsLooong](https://github.com/LongCatIsLooong), [chunhtai](https://github.com/chunhtai)</sub>
@@ -96,9 +96,9 @@
     <sub>[#123031](https://github.com/flutter/flutter/pull/123031) merged on March 20, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/123031) over 5 hours, 130 additions and 1126 deletions in 67 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove 1745 decorative breaks
-    <sub>[#123259](https://github.com/flutter/flutter/pull/123259) merged on March 22, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/123259) over 2 hours, 2 additions and 1749 deletions in 291 files</sub>
-    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chris Bracken](https://github.com/cbracken)</sub>
+* **[Jan Kuß](https://github.com/jankuss)** &mdash; Fix selection toolbar not showing on drag end
+    <sub>[#121110](https://github.com/flutter/flutter/pull/121110) merged on March 26, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/121110) over 1 month, 50 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Deprecate BindingBase.window
     <sub>[#120998](https://github.com/flutter/flutter/pull/120998) merged on March 21, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/120998) over 1 month, 46 additions and 32 deletions in 4 files</sub>
@@ -124,17 +124,17 @@
     <sub>[#122446](https://github.com/flutter/flutter/pull/122446) merged on March 24, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/122446) over 1 week, 60 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Bernardo Ferrari](https://github.com/bernaferrari), [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Stop serving Observatory by default
-    <sub>[#122419](https://github.com/flutter/flutter/pull/122419) merged on March 23, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/122419) over 1 week, 8 additions and 44 deletions in 5 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+* **[Shibata Ryusei](https://github.com/ShibataRyusei)** &mdash; Add lints test for all templates
+    <sub>[#120526](https://github.com/flutter/flutter/pull/120526) merged on March 26, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/120526) over 1 month, 45 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Janice Collins](https://github.com/jcollins-g)** &mdash; Suppress analytics flag pass through to analysis server
     <sub>[#123235](https://github.com/flutter/flutter/pull/123235) merged on March 24, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/123235) over 2 days, 71 additions and 1 deletion in 10 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
-* **[Shibata Ryusei](https://github.com/ShibataRyusei)** &mdash; Add lints test for all templates
-    <sub>[#120526](https://github.com/flutter/flutter/pull/120526) merged on March 26, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/120526) over 1 month, 45 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Stop serving Observatory by default
+    <sub>[#122419](https://github.com/flutter/flutter/pull/122419) merged on March 23, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/122419) over 1 week, 8 additions and 44 deletions in 5 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Set plugin template minimum iOS version to 11.0
     <sub>[#122625](https://github.com/flutter/flutter/pull/122625) merged on March 21, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/122625) over 6 days, 58 additions and 32 deletions in 9 files</sub>
@@ -172,9 +172,9 @@
     <sub>[#123075](https://github.com/flutter/flutter/pull/123075) merged on March 21, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123075) over 23 hours, 4 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [godofredoc](https://github.com/godofredoc)</sub>
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] toolexit on malformed yaml during gen-l10n
-    <sub>[#123167](https://github.com/flutter/flutter/pull/123167) merged on March 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123167) over 2 hours, 22 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Jenn Magder](https://github.com/jmagman)</sub>
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix error message for unbounded viewports
+    <sub>[#123035](https://github.com/flutter/flutter/pull/123035) merged on March 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123035) over 3 hours, 198 additions and 71 deletions in 4 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; delete sksl benchmarks
     <sub>[#123163](https://github.com/flutter/flutter/pull/123163) merged on March 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123163) over 49 minutes, 0 additions and 178 deletions in 3 files</sub>
@@ -220,9 +220,9 @@
     <sub>[#122928](https://github.com/flutter/flutter/pull/122928) merged on March 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122928) over 2 days, 40 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix error message for unbounded viewports
-    <sub>[#123035](https://github.com/flutter/flutter/pull/123035) merged on March 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123035) over 3 hours, 198 additions and 71 deletions in 4 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] toolexit on malformed yaml during gen-l10n
+    <sub>[#123167](https://github.com/flutter/flutter/pull/123167) merged on March 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123167) over 2 hours, 22 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Workaround for exhaustiveness bug in dart2js
     <sub>[#123242](https://github.com/flutter/flutter/pull/123242) merged on March 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123242) over 5 hours, 6 additions and 0 deletions in 1 file</sub>
