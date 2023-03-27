@@ -615,11 +615,15 @@
 
 ### March 25, 2023 to March 31, 2023
 
-4 commits.
+5 commits.
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Post 3.0 lint sync<br />
     <sub>[#40394](https://github.com/flutter/engine/pull/40394) merged on March 27, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/40394) over 1 week, 68 additions and 377 deletions in 75 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Dan Field](https://github.com/dnfield)</sub><br />
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Accepts assetBase through JS config.<br />
+    <sub>[#40615](https://github.com/flutter/engine/pull/40615) merged on March 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40615) over 2 days, 211 additions and 21 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Filip Filmar](https://github.com/filmil)** &mdash; Remove timezone from flutter<br />
     <sub>[#40588](https://github.com/flutter/engine/pull/40588) merged on March 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40588) over 3 days, 0 additions and 1 deletion in 1 file</sub><br />
@@ -1376,7 +1380,11 @@
 
 ### March 25, 2023 to March 31, 2023
 
-2 commits.
+3 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Check Java integration test configuration<br />
+    <sub>[#3499](https://github.com/flutter/packages/pull/3499) merged on March 27, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/3499) over 6 days, 168 additions and 38 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Andrew Coutts](https://github.com/acoutts)** &mdash; [camera_platform_interface] Add NV21 as an image stream format<br />
     <sub>[#3469](https://github.com/flutter/packages/pull/3469) merged on March 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3469) over 1 week, 12 additions and 2 deletions in 4 files</sub><br />
