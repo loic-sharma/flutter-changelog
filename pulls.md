@@ -89,6 +89,3 @@
 * **[Marco Domingos](https://github.com/Marco4763)** &mdash; added a duration feature to automatically dismiss the dialog accordin…<br />
     <sub>[#123475](https://github.com/flutter/flutter/pull/123475) opened on on March 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123475) 94 additions and 2 deletions in 2 files</sub><br />
 
-* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `shape` and `indicatorBorderRadius` to LinearProgressIndicator<br />
-    <sub>[#123517](https://github.com/flutter/flutter/pull/123517) opened on on March 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123517) 81 additions and 3 deletions in 2 files</sub><br />
-
