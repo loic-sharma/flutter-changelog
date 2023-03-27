@@ -65,14 +65,8 @@
 * **[Sebastian Schneider](https://github.com/Sese-Schneider)** &mdash; Add documentation on how to use `dart-define` with `gradlew`<br />
     <sub>[#123205](https://github.com/flutter/flutter/pull/123205) opened on on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123205) 7 additions and 0 deletions in 1 file</sub><br />
 
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add myself to AUTHORS<br />
-    <sub>[#123268](https://github.com/flutter/flutter/pull/123268) opened on on March 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123268) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[joshualitt](https://github.com/joshualitt)** &mdash; [web] Migrate the bulk of JS interop to JS types.<br />
     <sub>[#123286](https://github.com/flutter/flutter/pull/123286) opened on on March 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123286) 174 additions and 105 deletions in 5 files</sub><br />
-
-* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Create CupertinoRadio Widget<br />
-    <sub>[#123296](https://github.com/flutter/flutter/pull/123296) opened on on March 22, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/123296) 808 additions and 0 deletions in 5 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Use SemanticsService.announce to announce form text validation error<br />
     <sub>[#123373](https://github.com/flutter/flutter/pull/123373) opened on on March 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123373) 25 additions and 10 deletions in 3 files</sub><br />

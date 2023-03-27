@@ -615,7 +615,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-3 commits.
+4 commits.
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Post 3.0 lint sync<br />
     <sub>[#40394](https://github.com/flutter/engine/pull/40394) merged on March 27, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/40394) over 1 week, 68 additions and 377 deletions in 75 files</sub><br />
@@ -628,6 +628,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart SDK to a040e32db8f2<br />
     <sub>[#40656](https://github.com/flutter/engine/pull/40656) merged on March 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40656) over 47 minutes, 5 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Document tricky bits in EntityPass, make positioning less confusing<br />
+    <sub>[#40636](https://github.com/flutter/engine/pull/40636) merged on March 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40636) over 1 day, 140 additions and 38 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 ### March 18, 2023 to March 24, 2023
 
