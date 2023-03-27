@@ -817,7 +817,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Run windows_arm build only on main branch.<br />
-    <sub>[#40546](https://github.com/flutter/engine/pull/40546) merged on March 22, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40546) over 1 hour, 3 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#40546](https://github.com/flutter/engine/pull/40546) merged on March 22, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/40546) over 1 hour, 3 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Turn on CanvasKit Chromium<br />
