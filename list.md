@@ -691,7 +691,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "Post 3.0 lint sync"
-    <sub>[#40687](https://github.com/flutter/engine/pull/40687) merged on March 27, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/40687) over 1 minute, 377 additions and 68 deletions in 75 files</sub>
+    <sub>[#40687](https://github.com/flutter/engine/pull/40687) merged on March 27, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/40687) over 1 minute, 377 additions and 68 deletions in 75 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; Revert "[web] Accepts assetBase through JS config. (#40615)"
