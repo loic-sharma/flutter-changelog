@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### March 25, 2023 to March 31, 2023
+
+1 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Allow spell check to fail silently on unsupported platforms & spell checkers
+    <sub>[#122715](https://github.com/flutter/flutter/pull/122715) merged on March 27, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/122715) over 1 week, 48 additions and 28 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
 ### March 18, 2023 to March 24, 2023
 
-66 commits.
+<details>
+<summary>66 commits...</summary>
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add Non-Uniform Border to Border.
     <sub>[#121921](https://github.com/flutter/flutter/pull/121921) merged on March 24, 2023 &mdash; **Medium:** [28 comments](https://github.com/flutter/flutter/pull/121921) over 2 weeks, 245 additions and 56 deletions in 3 files</sub>
@@ -275,6 +284,8 @@
 * **[acumen](https://github.com/acumen1005)** &mdash; Reland "Fix bug with clicking `Copy` or `Select All` within contextMenu"
     <sub>[#122973](https://github.com/flutter/flutter/pull/122973) merged on March 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122973) over 1 day, 145 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub>
+
+</details>
 
 ### March 11, 2023 to March 17, 2023
 
