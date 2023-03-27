@@ -4,7 +4,11 @@
 
 ### March 25, 2023 to March 31, 2023
 
-7 commits.
+8 commits.
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add TextField triple tap/click gestures<br />
+    <sub>[#119046](https://github.com/flutter/flutter/pull/119046) merged on March 27, 2023 &mdash; **Extra large:** [110 comments](https://github.com/flutter/flutter/pull/119046) over 2 months, 2713 additions and 21 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tomasz Gucio](https://github.com/tgucio)</sub><br />
 
 * **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Added backgroundColor and disabledBackgroundColor to SnackBarAction.<br />
     <sub>[#118786](https://github.com/flutter/flutter/pull/118786) merged on March 27, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/118786) over 2 months, 441 additions and 13 deletions in 4 files</sub><br />
@@ -80,7 +84,7 @@
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Navaron Bracke](https://github.com/navaronbracke), [Greg Price](https://github.com/gnprice)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Add platform_channel sample/test<br />
-    <sub>[#123141](https://github.com/flutter/flutter/pull/123141) merged on March 23, 2023 &mdash; **Large:** [49 comments](https://github.com/flutter/flutter/pull/123141) over 2 days, 1477 additions and 0 deletions in 24 files</sub><br />
+    <sub>[#123141](https://github.com/flutter/flutter/pull/123141) merged on March 23, 2023 &mdash; **Large:** [52 comments](https://github.com/flutter/flutter/pull/123141) over 2 days, 1477 additions and 0 deletions in 24 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin), [Loïc Sharma](https://github.com/loic-sharma), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; Make InkDecoration not paint if the ink is not visible<br />
@@ -635,7 +639,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-11 commits.
+13 commits.
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Post 3.0 lint sync<br />
     <sub>[#40394](https://github.com/flutter/engine/pull/40394) merged on March 27, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/40394) over 1 week, 68 additions and 377 deletions in 75 files</sub><br />
@@ -681,6 +685,14 @@
     <sub>[#40670](https://github.com/flutter/engine/pull/40670) merged on March 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40670) over 18 minutes, 21 additions and 211 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "Return an empty JavaScript object as a replacement for exports/module in patchCanvasKitModule"<br />
+    <sub>[#40686](https://github.com/flutter/engine/pull/40686) merged on March 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40686) over 2 minutes, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[joshualitt](https://github.com/joshualitt)** &mdash; Revert "[web] Add `js_types` sources to build."<br />
+    <sub>[#40685](https://github.com/flutter/engine/pull/40685) merged on March 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40685) over 15 minutes, 0 additions and 25 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
 ### March 18, 2023 to March 24, 2023
 
 <details>
@@ -704,7 +716,7 @@
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Avoid implicit conversions to floats in dart:ui<br />
-    <sub>[#40098](https://github.com/flutter/engine/pull/40098) merged on March 24, 2023 &mdash; **Large:** [9 comments](https://github.com/flutter/engine/pull/40098) over 2 weeks, 626 additions and 577 deletions in 31 files</sub><br />
+    <sub>[#40098](https://github.com/flutter/engine/pull/40098) merged on March 24, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/40098) over 2 weeks, 626 additions and 577 deletions in 31 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Allocate images into host buffer, blit to device private texture.<br />
