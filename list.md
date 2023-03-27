@@ -1420,7 +1420,19 @@
 
 ### March 25, 2023 to March 31, 2023
 
-3 commits.
+6 commits.
+
+* **[Nate Bosch](https://github.com/natebosch)** &mdash; Update to the latest pigeon
+    <sub>[#3561](https://github.com/flutter/packages/pull/3561) merged on March 27, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/3561) over 4 hours, 559 additions and 790 deletions in 4 files</sub>
+    <sub>Reviewed by: [gmackall](https://github.com/gmackall)</sub>
+
+* **[Nate Bosch](https://github.com/natebosch)** &mdash; Update image_picker_ios to the latest pigeon
+    <sub>[#3563](https://github.com/flutter/packages/pull/3563) merged on March 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3563) over 3 hours, 108 additions and 114 deletions in 6 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Adopt readme excerpts
+    <sub>[#3507](https://github.com/flutter/packages/pull/3507) merged on March 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3507) over 6 days, 157 additions and 24 deletions in 8 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Check Java integration test configuration
     <sub>[#3499](https://github.com/flutter/packages/pull/3499) merged on March 27, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/3499) over 6 days, 168 additions and 38 deletions in 2 files</sub>
