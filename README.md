@@ -4,11 +4,19 @@
 
 ### March 25, 2023 to March 31, 2023
 
-4 commits.
+6 commits.
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make Element tree root generic<br />
     <sub>[#123352](https://github.com/flutter/flutter/pull/123352) merged on March 27, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/123352) over 4 days, 95 additions and 55 deletions in 19 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Animations in NavigationDestination icons don't work<br />
+    <sub>[#123400](https://github.com/flutter/flutter/pull/123400) merged on March 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123400) over 3 days, 85 additions and 41 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Make InkInteractiveFeature customBorder updatable<br />
+    <sub>[#123536](https://github.com/flutter/flutter/pull/123536) merged on March 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123536) over 6 hours, 133 additions and 24 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; throw `ToolExit` when `--web-port` is an integer outside the valid TCP port range<br />
     <sub>[#123269](https://github.com/flutter/flutter/pull/123269) merged on March 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123269) over 5 days, 48 additions and 7 deletions in 3 files</sub><br />
@@ -68,7 +76,7 @@
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Navaron Bracke](https://github.com/navaronbracke), [Greg Price](https://github.com/gnprice)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Add platform_channel sample/test<br />
-    <sub>[#123141](https://github.com/flutter/flutter/pull/123141) merged on March 23, 2023 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/123141) over 2 days, 1477 additions and 0 deletions in 24 files</sub><br />
+    <sub>[#123141](https://github.com/flutter/flutter/pull/123141) merged on March 23, 2023 &mdash; **Large:** [47 comments](https://github.com/flutter/flutter/pull/123141) over 2 days, 1477 additions and 0 deletions in 24 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin), [Loïc Sharma](https://github.com/loic-sharma), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; Make InkDecoration not paint if the ink is not visible<br />
