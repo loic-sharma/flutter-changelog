@@ -89,6 +89,3 @@
 * **[Marco Domingos](https://github.com/Marco4763)** &mdash; Added a duration feature to automatically dismiss the dialog accordin…<br />
     <sub>[#123475](https://github.com/flutter/flutter/pull/123475) opened on on March 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123475) 94 additions and 2 deletions in 2 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Revert "Roll Flutter Engine from 685fbc6f4d9d to 3ecc5cc53bd0 (23 revisions)"<br />
-    <sub>[#123551](https://github.com/flutter/flutter/pull/123551) opened on on March 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123551) 3 additions and 3 deletions in 3 files</sub><br />
-

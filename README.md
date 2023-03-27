@@ -4,11 +4,15 @@
 
 ### March 25, 2023 to March 31, 2023
 
-1 commits.
+2 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Allow spell check to fail silently on unsupported platforms & spell checkers<br />
     <sub>[#122715](https://github.com/flutter/flutter/pull/122715) merged on March 27, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/122715) over 1 week, 48 additions and 28 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Revert "Roll Flutter Engine from 685fbc6f4d9d to 3ecc5cc53bd0 (23 revisions)"<br />
+    <sub>[#123551](https://github.com/flutter/flutter/pull/123551) merged on March 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/123551) over 7 minutes, 3 additions and 3 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### March 18, 2023 to March 24, 2023
 
@@ -1368,7 +1372,11 @@
 
 ### March 25, 2023 to March 31, 2023
 
-1 commits.
+2 commits.
+
+* **[Andrew Coutts](https://github.com/acoutts)** &mdash; [camera_platform_interface] Add NV21 as an image stream format<br />
+    <sub>[#3469](https://github.com/flutter/packages/pull/3469) merged on March 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3469) over 1 week, 12 additions and 2 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Fix CameraInfo cast causing failure in integration test<br />
     <sub>[#3558](https://github.com/flutter/packages/pull/3558) merged on March 27, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3558) over 1 hour, 2 additions and 1 deletion in 2 files</sub><br />
