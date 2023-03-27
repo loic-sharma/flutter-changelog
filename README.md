@@ -4,7 +4,11 @@
 
 ### March 25, 2023 to March 31, 2023
 
-2 commits.
+3 commits.
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; throw `ToolExit` when `--web-port` is an integer outside the valid TCP port range<br />
+    <sub>[#123269](https://github.com/flutter/flutter/pull/123269) merged on March 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123269) over 5 days, 48 additions and 7 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Allow spell check to fail silently on unsupported platforms & spell checkers<br />
     <sub>[#122715](https://github.com/flutter/flutter/pull/122715) merged on March 27, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/122715) over 1 week, 48 additions and 28 deletions in 2 files</sub><br />
@@ -59,6 +63,10 @@
     <sub>[#122787](https://github.com/flutter/flutter/pull/122787) merged on March 22, 2023 &mdash; **Large:** [50 comments](https://github.com/flutter/flutter/pull/122787) over 6 days, 730 additions and 211 deletions in 30 files</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Navaron Bracke](https://github.com/navaronbracke), [Greg Price](https://github.com/gnprice)</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Add platform_channel sample/test<br />
+    <sub>[#123141](https://github.com/flutter/flutter/pull/123141) merged on March 23, 2023 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/123141) over 2 days, 1477 additions and 0 deletions in 24 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin), [Loïc Sharma](https://github.com/loic-sharma), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; Make InkDecoration not paint if the ink is not visible<br />
     <sub>[#122585](https://github.com/flutter/flutter/pull/122585) merged on March 25, 2023 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/122585) over 1 week, 319 additions and 20 deletions in 6 files</sub><br />
     <sub>Reviewed by: [xubaolin](https://github.com/xu-baolin), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
@@ -71,10 +79,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Clean up scrolling delegate code for 2D<br />
     <sub>[#122651](https://github.com/flutter/flutter/pull/122651) merged on March 23, 2023 &mdash; **Extra large:** [12 comments](https://github.com/flutter/flutter/pull/122651) over 1 week, 873 additions and 880 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [chunhtai](https://github.com/chunhtai)</sub><br />
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Add platform_channel sample/test<br />
-    <sub>[#123141](https://github.com/flutter/flutter/pull/123141) merged on March 23, 2023 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/123141) over 2 days, 1477 additions and 0 deletions in 24 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin), [Loïc Sharma](https://github.com/loic-sharma), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Rydmike](https://github.com/rydmike)** &mdash; FIX: NavigationDrawer hover/focus/pressed do not use indicatorShape<br />
     <sub>[#123325](https://github.com/flutter/flutter/pull/123325) merged on March 23, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/123325) over 6 hours, 12 additions and 1 deletion in 2 files</sub><br />
@@ -615,11 +619,15 @@
 
 ### March 25, 2023 to March 31, 2023
 
-7 commits.
+10 commits.
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Post 3.0 lint sync<br />
     <sub>[#40394](https://github.com/flutter/engine/pull/40394) merged on March 27, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/40394) over 1 week, 68 additions and 377 deletions in 75 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Dan Field](https://github.com/dnfield)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Return an empty JavaScript object as a replacement for exports/module in patchCanvasKitModule<br />
+    <sub>[#40582](https://github.com/flutter/engine/pull/40582) merged on March 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40582) over 3 days, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Accepts assetBase through JS config.<br />
     <sub>[#40615](https://github.com/flutter/engine/pull/40615) merged on March 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40615) over 2 days, 211 additions and 21 deletions in 4 files</sub><br />
@@ -636,6 +644,14 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart SDK to a040e32db8f2<br />
     <sub>[#40656](https://github.com/flutter/engine/pull/40656) merged on March 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40656) over 47 minutes, 5 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[bungeman](https://github.com/bungeman)** &mdash; Simplify SkFontMgr classes for sk_sp<br />
+    <sub>[#40627](https://github.com/flutter/engine/pull/40627) merged on March 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40627) over 2 days, 34 additions and 62 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[joshualitt](https://github.com/joshualitt)** &mdash; [web] Add `js_types` sources to build.<br />
+    <sub>[#40597](https://github.com/flutter/engine/pull/40597) merged on March 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40597) over 3 days, 25 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Document tricky bits in EntityPass, make positioning less confusing<br />
     <sub>[#40636](https://github.com/flutter/engine/pull/40636) merged on March 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40636) over 1 day, 140 additions and 38 deletions in 2 files</sub><br />
