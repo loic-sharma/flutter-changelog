@@ -598,9 +598,18 @@
 
 ## flutter/engine
 
+### March 25, 2023 to March 31, 2023
+
+1 commits.
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart SDK to a040e32db8f2<br />
+    <sub>[#40656](https://github.com/flutter/engine/pull/40656) merged on March 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40656) over 47 minutes, 5 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
 ### March 18, 2023 to March 24, 2023
 
-77 commits.
+<details>
+<summary>77 commits...</summary>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use lossy texture compression on iOS for decode images and MSAA resolve textures.<br />
     <sub>[#40520](https://github.com/flutter/engine/pull/40520) merged on March 23, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/40520) over 1 day, 2 additions and 0 deletions in 2 files</sub><br />
@@ -910,6 +919,8 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "Deprecate SingletonFlutterWindow and global window singleton"<br />
     <sub>[#40507](https://github.com/flutter/engine/pull/40507) merged on March 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40507) over 47 minutes, 36 additions and 65 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+</details>
 
 ### March 11, 2023 to March 17, 2023
 
