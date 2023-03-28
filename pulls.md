@@ -83,6 +83,3 @@
 * **[Marco Domingos](https://github.com/Marco4763)** &mdash; Added a duration feature to automatically dismiss the dialog accordin…<br />
     <sub>[#123475](https://github.com/flutter/flutter/pull/123475) opened on on March 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123475) 94 additions and 2 deletions in 2 files</sub><br />
 
-* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Add Welsh to Material Flutter (and update some other translations)<br />
-    <sub>[#123575](https://github.com/flutter/flutter/pull/123575) opened on on March 28, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/123575) 3337 additions and 2228 deletions in 116 files</sub><br />
-
