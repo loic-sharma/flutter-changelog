@@ -672,7 +672,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-20 commits.
+21 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Web test reorganization<br />
     <sub>[#39984](https://github.com/flutter/engine/pull/39984) merged on March 28, 2023 &mdash; **Extra large:** [29 comments](https://github.com/flutter/engine/pull/39984) over 3 weeks, 4099 additions and 1427 deletions in 78 files</sub><br />
@@ -693,6 +693,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Accepts assetBase through JS config.<br />
     <sub>[#40615](https://github.com/flutter/engine/pull/40615) merged on March 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40615) over 2 days, 211 additions and 21 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Harry Terkelsen](https://github.com/hterkelsen)** &mdash; [canvaskit] Use FontCollection API from CanvasKit to mitigate caching issues<br />
+    <sub>[#40673](https://github.com/flutter/engine/pull/40673) merged on March 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40673) over 10 hours, 41 additions and 16 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Eliminate explicit main window init()<br />
     <sub>[#40695](https://github.com/flutter/engine/pull/40695) merged on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40695) over 49 minutes, 1 addition and 1 deletion in 1 file</sub><br />
