@@ -83,6 +83,3 @@
 * **[Marco Domingos](https://github.com/Marco4763)** &mdash; Added a duration feature to automatically dismiss the dialog accordin…<br />
     <sub>[#123475](https://github.com/flutter/flutter/pull/123475) opened on on March 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123475) 94 additions and 2 deletions in 2 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds i18n to widget layer<br />
-    <sub>[#123620](https://github.com/flutter/flutter/pull/123620) opened on on March 28, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/123620) 4133 additions and 66 deletions in 123 files</sub><br />
-
