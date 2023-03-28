@@ -677,7 +677,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-22 commits.
+23 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Web test reorganization
     <sub>[#39984](https://github.com/flutter/engine/pull/39984) merged on March 28, 2023 &mdash; **Extra large:** [29 comments](https://github.com/flutter/engine/pull/39984) over 3 weeks, 4099 additions and 1427 deletions in 78 files</sub>
@@ -722,6 +722,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart SDK to a040e32db8f2
     <sub>[#40656](https://github.com/flutter/engine/pull/40656) merged on March 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40656) over 47 minutes, 5 additions and 5 deletions in 2 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix EntityPass target flip for Vulkan
+    <sub>[#40701](https://github.com/flutter/engine/pull/40701) merged on March 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40701) over 3 hours, 14 additions and 12 deletions in 3 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[bungeman](https://github.com/bungeman)** &mdash; Simplify SkFontMgr classes for sk_sp
     <sub>[#40627](https://github.com/flutter/engine/pull/40627) merged on March 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40627) over 2 days, 34 additions and 62 deletions in 9 files</sub>
