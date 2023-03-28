@@ -808,8 +808,8 @@
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/hterkelsen)** &mdash; Revert "[canvaskit] Use FontCollection API from CanvasKit to mitigate caching issues"<br />
-    <sub>[#40705](https://github.com/flutter/engine/pull/40705) merged on March 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40705) over 25 minutes, 16 additions and 41 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>[#40705](https://github.com/flutter/engine/pull/40705) merged on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40705) over 25 minutes, 16 additions and 41 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; Revert "[web] Accepts assetBase through JS config. (#40615)"<br />
     <sub>[#40670](https://github.com/flutter/engine/pull/40670) merged on March 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40670) over 18 minutes, 21 additions and 211 deletions in 4 files</sub><br />
