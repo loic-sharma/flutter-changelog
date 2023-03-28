@@ -4,7 +4,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-12 commits.
+14 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add TextField triple tap/click gestures<br />
     <sub>[#119046](https://github.com/flutter/flutter/pull/119046) merged on March 27, 2023 &mdash; **Extra large:** [110 comments](https://github.com/flutter/flutter/pull/119046) over 2 months, 2713 additions and 21 deletions in 4 files</sub><br />
@@ -18,6 +18,14 @@
 * **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Added backgroundColor and disabledBackgroundColor to SnackBarAction.<br />
     <sub>[#118786](https://github.com/flutter/flutter/pull/118786) merged on March 27, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/118786) over 2 months, 441 additions and 13 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Eilidh Southren](https://github.com/esouthren)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] platform_channel sample style cleanups<br />
+    <sub>[#123569](https://github.com/flutter/flutter/pull/123569) merged on March 28, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123569) over 1 hour, 45 additions and 36 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Eliminate explicit main window init()<br />
+    <sub>[#123571](https://github.com/flutter/flutter/pull/123571) merged on March 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123571) over 1 hour, 14 additions and 14 deletions in 14 files</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Focus] Add run key command to dump the focus tree<br />
     <sub>[#123473](https://github.com/flutter/flutter/pull/123473) merged on March 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123473) over 2 days, 160 additions and 2 deletions in 13 files</sub><br />
@@ -656,7 +664,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-16 commits.
+17 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Web test reorganization<br />
     <sub>[#39984](https://github.com/flutter/engine/pull/39984) merged on March 28, 2023 &mdash; **Extra large:** [29 comments](https://github.com/flutter/engine/pull/39984) over 3 weeks, 4099 additions and 1427 deletions in 78 files</sub><br />
@@ -677,6 +685,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Accepts assetBase through JS config.<br />
     <sub>[#40615](https://github.com/flutter/engine/pull/40615) merged on March 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40615) over 2 days, 211 additions and 21 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Eliminate explicit main window init()<br />
+    <sub>[#40695](https://github.com/flutter/engine/pull/40695) merged on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40695) over 49 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Improved readme for impeller golden tests.<br />
     <sub>[#40679](https://github.com/flutter/engine/pull/40679) merged on March 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40679) over 2 hours, 15 additions and 0 deletions in 1 file</sub><br />
