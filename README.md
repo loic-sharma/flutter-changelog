@@ -1518,7 +1518,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-7 commits.
+10 commits.
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Update file_selector_* to the latest pigeon<br />
     <sub>[#3562](https://github.com/flutter/packages/pull/3562) merged on March 28, 2023 &mdash; **Large:** [11 comments](https://github.com/flutter/packages/pull/3562) over 19 hours, 382 additions and 348 deletions in 19 files</sub><br />
@@ -1527,6 +1527,14 @@
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Update to the latest pigeon<br />
     <sub>[#3561](https://github.com/flutter/packages/pull/3561) merged on March 27, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/3561) over 4 hours, 559 additions and 790 deletions in 4 files</sub><br />
     <sub>Reviewed by: [gmackall](https://github.com/gmackall)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fixes an issue where the params are removed after popping<br />
+    <sub>[#3401](https://github.com/flutter/packages/pull/3401) merged on March 28, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3401) over 2 weeks, 42 additions and 3 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub><br />
+
+* **[Nate Bosch](https://github.com/natebosch)** &mdash; Update webview_flutter_wkwebview to newer pigeon<br />
+    <sub>[#3565](https://github.com/flutter/packages/pull/3565) merged on March 28, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3565) over 18 hours, 43 additions and 127 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Update image_picker_ios to the latest pigeon<br />
     <sub>[#3563](https://github.com/flutter/packages/pull/3563) merged on March 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3563) over 3 hours, 108 additions and 114 deletions in 6 files</sub><br />
@@ -1547,6 +1555,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Fix CameraInfo cast causing failure in integration test<br />
     <sub>[#3558](https://github.com/flutter/packages/pull/3558) merged on March 27, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3558) over 1 hour, 2 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [video_player]: Bump exoplayer_version from 2.18.4 to 2.18.5 in /packages/video_player/video_player_android/android<br />
+    <sub>[#3557](https://github.com/flutter/packages/pull/3557) merged on March 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3557) over 1 day, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### March 18, 2023 to March 24, 2023
 
