@@ -1574,7 +1574,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-11 commits.
+12 commits.
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Update file_selector_* to the latest pigeon
     <sub>[#3562](https://github.com/flutter/packages/pull/3562) merged on March 28, 2023 &mdash; **Large:** [11 comments](https://github.com/flutter/packages/pull/3562) over 19 hours, 382 additions and 348 deletions in 19 files</sub>
@@ -1583,6 +1583,10 @@
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Update to the latest pigeon
     <sub>[#3561](https://github.com/flutter/packages/pull/3561) merged on March 27, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/3561) over 4 hours, 559 additions and 790 deletions in 4 files</sub>
     <sub>Reviewed by: [gmackall](https://github.com/gmackall)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Fix C++ Flutter API class args
+    <sub>[#3573](https://github.com/flutter/packages/pull/3573) merged on March 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3573) over 3 hours, 50 additions and 35 deletions in 24 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fixes an issue where the params are removed after popping
     <sub>[#3401](https://github.com/flutter/packages/pull/3401) merged on March 28, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3401) over 2 weeks, 42 additions and 3 deletions in 4 files</sub>
