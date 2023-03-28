@@ -65,9 +65,6 @@
 * **[Sebastian Schneider](https://github.com/Sese-Schneider)** &mdash; Add documentation on how to use `dart-define` with `gradlew`<br />
     <sub>[#123205](https://github.com/flutter/flutter/pull/123205) opened on on March 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123205) 7 additions and 0 deletions in 1 file</sub><br />
 
-* **[joshualitt](https://github.com/joshualitt)** &mdash; [web] Migrate the bulk of JS interop to JS types.<br />
-    <sub>[#123286](https://github.com/flutter/flutter/pull/123286) opened on on March 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123286) 179 additions and 110 deletions in 5 files</sub><br />
-
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix warning in `flutter create`d project ("package attribute is deprecated" in AndroidManifest)<br />
     <sub>[#123426](https://github.com/flutter/flutter/pull/123426) opened on on March 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123426) 56 additions and 65 deletions in 54 files</sub><br />
 
