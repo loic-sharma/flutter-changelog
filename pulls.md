@@ -75,7 +75,7 @@
     <sub>[#123426](https://github.com/flutter/flutter/pull/123426) opened on on March 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123426) 56 additions and 65 deletions in 54 files</sub><br />
 
 * **[Gil Nobrega](https://github.com/gilnobrega)** &mdash; Do not animate `TabBarView` if controller is invalid<br />
-    <sub>[#123442](https://github.com/flutter/flutter/pull/123442) opened on on March 25, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/123442) 66 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#123442](https://github.com/flutter/flutter/pull/123442) opened on on March 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123442) 66 additions and 0 deletions in 2 files</sub><br />
 
 * **[foreg](https://github.com/foreg)** &mdash; Implement SystemChrome.getPreferredOrientations<br />
     <sub>[#123474](https://github.com/flutter/flutter/pull/123474) opened on on March 25, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123474) 51 additions and 0 deletions in 2 files</sub><br />
