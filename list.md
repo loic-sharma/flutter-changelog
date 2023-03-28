@@ -4,11 +4,16 @@
 
 ### March 25, 2023 to March 31, 2023
 
-16 commits.
+17 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add TextField triple tap/click gestures
     <sub>[#119046](https://github.com/flutter/flutter/pull/119046) merged on March 27, 2023 &mdash; **Extra large:** [110 comments](https://github.com/flutter/flutter/pull/119046) over 2 months, 2713 additions and 21 deletions in 4 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tomasz Gucio](https://github.com/tgucio)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Create `SearchAnchor` and `SearchViewTheme` Widget
+    <sub>[#123256](https://github.com/flutter/flutter/pull/123256) merged on March 28, 2023 &mdash; **Extra large:** [51 comments](https://github.com/flutter/flutter/pull/123256) over 5 days, 2535 additions and 51 deletions in 14 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub><details><summary>2 images...</summary><img width="250" alt="Screenshot 2023-03-23 at 10 26 01 AM" src="https://user-images.githubusercontent.com/36861262/227287614-23f4e516-3f04-4e8a-9d4d-f7f3feda5fdf.png"><img width="250" alt="Screenshot 2023-03-23 at 10 26 35 AM" src="https://user-images.githubusercontent.com/36861262/227287776-bce44275-c942-4e6e-afa9-591d656ff894.png"></details></sub>
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix out-of-bounds and reversed TextBox queries in computing caret metrics
     <sub>[#122480](https://github.com/flutter/flutter/pull/122480) merged on March 28, 2023 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/122480) over 2 weeks, 235 additions and 9 deletions in 3 files</sub>
