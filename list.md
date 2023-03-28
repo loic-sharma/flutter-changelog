@@ -664,7 +664,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-17 commits.
+18 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Web test reorganization
     <sub>[#39984](https://github.com/flutter/engine/pull/39984) merged on March 28, 2023 &mdash; **Extra large:** [29 comments](https://github.com/flutter/engine/pull/39984) over 3 weeks, 4099 additions and 1427 deletions in 78 files</sub>
@@ -717,6 +717,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Document tricky bits in EntityPass, make positioning less confusing
     <sub>[#40636](https://github.com/flutter/engine/pull/40636) merged on March 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40636) over 1 day, 140 additions and 38 deletions in 2 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from a040e32db8f2 to 2bb9c265fa24 (7 revisions)
+    <sub>[#40689](https://github.com/flutter/engine/pull/40689) merged on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40689) over 3 hours, 5 additions and 5 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "Post 3.0 lint sync"
     <sub>[#40687](https://github.com/flutter/engine/pull/40687) merged on March 27, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/40687) over 1 minute, 377 additions and 68 deletions in 75 files</sub>
