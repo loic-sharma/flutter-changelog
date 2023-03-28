@@ -50,7 +50,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Focus] Add run key command to dump the focus tree<br />
     <sub>[#123473](https://github.com/flutter/flutter/pull/123473) merged on March 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123473) over 2 days, 160 additions and 2 deletions in 13 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix velocity_tracker_test.dart<br />
     <sub>[#123559](https://github.com/flutter/flutter/pull/123559) merged on March 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123559) over 1 hour, 15 additions and 15 deletions in 1 file</sub><br />
@@ -514,7 +514,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump pubspec to unblock engine roller<br />
     <sub>[#122699](https://github.com/flutter/flutter/pull/122699) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122699) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Siva](https://github.com/a-siva), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Take screenshot on devicelab failure<br />
     <sub>[#122249](https://github.com/flutter/flutter/pull/122249) merged on March 15, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/122249) over 6 days, 81 additions and 16 deletions in 2 files</sub><br />
@@ -677,7 +677,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Reland "Speed up first asset load by using the binary-formatted asset manifest for image resolution"<br />
     <sub>[#122449](https://github.com/flutter/flutter/pull/122449) merged on March 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122449) over 2 hours, 156 additions and 93 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert "Manual roll Flutter Engine from e9ca7b2c457b to 7572fe5b9226 (16 revisions)"<br />
     <sub>[#122455](https://github.com/flutter/flutter/pull/122455) merged on March 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122455) over 29 minutes, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1111,7 +1111,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "Deprecate SingletonFlutterWindow and global window singleton"<br />
     <sub>[#40507](https://github.com/flutter/engine/pull/40507) merged on March 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40507) over 47 minutes, 36 additions and 65 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 </details>
 
@@ -1223,7 +1223,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Fix crash if clipboard is set to null<br />
     <sub>[#40238](https://github.com/flutter/engine/pull/40238) merged on March 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40238) over 5 days, 19 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; drawTextBlob should not be compatible with opacity inheritance<br />
     <sub>[#40396](https://github.com/flutter/engine/pull/40396) merged on March 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40396) over 1 hour, 7 additions and 2 deletions in 2 files</sub><br />
@@ -1287,7 +1287,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump pubspecs to unblock Dart SDK roller<br />
     <sub>[#40297](https://github.com/flutter/engine/pull/40297) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40297) over 57 minutes, 3 additions and 3 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [Alexander Aprelev](https://github.com/aam)</sub><br />
+    <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [Impeller] Provisional iOS impeller flag-flip.<br />
     <sub>[#40405](https://github.com/flutter/engine/pull/40405) merged on March 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40405) over 5 hours, 13 additions and 2 deletions in 3 files</sub><br />
@@ -1747,7 +1747,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [image_picker]: Bump androidx.exifinterface:exifinterface from 1.3.3 to 1.3.6 in /packages/image_picker/image_picker_android/android<br />
     <sub>[#3238](https://github.com/flutter/packages/pull/3238) merged on March 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3238) over 3 weeks, 6 additions and 2 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.exifinterface:exifinterface&package-manager=gradle&previous-version=1.3.3&new-version=1.3.6)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Gabriel Gava](https://github.com/gabrielgarciagava)** &mdash; [video_player] Make video player avfoundation seek to async<br />
