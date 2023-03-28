@@ -4,7 +4,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-10 commits.
+11 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add TextField triple tap/click gestures
     <sub>[#119046](https://github.com/flutter/flutter/pull/119046) merged on March 27, 2023 &mdash; **Extra large:** [110 comments](https://github.com/flutter/flutter/pull/119046) over 2 months, 2713 additions and 21 deletions in 4 files</sub>
@@ -26,6 +26,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make Element tree root generic
     <sub>[#123352](https://github.com/flutter/flutter/pull/123352) merged on March 27, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/123352) over 4 days, 95 additions and 55 deletions in 19 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add myself to AUTHORS
+    <sub>[#123268](https://github.com/flutter/flutter/pull/123268) merged on March 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123268) over 5 days, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Animations in NavigationDestination icons don't work
     <sub>[#123400](https://github.com/flutter/flutter/pull/123400) merged on March 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123400) over 3 days, 85 additions and 41 deletions in 2 files</sub>
@@ -648,7 +652,11 @@
 
 ### March 25, 2023 to March 31, 2023
 
-15 commits.
+16 commits.
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Web test reorganization
+    <sub>[#39984](https://github.com/flutter/engine/pull/39984) merged on March 28, 2023 &mdash; **Extra large:** [29 comments](https://github.com/flutter/engine/pull/39984) over 3 weeks, 4099 additions and 1427 deletions in 78 files</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [godofredoc](https://github.com/godofredoc), [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Post 3.0 lint sync
     <sub>[#40394](https://github.com/flutter/engine/pull/40394) merged on March 27, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/40394) over 1 week, 68 additions and 377 deletions in 75 files</sub>
