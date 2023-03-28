@@ -518,7 +518,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump pubspec to unblock engine roller<br />
     <sub>[#122699](https://github.com/flutter/flutter/pull/122699) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122699) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Siva](https://github.com/a-siva), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Take screenshot on devicelab failure<br />
     <sub>[#122249](https://github.com/flutter/flutter/pull/122249) merged on March 15, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/122249) over 6 days, 81 additions and 16 deletions in 2 files</sub><br />
