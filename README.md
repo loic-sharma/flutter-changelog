@@ -677,7 +677,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-25 commits.
+26 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Web test reorganization<br />
     <sub>[#39984](https://github.com/flutter/engine/pull/39984) merged on March 28, 2023 &mdash; **Extra large:** [29 comments](https://github.com/flutter/engine/pull/39984) over 3 weeks, 4099 additions and 1427 deletions in 78 files</sub><br />
@@ -754,6 +754,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "Post 3.0 lint sync"<br />
     <sub>[#40687](https://github.com/flutter/engine/pull/40687) merged on March 27, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/40687) over 1 minute, 377 additions and 68 deletions in 75 files</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reland "Return an empty JavaScript object as a replacement for exports/module in patchCanvasKitModule (#40582)"<br />
+    <sub>[#40698](https://github.com/flutter/engine/pull/40698) merged on March 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40698) over 12 hours, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/hterkelsen)** &mdash; Revert "[canvaskit] Use FontCollection API from CanvasKit to mitigate caching issues"<br />
     <sub>[#40705](https://github.com/flutter/engine/pull/40705) merged on March 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40705) over 25 minutes, 16 additions and 41 deletions in 4 files</sub><br />
