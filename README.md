@@ -494,7 +494,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable shuffling for flutter/test/material/text_field_test.dart<br />
     <sub>[#122956](https://github.com/flutter/flutter/pull/122956) merged on March 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122956) over 1 hour, 6 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [gallery] roll gallery to 6a8d738c94d0710e229d726729c09fdb5ccaf7ed<br />
     <sub>[#122747](https://github.com/flutter/flutter/pull/122747) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122747) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
@@ -514,7 +514,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump pubspec to unblock engine roller<br />
     <sub>[#122699](https://github.com/flutter/flutter/pull/122699) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122699) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub><br />
+    <sub>Reviewed by: [Siva](https://github.com/a-siva), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Take screenshot on devicelab failure<br />
     <sub>[#122249](https://github.com/flutter/flutter/pull/122249) merged on March 15, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/122249) over 6 days, 81 additions and 16 deletions in 2 files</sub><br />
@@ -677,7 +677,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Reland "Speed up first asset load by using the binary-formatted asset manifest for image resolution"<br />
     <sub>[#122449](https://github.com/flutter/flutter/pull/122449) merged on March 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122449) over 2 hours, 156 additions and 93 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert "Manual roll Flutter Engine from e9ca7b2c457b to 7572fe5b9226 (16 revisions)"<br />
     <sub>[#122455](https://github.com/flutter/flutter/pull/122455) merged on March 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122455) over 29 minutes, 1 addition and 1 deletion in 1 file</sub><br />
@@ -689,7 +689,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-29 commits.
+31 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Web test reorganization<br />
     <sub>[#39984](https://github.com/flutter/engine/pull/39984) merged on March 28, 2023 &mdash; **Extra large:** [29 comments](https://github.com/flutter/engine/pull/39984) over 3 weeks, 4099 additions and 1427 deletions in 78 files</sub><br />
@@ -712,7 +712,7 @@
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Handle removed shaders more gracefully in malioc_diff.py<br />
-    <sub>[#40720](https://github.com/flutter/engine/pull/40720) merged on March 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40720) over 55 minutes, 9 additions and 4 deletions in 1 file</sub><br />
+    <sub>[#40720](https://github.com/flutter/engine/pull/40720) merged on March 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40720) over 55 minutes, 9 additions and 4 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Cleanup unusued Vulkan APIs and enable more tests.<br />
@@ -743,6 +743,10 @@
     <sub>[#40656](https://github.com/flutter/engine/pull/40656) merged on March 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40656) over 47 minutes, 5 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Update ICU dependency to updated build<br />
+    <sub>[#40676](https://github.com/flutter/engine/pull/40676) merged on March 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40676) over 23 hours, 3 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Absorb DrawPaints at the beginning of EntityPasses<br />
     <sub>[#40675](https://github.com/flutter/engine/pull/40675) merged on March 28, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/40675) over 23 hours, 79 additions and 23 deletions in 6 files</sub><br />
     <sub>Reviewed by: </sub><br />
@@ -769,6 +773,10 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Post 3.0 lint sync (#40394)"<br />
     <sub>[#40688](https://github.com/flutter/engine/pull/40688) merged on March 28, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/40688) over 4 hours, 70 additions and 376 deletions in 75 files</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[joshualitt](https://github.com/joshualitt)** &mdash; Reland "[web] Migrate canvaskit_api to JS types."<br />
+    <sub>[#40613](https://github.com/flutter/engine/pull/40613) merged on March 28, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/40613) over 3 days, 1463 additions and 350 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from a040e32db8f2 to 2bb9c265fa24 (7 revisions)<br />
