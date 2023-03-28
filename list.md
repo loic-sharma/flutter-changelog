@@ -677,7 +677,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-23 commits.
+24 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Web test reorganization
     <sub>[#39984](https://github.com/flutter/engine/pull/39984) merged on March 28, 2023 &mdash; **Extra large:** [29 comments](https://github.com/flutter/engine/pull/39984) over 3 weeks, 4099 additions and 1427 deletions in 78 files</sub>
@@ -698,6 +698,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Accepts assetBase through JS config.
     <sub>[#40615](https://github.com/flutter/engine/pull/40615) merged on March 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40615) over 2 days, 211 additions and 21 deletions in 4 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Cleanup unusued Vulkan APIs and enable more tests.
+    <sub>[#40696](https://github.com/flutter/engine/pull/40696) merged on March 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40696) over 6 hours, 11 additions and 56 deletions in 7 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Harry Terkelsen](https://github.com/hterkelsen)** &mdash; [canvaskit] Use FontCollection API from CanvasKit to mitigate caching issues
     <sub>[#40673](https://github.com/flutter/engine/pull/40673) merged on March 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40673) over 10 hours, 41 additions and 16 deletions in 4 files</sub>
