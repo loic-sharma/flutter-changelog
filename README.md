@@ -1518,7 +1518,11 @@
 
 ### March 25, 2023 to March 31, 2023
 
-6 commits.
+7 commits.
+
+* **[Nate Bosch](https://github.com/natebosch)** &mdash; Update file_selector_* to the latest pigeon<br />
+    <sub>[#3562](https://github.com/flutter/packages/pull/3562) merged on March 28, 2023 &mdash; **Large:** [11 comments](https://github.com/flutter/packages/pull/3562) over 19 hours, 382 additions and 348 deletions in 19 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Update to the latest pigeon<br />
     <sub>[#3561](https://github.com/flutter/packages/pull/3561) merged on March 27, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/3561) over 4 hours, 559 additions and 790 deletions in 4 files</sub><br />
