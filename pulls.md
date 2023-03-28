@@ -78,5 +78,5 @@
     <sub>[#123475](https://github.com/flutter/flutter/pull/123475) opened on on March 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123475) 94 additions and 2 deletions in 2 files</sub><br />
 
 * **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Wire up MenuAnchor clipBehaviour property<br />
-    <sub>[#123632](https://github.com/flutter/flutter/pull/123632) opened on on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123632) 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>[#123632](https://github.com/flutter/flutter/pull/123632) opened on on March 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123632) 3 additions and 3 deletions in 1 file</sub><br />
 
