@@ -32,6 +32,10 @@
     <sub>[#122111](https://github.com/flutter/flutter/pull/122111) merged on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122111) over 2 weeks, 0 additions and 9 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
+* **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Add alignmentOffset when menu is positioned on the opposite side<br />
+    <sub>[#122812](https://github.com/flutter/flutter/pull/122812) merged on March 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/122812) over 1 week, 156 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix Align doc<br />
     <sub>[#123566](https://github.com/flutter/flutter/pull/123566) merged on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123566) over 6 hours, 19 additions and 14 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
@@ -59,10 +63,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make Element tree root generic<br />
     <sub>[#123352](https://github.com/flutter/flutter/pull/123352) merged on March 27, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/123352) over 4 days, 95 additions and 55 deletions in 19 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
-
-* **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Add alignmentOffset when menu is positioned on the opposite side<br />
-    <sub>[#122812](https://github.com/flutter/flutter/pull/122812) merged on March 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/122812) over 1 week, 156 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add myself to AUTHORS<br />
     <sub>[#123268](https://github.com/flutter/flutter/pull/123268) merged on March 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123268) over 5 days, 1 addition and 0 deletions in 1 file</sub><br />
