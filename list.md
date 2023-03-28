@@ -668,7 +668,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-19 commits.
+20 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Web test reorganization
     <sub>[#39984](https://github.com/flutter/engine/pull/39984) merged on March 28, 2023 &mdash; **Extra large:** [29 comments](https://github.com/flutter/engine/pull/39984) over 3 weeks, 4099 additions and 1427 deletions in 78 files</sub>
@@ -737,6 +737,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; Revert "[web] Accepts assetBase through JS config. (#40615)"
     <sub>[#40670](https://github.com/flutter/engine/pull/40670) merged on March 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40670) over 18 minutes, 21 additions and 211 deletions in 4 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Revert "Reland "Default the CanvasKit base URL to local artifacts.""
+    <sub>[#40700](https://github.com/flutter/engine/pull/40700) merged on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40700) over 54 minutes, 207 additions and 1 deletion in 4 files</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "Return an empty JavaScript object as a replacement for exports/module in patchCanvasKitModule"
     <sub>[#40686](https://github.com/flutter/engine/pull/40686) merged on March 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40686) over 2 minutes, 2 additions and 2 deletions in 1 file</sub>
