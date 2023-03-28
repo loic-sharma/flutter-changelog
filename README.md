@@ -4,11 +4,15 @@
 
 ### March 25, 2023 to March 31, 2023
 
-14 commits.
+15 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add TextField triple tap/click gestures<br />
     <sub>[#119046](https://github.com/flutter/flutter/pull/119046) merged on March 27, 2023 &mdash; **Extra large:** [110 comments](https://github.com/flutter/flutter/pull/119046) over 2 months, 2713 additions and 21 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tomasz Gucio](https://github.com/tgucio)</sub><br />
+
+* **[Greg Price](https://github.com/gnprice)** &mdash; Fix out-of-bounds and reversed TextBox queries in computing caret metrics<br />
+    <sub>[#122480](https://github.com/flutter/flutter/pull/122480) merged on March 28, 2023 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/122480) over 2 weeks, 235 additions and 9 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Tomasz Gucio](https://github.com/tgucio)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix divider width in scrollable `TabBar` for  Material 3 and add `dividerHeight` parameter<br />
     <sub>[#123127](https://github.com/flutter/flutter/pull/123127) merged on March 27, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123127) over 6 days, 171 additions and 74 deletions in 6 files</sub><br />
@@ -664,7 +668,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-18 commits.
+19 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Web test reorganization<br />
     <sub>[#39984](https://github.com/flutter/engine/pull/39984) merged on March 28, 2023 &mdash; **Extra large:** [29 comments](https://github.com/flutter/engine/pull/39984) over 3 weeks, 4099 additions and 1427 deletions in 78 files</sub><br />
@@ -717,6 +721,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Document tricky bits in EntityPass, make positioning less confusing<br />
     <sub>[#40636](https://github.com/flutter/engine/pull/40636) merged on March 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40636) over 1 day, 140 additions and 38 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Post 3.0 lint sync (#40394)"<br />
+    <sub>[#40688](https://github.com/flutter/engine/pull/40688) merged on March 28, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/40688) over 4 hours, 70 additions and 376 deletions in 75 files</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from a040e32db8f2 to 2bb9c265fa24 (7 revisions)<br />
     <sub>[#40689](https://github.com/flutter/engine/pull/40689) merged on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40689) over 3 hours, 5 additions and 5 deletions in 2 files</sub><br />
