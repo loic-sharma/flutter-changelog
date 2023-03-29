@@ -74,3 +74,6 @@
 * **[Rexios](https://github.com/Rexios80)** &mdash; [flutter_test] Adds method to mock EventChannels<br />
     <sub>[#123726](https://github.com/flutter/flutter/pull/123726) opened on on March 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123726) 152 additions and 38 deletions in 4 files</sub><br />
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; M3 DatePicker landscape header text style is now TextTheme.headlineSmall<br />
+    <sub>[#123732](https://github.com/flutter/flutter/pull/123732) opened on on March 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123732) 90 additions and 18 deletions in 3 files</sub><br />
+
