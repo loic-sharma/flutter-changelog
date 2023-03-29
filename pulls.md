@@ -68,3 +68,6 @@
 * **[Marco Domingos](https://github.com/Marco4763)** &mdash; Added a duration feature to automatically dismiss the dialog accordin…<br />
     <sub>[#123475](https://github.com/flutter/flutter/pull/123475) opened on on March 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123475) 94 additions and 2 deletions in 2 files</sub><br />
 
+* **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Add option to keep ```MenuAnchor``` open after ```MenuItem``` tap<br />
+    <sub>[#123723](https://github.com/flutter/flutter/pull/123723) opened on on March 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123723) 23 additions and 1 deletion in 1 file</sub><br />
+
