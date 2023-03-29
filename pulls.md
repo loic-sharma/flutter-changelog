@@ -20,9 +20,6 @@
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; [`ThemeData` 🧹] Remove `primaryColorLight` & `primaryColorDark` usages<br />
     <sub>[#116362](https://github.com/flutter/flutter/pull/116362) opened on on December 1, 2022 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/116362) 12 additions and 10 deletions in 1 file</sub><br />
 
-* **[Joaquín Pérez Realini](https://github.com/jperezr21)** &mdash; Use new centered iOS back button icon<br />
-    <sub>[#117348](https://github.com/flutter/flutter/pull/117348) opened on on December 19, 2022 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/117348) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Precache after channel switch<br />
     <sub>[#118129](https://github.com/flutter/flutter/pull/118129) opened on on January 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/118129) 74 additions and 47 deletions in 5 files</sub><br />
 
