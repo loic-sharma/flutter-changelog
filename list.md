@@ -4,7 +4,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-36 commits.
+37 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add TextField triple tap/click gestures
     <sub>[#119046](https://github.com/flutter/flutter/pull/119046) merged on March 27, 2023 &mdash; **Extra large:** [110 comments](https://github.com/flutter/flutter/pull/119046) over 2 months, 2713 additions and 21 deletions in 4 files</sub>
@@ -70,6 +70,10 @@
     <sub>[#122111](https://github.com/flutter/flutter/pull/122111) merged on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122111) over 2 weeks, 0 additions and 9 deletions in 3 files</sub>
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
+* **[Sebastian Schneider](https://github.com/Sese-Schneider)** &mdash; Add documentation on how to use `dart-define` with `gradlew`
+    <sub>[#123205](https://github.com/flutter/flutter/pull/123205) merged on March 29, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/123205) over 1 week, 7 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Reid Baker](https://github.com/reidbaker), [pdblasi-google](https://github.com/pdblasi-google)</sub>
+
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Remove --no-sound-null-safety #3
     <sub>[#123297](https://github.com/flutter/flutter/pull/123297) merged on March 29, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123297) over 6 days, 98 additions and 137 deletions in 9 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Andrew Kolos](https://github.com/andrewkolos), [Elias Yishak](https://github.com/eliasyishak)</sub>
@@ -90,13 +94,13 @@
     <sub>[#123295](https://github.com/flutter/flutter/pull/123295) merged on March 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123295) over 1 week, 33 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Check cc files
-    <sub>[#123704](https://github.com/flutter/flutter/pull/123704) merged on March 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123704) over 1 hour, 36 additions and 1 deletion in 9 files</sub>
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make Element tree root generic
     <sub>[#123352](https://github.com/flutter/flutter/pull/123352) merged on March 27, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/123352) over 4 days, 95 additions and 55 deletions in 19 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Check cc files
+    <sub>[#123704](https://github.com/flutter/flutter/pull/123704) merged on March 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123704) over 1 hour, 36 additions and 1 deletion in 9 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add flags to make App.framework work in app extension
     <sub>[#123618](https://github.com/flutter/flutter/pull/123618) merged on March 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123618) over 6 hours, 11 additions and 0 deletions in 7 files</sub>
@@ -122,10 +126,6 @@
     <sub>[#123569](https://github.com/flutter/flutter/pull/123569) merged on March 28, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123569) over 1 hour, 45 additions and 36 deletions in 2 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix warning in `flutter create`d project ("package attribute is deprecated" in AndroidManifest)
-    <sub>[#123426](https://github.com/flutter/flutter/pull/123426) merged on March 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123426) over 4 days, 56 additions and 65 deletions in 54 files</sub>
-    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Reid Baker](https://github.com/reidbaker)</sub>
-
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add myself to AUTHORS
     <sub>[#123268](https://github.com/flutter/flutter/pull/123268) merged on March 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123268) over 5 days, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
@@ -137,6 +137,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Make InkInteractiveFeature customBorder updatable
     <sub>[#123536](https://github.com/flutter/flutter/pull/123536) merged on March 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123536) over 6 hours, 133 additions and 24 deletions in 6 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix warning in `flutter create`d project ("package attribute is deprecated" in AndroidManifest)
+    <sub>[#123426](https://github.com/flutter/flutter/pull/123426) merged on March 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123426) over 4 days, 56 additions and 65 deletions in 54 files</sub>
+    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; throw `ToolExit` when `--web-port` is an integer outside the valid TCP port range
     <sub>[#123269](https://github.com/flutter/flutter/pull/123269) merged on March 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123269) over 5 days, 48 additions and 7 deletions in 3 files</sub>
