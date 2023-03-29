@@ -83,7 +83,7 @@
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix warning in `flutter create`d project ("package attribute is deprecated" in AndroidManifest)<br />
     <sub>[#123426](https://github.com/flutter/flutter/pull/123426) merged on March 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123426) over 4 days, 56 additions and 65 deletions in 54 files</sub><br />
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Greg Price](https://github.com/gnprice)</sub><br />
+    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add myself to AUTHORS<br />
     <sub>[#123268](https://github.com/flutter/flutter/pull/123268) merged on March 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123268) over 5 days, 1 addition and 0 deletions in 1 file</sub><br />
@@ -1224,7 +1224,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "Deprecate SingletonFlutterWindow and global window singleton"<br />
     <sub>[#40507](https://github.com/flutter/engine/pull/40507) merged on March 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40507) over 47 minutes, 36 additions and 65 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 </details>
 
@@ -1336,7 +1336,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Fix crash if clipboard is set to null<br />
     <sub>[#40238](https://github.com/flutter/engine/pull/40238) merged on March 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40238) over 5 days, 19 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; drawTextBlob should not be compatible with opacity inheritance<br />
     <sub>[#40396](https://github.com/flutter/engine/pull/40396) merged on March 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40396) over 1 hour, 7 additions and 2 deletions in 2 files</sub><br />
@@ -1352,7 +1352,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Ignore some MTLCompiler failures in impeller unit tests<br />
     <sub>[#40391](https://github.com/flutter/engine/pull/40391) merged on March 17, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/40391) over 1 hour, 55 additions and 29 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Rename FlutterViewController.id to viewId<br />
     <sub>[#40323](https://github.com/flutter/engine/pull/40323) merged on March 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40323) over 2 hours, 18 additions and 20 deletions in 4 files</sub><br />
@@ -1825,7 +1825,7 @@
 
 * **[GP4cK](https://github.com/GP4cK)** &mdash; [go_router] Add navigator key to typed routes<br />
     <sub>[#3471](https://github.com/flutter/packages/pull/3471) merged on March 20, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3471) over 4 days, 17 additions and 3 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [chunhtai](https://github.com/chunhtai)</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [John Ryan](https://github.com/johnpryan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Adopt readme excerpts<br />
     <sub>[#3491](https://github.com/flutter/packages/pull/3491) merged on March 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3491) over 2 hours, 119 additions and 7 deletions in 8 files</sub><br />
@@ -1864,7 +1864,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [image_picker]: Bump androidx.exifinterface:exifinterface from 1.3.3 to 1.3.6 in /packages/image_picker/image_picker_android/android<br />
     <sub>[#3238](https://github.com/flutter/packages/pull/3238) merged on March 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3238) over 3 weeks, 6 additions and 2 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.exifinterface:exifinterface&package-manager=gradle&previous-version=1.3.3&new-version=1.3.6)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Gabriel Gava](https://github.com/gabrielgarciagava)** &mdash; [video_player] Make video player avfoundation seek to async<br />
@@ -1934,7 +1934,7 @@
 
 * **[Braden Bagby](https://github.com/BradenBagby)** &mdash; [camera] Reland android flip/change camera while recording<br />
     <sub>[#3460](https://github.com/flutter/packages/pull/3460) merged on March 17, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3460) over 2 days, 780 additions and 47 deletions in 12 files</sub><br />
-    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 </details>
 
