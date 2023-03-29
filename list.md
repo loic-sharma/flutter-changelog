@@ -71,7 +71,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Focus] Add run key command to dump the focus tree
     <sub>[#123473](https://github.com/flutter/flutter/pull/123473) merged on March 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123473) over 2 days, 160 additions and 2 deletions in 13 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix velocity_tracker_test.dart
     <sub>[#123559](https://github.com/flutter/flutter/pull/123559) merged on March 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123559) over 1 hour, 15 additions and 15 deletions in 1 file</sub>
@@ -519,7 +519,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable shuffling for flutter/test/material/text_field_test.dart
     <sub>[#122956](https://github.com/flutter/flutter/pull/122956) merged on March 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122956) over 1 hour, 6 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [gallery] roll gallery to 6a8d738c94d0710e229d726729c09fdb5ccaf7ed
     <sub>[#122747](https://github.com/flutter/flutter/pull/122747) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122747) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
