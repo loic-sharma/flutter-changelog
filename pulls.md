@@ -65,9 +65,6 @@
 * **[foreg](https://github.com/foreg)** &mdash; Implement SystemChrome.getPreferredOrientations<br />
     <sub>[#123474](https://github.com/flutter/flutter/pull/123474) opened on on March 25, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/123474) 51 additions and 0 deletions in 2 files</sub><br />
 
-* **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Wire up MenuAnchor clipBehaviour property<br />
-    <sub>[#123632](https://github.com/flutter/flutter/pull/123632) opened on on March 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123632) 6 additions and 6 deletions in 2 files</sub><br />
-
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; [flutter_releases] Flutter stable 3.7.9 Framework Cherrypicks<br />
     <sub>[#123639](https://github.com/flutter/flutter/pull/123639) opened on on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123639) 1 addition and 1 deletion in 1 file</sub><br />
 
