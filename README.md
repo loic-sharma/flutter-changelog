@@ -248,7 +248,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Ignore spam from SurfaceSyncer<br />
-    <sub>[#123262](https://github.com/flutter/flutter/pull/123262) merged on March 23, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123262) over 1 day, 43 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#123262](https://github.com/flutter/flutter/pull/123262) merged on March 23, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/123262) over 1 day, 43 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/hterkelsen)** &mdash; Turn on --web-resources-cdn by default<br />
