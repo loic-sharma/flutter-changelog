@@ -4,7 +4,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-31 commits.
+32 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add TextField triple tap/click gestures
     <sub>[#119046](https://github.com/flutter/flutter/pull/119046) merged on March 27, 2023 &mdash; **Extra large:** [110 comments](https://github.com/flutter/flutter/pull/119046) over 2 months, 2713 additions and 21 deletions in 4 files</sub>
@@ -34,6 +34,10 @@
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>2 images...</summary><img width="492" alt="Screenshot 2023-03-16 at 11 16 16 PM" src="https://user-images.githubusercontent.com/34301187/225707881-702a5d37-7f30-40a2-9528-466769d425ca.png"><img width="498" alt="Screenshot 2023-03-16 at 11 15 45 PM" src="https://user-images.githubusercontent.com/34301187/225707941-bebfc9ba-289f-4d0c-8110-9d906ccb7bdf.png"></details></sub>
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add version info migration
+    <sub>[#123414](https://github.com/flutter/flutter/pull/123414) merged on March 29, 2023 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/123414) over 5 days, 485 additions and 0 deletions in 4 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update device selection to wait for wireless devices to load
     <sub>[#122932](https://github.com/flutter/flutter/pull/122932) merged on March 29, 2023 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/122932) over 1 week, 3857 additions and 415 deletions in 35 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino)</sub>
@@ -52,7 +56,7 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix SliverGridRegularTileLayout.computeMaxScrollOffset for 0 children
     <sub>[#123348](https://github.com/flutter/flutter/pull/123348) merged on March 29, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/123348) over 5 days, 54 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Tae Hyung Kim](https://github.com/thkim1011), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Tae Hyung Kim](https://github.com/thkim1011)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Don't rethrow Dart plugin registration exceptions
     <sub>[#122111](https://github.com/flutter/flutter/pull/122111) merged on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122111) over 2 weeks, 0 additions and 9 deletions in 3 files</sub>
@@ -604,7 +608,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Fix globs in runIf configurations.
     <sub>[#122630](https://github.com/flutter/flutter/pull/122630) merged on March 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/122630) over 2 hours, 108 additions and 108 deletions in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TabBarView and TabBar animations are not synchronized
     <sub>[#122021](https://github.com/flutter/flutter/pull/122021) merged on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122021) over 1 week, 127 additions and 50 deletions in 2 files</sub>
@@ -723,7 +727,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Reland "Speed up first asset load by using the binary-formatted asset manifest for image resolution"
     <sub>[#122449](https://github.com/flutter/flutter/pull/122449) merged on March 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122449) over 2 hours, 156 additions and 93 deletions in 5 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert "Manual roll Flutter Engine from e9ca7b2c457b to 7572fe5b9226 (16 revisions)"
     <sub>[#122455](https://github.com/flutter/flutter/pull/122455) merged on March 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122455) over 29 minutes, 1 addition and 1 deletion in 1 file</sub>
