@@ -65,9 +65,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Run web integration tests on x64 or arm Macs<br />
     <sub>[#123714](https://github.com/flutter/flutter/pull/123714) opened on on March 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123714) 0 additions and 5 deletions in 1 file</sub><br />
 
-* **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Add option to keep ```MenuAnchor``` open after ```MenuItem``` tap<br />
-    <sub>[#123723](https://github.com/flutter/flutter/pull/123723) opened on on March 29, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/123723) 100 additions and 1 deletion in 2 files</sub><br />
-
 * **[Rexios](https://github.com/Rexios80)** &mdash; [flutter_test] Adds method to mock EventChannels<br />
     <sub>[#123726](https://github.com/flutter/flutter/pull/123726) opened on on March 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123726) 152 additions and 38 deletions in 4 files</sub><br />
 
@@ -81,5 +78,5 @@
     <sub>[#123775](https://github.com/flutter/flutter/pull/123775) opened on on March 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123775) 94 additions and 0 deletions in 2 files</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; `SemanticsFlag`/`SemanticsAction` enum migration (part 2)<br />
-    <sub>[#123817](https://github.com/flutter/flutter/pull/123817) opened on on March 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123817) 32 additions and 16 deletions in 5 files</sub><br />
+    <sub>[#123817](https://github.com/flutter/flutter/pull/123817) opened on on March 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123817) 32 additions and 16 deletions in 5 files</sub><br />
 
