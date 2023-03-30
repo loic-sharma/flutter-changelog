@@ -912,7 +912,7 @@
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [Impeller] Un-ifdef vulkan code in impellerc
-    <sub>[#40797](https://github.com/flutter/engine/pull/40797) merged on March 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40797) over 51 minutes, 27 additions and 6 deletions in 4 files</sub>
+    <sub>[#40797](https://github.com/flutter/engine/pull/40797) merged on March 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40797) over 51 minutes, 27 additions and 6 deletions in 4 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Fallback to graphics queue is transfer queue is not available
