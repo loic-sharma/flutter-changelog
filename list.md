@@ -4,7 +4,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-41 commits.
+42 commits.
 
 * **[nt4f04uNd](https://github.com/nt4f04uNd)** &mdash; Fix ListWheelScrollView gestures and paint coordinates in tests
     <sub>[#121342](https://github.com/flutter/flutter/pull/121342) merged on March 30, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/121342) over 1 month, 181 additions and 25 deletions in 4 files</sub>
@@ -55,6 +55,10 @@
     <sub>[#122932](https://github.com/flutter/flutter/pull/122932) merged on March 29, 2023 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/122932) over 1 week, 3857 additions and 415 deletions in 35 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Notify about existing caches when preloading
+    <sub>[#122592](https://github.com/flutter/flutter/pull/122592) merged on March 30, 2023 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/122592) over 2 weeks, 459 additions and 281 deletions in 2 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 * **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Added backgroundColor and disabledBackgroundColor to SnackBarAction.
     <sub>[#118786](https://github.com/flutter/flutter/pull/118786) merged on March 27, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/118786) over 2 months, 441 additions and 13 deletions in 4 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Eilidh Southren](https://github.com/esouthren)</sub>
@@ -63,13 +67,13 @@
     <sub>[#122600](https://github.com/flutter/flutter/pull/122600) merged on March 29, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/122600) over 2 weeks, 100 additions and 1 deletion in 4 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Add alignmentOffset when menu is positioned on the opposite side
-    <sub>[#122812](https://github.com/flutter/flutter/pull/122812) merged on March 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/122812) over 1 week, 156 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub>
-
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Invalidate the `WebStaticAssets` target if the web sdk changes.
     <sub>[#123739](https://github.com/flutter/flutter/pull/123739) merged on March 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123739) over 1 hour, 27 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [David Iglesias](https://github.com/ditman)</sub>
+
+* **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Add alignmentOffset when menu is positioned on the opposite side
+    <sub>[#122812](https://github.com/flutter/flutter/pull/122812) merged on March 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/122812) over 1 week, 156 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Treat hidden `IndexedStack` children as offstage for test finder
     <sub>[#123129](https://github.com/flutter/flutter/pull/123129) merged on March 29, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/123129) over 1 week, 164 additions and 96 deletions in 6 files</sub>
@@ -107,20 +111,16 @@
     <sub>[#123566](https://github.com/flutter/flutter/pull/123566) merged on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123566) over 6 hours, 19 additions and 14 deletions in 1 file</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make Element tree root generic
-    <sub>[#123352](https://github.com/flutter/flutter/pull/123352) merged on March 27, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/123352) over 4 days, 95 additions and 55 deletions in 19 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Shortcuts] Improve documentation
     <sub>[#123499](https://github.com/flutter/flutter/pull/123499) merged on March 28, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/123499) over 1 day, 42 additions and 32 deletions in 2 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Check cc files
-    <sub>[#123704](https://github.com/flutter/flutter/pull/123704) merged on March 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123704) over 1 hour, 36 additions and 1 deletion in 9 files</sub>
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make Element tree root generic
+    <sub>[#123352](https://github.com/flutter/flutter/pull/123352) merged on March 27, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/123352) over 4 days, 95 additions and 55 deletions in 19 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Eliminate explicit main window init()
-    <sub>[#123571](https://github.com/flutter/flutter/pull/123571) merged on March 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123571) over 1 hour, 14 additions and 14 deletions in 14 files</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] platform_channel sample style cleanups
+    <sub>[#123569](https://github.com/flutter/flutter/pull/123569) merged on March 28, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123569) over 1 hour, 45 additions and 36 deletions in 2 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix velocity_tracker_test.dart
@@ -131,12 +131,16 @@
     <sub>[#123295](https://github.com/flutter/flutter/pull/123295) merged on March 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123295) over 1 week, 33 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Check cc files
+    <sub>[#123704](https://github.com/flutter/flutter/pull/123704) merged on March 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123704) over 1 hour, 36 additions and 1 deletion in 9 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
+
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add flags to make App.framework work in app extension
     <sub>[#123618](https://github.com/flutter/flutter/pull/123618) merged on March 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123618) over 6 hours, 11 additions and 0 deletions in 7 files</sub>
     <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] platform_channel sample style cleanups
-    <sub>[#123569](https://github.com/flutter/flutter/pull/123569) merged on March 28, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123569) over 1 hour, 45 additions and 36 deletions in 2 files</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Eliminate explicit main window init()
+    <sub>[#123571](https://github.com/flutter/flutter/pull/123571) merged on March 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123571) over 1 hour, 14 additions and 14 deletions in 14 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix warning in `flutter create`d project ("package attribute is deprecated" in AndroidManifest)
@@ -581,7 +585,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable shuffling for flutter/test/material/text_field_test.dart
     <sub>[#122956](https://github.com/flutter/flutter/pull/122956) merged on March 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122956) over 1 hour, 6 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [gallery] roll gallery to 6a8d738c94d0710e229d726729c09fdb5ccaf7ed
     <sub>[#122747](https://github.com/flutter/flutter/pull/122747) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122747) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
@@ -601,7 +605,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump pubspec to unblock engine roller
     <sub>[#122699](https://github.com/flutter/flutter/pull/122699) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122699) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Siva](https://github.com/a-siva), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Take screenshot on devicelab failure
     <sub>[#122249](https://github.com/flutter/flutter/pull/122249) merged on March 15, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/122249) over 6 days, 81 additions and 16 deletions in 2 files</sub>
@@ -645,7 +649,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Fix globs in runIf configurations.
     <sub>[#122630](https://github.com/flutter/flutter/pull/122630) merged on March 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/122630) over 2 hours, 108 additions and 108 deletions in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TabBarView and TabBar animations are not synchronized
     <sub>[#122021](https://github.com/flutter/flutter/pull/122021) merged on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122021) over 1 week, 127 additions and 50 deletions in 2 files</sub>
