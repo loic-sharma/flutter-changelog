@@ -1874,7 +1874,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-17 commits.
+18 commits.
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Roll mockito to 5.4.0<br />
     <sub>[#3544](https://github.com/flutter/packages/pull/3544) merged on March 30, 2023 &mdash; **Extra large:** [30 comments](https://github.com/flutter/packages/pull/3544) over 5 days, 1515 additions and 706 deletions in 152 files</sub><br />
@@ -1914,6 +1914,10 @@
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Update image_picker_ios to the latest pigeon<br />
     <sub>[#3563](https://github.com/flutter/packages/pull/3563) merged on March 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3563) over 3 hours, 108 additions and 114 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Adds a workaround fix for autofill<br />
+    <sub>[#3588](https://github.com/flutter/packages/pull/3588) merged on March 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3588) over 22 hours, 55 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [all_packages] Bump minimum SDK version<br />
