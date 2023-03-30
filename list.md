@@ -872,7 +872,7 @@
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] backfilled golden tests from playground tests in aiks_unittests.
-    <sub>[#40770](https://github.com/flutter/engine/pull/40770) merged on March 30, 2023 &mdash; **Medium:** [8 comments](https://github.com/flutter/engine/pull/40770) over 23 hours, 410 additions and 70 deletions in 27 files</sub>
+    <sub>[#40770](https://github.com/flutter/engine/pull/40770) merged on March 30, 2023 &mdash; **Medium:** [10 comments](https://github.com/flutter/engine/pull/40770) over 23 hours, 410 additions and 70 deletions in 27 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "Listen to `WM_CLOSE` message on Windows to allow framework to…

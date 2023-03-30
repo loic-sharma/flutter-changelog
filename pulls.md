@@ -77,6 +77,3 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; [DropdownMenu] add helperText & errorText to DropdownMenu Widget<br />
     <sub>[#123775](https://github.com/flutter/flutter/pull/123775) opened on on March 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123775) 94 additions and 0 deletions in 2 files</sub><br />
 
-* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; `SemanticsFlag`/`SemanticsAction` enum migration (part 2)<br />
-    <sub>[#123817](https://github.com/flutter/flutter/pull/123817) opened on on March 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123817) 32 additions and 16 deletions in 5 files</sub><br />
-
