@@ -29,6 +29,9 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Regenerate gradle lockfiles<br />
     <sub>[#119290](https://github.com/flutter/flutter/pull/119290) opened on on January 26, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/119290) 2501 additions and 1368 deletions in 83 files</sub><br />
 
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Include mode in app.start event, and forward app.start to DAP clients<br />
+    <sub>[#121239](https://github.com/flutter/flutter/pull/121239) opened on on February 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/121239) 60 additions and 7 deletions in 7 files</sub><br />
+
 * **[Sohrab Vahidli](https://github.com/sohrabonline)** &mdash; Update nav_bar.dart<br />
     <sub>[#121943](https://github.com/flutter/flutter/pull/121943) opened on on March 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/121943) 26 additions and 4 deletions in 1 file</sub><br />
 
