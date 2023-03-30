@@ -81,7 +81,7 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix SliverGridRegularTileLayout.computeMaxScrollOffset for 0 children<br />
     <sub>[#123348](https://github.com/flutter/flutter/pull/123348) merged on March 29, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/123348) over 5 days, 54 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Tae Hyung Kim](https://github.com/thkim1011)</sub><br />
+    <sub>Reviewed by: [Tae Hyung Kim](https://github.com/thkim1011), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Don't rethrow Dart plugin registration exceptions<br />
     <sub>[#122111](https://github.com/flutter/flutter/pull/122111) merged on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122111) over 2 weeks, 0 additions and 9 deletions in 3 files</sub><br />
@@ -585,7 +585,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable shuffling for flutter/test/material/text_field_test.dart<br />
     <sub>[#122956](https://github.com/flutter/flutter/pull/122956) merged on March 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122956) over 1 hour, 6 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [gallery] roll gallery to 6a8d738c94d0710e229d726729c09fdb5ccaf7ed<br />
     <sub>[#122747](https://github.com/flutter/flutter/pull/122747) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122747) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
@@ -605,7 +605,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump pubspec to unblock engine roller<br />
     <sub>[#122699](https://github.com/flutter/flutter/pull/122699) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122699) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub><br />
+    <sub>Reviewed by: [Siva](https://github.com/a-siva), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Take screenshot on devicelab failure<br />
     <sub>[#122249](https://github.com/flutter/flutter/pull/122249) merged on March 15, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/122249) over 6 days, 81 additions and 16 deletions in 2 files</sub><br />
@@ -1771,7 +1771,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-14 commits.
+15 commits.
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Roll mockito to 5.4.0<br />
     <sub>[#3544](https://github.com/flutter/packages/pull/3544) merged on March 30, 2023 &mdash; **Extra large:** [30 comments](https://github.com/flutter/packages/pull/3544) over 5 days, 1515 additions and 706 deletions in 152 files</sub><br />
@@ -1784,6 +1784,10 @@
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Update to the latest pigeon<br />
     <sub>[#3561](https://github.com/flutter/packages/pull/3561) merged on March 27, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/3561) over 4 hours, 559 additions and 790 deletions in 4 files</sub><br />
     <sub>Reviewed by: [gmackall](https://github.com/gmackall)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Improve C++ data class constructors<br />
+    <sub>[#3585](https://github.com/flutter/packages/pull/3585) merged on March 30, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/3585) over 19 hours, 466 additions and 257 deletions in 26 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Fix C++ Flutter API class args<br />
     <sub>[#3573](https://github.com/flutter/packages/pull/3573) merged on March 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3573) over 3 hours, 50 additions and 35 deletions in 24 files</sub><br />
