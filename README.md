@@ -1767,7 +1767,11 @@
 
 ### March 25, 2023 to March 31, 2023
 
-13 commits.
+14 commits.
+
+* **[Nate Bosch](https://github.com/natebosch)** &mdash; Roll mockito to 5.4.0<br />
+    <sub>[#3544](https://github.com/flutter/packages/pull/3544) merged on March 30, 2023 &mdash; **Extra large:** [30 comments](https://github.com/flutter/packages/pull/3544) over 5 days, 1515 additions and 706 deletions in 152 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Update file_selector_* to the latest pigeon<br />
     <sub>[#3562](https://github.com/flutter/packages/pull/3562) merged on March 28, 2023 &mdash; **Large:** [11 comments](https://github.com/flutter/packages/pull/3562) over 19 hours, 382 additions and 348 deletions in 19 files</sub><br />
