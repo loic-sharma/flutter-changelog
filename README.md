@@ -4,7 +4,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-38 commits.
+40 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add TextField triple tap/click gestures<br />
     <sub>[#119046](https://github.com/flutter/flutter/pull/119046) merged on March 27, 2023 &mdash; **Extra large:** [110 comments](https://github.com/flutter/flutter/pull/119046) over 2 months, 2713 additions and 21 deletions in 4 files</sub><br />
@@ -47,17 +47,21 @@
     <sub>[#123630](https://github.com/flutter/flutter/pull/123630) merged on March 29, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/123630) over 1 day, 327 additions and 15 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update device selection to wait for wireless devices to load<br />
-    <sub>[#122932](https://github.com/flutter/flutter/pull/122932) merged on March 29, 2023 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/122932) over 1 week, 3857 additions and 415 deletions in 35 files</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
 * **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Added backgroundColor and disabledBackgroundColor to SnackBarAction.<br />
     <sub>[#118786](https://github.com/flutter/flutter/pull/118786) merged on March 27, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/118786) over 2 months, 441 additions and 13 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Eilidh Southren](https://github.com/esouthren)</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update device selection to wait for wireless devices to load<br />
+    <sub>[#122932](https://github.com/flutter/flutter/pull/122932) merged on March 29, 2023 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/122932) over 1 week, 3857 additions and 415 deletions in 35 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix scrolling in the  `Drawer` and `NavigationDrawer` triggers AppBar's scrolledUnderElevation<br />
     <sub>[#122600](https://github.com/flutter/flutter/pull/122600) merged on March 29, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/122600) over 2 weeks, 100 additions and 1 deletion in 4 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Invalidate the `WebStaticAssets` target if the web sdk changes.<br />
+    <sub>[#123739](https://github.com/flutter/flutter/pull/123739) merged on March 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123739) over 1 hour, 27 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Add alignmentOffset when menu is positioned on the opposite side<br />
     <sub>[#122812](https://github.com/flutter/flutter/pull/122812) merged on March 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/122812) over 1 week, 156 additions and 2 deletions in 2 files</sub><br />
@@ -99,10 +103,6 @@
     <sub>[#123566](https://github.com/flutter/flutter/pull/123566) merged on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123566) over 6 hours, 19 additions and 14 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make Element tree root generic<br />
-    <sub>[#123352](https://github.com/flutter/flutter/pull/123352) merged on March 27, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/123352) over 4 days, 95 additions and 55 deletions in 19 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
-
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; TextFormField.spellCheckConfiguration<br />
     <sub>[#123295](https://github.com/flutter/flutter/pull/123295) merged on March 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123295) over 1 week, 33 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
@@ -131,6 +131,14 @@
     <sub>[#123704](https://github.com/flutter/flutter/pull/123704) merged on March 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123704) over 1 hour, 36 additions and 1 deletion in 9 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make Element tree root generic<br />
+    <sub>[#123352](https://github.com/flutter/flutter/pull/123352) merged on March 27, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/123352) over 4 days, 95 additions and 55 deletions in 19 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix warning in `flutter create`d project ("package attribute is deprecated" in AndroidManifest)<br />
+    <sub>[#123426](https://github.com/flutter/flutter/pull/123426) merged on March 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123426) over 4 days, 56 additions and 65 deletions in 54 files</sub><br />
+    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add myself to AUTHORS<br />
     <sub>[#123268](https://github.com/flutter/flutter/pull/123268) merged on March 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123268) over 5 days, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
@@ -143,9 +151,9 @@
     <sub>[#123536](https://github.com/flutter/flutter/pull/123536) merged on March 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123536) over 6 hours, 133 additions and 24 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix warning in `flutter create`d project ("package attribute is deprecated" in AndroidManifest)<br />
-    <sub>[#123426](https://github.com/flutter/flutter/pull/123426) merged on March 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123426) over 4 days, 56 additions and 65 deletions in 54 files</sub><br />
-    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Reid Baker](https://github.com/reidbaker)</sub><br />
+* **[Brian Quinlan](https://github.com/brianquinlan)** &mdash; Modify flutter_tests dart:io mocks to support Dart 3.0<br />
+    <sub>[#123706](https://github.com/flutter/flutter/pull/123706) merged on March 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123706) over 8 hours, 72 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; throw `ToolExit` when `--web-port` is an integer outside the valid TCP port range<br />
     <sub>[#123269](https://github.com/flutter/flutter/pull/123269) merged on March 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123269) over 5 days, 48 additions and 7 deletions in 3 files</sub><br />
