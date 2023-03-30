@@ -66,7 +66,7 @@
     <sub>[#123714](https://github.com/flutter/flutter/pull/123714) opened on on March 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123714) 0 additions and 5 deletions in 1 file</sub><br />
 
 * **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Add option to keep ```MenuAnchor``` open after ```MenuItem``` tap<br />
-    <sub>[#123723](https://github.com/flutter/flutter/pull/123723) opened on on March 29, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/123723) 100 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#123723](https://github.com/flutter/flutter/pull/123723) opened on on March 29, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/123723) 100 additions and 1 deletion in 2 files</sub><br />
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [flutter_test] Adds method to mock EventChannels<br />
     <sub>[#123726](https://github.com/flutter/flutter/pull/123726) opened on on March 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123726) 152 additions and 38 deletions in 4 files</sub><br />
