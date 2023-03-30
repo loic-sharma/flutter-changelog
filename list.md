@@ -1825,7 +1825,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-15 commits.
+16 commits.
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Roll mockito to 5.4.0
     <sub>[#3544](https://github.com/flutter/packages/pull/3544) merged on March 30, 2023 &mdash; **Extra large:** [30 comments](https://github.com/flutter/packages/pull/3544) over 5 days, 1515 additions and 706 deletions in 152 files</sub>
@@ -1862,6 +1862,10 @@
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Update image_picker_ios to the latest pigeon
     <sub>[#3563](https://github.com/flutter/packages/pull/3563) merged on March 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3563) over 3 hours, 108 additions and 114 deletions in 6 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [all_packages] Bump minimum SDK version
+    <sub>[#3581](https://github.com/flutter/packages/pull/3581) merged on March 30, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3581) over 1 day, 2 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Yang](https://github.com/cyanglaz)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] allow custom key prefixes platform only changes
     <sub>[#3497](https://github.com/flutter/packages/pull/3497) merged on March 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3497) over 1 week, 158 additions and 22 deletions in 6 files</sub>
