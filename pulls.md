@@ -81,5 +81,5 @@
     <sub>[#123775](https://github.com/flutter/flutter/pull/123775) opened on on March 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123775) 21 additions and 0 deletions in 1 file</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; `SemanticsFlag`/`SemanticsAction` enum migration (part 2)<br />
-    <sub>[#123817](https://github.com/flutter/flutter/pull/123817) opened on on March 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123817) 16 additions and 16 deletions in 5 files</sub><br />
+    <sub>[#123817](https://github.com/flutter/flutter/pull/123817) opened on on March 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123817) 16 additions and 16 deletions in 5 files</sub><br />
 
