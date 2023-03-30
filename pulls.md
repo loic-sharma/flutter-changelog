@@ -83,3 +83,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; [DropdownMenu] add helperText & errorText to DropdownMenu Widget<br />
     <sub>[#123775](https://github.com/flutter/flutter/pull/123775) opened on on March 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123775) 21 additions and 0 deletions in 1 file</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Hyperlink dart docs around BinaryMessenger deprecations<br />
+    <sub>[#123798](https://github.com/flutter/flutter/pull/123798) opened on on March 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123798) 6 additions and 13 deletions in 1 file</sub><br />
+
