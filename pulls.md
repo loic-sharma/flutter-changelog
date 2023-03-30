@@ -77,6 +77,6 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; M3 DatePicker landscape header text style is now TextTheme.headlineSmall<br />
     <sub>[#123732](https://github.com/flutter/flutter/pull/123732) opened on on March 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123732) 90 additions and 18 deletions in 3 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Invalidate the `WebStaticAssets` target if the web sdk changes.<br />
-    <sub>[#123739](https://github.com/flutter/flutter/pull/123739) opened on on March 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123739) 27 additions and 3 deletions in 2 files</sub><br />
+* **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Add the vertical alignment offset to the ```MenuAnchor``` widget<br />
+    <sub>[#123740](https://github.com/flutter/flutter/pull/123740) opened on on March 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123740) 5 additions and 1 deletion in 1 file</sub><br />
 
