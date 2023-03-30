@@ -83,3 +83,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; [DropdownMenu] add helperText & errorText to DropdownMenu Widget<br />
     <sub>[#123775](https://github.com/flutter/flutter/pull/123775) opened on on March 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123775) 21 additions and 0 deletions in 1 file</sub><br />
 
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Prevent bots/analyze.dart crashing on circular dependencies<br />
+    <sub>[#123802](https://github.com/flutter/flutter/pull/123802) opened on on March 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123802) 5 additions and 1 deletion in 1 file</sub><br />
+
