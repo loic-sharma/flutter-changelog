@@ -80,9 +80,6 @@
 * **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Add vertical alignment offset to the ```MenuAnchor``` widget when overflowing<br />
     <sub>[#123740](https://github.com/flutter/flutter/pull/123740) opened on on March 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123740) 5 additions and 1 deletion in 1 file</sub><br />
 
-* **[Greg Price](https://github.com/gnprice)** &mdash; Remove no-shuffle from framework tests, part 1: easy cases<br />
-    <sub>[#123751](https://github.com/flutter/flutter/pull/123751) opened on on March 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123751) 12 additions and 50 deletions in 7 files</sub><br />
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TableRow` with no children throws unnamed assertion<br />
     <sub>[#123770](https://github.com/flutter/flutter/pull/123770) opened on on March 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123770) 56 additions and 0 deletions in 2 files</sub><br />
 
