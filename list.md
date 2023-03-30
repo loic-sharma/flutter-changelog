@@ -772,7 +772,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-56 commits.
+57 commits.
 
 * **[Harry Terkelsen](https://github.com/hterkelsen)** &mdash; Switch from Noto Emoji to Noto Color Emoji and update font data
     <sub>[#40666](https://github.com/flutter/engine/pull/40666) merged on March 29, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40666) over 2 days, 49 additions and 43 deletions in 4 files</sub>
@@ -823,9 +823,9 @@
     <sub>[#40585](https://github.com/flutter/engine/pull/40585) merged on March 30, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/40585) over 6 days, 76 additions and 0 deletions in 3 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [macOS] Use the new update semantics embedder API
-    <sub>[#40584](https://github.com/flutter/engine/pull/40584) merged on March 28, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/40584) over 4 days, 26 additions and 24 deletions in 4 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [chunhtai](https://github.com/chunhtai)</sub>
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Handle removed shaders more gracefully in malioc_diff.py
+    <sub>[#40720](https://github.com/flutter/engine/pull/40720) merged on March 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40720) over 55 minutes, 9 additions and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Allow toggling vulkan validation using a command line test flag.
     <sub>[#40728](https://github.com/flutter/engine/pull/40728) merged on March 29, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40728) over 2 hours, 54 additions and 27 deletions in 20 files</sub>
@@ -851,9 +851,9 @@
     <sub>[#40717](https://github.com/flutter/engine/pull/40717) merged on March 29, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40717) over 6 hours, 1 addition and 207 deletions in 4 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Handle removed shaders more gracefully in malioc_diff.py
-    <sub>[#40720](https://github.com/flutter/engine/pull/40720) merged on March 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40720) over 55 minutes, 9 additions and 4 deletions in 1 file</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [macOS] Use the new update semantics embedder API
+    <sub>[#40584](https://github.com/flutter/engine/pull/40584) merged on March 28, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/40584) over 4 days, 26 additions and 24 deletions in 4 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Cleanup unusued Vulkan APIs and enable more tests.
     <sub>[#40696](https://github.com/flutter/engine/pull/40696) merged on March 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40696) over 6 hours, 11 additions and 56 deletions in 7 files</sub>
@@ -903,29 +903,17 @@
     <sub>[#40656](https://github.com/flutter/engine/pull/40656) merged on March 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40656) over 47 minutes, 5 additions and 5 deletions in 2 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Don't use waitUntilScheduled on iOS
+    <sub>[#40768](https://github.com/flutter/engine/pull/40768) merged on March 30, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/40768) over 8 hours, 21 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Dan Field](https://github.com/dnfield)</sub>
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix EntityPass target flip for Vulkan
     <sub>[#40701](https://github.com/flutter/engine/pull/40701) merged on March 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40701) over 3 hours, 14 additions and 12 deletions in 3 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fail GN when building an enabled Impeller backend is impossible.
-    <sub>[#40772](https://github.com/flutter/engine/pull/40772) merged on March 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40772) over 3 hours, 3 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Update ICU dependency to updated build
     <sub>[#40676](https://github.com/flutter/engine/pull/40676) merged on March 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40676) over 23 hours, 3 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Absorb DrawPaints at the beginning of EntityPasses
-    <sub>[#40675](https://github.com/flutter/engine/pull/40675) merged on March 28, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/40675) over 23 hours, 79 additions and 23 deletions in 6 files</sub>
-    <sub>Reviewed by: </sub>
-
-* **[bungeman](https://github.com/bungeman)** &mdash; Simplify SkFontMgr classes for sk_sp
-    <sub>[#40627](https://github.com/flutter/engine/pull/40627) merged on March 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40627) over 2 days, 34 additions and 62 deletions in 9 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
-* **[joshualitt](https://github.com/joshualitt)** &mdash; [web] Add `js_types` sources to build.
-    <sub>[#40597](https://github.com/flutter/engine/pull/40597) merged on March 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40597) over 3 days, 25 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Forward stdout and stderr from dart2wasm when verbose.
     <sub>[#40731](https://github.com/flutter/engine/pull/40731) merged on March 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40731) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -939,9 +927,25 @@
     <sub>[#40714](https://github.com/flutter/engine/pull/40714) merged on March 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40714) over 47 minutes, 3 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Harry Terkelsen](https://github.com/hterkelsen)</sub>
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fail GN when building an enabled Impeller backend is impossible.
+    <sub>[#40772](https://github.com/flutter/engine/pull/40772) merged on March 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40772) over 3 hours, 3 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Absorb DrawPaints at the beginning of EntityPasses
+    <sub>[#40675](https://github.com/flutter/engine/pull/40675) merged on March 28, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/40675) over 23 hours, 79 additions and 23 deletions in 6 files</sub>
+    <sub>Reviewed by: </sub>
+
+* **[bungeman](https://github.com/bungeman)** &mdash; Simplify SkFontMgr classes for sk_sp
+    <sub>[#40627](https://github.com/flutter/engine/pull/40627) merged on March 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40627) over 2 days, 34 additions and 62 deletions in 9 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Document tricky bits in EntityPass, make positioning less confusing
     <sub>[#40636](https://github.com/flutter/engine/pull/40636) merged on March 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40636) over 1 day, 140 additions and 38 deletions in 2 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[joshualitt](https://github.com/joshualitt)** &mdash; [web] Add `js_types` sources to build.
+    <sub>[#40597](https://github.com/flutter/engine/pull/40597) merged on March 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40597) over 3 days, 25 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Post 3.0 lint sync (#40394)"
     <sub>[#40688](https://github.com/flutter/engine/pull/40688) merged on March 28, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/40688) over 4 hours, 70 additions and 376 deletions in 75 files</sub>
