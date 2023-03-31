@@ -864,7 +864,7 @@
     <sub><details><summary>2 images...</summary><img src="https://user-images.githubusercontent.com/49340347/228143135-5aa98be0-8d1c-462b-8f81-4aa6bae95abb.gif" height=400 /><img src="https://user-images.githubusercontent.com/49340347/228145811-133b0cad-708d-4a86-bf67-9ecb410761e6.gif" height=400 /></details></sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Use Vulkan by default<br />
-    <sub>[#40809](https://github.com/flutter/engine/pull/40809) merged on March 31, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/40809) over 5 hours, 105 additions and 60 deletions in 18 files</sub><br />
+    <sub>[#40809](https://github.com/flutter/engine/pull/40809) merged on March 31, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/40809) over 5 hours, 105 additions and 60 deletions in 18 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Post 3.0 lint sync<br />
