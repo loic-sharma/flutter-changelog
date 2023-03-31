@@ -59,7 +59,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Focus] Add run key command to dump the focus tree<br />
     <sub>[#123473](https://github.com/flutter/flutter/pull/123473) merged on March 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123473) over 2 days, 160 additions and 2 deletions in 13 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Zachary Anderson](https://github.com/zanderso)</sub><br />
     <sub><details><summary>1 image...</summary>![dump_focus_tree](https://user-images.githubusercontent.com/737941/228694270-f5d87968-474a-49ca-a6ba-0011a2f9c158.gif)</details></sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add version info migration<br />
@@ -212,7 +212,7 @@
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix state leak in rendering/editable_test (framework shuffle-all 2/n)<br />
     <sub>[#123806](https://github.com/flutter/flutter/pull/123806) merged on March 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123806) over 4 hours, 22 additions and 24 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Prevent bots/analyze.dart crashing on circular dependencies<br />
     <sub>[#123802](https://github.com/flutter/flutter/pull/123802) merged on March 30, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/123802) over 2 hours, 8 additions and 1 deletion in 1 file</sub><br />
@@ -232,7 +232,7 @@
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix warning in `flutter create`d project ("package attribute is deprecated" in AndroidManifest)<br />
     <sub>[#123426](https://github.com/flutter/flutter/pull/123426) merged on March 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123426) over 4 days, 56 additions and 65 deletions in 54 files</sub><br />
-    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Reid Baker](https://github.com/reidbaker)</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Greg Price](https://github.com/gnprice)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; throw `ToolExit` when `--web-port` is an integer outside the valid TCP port range<br />
     <sub>[#123269](https://github.com/flutter/flutter/pull/123269) merged on March 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123269) over 5 days, 48 additions and 7 deletions in 3 files</sub><br />
@@ -628,7 +628,7 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use depfile with dart2wasm to determine when to rebuild.<br />
     <sub>[#122817](https://github.com/flutter/flutter/pull/122817) merged on March 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122817) over 5 hours, 11 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Yegor](https://github.com/yjbanov)</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField should support disabled input text style<br />
     <sub>[#119216](https://github.com/flutter/flutter/pull/119216) merged on March 17, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/119216) over 1 month, 90 additions and 7 deletions in 3 files</sub><br />
@@ -732,7 +732,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Fix globs in runIf configurations.<br />
     <sub>[#122630](https://github.com/flutter/flutter/pull/122630) merged on March 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/122630) over 2 hours, 108 additions and 108 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [keyonghan](https://github.com/keyonghan)</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TabBarView and TabBar animations are not synchronized<br />
     <sub>[#122021](https://github.com/flutter/flutter/pull/122021) merged on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122021) over 1 week, 127 additions and 50 deletions in 2 files</sub><br />
@@ -851,7 +851,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Reland "Speed up first asset load by using the binary-formatted asset manifest for image resolution"<br />
     <sub>[#122449](https://github.com/flutter/flutter/pull/122449) merged on March 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122449) over 2 hours, 156 additions and 93 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert "Manual roll Flutter Engine from e9ca7b2c457b to 7572fe5b9226 (16 revisions)"<br />
     <sub>[#122455](https://github.com/flutter/flutter/pull/122455) merged on March 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122455) over 29 minutes, 1 addition and 1 deletion in 1 file</sub><br />
@@ -993,7 +993,7 @@
 
 * **[Harry Terkelsen](https://github.com/hterkelsen)** &mdash; Roll buildroot to build CanvasKit for speed instead of code size<br />
     <sub>[#40737](https://github.com/flutter/engine/pull/40737) merged on March 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40737) over 58 minutes, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Yegor](https://github.com/yjbanov)</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Guard against empty grid sizes<br />
     <sub>[#40769](https://github.com/flutter/engine/pull/40769) merged on March 30, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/40769) over 19 hours, 63 additions and 0 deletions in 3 files</sub><br />
@@ -1451,7 +1451,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove bringup option from Fuchsia Linux FEMU<br />
     <sub>[#40537](https://github.com/flutter/engine/pull/40537) merged on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40537) over 55 minutes, 0 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Added additional uri field to routeInformationUpdated to accept entir…<br />
     <sub>[#40250](https://github.com/flutter/engine/pull/40250) merged on March 24, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40250) over 1 week, 40 additions and 1 deletion in 2 files</sub><br />
@@ -1527,7 +1527,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "Deprecate SingletonFlutterWindow and global window singleton"<br />
     <sub>[#40507](https://github.com/flutter/engine/pull/40507) merged on March 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40507) over 47 minutes, 36 additions and 65 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 </details>
 
@@ -1619,7 +1619,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove work around for dart 3 compiler bug<br />
     <sub>[#40350](https://github.com/flutter/engine/pull/40350) merged on March 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40350) over 5 hours, 0 additions and 3 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Yegor](https://github.com/yjbanov)</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [Impeller] Un-bitrot impeller_unittests; disable failing tests; disable non-metal backends.<br />
     <sub>[#40339](https://github.com/flutter/engine/pull/40339) merged on March 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40339) over 22 hours, 156 additions and 65 deletions in 18 files</sub><br />
@@ -1703,7 +1703,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump pubspecs to unblock Dart SDK roller<br />
     <sub>[#40297](https://github.com/flutter/engine/pull/40297) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40297) over 57 minutes, 3 additions and 3 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [Alexander Aprelev](https://github.com/aam)</sub><br />
+    <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [Impeller] Provisional iOS impeller flag-flip.<br />
     <sub>[#40405](https://github.com/flutter/engine/pull/40405) merged on March 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40405) over 5 hours, 13 additions and 2 deletions in 3 files</sub><br />
@@ -2277,7 +2277,7 @@
 
 * **[Braden Bagby](https://github.com/BradenBagby)** &mdash; [camera] Reland android flip/change camera while recording<br />
     <sub>[#3460](https://github.com/flutter/packages/pull/3460) merged on March 17, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3460) over 2 days, 780 additions and 47 deletions in 12 files</sub><br />
-    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 </details>
 
