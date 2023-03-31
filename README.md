@@ -632,7 +632,7 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use depfile with dart2wasm to determine when to rebuild.<br />
     <sub>[#122817](https://github.com/flutter/flutter/pull/122817) merged on March 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122817) over 5 hours, 11 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Yegor](https://github.com/yjbanov)</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField should support disabled input text style<br />
     <sub>[#119216](https://github.com/flutter/flutter/pull/119216) merged on March 17, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/119216) over 1 month, 90 additions and 7 deletions in 3 files</sub><br />
@@ -736,7 +736,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Fix globs in runIf configurations.<br />
     <sub>[#122630](https://github.com/flutter/flutter/pull/122630) merged on March 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/122630) over 2 hours, 108 additions and 108 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TabBarView and TabBar animations are not synchronized<br />
     <sub>[#122021](https://github.com/flutter/flutter/pull/122021) merged on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122021) over 1 week, 127 additions and 50 deletions in 2 files</sub><br />
@@ -1982,7 +1982,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-22 commits.
+23 commits.
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Roll mockito to 5.4.0<br />
     <sub>[#3544](https://github.com/flutter/packages/pull/3544) merged on March 30, 2023 &mdash; **Extra large:** [30 comments](https://github.com/flutter/packages/pull/3544) over 5 days, 1515 additions and 706 deletions in 152 files</sub><br />
@@ -2015,6 +2015,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fixes an issue where the params are removed after popping<br />
     <sub>[#3401](https://github.com/flutter/packages/pull/3401) merged on March 28, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3401) over 2 weeks, 42 additions and 3 deletions in 4 files</sub><br />
     <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub><br />
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Update version of Chromium in benchmarks to keep up with engine.<br />
+    <sub>[#3612](https://github.com/flutter/packages/pull/3612) merged on March 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3612) over 56 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [go_router] Migrate tests away from old handlePlatformMessage<br />
     <sub>[#3599](https://github.com/flutter/packages/pull/3599) merged on March 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3599) over 47 minutes, 10 additions and 10 deletions in 3 files</sub><br />
