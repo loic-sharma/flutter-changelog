@@ -932,7 +932,7 @@
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [Impeller] Un-ifdef vulkan code in impellerc<br />
-    <sub>[#40797](https://github.com/flutter/engine/pull/40797) merged on March 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40797) over 51 minutes, 27 additions and 6 deletions in 4 files</sub><br />
+    <sub>[#40797](https://github.com/flutter/engine/pull/40797) merged on March 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40797) over 51 minutes, 27 additions and 6 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] migrate Gaussian shaders to half precision.<br />
