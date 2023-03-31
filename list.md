@@ -672,7 +672,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump pubspec to unblock engine roller
     <sub>[#122699](https://github.com/flutter/flutter/pull/122699) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122699) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Siva](https://github.com/a-siva), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Take screenshot on devicelab failure
     <sub>[#122249](https://github.com/flutter/flutter/pull/122249) merged on March 15, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/122249) over 6 days, 81 additions and 16 deletions in 2 files</sub>
@@ -956,7 +956,7 @@
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Skip TextRotated golden test.
-    <sub>[#40818](https://github.com/flutter/engine/pull/40818) merged on March 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40818) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
+    <sub>[#40818](https://github.com/flutter/engine/pull/40818) merged on March 31, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40818) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [Impeller] Un-ifdef vulkan code in impellerc
