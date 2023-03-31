@@ -53,20 +53,8 @@
 * **[Leibo Ye](https://github.com/yeleibo)** &mdash; Fix FormField implementation components TextFormField, DropdownButtonFormField, CupertinoTextFormFieldRow. The problem that their onChange() method cannot be executed when the parent Form component calls the reset() method<br />
     <sub>[#123108](https://github.com/flutter/flutter/pull/123108) opened on on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123108) 17 additions and 4 deletions in 3 files</sub><br />
 
-* **[Gil Nobrega](https://github.com/gilnobrega)** &mdash; Do not animate `TabBarView` if controller is invalid<br />
-    <sub>[#123442](https://github.com/flutter/flutter/pull/123442) opened on on March 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123442) 66 additions and 0 deletions in 2 files</sub><br />
-
-* **[Marco Domingos](https://github.com/Marco4763)** &mdash; Added a duration feature to automatically dismiss the dialog accordin…<br />
-    <sub>[#123475](https://github.com/flutter/flutter/pull/123475) opened on on March 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123475) 94 additions and 2 deletions in 2 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Run web integration tests on x64 or arm Macs<br />
     <sub>[#123714](https://github.com/flutter/flutter/pull/123714) opened on on March 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123714) 0 additions and 5 deletions in 1 file</sub><br />
-
-* **[Tirth](https://github.com/piedcipher)** &mdash; [DropdownMenu] add helperText & errorText to DropdownMenu Widget<br />
-    <sub>[#123775](https://github.com/flutter/flutter/pull/123775) opened on on March 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123775) 94 additions and 0 deletions in 2 files</sub><br />
-
-* **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; Add KeepAliveHandle.removeKeepAlive method to replace release()<br />
-    <sub>[#123864](https://github.com/flutter/flutter/pull/123864) opened on on March 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123864) 32 additions and 13 deletions in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove Finder extended attributes in build target before code signing iOS frameworks<br />
     <sub>[#123896](https://github.com/flutter/flutter/pull/123896) opened on on March 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123896) 81 additions and 18 deletions in 3 files</sub><br />
