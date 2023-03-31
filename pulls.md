@@ -62,9 +62,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Run web integration tests on x64 or arm Macs<br />
     <sub>[#123714](https://github.com/flutter/flutter/pull/123714) opened on on March 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123714) 0 additions and 5 deletions in 1 file</sub><br />
 
-* **[Rexios](https://github.com/Rexios80)** &mdash; [flutter_test] Adds method to mock EventChannels<br />
-    <sub>[#123726](https://github.com/flutter/flutter/pull/123726) opened on on March 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123726) 152 additions and 38 deletions in 4 files</sub><br />
-
 * **[Tirth](https://github.com/piedcipher)** &mdash; [DropdownMenu] add helperText & errorText to DropdownMenu Widget<br />
     <sub>[#123775](https://github.com/flutter/flutter/pull/123775) opened on on March 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123775) 94 additions and 0 deletions in 2 files</sub><br />
 
