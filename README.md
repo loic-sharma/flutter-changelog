@@ -228,7 +228,7 @@
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix warning in `flutter create`d project ("package attribute is deprecated" in AndroidManifest)<br />
     <sub>[#123426](https://github.com/flutter/flutter/pull/123426) merged on March 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123426) over 4 days, 56 additions and 65 deletions in 54 files</sub><br />
-    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Reid Baker](https://github.com/reidbaker)</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Greg Price](https://github.com/gnprice)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; throw `ToolExit` when `--web-port` is an integer outside the valid TCP port range<br />
     <sub>[#123269](https://github.com/flutter/flutter/pull/123269) merged on March 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123269) over 5 days, 48 additions and 7 deletions in 3 files</sub><br />
@@ -684,7 +684,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump pubspec to unblock engine roller<br />
     <sub>[#122699](https://github.com/flutter/flutter/pull/122699) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122699) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub><br />
+    <sub>Reviewed by: [Siva](https://github.com/a-siva), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Take screenshot on devicelab failure<br />
     <sub>[#122249](https://github.com/flutter/flutter/pull/122249) merged on March 15, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/122249) over 6 days, 81 additions and 16 deletions in 2 files</sub><br />
@@ -728,7 +728,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Fix globs in runIf configurations.<br />
     <sub>[#122630](https://github.com/flutter/flutter/pull/122630) merged on March 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/122630) over 2 hours, 108 additions and 108 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TabBarView and TabBar animations are not synchronized<br />
     <sub>[#122021](https://github.com/flutter/flutter/pull/122021) merged on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122021) over 1 week, 127 additions and 50 deletions in 2 files</sub><br />
@@ -847,7 +847,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Reland "Speed up first asset load by using the binary-formatted asset manifest for image resolution"<br />
     <sub>[#122449](https://github.com/flutter/flutter/pull/122449) merged on March 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122449) over 2 hours, 156 additions and 93 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert "Manual roll Flutter Engine from e9ca7b2c457b to 7572fe5b9226 (16 revisions)"<br />
     <sub>[#122455](https://github.com/flutter/flutter/pull/122455) merged on March 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122455) over 29 minutes, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1954,7 +1954,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-21 commits.
+22 commits.
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Roll mockito to 5.4.0<br />
     <sub>[#3544](https://github.com/flutter/packages/pull/3544) merged on March 30, 2023 &mdash; **Extra large:** [30 comments](https://github.com/flutter/packages/pull/3544) over 5 days, 1515 additions and 706 deletions in 152 files</sub><br />
@@ -2014,7 +2014,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [all_packages] Bump minimum SDK version<br />
     <sub>[#3581](https://github.com/flutter/packages/pull/3581) merged on March 30, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3581) over 1 day, 2 additions and 3 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Yang](https://github.com/cyanglaz)</sub><br />
+    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] allow custom key prefixes platform only changes<br />
     <sub>[#3497](https://github.com/flutter/packages/pull/3497) merged on March 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3497) over 1 week, 158 additions and 22 deletions in 6 files</sub><br />
@@ -2035,6 +2035,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Fix CameraInfo cast causing failure in integration test<br />
     <sub>[#3558](https://github.com/flutter/packages/pull/3558) merged on March 27, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3558) over 1 hour, 2 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 90c64ed42ba5 to 62bd79521d8d (2 revisions)<br />
+    <sub>[#3604](https://github.com/flutter/packages/pull/3604) merged on March 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3604) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [video_player]: Bump exoplayer_version from 2.18.4 to 2.18.5 in /packages/video_player/video_player_android/android<br />
     <sub>[#3557](https://github.com/flutter/packages/pull/3557) merged on March 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3557) over 1 day, 6 additions and 2 deletions in 3 files</sub><br />
@@ -2199,12 +2203,12 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [image_picker]: Bump androidx.exifinterface:exifinterface from 1.3.3 to 1.3.6 in /packages/image_picker/image_picker_android/android<br />
     <sub>[#3238](https://github.com/flutter/packages/pull/3238) merged on March 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3238) over 3 weeks, 6 additions and 2 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.exifinterface:exifinterface&package-manager=gradle&previous-version=1.3.3&new-version=1.3.6)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Gabriel Gava](https://github.com/gabrielgarciagava)** &mdash; [video_player] Make video player avfoundation seek to async<br />
     <sub>[#3299](https://github.com/flutter/packages/pull/3299) merged on March 15, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/3299) over 2 weeks, 365 additions and 340 deletions in 11 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Convert iOS to Pigeon<br />
     <sub>[#3481](https://github.com/flutter/packages/pull/3481) merged on March 18, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/3481) over 1 day, 755 additions and 243 deletions in 15 files</sub><br />
@@ -2269,7 +2273,7 @@
 
 * **[Braden Bagby](https://github.com/BradenBagby)** &mdash; [camera] Reland android flip/change camera while recording<br />
     <sub>[#3460](https://github.com/flutter/packages/pull/3460) merged on March 17, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/3460) over 2 days, 780 additions and 47 deletions in 12 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 </details>
 
