@@ -74,3 +74,6 @@
 * **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; Add KeepAliveHandle.removeKeepAlive method to replace release()<br />
     <sub>[#123864](https://github.com/flutter/flutter/pull/123864) opened on on March 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123864) 32 additions and 13 deletions in 2 files</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove Finder extended attributes in build target before code signing iOS frameworks<br />
+    <sub>[#123896](https://github.com/flutter/flutter/pull/123896) opened on on March 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123896) 81 additions and 18 deletions in 3 files</sub><br />
+
