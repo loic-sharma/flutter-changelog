@@ -1189,7 +1189,7 @@
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Remove ios-release-nobitcode from engine v2 builders.<br />
-    <sub>[#40830](https://github.com/flutter/engine/pull/40830) merged on March 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40830) over 1 hour, 0 additions and 25 deletions in 1 file</sub><br />
+    <sub>[#40830](https://github.com/flutter/engine/pull/40830) merged on March 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40830) over 1 hour, 0 additions and 25 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[bungeman](https://github.com/bungeman)** &mdash; Simplify SkFontMgr classes for sk_sp<br />
