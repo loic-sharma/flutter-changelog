@@ -59,3 +59,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove Finder extended attributes in build target before code signing iOS frameworks<br />
     <sub>[#123896](https://github.com/flutter/flutter/pull/123896) opened on on March 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123896) 81 additions and 18 deletions in 3 files</sub><br />
 
+* **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Remove default text animation<br />
+    <sub>[#123906](https://github.com/flutter/flutter/pull/123906) opened on on March 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123906) 1 addition and 2 deletions in 1 file</sub><br />
+
