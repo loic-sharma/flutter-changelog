@@ -68,9 +68,6 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; M3 DatePicker landscape header text style is now TextTheme.headlineSmall<br />
     <sub>[#123732](https://github.com/flutter/flutter/pull/123732) opened on on March 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123732) 124 additions and 18 deletions in 3 files</sub><br />
 
-* **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Add vertical alignment offset to the ```MenuAnchor``` widget when overflowing<br />
-    <sub>[#123740](https://github.com/flutter/flutter/pull/123740) opened on on March 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123740) 105 additions and 1 deletion in 2 files</sub><br />
-
 * **[Tirth](https://github.com/piedcipher)** &mdash; [DropdownMenu] add helperText & errorText to DropdownMenu Widget<br />
     <sub>[#123775](https://github.com/flutter/flutter/pull/123775) opened on on March 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123775) 94 additions and 0 deletions in 2 files</sub><br />
 

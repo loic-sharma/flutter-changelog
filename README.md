@@ -59,7 +59,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Focus] Add run key command to dump the focus tree<br />
     <sub>[#123473](https://github.com/flutter/flutter/pull/123473) merged on March 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123473) over 2 days, 160 additions and 2 deletions in 13 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
     <sub><details><summary>1 image...</summary>![dump_focus_tree](https://user-images.githubusercontent.com/737941/228694270-f5d87968-474a-49ca-a6ba-0011a2f9c158.gif)</details></sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add version info migration<br />
@@ -668,7 +668,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable shuffling for flutter/test/material/text_field_test.dart<br />
     <sub>[#122956](https://github.com/flutter/flutter/pull/122956) merged on March 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122956) over 1 hour, 6 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [gallery] roll gallery to 6a8d738c94d0710e229d726729c09fdb5ccaf7ed<br />
     <sub>[#122747](https://github.com/flutter/flutter/pull/122747) merged on March 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122747) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
@@ -732,7 +732,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Fix globs in runIf configurations.<br />
     <sub>[#122630](https://github.com/flutter/flutter/pull/122630) merged on March 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/122630) over 2 hours, 108 additions and 108 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TabBarView and TabBar animations are not synchronized<br />
     <sub>[#122021](https://github.com/flutter/flutter/pull/122021) merged on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122021) over 1 week, 127 additions and 50 deletions in 2 files</sub><br />
@@ -851,7 +851,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Reland "Speed up first asset load by using the binary-formatted asset manifest for image resolution"<br />
     <sub>[#122449](https://github.com/flutter/flutter/pull/122449) merged on March 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122449) over 2 hours, 156 additions and 93 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert "Manual roll Flutter Engine from e9ca7b2c457b to 7572fe5b9226 (16 revisions)"<br />
     <sub>[#122455](https://github.com/flutter/flutter/pull/122455) merged on March 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122455) over 29 minutes, 1 addition and 1 deletion in 1 file</sub><br />
@@ -2018,7 +2018,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [all_packages] Bump minimum SDK version<br />
     <sub>[#3581](https://github.com/flutter/packages/pull/3581) merged on March 30, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3581) over 1 day, 2 additions and 3 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Yang](https://github.com/cyanglaz)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] allow custom key prefixes platform only changes<br />
     <sub>[#3497](https://github.com/flutter/packages/pull/3497) merged on March 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3497) over 1 week, 158 additions and 22 deletions in 6 files</sub><br />
