@@ -192,7 +192,7 @@
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix state leak in rendering/editable_test (framework shuffle-all 2/n)
     <sub>[#123806](https://github.com/flutter/flutter/pull/123806) merged on March 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123806) over 4 hours, 22 additions and 24 deletions in 1 file</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Prevent bots/analyze.dart crashing on circular dependencies
     <sub>[#123802](https://github.com/flutter/flutter/pull/123802) merged on March 30, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/123802) over 2 hours, 8 additions and 1 deletion in 1 file</sub>
