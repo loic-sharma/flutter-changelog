@@ -75,5 +75,5 @@
     <sub>[#123775](https://github.com/flutter/flutter/pull/123775) opened on on March 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123775) 94 additions and 0 deletions in 2 files</sub><br />
 
 * **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; Add KeepAliveHandle.removeKeepAlive method to replace release()<br />
-    <sub>[#123864](https://github.com/flutter/flutter/pull/123864) opened on on March 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123864) 32 additions and 13 deletions in 2 files</sub><br />
+    <sub>[#123864](https://github.com/flutter/flutter/pull/123864) opened on on March 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123864) 32 additions and 13 deletions in 2 files</sub><br />
 
