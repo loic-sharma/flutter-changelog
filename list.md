@@ -104,7 +104,7 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix SliverGridRegularTileLayout.computeMaxScrollOffset for 0 children
     <sub>[#123348](https://github.com/flutter/flutter/pull/123348) merged on March 29, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/123348) over 5 days, 54 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Tae Hyung Kim](https://github.com/thkim1011), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Tae Hyung Kim](https://github.com/thkim1011)</sub>
 
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Treat hidden `IndexedStack` children as offstage for test finder
     <sub>[#123129](https://github.com/flutter/flutter/pull/123129) merged on March 29, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/123129) over 1 week, 164 additions and 96 deletions in 6 files</sub>
@@ -212,7 +212,7 @@
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix state leak in rendering/editable_test (framework shuffle-all 2/n)
     <sub>[#123806](https://github.com/flutter/flutter/pull/123806) merged on March 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123806) over 4 hours, 22 additions and 24 deletions in 1 file</sub>
-    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Prevent bots/analyze.dart crashing on circular dependencies
     <sub>[#123802](https://github.com/flutter/flutter/pull/123802) merged on March 30, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/123802) over 2 hours, 8 additions and 1 deletion in 1 file</sub>
@@ -228,7 +228,7 @@
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix warning in `flutter create`d project ("package attribute is deprecated" in AndroidManifest)
     <sub>[#123426](https://github.com/flutter/flutter/pull/123426) merged on March 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123426) over 4 days, 56 additions and 65 deletions in 54 files</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Greg Price](https://github.com/gnprice)</sub>
+    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; throw `ToolExit` when `--web-port` is an integer outside the valid TCP port range
     <sub>[#123269](https://github.com/flutter/flutter/pull/123269) merged on March 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123269) over 5 days, 48 additions and 7 deletions in 3 files</sub>
@@ -728,7 +728,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Fix globs in runIf configurations.
     <sub>[#122630](https://github.com/flutter/flutter/pull/122630) merged on March 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/122630) over 2 hours, 108 additions and 108 deletions in 1 file</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [keyonghan](https://github.com/keyonghan)</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TabBarView and TabBar animations are not synchronized
     <sub>[#122021](https://github.com/flutter/flutter/pull/122021) merged on March 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122021) over 1 week, 127 additions and 50 deletions in 2 files</sub>
@@ -847,7 +847,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Reland "Speed up first asset load by using the binary-formatted asset manifest for image resolution"
     <sub>[#122449](https://github.com/flutter/flutter/pull/122449) merged on March 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122449) over 2 hours, 156 additions and 93 deletions in 5 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert "Manual roll Flutter Engine from e9ca7b2c457b to 7572fe5b9226 (16 revisions)"
     <sub>[#122455](https://github.com/flutter/flutter/pull/122455) merged on March 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122455) over 29 minutes, 1 addition and 1 deletion in 1 file</sub>
@@ -1189,7 +1189,7 @@
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; Revert "[web] Accepts assetBase through JS config. (#40615)"
     <sub>[#40670](https://github.com/flutter/engine/pull/40670) merged on March 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40670) over 18 minutes, 21 additions and 211 deletions in 4 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[luckysmg](https://github.com/luckysmg)** &mdash; Revert "[iOS] Send connectionClosed message when resignFirstResponder to ensure framework focus state is correct."
     <sub>[#40777](https://github.com/flutter/engine/pull/40777) merged on March 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40777) over 56 minutes, 4 additions and 30 deletions in 4 files</sub>
@@ -1447,7 +1447,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove bringup option from Fuchsia Linux FEMU
     <sub>[#40537](https://github.com/flutter/engine/pull/40537) merged on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40537) over 55 minutes, 0 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [gaaclarke](https://github.com/gaaclarke)</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Added additional uri field to routeInformationUpdated to accept entir…
     <sub>[#40250](https://github.com/flutter/engine/pull/40250) merged on March 24, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40250) over 1 week, 40 additions and 1 deletion in 2 files</sub>
@@ -1523,7 +1523,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "Deprecate SingletonFlutterWindow and global window singleton"
     <sub>[#40507](https://github.com/flutter/engine/pull/40507) merged on March 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40507) over 47 minutes, 36 additions and 65 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 </details>
 
@@ -1615,7 +1615,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove work around for dart 3 compiler bug
     <sub>[#40350](https://github.com/flutter/engine/pull/40350) merged on March 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40350) over 5 hours, 0 additions and 3 deletions in 1 file</sub>
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Yegor](https://github.com/yjbanov)</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [Impeller] Un-bitrot impeller_unittests; disable failing tests; disable non-metal backends.
     <sub>[#40339](https://github.com/flutter/engine/pull/40339) merged on March 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40339) over 22 hours, 156 additions and 65 deletions in 18 files</sub>
@@ -1635,7 +1635,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Fix crash if clipboard is set to null
     <sub>[#40238](https://github.com/flutter/engine/pull/40238) merged on March 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40238) over 5 days, 19 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; drawTextBlob should not be compatible with opacity inheritance
     <sub>[#40396](https://github.com/flutter/engine/pull/40396) merged on March 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40396) over 1 hour, 7 additions and 2 deletions in 2 files</sub>
@@ -1651,7 +1651,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Ignore some MTLCompiler failures in impeller unit tests
     <sub>[#40391](https://github.com/flutter/engine/pull/40391) merged on March 17, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/40391) over 1 hour, 55 additions and 29 deletions in 1 file</sub>
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jason Simmons](https://github.com/jason-simmons)</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Rename FlutterViewController.id to viewId
     <sub>[#40323](https://github.com/flutter/engine/pull/40323) merged on March 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40323) over 2 hours, 18 additions and 20 deletions in 4 files</sub>
@@ -2160,7 +2160,7 @@
 
 * **[GP4cK](https://github.com/GP4cK)** &mdash; [go_router] Add navigator key to typed routes
     <sub>[#3471](https://github.com/flutter/packages/pull/3471) merged on March 20, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3471) over 4 days, 17 additions and 3 deletions in 4 files</sub>
-    <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [chunhtai](https://github.com/chunhtai)</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [John Ryan](https://github.com/johnpryan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Adopt readme excerpts
     <sub>[#3491](https://github.com/flutter/packages/pull/3491) merged on March 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3491) over 2 hours, 119 additions and 7 deletions in 8 files</sub>
@@ -2199,7 +2199,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [image_picker]: Bump androidx.exifinterface:exifinterface from 1.3.3 to 1.3.6 in /packages/image_picker/image_picker_android/android
     <sub>[#3238](https://github.com/flutter/packages/pull/3238) merged on March 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3238) over 3 weeks, 6 additions and 2 deletions in 3 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.exifinterface:exifinterface&package-manager=gradle&previous-version=1.3.3&new-version=1.3.6)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Gabriel Gava](https://github.com/gabrielgarciagava)** &mdash; [video_player] Make video player avfoundation seek to async
