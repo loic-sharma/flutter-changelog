@@ -384,7 +384,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Jan Kuß](https://github.com/jankuss)** &mdash; Fix selection toolbar not showing on drag end<br />
-    <sub>[#121110](https://github.com/flutter/flutter/pull/121110) merged on March 26, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/121110) over 1 month, 50 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#121110](https://github.com/flutter/flutter/pull/121110) merged on March 26, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/121110) over 1 month, 50 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Remove sound null safety flag #2<br />
