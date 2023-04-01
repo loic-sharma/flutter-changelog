@@ -2052,7 +2052,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-24 commits.
+25 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] allow custom key prefixes
     <sub>[#3465](https://github.com/flutter/packages/pull/3465) merged on March 31, 2023 &mdash; **Medium:** [64 comments](https://github.com/flutter/packages/pull/3465) over 2 weeks, 310 additions and 31 deletions in 6 files</sub>
@@ -2077,6 +2077,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Improve C++ data class constructors
     <sub>[#3585](https://github.com/flutter/packages/pull/3585) merged on March 30, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/3585) over 19 hours, 466 additions and 257 deletions in 26 files</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [pigeon] Migrates off old BinaryMessenger API
+    <sub>[#3600](https://github.com/flutter/packages/pull/3600) merged on April 1, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/3600) over 1 day, 59 additions and 35 deletions in 23 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [gis_web] Improves renderButton API exports.
     <sub>[#3432](https://github.com/flutter/packages/pull/3432) merged on March 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3432) over 3 weeks, 119 additions and 8 deletions in 12 files</sub>
