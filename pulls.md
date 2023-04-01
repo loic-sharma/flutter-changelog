@@ -65,3 +65,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Always use the canvaskit path from the web sdk.<br />
     <sub>[#123915](https://github.com/flutter/flutter/pull/123915) opened on on April 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123915) 30 additions and 39 deletions in 5 files</sub><br />
 
+* **[Greg Price](https://github.com/gnprice)** &mdash; Make tester.startGesture less async, for better stack traces<br />
+    <sub>[#123946](https://github.com/flutter/flutter/pull/123946) opened on on April 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123946) 15 additions and 11 deletions in 1 file</sub><br />
+
