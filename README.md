@@ -76,8 +76,8 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Fix menu width issue for `DropdownMenu`<br />
-    <sub>[#123823](https://github.com/flutter/flutter/pull/123823) merged on March 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123823) over 22 hours, 55 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>[#123823](https://github.com/flutter/flutter/pull/123823) merged on March 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123823) over 22 hours, 55 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Rydmike](https://github.com/rydmike), [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>1 image...</summary><img width="300" alt="Screenshot 2023-03-30 at 3 26 55 PM" src="https://user-images.githubusercontent.com/36861262/228977450-46fe990b-c652-49d9-8aae-aa86eebf1e51.png"></details></sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Match iOS Longpress behavior with native<br />
