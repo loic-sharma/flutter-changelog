@@ -45,7 +45,7 @@
     <sub>[#122385](https://github.com/flutter/flutter/pull/122385) opened on on March 10, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/122385) 148 additions and 108 deletions in 9 files</sub><br />
 
 * **[hyiso](https://github.com/hyiso)** &mdash; Set plugin aar version to plugin pubspec.yaml version<br />
-    <sub>[#122481](https://github.com/flutter/flutter/pull/122481) opened on on March 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122481) 17 additions and 4 deletions in 1 file</sub><br />
+    <sub>[#122481](https://github.com/flutter/flutter/pull/122481) opened on on March 12, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122481) 17 additions and 4 deletions in 1 file</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Fix style issues<br />
     <sub>[#122586](https://github.com/flutter/flutter/pull/122586) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122586) 4 additions and 8 deletions in 1 file</sub><br />
