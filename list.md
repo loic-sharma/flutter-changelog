@@ -2088,7 +2088,7 @@
 
 ### March 25, 2023 to March 31, 2023
 
-25 commits.
+26 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] allow custom key prefixes
     <sub>[#3465](https://github.com/flutter/packages/pull/3465) merged on March 31, 2023 &mdash; **Medium:** [64 comments](https://github.com/flutter/packages/pull/3465) over 2 weeks, 310 additions and 31 deletions in 6 files</sub>
@@ -2148,6 +2148,10 @@
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Update image_picker_ios to the latest pigeon
     <sub>[#3563](https://github.com/flutter/packages/pull/3563) merged on March 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3563) over 3 hours, 108 additions and 114 deletions in 6 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [Many] run agp update to support jdk17 1/N
+    <sub>[#3574](https://github.com/flutter/packages/pull/3574) merged on April 2, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3574) over 5 days, 65 additions and 81 deletions in 48 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Josh Burton](https://github.com/josh-burton)** &mdash; [go_router] Sets correct reverseTransitionDuration on NoTransitionPage (#123368)
