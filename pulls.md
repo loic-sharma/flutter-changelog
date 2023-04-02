@@ -69,5 +69,5 @@
     <sub>[#123946](https://github.com/flutter/flutter/pull/123946) opened on on April 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123946) 15 additions and 11 deletions in 1 file</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [NavigationDrawer] adds padding property in NavigationDrawer Widget<br />
-    <sub>[#123961](https://github.com/flutter/flutter/pull/123961) opened on on April 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123961) 10 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#123961](https://github.com/flutter/flutter/pull/123961) opened on on April 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123961) 10 additions and 1 deletion in 1 file</sub><br />
 
