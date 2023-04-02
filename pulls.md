@@ -71,3 +71,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; [NavigationDrawer] adds padding property in NavigationDrawer Widget<br />
     <sub>[#123961](https://github.com/flutter/flutter/pull/123961) opened on on April 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123961) 10 additions and 1 deletion in 1 file</sub><br />
 
+* **[Tirth](https://github.com/piedcipher)** &mdash; [ExpansionPanelList] add materialGapSize property in ExpansionPanelList Widget<br />
+    <sub>[#123971](https://github.com/flutter/flutter/pull/123971) opened on on April 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123971) 7 additions and 2 deletions in 1 file</sub><br />
+
