@@ -14,14 +14,14 @@
     <sub>[#119046](https://github.com/flutter/flutter/pull/119046) merged on March 27, 2023 &mdash; **Extra large:** [110 comments](https://github.com/flutter/flutter/pull/119046) over 2 months, 2713 additions and 21 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tomasz Gucio](https://github.com/tgucio)</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Setup channels during IntegrationTest registration on iOS<br />
-    <sub>[#123729](https://github.com/flutter/flutter/pull/123729) merged on March 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123729) over 21 hours, 5 additions and 28 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [pdblasi-google](https://github.com/pdblasi-google)</sub><br />
-
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Create `SearchAnchor` and `SearchViewTheme` Widget<br />
     <sub>[#123256](https://github.com/flutter/flutter/pull/123256) merged on March 28, 2023 &mdash; **Extra large:** [51 comments](https://github.com/flutter/flutter/pull/123256) over 5 days, 2535 additions and 51 deletions in 14 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>2 images...</summary><img width="250" alt="Screenshot 2023-03-23 at 10 26 01 AM" src="https://user-images.githubusercontent.com/36861262/227287614-23f4e516-3f04-4e8a-9d4d-f7f3feda5fdf.png"><img width="250" alt="Screenshot 2023-03-23 at 10 26 35 AM" src="https://user-images.githubusercontent.com/36861262/227287776-bce44275-c942-4e6e-afa9-591d656ff894.png"></details></sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Setup channels during IntegrationTest registration on iOS<br />
+    <sub>[#123729](https://github.com/flutter/flutter/pull/123729) merged on March 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123729) over 21 hours, 5 additions and 28 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [pdblasi-google](https://github.com/pdblasi-google)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix docs and error messages for scroll directions + sample code<br />
     <sub>[#123819](https://github.com/flutter/flutter/pull/123819) merged on March 31, 2023 &mdash; **Large:** [32 comments](https://github.com/flutter/flutter/pull/123819) over 1 day, 1002 additions and 51 deletions in 20 files</sub><br />
