@@ -77,6 +77,3 @@
 * **[LiangXiang Shen](https://github.com/kj415j45)** &mdash; Update `ThemeData`'s factory method documents<br />
     <sub>[#123984](https://github.com/flutter/flutter/pull/123984) opened on on April 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123984) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix some `MaterialBanner` properties aren't respected when presented by `ScaffoldMessenger`<br />
-    <sub>[#124024](https://github.com/flutter/flutter/pull/124024) opened on on April 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124024) 42 additions and 62 deletions in 2 files</sub><br />
-
