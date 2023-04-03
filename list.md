@@ -621,7 +621,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-11 commits.
+12 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add a Stage 2 pass to the Vulkan shader compilation pipeline.
     <sub>[#40873](https://github.com/flutter/engine/pull/40873) merged on April 3, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/40873) over 1 hour, 492 additions and 281 deletions in 9 files</sub>
@@ -640,8 +640,12 @@
     <sub>[#40890](https://github.com/flutter/engine/pull/40890) merged on April 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40890) over 1 hour, 4 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Adds the ability to specify a golden threshold
+    <sub>[#40824](https://github.com/flutter/engine/pull/40824) merged on April 3, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/40824) over 3 days, 44 additions and 21 deletions in 8 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add subpass blend goldens
-    <sub>[#40879](https://github.com/flutter/engine/pull/40879) merged on April 3, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/40879) over 13 hours, 76 additions and 32 deletions in 3 files</sub>
+    <sub>[#40879](https://github.com/flutter/engine/pull/40879) merged on April 3, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/40879) over 13 hours, 76 additions and 32 deletions in 3 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Skip the color blend in drawVertices when using the destination blend mode
