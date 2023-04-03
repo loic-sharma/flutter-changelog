@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### April 1, 2023 to April 7, 2023
+
+1 commits.
+
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "[flutter_tools] Remove --no-sound-null-safety #3"<br />
+    <sub>[#123969](https://github.com/flutter/flutter/pull/123969) merged on April 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123969) over 8 hours, 137 additions and 98 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub><br />
+
 ### March 25, 2023 to March 31, 2023
 
-70 commits.
+<details>
+<summary>70 commits...</summary>
 
 * **[nt4f04uNd](https://github.com/nt4f04uNd)** &mdash; Fix ListWheelScrollView gestures and paint coordinates in tests<br />
     <sub>[#121342](https://github.com/flutter/flutter/pull/121342) merged on March 30, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/121342) over 1 month, 181 additions and 25 deletions in 4 files</sub><br />
@@ -295,6 +304,8 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Revert "Roll Flutter Engine from 685fbc6f4d9d to 3ecc5cc53bd0 (23 revisions)"<br />
     <sub>[#123551](https://github.com/flutter/flutter/pull/123551) merged on March 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/123551) over 7 minutes, 3 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### March 18, 2023 to March 24, 2023
 
@@ -603,9 +614,19 @@
 
 ## flutter/engine
 
+### April 1, 2023 to April 7, 2023
+
+1 commits.
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add a Stage 2 pass to the Vulkan shader compilation pipeline.<br />
+    <sub>[#40873](https://github.com/flutter/engine/pull/40873) merged on April 3, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/40873) over 1 hour, 492 additions and 281 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub><details><summary>1 image...</summary><img width="164" alt="Screenshot 2023-04-02 at 4 08 20 PM" src="https://user-images.githubusercontent.com/44085/229384268-394d4184-fe41-4973-92f0-70ccc1fd7522.png"></details></sub>
+
 ### March 25, 2023 to March 31, 2023
 
-112 commits.
+<details>
+<summary>112 commits...</summary>
 
 * **[htoor3](https://github.com/htoor3)** &mdash; [web] Move text editing nodes outside of shadowDOM<br />
     <sub>[#39688](https://github.com/flutter/engine/pull/39688) merged on March 31, 2023 &mdash; **Medium:** [35 comments](https://github.com/flutter/engine/pull/39688) over 1 month, 192 additions and 165 deletions in 12 files</sub><br />
@@ -1057,6 +1078,8 @@
 * **[joshualitt](https://github.com/joshualitt)** &mdash; Revert "[web] Add `js_types` sources to build."<br />
     <sub>[#40685](https://github.com/flutter/engine/pull/40685) merged on March 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40685) over 15 minutes, 0 additions and 25 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+</details>
 
 ### March 18, 2023 to March 24, 2023
 
