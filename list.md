@@ -47,7 +47,7 @@
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix out-of-bounds and reversed TextBox queries in computing caret metrics
-    <sub>[#122480](https://github.com/flutter/flutter/pull/122480) merged on March 28, 2023 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/122480) over 2 weeks, 235 additions and 9 deletions in 3 files</sub>
+    <sub>[#122480](https://github.com/flutter/flutter/pull/122480) merged on March 28, 2023 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/122480) over 2 weeks, 235 additions and 9 deletions in 3 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Tomasz Gucio](https://github.com/tgucio)</sub>
 
 * **[ivirtex](https://github.com/ivirtex)** &mdash; Update `CupertinoPageRoute` transition animation curves
