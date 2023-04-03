@@ -74,3 +74,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; [ExpansionPanelList] add materialGapSize property in ExpansionPanelList Widget<br />
     <sub>[#123971](https://github.com/flutter/flutter/pull/123971) opened on on April 2, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/123971) 57 additions and 2 deletions in 2 files</sub><br />
 
+* **[LiangXiang Shen](https://github.com/kj415j45)** &mdash; Update `ThemeData`'s factory method documents<br />
+    <sub>[#123984](https://github.com/flutter/flutter/pull/123984) opened on on April 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123984) 2 additions and 2 deletions in 1 file</sub><br />
+
