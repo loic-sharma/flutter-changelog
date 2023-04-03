@@ -77,3 +77,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update Navigation Drawer width and tiles padding<br />
     <sub>[#124042](https://github.com/flutter/flutter/pull/124042) opened on on April 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124042) 61 additions and 33 deletions in 5 files</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add readlink -f flag to CocoaPods script to workaround Xcode 14.3 issue<br />
+    <sub>[#124062](https://github.com/flutter/flutter/pull/124062) opened on on April 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124062) 224 additions and 0 deletions in 6 files</sub><br />
+
