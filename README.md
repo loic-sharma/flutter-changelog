@@ -42,8 +42,12 @@
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
     <sub><details><summary>1 image...</summary><img width="45" alt="Screenshot 2023-03-22 at 3 48 58 PM" src="https://user-images.githubusercontent.com/58190796/227056057-1bb3fe8b-a845-462a-8612-20114a6b358e.png"></details></sub>
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [iOS] Add spell check suggestions toolbar on tap<br />
+    <sub>[#119189](https://github.com/flutter/flutter/pull/119189) merged on March 31, 2023 &mdash; **Medium:** [43 comments](https://github.com/flutter/flutter/pull/119189) over 2 months, 393 additions and 64 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix out-of-bounds and reversed TextBox queries in computing caret metrics<br />
-    <sub>[#122480](https://github.com/flutter/flutter/pull/122480) merged on March 28, 2023 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/122480) over 2 weeks, 235 additions and 9 deletions in 3 files</sub><br />
+    <sub>[#122480](https://github.com/flutter/flutter/pull/122480) merged on March 28, 2023 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/122480) over 2 weeks, 235 additions and 9 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Tomasz Gucio](https://github.com/tgucio)</sub><br />
 
 * **[ivirtex](https://github.com/ivirtex)** &mdash; Update `CupertinoPageRoute` transition animation curves<br />
@@ -55,10 +59,6 @@
     <sub>[#94128](https://github.com/flutter/flutter/pull/94128) merged on March 29, 2023 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/94128) over 16 months, 65 additions and 12 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
     <sub><details><summary>1 image...</summary>![image](https://user-images.githubusercontent.com/19626901/143135989-8105a9b0-9ffe-4cde-964b-812b2a1f4e23.png)</details></sub>
-
-* **[Camille Simon](https://github.com/camsim99)** &mdash; [iOS] Add spell check suggestions toolbar on tap<br />
-    <sub>[#119189](https://github.com/flutter/flutter/pull/119189) merged on March 31, 2023 &mdash; **Medium:** [43 comments](https://github.com/flutter/flutter/pull/119189) over 2 months, 393 additions and 64 deletions in 10 files</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix divider width in scrollable `TabBar` for  Material 3 and add `dividerHeight` parameter<br />
     <sub>[#123127](https://github.com/flutter/flutter/pull/123127) merged on March 27, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123127) over 6 days, 171 additions and 74 deletions in 6 files</sub><br />
@@ -600,7 +600,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable shuffling for flutter/test/material/text_field_test.dart<br />
     <sub>[#122956](https://github.com/flutter/flutter/pull/122956) merged on March 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122956) over 1 hour, 6 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; Add dimenstion for arm packaging<br />
     <sub>[#122770](https://github.com/flutter/flutter/pull/122770) merged on March 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/122770) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
