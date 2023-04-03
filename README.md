@@ -616,12 +616,16 @@
 
 ### April 1, 2023 to April 7, 2023
 
-1 commits.
+2 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add a Stage 2 pass to the Vulkan shader compilation pipeline.<br />
     <sub>[#40873](https://github.com/flutter/engine/pull/40873) merged on April 3, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/40873) over 1 hour, 492 additions and 281 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
     <sub><details><summary>1 image...</summary><img width="164" alt="Screenshot 2023-04-02 at 4 08 20 PM" src="https://user-images.githubusercontent.com/44085/229384268-394d4184-fe41-4973-92f0-70ccc1fd7522.png"></details></sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove obsolete object caches; simplify native object management<br />
+    <sub>[#40862](https://github.com/flutter/engine/pull/40862) merged on April 3, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/40862) over 1 day, 557 additions and 770 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
 
 ### March 25, 2023 to March 31, 2023
 
