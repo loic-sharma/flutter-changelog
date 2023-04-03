@@ -54,7 +54,7 @@
     <sub>[#123108](https://github.com/flutter/flutter/pull/123108) opened on on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123108) 17 additions and 4 deletions in 3 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Run web integration tests on x64 or arm Macs<br />
-    <sub>[#123714](https://github.com/flutter/flutter/pull/123714) opened on on March 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123714) 0 additions and 5 deletions in 1 file</sub><br />
+    <sub>[#123714](https://github.com/flutter/flutter/pull/123714) opened on on March 29, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123714) 0 additions and 5 deletions in 1 file</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove Finder extended attributes in build target before code signing iOS frameworks<br />
     <sub>[#123896](https://github.com/flutter/flutter/pull/123896) opened on on March 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123896) 81 additions and 18 deletions in 3 files</sub><br />
@@ -63,7 +63,7 @@
     <sub>[#123906](https://github.com/flutter/flutter/pull/123906) opened on on March 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123906) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Make tester.startGesture less async, for better stack traces<br />
-    <sub>[#123946](https://github.com/flutter/flutter/pull/123946) opened on on April 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123946) 15 additions and 11 deletions in 1 file</sub><br />
+    <sub>[#123946](https://github.com/flutter/flutter/pull/123946) opened on on April 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123946) 44 additions and 11 deletions in 2 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [NavigationDrawer] adds padding property in NavigationDrawer Widget<br />
     <sub>[#123961](https://github.com/flutter/flutter/pull/123961) opened on on April 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123961) 33 additions and 1 deletion in 2 files</sub><br />
@@ -73,4 +73,7 @@
 
 * **[LiangXiang Shen](https://github.com/kj415j45)** &mdash; Update `ThemeData`'s factory method documents<br />
     <sub>[#123984](https://github.com/flutter/flutter/pull/123984) opened on on April 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123984) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[hangyu](https://github.com/hangyujin)** &mdash; Update Navigation Drawer width and tiles padding<br />
+    <sub>[#124042](https://github.com/flutter/flutter/pull/124042) opened on on April 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124042) 60 additions and 33 deletions in 5 files</sub><br />
 
