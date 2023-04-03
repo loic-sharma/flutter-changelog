@@ -621,12 +621,17 @@
 
 ### April 1, 2023 to April 7, 2023
 
-12 commits.
+13 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add a Stage 2 pass to the Vulkan shader compilation pipeline.<br />
     <sub>[#40873](https://github.com/flutter/engine/pull/40873) merged on April 3, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/40873) over 1 hour, 492 additions and 281 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
     <sub><details><summary>1 image...</summary><img width="164" alt="Screenshot 2023-04-02 at 4 08 20 PM" src="https://user-images.githubusercontent.com/44085/229384268-394d4184-fe41-4973-92f0-70ccc1fd7522.png"></details></sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] reduce advanced blend subpass count for single input with foreground color<br />
+    <sub>[#40886](https://github.com/flutter/engine/pull/40886) merged on April 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40886) over 5 hours, 246 additions and 0 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+    <sub><details><summary>2 images...</summary><img width="1728" alt="Screenshot 2023-04-03 at 9 56 15 AM" src="https://user-images.githubusercontent.com/8975114/229581048-d050aa12-eb5d-417a-a3df-29ac25d395c4.png"><img width="1728" alt="Screenshot 2023-04-03 at 9 52 07 AM" src="https://user-images.githubusercontent.com/8975114/229581063-b0f73282-8a98-4dce-9cb4-cd892533c562.png"></details></sub>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Re-introduce WM_CLOSE listener, new quit protocol posts a second message to next handler<br />
     <sub>[#40802](https://github.com/flutter/engine/pull/40802) merged on April 3, 2023 &mdash; **Large:** [33 comments](https://github.com/flutter/engine/pull/40802) over 3 days, 666 additions and 38 deletions in 12 files</sub><br />
