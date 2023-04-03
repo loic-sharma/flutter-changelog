@@ -4,7 +4,12 @@
 
 ### April 1, 2023 to April 7, 2023
 
-1 commits.
+2 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix some `MaterialBanner` properties aren't respected when presented by `ScaffoldMessenger`
+    <sub>[#124024](https://github.com/flutter/flutter/pull/124024) merged on April 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124024) over 45 minutes, 42 additions and 62 deletions in 2 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub><details><summary>2 images...</summary>![Screenshot 2023-04-03 at 18 51 13](https://user-images.githubusercontent.com/48603081/229562221-2d40b93d-fe4f-4d46-a893-1ed1a7a127bf.png)![Screenshot 2023-04-03 at 18 50 58](https://user-images.githubusercontent.com/48603081/229562205-fa0a5220-45ee-4281-93bd-957015dc0c17.png)</details></sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "[flutter_tools] Remove --no-sound-null-safety #3"
     <sub>[#123969](https://github.com/flutter/flutter/pull/123969) merged on April 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123969) over 8 hours, 137 additions and 98 deletions in 9 files</sub>
@@ -77,7 +82,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Focus] Add run key command to dump the focus tree
     <sub>[#123473](https://github.com/flutter/flutter/pull/123473) merged on March 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123473) over 2 days, 160 additions and 2 deletions in 13 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Zachary Anderson](https://github.com/zanderso)</sub>
     <sub><details><summary>1 image...</summary>![dump_focus_tree](https://user-images.githubusercontent.com/737941/228694270-f5d87968-474a-49ca-a6ba-0011a2f9c158.gif)</details></sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add version info migration
@@ -275,7 +280,7 @@
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix state leak in rendering/editable_test (framework shuffle-all 2/n)
     <sub>[#123806](https://github.com/flutter/flutter/pull/123806) merged on March 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123806) over 4 hours, 22 additions and 24 deletions in 1 file</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; throw `ToolExit` when `--web-port` is an integer outside the valid TCP port range
     <sub>[#123269](https://github.com/flutter/flutter/pull/123269) merged on March 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123269) over 5 days, 48 additions and 7 deletions in 3 files</sub>
@@ -789,7 +794,7 @@
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove redundant TargetPlatformNeedsSL.
     <sub>[#40857](https://github.com/flutter/engine/pull/40857) merged on April 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40857) over 1 hour, 55 additions and 86 deletions in 6 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] migrate Gaussian shaders to half precision.
     <sub>[#40752](https://github.com/flutter/engine/pull/40752) merged on March 29, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/40752) over 13 hours, 202 additions and 186 deletions in 9 files</sub>
@@ -853,7 +858,7 @@
 
 * **[Harry Terkelsen](https://github.com/hterkelsen)** &mdash; Roll buildroot to build CanvasKit for speed instead of code size
     <sub>[#40737](https://github.com/flutter/engine/pull/40737) merged on March 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40737) over 58 minutes, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Yegor](https://github.com/yjbanov)</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Eliminate explicit main window init()
     <sub>[#40695](https://github.com/flutter/engine/pull/40695) merged on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40695) over 49 minutes, 1 addition and 1 deletion in 1 file</sub>
@@ -901,7 +906,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Complete the update semantics embedder API migration
     <sub>[#40773](https://github.com/flutter/engine/pull/40773) merged on March 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40773) over 1 day, 80 additions and 201 deletions in 8 files</sub>
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Use NSAutoReleasePool for Metal playgrounds.
     <sub>[#40748](https://github.com/flutter/engine/pull/40748) merged on March 29, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40748) over 1 hour, 25 additions and 0 deletions in 1 file</sub>
@@ -1321,7 +1326,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove bringup option from Fuchsia Linux FEMU
     <sub>[#40537](https://github.com/flutter/engine/pull/40537) merged on March 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40537) over 55 minutes, 0 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Added additional uri field to routeInformationUpdated to accept entir…
     <sub>[#40250](https://github.com/flutter/engine/pull/40250) merged on March 24, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40250) over 1 week, 40 additions and 1 deletion in 2 files</sub>
