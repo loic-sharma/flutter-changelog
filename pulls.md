@@ -63,10 +63,10 @@
     <sub>[#123906](https://github.com/flutter/flutter/pull/123906) opened on on March 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123906) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Make tester.startGesture less async, for better stack traces<br />
-    <sub>[#123946](https://github.com/flutter/flutter/pull/123946) opened on on April 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123946) 44 additions and 11 deletions in 2 files</sub><br />
+    <sub>[#123946](https://github.com/flutter/flutter/pull/123946) opened on on April 1, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123946) 44 additions and 11 deletions in 2 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [NavigationDrawer] adds padding property in NavigationDrawer Widget<br />
-    <sub>[#123961](https://github.com/flutter/flutter/pull/123961) opened on on April 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123961) 33 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#123961](https://github.com/flutter/flutter/pull/123961) opened on on April 2, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/123961) 326 additions and 287 deletions in 61 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [ExpansionPanelList] add materialGapSize property in ExpansionPanelList Widget<br />
     <sub>[#123971](https://github.com/flutter/flutter/pull/123971) opened on on April 2, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/123971) 57 additions and 2 deletions in 2 files</sub><br />
