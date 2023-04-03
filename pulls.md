@@ -66,7 +66,7 @@
     <sub>[#123946](https://github.com/flutter/flutter/pull/123946) opened on on April 1, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123946) 44 additions and 11 deletions in 2 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [NavigationDrawer] adds padding property in NavigationDrawer Widget<br />
-    <sub>[#123961](https://github.com/flutter/flutter/pull/123961) opened on on April 2, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/123961) 326 additions and 287 deletions in 61 files</sub><br />
+    <sub>[#123961](https://github.com/flutter/flutter/pull/123961) opened on on April 2, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/123961) 326 additions and 287 deletions in 61 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [ExpansionPanelList] add materialGapSize property in ExpansionPanelList Widget<br />
     <sub>[#123971](https://github.com/flutter/flutter/pull/123971) opened on on April 2, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/123971) 57 additions and 2 deletions in 2 files</sub><br />
@@ -76,7 +76,4 @@
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update Navigation Drawer width and tiles padding<br />
     <sub>[#124042](https://github.com/flutter/flutter/pull/124042) opened on on April 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124042) 61 additions and 33 deletions in 5 files</sub><br />
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add readlink -f flag to CocoaPods script to workaround Xcode 14.3 issue<br />
-    <sub>[#124062](https://github.com/flutter/flutter/pull/124062) opened on on April 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124062) 224 additions and 0 deletions in 6 files</sub><br />
 
