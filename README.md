@@ -4,7 +4,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-21 commits.
+22 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Always use the canvaskit path from the web sdk.<br />
     <sub>[#123915](https://github.com/flutter/flutter/pull/123915) merged on April 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123915) over 3 days, 30 additions and 39 deletions in 5 files</sub><br />
@@ -48,6 +48,10 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Remove --no-sound-null-safety #4<br />
     <sub>[#124039](https://github.com/flutter/flutter/pull/124039) merged on April 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124039) over 1 day, 104 additions and 187 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds i18n to widget layer<br />
+    <sub>[#123620](https://github.com/flutter/flutter/pull/123620) merged on April 4, 2023 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/123620) over 1 week, 4171 additions and 66 deletions in 124 files</sub><br />
+    <sub>Reviewed by: [Tae Hyung Kim](https://github.com/thkim1011)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add flag to filter by device connection interface<br />
     <sub>[#124034](https://github.com/flutter/flutter/pull/124034) merged on April 4, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/124034) over 1 day, 491 additions and 61 deletions in 10 files</sub><br />
@@ -683,7 +687,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable shuffling for flutter/test/material/text_field_test.dart<br />
     <sub>[#122956](https://github.com/flutter/flutter/pull/122956) merged on March 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122956) over 1 hour, 6 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; Add dimenstion for arm packaging<br />
     <sub>[#122770](https://github.com/flutter/flutter/pull/122770) merged on March 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/122770) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
