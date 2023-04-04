@@ -71,3 +71,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update Navigation Drawer width and tiles padding<br />
     <sub>[#124042](https://github.com/flutter/flutter/pull/124042) opened on on April 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124042) 61 additions and 33 deletions in 5 files</sub><br />
 
+* **[gmackall](https://github.com/gmackall)** &mdash; Add migrator to upgrade gradle version when conflict with Android Studio version is detected<br />
+    <sub>[#124085](https://github.com/flutter/flutter/pull/124085) opened on on April 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124085) 226 additions and 15 deletions in 20 files</sub><br />
+
