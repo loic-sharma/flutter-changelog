@@ -625,7 +625,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-14 commits.
+15 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add a Stage 2 pass to the Vulkan shader compilation pipeline.<br />
     <sub>[#40873](https://github.com/flutter/engine/pull/40873) merged on April 3, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/40873) over 1 hour, 492 additions and 281 deletions in 9 files</sub><br />
@@ -654,8 +654,12 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add subpass blend goldens<br />
-    <sub>[#40879](https://github.com/flutter/engine/pull/40879) merged on April 3, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/40879) over 13 hours, 76 additions and 32 deletions in 3 files</sub><br />
+    <sub>[#40879](https://github.com/flutter/engine/pull/40879) merged on April 3, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40879) over 13 hours, 76 additions and 32 deletions in 3 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] reduce gaussian sampling by 2x<br />
+    <sub>[#40871](https://github.com/flutter/engine/pull/40871) merged on April 4, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/40871) over 1 day, 98 additions and 87 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable partial repaint on Android<br />
     <sub>[#40898](https://github.com/flutter/engine/pull/40898) merged on April 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40898) over 1 hour, 7 additions and 108 deletions in 1 file</sub><br />
