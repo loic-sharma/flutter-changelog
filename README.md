@@ -4,7 +4,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-5 commits.
+6 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix some `MaterialBanner` properties aren't respected when presented by `ScaffoldMessenger`<br />
     <sub>[#124024](https://github.com/flutter/flutter/pull/124024) merged on April 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124024) over 45 minutes, 42 additions and 62 deletions in 2 files</sub><br />
@@ -22,6 +22,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Run web integration tests on x64 or arm Macs<br />
     <sub>[#123714](https://github.com/flutter/flutter/pull/123714) merged on April 4, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/123714) over 5 days, 0 additions and 5 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Add Welsh to Material Flutter (and update some other translations)"<br />
+    <sub>[#124088](https://github.com/flutter/flutter/pull/124088) merged on April 4, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/124088) over 1 minute, 2228 additions and 3337 deletions in 116 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "[flutter_tools] Remove --no-sound-null-safety #3"<br />
     <sub>[#123969](https://github.com/flutter/flutter/pull/123969) merged on April 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123969) over 8 hours, 137 additions and 98 deletions in 9 files</sub><br />
@@ -633,7 +637,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-20 commits.
+21 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add a Stage 2 pass to the Vulkan shader compilation pipeline.<br />
     <sub>[#40873](https://github.com/flutter/engine/pull/40873) merged on April 3, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/40873) over 1 hour, 492 additions and 281 deletions in 9 files</sub><br />
@@ -676,6 +680,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add subpass blend goldens<br />
     <sub>[#40879](https://github.com/flutter/engine/pull/40879) merged on April 3, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40879) over 13 hours, 76 additions and 32 deletions in 3 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] convert blend shaders to half precision<br />
+    <sub>[#40897](https://github.com/flutter/engine/pull/40897) merged on April 4, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/40897) over 4 hours, 291 additions and 232 deletions in 37 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] More impeller goldens from aiks_unittests<br />
     <sub>[#40901](https://github.com/flutter/engine/pull/40901) merged on April 4, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/40901) over 1 hour, 121 additions and 191 deletions in 2 files</sub><br />
