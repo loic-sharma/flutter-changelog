@@ -645,7 +645,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-24 commits.
+25 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add a Stage 2 pass to the Vulkan shader compilation pipeline.
     <sub>[#40873](https://github.com/flutter/engine/pull/40873) merged on April 3, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/40873) over 1 hour, 492 additions and 281 deletions in 9 files</sub>
@@ -720,6 +720,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Skip the color blend in drawVertices when using the destination blend mode
     <sub>[#40891](https://github.com/flutter/engine/pull/40891) merged on April 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40891) over 1 hour, 10 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[joshualitt](https://github.com/joshualitt)** &mdash; [web] Migrate EventListener's to JS types.
+    <sub>[#40566](https://github.com/flutter/engine/pull/40566) merged on April 4, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/40566) over 1 week, 146 additions and 178 deletions in 27 files</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; [Impeller] Fix variable name spelling/typos in several comments.
     <sub>[#40909](https://github.com/flutter/engine/pull/40909) merged on April 4, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/40909) over 4 hours, 3 additions and 3 deletions in 1 file</sub>
@@ -1179,7 +1183,7 @@
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; Revert "[web] Accepts assetBase through JS config. (#40615)"
     <sub>[#40670](https://github.com/flutter/engine/pull/40670) merged on March 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40670) over 18 minutes, 21 additions and 211 deletions in 4 files</sub>
-    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[luckysmg](https://github.com/luckysmg)** &mdash; Revert "[iOS] Send connectionClosed message when resignFirstResponder to ensure framework focus state is correct."
     <sub>[#40777](https://github.com/flutter/engine/pull/40777) merged on March 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40777) over 56 minutes, 4 additions and 30 deletions in 4 files</sub>
@@ -1515,7 +1519,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "Deprecate SingletonFlutterWindow and global window singleton"
     <sub>[#40507](https://github.com/flutter/engine/pull/40507) merged on March 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40507) over 47 minutes, 36 additions and 65 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 </details>
 
