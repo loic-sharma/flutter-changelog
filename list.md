@@ -189,7 +189,7 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix scrolling in the  `Drawer` and `NavigationDrawer` triggers AppBar's scrolledUnderElevation
-    <sub>[#122600](https://github.com/flutter/flutter/pull/122600) merged on March 29, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/122600) over 2 weeks, 100 additions and 1 deletion in 4 files</sub>
+    <sub>[#122600](https://github.com/flutter/flutter/pull/122600) merged on March 29, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/122600) over 2 weeks, 100 additions and 1 deletion in 4 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Remove --no-sound-null-safety #3
@@ -1656,7 +1656,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-6 commits.
+8 commits.
 
 * **[maRci002](https://github.com/maRci002)** &mdash; [video_player] synchronize isPlaying state
     <sub>[#3261](https://github.com/flutter/packages/pull/3261) merged on April 3, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/3261) over 1 month, 438 additions and 80 deletions in 29 files</sub>
@@ -1665,6 +1665,10 @@
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] fix swift nsnull casting crash
     <sub>[#3545](https://github.com/flutter/packages/pull/3545) merged on April 4, 2023 &mdash; **Large:** [77 comments](https://github.com/flutter/packages/pull/3545) over 1 week, 289 additions and 218 deletions in 25 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Add a structured function helper for C++
+    <sub>[#3601](https://github.com/flutter/packages/pull/3601) merged on April 4, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/3601) over 4 days, 545 additions and 243 deletions in 23 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Add initial `update-dependency` command
     <sub>[#3632](https://github.com/flutter/packages/pull/3632) merged on April 3, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/3632) over 3 hours, 572 additions and 0 deletions in 4 files</sub>
@@ -1678,6 +1682,10 @@
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; [go_router] Fix redirect being called with empty location for unknown routes
     <sub>[#3548](https://github.com/flutter/packages/pull/3548) merged on April 3, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3548) over 1 week, 45 additions and 2 deletions in 5 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
+
+* **[Koen Van Looveren](https://github.com/vanlooverenkoen)** &mdash; Use packages instead of plugins repository
+    <sub>[#3504](https://github.com/flutter/packages/pull/3504) merged on April 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3504) over 2 weeks, 17 additions and 17 deletions in 1 file</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Take C++ out of experimental
     <sub>[#3603](https://github.com/flutter/packages/pull/3603) merged on April 3, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/3603) over 3 days, 70 additions and 62 deletions in 25 files</sub>
