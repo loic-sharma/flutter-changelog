@@ -4,7 +4,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-23 commits.
+24 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Always use the canvaskit path from the web sdk.<br />
     <sub>[#123915](https://github.com/flutter/flutter/pull/123915) merged on April 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123915) over 3 days, 30 additions and 39 deletions in 5 files</sub><br />
@@ -97,6 +97,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Add Welsh to Material Flutter (and update some other translations)"<br />
     <sub>[#124088](https://github.com/flutter/flutter/pull/124088) merged on April 4, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/124088) over 1 minute, 2228 additions and 3337 deletions in 116 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "Serve DevTools when running flutter test (#123607)"<br />
+    <sub>[#124058](https://github.com/flutter/flutter/pull/124058) merged on April 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124058) over 1 day, 61 additions and 6 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "[flutter_tools] Remove --no-sound-null-safety #3"<br />
     <sub>[#123969](https://github.com/flutter/flutter/pull/123969) merged on April 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123969) over 8 hours, 137 additions and 98 deletions in 9 files</sub><br />
