@@ -71,3 +71,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update Navigation Drawer width and tiles padding<br />
     <sub>[#124042](https://github.com/flutter/flutter/pull/124042) opened on on April 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124042) 61 additions and 33 deletions in 5 files</sub><br />
 
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Rename Sample classes<br />
+    <sub>[#124080](https://github.com/flutter/flutter/pull/124080) opened on on April 4, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/124080) 2224 additions and 2239 deletions in 477 files</sub><br />
+
