@@ -77,3 +77,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; [InputDatePickerFormField] adds acceptEmptyDate to InputDatePickerFormField Widget<br />
     <sub>[#124143](https://github.com/flutter/flutter/pull/124143) opened on on April 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124143) 42 additions and 0 deletions in 2 files</sub><br />
 
+* **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; Allow multiple KeepAliveNotifications from the same KeepAliveHandle<br />
+    <sub>[#124168](https://github.com/flutter/flutter/pull/124168) opened on on April 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124168) 41 additions and 3 deletions in 2 files</sub><br />
+
