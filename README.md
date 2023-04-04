@@ -22,7 +22,7 @@
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Add Welsh to Material Flutter (and update some other translations)<br />
     <sub>[#123575](https://github.com/flutter/flutter/pull/123575) merged on April 4, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/123575) over 6 days, 3337 additions and 2228 deletions in 116 files</sub><br />
-    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [chunhtai](https://github.com/chunhtai)</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Better support for wireless devices in IDEs<br />
     <sub>[#123716](https://github.com/flutter/flutter/pull/123716) merged on April 4, 2023 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/123716) over 6 days, 394 additions and 176 deletions in 4 files</sub><br />
@@ -54,7 +54,7 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Make flutter_adapter_test more resilient to pub output<br />
     <sub>[#124139](https://github.com/flutter/flutter/pull/124139) merged on April 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124139) over 1 hour, 24 additions and 14 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jenn Magder](https://github.com/jmagman)</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update localizations.<br />
     <sub>[#124099](https://github.com/flutter/flutter/pull/124099) merged on April 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124099) over 10 hours, 10 additions and 10 deletions in 2 files</sub><br />
