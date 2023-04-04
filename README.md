@@ -4,12 +4,16 @@
 
 ### April 1, 2023 to April 7, 2023
 
-3 commits.
+4 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix some `MaterialBanner` properties aren't respected when presented by `ScaffoldMessenger`<br />
     <sub>[#124024](https://github.com/flutter/flutter/pull/124024) merged on April 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124024) over 45 minutes, 42 additions and 62 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>2 images...</summary>![Screenshot 2023-04-03 at 18 51 13](https://user-images.githubusercontent.com/48603081/229562221-2d40b93d-fe4f-4d46-a893-1ed1a7a127bf.png)![Screenshot 2023-04-03 at 18 50 58](https://user-images.githubusercontent.com/48603081/229562205-fa0a5220-45ee-4281-93bd-957015dc0c17.png)</details></sub>
+
+* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Add Welsh to Material Flutter (and update some other translations)<br />
+    <sub>[#123575](https://github.com/flutter/flutter/pull/123575) merged on April 4, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/123575) over 6 days, 3337 additions and 2228 deletions in 116 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add readlink -f flag to CocoaPods script to workaround Xcode 14.3 issue<br />
     <sub>[#124062](https://github.com/flutter/flutter/pull/124062) merged on April 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124062) over 2 hours, 223 additions and 0 deletions in 5 files</sub><br />
@@ -625,7 +629,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-15 commits.
+18 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add a Stage 2 pass to the Vulkan shader compilation pipeline.<br />
     <sub>[#40873](https://github.com/flutter/engine/pull/40873) merged on April 3, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/40873) over 1 hour, 492 additions and 281 deletions in 9 files</sub><br />
@@ -641,6 +645,10 @@
     <sub>[#40802](https://github.com/flutter/engine/pull/40802) merged on April 3, 2023 &mdash; **Large:** [33 comments](https://github.com/flutter/engine/pull/40802) over 3 days, 666 additions and 38 deletions in 12 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Chris Bracken](https://github.com/cbracken), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Change back to using the memory address of a texture as its ID.<br />
+    <sub>[#40899](https://github.com/flutter/engine/pull/40899) merged on April 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40899) over 2 hours, 17 additions and 7 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove obsolete object caches; simplify native object management<br />
     <sub>[#40862](https://github.com/flutter/engine/pull/40862) merged on April 3, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/40862) over 1 day, 557 additions and 770 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
@@ -649,6 +657,10 @@
     <sub>[#40890](https://github.com/flutter/engine/pull/40890) merged on April 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40890) over 1 hour, 4 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fail the run_suite_step if any test failures are detected.<br />
+    <sub>[#40834](https://github.com/flutter/engine/pull/40834) merged on April 4, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/40834) over 3 days, 56 additions and 334 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Adds the ability to specify a golden threshold<br />
     <sub>[#40824](https://github.com/flutter/engine/pull/40824) merged on April 3, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/40824) over 3 days, 44 additions and 21 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
@@ -656,6 +668,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add subpass blend goldens<br />
     <sub>[#40879](https://github.com/flutter/engine/pull/40879) merged on April 3, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40879) over 13 hours, 76 additions and 32 deletions in 3 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Respect enable-impeller command line setting over info.plist setting<br />
+    <sub>[#40902](https://github.com/flutter/engine/pull/40902) merged on April 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40902) over 50 minutes, 72 additions and 16 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] reduce gaussian sampling by 2x<br />
     <sub>[#40871](https://github.com/flutter/engine/pull/40871) merged on April 4, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/40871) over 1 day, 98 additions and 87 deletions in 3 files</sub><br />
