@@ -75,5 +75,5 @@
     <sub>[#124085](https://github.com/flutter/flutter/pull/124085) opened on on April 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124085) 229 additions and 15 deletions in 21 files</sub><br />
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Add Welsh to Material Flutter (and update some other translations)<br />
-    <sub>[#124094](https://github.com/flutter/flutter/pull/124094) opened on on April 4, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/124094) 3340 additions and 2231 deletions in 117 files</sub><br />
+    <sub>[#124094](https://github.com/flutter/flutter/pull/124094) opened on on April 4, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/124094) 3340 additions and 2231 deletions in 117 files</sub><br />
 
