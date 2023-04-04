@@ -4,7 +4,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-7 commits.
+8 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix some `MaterialBanner` properties aren't respected when presented by `ScaffoldMessenger`
     <sub>[#124024](https://github.com/flutter/flutter/pull/124024) merged on April 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124024) over 45 minutes, 42 additions and 62 deletions in 2 files</sub>
@@ -26,6 +26,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Run web integration tests on x64 or arm Macs
     <sub>[#123714](https://github.com/flutter/flutter/pull/123714) merged on April 4, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/123714) over 5 days, 0 additions and 5 deletions in 1 file</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Update localizations.
+    <sub>[#124099](https://github.com/flutter/flutter/pull/124099) merged on April 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124099) over 10 hours, 10 additions and 10 deletions in 2 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Tae Hyung Kim](https://github.com/thkim1011)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Add Welsh to Material Flutter (and update some other translations)"
     <sub>[#124088](https://github.com/flutter/flutter/pull/124088) merged on April 4, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/124088) over 1 minute, 2228 additions and 3337 deletions in 116 files</sub>
@@ -164,7 +168,7 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix SliverGridRegularTileLayout.computeMaxScrollOffset for 0 children
     <sub>[#123348](https://github.com/flutter/flutter/pull/123348) merged on March 29, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/123348) over 5 days, 54 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Tae Hyung Kim](https://github.com/thkim1011), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Tae Hyung Kim](https://github.com/thkim1011)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Don't rethrow Dart plugin registration exceptions
     <sub>[#122111](https://github.com/flutter/flutter/pull/122111) merged on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122111) over 2 weeks, 0 additions and 9 deletions in 3 files</sub>
