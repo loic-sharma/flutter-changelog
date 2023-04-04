@@ -77,6 +77,3 @@
 * **[mrdevdhingra](https://github.com/mrdevdhingra)** &mdash; Remove animation from ScrollBar<br />
     <sub>[#124120](https://github.com/flutter/flutter/pull/124120) opened on on April 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124120) 45 additions and 67 deletions in 2 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Pass app entrypoint to DWDS<br />
-    <sub>[#124134](https://github.com/flutter/flutter/pull/124134) opened on on April 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124134) 3 additions and 0 deletions in 1 file</sub><br />
-
