@@ -4,7 +4,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-15 commits.
+16 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Add adaptive constructor to Radio and RadioListTile<br />
     <sub>[#123816](https://github.com/flutter/flutter/pull/123816) merged on April 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123816) over 4 days, 208 additions and 17 deletions in 4 files</sub><br />
@@ -34,7 +34,11 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add readlink -f flag to CocoaPods script to workaround Xcode 14.3 issue<br />
     <sub>[#124062](https://github.com/flutter/flutter/pull/124062) merged on April 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124062) over 2 hours, 223 additions and 0 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Remove --no-sound-null-safety #4<br />
+    <sub>[#124039](https://github.com/flutter/flutter/pull/124039) merged on April 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124039) over 1 day, 104 additions and 187 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Do not use colors in output if running from CI.<br />
     <sub>[#122645](https://github.com/flutter/flutter/pull/122645) merged on April 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122645) over 2 weeks, 4 additions and 1 deletion in 1 file</sub><br />
@@ -135,7 +139,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Focus] Add run key command to dump the focus tree<br />
     <sub>[#123473](https://github.com/flutter/flutter/pull/123473) merged on March 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123473) over 2 days, 160 additions and 2 deletions in 13 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
     <sub><details><summary>1 image...</summary>![dump_focus_tree](https://user-images.githubusercontent.com/737941/228694270-f5d87968-474a-49ca-a6ba-0011a2f9c158.gif)</details></sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add version info migration<br />
@@ -197,7 +201,7 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix SliverGridRegularTileLayout.computeMaxScrollOffset for 0 children<br />
     <sub>[#123348](https://github.com/flutter/flutter/pull/123348) merged on March 29, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/123348) over 5 days, 54 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Tae Hyung Kim](https://github.com/thkim1011)</sub><br />
+    <sub>Reviewed by: [Tae Hyung Kim](https://github.com/thkim1011), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Don't rethrow Dart plugin registration exceptions<br />
     <sub>[#122111](https://github.com/flutter/flutter/pull/122111) merged on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122111) over 2 weeks, 0 additions and 9 deletions in 3 files</sub><br />
@@ -293,7 +297,7 @@
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix warning in `flutter create`d project ("package attribute is deprecated" in AndroidManifest)<br />
     <sub>[#123426](https://github.com/flutter/flutter/pull/123426) merged on March 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123426) over 4 days, 56 additions and 65 deletions in 54 files</sub><br />
-    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Reid Baker](https://github.com/reidbaker)</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Greg Price](https://github.com/gnprice)</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Remove no-shuffle from framework tests, part 1: easy cases<br />
     <sub>[#123751](https://github.com/flutter/flutter/pull/123751) merged on March 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/123751) over 12 hours, 12 additions and 50 deletions in 7 files</sub><br />
@@ -674,7 +678,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-28 commits.
+30 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add a Stage 2 pass to the Vulkan shader compilation pipeline.<br />
     <sub>[#40873](https://github.com/flutter/engine/pull/40873) merged on April 3, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/40873) over 1 hour, 492 additions and 281 deletions in 9 files</sub><br />
@@ -722,6 +726,10 @@
     <sub>[#40879](https://github.com/flutter/engine/pull/40879) merged on April 3, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40879) over 13 hours, 76 additions and 32 deletions in 3 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Update API name to indicate descriptor set registrations.<br />
+    <sub>[#40922](https://github.com/flutter/engine/pull/40922) merged on April 4, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40922) over 2 hours, 7 additions and 7 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Clarify validation log behavior.<br />
     <sub>[#40921](https://github.com/flutter/engine/pull/40921) merged on April 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40921) over 2 hours, 13 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
@@ -757,6 +765,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Skip the color blend in drawVertices when using the destination blend mode<br />
     <sub>[#40891](https://github.com/flutter/engine/pull/40891) merged on April 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40891) over 1 hour, 10 additions and 4 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; The `dart:wasm` library is no longer used directly by user code.<br />
+    <sub>[#40920](https://github.com/flutter/engine/pull/40920) merged on April 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40920) over 2 hours, 0 additions and 11 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[joshualitt](https://github.com/joshualitt)** &mdash; [web] Migrate EventListener's to JS types.<br />
     <sub>[#40566](https://github.com/flutter/engine/pull/40566) merged on April 4, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/40566) over 1 week, 146 additions and 178 deletions in 27 files</sub><br />
