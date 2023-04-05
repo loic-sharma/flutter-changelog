@@ -1678,7 +1678,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-8 commits.
+9 commits.
 
 * **[maRci002](https://github.com/maRci002)** &mdash; [video_player] synchronize isPlaying state
     <sub>[#3261](https://github.com/flutter/packages/pull/3261) merged on April 3, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/3261) over 1 month, 438 additions and 80 deletions in 29 files</sub>
@@ -1700,6 +1700,10 @@
     <sub>[#3623](https://github.com/flutter/packages/pull/3623) merged on April 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3623) over 8 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.8.10&new-version=1.8.20)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Skip flaky transparency test
+    <sub>[#3643](https://github.com/flutter/packages/pull/3643) merged on April 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3643) over 6 hours, 2 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; [go_router] Fix redirect being called with empty location for unknown routes
     <sub>[#3548](https://github.com/flutter/packages/pull/3548) merged on April 3, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3548) over 1 week, 45 additions and 2 deletions in 5 files</sub>
