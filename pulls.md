@@ -83,6 +83,3 @@
 * **[David Burghoff](https://github.com/burghoffdavid)** &mdash; Always set orientation preferences on iOS 16+ <br />
     <sub>[#124207](https://github.com/flutter/flutter/pull/124207) opened on on April 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124207) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix double the<br />
-    <sub>[#124236](https://github.com/flutter/flutter/pull/124236) opened on on April 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124236) 1 addition and 1 deletion in 1 file</sub><br />
-
