@@ -712,7 +712,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-30 commits.
+31 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove obsolete object caches; simplify native object management<br />
     <sub>[#40894](https://github.com/flutter/engine/pull/40894) merged on April 4, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/40894) over 23 hours, 559 additions and 772 deletions in 13 files</sub><br />
@@ -836,6 +836,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Sync Mac Host Engine with its engine v2 counterpart."<br />
     <sub>[#40892](https://github.com/flutter/engine/pull/40892) merged on April 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40892) over 2 minutes, 16 additions and 39 deletions in 1 file</sub><br />
     <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub><br />
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Reland "Sync Mac Host Engine with its engine v2 counterpart.""<br />
+    <sub>[#40906](https://github.com/flutter/engine/pull/40906) merged on April 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40906) over 1 day, 40 additions and 16 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 ### March 25, 2023 to March 31, 2023
 
