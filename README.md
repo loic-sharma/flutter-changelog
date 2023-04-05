@@ -101,7 +101,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update localizations.<br />
     <sub>[#124099](https://github.com/flutter/flutter/pull/124099) merged on April 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124099) over 10 hours, 10 additions and 10 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Tae Hyung Kim](https://github.com/thkim1011)</sub><br />
+    <sub>Reviewed by: [Tae Hyung Kim](https://github.com/thkim1011), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Add Welsh to Material Flutter (and update some other translations)"<br />
     <sub>[#124088](https://github.com/flutter/flutter/pull/124088) merged on April 4, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/124088) over 1 minute, 2228 additions and 3337 deletions in 116 files</sub><br />
@@ -182,7 +182,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Focus] Add run key command to dump the focus tree<br />
     <sub>[#123473](https://github.com/flutter/flutter/pull/123473) merged on March 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123473) over 2 days, 160 additions and 2 deletions in 13 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Zachary Anderson](https://github.com/zanderso)</sub><br />
     <sub><details><summary>1 image...</summary>![dump_focus_tree](https://user-images.githubusercontent.com/737941/228694270-f5d87968-474a-49ca-a6ba-0011a2f9c158.gif)</details></sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add version info migration<br />
