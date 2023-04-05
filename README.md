@@ -4,11 +4,16 @@
 
 ### April 1, 2023 to April 7, 2023
 
-25 commits.
+26 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Always use the canvaskit path from the web sdk.<br />
     <sub>[#123915](https://github.com/flutter/flutter/pull/123915) merged on April 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123915) over 3 days, 30 additions and 39 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Include mode in app.start event, and forward app.start to DAP clients<br />
+    <sub>[#121239](https://github.com/flutter/flutter/pull/121239) merged on April 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/121239) over 1 month, 59 additions and 6 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub><details><summary>1 image...</summary>![image](https://user-images.githubusercontent.com/1078012/228847410-07854674-c70b-405b-8700-f3f94afd3c7c.png)</details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `clipBehavior` for `Drawer` with shape and add `clipBehavior` property.<br />
     <sub>[#124104](https://github.com/flutter/flutter/pull/124104) merged on April 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124104) over 15 hours, 117 additions and 3 deletions in 2 files</sub><br />
