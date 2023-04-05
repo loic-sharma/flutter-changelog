@@ -1776,7 +1776,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-15 commits.
+16 commits.
 
 * **[GP4cK](https://github.com/GP4cK)** &mdash; [go_router_builder] Add ShellRoute support to go_router_builder
     <sub>[#3439](https://github.com/flutter/packages/pull/3439) merged on April 5, 2023 &mdash; **Large:** [63 comments](https://github.com/flutter/packages/pull/3439) over 3 weeks, 730 additions and 57 deletions in 17 files</sub>
@@ -1793,6 +1793,11 @@
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] fix swift nsnull casting crash
     <sub>[#3545](https://github.com/flutter/packages/pull/3545) merged on April 4, 2023 &mdash; **Large:** [77 comments](https://github.com/flutter/packages/pull/3545) over 1 week, 289 additions and 218 deletions in 25 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [webview]: Bump androidx.webkit:webkit from 1.6.0 to 1.6.1 in /packages/webview_flutter/webview_flutter_android/android
+    <sub>[#3555](https://github.com/flutter/packages/pull/3555) merged on April 5, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3555) over 1 week, 5 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.webkit:webkit&package-manager=gradle&previous-version=1.6.0&new-version=1.6.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Add pigeon support to update-dependency
     <sub>[#3640](https://github.com/flutter/packages/pull/3640) merged on April 5, 2023 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/3640) over 16 hours, 853 additions and 547 deletions in 26 files</sub>
