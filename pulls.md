@@ -80,3 +80,6 @@
 * **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; Allow multiple KeepAliveNotifications from the same KeepAliveHandle<br />
     <sub>[#124168](https://github.com/flutter/flutter/pull/124168) opened on on April 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124168) 41 additions and 3 deletions in 2 files</sub><br />
 
+* **[David Burghoff](https://github.com/burghoffdavid)** &mdash; Always set orientation preferences on iOS 16+ <br />
+    <sub>[#124207](https://github.com/flutter/flutter/pull/124207) opened on on April 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124207) 1 addition and 1 deletion in 1 file</sub><br />
+
