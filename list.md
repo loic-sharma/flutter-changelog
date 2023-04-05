@@ -1699,7 +1699,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-11 commits.
+12 commits.
 
 * **[maRci002](https://github.com/maRci002)** &mdash; [video_player] synchronize isPlaying state
     <sub>[#3261](https://github.com/flutter/packages/pull/3261) merged on April 3, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/3261) over 1 month, 438 additions and 80 deletions in 29 files</sub>
@@ -1708,6 +1708,10 @@
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] fix swift nsnull casting crash
     <sub>[#3545](https://github.com/flutter/packages/pull/3545) merged on April 4, 2023 &mdash; **Large:** [77 comments](https://github.com/flutter/packages/pull/3545) over 1 week, 289 additions and 218 deletions in 25 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Add pigeon support to update-dependency
+    <sub>[#3640](https://github.com/flutter/packages/pull/3640) merged on April 5, 2023 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/3640) over 16 hours, 853 additions and 547 deletions in 26 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Add a structured function helper for C++
     <sub>[#3601](https://github.com/flutter/packages/pull/3601) merged on April 4, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/3601) over 4 days, 545 additions and 243 deletions in 23 files</sub>
