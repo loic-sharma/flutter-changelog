@@ -4,7 +4,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-33 commits.
+34 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Always use the canvaskit path from the web sdk.<br />
     <sub>[#123915](https://github.com/flutter/flutter/pull/123915) merged on April 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123915) over 3 days, 30 additions and 39 deletions in 5 files</sub><br />
@@ -55,6 +55,10 @@
     <sub>[#123716](https://github.com/flutter/flutter/pull/123716) merged on April 4, 2023 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/123716) over 6 days, 394 additions and 176 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Catch and rethrow Java/Gradle incompatibility error<br />
+    <sub>[#124084](https://github.com/flutter/flutter/pull/124084) merged on April 5, 2023 &mdash; **Small:** [50 comments](https://github.com/flutter/flutter/pull/124084) over 1 day, 75 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino), [gmackall](https://github.com/gmackall)</sub><br />
+
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Rename Sample classes<br />
     <sub>[#124080](https://github.com/flutter/flutter/pull/124080) merged on April 4, 2023 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/124080) over 20 hours, 3125 additions and 3816 deletions in 480 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
@@ -91,17 +95,17 @@
     <sub>[#124173](https://github.com/flutter/flutter/pull/124173) merged on April 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124173) over 15 hours, 40 additions and 40 deletions in 17 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
-* **[Elliott Brooks](https://github.com/elliette)** &mdash; [flutter_tools] Pass app entrypoint to DWDS version 19.0.0<br />
-    <sub>[#124138](https://github.com/flutter/flutter/pull/124138) merged on April 4, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/124138) over 1 hour, 7 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Run web integration tests on x64 or arm Macs<br />
+    <sub>[#123714](https://github.com/flutter/flutter/pull/123714) merged on April 4, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/123714) over 5 days, 0 additions and 5 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Rename RenderView.window to RenderView.view<br />
     <sub>[#124060](https://github.com/flutter/flutter/pull/124060) merged on April 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124060) over 21 hours, 23 additions and 24 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Run web integration tests on x64 or arm Macs<br />
-    <sub>[#123714](https://github.com/flutter/flutter/pull/123714) merged on April 4, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/123714) over 5 days, 0 additions and 5 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [flutter_tools] Pass app entrypoint to DWDS version 19.0.0<br />
+    <sub>[#124138](https://github.com/flutter/flutter/pull/124138) merged on April 4, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/124138) over 1 hour, 7 additions and 4 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Brian Quinlan](https://github.com/brianquinlan)** &mdash; Remove FakeProcessResult for Dart 3 compatibility<br />
     <sub>[#124240](https://github.com/flutter/flutter/pull/124240) merged on April 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124240) over 1 hour, 13 additions and 23 deletions in 1 file</sub><br />
@@ -368,7 +372,7 @@
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix warning in `flutter create`d project ("package attribute is deprecated" in AndroidManifest)<br />
     <sub>[#123426](https://github.com/flutter/flutter/pull/123426) merged on March 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123426) over 4 days, 56 additions and 65 deletions in 54 files</sub><br />
-    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Reid Baker](https://github.com/reidbaker)</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Greg Price](https://github.com/gnprice)</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Remove no-shuffle from framework tests, part 1: easy cases<br />
     <sub>[#123751](https://github.com/flutter/flutter/pull/123751) merged on March 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/123751) over 12 hours, 12 additions and 50 deletions in 7 files</sub><br />
@@ -733,7 +737,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable shuffling for flutter/test/material/text_field_test.dart<br />
     <sub>[#122956](https://github.com/flutter/flutter/pull/122956) merged on March 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122956) over 1 hour, 6 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; Add dimenstion for arm packaging<br />
     <sub>[#122770](https://github.com/flutter/flutter/pull/122770) merged on March 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/122770) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
