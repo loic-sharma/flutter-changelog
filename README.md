@@ -211,7 +211,7 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix scrolling in the  `Drawer` and `NavigationDrawer` triggers AppBar's scrolledUnderElevation<br />
-    <sub>[#122600](https://github.com/flutter/flutter/pull/122600) merged on March 29, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/122600) over 2 weeks, 100 additions and 1 deletion in 4 files</sub><br />
+    <sub>[#122600](https://github.com/flutter/flutter/pull/122600) merged on March 29, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/122600) over 2 weeks, 100 additions and 1 deletion in 4 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Remove --no-sound-null-safety #3<br />
