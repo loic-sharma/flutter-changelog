@@ -182,7 +182,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Focus] Add run key command to dump the focus tree<br />
     <sub>[#123473](https://github.com/flutter/flutter/pull/123473) merged on March 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/123473) over 2 days, 160 additions and 2 deletions in 13 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Zachary Anderson](https://github.com/zanderso)</sub><br />
     <sub><details><summary>1 image...</summary>![dump_focus_tree](https://user-images.githubusercontent.com/737941/228694270-f5d87968-474a-49ca-a6ba-0011a2f9c158.gif)</details></sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add version info migration<br />
@@ -340,7 +340,7 @@
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix warning in `flutter create`d project ("package attribute is deprecated" in AndroidManifest)<br />
     <sub>[#123426](https://github.com/flutter/flutter/pull/123426) merged on March 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123426) over 4 days, 56 additions and 65 deletions in 54 files</sub><br />
-    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Reid Baker](https://github.com/reidbaker)</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Greg Price](https://github.com/gnprice)</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Remove no-shuffle from framework tests, part 1: easy cases<br />
     <sub>[#123751](https://github.com/flutter/flutter/pull/123751) merged on March 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/123751) over 12 hours, 12 additions and 50 deletions in 7 files</sub><br />
@@ -705,7 +705,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable shuffling for flutter/test/material/text_field_test.dart<br />
     <sub>[#122956](https://github.com/flutter/flutter/pull/122956) merged on March 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122956) over 1 hour, 6 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; Add dimenstion for arm packaging<br />
     <sub>[#122770](https://github.com/flutter/flutter/pull/122770) merged on March 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/122770) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
