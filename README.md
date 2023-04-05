@@ -1776,7 +1776,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-16 commits.
+17 commits.
 
 * **[GP4cK](https://github.com/GP4cK)** &mdash; [go_router_builder] Add ShellRoute support to go_router_builder<br />
     <sub>[#3439](https://github.com/flutter/packages/pull/3439) merged on April 5, 2023 &mdash; **Large:** [63 comments](https://github.com/flutter/packages/pull/3439) over 3 weeks, 730 additions and 57 deletions in 17 files</sub><br />
@@ -1827,6 +1827,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [gsi_interface] Introduces canAccessScopes and userDataEvents.<br />
     <sub>[#3635](https://github.com/flutter/packages/pull/3635) merged on April 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3635) over 1 day, 35 additions and 3 deletions in 4 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[GP4cK](https://github.com/GP4cK)** &mdash; [go_router] Remove navigator keys parameters<br />
+    <sub>[#3614](https://github.com/flutter/packages/pull/3614) merged on April 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3614) over 4 days, 9 additions and 17 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Adds ignore for deprecated RouteInformation.location<br />
     <sub>[#3634](https://github.com/flutter/packages/pull/3634) merged on April 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3634) over 1 day, 74 additions and 11 deletions in 6 files</sub><br />
