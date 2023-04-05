@@ -11,7 +11,7 @@
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Include mode in app.start event, and forward app.start to DAP clients
-    <sub>[#121239](https://github.com/flutter/flutter/pull/121239) merged on April 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/121239) over 1 month, 59 additions and 6 deletions in 7 files</sub>
+    <sub>[#121239](https://github.com/flutter/flutter/pull/121239) merged on April 5, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/121239) over 1 month, 59 additions and 6 deletions in 7 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
     <sub><details><summary>1 image...</summary>![image](https://user-images.githubusercontent.com/1078012/228847410-07854674-c70b-405b-8700-f3f94afd3c7c.png)</details></sub>
 
@@ -705,7 +705,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable shuffling for flutter/test/material/text_field_test.dart
     <sub>[#122956](https://github.com/flutter/flutter/pull/122956) merged on March 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122956) over 1 hour, 6 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; Add dimenstion for arm packaging
     <sub>[#122770](https://github.com/flutter/flutter/pull/122770) merged on March 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/122770) over 2 days, 2 additions and 0 deletions in 1 file</sub>
