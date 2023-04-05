@@ -86,6 +86,3 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix double the<br />
     <sub>[#124236](https://github.com/flutter/flutter/pull/124236) opened on on April 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124236) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Brian Quinlan](https://github.com/brianquinlan)** &mdash; Remove FakeProcessResult for Dart 3 compatibility<br />
-    <sub>[#124240](https://github.com/flutter/flutter/pull/124240) opened on on April 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124240) 13 additions and 23 deletions in 1 file</sub><br />
-
