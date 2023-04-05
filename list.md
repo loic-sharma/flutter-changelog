@@ -109,11 +109,11 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Make flutter_adapter_test more resilient to pub output
     <sub>[#124139](https://github.com/flutter/flutter/pull/124139) merged on April 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124139) over 1 hour, 24 additions and 14 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update localizations.
     <sub>[#124099](https://github.com/flutter/flutter/pull/124099) merged on April 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124099) over 10 hours, 10 additions and 10 deletions in 2 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Tae Hyung Kim](https://github.com/thkim1011)</sub>
+    <sub>Reviewed by: [Tae Hyung Kim](https://github.com/thkim1011), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert "Fix scrolling in the  `Drawer` and `NavigationDrawer` triggers AppBar's scrolledUnderElevation"
     <sub>[#124226](https://github.com/flutter/flutter/pull/124226) merged on April 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124226) over 8 minutes, 1 addition and 100 deletions in 4 files</sub>
@@ -356,7 +356,7 @@
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix warning in `flutter create`d project ("package attribute is deprecated" in AndroidManifest)
     <sub>[#123426](https://github.com/flutter/flutter/pull/123426) merged on March 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123426) over 4 days, 56 additions and 65 deletions in 54 files</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Greg Price](https://github.com/gnprice)</sub>
+    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Remove no-shuffle from framework tests, part 1: easy cases
     <sub>[#123751](https://github.com/flutter/flutter/pull/123751) merged on March 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/123751) over 12 hours, 12 additions and 50 deletions in 7 files</sub>
@@ -881,7 +881,7 @@
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "[web] remove obsolete object caches; simplify native object management"
     <sub>[#40937](https://github.com/flutter/engine/pull/40937) merged on April 5, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/40937) over 53 minutes, 772 additions and 559 deletions in 13 files</sub>
-    <sub>Reviewed by: [Xilai Zhang](https://github.com/XilaiZhang), [Yegor](https://github.com/yjbanov)</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Xilai Zhang](https://github.com/XilaiZhang)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[Impeller] reduce advanced blend subpass count for single input with foreground color"
     <sub>[#40914](https://github.com/flutter/engine/pull/40914) merged on April 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40914) over 1 hour, 0 additions and 246 deletions in 6 files</sub>
@@ -1125,7 +1125,7 @@
 
 * **[Harry Terkelsen](https://github.com/hterkelsen)** &mdash; Roll buildroot to build CanvasKit for speed instead of code size
     <sub>[#40737](https://github.com/flutter/engine/pull/40737) merged on March 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40737) over 58 minutes, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Yegor](https://github.com/yjbanov)</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Eliminate explicit main window init()
     <sub>[#40695](https://github.com/flutter/engine/pull/40695) merged on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40695) over 49 minutes, 1 addition and 1 deletion in 1 file</sub>
@@ -1173,7 +1173,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Complete the update semantics embedder API migration
     <sub>[#40773](https://github.com/flutter/engine/pull/40773) merged on March 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40773) over 1 day, 80 additions and 201 deletions in 8 files</sub>
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Use NSAutoReleasePool for Metal playgrounds.
     <sub>[#40748](https://github.com/flutter/engine/pull/40748) merged on March 29, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40748) over 1 hour, 25 additions and 0 deletions in 1 file</sub>
@@ -1333,7 +1333,7 @@
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; Revert "[web] Accepts assetBase through JS config. (#40615)"
     <sub>[#40670](https://github.com/flutter/engine/pull/40670) merged on March 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40670) over 18 minutes, 21 additions and 211 deletions in 4 files</sub>
-    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[luckysmg](https://github.com/luckysmg)** &mdash; Revert "[iOS] Send connectionClosed message when resignFirstResponder to ensure framework focus state is correct."
     <sub>[#40777](https://github.com/flutter/engine/pull/40777) merged on March 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40777) over 56 minutes, 4 additions and 30 deletions in 4 files</sub>
@@ -1756,7 +1756,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.8.10 to 1.8.20 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#3623](https://github.com/flutter/packages/pull/3623) merged on April 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3623) over 8 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.8.10&new-version=1.8.20)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Skip flaky transparency test
