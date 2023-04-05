@@ -80,3 +80,6 @@
 * **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; Allow multiple KeepAliveNotifications from the same KeepAliveHandle<br />
     <sub>[#124168](https://github.com/flutter/flutter/pull/124168) opened on on April 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124168) 41 additions and 3 deletions in 2 files</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; flutter_tool: add and use WebCompilerConfig<br />
+    <sub>[#124183](https://github.com/flutter/flutter/pull/124183) opened on on April 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124183) 167 additions and 82 deletions in 6 files</sub><br />
+

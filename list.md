@@ -716,7 +716,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-31 commits.
+32 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove obsolete object caches; simplify native object management
     <sub>[#40894](https://github.com/flutter/engine/pull/40894) merged on April 4, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/40894) over 23 hours, 559 additions and 772 deletions in 13 files</sub>
@@ -824,6 +824,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Build fixes for impeller-cmake
     <sub>[#40880](https://github.com/flutter/engine/pull/40880) merged on April 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40880) over 7 hours, 3 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "[web] remove obsolete object caches; simplify native object management"
+    <sub>[#40937](https://github.com/flutter/engine/pull/40937) merged on April 5, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/40937) over 53 minutes, 772 additions and 559 deletions in 13 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Xilai Zhang](https://github.com/XilaiZhang)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "[web] remove obsolete object caches; simplify native object management"
     <sub>[#40882](https://github.com/flutter/engine/pull/40882) merged on April 3, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/40882) over 3 hours, 770 additions and 557 deletions in 13 files</sub>
@@ -1678,7 +1682,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-9 commits.
+10 commits.
 
 * **[maRci002](https://github.com/maRci002)** &mdash; [video_player] synchronize isPlaying state
     <sub>[#3261](https://github.com/flutter/packages/pull/3261) merged on April 3, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/3261) over 1 month, 438 additions and 80 deletions in 29 files</sub>
@@ -1708,6 +1712,10 @@
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; [go_router] Fix redirect being called with empty location for unknown routes
     <sub>[#3548](https://github.com/flutter/packages/pull/3548) merged on April 3, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3548) over 1 week, 45 additions and 2 deletions in 5 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [gsi_interface] Introduces canAccessScopes and userDataEvents.
+    <sub>[#3635](https://github.com/flutter/packages/pull/3635) merged on April 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3635) over 1 day, 35 additions and 3 deletions in 4 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Koen Van Looveren](https://github.com/vanlooverenkoen)** &mdash; Use packages instead of plugins repository
     <sub>[#3504](https://github.com/flutter/packages/pull/3504) merged on April 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3504) over 2 weeks, 17 additions and 17 deletions in 1 file</sub>
