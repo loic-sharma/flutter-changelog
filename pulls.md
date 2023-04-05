@@ -81,5 +81,5 @@
     <sub>[#124168](https://github.com/flutter/flutter/pull/124168) opened on on April 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124168) 41 additions and 3 deletions in 2 files</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Revert "Fix scrolling in the  `Drawer` and `NavigationDrawer` triggers AppBar's scrolledUnderElevation (#122600)"<br />
-    <sub>[#124187](https://github.com/flutter/flutter/pull/124187) opened on on April 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124187) 1 addition and 100 deletions in 4 files</sub><br />
+    <sub>[#124187](https://github.com/flutter/flutter/pull/124187) opened on on April 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124187) 1 addition and 100 deletions in 4 files</sub><br />
 
