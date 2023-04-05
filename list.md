@@ -1699,7 +1699,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-10 commits.
+11 commits.
 
 * **[maRci002](https://github.com/maRci002)** &mdash; [video_player] synchronize isPlaying state
     <sub>[#3261](https://github.com/flutter/packages/pull/3261) merged on April 3, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/3261) over 1 month, 438 additions and 80 deletions in 29 files</sub>
@@ -1733,6 +1733,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [gsi_interface] Introduces canAccessScopes and userDataEvents.
     <sub>[#3635](https://github.com/flutter/packages/pull/3635) merged on April 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3635) over 1 day, 35 additions and 3 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Adds ignore for deprecated RouteInformation.location
+    <sub>[#3634](https://github.com/flutter/packages/pull/3634) merged on April 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3634) over 1 day, 74 additions and 11 deletions in 6 files</sub>
+    <sub>Reviewed by: [John Ryan](https://github.com/johnpryan)</sub>
 
 * **[Koen Van Looveren](https://github.com/vanlooverenkoen)** &mdash; Use packages instead of plugins repository
     <sub>[#3504](https://github.com/flutter/packages/pull/3504) merged on April 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3504) over 2 weeks, 17 additions and 17 deletions in 1 file</sub>
