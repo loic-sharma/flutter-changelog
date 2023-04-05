@@ -244,7 +244,7 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix SliverGridRegularTileLayout.computeMaxScrollOffset for 0 children
     <sub>[#123348](https://github.com/flutter/flutter/pull/123348) merged on March 29, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/123348) over 5 days, 54 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Tae Hyung Kim](https://github.com/thkim1011)</sub>
+    <sub>Reviewed by: [Tae Hyung Kim](https://github.com/thkim1011), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Don't rethrow Dart plugin registration exceptions
     <sub>[#122111](https://github.com/flutter/flutter/pull/122111) merged on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122111) over 2 weeks, 0 additions and 9 deletions in 3 files</sub>
@@ -340,7 +340,7 @@
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix warning in `flutter create`d project ("package attribute is deprecated" in AndroidManifest)
     <sub>[#123426](https://github.com/flutter/flutter/pull/123426) merged on March 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123426) over 4 days, 56 additions and 65 deletions in 54 files</sub>
-    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Reid Baker](https://github.com/reidbaker)</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Greg Price](https://github.com/gnprice)</sub>
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Remove no-shuffle from framework tests, part 1: easy cases
     <sub>[#123751](https://github.com/flutter/flutter/pull/123751) merged on March 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/123751) over 12 hours, 12 additions and 50 deletions in 7 files</sub>
@@ -705,7 +705,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable shuffling for flutter/test/material/text_field_test.dart
     <sub>[#122956](https://github.com/flutter/flutter/pull/122956) merged on March 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122956) over 1 hour, 6 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; Add dimenstion for arm packaging
     <sub>[#122770](https://github.com/flutter/flutter/pull/122770) merged on March 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/122770) over 2 days, 2 additions and 0 deletions in 1 file</sub>
