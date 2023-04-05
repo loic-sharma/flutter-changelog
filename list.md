@@ -45,7 +45,7 @@
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Add Welsh to Material Flutter (and update some other translations)
     <sub>[#123575](https://github.com/flutter/flutter/pull/123575) merged on April 4, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/123575) over 6 days, 3337 additions and 2228 deletions in 116 files</sub>
-    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [chunhtai](https://github.com/chunhtai)</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [godofredoc](https://github.com/godofredoc)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Better support for wireless devices in IDEs
     <sub>[#123716](https://github.com/flutter/flutter/pull/123716) merged on April 4, 2023 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/123716) over 6 days, 394 additions and 176 deletions in 4 files</sub>
@@ -57,7 +57,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add readlink -f flag to CocoaPods script to workaround Xcode 14.3 issue
     <sub>[#124062](https://github.com/flutter/flutter/pull/124062) merged on April 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124062) over 2 hours, 223 additions and 0 deletions in 5 files</sub>
-    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Add analytics package + setTelemetry method attached
     <sub>[#124015](https://github.com/flutter/flutter/pull/124015) merged on April 5, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/124015) over 2 days, 124 additions and 1 deletion in 6 files</sub>
@@ -404,7 +404,7 @@
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix state leak in rendering/editable_test (framework shuffle-all 2/n)
     <sub>[#123806](https://github.com/flutter/flutter/pull/123806) merged on March 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123806) over 4 hours, 22 additions and 24 deletions in 1 file</sub>
-    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; throw `ToolExit` when `--web-port` is an integer outside the valid TCP port range
     <sub>[#123269](https://github.com/flutter/flutter/pull/123269) merged on March 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123269) over 5 days, 48 additions and 7 deletions in 3 files</sub>
@@ -1137,7 +1137,7 @@
 
 * **[Harry Terkelsen](https://github.com/hterkelsen)** &mdash; Roll buildroot to build CanvasKit for speed instead of code size
     <sub>[#40737](https://github.com/flutter/engine/pull/40737) merged on March 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40737) over 58 minutes, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Yegor](https://github.com/yjbanov)</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Eliminate explicit main window init()
     <sub>[#40695](https://github.com/flutter/engine/pull/40695) merged on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40695) over 49 minutes, 1 addition and 1 deletion in 1 file</sub>
@@ -1744,7 +1744,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-14 commits.
+15 commits.
 
 * **[GP4cK](https://github.com/GP4cK)** &mdash; [go_router_builder] Add ShellRoute support to go_router_builder
     <sub>[#3439](https://github.com/flutter/packages/pull/3439) merged on April 5, 2023 &mdash; **Large:** [63 comments](https://github.com/flutter/packages/pull/3439) over 3 weeks, 730 additions and 57 deletions in 17 files</sub>
@@ -1802,6 +1802,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Take C++ out of experimental
     <sub>[#3603](https://github.com/flutter/packages/pull/3603) merged on April 3, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/3603) over 3 days, 70 additions and 62 deletions in 25 files</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 62bd79521d8d to 4b1264501234 (1 revision)
+    <sub>[#3646](https://github.com/flutter/packages/pull/3646) merged on April 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3646) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### March 25, 2023 to March 31, 2023
 

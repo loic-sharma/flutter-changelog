@@ -66,7 +66,7 @@
     <sub>[#123984](https://github.com/flutter/flutter/pull/123984) opened on on April 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123984) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update Navigation Drawer width and tiles padding<br />
-    <sub>[#124042](https://github.com/flutter/flutter/pull/124042) opened on on April 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124042) 61 additions and 33 deletions in 5 files</sub><br />
+    <sub>[#124042](https://github.com/flutter/flutter/pull/124042) opened on on April 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124042) 65 additions and 35 deletions in 6 files</sub><br />
 
 * **[Samuel Abada](https://github.com/Mastersam07)** &mdash; Remove double.fromEnvironment from dart-define doc<br />
     <sub>[#124102](https://github.com/flutter/flutter/pull/124102) opened on on April 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124102) 3 additions and 3 deletions in 1 file</sub><br />
