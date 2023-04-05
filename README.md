@@ -1792,7 +1792,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-17 commits.
+18 commits.
 
 * **[GP4cK](https://github.com/GP4cK)** &mdash; [go_router_builder] Add ShellRoute support to go_router_builder<br />
     <sub>[#3439](https://github.com/flutter/packages/pull/3439) merged on April 5, 2023 &mdash; **Large:** [63 comments](https://github.com/flutter/packages/pull/3439) over 3 weeks, 730 additions and 57 deletions in 17 files</sub><br />
@@ -1801,6 +1801,10 @@
 * **[maRci002](https://github.com/maRci002)** &mdash; [video_player] synchronize isPlaying state<br />
     <sub>[#3261](https://github.com/flutter/packages/pull/3261) merged on April 3, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/3261) over 1 month, 438 additions and 80 deletions in 29 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Maurice Parrish](https://github.com/bparrishMines), [Camille Simon](https://github.com/camsim99), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fixes an issue when popping pageless route would accident…<br />
+    <sub>[#3613](https://github.com/flutter/packages/pull/3613) merged on April 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3613) over 5 days, 63 additions and 11 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [John Ryan](https://github.com/johnpryan)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Removes unused field `WebView.useHybridComposition` and suppress Java `ViewConstructor` lint<br />
     <sub>[#3428](https://github.com/flutter/packages/pull/3428) merged on April 5, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/3428) over 3 weeks, 71 additions and 641 deletions in 26 files</sub><br />
