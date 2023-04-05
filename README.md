@@ -717,7 +717,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable shuffling for flutter/test/material/text_field_test.dart<br />
     <sub>[#122956](https://github.com/flutter/flutter/pull/122956) merged on March 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122956) over 1 hour, 6 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; Add dimenstion for arm packaging<br />
     <sub>[#122770](https://github.com/flutter/flutter/pull/122770) merged on March 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/122770) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
@@ -880,7 +880,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[Impeller] iOS/macOS: Only wait for command scheduling prior to present"<br />
     <sub>[#40895](https://github.com/flutter/engine/pull/40895) merged on April 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40895) over 1 hour, 27 additions and 27 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Sync Mac Host Engine with its engine v2 counterpart."<br />
     <sub>[#40892](https://github.com/flutter/engine/pull/40892) merged on April 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40892) over 2 minutes, 16 additions and 39 deletions in 1 file</sub><br />
@@ -1116,7 +1116,7 @@
 
 * **[Harry Terkelsen](https://github.com/hterkelsen)** &mdash; Roll buildroot to build CanvasKit for speed instead of code size<br />
     <sub>[#40737](https://github.com/flutter/engine/pull/40737) merged on March 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40737) over 58 minutes, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Eliminate explicit main window init()<br />
     <sub>[#40695](https://github.com/flutter/engine/pull/40695) merged on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40695) over 49 minutes, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1164,7 +1164,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Complete the update semantics embedder API migration<br />
     <sub>[#40773](https://github.com/flutter/engine/pull/40773) merged on March 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40773) over 1 day, 80 additions and 201 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Use NSAutoReleasePool for Metal playgrounds.<br />
     <sub>[#40748](https://github.com/flutter/engine/pull/40748) merged on March 29, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40748) over 1 hour, 25 additions and 0 deletions in 1 file</sub><br />
@@ -1660,7 +1660,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "Deprecate SingletonFlutterWindow and global window singleton"<br />
     <sub>[#40507](https://github.com/flutter/engine/pull/40507) merged on March 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40507) over 47 minutes, 36 additions and 65 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 </details>
 
