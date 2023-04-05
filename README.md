@@ -4,7 +4,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-39 commits.
+40 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TapAndDragGestureRecognizer should declare victory immediately when drag is detected<br />
     <sub>[#123055](https://github.com/flutter/flutter/pull/123055) merged on April 5, 2023 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/123055) over 2 weeks, 949 additions and 110 deletions in 5 files</sub><br />
@@ -47,13 +47,13 @@
     <sub>[#123575](https://github.com/flutter/flutter/pull/123575) merged on April 4, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/123575) over 6 days, 3337 additions and 2228 deletions in 116 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [godofredoc](https://github.com/godofredoc)</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Add spell check TextSpan creation logic that doesn't rely on composing region<br />
-    <sub>[#123481](https://github.com/flutter/flutter/pull/123481) merged on April 5, 2023 &mdash; **Medium:** [57 comments](https://github.com/flutter/flutter/pull/123481) over 1 week, 245 additions and 147 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
-
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Add Welsh to Material Flutter (and update some other translations)<br />
     <sub>[#124094](https://github.com/flutter/flutter/pull/124094) merged on April 4, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/124094) over 1 hour, 3340 additions and 2231 deletions in 117 files</sub><br />
     <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Add spell check TextSpan creation logic that doesn't rely on composing region<br />
+    <sub>[#123481](https://github.com/flutter/flutter/pull/123481) merged on April 5, 2023 &mdash; **Medium:** [57 comments](https://github.com/flutter/flutter/pull/123481) over 1 week, 245 additions and 147 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add readlink -f flag to CocoaPods script to workaround Xcode 14.3 issue<br />
     <sub>[#124062](https://github.com/flutter/flutter/pull/124062) merged on April 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124062) over 2 hours, 223 additions and 0 deletions in 5 files</sub><br />
@@ -107,6 +107,10 @@
     <sub>[#124135](https://github.com/flutter/flutter/pull/124135) merged on April 5, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/124135) over 23 hours, 47 additions and 0 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Remigrate principal class to NSApplication<br />
+    <sub>[#124173](https://github.com/flutter/flutter/pull/124173) merged on April 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124173) over 15 hours, 40 additions and 40 deletions in 17 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Rename RenderView.window to RenderView.view<br />
     <sub>[#124060](https://github.com/flutter/flutter/pull/124060) merged on April 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124060) over 21 hours, 23 additions and 24 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
@@ -119,10 +123,6 @@
     <sub>[#124138](https://github.com/flutter/flutter/pull/124138) merged on April 4, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/124138) over 1 hour, 7 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Remigrate principal class to NSApplication<br />
-    <sub>[#124173](https://github.com/flutter/flutter/pull/124173) merged on April 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124173) over 15 hours, 40 additions and 40 deletions in 17 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Allow --ipv6 flag for flutter attach on iOS devices<br />
     <sub>[#123822](https://github.com/flutter/flutter/pull/123822) merged on April 4, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/123822) over 5 days, 81 additions and 13 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
@@ -134,6 +134,10 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update localizations.<br />
     <sub>[#124099](https://github.com/flutter/flutter/pull/124099) merged on April 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124099) over 10 hours, 10 additions and 10 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Tae Hyung Kim](https://github.com/thkim1011)</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Fix search view position<br />
+    <sub>[#124169](https://github.com/flutter/flutter/pull/124169) merged on April 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/124169) over 23 hours, 203 additions and 16 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[htoor3](https://github.com/htoor3)** &mdash; [web] Skip temporarily broken test<br />
     <sub>[#124160](https://github.com/flutter/flutter/pull/124160) merged on April 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124160) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
