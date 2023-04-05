@@ -716,17 +716,17 @@
 
 ### April 1, 2023 to April 7, 2023
 
-33 commits.
-
-* **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove obsolete object caches; simplify native object management
-    <sub>[#40894](https://github.com/flutter/engine/pull/40894) merged on April 4, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/40894) over 23 hours, 559 additions and 772 deletions in 13 files</sub>
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Casey Hillers](https://github.com/CaseyHillers)</sub>
-    <sub><details><summary>1 image...</summary><img width="358" alt="Screenshot 2023-04-04 at 6 13 06 PM" src="https://user-images.githubusercontent.com/211513/229956170-a5399ed3-c779-4af0-babb-ea40440f96ff.png"></details></sub>
+34 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add a Stage 2 pass to the Vulkan shader compilation pipeline.
     <sub>[#40873](https://github.com/flutter/engine/pull/40873) merged on April 3, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/40873) over 1 hour, 492 additions and 281 deletions in 9 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
     <sub><details><summary>1 image...</summary><img width="164" alt="Screenshot 2023-04-02 at 4 08 20 PM" src="https://user-images.githubusercontent.com/44085/229384268-394d4184-fe41-4973-92f0-70ccc1fd7522.png"></details></sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove obsolete object caches; simplify native object management
+    <sub>[#40894](https://github.com/flutter/engine/pull/40894) merged on April 4, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/40894) over 23 hours, 559 additions and 772 deletions in 13 files</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Casey Hillers](https://github.com/CaseyHillers)</sub>
+    <sub><details><summary>1 image...</summary><img width="358" alt="Screenshot 2023-04-04 at 6 13 06 PM" src="https://user-images.githubusercontent.com/211513/229956170-a5399ed3-c779-4af0-babb-ea40440f96ff.png"></details></sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Change back to using the memory address of a texture as its ID.
     <sub>[#40899](https://github.com/flutter/engine/pull/40899) merged on April 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40899) over 2 hours, 17 additions and 7 deletions in 2 files</sub>
@@ -805,9 +805,9 @@
     <sub>[#40891](https://github.com/flutter/engine/pull/40891) merged on April 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40891) over 1 hour, 10 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; The `dart:wasm` library is no longer used directly by user code.
-    <sub>[#40920](https://github.com/flutter/engine/pull/40920) merged on April 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40920) over 2 hours, 0 additions and 11 deletions in 2 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Handle termination in FlutterAppDelegate
+    <sub>[#40929](https://github.com/flutter/engine/pull/40929) merged on April 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40929) over 5 hours, 29 additions and 131 deletions in 7 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[joshualitt](https://github.com/joshualitt)** &mdash; [web] Migrate EventListener's to JS types.
     <sub>[#40566](https://github.com/flutter/engine/pull/40566) merged on April 4, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/40566) over 1 week, 146 additions and 178 deletions in 27 files</sub>
@@ -825,9 +825,9 @@
     <sub>[#40880](https://github.com/flutter/engine/pull/40880) merged on April 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40880) over 7 hours, 3 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from f97b9d9b2f64 to beff36793081 (1 revision)
-    <sub>[#40934](https://github.com/flutter/engine/pull/40934) merged on April 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40934) over 3 hours, 7 additions and 5 deletions in 3 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; The `dart:wasm` library is no longer used directly by user code.
+    <sub>[#40920](https://github.com/flutter/engine/pull/40920) merged on April 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40920) over 2 hours, 0 additions and 11 deletions in 2 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "[web] remove obsolete object caches; simplify native object management"
     <sub>[#40937](https://github.com/flutter/engine/pull/40937) merged on April 5, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/40937) over 53 minutes, 772 additions and 559 deletions in 13 files</sub>
@@ -836,6 +836,10 @@
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "[web] remove obsolete object caches; simplify native object management"
     <sub>[#40882](https://github.com/flutter/engine/pull/40882) merged on April 3, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/40882) over 3 hours, 770 additions and 557 deletions in 13 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from f97b9d9b2f64 to beff36793081 (1 revision)
+    <sub>[#40934](https://github.com/flutter/engine/pull/40934) merged on April 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40934) over 3 hours, 7 additions and 5 deletions in 3 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[Impeller] reduce advanced blend subpass count for single input with foreground color"
     <sub>[#40914](https://github.com/flutter/engine/pull/40914) merged on April 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40914) over 1 hour, 0 additions and 246 deletions in 6 files</sub>
