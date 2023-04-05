@@ -80,3 +80,6 @@
 * **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; Allow multiple KeepAliveNotifications from the same KeepAliveHandle<br />
     <sub>[#124168](https://github.com/flutter/flutter/pull/124168) opened on on April 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124168) 41 additions and 3 deletions in 2 files</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add tools test for buildWeb compilation<br />
+    <sub>[#124179](https://github.com/flutter/flutter/pull/124179) opened on on April 5, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/124179) 258 additions and 83 deletions in 4 files</sub><br />
+
