@@ -45,7 +45,7 @@
     <sub>[#122385](https://github.com/flutter/flutter/pull/122385) opened on on March 10, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/122385) 148 additions and 108 deletions in 9 files</sub><br />
 
 * **[hyiso](https://github.com/hyiso)** &mdash; Set plugin aar version to plugin pubspec.yaml version<br />
-    <sub>[#122481](https://github.com/flutter/flutter/pull/122481) opened on on March 12, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/122481) 17 additions and 4 deletions in 1 file</sub><br />
+    <sub>[#122481](https://github.com/flutter/flutter/pull/122481) opened on on March 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/122481) 17 additions and 4 deletions in 1 file</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Fix style issues<br />
     <sub>[#122586](https://github.com/flutter/flutter/pull/122586) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122586) 4 additions and 8 deletions in 1 file</sub><br />
@@ -64,9 +64,6 @@
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update Navigation Drawer width and tiles padding<br />
     <sub>[#124042](https://github.com/flutter/flutter/pull/124042) opened on on April 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124042) 65 additions and 35 deletions in 6 files</sub><br />
-
-* **[Samuel Abada](https://github.com/Mastersam07)** &mdash; Remove double.fromEnvironment from dart-define doc<br />
-    <sub>[#124102](https://github.com/flutter/flutter/pull/124102) opened on on April 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124102) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[mrdevdhingra](https://github.com/mrdevdhingra)** &mdash; Remove animation from ScrollBar<br />
     <sub>[#124120](https://github.com/flutter/flutter/pull/124120) opened on on April 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124120) 45 additions and 67 deletions in 2 files</sub><br />
