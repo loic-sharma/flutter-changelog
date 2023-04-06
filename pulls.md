@@ -83,3 +83,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update re-thrown error for incompatible Java/Gradle versions to include migration guide<br />
     <sub>[#124327](https://github.com/flutter/flutter/pull/124327) opened on on April 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124327) 2 additions and 12 deletions in 2 files</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; flutter tool: log dart2wasm vs dart2js as appropriate during build<br />
+    <sub>[#124331](https://github.com/flutter/flutter/pull/124331) opened on on April 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124331) 6 additions and 2 deletions in 2 files</sub><br />
+
