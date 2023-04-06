@@ -80,6 +80,3 @@
 * **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; Allow multiple KeepAliveNotifications from the same KeepAliveHandle<br />
     <sub>[#124168](https://github.com/flutter/flutter/pull/124168) opened on on April 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124168) 41 additions and 3 deletions in 2 files</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Update re-thrown error for incompatible Java/Gradle versions to include migration guide<br />
-    <sub>[#124327](https://github.com/flutter/flutter/pull/124327) opened on on April 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124327) 2 additions and 12 deletions in 2 files</sub><br />
-
