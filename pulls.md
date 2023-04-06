@@ -50,9 +50,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Fix style issues<br />
     <sub>[#122586](https://github.com/flutter/flutter/pull/122586) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122586) 4 additions and 8 deletions in 1 file</sub><br />
 
-* **[Leibo Ye](https://github.com/yeleibo)** &mdash; Fix FormField implementation components TextFormField, DropdownButtonFormField, CupertinoTextFormFieldRow. The problem that their onChange() method cannot be executed when the parent Form component calls the reset() method<br />
-    <sub>[#123108](https://github.com/flutter/flutter/pull/123108) opened on on March 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123108) 17 additions and 4 deletions in 3 files</sub><br />
-
 * **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Remove default text animation<br />
     <sub>[#123906](https://github.com/flutter/flutter/pull/123906) opened on on March 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123906) 2 additions and 2 deletions in 2 files</sub><br />
 
