@@ -80,6 +80,3 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Add benchmarks for the Material3 Components screen<br />
     <sub>[#124354](https://github.com/flutter/flutter/pull/124354) opened on on April 6, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/124354) 2342 additions and 0 deletions in 2 files</sub><br />
 
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Initialize `ThemeData.visualDensity` using `ThemeData.platform` instead of `defaultTargetPlatform`<br />
-    <sub>[#124357](https://github.com/flutter/flutter/pull/124357) opened on on April 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124357) 50 additions and 6 deletions in 2 files</sub><br />
-
