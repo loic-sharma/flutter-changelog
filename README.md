@@ -1909,7 +1909,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-22 commits.
+23 commits.
 
 * **[GP4cK](https://github.com/GP4cK)** &mdash; [go_router_builder] Add ShellRoute support to go_router_builder<br />
     <sub>[#3439](https://github.com/flutter/packages/pull/3439) merged on April 5, 2023 &mdash; **Large:** [63 comments](https://github.com/flutter/packages/pull/3439) over 3 weeks, 730 additions and 57 deletions in 17 files</sub><br />
@@ -1926,6 +1926,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [gsi_web] Adds Sign In button.<br />
     <sub>[#3636](https://github.com/flutter/packages/pull/3636) merged on April 6, 2023 &mdash; **Extra large:** [25 comments](https://github.com/flutter/packages/pull/3636) over 2 days, 1492 additions and 89 deletions in 16 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [google_sign_in] Adds Google Sign In button (web).<br />
+    <sub>[#3642](https://github.com/flutter/packages/pull/3642) merged on April 6, 2023 &mdash; **Medium:** [18 comments](https://github.com/flutter/packages/pull/3642) over 2 days, 379 additions and 44 deletions in 14 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Removes unused field `WebView.useHybridComposition` and suppress Java `ViewConstructor` lint<br />
     <sub>[#3428](https://github.com/flutter/packages/pull/3428) merged on April 5, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/3428) over 3 weeks, 71 additions and 641 deletions in 26 files</sub><br />
