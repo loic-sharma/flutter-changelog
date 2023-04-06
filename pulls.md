@@ -80,3 +80,6 @@
 * **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; Allow multiple KeepAliveNotifications from the same KeepAliveHandle<br />
     <sub>[#124168](https://github.com/flutter/flutter/pull/124168) opened on on April 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124168) 41 additions and 3 deletions in 2 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add support to the flutter tool to compile against the skwasm renderer<br />
+    <sub>[#124296](https://github.com/flutter/flutter/pull/124296) opened on on April 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124296) 144 additions and 60 deletions in 8 files</sub><br />
+
