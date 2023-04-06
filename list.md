@@ -932,7 +932,7 @@
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Copy canvaskit files directly into `flutter_web_sdk`
-    <sub>[#40951](https://github.com/flutter/engine/pull/40951) merged on April 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40951) over 1 hour, 32 additions and 33 deletions in 2 files</sub>
+    <sub>[#40951](https://github.com/flutter/engine/pull/40951) merged on April 5, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40951) over 1 hour, 32 additions and 33 deletions in 2 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/hterkelsen)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Make temporary fix for Samsung spell checker giving blank results for all words
