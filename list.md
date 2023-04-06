@@ -4,7 +4,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-40 commits.
+41 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TapAndDragGestureRecognizer should declare victory immediately when drag is detected
     <sub>[#123055](https://github.com/flutter/flutter/pull/123055) merged on April 5, 2023 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/123055) over 2 weeks, 949 additions and 110 deletions in 5 files</sub>
@@ -71,13 +71,13 @@
     <sub>[#124084](https://github.com/flutter/flutter/pull/124084) merged on April 5, 2023 &mdash; **Small:** [50 comments](https://github.com/flutter/flutter/pull/124084) over 1 day, 75 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino), [gmackall](https://github.com/gmackall)</sub>
 
-* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Add analytics package + setTelemetry method attached
-    <sub>[#124015](https://github.com/flutter/flutter/pull/124015) merged on April 5, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/124015) over 2 days, 124 additions and 1 deletion in 6 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Remove --no-sound-null-safety #4
     <sub>[#124039](https://github.com/flutter/flutter/pull/124039) merged on April 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124039) over 1 day, 104 additions and 187 deletions in 9 files</sub>
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
+
+* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Add analytics package + setTelemetry method attached
+    <sub>[#124015](https://github.com/flutter/flutter/pull/124015) merged on April 5, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/124015) over 2 days, 124 additions and 1 deletion in 6 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds i18n to widget layer
     <sub>[#123620](https://github.com/flutter/flutter/pull/123620) merged on April 4, 2023 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/123620) over 1 week, 4171 additions and 66 deletions in 124 files</sub>
@@ -99,6 +99,10 @@
     <sub>[#122645](https://github.com/flutter/flutter/pull/122645) merged on April 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122645) over 2 weeks, 4 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update iOS TESTOWNERS
+    <sub>[#124263](https://github.com/flutter/flutter/pull/124263) merged on April 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124263) over 4 hours, 38 additions and 38 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add tools test for buildWeb compilation
     <sub>[#124179](https://github.com/flutter/flutter/pull/124179) merged on April 5, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/124179) over 20 hours, 249 additions and 83 deletions in 4 files</sub>
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
@@ -107,21 +111,21 @@
     <sub>[#124135](https://github.com/flutter/flutter/pull/124135) merged on April 5, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/124135) over 23 hours, 47 additions and 0 deletions in 3 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Remigrate principal class to NSApplication
-    <sub>[#124173](https://github.com/flutter/flutter/pull/124173) merged on April 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124173) over 15 hours, 40 additions and 40 deletions in 17 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Rename RenderView.window to RenderView.view
     <sub>[#124060](https://github.com/flutter/flutter/pull/124060) merged on April 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124060) over 21 hours, 23 additions and 24 deletions in 9 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [flutter_tools] Pass app entrypoint to DWDS version 19.0.0
+    <sub>[#124138](https://github.com/flutter/flutter/pull/124138) merged on April 4, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/124138) over 1 hour, 7 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Remigrate principal class to NSApplication
+    <sub>[#124173](https://github.com/flutter/flutter/pull/124173) merged on April 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124173) over 15 hours, 40 additions and 40 deletions in 17 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Run web integration tests on x64 or arm Macs
     <sub>[#123714](https://github.com/flutter/flutter/pull/123714) merged on April 4, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/123714) over 5 days, 0 additions and 5 deletions in 1 file</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
-
-* **[Elliott Brooks](https://github.com/elliette)** &mdash; [flutter_tools] Pass app entrypoint to DWDS version 19.0.0
-    <sub>[#124138](https://github.com/flutter/flutter/pull/124138) merged on April 4, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/124138) over 1 hour, 7 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Allow --ipv6 flag for flutter attach on iOS devices
     <sub>[#123822](https://github.com/flutter/flutter/pull/123822) merged on April 4, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/123822) over 5 days, 81 additions and 13 deletions in 4 files</sub>
@@ -1804,7 +1808,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-19 commits.
+20 commits.
 
 * **[GP4cK](https://github.com/GP4cK)** &mdash; [go_router_builder] Add ShellRoute support to go_router_builder
     <sub>[#3439](https://github.com/flutter/packages/pull/3439) merged on April 5, 2023 &mdash; **Large:** [63 comments](https://github.com/flutter/packages/pull/3439) over 3 weeks, 730 additions and 57 deletions in 17 files</sub>
@@ -1817,6 +1821,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fixes an issue when popping pageless route would accident…
     <sub>[#3613](https://github.com/flutter/packages/pull/3613) merged on April 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3613) over 5 days, 63 additions and 11 deletions in 5 files</sub>
     <sub>Reviewed by: [John Ryan](https://github.com/johnpryan)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [gsi_web] Adds Sign In button.
+    <sub>[#3636](https://github.com/flutter/packages/pull/3636) merged on April 6, 2023 &mdash; **Extra large:** [25 comments](https://github.com/flutter/packages/pull/3636) over 2 days, 1492 additions and 89 deletions in 16 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Removes unused field `WebView.useHybridComposition` and suppress Java `ViewConstructor` lint
     <sub>[#3428](https://github.com/flutter/packages/pull/3428) merged on April 5, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/3428) over 3 weeks, 71 additions and 641 deletions in 26 files</sub>
