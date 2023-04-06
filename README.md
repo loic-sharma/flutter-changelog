@@ -49,11 +49,11 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add readlink -f flag to CocoaPods script to workaround Xcode 14.3 issue<br />
     <sub>[#124062](https://github.com/flutter/flutter/pull/124062) merged on April 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124062) over 2 hours, 223 additions and 0 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Add Welsh to Material Flutter (and update some other translations)<br />
     <sub>[#123575](https://github.com/flutter/flutter/pull/123575) merged on April 4, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/123575) over 6 days, 3337 additions and 2228 deletions in 116 files</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [godofredoc](https://github.com/godofredoc)</sub><br />
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Add Welsh to Material Flutter (and update some other translations)<br />
     <sub>[#124094](https://github.com/flutter/flutter/pull/124094) merged on April 4, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/124094) over 1 hour, 3340 additions and 2231 deletions in 117 files</sub><br />
@@ -496,7 +496,7 @@
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix state leak in rendering/editable_test (framework shuffle-all 2/n)<br />
     <sub>[#123806](https://github.com/flutter/flutter/pull/123806) merged on March 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123806) over 4 hours, 22 additions and 24 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; throw `ToolExit` when `--web-port` is an integer outside the valid TCP port range<br />
     <sub>[#123269](https://github.com/flutter/flutter/pull/123269) merged on March 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123269) over 5 days, 48 additions and 7 deletions in 3 files</sub><br />
@@ -821,7 +821,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable shuffling for flutter/test/material/text_field_test.dart<br />
     <sub>[#122956](https://github.com/flutter/flutter/pull/122956) merged on March 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122956) over 1 hour, 6 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; Add dimenstion for arm packaging<br />
     <sub>[#122770](https://github.com/flutter/flutter/pull/122770) merged on March 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/122770) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
