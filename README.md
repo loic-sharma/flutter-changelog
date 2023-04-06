@@ -981,7 +981,7 @@
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "[web] remove obsolete object caches; simplify native object management"<br />
     <sub>[#40937](https://github.com/flutter/engine/pull/40937) merged on April 5, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/40937) over 53 minutes, 772 additions and 559 deletions in 13 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Xilai Zhang](https://github.com/XilaiZhang)</sub><br />
+    <sub>Reviewed by: [Xilai Zhang](https://github.com/XilaiZhang), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Skia from dfc65350a1fd to 557d71a445ac (9 revisions)<br />
     <sub>[#40961](https://github.com/flutter/engine/pull/40961) merged on April 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40961) over 44 minutes, 2 additions and 2 deletions in 2 files</sub><br />
@@ -1013,7 +1013,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[Impeller] iOS/macOS: Only wait for command scheduling prior to present"<br />
     <sub>[#40895](https://github.com/flutter/engine/pull/40895) merged on April 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40895) over 1 hour, 27 additions and 27 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Sync Mac Host Engine with its engine v2 counterpart."<br />
     <sub>[#40892](https://github.com/flutter/engine/pull/40892) merged on April 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40892) over 2 minutes, 16 additions and 39 deletions in 1 file</sub><br />
@@ -1297,7 +1297,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Complete the update semantics embedder API migration<br />
     <sub>[#40773](https://github.com/flutter/engine/pull/40773) merged on March 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40773) over 1 day, 80 additions and 201 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Use NSAutoReleasePool for Metal playgrounds.<br />
     <sub>[#40748](https://github.com/flutter/engine/pull/40748) merged on March 29, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40748) over 1 hour, 25 additions and 0 deletions in 1 file</sub><br />
