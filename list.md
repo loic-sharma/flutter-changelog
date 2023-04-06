@@ -49,7 +49,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add readlink -f flag to CocoaPods script to workaround Xcode 14.3 issue
     <sub>[#124062](https://github.com/flutter/flutter/pull/124062) merged on April 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124062) over 2 hours, 223 additions and 0 deletions in 5 files</sub>
-    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Add Welsh to Material Flutter (and update some other translations)
     <sub>[#123575](https://github.com/flutter/flutter/pull/123575) merged on April 4, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/123575) over 6 days, 3337 additions and 2228 deletions in 116 files</sub>
@@ -157,7 +157,7 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Make flutter_adapter_test more resilient to pub output
     <sub>[#124139](https://github.com/flutter/flutter/pull/124139) merged on April 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124139) over 1 hour, 24 additions and 14 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jenn Magder](https://github.com/jmagman)</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Move analyzer_benchmark_vm to vm
     <sub>[#124147](https://github.com/flutter/flutter/pull/124147) merged on April 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124147) over 2 hours, 17 additions and 9 deletions in 1 file</sub>
@@ -173,7 +173,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update localizations.
     <sub>[#124099](https://github.com/flutter/flutter/pull/124099) merged on April 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124099) over 10 hours, 10 additions and 10 deletions in 2 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Tae Hyung Kim](https://github.com/thkim1011)</sub>
+    <sub>Reviewed by: [Tae Hyung Kim](https://github.com/thkim1011), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; flutter tool: make FlutterOptions abstract final
     <sub>[#124178](https://github.com/flutter/flutter/pull/124178) merged on April 6, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/124178) over 1 day, 1 addition and 1 deletion in 1 file</sub>
