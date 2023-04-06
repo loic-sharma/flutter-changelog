@@ -80,6 +80,3 @@
 * **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; Allow multiple KeepAliveNotifications from the same KeepAliveHandle<br />
     <sub>[#124168](https://github.com/flutter/flutter/pull/124168) opened on on April 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124168) 41 additions and 3 deletions in 2 files</sub><br />
 
-* **[htoor3](https://github.com/htoor3)** &mdash; [web] - fix text editing integration tests for new DOM structure<br />
-    <sub>[#124299](https://github.com/flutter/flutter/pull/124299) opened on on April 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124299) 7 additions and 0 deletions in 1 file</sub><br />
-
