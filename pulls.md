@@ -80,3 +80,6 @@
 * **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; Allow multiple KeepAliveNotifications from the same KeepAliveHandle<br />
     <sub>[#124168](https://github.com/flutter/flutter/pull/124168) opened on on April 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124168) 41 additions and 3 deletions in 2 files</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Migrate away from deprecated BinaryMessenger API<br />
+    <sub>[#124348](https://github.com/flutter/flutter/pull/124348) opened on on April 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124348) 90 additions and 88 deletions in 23 files</sub><br />
+
