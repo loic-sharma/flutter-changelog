@@ -1804,7 +1804,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-18 commits.
+19 commits.
 
 * **[GP4cK](https://github.com/GP4cK)** &mdash; [go_router_builder] Add ShellRoute support to go_router_builder
     <sub>[#3439](https://github.com/flutter/packages/pull/3439) merged on April 5, 2023 &mdash; **Large:** [63 comments](https://github.com/flutter/packages/pull/3439) over 3 weeks, 730 additions and 57 deletions in 17 files</sub>
@@ -1859,6 +1859,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [gsi_interface] Introduces canAccessScopes and userDataEvents.
     <sub>[#3635](https://github.com/flutter/packages/pull/3635) merged on April 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3635) over 1 day, 35 additions and 3 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Apply strict linting to Java output
+    <sub>[#3649](https://github.com/flutter/packages/pull/3649) merged on April 6, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/packages/pull/3649) over 2 hours, 245 additions and 182 deletions in 28 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[GP4cK](https://github.com/GP4cK)** &mdash; [go_router] Remove navigator keys parameters
     <sub>[#3614](https://github.com/flutter/packages/pull/3614) merged on April 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3614) over 4 days, 9 additions and 17 deletions in 4 files</sub>
