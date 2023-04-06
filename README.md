@@ -824,7 +824,7 @@
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[htoor3](https://github.com/htoor3)** &mdash; [web] Move text editing nodes outside of shadowDOM - reopened<br />
-    <sub>[#40904](https://github.com/flutter/engine/pull/40904) merged on April 5, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/40904) over 1 day, 335 additions and 308 deletions in 13 files</sub><br />
+    <sub>[#40904](https://github.com/flutter/engine/pull/40904) merged on April 5, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/40904) over 1 day, 335 additions and 308 deletions in 13 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fail the run_suite_step if any test failures are detected.<br />

@@ -83,3 +83,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add support to the flutter tool to compile against the skwasm renderer<br />
     <sub>[#124296](https://github.com/flutter/flutter/pull/124296) opened on on April 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124296) 144 additions and 60 deletions in 8 files</sub><br />
 
+* **[htoor3](https://github.com/htoor3)** &mdash; [web] - fix text editing integration tests for new DOM structure<br />
+    <sub>[#124299](https://github.com/flutter/flutter/pull/124299) opened on on April 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124299) 7 additions and 0 deletions in 1 file</sub><br />
+
