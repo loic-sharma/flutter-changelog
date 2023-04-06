@@ -80,6 +80,3 @@
 * **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; Allow multiple KeepAliveNotifications from the same KeepAliveHandle<br />
     <sub>[#124168](https://github.com/flutter/flutter/pull/124168) opened on on April 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124168) 41 additions and 3 deletions in 2 files</sub><br />
 
-* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; l10n.yaml's nullable-getter option should default to true<br />
-    <sub>[#124353](https://github.com/flutter/flutter/pull/124353) opened on on April 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124353) 1 addition and 0 deletions in 1 file</sub><br />
-
