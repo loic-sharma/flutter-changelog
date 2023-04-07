@@ -11,7 +11,7 @@
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactor reorderable list semantics
-    <sub>[#123263](https://github.com/flutter/flutter/pull/123263) merged on April 6, 2023 &mdash; **Extra large:** [28 comments](https://github.com/flutter/flutter/pull/123263) over 2 weeks, 179 additions and 2400 deletions in 119 files</sub>
+    <sub>[#123263](https://github.com/flutter/flutter/pull/123263) merged on April 6, 2023 &mdash; **Extra large:** [29 comments](https://github.com/flutter/flutter/pull/123263) over 2 weeks, 179 additions and 2400 deletions in 119 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes IgnorePointer and AbsorbPointer to only block user interactions…
