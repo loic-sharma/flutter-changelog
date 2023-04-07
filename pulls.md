@@ -80,3 +80,6 @@
 * **[Quyen Le Van](https://github.com/quyenvsp)** &mdash; flutter tool: fix dart-app-ready read properties of null removeChild<br />
     <sub>[#124388](https://github.com/flutter/flutter/pull/124388) opened on on April 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124388) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Rexios](https://github.com/Rexios80)** &mdash; [flutter_test] Adds method to mock EventChannels<br />
+    <sub>[#124415](https://github.com/flutter/flutter/pull/124415) opened on on April 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124415) 216 additions and 45 deletions in 5 files</sub><br />
+
