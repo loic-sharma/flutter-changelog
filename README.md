@@ -11,7 +11,7 @@
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactor reorderable list semantics<br />
-    <sub>[#123263](https://github.com/flutter/flutter/pull/123263) merged on April 6, 2023 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/123263) over 2 weeks, 179 additions and 2400 deletions in 119 files</sub><br />
+    <sub>[#123263](https://github.com/flutter/flutter/pull/123263) merged on April 6, 2023 &mdash; **Extra large:** [28 comments](https://github.com/flutter/flutter/pull/123263) over 2 weeks, 179 additions and 2400 deletions in 119 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes IgnorePointer and AbsorbPointer to only block user interactions…<br />
@@ -874,7 +874,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable shuffling for flutter/test/material/text_field_test.dart<br />
     <sub>[#122956](https://github.com/flutter/flutter/pull/122956) merged on March 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122956) over 1 hour, 6 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; Add dimenstion for arm packaging<br />
     <sub>[#122770](https://github.com/flutter/flutter/pull/122770) merged on March 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/122770) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
