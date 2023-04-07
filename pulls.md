@@ -62,15 +62,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update Navigation Drawer width and tiles padding<br />
     <sub>[#124042](https://github.com/flutter/flutter/pull/124042) opened on on April 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124042) 65 additions and 35 deletions in 6 files</sub><br />
 
-* **[mrdevdhingra](https://github.com/mrdevdhingra)** &mdash; Remove animation from ScrollBar<br />
-    <sub>[#124120](https://github.com/flutter/flutter/pull/124120) opened on on April 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124120) 45 additions and 67 deletions in 2 files</sub><br />
-
-* **[Tirth](https://github.com/piedcipher)** &mdash; [InputDatePickerFormField] adds acceptEmptyDate to InputDatePickerFormField Widget<br />
-    <sub>[#124143](https://github.com/flutter/flutter/pull/124143) opened on on April 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124143) 42 additions and 0 deletions in 2 files</sub><br />
-
-* **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; Allow multiple KeepAliveNotifications from the same KeepAliveHandle<br />
-    <sub>[#124168](https://github.com/flutter/flutter/pull/124168) opened on on April 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124168) 41 additions and 3 deletions in 2 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Add benchmarks for the Material3 Components screen<br />
     <sub>[#124354](https://github.com/flutter/flutter/pull/124354) opened on on April 6, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/124354) 2346 additions and 0 deletions in 2 files</sub><br />
 

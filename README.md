@@ -2005,7 +2005,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-27 commits.
+28 commits.
 
 * **[GP4cK](https://github.com/GP4cK)** &mdash; [go_router_builder] Add ShellRoute support to go_router_builder<br />
     <sub>[#3439](https://github.com/flutter/packages/pull/3439) merged on April 5, 2023 &mdash; **Large:** [63 comments](https://github.com/flutter/packages/pull/3439) over 3 weeks, 730 additions and 57 deletions in 17 files</sub><br />
@@ -2034,6 +2034,10 @@
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] fix swift nsnull casting crash<br />
     <sub>[#3545](https://github.com/flutter/packages/pull/3545) merged on April 4, 2023 &mdash; **Large:** [77 comments](https://github.com/flutter/packages/pull/3545) over 1 week, 289 additions and 218 deletions in 25 files</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update Pigeon in Obj-C plugins<br />
+    <sub>[#3662](https://github.com/flutter/packages/pull/3662) merged on April 7, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/3662) over 5 hours, 478 additions and 246 deletions in 38 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Enable warnings as errors, and all warnings, for Android lint<br />
     <sub>[#3648](https://github.com/flutter/packages/pull/3648) merged on April 7, 2023 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/3648) over 2 days, 13996 additions and 309 deletions in 32 files</sub><br />
