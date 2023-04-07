@@ -242,7 +242,7 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Make flutter_adapter_test more resilient to pub output
     <sub>[#124139](https://github.com/flutter/flutter/pull/124139) merged on April 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124139) over 1 hour, 24 additions and 14 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [Docs] Fix Typos
     <sub>[#124249](https://github.com/flutter/flutter/pull/124249) merged on April 6, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/124249) over 21 hours, 4 additions and 4 deletions in 3 files</sub>
