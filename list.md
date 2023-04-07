@@ -117,7 +117,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix EditableText misplaces caret when selection is invalid
-    <sub>[#123777](https://github.com/flutter/flutter/pull/123777) merged on April 7, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/123777) over 1 week, 183 additions and 121 deletions in 5 files</sub>
+    <sub>[#123777](https://github.com/flutter/flutter/pull/123777) merged on April 7, 2023 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/123777) over 1 week, 183 additions and 121 deletions in 5 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; flutter tool: add experimental output during wasm build
