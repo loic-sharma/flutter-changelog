@@ -47,12 +47,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Fix style issues<br />
     <sub>[#122586](https://github.com/flutter/flutter/pull/122586) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122586) 4 additions and 8 deletions in 1 file</sub><br />
 
-* **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Remove default text animation<br />
-    <sub>[#123906](https://github.com/flutter/flutter/pull/123906) opened on on March 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123906) 2 additions and 2 deletions in 2 files</sub><br />
-
-* **[Tirth](https://github.com/piedcipher)** &mdash; [NavigationDrawer] adds padding property in NavigationDrawer Widget<br />
-    <sub>[#123961](https://github.com/flutter/flutter/pull/123961) opened on on April 2, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/123961) 33 additions and 1 deletion in 2 files</sub><br />
-
 * **[Tirth](https://github.com/piedcipher)** &mdash; [ExpansionPanelList] add materialGapSize property in ExpansionPanelList Widget<br />
     <sub>[#123971](https://github.com/flutter/flutter/pull/123971) opened on on April 2, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/123971) 57 additions and 2 deletions in 2 files</sub><br />
 
