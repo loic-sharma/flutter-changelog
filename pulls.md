@@ -33,7 +33,7 @@
     <sub>[#121943](https://github.com/flutter/flutter/pull/121943) opened on on March 4, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/121943) 22 additions and 3 deletions in 1 file</sub><br />
 
 * **[Matias Sebastian Ramirez Brizuela](https://github.com/ramirezsebas)** &mdash; Added support for Custom ExpansionPanel Icon<br />
-    <sub>[#121957](https://github.com/flutter/flutter/pull/121957) opened on on March 5, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/121957) 373 additions and 25 deletions in 4 files</sub><br />
+    <sub>[#121957](https://github.com/flutter/flutter/pull/121957) opened on on March 5, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/121957) 373 additions and 25 deletions in 4 files</sub><br />
 
 * **[Joseph, NamKung](https://github.com/JosephNK)** &mdash; Fix localize CupertinoDatePicker for Korea locale<br />
     <sub>[#122259](https://github.com/flutter/flutter/pull/122259) opened on on March 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122259) 0 additions and 0 deletions in 0 files</sub><br />

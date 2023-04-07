@@ -977,7 +977,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Support disabling backtrace support
-    <sub>[#40980](https://github.com/flutter/engine/pull/40980) merged on April 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40980) over 2 hours, 25 additions and 2 deletions in 3 files</sub>
+    <sub>[#40980](https://github.com/flutter/engine/pull/40980) merged on April 7, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/40980) over 2 hours, 25 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Skip the color blend in drawVertices when using the destination blend mode
