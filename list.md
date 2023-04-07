@@ -1941,7 +1941,7 @@
 
 ### April 1, 2023 to April 7, 2023
 
-24 commits.
+25 commits.
 
 * **[GP4cK](https://github.com/GP4cK)** &mdash; [go_router_builder] Add ShellRoute support to go_router_builder
     <sub>[#3439](https://github.com/flutter/packages/pull/3439) merged on April 5, 2023 &mdash; **Large:** [63 comments](https://github.com/flutter/packages/pull/3439) over 3 weeks, 730 additions and 57 deletions in 17 files</sub>
@@ -2004,6 +2004,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [gsi_interface] Introduces canAccessScopes and userDataEvents.
     <sub>[#3635](https://github.com/flutter/packages/pull/3635) merged on April 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3635) over 1 day, 35 additions and 3 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Fix typos in tests and documentation
+    <sub>[#3572](https://github.com/flutter/packages/pull/3572) merged on April 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3572) over 1 week, 67 additions and 63 deletions in 26 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Fix Obj-C signature mismatch
     <sub>[#3657](https://github.com/flutter/packages/pull/3657) merged on April 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3657) over 3 hours, 36 additions and 27 deletions in 23 files</sub>
