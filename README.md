@@ -297,7 +297,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "flutter tool: log dart2wasm vs dart2js as appropriate during build"<br />
-    <sub>[#124305](https://github.com/flutter/flutter/pull/124305) merged on April 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124305) over 59 seconds, 2 additions and 6 deletions in 2 files</sub><br />
+    <sub>[#124305](https://github.com/flutter/flutter/pull/124305) merged on April 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124305) over 59 seconds, 2 additions and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "flutter tool: make FlutterOptions abstract final"<br />
