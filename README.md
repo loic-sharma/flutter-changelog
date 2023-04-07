@@ -2010,7 +2010,7 @@
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Fix Obj-C signature mismatch<br />
-    <sub>[#3657](https://github.com/flutter/packages/pull/3657) merged on April 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3657) over 3 hours, 36 additions and 27 deletions in 23 files</sub><br />
+    <sub>[#3657](https://github.com/flutter/packages/pull/3657) merged on April 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3657) over 3 hours, 36 additions and 27 deletions in 23 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [tools] adds 'android' alias for build-example script<br />
