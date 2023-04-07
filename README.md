@@ -997,7 +997,7 @@
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Corey Tabaka](https://github.com/eieio)** &mdash; [Fuchsia] Implement thread priorities.<br />
-    <sub>[#40970](https://github.com/flutter/engine/pull/40970) merged on April 7, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/40970) over 1 day, 146 additions and 7 deletions in 4 files</sub><br />
+    <sub>[#40970](https://github.com/flutter/engine/pull/40970) merged on April 7, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/40970) over 1 day, 146 additions and 7 deletions in 4 files</sub><br />
     <sub>Reviewed by: [David Rees](https://github.com/studgeek), [Chinmay Garde](https://github.com/chinmaygarde), [David Worsham](https://github.com/arbreng)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Snap glyph positions to screen space pixels and map UVs correctly<br />
