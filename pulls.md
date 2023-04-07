@@ -80,3 +80,6 @@
 * **[Quyen Le Van](https://github.com/quyenvsp)** &mdash; flutter tool: fix dart-app-ready read properties of null removeChild<br />
     <sub>[#124388](https://github.com/flutter/flutter/pull/124388) opened on on April 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124388) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Cp 3.7.10 java gradle incompatibility catch<br />
+    <sub>[#124402](https://github.com/flutter/flutter/pull/124402) opened on on April 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124402) 75 additions and 0 deletions in 2 files</sub><br />
+
