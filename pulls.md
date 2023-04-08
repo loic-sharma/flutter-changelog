@@ -60,5 +60,5 @@
     <sub>[#124388](https://github.com/flutter/flutter/pull/124388) opened on on April 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124388) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Gabriel Gava](https://github.com/gabrielgarciagava)** &mdash; Exposed EdgeDraggingAutoScroller velocityScalar to ReorderableList<br />
-    <sub>[#124459](https://github.com/flutter/flutter/pull/124459) opened on on April 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124459) 84 additions and 3 deletions in 3 files</sub><br />
+    <sub>[#124459](https://github.com/flutter/flutter/pull/124459) opened on on April 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124459) 84 additions and 3 deletions in 3 files</sub><br />
 
