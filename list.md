@@ -269,8 +269,8 @@
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [platform_view]fix iOS platform view's focus node leakage
-    <sub>[#124066](https://github.com/flutter/flutter/pull/124066) merged on April 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124066) over 1 day, 42 additions and 4 deletions in 3 files</sub>
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Chris Yang](https://github.com/cyanglaz)</sub>
+    <sub>[#124066](https://github.com/flutter/flutter/pull/124066) merged on April 5, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/124066) over 1 day, 42 additions and 4 deletions in 3 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman), [Chris Yang](https://github.com/cyanglaz)</sub>
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix surface-size state leak in material/paginated_data_table_test (framework shuffle-all 3/n)
     <sub>[#123842](https://github.com/flutter/flutter/pull/123842) merged on April 6, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/123842) over 6 days, 13 additions and 7 deletions in 2 files</sub>
