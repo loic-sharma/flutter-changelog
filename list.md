@@ -623,13 +623,13 @@
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks)</sub>
     <sub><details><summary>2 images...</summary><img width="206" alt="image" src="https://user-images.githubusercontent.com/351125/222874009-ee49ed13-9538-413b-a6da-bba1d4401056.png"><img width="652" alt="image" src="https://user-images.githubusercontent.com/351125/222873967-e446392a-e2ca-4a35-ad8b-37b951e1ce20.png"></details></sub>
 
-* **[Benjamin Quinn](https://github.com/Blquinn)** &mdash; Expose toggle to textfield's opacity animation.
-    <sub>[#122474](https://github.com/flutter/flutter/pull/122474) merged on March 23, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/122474) over 1 week, 74 additions and 7 deletions in 5 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Viren Khatri](https://github.com/werainkhatri)</sub>
-
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Added ExpansionTileController
     <sub>[#123298](https://github.com/flutter/flutter/pull/123298) merged on March 24, 2023 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/123298) over 1 day, 434 additions and 15 deletions in 4 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Benjamin Quinn](https://github.com/Blquinn)** &mdash; Expose toggle to textfield's opacity animation.
+    <sub>[#122474](https://github.com/flutter/flutter/pull/122474) merged on March 23, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/122474) over 1 week, 74 additions and 7 deletions in 5 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Viren Khatri](https://github.com/werainkhatri)</sub>
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Add support for secondary tab bar
     <sub>[#122756](https://github.com/flutter/flutter/pull/122756) merged on March 23, 2023 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/122756) over 1 week, 801 additions and 130 deletions in 10 files</sub>
