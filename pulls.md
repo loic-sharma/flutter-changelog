@@ -71,3 +71,6 @@
 * **[Viren Khatri](https://github.com/werainkhatri)** &mdash; relayout active ListWheelScrollView children every performLayout<br />
     <sub>[#124476](https://github.com/flutter/flutter/pull/124476) opened on on April 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124476) 36 additions and 1 deletion in 2 files</sub><br />
 
+* **[Viren Khatri](https://github.com/werainkhatri)** &mdash; enhances OverlayEntry docs<br />
+    <sub>[#124478](https://github.com/flutter/flutter/pull/124478) opened on on April 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124478) 12 additions and 4 deletions in 1 file</sub><br />
+
