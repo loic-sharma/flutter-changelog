@@ -62,3 +62,6 @@
 * **[Gabriel Gava](https://github.com/gabrielgarciagava)** &mdash; Exposed EdgeDraggingAutoScroller velocityScalar to ReorderableList<br />
     <sub>[#124459](https://github.com/flutter/flutter/pull/124459) opened on on April 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124459) 87 additions and 3 deletions in 3 files</sub><br />
 
+* **[Perol_Notsfsssf](https://github.com/Notsfsssf)** &mdash;  selectionControls default with new TextSelectionControls<br />
+    <sub>[#124465](https://github.com/flutter/flutter/pull/124465) opened on on April 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124465) 15 additions and 15 deletions in 4 files</sub><br />
+
