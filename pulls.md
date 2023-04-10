@@ -74,3 +74,6 @@
 * **[Aditya Thakur](https://github.com/adityathakurxd)** &mdash; Fix ShaderMask Example issue<br />
     <sub>[#124511](https://github.com/flutter/flutter/pull/124511) opened on on April 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124511) 4 additions and 1 deletion in 1 file</sub><br />
 
+* **[Mingyu](https://github.com/liumcse)** &mdash; Fix potential null exception of OverlayEntry in Slider<br />
+    <sub>[#124514](https://github.com/flutter/flutter/pull/124514) opened on on April 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124514) 45 additions and 7 deletions in 2 files</sub><br />
+
