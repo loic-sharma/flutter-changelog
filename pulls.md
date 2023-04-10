@@ -53,9 +53,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update Navigation Drawer width and tiles padding<br />
     <sub>[#124042](https://github.com/flutter/flutter/pull/124042) opened on on April 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124042) 65 additions and 35 deletions in 6 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Add benchmarks for the Material3 Components screen<br />
-    <sub>[#124354](https://github.com/flutter/flutter/pull/124354) opened on on April 6, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/124354) 2346 additions and 0 deletions in 2 files</sub><br />
-
 * **[Perol_Notsfsssf](https://github.com/Notsfsssf)** &mdash;  selectionControls default with new TextSelectionControls<br />
     <sub>[#124465](https://github.com/flutter/flutter/pull/124465) opened on on April 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124465) 19 additions and 19 deletions in 5 files</sub><br />
 
