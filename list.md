@@ -695,7 +695,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-10 commits.
+12 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Skwasm scene
     <sub>[#40330](https://github.com/flutter/engine/pull/40330) merged on April 10, 2023 &mdash; **Extra large:** [50 comments](https://github.com/flutter/engine/pull/40330) over 3 weeks, 1412 additions and 159 deletions in 53 files</sub>
@@ -717,6 +717,10 @@
     <sub>[#40997](https://github.com/flutter/engine/pull/40997) merged on April 10, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/40997) over 2 days, 291 additions and 207 deletions in 8 files</sub>
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Some fixes to shader pipeline validation
+    <sub>[#40925](https://github.com/flutter/engine/pull/40925) merged on April 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40925) over 5 days, 7 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add goldens for filter optimizations.
     <sub>[#41033](https://github.com/flutter/engine/pull/41033) merged on April 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41033) over 2 hours, 94 additions and 15 deletions in 2 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
@@ -736,6 +740,10 @@
 * **[luckysmg](https://github.com/luckysmg)** &mdash; Add trace event when updating ViewportMetrics
     <sub>[#41024](https://github.com/flutter/engine/pull/41024) merged on April 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41024) over 9 hours, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[luckysmg](https://github.com/luckysmg)** &mdash; Reland [iOS] Send connectionClosed message when resignFirstResponder to ensure framework focus state is correct.
+    <sub>[#41022](https://github.com/flutter/engine/pull/41022) merged on April 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41022) over 14 hours, 30 additions and 4 deletions in 4 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 ### April 1, 2023 to April 7, 2023
 
