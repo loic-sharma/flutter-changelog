@@ -1422,11 +1422,15 @@
 
 ### April 8, 2023 to April 14, 2023
 
-1 commits.
+2 commits.
 
 * **[Jakub Walusiak](https://github.com/SynSzakala)** &mdash; [in_app_purchase_android] Implement `BillingClient` connection management and introduce `BillingClientManager`<br />
     <sub>[#3303](https://github.com/flutter/packages/pull/3303) merged on April 10, 2023 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/3303) over 1 month, 423 additions and 80 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [in_app_purchase_android] Fix mockMethodCallHandler lint<br />
+    <sub>[#3674](https://github.com/flutter/packages/pull/3674) merged on April 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3674) over 2 hours, 9 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 ### April 1, 2023 to April 7, 2023
 
