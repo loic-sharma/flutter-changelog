@@ -4,7 +4,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-10 commits.
+11 commits.
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Sliver Constrained Cross Axis<br />
     <sub>[#124337](https://github.com/flutter/flutter/pull/124337) merged on April 10, 2023 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/124337) over 4 days, 238 additions and 0 deletions in 5 files</sub><br />
@@ -28,6 +28,10 @@
 
 * **[Eilidh Southren](https://github.com/esouthren)** &mdash; Update MCU version<br />
     <sub>[#124512](https://github.com/flutter/flutter/pull/124512) merged on April 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124512) over 3 hours, 116 additions and 116 deletions in 56 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Debounce the proxied connection over proxied devices.<br />
+    <sub>[#124540](https://github.com/flutter/flutter/pull/124540) merged on April 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124540) over 4 hours, 241 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[htoor3](https://github.com/htoor3)** &mdash; [web] - fix text editing integration tests for new DOM structure<br />
