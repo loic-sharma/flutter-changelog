@@ -71,3 +71,6 @@
 * **[Mingyu](https://github.com/liumcse)** &mdash; Fix potential null exception of OverlayEntry in Slider<br />
     <sub>[#124514](https://github.com/flutter/flutter/pull/124514) opened on on April 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124514) 45 additions and 7 deletions in 2 files</sub><br />
 
+* **[hangyu](https://github.com/hangyujin)** &mdash; Add optional labelText and semanticLabel to Checkbox<br />
+    <sub>[#124555](https://github.com/flutter/flutter/pull/124555) opened on on April 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124555) 68 additions and 0 deletions in 4 files</sub><br />
+
