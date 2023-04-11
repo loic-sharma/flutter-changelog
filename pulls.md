@@ -71,3 +71,6 @@
 * **[Mingyu](https://github.com/liumcse)** &mdash; Fix potential null exception of OverlayEntry in Slider<br />
     <sub>[#124514](https://github.com/flutter/flutter/pull/124514) opened on on April 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124514) 45 additions and 7 deletions in 2 files</sub><br />
 
+* **[GP4cK](https://github.com/GP4cK)** &mdash; Make PopPageCallback async<br />
+    <sub>[#124560](https://github.com/flutter/flutter/pull/124560) opened on on April 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124560) 32 additions and 3 deletions in 2 files</sub><br />
+

@@ -4,7 +4,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-11 commits.
+12 commits.
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Sliver Constrained Cross Axis
     <sub>[#124337](https://github.com/flutter/flutter/pull/124337) merged on April 10, 2023 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/124337) over 4 days, 238 additions and 0 deletions in 5 files</sub>
@@ -29,6 +29,10 @@
 * **[Eilidh Southren](https://github.com/esouthren)** &mdash; Update MCU version
     <sub>[#124512](https://github.com/flutter/flutter/pull/124512) merged on April 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124512) over 3 hours, 116 additions and 116 deletions in 56 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Add omit-type-checks flag for wasm builds
+    <sub>[#124341](https://github.com/flutter/flutter/pull/124341) merged on April 11, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124341) over 4 days, 78 additions and 15 deletions in 5 files</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Debounce the proxied connection over proxied devices.
     <sub>[#124540](https://github.com/flutter/flutter/pull/124540) merged on April 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124540) over 4 hours, 241 additions and 2 deletions in 4 files</sub>
