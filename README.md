@@ -648,7 +648,7 @@
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix state leak in rendering/editable_test (framework shuffle-all 2/n)<br />
     <sub>[#123806](https://github.com/flutter/flutter/pull/123806) merged on March 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/123806) over 4 hours, 22 additions and 24 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; throw `ToolExit` when `--web-port` is an integer outside the valid TCP port range<br />
     <sub>[#123269](https://github.com/flutter/flutter/pull/123269) merged on March 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123269) over 5 days, 48 additions and 7 deletions in 3 files</sub><br />
