@@ -4,7 +4,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-16 commits.
+17 commits.
 
 * **[Aditya Thakur](https://github.com/adityathakurxd)** &mdash; Fix ShaderMask Example issue<br />
     <sub>[#124511](https://github.com/flutter/flutter/pull/124511) merged on April 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/124511) over 1 day, 4 additions and 1 deletion in 1 file</sub><br />
@@ -46,6 +46,10 @@
 * **[Eilidh Southren](https://github.com/esouthren)** &mdash; Update MCU version<br />
     <sub>[#124512](https://github.com/flutter/flutter/pull/124512) merged on April 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124512) over 3 hours, 116 additions and 116 deletions in 56 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Set multiple tests as non flaky.<br />
+    <sub>[#124604](https://github.com/flutter/flutter/pull/124604) merged on April 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124604) over 3 hours, 0 additions and 8 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Add omit-type-checks flag for wasm builds<br />
     <sub>[#124341](https://github.com/flutter/flutter/pull/124341) merged on April 11, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124341) over 4 days, 78 additions and 15 deletions in 5 files</sub><br />
