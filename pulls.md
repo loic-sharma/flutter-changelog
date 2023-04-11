@@ -83,3 +83,6 @@
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; BottomAppBar doc: Fix doc about surfaceTintColor<br />
     <sub>[#124563](https://github.com/flutter/flutter/pull/124563) opened on on April 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124563) 10 additions and 4 deletions in 1 file</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TabBar` divider and add `TabAlignment` option<br />
+    <sub>[#124590](https://github.com/flutter/flutter/pull/124590) opened on on April 11, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/124590) 787 additions and 90 deletions in 6 files</sub><br />
+
