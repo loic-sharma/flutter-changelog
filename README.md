@@ -740,7 +740,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-31 commits.
+32 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Skwasm scene<br />
     <sub>[#40330](https://github.com/flutter/engine/pull/40330) merged on April 10, 2023 &mdash; **Extra large:** [50 comments](https://github.com/flutter/engine/pull/40330) over 3 weeks, 1412 additions and 159 deletions in 53 files</sub><br />
@@ -813,6 +813,10 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 4e2f5b06898, roll buildroot to accommodate ntdll.lib change<br />
     <sub>[#41035](https://github.com/flutter/engine/pull/41035) merged on April 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41035) over 41 minutes, 23 additions and 17 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Implement shadows in the skwasm renderer.<br />
+    <sub>[#41056](https://github.com/flutter/engine/pull/41056) merged on April 11, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/41056) over 22 hours, 150 additions and 24 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Make Metal layers readable<br />
     <sub>[#41085](https://github.com/flutter/engine/pull/41085) merged on April 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41085) over 1 hour, 5 additions and 1 deletion in 2 files</sub><br />
