@@ -11,13 +11,13 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Viren Khatri](https://github.com/werainkhatri)</sub>
     <sub><details><summary>1 image...</summary><img width="275" alt="Example that makes the text look like it is on fire" src="https://user-images.githubusercontent.com/53579386/230909077-f675686e-2b02-42f9-85c6-f22fe6fc5655.png"></details></sub>
 
+* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; BottomAppBar: Fix doubled layers of color and shadow
+    <sub>[#123294](https://github.com/flutter/flutter/pull/123294) merged on April 11, 2023 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/123294) over 2 weeks, 95 additions and 36 deletions in 3 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Price](https://github.com/gnprice)</sub>
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Add benchmarks for the Material3 Components screen
     <sub>[#124354](https://github.com/flutter/flutter/pull/124354) merged on April 11, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/124354) over 4 days, 2346 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
-
-* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; BottomAppBar: Fix doubled layers of color and shadow
-    <sub>[#123294](https://github.com/flutter/flutter/pull/123294) merged on April 11, 2023 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/123294) over 2 weeks, 95 additions and 36 deletions in 3 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Price](https://github.com/gnprice)</sub>
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Sliver Constrained Cross Axis
     <sub>[#124337](https://github.com/flutter/flutter/pull/124337) merged on April 10, 2023 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/124337) over 4 days, 238 additions and 0 deletions in 5 files</sub>
