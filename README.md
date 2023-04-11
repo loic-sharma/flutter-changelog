@@ -4,12 +4,16 @@
 
 ### April 8, 2023 to April 14, 2023
 
-17 commits.
+18 commits.
 
 * **[Aditya Thakur](https://github.com/adityathakurxd)** &mdash; Fix ShaderMask Example issue<br />
     <sub>[#124511](https://github.com/flutter/flutter/pull/124511) merged on April 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/124511) over 1 day, 4 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Viren Khatri](https://github.com/werainkhatri)</sub><br />
     <sub><details><summary>1 image...</summary><img width="275" alt="Example that makes the text look like it is on fire" src="https://user-images.githubusercontent.com/53579386/230909077-f675686e-2b02-42f9-85c6-f22fe6fc5655.png"></details></sub>
+
+* **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Adds `dart_fix` support to `flutter_test`<br />
+    <sub>[#124347](https://github.com/flutter/flutter/pull/124347) merged on April 11, 2023 &mdash; **Medium:** [51 comments](https://github.com/flutter/flutter/pull/124347) over 5 days, 486 additions and 4 deletions in 23 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; BottomAppBar: Fix doubled layers of color and shadow<br />
     <sub>[#123294](https://github.com/flutter/flutter/pull/123294) merged on April 11, 2023 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/123294) over 2 weeks, 95 additions and 36 deletions in 3 files</sub><br />
