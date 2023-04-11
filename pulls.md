@@ -48,7 +48,7 @@
     <sub>[#122586](https://github.com/flutter/flutter/pull/122586) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122586) 4 additions and 8 deletions in 1 file</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; `SemanticsFlag`/`SemanticsAction` cleanup (part 4)<br />
-    <sub>[#123329](https://github.com/flutter/flutter/pull/123329) opened on on March 23, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/123329) 24 additions and 36 deletions in 6 files</sub><br />
+    <sub>[#123329](https://github.com/flutter/flutter/pull/123329) opened on on March 23, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/123329) 24 additions and 36 deletions in 6 files</sub><br />
 
 * **[LiangXiang Shen](https://github.com/kj415j45)** &mdash; Update `ThemeData`'s factory method documents<br />
     <sub>[#123984](https://github.com/flutter/flutter/pull/123984) opened on on April 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123984) 2 additions and 2 deletions in 1 file</sub><br />
@@ -84,5 +84,5 @@
     <sub>[#124563](https://github.com/flutter/flutter/pull/124563) opened on on April 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124563) 10 additions and 4 deletions in 1 file</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TabBar` divider and add `TabAlignment` option<br />
-    <sub>[#124590](https://github.com/flutter/flutter/pull/124590) opened on on April 11, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/124590) 787 additions and 90 deletions in 6 files</sub><br />
+    <sub>[#124590](https://github.com/flutter/flutter/pull/124590) opened on on April 11, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/124590) 788 additions and 90 deletions in 6 files</sub><br />
 

@@ -711,7 +711,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-18 commits.
+19 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Skwasm scene<br />
     <sub>[#40330](https://github.com/flutter/engine/pull/40330) merged on April 10, 2023 &mdash; **Extra large:** [50 comments](https://github.com/flutter/engine/pull/40330) over 3 weeks, 1412 additions and 159 deletions in 53 files</sub><br />
@@ -736,6 +736,10 @@
 * **[Dan Field](https://github.com/dnfield)** &mdash; Move Skia conversion utilities to own TU<br />
     <sub>[#40997](https://github.com/flutter/engine/pull/40997) merged on April 10, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/40997) over 2 days, 291 additions and 207 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Obtain the subpass texture after calling OnRender<br />
+    <sub>[#41052](https://github.com/flutter/engine/pull/41052) merged on April 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41052) over 16 hours, 20 additions and 19 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [ios] fix background crash when FlutterViewController is destroyed after engine destroyed context<br />
     <sub>[#41037](https://github.com/flutter/engine/pull/41037) merged on April 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41037) over 8 hours, 39 additions and 1 deletion in 2 files</sub><br />
@@ -1545,7 +1549,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-4 commits.
+5 commits.
 
 * **[Jakub Walusiak](https://github.com/SynSzakala)** &mdash; [in_app_purchase_android] Implement `BillingClient` connection management and introduce `BillingClientManager`<br />
     <sub>[#3303](https://github.com/flutter/packages/pull/3303) merged on April 10, 2023 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/3303) over 1 month, 423 additions and 80 deletions in 13 files</sub><br />
@@ -1559,6 +1563,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [in_app_purchase_android] Fix mockMethodCallHandler lint<br />
     <sub>[#3674](https://github.com/flutter/packages/pull/3674) merged on April 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3674) over 2 hours, 9 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; [image_picker] [example] fix broken link for image_picker_for_web in image_picker example<br />
+    <sub>[#3678](https://github.com/flutter/packages/pull/3678) merged on April 11, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3678) over 22 hours, 4 additions and 3 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Harish](https://github.com/Harishwarrior)** &mdash; [flutter_adaptive_scaffold] : Add groupAlignment parameter to standardNavigationRail<br />
     <sub>[#3673](https://github.com/flutter/packages/pull/3673) merged on April 10, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3673) over 6 hours, 51 additions and 1 deletion in 4 files</sub><br />
