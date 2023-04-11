@@ -1486,7 +1486,7 @@
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; Revert "[web] Accepts assetBase through JS config. (#40615)"<br />
     <sub>[#40670](https://github.com/flutter/engine/pull/40670) merged on March 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40670) over 18 minutes, 21 additions and 211 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[luckysmg](https://github.com/luckysmg)** &mdash; Revert "[iOS] Send connectionClosed message when resignFirstResponder to ensure framework focus state is correct."<br />
     <sub>[#40777](https://github.com/flutter/engine/pull/40777) merged on March 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40777) over 56 minutes, 4 additions and 30 deletions in 4 files</sub><br />
