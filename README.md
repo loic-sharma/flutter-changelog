@@ -4,7 +4,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-19 commits.
+20 commits.
 
 * **[Aditya Thakur](https://github.com/adityathakurxd)** &mdash; Fix ShaderMask Example issue<br />
     <sub>[#124511](https://github.com/flutter/flutter/pull/124511) merged on April 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/124511) over 1 day, 4 additions and 1 deletion in 1 file</sub><br />
@@ -30,6 +30,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; ExpansionTile audit<br />
     <sub>[#124281](https://github.com/flutter/flutter/pull/124281) merged on April 10, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/124281) over 4 days, 2289 additions and 89 deletions in 85 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Micael Cid](https://github.com/micaelcid)** &mdash; [integration_test] upgrade androidx test to 1.4.0<br />
+    <sub>[#122437](https://github.com/flutter/flutter/pull/122437) merged on April 11, 2023 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/122437) over 1 month, 143 additions and 126 deletions in 24 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Allow daemon to start DDS remotely when proxied devices are used.<br />
     <sub>[#124061](https://github.com/flutter/flutter/pull/124061) merged on April 10, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/124061) over 6 days, 574 additions and 20 deletions in 4 files</sub><br />
