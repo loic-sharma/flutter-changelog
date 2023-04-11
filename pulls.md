@@ -59,14 +59,8 @@
 * **[Viren Khatri](https://github.com/werainkhatri)** &mdash; add tests for dominant bottom sheet in scaffold<br />
     <sub>[#124472](https://github.com/flutter/flutter/pull/124472) opened on on April 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124472) 80 additions and 0 deletions in 1 file</sub><br />
 
-* **[Viren Khatri](https://github.com/werainkhatri)** &mdash; relayout active ListWheelScrollView children every performLayout<br />
-    <sub>[#124476](https://github.com/flutter/flutter/pull/124476) opened on on April 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124476) 36 additions and 1 deletion in 2 files</sub><br />
-
 * **[Mingyu](https://github.com/liumcse)** &mdash; Fix potential null exception of OverlayEntry in Slider<br />
     <sub>[#124514](https://github.com/flutter/flutter/pull/124514) opened on on April 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124514) 45 additions and 7 deletions in 2 files</sub><br />
-
-* **[GP4cK](https://github.com/GP4cK)** &mdash; Make PopPageCallback async<br />
-    <sub>[#124560](https://github.com/flutter/flutter/pull/124560) opened on on April 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124560) 32 additions and 3 deletions in 2 files</sub><br />
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; BottomAppBar doc: Fix doc about surfaceTintColor<br />
     <sub>[#124563](https://github.com/flutter/flutter/pull/124563) opened on on April 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124563) 10 additions and 4 deletions in 1 file</sub><br />
