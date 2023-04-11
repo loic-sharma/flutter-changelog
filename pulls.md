@@ -8,6 +8,9 @@
 * **[MattyBoy](https://github.com/MattyBoy4444)** &mdash; Fixed: ReorderableListView draghandles would display over child item<br />
     <sub>[#113642](https://github.com/flutter/flutter/pull/113642) opened on on October 18, 2022 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/113642) 44 additions and 24 deletions in 1 file</sub><br />
 
+* **[Mahesh Jamdade](https://github.com/maheshmnj)** &mdash; Allow selecting specific minute in a single tap<br />
+    <sub>[#115992](https://github.com/flutter/flutter/pull/115992) opened on on November 24, 2022 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/115992) 5 additions and 19 deletions in 2 files</sub><br />
+
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Added hoverColor property to CheckboxListTile widget<br />
     <sub>[#116026](https://github.com/flutter/flutter/pull/116026) opened on on November 25, 2022 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/116026) 39 additions and 0 deletions in 3 files</sub><br />
 
