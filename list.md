@@ -4,7 +4,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-18 commits.
+19 commits.
 
 * **[Aditya Thakur](https://github.com/adityathakurxd)** &mdash; Fix ShaderMask Example issue
     <sub>[#124511](https://github.com/flutter/flutter/pull/124511) merged on April 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/124511) over 1 day, 4 additions and 1 deletion in 1 file</sub>
@@ -50,6 +50,10 @@
 * **[Eilidh Southren](https://github.com/esouthren)** &mdash; Update MCU version
     <sub>[#124512](https://github.com/flutter/flutter/pull/124512) merged on April 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124512) over 3 hours, 116 additions and 116 deletions in 56 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Rydmike](https://github.com/rydmike)** &mdash; Add Mike Rydstrom to AUTHORS
+    <sub>[#124561](https://github.com/flutter/flutter/pull/124561) merged on April 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124561) over 20 hours, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Set multiple tests as non flaky.
     <sub>[#124604](https://github.com/flutter/flutter/pull/124604) merged on April 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124604) over 3 hours, 0 additions and 8 deletions in 1 file</sub>
