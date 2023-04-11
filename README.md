@@ -12,7 +12,7 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; ExpansionTile audit<br />
     <sub>[#124281](https://github.com/flutter/flutter/pull/124281) merged on April 10, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/124281) over 4 days, 2289 additions and 89 deletions in 85 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Allow daemon to start DDS remotely when proxied devices are used.<br />
     <sub>[#124061](https://github.com/flutter/flutter/pull/124061) merged on April 10, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/124061) over 6 days, 574 additions and 20 deletions in 4 files</sub><br />
@@ -48,7 +48,7 @@
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [flutter_test] Adds method to mock EventChannels<br />
     <sub>[#124415](https://github.com/flutter/flutter/pull/124415) merged on April 10, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124415) over 2 days, 216 additions and 45 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [pdblasi-google](https://github.com/pdblasi-google)</sub><br />
+    <sub>Reviewed by: [pdblasi-google](https://github.com/pdblasi-google), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add support to the flutter tool to compile against the skwasm renderer<br />
     <sub>[#124296](https://github.com/flutter/flutter/pull/124296) merged on April 10, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124296) over 4 days, 102 additions and 18 deletions in 8 files</sub><br />
@@ -90,7 +90,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add readlink -f flag to CocoaPods script to workaround Xcode 14.3 issue<br />
     <sub>[#124062](https://github.com/flutter/flutter/pull/124062) merged on April 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124062) over 2 hours, 223 additions and 0 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Rydmike](https://github.com/rydmike)** &mdash; FIX: SegmentedButton segments background cannot be made transparent<br />
     <sub>[#123293](https://github.com/flutter/flutter/pull/123293) merged on April 4, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/123293) over 1 week, 30 additions and 0 deletions in 2 files</sub><br />
@@ -339,7 +339,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update localizations.<br />
     <sub>[#124099](https://github.com/flutter/flutter/pull/124099) merged on April 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124099) over 10 hours, 10 additions and 10 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Tae Hyung Kim](https://github.com/thkim1011), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Tae Hyung Kim](https://github.com/thkim1011)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Make flutter_adapter_test more resilient to pub output<br />
     <sub>[#124139](https://github.com/flutter/flutter/pull/124139) merged on April 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124139) over 1 hour, 24 additions and 14 deletions in 1 file</sub><br />
