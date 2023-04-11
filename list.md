@@ -711,7 +711,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-17 commits.
+18 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Skwasm scene
     <sub>[#40330](https://github.com/flutter/engine/pull/40330) merged on April 10, 2023 &mdash; **Extra large:** [50 comments](https://github.com/flutter/engine/pull/40330) over 3 weeks, 1412 additions and 159 deletions in 53 files</sub>
@@ -736,6 +736,10 @@
 * **[Dan Field](https://github.com/dnfield)** &mdash; Move Skia conversion utilities to own TU
     <sub>[#40997](https://github.com/flutter/engine/pull/40997) merged on April 10, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/40997) over 2 days, 291 additions and 207 deletions in 8 files</sub>
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
+
+* **[Chris Yang](https://github.com/cyanglaz)** &mdash; [ios] fix background crash when FlutterViewController is destroyed after engine destroyed context
+    <sub>[#41037](https://github.com/flutter/engine/pull/41037) merged on April 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41037) over 8 hours, 39 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Some fixes to shader pipeline validation
     <sub>[#40925](https://github.com/flutter/engine/pull/40925) merged on April 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40925) over 5 days, 7 additions and 2 deletions in 2 files</sub>
