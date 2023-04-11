@@ -4,7 +4,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-20 commits.
+22 commits.
 
 * **[Aditya Thakur](https://github.com/adityathakurxd)** &mdash; Fix ShaderMask Example issue
     <sub>[#124511](https://github.com/flutter/flutter/pull/124511) merged on April 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/124511) over 1 day, 4 additions and 1 deletion in 1 file</sub>
@@ -47,12 +47,20 @@
     <sub>[#123286](https://github.com/flutter/flutter/pull/123286) merged on April 10, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/123286) over 2 weeks, 179 additions and 110 deletions in 5 files</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Remove deprecations from TextSelectionHandleControls instances
+    <sub>[#124611](https://github.com/flutter/flutter/pull/124611) merged on April 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124611) over 5 hours, 13 additions and 16 deletions in 4 files</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Implement "iterations" directive for customer tests
     <sub>[#124541](https://github.com/flutter/flutter/pull/124541) merged on April 11, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124541) over 7 hours, 23 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Eilidh Southren](https://github.com/esouthren)** &mdash; Update MCU version
     <sub>[#124512](https://github.com/flutter/flutter/pull/124512) merged on April 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124512) over 3 hours, 116 additions and 116 deletions in 56 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[keyonghan](https://github.com/keyonghan)** &mdash; Mark android_semantics_integration_test as flaky
+    <sub>[#124638](https://github.com/flutter/flutter/pull/124638) merged on April 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124638) over 43 minutes, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Rydmike](https://github.com/rydmike)** &mdash; Add Mike Rydstrom to AUTHORS
