@@ -740,7 +740,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Fix issues in path polyline generation.
     <sub>[#40975](https://github.com/flutter/engine/pull/40975) merged on April 10, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/40975) over 3 days, 406 additions and 60 deletions in 7 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [Windows] Ignore case optionally in `AXPlatformNodeTextRangeProviderWin::FindText`
     <sub>[#39922](https://github.com/flutter/engine/pull/39922) merged on April 11, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/39922) over 1 month, 124 additions and 45 deletions in 4 files</sub>
@@ -1331,7 +1331,7 @@
 
 * **[Harry Terkelsen](https://github.com/hterkelsen)** &mdash; Roll buildroot to build CanvasKit for speed instead of code size
     <sub>[#40737](https://github.com/flutter/engine/pull/40737) merged on March 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40737) over 58 minutes, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jason Simmons](https://github.com/jason-simmons)</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Eliminate explicit main window init()
     <sub>[#40695](https://github.com/flutter/engine/pull/40695) merged on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40695) over 49 minutes, 1 addition and 1 deletion in 1 file</sub>
@@ -1602,7 +1602,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-7 commits.
+8 commits.
 
 * **[Jakub Walusiak](https://github.com/SynSzakala)** &mdash; [in_app_purchase_android] Implement `BillingClient` connection management and introduce `BillingClientManager`
     <sub>[#3303](https://github.com/flutter/packages/pull/3303) merged on April 10, 2023 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/3303) over 1 month, 423 additions and 80 deletions in 13 files</sub>
@@ -1612,6 +1612,10 @@
     <sub>[#3669](https://github.com/flutter/packages/pull/3669) merged on April 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3669) over 7 hours, 6 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.google.android.gms:play-services-auth&package-manager=gradle&previous-version=20.4.1&new-version=20.5.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[Ahmed Ashour](https://github.com/asashour)** &mdash; [in_app_purchase] Prepare for `NULLABLE_ARGUMENT_TO_NON_NULL_TYPE`
+    <sub>[#3275](https://github.com/flutter/packages/pull/3275) merged on April 11, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3275) over 1 month, 9 additions and 3 deletions in 3 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [in_app_purchase_android] Fix mockMethodCallHandler lint
     <sub>[#3674](https://github.com/flutter/packages/pull/3674) merged on April 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3674) over 2 hours, 9 additions and 2 deletions in 1 file</sub>
