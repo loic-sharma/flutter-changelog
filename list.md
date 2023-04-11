@@ -1549,7 +1549,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-5 commits.
+6 commits.
 
 * **[Jakub Walusiak](https://github.com/SynSzakala)** &mdash; [in_app_purchase_android] Implement `BillingClient` connection management and introduce `BillingClientManager`
     <sub>[#3303](https://github.com/flutter/packages/pull/3303) merged on April 10, 2023 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/3303) over 1 month, 423 additions and 80 deletions in 13 files</sub>
@@ -1563,6 +1563,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [in_app_purchase_android] Fix mockMethodCallHandler lint
     <sub>[#3674](https://github.com/flutter/packages/pull/3674) merged on April 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3674) over 2 hours, 9 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update Pigeon in Swift plugins
+    <sub>[#3663](https://github.com/flutter/packages/pull/3663) merged on April 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3663) over 3 days, 98 additions and 47 deletions in 15 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [image_picker] [example] fix broken link for image_picker_for_web in image_picker example
     <sub>[#3678](https://github.com/flutter/packages/pull/3678) merged on April 11, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3678) over 22 hours, 4 additions and 3 deletions in 3 files</sub>
