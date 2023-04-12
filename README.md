@@ -1817,6 +1817,10 @@
     <sub>[#3642](https://github.com/flutter/packages/pull/3642) merged on April 6, 2023 &mdash; **Medium:** [18 comments](https://github.com/flutter/packages/pull/3642) over 2 days, 379 additions and 44 deletions in 14 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Enable warnings as errors, and all warnings, for Android lint<br />
+    <sub>[#3648](https://github.com/flutter/packages/pull/3648) merged on April 7, 2023 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/3648) over 2 days, 13996 additions and 309 deletions in 32 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Removes unused field `WebView.useHybridComposition` and suppress Java `ViewConstructor` lint<br />
     <sub>[#3428](https://github.com/flutter/packages/pull/3428) merged on April 5, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/3428) over 3 weeks, 71 additions and 641 deletions in 26 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
@@ -1828,10 +1832,6 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update Pigeon in Obj-C plugins<br />
     <sub>[#3662](https://github.com/flutter/packages/pull/3662) merged on April 7, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/3662) over 5 hours, 478 additions and 246 deletions in 38 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
-
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Enable warnings as errors, and all warnings, for Android lint<br />
-    <sub>[#3648](https://github.com/flutter/packages/pull/3648) merged on April 7, 2023 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/3648) over 2 days, 13996 additions and 309 deletions in 32 files</sub><br />
-    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [webview]: Bump androidx.webkit:webkit from 1.6.0 to 1.6.1 in /packages/webview_flutter/webview_flutter_android/android<br />
     <sub>[#3555](https://github.com/flutter/packages/pull/3555) merged on April 5, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3555) over 1 week, 5 additions and 1 deletion in 2 files</sub><br />
