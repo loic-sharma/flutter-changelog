@@ -61,6 +61,10 @@
     <sub>[#124459](https://github.com/flutter/flutter/pull/124459) merged on April 12, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/124459) over 3 days, 202 additions and 3 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Add omit-type-checks flag for wasm builds<br />
+    <sub>[#124341](https://github.com/flutter/flutter/pull/124341) merged on April 11, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124341) over 4 days, 78 additions and 15 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Reduce macOS overscroll friction<br />
     <sub>[#122142](https://github.com/flutter/flutter/pull/122142) merged on April 10, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/122142) over 1 month, 26 additions and 22 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
@@ -96,10 +100,6 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Set multiple tests as non flaky.<br />
     <sub>[#124604](https://github.com/flutter/flutter/pull/124604) merged on April 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124604) over 3 hours, 0 additions and 8 deletions in 1 file</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Add omit-type-checks flag for wasm builds<br />
-    <sub>[#124341](https://github.com/flutter/flutter/pull/124341) merged on April 11, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124341) over 4 days, 78 additions and 15 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Debounce the proxied connection over proxied devices.<br />
     <sub>[#124540](https://github.com/flutter/flutter/pull/124540) merged on April 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124540) over 4 hours, 241 additions and 2 deletions in 4 files</sub><br />
