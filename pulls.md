@@ -69,5 +69,5 @@
     <sub>[#124563](https://github.com/flutter/flutter/pull/124563) opened on on April 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124563) 10 additions and 4 deletions in 1 file</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove the old canvaskit artifacts to not confuse the web runner.<br />
-    <sub>[#124641](https://github.com/flutter/flutter/pull/124641) opened on on April 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124641) 33 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#124641](https://github.com/flutter/flutter/pull/124641) opened on on April 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124641) 58 additions and 0 deletions in 2 files</sub><br />
 
