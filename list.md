@@ -117,7 +117,7 @@
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "[integration_test] upgrade androidx test to 1.4.0"
-    <sub>[#124644](https://github.com/flutter/flutter/pull/124644) merged on April 12, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124644) over 29 minutes, 126 additions and 143 deletions in 24 files</sub>
+    <sub>[#124644](https://github.com/flutter/flutter/pull/124644) merged on April 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124644) over 29 minutes, 126 additions and 143 deletions in 24 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 ### April 1, 2023 to April 7, 2023
