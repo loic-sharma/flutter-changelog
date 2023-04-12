@@ -12,7 +12,7 @@
     <sub><details><summary>1 image...</summary>![image](https://user-images.githubusercontent.com/351125/225201457-716f7263-cbb1-4d22-95ba-63a254dbc95a.png)</details></sub>
 
 * **[Nabeel Parkar](https://github.com/exaby73)** &mdash; Bug report 2 issue template
-    <sub>[#122385](https://github.com/flutter/flutter/pull/122385) merged on April 12, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/122385) over 1 month, 138 additions and 108 deletions in 9 files</sub>
+    <sub>[#122385](https://github.com/flutter/flutter/pull/122385) merged on April 12, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/122385) over 1 month, 138 additions and 108 deletions in 9 files</sub>
     <sub>Reviewed by: [helinanever](https://github.com/helinanever), [stuartmorgan](https://github.com/stuartmorgan)</sub>
     <sub><details><summary>1 image...</summary>![image](https://user-images.githubusercontent.com/50555895/231153464-5409b641-3d2c-4103-b4cf-a46b9a5d3e54.png)</details></sub>
 
