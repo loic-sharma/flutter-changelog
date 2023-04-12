@@ -68,3 +68,6 @@
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; BottomAppBar doc: Fix doc about surfaceTintColor<br />
     <sub>[#124563](https://github.com/flutter/flutter/pull/124563) opened on on April 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124563) 10 additions and 4 deletions in 1 file</sub><br />
 
+* **[9oya](https://github.com/9oya)** &mdash; Implement CheckmarkableChipAttributes on ChoiceChip<br />
+    <sub>[#124663](https://github.com/flutter/flutter/pull/124663) opened on on April 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124663) 10 additions and 1 deletion in 2 files</sub><br />
+
