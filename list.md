@@ -4,7 +4,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-29 commits.
+31 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `StrokeCap` to `CircularProgressIndicator`
     <sub>[#122664](https://github.com/flutter/flutter/pull/122664) merged on April 12, 2023 &mdash; **Small:** [82 comments](https://github.com/flutter/flutter/pull/122664) over 3 weeks, 94 additions and 8 deletions in 3 files</sub>
@@ -48,6 +48,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; ExpansionTile audit
     <sub>[#124281](https://github.com/flutter/flutter/pull/124281) merged on April 10, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/124281) over 4 days, 2289 additions and 89 deletions in 85 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove the old canvaskit artifacts to not confuse the web runner.
+    <sub>[#124641](https://github.com/flutter/flutter/pull/124641) merged on April 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124641) over 16 hours, 58 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Micael Cid](https://github.com/micaelcid)** &mdash; [integration_test] upgrade androidx test to 1.4.0
     <sub>[#122437](https://github.com/flutter/flutter/pull/122437) merged on April 11, 2023 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/122437) over 1 month, 143 additions and 126 deletions in 24 files</sub>
@@ -120,6 +124,10 @@
 * **[luckysmg](https://github.com/luckysmg)** &mdash; [Text Input] Only unfocus when receive connectionClosed on platform except web
     <sub>[#123929](https://github.com/flutter/flutter/pull/123929) merged on April 10, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123929) over 1 week, 56 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_android new_gallery_impeller__transition_perf to be flaky
+    <sub>[#124700](https://github.com/flutter/flutter/pull/124700) merged on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124700) over 54 minutes, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "[integration_test] upgrade androidx test to 1.4.0"
     <sub>[#124644](https://github.com/flutter/flutter/pull/124644) merged on April 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124644) over 29 minutes, 126 additions and 143 deletions in 24 files</sub>
