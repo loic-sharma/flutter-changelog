@@ -1692,7 +1692,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-11 commits.
+12 commits.
 
 * **[Jakub Walusiak](https://github.com/SynSzakala)** &mdash; [in_app_purchase_android] Implement `BillingClient` connection management and introduce `BillingClientManager`<br />
     <sub>[#3303](https://github.com/flutter/packages/pull/3303) merged on April 10, 2023 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/3303) over 1 month, 423 additions and 80 deletions in 13 files</sub><br />
@@ -1718,6 +1718,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [in_app_purchase_android] Fix mockMethodCallHandler lint<br />
     <sub>[#3674](https://github.com/flutter/packages/pull/3674) merged on April 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3674) over 2 hours, 9 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [go_router]Show ShellRoute's routes in debug log<br />
+    <sub>[#3664](https://github.com/flutter/packages/pull/3664) merged on April 12, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3664) over 4 days, 86 additions and 3 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [John Ryan](https://github.com/johnpryan)</sub><br />
 
 * **[Hugo Olthof](https://github.com/HugoOlthof)** &mdash; [webview_flutter_platform_interface] Adds platform interface for onHttpError callback<br />
     <sub>[#3645](https://github.com/flutter/packages/pull/3645) merged on April 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3645) over 6 days, 87 additions and 2 deletions in 7 files</sub><br />
