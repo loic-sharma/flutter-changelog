@@ -20,13 +20,13 @@
     <sub>[#124347](https://github.com/flutter/flutter/pull/124347) merged on April 11, 2023 &mdash; **Medium:** [51 comments](https://github.com/flutter/flutter/pull/124347) over 5 days, 486 additions and 4 deletions in 23 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; BottomAppBar: Fix doubled layers of color and shadow
-    <sub>[#123294](https://github.com/flutter/flutter/pull/123294) merged on April 11, 2023 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/123294) over 2 weeks, 95 additions and 36 deletions in 3 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Price](https://github.com/gnprice)</sub>
-
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; DraggableScrollableSheet & NestedScrollView  should respect NeverScrollableScrollPhysics
     <sub>[#123109](https://github.com/flutter/flutter/pull/123109) merged on April 12, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/123109) over 3 weeks, 99 additions and 4 deletions in 5 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; BottomAppBar: Fix doubled layers of color and shadow
+    <sub>[#123294](https://github.com/flutter/flutter/pull/123294) merged on April 11, 2023 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/123294) over 2 weeks, 95 additions and 36 deletions in 3 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Price](https://github.com/gnprice)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Add benchmarks for the Material3 Components screen
     <sub>[#124354](https://github.com/flutter/flutter/pull/124354) merged on April 11, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/124354) over 4 days, 2346 additions and 0 deletions in 2 files</sub>
