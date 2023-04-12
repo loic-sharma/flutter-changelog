@@ -69,5 +69,5 @@
     <sub>[#124663](https://github.com/flutter/flutter/pull/124663) opened on on April 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124663) 10 additions and 1 deletion in 2 files</sub><br />
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Remove uses of deprecated test_api imports<br />
-    <sub>[#124732](https://github.com/flutter/flutter/pull/124732) opened on on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124732) 134 additions and 154 deletions in 26 files</sub><br />
+    <sub>[#124732](https://github.com/flutter/flutter/pull/124732) opened on on April 12, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/124732) 143 additions and 160 deletions in 26 files</sub><br />
 
