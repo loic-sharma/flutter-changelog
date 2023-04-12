@@ -1675,7 +1675,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-9 commits.
+10 commits.
 
 * **[Jakub Walusiak](https://github.com/SynSzakala)** &mdash; [in_app_purchase_android] Implement `BillingClient` connection management and introduce `BillingClientManager`
     <sub>[#3303](https://github.com/flutter/packages/pull/3303) merged on April 10, 2023 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/3303) over 1 month, 423 additions and 80 deletions in 13 files</sub>
@@ -1684,6 +1684,10 @@
 * **[Daniele Cambi](https://github.com/dancamdev)** &mdash; [go_router_builder] Adds support for required $extra parameter
     <sub>[#3627](https://github.com/flutter/packages/pull/3627) merged on April 11, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/3627) over 1 week, 250 additions and 24 deletions in 8 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Convert macOS to Pigeon
+    <sub>[#3686](https://github.com/flutter/packages/pull/3686) merged on April 12, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/3686) over 12 hours, 524 additions and 278 deletions in 10 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [sign_in]: Bump com.google.android.gms:play-services-auth from 20.4.1 to 20.5.0 in /packages/google_sign_in/google_sign_in_android/android
     <sub>[#3669](https://github.com/flutter/packages/pull/3669) merged on April 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3669) over 7 hours, 6 additions and 2 deletions in 3 files</sub>
