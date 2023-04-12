@@ -4,7 +4,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-31 commits.
+32 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `StrokeCap` to `CircularProgressIndicator`
     <sub>[#122664](https://github.com/flutter/flutter/pull/122664) merged on April 12, 2023 &mdash; **Small:** [82 comments](https://github.com/flutter/flutter/pull/122664) over 3 weeks, 94 additions and 8 deletions in 3 files</sub>
@@ -124,6 +124,10 @@
 * **[luckysmg](https://github.com/luckysmg)** &mdash; [Text Input] Only unfocus when receive connectionClosed on platform except web
     <sub>[#123929](https://github.com/flutter/flutter/pull/123929) merged on April 10, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123929) over 1 week, 56 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_samsung_s10 new_gallery_impeller__transition_perf to be flaky
+    <sub>[#124694](https://github.com/flutter/flutter/pull/124694) merged on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124694) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_android new_gallery_impeller__transition_perf to be flaky
     <sub>[#124700](https://github.com/flutter/flutter/pull/124700) merged on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124700) over 54 minutes, 1 addition and 0 deletions in 1 file</sub>
