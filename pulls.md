@@ -68,3 +68,6 @@
 * **[9oya](https://github.com/9oya)** &mdash; Implement CheckmarkableChipAttributes on ChoiceChip<br />
     <sub>[#124663](https://github.com/flutter/flutter/pull/124663) opened on on April 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124663) 10 additions and 1 deletion in 2 files</sub><br />
 
+* **[Harish Anbalagan](https://github.com/Harishwarrior)** &mdash; Add Harish Anbalagan to AUTHORS<br />
+    <sub>[#124684](https://github.com/flutter/flutter/pull/124684) opened on on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124684) 1 addition and 0 deletions in 1 file</sub><br />
+
