@@ -4,7 +4,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-22 commits.
+26 commits.
 
 * **[Aditya Thakur](https://github.com/adityathakurxd)** &mdash; Fix ShaderMask Example issue
     <sub>[#124511](https://github.com/flutter/flutter/pull/124511) merged on April 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/124511) over 1 day, 4 additions and 1 deletion in 1 file</sub>
@@ -19,9 +19,17 @@
     <sub>[#123294](https://github.com/flutter/flutter/pull/123294) merged on April 11, 2023 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/123294) over 2 weeks, 95 additions and 36 deletions in 3 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Price](https://github.com/gnprice)</sub>
 
+* **[xubaolin](https://github.com/xu-baolin)** &mdash; DraggableScrollableSheet & NestedScrollView  should respect NeverScrollableScrollPhysics
+    <sub>[#123109](https://github.com/flutter/flutter/pull/123109) merged on April 12, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/123109) over 3 weeks, 99 additions and 4 deletions in 5 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Add benchmarks for the Material3 Components screen
     <sub>[#124354](https://github.com/flutter/flutter/pull/124354) merged on April 11, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/124354) over 4 days, 2346 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Fix gen_date_localizations script and regenerate
+    <sub>[#124547](https://github.com/flutter/flutter/pull/124547) merged on April 11, 2023 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/124547) over 1 day, 1221 additions and 492 deletions in 5 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Sliver Constrained Cross Axis
     <sub>[#124337](https://github.com/flutter/flutter/pull/124337) merged on April 10, 2023 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/124337) over 4 days, 238 additions and 0 deletions in 5 files</sub>
@@ -38,6 +46,10 @@
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Allow daemon to start DDS remotely when proxied devices are used.
     <sub>[#124061](https://github.com/flutter/flutter/pull/124061) merged on April 10, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/124061) over 6 days, 574 additions and 20 deletions in 4 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Gabriel Gava](https://github.com/gabrielgarciagava)** &mdash; Exposed EdgeDraggingAutoScroller velocityScalar to ReorderableList
+    <sub>[#124459](https://github.com/flutter/flutter/pull/124459) merged on April 12, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/124459) over 3 days, 202 additions and 3 deletions in 5 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Reduce macOS overscroll friction
     <sub>[#122142](https://github.com/flutter/flutter/pull/122142) merged on April 10, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/122142) over 1 month, 26 additions and 22 deletions in 3 files</sub>
@@ -58,6 +70,10 @@
 * **[Eilidh Southren](https://github.com/esouthren)** &mdash; Update MCU version
     <sub>[#124512](https://github.com/flutter/flutter/pull/124512) merged on April 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124512) over 3 hours, 116 additions and 116 deletions in 56 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; flutter_tools: Flutter Web CLI cleanup
+    <sub>[#124564](https://github.com/flutter/flutter/pull/124564) merged on April 12, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/124564) over 22 hours, 71 additions and 80 deletions in 8 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Mark android_semantics_integration_test as flaky
     <sub>[#124638](https://github.com/flutter/flutter/pull/124638) merged on April 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124638) over 43 minutes, 1 addition and 0 deletions in 1 file</sub>
