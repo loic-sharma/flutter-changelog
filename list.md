@@ -4,12 +4,17 @@
 
 ### April 8, 2023 to April 14, 2023
 
-28 commits.
+29 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `StrokeCap` to `CircularProgressIndicator`
     <sub>[#122664](https://github.com/flutter/flutter/pull/122664) merged on April 12, 2023 &mdash; **Small:** [81 comments](https://github.com/flutter/flutter/pull/122664) over 3 weeks, 94 additions and 8 deletions in 3 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Kate Lovett](https://github.com/Piinks)</sub>
     <sub><details><summary>1 image...</summary>![image](https://user-images.githubusercontent.com/351125/225201457-716f7263-cbb1-4d22-95ba-63a254dbc95a.png)</details></sub>
+
+* **[Nabeel Parkar](https://github.com/exaby73)** &mdash; Bug report 2 issue template
+    <sub>[#122385](https://github.com/flutter/flutter/pull/122385) merged on April 12, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/122385) over 1 month, 138 additions and 108 deletions in 9 files</sub>
+    <sub>Reviewed by: [helinanever](https://github.com/helinanever), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+    <sub><details><summary>1 image...</summary>![image](https://user-images.githubusercontent.com/50555895/231153464-5409b641-3d2c-4103-b4cf-a46b9a5d3e54.png)</details></sub>
 
 * **[Aditya Thakur](https://github.com/adityathakurxd)** &mdash; Fix ShaderMask Example issue
     <sub>[#124511](https://github.com/flutter/flutter/pull/124511) merged on April 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/124511) over 1 day, 4 additions and 1 deletion in 1 file</sub>

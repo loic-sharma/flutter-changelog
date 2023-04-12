@@ -44,9 +44,6 @@
 * **[Ruben Aster](https://github.com/rubenaster)** &mdash; Fix transitioning a TabBarView manually doesn't honor duration and curve #16892<br />
     <sub>[#122279](https://github.com/flutter/flutter/pull/122279) opened on on March 9, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/122279) 45 additions and 16 deletions in 2 files</sub><br />
 
-* **[Nabeel Parkar](https://github.com/exaby73)** &mdash; Bug report 2 issue template<br />
-    <sub>[#122385](https://github.com/flutter/flutter/pull/122385) opened on on March 10, 2023 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/122385) 138 additions and 108 deletions in 9 files</sub><br />
-
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Fix style issues<br />
     <sub>[#122586](https://github.com/flutter/flutter/pull/122586) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122586) 4 additions and 8 deletions in 1 file</sub><br />
 
