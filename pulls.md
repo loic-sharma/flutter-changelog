@@ -68,3 +68,6 @@
 * **[9oya](https://github.com/9oya)** &mdash; Implement CheckmarkableChipAttributes on ChoiceChip<br />
     <sub>[#124663](https://github.com/flutter/flutter/pull/124663) opened on on April 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124663) 10 additions and 1 deletion in 2 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip highlight color isn't drawn on top of the background color<br />
+    <sub>[#124673](https://github.com/flutter/flutter/pull/124673) opened on on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124673) 52 additions and 2 deletions in 2 files</sub><br />
+

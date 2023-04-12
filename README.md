@@ -26,7 +26,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; DraggableScrollableSheet & NestedScrollView  should respect NeverScrollableScrollPhysics<br />
-    <sub>[#123109](https://github.com/flutter/flutter/pull/123109) merged on April 12, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/123109) over 3 weeks, 99 additions and 4 deletions in 5 files</sub><br />
+    <sub>[#123109](https://github.com/flutter/flutter/pull/123109) merged on April 12, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/123109) over 3 weeks, 99 additions and 4 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; BottomAppBar: Fix doubled layers of color and shadow<br />
