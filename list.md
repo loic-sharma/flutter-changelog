@@ -4,7 +4,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-33 commits.
+34 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `StrokeCap` to `CircularProgressIndicator`
     <sub>[#122664](https://github.com/flutter/flutter/pull/122664) merged on April 12, 2023 &mdash; **Small:** [82 comments](https://github.com/flutter/flutter/pull/122664) over 3 weeks, 94 additions and 8 deletions in 3 files</sub>
@@ -49,13 +49,13 @@
     <sub>[#124281](https://github.com/flutter/flutter/pull/124281) merged on April 10, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/124281) over 4 days, 2289 additions and 89 deletions in 85 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove the old canvaskit artifacts to not confuse the web runner.
-    <sub>[#124641](https://github.com/flutter/flutter/pull/124641) merged on April 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124641) over 16 hours, 58 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
-
 * **[Micael Cid](https://github.com/micaelcid)** &mdash; [integration_test] upgrade androidx test to 1.4.0
     <sub>[#122437](https://github.com/flutter/flutter/pull/122437) merged on April 11, 2023 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/122437) over 1 month, 143 additions and 126 deletions in 24 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ricardo Amador](https://github.com/ricardoamador)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove the old canvaskit artifacts to not confuse the web runner.
+    <sub>[#124641](https://github.com/flutter/flutter/pull/124641) merged on April 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124641) over 16 hours, 58 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Allow daemon to start DDS remotely when proxied devices are used.
     <sub>[#124061](https://github.com/flutter/flutter/pull/124061) merged on April 10, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/124061) over 6 days, 574 additions and 20 deletions in 4 files</sub>
@@ -89,9 +89,13 @@
     <sub>[#124512](https://github.com/flutter/flutter/pull/124512) merged on April 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124512) over 3 hours, 116 additions and 116 deletions in 56 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; flutter_tools: Flutter Web CLI cleanup
-    <sub>[#124564](https://github.com/flutter/flutter/pull/124564) merged on April 12, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/124564) over 22 hours, 71 additions and 80 deletions in 8 files</sub>
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [ci.yaml] Disable packaging_test on release candidates
+    <sub>[#124712](https://github.com/flutter/flutter/pull/124712) merged on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124712) over 48 minutes, 16 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jesse Seales](https://github.com/sealesj)</sub>
+
+* **[luckysmg](https://github.com/luckysmg)** &mdash; [Text Input] Only unfocus when receive connectionClosed on platform except web
+    <sub>[#123929](https://github.com/flutter/flutter/pull/123929) merged on April 10, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123929) over 1 week, 56 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Mark android_semantics_integration_test as flaky
     <sub>[#124638](https://github.com/flutter/flutter/pull/124638) merged on April 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124638) over 43 minutes, 1 addition and 0 deletions in 1 file</sub>
@@ -121,13 +125,9 @@
     <sub>[#124296](https://github.com/flutter/flutter/pull/124296) merged on April 10, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124296) over 4 days, 102 additions and 18 deletions in 8 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
-* **[luckysmg](https://github.com/luckysmg)** &mdash; [Text Input] Only unfocus when receive connectionClosed on platform except web
-    <sub>[#123929](https://github.com/flutter/flutter/pull/123929) merged on April 10, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123929) over 1 week, 56 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
-
-* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux firebase_abstract_method_smoke_test to be flaky
-    <sub>[#124692](https://github.com/flutter/flutter/pull/124692) merged on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124692) over 2 hours, 1 addition and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; flutter_tools: Flutter Web CLI cleanup
+    <sub>[#124564](https://github.com/flutter/flutter/pull/124564) merged on April 12, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/124564) over 22 hours, 71 additions and 80 deletions in 8 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_samsung_s10 new_gallery_impeller__transition_perf to be flaky
     <sub>[#124694](https://github.com/flutter/flutter/pull/124694) merged on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124694) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
@@ -136,6 +136,10 @@
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_android new_gallery_impeller__transition_perf to be flaky
     <sub>[#124700](https://github.com/flutter/flutter/pull/124700) merged on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124700) over 54 minutes, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux firebase_abstract_method_smoke_test to be flaky
+    <sub>[#124692](https://github.com/flutter/flutter/pull/124692) merged on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124692) over 2 hours, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "[integration_test] upgrade androidx test to 1.4.0"
     <sub>[#124644](https://github.com/flutter/flutter/pull/124644) merged on April 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124644) over 29 minutes, 126 additions and 143 deletions in 24 files</sub>
