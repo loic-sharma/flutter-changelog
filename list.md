@@ -4,7 +4,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-41 commits.
+42 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Refactor `SliverAppBar.medium` & `SliverAppBar.large` to fix several issues
     <sub>[#122542](https://github.com/flutter/flutter/pull/122542) merged on April 13, 2023 &mdash; **Large:** [34 comments](https://github.com/flutter/flutter/pull/122542) over 1 month, 921 additions and 428 deletions in 4 files</sub>
@@ -62,13 +62,17 @@
     <sub>[#124337](https://github.com/flutter/flutter/pull/124337) merged on April 10, 2023 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/124337) over 4 days, 238 additions and 0 deletions in 5 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove the old canvaskit artifacts to not confuse the web runner.
-    <sub>[#124641](https://github.com/flutter/flutter/pull/124641) merged on April 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124641) over 16 hours, 58 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
-
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; `SemanticsFlag`/`SemanticsAction` cleanup (part 4)
     <sub>[#123329](https://github.com/flutter/flutter/pull/123329) merged on April 12, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/123329) over 2 weeks, 30 additions and 42 deletions in 6 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; i123643 print java version gradle
+    <sub>[#123644](https://github.com/flutter/flutter/pull/123644) merged on April 13, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/123644) over 2 weeks, 106 additions and 3 deletions in 4 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Greg Price](https://github.com/gnprice), [gmackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove the old canvaskit artifacts to not confuse the web runner.
+    <sub>[#124641](https://github.com/flutter/flutter/pull/124641) merged on April 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124641) over 16 hours, 58 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Micael Cid](https://github.com/micaelcid)** &mdash; [integration_test] upgrade androidx test to 1.4.0
     <sub>[#122437](https://github.com/flutter/flutter/pull/122437) merged on April 11, 2023 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/122437) over 1 month, 143 additions and 126 deletions in 24 files</sub>
@@ -102,10 +106,6 @@
     <sub>[#123827](https://github.com/flutter/flutter/pull/123827) merged on April 13, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123827) over 1 week, 16 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Remove deprecations from TextSelectionHandleControls instances
-    <sub>[#124611](https://github.com/flutter/flutter/pull/124611) merged on April 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124611) over 5 hours, 13 additions and 16 deletions in 4 files</sub>
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Implement "iterations" directive for customer tests
     <sub>[#124541](https://github.com/flutter/flutter/pull/124541) merged on April 11, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124541) over 7 hours, 23 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
@@ -114,13 +114,13 @@
     <sub>[#124512](https://github.com/flutter/flutter/pull/124512) merged on April 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124512) over 3 hours, 116 additions and 116 deletions in 56 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Remove deprecations from TextSelectionHandleControls instances
+    <sub>[#124611](https://github.com/flutter/flutter/pull/124611) merged on April 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124611) over 5 hours, 13 additions and 16 deletions in 4 files</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
 * **[luckysmg](https://github.com/luckysmg)** &mdash; [Text Input] Only unfocus when receive connectionClosed on platform except web
     <sub>[#123929](https://github.com/flutter/flutter/pull/123929) merged on April 10, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123929) over 1 week, 56 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
-
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Set multiple tests as non flaky.
-    <sub>[#124604](https://github.com/flutter/flutter/pull/124604) merged on April 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124604) over 3 hours, 0 additions and 8 deletions in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Debounce the proxied connection over proxied devices.
     <sub>[#124540](https://github.com/flutter/flutter/pull/124540) merged on April 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124540) over 4 hours, 241 additions and 2 deletions in 4 files</sub>
@@ -138,6 +138,10 @@
     <sub>[#124564](https://github.com/flutter/flutter/pull/124564) merged on April 12, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/124564) over 22 hours, 71 additions and 80 deletions in 8 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
+* **[keyonghan](https://github.com/keyonghan)** &mdash; Mark android_semantics_integration_test as flaky
+    <sub>[#124638](https://github.com/flutter/flutter/pull/124638) merged on April 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124638) over 43 minutes, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 * **[htoor3](https://github.com/htoor3)** &mdash; [web] - fix text editing integration tests for new DOM structure
     <sub>[#124299](https://github.com/flutter/flutter/pull/124299) merged on April 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124299) over 4 days, 7 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
@@ -146,17 +150,21 @@
     <sub>[#124415](https://github.com/flutter/flutter/pull/124415) merged on April 10, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/124415) over 2 days, 216 additions and 45 deletions in 5 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [pdblasi-google](https://github.com/pdblasi-google)</sub>
 
-* **[keyonghan](https://github.com/keyonghan)** &mdash; Mark android_semantics_integration_test as flaky
-    <sub>[#124638](https://github.com/flutter/flutter/pull/124638) merged on April 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124638) over 43 minutes, 1 addition and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+* **[Rydmike](https://github.com/rydmike)** &mdash; Add Mike Rydstrom to AUTHORS
+    <sub>[#124561](https://github.com/flutter/flutter/pull/124561) merged on April 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124561) over 20 hours, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add support to the flutter tool to compile against the skwasm renderer
     <sub>[#124296](https://github.com/flutter/flutter/pull/124296) merged on April 10, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124296) over 4 days, 102 additions and 18 deletions in 8 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
-* **[Rydmike](https://github.com/rydmike)** &mdash; Add Mike Rydstrom to AUTHORS
-    <sub>[#124561](https://github.com/flutter/flutter/pull/124561) merged on April 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124561) over 20 hours, 1 addition and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Set multiple tests as non flaky.
+    <sub>[#124604](https://github.com/flutter/flutter/pull/124604) merged on April 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124604) over 3 hours, 0 additions and 8 deletions in 1 file</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_samsung_s10 new_gallery_impeller__transition_perf to be flaky
+    <sub>[#124694](https://github.com/flutter/flutter/pull/124694) merged on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124694) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_android new_gallery_impeller__transition_perf to be flaky
     <sub>[#124700](https://github.com/flutter/flutter/pull/124700) merged on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124700) over 54 minutes, 1 addition and 0 deletions in 1 file</sub>
@@ -165,10 +173,6 @@
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux firebase_abstract_method_smoke_test to be flaky
     <sub>[#124692](https://github.com/flutter/flutter/pull/124692) merged on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124692) over 2 hours, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
-
-* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_samsung_s10 new_gallery_impeller__transition_perf to be flaky
-    <sub>[#124694](https://github.com/flutter/flutter/pull/124694) merged on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124694) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "[integration_test] upgrade androidx test to 1.4.0"
     <sub>[#124644](https://github.com/flutter/flutter/pull/124644) merged on April 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124644) over 29 minutes, 126 additions and 143 deletions in 24 files</sub>
@@ -1858,7 +1862,7 @@
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Aman Negi](https://github.com/AmanNegi)** &mdash; [shared_preferences] Ports SharedPreferencesAndroid to Pigeon
-    <sub>[#3321](https://github.com/flutter/packages/pull/3321) merged on April 13, 2023 &mdash; **Extra large:** [73 comments](https://github.com/flutter/packages/pull/3321) over 1 month, 1347 additions and 445 deletions in 12 files</sub>
+    <sub>[#3321](https://github.com/flutter/packages/pull/3321) merged on April 13, 2023 &mdash; **Extra large:** [74 comments](https://github.com/flutter/packages/pull/3321) over 1 month, 1347 additions and 445 deletions in 12 files</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Daniele Cambi](https://github.com/dancamdev)** &mdash; [go_router_builder] Adds support for required $extra parameter
