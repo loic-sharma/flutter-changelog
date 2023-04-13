@@ -920,7 +920,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update some more uses of the deprecated Skia SkImage::MakeFromBitmap API
     <sub>[#41041](https://github.com/flutter/engine/pull/41041) merged on April 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41041) over 7 minutes, 4 additions and 4 deletions in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 4e2f5b06898, roll buildroot to accommodate ntdll.lib change
     <sub>[#41035](https://github.com/flutter/engine/pull/41035) merged on April 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41035) over 41 minutes, 23 additions and 17 deletions in 2 files</sub>
