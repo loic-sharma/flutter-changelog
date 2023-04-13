@@ -840,7 +840,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Fix issues in path polyline generation.
     <sub>[#40975](https://github.com/flutter/engine/pull/40975) merged on April 10, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/40975) over 3 days, 406 additions and 60 deletions in 7 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] convert most filters to utilize entities instead of subpasses
     <sub>[#40973](https://github.com/flutter/engine/pull/40973) merged on April 11, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/40973) over 4 days, 389 additions and 295 deletions in 16 files</sub>
@@ -920,7 +920,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update some more uses of the deprecated Skia SkImage::MakeFromBitmap API
     <sub>[#41041](https://github.com/flutter/engine/pull/41041) merged on April 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41041) over 7 minutes, 4 additions and 4 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 4e2f5b06898, roll buildroot to accommodate ntdll.lib change
     <sub>[#41035](https://github.com/flutter/engine/pull/41035) merged on April 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41035) over 41 minutes, 23 additions and 17 deletions in 2 files</sub>
@@ -1281,7 +1281,7 @@
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "[web] remove obsolete object caches; simplify native object management"
     <sub>[#40937](https://github.com/flutter/engine/pull/40937) merged on April 5, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/40937) over 53 minutes, 772 additions and 559 deletions in 13 files</sub>
-    <sub>Reviewed by: [Xilai Zhang](https://github.com/XilaiZhang), [Yegor](https://github.com/yjbanov)</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Xilai Zhang](https://github.com/XilaiZhang)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "[web] remove obsolete object caches; simplify native object management"
     <sub>[#40882](https://github.com/flutter/engine/pull/40882) merged on April 3, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/40882) over 3 hours, 770 additions and 557 deletions in 13 files</sub>
@@ -1479,7 +1479,7 @@
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove redundant TargetPlatformNeedsSL.
     <sub>[#40857](https://github.com/flutter/engine/pull/40857) merged on April 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40857) over 1 hour, 55 additions and 86 deletions in 6 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] migrate Gaussian shaders to half precision.
     <sub>[#40752](https://github.com/flutter/engine/pull/40752) merged on March 29, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/40752) over 13 hours, 202 additions and 186 deletions in 9 files</sub>
@@ -1867,7 +1867,7 @@
 
 * **[Harish Anbalagan](https://github.com/Harishwarrior)** &mdash; [flutter_adaptive_scaffold] : Add groupAlignment parameter to standardNavigationRail
     <sub>[#3673](https://github.com/flutter/packages/pull/3673) merged on April 10, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3673) over 6 hours, 51 additions and 1 deletion in 4 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 4b1264501234 to f72efea43c30 (3 revisions)
     <sub>[#3696](https://github.com/flutter/packages/pull/3696) merged on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3696) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
