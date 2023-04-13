@@ -1802,7 +1802,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-14 commits.
+15 commits.
 
 * **[Jakub Walusiak](https://github.com/SynSzakala)** &mdash; [in_app_purchase_android] Implement `BillingClient` connection management and introduce `BillingClientManager`<br />
     <sub>[#3303](https://github.com/flutter/packages/pull/3303) merged on April 10, 2023 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/3303) over 1 month, 423 additions and 80 deletions in 13 files</sub><br />
@@ -1811,6 +1811,10 @@
 * **[Daniele Cambi](https://github.com/dancamdev)** &mdash; [go_router_builder] Adds support for required $extra parameter<br />
     <sub>[#3627](https://github.com/flutter/packages/pull/3627) merged on April 11, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/3627) over 1 week, 250 additions and 24 deletions in 8 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] [webview_flutter_wkwebview] Adds support for `PlatformNavigationDelegate.onUrlChange`<br />
+    <sub>[#3653](https://github.com/flutter/packages/pull/3653) merged on April 12, 2023 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/3653) over 6 days, 2326 additions and 1216 deletions in 45 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Convert macOS to Pigeon<br />
     <sub>[#3686](https://github.com/flutter/packages/pull/3686) merged on April 12, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/3686) over 12 hours, 524 additions and 278 deletions in 10 files</sub><br />
@@ -1887,7 +1891,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Enable warnings as errors, and all warnings, for Android lint<br />
-    <sub>[#3648](https://github.com/flutter/packages/pull/3648) merged on April 7, 2023 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/3648) over 2 days, 13996 additions and 309 deletions in 32 files</sub><br />
+    <sub>[#3648](https://github.com/flutter/packages/pull/3648) merged on April 7, 2023 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/3648) over 2 days, 13996 additions and 309 deletions in 32 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Removes unused field `WebView.useHybridComposition` and suppress Java `ViewConstructor` lint<br />
