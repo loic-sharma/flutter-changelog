@@ -1543,7 +1543,7 @@
 
 * **[Harry Terkelsen](https://github.com/hterkelsen)** &mdash; Roll buildroot to build CanvasKit for speed instead of code size
     <sub>[#40737](https://github.com/flutter/engine/pull/40737) merged on March 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/40737) over 58 minutes, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Yegor](https://github.com/yjbanov)</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Eliminate explicit main window init()
     <sub>[#40695](https://github.com/flutter/engine/pull/40695) merged on March 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40695) over 49 minutes, 1 addition and 1 deletion in 1 file</sub>
@@ -1814,7 +1814,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-15 commits.
+16 commits.
 
 * **[Jakub Walusiak](https://github.com/SynSzakala)** &mdash; [in_app_purchase_android] Implement `BillingClient` connection management and introduce `BillingClientManager`
     <sub>[#3303](https://github.com/flutter/packages/pull/3303) merged on April 10, 2023 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/3303) over 1 month, 423 additions and 80 deletions in 13 files</sub>
@@ -1849,6 +1849,10 @@
     <sub>[#3664](https://github.com/flutter/packages/pull/3664) merged on April 12, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3664) over 4 days, 86 additions and 3 deletions in 5 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [John Ryan](https://github.com/johnpryan)</sub>
 
+* **[GP4cK](https://github.com/GP4cK)** &mdash; [go_router_builder] Use only one .where()
+    <sub>[#3698](https://github.com/flutter/packages/pull/3698) merged on April 13, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3698) over 16 hours, 3 additions and 5 deletions in 1 file</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [John Ryan](https://github.com/johnpryan), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Fix Android Java warnings
     <sub>[#3690](https://github.com/flutter/packages/pull/3690) merged on April 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3690) over 1 day, 31 additions and 172 deletions in 8 files</sub>
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
@@ -1867,7 +1871,7 @@
 
 * **[Harish Anbalagan](https://github.com/Harishwarrior)** &mdash; [flutter_adaptive_scaffold] : Add groupAlignment parameter to standardNavigationRail
     <sub>[#3673](https://github.com/flutter/packages/pull/3673) merged on April 10, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3673) over 6 hours, 51 additions and 1 deletion in 4 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Justin McCandless](https://github.com/justinmc)</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 4b1264501234 to f72efea43c30 (3 revisions)
     <sub>[#3696](https://github.com/flutter/packages/pull/3696) merged on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3696) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
