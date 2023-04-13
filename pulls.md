@@ -75,5 +75,5 @@
     <sub>[#124743](https://github.com/flutter/flutter/pull/124743) opened on on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124743) 58 additions and 1 deletion in 3 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; flutter-tool: enum cleanup<br />
-    <sub>[#124760](https://github.com/flutter/flutter/pull/124760) opened on on April 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/124760) 330 additions and 380 deletions in 43 files</sub><br />
+    <sub>[#124760](https://github.com/flutter/flutter/pull/124760) opened on on April 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/124760) 328 additions and 379 deletions in 43 files</sub><br />
 
