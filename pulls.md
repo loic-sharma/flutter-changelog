@@ -81,7 +81,7 @@
     <sub>[#124797](https://github.com/flutter/flutter/pull/124797) opened on on April 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124797) 36 additions and 0 deletions in 3 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [CupertinoListSection] adds new property separatorColor<br />
-    <sub>[#124803](https://github.com/flutter/flutter/pull/124803) opened on on April 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124803) 56 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#124803](https://github.com/flutter/flutter/pull/124803) opened on on April 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124803) 55 additions and 1 deletion in 2 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused getRootRenderObject and getSelectedRenderObject service extensions<br />
     <sub>[#124805](https://github.com/flutter/flutter/pull/124805) opened on on April 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124805) 0 additions and 58 deletions in 2 files</sub><br />
