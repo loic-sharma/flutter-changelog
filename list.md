@@ -928,7 +928,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update some more uses of the deprecated Skia SkImage::MakeFromBitmap API
     <sub>[#41041](https://github.com/flutter/engine/pull/41041) merged on April 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41041) over 7 minutes, 4 additions and 4 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 4e2f5b06898, roll buildroot to accommodate ntdll.lib change
     <sub>[#41035](https://github.com/flutter/engine/pull/41035) merged on April 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41035) over 41 minutes, 23 additions and 17 deletions in 2 files</sub>
@@ -1024,7 +1024,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Move `TextRenderContext::Create` symbol into the text backend
     <sub>[#41067](https://github.com/flutter/engine/pull/41067) merged on April 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41067) over 10 hours, 6 additions and 8 deletions in 2 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Add docs on how to debug global generators.
     <sub>[#41102](https://github.com/flutter/engine/pull/41102) merged on April 12, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/41102) over 14 hours, 113 additions and 110 deletions in 1 file</sub>
@@ -1822,7 +1822,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-16 commits.
+17 commits.
 
 * **[Jakub Walusiak](https://github.com/SynSzakala)** &mdash; [in_app_purchase_android] Implement `BillingClient` connection management and introduce `BillingClientManager`
     <sub>[#3303](https://github.com/flutter/packages/pull/3303) merged on April 10, 2023 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/3303) over 1 month, 423 additions and 80 deletions in 13 files</sub>
@@ -1831,6 +1831,10 @@
 * **[Daniele Cambi](https://github.com/dancamdev)** &mdash; [go_router_builder] Adds support for required $extra parameter
     <sub>[#3627](https://github.com/flutter/packages/pull/3627) merged on April 11, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/3627) over 1 week, 250 additions and 24 deletions in 8 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Fix Android lint warnings
+    <sub>[#3675](https://github.com/flutter/packages/pull/3675) merged on April 13, 2023 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/3675) over 3 days, 333 additions and 4357 deletions in 36 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] [webview_flutter_wkwebview] Adds support for `PlatformNavigationDelegate.onUrlChange`
     <sub>[#3653](https://github.com/flutter/packages/pull/3653) merged on April 12, 2023 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/3653) over 6 days, 2326 additions and 1216 deletions in 45 files</sub>
