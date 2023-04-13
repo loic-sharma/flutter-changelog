@@ -78,5 +78,5 @@
     <sub>[#124760](https://github.com/flutter/flutter/pull/124760) opened on on April 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/124760) 327 additions and 378 deletions in 43 files</sub><br />
 
 * **[Gayathri Devi Srinivasan](https://github.com/GayathrideviGA)** &mdash; [Material 3] Hide check mark in ChoiceChip<br />
-    <sub>[#124779](https://github.com/flutter/flutter/pull/124779) opened on on April 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124779) 89 additions and 29 deletions in 2 files</sub><br />
+    <sub>[#124779](https://github.com/flutter/flutter/pull/124779) opened on on April 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124779) 85 additions and 27 deletions in 2 files</sub><br />
 
