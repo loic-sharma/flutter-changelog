@@ -925,7 +925,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Keep a reference to BlitPassGLES in the EncodeCommands lambda to prevent use-after-free<br />
     <sub>[#41100](https://github.com/flutter/engine/pull/41100) merged on April 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/41100) over 14 hours, 9 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:canvaskit] move path API to UniqueRef<br />
     <sub>[#41136](https://github.com/flutter/engine/pull/41136) merged on April 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41136) over 2 hours, 46 additions and 145 deletions in 4 files</sub><br />
