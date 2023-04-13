@@ -86,3 +86,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused getRootRenderObject and getSelectedRenderObject service extensions<br />
     <sub>[#124805](https://github.com/flutter/flutter/pull/124805) opened on on April 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124805) 0 additions and 58 deletions in 2 files</sub><br />
 
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [CP][ci.yaml] Disable packaging_test on release candidates (#124712)<br />
+    <sub>[#124814](https://github.com/flutter/flutter/pull/124814) opened on on April 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124814) 16 additions and 0 deletions in 1 file</sub><br />
+
