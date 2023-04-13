@@ -1871,7 +1871,7 @@
 <summary>28 commits...</summary>
 
 * **[GP4cK](https://github.com/GP4cK)** &mdash; [go_router_builder] Add ShellRoute support to go_router_builder<br />
-    <sub>[#3439](https://github.com/flutter/packages/pull/3439) merged on April 5, 2023 &mdash; **Large:** [64 comments](https://github.com/flutter/packages/pull/3439) over 3 weeks, 730 additions and 57 deletions in 17 files</sub><br />
+    <sub>[#3439](https://github.com/flutter/packages/pull/3439) merged on April 5, 2023 &mdash; **Large:** [67 comments](https://github.com/flutter/packages/pull/3439) over 3 weeks, 730 additions and 57 deletions in 17 files</sub><br />
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Dor Klein](https://github.com/dorklein), [alanchan-dev](https://github.com/alanchan-dev), [John Ryan](https://github.com/johnpryan), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[maRci002](https://github.com/maRci002)** &mdash; [video_player] synchronize isPlaying state<br />
