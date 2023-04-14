@@ -80,3 +80,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; [date_picker] [date_range_picker] add properties to change switch-to icons<br />
     <sub>[#124881](https://github.com/flutter/flutter/pull/124881) opened on on April 14, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/124881) 295 additions and 6 deletions in 3 files</sub><br />
 
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Update usage of standalone`pub` executable in flutter_tools testing docs<br />
+    <sub>[#124898](https://github.com/flutter/flutter/pull/124898) opened on on April 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124898) 1 addition and 1 deletion in 1 file</sub><br />
+
