@@ -1964,7 +1964,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Fix Android Java version issue
-    <sub>[#3712](https://github.com/flutter/packages/pull/3712) merged on April 14, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3712) over 6 hours, 10 additions and 1 deletion in 3 files</sub>
+    <sub>[#3712](https://github.com/flutter/packages/pull/3712) merged on April 14, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3712) over 6 hours, 10 additions and 1 deletion in 3 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] [webview_flutter_wkwebview] Adds support for `PlatformNavigationDelegate.onUrlChange`
