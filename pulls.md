@@ -74,9 +74,6 @@
 * **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Added 2 new features to bottom sheet SafeArea Open and close SafeArea…<br />
     <sub>[#124786](https://github.com/flutter/flutter/pull/124786) opened on on April 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124786) 9 additions and 1 deletion in 1 file</sub><br />
 
-* **[Tirth](https://github.com/piedcipher)** &mdash; [CupertinoListSection] adds new property separatorColor<br />
-    <sub>[#124803](https://github.com/flutter/flutter/pull/124803) opened on on April 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124803) 55 additions and 1 deletion in 2 files</sub><br />
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused getRootRenderObject and getSelectedRenderObject service extensions<br />
     <sub>[#124805](https://github.com/flutter/flutter/pull/124805) opened on on April 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124805) 0 additions and 58 deletions in 2 files</sub><br />
 
