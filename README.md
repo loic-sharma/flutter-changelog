@@ -1855,7 +1855,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-18 commits.
+19 commits.
 
 * **[Jakub Walusiak](https://github.com/SynSzakala)** &mdash; [in_app_purchase_android] Implement `BillingClient` connection management and introduce `BillingClientManager`<br />
     <sub>[#3303](https://github.com/flutter/packages/pull/3303) merged on April 10, 2023 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/3303) over 1 month, 423 additions and 80 deletions in 13 files</sub><br />
@@ -1897,6 +1897,10 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [go_router]Show ShellRoute's routes in debug log<br />
     <sub>[#3664](https://github.com/flutter/packages/pull/3664) merged on April 12, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3664) over 4 days, 86 additions and 3 deletions in 5 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [John Ryan](https://github.com/johnpryan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Remove Android lint baseline<br />
+    <sub>[#3707](https://github.com/flutter/packages/pull/3707) merged on April 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3707) over 5 hours, 0 additions and 126 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[GP4cK](https://github.com/GP4cK)** &mdash; [go_router_builder] Use only one .where()<br />
     <sub>[#3698](https://github.com/flutter/packages/pull/3698) merged on April 13, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3698) over 16 hours, 3 additions and 5 deletions in 1 file</sub><br />
