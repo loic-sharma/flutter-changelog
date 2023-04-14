@@ -74,9 +74,6 @@
 * **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Added 2 new features to bottom sheet SafeArea Open and close SafeArea…<br />
     <sub>[#124786](https://github.com/flutter/flutter/pull/124786) opened on on April 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124786) 9 additions and 1 deletion in 1 file</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused getRootRenderObject and getSelectedRenderObject service extensions<br />
-    <sub>[#124805](https://github.com/flutter/flutter/pull/124805) opened on on April 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124805) 0 additions and 58 deletions in 2 files</sub><br />
-
 * **[Gayathri Devi Srinivasan](https://github.com/GayathrideviGA)** &mdash; [Material 3] Chips showCheckmark from theme being ignored<br />
     <sub>[#124851](https://github.com/flutter/flutter/pull/124851) opened on on April 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124851) 11 additions and 3 deletions in 2 files</sub><br />
 
