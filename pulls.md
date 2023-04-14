@@ -71,7 +71,7 @@
 * **[9oya](https://github.com/9oya)** &mdash; Implement CheckmarkableChipAttributes on ChoiceChip<br />
     <sub>[#124743](https://github.com/flutter/flutter/pull/124743) opened on on April 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124743) 58 additions and 1 deletion in 3 files</sub><br />
 
-* **[Gayathri Devi Srinivasan](https://github.com/GayathrideviGA)** &mdash; [Material 3] Hide check mark in ChoiceChip<br />
+* **[Gayathri Devi Srinivasan](https://github.com/GayathrideviGA)** &mdash; [Material 3] Chips showCheckmark from theme being ignored #119163<br />
     <sub>[#124779](https://github.com/flutter/flutter/pull/124779) opened on on April 13, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124779) 11 additions and 3 deletions in 2 files</sub><br />
 
 * **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Added 2 new features to bottom sheet SafeArea Open and close SafeArea…<br />
