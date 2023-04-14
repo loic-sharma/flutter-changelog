@@ -43,7 +43,7 @@
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; flutter-tool: enum cleanup<br />
-    <sub>[#124760](https://github.com/flutter/flutter/pull/124760) merged on April 14, 2023 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/124760) over 23 hours, 335 additions and 381 deletions in 43 files</sub><br />
+    <sub>[#124760](https://github.com/flutter/flutter/pull/124760) merged on April 14, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/124760) over 23 hours, 335 additions and 381 deletions in 43 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Fix gen_date_localizations script and regenerate<br />
