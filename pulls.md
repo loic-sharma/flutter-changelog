@@ -77,3 +77,6 @@
 * **[Gayathri Devi Srinivasan](https://github.com/GayathrideviGA)** &mdash; [Material 3] Chips showCheckmark from theme being ignored<br />
     <sub>[#124851](https://github.com/flutter/flutter/pull/124851) opened on on April 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124851) 11 additions and 3 deletions in 2 files</sub><br />
 
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Remove reference to package:js<br />
+    <sub>[#124879](https://github.com/flutter/flutter/pull/124879) opened on on April 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124879) 2 additions and 5 deletions in 4 files</sub><br />
+
