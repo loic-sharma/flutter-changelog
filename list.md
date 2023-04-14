@@ -974,7 +974,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Do not run mac unit tests on macmini7,1
-    <sub>[#41203](https://github.com/flutter/engine/pull/41203) merged on April 14, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/41203) over 3 hours, 2 additions and 0 deletions in 1 file</sub>
+    <sub>[#41203](https://github.com/flutter/engine/pull/41203) merged on April 14, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/41203) over 3 hours, 2 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Macmini8,1 for another target that runs host tests
@@ -1945,7 +1945,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-19 commits.
+21 commits.
 
 * **[Jakub Walusiak](https://github.com/SynSzakala)** &mdash; [in_app_purchase_android] Implement `BillingClient` connection management and introduce `BillingClientManager`
     <sub>[#3303](https://github.com/flutter/packages/pull/3303) merged on April 10, 2023 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/3303) over 1 month, 423 additions and 80 deletions in 13 files</sub>
@@ -1963,6 +1963,10 @@
     <sub>[#3675](https://github.com/flutter/packages/pull/3675) merged on April 13, 2023 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/3675) over 3 days, 333 additions and 4357 deletions in 36 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Fix Android Java version issue
+    <sub>[#3712](https://github.com/flutter/packages/pull/3712) merged on April 14, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3712) over 6 hours, 10 additions and 1 deletion in 3 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] [webview_flutter_wkwebview] Adds support for `PlatformNavigationDelegate.onUrlChange`
     <sub>[#3653](https://github.com/flutter/packages/pull/3653) merged on April 12, 2023 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/3653) over 6 days, 2326 additions and 1216 deletions in 45 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
@@ -1975,6 +1979,10 @@
     <sub>[#3669](https://github.com/flutter/packages/pull/3669) merged on April 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3669) over 7 hours, 6 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.google.android.gms:play-services-auth&package-manager=gradle&previous-version=20.4.1&new-version=20.5.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[Andrei Sas](https://github.com/andreisas06)** &mdash; [image_picker][android] Non-bitmap images now return path instead of null
+    <sub>[#3590](https://github.com/flutter/packages/pull/3590) merged on April 14, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3590) over 2 weeks, 60 additions and 6 deletions in 9 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Ahmed Ashour](https://github.com/asashour)** &mdash; [in_app_purchase] Prepare for `NULLABLE_ARGUMENT_TO_NON_NULL_TYPE`
     <sub>[#3275](https://github.com/flutter/packages/pull/3275) merged on April 11, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3275) over 1 month, 9 additions and 3 deletions in 3 files</sub>
