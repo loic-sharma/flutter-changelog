@@ -83,3 +83,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused getRootRenderObject and getSelectedRenderObject service extensions<br />
     <sub>[#124805](https://github.com/flutter/flutter/pull/124805) opened on on April 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124805) 0 additions and 58 deletions in 2 files</sub><br />
 
+* **[xubaolin](https://github.com/xu-baolin)** &mdash; `DropdownMenu.width` should support updating at runtime<br />
+    <sub>[#124847](https://github.com/flutter/flutter/pull/124847) opened on on April 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124847) 38 additions and 3 deletions in 2 files</sub><br />
+
