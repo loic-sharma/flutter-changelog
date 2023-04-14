@@ -78,7 +78,7 @@
     <sub>[#124851](https://github.com/flutter/flutter/pull/124851) opened on on April 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124851) 11 additions and 3 deletions in 2 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Remove reference to package:js<br />
-    <sub>[#124879](https://github.com/flutter/flutter/pull/124879) opened on on April 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124879) 2 additions and 5 deletions in 4 files</sub><br />
+    <sub>[#124879](https://github.com/flutter/flutter/pull/124879) opened on on April 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124879) 2 additions and 5 deletions in 4 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [date_picker] [date_range_picker] add properties to change switch-to icons<br />
     <sub>[#124881](https://github.com/flutter/flutter/pull/124881) opened on on April 14, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/124881) 295 additions and 6 deletions in 3 files</sub><br />
