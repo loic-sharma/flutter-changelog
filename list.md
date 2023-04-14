@@ -1961,7 +1961,7 @@
 
 ### April 8, 2023 to April 14, 2023
 
-21 commits.
+22 commits.
 
 * **[Jakub Walusiak](https://github.com/SynSzakala)** &mdash; [in_app_purchase_android] Implement `BillingClient` connection management and introduce `BillingClientManager`
     <sub>[#3303](https://github.com/flutter/packages/pull/3303) merged on April 10, 2023 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/3303) over 1 month, 423 additions and 80 deletions in 13 files</sub>
@@ -1975,12 +1975,16 @@
     <sub>[#3627](https://github.com/flutter/packages/pull/3627) merged on April 11, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/3627) over 1 week, 250 additions and 24 deletions in 8 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] [camera_android_camerax] Updates internal Java InstanceManager to only stop finalization callbacks when stopped
+    <sub>[#3571](https://github.com/flutter/packages/pull/3571) merged on April 14, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/3571) over 2 weeks, 271 additions and 269 deletions in 30 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
+
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Fix Android lint warnings
     <sub>[#3675](https://github.com/flutter/packages/pull/3675) merged on April 13, 2023 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/3675) over 3 days, 333 additions and 4357 deletions in 36 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Fix Android Java version issue
-    <sub>[#3712](https://github.com/flutter/packages/pull/3712) merged on April 14, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3712) over 6 hours, 10 additions and 1 deletion in 3 files</sub>
+    <sub>[#3712](https://github.com/flutter/packages/pull/3712) merged on April 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3712) over 6 hours, 10 additions and 1 deletion in 3 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] [webview_flutter_wkwebview] Adds support for `PlatformNavigationDelegate.onUrlChange`
