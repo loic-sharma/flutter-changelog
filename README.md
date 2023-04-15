@@ -892,14 +892,14 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>2 images...</summary>![image](https://user-images.githubusercontent.com/919017/231325526-a6f97a2b-07bc-4449-b06c-a5b364733f09.png)![image](https://user-images.githubusercontent.com/919017/231325620-2726354b-d3af-4979-a130-7b49dc67360c.png)</details></sub>
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Implement Gradient Shaders and Fragment Shaders in Skwasm<br />
+    <sub>[#41144](https://github.com/flutter/engine/pull/41144) merged on April 13, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/41144) over 20 hours, 1198 additions and 191 deletions in 26 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Check coverage after screen clip<br />
     <sub>[#41129](https://github.com/flutter/engine/pull/41129) merged on April 12, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/41129) over 3 hours, 26 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>1 image...</summary>![image](https://user-images.githubusercontent.com/919017/231572633-0e1e508d-5eb2-4cf6-a3bf-bdaa78dbb5c6.png)</details></sub>
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Implement Gradient Shaders and Fragment Shaders in Skwasm<br />
-    <sub>[#41144](https://github.com/flutter/engine/pull/41144) merged on April 13, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/41144) over 20 hours, 1198 additions and 191 deletions in 26 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Fix issues in path polyline generation.<br />
     <sub>[#40975](https://github.com/flutter/engine/pull/40975) merged on April 10, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/40975) over 3 days, 406 additions and 60 deletions in 7 files</sub><br />
