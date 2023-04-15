@@ -62,9 +62,6 @@
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; BottomAppBar doc: Fix doc about surfaceTintColor<br />
     <sub>[#124563](https://github.com/flutter/flutter/pull/124563) opened on on April 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124563) 10 additions and 4 deletions in 1 file</sub><br />
 
-* **[hangyu](https://github.com/hangyujin)** &mdash; Fix a null crash in SelectableRegion Widget <br />
-    <sub>[#124736](https://github.com/flutter/flutter/pull/124736) opened on on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124736) 33 additions and 2 deletions in 2 files</sub><br />
-
 * **[9oya](https://github.com/9oya)** &mdash; Implement CheckmarkableChipAttributes on ChoiceChip<br />
     <sub>[#124743](https://github.com/flutter/flutter/pull/124743) opened on on April 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124743) 58 additions and 1 deletion in 3 files</sub><br />
 
