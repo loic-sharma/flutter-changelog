@@ -80,3 +80,6 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Update usage of standalone`pub` executable in flutter_tools testing docs<br />
     <sub>[#124898](https://github.com/flutter/flutter/pull/124898) opened on on April 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124898) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Overall timing information in `TimelineSummary`, because existing metrics do not reflect real performance<br />
+    <sub>[#124905](https://github.com/flutter/flutter/pull/124905) opened on on April 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124905) 186 additions and 2 deletions in 2 files</sub><br />
+
