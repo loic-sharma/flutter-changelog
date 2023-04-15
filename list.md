@@ -974,7 +974,7 @@
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Fix arm64 floating-point test failure
-    <sub>[#41228](https://github.com/flutter/engine/pull/41228) merged on April 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41228) over 1 hour, 33 additions and 6 deletions in 1 file</sub>
+    <sub>[#41228](https://github.com/flutter/engine/pull/41228) merged on April 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41228) over 1 hour, 33 additions and 6 deletions in 1 file</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run the Mac impeller-cmake-example orchestrator on arm64
