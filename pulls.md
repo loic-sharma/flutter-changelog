@@ -83,3 +83,6 @@
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Overall timing information in `TimelineSummary`, because existing metrics do not reflect real performance<br />
     <sub>[#124905](https://github.com/flutter/flutter/pull/124905) opened on on April 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124905) 214 additions and 11 deletions in 2 files</sub><br />
 
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Allow users to provide route settings to `showMenu`<br />
+    <sub>[#124935](https://github.com/flutter/flutter/pull/124935) opened on on April 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124935) 3 additions and 0 deletions in 1 file</sub><br />
+
