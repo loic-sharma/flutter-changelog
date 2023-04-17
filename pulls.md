@@ -47,6 +47,9 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Fix style issues<br />
     <sub>[#122586](https://github.com/flutter/flutter/pull/122586) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122586) 4 additions and 8 deletions in 1 file</sub><br />
 
+* **[Nabeel Parkar](https://github.com/exaby73)** &mdash; Migrate new feature issue template to GitHub forms<br />
+    <sub>[#123682](https://github.com/flutter/flutter/pull/123682) opened on on March 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/123682) 53 additions and 49 deletions in 2 files</sub><br />
+
 * **[Tirth](https://github.com/piedcipher)** &mdash; [ExpansionPanelList] add materialGapSize property in ExpansionPanelList Widget<br />
     <sub>[#123971](https://github.com/flutter/flutter/pull/123971) opened on on April 2, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/123971) 96 additions and 2 deletions in 2 files</sub><br />
 
