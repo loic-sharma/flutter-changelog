@@ -1315,11 +1315,16 @@
 
 ### April 15, 2023 to April 21, 2023
 
-3 commits.
+4 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Add initial gradle validation command
     <sub>[#3715](https://github.com/flutter/packages/pull/3715) merged on April 17, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/packages/pull/3715) over 2 days, 362 additions and 6 deletions in 19 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump com.android.tools.build:gradle from 7.3.1 to 8.0.0 in /packages/pigeon/platform_tests/alternate_language_test_plugin/android
+    <sub>[#3727](https://github.com/flutter/packages/pull/3727) merged on April 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3727) over 10 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.3.1&new-version=8.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump com.android.tools.build:gradle from 7.3.1 to 8.0.0 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#3726](https://github.com/flutter/packages/pull/3726) merged on April 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3726) over 9 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -1419,7 +1424,7 @@
 
 * **[Harish Anbalagan](https://github.com/Harishwarrior)** &mdash; [flutter_adaptive_scaffold] : Add groupAlignment parameter to standardNavigationRail
     <sub>[#3673](https://github.com/flutter/packages/pull/3673) merged on April 10, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3673) over 6 hours, 51 additions and 1 deletion in 4 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Justin McCandless](https://github.com/justinmc)</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 4b1264501234 to f72efea43c30 (3 revisions)
     <sub>[#3696](https://github.com/flutter/packages/pull/3696) merged on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3696) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -1491,7 +1496,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.8.10 to 1.8.20 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#3623](https://github.com/flutter/packages/pull/3623) merged on April 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3623) over 8 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.8.10&new-version=1.8.20)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Skip flaky transparency test
