@@ -602,7 +602,12 @@
 
 ### April 15, 2023 to April 21, 2023
 
-5 commits.
+6 commits.
+
+* **[Akash Khunt](https://github.com/bastionkid)** &mdash; null check added to avoid NPE while calling FlutterView.detachFromFlutterEngine()<br />
+    <sub>[#41082](https://github.com/flutter/engine/pull/41082) merged on April 17, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/41082) over 6 days, 7 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Reid Baker](https://github.com/reidbaker), [gmackall](https://github.com/gmackall)</sub><br />
+    <sub><details><summary>7 images...</summary><img width="977" alt="1" src="https://user-images.githubusercontent.com/8373036/231222642-1596c77c-d127-476b-9bce-8ad2e9cd3639.png"><img width="962" alt="2" src="https://user-images.githubusercontent.com/8373036/231222672-016ee708-c310-49c8-8016-070b6057af7b.png"><img width="880" alt="3" src="https://user-images.githubusercontent.com/8373036/231241491-c47f5aa6-96e9-4c1f-b92e-7cfed67381e2.png"><img width="878" alt="7" src="https://user-images.githubusercontent.com/8373036/231241550-09908108-1747-4ec3-bc70-145446b86eae.png"><img width="905" alt="4" src="https://user-images.githubusercontent.com/8373036/231222702-5ee739f2-fd71-4e20-807d-e3786e6f27fc.png"><img width="902" alt="5" src="https://user-images.githubusercontent.com/8373036/231222719-2ea28157-bd62-45fe-89ef-dd41ee7b3cca.png"><img width="902" alt="6" src="https://user-images.githubusercontent.com/8373036/231222735-55b63911-6a2d-4967-8043-298f4d413f2a.png"></details></sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:canvaskit] migrate Paint API to UniqueRef<br />
     <sub>[#41230](https://github.com/flutter/engine/pull/41230) merged on April 17, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/41230) over 2 days, 242 additions and 198 deletions in 10 files</sub><br />
