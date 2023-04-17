@@ -74,11 +74,8 @@
 * **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Added 2 new features to bottom sheet SafeArea Open and close SafeArea…<br />
     <sub>[#124786](https://github.com/flutter/flutter/pull/124786) opened on on April 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124786) 9 additions and 1 deletion in 1 file</sub><br />
 
-* **[Gayathri Devi Srinivasan](https://github.com/GayathrideviGA)** &mdash; [Material 3] Chips showCheckmark from theme being ignored<br />
-    <sub>[#124851](https://github.com/flutter/flutter/pull/124851) opened on on April 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124851) 11 additions and 3 deletions in 2 files</sub><br />
-
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Remove reference to package:js<br />
-    <sub>[#124879](https://github.com/flutter/flutter/pull/124879) opened on on April 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124879) 2 additions and 5 deletions in 4 files</sub><br />
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Remove package:js/dart:js_interop conflicts<br />
+    <sub>[#124879](https://github.com/flutter/flutter/pull/124879) opened on on April 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124879) 3 additions and 3 deletions in 3 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [date_picker] [date_range_picker] add properties to change switch-to icons<br />
     <sub>[#124881](https://github.com/flutter/flutter/pull/124881) opened on on April 14, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/124881) 295 additions and 6 deletions in 3 files</sub><br />
@@ -91,7 +88,4 @@
 
 * **[IFLyer](https://github.com/IFLyer)** &mdash; add constructor SizedBox.width, SizedBox.height<br />
     <sub>[#124949](https://github.com/flutter/flutter/pull/124949) opened on on April 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124949) 14 additions and 0 deletions in 2 files</sub><br />
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Cp for gradle 8.0 support in flutter 3.7<br />
-    <sub>[#124990](https://github.com/flutter/flutter/pull/124990) opened on on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124990) 77 additions and 88 deletions in 6 files</sub><br />
 
