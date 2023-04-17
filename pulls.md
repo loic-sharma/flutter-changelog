@@ -89,3 +89,6 @@
 * **[IFLyer](https://github.com/IFLyer)** &mdash; add constructor SizedBox.width, SizedBox.height<br />
     <sub>[#124949](https://github.com/flutter/flutter/pull/124949) opened on on April 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124949) 14 additions and 0 deletions in 2 files</sub><br />
 
+* **[Alberto Azinar](https://github.com/AlbertoYabeda)** &mdash; improvement : removed required  kotlin dependency<br />
+    <sub>[#125002](https://github.com/flutter/flutter/pull/125002) opened on on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125002) 1 addition and 3 deletions in 1 file</sub><br />
+
