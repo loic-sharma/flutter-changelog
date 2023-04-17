@@ -74,9 +74,6 @@
 * **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Added 2 new features to bottom sheet SafeArea Open and close SafeArea…<br />
     <sub>[#124786](https://github.com/flutter/flutter/pull/124786) opened on on April 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124786) 9 additions and 1 deletion in 1 file</sub><br />
 
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Remove package:js/dart:js_interop conflicts<br />
-    <sub>[#124879](https://github.com/flutter/flutter/pull/124879) opened on on April 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124879) 3 additions and 3 deletions in 3 files</sub><br />
-
 * **[Tirth](https://github.com/piedcipher)** &mdash; [date_picker] [date_range_picker] add properties to change switch-to icons<br />
     <sub>[#124881](https://github.com/flutter/flutter/pull/124881) opened on on April 14, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/124881) 295 additions and 6 deletions in 3 files</sub><br />
 
