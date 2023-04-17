@@ -1308,7 +1308,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Fix Android Java version issue
-    <sub>[#3712](https://github.com/flutter/packages/pull/3712) merged on April 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3712) over 6 hours, 10 additions and 1 deletion in 3 files</sub>
+    <sub>[#3712](https://github.com/flutter/packages/pull/3712) merged on April 14, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/3712) over 6 hours, 10 additions and 1 deletion in 3 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Fix Android lint warnings
