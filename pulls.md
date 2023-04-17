@@ -77,14 +77,8 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; [date_picker] [date_range_picker] add properties to change switch-to icons<br />
     <sub>[#124881](https://github.com/flutter/flutter/pull/124881) opened on on April 14, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/124881) 295 additions and 6 deletions in 3 files</sub><br />
 
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Update usage of standalone`pub` executable in flutter_tools testing docs<br />
-    <sub>[#124898](https://github.com/flutter/flutter/pull/124898) opened on on April 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124898) 3 additions and 3 deletions in 2 files</sub><br />
-
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Allow users to provide route settings to `showMenu`<br />
     <sub>[#124935](https://github.com/flutter/flutter/pull/124935) opened on on April 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124935) 3 additions and 0 deletions in 1 file</sub><br />
-
-* **[IFLyer](https://github.com/IFLyer)** &mdash; add constructor SizedBox.width, SizedBox.height<br />
-    <sub>[#124949](https://github.com/flutter/flutter/pull/124949) opened on on April 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124949) 14 additions and 0 deletions in 2 files</sub><br />
 
 * **[Alberto Azinar](https://github.com/AlbertoYabeda)** &mdash; improvement : removed required  kotlin dependency<br />
     <sub>[#125002](https://github.com/flutter/flutter/pull/125002) opened on on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125002) 1 addition and 3 deletions in 1 file</sub><br />
