@@ -602,7 +602,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-4 commits.
+5 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:canvaskit] migrate Paint API to UniqueRef
     <sub>[#41230](https://github.com/flutter/engine/pull/41230) merged on April 17, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/41230) over 2 days, 242 additions and 198 deletions in 10 files</sub>
@@ -611,6 +611,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds AndroidSurfaceGLImpeller unit tests
     <sub>[#40979](https://github.com/flutter/engine/pull/40979) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40979) over 1 week, 119 additions and 25 deletions in 7 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; [Impeller] Make `DoMakeRasterSnapshot` output timeline event.
+    <sub>[#41197](https://github.com/flutter/engine/pull/41197) merged on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41197) over 3 days, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove ContentContextOptions declarations from AnonymousContents
     <sub>[#41256](https://github.com/flutter/engine/pull/41256) merged on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41256) over 22 hours, 0 additions and 5 deletions in 1 file</sub>
@@ -1337,7 +1341,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-4 commits.
+5 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Add initial gradle validation command
     <sub>[#3715](https://github.com/flutter/packages/pull/3715) merged on April 17, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/packages/pull/3715) over 2 days, 362 additions and 6 deletions in 19 files</sub>
@@ -1357,6 +1361,10 @@
     <sub>[#3725](https://github.com/flutter/packages/pull/3725) merged on April 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3725) over 9 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=io.mockk:mockk&package-manager=gradle&previous-version=1.13.4&new-version=1.13.5)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fixes a bug that go_router would crash if pageBuilder depends on InheritedWidgets.s.
+    <sub>[#3714](https://github.com/flutter/packages/pull/3714) merged on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3714) over 3 days, 50 additions and 3 deletions in 4 files</sub>
+    <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub>
 
 ### April 8, 2023 to April 14, 2023
 
