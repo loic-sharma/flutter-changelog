@@ -1406,7 +1406,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Enable warnings as errors, and all warnings, for Android lint<br />
-    <sub>[#3648](https://github.com/flutter/packages/pull/3648) merged on April 7, 2023 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/3648) over 2 days, 13996 additions and 309 deletions in 32 files</sub><br />
+    <sub>[#3648](https://github.com/flutter/packages/pull/3648) merged on April 7, 2023 &mdash; **Extra large:** [13 comments](https://github.com/flutter/packages/pull/3648) over 2 days, 13996 additions and 309 deletions in 32 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Removes unused field `WebView.useHybridComposition` and suppress Java `ViewConstructor` lint<br />
