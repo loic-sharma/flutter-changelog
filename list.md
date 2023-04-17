@@ -602,7 +602,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-9 commits.
+10 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [rotation_distortion] Use "delayed swap" solution to reduce rotation distortion
     <sub>[#40730](https://github.com/flutter/engine/pull/40730) merged on April 17, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40730) over 2 weeks, 150 additions and 20 deletions in 2 files</sub>
@@ -616,6 +616,10 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:canvaskit] migrate Paint API to UniqueRef
     <sub>[#41230](https://github.com/flutter/engine/pull/41230) merged on April 17, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/41230) over 2 days, 242 additions and 198 deletions in 10 files</sub>
     <sub>Reviewed by: [Harry Terkelsen](https://github.com/hterkelsen), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove 'Mac mac_unopt' in favor of Linux
+    <sub>[#41226](https://github.com/flutter/engine/pull/41226) merged on April 17, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/41226) over 2 days, 10 additions and 8 deletions in 2 files</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add debug ToString methods to render targets.
     <sub>[#41221](https://github.com/flutter/engine/pull/41221) merged on April 17, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/41221) over 3 days, 202 additions and 7 deletions in 11 files</sub>
