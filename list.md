@@ -584,11 +584,15 @@
 
 ### April 15, 2023 to April 21, 2023
 
-2 commits.
+3 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:canvaskit] migrate Paint API to UniqueRef
     <sub>[#41230](https://github.com/flutter/engine/pull/41230) merged on April 17, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/41230) over 2 days, 242 additions and 198 deletions in 10 files</sub>
     <sub>Reviewed by: [Harry Terkelsen](https://github.com/hterkelsen), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds AndroidSurfaceGLImpeller unit tests
+    <sub>[#40979](https://github.com/flutter/engine/pull/40979) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40979) over 1 week, 119 additions and 25 deletions in 7 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Migrate uses of deprecated SkImage->encodeToData
     <sub>[#41204](https://github.com/flutter/engine/pull/41204) merged on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41204) over 3 days, 17 additions and 9 deletions in 6 files</sub>
