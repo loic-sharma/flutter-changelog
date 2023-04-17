@@ -89,3 +89,6 @@
 * **[IFLyer](https://github.com/IFLyer)** &mdash; add constructor SizedBox.width, SizedBox.height<br />
     <sub>[#124949](https://github.com/flutter/flutter/pull/124949) opened on on April 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124949) 14 additions and 0 deletions in 2 files</sub><br />
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add an example for SearchBar<br />
+    <sub>[#124992](https://github.com/flutter/flutter/pull/124992) opened on on April 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124992) 129 additions and 3 deletions in 3 files</sub><br />
+
