@@ -618,7 +618,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-12 commits.
+13 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [rotation_distortion] Use "delayed swap" solution to reduce rotation distortion
     <sub>[#40730](https://github.com/flutter/engine/pull/40730) merged on April 17, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40730) over 2 weeks, 150 additions and 20 deletions in 2 files</sub>
@@ -632,6 +632,10 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:canvaskit] migrate Paint API to UniqueRef
     <sub>[#41230](https://github.com/flutter/engine/pull/41230) merged on April 17, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/41230) over 2 days, 242 additions and 198 deletions in 10 files</sub>
     <sub>Reviewed by: [Harry Terkelsen](https://github.com/hterkelsen), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; focus SkiaGPUObject wrappers on only those objects that need the protection
+    <sub>[#41237](https://github.com/flutter/engine/pull/41237) merged on April 17, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/41237) over 2 days, 244 additions and 251 deletions in 47 files</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll impeller-cmake-example to 58042bb24833a3cbd615ad082b1d17daef42d097
     <sub>[#41280](https://github.com/flutter/engine/pull/41280) merged on April 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41280) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
