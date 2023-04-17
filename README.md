@@ -4,7 +4,20 @@
 
 ### April 15, 2023 to April 21, 2023
 
-1 commits.
+4 commits.
+
+* **[Mubarak Bakarman](https://github.com/mub-pro)** &mdash; Customize color and thickness of connected lines in Stepper.dart<br />
+    <sub>[#122485](https://github.com/flutter/flutter/pull/122485) merged on April 17, 2023 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/122485) over 1 month, 117 additions and 11 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Daniël Roek](https://github.com/danielroek), [Dhruvin](https://github.com/DK070202), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub><details><summary>2 images...</summary><img src="https://user-images.githubusercontent.com/54718862/151957107-93aebd9e-9421-4188-8beb-cdc2f875c5f7.png" width="300px" /><img src="https://user-images.githubusercontent.com/54718862/151957736-4991b4e5-bc82-43bb-ae84-860a1323cf45.png" width="300px" /></details></sub>
+
+* **[hangyu](https://github.com/hangyujin)** &mdash; Fix a null crash in SelectableRegion Widget <br />
+    <sub>[#124736](https://github.com/flutter/flutter/pull/124736) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124736) over 4 days, 33 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Deprecates string for reorderable list in material_localizations<br />
+    <sub>[#124711](https://github.com/flutter/flutter/pull/124711) merged on April 17, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/124711) over 5 days, 24 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Remove token permissions for coverage.<br />
     <sub>[#124909](https://github.com/flutter/flutter/pull/124909) merged on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124909) over 2 days, 0 additions and 2 deletions in 1 file</sub><br />
@@ -584,7 +597,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-3 commits.
+4 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:canvaskit] migrate Paint API to UniqueRef<br />
     <sub>[#41230](https://github.com/flutter/engine/pull/41230) merged on April 17, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/41230) over 2 days, 242 additions and 198 deletions in 10 files</sub><br />
@@ -593,6 +606,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds AndroidSurfaceGLImpeller unit tests<br />
     <sub>[#40979](https://github.com/flutter/engine/pull/40979) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40979) over 1 week, 119 additions and 25 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove ContentContextOptions declarations from AnonymousContents<br />
+    <sub>[#41256](https://github.com/flutter/engine/pull/41256) merged on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41256) over 22 hours, 0 additions and 5 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Migrate uses of deprecated SkImage->encodeToData<br />
     <sub>[#41204](https://github.com/flutter/engine/pull/41204) merged on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41204) over 3 days, 17 additions and 9 deletions in 6 files</sub><br />
@@ -1323,7 +1340,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump com.android.tools.build:gradle from 7.3.1 to 8.0.0 in /packages/pigeon/platform_tests/alternate_language_test_plugin/android<br />
     <sub>[#3727](https://github.com/flutter/packages/pull/3727) merged on April 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3727) over 10 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.3.1&new-version=8.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump com.android.tools.build:gradle from 7.3.1 to 8.0.0 in /packages/pigeon/platform_tests/test_plugin/android<br />
@@ -1496,7 +1513,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.8.10 to 1.8.20 in /packages/pigeon/platform_tests/test_plugin/android<br />
     <sub>[#3623](https://github.com/flutter/packages/pull/3623) merged on April 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3623) over 8 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.8.10&new-version=1.8.20)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Skip flaky transparency test<br />

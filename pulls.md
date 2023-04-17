@@ -95,3 +95,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; When looking for JDK bundled with Android Studio, scan a list of well known locations rather than just one<br />
     <sub>[#124982](https://github.com/flutter/flutter/pull/124982) opened on on April 17, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/124982) 408 additions and 168 deletions in 12 files</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Cp for gradle 8.0 support in flutter 3.7<br />
+    <sub>[#124990](https://github.com/flutter/flutter/pull/124990) opened on on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124990) 8 additions and 2 deletions in 1 file</sub><br />
+
