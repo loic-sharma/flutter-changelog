@@ -602,7 +602,11 @@
 
 ### April 15, 2023 to April 21, 2023
 
-6 commits.
+7 commits.
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [rotation_distortion] Use "delayed swap" solution to reduce rotation distortion
+    <sub>[#40730](https://github.com/flutter/engine/pull/40730) merged on April 17, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40730) over 2 weeks, 150 additions and 20 deletions in 2 files</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Akash Khunt](https://github.com/bastionkid)** &mdash; null check added to avoid NPE while calling FlutterView.detachFromFlutterEngine()
     <sub>[#41082](https://github.com/flutter/engine/pull/41082) merged on April 17, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/41082) over 6 days, 7 additions and 2 deletions in 1 file</sub>
