@@ -571,9 +571,18 @@
 
 ## flutter/engine
 
+### April 15, 2023 to April 21, 2023
+
+1 commits.
+
+* **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Migrate uses of deprecated SkImage->encodeToData<br />
+    <sub>[#41204](https://github.com/flutter/engine/pull/41204) merged on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41204) over 3 days, 17 additions and 9 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
 ### April 8, 2023 to April 14, 2023
 
-95 commits.
+<details>
+<summary>95 commits...</summary>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Skwasm scene<br />
     <sub>[#40330](https://github.com/flutter/engine/pull/40330) merged on April 10, 2023 &mdash; **Extra large:** [50 comments](https://github.com/flutter/engine/pull/40330) over 3 weeks, 1412 additions and 159 deletions in 53 files</sub><br />
@@ -957,6 +966,8 @@
 * **[luckysmg](https://github.com/luckysmg)** &mdash; Reland [iOS] Send connectionClosed message when resignFirstResponder to ensure framework focus state is correct.<br />
     <sub>[#41022](https://github.com/flutter/engine/pull/41022) merged on April 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41022) over 14 hours, 30 additions and 4 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+</details>
 
 ### April 1, 2023 to April 7, 2023
 
