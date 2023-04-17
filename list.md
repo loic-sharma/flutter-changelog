@@ -1283,9 +1283,18 @@
 
 ## flutter/packages
 
+### April 15, 2023 to April 21, 2023
+
+1 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Add initial gradle validation command
+    <sub>[#3715](https://github.com/flutter/packages/pull/3715) merged on April 17, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/packages/pull/3715) over 2 days, 362 additions and 6 deletions in 19 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
 ### April 8, 2023 to April 14, 2023
 
-23 commits.
+<details>
+<summary>23 commits...</summary>
 
 * **[Jakub Walusiak](https://github.com/SynSzakala)** &mdash; [in_app_purchase_android] Implement `BillingClient` connection management and introduce `BillingClientManager`
     <sub>[#3303](https://github.com/flutter/packages/pull/3303) merged on April 10, 2023 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/3303) over 1 month, 423 additions and 80 deletions in 13 files</sub>
@@ -1379,6 +1388,8 @@
 * **[Braden Bagby](https://github.com/BradenBagby)** &mdash; [camera] Reland implementation of flip camera while recording. App facing changes
     <sub>[#3496](https://github.com/flutter/packages/pull/3496) merged on April 11, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3496) over 3 weeks, 129 additions and 53 deletions in 8 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+</details>
 
 ### April 1, 2023 to April 7, 2023
 
