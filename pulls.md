@@ -93,5 +93,5 @@
     <sub>[#124949](https://github.com/flutter/flutter/pull/124949) opened on on April 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124949) 14 additions and 0 deletions in 2 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; When looking for JDK bundled with Android Studio, scan a list of well known locations rather than just one<br />
-    <sub>[#124982](https://github.com/flutter/flutter/pull/124982) opened on on April 17, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/124982) 397 additions and 163 deletions in 11 files</sub><br />
+    <sub>[#124982](https://github.com/flutter/flutter/pull/124982) opened on on April 17, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/124982) 408 additions and 168 deletions in 12 files</sub><br />
 
