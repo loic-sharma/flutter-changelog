@@ -622,11 +622,16 @@
 
 ### April 15, 2023 to April 21, 2023
 
-14 commits.
+15 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [rotation_distortion] Use "delayed swap" solution to reduce rotation distortion<br />
     <sub>[#40730](https://github.com/flutter/engine/pull/40730) merged on April 17, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40730) over 2 weeks, 150 additions and 20 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove glyph pixel rounding during text frame conversion<br />
+    <sub>[#41285](https://github.com/flutter/engine/pull/41285) merged on April 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41285) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub><details><summary>2 images...</summary>![Screenshot 2023-04-17 at 6 36 20 PM](https://user-images.githubusercontent.com/919017/232647028-4a299138-e94b-4f0f-b675-3b8f9e0fbe1c.png)![Screenshot 2023-04-17 at 6 33 09 PM](https://user-images.githubusercontent.com/919017/232647004-c18ac7a1-8c43-414b-8d66-7fc58deeae77.png)</details></sub>
 
 * **[Akash Khunt](https://github.com/bastionkid)** &mdash; null check added to avoid NPE while calling FlutterView.detachFromFlutterEngine()<br />
     <sub>[#41082](https://github.com/flutter/engine/pull/41082) merged on April 17, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/41082) over 6 days, 7 additions and 2 deletions in 1 file</sub><br />
