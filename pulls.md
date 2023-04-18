@@ -2,6 +2,9 @@
 
 ## flutter/flutter
 
+* **[Tim Maffett](https://github.com/timmaffett)** &mdash; Fix Chip classes to respect iconTheme constructor param. fixes #111828<br />
+    <sub>[#112001](https://github.com/flutter/flutter/pull/112001) opened on on September 20, 2022 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/112001) 189 additions and 34 deletions in 10 files</sub><br />
+
 * **[林军华](https://github.com/JunhuaLin)** &mdash; Allow disabling SystemChrome.setApplicationSwitcherDescription for Title Widget<br />
     <sub>[#113143](https://github.com/flutter/flutter/pull/113143) opened on on October 8, 2022 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/113143) 76 additions and 7 deletions in 5 files</sub><br />
 
