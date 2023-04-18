@@ -83,9 +83,6 @@
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Add layer unique IDs to debug properties<br />
     <sub>[#125020](https://github.com/flutter/flutter/pull/125020) opened on on April 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125020) 39 additions and 2 deletions in 3 files</sub><br />
 
-* **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Continues to listen to `ImageStream` even after route is pushed onto stack<br />
-    <sub>[#125027](https://github.com/flutter/flutter/pull/125027) opened on on April 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125027) 0 additions and 2 deletions in 1 file</sub><br />
-
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Add prefer_final_parameters lint<br />
     <sub>[#125061](https://github.com/flutter/flutter/pull/125061) opened on on April 18, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/125061) 56116 additions and 56115 deletions in 3318 files</sub><br />
 
