@@ -700,7 +700,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-25 commits.
+26 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [rotation_distortion] Use "delayed swap" solution to reduce rotation distortion<br />
     <sub>[#40730](https://github.com/flutter/engine/pull/40730) merged on April 17, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40730) over 2 weeks, 150 additions and 20 deletions in 2 files</sub><br />
@@ -763,6 +763,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds AndroidSurfaceGLImpeller unit tests<br />
     <sub>[#40979](https://github.com/flutter/engine/pull/40979) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40979) over 1 week, 119 additions and 25 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Double zip FlutterMacOS.framework.zip.<br />
+    <sub>[#41306](https://github.com/flutter/engine/pull/41306) merged on April 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/41306) over 3 hours, 13 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate android AOT to engine_v2.<br />
     <sub>[#41229](https://github.com/flutter/engine/pull/41229) merged on April 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41229) over 3 days, 13 additions and 6 deletions in 2 files</sub><br />
