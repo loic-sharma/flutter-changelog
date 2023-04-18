@@ -89,3 +89,6 @@
 * **[Kim Jiun](https://github.com/KKimj)** &mdash; Update to add Kim Jiun to `AUTHORS`<br />
     <sub>[#125026](https://github.com/flutter/flutter/pull/125026) opened on on April 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125026) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Continues to listen to `ImageStream` even after route is pushed onto stack<br />
+    <sub>[#125027](https://github.com/flutter/flutter/pull/125027) opened on on April 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125027) 0 additions and 2 deletions in 1 file</sub><br />
+
