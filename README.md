@@ -4,7 +4,12 @@
 
 ### April 15, 2023 to April 21, 2023
 
-27 commits.
+28 commits.
+
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Adaptive alert dialog<br />
+    <sub>[#124336](https://github.com/flutter/flutter/pull/124336) merged on April 18, 2023 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/124336) over 1 week, 391 additions and 1 deletion in 4 files</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Viren Khatri](https://github.com/werainkhatri)</sub><br />
+    <sub><details><summary>2 images...</summary><img width="357" alt="Screenshot 2023-04-06 at 10 40 18 AM" src="https://user-images.githubusercontent.com/58190796/230455412-31100922-cfc5-4252-b8c6-6f076353f29e.png"><img width="350" alt="Screenshot 2023-04-06 at 10 42 50 AM" src="https://user-images.githubusercontent.com/58190796/230455454-363dd37e-c44e-4aca-b6a0-cfa1d959f606.png"></details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip highlight color isn't drawn on top of the background color<br />
     <sub>[#124673](https://github.com/flutter/flutter/pull/124673) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124673) over 5 days, 52 additions and 2 deletions in 2 files</sub><br />
