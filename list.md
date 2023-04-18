@@ -631,21 +631,21 @@
 
 ### April 15, 2023 to April 21, 2023
 
-17 commits.
+18 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [rotation_distortion] Use "delayed swap" solution to reduce rotation distortion
     <sub>[#40730](https://github.com/flutter/engine/pull/40730) merged on April 17, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40730) over 2 weeks, 150 additions and 20 deletions in 2 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jenn Magder](https://github.com/jmagman)</sub>
 
+* **[Akash Khunt](https://github.com/bastionkid)** &mdash; null check added to avoid NPE while calling FlutterView.detachFromFlutterEngine()
+    <sub>[#41082](https://github.com/flutter/engine/pull/41082) merged on April 17, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/41082) over 6 days, 7 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Reid Baker](https://github.com/reidbaker), [gmackall](https://github.com/gmackall)</sub>
+    <sub><details><summary>7 images...</summary><img width="977" alt="1" src="https://user-images.githubusercontent.com/8373036/231222642-1596c77c-d127-476b-9bce-8ad2e9cd3639.png"><img width="962" alt="2" src="https://user-images.githubusercontent.com/8373036/231222672-016ee708-c310-49c8-8016-070b6057af7b.png"><img width="880" alt="3" src="https://user-images.githubusercontent.com/8373036/231241491-c47f5aa6-96e9-4c1f-b92e-7cfed67381e2.png"><img width="878" alt="7" src="https://user-images.githubusercontent.com/8373036/231241550-09908108-1747-4ec3-bc70-145446b86eae.png"><img width="905" alt="4" src="https://user-images.githubusercontent.com/8373036/231222702-5ee739f2-fd71-4e20-807d-e3786e6f27fc.png"><img width="902" alt="5" src="https://user-images.githubusercontent.com/8373036/231222719-2ea28157-bd62-45fe-89ef-dd41ee7b3cca.png"><img width="902" alt="6" src="https://user-images.githubusercontent.com/8373036/231222735-55b63911-6a2d-4967-8043-298f4d413f2a.png"></details></sub>
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove glyph pixel rounding during text frame conversion
     <sub>[#41285](https://github.com/flutter/engine/pull/41285) merged on April 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41285) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot 2023-04-17 at 6 36 20 PM](https://user-images.githubusercontent.com/919017/232647028-4a299138-e94b-4f0f-b675-3b8f9e0fbe1c.png)![Screenshot 2023-04-17 at 6 33 09 PM](https://user-images.githubusercontent.com/919017/232647004-c18ac7a1-8c43-414b-8d66-7fc58deeae77.png)</details></sub>
-
-* **[Akash Khunt](https://github.com/bastionkid)** &mdash; null check added to avoid NPE while calling FlutterView.detachFromFlutterEngine()
-    <sub>[#41082](https://github.com/flutter/engine/pull/41082) merged on April 17, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/41082) over 6 days, 7 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Reid Baker](https://github.com/reidbaker), [gmackall](https://github.com/gmackall)</sub>
-    <sub><details><summary>7 images...</summary><img width="977" alt="1" src="https://user-images.githubusercontent.com/8373036/231222642-1596c77c-d127-476b-9bce-8ad2e9cd3639.png"><img width="962" alt="2" src="https://user-images.githubusercontent.com/8373036/231222672-016ee708-c310-49c8-8016-070b6057af7b.png"><img width="880" alt="3" src="https://user-images.githubusercontent.com/8373036/231241491-c47f5aa6-96e9-4c1f-b92e-7cfed67381e2.png"><img width="878" alt="7" src="https://user-images.githubusercontent.com/8373036/231241550-09908108-1747-4ec3-bc70-145446b86eae.png"><img width="905" alt="4" src="https://user-images.githubusercontent.com/8373036/231222702-5ee739f2-fd71-4e20-807d-e3786e6f27fc.png"><img width="902" alt="5" src="https://user-images.githubusercontent.com/8373036/231222719-2ea28157-bd62-45fe-89ef-dd41ee7b3cca.png"><img width="902" alt="6" src="https://user-images.githubusercontent.com/8373036/231222735-55b63911-6a2d-4967-8043-298f4d413f2a.png"></details></sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:canvaskit] migrate Paint API to UniqueRef
     <sub>[#41230](https://github.com/flutter/engine/pull/41230) merged on April 17, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/41230) over 2 days, 242 additions and 198 deletions in 10 files</sub>
@@ -678,6 +678,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds AndroidSurfaceGLImpeller unit tests
     <sub>[#40979](https://github.com/flutter/engine/pull/40979) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40979) over 1 week, 119 additions and 25 deletions in 7 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Caroline Liu](https://github.com/caroqliu)** &mdash; [fuchsia] migrate touch-input integration tests to gfx scene manager test ui stack
+    <sub>[#41118](https://github.com/flutter/engine/pull/41118) merged on April 18, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/41118) over 5 days, 16 additions and 10 deletions in 4 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [David Worsham](https://github.com/arbreng)</sub>
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; [Impeller] Make `DoMakeRasterSnapshot` output timeline event.
     <sub>[#41197](https://github.com/flutter/engine/pull/41197) merged on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41197) over 3 days, 1 addition and 0 deletions in 1 file</sub>
@@ -905,7 +909,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update some more uses of the deprecated Skia SkImage::MakeFromBitmap API
     <sub>[#41041](https://github.com/flutter/engine/pull/41041) merged on April 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41041) over 7 minutes, 4 additions and 4 deletions in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [mac] Build mac framework with app extension flag
     <sub>[#41011](https://github.com/flutter/engine/pull/41011) merged on April 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/41011) over 2 days, 40 additions and 2 deletions in 4 files</sub>
@@ -1320,7 +1324,7 @@
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "[web] remove obsolete object caches; simplify native object management"
     <sub>[#40937](https://github.com/flutter/engine/pull/40937) merged on April 5, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/40937) over 53 minutes, 772 additions and 559 deletions in 13 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Xilai Zhang](https://github.com/XilaiZhang)</sub>
+    <sub>Reviewed by: [Xilai Zhang](https://github.com/XilaiZhang), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "[web] remove obsolete object caches; simplify native object management"
     <sub>[#40882](https://github.com/flutter/engine/pull/40882) merged on April 3, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/40882) over 3 hours, 770 additions and 557 deletions in 13 files</sub>
@@ -1428,7 +1432,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump com.android.tools.build:gradle from 7.3.1 to 8.0.0 in /packages/pigeon/platform_tests/alternate_language_test_plugin/android
     <sub>[#3727](https://github.com/flutter/packages/pull/3727) merged on April 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3727) over 10 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.3.1&new-version=8.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump com.android.tools.build:gradle from 7.3.1 to 8.0.0 in /packages/pigeon/platform_tests/test_plugin/android
@@ -1443,7 +1447,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [palette_generator] run agp update for example
     <sub>[#3747](https://github.com/flutter/packages/pull/3747) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3747) over 2 hours, 13 additions and 14 deletions in 6 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fixes a bug that go_router would crash if pageBuilder depends on InheritedWidgets.s.
     <sub>[#3714](https://github.com/flutter/packages/pull/3714) merged on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3714) over 3 days, 50 additions and 3 deletions in 4 files</sub>
@@ -1537,7 +1541,7 @@
 
 * **[Harish Anbalagan](https://github.com/Harishwarrior)** &mdash; [flutter_adaptive_scaffold] : Add groupAlignment parameter to standardNavigationRail
     <sub>[#3673](https://github.com/flutter/packages/pull/3673) merged on April 10, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3673) over 6 hours, 51 additions and 1 deletion in 4 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 4b1264501234 to f72efea43c30 (3 revisions)
     <sub>[#3696](https://github.com/flutter/packages/pull/3696) merged on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3696) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
