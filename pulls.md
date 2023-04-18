@@ -86,3 +86,6 @@
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Add layer unique IDs to debug properties<br />
     <sub>[#125020](https://github.com/flutter/flutter/pull/125020) opened on on April 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125020) 39 additions and 2 deletions in 3 files</sub><br />
 
+* **[Kim Jiun](https://github.com/KKimj)** &mdash; Update to add Kim Jiun to `AUTHORS`<br />
+    <sub>[#125026](https://github.com/flutter/flutter/pull/125026) opened on on April 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125026) 1 addition and 0 deletions in 1 file</sub><br />
+
