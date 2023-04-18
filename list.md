@@ -682,7 +682,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-24 commits.
+25 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [rotation_distortion] Use "delayed swap" solution to reduce rotation distortion
     <sub>[#40730](https://github.com/flutter/engine/pull/40730) merged on April 17, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40730) over 2 weeks, 150 additions and 20 deletions in 2 files</sub>
@@ -697,6 +697,10 @@
     <sub>[#41285](https://github.com/flutter/engine/pull/41285) merged on April 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41285) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot 2023-04-17 at 6 36 20 PM](https://user-images.githubusercontent.com/919017/232647028-4a299138-e94b-4f0f-b675-3b8f9e0fbe1c.png)![Screenshot 2023-04-17 at 6 33 09 PM](https://user-images.githubusercontent.com/919017/232647004-c18ac7a1-8c43-414b-8d66-7fc58deeae77.png)</details></sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web:canvaskit] clean up the rest of skia_object_cache usages
+    <sub>[#41259](https://github.com/flutter/engine/pull/41259) merged on April 18, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/41259) over 1 day, 49 additions and 1941 deletions in 18 files</sub>
+    <sub>Reviewed by: [Harry Terkelsen](https://github.com/hterkelsen)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Turned on wide gamut support by default.
     <sub>[#39801](https://github.com/flutter/engine/pull/39801) merged on April 18, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/39801) over 1 month, 2 additions and 3 deletions in 1 file</sub>
