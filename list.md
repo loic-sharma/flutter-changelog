@@ -4,7 +4,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-9 commits.
+10 commits.
 
 * **[Mubarak Bakarman](https://github.com/mub-pro)** &mdash; Customize color and thickness of connected lines in Stepper.dart
     <sub>[#122485](https://github.com/flutter/flutter/pull/122485) merged on April 17, 2023 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/122485) over 1 month, 117 additions and 11 deletions in 2 files</sub>
@@ -15,6 +15,10 @@
     <sub>[#124673](https://github.com/flutter/flutter/pull/124673) merged on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124673) over 5 days, 52 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>4 images...</summary><img src="https://user-images.githubusercontent.com/48603081/231477891-1c9b120e-d3c7-4422-847a-8183c0ca4ef4.gif"  /><img src="https://user-images.githubusercontent.com/48603081/231477910-ba745c93-2c63-4a9d-928d-e47da0664ec0.gif"  /><img src="https://user-images.githubusercontent.com/48603081/231478432-5c18745a-dcf7-4017-9972-e720e226ba68.gif"  /><img src="https://user-images.githubusercontent.com/48603081/231478446-5fcaebfa-a3f0-4087-87a7-0b674f6503fc.gif"  /></details></sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add optional axis specifier to static scrollable methods
+    <sub>[#124894](https://github.com/flutter/flutter/pull/124894) merged on April 18, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/124894) over 3 days, 233 additions and 35 deletions in 2 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Fix a null crash in SelectableRegion Widget 
     <sub>[#124736](https://github.com/flutter/flutter/pull/124736) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124736) over 4 days, 33 additions and 2 deletions in 2 files</sub>
