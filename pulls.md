@@ -89,3 +89,6 @@
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Continues to listen to `ImageStream` even after route is pushed onto stack<br />
     <sub>[#125027](https://github.com/flutter/flutter/pull/125027) opened on on April 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125027) 0 additions and 2 deletions in 1 file</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `TabBar.tabAlignment` <br />
+    <sub>[#125036](https://github.com/flutter/flutter/pull/125036) opened on on April 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125036) 227 additions and 23 deletions in 5 files</sub><br />
+
