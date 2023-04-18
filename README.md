@@ -4,7 +4,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-16 commits.
+18 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip highlight color isn't drawn on top of the background color<br />
     <sub>[#124673](https://github.com/flutter/flutter/pull/124673) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124673) over 5 days, 52 additions and 2 deletions in 2 files</sub><br />
@@ -21,6 +21,10 @@
     <sub>Reviewed by: [Daniël Roek](https://github.com/danielroek), [Dhruvin](https://github.com/DK070202), [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>2 images...</summary><img src="https://user-images.githubusercontent.com/54718862/151957107-93aebd9e-9421-4188-8beb-cdc2f875c5f7.png" width="300px" /><img src="https://user-images.githubusercontent.com/54718862/151957736-4991b4e5-bc82-43bb-ae84-860a1323cf45.png" width="300px" /></details></sub>
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Add vmservice for android build options<br />
+    <sub>[#123034](https://github.com/flutter/flutter/pull/123034) merged on April 18, 2023 &mdash; **Medium:** [61 comments](https://github.com/flutter/flutter/pull/123034) over 4 weeks, 409 additions and 73 deletions in 19 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; iOS spell check cursor placement<br />
     <sub>[#124875](https://github.com/flutter/flutter/pull/124875) merged on April 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124875) over 3 days, 122 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
@@ -30,6 +34,10 @@
     <sub>[#124143](https://github.com/flutter/flutter/pull/124143) merged on April 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124143) over 1 week, 42 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Viren Khatri](https://github.com/werainkhatri)</sub><br />
     <sub><details><summary>1 image...</summary>![acceptemptydate_false](https://user-images.githubusercontent.com/13456345/229893658-280ecdee-d509-4579-b53c-9d8d485c61b4.gif) | ![acceptemptydate__true](https://user-images.githubusercontent.com/13456345/229895144-115e71bd-e5bb-4653-8db2-9f57dd8262aa.gif)</details></sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix text theme dart fix cases<br />
+    <sub>[#125052](https://github.com/flutter/flutter/pull/125052) merged on April 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125052) over 43 minutes, 16 additions and 16 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [pdblasi-google](https://github.com/pdblasi-google)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add optional axis specifier to static scrollable methods<br />
     <sub>[#124894](https://github.com/flutter/flutter/pull/124894) merged on April 18, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/124894) over 3 days, 233 additions and 35 deletions in 2 files</sub><br />
@@ -124,7 +132,7 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [CupertinoListSection] adds new property separatorColor<br />
     <sub>[#124803](https://github.com/flutter/flutter/pull/124803) merged on April 14, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124803) over 23 hours, 55 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Kate Lovett](https://github.com/Piinks)</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
     <sub><details><summary>2 images...</summary><img src="https://user-images.githubusercontent.com/13456345/231840875-22605c23-ee9f-464f-a005-c9fce1b641a7.png" width=350>![a](https://user-images.githubusercontent.com/13456345/231840832-6027cf86-e9c0-4206-b6f8-23556471c1bd.png) | ![b](https://user-images.githubusercontent.com/13456345/231840862-dcc30212-14f8-44af-a8cb-d04b22b7a078.png) | ![c](https://user-images.githubusercontent.com/13456345/231840870-d9fafe23-e9a4-423a-a25c-b71835991d07.png)</details></sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Add benchmarks for the Material3 Components screen<br />
@@ -273,7 +281,7 @@
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [flutter_test] Adds method to mock EventChannels<br />
     <sub>[#124415](https://github.com/flutter/flutter/pull/124415) merged on April 10, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/124415) over 2 days, 216 additions and 45 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [pdblasi-google](https://github.com/pdblasi-google), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [pdblasi-google](https://github.com/pdblasi-google)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [ci.yaml] Disable packaging_test on release candidates<br />
     <sub>[#124712](https://github.com/flutter/flutter/pull/124712) merged on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124712) over 48 minutes, 16 additions and 0 deletions in 1 file</sub><br />
