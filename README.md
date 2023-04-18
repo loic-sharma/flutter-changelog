@@ -700,7 +700,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-26 commits.
+27 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [rotation_distortion] Use "delayed swap" solution to reduce rotation distortion<br />
     <sub>[#40730](https://github.com/flutter/engine/pull/40730) merged on April 17, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40730) over 2 weeks, 150 additions and 20 deletions in 2 files</sub><br />
@@ -735,6 +735,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS] Fix Ctrl+Tab is broken<br />
     <sub>[#40706](https://github.com/flutter/engine/pull/40706) merged on April 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40706) over 3 weeks, 102 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web:canvaskit] remove unnecessary instrumentation from picture<br />
+    <sub>[#41313](https://github.com/flutter/engine/pull/41313) merged on April 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41313) over 1 hour, 39 additions and 4 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Harry Terkelsen](https://github.com/hterkelsen)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Gpu model information to Skia gold<br />
     <sub>[#41216](https://github.com/flutter/engine/pull/41216) merged on April 18, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/41216) over 4 days, 107 additions and 25 deletions in 15 files</sub><br />
