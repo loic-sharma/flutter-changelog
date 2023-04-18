@@ -4,7 +4,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-14 commits.
+15 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip highlight color isn't drawn on top of the background color<br />
     <sub>[#124673](https://github.com/flutter/flutter/pull/124673) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124673) over 5 days, 52 additions and 2 deletions in 2 files</sub><br />
@@ -33,6 +33,10 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Fix a null crash in SelectableRegion Widget <br />
     <sub>[#124736](https://github.com/flutter/flutter/pull/124736) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124736) over 4 days, 33 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Remove unused context parameter<br />
+    <sub>[#124254](https://github.com/flutter/flutter/pull/124254) merged on April 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124254) over 1 week, 88 additions and 6 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Stop running "_impeller_" benchmark variants<br />
     <sub>[#125044](https://github.com/flutter/flutter/pull/125044) merged on April 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125044) over 1 hour, 0 additions and 109 deletions in 1 file</sub><br />
@@ -115,7 +119,7 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [CupertinoListSection] adds new property separatorColor<br />
     <sub>[#124803](https://github.com/flutter/flutter/pull/124803) merged on April 14, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124803) over 23 hours, 55 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Kate Lovett](https://github.com/Piinks)</sub><br />
     <sub><details><summary>2 images...</summary><img src="https://user-images.githubusercontent.com/13456345/231840875-22605c23-ee9f-464f-a005-c9fce1b641a7.png" width=350>![a](https://user-images.githubusercontent.com/13456345/231840832-6027cf86-e9c0-4206-b6f8-23556471c1bd.png) | ![b](https://user-images.githubusercontent.com/13456345/231840862-dcc30212-14f8-44af-a8cb-d04b22b7a078.png) | ![c](https://user-images.githubusercontent.com/13456345/231840870-d9fafe23-e9a4-423a-a25c-b71835991d07.png)</details></sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Add benchmarks for the Material3 Components screen<br />
@@ -640,7 +644,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-19 commits.
+20 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [rotation_distortion] Use "delayed swap" solution to reduce rotation distortion<br />
     <sub>[#40730](https://github.com/flutter/engine/pull/40730) merged on April 17, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40730) over 2 weeks, 150 additions and 20 deletions in 2 files</sub><br />
@@ -655,6 +659,10 @@
     <sub>[#41285](https://github.com/flutter/engine/pull/41285) merged on April 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41285) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>2 images...</summary>![Screenshot 2023-04-17 at 6 36 20 PM](https://user-images.githubusercontent.com/919017/232647028-4a299138-e94b-4f0f-b675-3b8f9e0fbe1c.png)![Screenshot 2023-04-17 at 6 33 09 PM](https://user-images.githubusercontent.com/919017/232647004-c18ac7a1-8c43-414b-8d66-7fc58deeae77.png)</details></sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Turned on wide gamut support by default.<br />
+    <sub>[#39801](https://github.com/flutter/engine/pull/39801) merged on April 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/39801) over 1 month, 2 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:canvaskit] migrate Paint API to UniqueRef<br />
     <sub>[#41230](https://github.com/flutter/engine/pull/41230) merged on April 17, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/41230) over 2 days, 242 additions and 198 deletions in 10 files</sub><br />
@@ -866,7 +874,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Keep a reference to BlitPassGLES in the EncodeCommands lambda to prevent use-after-free<br />
     <sub>[#41100](https://github.com/flutter/engine/pull/41100) merged on April 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/41100) over 14 hours, 9 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run the Mac impeller-cmake-example orchestrator on arm64<br />
     <sub>[#41194](https://github.com/flutter/engine/pull/41194) merged on April 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41194) over 13 hours, 1 addition and 0 deletions in 1 file</sub><br />
