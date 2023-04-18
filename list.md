@@ -4,7 +4,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-19 commits.
+20 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip highlight color isn't drawn on top of the background color
     <sub>[#124673](https://github.com/flutter/flutter/pull/124673) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124673) over 5 days, 52 additions and 2 deletions in 2 files</sub>
@@ -46,6 +46,10 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Fix a null crash in SelectableRegion Widget 
     <sub>[#124736](https://github.com/flutter/flutter/pull/124736) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124736) over 4 days, 33 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused getRootRenderObject and getSelectedRenderObject service extensions
+    <sub>[#124805](https://github.com/flutter/flutter/pull/124805) merged on April 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124805) over 5 days, 1 addition and 59 deletions in 3 files</sub>
+    <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup), [Helin Shiah](https://github.com/helin24), [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Remove unused context parameter
     <sub>[#124254](https://github.com/flutter/flutter/pull/124254) merged on April 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124254) over 1 week, 88 additions and 6 deletions in 6 files</sub>
@@ -678,7 +682,7 @@
     <sub><details><summary>2 images...</summary>![Screenshot 2023-04-17 at 6 36 20 PM](https://user-images.githubusercontent.com/919017/232647028-4a299138-e94b-4f0f-b675-3b8f9e0fbe1c.png)![Screenshot 2023-04-17 at 6 33 09 PM](https://user-images.githubusercontent.com/919017/232647004-c18ac7a1-8c43-414b-8d66-7fc58deeae77.png)</details></sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Turned on wide gamut support by default.
-    <sub>[#39801](https://github.com/flutter/engine/pull/39801) merged on April 18, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/39801) over 1 month, 2 additions and 3 deletions in 1 file</sub>
+    <sub>[#39801](https://github.com/flutter/engine/pull/39801) merged on April 18, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/39801) over 1 month, 2 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:canvaskit] migrate Paint API to UniqueRef
@@ -787,7 +791,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Fix issues in path polyline generation.
     <sub>[#40975](https://github.com/flutter/engine/pull/40975) merged on April 10, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/40975) over 3 days, 406 additions and 60 deletions in 7 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] convert most filters to utilize entities instead of subpasses
     <sub>[#40973](https://github.com/flutter/engine/pull/40973) merged on April 11, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/40973) over 4 days, 389 additions and 295 deletions in 16 files</sub>
@@ -1483,12 +1487,12 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump com.android.tools.build:gradle from 7.3.1 to 8.0.0 in /packages/pigeon/platform_tests/alternate_language_test_plugin/android
     <sub>[#3727](https://github.com/flutter/packages/pull/3727) merged on April 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3727) over 10 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.3.1&new-version=8.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump com.android.tools.build:gradle from 7.3.1 to 8.0.0 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#3726](https://github.com/flutter/packages/pull/3726) merged on April 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3726) over 9 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.3.1&new-version=8.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump io.mockk:mockk from 1.13.4 to 1.13.5 in /packages/pigeon/platform_tests/test_plugin/android
@@ -1498,7 +1502,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [palette_generator] run agp update for example
     <sub>[#3747](https://github.com/flutter/packages/pull/3747) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3747) over 2 hours, 13 additions and 14 deletions in 6 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fixes a bug that go_router would crash if pageBuilder depends on InheritedWidgets.s.
     <sub>[#3714](https://github.com/flutter/packages/pull/3714) merged on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3714) over 3 days, 50 additions and 3 deletions in 4 files</sub>
@@ -1592,7 +1596,7 @@
 
 * **[Harish Anbalagan](https://github.com/Harishwarrior)** &mdash; [flutter_adaptive_scaffold] : Add groupAlignment parameter to standardNavigationRail
     <sub>[#3673](https://github.com/flutter/packages/pull/3673) merged on April 10, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3673) over 6 hours, 51 additions and 1 deletion in 4 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Justin McCandless](https://github.com/justinmc)</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 4b1264501234 to f72efea43c30 (3 revisions)
     <sub>[#3696](https://github.com/flutter/packages/pull/3696) merged on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3696) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
