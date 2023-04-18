@@ -631,7 +631,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-18 commits.
+19 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [rotation_distortion] Use "delayed swap" solution to reduce rotation distortion
     <sub>[#40730](https://github.com/flutter/engine/pull/40730) merged on April 17, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40730) over 2 weeks, 150 additions and 20 deletions in 2 files</sub>
@@ -694,6 +694,10 @@
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Migrate uses of deprecated SkImage->encodeToData
     <sub>[#41204](https://github.com/flutter/engine/pull/41204) merged on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41204) over 3 days, 17 additions and 9 deletions in 6 files</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Skia from d9e216e62223 to 5bd4bdc0d8e2 (12 revisions)
+    <sub>[#41286](https://github.com/flutter/engine/pull/41286) merged on April 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41286) over 14 hours, 4 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Revert "Reland  "Migrate mac_host_engine to engine v2 builds.""
     <sub>[#41284](https://github.com/flutter/engine/pull/41284) merged on April 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41284) over 59 seconds, 13 additions and 27 deletions in 2 files</sub>
@@ -1380,7 +1384,7 @@
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove redundant TargetPlatformNeedsSL.
     <sub>[#40857](https://github.com/flutter/engine/pull/40857) merged on April 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/40857) over 1 hour, 55 additions and 86 deletions in 6 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Apply binding base correction to all shader variants.
     <sub>[#40854](https://github.com/flutter/engine/pull/40854) merged on April 1, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/40854) over 39 minutes, 1 addition and 4 deletions in 1 file</sub>
