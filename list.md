@@ -4,7 +4,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-20 commits.
+21 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip highlight color isn't drawn on top of the background color
     <sub>[#124673](https://github.com/flutter/flutter/pull/124673) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124673) over 5 days, 52 additions and 2 deletions in 2 files</sub>
@@ -42,6 +42,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add optional axis specifier to static scrollable methods
     <sub>[#124894](https://github.com/flutter/flutter/pull/124894) merged on April 18, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/124894) over 3 days, 233 additions and 35 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[htoor3](https://github.com/htoor3)** &mdash; [web] - Clean up skipped tests
+    <sub>[#124981](https://github.com/flutter/flutter/pull/124981) merged on April 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124981) over 1 day, 6 additions and 15 deletions in 2 files</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Fix a null crash in SelectableRegion Widget 
     <sub>[#124736](https://github.com/flutter/flutter/pull/124736) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124736) over 4 days, 33 additions and 2 deletions in 2 files</sub>
