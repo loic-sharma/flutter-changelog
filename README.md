@@ -622,7 +622,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-13 commits.
+14 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [rotation_distortion] Use "delayed swap" solution to reduce rotation distortion<br />
     <sub>[#40730](https://github.com/flutter/engine/pull/40730) merged on April 17, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40730) over 2 weeks, 150 additions and 20 deletions in 2 files</sub><br />
@@ -668,6 +668,10 @@
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Migrate uses of deprecated SkImage->encodeToData<br />
     <sub>[#41204](https://github.com/flutter/engine/pull/41204) merged on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41204) over 3 days, 17 additions and 9 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Revert "Reland  "Migrate mac_host_engine to engine v2 builds.""<br />
+    <sub>[#41284](https://github.com/flutter/engine/pull/41284) merged on April 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41284) over 59 seconds, 13 additions and 27 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland ui_web files in sky_engine<br />
     <sub>[#41169](https://github.com/flutter/engine/pull/41169) merged on April 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41169) over 4 days, 102 additions and 74 deletions in 5 files</sub><br />
