@@ -4,7 +4,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-10 commits.
+11 commits.
 
 * **[Mubarak Bakarman](https://github.com/mub-pro)** &mdash; Customize color and thickness of connected lines in Stepper.dart
     <sub>[#122485](https://github.com/flutter/flutter/pull/122485) merged on April 17, 2023 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/122485) over 1 month, 117 additions and 11 deletions in 2 files</sub>
@@ -23,6 +23,10 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Fix a null crash in SelectableRegion Widget 
     <sub>[#124736](https://github.com/flutter/flutter/pull/124736) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124736) over 4 days, 33 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Viren Khatri](https://github.com/werainkhatri)** &mdash; relayout active ListWheelScrollView children every performLayout
+    <sub>[#124476](https://github.com/flutter/flutter/pull/124476) merged on April 18, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/124476) over 1 week, 37 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Update usage of standalone`pub` executable in flutter_tools testing docs
     <sub>[#124898](https://github.com/flutter/flutter/pull/124898) merged on April 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124898) over 3 days, 3 additions and 3 deletions in 2 files</sub>
@@ -287,6 +291,10 @@
 <details>
 <summary>78 commits...</summary>
 
+* **[Loune Lam](https://github.com/loune)** &mdash; Remove mouse tap text drag selection throttling to improve responsiveness
+    <sub>[#123460](https://github.com/flutter/flutter/pull/123460) merged on April 6, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/123460) over 1 week, 0 additions and 14 deletions in 2 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Renzo Olivares](https://github.com/Renzo-Olivares), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TapAndDragGestureRecognizer should declare victory immediately when drag is detected
     <sub>[#123055](https://github.com/flutter/flutter/pull/123055) merged on April 5, 2023 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/123055) over 2 weeks, 949 additions and 110 deletions in 5 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub>
@@ -307,10 +315,6 @@
     <sub>[#123775](https://github.com/flutter/flutter/pull/123775) merged on April 6, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/123775) over 1 week, 146 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Justin McCandless](https://github.com/justinmc)</sub>
     <sub><details><summary>2 images...</summary>![photo_2023-03-30_20-21-07](https://user-images.githubusercontent.com/13456345/228876418-a9228373-7d67-4e15-a2f7-7edafc475a6b.jpg) | ![photo_2023-03-30_20-21-06](https://user-images.githubusercontent.com/13456345/228876444-5426541b-9997-4e6d-9cef-09e208965f4c.jpg)![photo_2023-03-30_20-21-04](https://user-images.githubusercontent.com/13456345/228876486-bf6da2de-8a4d-45d8-9fe9-58a8c902b383.jpg) | ![photo_2023-03-30_20-21-02](https://user-images.githubusercontent.com/13456345/228876508-cddb33bf-4819-4048-921b-b32b7b672213.jpg)</details></sub>
-
-* **[Loune Lam](https://github.com/loune)** &mdash; Remove mouse tap text drag selection throttling to improve responsiveness
-    <sub>[#123460](https://github.com/flutter/flutter/pull/123460) merged on April 6, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/123460) over 1 week, 0 additions and 14 deletions in 2 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Renzo Olivares](https://github.com/Renzo-Olivares), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add readlink -f flag to CocoaPods script to workaround Xcode 14.3 issue
     <sub>[#124062](https://github.com/flutter/flutter/pull/124062) merged on April 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124062) over 2 hours, 223 additions and 0 deletions in 5 files</sub>
