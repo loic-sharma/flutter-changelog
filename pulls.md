@@ -77,14 +77,11 @@
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Allow users to provide route settings to `showMenu`<br />
     <sub>[#124935](https://github.com/flutter/flutter/pull/124935) opened on on April 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124935) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[Alberto Azinar](https://github.com/AlbertoYabeda)** &mdash; improvement : removed required  kotlin dependency<br />
+* **[Alberto Azinar](https://github.com/albertoazinar)** &mdash; improvement : removed required  kotlin dependency<br />
     <sub>[#125002](https://github.com/flutter/flutter/pull/125002) opened on on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125002) 1 addition and 3 deletions in 1 file</sub><br />
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Add layer unique IDs to debug properties<br />
     <sub>[#125020](https://github.com/flutter/flutter/pull/125020) opened on on April 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125020) 39 additions and 2 deletions in 3 files</sub><br />
-
-* **[Kim Jiun](https://github.com/KKimj)** &mdash; Update to add Kim Jiun to `AUTHORS`<br />
-    <sub>[#125026](https://github.com/flutter/flutter/pull/125026) opened on on April 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125026) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Continues to listen to `ImageStream` even after route is pushed onto stack<br />
     <sub>[#125027](https://github.com/flutter/flutter/pull/125027) opened on on April 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125027) 0 additions and 2 deletions in 1 file</sub><br />
