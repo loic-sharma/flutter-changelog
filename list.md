@@ -4,7 +4,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-11 commits.
+12 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip highlight color isn't drawn on top of the background color
     <sub>[#124673](https://github.com/flutter/flutter/pull/124673) merged on April 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124673) over 5 days, 52 additions and 2 deletions in 2 files</sub>
@@ -15,6 +15,11 @@
     <sub>[#122485](https://github.com/flutter/flutter/pull/122485) merged on April 17, 2023 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/122485) over 1 month, 117 additions and 11 deletions in 2 files</sub>
     <sub>Reviewed by: [Daniël Roek](https://github.com/danielroek), [Dhruvin](https://github.com/DK070202), [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>2 images...</summary><img src="https://user-images.githubusercontent.com/54718862/151957107-93aebd9e-9421-4188-8beb-cdc2f875c5f7.png" width="300px" /><img src="https://user-images.githubusercontent.com/54718862/151957736-4991b4e5-bc82-43bb-ae84-860a1323cf45.png" width="300px" /></details></sub>
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; [InputDatePickerFormField] adds acceptEmptyDate to InputDatePickerFormField Widget
+    <sub>[#124143](https://github.com/flutter/flutter/pull/124143) merged on April 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124143) over 1 week, 42 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Viren Khatri](https://github.com/werainkhatri)</sub>
+    <sub><details><summary>1 image...</summary>![acceptemptydate_false](https://user-images.githubusercontent.com/13456345/229893658-280ecdee-d509-4579-b53c-9d8d485c61b4.gif) | ![acceptemptydate__true](https://user-images.githubusercontent.com/13456345/229895144-115e71bd-e5bb-4653-8db2-9f57dd8262aa.gif)</details></sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add optional axis specifier to static scrollable methods
     <sub>[#124894](https://github.com/flutter/flutter/pull/124894) merged on April 18, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/124894) over 3 days, 233 additions and 35 deletions in 2 files</sub>
