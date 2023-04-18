@@ -4,7 +4,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-23 commits.
+24 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip highlight color isn't drawn on top of the background color<br />
     <sub>[#124673](https://github.com/flutter/flutter/pull/124673) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124673) over 5 days, 52 additions and 2 deletions in 2 files</sub><br />
@@ -75,6 +75,10 @@
 * **[Viren Khatri](https://github.com/werainkhatri)** &mdash; relayout active ListWheelScrollView children every performLayout<br />
     <sub>[#124476](https://github.com/flutter/flutter/pull/124476) merged on April 18, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/124476) over 1 week, 37 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add controller argument to SubmenuButton<br />
+    <sub>[#125000](https://github.com/flutter/flutter/pull/125000) merged on April 18, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/125000) over 22 hours, 247 additions and 171 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [damien saint macary](https://github.com/saintmac-google), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; l10n.yaml's nullable-getter option should default to true<br />
     <sub>[#124353](https://github.com/flutter/flutter/pull/124353) merged on April 18, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/124353) over 1 week, 33 additions and 0 deletions in 2 files</sub><br />
