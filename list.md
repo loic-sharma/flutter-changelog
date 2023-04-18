@@ -4,7 +4,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-26 commits.
+27 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip highlight color isn't drawn on top of the background color
     <sub>[#124673](https://github.com/flutter/flutter/pull/124673) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124673) over 5 days, 52 additions and 2 deletions in 2 files</sub>
@@ -80,6 +80,10 @@
 * **[Viren Khatri](https://github.com/werainkhatri)** &mdash; relayout active ListWheelScrollView children every performLayout
     <sub>[#124476](https://github.com/flutter/flutter/pull/124476) merged on April 18, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/124476) over 1 week, 37 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Remove package:js/dart:js_interop conflicts
+    <sub>[#124879](https://github.com/flutter/flutter/pull/124879) merged on April 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124879) over 4 days, 12 additions and 3 deletions in 3 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Kim Jiun](https://github.com/KKimj)** &mdash; Update to add Kim Jiun to `AUTHORS`
     <sub>[#125026](https://github.com/flutter/flutter/pull/125026) merged on April 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125026) over 12 hours, 1 addition and 0 deletions in 1 file</sub>
