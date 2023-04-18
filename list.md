@@ -7,7 +7,7 @@
 12 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip highlight color isn't drawn on top of the background color
-    <sub>[#124673](https://github.com/flutter/flutter/pull/124673) merged on April 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124673) over 5 days, 52 additions and 2 deletions in 2 files</sub>
+    <sub>[#124673](https://github.com/flutter/flutter/pull/124673) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124673) over 5 days, 52 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>4 images...</summary><img src="https://user-images.githubusercontent.com/48603081/231477891-1c9b120e-d3c7-4422-847a-8183c0ca4ef4.gif"  /><img src="https://user-images.githubusercontent.com/48603081/231477910-ba745c93-2c63-4a9d-928d-e47da0664ec0.gif"  /><img src="https://user-images.githubusercontent.com/48603081/231478432-5c18745a-dcf7-4017-9972-e720e226ba68.gif"  /><img src="https://user-images.githubusercontent.com/48603081/231478446-5fcaebfa-a3f0-4087-87a7-0b674f6503fc.gif"  /></details></sub>
 
