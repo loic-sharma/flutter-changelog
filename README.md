@@ -4,12 +4,17 @@
 
 ### April 15, 2023 to April 21, 2023
 
-15 commits.
+16 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip highlight color isn't drawn on top of the background color<br />
     <sub>[#124673](https://github.com/flutter/flutter/pull/124673) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124673) over 5 days, 52 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>4 images...</summary><img src="https://user-images.githubusercontent.com/48603081/231477891-1c9b120e-d3c7-4422-847a-8183c0ca4ef4.gif"  /><img src="https://user-images.githubusercontent.com/48603081/231477910-ba745c93-2c63-4a9d-928d-e47da0664ec0.gif"  /><img src="https://user-images.githubusercontent.com/48603081/231478432-5c18745a-dcf7-4017-9972-e720e226ba68.gif"  /><img src="https://user-images.githubusercontent.com/48603081/231478446-5fcaebfa-a3f0-4087-87a7-0b674f6503fc.gif"  /></details></sub>
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Update the copy icon in snippets and samples to use the standard one<br />
+    <sub>[#123651](https://github.com/flutter/flutter/pull/123651) merged on April 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123651) over 2 weeks, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub><details><summary>2 images...</summary><img width="369" alt="223876418-2470c4c5-abfc-4511-9762-1fd0b6e05903" src="https://user-images.githubusercontent.com/8867023/228396142-450125ee-d8cf-4ede-8545-5920eb0da99d.png"><img width="408" alt="image" src="https://user-images.githubusercontent.com/8867023/228395959-8531704a-77aa-43af-9dcf-7456bb2ed090.png"></details></sub>
 
 * **[Mubarak Bakarman](https://github.com/mub-pro)** &mdash; Customize color and thickness of connected lines in Stepper.dart<br />
     <sub>[#122485](https://github.com/flutter/flutter/pull/122485) merged on April 17, 2023 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/122485) over 1 month, 117 additions and 11 deletions in 2 files</sub><br />
@@ -119,7 +124,7 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [CupertinoListSection] adds new property separatorColor<br />
     <sub>[#124803](https://github.com/flutter/flutter/pull/124803) merged on April 14, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124803) over 23 hours, 55 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Kate Lovett](https://github.com/Piinks)</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
     <sub><details><summary>2 images...</summary><img src="https://user-images.githubusercontent.com/13456345/231840875-22605c23-ee9f-464f-a005-c9fce1b641a7.png" width=350>![a](https://user-images.githubusercontent.com/13456345/231840832-6027cf86-e9c0-4206-b6f8-23556471c1bd.png) | ![b](https://user-images.githubusercontent.com/13456345/231840862-dcc30212-14f8-44af-a8cb-d04b22b7a078.png) | ![c](https://user-images.githubusercontent.com/13456345/231840870-d9fafe23-e9a4-423a-a25c-b71835991d07.png)</details></sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Add benchmarks for the Material3 Components screen<br />
@@ -644,7 +649,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-20 commits.
+21 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [rotation_distortion] Use "delayed swap" solution to reduce rotation distortion<br />
     <sub>[#40730](https://github.com/flutter/engine/pull/40730) merged on April 17, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40730) over 2 weeks, 150 additions and 20 deletions in 2 files</sub><br />
@@ -696,9 +701,13 @@
     <sub>[#40979](https://github.com/flutter/engine/pull/40979) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40979) over 1 week, 119 additions and 25 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Some minor doc typo and diagnostic fixes.<br />
+    <sub>[#40982](https://github.com/flutter/engine/pull/40982) merged on April 18, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/40982) over 1 week, 16 additions and 15 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
 * **[Caroline Liu](https://github.com/caroqliu)** &mdash; [fuchsia] migrate touch-input integration tests to gfx scene manager test ui stack<br />
     <sub>[#41118](https://github.com/flutter/engine/pull/41118) merged on April 18, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/41118) over 5 days, 16 additions and 10 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [David Worsham](https://github.com/arbreng)</sub><br />
+    <sub>Reviewed by: [David Worsham](https://github.com/arbreng), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; [Impeller] Make `DoMakeRasterSnapshot` output timeline event.<br />
     <sub>[#41197](https://github.com/flutter/engine/pull/41197) merged on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41197) over 3 days, 1 addition and 0 deletions in 1 file</sub><br />
@@ -766,7 +775,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Fix issues in path polyline generation.<br />
     <sub>[#40975](https://github.com/flutter/engine/pull/40975) merged on April 10, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/40975) over 3 days, 406 additions and 60 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] convert most filters to utilize entities instead of subpasses<br />
     <sub>[#40973](https://github.com/flutter/engine/pull/40973) merged on April 11, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/40973) over 4 days, 389 additions and 295 deletions in 16 files</sub><br />
@@ -1345,7 +1354,7 @@
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "[web] remove obsolete object caches; simplify native object management"<br />
     <sub>[#40937](https://github.com/flutter/engine/pull/40937) merged on April 5, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/40937) over 53 minutes, 772 additions and 559 deletions in 13 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Xilai Zhang](https://github.com/XilaiZhang)</sub><br />
+    <sub>Reviewed by: [Xilai Zhang](https://github.com/XilaiZhang), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "[web] remove obsolete object caches; simplify native object management"<br />
     <sub>[#40882](https://github.com/flutter/engine/pull/40882) merged on April 3, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/40882) over 3 hours, 770 additions and 557 deletions in 13 files</sub><br />
