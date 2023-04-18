@@ -68,9 +68,6 @@
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; BottomAppBar doc: Fix doc about surfaceTintColor<br />
     <sub>[#124563](https://github.com/flutter/flutter/pull/124563) opened on on April 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124563) 10 additions and 4 deletions in 1 file</sub><br />
 
-* **[9oya](https://github.com/9oya)** &mdash; Implement CheckmarkableChipAttributes on ChoiceChip<br />
-    <sub>[#124743](https://github.com/flutter/flutter/pull/124743) opened on on April 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124743) 58 additions and 1 deletion in 3 files</sub><br />
-
 * **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Added 2 new features to bottom sheet SafeArea Open and close SafeArea…<br />
     <sub>[#124786](https://github.com/flutter/flutter/pull/124786) opened on on April 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124786) 9 additions and 1 deletion in 1 file</sub><br />
 
