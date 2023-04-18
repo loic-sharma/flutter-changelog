@@ -4,7 +4,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-24 commits.
+26 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip highlight color isn't drawn on top of the background color<br />
     <sub>[#124673](https://github.com/flutter/flutter/pull/124673) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124673) over 5 days, 52 additions and 2 deletions in 2 files</sub><br />
@@ -34,6 +34,11 @@
     <sub>[#124899](https://github.com/flutter/flutter/pull/124899) merged on April 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124899) over 3 days, 147 additions and 55 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot from 2023-04-14 16-24-08](https://user-images.githubusercontent.com/389558/232169921-bb196934-8175-43a8-9150-92d94be9f5f2.png) | ![Screenshot from 2023-04-14 15-44-40](https://user-images.githubusercontent.com/389558/232169329-ba8d0053-9584-453c-8633-054035118ac8.png)</details></sub>
+
+* **[Samuel Abada](https://github.com/Mastersam07)** &mdash; Remove double.fromEnvironment from dart-define doc<br />
+    <sub>[#124102](https://github.com/flutter/flutter/pull/124102) merged on April 18, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/124102) over 2 weeks, 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+    <sub><details><summary>1 image...</summary><img width="1440" alt="Screenshot 2023-04-03 at 19 31 34" src="https://user-images.githubusercontent.com/31275429/229720102-2020e1a9-c1fb-470b-89e6-ffb84096a51b.png"></details></sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [InputDatePickerFormField] adds acceptEmptyDate to InputDatePickerFormField Widget<br />
     <sub>[#124143](https://github.com/flutter/flutter/pull/124143) merged on April 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124143) over 1 week, 42 additions and 0 deletions in 2 files</sub><br />
@@ -75,6 +80,10 @@
 * **[Viren Khatri](https://github.com/werainkhatri)** &mdash; relayout active ListWheelScrollView children every performLayout<br />
     <sub>[#124476](https://github.com/flutter/flutter/pull/124476) merged on April 18, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/124476) over 1 week, 37 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Kim Jiun](https://github.com/KKimj)** &mdash; Update to add Kim Jiun to `AUTHORS`<br />
+    <sub>[#125026](https://github.com/flutter/flutter/pull/125026) merged on April 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125026) over 12 hours, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add controller argument to SubmenuButton<br />
     <sub>[#125000](https://github.com/flutter/flutter/pull/125000) merged on April 18, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/125000) over 22 hours, 247 additions and 171 deletions in 2 files</sub><br />
