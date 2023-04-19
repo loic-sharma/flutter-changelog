@@ -80,9 +80,6 @@
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Add prefer_final_parameters lint<br />
     <sub>[#125061](https://github.com/flutter/flutter/pull/125061) opened on on April 18, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/125061) 56116 additions and 56115 deletions in 3318 files</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Report web compiler used with `buildEventSettings`<br />
-    <sub>[#125092](https://github.com/flutter/flutter/pull/125092) opened on on April 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125092) 10 additions and 1 deletion in 1 file</sub><br />
-
 * **[Prashant Andoriya](https://github.com/andoriyaprashant)** &mdash; Removed required kotlin dependency<br />
     <sub>[#125098](https://github.com/flutter/flutter/pull/125098) opened on on April 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125098) 1 addition and 1 deletion in 1 file</sub><br />
 
