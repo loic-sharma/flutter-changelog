@@ -86,3 +86,6 @@
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Test named_cache<br />
     <sub>[#125082](https://github.com/flutter/flutter/pull/125082) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125082) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Report web compiler used with `buildEventSettings`<br />
+    <sub>[#125092](https://github.com/flutter/flutter/pull/125092) opened on on April 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125092) 10 additions and 1 deletion in 1 file</sub><br />
+
