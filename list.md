@@ -705,7 +705,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-27 commits.
+28 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [rotation_distortion] Use "delayed swap" solution to reduce rotation distortion
     <sub>[#40730](https://github.com/flutter/engine/pull/40730) merged on April 17, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40730) over 2 weeks, 150 additions and 20 deletions in 2 files</sub>
@@ -728,6 +728,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Turned on wide gamut support by default.
     <sub>[#39801](https://github.com/flutter/engine/pull/39801) merged on April 18, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/39801) over 1 month, 2 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Provide an opaque interface for color sources in Aiks
+    <sub>[#41315](https://github.com/flutter/engine/pull/41315) merged on April 19, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/41315) over 2 hours, 565 additions and 419 deletions in 13 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] faster glyph atlas generation by removing data copies
     <sub>[#41290](https://github.com/flutter/engine/pull/41290) merged on April 18, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/41290) over 15 hours, 54 additions and 58 deletions in 5 files</sub>
