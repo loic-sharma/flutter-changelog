@@ -95,3 +95,6 @@
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny cleanup for Navigator code<br />
     <sub>[#125099](https://github.com/flutter/flutter/pull/125099) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125099) 11 additions and 39 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Make selectable text mouse cursor configurable<br />
+    <sub>[#125133](https://github.com/flutter/flutter/pull/125133) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125133) 176 additions and 15 deletions in 8 files</sub><br />
+
