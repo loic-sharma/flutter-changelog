@@ -4,7 +4,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-40 commits.
+41 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Adaptive alert dialog
     <sub>[#124336](https://github.com/flutter/flutter/pull/124336) merged on April 18, 2023 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/124336) over 1 week, 391 additions and 1 deletion in 4 files</sub>
@@ -71,13 +71,17 @@
     <sub>[#124810](https://github.com/flutter/flutter/pull/124810) merged on April 19, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/124810) over 5 days, 7 additions and 39 deletions in 3 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [flutter_tools] bump min sdk version from 3.0.0-0 to 3.0.0
-    <sub>[#125158](https://github.com/flutter/flutter/pull/125158) merged on April 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125158) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Report web compiler used with `buildEventSettings`
+    <sub>[#125092](https://github.com/flutter/flutter/pull/125092) merged on April 19, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/125092) over 18 hours, 17 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[htoor3](https://github.com/htoor3)** &mdash; [web] - Clean up skipped tests
     <sub>[#124981](https://github.com/flutter/flutter/pull/124981) merged on April 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124981) over 1 day, 6 additions and 15 deletions in 2 files</sub>
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [flutter_tools] bump min sdk version from 3.0.0-0 to 3.0.0
+    <sub>[#125158](https://github.com/flutter/flutter/pull/125158) merged on April 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125158) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Fix a null crash in SelectableRegion Widget 
     <sub>[#124736](https://github.com/flutter/flutter/pull/124736) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124736) over 4 days, 33 additions and 2 deletions in 2 files</sub>
@@ -151,6 +155,10 @@
     <sub>[#125071](https://github.com/flutter/flutter/pull/125071) merged on April 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125071) over 20 hours, 98 additions and 38 deletions in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; SelectionContainer's listeners can remove itself during listener call…
+    <sub>[#124624](https://github.com/flutter/flutter/pull/124624) merged on April 17, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124624) over 6 days, 105 additions and 17 deletions in 8 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[chunhtai](https://github.com/chunhtai)** &mdash; fix SliverReorderableList test to use correct custom action id
     <sub>[#125144](https://github.com/flutter/flutter/pull/125144) merged on April 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125144) over 28 minutes, 2 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
@@ -162,10 +170,6 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Remove package:js/dart:js_interop conflicts
     <sub>[#124879](https://github.com/flutter/flutter/pull/124879) merged on April 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124879) over 4 days, 12 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; SelectionContainer's listeners can remove itself during listener call…
-    <sub>[#124624](https://github.com/flutter/flutter/pull/124624) merged on April 17, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124624) over 6 days, 105 additions and 17 deletions in 8 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; [reland] Update helper message for `--suppress-analytics`
     <sub>[#125145](https://github.com/flutter/flutter/pull/125145) merged on April 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125145) over 1 hour, 7 additions and 39 deletions in 3 files</sub>
