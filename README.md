@@ -4,7 +4,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-29 commits.
+30 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Adaptive alert dialog<br />
     <sub>[#124336](https://github.com/flutter/flutter/pull/124336) merged on April 18, 2023 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/124336) over 1 week, 391 additions and 1 deletion in 4 files</sub><br />
@@ -58,6 +58,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix text theme dart fix cases<br />
     <sub>[#125052](https://github.com/flutter/flutter/pull/125052) merged on April 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125052) over 43 minutes, 16 additions and 16 deletions in 2 files</sub><br />
     <sub>Reviewed by: [pdblasi-google](https://github.com/pdblasi-google)</sub><br />
+
+* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Update helper message for `--suppress-analytics`<br />
+    <sub>[#124810](https://github.com/flutter/flutter/pull/124810) merged on April 19, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/124810) over 5 days, 7 additions and 39 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add optional axis specifier to static scrollable methods<br />
     <sub>[#124894](https://github.com/flutter/flutter/pull/124894) merged on April 18, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/124894) over 3 days, 233 additions and 35 deletions in 2 files</sub><br />
