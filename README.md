@@ -709,7 +709,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-30 commits.
+32 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [rotation_distortion] Use "delayed swap" solution to reduce rotation distortion<br />
     <sub>[#40730](https://github.com/flutter/engine/pull/40730) merged on April 17, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40730) over 2 weeks, 150 additions and 20 deletions in 2 files</sub><br />
@@ -719,6 +719,10 @@
     <sub>[#41082](https://github.com/flutter/engine/pull/41082) merged on April 17, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/41082) over 6 days, 7 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Reid Baker](https://github.com/reidbaker), [gmackall](https://github.com/gmackall)</sub><br />
     <sub><details><summary>7 images...</summary><img width="977" alt="1" src="https://user-images.githubusercontent.com/8373036/231222642-1596c77c-d127-476b-9bce-8ad2e9cd3639.png"><img width="962" alt="2" src="https://user-images.githubusercontent.com/8373036/231222672-016ee708-c310-49c8-8016-070b6057af7b.png"><img width="880" alt="3" src="https://user-images.githubusercontent.com/8373036/231241491-c47f5aa6-96e9-4c1f-b92e-7cfed67381e2.png"><img width="878" alt="7" src="https://user-images.githubusercontent.com/8373036/231241550-09908108-1747-4ec3-bc70-145446b86eae.png"><img width="905" alt="4" src="https://user-images.githubusercontent.com/8373036/231222702-5ee739f2-fd71-4e20-807d-e3786e6f27fc.png"><img width="902" alt="5" src="https://user-images.githubusercontent.com/8373036/231222719-2ea28157-bd62-45fe-89ef-dd41ee7b3cca.png"><img width="902" alt="6" src="https://user-images.githubusercontent.com/8373036/231222735-55b63911-6a2d-4967-8043-298f4d413f2a.png"></details></sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove non-ShadowDom mode<br />
+    <sub>[#39915](https://github.com/flutter/engine/pull/39915) merged on April 19, 2023 &mdash; **Large:** [11 comments](https://github.com/flutter/engine/pull/39915) over 1 month, 361 additions and 626 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove glyph pixel rounding during text frame conversion<br />
     <sub>[#41285](https://github.com/flutter/engine/pull/41285) merged on April 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41285) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -748,6 +752,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS] Fix Ctrl+Tab is broken<br />
     <sub>[#40706](https://github.com/flutter/engine/pull/40706) merged on April 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40706) over 3 weeks, 102 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] added moltenvk notice<br />
+    <sub>[#41317](https://github.com/flutter/engine/pull/41317) merged on April 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41317) over 16 hours, 7 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart, zlib, emscripten, tweak license script for rolled zlib<br />
     <sub>[#41299](https://github.com/flutter/engine/pull/41299) merged on April 19, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/engine/pull/41299) over 12 hours, 207 additions and 158 deletions in 8 files</sub><br />
