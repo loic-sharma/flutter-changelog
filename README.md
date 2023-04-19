@@ -753,7 +753,7 @@
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix transform regressions for chained filters<br />
-    <sub>[#41332](https://github.com/flutter/engine/pull/41332) merged on April 19, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/41332) over 10 hours, 136 additions and 139 deletions in 12 files</sub><br />
+    <sub>[#41332](https://github.com/flutter/engine/pull/41332) merged on April 19, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/41332) over 10 hours, 136 additions and 139 deletions in 12 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>4 images...</summary>![Screenshot 2023-04-19 at 12 03 57 AM](https://user-images.githubusercontent.com/919017/233018073-986d2708-c5a9-4761-9441-b8497bdd31f8.png)![Screenshot 2023-04-19 at 3 02 06 AM](https://user-images.githubusercontent.com/919017/233041611-c322b5be-e89c-4e55-8acb-02bbafcf80b8.png)![Screenshot 2023-04-19 at 12 00 34 AM](https://user-images.githubusercontent.com/919017/233018091-cbe37378-99ce-4de3-b80b-3f866146b12e.png)![Screenshot 2023-04-19 at 2 59 56 AM](https://user-images.githubusercontent.com/919017/233041632-ebd68b7c-340d-4c5e-9e17-06a187eeac5e.png)</details></sub>
 
@@ -1603,7 +1603,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-9 commits.
+10 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to listen to url changes <br />
     <sub>[#3313](https://github.com/flutter/packages/pull/3313) merged on April 18, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3313) over 1 month, 103 additions and 7 deletions in 11 files</sub><br />
@@ -1636,6 +1636,10 @@
     <sub>[#3725](https://github.com/flutter/packages/pull/3725) merged on April 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3725) over 9 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=io.mockk:mockk&package-manager=gradle&previous-version=1.13.4&new-version=1.13.5)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] migrates test for route information.location deprecation<br />
+    <sub>[#3763](https://github.com/flutter/packages/pull/3763) merged on April 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3763) over 48 minutes, 50 additions and 40 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [palette_generator] run agp update for example<br />
     <sub>[#3747](https://github.com/flutter/packages/pull/3747) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3747) over 2 hours, 13 additions and 14 deletions in 6 files</sub><br />

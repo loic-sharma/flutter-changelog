@@ -78,7 +78,7 @@
     <sub>[#125061](https://github.com/flutter/flutter/pull/125061) opened on on April 18, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/125061) 56116 additions and 56115 deletions in 3318 files</sub><br />
 
 * **[Prashant Andoriya](https://github.com/andoriyaprashant)** &mdash; Removed required kotlin dependency<br />
-    <sub>[#125098](https://github.com/flutter/flutter/pull/125098) opened on on April 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125098) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#125098](https://github.com/flutter/flutter/pull/125098) opened on on April 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125098) 2 additions and 207 deletions in 2 files</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny cleanup for Navigator code<br />
     <sub>[#125099](https://github.com/flutter/flutter/pull/125099) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125099) 11 additions and 39 deletions in 1 file</sub><br />
