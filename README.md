@@ -975,7 +975,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove cores dimension from Mac Host clang-tidy<br />
     <sub>[#41214](https://github.com/flutter/engine/pull/41214) merged on April 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41214) over 2 hours, 0 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [keyonghan](https://github.com/keyonghan)</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Fix warning about angle_build_all being unread on Mac builds.<br />
     <sub>[#41176](https://github.com/flutter/engine/pull/41176) merged on April 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41176) over 18 hours, 4 additions and 2 deletions in 1 file</sub><br />
@@ -1123,7 +1123,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Move `TextRenderContext::Create` symbol into the text backend<br />
     <sub>[#41067](https://github.com/flutter/engine/pull/41067) merged on April 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41067) over 10 hours, 6 additions and 8 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Promote linux_desktop build to prod.<br />
     <sub>[#41076](https://github.com/flutter/engine/pull/41076) merged on April 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41076) over 1 hour, 0 additions and 1 deletion in 1 file</sub><br />
