@@ -89,3 +89,6 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Report web compiler used with `buildEventSettings`<br />
     <sub>[#125092](https://github.com/flutter/flutter/pull/125092) opened on on April 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125092) 10 additions and 1 deletion in 1 file</sub><br />
 
+* **[Prashant Andoriya](https://github.com/andoriyaprashant)** &mdash; Removed required kotlin dependency<br />
+    <sub>[#125096](https://github.com/flutter/flutter/pull/125096) opened on on April 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125096) 1 addition and 1 deletion in 1 file</sub><br />
+
