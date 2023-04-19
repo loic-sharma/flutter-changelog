@@ -95,3 +95,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Show magnifier on touch drag gestures<br />
     <sub>[#125151](https://github.com/flutter/flutter/pull/125151) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125151) 130 additions and 33 deletions in 2 files</sub><br />
 
+* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Don't infer placeholders if a placeholder list has been explicitly defined<br />
+    <sub>[#125154](https://github.com/flutter/flutter/pull/125154) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125154) 59 additions and 6 deletions in 2 files</sub><br />
+

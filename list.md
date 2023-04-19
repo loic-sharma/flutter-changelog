@@ -4,7 +4,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-34 commits.
+35 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Adaptive alert dialog
     <sub>[#124336](https://github.com/flutter/flutter/pull/124336) merged on April 18, 2023 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/124336) over 1 week, 391 additions and 1 deletion in 4 files</sub>
@@ -99,17 +99,13 @@
     <sub>[#124476](https://github.com/flutter/flutter/pull/124476) merged on April 18, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/124476) over 1 week, 37 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Dismiss the docked search view when the window size is changed
+    <sub>[#125071](https://github.com/flutter/flutter/pull/125071) merged on April 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125071) over 20 hours, 98 additions and 38 deletions in 2 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Remove token permissions for coverage.
     <sub>[#124909](https://github.com/flutter/flutter/pull/124909) merged on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124909) over 2 days, 0 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; fix SliverReorderableList test to use correct custom action id
-    <sub>[#125144](https://github.com/flutter/flutter/pull/125144) merged on April 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125144) over 28 minutes, 2 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Remove package:js/dart:js_interop conflicts
-    <sub>[#124879](https://github.com/flutter/flutter/pull/124879) merged on April 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124879) over 4 days, 12 additions and 3 deletions in 3 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Kim Jiun](https://github.com/KKimj)** &mdash; Update to add Kim Jiun to `AUTHORS`
     <sub>[#125026](https://github.com/flutter/flutter/pull/125026) merged on April 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125026) over 12 hours, 1 addition and 0 deletions in 1 file</sub>
@@ -143,9 +139,17 @@
     <sub>[#124711](https://github.com/flutter/flutter/pull/124711) merged on April 17, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/124711) over 5 days, 24 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Dismiss the docked search view when the window size is changed
-    <sub>[#125071](https://github.com/flutter/flutter/pull/125071) merged on April 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125071) over 20 hours, 98 additions and 38 deletions in 2 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+* **[chunhtai](https://github.com/chunhtai)** &mdash; fix SliverReorderableList test to use correct custom action id
+    <sub>[#125144](https://github.com/flutter/flutter/pull/125144) merged on April 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125144) over 28 minutes, 2 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Remove package:js/dart:js_interop conflicts
+    <sub>[#124879](https://github.com/flutter/flutter/pull/124879) merged on April 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124879) over 4 days, 12 additions and 3 deletions in 3 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; [reland] Update helper message for `--suppress-analytics`
+    <sub>[#125145](https://github.com/flutter/flutter/pull/125145) merged on April 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125145) over 1 hour, 7 additions and 39 deletions in 3 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Revert "Update helper message for `--suppress-analytics`"
     <sub>[#125141](https://github.com/flutter/flutter/pull/125141) merged on April 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125141) over 2 minutes, 39 additions and 7 deletions in 3 files</sub>
@@ -1007,7 +1011,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Keep a reference to BlitPassGLES in the EncodeCommands lambda to prevent use-after-free
     <sub>[#41100](https://github.com/flutter/engine/pull/41100) merged on April 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/41100) over 14 hours, 9 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Dan Field](https://github.com/dnfield)</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run the Mac impeller-cmake-example orchestrator on arm64
     <sub>[#41194](https://github.com/flutter/engine/pull/41194) merged on April 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41194) over 13 hours, 1 addition and 0 deletions in 1 file</sub>
@@ -1063,7 +1067,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update some more uses of the deprecated Skia SkImage::MakeFromBitmap API
     <sub>[#41041](https://github.com/flutter/engine/pull/41041) merged on April 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41041) over 7 minutes, 4 additions and 4 deletions in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [mac] Build mac framework with app extension flag
     <sub>[#41011](https://github.com/flutter/engine/pull/41011) merged on April 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/41011) over 2 days, 40 additions and 2 deletions in 4 files</sub>
@@ -1123,7 +1127,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Move `TextRenderContext::Create` symbol into the text backend
     <sub>[#41067](https://github.com/flutter/engine/pull/41067) merged on April 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41067) over 10 hours, 6 additions and 8 deletions in 2 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Promote linux_desktop build to prod.
     <sub>[#41076](https://github.com/flutter/engine/pull/41076) merged on April 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41076) over 1 hour, 0 additions and 1 deletion in 1 file</sub>
