@@ -62,9 +62,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update Navigation Drawer width and tiles padding<br />
     <sub>[#124042](https://github.com/flutter/flutter/pull/124042) opened on on April 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124042) 65 additions and 35 deletions in 6 files</sub><br />
 
-* **[Viren Khatri](https://github.com/werainkhatri)** &mdash; add tests for dominant bottom sheet in scaffold<br />
-    <sub>[#124472](https://github.com/flutter/flutter/pull/124472) opened on on April 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124472) 80 additions and 0 deletions in 1 file</sub><br />
-
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; BottomAppBar doc: Fix doc about surfaceTintColor<br />
     <sub>[#124563](https://github.com/flutter/flutter/pull/124563) opened on on April 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124563) 10 additions and 4 deletions in 1 file</sub><br />
 

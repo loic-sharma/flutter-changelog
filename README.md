@@ -4,7 +4,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-28 commits.
+29 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Adaptive alert dialog<br />
     <sub>[#124336](https://github.com/flutter/flutter/pull/124336) merged on April 18, 2023 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/124336) over 1 week, 391 additions and 1 deletion in 4 files</sub><br />
@@ -34,6 +34,11 @@
     <sub>[#124875](https://github.com/flutter/flutter/pull/124875) merged on April 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124875) over 3 days, 122 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
     <sub><details><summary>1 image...</summary>![cursor-pos-old](https://user-images.githubusercontent.com/389558/232118144-9d8e8251-250f-4c88-afcc-e6a4ac1f1561.gif) | ![cursor-pos](https://user-images.githubusercontent.com/389558/232117806-a7e3b0b4-a2a6-4f43-9505-e101d9f1d736.gif)</details></sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Disableable ContextMenuButtonItems<br />
+    <sub>[#124253](https://github.com/flutter/flutter/pull/124253) merged on April 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124253) over 1 week, 129 additions and 16 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+    <sub><details><summary>3 images...</summary><img width="248" alt="Screenshot 2023-04-05 at 9 26 16 AM" src="https://user-images.githubusercontent.com/389558/230177116-154999e8-eef3-441d-9fe9-7063839a6b99.png"><img width="240" alt="Screenshot 2023-04-05 at 11 18 01 AM" src="https://user-images.githubusercontent.com/389558/230177125-1680e851-223e-4956-b5b6-1a24e11dc22a.png"><img width="226" alt="Screenshot 2023-04-05 at 11 17 36 AM" src="https://user-images.githubusercontent.com/389558/230177123-bde82134-67e1-4ce2-8eec-719eeb779bf4.png"></details></sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Limit the number of Material spell check suggestions to 3<br />
     <sub>[#124899](https://github.com/flutter/flutter/pull/124899) merged on April 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124899) over 3 days, 147 additions and 55 deletions in 4 files</sub><br />
