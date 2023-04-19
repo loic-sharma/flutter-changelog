@@ -705,7 +705,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-28 commits.
+29 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [rotation_distortion] Use "delayed swap" solution to reduce rotation distortion<br />
     <sub>[#40730](https://github.com/flutter/engine/pull/40730) merged on April 17, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/40730) over 2 weeks, 150 additions and 20 deletions in 2 files</sub><br />
@@ -744,6 +744,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS] Fix Ctrl+Tab is broken<br />
     <sub>[#40706](https://github.com/flutter/engine/pull/40706) merged on April 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/40706) over 3 weeks, 102 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart, zlib, emscripten, tweak license script for rolled zlib<br />
+    <sub>[#41299](https://github.com/flutter/engine/pull/41299) merged on April 19, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/engine/pull/41299) over 12 hours, 207 additions and 158 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Zachary Anderson](https://github.com/zanderso), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:canvaskit] remove unnecessary instrumentation from picture<br />
     <sub>[#41313](https://github.com/flutter/engine/pull/41313) merged on April 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41313) over 1 hour, 39 additions and 4 deletions in 2 files</sub><br />
