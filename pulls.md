@@ -92,3 +92,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Make selectable text mouse cursor configurable<br />
     <sub>[#125133](https://github.com/flutter/flutter/pull/125133) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125133) 173 additions and 13 deletions in 8 files</sub><br />
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Show magnifier on touch drag gestures<br />
+    <sub>[#125151](https://github.com/flutter/flutter/pull/125151) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125151) 130 additions and 33 deletions in 2 files</sub><br />
+
