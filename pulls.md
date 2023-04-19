@@ -92,6 +92,3 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Make selectable text mouse cursor configurable<br />
     <sub>[#125133](https://github.com/flutter/flutter/pull/125133) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125133) 173 additions and 13 deletions in 8 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Revert selectable update back to be a postframecallback or microtask<br />
-    <sub>[#125140](https://github.com/flutter/flutter/pull/125140) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125140) 60 additions and 17 deletions in 3 files</sub><br />
-

@@ -157,7 +157,7 @@
 
 * **[Aditya Thakur](https://github.com/adityathakurxd)** &mdash; Fix ShaderMask Example issue<br />
     <sub>[#124511](https://github.com/flutter/flutter/pull/124511) merged on April 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/124511) over 1 day, 4 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Viren Khatri](https://github.com/werainkhatri)</sub><br />
+    <sub>Reviewed by: [Viren Khatri](https://github.com/werainkhatri), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>1 image...</summary><img width="275" alt="Example that makes the text look like it is on fire" src="https://user-images.githubusercontent.com/53579386/230909077-f675686e-2b02-42f9-85c6-f22fe6fc5655.png"></details></sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; iOS context menu shadow<br />
@@ -209,7 +209,7 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; ExpansionTile audit<br />
     <sub>[#124281](https://github.com/flutter/flutter/pull/124281) merged on April 10, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/124281) over 4 days, 2289 additions and 89 deletions in 85 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Sliver Constrained Cross Axis<br />
     <sub>[#124337](https://github.com/flutter/flutter/pull/124337) merged on April 10, 2023 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/124337) over 4 days, 238 additions and 0 deletions in 5 files</sub><br />
@@ -333,7 +333,7 @@
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [flutter_test] Adds method to mock EventChannels<br />
     <sub>[#124415](https://github.com/flutter/flutter/pull/124415) merged on April 10, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/124415) over 2 days, 216 additions and 45 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [pdblasi-google](https://github.com/pdblasi-google)</sub><br />
+    <sub>Reviewed by: [pdblasi-google](https://github.com/pdblasi-google), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [ci.yaml] Disable packaging_test on release candidates<br />
     <sub>[#124712](https://github.com/flutter/flutter/pull/124712) merged on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124712) over 48 minutes, 16 additions and 0 deletions in 1 file</sub><br />
@@ -654,7 +654,7 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Make flutter_adapter_test more resilient to pub output<br />
     <sub>[#124139](https://github.com/flutter/flutter/pull/124139) merged on April 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124139) over 1 hour, 24 additions and 14 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert "Fix scrolling in the  `Drawer` and `NavigationDrawer` triggers AppBar's scrolledUnderElevation"<br />
     <sub>[#124226](https://github.com/flutter/flutter/pull/124226) merged on April 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124226) over 8 minutes, 1 addition and 100 deletions in 4 files</sub><br />
@@ -955,7 +955,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove cores dimension from Mac Host clang-tidy<br />
     <sub>[#41214](https://github.com/flutter/engine/pull/41214) merged on April 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41214) over 2 hours, 0 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [keyonghan](https://github.com/keyonghan)</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Fix warning about angle_build_all being unread on Mac builds.<br />
     <sub>[#41176](https://github.com/flutter/engine/pull/41176) merged on April 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41176) over 18 hours, 4 additions and 2 deletions in 1 file</sub><br />
@@ -1043,7 +1043,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update some more uses of the deprecated Skia SkImage::MakeFromBitmap API<br />
     <sub>[#41041](https://github.com/flutter/engine/pull/41041) merged on April 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41041) over 7 minutes, 4 additions and 4 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [mac] Build mac framework with app extension flag<br />
     <sub>[#41011](https://github.com/flutter/engine/pull/41011) merged on April 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/41011) over 2 days, 40 additions and 2 deletions in 4 files</sub><br />
