@@ -29,9 +29,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Precache after channel switch<br />
     <sub>[#118129](https://github.com/flutter/flutter/pull/118129) opened on on January 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/118129) 74 additions and 47 deletions in 5 files</sub><br />
 
-* **[Hunter Wilhelm](https://github.com/hunterwilhelm)** &mdash; CupertinoDatePicker with month and year (#93508)<br />
-    <sub>[#118492](https://github.com/flutter/flutter/pull/118492) opened on on January 14, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/118492) 289 additions and 5 deletions in 1 file</sub><br />
-
 * **[Sohrab Vahidli](https://github.com/sohrabonline)** &mdash; Update nav_bar.dart<br />
     <sub>[#121943](https://github.com/flutter/flutter/pull/121943) opened on on March 4, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/121943) 22 additions and 3 deletions in 1 file</sub><br />
 
@@ -39,7 +36,7 @@
     <sub>[#121957](https://github.com/flutter/flutter/pull/121957) opened on on March 5, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/121957) 373 additions and 25 deletions in 4 files</sub><br />
 
 * **[Joseph, NamKung](https://github.com/JosephNK)** &mdash; Fix localize CupertinoDatePicker for Korea locale<br />
-    <sub>[#122259](https://github.com/flutter/flutter/pull/122259) opened on on March 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122259) 0 additions and 0 deletions in 0 files</sub><br />
+    <sub>[#122259](https://github.com/flutter/flutter/pull/122259) opened on on March 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122259) 0 additions and 0 deletions in 0 files</sub><br />
 
 * **[Ruben Aster](https://github.com/rubenaster)** &mdash; Fix transitioning a TabBarView manually doesn't honor duration and curve #16892<br />
     <sub>[#122279](https://github.com/flutter/flutter/pull/122279) opened on on March 9, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/122279) 45 additions and 16 deletions in 2 files</sub><br />
@@ -88,9 +85,6 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Make selectable text mouse cursor configurable<br />
     <sub>[#125133](https://github.com/flutter/flutter/pull/125133) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125133) 173 additions and 13 deletions in 8 files</sub><br />
-
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Show magnifier on touch drag gestures<br />
-    <sub>[#125151](https://github.com/flutter/flutter/pull/125151) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125151) 130 additions and 33 deletions in 2 files</sub><br />
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Don't infer placeholders if a placeholder list has been explicitly defined<br />
     <sub>[#125154](https://github.com/flutter/flutter/pull/125154) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125154) 59 additions and 6 deletions in 2 files</sub><br />
