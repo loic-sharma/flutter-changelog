@@ -101,6 +101,3 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; CP DDS bugfix<br />
     <sub>[#125237](https://github.com/flutter/flutter/pull/125237) opened on on April 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125237) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Sliver Constrained Cross Axis<br />
-    <sub>[#125239](https://github.com/flutter/flutter/pull/125239) opened on on April 20, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/125239) 363 additions and 0 deletions in 6 files</sub><br />
-
