@@ -63,6 +63,10 @@
     <sub>[#125052](https://github.com/flutter/flutter/pull/125052) merged on April 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125052) over 43 minutes, 16 additions and 16 deletions in 2 files</sub><br />
     <sub>Reviewed by: [pdblasi-google](https://github.com/pdblasi-google)</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [flutter_tools] bump min sdk version from 3.0.0-0 to 3.0.0<br />
+    <sub>[#125158](https://github.com/flutter/flutter/pull/125158) merged on April 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125158) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add optional axis specifier to static scrollable methods<br />
     <sub>[#124894](https://github.com/flutter/flutter/pull/124894) merged on April 18, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/124894) over 3 days, 233 additions and 35 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
@@ -75,21 +79,17 @@
     <sub>[#125092](https://github.com/flutter/flutter/pull/125092) merged on April 19, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/125092) over 18 hours, 17 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Revert selectable update back to be a postframecallback or microtask<br />
+    <sub>[#125140](https://github.com/flutter/flutter/pull/125140) merged on April 19, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/125140) over 3 hours, 60 additions and 17 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
 * **[htoor3](https://github.com/htoor3)** &mdash; [web] - Clean up skipped tests<br />
     <sub>[#124981](https://github.com/flutter/flutter/pull/124981) merged on April 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124981) over 1 day, 6 additions and 15 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [flutter_tools] bump min sdk version from 3.0.0-0 to 3.0.0<br />
-    <sub>[#125158](https://github.com/flutter/flutter/pull/125158) merged on April 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125158) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
 * **[hangyu](https://github.com/hangyujin)** &mdash; Fix a null crash in SelectableRegion Widget <br />
     <sub>[#124736](https://github.com/flutter/flutter/pull/124736) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124736) over 4 days, 33 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Revert selectable update back to be a postframecallback or microtask<br />
-    <sub>[#125140](https://github.com/flutter/flutter/pull/125140) merged on April 19, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/125140) over 3 hours, 60 additions and 17 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; fix DropdownMenu crash when resize window during menu showing<br />
     <sub>[#124855](https://github.com/flutter/flutter/pull/124855) merged on April 19, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124855) over 5 days, 67 additions and 3 deletions in 3 files</sub><br />
