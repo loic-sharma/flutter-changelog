@@ -89,6 +89,9 @@
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Don't infer placeholders if a placeholder list has been explicitly defined<br />
     <sub>[#125154](https://github.com/flutter/flutter/pull/125154) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125154) 59 additions and 6 deletions in 2 files</sub><br />
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Toolbar should re-appear on drag end<br />
+    <sub>[#125165](https://github.com/flutter/flutter/pull/125165) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125165) 18 additions and 0 deletions in 3 files</sub><br />
+
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Test versioned xcode cache<br />
     <sub>[#125176](https://github.com/flutter/flutter/pull/125176) opened on on April 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125176) 2 additions and 0 deletions in 1 file</sub><br />
 
