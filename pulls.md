@@ -84,7 +84,7 @@
     <sub>[#125099](https://github.com/flutter/flutter/pull/125099) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125099) 11 additions and 39 deletions in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Make selectable text mouse cursor configurable<br />
-    <sub>[#125133](https://github.com/flutter/flutter/pull/125133) opened on on April 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125133) 173 additions and 13 deletions in 8 files</sub><br />
+    <sub>[#125133](https://github.com/flutter/flutter/pull/125133) opened on on April 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125133) 202 additions and 21 deletions in 9 files</sub><br />
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Don't infer placeholders if a placeholder list has been explicitly defined<br />
     <sub>[#125154](https://github.com/flutter/flutter/pull/125154) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125154) 59 additions and 6 deletions in 2 files</sub><br />
