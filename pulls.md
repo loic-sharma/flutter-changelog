@@ -98,3 +98,6 @@
 * **[Prashant Andoriya](https://github.com/andoriyaprashant)** &mdash; removed user message class<br />
     <sub>[#125192](https://github.com/flutter/flutter/pull/125192) opened on on April 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125192) 1 addition and 212 deletions in 1 file</sub><br />
 
+* **[Hugo](https://github.com/xcc3641)** &mdash; Fix the divider_theme space documentation problem<br />
+    <sub>[#125195](https://github.com/flutter/flutter/pull/125195) opened on on April 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125195) 1 addition and 1 deletion in 1 file</sub><br />
+
