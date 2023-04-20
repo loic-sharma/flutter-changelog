@@ -142,7 +142,7 @@
     <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup), [Helin Shiah](https://github.com/helin24), [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Remove unused context parameter
-    <sub>[#124254](https://github.com/flutter/flutter/pull/124254) merged on April 18, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124254) over 1 week, 88 additions and 6 deletions in 6 files</sub>
+    <sub>[#124254](https://github.com/flutter/flutter/pull/124254) merged on April 18, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/124254) over 1 week, 88 additions and 6 deletions in 6 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Stop running "_impeller_" benchmark variants
