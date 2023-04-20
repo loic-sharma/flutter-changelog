@@ -86,12 +86,6 @@
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Don't infer placeholders if a placeholder list has been explicitly defined<br />
     <sub>[#125154](https://github.com/flutter/flutter/pull/125154) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125154) 59 additions and 6 deletions in 2 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Toolbar should re-appear on drag end<br />
-    <sub>[#125165](https://github.com/flutter/flutter/pull/125165) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125165) 18 additions and 0 deletions in 3 files</sub><br />
-
-* **[keyonghan](https://github.com/keyonghan)** &mdash; Test versioned xcode cache<br />
-    <sub>[#125176](https://github.com/flutter/flutter/pull/125176) opened on on April 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125176) 2 additions and 0 deletions in 1 file</sub><br />
-
 * **[Prashant Andoriya](https://github.com/andoriyaprashant)** &mdash; removed user message class<br />
     <sub>[#125192](https://github.com/flutter/flutter/pull/125192) opened on on April 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125192) 1 addition and 212 deletions in 1 file</sub><br />
 
@@ -99,7 +93,7 @@
     <sub>[#125195](https://github.com/flutter/flutter/pull/125195) opened on on April 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125195) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Update xcode to 14c18 for host only bots<br />
-    <sub>[#125211](https://github.com/flutter/flutter/pull/125211) opened on on April 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125211) 41 additions and 41 deletions in 1 file</sub><br />
+    <sub>[#125211](https://github.com/flutter/flutter/pull/125211) opened on on April 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125211) 43 additions and 43 deletions in 1 file</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.<br />
     <sub>[#125215](https://github.com/flutter/flutter/pull/125215) opened on on April 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125215) 1 addition and 1 deletion in 1 file</sub><br />
