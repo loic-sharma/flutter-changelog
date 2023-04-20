@@ -98,3 +98,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; CP DDS bugfix<br />
     <sub>[#125237](https://github.com/flutter/flutter/pull/125237) opened on on April 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125237) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove dynamic calls<br />
+    <sub>[#125238](https://github.com/flutter/flutter/pull/125238) opened on on April 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125238) 4 additions and 8 deletions in 1 file</sub><br />
+
