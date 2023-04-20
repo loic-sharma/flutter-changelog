@@ -95,3 +95,6 @@
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Test versioned xcode cache<br />
     <sub>[#125176](https://github.com/flutter/flutter/pull/125176) opened on on April 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125176) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[Prashant Andoriya](https://github.com/andoriyaprashant)** &mdash; removed user message class<br />
+    <sub>[#125192](https://github.com/flutter/flutter/pull/125192) opened on on April 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125192) 1 addition and 212 deletions in 1 file</sub><br />
+
