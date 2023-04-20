@@ -1623,7 +1623,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-11 commits.
+12 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to listen to url changes 
     <sub>[#3313](https://github.com/flutter/packages/pull/3313) merged on April 18, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3313) over 1 month, 103 additions and 7 deletions in 11 files</sub>
@@ -1632,6 +1632,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Add initial gradle validation command
     <sub>[#3715](https://github.com/flutter/packages/pull/3715) merged on April 17, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/packages/pull/3715) over 2 days, 362 additions and 6 deletions in 19 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Ross Wang](https://github.com/AsturaPhoenix)** &mdash; [google_maps_flutter_web] Allow marker position updates
+    <sub>[#3697](https://github.com/flutter/packages/pull/3697) merged on April 20, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/3697) over 1 week, 81 additions and 16 deletions in 6 files</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [webview]: Bump com.android.tools.build:gradle from 7.2.2 to 8.0.0 in /packages/webview_flutter/webview_flutter_android/android
     <sub>[#3739](https://github.com/flutter/packages/pull/3739) merged on April 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3739) over 1 day, 6 additions and 2 deletions in 3 files</sub>
