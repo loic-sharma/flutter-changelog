@@ -95,3 +95,6 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Fix JS types in _test_http_request.dart<br />
     <sub>[#125220](https://github.com/flutter/flutter/pull/125220) opened on on April 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125220) 11 additions and 5 deletions in 1 file</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; CP DDS bugfix<br />
+    <sub>[#125237](https://github.com/flutter/flutter/pull/125237) opened on on April 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125237) 2 additions and 2 deletions in 1 file</sub><br />
+
