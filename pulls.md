@@ -92,9 +92,6 @@
 * **[Hugo](https://github.com/xcc3641)** &mdash; Fix the divider_theme space documentation problem<br />
     <sub>[#125195](https://github.com/flutter/flutter/pull/125195) opened on on April 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125195) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.<br />
-    <sub>[#125215](https://github.com/flutter/flutter/pull/125215) opened on on April 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125215) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Fix JS types in _test_http_request.dart<br />
     <sub>[#125220](https://github.com/flutter/flutter/pull/125220) opened on on April 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125220) 8 additions and 5 deletions in 1 file</sub><br />
 
