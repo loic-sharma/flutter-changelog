@@ -98,6 +98,3 @@
 * **[Hugo](https://github.com/xcc3641)** &mdash; Fix the divider_theme space documentation problem<br />
     <sub>[#125195](https://github.com/flutter/flutter/pull/125195) opened on on April 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125195) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `OutlinedButton` & `TextButton` throw exception when passing only one cursor to `styleFrom`<br />
-    <sub>[#125204](https://github.com/flutter/flutter/pull/125204) opened on on April 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125204) 48 additions and 13 deletions in 5 files</sub><br />
-
