@@ -41,6 +41,9 @@
 * **[Ruben Aster](https://github.com/rubenaster)** &mdash; Fix transitioning a TabBarView manually doesn't honor duration and curve #16892<br />
     <sub>[#122279](https://github.com/flutter/flutter/pull/122279) opened on on March 9, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/122279) 45 additions and 16 deletions in 2 files</sub><br />
 
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Cleanup flutter config output<br />
+    <sub>[#122384](https://github.com/flutter/flutter/pull/122384) opened on on March 10, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/122384) 9 additions and 18 deletions in 2 files</sub><br />
+
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Fix style issues<br />
     <sub>[#122586](https://github.com/flutter/flutter/pull/122586) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122586) 4 additions and 8 deletions in 1 file</sub><br />
 
@@ -97,4 +100,7 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; CP DDS bugfix<br />
     <sub>[#125237](https://github.com/flutter/flutter/pull/125237) opened on on April 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125237) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Sliver Constrained Cross Axis<br />
+    <sub>[#125239](https://github.com/flutter/flutter/pull/125239) opened on on April 20, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/125239) 363 additions and 0 deletions in 6 files</sub><br />
 
