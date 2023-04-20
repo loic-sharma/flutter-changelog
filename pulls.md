@@ -101,6 +101,3 @@
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Update xcode to 14c18 for host only bots<br />
     <sub>[#125211](https://github.com/flutter/flutter/pull/125211) opened on on April 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125211) 41 additions and 41 deletions in 1 file</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; fix localization typo for expansionTileExpandedHint<br />
-    <sub>[#125212](https://github.com/flutter/flutter/pull/125212) opened on on April 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125212) 2 additions and 2 deletions in 2 files</sub><br />
-
