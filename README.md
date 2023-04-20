@@ -1661,7 +1661,7 @@
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.2.2&new-version=8.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Convert Android to Pigeon<br />
-    <sub>[#3748](https://github.com/flutter/packages/pull/3748) merged on April 18, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/3748) over 21 hours, 2051 additions and 861 deletions in 16 files</sub><br />
+    <sub>[#3748](https://github.com/flutter/packages/pull/3748) merged on April 18, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/3748) over 21 hours, 2051 additions and 861 deletions in 16 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump com.android.tools.build:gradle from 7.3.1 to 8.0.0 in /packages/pigeon/platform_tests/alternate_language_test_plugin/android<br />
