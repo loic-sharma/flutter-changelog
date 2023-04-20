@@ -49,7 +49,7 @@
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot from 2023-04-14 16-24-08](https://user-images.githubusercontent.com/389558/232169921-bb196934-8175-43a8-9150-92d94be9f5f2.png) | ![Screenshot from 2023-04-14 15-44-40](https://user-images.githubusercontent.com/389558/232169329-ba8d0053-9584-453c-8633-054035118ac8.png)</details></sub>
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Make search view shape clip the view content
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Search view shape should clip the view content
     <sub>[#125161](https://github.com/flutter/flutter/pull/125161) merged on April 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125161) over 7 hours, 2 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>2 images...</summary><img width="350" alt="Screenshot 2023-04-19 at 12 09 48 PM" src="https://user-images.githubusercontent.com/36861262/233201222-468820a9-8717-4b6c-8528-8125a40fc161.png"><img width="350" alt="Screenshot 2023-04-19 at 2 13 52 PM" src="https://user-images.githubusercontent.com/36861262/233201609-81f5a942-2390-4081-a9c7-c9523a7f9e72.png"></details></sub>
