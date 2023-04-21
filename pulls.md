@@ -42,7 +42,7 @@
     <sub>[#122279](https://github.com/flutter/flutter/pull/122279) opened on on March 9, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/122279) 45 additions and 16 deletions in 2 files</sub><br />
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Cleanup flutter config output<br />
-    <sub>[#122384](https://github.com/flutter/flutter/pull/122384) opened on on March 10, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/122384) 9 additions and 18 deletions in 2 files</sub><br />
+    <sub>[#122384](https://github.com/flutter/flutter/pull/122384) opened on on March 10, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/122384) 9 additions and 18 deletions in 2 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Fix style issues<br />
     <sub>[#122586](https://github.com/flutter/flutter/pull/122586) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122586) 4 additions and 8 deletions in 1 file</sub><br />
