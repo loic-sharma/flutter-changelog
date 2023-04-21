@@ -107,3 +107,6 @@
 * **[ChenRenJie](https://github.com/b7woreo)** &mdash; Fix incorrect assert hint in flutter.groovy<br />
     <sub>[#125283](https://github.com/flutter/flutter/pull/125283) opened on on April 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125283) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Anas](https://github.com/Anas35)** &mdash; fix package template create platform folders<br />
+    <sub>[#125292](https://github.com/flutter/flutter/pull/125292) opened on on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125292) 18 additions and 0 deletions in 2 files</sub><br />
+
