@@ -92,9 +92,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; add gradle error handler for when the remote ssl host terminates handshake process<br />
     <sub>[#125270](https://github.com/flutter/flutter/pull/125270) opened on on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125270) 67 additions and 0 deletions in 3 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.<br />
-    <sub>[#125272](https://github.com/flutter/flutter/pull/125272) opened on on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125272) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[ChenRenJie](https://github.com/b7woreo)** &mdash; Fix incorrect assert hint in flutter.groovy<br />
     <sub>[#125283](https://github.com/flutter/flutter/pull/125283) opened on on April 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125283) 1 addition and 1 deletion in 1 file</sub><br />
 
