@@ -285,15 +285,15 @@
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Kate Lovett](https://github.com/Piinks)</sub>
     <sub><details><summary>1 image...</summary>![image](https://user-images.githubusercontent.com/351125/225201457-716f7263-cbb1-4d22-95ba-63a254dbc95a.png)</details></sub>
 
-* **[Nabeel Parkar](https://github.com/exaby73)** &mdash; Bug report 2 issue template
-    <sub>[#122385](https://github.com/flutter/flutter/pull/122385) merged on April 12, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/122385) over 1 month, 138 additions and 108 deletions in 9 files</sub>
-    <sub>Reviewed by: [helinanever](https://github.com/helinanever), [stuartmorgan](https://github.com/stuartmorgan)</sub>
-    <sub><details><summary>1 image...</summary>![image](https://user-images.githubusercontent.com/50555895/231153464-5409b641-3d2c-4103-b4cf-a46b9a5d3e54.png)</details></sub>
-
 * **[Aditya Thakur](https://github.com/adityathakurxd)** &mdash; Fix ShaderMask Example issue
     <sub>[#124511](https://github.com/flutter/flutter/pull/124511) merged on April 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/124511) over 1 day, 4 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Viren Khatri](https://github.com/werainkhatri)</sub>
     <sub><details><summary>1 image...</summary><img width="275" alt="Example that makes the text look like it is on fire" src="https://user-images.githubusercontent.com/53579386/230909077-f675686e-2b02-42f9-85c6-f22fe6fc5655.png"></details></sub>
+
+* **[Nabeel Parkar](https://github.com/exaby73)** &mdash; Bug report 2 issue template
+    <sub>[#122385](https://github.com/flutter/flutter/pull/122385) merged on April 12, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/122385) over 1 month, 138 additions and 108 deletions in 9 files</sub>
+    <sub>Reviewed by: [helinanever](https://github.com/helinanever), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+    <sub><details><summary>1 image...</summary>![image](https://user-images.githubusercontent.com/50555895/231153464-5409b641-3d2c-4103-b4cf-a46b9a5d3e54.png)</details></sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; iOS context menu shadow
     <sub>[#122429](https://github.com/flutter/flutter/pull/122429) merged on April 14, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/122429) over 1 month, 87 additions and 14 deletions in 2 files</sub>
@@ -1797,7 +1797,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-14 commits.
+15 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to listen to url changes 
     <sub>[#3313](https://github.com/flutter/packages/pull/3313) merged on April 18, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3313) over 1 month, 103 additions and 7 deletions in 11 files</sub>
@@ -1858,6 +1858,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fixes a bug that go_router would crash if pageBuilder depends on InheritedWidgets.s.
     <sub>[#3714](https://github.com/flutter/packages/pull/3714) merged on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3714) over 3 days, 50 additions and 3 deletions in 4 files</sub>
     <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[pigeon] Add an initial example app"
+    <sub>[#3785](https://github.com/flutter/packages/pull/3785) merged on April 21, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/3785) over 7 hours, 0 additions and 4360 deletions in 117 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 ### April 8, 2023 to April 14, 2023
 
@@ -2019,7 +2023,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.8.10 to 1.8.20 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#3623](https://github.com/flutter/packages/pull/3623) merged on April 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3623) over 8 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.8.10&new-version=1.8.20)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Skip flaky transparency test
