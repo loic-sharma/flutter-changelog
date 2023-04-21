@@ -1813,7 +1813,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-20 commits.
+21 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to listen to url changes 
     <sub>[#3313](https://github.com/flutter/packages/pull/3313) merged on April 18, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3313) over 1 month, 103 additions and 7 deletions in 11 files</sub>
@@ -1874,6 +1874,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [image_picker_ios] In unit test write and read kCGImagePropertyExifUserComment property
     <sub>[#3783](https://github.com/flutter/packages/pull/3783) merged on April 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3783) over 19 hours, 5 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; [pigeon] Update for compatibility with a future change to the analyzer.
+    <sub>[#3789](https://github.com/flutter/packages/pull/3789) merged on April 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3789) over 2 hours, 4 additions and 5 deletions in 1 file</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_platform_interface] Adds method to receive permission requests
     <sub>[#3767](https://github.com/flutter/packages/pull/3767) merged on April 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3767) over 1 day, 139 additions and 7 deletions in 11 files</sub>
