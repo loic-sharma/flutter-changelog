@@ -1805,7 +1805,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-17 commits.
+18 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to listen to url changes <br />
     <sub>[#3313](https://github.com/flutter/packages/pull/3313) merged on April 18, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3313) over 1 month, 103 additions and 7 deletions in 11 files</sub><br />
@@ -1858,6 +1858,10 @@
     <sub>[#3725](https://github.com/flutter/packages/pull/3725) merged on April 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3725) over 9 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=io.mockk:mockk&package-manager=gradle&previous-version=1.13.4&new-version=1.13.5)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [image_picker_ios] In unit test write and read kCGImagePropertyExifUserComment property<br />
+    <sub>[#3783](https://github.com/flutter/packages/pull/3783) merged on April 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3783) over 19 hours, 5 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [Tool] [Code Excerpt] allow excerpts in example readme<br />
     <sub>[#3758](https://github.com/flutter/packages/pull/3758) merged on April 19, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3758) over 1 day, 81 additions and 1 deletion in 4 files</sub><br />
