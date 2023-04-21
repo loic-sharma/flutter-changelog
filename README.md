@@ -1813,7 +1813,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-19 commits.
+20 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to listen to url changes <br />
     <sub>[#3313](https://github.com/flutter/packages/pull/3313) merged on April 18, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3313) over 1 month, 103 additions and 7 deletions in 11 files</sub><br />
@@ -1830,6 +1830,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Add initial gradle validation command<br />
     <sub>[#3715](https://github.com/flutter/packages/pull/3715) merged on April 17, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/packages/pull/3715) over 2 days, 362 additions and 6 deletions in 19 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android] Fix Android lint warnings <br />
+    <sub>[#3716](https://github.com/flutter/packages/pull/3716) merged on April 21, 2023 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/3716) over 1 week, 391 additions and 3276 deletions in 41 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Add an initial example app<br />
     <sub>[#3761](https://github.com/flutter/packages/pull/3761) merged on April 20, 2023 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/3761) over 22 hours, 4360 additions and 0 deletions in 117 files</sub><br />
