@@ -104,3 +104,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Cleans up appbar imply leading logic<br />
     <sub>[#125315](https://github.com/flutter/flutter/pull/125315) opened on on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125315) 28 additions and 5 deletions in 2 files</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove self from CODEOWNERS<br />
+    <sub>[#125337](https://github.com/flutter/flutter/pull/125337) opened on on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125337) 0 additions and 3 deletions in 1 file</sub><br />
+
