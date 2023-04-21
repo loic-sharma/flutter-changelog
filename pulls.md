@@ -41,9 +41,6 @@
 * **[Ruben Aster](https://github.com/rubenaster)** &mdash; Fix transitioning a TabBarView manually doesn't honor duration and curve #16892<br />
     <sub>[#122279](https://github.com/flutter/flutter/pull/122279) opened on on March 9, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/122279) 45 additions and 16 deletions in 2 files</sub><br />
 
-* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Cleanup flutter config output<br />
-    <sub>[#122384](https://github.com/flutter/flutter/pull/122384) opened on on March 10, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/122384) 9 additions and 18 deletions in 2 files</sub><br />
-
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Fix style issues<br />
     <sub>[#122586](https://github.com/flutter/flutter/pull/122586) opened on on March 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/122586) 4 additions and 8 deletions in 1 file</sub><br />
 
@@ -109,7 +106,4 @@
 
 * **[Anas](https://github.com/Anas35)** &mdash; fix package template create platform folders<br />
     <sub>[#125292](https://github.com/flutter/flutter/pull/125292) opened on on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125292) 18 additions and 0 deletions in 2 files</sub><br />
-
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add Sliders to `macrobenchmarks`<br />
-    <sub>[#125296](https://github.com/flutter/flutter/pull/125296) opened on on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125296) 114 additions and 0 deletions in 6 files</sub><br />
 
