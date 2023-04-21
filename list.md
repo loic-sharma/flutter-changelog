@@ -171,7 +171,7 @@
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; BottomAppBar doc: Fix doc about surfaceTintColor
-    <sub>[#124563](https://github.com/flutter/flutter/pull/124563) merged on April 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124563) over 1 week, 10 additions and 4 deletions in 1 file</sub>
+    <sub>[#124563](https://github.com/flutter/flutter/pull/124563) merged on April 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124563) over 1 week, 10 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Update usage of standalone`pub` executable in flutter_tools testing docs
@@ -1813,7 +1813,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-21 commits.
+22 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to listen to url changes 
     <sub>[#3313](https://github.com/flutter/packages/pull/3313) merged on April 18, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3313) over 1 month, 103 additions and 7 deletions in 11 files</sub>
@@ -1842,6 +1842,10 @@
 * **[Ross Wang](https://github.com/AsturaPhoenix)** &mdash; [google_maps_flutter_web] Allow marker position updates
     <sub>[#3697](https://github.com/flutter/packages/pull/3697) merged on April 20, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/3697) over 1 week, 81 additions and 16 deletions in 6 files</sub>
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] [webview_flutter_wkwebview] Platform implementations for supporting permission requests
+    <sub>[#3792](https://github.com/flutter/packages/pull/3792) merged on April 21, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/3792) over 1 hour, 2625 additions and 235 deletions in 60 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Add examples for different iOS versions
     <sub>[#3757](https://github.com/flutter/packages/pull/3757) merged on April 20, 2023 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/3757) over 2 days, 3039 additions and 87 deletions in 168 files</sub>

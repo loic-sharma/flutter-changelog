@@ -90,7 +90,7 @@
     <sub>[#125220](https://github.com/flutter/flutter/pull/125220) opened on on April 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125220) 11 additions and 5 deletions in 1 file</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Combine `flutter_tool_startup` devicelab tests<br />
-    <sub>[#125226](https://github.com/flutter/flutter/pull/125226) opened on on April 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125226) 3 additions and 23 deletions in 4 files</sub><br />
+    <sub>[#125226](https://github.com/flutter/flutter/pull/125226) opened on on April 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125226) 4 additions and 26 deletions in 5 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; add gradle error handler for when the remote ssl host terminates handshake process<br />
     <sub>[#125270](https://github.com/flutter/flutter/pull/125270) opened on on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125270) 67 additions and 0 deletions in 3 files</sub><br />
