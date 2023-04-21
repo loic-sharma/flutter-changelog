@@ -1046,7 +1046,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "re-land "Migrate mac_host_engine to engine v2 builds." (#41233)""
     <sub>[#41380](https://github.com/flutter/engine/pull/41380) merged on April 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41380) over 7 minutes, 13 additions and 27 deletions in 2 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [godofredoc](https://github.com/godofredoc)</sub>
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "[Impeller] Turned on wide gamut support by default."
     <sub>[#41382](https://github.com/flutter/engine/pull/41382) merged on April 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41382) over 1 hour, 3 additions and 2 deletions in 1 file</sub>
@@ -1398,7 +1398,7 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix skwasm's canvasDrawArc declaration and write tests.
     <sub>[#41165](https://github.com/flutter/engine/pull/41165) merged on April 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41165) over 2 hours, 75 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update the timeout to 3h for mac build in staging.
     <sub>[#41048](https://github.com/flutter/engine/pull/41048) merged on April 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41048) over 4 hours, 1 addition and 0 deletions in 1 file</sub>
@@ -1434,7 +1434,7 @@
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "[Android] Send connectionClosed message when keyboard becomes invisible to ensure framework focus state is correct."
     <sub>[#41211](https://github.com/flutter/engine/pull/41211) merged on April 14, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/41211) over 1 hour, 0 additions and 68 deletions in 4 files</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Revert "Add support for double tap action from Apple Pencil 2"
     <sub>[#41138](https://github.com/flutter/engine/pull/41138) merged on April 13, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/41138) over 23 hours, 37 additions and 230 deletions in 12 files</sub>
@@ -1689,7 +1689,7 @@
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "[web] remove obsolete object caches; simplify native object management"
     <sub>[#40937](https://github.com/flutter/engine/pull/40937) merged on April 5, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/40937) over 53 minutes, 772 additions and 559 deletions in 13 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Xilai Zhang](https://github.com/XilaiZhang)</sub>
+    <sub>Reviewed by: [Xilai Zhang](https://github.com/XilaiZhang), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "[web] remove obsolete object caches; simplify native object management"
     <sub>[#40882](https://github.com/flutter/engine/pull/40882) merged on April 3, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/40882) over 3 hours, 770 additions and 557 deletions in 13 files</sub>
