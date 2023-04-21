@@ -56,26 +56,14 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update Navigation Drawer width and tiles padding<br />
     <sub>[#124042](https://github.com/flutter/flutter/pull/124042) opened on on April 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124042) 65 additions and 35 deletions in 6 files</sub><br />
 
-* **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Added 2 new features to bottom sheet SafeArea Open and close SafeArea…<br />
-    <sub>[#124786](https://github.com/flutter/flutter/pull/124786) opened on on April 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124786) 9 additions and 1 deletion in 1 file</sub><br />
-
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Allow users to provide route settings to `showMenu`<br />
-    <sub>[#124935](https://github.com/flutter/flutter/pull/124935) opened on on April 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124935) 3 additions and 0 deletions in 1 file</sub><br />
-
 * **[Alberto Azinar](https://github.com/albertoazinar)** &mdash; improvement : removed required  kotlin dependency<br />
     <sub>[#125002](https://github.com/flutter/flutter/pull/125002) opened on on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125002) 1 addition and 3 deletions in 1 file</sub><br />
-
-* **[Callum Moffat](https://github.com/moffatman)** &mdash; Add layer unique IDs to debug properties<br />
-    <sub>[#125020](https://github.com/flutter/flutter/pull/125020) opened on on April 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125020) 39 additions and 2 deletions in 3 files</sub><br />
 
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Add prefer_final_parameters lint<br />
     <sub>[#125061](https://github.com/flutter/flutter/pull/125061) opened on on April 18, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/125061) 56116 additions and 56115 deletions in 3318 files</sub><br />
 
 * **[Prashant Andoriya](https://github.com/andoriyaprashant)** &mdash; Removed required kotlin dependency<br />
     <sub>[#125098](https://github.com/flutter/flutter/pull/125098) opened on on April 19, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/125098) 2 additions and 207 deletions in 2 files</sub><br />
-
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny cleanup for Navigator code<br />
-    <sub>[#125099](https://github.com/flutter/flutter/pull/125099) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125099) 11 additions and 39 deletions in 1 file</sub><br />
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Don't infer placeholders if a placeholder list has been explicitly defined<br />
     <sub>[#125154](https://github.com/flutter/flutter/pull/125154) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125154) 59 additions and 6 deletions in 2 files</sub><br />
