@@ -344,7 +344,7 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; ExpansionTile audit<br />
     <sub>[#124281](https://github.com/flutter/flutter/pull/124281) merged on April 10, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/124281) over 4 days, 2289 additions and 89 deletions in 85 files</sub><br />
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Sliver Constrained Cross Axis<br />
     <sub>[#124337](https://github.com/flutter/flutter/pull/124337) merged on April 10, 2023 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/124337) over 4 days, 238 additions and 0 deletions in 5 files</sub><br />
@@ -536,7 +536,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add readlink -f flag to CocoaPods script to workaround Xcode 14.3 issue<br />
     <sub>[#124062](https://github.com/flutter/flutter/pull/124062) merged on April 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/124062) over 2 hours, 223 additions and 0 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Rydmike](https://github.com/rydmike)** &mdash; FIX: SegmentedButton segments background cannot be made transparent<br />
     <sub>[#123293](https://github.com/flutter/flutter/pull/123293) merged on April 4, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/123293) over 1 week, 30 additions and 0 deletions in 2 files</sub><br />
@@ -934,7 +934,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual Skia roll from ad90b6bd4760 to c21e7df194c3<br />
     <sub>[#41341](https://github.com/flutter/engine/pull/41341) merged on April 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41341) over 8 hours, 2 additions and 2 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jenn Magder](https://github.com/jmagman)</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; focus SkiaGPUObject wrappers on only those objects that need the protection<br />
     <sub>[#41237](https://github.com/flutter/engine/pull/41237) merged on April 17, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/41237) over 2 days, 244 additions and 251 deletions in 47 files</sub><br />
@@ -1046,7 +1046,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "re-land "Migrate mac_host_engine to engine v2 builds." (#41233)""<br />
     <sub>[#41380](https://github.com/flutter/engine/pull/41380) merged on April 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41380) over 7 minutes, 13 additions and 27 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "[Impeller] Turned on wide gamut support by default."<br />
     <sub>[#41382](https://github.com/flutter/engine/pull/41382) merged on April 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41382) over 1 hour, 3 additions and 2 deletions in 1 file</sub><br />

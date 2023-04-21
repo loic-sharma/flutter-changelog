@@ -101,3 +101,6 @@
 * **[Anas](https://github.com/Anas35)** &mdash; fix package template create platform folders<br />
     <sub>[#125292](https://github.com/flutter/flutter/pull/125292) opened on on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125292) 18 additions and 0 deletions in 2 files</sub><br />
 
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add docs for kIsWeb on defaultTargetPlatform<br />
+    <sub>[#125313](https://github.com/flutter/flutter/pull/125313) opened on on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125313) 15 additions and 0 deletions in 2 files</sub><br />
+
