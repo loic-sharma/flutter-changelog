@@ -59,9 +59,6 @@
 * **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Added 2 new features to bottom sheet SafeArea Open and close SafeArea…<br />
     <sub>[#124786](https://github.com/flutter/flutter/pull/124786) opened on on April 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124786) 9 additions and 1 deletion in 1 file</sub><br />
 
-* **[Tirth](https://github.com/piedcipher)** &mdash; [date_picker] [date_range_picker] add properties to change switch-to icons<br />
-    <sub>[#124881](https://github.com/flutter/flutter/pull/124881) opened on on April 14, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/124881) 295 additions and 6 deletions in 3 files</sub><br />
-
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Allow users to provide route settings to `showMenu`<br />
     <sub>[#124935](https://github.com/flutter/flutter/pull/124935) opened on on April 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/124935) 3 additions and 0 deletions in 1 file</sub><br />
 
