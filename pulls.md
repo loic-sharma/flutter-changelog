@@ -95,3 +95,6 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Fix JS types in _test_http_request.dart<br />
     <sub>[#125220](https://github.com/flutter/flutter/pull/125220) opened on on April 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125220) 11 additions and 5 deletions in 1 file</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; add gradle error handler for when the remote ssl host terminates handshake process<br />
+    <sub>[#125270](https://github.com/flutter/flutter/pull/125270) opened on on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125270) 67 additions and 0 deletions in 3 files</sub><br />
+
