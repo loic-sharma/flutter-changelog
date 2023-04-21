@@ -83,17 +83,11 @@
 * **[Prashant Andoriya](https://github.com/andoriyaprashant)** &mdash; removed user message class<br />
     <sub>[#125192](https://github.com/flutter/flutter/pull/125192) opened on on April 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/125192) 1 addition and 212 deletions in 1 file</sub><br />
 
-* **[Hugo](https://github.com/xcc3641)** &mdash; Fix the divider_theme space documentation problem<br />
-    <sub>[#125195](https://github.com/flutter/flutter/pull/125195) opened on on April 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125195) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Fix JS types in _test_http_request.dart<br />
     <sub>[#125220](https://github.com/flutter/flutter/pull/125220) opened on on April 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125220) 11 additions and 5 deletions in 1 file</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Combine `flutter_tool_startup` devicelab tests<br />
     <sub>[#125226](https://github.com/flutter/flutter/pull/125226) opened on on April 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125226) 3 additions and 23 deletions in 4 files</sub><br />
-
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; add gradle error handler for when the remote ssl host terminates handshake process<br />
-    <sub>[#125270](https://github.com/flutter/flutter/pull/125270) opened on on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125270) 67 additions and 0 deletions in 3 files</sub><br />
 
 * **[ChenRenJie](https://github.com/b7woreo)** &mdash; Fix incorrect assert hint in flutter.groovy<br />
     <sub>[#125283](https://github.com/flutter/flutter/pull/125283) opened on on April 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125283) 1 addition and 1 deletion in 1 file</sub><br />
@@ -103,7 +97,4 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Cleans up appbar imply leading logic<br />
     <sub>[#125315](https://github.com/flutter/flutter/pull/125315) opened on on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125315) 28 additions and 5 deletions in 2 files</sub><br />
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove self from CODEOWNERS<br />
-    <sub>[#125337](https://github.com/flutter/flutter/pull/125337) opened on on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125337) 0 additions and 3 deletions in 1 file</sub><br />
 
