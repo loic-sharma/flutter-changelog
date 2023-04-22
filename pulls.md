@@ -83,3 +83,9 @@
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Enable prefer_final_parameters in fuchsia_remote_debug_protocol<br />
     <sub>[#125354](https://github.com/flutter/flutter/pull/125354) opened on on April 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125354) 80 additions and 80 deletions in 8 files</sub><br />
 
+* **[lsaudon](https://github.com/lsaudon)** &mdash; Enable prefer_final_parameters in flutter_web_plugins<br />
+    <sub>[#125356](https://github.com/flutter/flutter/pull/125356) opened on on April 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125356) 76 additions and 76 deletions in 10 files</sub><br />
+
+* **[lsaudon](https://github.com/lsaudon)** &mdash; Enable prefer_final_parameters in flutter_tools<br />
+    <sub>[#125357](https://github.com/flutter/flutter/pull/125357) opened on on April 22, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/125357) 9268 additions and 9268 deletions in 567 files</sub><br />
+
