@@ -1863,7 +1863,7 @@
 
 ### April 15, 2023 to April 21, 2023
 
-25 commits.
+26 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to listen to url changes 
     <sub>[#3313](https://github.com/flutter/packages/pull/3313) merged on April 18, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3313) over 1 month, 103 additions and 7 deletions in 11 files</sub>
@@ -1872,6 +1872,10 @@
 * **[Vladimir Zdravkovic](https://github.com/vlazdra)** &mdash; [go_router_builder] Fixed the return value of the generated push method
     <sub>[#3650](https://github.com/flutter/packages/pull/3650) merged on April 21, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/3650) over 2 weeks, 174 additions and 48 deletions in 13 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to receive permission requests
+    <sub>[#3543](https://github.com/flutter/packages/pull/3543) merged on April 22, 2023 &mdash; **Small:** [28 comments](https://github.com/flutter/packages/pull/3543) over 4 weeks, 168 additions and 20 deletions in 11 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [image_picker] Mention `launchMode: singleInstance` in README
     <sub>[#3759](https://github.com/flutter/packages/pull/3759) merged on April 21, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/3759) over 2 days, 85 additions and 44 deletions in 3 files</sub>
