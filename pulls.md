@@ -77,3 +77,9 @@
 * **[Anas](https://github.com/Anas35)** &mdash; fix package template create platform folders<br />
     <sub>[#125292](https://github.com/flutter/flutter/pull/125292) opened on on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125292) 18 additions and 0 deletions in 2 files</sub><br />
 
+* **[lsaudon](https://github.com/lsaudon)** &mdash; Enable prefer_final_parameters in integration test<br />
+    <sub>[#125353](https://github.com/flutter/flutter/pull/125353) opened on on April 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125353) 103 additions and 103 deletions in 23 files</sub><br />
+
+* **[lsaudon](https://github.com/lsaudon)** &mdash; Enable prefer_final_parameters in fuchsia_remote_debug_protocol<br />
+    <sub>[#125354](https://github.com/flutter/flutter/pull/125354) opened on on April 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125354) 80 additions and 80 deletions in 8 files</sub><br />
+
