@@ -26,7 +26,7 @@
     <sub><details><summary>2 images...</summary><img width="369" alt="223876418-2470c4c5-abfc-4511-9762-1fd0b6e05903" src="https://user-images.githubusercontent.com/8867023/228396142-450125ee-d8cf-4ede-8545-5920eb0da99d.png"><img width="408" alt="image" src="https://user-images.githubusercontent.com/8867023/228395959-8531704a-77aa-43af-9dcf-7456bb2ed090.png"></details></sub>
 
 * **[Luccas Clezar](https://github.com/luccasclezar)** &mdash; Update Cupertino desktop text selection toolbar<br />
-    <sub>[#121829](https://github.com/flutter/flutter/pull/121829) merged on April 21, 2023 &mdash; **Medium:** [44 comments](https://github.com/flutter/flutter/pull/121829) over 1 month, 278 additions and 66 deletions in 7 files</sub><br />
+    <sub>[#121829](https://github.com/flutter/flutter/pull/121829) merged on April 21, 2023 &mdash; **Medium:** [45 comments](https://github.com/flutter/flutter/pull/121829) over 1 month, 278 additions and 66 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
     <sub><details><summary>3 images...</summary><img width="486" alt="Screenshot 2023-03-02 at 17 44 06" src="https://user-images.githubusercontent.com/12024080/222549153-0e44ca25-521b-48f8-9cd1-c478c6706912.png">![Screenshot 2023-03-02 at 17 37 49](https://user-images.githubusercontent.com/12024080/222549040-e38324e6-88ac-4c34-b6ff-6441ebd39189.png)![Screenshot 2023-03-02 at 17 38 15](https://user-images.githubusercontent.com/12024080/222549435-da08ba67-2637-49fd-8a7c-bb00a5809983.png)</details></sub>
 
