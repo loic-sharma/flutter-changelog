@@ -4,7 +4,7 @@
 
 ### April 22, 2023 to April 28, 2023
 
-10 commits.
+11 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Implement url support for RouteInformation and didPushRouteInformation
     <sub>[#119968](https://github.com/flutter/flutter/pull/119968) merged on April 24, 2023 &mdash; **Large:** [35 comments](https://github.com/flutter/flutter/pull/119968) over 2 months, 466 additions and 315 deletions in 13 files</sub>
@@ -26,6 +26,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Do not run `windows_home_scroll_perf__timeline_summary` benchmark in presubmit
     <sub>[#125343](https://github.com/flutter/flutter/pull/125343) merged on April 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125343) over 2 days, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Fix JS types in _test_http_request.dart
+    <sub>[#125220](https://github.com/flutter/flutter/pull/125220) merged on April 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125220) over 4 days, 11 additions and 5 deletions in 1 file</sub>
+    <sub>Reviewed by: [joshualitt](https://github.com/joshualitt)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix iOS touch drag behavior
     <sub>[#125169](https://github.com/flutter/flutter/pull/125169) merged on April 24, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/125169) over 4 days, 114 additions and 2 deletions in 3 files</sub>
