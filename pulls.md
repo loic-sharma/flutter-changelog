@@ -77,9 +77,3 @@
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Enable prefer_final_parameters in flutter_tools<br />
     <sub>[#125357](https://github.com/flutter/flutter/pull/125357) opened on on April 22, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/125357) 9268 additions and 9268 deletions in 567 files</sub><br />
 
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; `ModalBarrier`'s gesture recognizer does not call `invokeCallback`<br />
-    <sub>[#125386](https://github.com/flutter/flutter/pull/125386) opened on on April 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125386) 17 additions and 1 deletion in 2 files</sub><br />
-
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny fix doc pointing to incorrect widget confusing the readers<br />
-    <sub>[#125394](https://github.com/flutter/flutter/pull/125394) opened on on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125394) 1 addition and 1 deletion in 1 file</sub><br />
-
