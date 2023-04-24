@@ -92,3 +92,6 @@
 * **[st merlhin](https://github.com/stMerlHin)** &mdash; Data table example scroll<br />
     <sub>[#125433](https://github.com/flutter/flutter/pull/125433) opened on on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125433) 73 additions and 28 deletions in 2 files</sub><br />
 
+* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; [Cp] analytics update<br />
+    <sub>[#125445](https://github.com/flutter/flutter/pull/125445) opened on on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125445) 72 additions and 36 deletions in 3 files</sub><br />
+
