@@ -707,7 +707,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual Skia roll from ad90b6bd4760 to c21e7df194c3
     <sub>[#41341](https://github.com/flutter/engine/pull/41341) merged on April 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41341) over 8 hours, 2 additions and 2 deletions in 8 files</sub>
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds AndroidSurfaceGLImpeller unit tests
     <sub>[#40979](https://github.com/flutter/engine/pull/40979) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40979) over 1 week, 119 additions and 25 deletions in 7 files</sub>
@@ -823,7 +823,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Reland  "Migrate mac_host_engine to engine v2 builds."
     <sub>[#41279](https://github.com/flutter/engine/pull/41279) merged on April 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41279) over 1 hour, 27 additions and 13 deletions in 2 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 ### April 8, 2023 to April 14, 2023
 
@@ -947,7 +947,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Change v2 `mac_unopt` orchestrator builder to Linux
     <sub>[#41184](https://github.com/flutter/engine/pull/41184) merged on April 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41184) over 20 hours, 8 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [keyonghan](https://github.com/keyonghan)</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Run mac_host_engine orchestrator on arm Macs
     <sub>[#41185](https://github.com/flutter/engine/pull/41185) merged on April 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41185) over 18 hours, 1 addition and 0 deletions in 1 file</sub>
