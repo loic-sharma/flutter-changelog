@@ -89,6 +89,3 @@
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Enable prefer_final_parameters in flutter_driver<br />
     <sub>[#125422](https://github.com/flutter/flutter/pull/125422) opened on on April 24, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/125422) 477 additions and 477 deletions in 42 files</sub><br />
 
-* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Refactor gen-l10n` command to use same code path when `l10n.yaml` is present or not present<br />
-    <sub>[#125429](https://github.com/flutter/flutter/pull/125429) opened on on April 24, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/125429) 263 additions and 183 deletions in 7 files</sub><br />
-
