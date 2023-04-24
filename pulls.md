@@ -89,3 +89,6 @@
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Enable prefer_final_parameters in flutter_driver<br />
     <sub>[#125422](https://github.com/flutter/flutter/pull/125422) opened on on April 24, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/125422) 477 additions and 477 deletions in 42 files</sub><br />
 
+* **[st merlhin](https://github.com/stMerlHin)** &mdash; Data table example scroll<br />
+    <sub>[#125433](https://github.com/flutter/flutter/pull/125433) opened on on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125433) 73 additions and 28 deletions in 2 files</sub><br />
+
