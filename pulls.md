@@ -77,3 +77,9 @@
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Enable prefer_final_parameters in flutter_tools<br />
     <sub>[#125357](https://github.com/flutter/flutter/pull/125357) opened on on April 22, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/125357) 9268 additions and 9268 deletions in 567 files</sub><br />
 
+* **[lsaudon](https://github.com/lsaudon)** &mdash; Enable prefer_final_parameters in flutter_test<br />
+    <sub>[#125418](https://github.com/flutter/flutter/pull/125418) opened on on April 24, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/125418) 1709 additions and 1709 deletions in 63 files</sub><br />
+
+* **[lsaudon](https://github.com/lsaudon)** &mdash; Enable prefer_final_parameters in flutter_localizations<br />
+    <sub>[#125419](https://github.com/flutter/flutter/pull/125419) opened on on April 24, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/125419) 332 additions and 332 deletions in 19 files</sub><br />
+
