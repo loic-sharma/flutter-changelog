@@ -56,9 +56,6 @@
 * **[Alberto Azinar](https://github.com/albertoazinar)** &mdash; improvement : removed required  kotlin dependency<br />
     <sub>[#125002](https://github.com/flutter/flutter/pull/125002) opened on on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125002) 1 addition and 3 deletions in 1 file</sub><br />
 
-* **[lsaudon](https://github.com/lsaudon)** &mdash; Add prefer_final_parameters lint<br />
-    <sub>[#125061](https://github.com/flutter/flutter/pull/125061) opened on on April 18, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/125061) 56116 additions and 56115 deletions in 3318 files</sub><br />
-
 * **[Prashant Andoriya](https://github.com/andoriyaprashant)** &mdash; Removed required kotlin dependency<br />
     <sub>[#125098](https://github.com/flutter/flutter/pull/125098) opened on on April 19, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/125098) 2 additions and 207 deletions in 2 files</sub><br />
 
@@ -77,17 +74,8 @@
 * **[Anas](https://github.com/Anas35)** &mdash; fix package template create platform folders<br />
     <sub>[#125292](https://github.com/flutter/flutter/pull/125292) opened on on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125292) 18 additions and 0 deletions in 2 files</sub><br />
 
-* **[lsaudon](https://github.com/lsaudon)** &mdash; Enable prefer_final_parameters in integration test<br />
-    <sub>[#125353](https://github.com/flutter/flutter/pull/125353) opened on on April 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125353) 103 additions and 103 deletions in 23 files</sub><br />
-
-* **[lsaudon](https://github.com/lsaudon)** &mdash; Enable prefer_final_parameters in fuchsia_remote_debug_protocol<br />
-    <sub>[#125354](https://github.com/flutter/flutter/pull/125354) opened on on April 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125354) 80 additions and 80 deletions in 8 files</sub><br />
-
-* **[lsaudon](https://github.com/lsaudon)** &mdash; Enable prefer_final_parameters in flutter_web_plugins<br />
-    <sub>[#125356](https://github.com/flutter/flutter/pull/125356) opened on on April 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125356) 76 additions and 76 deletions in 10 files</sub><br />
-
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Enable prefer_final_parameters in flutter_tools<br />
-    <sub>[#125357](https://github.com/flutter/flutter/pull/125357) opened on on April 22, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/125357) 9268 additions and 9268 deletions in 567 files</sub><br />
+    <sub>[#125357](https://github.com/flutter/flutter/pull/125357) opened on on April 22, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/125357) 9268 additions and 9268 deletions in 567 files</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; `ModalBarrier`'s gesture recognizer does not call `invokeCallback`<br />
     <sub>[#125386](https://github.com/flutter/flutter/pull/125386) opened on on April 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125386) 17 additions and 1 deletion in 2 files</sub><br />
