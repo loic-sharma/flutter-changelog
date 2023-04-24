@@ -78,7 +78,7 @@
     <sub>[#125418](https://github.com/flutter/flutter/pull/125418) opened on on April 24, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/125418) 1709 additions and 1709 deletions in 63 files</sub><br />
 
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Enable prefer_final_parameters in flutter_localizations<br />
-    <sub>[#125419](https://github.com/flutter/flutter/pull/125419) opened on on April 24, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/125419) 332 additions and 332 deletions in 19 files</sub><br />
+    <sub>[#125419](https://github.com/flutter/flutter/pull/125419) opened on on April 24, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/125419) 332 additions and 332 deletions in 19 files</sub><br />
 
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Enable prefer_final_parameters in flutter_golden_client<br />
     <sub>[#125420](https://github.com/flutter/flutter/pull/125420) opened on on April 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125420) 8 additions and 8 deletions in 1 file</sub><br />
@@ -88,4 +88,7 @@
 
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Enable prefer_final_parameters in flutter_driver<br />
     <sub>[#125422](https://github.com/flutter/flutter/pull/125422) opened on on April 24, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/125422) 477 additions and 477 deletions in 42 files</sub><br />
+
+* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Refactor gen-l10n` command to use same code path when `l10n.yaml` is present or not present<br />
+    <sub>[#125429](https://github.com/flutter/flutter/pull/125429) opened on on April 24, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/125429) 263 additions and 183 deletions in 7 files</sub><br />
 
