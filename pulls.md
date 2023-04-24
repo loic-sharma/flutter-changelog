@@ -65,9 +65,6 @@
 * **[Prashant Andoriya](https://github.com/andoriyaprashant)** &mdash; removed user message class<br />
     <sub>[#125192](https://github.com/flutter/flutter/pull/125192) opened on on April 20, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/125192) 1 addition and 212 deletions in 1 file</sub><br />
 
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Fix JS types in _test_http_request.dart<br />
-    <sub>[#125220](https://github.com/flutter/flutter/pull/125220) opened on on April 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125220) 11 additions and 5 deletions in 1 file</sub><br />
-
 * **[ChenRenJie](https://github.com/b7woreo)** &mdash; Fix incorrect assert hint in flutter.groovy<br />
     <sub>[#125283](https://github.com/flutter/flutter/pull/125283) opened on on April 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125283) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -82,4 +79,13 @@
 
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Enable prefer_final_parameters in flutter_localizations<br />
     <sub>[#125419](https://github.com/flutter/flutter/pull/125419) opened on on April 24, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/125419) 332 additions and 332 deletions in 19 files</sub><br />
+
+* **[lsaudon](https://github.com/lsaudon)** &mdash; Enable prefer_final_parameters in flutter_golden_client<br />
+    <sub>[#125420](https://github.com/flutter/flutter/pull/125420) opened on on April 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125420) 8 additions and 8 deletions in 1 file</sub><br />
+
+* **[lsaudon](https://github.com/lsaudon)** &mdash; Enable prefer_final_parameters in flutter_goldens<br />
+    <sub>[#125421](https://github.com/flutter/flutter/pull/125421) opened on on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125421) 43 additions and 43 deletions in 3 files</sub><br />
+
+* **[lsaudon](https://github.com/lsaudon)** &mdash; Enable prefer_final_parameters in flutter_driver<br />
+    <sub>[#125422](https://github.com/flutter/flutter/pull/125422) opened on on April 24, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/125422) 477 additions and 477 deletions in 42 files</sub><br />
 
