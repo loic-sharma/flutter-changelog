@@ -1380,13 +1380,13 @@
     <sub>[#3791](https://github.com/flutter/packages/pull/3791) merged on April 25, 2023 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/3791) over 3 days, 454 additions and 56 deletions in 84 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[Evan Song](https://github.com/mgmix)** &mdash; [google_maps_flutter_android] Fix Android lint warnings
+    <sub>[#3751](https://github.com/flutter/packages/pull/3751) merged on April 25, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/3751) over 1 week, 30 additions and 229 deletions in 8 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [gmackall](https://github.com/gmackall)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update test golden images for the latest Skia roll
     <sub>[#3787](https://github.com/flutter/packages/pull/3787) merged on April 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3787) over 4 days, 1 addition and 1 deletion in 3 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
-* **[Evan Song](https://github.com/mgmix)** &mdash; [google_maps_flutter_android] Fix Android lint warnings
-    <sub>[#3751](https://github.com/flutter/packages/pull/3751) merged on April 25, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/3751) over 1 week, 30 additions and 229 deletions in 8 files</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gmackall](https://github.com/gmackall)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [shared_preferences] Update gradle/agp in example apps
     <sub>[#3809](https://github.com/flutter/packages/pull/3809) merged on April 25, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3809) over 20 hours, 8 additions and 8 deletions in 4 files</sub>
