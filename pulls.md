@@ -83,6 +83,3 @@
 * **[arvin](https://github.com/arvinwli)** &mdash; fix RangeSlider, with no overlayShape shifts to the left<br />
     <sub>[#125483](https://github.com/flutter/flutter/pull/125483) opened on on April 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125483) 94 additions and 47 deletions in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add FocusScope references in shortcuts related documentation<br />
-    <sub>[#125491](https://github.com/flutter/flutter/pull/125491) opened on on April 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125491) 12 additions and 0 deletions in 2 files</sub><br />
-
