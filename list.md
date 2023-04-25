@@ -665,11 +665,15 @@
 
 ### April 22, 2023 to April 28, 2023
 
-8 commits.
+9 commits.
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; [ios] Fix hold and drag spacebar does not move cursor when obscureText is true.
     <sub>[#40216](https://github.com/flutter/engine/pull/40216) merged on April 25, 2023 &mdash; **Small:** [33 comments](https://github.com/flutter/engine/pull/40216) over 1 month, 52 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Double zip FlutterMacOS.dSYM.zip.
+    <sub>[#41425](https://github.com/flutter/engine/pull/41425) merged on April 25, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/41425) over 3 days, 36 additions and 17 deletions in 1 file</sub>
+    <sub>Reviewed by: [Xilai Zhang](https://github.com/XilaiZhang)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; hide DisplayList::DisposeOps and other lint suggestions
     <sub>[#41464](https://github.com/flutter/engine/pull/41464) merged on April 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41464) over 20 hours, 3 additions and 3 deletions in 1 file</sub>
