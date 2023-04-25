@@ -83,3 +83,6 @@
 * **[Phlippie Bosman](https://github.com/phlippieb-discovery)** &mdash; Nit: grammar in documentation<br />
     <sub>[#125462](https://github.com/flutter/flutter/pull/125462) opened on on April 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125462) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[arvin](https://github.com/arvinwli)** &mdash; fix RectangularRangeSliderTrackShape and RoundedRectRangeSliderTrackS…<br />
+    <sub>[#125469](https://github.com/flutter/flutter/pull/125469) opened on on April 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125469) 49 additions and 47 deletions in 1 file</sub><br />
+
