@@ -4,7 +4,7 @@
 
 ### April 22, 2023 to April 28, 2023
 
-20 commits.
+21 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `borderRadius` to LinearProgressIndicator
     <sub>[#123517](https://github.com/flutter/flutter/pull/123517) merged on April 24, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/123517) over 4 weeks, 63 additions and 3 deletions in 2 files</sub>
@@ -58,6 +58,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Do not run `windows_home_scroll_perf__timeline_summary` benchmark in presubmit
     <sub>[#125343](https://github.com/flutter/flutter/pull/125343) merged on April 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125343) over 2 days, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Handle dollar signs properly when generating localizations
+    <sub>[#125514](https://github.com/flutter/flutter/pull/125514) merged on April 25, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/125514) over 1 hour, 48 additions and 5 deletions in 3 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Relabel JSFunction as JSExportedDartFunction
     <sub>[#125453](https://github.com/flutter/flutter/pull/125453) merged on April 25, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125453) over 15 hours, 1 addition and 1 deletion in 1 file</sub>
