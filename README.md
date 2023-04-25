@@ -260,7 +260,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Swap bundler dependabot reviewers<br />
     <sub>[#125333](https://github.com/flutter/flutter/pull/125333) merged on April 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125333) over 1 hour, 2 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Remove uses of deprecated test_api imports<br />
     <sub>[#124732](https://github.com/flutter/flutter/pull/124732) merged on April 20, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/124732) over 1 week, 143 additions and 160 deletions in 26 files</sub><br />
@@ -352,7 +352,7 @@
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Remove package:js/dart:js_interop conflicts<br />
     <sub>[#124879](https://github.com/flutter/flutter/pull/124879) merged on April 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124879) over 4 days, 12 additions and 3 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool,web] track web-renderer, and Wasm build args in analytics<br />
     <sub>[#125336](https://github.com/flutter/flutter/pull/125336) merged on April 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125336) over 1 hour, 36 additions and 2 deletions in 3 files</sub><br />
@@ -832,7 +832,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual Skia roll from ad90b6bd4760 to c21e7df194c3<br />
     <sub>[#41341](https://github.com/flutter/engine/pull/41341) merged on April 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41341) over 8 hours, 2 additions and 2 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jenn Magder](https://github.com/jmagman)</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds AndroidSurfaceGLImpeller unit tests<br />
     <sub>[#40979](https://github.com/flutter/engine/pull/40979) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40979) over 1 week, 119 additions and 25 deletions in 7 files</sub><br />
@@ -1154,7 +1154,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update some more uses of the deprecated Skia SkImage::MakeFromBitmap API<br />
     <sub>[#41041](https://github.com/flutter/engine/pull/41041) merged on April 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41041) over 7 minutes, 4 additions and 4 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [mac] Build mac framework with app extension flag<br />
     <sub>[#41011](https://github.com/flutter/engine/pull/41011) merged on April 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/41011) over 2 days, 40 additions and 2 deletions in 4 files</sub><br />
@@ -1440,12 +1440,12 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump com.android.tools.build:gradle from 7.3.1 to 8.0.0 in /packages/pigeon/platform_tests/test_plugin/android<br />
     <sub>[#3726](https://github.com/flutter/packages/pull/3726) merged on April 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3726) over 9 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.3.1&new-version=8.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump io.mockk:mockk from 1.13.4 to 1.13.5 in /packages/pigeon/platform_tests/test_plugin/android<br />
     <sub>[#3725](https://github.com/flutter/packages/pull/3725) merged on April 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3725) over 9 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=io.mockk:mockk&package-manager=gradle&previous-version=1.13.4&new-version=1.13.5)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [image_picker_ios] In unit test write and read kCGImagePropertyExifUserComment property<br />
