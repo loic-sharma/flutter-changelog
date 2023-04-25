@@ -95,3 +95,6 @@
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; [Cp] analytics update<br />
     <sub>[#125445](https://github.com/flutter/flutter/pull/125445) opened on on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125445) 72 additions and 36 deletions in 3 files</sub><br />
 
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Relabel JSFunction as JSExportedDartFunction<br />
+    <sub>[#125453](https://github.com/flutter/flutter/pull/125453) opened on on April 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125453) 1 addition and 1 deletion in 1 file</sub><br />
+
