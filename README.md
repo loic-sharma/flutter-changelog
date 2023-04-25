@@ -811,7 +811,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual Skia roll from ad90b6bd4760 to c21e7df194c3<br />
     <sub>[#41341](https://github.com/flutter/engine/pull/41341) merged on April 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41341) over 8 hours, 2 additions and 2 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds AndroidSurfaceGLImpeller unit tests<br />
     <sub>[#40979](https://github.com/flutter/engine/pull/40979) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/40979) over 1 week, 119 additions and 25 deletions in 7 files</sub><br />
@@ -907,7 +907,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "re-land "Migrate mac_host_engine to engine v2 builds." (#41233)""<br />
     <sub>[#41380](https://github.com/flutter/engine/pull/41380) merged on April 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41380) over 7 minutes, 13 additions and 27 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [godofredoc](https://github.com/godofredoc)</sub><br />
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Manual roll skia to d5b4acfb4"<br />
     <sub>[#41381](https://github.com/flutter/engine/pull/41381) merged on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41381) over 1 hour, 3 additions and 3 deletions in 9 files</sub><br />
@@ -1053,7 +1053,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Change v2 `mac_unopt` orchestrator builder to Linux<br />
     <sub>[#41184](https://github.com/flutter/engine/pull/41184) merged on April 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41184) over 20 hours, 8 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [keyonghan](https://github.com/keyonghan)</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Run mac_host_engine orchestrator on arm Macs<br />
     <sub>[#41185](https://github.com/flutter/engine/pull/41185) merged on April 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41185) over 18 hours, 1 addition and 0 deletions in 1 file</sub><br />
@@ -1077,7 +1077,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Keep a reference to BlitPassGLES in the EncodeCommands lambda to prevent use-after-free<br />
     <sub>[#41100](https://github.com/flutter/engine/pull/41100) merged on April 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/41100) over 14 hours, 9 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Dan Field](https://github.com/dnfield)</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run the Mac impeller-cmake-example orchestrator on arm64<br />
     <sub>[#41194](https://github.com/flutter/engine/pull/41194) merged on April 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41194) over 13 hours, 1 addition and 0 deletions in 1 file</sub><br />
@@ -1133,7 +1133,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update some more uses of the deprecated Skia SkImage::MakeFromBitmap API<br />
     <sub>[#41041](https://github.com/flutter/engine/pull/41041) merged on April 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41041) over 7 minutes, 4 additions and 4 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [mac] Build mac framework with app extension flag<br />
     <sub>[#41011](https://github.com/flutter/engine/pull/41011) merged on April 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/41011) over 2 days, 40 additions and 2 deletions in 4 files</sub><br />
@@ -1257,7 +1257,7 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix skwasm's canvasDrawArc declaration and write tests.<br />
     <sub>[#41165](https://github.com/flutter/engine/pull/41165) merged on April 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41165) over 2 hours, 75 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update the timeout to 3h for mac build in staging.<br />
     <sub>[#41048](https://github.com/flutter/engine/pull/41048) merged on April 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41048) over 4 hours, 1 addition and 0 deletions in 1 file</sub><br />
@@ -1336,7 +1336,11 @@
 
 ### April 22, 2023 to April 28, 2023
 
-1 commits.
+2 commits.
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [shared_preferences] Update gradle/agp in example apps<br />
+    <sub>[#3809](https://github.com/flutter/packages/pull/3809) merged on April 25, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3809) over 20 hours, 8 additions and 8 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Daniele Cambi](https://github.com/dancamdev)** &mdash; [go_router] Adds name to TypedGoRoute<br />
     <sub>[#3702](https://github.com/flutter/packages/pull/3702) merged on April 24, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3702) over 1 week, 16 additions and 1 deletion in 3 files</sub><br />
@@ -1412,7 +1416,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump io.mockk:mockk from 1.13.4 to 1.13.5 in /packages/pigeon/platform_tests/test_plugin/android<br />
     <sub>[#3725](https://github.com/flutter/packages/pull/3725) merged on April 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3725) over 9 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=io.mockk:mockk&package-manager=gradle&previous-version=1.13.4&new-version=1.13.5)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [image_picker_ios] In unit test write and read kCGImagePropertyExifUserComment property<br />
