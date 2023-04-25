@@ -452,7 +452,7 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [CupertinoListSection] adds new property separatorColor<br />
     <sub>[#124803](https://github.com/flutter/flutter/pull/124803) merged on April 14, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124803) over 23 hours, 55 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Kate Lovett](https://github.com/Piinks)</sub><br />
     <sub><details><summary>2 images...</summary><img src="https://user-images.githubusercontent.com/13456345/231840875-22605c23-ee9f-464f-a005-c9fce1b641a7.png" width=350>![a](https://user-images.githubusercontent.com/13456345/231840832-6027cf86-e9c0-4206-b6f8-23556471c1bd.png) | ![b](https://user-images.githubusercontent.com/13456345/231840862-dcc30212-14f8-44af-a8cb-d04b22b7a078.png) | ![c](https://user-images.githubusercontent.com/13456345/231840870-d9fafe23-e9a4-423a-a25c-b71835991d07.png)</details></sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Add benchmarks for the Material3 Components screen<br />
@@ -601,7 +601,7 @@
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [flutter_test] Adds method to mock EventChannels<br />
     <sub>[#124415](https://github.com/flutter/flutter/pull/124415) merged on April 10, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/124415) over 2 days, 216 additions and 45 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [pdblasi-google](https://github.com/pdblasi-google)</sub><br />
+    <sub>Reviewed by: [pdblasi-google](https://github.com/pdblasi-google), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [ci.yaml] Disable packaging_test on release candidates<br />
     <sub>[#124712](https://github.com/flutter/flutter/pull/124712) merged on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/124712) over 48 minutes, 16 additions and 0 deletions in 1 file</sub><br />
@@ -1336,11 +1336,15 @@
 
 ### April 22, 2023 to April 28, 2023
 
-3 commits.
+4 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Adds Android namespace<br />
     <sub>[#3791](https://github.com/flutter/packages/pull/3791) merged on April 25, 2023 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/3791) over 3 days, 454 additions and 56 deletions in 84 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update test golden images for the latest Skia roll<br />
+    <sub>[#3787](https://github.com/flutter/packages/pull/3787) merged on April 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3787) over 4 days, 1 addition and 1 deletion in 3 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [shared_preferences] Update gradle/agp in example apps<br />
     <sub>[#3809](https://github.com/flutter/packages/pull/3809) merged on April 25, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3809) over 20 hours, 8 additions and 8 deletions in 4 files</sub><br />
