@@ -651,7 +651,7 @@
 
 ### April 22, 2023 to April 28, 2023
 
-3 commits.
+4 commits.
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Remove empty tests properties.
     <sub>[#41461](https://github.com/flutter/engine/pull/41461) merged on April 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41461) over 2 hours, 39 additions and 80 deletions in 11 files</sub>
@@ -660,6 +660,10 @@
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Add 16.2 runtime to Mac unopt
     <sub>[#41456](https://github.com/flutter/engine/pull/41456) merged on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41456) over 2 hours, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[impeller] convert src over to src for solid color"
+    <sub>[#41466](https://github.com/flutter/engine/pull/41466) merged on April 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41466) over 1 hour, 0 additions and 32 deletions in 3 files</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Reland "Upload windows arm artifacts to production bucket."
     <sub>[#41409](https://github.com/flutter/engine/pull/41409) merged on April 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41409) over 2 days, 6 additions and 3 deletions in 1 file</sub>
