@@ -4,7 +4,7 @@
 
 ### April 22, 2023 to April 28, 2023
 
-19 commits.
+20 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `borderRadius` to LinearProgressIndicator
     <sub>[#123517](https://github.com/flutter/flutter/pull/123517) merged on April 24, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/123517) over 4 weeks, 63 additions and 3 deletions in 2 files</sub>
@@ -38,6 +38,10 @@
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Sliver Constrained Cross Axis
     <sub>[#125239](https://github.com/flutter/flutter/pull/125239) merged on April 24, 2023 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/125239) over 4 days, 350 additions and 0 deletions in 6 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds selected semantics flag to radio button for Apple devices
+    <sub>[#125499](https://github.com/flutter/flutter/pull/125499) merged on April 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125499) over 3 hours, 100 additions and 0 deletions in 4 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `OutlinedButton`, `TextButton`, and `IconButton`  throw exception when passing only one cursor to `styleFrom`
     <sub>[#125204](https://github.com/flutter/flutter/pull/125204) merged on April 24, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/125204) over 4 days, 73 additions and 29 deletions in 9 files</sub>
