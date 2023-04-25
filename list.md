@@ -651,7 +651,11 @@
 
 ### April 22, 2023 to April 28, 2023
 
-4 commits.
+5 commits.
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; [Cleanup] remove type=local from local test/generators.
+    <sub>[#41465](https://github.com/flutter/engine/pull/41465) merged on April 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41465) over 3 hours, 15 additions and 30 deletions in 5 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Remove empty tests properties.
     <sub>[#41461](https://github.com/flutter/engine/pull/41461) merged on April 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41461) over 2 hours, 39 additions and 80 deletions in 11 files</sub>
