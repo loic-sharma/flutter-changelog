@@ -4,7 +4,7 @@
 
 ### April 22, 2023 to April 28, 2023
 
-22 commits.
+23 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `borderRadius` to LinearProgressIndicator
     <sub>[#123517](https://github.com/flutter/flutter/pull/123517) merged on April 24, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/123517) over 4 weeks, 63 additions and 3 deletions in 2 files</sub>
@@ -46,6 +46,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `OutlinedButton`, `TextButton`, and `IconButton`  throw exception when passing only one cursor to `styleFrom`
     <sub>[#125204](https://github.com/flutter/flutter/pull/125204) merged on April 24, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/125204) over 4 days, 73 additions and 29 deletions in 9 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update prefer_final_parameters comment
+    <sub>[#125465](https://github.com/flutter/flutter/pull/125465) merged on April 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125465) over 23 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add hostonly web compile size benchmarks
     <sub>[#125518](https://github.com/flutter/flutter/pull/125518) merged on April 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125518) over 3 hours, 20 additions and 0 deletions in 1 file</sub>
