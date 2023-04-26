@@ -83,9 +83,6 @@
 * **[arvin](https://github.com/arvinwli)** &mdash; fix RangeSlider, with no overlayShape shifts to the left<br />
     <sub>[#125483](https://github.com/flutter/flutter/pull/125483) opened on on April 25, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125483) 94 additions and 47 deletions in 2 files</sub><br />
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Cherry Pick Spell Check Fixes<br />
-    <sub>[#125517](https://github.com/flutter/flutter/pull/125517) opened on on April 25, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/125517) 1198 additions and 220 deletions in 94 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Align the Popup Menu under its child<br />
     <sub>[#125534](https://github.com/flutter/flutter/pull/125534) opened on on April 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125534) 47 additions and 2 deletions in 2 files</sub><br />
 
