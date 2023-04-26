@@ -86,3 +86,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Align the Popup Menu under its child<br />
     <sub>[#125534](https://github.com/flutter/flutter/pull/125534) opened on on April 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125534) 47 additions and 2 deletions in 2 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] more debugging for timeouts in break_on_framework_exceptions test<br />
+    <sub>[#125584](https://github.com/flutter/flutter/pull/125584) opened on on April 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125584) 81 additions and 174 deletions in 2 files</sub><br />
+
