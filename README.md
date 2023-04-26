@@ -693,7 +693,7 @@
 
 ### April 22, 2023 to April 28, 2023
 
-24 commits.
+26 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] partial repaint for Impeller/iOS.<br />
     <sub>[#40959](https://github.com/flutter/engine/pull/40959) merged on April 26, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/40959) over 2 weeks, 256 additions and 41 deletions in 7 files</sub><br />
@@ -742,6 +742,14 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; hide DisplayList::DisposeOps and other lint suggestions<br />
     <sub>[#41464](https://github.com/flutter/engine/pull/41464) merged on April 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41464) over 20 hours, 3 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [codesign] Add pinned xcode version as property to mac android aot engine<br />
+    <sub>[#41518](https://github.com/flutter/engine/pull/41518) merged on April 26, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/41518) over 4 hours, 30 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Coerce opaque ColorSourceContents to Source<br />
+    <sub>[#41525](https://github.com/flutter/engine/pull/41525) merged on April 26, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/41525) over 3 hours, 226 additions and 6 deletions in 23 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate Windows AOT Engine to Engine V2.<br />
     <sub>[#41515](https://github.com/flutter/engine/pull/41515) merged on April 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41515) over 2 hours, 13 additions and 6 deletions in 2 files</sub><br />
