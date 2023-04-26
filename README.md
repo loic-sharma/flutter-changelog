@@ -677,11 +677,15 @@
 
 ### April 22, 2023 to April 28, 2023
 
-12 commits.
+13 commits.
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; [ios] Fix hold and drag spacebar does not move cursor when obscureText is true.<br />
     <sub>[#40216](https://github.com/flutter/engine/pull/40216) merged on April 25, 2023 &mdash; **Small:** [33 comments](https://github.com/flutter/engine/pull/40216) over 1 month, 52 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Roll vulkan-deps and vs_toolchain<br />
+    <sub>[#41455](https://github.com/flutter/engine/pull/41455) merged on April 26, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/41455) over 1 day, 337 additions and 216 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made sure not to turn on wide gamut support without impeller.<br />
     <sub>[#41460](https://github.com/flutter/engine/pull/41460) merged on April 25, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/41460) over 1 day, 48 additions and 15 deletions in 6 files</sub><br />
