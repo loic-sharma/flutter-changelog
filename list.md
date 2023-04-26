@@ -1396,13 +1396,13 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gmackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.5.0&new-version=1.6.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Move Android lint checks
-    <sub>[#3816](https://github.com/flutter/packages/pull/3816) merged on April 26, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/3816) over 9 hours, 370 additions and 253 deletions in 9 files</sub>
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
-
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Adds Android namespace
     <sub>[#3791](https://github.com/flutter/packages/pull/3791) merged on April 25, 2023 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/3791) over 3 days, 454 additions and 56 deletions in 84 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Move Android lint checks
+    <sub>[#3816](https://github.com/flutter/packages/pull/3816) merged on April 26, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/3816) over 9 hours, 370 additions and 253 deletions in 9 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Allow `win32` up to version 4.x
     <sub>[#3820](https://github.com/flutter/packages/pull/3820) merged on April 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3820) over 3 hours, 6 additions and 2 deletions in 2 files</sub>
