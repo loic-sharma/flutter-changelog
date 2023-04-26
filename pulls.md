@@ -87,5 +87,5 @@
     <sub>[#125517](https://github.com/flutter/flutter/pull/125517) opened on on April 25, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/125517) 1198 additions and 220 deletions in 94 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Align the Popup Menu under its child<br />
-    <sub>[#125534](https://github.com/flutter/flutter/pull/125534) opened on on April 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125534) 58 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#125534](https://github.com/flutter/flutter/pull/125534) opened on on April 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125534) 47 additions and 2 deletions in 2 files</sub><br />
 
