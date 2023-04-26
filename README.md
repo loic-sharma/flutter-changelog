@@ -4,7 +4,7 @@
 
 ### April 22, 2023 to April 28, 2023
 
-21 commits.
+22 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `borderRadius` to LinearProgressIndicator<br />
     <sub>[#123517](https://github.com/flutter/flutter/pull/123517) merged on April 24, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/123517) over 4 weeks, 63 additions and 3 deletions in 2 files</sub><br />
@@ -46,6 +46,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `OutlinedButton`, `TextButton`, and `IconButton`  throw exception when passing only one cursor to `styleFrom`<br />
     <sub>[#125204](https://github.com/flutter/flutter/pull/125204) merged on April 24, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/125204) over 4 days, 73 additions and 29 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add hostonly web compile size benchmarks<br />
+    <sub>[#125518](https://github.com/flutter/flutter/pull/125518) merged on April 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125518) over 3 hours, 20 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add Sliders to `macrobenchmarks`<br />
     <sub>[#125296](https://github.com/flutter/flutter/pull/125296) merged on April 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125296) over 3 days, 114 additions and 0 deletions in 6 files</sub><br />
@@ -1381,16 +1385,24 @@
 
 ### April 22, 2023 to April 28, 2023
 
-6 commits.
+8 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump androidx.annotation:annotation from 1.5.0 to 1.6.0 in /packages/in_app_purchase/in_app_purchase_android/android<br />
     <sub>[#3381](https://github.com/flutter/packages/pull/3381) merged on April 25, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/3381) over 1 month, 9 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gmackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.5.0&new-version=1.6.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Move Android lint checks<br />
+    <sub>[#3816](https://github.com/flutter/packages/pull/3816) merged on April 26, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/3816) over 9 hours, 370 additions and 253 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Adds Android namespace<br />
     <sub>[#3791](https://github.com/flutter/packages/pull/3791) merged on April 25, 2023 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/3791) over 3 days, 454 additions and 56 deletions in 84 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Allow `win32` up to version 4.x<br />
+    <sub>[#3820](https://github.com/flutter/packages/pull/3820) merged on April 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3820) over 3 hours, 6 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Evan Song](https://github.com/mgmix)** &mdash; [google_maps_flutter_android] Fix Android lint warnings<br />
     <sub>[#3751](https://github.com/flutter/packages/pull/3751) merged on April 25, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/3751) over 1 week, 30 additions and 229 deletions in 8 files</sub><br />
