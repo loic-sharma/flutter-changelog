@@ -4,7 +4,7 @@
 
 ### April 22, 2023 to April 28, 2023
 
-26 commits.
+27 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `borderRadius` to LinearProgressIndicator
     <sub>[#123517](https://github.com/flutter/flutter/pull/123517) merged on April 24, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/123517) over 4 weeks, 63 additions and 3 deletions in 2 files</sub>
@@ -114,6 +114,10 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [Process] Update cherry-pick template assignees
     <sub>[#125402](https://github.com/flutter/flutter/pull/125402) merged on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125402) over 6 hours, 3 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Roll Flutter Engine from cf975417ce40 to fddd5add8b62 (3 revisions)"
+    <sub>[#125588](https://github.com/flutter/flutter/pull/125588) merged on April 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125588) over 1 minute, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### April 15, 2023 to April 21, 2023
 
@@ -693,7 +697,7 @@
 
 ### April 22, 2023 to April 28, 2023
 
-26 commits.
+27 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] partial repaint for Impeller/iOS.
     <sub>[#40959](https://github.com/flutter/engine/pull/40959) merged on April 26, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/40959) over 2 weeks, 256 additions and 41 deletions in 7 files</sub>
@@ -789,6 +793,10 @@
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll Clang from 20d06c833d83 to 5344d8e10bb7
     <sub>[#41524](https://github.com/flutter/engine/pull/41524) merged on April 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41524) over 44 minutes, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[Impeller] Use a device buffer for SkBitmap allocation, use Linear texture on Metal backend."
+    <sub>[#41533](https://github.com/flutter/engine/pull/41533) merged on April 26, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/41533) over 5 minutes, 85 additions and 275 deletions in 14 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[impeller] convert src over to src for solid color"
