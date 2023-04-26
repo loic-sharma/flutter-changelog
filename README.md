@@ -93,7 +93,7 @@
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Mark module_test_ios flaky<br />
     <sub>[#125426](https://github.com/flutter/flutter/pull/125426) merged on April 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125426) over 1 hour, 2 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [chunhtai](https://github.com/chunhtai)</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool,web] Include more info URI on Wasm init failure<br />
     <sub>[#125312](https://github.com/flutter/flutter/pull/125312) merged on April 24, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/125312) over 3 days, 12 additions and 4 deletions in 4 files</sub><br />
@@ -101,7 +101,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny fix doc pointing to incorrect widget confusing the readers<br />
     <sub>[#125394](https://github.com/flutter/flutter/pull/125394) merged on April 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125394) over 17 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [Process] Update cherry-pick template assignees<br />
     <sub>[#125402](https://github.com/flutter/flutter/pull/125402) merged on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125402) over 6 hours, 3 additions and 0 deletions in 1 file</sub><br />
@@ -280,7 +280,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Swap bundler dependabot reviewers<br />
     <sub>[#125333](https://github.com/flutter/flutter/pull/125333) merged on April 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125333) over 1 hour, 2 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Remove uses of deprecated test_api imports<br />
     <sub>[#124732](https://github.com/flutter/flutter/pull/124732) merged on April 20, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/124732) over 1 week, 143 additions and 160 deletions in 26 files</sub><br />
@@ -449,7 +449,7 @@
 
 * **[Aditya Thakur](https://github.com/adityathakurxd)** &mdash; Fix ShaderMask Example issue<br />
     <sub>[#124511](https://github.com/flutter/flutter/pull/124511) merged on April 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/124511) over 1 day, 4 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Viren Khatri](https://github.com/werainkhatri), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Viren Khatri](https://github.com/werainkhatri)</sub><br />
     <sub><details><summary>1 image...</summary><img width="275" alt="Example that makes the text look like it is on fire" src="https://user-images.githubusercontent.com/53579386/230909077-f675686e-2b02-42f9-85c6-f22fe6fc5655.png"></details></sub>
 
 * **[Nabeel Parkar](https://github.com/exaby73)** &mdash; Bug report 2 issue template<br />
@@ -888,7 +888,7 @@
 
 * **[Prashant Andoriya](https://github.com/andoriyaprashant)** &mdash; removing the check_gn_format.py file from ci/ <br />
     <sub>[#41397](https://github.com/flutter/engine/pull/41397) merged on April 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/41397) over 1 hour, 0 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [godofredoc](https://github.com/godofredoc)</sub><br />
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix SupportsReadFromOnscreenTexture capability check<br />
     <sub>[#41386](https://github.com/flutter/engine/pull/41386) merged on April 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41386) over 4 hours, 54 additions and 11 deletions in 7 files</sub><br />
@@ -956,7 +956,7 @@
 
 * **[Caroline Liu](https://github.com/caroqliu)** &mdash; [fuchsia] migrate touch-input integration tests to gfx scene manager test ui stack<br />
     <sub>[#41118](https://github.com/flutter/engine/pull/41118) merged on April 18, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/41118) over 5 days, 16 additions and 10 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [David Worsham](https://github.com/arbreng), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [David Worsham](https://github.com/arbreng)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Manual roll skia to d5b4acfb4<br />
     <sub>[#41378](https://github.com/flutter/engine/pull/41378) merged on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41378) over 2 hours, 3 additions and 3 deletions in 9 files</sub><br />
@@ -972,7 +972,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "re-land "Migrate mac_host_engine to engine v2 builds." (#41233)""<br />
     <sub>[#41380](https://github.com/flutter/engine/pull/41380) merged on April 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41380) over 7 minutes, 13 additions and 27 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [godofredoc](https://github.com/godofredoc)</sub><br />
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Manual roll skia to d5b4acfb4"<br />
     <sub>[#41381](https://github.com/flutter/engine/pull/41381) merged on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41381) over 1 hour, 3 additions and 3 deletions in 9 files</sub><br />
@@ -992,7 +992,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Reland  "Migrate mac_host_engine to engine v2 builds."<br />
     <sub>[#41279](https://github.com/flutter/engine/pull/41279) merged on April 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41279) over 1 hour, 27 additions and 13 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 </details>
 
@@ -1358,7 +1358,7 @@
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "[Android] Send connectionClosed message when keyboard becomes invisible to ensure framework focus state is correct."<br />
     <sub>[#41211](https://github.com/flutter/engine/pull/41211) merged on April 14, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/41211) over 1 hour, 0 additions and 68 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Revert "Add support for double tap action from Apple Pencil 2"<br />
     <sub>[#41138](https://github.com/flutter/engine/pull/41138) merged on April 13, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/41138) over 23 hours, 37 additions and 230 deletions in 12 files</sub><br />
