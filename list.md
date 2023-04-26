@@ -1441,7 +1441,7 @@
 
 ### April 22, 2023 to April 28, 2023
 
-10 commits.
+11 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump androidx.annotation:annotation from 1.5.0 to 1.6.0 in /packages/in_app_purchase/in_app_purchase_android/android
     <sub>[#3381](https://github.com/flutter/packages/pull/3381) merged on April 25, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/3381) over 1 month, 9 additions and 2 deletions in 3 files</sub>
@@ -1467,6 +1467,10 @@
 * **[Evan Song](https://github.com/mgmix)** &mdash; [google_maps_flutter_android] Fix Android lint warnings
     <sub>[#3751](https://github.com/flutter/packages/pull/3751) merged on April 25, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/3751) over 1 week, 30 additions and 229 deletions in 8 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [gmackall](https://github.com/gmackall)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Swap some iOS package CODEOWNERS
+    <sub>[#3793](https://github.com/flutter/packages/pull/3793) merged on April 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3793) over 4 days, 5 additions and 5 deletions in 1 file</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update test golden images for the latest Skia roll
     <sub>[#3787](https://github.com/flutter/packages/pull/3787) merged on April 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3787) over 4 days, 1 addition and 1 deletion in 3 files</sub>
