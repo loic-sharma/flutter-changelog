@@ -445,7 +445,7 @@
 
 * **[Aditya Thakur](https://github.com/adityathakurxd)** &mdash; Fix ShaderMask Example issue
     <sub>[#124511](https://github.com/flutter/flutter/pull/124511) merged on April 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/124511) over 1 day, 4 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Viren Khatri](https://github.com/werainkhatri)</sub>
+    <sub>Reviewed by: [Viren Khatri](https://github.com/werainkhatri), [Jonah Williams](https://github.com/jonahwilliams)</sub>
     <sub><details><summary>1 image...</summary><img width="275" alt="Example that makes the text look like it is on fire" src="https://user-images.githubusercontent.com/53579386/230909077-f675686e-2b02-42f9-85c6-f22fe6fc5655.png"></details></sub>
 
 * **[Nabeel Parkar](https://github.com/exaby73)** &mdash; Bug report 2 issue template
@@ -477,7 +477,7 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [CupertinoListSection] adds new property separatorColor
     <sub>[#124803](https://github.com/flutter/flutter/pull/124803) merged on April 14, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/124803) over 23 hours, 55 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Kate Lovett](https://github.com/Piinks)</sub>
     <sub><details><summary>2 images...</summary><img src="https://user-images.githubusercontent.com/13456345/231840875-22605c23-ee9f-464f-a005-c9fce1b641a7.png" width=350>![a](https://user-images.githubusercontent.com/13456345/231840832-6027cf86-e9c0-4206-b6f8-23556471c1bd.png) | ![b](https://user-images.githubusercontent.com/13456345/231840862-dcc30212-14f8-44af-a8cb-d04b22b7a078.png) | ![c](https://user-images.githubusercontent.com/13456345/231840870-d9fafe23-e9a4-423a-a25c-b71835991d07.png)</details></sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Add benchmarks for the Material3 Components screen
