@@ -104,7 +104,7 @@
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool,web] Include more info URI on Wasm init failure
-    <sub>[#125312](https://github.com/flutter/flutter/pull/125312) merged on April 24, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/125312) over 3 days, 12 additions and 4 deletions in 4 files</sub>
+    <sub>[#125312](https://github.com/flutter/flutter/pull/125312) merged on April 24, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/125312) over 3 days, 12 additions and 4 deletions in 4 files</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny fix doc pointing to incorrect widget confusing the readers
@@ -748,7 +748,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [codesign] Add pinned xcode version as property to mac android aot engine
-    <sub>[#41518](https://github.com/flutter/engine/pull/41518) merged on April 26, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/41518) over 4 hours, 30 additions and 0 deletions in 1 file</sub>
+    <sub>[#41518](https://github.com/flutter/engine/pull/41518) merged on April 26, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/41518) over 4 hours, 30 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Coerce opaque ColorSourceContents to Source
