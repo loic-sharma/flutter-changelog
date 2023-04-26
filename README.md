@@ -884,7 +884,7 @@
 
 * **[Prashant Andoriya](https://github.com/andoriyaprashant)** &mdash; removing the check_gn_format.py file from ci/ <br />
     <sub>[#41397](https://github.com/flutter/engine/pull/41397) merged on April 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/41397) over 1 hour, 0 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix SupportsReadFromOnscreenTexture capability check<br />
     <sub>[#41386](https://github.com/flutter/engine/pull/41386) merged on April 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41386) over 4 hours, 54 additions and 11 deletions in 7 files</sub><br />
@@ -968,7 +968,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "re-land "Migrate mac_host_engine to engine v2 builds." (#41233)""<br />
     <sub>[#41380](https://github.com/flutter/engine/pull/41380) merged on April 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41380) over 7 minutes, 13 additions and 27 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Manual roll skia to d5b4acfb4"<br />
     <sub>[#41381](https://github.com/flutter/engine/pull/41381) merged on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41381) over 1 hour, 3 additions and 3 deletions in 9 files</sub><br />
