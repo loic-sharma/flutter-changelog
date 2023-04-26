@@ -81,7 +81,7 @@
     <sub>[#125478](https://github.com/flutter/flutter/pull/125478) opened on on April 25, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/125478) 2012 additions and 641 deletions in 57 files</sub><br />
 
 * **[arvin](https://github.com/arvinwli)** &mdash; fix RangeSlider, with no overlayShape shifts to the left<br />
-    <sub>[#125483](https://github.com/flutter/flutter/pull/125483) opened on on April 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125483) 94 additions and 47 deletions in 2 files</sub><br />
+    <sub>[#125483](https://github.com/flutter/flutter/pull/125483) opened on on April 25, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125483) 94 additions and 47 deletions in 2 files</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Cherry Pick Spell Check Fixes<br />
     <sub>[#125517](https://github.com/flutter/flutter/pull/125517) opened on on April 25, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/125517) 1198 additions and 220 deletions in 94 files</sub><br />
