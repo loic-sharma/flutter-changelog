@@ -53,9 +53,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update Navigation Drawer width and tiles padding<br />
     <sub>[#124042](https://github.com/flutter/flutter/pull/124042) opened on on April 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124042) 65 additions and 35 deletions in 6 files</sub><br />
 
-* **[Alberto Azinar](https://github.com/albertoazinar)** &mdash; improvement : removed required  kotlin dependency<br />
-    <sub>[#125002](https://github.com/flutter/flutter/pull/125002) opened on on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125002) 1 addition and 3 deletions in 1 file</sub><br />
-
 * **[Prashant Andoriya](https://github.com/andoriyaprashant)** &mdash; Removed required kotlin dependency<br />
     <sub>[#125098](https://github.com/flutter/flutter/pull/125098) opened on on April 19, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/125098) 2 additions and 207 deletions in 2 files</sub><br />
 
@@ -81,7 +78,7 @@
     <sub>[#125478](https://github.com/flutter/flutter/pull/125478) opened on on April 25, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/125478) 2012 additions and 641 deletions in 57 files</sub><br />
 
 * **[arvin](https://github.com/arvinwli)** &mdash; fix RangeSlider, with no overlayShape shifts to the left<br />
-    <sub>[#125483](https://github.com/flutter/flutter/pull/125483) opened on on April 25, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125483) 94 additions and 47 deletions in 2 files</sub><br />
+    <sub>[#125483](https://github.com/flutter/flutter/pull/125483) opened on on April 25, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/125483) 93 additions and 47 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Align the Popup Menu under its child<br />
     <sub>[#125534](https://github.com/flutter/flutter/pull/125534) opened on on April 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125534) 47 additions and 2 deletions in 2 files</sub><br />
