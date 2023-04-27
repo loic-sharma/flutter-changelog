@@ -697,7 +697,7 @@
 
 ### April 22, 2023 to April 28, 2023
 
-29 commits.
+30 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] partial repaint for Impeller/iOS.<br />
     <sub>[#40959](https://github.com/flutter/engine/pull/40959) merged on April 26, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/40959) over 2 weeks, 256 additions and 41 deletions in 7 files</sub><br />
@@ -734,6 +734,10 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Double zip FlutterMacOS.dSYM.zip.<br />
     <sub>[#41425](https://github.com/flutter/engine/pull/41425) merged on April 25, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/41425) over 3 days, 36 additions and 17 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Xilai Zhang](https://github.com/XilaiZhang)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] allow shader read for root resolve texture<br />
+    <sub>[#41543](https://github.com/flutter/engine/pull/41543) merged on April 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41543) over 1 hour, 2 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to 5708f2051772fd02c949e5dc9397e54f8c7a4478<br />
     <sub>[#41540](https://github.com/flutter/engine/pull/41540) merged on April 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41540) over 44 minutes, 1 addition and 1 deletion in 1 file</sub><br />
