@@ -50,9 +50,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update Navigation Drawer width and tiles padding<br />
     <sub>[#124042](https://github.com/flutter/flutter/pull/124042) opened on on April 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124042) 65 additions and 35 deletions in 6 files</sub><br />
 
-* **[Alberto Azinar](https://github.com/albertoazinar)** &mdash; improvement : removed required  kotlin dependency<br />
-    <sub>[#125002](https://github.com/flutter/flutter/pull/125002) opened on on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125002) 1 addition and 3 deletions in 1 file</sub><br />
-
 * **[Prashant Andoriya](https://github.com/andoriyaprashant)** &mdash; Removed required kotlin dependency<br />
     <sub>[#125098](https://github.com/flutter/flutter/pull/125098) opened on on April 19, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/125098) 2 additions and 207 deletions in 2 files</sub><br />
 
@@ -79,7 +76,4 @@
 
 * **[Yu](https://github.com/negotoyolo)** &mdash; Fix style in examples/image_list | just rename <br />
     <sub>[#125616](https://github.com/flutter/flutter/pull/125616) opened on on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125616) 5 additions and 5 deletions in 1 file</sub><br />
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Smallest change required to support host apps using agp 8.0<br />
-    <sub>[#125657](https://github.com/flutter/flutter/pull/125657) opened on on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125657) 8 additions and 0 deletions in 2 files</sub><br />
 
