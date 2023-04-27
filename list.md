@@ -1639,7 +1639,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [palette_generator] run agp update for example
     <sub>[#3747](https://github.com/flutter/packages/pull/3747) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3747) over 2 hours, 13 additions and 14 deletions in 6 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fixes a bug that go_router would crash if pageBuilder depends on InheritedWidgets.s.
     <sub>[#3714](https://github.com/flutter/packages/pull/3714) merged on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3714) over 3 days, 50 additions and 3 deletions in 4 files</sub>
