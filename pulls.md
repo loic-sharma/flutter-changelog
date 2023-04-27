@@ -86,9 +86,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] more debugging for timeouts in break_on_framework_exceptions test<br />
     <sub>[#125584](https://github.com/flutter/flutter/pull/125584) opened on on April 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125584) 81 additions and 174 deletions in 2 files</sub><br />
 
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; fix: `moreOrLessEquals` does not allow `actual` to be integers<br />
-    <sub>[#125599](https://github.com/flutter/flutter/pull/125599) opened on on April 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125599) 4 additions and 1 deletion in 2 files</sub><br />
-
 * **[Patrick Lindsay](https://github.com/lindsaypj)** &mdash; Added CupertinoDatepicker monthYear mode (flutter#93508)<br />
     <sub>[#125603](https://github.com/flutter/flutter/pull/125603) opened on on April 27, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/125603) 509 additions and 5 deletions in 2 files</sub><br />
 

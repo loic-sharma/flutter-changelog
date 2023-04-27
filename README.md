@@ -4,7 +4,7 @@
 
 ### April 22, 2023 to April 28, 2023
 
-27 commits.
+28 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `borderRadius` to LinearProgressIndicator<br />
     <sub>[#123517](https://github.com/flutter/flutter/pull/123517) merged on April 24, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/123517) over 4 weeks, 63 additions and 3 deletions in 2 files</sub><br />
@@ -78,6 +78,10 @@
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Refactor "gen-l10n" command to use same code path when "l10n.yaml" is present or not present<br />
     <sub>[#125429](https://github.com/flutter/flutter/pull/125429) merged on April 26, 2023 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/125429) over 2 days, 277 additions and 180 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; tools: Drop unused function<br />
+    <sub>[#125590](https://github.com/flutter/flutter/pull/125590) merged on April 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125590) over 4 hours, 0 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Handle dollar signs properly when generating localizations<br />
     <sub>[#125514](https://github.com/flutter/flutter/pull/125514) merged on April 25, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/125514) over 1 hour, 48 additions and 5 deletions in 3 files</sub><br />
@@ -804,7 +808,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[Impeller] Use a device buffer for SkBitmap allocation, use Linear texture on Metal backend."<br />
-    <sub>[#41533](https://github.com/flutter/engine/pull/41533) merged on April 26, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/41533) over 5 minutes, 85 additions and 275 deletions in 14 files</sub><br />
+    <sub>[#41533](https://github.com/flutter/engine/pull/41533) merged on April 26, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/41533) over 5 minutes, 85 additions and 275 deletions in 14 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[impeller] convert src over to src for solid color"<br />
