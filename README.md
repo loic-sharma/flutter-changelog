@@ -796,8 +796,8 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[Impeller] Use a device buffer for SkBitmap allocation, use Linear texture on Metal backend."<br />
-    <sub>[#41533](https://github.com/flutter/engine/pull/41533) merged on April 26, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/41533) over 5 minutes, 85 additions and 275 deletions in 14 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>[#41533](https://github.com/flutter/engine/pull/41533) merged on April 26, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/41533) over 5 minutes, 85 additions and 275 deletions in 14 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[impeller] convert src over to src for solid color"<br />
     <sub>[#41466](https://github.com/flutter/engine/pull/41466) merged on April 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41466) over 1 hour, 0 additions and 32 deletions in 3 files</sub><br />
