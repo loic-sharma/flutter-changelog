@@ -80,3 +80,6 @@
 * **[Yu](https://github.com/negotoyolo)** &mdash; Fix style in examples/image_list | just rename <br />
     <sub>[#125616](https://github.com/flutter/flutter/pull/125616) opened on on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125616) 5 additions and 5 deletions in 1 file</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Smallest change required to support host apps using agp 8.0<br />
+    <sub>[#125657](https://github.com/flutter/flutter/pull/125657) opened on on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125657) 8 additions and 0 deletions in 2 files</sub><br />
+
