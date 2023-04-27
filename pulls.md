@@ -101,6 +101,3 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add debugKeyboardEvents flag<br />
     <sub>[#125629](https://github.com/flutter/flutter/pull/125629) opened on on April 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125629) 77 additions and 2 deletions in 2 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase Xcode minimum version to 14<br />
-    <sub>[#125639](https://github.com/flutter/flutter/pull/125639) opened on on April 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125639) 10 additions and 10 deletions in 4 files</sub><br />
-
