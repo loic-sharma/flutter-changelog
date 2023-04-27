@@ -77,9 +77,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Align the Popup Menu under its child<br />
     <sub>[#125534](https://github.com/flutter/flutter/pull/125534) opened on on April 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125534) 47 additions and 2 deletions in 2 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] more debugging for timeouts in break_on_framework_exceptions test<br />
-    <sub>[#125584](https://github.com/flutter/flutter/pull/125584) opened on on April 26, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/125584) 81 additions and 174 deletions in 2 files</sub><br />
-
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tools] Apply Android Studio version detection logic to explicitly configured installation directory (`flutter config --android-studio-dir`)<br />
     <sub>[#125596](https://github.com/flutter/flutter/pull/125596) opened on on April 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125596) 155 additions and 32 deletions in 2 files</sub><br />
 
