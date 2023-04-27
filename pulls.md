@@ -50,6 +50,9 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update Navigation Drawer width and tiles padding<br />
     <sub>[#124042](https://github.com/flutter/flutter/pull/124042) opened on on April 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124042) 65 additions and 35 deletions in 6 files</sub><br />
 
+* **[Alberto Azinar](https://github.com/albertoazinar)** &mdash; improvement : removed required  kotlin dependency<br />
+    <sub>[#125002](https://github.com/flutter/flutter/pull/125002) opened on on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125002) 1 addition and 3 deletions in 1 file</sub><br />
+
 * **[Prashant Andoriya](https://github.com/andoriyaprashant)** &mdash; Removed required kotlin dependency<br />
     <sub>[#125098](https://github.com/flutter/flutter/pull/125098) opened on on April 19, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/125098) 2 additions and 207 deletions in 2 files</sub><br />
 
@@ -65,14 +68,8 @@
 * **[Phlippie Bosman](https://github.com/phlippieb-discovery)** &mdash; Nit: grammar in documentation<br />
     <sub>[#125462](https://github.com/flutter/flutter/pull/125462) opened on on April 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125462) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Burkhonjon Turdialiev](https://github.com/burhonjonturdaliyev)** &mdash; Test_APi2<br />
-    <sub>[#125478](https://github.com/flutter/flutter/pull/125478) opened on on April 25, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/125478) 2012 additions and 641 deletions in 57 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Align the Popup Menu under its child<br />
     <sub>[#125534](https://github.com/flutter/flutter/pull/125534) opened on on April 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125534) 47 additions and 2 deletions in 2 files</sub><br />
-
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tools] Apply Android Studio version detection logic to explicitly configured installation directory (`flutter config --android-studio-dir`)<br />
-    <sub>[#125596](https://github.com/flutter/flutter/pull/125596) opened on on April 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125596) 155 additions and 32 deletions in 2 files</sub><br />
 
 * **[Patrick Lindsay](https://github.com/lindsaypj)** &mdash; Added CupertinoDatepicker monthYear mode (flutter#93508)<br />
     <sub>[#125603](https://github.com/flutter/flutter/pull/125603) opened on on April 27, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/125603) 509 additions and 5 deletions in 2 files</sub><br />
@@ -85,7 +82,4 @@
 
 * **[Yu](https://github.com/negotoyolo)** &mdash; Fix style in examples/image_list | just rename <br />
     <sub>[#125616](https://github.com/flutter/flutter/pull/125616) opened on on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125616) 5 additions and 5 deletions in 1 file</sub><br />
-
-* **[Janice Collins](https://github.com/jcollins-g)** &mdash; Update dartdoc to v6.2.2.<br />
-    <sub>[#125650](https://github.com/flutter/flutter/pull/125650) opened on on April 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125650) 1 addition and 1 deletion in 1 file</sub><br />
 
