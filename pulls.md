@@ -51,7 +51,7 @@
     <sub>[#124042](https://github.com/flutter/flutter/pull/124042) opened on on April 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124042) 65 additions and 35 deletions in 6 files</sub><br />
 
 * **[Prashant Andoriya](https://github.com/andoriyaprashant)** &mdash; Removed required kotlin dependency<br />
-    <sub>[#125098](https://github.com/flutter/flutter/pull/125098) opened on on April 19, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/125098) 2 additions and 207 deletions in 2 files</sub><br />
+    <sub>[#125098](https://github.com/flutter/flutter/pull/125098) opened on on April 19, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/125098) 2 additions and 207 deletions in 2 files</sub><br />
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Don't infer placeholders if a placeholder list has been explicitly defined<br />
     <sub>[#125154](https://github.com/flutter/flutter/pull/125154) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125154) 59 additions and 6 deletions in 2 files</sub><br />
