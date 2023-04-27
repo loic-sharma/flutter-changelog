@@ -56,14 +56,8 @@
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Don't infer placeholders if a placeholder list has been explicitly defined<br />
     <sub>[#125154](https://github.com/flutter/flutter/pull/125154) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125154) 59 additions and 6 deletions in 2 files</sub><br />
 
-* **[Prashant Andoriya](https://github.com/andoriyaprashant)** &mdash; removed user message class<br />
-    <sub>[#125192](https://github.com/flutter/flutter/pull/125192) opened on on April 20, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125192) 1 addition and 212 deletions in 1 file</sub><br />
-
 * **[ChenRenJie](https://github.com/b7woreo)** &mdash; Fix incorrect assert hint in flutter.groovy<br />
     <sub>[#125283](https://github.com/flutter/flutter/pull/125283) opened on on April 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125283) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Anas](https://github.com/Anas35)** &mdash; fix package template create platform folders<br />
-    <sub>[#125292](https://github.com/flutter/flutter/pull/125292) opened on on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125292) 18 additions and 0 deletions in 2 files</sub><br />
 
 * **[st merlhin](https://github.com/stMerlHin)** &mdash; Data table example scroll<br />
     <sub>[#125433](https://github.com/flutter/flutter/pull/125433) opened on on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125433) 73 additions and 28 deletions in 2 files</sub><br />
@@ -91,4 +85,7 @@
 
 * **[Yu](https://github.com/negotoyolo)** &mdash; Fix style in examples/image_list | just rename <br />
     <sub>[#125616](https://github.com/flutter/flutter/pull/125616) opened on on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125616) 5 additions and 5 deletions in 1 file</sub><br />
+
+* **[Janice Collins](https://github.com/jcollins-g)** &mdash; Update dartdoc to v6.2.2.<br />
+    <sub>[#125650](https://github.com/flutter/flutter/pull/125650) opened on on April 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125650) 1 addition and 1 deletion in 1 file</sub><br />
 
