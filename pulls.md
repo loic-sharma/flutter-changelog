@@ -87,5 +87,5 @@
     <sub>[#125584](https://github.com/flutter/flutter/pull/125584) opened on on April 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125584) 81 additions and 174 deletions in 2 files</sub><br />
 
 * **[Patrick Lindsay](https://github.com/lindsaypj)** &mdash; Added CupertinoDatepicker monthYear mode (flutter#93508)<br />
-    <sub>[#125603](https://github.com/flutter/flutter/pull/125603) opened on on April 27, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/125603) 509 additions and 5 deletions in 2 files</sub><br />
+    <sub>[#125603](https://github.com/flutter/flutter/pull/125603) opened on on April 27, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/125603) 509 additions and 5 deletions in 2 files</sub><br />
 
