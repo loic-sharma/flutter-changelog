@@ -23,9 +23,6 @@
 * **[Altynbek Aidarbekov](https://github.com/altynbek132)** &mdash; use TextField.border.borderSide by default<br />
     <sub>[#116213](https://github.com/flutter/flutter/pull/116213) opened on on November 29, 2022 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/116213) 43 additions and 28 deletions in 1 file</sub><br />
 
-* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; [`ThemeData` 🧹] Remove `primaryColorLight` & `primaryColorDark` usages<br />
-    <sub>[#116362](https://github.com/flutter/flutter/pull/116362) opened on on December 1, 2022 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/116362) 12 additions and 10 deletions in 1 file</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Precache after channel switch<br />
     <sub>[#118129](https://github.com/flutter/flutter/pull/118129) opened on on January 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/118129) 74 additions and 47 deletions in 5 files</sub><br />
 

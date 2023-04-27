@@ -4,7 +4,7 @@
 
 ### April 22, 2023 to April 28, 2023
 
-28 commits.
+29 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `borderRadius` to LinearProgressIndicator<br />
     <sub>[#123517](https://github.com/flutter/flutter/pull/123517) merged on April 24, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/123517) over 4 weeks, 63 additions and 3 deletions in 2 files</sub><br />
@@ -38,6 +38,10 @@
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Sliver Constrained Cross Axis<br />
     <sub>[#125239](https://github.com/flutter/flutter/pull/125239) merged on April 24, 2023 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/125239) over 4 days, 350 additions and 0 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Provide default constraints for M3 bottom sheets<br />
+    <sub>[#120065](https://github.com/flutter/flutter/pull/120065) merged on April 27, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/120065) over 2 months, 26 additions and 18 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Eilidh Southren](https://github.com/esouthren), [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds selected semantics flag to radio button for Apple devices<br />
     <sub>[#125499](https://github.com/flutter/flutter/pull/125499) merged on April 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125499) over 3 hours, 100 additions and 0 deletions in 4 files</sub><br />
