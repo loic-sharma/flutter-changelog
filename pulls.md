@@ -68,9 +68,6 @@
 * **[Phlippie Bosman](https://github.com/phlippieb-discovery)** &mdash; Nit: grammar in documentation<br />
     <sub>[#125462](https://github.com/flutter/flutter/pull/125462) opened on on April 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125462) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Align the Popup Menu under its child<br />
-    <sub>[#125534](https://github.com/flutter/flutter/pull/125534) opened on on April 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125534) 47 additions and 2 deletions in 2 files</sub><br />
-
 * **[Patrick Lindsay](https://github.com/lindsaypj)** &mdash; Added CupertinoDatepicker monthYear mode (flutter#93508)<br />
     <sub>[#125603](https://github.com/flutter/flutter/pull/125603) opened on on April 27, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/125603) 509 additions and 5 deletions in 2 files</sub><br />
 
