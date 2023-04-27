@@ -95,3 +95,6 @@
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Timely release the memory of unavailable images evicted by `ImageCache`<br />
     <sub>[#125614](https://github.com/flutter/flutter/pull/125614) opened on on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125614) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Yu](https://github.com/negotoyolo)** &mdash; Fix constant style in examples/image_list/lib/main.dart.<br />
+    <sub>[#125616](https://github.com/flutter/flutter/pull/125616) opened on on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125616) 5 additions and 5 deletions in 1 file</sub><br />
+
