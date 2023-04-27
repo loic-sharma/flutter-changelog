@@ -92,3 +92,6 @@
 * **[Patrick Lindsay](https://github.com/lindsaypj)** &mdash; Added CupertinoDatepicker monthYear mode (flutter#93508)<br />
     <sub>[#125603](https://github.com/flutter/flutter/pull/125603) opened on on April 27, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/125603) 509 additions and 5 deletions in 2 files</sub><br />
 
+* **[Spt](https://github.com/intspt)** &mdash; Solve the problem that <Flutter/Flutter.h> cannot be imported when a pod transitive depends on Flutter<br />
+    <sub>[#125610](https://github.com/flutter/flutter/pull/125610) opened on on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125610) 27 additions and 4 deletions in 1 file</sub><br />
+
