@@ -4,7 +4,7 @@
 
 ### April 22, 2023 to April 28, 2023
 
-37 commits.
+38 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `borderRadius` to LinearProgressIndicator<br />
     <sub>[#123517](https://github.com/flutter/flutter/pull/123517) merged on April 24, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/123517) over 4 weeks, 63 additions and 3 deletions in 2 files</sub><br />
@@ -56,13 +56,17 @@
     <sub>[#125499](https://github.com/flutter/flutter/pull/125499) merged on April 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125499) over 3 hours, 100 additions and 0 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `OutlinedButton`, `TextButton`, and `IconButton`  throw exception when passing only one cursor to `styleFrom`<br />
-    <sub>[#125204](https://github.com/flutter/flutter/pull/125204) merged on April 24, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/125204) over 4 days, 73 additions and 29 deletions in 9 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase Xcode minimum version to 14<br />
+    <sub>[#125639](https://github.com/flutter/flutter/pull/125639) merged on April 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125639) over 5 hours, 10 additions and 10 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Bump the default minSdkVersion to 19<br />
     <sub>[#125515](https://github.com/flutter/flutter/pull/125515) merged on April 27, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/125515) over 1 day, 10 additions and 10 deletions in 10 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `OutlinedButton`, `TextButton`, and `IconButton`  throw exception when passing only one cursor to `styleFrom`<br />
+    <sub>[#125204](https://github.com/flutter/flutter/pull/125204) merged on April 24, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/125204) over 4 days, 73 additions and 29 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `slider_perf_android` task to `ci.yaml`<br />
     <sub>[#125540](https://github.com/flutter/flutter/pull/125540) merged on April 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125540) over 1 day, 11 additions and 0 deletions in 2 files</sub><br />
@@ -108,9 +112,9 @@
     <sub>[#125429](https://github.com/flutter/flutter/pull/125429) merged on April 26, 2023 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/125429) over 2 days, 277 additions and 180 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [Process] Update cherry-pick template assignees<br />
-    <sub>[#125402](https://github.com/flutter/flutter/pull/125402) merged on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125402) over 6 hours, 3 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; tools: Drop unused function<br />
+    <sub>[#125590](https://github.com/flutter/flutter/pull/125590) merged on April 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125590) over 4 hours, 0 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Handle dollar signs properly when generating localizations<br />
     <sub>[#125514](https://github.com/flutter/flutter/pull/125514) merged on April 25, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/125514) over 1 hour, 48 additions and 5 deletions in 3 files</sub><br />
@@ -152,9 +156,9 @@
     <sub>[#125599](https://github.com/flutter/flutter/pull/125599) merged on April 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/125599) over 11 hours, 4 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Viren Khatri](https://github.com/werainkhatri)</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; tools: Drop unused function<br />
-    <sub>[#125590](https://github.com/flutter/flutter/pull/125590) merged on April 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125590) over 4 hours, 0 additions and 3 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [Process] Update cherry-pick template assignees<br />
+    <sub>[#125402](https://github.com/flutter/flutter/pull/125402) merged on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125402) over 6 hours, 3 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Roll Flutter Engine from cf975417ce40 to fddd5add8b62 (3 revisions)"<br />
     <sub>[#125588](https://github.com/flutter/flutter/pull/125588) merged on April 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125588) over 1 minute, 1 addition and 1 deletion in 1 file</sub><br />
