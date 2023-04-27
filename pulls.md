@@ -98,3 +98,9 @@
 * **[Yu](https://github.com/negotoyolo)** &mdash; Fix constant style in examples/image_list/lib/main.dart.<br />
     <sub>[#125616](https://github.com/flutter/flutter/pull/125616) opened on on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125616) 5 additions and 5 deletions in 1 file</sub><br />
 
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny cleanup for Navigator code (without introducing dependency)<br />
+    <sub>[#125628](https://github.com/flutter/flutter/pull/125628) opened on on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125628) 32 additions and 40 deletions in 1 file</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add debugKeyboardEvents flag<br />
+    <sub>[#125629](https://github.com/flutter/flutter/pull/125629) opened on on April 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125629) 77 additions and 2 deletions in 2 files</sub><br />
+
