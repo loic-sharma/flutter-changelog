@@ -77,6 +77,3 @@
 * **[Janice Collins](https://github.com/jcollins-g)** &mdash; Cherry pick for update to dartdoc 6.2.2<br />
     <sub>[#125661](https://github.com/flutter/flutter/pull/125661) opened on on April 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125661) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add back one Skia test on iOS<br />
-    <sub>[#125663](https://github.com/flutter/flutter/pull/125663) opened on on April 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125663) 44 additions and 182 deletions in 19 files</sub><br />
-
