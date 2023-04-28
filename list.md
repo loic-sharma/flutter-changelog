@@ -72,7 +72,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Bump the default minSdkVersion to 19
     <sub>[#125515](https://github.com/flutter/flutter/pull/125515) merged on April 27, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/125515) over 1 day, 10 additions and 10 deletions in 10 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds selected semantics flag to radio button for Apple devices
     <sub>[#125499](https://github.com/flutter/flutter/pull/125499) merged on April 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125499) over 3 hours, 100 additions and 0 deletions in 4 files</sub>
@@ -168,7 +168,7 @@
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Mark module_test_ios flaky
     <sub>[#125426](https://github.com/flutter/flutter/pull/125426) merged on April 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125426) over 1 hour, 2 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Jenn Magder](https://github.com/jmagman)</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool,web] Include more info URI on Wasm init failure
     <sub>[#125312](https://github.com/flutter/flutter/pull/125312) merged on April 24, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/125312) over 3 days, 12 additions and 4 deletions in 4 files</sub>
@@ -1088,7 +1088,7 @@
 
 * **[Prashant Andoriya](https://github.com/andoriyaprashant)** &mdash; removing the check_gn_format.py file from ci/ 
     <sub>[#41397](https://github.com/flutter/engine/pull/41397) merged on April 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/41397) over 1 hour, 0 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [godofredoc](https://github.com/godofredoc)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix SupportsReadFromOnscreenTexture capability check
     <sub>[#41386](https://github.com/flutter/engine/pull/41386) merged on April 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41386) over 4 hours, 54 additions and 11 deletions in 7 files</sub>
@@ -1318,7 +1318,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Change v2 `mac_unopt` orchestrator builder to Linux
     <sub>[#41184](https://github.com/flutter/engine/pull/41184) merged on April 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41184) over 20 hours, 8 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Run mac_host_engine orchestrator on arm Macs
     <sub>[#41185](https://github.com/flutter/engine/pull/41185) merged on April 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41185) over 18 hours, 1 addition and 0 deletions in 1 file</sub>
@@ -1458,7 +1458,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Move `TextRenderContext::Create` symbol into the text backend
     <sub>[#41067](https://github.com/flutter/engine/pull/41067) merged on April 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41067) over 10 hours, 6 additions and 8 deletions in 2 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Promote linux_desktop build to prod.
     <sub>[#41076](https://github.com/flutter/engine/pull/41076) merged on April 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41076) over 1 hour, 0 additions and 1 deletion in 1 file</sub>
@@ -1672,7 +1672,7 @@
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Update xcode to 14c18
     <sub>[#3774](https://github.com/flutter/packages/pull/3774) merged on April 28, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3774) over 1 week, 8 additions and 8 deletions in 4 files</sub>
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[GP4cK](https://github.com/GP4cK)** &mdash; [go_router] Remove unused navigator keys
     <sub>[#3708](https://github.com/flutter/packages/pull/3708) merged on April 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3708) over 2 weeks, 6 additions and 10 deletions in 3 files</sub>
