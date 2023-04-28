@@ -29,6 +29,10 @@
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
     <sub><details><summary>4 images...</summary><img src="https://user-images.githubusercontent.com/48603081/232815191-ab42523b-d710-4c93-a889-e9c92ca472c8.png" height="450" /><img src="https://user-images.githubusercontent.com/48603081/232815232-104c208d-f1dd-404e-9218-5dfb61244d56.png" height="450" /><img src="https://user-images.githubusercontent.com/48603081/232815733-8b8af94f-197f-427a-bbb9-bc6cd0173658.png" height="450" /><img src="https://user-images.githubusercontent.com/48603081/232815758-2c336d14-085b-4e91-8b93-748a40822ea6.png" height="450" /></details></sub>
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase Xcode minimum version to 14<br />
+    <sub>[#125639](https://github.com/flutter/flutter/pull/125639) merged on April 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125639) over 5 hours, 10 additions and 10 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Fix the position of the Android-style spell check toolbar<br />
     <sub>[#124897](https://github.com/flutter/flutter/pull/124897) merged on April 24, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124897) over 1 week, 78 additions and 23 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
@@ -43,10 +47,6 @@
     <sub>[#124881](https://github.com/flutter/flutter/pull/124881) merged on April 24, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/124881) over 1 week, 275 additions and 6 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>4 images...</summary>![dp_switchtoinputentrymodeicon_default](https://user-images.githubusercontent.com/13456345/232137065-1120af1f-630f-491b-8952-ce600ce24b7c.png) | ![dp_switchtoinputentrymodeicon_icon_keyboard](https://user-images.githubusercontent.com/13456345/232137067-188df306-83f8-47e7-82f6-89a11c8c508e.png)![dp_switchtocalendarentrymodeicon_default](https://user-images.githubusercontent.com/13456345/232137054-6dc1d90d-cb53-4c18-875e-df2a4b889c77.png) | ![dp_switchtocalendarentrymodeicon_icons_weekend](https://user-images.githubusercontent.com/13456345/232137062-8e2414d3-8019-4668-83b9-75d6a7836993.png)![drp_switchtoinputentrymodeicon_default](https://user-images.githubusercontent.com/13456345/232137083-12eb7fbc-8297-4a6e-a370-8ee2bcc5ac85.png) | ![drp_switchtoinputentrymodeicon_icon_keyboard](https://user-images.githubusercontent.com/13456345/232137087-a68af61f-18f2-4dae-8f5e-60a6e331aab2.png)![drp_switchtocalendarentrymodeicon_default](https://user-images.githubusercontent.com/13456345/232137070-96256720-f918-4655-b90c-2cd7f801a672.png) | ![drp_switchtocalendarentrymodeicon_icons_weekend](https://user-images.githubusercontent.com/13456345/232137076-55e62c06-c28c-4d14-8185-079f6c67a81d.png)</details></sub>
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase Xcode minimum version to 14<br />
-    <sub>[#125639](https://github.com/flutter/flutter/pull/125639) merged on April 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125639) over 5 hours, 10 additions and 10 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Sliver Constrained Cross Axis<br />
     <sub>[#125239](https://github.com/flutter/flutter/pull/125239) merged on April 24, 2023 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/125239) over 4 days, 350 additions and 0 deletions in 6 files</sub><br />
