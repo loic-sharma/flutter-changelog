@@ -9,7 +9,7 @@
     <sub>[#113143](https://github.com/flutter/flutter/pull/113143) opened on on October 8, 2022 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/113143) 76 additions and 7 deletions in 5 files</sub><br />
 
 * **[MattyBoy](https://github.com/MattyBoy4444)** &mdash; Fixed: ReorderableListView draghandles would display over child item<br />
-    <sub>[#113642](https://github.com/flutter/flutter/pull/113642) opened on on October 18, 2022 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/113642) 44 additions and 24 deletions in 1 file</sub><br />
+    <sub>[#113642](https://github.com/flutter/flutter/pull/113642) opened on on October 18, 2022 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/113642) 44 additions and 24 deletions in 1 file</sub><br />
 
 * **[Mahesh Jamdade](https://github.com/maheshmnj)** &mdash; Allow selecting specific minute in a single tap<br />
     <sub>[#115992](https://github.com/flutter/flutter/pull/115992) opened on on November 24, 2022 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/115992) 5 additions and 19 deletions in 2 files</sub><br />
@@ -61,9 +61,6 @@
 
 * **[st merlhin](https://github.com/stMerlHin)** &mdash; Data table example scroll<br />
     <sub>[#125433](https://github.com/flutter/flutter/pull/125433) opened on on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125433) 73 additions and 28 deletions in 2 files</sub><br />
-
-* **[Patrick Lindsay](https://github.com/lindsaypj)** &mdash; Added CupertinoDatepicker monthYear mode (flutter#93508)<br />
-    <sub>[#125603](https://github.com/flutter/flutter/pull/125603) opened on on April 27, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/125603) 509 additions and 5 deletions in 2 files</sub><br />
 
 * **[Yu](https://github.com/negotoyolo)** &mdash; Fix style in example<br />
     <sub>[#125616](https://github.com/flutter/flutter/pull/125616) opened on on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125616) 5 additions and 5 deletions in 1 file</sub><br />
