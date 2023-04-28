@@ -65,3 +65,6 @@
 * **[Yu](https://github.com/negotoyolo)** &mdash; Fix style in example<br />
     <sub>[#125616](https://github.com/flutter/flutter/pull/125616) opened on on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125616) 5 additions and 5 deletions in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] delete physical model layer.<br />
+    <sub>[#125719](https://github.com/flutter/flutter/pull/125719) opened on on April 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125719) 0 additions and 221 deletions in 3 files</sub><br />
+
