@@ -62,14 +62,8 @@
 * **[st merlhin](https://github.com/stMerlHin)** &mdash; Data table example scroll<br />
     <sub>[#125433](https://github.com/flutter/flutter/pull/125433) opened on on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125433) 73 additions and 28 deletions in 2 files</sub><br />
 
-* **[Phlippie Bosman](https://github.com/phlippieb-discovery)** &mdash; Nit: grammar in documentation<br />
-    <sub>[#125462](https://github.com/flutter/flutter/pull/125462) opened on on April 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125462) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Patrick Lindsay](https://github.com/lindsaypj)** &mdash; Added CupertinoDatepicker monthYear mode (flutter#93508)<br />
     <sub>[#125603](https://github.com/flutter/flutter/pull/125603) opened on on April 27, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/125603) 509 additions and 5 deletions in 2 files</sub><br />
-
-* **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Timely release the memory of unavailable images evicted by `ImageCache`<br />
-    <sub>[#125614](https://github.com/flutter/flutter/pull/125614) opened on on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125614) 9 additions and 8 deletions in 3 files</sub><br />
 
 * **[Yu](https://github.com/negotoyolo)** &mdash; Fix style in example<br />
     <sub>[#125616](https://github.com/flutter/flutter/pull/125616) opened on on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125616) 5 additions and 5 deletions in 1 file</sub><br />
