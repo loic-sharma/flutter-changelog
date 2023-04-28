@@ -68,9 +68,6 @@
 * **[Patrick Lindsay](https://github.com/lindsaypj)** &mdash; Added CupertinoDatepicker monthYear mode (flutter#93508)<br />
     <sub>[#125603](https://github.com/flutter/flutter/pull/125603) opened on on April 27, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/125603) 509 additions and 5 deletions in 2 files</sub><br />
 
-* **[Spt](https://github.com/intspt)** &mdash; Solve the problem that <Flutter/Flutter.h> cannot be imported when a pod transitive depends on Flutter<br />
-    <sub>[#125610](https://github.com/flutter/flutter/pull/125610) opened on on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125610) 27 additions and 4 deletions in 1 file</sub><br />
-
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Timely release the memory of unavailable images evicted by `ImageCache`<br />
     <sub>[#125614](https://github.com/flutter/flutter/pull/125614) opened on on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125614) 9 additions and 8 deletions in 3 files</sub><br />
 
