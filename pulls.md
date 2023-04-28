@@ -71,7 +71,7 @@
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Timely release the memory of unavailable images evicted by `ImageCache`<br />
     <sub>[#125614](https://github.com/flutter/flutter/pull/125614) opened on on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125614) 9 additions and 8 deletions in 3 files</sub><br />
 
-* **[Yu](https://github.com/negotoyolo)** &mdash; Fix style in examples/image_list | just rename <br />
+* **[Yu](https://github.com/negotoyolo)** &mdash; Fix style in examples/image_list<br />
     <sub>[#125616](https://github.com/flutter/flutter/pull/125616) opened on on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125616) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[Janice Collins](https://github.com/jcollins-g)** &mdash; Cherry pick for update to dartdoc 6.2.2<br />
