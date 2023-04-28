@@ -1530,7 +1530,7 @@
 
 ### April 22, 2023 to April 28, 2023
 
-13 commits.
+14 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump com.android.billingclient:billing from 5.1.0 to 5.2.0 in /packages/in_app_purchase/in_app_purchase_android/android
     <sub>[#3672](https://github.com/flutter/packages/pull/3672) merged on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3672) over 2 weeks, 6 additions and 2 deletions in 3 files</sub>
@@ -1561,6 +1561,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Add `targetCompatibility` to build.gradle
     <sub>[#3825](https://github.com/flutter/packages/pull/3825) merged on April 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3825) over 7 hours, 85 additions and 20 deletions in 17 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Conditionalize the namespace in all Android plugins
+    <sub>[#3836](https://github.com/flutter/packages/pull/3836) merged on April 28, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3836) over 6 hours, 206 additions and 38 deletions in 47 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Evan Song](https://github.com/mgmix)** &mdash; [google_maps_flutter_android] Fix Android lint warnings
     <sub>[#3751](https://github.com/flutter/packages/pull/3751) merged on April 25, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/3751) over 1 week, 30 additions and 229 deletions in 8 files</sub>
