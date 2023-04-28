@@ -1539,7 +1539,7 @@
 
 ### April 22, 2023 to April 28, 2023
 
-14 commits.
+15 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump com.android.billingclient:billing from 5.1.0 to 5.2.0 in /packages/in_app_purchase/in_app_purchase_android/android<br />
     <sub>[#3672](https://github.com/flutter/packages/pull/3672) merged on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3672) over 2 weeks, 6 additions and 2 deletions in 3 files</sub><br />
@@ -1598,6 +1598,10 @@
 * **[Daniele Cambi](https://github.com/dancamdev)** &mdash; [go_router] Adds name to TypedGoRoute<br />
     <sub>[#3702](https://github.com/flutter/packages/pull/3702) merged on April 24, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/3702) over 1 week, 16 additions and 1 deletion in 3 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Reland: Add an initial example app<br />
+    <sub>[#3832](https://github.com/flutter/packages/pull/3832) merged on April 28, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/3832) over 1 day, 4360 additions and 0 deletions in 117 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 ### April 15, 2023 to April 21, 2023
 
