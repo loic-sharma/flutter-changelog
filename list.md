@@ -75,7 +75,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Bump the default minSdkVersion to 19
     <sub>[#125515](https://github.com/flutter/flutter/pull/125515) merged on April 27, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/125515) over 1 day, 10 additions and 10 deletions in 10 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Allow users to provide route settings to `showMenu`
     <sub>[#124935](https://github.com/flutter/flutter/pull/124935) merged on April 28, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124935) over 1 week, 63 additions and 0 deletions in 2 files</sub>
@@ -155,7 +155,7 @@
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Mark module_test_ios flaky
     <sub>[#125426](https://github.com/flutter/flutter/pull/125426) merged on April 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125426) over 1 hour, 2 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Jenn Magder](https://github.com/jmagman)</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Phlippie Bosman](https://github.com/phlippieb-discovery)** &mdash; Nit: grammar in documentation
     <sub>[#125462](https://github.com/flutter/flutter/pull/125462) merged on April 28, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/125462) over 3 days, 1 addition and 1 deletion in 1 file</sub>
@@ -358,7 +358,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Swap bundler dependabot reviewers
     <sub>[#125333](https://github.com/flutter/flutter/pull/125333) merged on April 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125333) over 1 hour, 2 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub>
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Remove uses of deprecated test_api imports
     <sub>[#124732](https://github.com/flutter/flutter/pull/124732) merged on April 20, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/124732) over 1 week, 143 additions and 160 deletions in 26 files</sub>
@@ -1317,7 +1317,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Keep a reference to BlitPassGLES in the EncodeCommands lambda to prevent use-after-free
     <sub>[#41100](https://github.com/flutter/engine/pull/41100) merged on April 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/41100) over 14 hours, 9 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run the Mac impeller-cmake-example orchestrator on arm64
     <sub>[#41194](https://github.com/flutter/engine/pull/41194) merged on April 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41194) over 13 hours, 1 addition and 0 deletions in 1 file</sub>
@@ -1638,7 +1638,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Update xcode to 14c18
-    <sub>[#3774](https://github.com/flutter/packages/pull/3774) merged on April 28, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3774) over 1 week, 8 additions and 8 deletions in 4 files</sub>
+    <sub>[#3774](https://github.com/flutter/packages/pull/3774) merged on April 28, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3774) over 1 week, 8 additions and 8 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[GP4cK](https://github.com/GP4cK)** &mdash; [go_router] Remove unused navigator keys
@@ -1721,7 +1721,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump com.android.tools.build:gradle from 7.3.1 to 8.0.0 in /packages/pigeon/platform_tests/alternate_language_test_plugin/android
     <sub>[#3727](https://github.com/flutter/packages/pull/3727) merged on April 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3727) over 10 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.3.1&new-version=8.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump com.android.tools.build:gradle from 7.3.1 to 8.0.0 in /packages/pigeon/platform_tests/test_plugin/android
@@ -1764,7 +1764,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [palette_generator] run agp update for example
     <sub>[#3747](https://github.com/flutter/packages/pull/3747) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3747) over 2 hours, 13 additions and 14 deletions in 6 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fixes a bug that go_router would crash if pageBuilder depends on InheritedWidgets.s.
     <sub>[#3714](https://github.com/flutter/packages/pull/3714) merged on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3714) over 3 days, 50 additions and 3 deletions in 4 files</sub>
@@ -1864,7 +1864,7 @@
 
 * **[Harish Anbalagan](https://github.com/Harishwarrior)** &mdash; [flutter_adaptive_scaffold] : Add groupAlignment parameter to standardNavigationRail
     <sub>[#3673](https://github.com/flutter/packages/pull/3673) merged on April 10, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3673) over 6 hours, 51 additions and 1 deletion in 4 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Justin McCandless](https://github.com/justinmc)</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 4b1264501234 to f72efea43c30 (3 revisions)
     <sub>[#3696](https://github.com/flutter/packages/pull/3696) merged on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3696) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
