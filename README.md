@@ -1554,13 +1554,13 @@
     <sub>[#3823](https://github.com/flutter/packages/pull/3823) merged on April 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3823) over 1 day, 50 additions and 24 deletions in 1 file</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Allow `win32` up to version 4.x<br />
-    <sub>[#3820](https://github.com/flutter/packages/pull/3820) merged on April 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3820) over 3 hours, 6 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
-
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Add `targetCompatibility` to build.gradle<br />
     <sub>[#3825](https://github.com/flutter/packages/pull/3825) merged on April 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3825) over 7 hours, 85 additions and 20 deletions in 17 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Allow `win32` up to version 4.x<br />
+    <sub>[#3820](https://github.com/flutter/packages/pull/3820) merged on April 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3820) over 3 hours, 6 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Conditionalize the namespace in all Android plugins<br />
     <sub>[#3836](https://github.com/flutter/packages/pull/3836) merged on April 28, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3836) over 6 hours, 206 additions and 38 deletions in 47 files</sub><br />
