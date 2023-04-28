@@ -1470,7 +1470,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[htoor3](https://github.com/htoor3)** &mdash; [web] - Move text editing nodes outside of shadowDOM, reland
-    <sub>[#40968](https://github.com/flutter/engine/pull/40968) merged on April 11, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/40968) over 5 days, 335 additions and 308 deletions in 13 files</sub>
+    <sub>[#40968](https://github.com/flutter/engine/pull/40968) merged on April 11, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/40968) over 5 days, 335 additions and 308 deletions in 13 files</sub>
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Skia from ad2e21650306 to 2bd12e31d578 (14 revisions)
