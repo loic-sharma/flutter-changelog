@@ -20,7 +20,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[gmackall](https://github.com/gmackall)** &mdash; Add migrator to upgrade gradle version when conflict with Android Studio bundled Java version is detected<br />
-    <sub>[#124085](https://github.com/flutter/flutter/pull/124085) merged on April 27, 2023 &mdash; **Large:** [74 comments](https://github.com/flutter/flutter/pull/124085) over 3 weeks, 515 additions and 40 deletions in 22 files</sub><br />
+    <sub>[#124085](https://github.com/flutter/flutter/pull/124085) merged on April 27, 2023 &mdash; **Large:** [75 comments](https://github.com/flutter/flutter/pull/124085) over 3 weeks, 515 additions and 40 deletions in 22 files</sub><br />
     <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Jenn Magder](https://github.com/jmagman), [Camille Simon](https://github.com/camsim99), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; iOS TextField spell check style<br />
