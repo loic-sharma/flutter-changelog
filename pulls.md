@@ -77,3 +77,6 @@
 * **[Yu](https://github.com/negotoyolo)** &mdash; Fix style in examples/image_list | just rename <br />
     <sub>[#125616](https://github.com/flutter/flutter/pull/125616) opened on on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125616) 5 additions and 5 deletions in 1 file</sub><br />
 
+* **[Janice Collins](https://github.com/jcollins-g)** &mdash; Cherry pick for update to dartdoc 6.2.2<br />
+    <sub>[#125661](https://github.com/flutter/flutter/pull/125661) opened on on April 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125661) 1 addition and 1 deletion in 1 file</sub><br />
+
