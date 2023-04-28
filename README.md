@@ -36,7 +36,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase Xcode minimum version to 14<br />
     <sub>[#125639](https://github.com/flutter/flutter/pull/125639) merged on April 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125639) over 5 hours, 10 additions and 10 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Chris Yang](https://github.com/cyanglaz)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Fix the position of the Android-style spell check toolbar<br />
     <sub>[#124897](https://github.com/flutter/flutter/pull/124897) merged on April 24, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124897) over 1 week, 78 additions and 23 deletions in 5 files</sub><br />
@@ -66,8 +66,8 @@
     <sub>Reviewed by: [Eilidh Southren](https://github.com/esouthren), [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Bump the default minSdkVersion to 19<br />
-    <sub>[#125515](https://github.com/flutter/flutter/pull/125515) merged on April 27, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/125515) over 1 day, 10 additions and 10 deletions in 10 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
+    <sub>[#125515](https://github.com/flutter/flutter/pull/125515) merged on April 27, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/125515) over 1 day, 10 additions and 10 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds selected semantics flag to radio button for Apple devices<br />
     <sub>[#125499](https://github.com/flutter/flutter/pull/125499) merged on April 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125499) over 3 hours, 100 additions and 0 deletions in 4 files</sub><br />
@@ -159,7 +159,7 @@
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Mark module_test_ios flaky<br />
     <sub>[#125426](https://github.com/flutter/flutter/pull/125426) merged on April 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125426) over 1 hour, 2 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [chunhtai](https://github.com/chunhtai)</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Phlippie Bosman](https://github.com/phlippieb-discovery)** &mdash; Nit: grammar in documentation<br />
     <sub>[#125462](https://github.com/flutter/flutter/pull/125462) merged on April 28, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/125462) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
@@ -362,7 +362,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Swap bundler dependabot reviewers<br />
     <sub>[#125333](https://github.com/flutter/flutter/pull/125333) merged on April 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125333) over 1 hour, 2 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Remove uses of deprecated test_api imports<br />
     <sub>[#124732](https://github.com/flutter/flutter/pull/124732) merged on April 20, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/124732) over 1 week, 143 additions and 160 deletions in 26 files</sub><br />
@@ -531,7 +531,7 @@
 
 * **[Aditya Thakur](https://github.com/adityathakurxd)** &mdash; Fix ShaderMask Example issue<br />
     <sub>[#124511](https://github.com/flutter/flutter/pull/124511) merged on April 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/124511) over 1 day, 4 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Viren Khatri](https://github.com/werainkhatri), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Viren Khatri](https://github.com/werainkhatri)</sub><br />
     <sub><details><summary>1 image...</summary><img width="275" alt="Example that makes the text look like it is on fire" src="https://user-images.githubusercontent.com/53579386/230909077-f675686e-2b02-42f9-85c6-f22fe6fc5655.png"></details></sub>
 
 * **[Nabeel Parkar](https://github.com/exaby73)** &mdash; Bug report 2 issue template<br />
@@ -1337,7 +1337,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Keep a reference to BlitPassGLES in the EncodeCommands lambda to prevent use-after-free<br />
     <sub>[#41100](https://github.com/flutter/engine/pull/41100) merged on April 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/41100) over 14 hours, 9 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run the Mac impeller-cmake-example orchestrator on arm64<br />
     <sub>[#41194](https://github.com/flutter/engine/pull/41194) merged on April 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41194) over 13 hours, 1 addition and 0 deletions in 1 file</sub><br />
@@ -1393,7 +1393,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update some more uses of the deprecated Skia SkImage::MakeFromBitmap API<br />
     <sub>[#41041](https://github.com/flutter/engine/pull/41041) merged on April 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41041) over 7 minutes, 4 additions and 4 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [mac] Build mac framework with app extension flag<br />
     <sub>[#41011](https://github.com/flutter/engine/pull/41011) merged on April 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/41011) over 2 days, 40 additions and 2 deletions in 4 files</sub><br />
@@ -1892,7 +1892,7 @@
 
 * **[Harish Anbalagan](https://github.com/Harishwarrior)** &mdash; [flutter_adaptive_scaffold] : Add groupAlignment parameter to standardNavigationRail<br />
     <sub>[#3673](https://github.com/flutter/packages/pull/3673) merged on April 10, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3673) over 6 hours, 51 additions and 1 deletion in 4 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 4b1264501234 to f72efea43c30 (3 revisions)<br />
     <sub>[#3696](https://github.com/flutter/packages/pull/3696) merged on April 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3696) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
