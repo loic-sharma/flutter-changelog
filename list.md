@@ -4,7 +4,7 @@
 
 ### April 22, 2023 to April 28, 2023
 
-50 commits.
+51 commits.
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Sliver Cross Axis Group
     <sub>[#123862](https://github.com/flutter/flutter/pull/123862) merged on April 28, 2023 &mdash; **Large:** [121 comments](https://github.com/flutter/flutter/pull/123862) over 4 weeks, 1003 additions and 3 deletions in 7 files</sub>
@@ -74,6 +74,10 @@
     <sub>[#120065](https://github.com/flutter/flutter/pull/120065) merged on April 27, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/120065) over 2 months, 26 additions and 18 deletions in 3 files</sub>
     <sub>Reviewed by: [Eilidh Southren](https://github.com/esouthren), [hangyu](https://github.com/hangyujin)</sub>
 
+* **[Dan Field](https://github.com/dnfield)** &mdash; Fix crasher in DragableScrollableSheet when controller is animating and switching widgets
+    <sub>[#125721](https://github.com/flutter/flutter/pull/125721) merged on April 29, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/125721) over 7 hours, 68 additions and 13 deletions in 2 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[Dan Field](https://github.com/dnfield)** &mdash; Bump the default minSdkVersion to 19
     <sub>[#125515](https://github.com/flutter/flutter/pull/125515) merged on April 27, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/125515) over 1 day, 10 additions and 10 deletions in 10 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
@@ -126,6 +130,10 @@
     <sub>[#125581](https://github.com/flutter/flutter/pull/125581) merged on April 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125581) over 1 hour, 0 additions and 14 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add Sliders to `macrobenchmarks`
+    <sub>[#125296](https://github.com/flutter/flutter/pull/125296) merged on April 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125296) over 3 days, 114 additions and 0 deletions in 6 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update prefer_final_parameters comment
     <sub>[#125465](https://github.com/flutter/flutter/pull/125465) merged on April 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125465) over 23 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub>
@@ -134,21 +142,17 @@
     <sub>[#125340](https://github.com/flutter/flutter/pull/125340) merged on April 24, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/125340) over 2 days, 11 additions and 11 deletions in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add hostonly web compile size benchmarks
-    <sub>[#125518](https://github.com/flutter/flutter/pull/125518) merged on April 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125518) over 3 hours, 20 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Do not run `windows_home_scroll_perf__timeline_summary` benchmark in presubmit
     <sub>[#125343](https://github.com/flutter/flutter/pull/125343) merged on April 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125343) over 2 days, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add hostonly web compile size benchmarks
+    <sub>[#125518](https://github.com/flutter/flutter/pull/125518) merged on April 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125518) over 3 hours, 20 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove web compile benchmarks that specify an attached device
     <sub>[#125559](https://github.com/flutter/flutter/pull/125559) merged on April 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125559) over 2 hours, 0 additions and 20 deletions in 1 file</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
-
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add Sliders to `macrobenchmarks`
-    <sub>[#125296](https://github.com/flutter/flutter/pull/125296) merged on April 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125296) over 3 days, 114 additions and 0 deletions in 6 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Refactor "gen-l10n" command to use same code path when "l10n.yaml" is present or not present
     <sub>[#125429](https://github.com/flutter/flutter/pull/125429) merged on April 26, 2023 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/125429) over 2 days, 277 additions and 180 deletions in 7 files</sub>
