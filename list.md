@@ -1637,7 +1637,7 @@
 
 ### April 22, 2023 to April 28, 2023
 
-23 commits.
+25 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implement Image Streaming
     <sub>[#3454](https://github.com/flutter/packages/pull/3454) merged on April 28, 2023 &mdash; **Extra large:** [65 comments](https://github.com/flutter/packages/pull/3454) over 1 month, 3812 additions and 239 deletions in 44 files</sub>
@@ -1646,6 +1646,10 @@
 * **[Andrew Coutts](https://github.com/acoutts)** &mdash; [camera_android] Add NV21 as an image stream format #3277
     <sub>[#3639](https://github.com/flutter/packages/pull/3639) merged on April 28, 2023 &mdash; **Large:** [11 comments](https://github.com/flutter/packages/pull/3639) over 3 weeks, 696 additions and 46 deletions in 10 files</sub>
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Add `LifecycleOwner` Proxy
+    <sub>[#3837](https://github.com/flutter/packages/pull/3837) merged on April 29, 2023 &mdash; **Medium:** [8 comments](https://github.com/flutter/packages/pull/3837) over 1 day, 321 additions and 20 deletions in 6 files</sub>
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [various] update agp and gradle for all examples in packages
     <sub>[#3822](https://github.com/flutter/packages/pull/3822) merged on April 28, 2023 &mdash; **Large:** [11 comments](https://github.com/flutter/packages/pull/3822) over 2 days, 460 additions and 214 deletions in 133 files</sub>
@@ -1689,6 +1693,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Allow `win32` up to version 4.x
     <sub>[#3820](https://github.com/flutter/packages/pull/3820) merged on April 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3820) over 3 hours, 6 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Add getDirectoryPaths implementation for Windows
+    <sub>[#3704](https://github.com/flutter/packages/pull/3704) merged on April 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3704) over 2 weeks, 199 additions and 3 deletions in 9 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Conditionalize the namespace in all Android plugins
     <sub>[#3836](https://github.com/flutter/packages/pull/3836) merged on April 28, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3836) over 6 hours, 206 additions and 38 deletions in 47 files</sub>

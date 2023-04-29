@@ -65,6 +65,6 @@
 * **[Yu](https://github.com/negotoyolo)** &mdash; Fix style in example<br />
     <sub>[#125616](https://github.com/flutter/flutter/pull/125616) opened on on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125616) 5 additions and 5 deletions in 1 file</sub><br />
 
-* **[gmackall](https://github.com/gmackall)** &mdash; Fix Android Studio java gradle migrator null check<br />
-    <sub>[#125728](https://github.com/flutter/flutter/pull/125728) opened on on April 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125728) 22 additions and 4 deletions in 2 files</sub><br />
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Minor fixes found while working on blankcanvas<br />
+    <sub>[#125730](https://github.com/flutter/flutter/pull/125730) opened on on April 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125730) 67 additions and 46 deletions in 7 files</sub><br />
 
