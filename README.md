@@ -33,6 +33,11 @@
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2023-04-24 at 11 41 59 AM](https://user-images.githubusercontent.com/389558/234086958-1c5a8f08-7c3c-4699-9498-5230f9becc07.png) | ![Screenshot 2023-04-24 at 11 25 12 AM](https://user-images.githubusercontent.com/389558/234086707-c3ee87d5-5027-4f2d-a872-634433dd7c9f.png)</details></sub>
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `Checkbox.fillColor` should be applied to checkbox's background color when it is unchecked.<br />
+    <sub>[#125643](https://github.com/flutter/flutter/pull/125643) merged on April 28, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/125643) over 1 day, 206 additions and 61 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub><details><summary>1 image...</summary><img width="87" alt="Screenshot 2023-04-27 at 9 50 54 AM" src="https://user-images.githubusercontent.com/36861262/234933953-49f82864-b73e-45a8-9636-6971015631f3.png"></details></sub>
+
 * **[arvin](https://github.com/arvinwli)** &mdash; fix RangeSlider, with no overlayShape shifts to the left<br />
     <sub>[#125483](https://github.com/flutter/flutter/pull/125483) merged on April 28, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/125483) over 3 days, 93 additions and 47 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Viren Khatri](https://github.com/werainkhatri), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
@@ -51,11 +56,6 @@
     <sub>[#125622](https://github.com/flutter/flutter/pull/125622) merged on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125622) over 4 hours, 45 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>2 images...</summary>![Screenshot 2023-04-27 at 14 08 05](https://user-images.githubusercontent.com/48603081/234853490-0a9c4e18-20aa-40f7-a6b0-efb278f515eb.png)![Screenshot 2023-04-27 at 14 00 44](https://user-images.githubusercontent.com/48603081/234853470-c69c20d3-124d-438a-9312-2d17492c5606.png)</details></sub>
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `Checkbox.fillColor` should be applied to checkbox's background color when it is unchecked.<br />
-    <sub>[#125643](https://github.com/flutter/flutter/pull/125643) merged on April 28, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/125643) over 1 day, 206 additions and 61 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
-    <sub><details><summary>1 image...</summary><img width="87" alt="Screenshot 2023-04-27 at 9 50 54 AM" src="https://user-images.githubusercontent.com/36861262/234933953-49f82864-b73e-45a8-9636-6971015631f3.png"></details></sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [date_picker] [date_range_picker] add properties to change switch-to icons<br />
     <sub>[#124881](https://github.com/flutter/flutter/pull/124881) merged on April 24, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/124881) over 1 week, 275 additions and 6 deletions in 3 files</sub><br />
