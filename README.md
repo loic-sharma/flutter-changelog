@@ -20,7 +20,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[gmackall](https://github.com/gmackall)** &mdash; Add migrator to upgrade gradle version when conflict with Android Studio bundled Java version is detected<br />
-    <sub>[#124085](https://github.com/flutter/flutter/pull/124085) merged on April 27, 2023 &mdash; **Large:** [76 comments](https://github.com/flutter/flutter/pull/124085) over 3 weeks, 515 additions and 40 deletions in 22 files</sub><br />
+    <sub>[#124085](https://github.com/flutter/flutter/pull/124085) merged on April 27, 2023 &mdash; **Large:** [77 comments](https://github.com/flutter/flutter/pull/124085) over 3 weeks, 515 additions and 40 deletions in 22 files</sub><br />
     <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Jenn Magder](https://github.com/jmagman), [Camille Simon](https://github.com/camsim99), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `SliverAppBar.medium` & `SliverAppBar.large` text scale<br />
@@ -1637,7 +1637,7 @@
 
 ### April 22, 2023 to April 28, 2023
 
-22 commits.
+23 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implement Image Streaming<br />
     <sub>[#3454](https://github.com/flutter/packages/pull/3454) merged on April 28, 2023 &mdash; **Extra large:** [65 comments](https://github.com/flutter/packages/pull/3454) over 1 month, 3812 additions and 239 deletions in 44 files</sub><br />
@@ -1705,6 +1705,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update test golden images for the latest Skia roll<br />
     <sub>[#3787](https://github.com/flutter/packages/pull/3787) merged on April 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3787) over 4 days, 1 addition and 1 deletion in 3 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update Android example min SDKs<br />
+    <sub>[#3847](https://github.com/flutter/packages/pull/3847) merged on April 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3847) over 5 hours, 23 additions and 23 deletions in 23 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Update xcode to 14c18<br />
     <sub>[#3774](https://github.com/flutter/packages/pull/3774) merged on April 28, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3774) over 1 week, 8 additions and 8 deletions in 4 files</sub><br />
