@@ -71,3 +71,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Minor fixes found while working on blankcanvas<br />
     <sub>[#125751](https://github.com/flutter/flutter/pull/125751) opened on on April 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125751) 95 additions and 46 deletions in 9 files</sub><br />
 
+* **[victorgalo](https://github.com/victorgalo)** &mdash; Add support for setting the heading level for web semantics (#97894)<br />
+    <sub>[#125771](https://github.com/flutter/flutter/pull/125771) opened on on April 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125771) 63 additions and 4 deletions in 5 files</sub><br />
+
