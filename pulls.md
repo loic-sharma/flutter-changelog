@@ -77,3 +77,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tools] fix expects in `FakeCommand`<br />
     <sub>[#125783](https://github.com/flutter/flutter/pull/125783) opened on on May 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125783) 3 additions and 3 deletions in 1 file</sub><br />
 
+* **[Ali-Fadaei](https://github.com/Ali-Fadaei)** &mdash; setSystemUiOverlayStyleCallback added to system_chrome.dart<br />
+    <sub>[#125802](https://github.com/flutter/flutter/pull/125802) opened on on May 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125802) 12 additions and 0 deletions in 1 file</sub><br />
+
