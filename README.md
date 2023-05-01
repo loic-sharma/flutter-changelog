@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### April 29, 2023 to May 5, 2023
+
+1 commits.
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tools] Apply Android Studio version detection logic to explicitly configured installation directory (`flutter config --android-studio-dir`)<br />
+    <sub>[#125596](https://github.com/flutter/flutter/pull/125596) merged on May 1, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/125596) over 4 days, 170 additions and 34 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
 ### April 22, 2023 to April 28, 2023
 
-51 commits.
+<details>
+<summary>51 commits...</summary>
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Sliver Cross Axis Group<br />
     <sub>[#123862](https://github.com/flutter/flutter/pull/123862) merged on April 28, 2023 &mdash; **Large:** [121 comments](https://github.com/flutter/flutter/pull/123862) over 4 weeks, 1003 additions and 3 deletions in 7 files</sub><br />
@@ -217,6 +226,8 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Roll Flutter Engine from cf975417ce40 to fddd5add8b62 (3 revisions)"<br />
     <sub>[#125588](https://github.com/flutter/flutter/pull/125588) merged on April 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125588) over 1 minute, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### April 15, 2023 to April 21, 2023
 
