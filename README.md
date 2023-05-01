@@ -594,7 +594,11 @@
 
 ### April 29, 2023 to May 5, 2023
 
-11 commits.
+13 commits.
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] take advantage of DisplayList culling<br />
+    <sub>[#41606](https://github.com/flutter/engine/pull/41606) merged on May 1, 2023 &mdash; **Large:** [28 comments](https://github.com/flutter/engine/pull/41606) over 2 days, 529 additions and 51 deletions in 16 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Turns on the Metal validator for impeller_unittests.<br />
     <sub>[#40998](https://github.com/flutter/engine/pull/40998) merged on May 1, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/40998) over 3 weeks, 27 additions and 12 deletions in 1 file</sub><br />
@@ -623,6 +627,10 @@
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Remove duplicate component in path.h<br />
     <sub>[#41639](https://github.com/flutter/engine/pull/41639) merged on May 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41639) over 53 minutes, 0 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Use os_dimension in framework tests.<br />
+    <sub>[#41649](https://github.com/flutter/engine/pull/41649) merged on May 1, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41649) over 52 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Turn @staticInterop tear-off into closure<br />
     <sub>[#41643](https://github.com/flutter/engine/pull/41643) merged on May 1, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/41643) over 4 hours, 6 additions and 1 deletion in 1 file</sub><br />
