@@ -77,3 +77,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tools] fix expects in `FakeCommand`<br />
     <sub>[#125783](https://github.com/flutter/flutter/pull/125783) opened on on May 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125783) 3 additions and 3 deletions in 1 file</sub><br />
 
+* **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Add sample code for SliverAppBar<br />
+    <sub>[#125785](https://github.com/flutter/flutter/pull/125785) opened on on May 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125785) 137 additions and 0 deletions in 3 files</sub><br />
+
