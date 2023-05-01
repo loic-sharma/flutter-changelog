@@ -594,7 +594,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-8 commits.
+9 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Turns on the Metal validator for impeller_unittests.
     <sub>[#40998](https://github.com/flutter/engine/pull/40998) merged on May 1, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/40998) over 3 weeks, 27 additions and 12 deletions in 1 file</sub>
@@ -611,6 +611,10 @@
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; Fixes font-subset to not drop GSUB/GPOS/GDEF tables for variable fonts where they are needed Fixes #125704
     <sub>[#41592](https://github.com/flutter/engine/pull/41592) merged on May 1, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/41592) over 3 days, 61 additions and 8 deletions in 6 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Dan Field](https://github.com/dnfield)</sub>
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Run flutter license script with dart `--intrepret_irregexp` runtime option
+    <sub>[#41646](https://github.com/flutter/engine/pull/41646) merged on May 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41646) over 1 hour, 9 additions and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Remove duplicate component in path.h
     <sub>[#41639](https://github.com/flutter/engine/pull/41639) merged on May 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41639) over 53 minutes, 0 additions and 1 deletion in 1 file</sub>
@@ -1153,7 +1157,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Cleans up route match API and introduces dart fix
-    <sub>[#3819](https://github.com/flutter/packages/pull/3819) merged on April 29, 2023 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/3819) over 3 days, 966 additions and 448 deletions in 40 files</sub>
+    <sub>[#3819](https://github.com/flutter/packages/pull/3819) merged on April 29, 2023 &mdash; **Large:** [21 comments](https://github.com/flutter/packages/pull/3819) over 3 days, 966 additions and 448 deletions in 40 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [John Ryan](https://github.com/johnpryan)</sub>
 
 * **[Andrew Coutts](https://github.com/acoutts)** &mdash; [camera_android] Add NV21 as an image stream format #3277
