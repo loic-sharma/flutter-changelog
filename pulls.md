@@ -81,5 +81,5 @@
     <sub>[#125835](https://github.com/flutter/flutter/pull/125835) opened on on May 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125835) 20 additions and 1 deletion in 2 files</sub><br />
 
 * **[Casey Rogers](https://github.com/caseycrogers)** &mdash; Make `future` and `stream` required arguments in their respective builder widgets<br />
-    <sub>[#125838](https://github.com/flutter/flutter/pull/125838) opened on on May 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125838) 14 additions and 11 deletions in 2 files</sub><br />
+    <sub>[#125838](https://github.com/flutter/flutter/pull/125838) opened on on May 1, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125838) 14 additions and 11 deletions in 2 files</sub><br />
 
