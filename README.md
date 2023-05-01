@@ -754,7 +754,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Replace deprecated and internal Skia EncodedImage calls with public versions"<br />
-    <sub>[#41595](https://github.com/flutter/engine/pull/41595) merged on April 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41595) over 39 minutes, 29 additions and 88 deletions in 4 files</sub><br />
+    <sub>[#41595](https://github.com/flutter/engine/pull/41595) merged on April 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41595) over 39 minutes, 29 additions and 88 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Reland: [Impeller] Use a device buffer for SkBitmap allocation, use Linear texture on Metal backend. <br />
