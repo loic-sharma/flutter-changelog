@@ -586,11 +586,15 @@
 
 ### April 29, 2023 to May 5, 2023
 
-3 commits.
+4 commits.
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Determine lifecycle by looking at window focus also"<br />
     <sub>[#41626](https://github.com/flutter/engine/pull/41626) merged on May 1, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/41626) over 10 hours, 31 additions and 469 deletions in 16 files</sub><br />
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Remove duplicate component in path.h<br />
+    <sub>[#41639](https://github.com/flutter/engine/pull/41639) merged on May 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41639) over 53 minutes, 0 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[William Hesse](https://github.com/whesse)** &mdash; Forward fix for roll of Dart SDK to version with new checked-in SDK<br />
     <sub>[#41634](https://github.com/flutter/engine/pull/41634) merged on May 1, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41634) over 2 hours, 2 additions and 2 deletions in 1 file</sub><br />
