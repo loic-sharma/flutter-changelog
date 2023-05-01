@@ -594,7 +594,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-9 commits.
+10 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Turns on the Metal validator for impeller_unittests.<br />
     <sub>[#40998](https://github.com/flutter/engine/pull/40998) merged on May 1, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/40998) over 3 weeks, 27 additions and 12 deletions in 1 file</sub><br />
@@ -611,6 +611,10 @@
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; Fixes font-subset to not drop GSUB/GPOS/GDEF tables for variable fonts where they are needed Fixes #125704<br />
     <sub>[#41592](https://github.com/flutter/engine/pull/41592) merged on May 1, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/41592) over 3 days, 61 additions and 8 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Dan Field](https://github.com/dnfield)</sub><br />
+
+* **[Chris Yang](https://github.com/cyanglaz)** &mdash; Update xcode to 14e222b<br />
+    <sub>[#41640](https://github.com/flutter/engine/pull/41640) merged on May 1, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/41640) over 4 hours, 20 additions and 20 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Run flutter license script with dart `--intrepret_irregexp` runtime option<br />
     <sub>[#41646](https://github.com/flutter/engine/pull/41646) merged on May 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41646) over 1 hour, 9 additions and 4 deletions in 1 file</sub><br />
@@ -1125,7 +1129,11 @@
 
 ### April 29, 2023 to May 5, 2023
 
-5 commits.
+6 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Retrieve exposure and zoom camera information<br />
+    <sub>[#3798](https://github.com/flutter/packages/pull/3798) merged on May 1, 2023 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/3798) over 1 week, 2014 additions and 184 deletions in 29 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [various] Speed up build-examples<br />
     <sub>[#3849](https://github.com/flutter/packages/pull/3849) merged on May 1, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/3849) over 3 days, 130 additions and 0 deletions in 34 files</sub><br />
@@ -1157,7 +1165,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Cleans up route match API and introduces dart fix<br />
-    <sub>[#3819](https://github.com/flutter/packages/pull/3819) merged on April 29, 2023 &mdash; **Large:** [21 comments](https://github.com/flutter/packages/pull/3819) over 3 days, 966 additions and 448 deletions in 40 files</sub><br />
+    <sub>[#3819](https://github.com/flutter/packages/pull/3819) merged on April 29, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/3819) over 3 days, 966 additions and 448 deletions in 40 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [John Ryan](https://github.com/johnpryan)</sub><br />
 
 * **[Andrew Coutts](https://github.com/acoutts)** &mdash; [camera_android] Add NV21 as an image stream format #3277<br />
