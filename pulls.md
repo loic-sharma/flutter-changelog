@@ -50,6 +50,9 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update Navigation Drawer width and tiles padding<br />
     <sub>[#124042](https://github.com/flutter/flutter/pull/124042) opened on on April 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124042) 65 additions and 35 deletions in 6 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] cache flutter sdk version to disk<br />
+    <sub>[#124558](https://github.com/flutter/flutter/pull/124558) opened on on April 11, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/124558) 547 additions and 208 deletions in 18 files</sub><br />
+
 * **[Prashant Andoriya](https://github.com/andoriyaprashant)** &mdash; Removed required kotlin dependency<br />
     <sub>[#125098](https://github.com/flutter/flutter/pull/125098) opened on on April 19, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/125098) 2 additions and 207 deletions in 2 files</sub><br />
 
