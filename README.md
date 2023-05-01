@@ -594,7 +594,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-10 commits.
+11 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Turns on the Metal validator for impeller_unittests.<br />
     <sub>[#40998](https://github.com/flutter/engine/pull/40998) merged on May 1, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/40998) over 3 weeks, 27 additions and 12 deletions in 1 file</sub><br />
@@ -623,6 +623,10 @@
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Remove duplicate component in path.h<br />
     <sub>[#41639](https://github.com/flutter/engine/pull/41639) merged on May 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41639) over 53 minutes, 0 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Turn @staticInterop tear-off into closure<br />
+    <sub>[#41643](https://github.com/flutter/engine/pull/41643) merged on May 1, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/41643) over 4 hours, 6 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [joshualitt](https://github.com/joshualitt)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Add the verify exported symbols to linux builds.<br />
     <sub>[#41635](https://github.com/flutter/engine/pull/41635) merged on May 1, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41635) over 3 hours, 47 additions and 3 deletions in 4 files</sub><br />
