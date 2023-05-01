@@ -77,3 +77,6 @@
 * **[Ali-Fadaei](https://github.com/Ali-Fadaei)** &mdash; setSystemUiOverlayStyleCallback added to system_chrome.dart<br />
     <sub>[#125802](https://github.com/flutter/flutter/pull/125802) opened on on May 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125802) 12 additions and 0 deletions in 1 file</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Cherrypick DDS fix to 3.10 beta branch<br />
+    <sub>[#125831](https://github.com/flutter/flutter/pull/125831) opened on on May 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125831) 2 additions and 2 deletions in 1 file</sub><br />
+
