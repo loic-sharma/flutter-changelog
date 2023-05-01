@@ -4,10 +4,14 @@
 
 ### April 29, 2023 to May 5, 2023
 
-2 commits.
+3 commits.
 
 * **[Viren Khatri](https://github.com/werainkhatri)** &mdash; add support to customize Slider interacivity<br />
     <sub>[#121483](https://github.com/flutter/flutter/pull/121483) merged on May 1, 2023 &mdash; **Medium:** [49 comments](https://github.com/flutter/flutter/pull/121483) over 2 months, 451 additions and 29 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `TabBar.tabAlignment` <br />
+    <sub>[#125036](https://github.com/flutter/flutter/pull/125036) merged on May 1, 2023 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/125036) over 1 week, 355 additions and 24 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tools] Apply Android Studio version detection logic to explicitly configured installation directory (`flutter config --android-studio-dir`)<br />
