@@ -576,9 +576,18 @@
 
 ## flutter/engine
 
+### April 29, 2023 to May 5, 2023
+
+1 commits.
+
+* **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Reland image encoder<br />
+    <sub>[#41632](https://github.com/flutter/engine/pull/41632) merged on May 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41632) over 50 minutes, 112 additions and 29 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
 ### April 22, 2023 to April 28, 2023
 
-49 commits.
+<details>
+<summary>49 commits...</summary>
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Determine lifecycle by looking at window focus also<br />
     <sub>[#41094](https://github.com/flutter/engine/pull/41094) merged on April 28, 2023 &mdash; **Medium:** [69 comments](https://github.com/flutter/engine/pull/41094) over 2 weeks, 469 additions and 31 deletions in 16 files</sub><br />
@@ -776,6 +785,8 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Reland "Upload windows arm artifacts to production bucket."<br />
     <sub>[#41409](https://github.com/flutter/engine/pull/41409) merged on April 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41409) over 2 days, 6 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+</details>
 
 ### April 15, 2023 to April 21, 2023
 
