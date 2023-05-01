@@ -582,7 +582,11 @@
 
 ### April 29, 2023 to May 5, 2023
 
-1 commits.
+2 commits.
+
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Determine lifecycle by looking at window focus also"
+    <sub>[#41626](https://github.com/flutter/engine/pull/41626) merged on May 1, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/41626) over 10 hours, 31 additions and 469 deletions in 16 files</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Reland image encoder
     <sub>[#41632](https://github.com/flutter/engine/pull/41632) merged on May 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41632) over 50 minutes, 112 additions and 29 deletions in 5 files</sub>
