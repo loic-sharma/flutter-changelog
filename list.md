@@ -4,7 +4,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-3 commits.
+4 commits.
 
 * **[Viren Khatri](https://github.com/werainkhatri)** &mdash; add support to customize Slider interacivity
     <sub>[#121483](https://github.com/flutter/flutter/pull/121483) merged on May 1, 2023 &mdash; **Medium:** [49 comments](https://github.com/flutter/flutter/pull/121483) over 2 months, 451 additions and 29 deletions in 4 files</sub>
@@ -16,6 +16,10 @@
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tools] Apply Android Studio version detection logic to explicitly configured installation directory (`flutter config --android-studio-dir`)
     <sub>[#125596](https://github.com/flutter/flutter/pull/125596) merged on May 1, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/125596) over 4 days, 170 additions and 34 deletions in 2 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tools] fix `expect` calls in `FakeCommand`
+    <sub>[#125783](https://github.com/flutter/flutter/pull/125783) merged on May 1, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125783) over 11 hours, 3 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 ### April 22, 2023 to April 28, 2023
