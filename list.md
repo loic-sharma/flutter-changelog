@@ -1153,7 +1153,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Cleans up route match API and introduces dart fix
-    <sub>[#3819](https://github.com/flutter/packages/pull/3819) merged on April 29, 2023 &mdash; **Large:** [16 comments](https://github.com/flutter/packages/pull/3819) over 3 days, 966 additions and 448 deletions in 40 files</sub>
+    <sub>[#3819](https://github.com/flutter/packages/pull/3819) merged on April 29, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/packages/pull/3819) over 3 days, 966 additions and 448 deletions in 40 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [John Ryan](https://github.com/johnpryan)</sub>
 
 * **[Andrew Coutts](https://github.com/acoutts)** &mdash; [camera_android] Add NV21 as an image stream format #3277
