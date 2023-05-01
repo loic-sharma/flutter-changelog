@@ -74,6 +74,6 @@
 * **[victorgalo](https://github.com/victorgalo)** &mdash; Add support for setting the heading level for web semantics (#97894)<br />
     <sub>[#125771](https://github.com/flutter/flutter/pull/125771) opened on on April 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125771) 63 additions and 4 deletions in 5 files</sub><br />
 
-* **[Ali-Fadaei](https://github.com/Ali-Fadaei)** &mdash; setSystemUiOverlayStyleCallback added to system_chrome.dart<br />
-    <sub>[#125802](https://github.com/flutter/flutter/pull/125802) opened on on May 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125802) 12 additions and 0 deletions in 1 file</sub><br />
+* **[Ali-Fadaei](https://github.com/Ali-Fadaei)** &mdash; AnnotatedRegion<SystemUiOverlayStyle> Desktop support.<br />
+    <sub>[#125835](https://github.com/flutter/flutter/pull/125835) opened on on May 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125835) 20 additions and 1 deletion in 2 files</sub><br />
 

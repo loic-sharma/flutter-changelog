@@ -594,7 +594,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-6 commits.
+7 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Turns on the Metal validator for impeller_unittests.
     <sub>[#40998](https://github.com/flutter/engine/pull/40998) merged on May 1, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/40998) over 3 weeks, 27 additions and 12 deletions in 1 file</sub>
@@ -603,6 +603,10 @@
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Determine lifecycle by looking at window focus also"
     <sub>[#41626](https://github.com/flutter/engine/pull/41626) merged on May 1, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/41626) over 10 hours, 31 additions and 469 deletions in 16 files</sub>
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
+
+* **[Tim Maffett](https://github.com/timmaffett)** &mdash; Fixes font-subset to not drop GSUB/GPOS/GDEF tables for variable fonts where they are needed Fixes #125704
+    <sub>[#41592](https://github.com/flutter/engine/pull/41592) merged on May 1, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/41592) over 3 days, 61 additions and 8 deletions in 6 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Remove duplicate component in path.h
     <sub>[#41639](https://github.com/flutter/engine/pull/41639) merged on May 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41639) over 53 minutes, 0 additions and 1 deletion in 1 file</sub>
