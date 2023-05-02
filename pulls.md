@@ -71,17 +71,8 @@
 * **[DUYSTARS](https://github.com/diegohj66)** &mdash; Update README.md<br />
     <sub>[#125737](https://github.com/flutter/flutter/pull/125737) opened on on April 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125737) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Minor fixes found while working on blankcanvas<br />
-    <sub>[#125751](https://github.com/flutter/flutter/pull/125751) opened on on April 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125751) 95 additions and 46 deletions in 9 files</sub><br />
-
-* **[victorgalo](https://github.com/victorgalo)** &mdash; Add support for setting the heading level for web semantics (#97894)<br />
-    <sub>[#125771](https://github.com/flutter/flutter/pull/125771) opened on on April 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125771) 63 additions and 4 deletions in 5 files</sub><br />
-
 * **[Ali-Fadaei](https://github.com/Ali-Fadaei)** &mdash; AnnotatedRegion<SystemUiOverlayStyle> Desktop support.<br />
     <sub>[#125835](https://github.com/flutter/flutter/pull/125835) opened on on May 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125835) 20 additions and 1 deletion in 2 files</sub><br />
-
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Add retry flag to flutter_test<br />
-    <sub>[#125851](https://github.com/flutter/flutter/pull/125851) opened on on May 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125851) 4 additions and 2 deletions in 2 files</sub><br />
 
 * **[st merlhin](https://github.com/stMerlHin)** &mdash; expose `CupertinoDatePicker` and `CupertinoTimerPicker` `itemExtent` …<br />
     <sub>[#125852](https://github.com/flutter/flutter/pull/125852) opened on on May 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125852) 88 additions and 12 deletions in 2 files</sub><br />
