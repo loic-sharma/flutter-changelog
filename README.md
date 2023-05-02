@@ -4,7 +4,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-14 commits.
+15 commits.
 
 * **[Viren Khatri](https://github.com/werainkhatri)** &mdash; add support to customize Slider interacivity<br />
     <sub>[#121483](https://github.com/flutter/flutter/pull/121483) merged on May 1, 2023 &mdash; **Medium:** [49 comments](https://github.com/flutter/flutter/pull/121483) over 2 months, 451 additions and 29 deletions in 4 files</sub><br />
@@ -30,6 +30,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate Xcode projects last version checks to Xcode 14.3<br />
     <sub>[#125827](https://github.com/flutter/flutter/pull/125827) merged on May 2, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/125827) over 4 hours, 162 additions and 99 deletions in 94 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Chris Yang](https://github.com/cyanglaz), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Chris Yang](https://github.com/cyanglaz)** &mdash; Update xcode to 14e222b<br />
+    <sub>[#125716](https://github.com/flutter/flutter/pull/125716) merged on May 2, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125716) over 3 days, 50 additions and 44 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Clarify Visual Studio isn't strictly necessary for Windows development<br />
     <sub>[#125837](https://github.com/flutter/flutter/pull/125837) merged on May 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125837) over 22 hours, 2 additions and 2 deletions in 2 files</sub><br />
