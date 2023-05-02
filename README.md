@@ -1169,7 +1169,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-6 commits.
+7 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Retrieve exposure and zoom camera information<br />
     <sub>[#3798](https://github.com/flutter/packages/pull/3798) merged on May 1, 2023 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/3798) over 1 week, 2014 additions and 184 deletions in 29 files</sub><br />
@@ -1181,6 +1181,10 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Add getDirectoryPaths implementation for macOS<br />
     <sub>[#3703](https://github.com/flutter/packages/pull/3703) merged on May 1, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3703) over 2 weeks, 251 additions and 26 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Add MIME type support on macOS<br />
+    <sub>[#3862](https://github.com/flutter/packages/pull/3862) merged on May 2, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3862) over 1 day, 123 additions and 38 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [video_player, google_sign_in] Updates functions without a prototype to avoid deprecation warning<br />
