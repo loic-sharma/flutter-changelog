@@ -1148,7 +1148,7 @@
 6 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Retrieve exposure and zoom camera information
-    <sub>[#3798](https://github.com/flutter/packages/pull/3798) merged on May 1, 2023 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/3798) over 1 week, 2014 additions and 184 deletions in 29 files</sub>
+    <sub>[#3798](https://github.com/flutter/packages/pull/3798) merged on May 1, 2023 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/3798) over 1 week, 2014 additions and 184 deletions in 29 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [various] Speed up build-examples
