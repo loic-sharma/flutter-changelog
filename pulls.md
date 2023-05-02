@@ -71,9 +71,6 @@
 * **[DUYSTARS](https://github.com/diegohj66)** &mdash; Update README.md<br />
     <sub>[#125737](https://github.com/flutter/flutter/pull/125737) opened on on April 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125737) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Ali-Fadaei](https://github.com/Ali-Fadaei)** &mdash; AnnotatedRegion<SystemUiOverlayStyle> Desktop support.<br />
-    <sub>[#125835](https://github.com/flutter/flutter/pull/125835) opened on on May 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125835) 20 additions and 1 deletion in 2 files</sub><br />
-
 * **[st merlhin](https://github.com/stMerlHin)** &mdash; expose `CupertinoDatePicker` and `CupertinoTimerPicker` `itemExtent` …<br />
     <sub>[#125852](https://github.com/flutter/flutter/pull/125852) opened on on May 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125852) 88 additions and 12 deletions in 2 files</sub><br />
 
