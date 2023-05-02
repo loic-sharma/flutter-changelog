@@ -32,7 +32,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] delete physical model layer.
     <sub>[#125719](https://github.com/flutter/flutter/pull/125719) merged on May 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125719) over 3 days, 0 additions and 221 deletions in 3 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Tong Mu](https://github.com/dkwingsmt)</sub>
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add debugPrintKeyboardEvents flag
     <sub>[#125629](https://github.com/flutter/flutter/pull/125629) merged on May 2, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/125629) over 5 days, 79 additions and 3 deletions in 3 files</sub>
@@ -434,7 +434,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove impeller testowners
     <sub>[#125056](https://github.com/flutter/flutter/pull/125056) merged on April 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125056) over 1 hour, 0 additions and 12 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove self from CODEOWNERS
     <sub>[#125337](https://github.com/flutter/flutter/pull/125337) merged on April 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125337) over 1 hour, 0 additions and 3 deletions in 1 file</sub>
@@ -1169,7 +1169,11 @@
 
 ### April 29, 2023 to May 5, 2023
 
-8 commits.
+10 commits.
+
+* **[Evan Song](https://github.com/mgmix)** &mdash; [local_auth_android] Fix Android lint warnings
+    <sub>[#3764](https://github.com/flutter/packages/pull/3764) merged on May 2, 2023 &mdash; **Medium:** [15 comments](https://github.com/flutter/packages/pull/3764) over 1 week, 30 additions and 398 deletions in 14 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Retrieve exposure and zoom camera information
     <sub>[#3798](https://github.com/flutter/packages/pull/3798) merged on May 1, 2023 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/3798) over 1 week, 2014 additions and 184 deletions in 29 files</sub>
@@ -1186,6 +1190,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Add getDirectoryPaths implementation for macOS
     <sub>[#3703](https://github.com/flutter/packages/pull/3703) merged on May 1, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3703) over 2 weeks, 251 additions and 26 deletions in 9 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [go_router_builder] Support go_router v7
+    <sub>[#3858](https://github.com/flutter/packages/pull/3858) merged on May 2, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3858) over 1 day, 78 additions and 61 deletions in 11 files</sub>
+    <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Add MIME type support on macOS
     <sub>[#3862](https://github.com/flutter/packages/pull/3862) merged on May 2, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3862) over 1 day, 123 additions and 38 deletions in 5 files</sub>
