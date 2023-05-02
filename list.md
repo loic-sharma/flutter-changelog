@@ -635,7 +635,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-18 commits.
+19 commits.
 
 * **[Wu Zhong](https://github.com/zhongwuzw)** &mdash; [macOS] Add lookupKeyForAsset to FlutterPluginRegistrar
     <sub>[#37421](https://github.com/flutter/engine/pull/37421) merged on May 2, 2023 &mdash; **Medium:** [65 comments](https://github.com/flutter/engine/pull/37421) over 5 months, 253 additions and 109 deletions in 18 files</sub>
@@ -684,6 +684,10 @@
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Remove duplicate component in path.h
     <sub>[#41639](https://github.com/flutter/engine/pull/41639) merged on May 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41639) over 53 minutes, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Ian McKellar](https://github.com/ianloic)** &mdash; [fuchsia] fix run_integration_test.sh
+    <sub>[#41668](https://github.com/flutter/engine/pull/41668) merged on May 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41668) over 7 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [David Worsham](https://github.com/arbreng)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate Linux Android AOT Engine to engine V2.
     <sub>[#41638](https://github.com/flutter/engine/pull/41638) merged on May 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41638) over 1 day, 13 additions and 6 deletions in 2 files</sub>
