@@ -4,7 +4,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-8 commits.
+10 commits.
 
 * **[Viren Khatri](https://github.com/werainkhatri)** &mdash; add support to customize Slider interacivity
     <sub>[#121483](https://github.com/flutter/flutter/pull/121483) merged on May 1, 2023 &mdash; **Medium:** [49 comments](https://github.com/flutter/flutter/pull/121483) over 2 months, 451 additions and 29 deletions in 4 files</sub>
@@ -25,6 +25,14 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate Xcode projects last version checks to Xcode 14.3
     <sub>[#125827](https://github.com/flutter/flutter/pull/125827) merged on May 2, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/125827) over 4 hours, 162 additions and 99 deletions in 94 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Chris Yang](https://github.com/cyanglaz), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean up in memory_allocations_test.dart.
+    <sub>[#125777](https://github.com/flutter/flutter/pull/125777) merged on May 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125777) over 1 day, 4 additions and 12 deletions in 2 files</sub>
+    <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] delete physical model layer.
+    <sub>[#125719](https://github.com/flutter/flutter/pull/125719) merged on May 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125719) over 3 days, 0 additions and 221 deletions in 3 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add debugPrintKeyboardEvents flag
     <sub>[#125629](https://github.com/flutter/flutter/pull/125629) merged on May 2, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/125629) over 5 days, 79 additions and 3 deletions in 3 files</sub>
