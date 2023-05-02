@@ -77,3 +77,6 @@
 * **[Sangam Kumar Shrestha](https://github.com/2shrestha22)** &mdash; Add debounce in Autocomplete widget<br />
     <sub>[#125855](https://github.com/flutter/flutter/pull/125855) opened on on May 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125855) 47 additions and 6 deletions in 2 files</sub><br />
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Remove deprecated fixTextFieldOutlineLabel<br />
+    <sub>[#125893](https://github.com/flutter/flutter/pull/125893) opened on on May 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125893) 0 additions and 72 deletions in 3 files</sub><br />
+
