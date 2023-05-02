@@ -83,3 +83,9 @@
 * **[Casey Rogers](https://github.com/caseycrogers)** &mdash; Make `future` and `stream` required arguments in their respective builder widgets<br />
     <sub>[#125838](https://github.com/flutter/flutter/pull/125838) opened on on May 1, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125838) 14 additions and 11 deletions in 2 files</sub><br />
 
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Add retry flag to flutter_test<br />
+    <sub>[#125851](https://github.com/flutter/flutter/pull/125851) opened on on May 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125851) 4 additions and 2 deletions in 2 files</sub><br />
+
+* **[st merlhin](https://github.com/stMerlHin)** &mdash; expose `CupertinoDatePicker` and `CupertinoTimerPicker` `itemExtent` …<br />
+    <sub>[#125852](https://github.com/flutter/flutter/pull/125852) opened on on May 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125852) 88 additions and 12 deletions in 2 files</sub><br />
+
