@@ -1237,6 +1237,10 @@
     <sub>[#3849](https://github.com/flutter/packages/pull/3849) merged on May 1, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/3849) over 3 days, 130 additions and 0 deletions in 34 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Remove uses of `macUTIs`<br />
+    <sub>[#3859](https://github.com/flutter/packages/pull/3859) merged on May 1, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3859) over 2 hours, 63 additions and 65 deletions in 18 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Add getDirectoryPaths implementation for macOS<br />
     <sub>[#3703](https://github.com/flutter/packages/pull/3703) merged on May 1, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3703) over 2 weeks, 251 additions and 26 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
@@ -1256,10 +1260,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [video_player, google_sign_in] Updates functions without a prototype to avoid deprecation warning<br />
     <sub>[#3873](https://github.com/flutter/packages/pull/3873) merged on May 1, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3873) over 28 minutes, 12 additions and 4 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
-
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Remove uses of `macUTIs`<br />
-    <sub>[#3859](https://github.com/flutter/packages/pull/3859) merged on May 1, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3859) over 2 hours, 63 additions and 65 deletions in 18 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; I122213 update non examples<br />
     <sub>[#3846](https://github.com/flutter/packages/pull/3846) merged on May 1, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3846) over 2 days, 6 additions and 5 deletions in 5 files</sub><br />
