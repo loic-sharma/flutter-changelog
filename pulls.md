@@ -80,3 +80,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Remove deprecated fixTextFieldOutlineLabel<br />
     <sub>[#125893](https://github.com/flutter/flutter/pull/125893) opened on on May 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125893) 0 additions and 72 deletions in 3 files</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tools] When running Android SDK tools, set JAVA_HOME to the home of the JDK bundled with Android Studio<br />
+    <sub>[#125895](https://github.com/flutter/flutter/pull/125895) opened on on May 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125895) 10 additions and 0 deletions in 1 file</sub><br />
+
