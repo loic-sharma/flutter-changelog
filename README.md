@@ -601,7 +601,7 @@
 13 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] take advantage of DisplayList culling<br />
-    <sub>[#41606](https://github.com/flutter/engine/pull/41606) merged on May 1, 2023 &mdash; **Large:** [28 comments](https://github.com/flutter/engine/pull/41606) over 2 days, 529 additions and 51 deletions in 16 files</sub><br />
+    <sub>[#41606](https://github.com/flutter/engine/pull/41606) merged on May 1, 2023 &mdash; **Large:** [29 comments](https://github.com/flutter/engine/pull/41606) over 2 days, 529 additions and 51 deletions in 16 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Turns on the Metal validator for impeller_unittests.<br />
