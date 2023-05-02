@@ -655,7 +655,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Stop specifiying Macmini8,1 in ci builders, use inherited mac_model dimension<br />
     <sub>[#41223](https://github.com/flutter/engine/pull/41223) merged on May 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41223) over 2 weeks, 0 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Move scenario app to use iPhone Se 3rd gen iOS 16.2, un-skip test `TwoPlatformViewsWithOtherBackDropFilterTests`<br />
     <sub>[#41532](https://github.com/flutter/engine/pull/41532) merged on May 1, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/41532) over 4 days, 83 additions and 83 deletions in 36 files</sub><br />
