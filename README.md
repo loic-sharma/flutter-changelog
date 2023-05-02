@@ -4,7 +4,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-13 commits.
+14 commits.
 
 * **[Viren Khatri](https://github.com/werainkhatri)** &mdash; add support to customize Slider interacivity<br />
     <sub>[#121483](https://github.com/flutter/flutter/pull/121483) merged on May 1, 2023 &mdash; **Medium:** [49 comments](https://github.com/flutter/flutter/pull/121483) over 2 months, 451 additions and 29 deletions in 4 files</sub><br />
@@ -30,6 +30,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate Xcode projects last version checks to Xcode 14.3<br />
     <sub>[#125827](https://github.com/flutter/flutter/pull/125827) merged on May 2, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/125827) over 4 hours, 162 additions and 99 deletions in 94 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Chris Yang](https://github.com/cyanglaz), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Clarify Visual Studio isn't strictly necessary for Windows development<br />
+    <sub>[#125837](https://github.com/flutter/flutter/pull/125837) merged on May 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125837) over 22 hours, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark microbenchmarks_ios unflaky<br />
     <sub>[#125332](https://github.com/flutter/flutter/pull/125332) merged on May 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125332) over 1 week, 0 additions and 1 deletion in 1 file</sub><br />
@@ -1194,7 +1198,12 @@
 
 ### April 29, 2023 to May 5, 2023
 
-13 commits.
+14 commits.
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pigeon]fix "as Any" workaround due to nested optional<br />
+    <sub>[#3658](https://github.com/flutter/packages/pull/3658) merged on May 2, 2023 &mdash; **Medium:** [23 comments](https://github.com/flutter/packages/pull/3658) over 3 weeks, 193 additions and 188 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+    <sub><details><summary>1 image...</summary>![Screenshot 2023-04-06 at 4 15 07 PM](https://user-images.githubusercontent.com/41930132/230510477-1505f830-2fc5-4a4d-858f-e658729fa7bf.png)</details></sub>
 
 * **[Evan Song](https://github.com/mgmix)** &mdash; [local_auth_android] Fix Android lint warnings<br />
     <sub>[#3764](https://github.com/flutter/packages/pull/3764) merged on May 2, 2023 &mdash; **Medium:** [15 comments](https://github.com/flutter/packages/pull/3764) over 1 week, 30 additions and 398 deletions in 14 files</sub><br />
