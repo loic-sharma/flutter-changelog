@@ -80,9 +80,6 @@
 * **[Ali-Fadaei](https://github.com/Ali-Fadaei)** &mdash; AnnotatedRegion<SystemUiOverlayStyle> Desktop support.<br />
     <sub>[#125835](https://github.com/flutter/flutter/pull/125835) opened on on May 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125835) 20 additions and 1 deletion in 2 files</sub><br />
 
-* **[Casey Rogers](https://github.com/caseycrogers)** &mdash; Make `future` and `stream` required arguments in their respective builder widgets<br />
-    <sub>[#125838](https://github.com/flutter/flutter/pull/125838) opened on on May 1, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125838) 14 additions and 11 deletions in 2 files</sub><br />
-
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Add retry flag to flutter_test<br />
     <sub>[#125851](https://github.com/flutter/flutter/pull/125851) opened on on May 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125851) 4 additions and 2 deletions in 2 files</sub><br />
 

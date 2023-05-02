@@ -4,7 +4,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-6 commits.
+7 commits.
 
 * **[Viren Khatri](https://github.com/werainkhatri)** &mdash; add support to customize Slider interacivity
     <sub>[#121483](https://github.com/flutter/flutter/pull/121483) merged on May 1, 2023 &mdash; **Medium:** [49 comments](https://github.com/flutter/flutter/pull/121483) over 2 months, 451 additions and 29 deletions in 4 files</sub>
@@ -25,6 +25,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate Xcode projects last version checks to Xcode 14.3
     <sub>[#125827](https://github.com/flutter/flutter/pull/125827) merged on May 2, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/125827) over 4 hours, 162 additions and 99 deletions in 94 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Chris Yang](https://github.com/cyanglaz), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Casey Rogers](https://github.com/caseycrogers)** &mdash; Make `future` and `stream` required arguments in their respective builder widgets
+    <sub>[#125838](https://github.com/flutter/flutter/pull/125838) merged on May 2, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/125838) over 10 hours, 14 additions and 11 deletions in 2 files</sub>
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tools] fix `expect` calls in `FakeCommand`
     <sub>[#125783](https://github.com/flutter/flutter/pull/125783) merged on May 1, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125783) over 11 hours, 3 additions and 3 deletions in 1 file</sub>
@@ -1105,7 +1109,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Reland  "Migrate mac_host_engine to engine v2 builds."
     <sub>[#41279](https://github.com/flutter/engine/pull/41279) merged on April 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41279) over 1 hour, 27 additions and 13 deletions in 2 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 </details>
 
