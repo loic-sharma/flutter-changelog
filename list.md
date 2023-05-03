@@ -4,7 +4,12 @@
 
 ### April 29, 2023 to May 5, 2023
 
-16 commits.
+17 commits.
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Allow .xcworkspace and .xcodeproj to be renamed from default name 'Runner'
+    <sub>[#124533](https://github.com/flutter/flutter/pull/124533) merged on May 3, 2023 &mdash; **Small:** [51 comments](https://github.com/flutter/flutter/pull/124533) over 3 weeks, 97 additions and 23 deletions in 5 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub>
+    <sub><details><summary>3 images...</summary><img width="441" alt="Screenshot 2023-04-17 at 11 41 07 PM" src="https://user-images.githubusercontent.com/36148254/232692957-8743742d-c3ef-42e5-833f-dff31aeb2b6a.png"><img width="299" alt="Screenshot 2023-04-17 at 11 40 43 PM" src="https://user-images.githubusercontent.com/36148254/232693315-b6a71165-f5e3-4a0f-8954-2f3eee5b67cf.png"><img width="573" alt="Screenshot 2023-04-17 at 11 44 01 PM" src="https://user-images.githubusercontent.com/36148254/232693381-bb9cf026-2a75-4844-b42d-ae0036ae9fdd.png"></details></sub>
 
 * **[Viren Khatri](https://github.com/werainkhatri)** &mdash; add support to customize Slider interacivity
     <sub>[#121483](https://github.com/flutter/flutter/pull/121483) merged on May 1, 2023 &mdash; **Medium:** [49 comments](https://github.com/flutter/flutter/pull/121483) over 2 months, 451 additions and 29 deletions in 4 files</sub>
