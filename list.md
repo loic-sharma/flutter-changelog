@@ -1179,7 +1179,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Reland  "Migrate mac_host_engine to engine v2 builds."
     <sub>[#41279](https://github.com/flutter/engine/pull/41279) merged on April 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41279) over 1 hour, 27 additions and 13 deletions in 2 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 </details>
 
@@ -1219,12 +1219,17 @@
 
 ### April 29, 2023 to May 5, 2023
 
-15 commits.
+16 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pigeon]fix "as Any" workaround due to nested optional
     <sub>[#3658](https://github.com/flutter/packages/pull/3658) merged on May 2, 2023 &mdash; **Medium:** [23 comments](https://github.com/flutter/packages/pull/3658) over 3 weeks, 193 additions and 188 deletions in 9 files</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot 2023-04-06 at 4 15 07 PM](https://user-images.githubusercontent.com/41930132/230510477-1505f830-2fc5-4a4d-858f-e658729fa7bf.png)</details></sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pigeon]enable treat warning as errors for swift code in unit test
+    <sub>[#3889](https://github.com/flutter/packages/pull/3889) merged on May 3, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3889) over 16 hours, 3 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub><details><summary>1 image...</summary>![Screenshot 2023-04-06 at 4 15 07 PM](https://user-images.githubusercontent.com/41930132/235790274-776f096a-212c-445b-ae81-f748b143f982.png)</details></sub>
 
 * **[Evan Song](https://github.com/mgmix)** &mdash; [local_auth_android] Fix Android lint warnings
     <sub>[#3764](https://github.com/flutter/packages/pull/3764) merged on May 2, 2023 &mdash; **Medium:** [15 comments](https://github.com/flutter/packages/pull/3764) over 1 week, 30 additions and 398 deletions in 14 files</sub>
@@ -1466,7 +1471,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump io.mockk:mockk from 1.13.4 to 1.13.5 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#3725](https://github.com/flutter/packages/pull/3725) merged on April 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3725) over 9 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=io.mockk:mockk&package-manager=gradle&previous-version=1.13.4&new-version=1.13.5)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [image_picker_ios] In unit test write and read kCGImagePropertyExifUserComment property
