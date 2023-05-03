@@ -80,3 +80,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tools] When running Android SDK tools, set JAVA_HOME to the home of the JDK bundled with Android Studio<br />
     <sub>[#125895](https://github.com/flutter/flutter/pull/125895) opened on on May 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125895) 10 additions and 0 deletions in 1 file</sub><br />
 
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Fix that `flutter test` does not understand `concurrency`<br />
+    <sub>[#125942](https://github.com/flutter/flutter/pull/125942) opened on on May 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125942) 5 additions and 4 deletions in 2 files</sub><br />
+
