@@ -4,7 +4,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-17 commits.
+18 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Allow .xcworkspace and .xcodeproj to be renamed from default name 'Runner'<br />
     <sub>[#124533](https://github.com/flutter/flutter/pull/124533) merged on May 3, 2023 &mdash; **Small:** [51 comments](https://github.com/flutter/flutter/pull/124533) over 3 weeks, 97 additions and 23 deletions in 5 files</sub><br />
@@ -31,6 +31,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tools] Apply Android Studio version detection logic to explicitly configured installation directory (`flutter config --android-studio-dir`)<br />
     <sub>[#125596](https://github.com/flutter/flutter/pull/125596) merged on May 1, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/125596) over 4 days, 170 additions and 34 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; `ModalBarrier`'s gesture recognizer does not call `invokeCallback`<br />
+    <sub>[#125386](https://github.com/flutter/flutter/pull/125386) merged on May 3, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/125386) over 1 week, 27 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate Xcode projects last version checks to Xcode 14.3<br />
     <sub>[#125827](https://github.com/flutter/flutter/pull/125827) merged on May 2, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/125827) over 4 hours, 162 additions and 99 deletions in 94 files</sub><br />
