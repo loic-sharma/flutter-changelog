@@ -656,7 +656,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-25 commits.
+26 commits.
 
 * **[Wu Zhong](https://github.com/zhongwuzw)** &mdash; [macOS] Add lookupKeyForAsset to FlutterPluginRegistrar
     <sub>[#37421](https://github.com/flutter/engine/pull/37421) merged on May 2, 2023 &mdash; **Medium:** [65 comments](https://github.com/flutter/engine/pull/37421) over 5 months, 253 additions and 109 deletions in 18 files</sub>
@@ -665,6 +665,10 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] take advantage of DisplayList culling
     <sub>[#41606](https://github.com/flutter/engine/pull/41606) merged on May 1, 2023 &mdash; **Large:** [37 comments](https://github.com/flutter/engine/pull/41606) over 2 days, 529 additions and 51 deletions in 16 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Remove physical model layer
+    <sub>[#41593](https://github.com/flutter/engine/pull/41593) merged on May 3, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/41593) over 5 days, 5 additions and 1921 deletions in 39 files</sub>
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Turns on the Metal validator for impeller_unittests.
     <sub>[#40998](https://github.com/flutter/engine/pull/40998) merged on May 1, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/40998) over 3 weeks, 27 additions and 12 deletions in 1 file</sub>
