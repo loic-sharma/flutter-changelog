@@ -668,7 +668,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Stop specifiying Macmini8,1 in ci builders, use inherited mac_model dimension<br />
     <sub>[#41223](https://github.com/flutter/engine/pull/41223) merged on May 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41223) over 2 weeks, 0 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Dan Field](https://github.com/dnfield)</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Move scenario app to use iPhone Se 3rd gen iOS 16.2, un-skip test `TwoPlatformViewsWithOtherBackDropFilterTests`<br />
     <sub>[#41532](https://github.com/flutter/engine/pull/41532) merged on May 1, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/41532) over 4 days, 83 additions and 83 deletions in 36 files</sub><br />
@@ -1179,7 +1179,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Reland  "Migrate mac_host_engine to engine v2 builds."<br />
     <sub>[#41279](https://github.com/flutter/engine/pull/41279) merged on April 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41279) over 1 hour, 27 additions and 13 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 </details>
 
@@ -1471,7 +1471,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump io.mockk:mockk from 1.13.4 to 1.13.5 in /packages/pigeon/platform_tests/test_plugin/android<br />
     <sub>[#3725](https://github.com/flutter/packages/pull/3725) merged on April 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3725) over 9 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=io.mockk:mockk&package-manager=gradle&previous-version=1.13.4&new-version=1.13.5)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [image_picker_ios] In unit test write and read kCGImagePropertyExifUserComment property<br />
