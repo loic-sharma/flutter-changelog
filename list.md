@@ -4,7 +4,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-15 commits.
+16 commits.
 
 * **[Viren Khatri](https://github.com/werainkhatri)** &mdash; add support to customize Slider interacivity
     <sub>[#121483](https://github.com/flutter/flutter/pull/121483) merged on May 1, 2023 &mdash; **Medium:** [49 comments](https://github.com/flutter/flutter/pull/121483) over 2 months, 451 additions and 29 deletions in 4 files</sub>
@@ -30,6 +30,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate Xcode projects last version checks to Xcode 14.3
     <sub>[#125827](https://github.com/flutter/flutter/pull/125827) merged on May 2, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/125827) over 4 hours, 162 additions and 99 deletions in 94 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Chris Yang](https://github.com/cyanglaz), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Report total_ui_gc_time to SkiaPerf
+    <sub>[#125919](https://github.com/flutter/flutter/pull/125919) merged on May 3, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125919) over 6 hours, 7 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jim Graham](https://github.com/flar)</sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Update xcode to 14e222b
     <sub>[#125716](https://github.com/flutter/flutter/pull/125716) merged on May 2, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125716) over 3 days, 50 additions and 44 deletions in 2 files</sub>
