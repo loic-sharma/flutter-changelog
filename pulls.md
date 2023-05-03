@@ -65,12 +65,6 @@
 * **[st merlhin](https://github.com/stMerlHin)** &mdash; Data table example scroll<br />
     <sub>[#125433](https://github.com/flutter/flutter/pull/125433) opened on on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125433) 73 additions and 28 deletions in 2 files</sub><br />
 
-* **[Yu](https://github.com/negotoyolo)** &mdash; [Refactor] Fix style in example<br />
-    <sub>[#125616](https://github.com/flutter/flutter/pull/125616) opened on on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125616) 5 additions and 5 deletions in 1 file</sub><br />
-
-* **[DUYSTARS](https://github.com/diegohj66)** &mdash; Update README.md<br />
-    <sub>[#125737](https://github.com/flutter/flutter/pull/125737) opened on on April 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125737) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[st merlhin](https://github.com/stMerlHin)** &mdash; expose `CupertinoDatePicker` and `CupertinoTimerPicker` `itemExtent` …<br />
     <sub>[#125852](https://github.com/flutter/flutter/pull/125852) opened on on May 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125852) 88 additions and 12 deletions in 2 files</sub><br />
 
