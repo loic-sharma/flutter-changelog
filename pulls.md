@@ -80,6 +80,3 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tools] When running Android SDK tools, set JAVA_HOME to the home of the JDK bundled with Android Studio<br />
     <sub>[#125895](https://github.com/flutter/flutter/pull/125895) opened on on May 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125895) 10 additions and 0 deletions in 1 file</sub><br />
 
-* **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; [flutter_releases] Flutter beta 3.10.0-1.5.pre Framework Cherrypicks<br />
-    <sub>[#125935](https://github.com/flutter/flutter/pull/125935) opened on on May 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125935) 1 addition and 1 deletion in 1 file</sub><br />
-
