@@ -77,6 +77,3 @@
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Add `rect` argument to `_ArcPaintPredicate` for tests<br />
     <sub>[#125953](https://github.com/flutter/flutter/pull/125953) opened on on May 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125953) 23 additions and 4 deletions in 1 file</sub><br />
 
-* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [github] Add labeler action<br />
-    <sub>[#126012](https://github.com/flutter/flutter/pull/126012) opened on on May 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126012) 121 additions and 0 deletions in 2 files</sub><br />
-
