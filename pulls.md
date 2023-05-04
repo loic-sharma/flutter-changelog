@@ -80,3 +80,6 @@
 * **[Devin](https://github.com/dleyba042)** &mdash; Fix for ticket #123315:  https://github.com/flutter/flutter/issues/123315<br />
     <sub>[#126091](https://github.com/flutter/flutter/pull/126091) opened on on May 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126091) 108 additions and 0 deletions in 2 files</sub><br />
 
+* **[gmackall](https://github.com/gmackall)** &mdash; [CP] Add migrator to upgrade gradle version when conflict with Android Studio bundled Java version is detected (and 2 others)<br />
+    <sub>[#126093](https://github.com/flutter/flutter/pull/126093) opened on on May 4, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/126093) 1257 additions and 179 deletions in 50 files</sub><br />
+
