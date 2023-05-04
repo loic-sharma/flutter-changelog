@@ -53,9 +53,6 @@
 * **[Prashant Andoriya](https://github.com/andoriyaprashant)** &mdash; Removed required kotlin dependency<br />
     <sub>[#125098](https://github.com/flutter/flutter/pull/125098) opened on on April 19, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/125098) 2 additions and 207 deletions in 2 files</sub><br />
 
-* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Don't infer placeholders if a placeholder list has been explicitly defined<br />
-    <sub>[#125154](https://github.com/flutter/flutter/pull/125154) opened on on April 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125154) 59 additions and 6 deletions in 2 files</sub><br />
-
 * **[st merlhin](https://github.com/stMerlHin)** &mdash; Data table example scroll<br />
     <sub>[#125433](https://github.com/flutter/flutter/pull/125433) opened on on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125433) 73 additions and 28 deletions in 2 files</sub><br />
 
