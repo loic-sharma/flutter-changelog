@@ -1367,7 +1367,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-24 commits.
+25 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pigeon]fix "as Any" workaround due to nested optional<br />
     <sub>[#3658](https://github.com/flutter/packages/pull/3658) merged on May 2, 2023 &mdash; **Medium:** [23 comments](https://github.com/flutter/packages/pull/3658) over 3 weeks, 193 additions and 188 deletions in 9 files</sub><br />
@@ -1421,6 +1421,10 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Add getDirectoryPaths implementation for macOS<br />
     <sub>[#3703](https://github.com/flutter/packages/pull/3703) merged on May 1, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3703) over 2 weeks, 251 additions and 26 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Add `getDirectoryPaths`<br />
+    <sub>[#3871](https://github.com/flutter/packages/pull/3871) merged on May 4, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3871) over 3 days, 206 additions and 21 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Jonathan](https://github.com/TheUltimateOptimist)** &mdash; [go_router_builder] fixed typo in README<br />
