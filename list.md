@@ -4,7 +4,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-32 commits.
+34 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Allow .xcworkspace and .xcodeproj to be renamed from default name 'Runner'
     <sub>[#124533](https://github.com/flutter/flutter/pull/124533) merged on May 3, 2023 &mdash; **Small:** [51 comments](https://github.com/flutter/flutter/pull/124533) over 3 weeks, 97 additions and 23 deletions in 5 files</sub>
@@ -18,6 +18,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Define testWidgetsWithLeakTracking.
     <sub>[#125063](https://github.com/flutter/flutter/pull/125063) merged on May 4, 2023 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/125063) over 2 weeks, 495 additions and 189 deletions in 22 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adding vmservice to get iOS app settings
+    <sub>[#123156](https://github.com/flutter/flutter/pull/123156) merged on May 4, 2023 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/123156) over 1 month, 462 additions and 189 deletions in 16 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `TabBar.tabAlignment` 
     <sub>[#125036](https://github.com/flutter/flutter/pull/125036) merged on May 1, 2023 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/125036) over 1 week, 355 additions and 24 deletions in 5 files</sub>
@@ -99,6 +103,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add debugPrintKeyboardEvents flag
     <sub>[#125629](https://github.com/flutter/flutter/pull/125629) merged on May 2, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/125629) over 5 days, 79 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; tool-web-wasm: make wasm-opt an "option" instead of a "flag"
+    <sub>[#126035](https://github.com/flutter/flutter/pull/126035) merged on May 4, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/126035) over 20 hours, 122 additions and 26 deletions in 5 files</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Yu](https://github.com/negotoyolo)** &mdash; Fix typo in README.md
     <sub>[#126053](https://github.com/flutter/flutter/pull/126053) merged on May 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126053) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -215,7 +223,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Bump the default minSdkVersion to 19
     <sub>[#125515](https://github.com/flutter/flutter/pull/125515) merged on April 27, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/125515) over 1 day, 10 additions and 10 deletions in 10 files</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Anas](https://github.com/Anas35)** &mdash; fix package template create platform folders
     <sub>[#125292](https://github.com/flutter/flutter/pull/125292) merged on April 29, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125292) over 1 week, 18 additions and 0 deletions in 2 files</sub>
@@ -239,7 +247,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Allow users to provide route settings to `showMenu`
     <sub>[#124935](https://github.com/flutter/flutter/pull/124935) merged on April 28, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124935) over 1 week, 63 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove bringup from new_gallery_skia_ios__transition_perf
     <sub>[#125715](https://github.com/flutter/flutter/pull/125715) merged on April 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125715) over 51 minutes, 0 additions and 1 deletion in 1 file</sub>
@@ -1629,12 +1637,12 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump com.android.tools.build:gradle from 7.3.1 to 8.0.0 in /packages/pigeon/platform_tests/alternate_language_test_plugin/android
     <sub>[#3727](https://github.com/flutter/packages/pull/3727) merged on April 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3727) over 10 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.3.1&new-version=8.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump com.android.tools.build:gradle from 7.3.1 to 8.0.0 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#3726](https://github.com/flutter/packages/pull/3726) merged on April 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3726) over 9 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.3.1&new-version=8.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump io.mockk:mockk from 1.13.4 to 1.13.5 in /packages/pigeon/platform_tests/test_plugin/android
