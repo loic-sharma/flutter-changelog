@@ -153,7 +153,7 @@
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>1 image...</summary><img width="87" alt="Screenshot 2023-04-27 at 9 50 54 AM" src="https://user-images.githubusercontent.com/36861262/234933953-49f82864-b73e-45a8-9636-6971015631f3.png"></details></sub>
 
-* **[arvin](https://github.com/arvinwli)** &mdash; fix RangeSlider, with no overlayShape shifts to the left
+* **[arvinwli](https://github.com/arvinwli)** &mdash; fix RangeSlider, with no overlayShape shifts to the left
     <sub>[#125483](https://github.com/flutter/flutter/pull/125483) merged on April 28, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/125483) over 3 days, 93 additions and 47 deletions in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Viren Khatri](https://github.com/werainkhatri), [Taha Tesser](https://github.com/TahaTesser)</sub>
     <sub><details><summary>3 images...</summary><img width="994" alt="image" src="https://user-images.githubusercontent.com/13586150/234223975-7e6bd036-dbae-43a9-a1eb-03720a0b9591.png"><img width="963" alt="image" src="https://user-images.githubusercontent.com/13586150/234224673-b83247a8-7578-4361-932b-a5e714f96614.png"><img width="1284" alt="image" src="https://user-images.githubusercontent.com/13586150/234226361-7a86294f-c359-4c8e-820d-cb5505459e61.png"></details></sub>
@@ -684,7 +684,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-30 commits.
+31 commits.
 
 * **[Wu Zhong](https://github.com/zhongwuzw)** &mdash; [macOS] Add lookupKeyForAsset to FlutterPluginRegistrar
     <sub>[#37421](https://github.com/flutter/engine/pull/37421) merged on May 2, 2023 &mdash; **Medium:** [65 comments](https://github.com/flutter/engine/pull/37421) over 5 months, 253 additions and 109 deletions in 18 files</sub>
@@ -729,6 +729,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Clone the parent Android engine's asset provider into a spawned engine
     <sub>[#41642](https://github.com/flutter/engine/pull/41642) merged on May 2, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/41642) over 20 hours, 88 additions and 4 deletions in 6 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Make run_tests.py assert that the ios test dylib is at least as new as libFlutter.dylib
+    <sub>[#41720](https://github.com/flutter/engine/pull/41720) merged on May 4, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/41720) over 1 hour, 10 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Update xcode to 14e222b
     <sub>[#41640](https://github.com/flutter/engine/pull/41640) merged on May 1, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/41640) over 4 hours, 20 additions and 20 deletions in 4 files</sub>
