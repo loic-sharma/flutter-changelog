@@ -65,9 +65,6 @@
 * **[st merlhin](https://github.com/stMerlHin)** &mdash; expose `CupertinoDatePicker` and `CupertinoTimerPicker` `itemExtent` …<br />
     <sub>[#125852](https://github.com/flutter/flutter/pull/125852) opened on on May 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125852) 88 additions and 12 deletions in 2 files</sub><br />
 
-* **[Sangam Kumar Shrestha](https://github.com/2shrestha22)** &mdash; Add debounce in Autocomplete widget<br />
-    <sub>[#125855](https://github.com/flutter/flutter/pull/125855) opened on on May 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125855) 47 additions and 6 deletions in 2 files</sub><br />
-
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tools] When running Android SDK tools, set JAVA_HOME to the home of the JDK bundled with Android Studio<br />
     <sub>[#125895](https://github.com/flutter/flutter/pull/125895) opened on on May 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125895) 10 additions and 0 deletions in 1 file</sub><br />
 
