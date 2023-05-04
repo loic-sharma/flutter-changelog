@@ -215,7 +215,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Bump the default minSdkVersion to 19
     <sub>[#125515](https://github.com/flutter/flutter/pull/125515) merged on April 27, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/125515) over 1 day, 10 additions and 10 deletions in 10 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Anas](https://github.com/Anas35)** &mdash; fix package template create platform folders
     <sub>[#125292](https://github.com/flutter/flutter/pull/125292) merged on April 29, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125292) over 1 week, 18 additions and 0 deletions in 2 files</sub>
@@ -343,7 +343,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny fix doc pointing to incorrect widget confusing the readers
     <sub>[#125394](https://github.com/flutter/flutter/pull/125394) merged on April 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125394) over 17 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [Process] Update cherry-pick template assignees
     <sub>[#125402](https://github.com/flutter/flutter/pull/125402) merged on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125402) over 6 hours, 3 additions and 0 deletions in 1 file</sub>
@@ -1480,7 +1480,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.8.20 to 1.8.21 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#3824](https://github.com/flutter/packages/pull/3824) merged on April 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3824) over 2 days, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.8.20&new-version=1.8.21)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Move Android lint checks
