@@ -4,7 +4,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-26 commits.
+27 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Allow .xcworkspace and .xcodeproj to be renamed from default name 'Runner'
     <sub>[#124533](https://github.com/flutter/flutter/pull/124533) merged on May 3, 2023 &mdash; **Small:** [51 comments](https://github.com/flutter/flutter/pull/124533) over 3 weeks, 97 additions and 23 deletions in 5 files</sub>
@@ -83,6 +83,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add debugPrintKeyboardEvents flag
     <sub>[#125629](https://github.com/flutter/flutter/pull/125629) merged on May 2, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/125629) over 5 days, 79 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] consistently use environment (not globals) in targets/web.dart
+    <sub>[#125937](https://github.com/flutter/flutter/pull/125937) merged on May 4, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/125937) over 21 hours, 95 additions and 159 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; tool: use switch expressions
     <sub>[#125930](https://github.com/flutter/flutter/pull/125930) merged on May 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125930) over 20 hours, 61 additions and 102 deletions in 6 files</sub>
@@ -1295,7 +1299,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-21 commits.
+22 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pigeon]fix "as Any" workaround due to nested optional
     <sub>[#3658](https://github.com/flutter/packages/pull/3658) merged on May 2, 2023 &mdash; **Medium:** [23 comments](https://github.com/flutter/packages/pull/3658) over 3 weeks, 193 additions and 188 deletions in 9 files</sub>
@@ -1318,6 +1322,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Retrieve exposure and zoom camera information
     <sub>[#3798](https://github.com/flutter/packages/pull/3798) merged on May 1, 2023 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/3798) over 1 week, 2014 additions and 184 deletions in 29 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Fix Android lints
+    <sub>[#3886](https://github.com/flutter/packages/pull/3886) merged on May 4, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/3886) over 1 day, 495 additions and 1127 deletions in 11 files</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Adds support to accept third party cookies
     <sub>[#3834](https://github.com/flutter/packages/pull/3834) merged on May 2, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/3834) over 5 days, 1386 additions and 184 deletions in 20 files</sub>
