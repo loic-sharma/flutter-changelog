@@ -74,7 +74,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Report total_ui_gc_time to SkiaPerf
     <sub>[#125919](https://github.com/flutter/flutter/pull/125919) merged on May 3, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125919) over 6 hours, 7 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jim Graham](https://github.com/flar)</sub>
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Update xcode to 14e222b
     <sub>[#125716](https://github.com/flutter/flutter/pull/125716) merged on May 2, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125716) over 3 days, 50 additions and 44 deletions in 2 files</sub>
@@ -180,7 +180,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase Xcode minimum version to 14
     <sub>[#125639](https://github.com/flutter/flutter/pull/125639) merged on April 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125639) over 5 hours, 10 additions and 10 deletions in 4 files</sub>
-    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Chris Yang](https://github.com/cyanglaz)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Fix the position of the Android-style spell check toolbar
     <sub>[#124897](https://github.com/flutter/flutter/pull/124897) merged on April 24, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124897) over 1 week, 78 additions and 23 deletions in 5 files</sub>
@@ -239,7 +239,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Allow users to provide route settings to `showMenu`
     <sub>[#124935](https://github.com/flutter/flutter/pull/124935) merged on April 28, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124935) over 1 week, 63 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove bringup from new_gallery_skia_ios__transition_perf
     <sub>[#125715](https://github.com/flutter/flutter/pull/125715) merged on April 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125715) over 51 minutes, 0 additions and 1 deletion in 1 file</sub>
@@ -1492,7 +1492,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.8.20 to 1.8.21 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#3824](https://github.com/flutter/packages/pull/3824) merged on April 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3824) over 2 days, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.8.20&new-version=1.8.21)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Move Android lint checks
