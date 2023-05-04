@@ -80,3 +80,6 @@
 * **[Yodesoft](https://github.com/Yodesoft)** &mdash; Update keyboard view when keyboardType has changed.<br />
     <sub>[#126040](https://github.com/flutter/flutter/pull/126040) opened on on May 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126040) 15 additions and 3 deletions in 1 file</sub><br />
 
+* **[Yu](https://github.com/negotoyolo)** &mdash; Fix typo in README.md<br />
+    <sub>[#126053](https://github.com/flutter/flutter/pull/126053) opened on on May 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126053) 1 addition and 1 deletion in 1 file</sub><br />
+
