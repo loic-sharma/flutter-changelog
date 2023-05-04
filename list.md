@@ -190,7 +190,7 @@
     <sub>Reviewed by: [Eilidh Southren](https://github.com/esouthren), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Fix crasher in DragableScrollableSheet when controller is animating and switching widgets
-    <sub>[#125721](https://github.com/flutter/flutter/pull/125721) merged on April 29, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/125721) over 7 hours, 68 additions and 13 deletions in 2 files</sub>
+    <sub>[#125721](https://github.com/flutter/flutter/pull/125721) merged on April 29, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/125721) over 7 hours, 68 additions and 13 deletions in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Bump the default minSdkVersion to 19
