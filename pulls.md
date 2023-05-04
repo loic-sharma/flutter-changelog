@@ -66,7 +66,7 @@
     <sub>[#125953](https://github.com/flutter/flutter/pull/125953) opened on on May 3, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/125953) 23 additions and 4 deletions in 1 file</sub><br />
 
 * **[Yodesoft](https://github.com/Yodesoft)** &mdash; Update keyboard view when keyboardType has changed.<br />
-    <sub>[#126040](https://github.com/flutter/flutter/pull/126040) opened on on May 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126040) 15 additions and 3 deletions in 1 file</sub><br />
+    <sub>[#126040](https://github.com/flutter/flutter/pull/126040) opened on on May 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126040) 15 additions and 3 deletions in 1 file</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; rename AssetManifest.bin<br />
     <sub>[#126077](https://github.com/flutter/flutter/pull/126077) opened on on May 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126077) 32 additions and 32 deletions in 9 files</sub><br />
