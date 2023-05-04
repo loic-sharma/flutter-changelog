@@ -1319,7 +1319,7 @@
     <sub><details><summary>1 image...</summary>![Screenshot 2023-04-06 at 4 15 07 PM](https://user-images.githubusercontent.com/41930132/230510477-1505f830-2fc5-4a4d-858f-e658729fa7bf.png)</details></sub>
 
 * **[Andrew Coutts](https://github.com/acoutts)** &mdash; [camera_platform_interface] [camera] [camera_android] Add NV21 as an image stream format
-    <sub>[#3277](https://github.com/flutter/packages/pull/3277) merged on May 3, 2023 &mdash; **Small:** [37 comments](https://github.com/flutter/packages/pull/3277) over 2 months, 35 additions and 3 deletions in 4 files</sub>
+    <sub>[#3277](https://github.com/flutter/packages/pull/3277) merged on May 3, 2023 &mdash; **Small:** [36 comments](https://github.com/flutter/packages/pull/3277) over 2 months, 35 additions and 3 deletions in 4 files</sub>
     <sub>Reviewed by: [Muhammad Faruk Abdul Rahman](https://github.com/farukprogrammer), [Maurice Parrish](https://github.com/bparrishMines), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pigeon]enable treat warning as errors for swift code in unit test
