@@ -680,7 +680,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-29 commits.
+30 commits.
 
 * **[Wu Zhong](https://github.com/zhongwuzw)** &mdash; [macOS] Add lookupKeyForAsset to FlutterPluginRegistrar<br />
     <sub>[#37421](https://github.com/flutter/engine/pull/37421) merged on May 2, 2023 &mdash; **Medium:** [65 comments](https://github.com/flutter/engine/pull/37421) over 5 months, 253 additions and 109 deletions in 18 files</sub><br />
@@ -737,6 +737,10 @@
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Remove duplicate component in path.h<br />
     <sub>[#41639](https://github.com/flutter/engine/pull/41639) merged on May 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41639) over 53 minutes, 0 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove the DrawPaint->Clear optimization<br />
+    <sub>[#41711](https://github.com/flutter/engine/pull/41711) merged on May 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41711) over 3 hours, 0 additions and 22 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [macOS] Remove view ID from public <br />
     <sub>[#41712](https://github.com/flutter/engine/pull/41712) merged on May 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41712) over 1 hour, 10 additions and 26 deletions in 4 files</sub><br />
@@ -1291,7 +1295,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-20 commits.
+21 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pigeon]fix "as Any" workaround due to nested optional<br />
     <sub>[#3658](https://github.com/flutter/packages/pull/3658) merged on May 2, 2023 &mdash; **Medium:** [23 comments](https://github.com/flutter/packages/pull/3658) over 3 weeks, 193 additions and 188 deletions in 9 files</sub><br />
@@ -1342,6 +1346,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Add getDirectoryPaths implementation for macOS<br />
     <sub>[#3703](https://github.com/flutter/packages/pull/3703) merged on May 1, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3703) over 2 weeks, 251 additions and 26 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [quick_actions] Fix Android lint issues<br />
+    <sub>[#3885](https://github.com/flutter/packages/pull/3885) merged on May 4, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3885) over 1 day, 21 additions and 117 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update Cirrus to Xcode 14.3<br />
     <sub>[#3890](https://github.com/flutter/packages/pull/3890) merged on May 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3890) over 18 hours, 2 additions and 2 deletions in 1 file</sub><br />
