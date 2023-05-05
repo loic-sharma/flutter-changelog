@@ -4,7 +4,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-37 commits.
+38 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Allow .xcworkspace and .xcodeproj to be renamed from default name 'Runner'
     <sub>[#124533](https://github.com/flutter/flutter/pull/124533) merged on May 3, 2023 &mdash; **Small:** [51 comments](https://github.com/flutter/flutter/pull/124533) over 3 weeks, 97 additions and 23 deletions in 5 files</sub>
@@ -14,6 +14,11 @@
 * **[Viren Khatri](https://github.com/werainkhatri)** &mdash; add support to customize Slider interacivity
     <sub>[#121483](https://github.com/flutter/flutter/pull/121483) merged on May 1, 2023 &mdash; **Medium:** [49 comments](https://github.com/flutter/flutter/pull/121483) over 2 months, 451 additions and 29 deletions in 4 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; [NavigationDrawer] adds padding property in NavigationDrawer Widget
+    <sub>[#123961](https://github.com/flutter/flutter/pull/123961) merged on May 5, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/123961) over 1 month, 37 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Viren Khatri](https://github.com/werainkhatri)</sub>
+    <sub><details><summary>1 image...</summary>![photo_2023-04-02_15-03-56](https://user-images.githubusercontent.com/13456345/229344718-9070c0c0-9c71-4436-9953-d258367951e9.jpg) | ![photo_2023-04-02_15-04-00](https://user-images.githubusercontent.com/13456345/229344717-0768f9d5-6a55-4c2f-918e-53f2423bb959.jpg)</details></sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Define testWidgetsWithLeakTracking.
     <sub>[#125063](https://github.com/flutter/flutter/pull/125063) merged on May 4, 2023 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/125063) over 2 weeks, 495 additions and 189 deletions in 22 files</sub>
@@ -56,12 +61,12 @@
     <sub>[#125827](https://github.com/flutter/flutter/pull/125827) merged on May 2, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/125827) over 4 hours, 162 additions and 99 deletions in 94 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Chris Yang](https://github.com/cyanglaz), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Cleans up appbar imply leading logic
-    <sub>[#125315](https://github.com/flutter/flutter/pull/125315) merged on May 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125315) over 1 week, 28 additions and 5 deletions in 2 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add `InlineSpan.visitDirectChildren`
     <sub>[#125656](https://github.com/flutter/flutter/pull/125656) merged on May 3, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/125656) over 5 days, 147 additions and 106 deletions in 6 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Cleans up appbar imply leading logic
+    <sub>[#125315](https://github.com/flutter/flutter/pull/125315) merged on May 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125315) over 1 week, 28 additions and 5 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Improve help info with build web --wasm flags
@@ -71,6 +76,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Minor fixes found while working on blankcanvas
     <sub>[#125751](https://github.com/flutter/flutter/pull/125751) merged on May 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125751) over 5 days, 95 additions and 46 deletions in 9 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix nullability of ClipRRect.borderRadius
+    <sub>[#125878](https://github.com/flutter/flutter/pull/125878) merged on May 4, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/125878) over 1 day, 22 additions and 25 deletions in 2 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove `complex_layout_*__compile` benchmarks
     <sub>[#126023](https://github.com/flutter/flutter/pull/126023) merged on May 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126023) over 1 hour, 0 additions and 124 deletions in 7 files</sub>
@@ -104,13 +113,13 @@
     <sub>[#125719](https://github.com/flutter/flutter/pull/125719) merged on May 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125719) over 3 days, 0 additions and 221 deletions in 3 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix nullability of ClipRRect.borderRadius
-    <sub>[#125878](https://github.com/flutter/flutter/pull/125878) merged on May 4, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/125878) over 1 day, 22 additions and 25 deletions in 2 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add debugPrintKeyboardEvents flag
     <sub>[#125629](https://github.com/flutter/flutter/pull/125629) merged on May 2, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/125629) over 5 days, 79 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Yu](https://github.com/negotoyolo)** &mdash; Fix typo in README.md
+    <sub>[#126053](https://github.com/flutter/flutter/pull/126053) merged on May 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126053) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] consistently use environment (not globals) in targets/web.dart
     <sub>[#125937](https://github.com/flutter/flutter/pull/125937) merged on May 4, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/125937) over 21 hours, 95 additions and 159 deletions in 2 files</sub>
@@ -147,10 +156,6 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; tool-web-wasm: make wasm-opt an "option" instead of a "flag"
     <sub>[#126035](https://github.com/flutter/flutter/pull/126035) merged on May 4, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/126035) over 20 hours, 122 additions and 26 deletions in 5 files</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
-
-* **[Yu](https://github.com/negotoyolo)** &mdash; Fix typo in README.md
-    <sub>[#126053](https://github.com/flutter/flutter/pull/126053) merged on May 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126053) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[gmackall](https://github.com/gmackall)** &mdash; [Reland] Add migrator to upgrade gradle version when conflict with Android Studio bundled Java version is detected
     <sub>[#125836](https://github.com/flutter/flutter/pull/125836) merged on May 3, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/125836) over 1 day, 583 additions and 41 deletions in 23 files</sub>
