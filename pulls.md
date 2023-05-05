@@ -74,3 +74,6 @@
 * **[Helin Shiah](https://github.com/helin24)** &mdash; Update links to DAP documentation<br />
     <sub>[#126170](https://github.com/flutter/flutter/pull/126170) opened on on May 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126170) 4 additions and 4 deletions in 1 file</sub><br />
 
+* **[hangyu](https://github.com/hangyujin)** &mdash; Add a FocusSemanticEvent<br />
+    <sub>[#126171](https://github.com/flutter/flutter/pull/126171) opened on on May 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126171) 23 additions and 0 deletions in 2 files</sub><br />
+
