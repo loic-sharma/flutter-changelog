@@ -74,6 +74,3 @@
 * **[gmackall](https://github.com/gmackall)** &mdash; [CP] Add migrator to upgrade gradle version when conflict with Android Studio bundled Java version is detected (and 3 others)<br />
     <sub>[#126093](https://github.com/flutter/flutter/pull/126093) opened on on May 4, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/126093) 1363 additions and 183 deletions in 51 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add a ReorderableListView example with cards + cleanup existing tests<br />
-    <sub>[#126155](https://github.com/flutter/flutter/pull/126155) opened on on May 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126155) 214 additions and 79 deletions in 9 files</sub><br />
-

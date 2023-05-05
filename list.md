@@ -91,7 +91,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Report total_ui_gc_time to SkiaPerf
     <sub>[#125919](https://github.com/flutter/flutter/pull/125919) merged on May 3, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125919) over 6 hours, 7 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jim Graham](https://github.com/flar)</sub>
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Update xcode to 14e222b
     <sub>[#125716](https://github.com/flutter/flutter/pull/125716) merged on May 2, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125716) over 3 days, 50 additions and 44 deletions in 2 files</sub>
@@ -111,7 +111,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] delete physical model layer.
     <sub>[#125719](https://github.com/flutter/flutter/pull/125719) merged on May 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125719) over 3 days, 0 additions and 221 deletions in 3 files</sub>
-    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix nullability of ClipRRect.borderRadius
     <sub>[#125878](https://github.com/flutter/flutter/pull/125878) merged on May 4, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/125878) over 1 day, 22 additions and 25 deletions in 2 files</sub>
@@ -272,7 +272,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Allow users to provide route settings to `showMenu`
     <sub>[#124935](https://github.com/flutter/flutter/pull/124935) merged on April 28, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124935) over 1 week, 63 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove bringup from new_gallery_skia_ios__transition_perf
     <sub>[#125715](https://github.com/flutter/flutter/pull/125715) merged on April 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125715) over 51 minutes, 0 additions and 1 deletion in 1 file</sub>
@@ -368,7 +368,7 @@
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Mark module_test_ios flaky
     <sub>[#125426](https://github.com/flutter/flutter/pull/125426) merged on April 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125426) over 1 hour, 2 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [chunhtai](https://github.com/chunhtai)</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool,web] Include more info URI on Wasm init failure
     <sub>[#125312](https://github.com/flutter/flutter/pull/125312) merged on April 24, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/125312) over 3 days, 12 additions and 4 deletions in 4 files</sub>
@@ -376,7 +376,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny fix doc pointing to incorrect widget confusing the readers
     <sub>[#125394](https://github.com/flutter/flutter/pull/125394) merged on April 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125394) over 17 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [Process] Update cherry-pick template assignees
     <sub>[#125402](https://github.com/flutter/flutter/pull/125402) merged on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125402) over 6 hours, 3 additions and 0 deletions in 1 file</sub>
@@ -565,7 +565,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Swap bundler dependabot reviewers
     <sub>[#125333](https://github.com/flutter/flutter/pull/125333) merged on April 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125333) over 1 hour, 2 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub>
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused getRootRenderObject and getSelectedRenderObject service extensions
     <sub>[#124805](https://github.com/flutter/flutter/pull/124805) merged on April 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124805) over 5 days, 1 addition and 59 deletions in 3 files</sub>
@@ -777,7 +777,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Stop specifiying Macmini8,1 in ci builders, use inherited mac_model dimension
     <sub>[#41223](https://github.com/flutter/engine/pull/41223) merged on May 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41223) over 2 weeks, 0 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; Fixes font-subset to not drop GSUB/GPOS/GDEF tables for variable fonts where they are needed Fixes #125704
     <sub>[#41592](https://github.com/flutter/engine/pull/41592) merged on May 1, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/41592) over 3 days, 61 additions and 8 deletions in 6 files</sub>
