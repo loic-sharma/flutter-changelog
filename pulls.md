@@ -74,6 +74,3 @@
 * **[gmackall](https://github.com/gmackall)** &mdash; [CP] Add migrator to upgrade gradle version when conflict with Android Studio bundled Java version is detected (and 3 others)<br />
     <sub>[#126093](https://github.com/flutter/flutter/pull/126093) opened on on May 4, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/126093) 1363 additions and 183 deletions in 51 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix leaks<br />
-    <sub>[#126144](https://github.com/flutter/flutter/pull/126144) opened on on May 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126144) 123 additions and 80 deletions in 12 files</sub><br />
-
