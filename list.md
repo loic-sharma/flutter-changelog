@@ -1396,7 +1396,7 @@
 
 ### April 29, 2023 to May 5, 2023
 
-26 commits.
+27 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pigeon]fix "as Any" workaround due to nested optional
     <sub>[#3658](https://github.com/flutter/packages/pull/3658) merged on May 2, 2023 &mdash; **Medium:** [23 comments](https://github.com/flutter/packages/pull/3658) over 3 weeks, 193 additions and 188 deletions in 9 files</sub>
@@ -1455,6 +1455,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Add `getDirectoryPaths`
     <sub>[#3871](https://github.com/flutter/packages/pull/3871) merged on May 4, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3871) over 3 days, 206 additions and 21 deletions in 7 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; tree fix
+    <sub>[#3910](https://github.com/flutter/packages/pull/3910) merged on May 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3910) over 6 hours, 5 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; manual roll and fix
     <sub>[#3903](https://github.com/flutter/packages/pull/3903) merged on May 5, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3903) over 23 hours, 23 additions and 77 deletions in 4 files</sub>
