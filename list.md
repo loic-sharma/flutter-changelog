@@ -368,7 +368,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny fix doc pointing to incorrect widget confusing the readers
     <sub>[#125394](https://github.com/flutter/flutter/pull/125394) merged on April 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125394) over 17 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [Process] Update cherry-pick template assignees
     <sub>[#125402](https://github.com/flutter/flutter/pull/125402) merged on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125402) over 6 hours, 3 additions and 0 deletions in 1 file</sub>
@@ -893,7 +893,7 @@
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Reland: "Determine lifecycle by looking at window focus also" (#41094)
     <sub>[#41702](https://github.com/flutter/engine/pull/41702) merged on May 3, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/41702) over 2 hours, 469 additions and 31 deletions in 16 files</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [yaakovschectman](https://github.com/yaakovschectman)</sub>
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert "Skwasm Font Loading"
     <sub>[#41750](https://github.com/flutter/engine/pull/41750) merged on May 4, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/41750) over 47 minutes, 913 additions and 1401 deletions in 117 files</sub>
@@ -1502,7 +1502,7 @@
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pigeon][reland]enable treat warnings as errors for swift code in unit test
     <sub>[#3901](https://github.com/flutter/packages/pull/3901) merged on May 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3901) over 5 hours, 4 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[pigeon]enable treat warning as errors for swift code in unit test"
     <sub>[#3898](https://github.com/flutter/packages/pull/3898) merged on May 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3898) over 23 minutes, 0 additions and 3 deletions in 1 file</sub>
