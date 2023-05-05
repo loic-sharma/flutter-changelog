@@ -78,5 +78,5 @@
     <sub>[#126171](https://github.com/flutter/flutter/pull/126171) opened on on May 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126171) 23 additions and 0 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Rename iosdeeplinksettings to iosuniversallinksettings<br />
-    <sub>[#126173](https://github.com/flutter/flutter/pull/126173) opened on on May 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126173) 4 additions and 4 deletions in 2 files</sub><br />
+    <sub>[#126173](https://github.com/flutter/flutter/pull/126173) opened on on May 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126173) 5 additions and 5 deletions in 2 files</sub><br />
 
