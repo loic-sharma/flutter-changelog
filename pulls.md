@@ -69,7 +69,7 @@
     <sub>[#126040](https://github.com/flutter/flutter/pull/126040) opened on on May 4, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/126040) 15 additions and 3 deletions in 1 file</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; rename AssetManifest.bin<br />
-    <sub>[#126077](https://github.com/flutter/flutter/pull/126077) opened on on May 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126077) 32 additions and 32 deletions in 9 files</sub><br />
+    <sub>[#126077](https://github.com/flutter/flutter/pull/126077) opened on on May 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126077) 32 additions and 32 deletions in 9 files</sub><br />
 
 * **[gmackall](https://github.com/gmackall)** &mdash; [CP] Add migrator to upgrade gradle version when conflict with Android Studio bundled Java version is detected (and 3 others)<br />
     <sub>[#126093](https://github.com/flutter/flutter/pull/126093) opened on on May 4, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/126093) 1363 additions and 183 deletions in 51 files</sub><br />
