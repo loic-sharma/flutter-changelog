@@ -16,7 +16,7 @@
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [NavigationDrawer] adds padding property in NavigationDrawer Widget
-    <sub>[#123961](https://github.com/flutter/flutter/pull/123961) merged on May 5, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/123961) over 1 month, 37 additions and 1 deletion in 2 files</sub>
+    <sub>[#123961](https://github.com/flutter/flutter/pull/123961) merged on May 5, 2023 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/123961) over 1 month, 37 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Viren Khatri](https://github.com/werainkhatri)</sub>
     <sub><details><summary>1 image...</summary>![photo_2023-04-02_15-03-56](https://user-images.githubusercontent.com/13456345/229344718-9070c0c0-9c71-4436-9953-d258367951e9.jpg) | ![photo_2023-04-02_15-04-00](https://user-images.githubusercontent.com/13456345/229344717-0768f9d5-6a55-4c2f-918e-53f2423bb959.jpg)</details></sub>
 
