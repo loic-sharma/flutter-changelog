@@ -60,7 +60,7 @@
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Viren Khatri](https://github.com/werainkhatri)** &mdash; add tests for dominant bottom sheet in scaffold<br />
-    <sub>[#124472](https://github.com/flutter/flutter/pull/124472) merged on May 5, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/124472) over 3 weeks, 93 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#124472](https://github.com/flutter/flutter/pull/124472) merged on May 5, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/124472) over 3 weeks, 93 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Material 3 tab indicator weight and position<br />
