@@ -74,3 +74,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Add a FocusSemanticEvent<br />
     <sub>[#126171](https://github.com/flutter/flutter/pull/126171) opened on on May 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126171) 23 additions and 0 deletions in 2 files</sub><br />
 
+* **[Yu](https://github.com/negotoyolo)** &mdash; Re: #125616 [Refactor] Fix style in example<br />
+    <sub>[#126191](https://github.com/flutter/flutter/pull/126191) opened on on May 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126191) 5 additions and 5 deletions in 1 file</sub><br />
+
