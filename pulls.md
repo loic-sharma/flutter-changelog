@@ -71,3 +71,6 @@
 * **[Yu](https://github.com/negotoyolo)** &mdash; Re: #125616 [Refactor] Fix style in example<br />
     <sub>[#126191](https://github.com/flutter/flutter/pull/126191) opened on on May 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126191) 5 additions and 5 deletions in 1 file</sub><br />
 
+* **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Update tooltip.dart<br />
+    <sub>[#126207](https://github.com/flutter/flutter/pull/126207) opened on on May 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126207) 18 additions and 20 deletions in 1 file</sub><br />
+
