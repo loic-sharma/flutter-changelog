@@ -848,7 +848,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Stop specifiying Macmini8,1 in ci builders, use inherited mac_model dimension
     <sub>[#41223](https://github.com/flutter/engine/pull/41223) merged on May 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41223) over 2 weeks, 0 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix flaky FlutterChannelsTests, stop mocking `NSObject`
     <sub>[#41747](https://github.com/flutter/engine/pull/41747) merged on May 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41747) over 41 minutes, 8 additions and 11 deletions in 1 file</sub>
@@ -1359,7 +1359,7 @@
 
 * **[Prashant Andoriya](https://github.com/andoriyaprashant)** &mdash; removing the check_gn_format.py file from ci/ 
     <sub>[#41397](https://github.com/flutter/engine/pull/41397) merged on April 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/41397) over 1 hour, 0 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [godofredoc](https://github.com/godofredoc)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix SupportsReadFromOnscreenTexture capability check
     <sub>[#41386](https://github.com/flutter/engine/pull/41386) merged on April 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41386) over 4 hours, 54 additions and 11 deletions in 7 files</sub>
@@ -1443,7 +1443,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "re-land "Migrate mac_host_engine to engine v2 builds." (#41233)""
     <sub>[#41380](https://github.com/flutter/engine/pull/41380) merged on April 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41380) over 7 minutes, 13 additions and 27 deletions in 2 files</sub>
-    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [godofredoc](https://github.com/godofredoc)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Manual roll skia to d5b4acfb4"
     <sub>[#41381](https://github.com/flutter/engine/pull/41381) merged on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41381) over 1 hour, 3 additions and 3 deletions in 9 files</sub>
