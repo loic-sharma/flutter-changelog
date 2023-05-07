@@ -74,3 +74,6 @@
 * **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Update tooltip.dart<br />
     <sub>[#126207](https://github.com/flutter/flutter/pull/126207) opened on on May 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126207) 46 additions and 20 deletions in 2 files</sub><br />
 
+* **[Severin](https://github.com/Bungeefan)** &mdash; Fix platformLocation path and search dropping<br />
+    <sub>[#126232](https://github.com/flutter/flutter/pull/126232) opened on on May 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126232) 20 additions and 4 deletions in 2 files</sub><br />
+
