@@ -848,7 +848,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Stop specifiying Macmini8,1 in ci builders, use inherited mac_model dimension<br />
     <sub>[#41223](https://github.com/flutter/engine/pull/41223) merged on May 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41223) over 2 weeks, 0 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix flaky FlutterChannelsTests, stop mocking `NSObject`<br />
     <sub>[#41747](https://github.com/flutter/engine/pull/41747) merged on May 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41747) over 41 minutes, 8 additions and 11 deletions in 1 file</sub><br />
@@ -1427,7 +1427,7 @@
 
 * **[Caroline Liu](https://github.com/caroqliu)** &mdash; [fuchsia] migrate touch-input integration tests to gfx scene manager test ui stack<br />
     <sub>[#41118](https://github.com/flutter/engine/pull/41118) merged on April 18, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/41118) over 5 days, 16 additions and 10 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [David Worsham](https://github.com/arbreng), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [David Worsham](https://github.com/arbreng)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Manual roll skia to d5b4acfb4<br />
     <sub>[#41378](https://github.com/flutter/engine/pull/41378) merged on April 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41378) over 2 hours, 3 additions and 3 deletions in 9 files</sub><br />
@@ -1609,7 +1609,7 @@
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pigeon][reland]enable treat warnings as errors for swift code in unit test<br />
     <sub>[#3901](https://github.com/flutter/packages/pull/3901) merged on May 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3901) over 5 hours, 4 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[pigeon]enable treat warning as errors for swift code in unit test"<br />
     <sub>[#3898](https://github.com/flutter/packages/pull/3898) merged on May 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3898) over 23 minutes, 0 additions and 3 deletions in 1 file</sub><br />
@@ -1660,7 +1660,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.8.20 to 1.8.21 in /packages/pigeon/platform_tests/test_plugin/android<br />
     <sub>[#3824](https://github.com/flutter/packages/pull/3824) merged on April 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3824) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.8.20&new-version=1.8.21)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Move Android lint checks<br />
@@ -1789,7 +1789,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump com.android.tools.build:gradle from 7.3.1 to 8.0.0 in /packages/pigeon/platform_tests/alternate_language_test_plugin/android<br />
     <sub>[#3727](https://github.com/flutter/packages/pull/3727) merged on April 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3727) over 10 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.3.1&new-version=8.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump com.android.tools.build:gradle from 7.3.1 to 8.0.0 in /packages/pigeon/platform_tests/test_plugin/android<br />
@@ -1832,7 +1832,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [palette_generator] run agp update for example<br />
     <sub>[#3747](https://github.com/flutter/packages/pull/3747) merged on April 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3747) over 2 hours, 13 additions and 14 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fixes a bug that go_router would crash if pageBuilder depends on InheritedWidgets.s.<br />
     <sub>[#3714](https://github.com/flutter/packages/pull/3714) merged on April 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3714) over 3 days, 50 additions and 3 deletions in 4 files</sub><br />
