@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### May 6, 2023 to May 12, 2023
+
+1 commits.
+
+* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update packages<br />
+    <sub>[#126140](https://github.com/flutter/flutter/pull/126140) merged on May 8, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/126140) over 2 days, 446 additions and 446 deletions in 68 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
 ### April 29, 2023 to May 5, 2023
 
-57 commits.
+<details>
+<summary>57 commits...</summary>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Allow .xcworkspace and .xcodeproj to be renamed from default name 'Runner'<br />
     <sub>[#124533](https://github.com/flutter/flutter/pull/124533) merged on May 3, 2023 &mdash; **Small:** [51 comments](https://github.com/flutter/flutter/pull/124533) over 3 weeks, 97 additions and 23 deletions in 5 files</sub><br />
@@ -239,6 +248,8 @@
 * **[gmackall](https://github.com/gmackall)** &mdash; [Reland] Add migrator to upgrade gradle version when conflict with Android Studio bundled Java version is detected<br />
     <sub>[#125836](https://github.com/flutter/flutter/pull/125836) merged on May 3, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/125836) over 1 day, 583 additions and 41 deletions in 23 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+</details>
 
 ### April 22, 2023 to April 28, 2023
 
@@ -523,7 +534,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Stop specifiying Macmini8,1 in ci builders, use inherited mac_model dimension<br />
     <sub>[#41223](https://github.com/flutter/engine/pull/41223) merged on May 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41223) over 2 weeks, 0 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Dan Field](https://github.com/dnfield)</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix flaky FlutterChannelsTests, stop mocking `NSObject`<br />
     <sub>[#41747](https://github.com/flutter/engine/pull/41747) merged on May 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41747) over 41 minutes, 8 additions and 11 deletions in 1 file</sub><br />
