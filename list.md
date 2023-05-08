@@ -4,7 +4,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-6 commits.
+7 commits.
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update packages
     <sub>[#126140](https://github.com/flutter/flutter/pull/126140) merged on May 8, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/126140) over 2 days, 446 additions and 446 deletions in 68 files</sub>
@@ -21,6 +21,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix leaks
     <sub>[#126144](https://github.com/flutter/flutter/pull/126144) merged on May 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126144) over 2 days, 115 additions and 75 deletions in 13 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Tool] Output help on 'flutter pub'
+    <sub>[#126211](https://github.com/flutter/flutter/pull/126211) merged on May 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126211) over 1 day, 31 additions and 3 deletions in 4 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Add `--verbose` flags for flakey tests
     <sub>[#126162](https://github.com/flutter/flutter/pull/126162) merged on May 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126162) over 3 days, 17 additions and 2 deletions in 1 file</sub>
@@ -470,7 +474,7 @@
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Mark module_test_ios flaky
     <sub>[#125426](https://github.com/flutter/flutter/pull/125426) merged on April 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125426) over 1 hour, 2 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Jenn Magder](https://github.com/jmagman)</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool,web] Include more info URI on Wasm init failure
     <sub>[#125312](https://github.com/flutter/flutter/pull/125312) merged on April 24, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/125312) over 3 days, 12 additions and 4 deletions in 4 files</sub>
@@ -1062,7 +1066,7 @@
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pigeon][reland]enable treat warnings as errors for swift code in unit test
     <sub>[#3901](https://github.com/flutter/packages/pull/3901) merged on May 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3901) over 5 hours, 4 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[pigeon]enable treat warning as errors for swift code in unit test"
     <sub>[#3898](https://github.com/flutter/packages/pull/3898) merged on May 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3898) over 23 minutes, 0 additions and 3 deletions in 1 file</sub>
