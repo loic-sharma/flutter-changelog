@@ -470,7 +470,7 @@
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Mark module_test_ios flaky
     <sub>[#125426](https://github.com/flutter/flutter/pull/125426) merged on April 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125426) over 1 hour, 2 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [chunhtai](https://github.com/chunhtai)</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool,web] Include more info URI on Wasm init failure
     <sub>[#125312](https://github.com/flutter/flutter/pull/125312) merged on April 24, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/125312) over 3 days, 12 additions and 4 deletions in 4 files</sub>
