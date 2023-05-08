@@ -45,7 +45,7 @@
     <sub>[#124042](https://github.com/flutter/flutter/pull/124042) opened on on April 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124042) 65 additions and 35 deletions in 6 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] cache flutter sdk version to disk<br />
-    <sub>[#124558](https://github.com/flutter/flutter/pull/124558) opened on on April 11, 2023 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/124558) 585 additions and 207 deletions in 18 files</sub><br />
+    <sub>[#124558](https://github.com/flutter/flutter/pull/124558) opened on on April 11, 2023 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/124558) 585 additions and 207 deletions in 18 files</sub><br />
 
 * **[st merlhin](https://github.com/stMerlHin)** &mdash; Data table example scroll<br />
     <sub>[#125433](https://github.com/flutter/flutter/pull/125433) opened on on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125433) 73 additions and 28 deletions in 2 files</sub><br />
@@ -67,7 +67,4 @@
 
 * **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Fixing richMessage gesture recognizer in tooltip widget<br />
     <sub>[#126207](https://github.com/flutter/flutter/pull/126207) opened on on May 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/126207) 48 additions and 20 deletions in 2 files</sub><br />
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "i125138 abstract method smoke agp update (#125139)"<br />
-    <sub>[#126274](https://github.com/flutter/flutter/pull/126274) opened on on May 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126274) 106 additions and 148 deletions in 5 files</sub><br />
 
