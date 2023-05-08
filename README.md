@@ -4,11 +4,15 @@
 
 ### May 6, 2023 to May 12, 2023
 
-2 commits.
+3 commits.
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update packages<br />
     <sub>[#126140](https://github.com/flutter/flutter/pull/126140) merged on May 8, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/126140) over 2 days, 446 additions and 446 deletions in 68 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Clearer text about what happens with `--disable-telemetry` + enable-telemetry command<br />
+    <sub>[#125995](https://github.com/flutter/flutter/pull/125995) merged on May 8, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/125995) over 4 days, 110 additions and 20 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix leaks<br />
     <sub>[#126144](https://github.com/flutter/flutter/pull/126144) merged on May 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126144) over 2 days, 115 additions and 75 deletions in 13 files</sub><br />
@@ -703,7 +707,7 @@
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Reland: "Determine lifecycle by looking at window focus also" (#41094)<br />
     <sub>[#41702](https://github.com/flutter/engine/pull/41702) merged on May 3, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/41702) over 2 hours, 469 additions and 31 deletions in 16 files</sub><br />
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Reid Baker](https://github.com/reidbaker)</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Reland image encoder<br />
     <sub>[#41632](https://github.com/flutter/engine/pull/41632) merged on May 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41632) over 50 minutes, 112 additions and 29 deletions in 5 files</sub><br />
