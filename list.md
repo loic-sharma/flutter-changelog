@@ -362,7 +362,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Allow users to provide route settings to `showMenu`
     <sub>[#124935](https://github.com/flutter/flutter/pull/124935) merged on April 28, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124935) over 1 week, 63 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove bringup from new_gallery_skia_ios__transition_perf
     <sub>[#125715](https://github.com/flutter/flutter/pull/125715) merged on April 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125715) over 51 minutes, 0 additions and 1 deletion in 1 file</sub>
@@ -921,9 +921,18 @@
 
 ## flutter/packages
 
+### May 6, 2023 to May 12, 2023
+
+1 commits.
+
+* **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Update .cirrus.yml
+    <sub>[#3916](https://github.com/flutter/packages/pull/3916) merged on May 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3916) over 2 days, 2 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
+
 ### April 29, 2023 to May 5, 2023
 
-27 commits.
+<details>
+<summary>27 commits...</summary>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pigeon]fix "as Any" workaround due to nested optional
     <sub>[#3658](https://github.com/flutter/packages/pull/3658) merged on May 2, 2023 &mdash; **Medium:** [23 comments](https://github.com/flutter/packages/pull/3658) over 3 weeks, 193 additions and 188 deletions in 9 files</sub>
@@ -1034,6 +1043,8 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[pigeon]enable treat warning as errors for swift code in unit test"
     <sub>[#3898](https://github.com/flutter/packages/pull/3898) merged on May 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3898) over 23 minutes, 0 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+</details>
 
 ### April 22, 2023 to April 28, 2023
 
