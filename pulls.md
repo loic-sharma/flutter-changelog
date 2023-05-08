@@ -45,7 +45,7 @@
     <sub>[#124042](https://github.com/flutter/flutter/pull/124042) opened on on April 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124042) 65 additions and 35 deletions in 6 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] cache flutter sdk version to disk<br />
-    <sub>[#124558](https://github.com/flutter/flutter/pull/124558) opened on on April 11, 2023 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/124558) 585 additions and 207 deletions in 18 files</sub><br />
+    <sub>[#124558](https://github.com/flutter/flutter/pull/124558) opened on on April 11, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/124558) 585 additions and 207 deletions in 18 files</sub><br />
 
 * **[st merlhin](https://github.com/stMerlHin)** &mdash; Data table example scroll<br />
     <sub>[#125433](https://github.com/flutter/flutter/pull/125433) opened on on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125433) 73 additions and 28 deletions in 2 files</sub><br />
