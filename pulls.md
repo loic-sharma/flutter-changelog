@@ -71,3 +71,6 @@
 * **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Fixing richMessage gesture recognizer in tooltip widget<br />
     <sub>[#126207](https://github.com/flutter/flutter/pull/126207) opened on on May 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/126207) 48 additions and 20 deletions in 2 files</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "i125138 abstract method smoke agp update (#125139)"<br />
+    <sub>[#126274](https://github.com/flutter/flutter/pull/126274) opened on on May 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126274) 106 additions and 148 deletions in 5 files</sub><br />
+
