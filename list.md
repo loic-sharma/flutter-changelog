@@ -4,11 +4,15 @@
 
 ### May 6, 2023 to May 12, 2023
 
-3 commits.
+4 commits.
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update packages
     <sub>[#126140](https://github.com/flutter/flutter/pull/126140) merged on May 8, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/126140) over 2 days, 446 additions and 446 deletions in 68 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Test AGP 8.0 using java 17
+    <sub>[#125323](https://github.com/flutter/flutter/pull/125323) merged on May 8, 2023 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/125323) over 2 weeks, 464 additions and 332 deletions in 19 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Clearer text about what happens with `--disable-telemetry` + enable-telemetry command
     <sub>[#125995](https://github.com/flutter/flutter/pull/125995) merged on May 8, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/125995) over 4 days, 110 additions and 20 deletions in 3 files</sub>
