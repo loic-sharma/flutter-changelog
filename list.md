@@ -562,7 +562,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-15 commits.
+16 commits.
 
 * **[Jonathan Cole](https://github.com/JonathanPeterCole)** &mdash; [Android] Fix incorrect viewInsets during keyboard animation with EdgeToEdge
     <sub>[#39391](https://github.com/flutter/engine/pull/39391) merged on May 8, 2023 &mdash; **Small:** [40 comments](https://github.com/flutter/engine/pull/39391) over 3 months, 121 additions and 77 deletions in 3 files</sub>
@@ -587,6 +587,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix doc to fix engine roll
     <sub>[#41812](https://github.com/flutter/engine/pull/41812) merged on May 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41812) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph)</sub>
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Move linux_license to engine v2.
+    <sub>[#41863](https://github.com/flutter/engine/pull/41863) merged on May 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41863) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Replace Windows Unopt with the engine v2 version.
     <sub>[#41861](https://github.com/flutter/engine/pull/41861) merged on May 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41861) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
