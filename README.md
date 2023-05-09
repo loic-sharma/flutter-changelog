@@ -56,7 +56,7 @@
 
 * **[Severin](https://github.com/Bungeefan)** &mdash; Fix platformLocation path and search dropping<br />
     <sub>[#126232](https://github.com/flutter/flutter/pull/126232) merged on May 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126232) over 1 day, 20 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Kevin Moore](https://github.com/kevmoo)</sub><br />
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update FocusNode documentation<br />
     <sub>[#126331](https://github.com/flutter/flutter/pull/126331) merged on May 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126331) over 3 hours, 3 additions and 1 deletion in 1 file</sub><br />
@@ -68,7 +68,7 @@
 
 * **[Yu](https://github.com/negotoyolo)** &mdash;  [Refactor] Fix style in example<br />
     <sub>[#126191](https://github.com/flutter/flutter/pull/126191) merged on May 8, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/126191) over 2 days, 5 additions and 5 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Ian Hickson](https://github.com/Hixie)</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Always use `--concurrency=1` for web tests.<br />
     <sub>[#126179](https://github.com/flutter/flutter/pull/126179) merged on May 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126179) over 2 days, 28 additions and 4 deletions in 2 files</sub><br />
@@ -671,7 +671,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Stop specifiying Macmini8,1 in ci builders, use inherited mac_model dimension<br />
     <sub>[#41223](https://github.com/flutter/engine/pull/41223) merged on May 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41223) over 2 weeks, 0 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix flaky FlutterChannelsTests, stop mocking `NSObject`<br />
     <sub>[#41747](https://github.com/flutter/engine/pull/41747) merged on May 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41747) over 41 minutes, 8 additions and 11 deletions in 1 file</sub><br />
@@ -827,7 +827,7 @@
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Reland: "Determine lifecycle by looking at window focus also" (#41094)<br />
     <sub>[#41702](https://github.com/flutter/engine/pull/41702) merged on May 3, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/41702) over 2 hours, 469 additions and 31 deletions in 16 files</sub><br />
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Reid Baker](https://github.com/reidbaker)</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Reland image encoder<br />
     <sub>[#41632](https://github.com/flutter/engine/pull/41632) merged on May 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41632) over 50 minutes, 112 additions and 29 deletions in 5 files</sub><br />
