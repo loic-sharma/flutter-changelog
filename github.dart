@@ -234,14 +234,25 @@ class Changes {
 
   factory Changes.fromJson(Map<String, dynamic> json) {
     final history = json['data']['repository']['defaultBranchRef']['target']['history'];
+    final commits = <Commit>[];
+
+    for (final commit in history['edges'] as List<dynamic>) {
+      try {
+        commits.add(Commit.fromJson(commit['node'] as Map<String, dynamic>));
+      } catch (e, s) {
+        print('Ignoring invalid commit JSON: $e');
+        print('');
+        print('JSON:');
+        print(commit);
+        print('');
+        print(s);
+      }
+    }
 
     return Changes(
       repository: json['data']['repository']['nameWithOwner'] as String,
       endCursor: history['pageInfo']['endCursor'] as String,
-      commits: [
-        for (final commit in history['edges'] as List<dynamic>)
-          Commit.fromJson(commit['node'] as Map<String, dynamic>),
-      ],
+      commits: commits,
     );
   }
 }
@@ -283,7 +294,6 @@ class Commit {
   final DateTime commitDate;
   final String commitUrl;
   final PullRequest pullRequest;
-
 
   factory Commit.fromJson(Map<String, dynamic> json) {
     final pullRequest = json['associatedPullRequests']['nodes'][0] as Map<String, dynamic>;
