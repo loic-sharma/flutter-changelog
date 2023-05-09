@@ -74,6 +74,3 @@
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; When flutter reports an exception "thrown building Widget", tell users the exact widget type (will PR)<br />
     <sub>[#126326](https://github.com/flutter/flutter/pull/126326) opened on on May 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126326) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Revert "Provide default constraints for M3 dialogs" (#126355)<br />
-    <sub>[#126368](https://github.com/flutter/flutter/pull/126368) opened on on May 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126368) 31 additions and 63 deletions in 3 files</sub><br />
-
