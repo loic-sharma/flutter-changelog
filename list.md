@@ -562,7 +562,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-17 commits.
+18 commits.
 
 * **[Jonathan Cole](https://github.com/JonathanPeterCole)** &mdash; [Android] Fix incorrect viewInsets during keyboard animation with EdgeToEdge
     <sub>[#39391](https://github.com/flutter/engine/pull/39391) merged on May 8, 2023 &mdash; **Small:** [40 comments](https://github.com/flutter/engine/pull/39391) over 3 months, 121 additions and 77 deletions in 3 files</sub>
@@ -571,6 +571,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] track path convexity and use it to simplify fill tessellation.
     <sub>[#41834](https://github.com/flutter/engine/pull/41834) merged on May 9, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/41834) over 19 hours, 138 additions and 7 deletions in 10 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Implement text rendering in Skwasm
+    <sub>[#41832](https://github.com/flutter/engine/pull/41832) merged on May 9, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/41832) over 1 day, 3419 additions and 1731 deletions in 51 files</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/hterkelsen)</sub>
 
 * **[Ian McKellar](https://github.com/ianloic)** &mdash; [fuchsia] Stop calling FIDL from Dart in Flutter integration tests
     <sub>[#41669](https://github.com/flutter/engine/pull/41669) merged on May 9, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/41669) over 6 days, 475 additions and 298 deletions in 21 files</sub>
