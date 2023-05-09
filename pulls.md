@@ -12,10 +12,10 @@
     <sub>[#115992](https://github.com/flutter/flutter/pull/115992) opened on on November 24, 2022 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/115992) 5 additions and 19 deletions in 2 files</sub><br />
 
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Added hoverColor property to CheckboxListTile widget<br />
-    <sub>[#116026](https://github.com/flutter/flutter/pull/116026) opened on on November 25, 2022 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/116026) 39 additions and 0 deletions in 3 files</sub><br />
+    <sub>[#116026](https://github.com/flutter/flutter/pull/116026) opened on on November 25, 2022 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/116026) 39 additions and 0 deletions in 3 files</sub><br />
 
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Added hoverColor property on ExpansionTile widget<br />
-    <sub>[#116030](https://github.com/flutter/flutter/pull/116030) opened on on November 25, 2022 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/116030) 31 additions and 0 deletions in 3 files</sub><br />
+    <sub>[#116030](https://github.com/flutter/flutter/pull/116030) opened on on November 25, 2022 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/116030) 31 additions and 0 deletions in 3 files</sub><br />
 
 * **[Altynbek Aidarbekov](https://github.com/altynbek132)** &mdash; use TextField.border.borderSide by default<br />
     <sub>[#116213](https://github.com/flutter/flutter/pull/116213) opened on on November 29, 2022 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/116213) 43 additions and 28 deletions in 1 file</sub><br />
