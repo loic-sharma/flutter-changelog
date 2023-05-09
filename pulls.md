@@ -45,13 +45,10 @@
     <sub>[#124042](https://github.com/flutter/flutter/pull/124042) opened on on April 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124042) 65 additions and 35 deletions in 6 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] cache flutter sdk version to disk<br />
-    <sub>[#124558](https://github.com/flutter/flutter/pull/124558) opened on on April 11, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/124558) 585 additions and 207 deletions in 18 files</sub><br />
+    <sub>[#124558](https://github.com/flutter/flutter/pull/124558) opened on on April 11, 2023 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/124558) 671 additions and 214 deletions in 18 files</sub><br />
 
 * **[st merlhin](https://github.com/stMerlHin)** &mdash; Data table example scroll<br />
     <sub>[#125433](https://github.com/flutter/flutter/pull/125433) opened on on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125433) 73 additions and 28 deletions in 2 files</sub><br />
-
-* **[st merlhin](https://github.com/stMerlHin)** &mdash; expose `CupertinoDatePicker` and `CupertinoTimerPicker` `itemExtent` …<br />
-    <sub>[#125852](https://github.com/flutter/flutter/pull/125852) opened on on May 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125852) 88 additions and 12 deletions in 2 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tools] When running Android SDK tools, set JAVA_HOME to the home of the JDK bundled with Android Studio<br />
     <sub>[#125895](https://github.com/flutter/flutter/pull/125895) opened on on May 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125895) 10 additions and 0 deletions in 1 file</sub><br />
@@ -66,8 +63,14 @@
     <sub>[#126171](https://github.com/flutter/flutter/pull/126171) opened on on May 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126171) 23 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Fixing richMessage gesture recognizer in tooltip widget<br />
-    <sub>[#126207](https://github.com/flutter/flutter/pull/126207) opened on on May 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/126207) 48 additions and 20 deletions in 2 files</sub><br />
+    <sub>[#126207](https://github.com/flutter/flutter/pull/126207) opened on on May 6, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/126207) 48 additions and 20 deletions in 2 files</sub><br />
 
 * **[Dhanush Vardhan](https://github.com/dhanush17-tech)** &mdash; Added MultipleFilterChipPicker widget<br />
-    <sub>[#126287](https://github.com/flutter/flutter/pull/126287) opened on on May 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126287) 155 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#126287](https://github.com/flutter/flutter/pull/126287) opened on on May 8, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/126287) 155 additions and 0 deletions in 2 files</sub><br />
+
+* **[Christian Findlay](https://github.com/MelbourneDeveloper)** &mdash; #126241 Add ChipSet<br />
+    <sub>[#126308](https://github.com/flutter/flutter/pull/126308) opened on on May 9, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/126308) 267 additions and 0 deletions in 2 files</sub><br />
+
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; When flutter reports an exception "thrown building Widget", tell users the exact widget type (will PR)<br />
+    <sub>[#126326](https://github.com/flutter/flutter/pull/126326) opened on on May 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126326) 2 additions and 2 deletions in 1 file</sub><br />
 
