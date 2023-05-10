@@ -4,7 +4,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-21 commits.
+22 commits.
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update packages<br />
     <sub>[#126140](https://github.com/flutter/flutter/pull/126140) merged on May 8, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/126140) over 2 days, 446 additions and 446 deletions in 68 files</sub><br />
@@ -41,6 +41,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix leaks<br />
     <sub>[#126144](https://github.com/flutter/flutter/pull/126144) merged on May 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126144) over 2 days, 115 additions and 75 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+
+* **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Add `strokeAlign` to `CircularProgressIndicator` and `RefreshProgressIndicator`<br />
+    <sub>[#125945](https://github.com/flutter/flutter/pull/125945) merged on May 10, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/125945) over 1 week, 101 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove dead code<br />
     <sub>[#126266](https://github.com/flutter/flutter/pull/126266) merged on May 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126266) over 1 day, 1 addition and 30 deletions in 9 files</sub><br />
