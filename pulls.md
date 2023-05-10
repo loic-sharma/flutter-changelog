@@ -65,6 +65,3 @@
 * **[Christian Findlay](https://github.com/MelbourneDeveloper)** &mdash; #126241 Add ChipSet<br />
     <sub>[#126308](https://github.com/flutter/flutter/pull/126308) opened on on May 9, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/126308) 267 additions and 0 deletions in 2 files</sub><br />
 
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; When flutter reports an exception "thrown building Widget", tell users the exact widget type (will PR)<br />
-    <sub>[#126326](https://github.com/flutter/flutter/pull/126326) opened on on May 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126326) 2 additions and 2 deletions in 1 file</sub><br />
-
