@@ -69,8 +69,11 @@
     <sub>[#126287](https://github.com/flutter/flutter/pull/126287) opened on on May 8, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/126287) 155 additions and 0 deletions in 2 files</sub><br />
 
 * **[Christian Findlay](https://github.com/MelbourneDeveloper)** &mdash; #126241 Add ChipSet<br />
-    <sub>[#126308](https://github.com/flutter/flutter/pull/126308) opened on on May 9, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/126308) 267 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#126308](https://github.com/flutter/flutter/pull/126308) opened on on May 9, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/126308) 267 additions and 0 deletions in 2 files</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; When flutter reports an exception "thrown building Widget", tell users the exact widget type (will PR)<br />
     <sub>[#126326](https://github.com/flutter/flutter/pull/126326) opened on on May 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126326) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix TextSpan gc regression<br />
+    <sub>[#126382](https://github.com/flutter/flutter/pull/126382) opened on on May 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126382) 33 additions and 21 deletions in 1 file</sub><br />
 

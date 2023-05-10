@@ -4,7 +4,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-18 commits.
+19 commits.
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update packages<br />
     <sub>[#126140](https://github.com/flutter/flutter/pull/126140) merged on May 8, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/126140) over 2 days, 446 additions and 446 deletions in 68 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Test AGP 8.0 using java 17<br />
     <sub>[#125323](https://github.com/flutter/flutter/pull/125323) merged on May 8, 2023 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/125323) over 2 weeks, 464 additions and 332 deletions in 19 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[keyonghan](https://github.com/keyonghan)** &mdash; Migrate gallery ios tests to build+test<br />
+    <sub>[#111164](https://github.com/flutter/flutter/pull/111164) merged on May 10, 2023 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/111164) over 8 months, 59 additions and 17 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [github] Add labeler action<br />
     <sub>[#126012](https://github.com/flutter/flutter/pull/126012) merged on May 9, 2023 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/126012) over 5 days, 134 additions and 0 deletions in 2 files</sub><br />
