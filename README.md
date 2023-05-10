@@ -68,7 +68,7 @@
 
 * **[Severin](https://github.com/Bungeefan)** &mdash; Fix platformLocation path and search dropping<br />
     <sub>[#126232](https://github.com/flutter/flutter/pull/126232) merged on May 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126232) over 1 day, 20 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Kevin Moore](https://github.com/kevmoo)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; tool/web: correctly log all options to web wasm compile<br />
     <sub>[#126379](https://github.com/flutter/flutter/pull/126379) merged on May 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126379) over 19 hours, 16 additions and 9 deletions in 2 files</sub><br />
@@ -231,7 +231,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Report total_ui_gc_time to SkiaPerf<br />
     <sub>[#125919](https://github.com/flutter/flutter/pull/125919) merged on May 3, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125919) over 6 hours, 7 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jim Graham](https://github.com/flar)</sub><br />
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Update xcode to 14e222b<br />
     <sub>[#125716](https://github.com/flutter/flutter/pull/125716) merged on May 2, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125716) over 3 days, 50 additions and 44 deletions in 2 files</sub><br />
@@ -379,7 +379,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase Xcode minimum version to 14<br />
     <sub>[#125639](https://github.com/flutter/flutter/pull/125639) merged on April 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125639) over 5 hours, 10 additions and 10 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Chris Yang](https://github.com/cyanglaz)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Fix the position of the Android-style spell check toolbar<br />
     <sub>[#124897](https://github.com/flutter/flutter/pull/124897) merged on April 24, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124897) over 1 week, 78 additions and 23 deletions in 5 files</sub><br />
@@ -414,7 +414,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Bump the default minSdkVersion to 19<br />
     <sub>[#125515](https://github.com/flutter/flutter/pull/125515) merged on April 27, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/125515) over 1 day, 10 additions and 10 deletions in 10 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Anas](https://github.com/Anas35)** &mdash; fix package template create platform folders<br />
     <sub>[#125292](https://github.com/flutter/flutter/pull/125292) merged on April 29, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125292) over 1 week, 18 additions and 0 deletions in 2 files</sub><br />
@@ -542,7 +542,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny fix doc pointing to incorrect widget confusing the readers<br />
     <sub>[#125394](https://github.com/flutter/flutter/pull/125394) merged on April 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125394) over 17 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [Process] Update cherry-pick template assignees<br />
     <sub>[#125402](https://github.com/flutter/flutter/pull/125402) merged on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125402) over 6 hours, 3 additions and 0 deletions in 1 file</sub><br />
@@ -578,7 +578,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-30 commits.
+31 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use separate atlases and shaders for color and alpha<br />
     <sub>[#41780](https://github.com/flutter/engine/pull/41780) merged on May 10, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/engine/pull/41780) over 4 days, 224 additions and 515 deletions in 16 files</sub><br />
@@ -588,6 +588,10 @@
 * **[Jonathan Cole](https://github.com/JonathanPeterCole)** &mdash; [Android] Fix incorrect viewInsets during keyboard animation with EdgeToEdge<br />
     <sub>[#39391](https://github.com/flutter/engine/pull/39391) merged on May 8, 2023 &mdash; **Small:** [40 comments](https://github.com/flutter/engine/pull/39391) over 3 months, 121 additions and 77 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gmackall](https://github.com/gmackall)</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] generalize focusability in semantics<br />
+    <sub>[#41831](https://github.com/flutter/engine/pull/41831) merged on May 10, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/41831) over 1 day, 515 additions and 17 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] dialog a11y fixes<br />
     <sub>[#41681](https://github.com/flutter/engine/pull/41681) merged on May 10, 2023 &mdash; **Medium:** [27 comments](https://github.com/flutter/engine/pull/41681) over 1 week, 297 additions and 21 deletions in 5 files</sub><br />
