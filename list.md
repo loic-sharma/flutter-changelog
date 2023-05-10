@@ -76,7 +76,7 @@
 
 * **[Yu](https://github.com/negotoyolo)** &mdash;  [Refactor] Fix style in example
     <sub>[#126191](https://github.com/flutter/flutter/pull/126191) merged on May 8, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/126191) over 2 days, 5 additions and 5 deletions in 1 file</sub>
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Always use `--concurrency=1` for web tests.
     <sub>[#126179](https://github.com/flutter/flutter/pull/126179) merged on May 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126179) over 2 days, 28 additions and 4 deletions in 2 files</sub>
@@ -406,7 +406,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Bump the default minSdkVersion to 19
     <sub>[#125515](https://github.com/flutter/flutter/pull/125515) merged on April 27, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/125515) over 1 day, 10 additions and 10 deletions in 10 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Anas](https://github.com/Anas35)** &mdash; fix package template create platform folders
     <sub>[#125292](https://github.com/flutter/flutter/pull/125292) merged on April 29, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125292) over 1 week, 18 additions and 0 deletions in 2 files</sub>
@@ -430,7 +430,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Allow users to provide route settings to `showMenu`
     <sub>[#124935](https://github.com/flutter/flutter/pull/124935) merged on April 28, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124935) over 1 week, 63 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove bringup from new_gallery_skia_ios__transition_perf
     <sub>[#125715](https://github.com/flutter/flutter/pull/125715) merged on April 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125715) over 51 minutes, 0 additions and 1 deletion in 1 file</sub>
@@ -534,7 +534,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny fix doc pointing to incorrect widget confusing the readers
     <sub>[#125394](https://github.com/flutter/flutter/pull/125394) merged on April 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125394) over 17 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [Process] Update cherry-pick template assignees
     <sub>[#125402](https://github.com/flutter/flutter/pull/125402) merged on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125402) over 6 hours, 3 additions and 0 deletions in 1 file</sub>
@@ -1084,7 +1084,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-14 commits.
+15 commits.
 
 * **[gmackall](https://github.com/gmackall)** &mdash; [camerax] Implement video capture for CameraX android camera re-write
     <sub>[#3467](https://github.com/flutter/packages/pull/3467) merged on May 9, 2023 &mdash; **Extra large:** [124 comments](https://github.com/flutter/packages/pull/3467) over 1 month, 4487 additions and 173 deletions in 45 files</sub>
@@ -1093,6 +1093,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implement onCameraClosing
     <sub>[#3878](https://github.com/flutter/packages/pull/3878) merged on May 9, 2023 &mdash; **Extra large:** [75 comments](https://github.com/flutter/packages/pull/3878) over 1 week, 4250 additions and 362 deletions in 63 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[Daniele Cambi](https://github.com/dancamdev)** &mdash; [go_router_builder] Adds name parameter to TypedGoRoute and supports its generation.
+    <sub>[#3665](https://github.com/flutter/packages/pull/3665) merged on May 10, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/3665) over 1 month, 67 additions and 1 deletion in 7 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Ignore deprecated `name`
     <sub>[#3953](https://github.com/flutter/packages/pull/3953) merged on May 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3953) over 1 hour, 12 additions and 0 deletions in 1 file</sub>
