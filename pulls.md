@@ -68,6 +68,3 @@
 * **[NikolajHarderNota](https://github.com/NikolajHarderNota)** &mdash; modal bottom sheet barrier label<br />
     <sub>[#126431](https://github.com/flutter/flutter/pull/126431) opened on on May 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126431) 96 additions and 1 deletion in 2 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Properly cleans up routes<br />
-    <sub>[#126453](https://github.com/flutter/flutter/pull/126453) opened on on May 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126453) 62 additions and 37 deletions in 5 files</sub><br />
-
