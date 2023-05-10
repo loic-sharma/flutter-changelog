@@ -566,7 +566,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-22 commits.
+23 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use separate atlases and shaders for color and alpha<br />
     <sub>[#41780](https://github.com/flutter/engine/pull/41780) merged on May 10, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/engine/pull/41780) over 4 days, 224 additions and 515 deletions in 16 files</sub><br />
@@ -596,6 +596,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] introduces DeviceHolder to avoid accessing a dead Device<br />
     <sub>[#41748](https://github.com/flutter/engine/pull/41748) merged on May 9, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/41748) over 4 days, 156 additions and 70 deletions in 21 files</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Only register top level window message listener upon registering service binding<br />
+    <sub>[#41733](https://github.com/flutter/engine/pull/41733) merged on May 10, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/41733) over 5 days, 82 additions and 1 deletion in 8 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Robert Ancell](https://github.com/robert-ancell), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Increase minimum size of alpha glyph atlas.<br />
     <sub>[#41880](https://github.com/flutter/engine/pull/41880) merged on May 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41880) over 58 minutes, 8 additions and 6 deletions in 2 files</sub><br />
