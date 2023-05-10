@@ -247,7 +247,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] delete physical model layer.
     <sub>[#125719](https://github.com/flutter/flutter/pull/125719) merged on May 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125719) over 3 days, 0 additions and 221 deletions in 3 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Tong Mu](https://github.com/dkwingsmt)</sub>
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add debugPrintKeyboardEvents flag
     <sub>[#125629](https://github.com/flutter/flutter/pull/125629) merged on May 2, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/125629) over 5 days, 79 additions and 3 deletions in 3 files</sub>
@@ -434,7 +434,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Allow users to provide route settings to `showMenu`
     <sub>[#124935](https://github.com/flutter/flutter/pull/124935) merged on April 28, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124935) over 1 week, 63 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove bringup from new_gallery_skia_ios__transition_perf
     <sub>[#125715](https://github.com/flutter/flutter/pull/125715) merged on April 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125715) over 51 minutes, 0 additions and 1 deletion in 1 file</sub>
@@ -538,7 +538,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny fix doc pointing to incorrect widget confusing the readers
     <sub>[#125394](https://github.com/flutter/flutter/pull/125394) merged on April 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125394) over 17 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [Process] Update cherry-pick template assignees
     <sub>[#125402](https://github.com/flutter/flutter/pull/125402) merged on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125402) over 6 hours, 3 additions and 0 deletions in 1 file</sub>
@@ -574,7 +574,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-27 commits.
+28 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use separate atlases and shaders for color and alpha
     <sub>[#41780](https://github.com/flutter/engine/pull/41780) merged on May 10, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/engine/pull/41780) over 4 days, 224 additions and 515 deletions in 16 files</sub>
@@ -632,6 +632,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix doc to fix engine roll
     <sub>[#41812](https://github.com/flutter/engine/pull/41812) merged on May 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41812) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Re-enable history tests on Safari
+    <sub>[#41901](https://github.com/flutter/engine/pull/41901) merged on May 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41901) over 2 hours, 2 additions and 7 deletions in 1 file</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate mac host clang tidy to engine v2.
     <sub>[#41824](https://github.com/flutter/engine/pull/41824) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41824) over 1 day, 114 additions and 0 deletions in 2 files</sub>
