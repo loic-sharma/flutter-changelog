@@ -68,6 +68,3 @@
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; When flutter reports an exception "thrown building Widget", tell users the exact widget type (will PR)<br />
     <sub>[#126326](https://github.com/flutter/flutter/pull/126326) opened on on May 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126326) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix TextSpan gc regression<br />
-    <sub>[#126382](https://github.com/flutter/flutter/pull/126382) opened on on May 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126382) 33 additions and 21 deletions in 1 file</sub><br />
-
