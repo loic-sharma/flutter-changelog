@@ -65,3 +65,6 @@
 * **[Christian Findlay](https://github.com/MelbourneDeveloper)** &mdash; #126241 Add ChipSet<br />
     <sub>[#126308](https://github.com/flutter/flutter/pull/126308) opened on on May 9, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/126308) 267 additions and 0 deletions in 2 files</sub><br />
 
+* **[NikolajHarderNota](https://github.com/NikolajHarderNota)** &mdash; modal bottom sheet barrier label<br />
+    <sub>[#126431](https://github.com/flutter/flutter/pull/126431) opened on on May 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126431) 96 additions and 1 deletion in 2 files</sub><br />
+
