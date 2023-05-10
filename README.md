@@ -68,7 +68,7 @@
 
 * **[Severin](https://github.com/Bungeefan)** &mdash; Fix platformLocation path and search dropping<br />
     <sub>[#126232](https://github.com/flutter/flutter/pull/126232) merged on May 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126232) over 1 day, 20 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Kevin Moore](https://github.com/kevmoo)</sub><br />
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; tool/web: correctly log all options to web wasm compile<br />
     <sub>[#126379](https://github.com/flutter/flutter/pull/126379) merged on May 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126379) over 19 hours, 16 additions and 9 deletions in 2 files</sub><br />
@@ -231,7 +231,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Report total_ui_gc_time to SkiaPerf<br />
     <sub>[#125919](https://github.com/flutter/flutter/pull/125919) merged on May 3, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125919) over 6 hours, 7 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Update xcode to 14e222b<br />
     <sub>[#125716](https://github.com/flutter/flutter/pull/125716) merged on May 2, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125716) over 3 days, 50 additions and 44 deletions in 2 files</sub><br />
@@ -438,7 +438,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Allow users to provide route settings to `showMenu`<br />
     <sub>[#124935](https://github.com/flutter/flutter/pull/124935) merged on April 28, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124935) over 1 week, 63 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove bringup from new_gallery_skia_ios__transition_perf<br />
     <sub>[#125715](https://github.com/flutter/flutter/pull/125715) merged on April 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125715) over 51 minutes, 0 additions and 1 deletion in 1 file</sub><br />
@@ -534,7 +534,7 @@
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Mark module_test_ios flaky<br />
     <sub>[#125426](https://github.com/flutter/flutter/pull/125426) merged on April 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125426) over 1 hour, 2 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Jenn Magder](https://github.com/jmagman)</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool,web] Include more info URI on Wasm init failure<br />
     <sub>[#125312](https://github.com/flutter/flutter/pull/125312) merged on April 24, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/125312) over 3 days, 12 additions and 4 deletions in 4 files</sub><br />
@@ -1127,7 +1127,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[André Sousa](https://github.com/beroso)** &mdash; [image_picker_android] Improved Bitmap resize on Android<br />
-    <sub>[#3423](https://github.com/flutter/packages/pull/3423) merged on May 10, 2023 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/3423) over 2 months, 113 additions and 13 deletions in 5 files</sub><br />
+    <sub>[#3423](https://github.com/flutter/packages/pull/3423) merged on May 10, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/packages/pull/3423) over 2 months, 113 additions and 13 deletions in 5 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Daniele Cambi](https://github.com/dancamdev)** &mdash; [go_router_builder] Adds name parameter to TypedGoRoute and supports its generation.<br />
