@@ -379,7 +379,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase Xcode minimum version to 14
     <sub>[#125639](https://github.com/flutter/flutter/pull/125639) merged on April 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/125639) over 5 hours, 10 additions and 10 deletions in 4 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Chris Yang](https://github.com/cyanglaz)</sub>
+    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Fix the position of the Android-style spell check toolbar
     <sub>[#124897](https://github.com/flutter/flutter/pull/124897) merged on April 24, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124897) over 1 week, 78 additions and 23 deletions in 5 files</sub>
@@ -438,7 +438,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Allow users to provide route settings to `showMenu`
     <sub>[#124935](https://github.com/flutter/flutter/pull/124935) merged on April 28, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/124935) over 1 week, 63 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove bringup from new_gallery_skia_ios__transition_perf
     <sub>[#125715](https://github.com/flutter/flutter/pull/125715) merged on April 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125715) over 51 minutes, 0 additions and 1 deletion in 1 file</sub>
@@ -534,7 +534,7 @@
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Mark module_test_ios flaky
     <sub>[#125426](https://github.com/flutter/flutter/pull/125426) merged on April 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125426) over 1 hour, 2 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Jenn Magder](https://github.com/jmagman)</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool,web] Include more info URI on Wasm init failure
     <sub>[#125312](https://github.com/flutter/flutter/pull/125312) merged on April 24, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/125312) over 3 days, 12 additions and 4 deletions in 4 files</sub>
@@ -542,7 +542,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny fix doc pointing to incorrect widget confusing the readers
     <sub>[#125394](https://github.com/flutter/flutter/pull/125394) merged on April 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125394) over 17 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [Process] Update cherry-pick template assignees
     <sub>[#125402](https://github.com/flutter/flutter/pull/125402) merged on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125402) over 6 hours, 3 additions and 0 deletions in 1 file</sub>
