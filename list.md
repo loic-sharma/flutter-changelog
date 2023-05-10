@@ -566,7 +566,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-21 commits.
+22 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use separate atlases and shaders for color and alpha
     <sub>[#41780](https://github.com/flutter/engine/pull/41780) merged on May 10, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/engine/pull/41780) over 4 days, 224 additions and 515 deletions in 16 files</sub>
@@ -576,6 +576,10 @@
 * **[Jonathan Cole](https://github.com/JonathanPeterCole)** &mdash; [Android] Fix incorrect viewInsets during keyboard animation with EdgeToEdge
     <sub>[#39391](https://github.com/flutter/engine/pull/39391) merged on May 8, 2023 &mdash; **Small:** [40 comments](https://github.com/flutter/engine/pull/39391) over 3 months, 121 additions and 77 deletions in 3 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gmackall](https://github.com/gmackall)</sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] dialog a11y fixes
+    <sub>[#41681](https://github.com/flutter/engine/pull/41681) merged on May 10, 2023 &mdash; **Medium:** [27 comments](https://github.com/flutter/engine/pull/41681) over 1 week, 297 additions and 21 deletions in 5 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar), [htoor3](https://github.com/htoor3)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] track path convexity and use it to simplify fill tessellation.
     <sub>[#41834](https://github.com/flutter/engine/pull/41834) merged on May 9, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/41834) over 19 hours, 138 additions and 7 deletions in 10 files</sub>
