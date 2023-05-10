@@ -1072,7 +1072,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-12 commits.
+13 commits.
 
 * **[gmackall](https://github.com/gmackall)** &mdash; [camerax] Implement video capture for CameraX android camera re-write
     <sub>[#3467](https://github.com/flutter/packages/pull/3467) merged on May 9, 2023 &mdash; **Extra large:** [124 comments](https://github.com/flutter/packages/pull/3467) over 1 month, 4487 additions and 173 deletions in 45 files</sub>
@@ -1081,6 +1081,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implement onCameraClosing
     <sub>[#3878](https://github.com/flutter/packages/pull/3878) merged on May 9, 2023 &mdash; **Extra large:** [75 comments](https://github.com/flutter/packages/pull/3878) over 1 week, 4250 additions and 362 deletions in 63 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Ignore deprecated `name`
+    <sub>[#3953](https://github.com/flutter/packages/pull/3953) merged on May 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3953) over 1 hour, 12 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Update README with plugin overview
     <sub>[#3891](https://github.com/flutter/packages/pull/3891) merged on May 9, 2023 &mdash; **Small:** [30 comments](https://github.com/flutter/packages/pull/3891) over 6 days, 143 additions and 2 deletions in 3 files</sub>
