@@ -65,6 +65,3 @@
 * **[Christian Findlay](https://github.com/MelbourneDeveloper)** &mdash; #126241 Add ChipSet<br />
     <sub>[#126308](https://github.com/flutter/flutter/pull/126308) opened on on May 9, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/126308) 267 additions and 0 deletions in 2 files</sub><br />
 
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Roll flutter/packages to 0167d834e937<br />
-    <sub>[#126427](https://github.com/flutter/flutter/pull/126427) opened on on May 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126427) 1 addition and 1 deletion in 1 file</sub><br />
-
