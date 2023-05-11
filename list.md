@@ -239,7 +239,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Report total_ui_gc_time to SkiaPerf
     <sub>[#125919](https://github.com/flutter/flutter/pull/125919) merged on May 3, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125919) over 6 hours, 7 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jim Graham](https://github.com/flar)</sub>
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Update xcode to 14e222b
     <sub>[#125716](https://github.com/flutter/flutter/pull/125716) merged on May 2, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125716) over 3 days, 50 additions and 44 deletions in 2 files</sub>
@@ -259,7 +259,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] delete physical model layer.
     <sub>[#125719](https://github.com/flutter/flutter/pull/125719) merged on May 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125719) over 3 days, 0 additions and 221 deletions in 3 files</sub>
-    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add a ReorderableListView example with cards + cleanup existing tests
     <sub>[#126155](https://github.com/flutter/flutter/pull/126155) merged on May 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126155) over 3 hours, 214 additions and 79 deletions in 9 files</sub>
@@ -418,7 +418,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Bump the default minSdkVersion to 19
     <sub>[#125515](https://github.com/flutter/flutter/pull/125515) merged on April 27, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/125515) over 1 day, 10 additions and 10 deletions in 10 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Fix crasher in DragableScrollableSheet when controller is animating and switching widgets
     <sub>[#125721](https://github.com/flutter/flutter/pull/125721) merged on April 29, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/125721) over 7 hours, 68 additions and 13 deletions in 2 files</sub>
@@ -546,7 +546,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny fix doc pointing to incorrect widget confusing the readers
     <sub>[#125394](https://github.com/flutter/flutter/pull/125394) merged on April 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125394) over 17 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [Process] Update cherry-pick template assignees
     <sub>[#125402](https://github.com/flutter/flutter/pull/125402) merged on April 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/125402) over 6 hours, 3 additions and 0 deletions in 1 file</sub>
@@ -1331,7 +1331,7 @@
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pigeon][reland]enable treat warnings as errors for swift code in unit test
     <sub>[#3901](https://github.com/flutter/packages/pull/3901) merged on May 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3901) over 5 hours, 4 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[pigeon]enable treat warning as errors for swift code in unit test"
     <sub>[#3898](https://github.com/flutter/packages/pull/3898) merged on May 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3898) over 23 minutes, 0 additions and 3 deletions in 1 file</sub>
@@ -1384,7 +1384,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.8.20 to 1.8.21 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#3824](https://github.com/flutter/packages/pull/3824) merged on April 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3824) over 2 days, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.8.20&new-version=1.8.21)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Move Android lint checks
@@ -1429,7 +1429,7 @@
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Update xcode to 14c18
     <sub>[#3774](https://github.com/flutter/packages/pull/3774) merged on April 28, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3774) over 1 week, 8 additions and 8 deletions in 4 files</sub>
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[GP4cK](https://github.com/GP4cK)** &mdash; [go_router] Remove unused navigator keys
     <sub>[#3708](https://github.com/flutter/packages/pull/3708) merged on April 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3708) over 2 weeks, 6 additions and 10 deletions in 3 files</sub>
