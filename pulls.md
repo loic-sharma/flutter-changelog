@@ -69,5 +69,5 @@
     <sub>[#126456](https://github.com/flutter/flutter/pull/126456) opened on on May 10, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/126456) 489 additions and 517 deletions in 35 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Allow mixing in PreferredSizeWidget<br />
-    <sub>[#126521](https://github.com/flutter/flutter/pull/126521) opened on on May 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126521) 19 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#126521](https://github.com/flutter/flutter/pull/126521) opened on on May 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126521) 157 additions and 1 deletion in 2 files</sub><br />
 
