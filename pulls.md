@@ -74,3 +74,6 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Force plugin transitive dependencies to an ARC compatible version (#1…<br />
     <sub>[#126548](https://github.com/flutter/flutter/pull/126548) opened on on May 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126548) 46 additions and 16 deletions in 2 files</sub><br />
 
+* **[Florian](https://github.com/PlutoHDDev)** &mdash; Fix output of _informAboutExistingCaches<br />
+    <sub>[#126566](https://github.com/flutter/flutter/pull/126566) opened on on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126566) 1 addition and 1 deletion in 1 file</sub><br />
+
