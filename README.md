@@ -582,7 +582,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-33 commits.
+34 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use separate atlases and shaders for color and alpha<br />
     <sub>[#41780](https://github.com/flutter/engine/pull/41780) merged on May 10, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/engine/pull/41780) over 4 days, 224 additions and 515 deletions in 16 files</sub><br />
@@ -629,6 +629,10 @@
     <sub>[#41748](https://github.com/flutter/engine/pull/41748) merged on May 9, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/41748) over 4 days, 156 additions and 70 deletions in 21 files</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Turn @staticInterop tear-off into closure<br />
+    <sub>[#41885](https://github.com/flutter/engine/pull/41885) merged on May 11, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/41885) over 19 hours, 6 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [Ian Hickson](https://github.com/Hixie)</sub><br />
+
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Only register top level window message listener upon registering service binding<br />
     <sub>[#41733](https://github.com/flutter/engine/pull/41733) merged on May 10, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/41733) over 5 days, 82 additions and 1 deletion in 8 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Robert Ancell](https://github.com/robert-ancell), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
@@ -669,10 +673,6 @@
     <sub>[#41865](https://github.com/flutter/engine/pull/41865) merged on May 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41865) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Move linux_license to engine v2.<br />
-    <sub>[#41863](https://github.com/flutter/engine/pull/41863) merged on May 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41863) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Replace Windows Unopt with the engine v2 version.<br />
     <sub>[#41861](https://github.com/flutter/engine/pull/41861) merged on May 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41861) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
@@ -703,6 +703,10 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Linux fuchsia engine v2 config.<br />
     <sub>[#41759](https://github.com/flutter/engine/pull/41759) merged on May 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41759) over 3 days, 213 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Move linux_license to engine v2.<br />
+    <sub>[#41863](https://github.com/flutter/engine/pull/41863) merged on May 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41863) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland "Skwasm Font Loading<br />
