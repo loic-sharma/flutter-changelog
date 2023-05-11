@@ -586,7 +586,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-35 commits.
+36 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use separate atlases and shaders for color and alpha
     <sub>[#41780](https://github.com/flutter/engine/pull/41780) merged on May 10, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/engine/pull/41780) over 4 days, 224 additions and 515 deletions in 16 files</sub>
@@ -669,12 +669,16 @@
     <sub>[#41901](https://github.com/flutter/engine/pull/41901) merged on May 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41901) over 2 hours, 2 additions and 7 deletions in 1 file</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
+* **[William Hesse](https://github.com/whesse)** &mdash; Add pkg:protobuf as a dependency for testing/dart
+    <sub>[#41938](https://github.com/flutter/engine/pull/41938) merged on May 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41938) over 1 hour, 6 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub>
+
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Return fonts in a deterministic order.
     <sub>[#41907](https://github.com/flutter/engine/pull/41907) merged on May 11, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/41907) over 7 hours, 5 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Harry Terkelsen](https://github.com/hterkelsen)</sub>
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate mac host clang tidy to engine v2.
-    <sub>[#41824](https://github.com/flutter/engine/pull/41824) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41824) over 1 day, 114 additions and 0 deletions in 2 files</sub>
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Windows unopt configuration.
+    <sub>[#41785](https://github.com/flutter/engine/pull/41785) merged on May 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41785) over 2 days, 46 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Linux fuchsia engine v2 config.
@@ -705,8 +709,8 @@
     <sub>[#41797](https://github.com/flutter/engine/pull/41797) merged on May 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41797) over 2 days, 25 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Windows unopt configuration.
-    <sub>[#41785](https://github.com/flutter/engine/pull/41785) merged on May 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41785) over 2 days, 46 additions and 0 deletions in 2 files</sub>
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate mac host clang tidy to engine v2.
+    <sub>[#41824](https://github.com/flutter/engine/pull/41824) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41824) over 1 day, 114 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Move linux fuchsia engine v2 build to prod.
