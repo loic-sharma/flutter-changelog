@@ -80,3 +80,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Reland "[tool] Move Java functions to their own file"<br />
     <sub>[#126577](https://github.com/flutter/flutter/pull/126577) opened on on May 11, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/126577) 706 additions and 567 deletions in 21 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Add ScrollMetrics.extentTotal for completeness<br />
+    <sub>[#126607](https://github.com/flutter/flutter/pull/126607) opened on on May 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126607) 13 additions and 4 deletions in 2 files</sub><br />
+
