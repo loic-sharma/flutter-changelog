@@ -198,7 +198,7 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Chris Yang](https://github.com/cyanglaz), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Alberto Azinar](https://github.com/albertoazinar)** &mdash; improvement : removed required  kotlin dependency
-    <sub>[#125002](https://github.com/flutter/flutter/pull/125002) merged on May 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/125002) over 2 weeks, 1 addition and 3 deletions in 1 file</sub>
+    <sub>[#125002](https://github.com/flutter/flutter/pull/125002) merged on May 5, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/125002) over 2 weeks, 1 addition and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add `InlineSpan.visitDirectChildren`
