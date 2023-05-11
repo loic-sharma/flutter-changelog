@@ -104,7 +104,7 @@
 
 * **[Yu](https://github.com/negotoyolo)** &mdash;  [Refactor] Fix style in example
     <sub>[#126191](https://github.com/flutter/flutter/pull/126191) merged on May 8, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/126191) over 2 days, 5 additions and 5 deletions in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Ian Hickson](https://github.com/Hixie)</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Always use `--concurrency=1` for web tests.
     <sub>[#126179](https://github.com/flutter/flutter/pull/126179) merged on May 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126179) over 2 days, 28 additions and 4 deletions in 2 files</sub>
