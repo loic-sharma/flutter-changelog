@@ -68,3 +68,9 @@
 * **[Casey Rogers](https://github.com/caseycrogers)** &mdash; [WIP] removed generic, started fixing popupmenu<br />
     <sub>[#126456](https://github.com/flutter/flutter/pull/126456) opened on on May 10, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/126456) 489 additions and 517 deletions in 35 files</sub><br />
 
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Let `runAsync` allow re-entrance, or allow users to know whether it is already running async tasks<br />
+    <sub>[#126547](https://github.com/flutter/flutter/pull/126547) opened on on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126547) 14 additions and 0 deletions in 1 file</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Force plugin transitive dependencies to an ARC compatible version (#1…<br />
+    <sub>[#126548](https://github.com/flutter/flutter/pull/126548) opened on on May 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126548) 46 additions and 16 deletions in 2 files</sub><br />
+
