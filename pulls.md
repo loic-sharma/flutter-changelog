@@ -75,7 +75,7 @@
     <sub>[#126548](https://github.com/flutter/flutter/pull/126548) opened on on May 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126548) 46 additions and 16 deletions in 2 files</sub><br />
 
 * **[Florian](https://github.com/PlutoHDDev)** &mdash; Fix output of _informAboutExistingCaches<br />
-    <sub>[#126566](https://github.com/flutter/flutter/pull/126566) opened on on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126566) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#126566](https://github.com/flutter/flutter/pull/126566) opened on on May 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126566) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Reland "[tool] Move Java functions to their own file"<br />
     <sub>[#126577](https://github.com/flutter/flutter/pull/126577) opened on on May 11, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/126577) 706 additions and 567 deletions in 21 files</sub><br />
