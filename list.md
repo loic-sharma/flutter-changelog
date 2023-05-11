@@ -4,7 +4,11 @@
 
 ### May 6, 2023 to May 12, 2023
 
-23 commits.
+24 commits.
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Move Java functions to their own file
+    <sub>[#126086](https://github.com/flutter/flutter/pull/126086) merged on May 11, 2023 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/126086) over 6 days, 706 additions and 567 deletions in 21 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update packages
     <sub>[#126140](https://github.com/flutter/flutter/pull/126140) merged on May 8, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/126140) over 2 days, 446 additions and 446 deletions in 68 files</sub>
