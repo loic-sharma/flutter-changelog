@@ -4,7 +4,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-22 commits.
+23 commits.
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update packages
     <sub>[#126140](https://github.com/flutter/flutter/pull/126140) merged on May 8, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/126140) over 2 days, 446 additions and 446 deletions in 68 files</sub>
@@ -25,6 +25,10 @@
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Migrate gallery ios tests to build+test
     <sub>[#111164](https://github.com/flutter/flutter/pull/111164) merged on May 10, 2023 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/111164) over 8 months, 59 additions and 17 deletions in 3 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reorder `materialStateProperty` defaults
+    <sub>[#125905](https://github.com/flutter/flutter/pull/125905) merged on May 11, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/125905) over 1 week, 1210 additions and 425 deletions in 37 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Roll flutter/packages to 0167d834e937
     <sub>[#126427](https://github.com/flutter/flutter/pull/126427) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126427) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
@@ -578,7 +582,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-32 commits.
+33 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use separate atlases and shaders for color and alpha
     <sub>[#41780](https://github.com/flutter/engine/pull/41780) merged on May 10, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/engine/pull/41780) over 4 days, 224 additions and 515 deletions in 16 files</sub>
@@ -596,6 +600,10 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] dialog a11y fixes
     <sub>[#41681](https://github.com/flutter/engine/pull/41681) merged on May 10, 2023 &mdash; **Medium:** [27 comments](https://github.com/flutter/engine/pull/41681) over 1 week, 297 additions and 21 deletions in 5 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar), [htoor3](https://github.com/htoor3)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Expose PlatformLocation and HashUrlStrategy through ui_web
+    <sub>[#41163](https://github.com/flutter/engine/pull/41163) merged on May 10, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/41163) over 3 weeks, 314 additions and 280 deletions in 8 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; switch from MockCanvas to DisplayListBuilder in layer unit tests
     <sub>[#41889](https://github.com/flutter/engine/pull/41889) merged on May 10, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/41889) over 10 hours, 781 additions and 562 deletions in 17 files</sub>
