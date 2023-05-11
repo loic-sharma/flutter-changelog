@@ -4,7 +4,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-28 commits.
+29 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Move Java functions to their own file<br />
     <sub>[#126086](https://github.com/flutter/flutter/pull/126086) merged on May 11, 2023 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/126086) over 6 days, 706 additions and 567 deletions in 21 files</sub><br />
@@ -113,6 +113,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Always use `--concurrency=1` for web tests.<br />
     <sub>[#126179](https://github.com/flutter/flutter/pull/126179) merged on May 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126179) over 2 days, 28 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Revert "[tool] Move Java functions to their own file"<br />
+    <sub>[#126569](https://github.com/flutter/flutter/pull/126569) merged on May 11, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/126569) over 1 minute, 567 additions and 706 deletions in 21 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Revert "Provide default constraints for M3 dialogs"<br />
     <sub>[#126355](https://github.com/flutter/flutter/pull/126355) merged on May 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126355) over 59 minutes, 31 additions and 63 deletions in 3 files</sub><br />
