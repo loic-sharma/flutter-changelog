@@ -610,7 +610,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-42 commits.
+44 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use separate atlases and shaders for color and alpha
     <sub>[#41780](https://github.com/flutter/engine/pull/41780) merged on May 10, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/engine/pull/41780) over 4 days, 224 additions and 515 deletions in 16 files</sub>
@@ -641,13 +641,13 @@
     <sub>[#41834](https://github.com/flutter/engine/pull/41834) merged on May 9, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/41834) over 19 hours, 138 additions and 7 deletions in 10 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Implement text rendering in Skwasm
-    <sub>[#41832](https://github.com/flutter/engine/pull/41832) merged on May 9, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/41832) over 1 day, 3419 additions and 1731 deletions in 51 files</sub>
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/hterkelsen)</sub>
-
 * **[Ian McKellar](https://github.com/ianloic)** &mdash; [fuchsia] Stop calling FIDL from Dart in Flutter integration tests
     <sub>[#41669](https://github.com/flutter/engine/pull/41669) merged on May 9, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/41669) over 6 days, 475 additions and 298 deletions in 21 files</sub>
     <sub>Reviewed by: [David Worsham](https://github.com/arbreng)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Implement text rendering in Skwasm
+    <sub>[#41832](https://github.com/flutter/engine/pull/41832) merged on May 9, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/41832) over 1 day, 3419 additions and 1731 deletions in 51 files</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/hterkelsen)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [backdrop_filter]Avoid relying on internal class details
     <sub>[#41873](https://github.com/flutter/engine/pull/41873) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41873) over 23 hours, 6 additions and 6 deletions in 2 files</sub>
@@ -665,6 +665,10 @@
     <sub>[#41733](https://github.com/flutter/engine/pull/41733) merged on May 10, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/41733) over 5 days, 82 additions and 1 deletion in 8 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Robert Ancell](https://github.com/robert-ancell), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] started cleaning up pools when devices are deleted
+    <sub>[#41857](https://github.com/flutter/engine/pull/41857) merged on May 9, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/41857) over 6 hours, 37 additions and 7 deletions in 5 files</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Increase minimum size of alpha glyph atlas.
     <sub>[#41880](https://github.com/flutter/engine/pull/41880) merged on May 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41880) over 58 minutes, 8 additions and 6 deletions in 2 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
@@ -672,10 +676,6 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; switch MockTexture off of MockCanvas calls
     <sub>[#41906](https://github.com/flutter/engine/pull/41906) merged on May 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41906) over 21 hours, 114 additions and 68 deletions in 5 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] started cleaning up pools when devices are deleted
-    <sub>[#41857](https://github.com/flutter/engine/pull/41857) merged on May 9, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/41857) over 6 hours, 37 additions and 7 deletions in 5 files</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macos] Disable background colour tests
     <sub>[#41904](https://github.com/flutter/engine/pull/41904) merged on May 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41904) over 2 hours, 4 additions and 2 deletions in 1 file</sub>
@@ -697,6 +697,10 @@
     <sub>[#41901](https://github.com/flutter/engine/pull/41901) merged on May 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41901) over 2 hours, 2 additions and 7 deletions in 1 file</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
+* **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Use moved SkImage procs
+    <sub>[#41947](https://github.com/flutter/engine/pull/41947) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41947) over 2 hours, 2 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
 * **[lauren n. liberda](https://github.com/selfisekai)** &mdash; allow supplying custom gn args in gn wrapper
     <sub>[#41794](https://github.com/flutter/engine/pull/41794) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41794) over 5 days, 9 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -713,29 +717,21 @@
     <sub>[#41875](https://github.com/flutter/engine/pull/41875) merged on May 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41875) over 1 day, 9 additions and 9 deletions in 2 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate mac host clang tidy to engine v2.
-    <sub>[#41824](https://github.com/flutter/engine/pull/41824) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41824) over 1 day, 114 additions and 0 deletions in 2 files</sub>
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Move linux fuchsia engine v2 build to prod.
+    <sub>[#41865](https://github.com/flutter/engine/pull/41865) merged on May 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41865) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Add linux license engine v2 build.
+    <sub>[#41797](https://github.com/flutter/engine/pull/41797) merged on May 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41797) over 2 days, 25 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Windows unopt configuration.
     <sub>[#41785](https://github.com/flutter/engine/pull/41785) merged on May 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41785) over 2 days, 46 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Linux fuchsia engine v2 config.
-    <sub>[#41759](https://github.com/flutter/engine/pull/41759) merged on May 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41759) over 3 days, 213 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Remove staging flag
-    <sub>[#41843](https://github.com/flutter/engine/pull/41843) merged on May 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41843) over 18 hours, 0 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Jim Graham](https://github.com/flar)</sub>
-
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Increase timeout of orchestrator.
     <sub>[#41839](https://github.com/flutter/engine/pull/41839) merged on May 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41839) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
-
-* **[drwez](https://github.com/drwez)** &mdash; [tests] Remove unused fuchsia.sys protocol reference
-    <sub>[#41826](https://github.com/flutter/engine/pull/41826) merged on May 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41826) over 5 hours, 0 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [David Worsham](https://github.com/arbreng)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Clobber caches in licenses test.
     <sub>[#41942](https://github.com/flutter/engine/pull/41942) merged on May 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41942) over 2 hours, 1 addition and 0 deletions in 1 file</sub>
@@ -749,17 +745,17 @@
     <sub>[#41907](https://github.com/flutter/engine/pull/41907) merged on May 11, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/41907) over 7 hours, 5 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Harry Terkelsen](https://github.com/hterkelsen)</sub>
 
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate mac host clang tidy to engine v2.
+    <sub>[#41824](https://github.com/flutter/engine/pull/41824) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41824) over 1 day, 114 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Get rid of "outrageous" default text styles for HTML renderer.
     <sub>[#41822](https://github.com/flutter/engine/pull/41822) merged on May 8, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/41822) over 3 hours, 5 additions and 34 deletions in 6 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Move linux fuchsia engine v2 build to prod.
-    <sub>[#41865](https://github.com/flutter/engine/pull/41865) merged on May 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41865) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Add linux license engine v2 build.
-    <sub>[#41797](https://github.com/flutter/engine/pull/41797) merged on May 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41797) over 2 days, 25 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[drwez](https://github.com/drwez)** &mdash; [tests] Remove unused fuchsia.sys protocol reference
+    <sub>[#41826](https://github.com/flutter/engine/pull/41826) merged on May 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41826) over 5 hours, 0 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [David Worsham](https://github.com/arbreng)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Move linux_license to engine v2.
     <sub>[#41863](https://github.com/flutter/engine/pull/41863) merged on May 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41863) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -769,9 +765,21 @@
     <sub>[#41861](https://github.com/flutter/engine/pull/41861) merged on May 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41861) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
+* **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Remove staging flag
+    <sub>[#41843](https://github.com/flutter/engine/pull/41843) merged on May 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41843) over 18 hours, 0 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Jim Graham](https://github.com/flar)</sub>
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Linux fuchsia engine v2 config.
+    <sub>[#41759](https://github.com/flutter/engine/pull/41759) merged on May 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41759) over 3 days, 213 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland "Skwasm Font Loading
     <sub>[#41756](https://github.com/flutter/engine/pull/41756) merged on May 8, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/41756) over 3 days, 1431 additions and 913 deletions in 117 files</sub>
     <sub>Reviewed by: [Harry Terkelsen](https://github.com/hterkelsen)</sub>
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll Clang from 5344d8e10bb7 to 6d667d4b261e
+    <sub>[#41949](https://github.com/flutter/engine/pull/41949) merged on May 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41949) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Move linux fuchsia engine v2 build to prod."
     <sub>[#41902](https://github.com/flutter/engine/pull/41902) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41902) over 6 minutes, 1 addition and 1 deletion in 1 file</sub>
