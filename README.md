@@ -1147,7 +1147,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[André Sousa](https://github.com/beroso)** &mdash; [image_picker_android] Improved Bitmap resize on Android<br />
-    <sub>[#3423](https://github.com/flutter/packages/pull/3423) merged on May 10, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/packages/pull/3423) over 2 months, 113 additions and 13 deletions in 5 files</sub><br />
+    <sub>[#3423](https://github.com/flutter/packages/pull/3423) merged on May 10, 2023 &mdash; **Small:** [24 comments](https://github.com/flutter/packages/pull/3423) over 2 months, 113 additions and 13 deletions in 5 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Daniele Cambi](https://github.com/dancamdev)** &mdash; [go_router_builder] Adds name parameter to TypedGoRoute and supports its generation.<br />
