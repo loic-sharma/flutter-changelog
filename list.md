@@ -1204,7 +1204,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-23 commits.
+24 commits.
 
 * **[gmackall](https://github.com/gmackall)** &mdash; [camerax] Implement video capture for CameraX android camera re-write
     <sub>[#3467](https://github.com/flutter/packages/pull/3467) merged on May 9, 2023 &mdash; **Extra large:** [124 comments](https://github.com/flutter/packages/pull/3467) over 1 month, 4487 additions and 173 deletions in 45 files</sub>
@@ -1253,6 +1253,10 @@
 * **[gmackall](https://github.com/gmackall)** &mdash; Adding setup for TestInstanceManagerHostApi in zoom and exposure tests
     <sub>[#3947](https://github.com/flutter/packages/pull/3947) merged on May 8, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3947) over 47 minutes, 88 additions and 0 deletions in 4 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Pin the Flutter version for `release`
+    <sub>[#3965](https://github.com/flutter/packages/pull/3965) merged on May 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3965) over 5 hours, 10 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Fix use_build_context_synchronously violations
     <sub>[#3969](https://github.com/flutter/packages/pull/3969) merged on May 11, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/packages/pull/3969) over 2 hours, 158 additions and 143 deletions in 9 files</sub>
