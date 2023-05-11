@@ -4,7 +4,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-29 commits.
+30 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Move Java functions to their own file
     <sub>[#126086](https://github.com/flutter/flutter/pull/126086) merged on May 11, 2023 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/126086) over 6 days, 706 additions and 567 deletions in 21 files</sub>
@@ -89,6 +89,10 @@
 * **[Severin](https://github.com/Bungeefan)** &mdash; Fix platformLocation path and search dropping
     <sub>[#126232](https://github.com/flutter/flutter/pull/126232) merged on May 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126232) over 1 day, 20 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Add dimensions to release builds.
+    <sub>[#126117](https://github.com/flutter/flutter/pull/126117) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126117) over 6 days, 12 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jesse Seales](https://github.com/sealesj), [Drew Roen](https://github.com/drewroengoogle)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Add `cpu: x86` dimension and xcode dependency for Mac_build_test targets
     <sub>[#126482](https://github.com/flutter/flutter/pull/126482) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126482) over 16 hours, 3 additions and 0 deletions in 1 file</sub>
