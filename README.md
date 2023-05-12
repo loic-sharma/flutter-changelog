@@ -1279,8 +1279,8 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[gmackall](https://github.com/gmackall)** &mdash; [camerax] Add a dependency on kotlin-bom to align versions of kotlin-stdlib<br />
-    <sub>[#3960](https://github.com/flutter/packages/pull/3960) merged on May 12, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/3960) over 1 day, 11 additions and 11 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub><br />
+    <sub>[#3960](https://github.com/flutter/packages/pull/3960) merged on May 12, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/3960) over 1 day, 11 additions and 11 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Ensure scripts fail if a command fails<br />
     <sub>[#3963](https://github.com/flutter/packages/pull/3963) merged on May 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3963) over 10 hours, 13 additions and 0 deletions in 11 files</sub><br />
