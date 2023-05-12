@@ -4,7 +4,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-30 commits.
+31 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Move Java functions to their own file<br />
     <sub>[#126086](https://github.com/flutter/flutter/pull/126086) merged on May 11, 2023 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/126086) over 6 days, 706 additions and 567 deletions in 21 files</sub><br />
@@ -53,6 +53,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix leaks<br />
     <sub>[#126144](https://github.com/flutter/flutter/pull/126144) merged on May 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126144) over 2 days, 115 additions and 75 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix TextSpan gc regression<br />
+    <sub>[#126382](https://github.com/flutter/flutter/pull/126382) merged on May 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/126382) over 2 days, 33 additions and 21 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Add `strokeAlign` to `CircularProgressIndicator` and `RefreshProgressIndicator`<br />
     <sub>[#125945](https://github.com/flutter/flutter/pull/125945) merged on May 10, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/125945) over 1 week, 101 additions and 2 deletions in 2 files</sub><br />
