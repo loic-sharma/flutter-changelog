@@ -1260,7 +1260,7 @@
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; reland "Migrate mac_host_engine to engine v2 builds."
-    <sub>[#41531](https://github.com/flutter/engine/pull/41531) merged on April 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41531) over 4 hours, 27 additions and 13 deletions in 2 files</sub>
+    <sub>[#41531](https://github.com/flutter/engine/pull/41531) merged on April 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41531) over 4 hours, 27 additions and 13 deletions in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Reland "Upload windows arm artifacts to production bucket."
