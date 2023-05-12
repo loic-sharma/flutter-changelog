@@ -71,6 +71,3 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Minor documentation fixes<br />
     <sub>[#126609](https://github.com/flutter/flutter/pull/126609) opened on on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126609) 9 additions and 9 deletions in 1 file</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds support for f16 surfaces to wide gamut unit tests.<br />
-    <sub>[#126712](https://github.com/flutter/flutter/pull/126712) opened on on May 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126712) 40 additions and 0 deletions in 1 file</sub><br />
-
