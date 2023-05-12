@@ -1216,7 +1216,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-24 commits.
+26 commits.
 
 * **[gmackall](https://github.com/gmackall)** &mdash; [camerax] Implement video capture for CameraX android camera re-write<br />
     <sub>[#3467](https://github.com/flutter/packages/pull/3467) merged on May 9, 2023 &mdash; **Extra large:** [124 comments](https://github.com/flutter/packages/pull/3467) over 1 month, 4487 additions and 173 deletions in 45 files</sub><br />
@@ -1250,6 +1250,10 @@
     <sub>[#3891](https://github.com/flutter/packages/pull/3891) merged on May 9, 2023 &mdash; **Small:** [30 comments](https://github.com/flutter/packages/pull/3891) over 6 days, 143 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Ensure scripts fail if a command fails<br />
+    <sub>[#3963](https://github.com/flutter/packages/pull/3963) merged on May 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3963) over 10 hours, 13 additions and 0 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Publish plugin<br />
     <sub>[#3896](https://github.com/flutter/packages/pull/3896) merged on May 9, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/3896) over 6 days, 21 additions and 28 deletions in 3 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [gmackall](https://github.com/gmackall)</sub><br />
@@ -1265,6 +1269,10 @@
 * **[gmackall](https://github.com/gmackall)** &mdash; Adding setup for TestInstanceManagerHostApi in zoom and exposure tests<br />
     <sub>[#3947](https://github.com/flutter/packages/pull/3947) merged on May 8, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3947) over 47 minutes, 88 additions and 0 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Improve iOS test DI<br />
+    <sub>[#3959](https://github.com/flutter/packages/pull/3959) merged on May 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3959) over 1 day, 131 additions and 64 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Pin the Flutter version for `release`<br />
     <sub>[#3965](https://github.com/flutter/packages/pull/3965) merged on May 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3965) over 5 hours, 10 additions and 1 deletion in 1 file</sub><br />
