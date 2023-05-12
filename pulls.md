@@ -95,9 +95,3 @@
 * **[杨加康](https://github.com/MeandNi)** &mdash; [Docs] Fix Typo<br />
     <sub>[#126660](https://github.com/flutter/flutter/pull/126660) opened on on May 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126660) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `FocusNode`, `onFocusChange`, and `autofocus` to `CupertinoSwitch`<br />
-    <sub>[#126684](https://github.com/flutter/flutter/pull/126684) opened on on May 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126684) 126 additions and 0 deletions in 2 files</sub><br />
-
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add missing `Switch.onFocusChange` test<br />
-    <sub>[#126685](https://github.com/flutter/flutter/pull/126685) opened on on May 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126685) 29 additions and 0 deletions in 1 file</sub><br />
-
