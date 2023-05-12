@@ -1216,7 +1216,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-28 commits.
+29 commits.
 
 * **[gmackall](https://github.com/gmackall)** &mdash; [camerax] Implement video capture for CameraX android camera re-write
     <sub>[#3467](https://github.com/flutter/packages/pull/3467) merged on May 9, 2023 &mdash; **Extra large:** [124 comments](https://github.com/flutter/packages/pull/3467) over 1 month, 4487 additions and 173 deletions in 45 files</sub>
@@ -1241,6 +1241,10 @@
 * **[Daniele Cambi](https://github.com/dancamdev)** &mdash; [go_router_builder] Adds name parameter to TypedGoRoute and supports its generation.
     <sub>[#3665](https://github.com/flutter/packages/pull/3665) merged on May 10, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/3665) over 1 month, 67 additions and 1 deletion in 7 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update minimum Flutter version to 3.3
+    <sub>[#3967](https://github.com/flutter/packages/pull/3967) merged on May 12, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/3967) over 9 hours, 439 additions and 207 deletions in 176 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Chris Bracken](https://github.com/cbracken), [Dan Field](https://github.com/dnfield), [Greg Spencer](https://github.com/gspencergoog), [chunhtai](https://github.com/chunhtai), and [1 other](https://github.com/flutter/packages/pull/3967)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Ignore deprecated `name`
     <sub>[#3953](https://github.com/flutter/packages/pull/3953) merged on May 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3953) over 1 hour, 12 additions and 0 deletions in 1 file</sub>
