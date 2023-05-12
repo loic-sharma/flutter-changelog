@@ -84,7 +84,7 @@
     <sub>[#126607](https://github.com/flutter/flutter/pull/126607) opened on on May 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126607) 13 additions and 4 deletions in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Minor documentation fixes<br />
-    <sub>[#126609](https://github.com/flutter/flutter/pull/126609) opened on on May 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126609) 9 additions and 9 deletions in 1 file</sub><br />
+    <sub>[#126609](https://github.com/flutter/flutter/pull/126609) opened on on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126609) 9 additions and 9 deletions in 1 file</sub><br />
 
 * **[Casey Rogers](https://github.com/caseycrogers)** &mdash; Added `expandOnFocus` to `DraggableScrollableSheet`<br />
     <sub>[#126615](https://github.com/flutter/flutter/pull/126615) opened on on May 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126615) 88 additions and 5 deletions in 2 files</sub><br />
