@@ -56,14 +56,8 @@
 * **[Dhanush Vardhan](https://github.com/dhanush17-tech)** &mdash; Added MultipleFilterChipPicker widget<br />
     <sub>[#126287](https://github.com/flutter/flutter/pull/126287) opened on on May 8, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/126287) 155 additions and 0 deletions in 2 files</sub><br />
 
-* **[NikolajHarderNota](https://github.com/NikolajHarderNota)** &mdash; modal bottom sheet barrier label<br />
-    <sub>[#126431](https://github.com/flutter/flutter/pull/126431) opened on on May 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126431) 96 additions and 1 deletion in 2 files</sub><br />
-
 * **[Casey Rogers](https://github.com/caseycrogers)** &mdash; [WIP] removed generic, started fixing popupmenu<br />
     <sub>[#126456](https://github.com/flutter/flutter/pull/126456) opened on on May 10, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/126456) 491 additions and 516 deletions in 35 files</sub><br />
-
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Let `runAsync` allow re-entrance, or allow users to know whether it is already running async tasks<br />
-    <sub>[#126547](https://github.com/flutter/flutter/pull/126547) opened on on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126547) 14 additions and 0 deletions in 1 file</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Force plugin transitive dependencies to an ARC compatible version (#1…<br />
     <sub>[#126548](https://github.com/flutter/flutter/pull/126548) opened on on May 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126548) 46 additions and 16 deletions in 2 files</sub><br />
@@ -76,12 +70,6 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Minor documentation fixes<br />
     <sub>[#126609](https://github.com/flutter/flutter/pull/126609) opened on on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126609) 9 additions and 9 deletions in 1 file</sub><br />
-
-* **[Casey Rogers](https://github.com/caseycrogers)** &mdash; Added `expandOnFocus` to `DraggableScrollableSheet`<br />
-    <sub>[#126615](https://github.com/flutter/flutter/pull/126615) opened on on May 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126615) 88 additions and 5 deletions in 2 files</sub><br />
-
-* **[Nayeem Hasan](https://github.com/nayeemtby)** &mdash; Add CrossAxisAlignment.stretchToMaxIntrinsic<br />
-    <sub>[#126630](https://github.com/flutter/flutter/pull/126630) opened on on May 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/126630) 55 additions and 5 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds support for f16 surfaces to wide gamut unit tests.<br />
     <sub>[#126712](https://github.com/flutter/flutter/pull/126712) opened on on May 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126712) 40 additions and 0 deletions in 1 file</sub><br />
