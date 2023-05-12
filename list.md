@@ -1308,7 +1308,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[gmackall](https://github.com/gmackall)** &mdash; [camerax] Add a dependency on kotlin-bom to align versions of kotlin-stdlib
-    <sub>[#3960](https://github.com/flutter/packages/pull/3960) merged on May 12, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/3960) over 1 day, 11 additions and 11 deletions in 5 files</sub>
+    <sub>[#3960](https://github.com/flutter/packages/pull/3960) merged on May 12, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/3960) over 1 day, 11 additions and 11 deletions in 5 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Ensure scripts fail if a command fails
