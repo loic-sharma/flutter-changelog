@@ -83,6 +83,3 @@
 * **[Nayeem Hasan](https://github.com/nayeemtby)** &mdash; Add CrossAxisAlignment.stretchToMaxIntrinsic<br />
     <sub>[#126630](https://github.com/flutter/flutter/pull/126630) opened on on May 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/126630) 55 additions and 5 deletions in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Replace rsync when unzipping artifacts on a Mac<br />
-    <sub>[#126703](https://github.com/flutter/flutter/pull/126703) opened on on May 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126703) 106 additions and 52 deletions in 2 files</sub><br />
-

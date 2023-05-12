@@ -1277,7 +1277,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-30 commits.
+32 commits.
 
 * **[gmackall](https://github.com/gmackall)** &mdash; [camerax] Implement video capture for CameraX android camera re-write<br />
     <sub>[#3467](https://github.com/flutter/packages/pull/3467) merged on May 9, 2023 &mdash; **Extra large:** [124 comments](https://github.com/flutter/packages/pull/3467) over 1 month, 4487 additions and 173 deletions in 45 files</sub><br />
@@ -1342,6 +1342,14 @@
 * **[gmackall](https://github.com/gmackall)** &mdash; Adding setup for TestInstanceManagerHostApi in zoom and exposure tests<br />
     <sub>[#3947](https://github.com/flutter/packages/pull/3947) merged on May 8, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3947) over 47 minutes, 88 additions and 0 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [url_launcher] Set broadcast reciever visability as required by target api 34<br />
+    <sub>[#3973](https://github.com/flutter/packages/pull/3973) merged on May 12, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3973) over 4 hours, 20 additions and 2 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update build.gradle with a comment explaining version<br />
+    <sub>[#3972](https://github.com/flutter/packages/pull/3972) merged on May 12, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/3972) over 4 hours, 3 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Target specific Android unit tests<br />
     <sub>[#3955](https://github.com/flutter/packages/pull/3955) merged on May 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3955) over 1 day, 83 additions and 10 deletions in 3 files</sub><br />
