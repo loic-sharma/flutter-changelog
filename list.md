@@ -1216,7 +1216,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-27 commits.
+28 commits.
 
 * **[gmackall](https://github.com/gmackall)** &mdash; [camerax] Implement video capture for CameraX android camera re-write
     <sub>[#3467](https://github.com/flutter/packages/pull/3467) merged on May 9, 2023 &mdash; **Extra large:** [124 comments](https://github.com/flutter/packages/pull/3467) over 1 month, 4487 additions and 173 deletions in 45 files</sub>
@@ -1273,6 +1273,10 @@
 * **[gmackall](https://github.com/gmackall)** &mdash; Adding setup for TestInstanceManagerHostApi in zoom and exposure tests
     <sub>[#3947](https://github.com/flutter/packages/pull/3947) merged on May 8, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3947) over 47 minutes, 88 additions and 0 deletions in 4 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Target specific Android unit tests
+    <sub>[#3955](https://github.com/flutter/packages/pull/3955) merged on May 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3955) over 1 day, 83 additions and 10 deletions in 3 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Improve iOS test DI
     <sub>[#3959](https://github.com/flutter/packages/pull/3959) merged on May 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3959) over 1 day, 131 additions and 64 deletions in 5 files</sub>
