@@ -4,7 +4,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-38 commits.
+39 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Move Java functions to their own file<br />
     <sub>[#126086](https://github.com/flutter/flutter/pull/126086) merged on May 11, 2023 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/126086) over 6 days, 706 additions and 567 deletions in 21 files</sub><br />
@@ -55,13 +55,13 @@
     <sub>[#126012](https://github.com/flutter/flutter/pull/126012) merged on May 9, 2023 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/126012) over 5 days, 134 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin), [godofredoc](https://github.com/godofredoc), [keyonghan](https://github.com/keyonghan)</sub><br />
 
-* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Clearer text about what happens with `--disable-telemetry` + enable-telemetry command<br />
-    <sub>[#125995](https://github.com/flutter/flutter/pull/125995) merged on May 8, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/125995) over 4 days, 110 additions and 20 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix leaks<br />
     <sub>[#126144](https://github.com/flutter/flutter/pull/126144) merged on May 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126144) over 2 days, 115 additions and 75 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+
+* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Clearer text about what happens with `--disable-telemetry` + enable-telemetry command<br />
+    <sub>[#125995](https://github.com/flutter/flutter/pull/125995) merged on May 8, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/125995) over 4 days, 110 additions and 20 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix TextSpan gc regression<br />
     <sub>[#126382](https://github.com/flutter/flutter/pull/126382) merged on May 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/126382) over 2 days, 33 additions and 21 deletions in 1 file</sub><br />
@@ -70,10 +70,6 @@
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Add `strokeAlign` to `CircularProgressIndicator` and `RefreshProgressIndicator`<br />
     <sub>[#125945](https://github.com/flutter/flutter/pull/125945) merged on May 10, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/125945) over 1 week, 101 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
-
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix focus behavior and provided thumb and focus color aren't applied to Cupertino variant of `Switch.adaptive`<br />
-    <sub>[#126688](https://github.com/flutter/flutter/pull/126688) merged on May 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126688) over 2 hours, 109 additions and 17 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `FocusNode`, `onFocusChange`, and `autofocus` to `CupertinoSwitch`<br />
     <sub>[#126684](https://github.com/flutter/flutter/pull/126684) merged on May 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126684) over 1 hour, 126 additions and 0 deletions in 2 files</sub><br />
@@ -103,29 +99,25 @@
     <sub>[#126229](https://github.com/flutter/flutter/pull/126229) merged on May 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126229) over 1 day, 7 additions and 4 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Tool] Output help on 'flutter pub'<br />
+    <sub>[#126211](https://github.com/flutter/flutter/pull/126211) merged on May 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126211) over 1 day, 31 additions and 3 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Add `--verbose` flags for flakey tests<br />
     <sub>[#126162](https://github.com/flutter/flutter/pull/126162) merged on May 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126162) over 3 days, 17 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix focus behavior and provided thumb and focus color aren't applied to Cupertino variant of `Switch.adaptive`<br />
+    <sub>[#126688](https://github.com/flutter/flutter/pull/126688) merged on May 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126688) over 2 hours, 109 additions and 17 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll Flutter Engine from ef5c349f04d8 to c784d6d4137d<br />
     <sub>[#126680](https://github.com/flutter/flutter/pull/126680) merged on May 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126680) over 2 hours, 3 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Tool] Output help on 'flutter pub'<br />
-    <sub>[#126211](https://github.com/flutter/flutter/pull/126211) merged on May 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126211) over 1 day, 31 additions and 3 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
 * **[Severin](https://github.com/Bungeefan)** &mdash; Fix platformLocation path and search dropping<br />
     <sub>[#126232](https://github.com/flutter/flutter/pull/126232) merged on May 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126232) over 1 day, 20 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
-
-* **[杨加康](https://github.com/MeandNi)** &mdash; [Docs] Fix Typo<br />
-    <sub>[#126660](https://github.com/flutter/flutter/pull/126660) merged on May 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126660) over 6 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
-
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Add dimensions to release builds.<br />
-    <sub>[#126117](https://github.com/flutter/flutter/pull/126117) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126117) over 6 days, 12 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Drew Roen](https://github.com/drewroengoogle), [Jesse Seales](https://github.com/sealesj)</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Add `cpu: x86` dimension and xcode dependency for Mac_build_test targets<br />
     <sub>[#126482](https://github.com/flutter/flutter/pull/126482) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126482) over 16 hours, 3 additions and 0 deletions in 1 file</sub><br />
@@ -150,6 +142,18 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Always use `--concurrency=1` for web tests.<br />
     <sub>[#126179](https://github.com/flutter/flutter/pull/126179) merged on May 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126179) over 2 days, 28 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Add namespace to Android plugin templates<br />
+    <sub>[#126354](https://github.com/flutter/flutter/pull/126354) merged on May 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126354) over 3 days, 83 additions and 0 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[杨加康](https://github.com/MeandNi)** &mdash; [Docs] Fix Typo<br />
+    <sub>[#126660](https://github.com/flutter/flutter/pull/126660) merged on May 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126660) over 6 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Add dimensions to release builds.<br />
+    <sub>[#126117](https://github.com/flutter/flutter/pull/126117) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126117) over 6 days, 12 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Drew Roen](https://github.com/drewroengoogle), [Jesse Seales](https://github.com/sealesj)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Revert "[tool] Move Java functions to their own file"<br />
     <sub>[#126569](https://github.com/flutter/flutter/pull/126569) merged on May 11, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/126569) over 1 minute, 567 additions and 706 deletions in 21 files</sub><br />
@@ -1285,7 +1289,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-32 commits.
+33 commits.
 
 * **[gmackall](https://github.com/gmackall)** &mdash; [camerax] Implement video capture for CameraX android camera re-write<br />
     <sub>[#3467](https://github.com/flutter/packages/pull/3467) merged on May 9, 2023 &mdash; **Extra large:** [124 comments](https://github.com/flutter/packages/pull/3467) over 1 month, 4487 additions and 173 deletions in 45 files</sub><br />
@@ -1350,6 +1354,10 @@
 * **[gmackall](https://github.com/gmackall)** &mdash; Adding setup for TestInstanceManagerHostApi in zoom and exposure tests<br />
     <sub>[#3947](https://github.com/flutter/packages/pull/3947) merged on May 8, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/3947) over 47 minutes, 88 additions and 0 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add LUCI repo tool tests<br />
+    <sub>[#3964](https://github.com/flutter/packages/pull/3964) merged on May 12, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3964) over 1 day, 20 additions and 9 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [url_launcher] Set broadcast reciever visability as required by target api 34<br />
     <sub>[#3973](https://github.com/flutter/packages/pull/3973) merged on May 12, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3973) over 4 hours, 20 additions and 2 deletions in 4 files</sub><br />
