@@ -89,3 +89,6 @@
 * **[Casey Rogers](https://github.com/caseycrogers)** &mdash; Added `expandOnFocus` to `DraggableScrollableSheet`<br />
     <sub>[#126615](https://github.com/flutter/flutter/pull/126615) opened on on May 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126615) 88 additions and 5 deletions in 2 files</sub><br />
 
+* **[杨加康](https://github.com/MeandNi)** &mdash; [Docs] Fix Typo<br />
+    <sub>[#126660](https://github.com/flutter/flutter/pull/126660) opened on on May 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126660) 1 addition and 1 deletion in 1 file</sub><br />
+
