@@ -1216,7 +1216,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-26 commits.
+27 commits.
 
 * **[gmackall](https://github.com/gmackall)** &mdash; [camerax] Implement video capture for CameraX android camera re-write<br />
     <sub>[#3467](https://github.com/flutter/packages/pull/3467) merged on May 9, 2023 &mdash; **Extra large:** [124 comments](https://github.com/flutter/packages/pull/3467) over 1 month, 4487 additions and 173 deletions in 45 files</sub><br />
@@ -1249,6 +1249,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Update README with plugin overview<br />
     <sub>[#3891](https://github.com/flutter/packages/pull/3891) merged on May 9, 2023 &mdash; **Small:** [30 comments](https://github.com/flutter/packages/pull/3891) over 6 days, 143 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[gmackall](https://github.com/gmackall)** &mdash; [camerax] Add a dependency on kotlin-bom to align versions of kotlin-stdlib<br />
+    <sub>[#3960](https://github.com/flutter/packages/pull/3960) merged on May 12, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/3960) over 1 day, 11 additions and 11 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Ensure scripts fail if a command fails<br />
     <sub>[#3963](https://github.com/flutter/packages/pull/3963) merged on May 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3963) over 10 hours, 13 additions and 0 deletions in 11 files</sub><br />
