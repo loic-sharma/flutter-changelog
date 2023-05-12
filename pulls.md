@@ -95,6 +95,3 @@
 * **[杨加康](https://github.com/MeandNi)** &mdash; [Docs] Fix Typo<br />
     <sub>[#126660](https://github.com/flutter/flutter/pull/126660) opened on on May 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126660) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix ContinousRectangleBorder with a non zero width is too large<br />
-    <sub>[#126666](https://github.com/flutter/flutter/pull/126666) opened on on May 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126666) 50 additions and 4 deletions in 2 files</sub><br />
-
