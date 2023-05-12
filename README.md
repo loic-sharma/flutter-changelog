@@ -4,7 +4,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-31 commits.
+32 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Move Java functions to their own file<br />
     <sub>[#126086](https://github.com/flutter/flutter/pull/126086) merged on May 11, 2023 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/126086) over 6 days, 706 additions and 567 deletions in 21 files</sub><br />
@@ -29,6 +29,10 @@
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Migrate gallery ios tests to build+test<br />
     <sub>[#111164](https://github.com/flutter/flutter/pull/111164) merged on May 10, 2023 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/111164) over 8 months, 59 additions and 17 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Increase test timeout for analyzer_benchmark to 60 minutes<br />
+    <sub>[#126586](https://github.com/flutter/flutter/pull/126586) merged on May 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126586) over 20 hours, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make dpr available during Scrollable disposal<br />
     <sub>[#126535](https://github.com/flutter/flutter/pull/126535) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126535) over 2 hours, 49 additions and 4 deletions in 4 files</sub><br />
