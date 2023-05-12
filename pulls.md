@@ -53,14 +53,8 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; rename AssetManifest.bin<br />
     <sub>[#126077](https://github.com/flutter/flutter/pull/126077) opened on on May 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126077) 32 additions and 32 deletions in 9 files</sub><br />
 
-* **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Fixing richMessage gesture recognizer in tooltip widget<br />
-    <sub>[#126207](https://github.com/flutter/flutter/pull/126207) opened on on May 6, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/126207) 48 additions and 20 deletions in 2 files</sub><br />
-
 * **[Dhanush Vardhan](https://github.com/dhanush17-tech)** &mdash; Added MultipleFilterChipPicker widget<br />
     <sub>[#126287](https://github.com/flutter/flutter/pull/126287) opened on on May 8, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/126287) 155 additions and 0 deletions in 2 files</sub><br />
-
-* **[Christian Findlay](https://github.com/MelbourneDeveloper)** &mdash; #126241 Add ChipSet<br />
-    <sub>[#126308](https://github.com/flutter/flutter/pull/126308) opened on on May 9, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/126308) 267 additions and 0 deletions in 2 files</sub><br />
 
 * **[NikolajHarderNota](https://github.com/NikolajHarderNota)** &mdash; modal bottom sheet barrier label<br />
     <sub>[#126431](https://github.com/flutter/flutter/pull/126431) opened on on May 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126431) 96 additions and 1 deletion in 2 files</sub><br />
@@ -91,7 +85,4 @@
 
 * **[Nayeem Hasan](https://github.com/nayeemtby)** &mdash; Add CrossAxisAlignment.stretchToMaxIntrinsic<br />
     <sub>[#126630](https://github.com/flutter/flutter/pull/126630) opened on on May 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/126630) 55 additions and 5 deletions in 1 file</sub><br />
-
-* **[杨加康](https://github.com/MeandNi)** &mdash; [Docs] Fix Typo<br />
-    <sub>[#126660](https://github.com/flutter/flutter/pull/126660) opened on on May 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126660) 1 addition and 1 deletion in 1 file</sub><br />
 
