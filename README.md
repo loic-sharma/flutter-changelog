@@ -1216,7 +1216,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-29 commits.
+30 commits.
 
 * **[gmackall](https://github.com/gmackall)** &mdash; [camerax] Implement video capture for CameraX android camera re-write<br />
     <sub>[#3467](https://github.com/flutter/packages/pull/3467) merged on May 9, 2023 &mdash; **Extra large:** [124 comments](https://github.com/flutter/packages/pull/3467) over 1 month, 4487 additions and 173 deletions in 45 files</sub><br />
@@ -1241,6 +1241,10 @@
 * **[Daniele Cambi](https://github.com/dancamdev)** &mdash; [go_router_builder] Adds name parameter to TypedGoRoute and supports its generation.<br />
     <sub>[#3665](https://github.com/flutter/packages/pull/3665) merged on May 10, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/3665) over 1 month, 67 additions and 1 deletion in 7 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Fix Android lints<br />
+    <sub>[#3887](https://github.com/flutter/packages/pull/3887) merged on May 12, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/3887) over 1 week, 79 additions and 486 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [gmackall](https://github.com/gmackall)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update minimum Flutter version to 3.3<br />
     <sub>[#3967](https://github.com/flutter/packages/pull/3967) merged on May 12, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/3967) over 9 hours, 439 additions and 207 deletions in 176 files</sub><br />
