@@ -83,3 +83,6 @@
 * **[Nayeem Hasan](https://github.com/nayeemtby)** &mdash; Add CrossAxisAlignment.stretchToMaxIntrinsic<br />
     <sub>[#126630](https://github.com/flutter/flutter/pull/126630) opened on on May 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/126630) 55 additions and 5 deletions in 1 file</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds support for f16 surfaces to wide gamut unit tests.<br />
+    <sub>[#126712](https://github.com/flutter/flutter/pull/126712) opened on on May 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126712) 40 additions and 0 deletions in 1 file</sub><br />
+
