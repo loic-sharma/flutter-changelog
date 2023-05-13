@@ -4,7 +4,7 @@
 
 ### May 6, 2023 to May 12, 2023
 
-39 commits.
+40 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Move Java functions to their own file
     <sub>[#126086](https://github.com/flutter/flutter/pull/126086) merged on May 11, 2023 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/126086) over 6 days, 706 additions and 567 deletions in 21 files</sub>
@@ -67,9 +67,17 @@
     <sub>[#126382](https://github.com/flutter/flutter/pull/126382) merged on May 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/126382) over 2 days, 33 additions and 21 deletions in 1 file</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
+* **[nt4f04uNd](https://github.com/nt4f04uNd)** &mdash; Fix crash from invalid ListWheelViewport assertion
+    <sub>[#126539](https://github.com/flutter/flutter/pull/126539) merged on May 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126539) over 1 day, 136 additions and 33 deletions in 3 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Add `strokeAlign` to `CircularProgressIndicator` and `RefreshProgressIndicator`
     <sub>[#125945](https://github.com/flutter/flutter/pull/125945) merged on May 10, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/125945) over 1 week, 101 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll Flutter Engine from ef5c349f04d8 to c784d6d4137d
+    <sub>[#126680](https://github.com/flutter/flutter/pull/126680) merged on May 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126680) over 2 hours, 3 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `FocusNode`, `onFocusChange`, and `autofocus` to `CupertinoSwitch`
     <sub>[#126684](https://github.com/flutter/flutter/pull/126684) merged on May 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126684) over 1 hour, 126 additions and 0 deletions in 2 files</sub>
@@ -95,29 +103,29 @@
     <sub>[#126194](https://github.com/flutter/flutter/pull/126194) merged on May 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126194) over 3 days, 2 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
-* **[Alex Li](https://github.com/AlexV525)** &mdash; Improve the format in `asset_bundle.dart`
-    <sub>[#126229](https://github.com/flutter/flutter/pull/126229) merged on May 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126229) over 1 day, 7 additions and 4 deletions in 1 file</sub>
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Tool] Output help on 'flutter pub'
     <sub>[#126211](https://github.com/flutter/flutter/pull/126211) merged on May 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126211) over 1 day, 31 additions and 3 deletions in 4 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Add `--verbose` flags for flakey tests
-    <sub>[#126162](https://github.com/flutter/flutter/pull/126162) merged on May 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126162) over 3 days, 17 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+* **[Alex Li](https://github.com/AlexV525)** &mdash; Improve the format in `asset_bundle.dart`
+    <sub>[#126229](https://github.com/flutter/flutter/pull/126229) merged on May 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126229) over 1 day, 7 additions and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix focus behavior and provided thumb and focus color aren't applied to Cupertino variant of `Switch.adaptive`
     <sub>[#126688](https://github.com/flutter/flutter/pull/126688) merged on May 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126688) over 2 hours, 109 additions and 17 deletions in 2 files</sub>
     <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll Flutter Engine from ef5c349f04d8 to c784d6d4137d
-    <sub>[#126680](https://github.com/flutter/flutter/pull/126680) merged on May 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126680) over 2 hours, 3 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Add `--verbose` flags for flakey tests
+    <sub>[#126162](https://github.com/flutter/flutter/pull/126162) merged on May 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126162) over 3 days, 17 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Severin](https://github.com/Bungeefan)** &mdash; Fix platformLocation path and search dropping
     <sub>[#126232](https://github.com/flutter/flutter/pull/126232) merged on May 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126232) over 1 day, 20 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Add dimensions to release builds.
+    <sub>[#126117](https://github.com/flutter/flutter/pull/126117) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126117) over 6 days, 12 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Drew Roen](https://github.com/drewroengoogle), [Jesse Seales](https://github.com/sealesj)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Add `cpu: x86` dimension and xcode dependency for Mac_build_test targets
     <sub>[#126482](https://github.com/flutter/flutter/pull/126482) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126482) over 16 hours, 3 additions and 0 deletions in 1 file</sub>
@@ -150,10 +158,6 @@
 * **[杨加康](https://github.com/MeandNi)** &mdash; [Docs] Fix Typo
     <sub>[#126660](https://github.com/flutter/flutter/pull/126660) merged on May 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126660) over 6 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
-
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Add dimensions to release builds.
-    <sub>[#126117](https://github.com/flutter/flutter/pull/126117) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126117) over 6 days, 12 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Drew Roen](https://github.com/drewroengoogle), [Jesse Seales](https://github.com/sealesj)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Revert "[tool] Move Java functions to their own file"
     <sub>[#126569](https://github.com/flutter/flutter/pull/126569) merged on May 11, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/126569) over 1 minute, 567 additions and 706 deletions in 21 files</sub>
