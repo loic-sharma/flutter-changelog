@@ -63,13 +63,13 @@
     <sub>[#125995](https://github.com/flutter/flutter/pull/125995) merged on May 8, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/125995) over 4 days, 110 additions and 20 deletions in 3 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix TextSpan gc regression
-    <sub>[#126382](https://github.com/flutter/flutter/pull/126382) merged on May 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/126382) over 2 days, 33 additions and 21 deletions in 1 file</sub>
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
 * **[nt4f04uNd](https://github.com/nt4f04uNd)** &mdash; Fix crash from invalid ListWheelViewport assertion
     <sub>[#126539](https://github.com/flutter/flutter/pull/126539) merged on May 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126539) over 1 day, 136 additions and 33 deletions in 3 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix TextSpan gc regression
+    <sub>[#126382](https://github.com/flutter/flutter/pull/126382) merged on May 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/126382) over 2 days, 33 additions and 21 deletions in 1 file</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Add `strokeAlign` to `CircularProgressIndicator` and `RefreshProgressIndicator`
     <sub>[#125945](https://github.com/flutter/flutter/pull/125945) merged on May 10, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/125945) over 1 week, 101 additions and 2 deletions in 2 files</sub>
