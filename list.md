@@ -1377,7 +1377,7 @@
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [url_launcher] Set broadcast reciever visability as required by target api 34
-    <sub>[#3973](https://github.com/flutter/packages/pull/3973) merged on May 12, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3973) over 4 hours, 20 additions and 2 deletions in 4 files</sub>
+    <sub>[#3973](https://github.com/flutter/packages/pull/3973) merged on May 12, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/3973) over 4 hours, 20 additions and 2 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update build.gradle with a comment explaining version
