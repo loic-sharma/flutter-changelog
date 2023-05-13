@@ -71,3 +71,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Minor documentation fixes<br />
     <sub>[#126609](https://github.com/flutter/flutter/pull/126609) opened on on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126609) 9 additions and 9 deletions in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] add drawPoints benchmark<br />
+    <sub>[#126728](https://github.com/flutter/flutter/pull/126728) opened on on May 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126728) 158 additions and 0 deletions in 8 files</sub><br />
+
