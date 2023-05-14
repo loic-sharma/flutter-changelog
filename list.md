@@ -848,7 +848,7 @@
     <sub>Reviewed by: [David Worsham](https://github.com/arbreng)</sub>
 
 * **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Remove GN staging flag for save layer bounds
-    <sub>[#41940](https://github.com/flutter/engine/pull/41940) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41940) over 6 hours, 0 additions and 2 deletions in 1 file</sub>
+    <sub>[#41940](https://github.com/flutter/engine/pull/41940) merged on May 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41940) over 6 hours, 0 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Jim Graham](https://github.com/flar)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update README.md
