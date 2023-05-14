@@ -64,7 +64,7 @@
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[nt4f04uNd](https://github.com/nt4f04uNd)** &mdash; Fix crash from invalid ListWheelViewport assertion
-    <sub>[#126539](https://github.com/flutter/flutter/pull/126539) merged on May 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126539) over 1 day, 136 additions and 33 deletions in 3 files</sub>
+    <sub>[#126539](https://github.com/flutter/flutter/pull/126539) merged on May 13, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/126539) over 1 day, 136 additions and 33 deletions in 3 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix TextSpan gc regression
