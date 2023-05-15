@@ -491,7 +491,7 @@
     <sub><details><summary>1 image...</summary>![Screenshot 2023-05-14 at 7 14 43 PM](https://github.com/flutter/engine/assets/919017/9781ddbe-1e5c-4ee5-85e8-48e8ae538f71)</details></sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Upload xcresults to LUCI cloud storage<br />
-    <sub>[#41647](https://github.com/flutter/engine/pull/41647) merged on May 15, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/41647) over 1 week, 76 additions and 20 deletions in 2 files</sub><br />
+    <sub>[#41647](https://github.com/flutter/engine/pull/41647) merged on May 15, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/41647) over 1 week, 76 additions and 20 deletions in 2 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Include SkRect in rtree.<br />
