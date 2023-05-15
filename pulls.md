@@ -81,5 +81,5 @@
     <sub>[#126778](https://github.com/flutter/flutter/pull/126778) opened on on May 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126778) 181 additions and 97 deletions in 1 file</sub><br />
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Revert "Revert "Provide default constraints for M3 dialogs" (#126355) (#126368)"<br />
-    <sub>[#126810](https://github.com/flutter/flutter/pull/126810) opened on on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126810) 63 additions and 31 deletions in 3 files</sub><br />
+    <sub>[#126810](https://github.com/flutter/flutter/pull/126810) opened on on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126810) 0 additions and 0 deletions in 0 files</sub><br />
 
