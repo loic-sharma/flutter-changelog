@@ -77,3 +77,6 @@
 * **[Rexios](https://github.com/Rexios80)** &mdash; Add support for separators in text copied from `SelectableRegion`<br />
     <sub>[#126835](https://github.com/flutter/flutter/pull/126835) opened on on May 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126835) 111 additions and 7 deletions in 3 files</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove obsolete iOS benchmark<br />
+    <sub>[#126862](https://github.com/flutter/flutter/pull/126862) opened on on May 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126862) 0 additions and 9 deletions in 1 file</sub><br />
+
