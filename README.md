@@ -451,7 +451,7 @@
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Ignore the Z basis when scaling text<br />
-    <sub>[#41995](https://github.com/flutter/engine/pull/41995) merged on May 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41995) over 43 minutes, 26 additions and 1 deletion in 4 files</sub><br />
+    <sub>[#41995](https://github.com/flutter/engine/pull/41995) merged on May 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41995) over 43 minutes, 26 additions and 1 deletion in 4 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
     <sub><details><summary>2 images...</summary>![Screenshot 2023-05-12 at 2 33 02 PM](https://github.com/flutter/engine/assets/919017/b39a6569-a550-4d5f-9c80-eb92765fcfc9)![Screenshot 2023-05-12 at 2 28 51 PM](https://github.com/flutter/engine/assets/919017/17780797-d91a-49cf-a871-102bc1bf9d58)</details></sub>
 
