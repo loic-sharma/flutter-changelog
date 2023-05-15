@@ -77,3 +77,6 @@
 * **[Rexios](https://github.com/Rexios80)** &mdash; Add support for separators in text copied from `SelectableRegion`<br />
     <sub>[#126835](https://github.com/flutter/flutter/pull/126835) opened on on May 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126835) 111 additions and 7 deletions in 3 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] delete entitlements files after copying to macos build dir<br />
+    <sub>[#126875](https://github.com/flutter/flutter/pull/126875) opened on on May 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126875) 60 additions and 0 deletions in 2 files</sub><br />
+
