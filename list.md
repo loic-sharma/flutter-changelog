@@ -4,7 +4,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-7 commits.
+8 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Remove duplicate plugin tests
     <sub>[#126582](https://github.com/flutter/flutter/pull/126582) merged on May 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126582) over 3 days, 0 additions and 7 deletions in 1 file</sub>
@@ -17,6 +17,10 @@
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Add spaces after flow control statements
     <sub>[#126320](https://github.com/flutter/flutter/pull/126320) merged on May 15, 2023 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/126320) over 6 days, 264 additions and 174 deletions in 116 files</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove obsolete iOS benchmark
+    <sub>[#126862](https://github.com/flutter/flutter/pull/126862) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126862) over 1 hour, 0 additions and 21 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds support for f16 surfaces to wide gamut unit tests.
     <sub>[#126712](https://github.com/flutter/flutter/pull/126712) merged on May 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/126712) over 2 days, 40 additions and 0 deletions in 1 file</sub>
@@ -462,7 +466,11 @@
 
 ### May 13, 2023 to May 19, 2023
 
-6 commits.
+7 commits.
+
+* **[Chris Yang](https://github.com/cyanglaz)** &mdash; Upload xcresults to LUCI cloud storage
+    <sub>[#41647](https://github.com/flutter/engine/pull/41647) merged on May 15, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/41647) over 1 week, 76 additions and 20 deletions in 2 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Include SkRect in rtree.
     <sub>[#42050](https://github.com/flutter/engine/pull/42050) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42050) over 45 minutes, 1 addition and 0 deletions in 1 file</sub>
