@@ -4,7 +4,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-8 commits.
+10 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Remove duplicate plugin tests<br />
     <sub>[#126582](https://github.com/flutter/flutter/pull/126582) merged on May 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126582) over 3 days, 0 additions and 7 deletions in 1 file</sub><br />
@@ -17,6 +17,14 @@
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Add spaces after flow control statements<br />
     <sub>[#126320](https://github.com/flutter/flutter/pull/126320) merged on May 15, 2023 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/126320) over 6 days, 264 additions and 174 deletions in 116 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add more to error message of RestorationScope.of<br />
+    <sub>[#126444](https://github.com/flutter/flutter/pull/126444) merged on May 15, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/126444) over 5 days, 66 additions and 9 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] add drawPoints benchmark<br />
+    <sub>[#126728](https://github.com/flutter/flutter/pull/126728) merged on May 15, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126728) over 2 days, 158 additions and 0 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove obsolete iOS benchmark<br />
     <sub>[#126862](https://github.com/flutter/flutter/pull/126862) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126862) over 1 hour, 0 additions and 21 deletions in 2 files</sub><br />
@@ -466,7 +474,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-7 commits.
+8 commits.
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Upload xcresults to LUCI cloud storage<br />
     <sub>[#41647](https://github.com/flutter/engine/pull/41647) merged on May 15, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/41647) over 1 week, 76 additions and 20 deletions in 2 files</sub><br />
@@ -475,6 +483,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Include SkRect in rtree.<br />
     <sub>[#42050](https://github.com/flutter/engine/pull/42050) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42050) over 45 minutes, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Limit subpass textures and backdrop blurs to the current clip<br />
+    <sub>[#42039](https://github.com/flutter/engine/pull/42039) merged on May 15, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/42039) over 5 hours, 306 additions and 160 deletions in 37 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] switches the wide gamut surface to f16<br />
     <sub>[#41994](https://github.com/flutter/engine/pull/41994) merged on May 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41994) over 2 days, 9 additions and 1 deletion in 2 files</sub><br />
