@@ -474,7 +474,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-9 commits.
+11 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add interactive DrawPaint blend test
     <sub>[#42031](https://github.com/flutter/engine/pull/42031) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42031) over 17 hours, 61 additions and 17 deletions in 2 files</sub>
@@ -493,9 +493,17 @@
     <sub>[#42039](https://github.com/flutter/engine/pull/42039) merged on May 15, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/42039) over 5 hours, 306 additions and 160 deletions in 37 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Use release_build and os dimension consistently.
+    <sub>[#42012](https://github.com/flutter/engine/pull/42012) merged on May 15, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/42012) over 2 days, 27 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Jesse Seales](https://github.com/sealesj)</sub>
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] switches the wide gamut surface to f16
     <sub>[#41994](https://github.com/flutter/engine/pull/41994) merged on May 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41994) over 2 days, 9 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Compile skwasm at -Oz.
+    <sub>[#42002](https://github.com/flutter/engine/pull/42002) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42002) over 2 days, 2 additions and 6 deletions in 3 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Migrate uses of SkSurface factories
     <sub>[#41978](https://github.com/flutter/engine/pull/41978) merged on May 15, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/41978) over 3 days, 171 additions and 144 deletions in 44 files</sub>
