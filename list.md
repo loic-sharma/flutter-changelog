@@ -474,10 +474,15 @@
 
 ### May 13, 2023 to May 19, 2023
 
-8 commits.
+9 commits.
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add interactive DrawPaint blend test
+    <sub>[#42031](https://github.com/flutter/engine/pull/42031) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42031) over 17 hours, 61 additions and 17 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub><details><summary>1 image...</summary>![Screenshot 2023-05-14 at 7 14 43 PM](https://github.com/flutter/engine/assets/919017/9781ddbe-1e5c-4ee5-85e8-48e8ae538f71)</details></sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Upload xcresults to LUCI cloud storage
-    <sub>[#41647](https://github.com/flutter/engine/pull/41647) merged on May 15, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/41647) over 1 week, 76 additions and 20 deletions in 2 files</sub>
+    <sub>[#41647](https://github.com/flutter/engine/pull/41647) merged on May 15, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/41647) over 1 week, 76 additions and 20 deletions in 2 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Include SkRect in rtree.
