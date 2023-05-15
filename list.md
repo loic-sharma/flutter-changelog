@@ -939,7 +939,11 @@
 
 ### May 13, 2023 to May 19, 2023
 
-1 commits.
+2 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Enforce a minimum Kotlin version in examples
+    <sub>[#3979](https://github.com/flutter/packages/pull/3979) merged on May 15, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3979) over 1 day, 141 additions and 10 deletions in 11 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal), [Brett Morgan](https://github.com/domesticmouse)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Disable Windows repo tool tests
     <sub>[#3980](https://github.com/flutter/packages/pull/3980) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3980) over 1 day, 1 addition and 0 deletions in 1 file</sub>
