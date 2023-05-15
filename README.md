@@ -4,7 +4,12 @@
 
 ### May 13, 2023 to May 19, 2023
 
-10 commits.
+11 commits.
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add ScrollController.onAttach & onDetach, samples/docs on listening/getting scrolling info<br />
+    <sub>[#124823](https://github.com/flutter/flutter/pull/124823) merged on May 15, 2023 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/124823) over 1 month, 547 additions and 7 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Tae Hyung Kim](https://github.com/thkim1011)</sub><br />
+    <sub><details><summary>1 image...</summary>![Screenshot 2023-04-13 at 3 24 28 PM](https://user-images.githubusercontent.com/16964204/231897497-f5bee17d-43ed-46e5-acd7-e1bd64768274.png)</details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Remove duplicate plugin tests<br />
     <sub>[#126582](https://github.com/flutter/flutter/pull/126582) merged on May 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126582) over 3 days, 0 additions and 7 deletions in 1 file</sub><br />
@@ -1008,7 +1013,11 @@
 
 ### May 13, 2023 to May 19, 2023
 
-3 commits.
+4 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update min macOS versions<br />
+    <sub>[#3987](https://github.com/flutter/packages/pull/3987) merged on May 15, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/3987) over 20 hours, 351 additions and 149 deletions in 60 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Chris Bracken](https://github.com/cbracken), [Kate Lovett](https://github.com/Piinks), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Remove unnecessary Linux libraries<br />
     <sub>[#3975](https://github.com/flutter/packages/pull/3975) merged on May 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3975) over 2 days, 1 addition and 7 deletions in 4 files</sub><br />
