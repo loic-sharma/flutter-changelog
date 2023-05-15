@@ -937,9 +937,18 @@
 
 ## flutter/packages
 
+### May 13, 2023 to May 19, 2023
+
+1 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Disable Windows repo tool tests<br />
+    <sub>[#3980](https://github.com/flutter/packages/pull/3980) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3980) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
 ### May 6, 2023 to May 12, 2023
 
-33 commits.
+<details>
+<summary>33 commits...</summary>
 
 * **[gmackall](https://github.com/gmackall)** &mdash; [camerax] Implement video capture for CameraX android camera re-write<br />
     <sub>[#3467](https://github.com/flutter/packages/pull/3467) merged on May 9, 2023 &mdash; **Extra large:** [124 comments](https://github.com/flutter/packages/pull/3467) over 1 month, 4487 additions and 173 deletions in 45 files</sub><br />
@@ -1072,6 +1081,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from f72efea43c30 to 84a1e904f44f (1920 revisions)<br />
     <sub>[#3961](https://github.com/flutter/packages/pull/3961) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3961) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### April 29, 2023 to May 5, 2023
 
