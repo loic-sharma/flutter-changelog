@@ -487,7 +487,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-12 commits.
+14 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add interactive DrawPaint blend test
     <sub>[#42031](https://github.com/flutter/engine/pull/42031) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42031) over 17 hours, 61 additions and 17 deletions in 2 files</sub>
@@ -506,12 +506,20 @@
     <sub>[#42039](https://github.com/flutter/engine/pull/42039) merged on May 15, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/42039) over 5 hours, 306 additions and 160 deletions in 37 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[Chris Yang](https://github.com/cyanglaz)** &mdash; Fix upload xcresult script in run_tests.py
+    <sub>[#42056](https://github.com/flutter/engine/pull/42056) merged on May 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42056) over 2 hours, 17 additions and 15 deletions in 1 file</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Use release_build and os dimension consistently.
     <sub>[#42012](https://github.com/flutter/engine/pull/42012) merged on May 15, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/42012) over 2 days, 27 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Jesse Seales](https://github.com/sealesj)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] switches the wide gamut surface to f16
     <sub>[#41994](https://github.com/flutter/engine/pull/41994) merged on May 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41994) over 2 days, 9 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] set stencil attachment descriptor for runtime effect.
+    <sub>[#42054](https://github.com/flutter/engine/pull/42054) merged on May 15, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42054) over 3 hours, 59 additions and 1 deletion in 5 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove debug print statement from EntityPass
