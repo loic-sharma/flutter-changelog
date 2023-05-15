@@ -4,11 +4,15 @@
 
 ### May 13, 2023 to May 19, 2023
 
-6 commits.
+7 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Remove duplicate plugin tests
     <sub>[#126582](https://github.com/flutter/flutter/pull/126582) merged on May 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126582) over 3 days, 0 additions and 7 deletions in 1 file</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Mark no longer flakey tests as bringup:false 
+    <sub>[#126281](https://github.com/flutter/flutter/pull/126281) merged on May 15, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/126281) over 1 week, 1 addition and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Add spaces after flow control statements
     <sub>[#126320](https://github.com/flutter/flutter/pull/126320) merged on May 15, 2023 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/126320) over 6 days, 264 additions and 174 deletions in 116 files</sub>
@@ -335,7 +339,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Report total_ui_gc_time to SkiaPerf
     <sub>[#125919](https://github.com/flutter/flutter/pull/125919) merged on May 3, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125919) over 6 hours, 7 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jim Graham](https://github.com/flar)</sub>
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Update xcode to 14e222b
     <sub>[#125716](https://github.com/flutter/flutter/pull/125716) merged on May 2, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125716) over 3 days, 50 additions and 44 deletions in 2 files</sub>
@@ -355,7 +359,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] delete physical model layer.
     <sub>[#125719](https://github.com/flutter/flutter/pull/125719) merged on May 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125719) over 3 days, 0 additions and 221 deletions in 3 files</sub>
-    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add debugPrintKeyboardEvents flag
     <sub>[#125629](https://github.com/flutter/flutter/pull/125629) merged on May 2, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/125629) over 5 days, 79 additions and 3 deletions in 3 files</sub>
@@ -967,7 +971,11 @@
 
 ### May 13, 2023 to May 19, 2023
 
-2 commits.
+3 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Remove unnecessary Linux libraries
+    <sub>[#3975](https://github.com/flutter/packages/pull/3975) merged on May 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3975) over 2 days, 1 addition and 7 deletions in 4 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [David Iglesias](https://github.com/ditman), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Enforce a minimum Kotlin version in examples
     <sub>[#3979](https://github.com/flutter/packages/pull/3979) merged on May 15, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3979) over 1 day, 141 additions and 10 deletions in 11 files</sub>
