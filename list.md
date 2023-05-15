@@ -425,9 +425,18 @@
 
 ## flutter/engine
 
+### May 13, 2023 to May 19, 2023
+
+1 commits.
+
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Reland "Remove GN staging flag for save layer bounds"
+    <sub>[#42029](https://github.com/flutter/engine/pull/42029) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42029) over 3 hours, 0 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
+
 ### May 6, 2023 to May 12, 2023
 
-61 commits.
+<details>
+<summary>61 commits...</summary>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use separate atlases and shaders for color and alpha
     <sub>[#41780](https://github.com/flutter/engine/pull/41780) merged on May 10, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/engine/pull/41780) over 4 days, 224 additions and 515 deletions in 16 files</sub>
@@ -674,6 +683,8 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Revert "Move linux_license to engine v2."
     <sub>[#41903](https://github.com/flutter/engine/pull/41903) merged on May 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41903) over 44 seconds, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### April 29, 2023 to May 5, 2023
 
