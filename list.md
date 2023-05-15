@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### May 13, 2023 to May 19, 2023
+
+1 commits.
+
+* **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Add spaces after flow control statements
+    <sub>[#126320](https://github.com/flutter/flutter/pull/126320) merged on May 15, 2023 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/126320) over 6 days, 264 additions and 174 deletions in 116 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
+
 ### May 6, 2023 to May 12, 2023
 
-40 commits.
+<details>
+<summary>40 commits...</summary>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Move Java functions to their own file
     <sub>[#126086](https://github.com/flutter/flutter/pull/126086) merged on May 11, 2023 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/126086) over 6 days, 706 additions and 567 deletions in 21 files</sub>
@@ -166,6 +175,8 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Revert "Provide default constraints for M3 dialogs"
     <sub>[#126355](https://github.com/flutter/flutter/pull/126355) merged on May 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126355) over 59 minutes, 31 additions and 63 deletions in 3 files</sub>
     <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub>
+
+</details>
 
 ### April 29, 2023 to May 5, 2023
 
