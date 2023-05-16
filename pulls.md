@@ -74,3 +74,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Give channel descriptions in `flutter channel`, use branch instead of upstream for channel name<br />
     <sub>[#126936](https://github.com/flutter/flutter/pull/126936) opened on on May 16, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/126936) 177 additions and 140 deletions in 13 files</sub><br />
 
+* **[keyonghan](https://github.com/keyonghan)** &mdash; Add osx_sdk property to Mac platforms/targets<br />
+    <sub>[#126956](https://github.com/flutter/flutter/pull/126956) opened on on May 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126956) 68 additions and 7 deletions in 1 file</sub><br />
+

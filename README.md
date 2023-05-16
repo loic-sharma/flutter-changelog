@@ -4,7 +4,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-23 commits.
+24 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add ScrollController.onAttach & onDetach, samples/docs on listening/getting scrolling info<br />
     <sub>[#124823](https://github.com/flutter/flutter/pull/124823) merged on May 15, 2023 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/124823) over 1 month, 547 additions and 7 deletions in 9 files</sub><br />
@@ -78,6 +78,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds support for f16 surfaces to wide gamut unit tests.<br />
     <sub>[#126712](https://github.com/flutter/flutter/pull/126712) merged on May 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/126712) over 2 days, 40 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Mushaheed Syed](https://github.com/predatorx7)** &mdash; Fix copyWith method of ActionIconThemeData<br />
+    <sub>[#126763](https://github.com/flutter/flutter/pull/126763) merged on May 16, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/126763) over 2 days, 40 additions and 4 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Replace rsync when unzipping artifacts on a Mac<br />
     <sub>[#126703](https://github.com/flutter/flutter/pull/126703) merged on May 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126703) over 3 days, 108 additions and 52 deletions in 2 files</sub><br />
