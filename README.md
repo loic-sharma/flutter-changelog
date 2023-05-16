@@ -523,7 +523,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-24 commits.
+25 commits.
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Fix issue about saveLayer ignoring opacity of paint with advanced blend mode<br />
     <sub>[#41972](https://github.com/flutter/engine/pull/41972) merged on May 16, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/41972) over 3 days, 167 additions and 132 deletions in 6 files</sub><br />
@@ -586,6 +586,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] set stencil attachment descriptor for runtime effect.<br />
     <sub>[#42054](https://github.com/flutter/engine/pull/42054) merged on May 15, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42054) over 3 hours, 59 additions and 1 deletion in 5 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; [linux] Wait for binding to be ready before requesting exits from framework<br />
+    <sub>[#41782](https://github.com/flutter/engine/pull/41782) merged on May 16, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/41782) over 1 week, 50 additions and 15 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Fix drone_dimension host_engine_builder.<br />
     <sub>[#42068](https://github.com/flutter/engine/pull/42068) merged on May 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42068) over 12 hours, 2 additions and 2 deletions in 1 file</sub><br />
