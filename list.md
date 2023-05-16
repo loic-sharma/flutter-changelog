@@ -4,7 +4,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-19 commits.
+20 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add ScrollController.onAttach & onDetach, samples/docs on listening/getting scrolling info
     <sub>[#124823](https://github.com/flutter/flutter/pull/124823) merged on May 15, 2023 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/124823) over 1 month, 547 additions and 7 deletions in 9 files</sub>
@@ -70,6 +70,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds support for f16 surfaces to wide gamut unit tests.
     <sub>[#126712](https://github.com/flutter/flutter/pull/126712) merged on May 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/126712) over 2 days, 40 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Replace rsync when unzipping artifacts on a Mac
+    <sub>[#126703](https://github.com/flutter/flutter/pull/126703) merged on May 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126703) over 3 days, 108 additions and 52 deletions in 2 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add debugging for Dart VM timeout flake
     <sub>[#126437](https://github.com/flutter/flutter/pull/126437) merged on May 15, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/126437) over 5 days, 138 additions and 0 deletions in 3 files</sub>
@@ -207,7 +211,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Add dimensions to release builds.
     <sub>[#126117](https://github.com/flutter/flutter/pull/126117) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126117) over 6 days, 12 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jesse Seales](https://github.com/sealesj), [Drew Roen](https://github.com/drewroengoogle)</sub>
+    <sub>Reviewed by: [Drew Roen](https://github.com/drewroengoogle), [Jesse Seales](https://github.com/sealesj)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Add `cpu: x86` dimension and xcode dependency for Mac_build_test targets
     <sub>[#126482](https://github.com/flutter/flutter/pull/126482) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126482) over 16 hours, 3 additions and 0 deletions in 1 file</sub>
