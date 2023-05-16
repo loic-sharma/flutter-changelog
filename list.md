@@ -495,7 +495,12 @@
 
 ### May 13, 2023 to May 19, 2023
 
-16 commits.
+17 commits.
+
+* **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Fix issue about saveLayer ignoring opacity of paint with advanced blend mode
+    <sub>[#41972](https://github.com/flutter/engine/pull/41972) merged on May 16, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/41972) over 3 days, 167 additions and 132 deletions in 6 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub><details><summary>2 images...</summary>![56V3vfllrj](https://github.com/flutter/engine/assets/31977171/ec51dd6d-6ae0-4dcd-b18f-c023d3a2ad5e)![StzXmubqcV](https://github.com/flutter/engine/assets/31977171/232a2de7-05c3-4bbe-93d2-5daa2f8d64b5)</details></sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add interactive DrawPaint blend test
     <sub>[#42031](https://github.com/flutter/engine/pull/42031) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42031) over 17 hours, 61 additions and 17 deletions in 2 files</sub>
