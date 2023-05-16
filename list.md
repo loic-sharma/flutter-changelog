@@ -4,7 +4,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-17 commits.
+18 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add ScrollController.onAttach & onDetach, samples/docs on listening/getting scrolling info
     <sub>[#124823](https://github.com/flutter/flutter/pull/124823) merged on May 15, 2023 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/124823) over 1 month, 547 additions and 7 deletions in 9 files</sub>
@@ -14,6 +14,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker to 5.0.0
     <sub>[#126367](https://github.com/flutter/flutter/pull/126367) merged on May 16, 2023 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/126367) over 6 days, 354 additions and 350 deletions in 72 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[st merlhin](https://github.com/stMerlHin)** &mdash; expose `CupertinoDatePicker` and `CupertinoTimerPicker` `itemExtent` …
+    <sub>[#125852](https://github.com/flutter/flutter/pull/125852) merged on May 16, 2023 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/125852) over 2 weeks, 63 additions and 13 deletions in 3 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Remove duplicate plugin tests
     <sub>[#126582](https://github.com/flutter/flutter/pull/126582) merged on May 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126582) over 3 days, 0 additions and 7 deletions in 1 file</sub>
@@ -28,8 +32,8 @@
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; enable no_literal_bool_comparisons lint
-    <sub>[#126647](https://github.com/flutter/flutter/pull/126647) merged on May 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126647) over 4 days, 79 additions and 79 deletions in 46 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>[#126647](https://github.com/flutter/flutter/pull/126647) merged on May 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/126647) over 4 days, 79 additions and 79 deletions in 46 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Updated the `Drawer` API doc to link to `NavigationDrawer`
     <sub>[#126915](https://github.com/flutter/flutter/pull/126915) merged on May 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126915) over 3 hours, 16 additions and 0 deletions in 1 file</sub>
