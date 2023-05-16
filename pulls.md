@@ -77,3 +77,6 @@
 * **[Janice Collins](https://github.com/jcollins-g)** &mdash; Implement broad-spectrum filtering for possible path and filenames in exception strings<br />
     <sub>[#126930](https://github.com/flutter/flutter/pull/126930) opened on on May 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126930) 175 additions and 1 deletion in 4 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Give channel descriptions in `flutter channel`, use branch instead of upstream for channel name<br />
+    <sub>[#126936](https://github.com/flutter/flutter/pull/126936) opened on on May 16, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/126936) 177 additions and 140 deletions in 13 files</sub><br />
+
