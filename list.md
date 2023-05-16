@@ -1033,11 +1033,15 @@
 
 ### May 13, 2023 to May 19, 2023
 
-4 commits.
+5 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update min macOS versions
     <sub>[#3987](https://github.com/flutter/packages/pull/3987) merged on May 15, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/3987) over 20 hours, 351 additions and 149 deletions in 60 files</sub>
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Chris Bracken](https://github.com/cbracken), [Kate Lovett](https://github.com/Piinks), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Fix Android lint issues
+    <sub>[#3993](https://github.com/flutter/packages/pull/3993) merged on May 16, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/3993) over 14 hours, 3 additions and 34 deletions in 5 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Remove unnecessary Linux libraries
     <sub>[#3975](https://github.com/flutter/packages/pull/3975) merged on May 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3975) over 2 days, 1 addition and 7 deletions in 4 files</sub>
