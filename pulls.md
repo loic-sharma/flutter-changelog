@@ -65,9 +65,6 @@
 * **[Mushaheed Syed](https://github.com/predatorx7)** &mdash; Fix copyWith method of ActionIconThemeData<br />
     <sub>[#126763](https://github.com/flutter/flutter/pull/126763) opened on on May 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126763) 27 additions and 4 deletions in 2 files</sub><br />
 
-* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Revert "Revert "Provide default constraints for M3 dialogs" (#126355) (#126368)"<br />
-    <sub>[#126810](https://github.com/flutter/flutter/pull/126810) opened on on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126810) 0 additions and 0 deletions in 0 files</sub><br />
-
 * **[Rexios](https://github.com/Rexios80)** &mdash; Add support for separators in text copied from `SelectableRegion`<br />
     <sub>[#126835](https://github.com/flutter/flutter/pull/126835) opened on on May 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126835) 111 additions and 7 deletions in 3 files</sub><br />
 
