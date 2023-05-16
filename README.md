@@ -4,7 +4,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-13 commits.
+14 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add ScrollController.onAttach & onDetach, samples/docs on listening/getting scrolling info<br />
     <sub>[#124823](https://github.com/flutter/flutter/pull/124823) merged on May 15, 2023 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/124823) over 1 month, 547 additions and 7 deletions in 9 files</sub><br />
@@ -22,6 +22,10 @@
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Add spaces after flow control statements<br />
     <sub>[#126320](https://github.com/flutter/flutter/pull/126320) merged on May 15, 2023 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/126320) over 6 days, 264 additions and 174 deletions in 116 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Minor documentation fixes<br />
+    <sub>[#126609](https://github.com/flutter/flutter/pull/126609) merged on May 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126609) over 4 days, 9 additions and 9 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds drawn image wide gamut test<br />
     <sub>[#126715](https://github.com/flutter/flutter/pull/126715) merged on May 15, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126715) over 3 days, 57 additions and 1 deletion in 2 files</sub><br />
