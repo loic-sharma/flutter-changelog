@@ -491,7 +491,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-15 commits.
+16 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add interactive DrawPaint blend test
     <sub>[#42031](https://github.com/flutter/engine/pull/42031) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42031) over 17 hours, 61 additions and 17 deletions in 2 files</sub>
@@ -509,6 +509,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Limit subpass textures and backdrop blurs to the current clip
     <sub>[#42039](https://github.com/flutter/engine/pull/42039) merged on May 15, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/42039) over 5 hours, 306 additions and 160 deletions in 37 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Chris Yang](https://github.com/cyanglaz)** &mdash; [ios_platform_view] Only remove platform views from flutter view in reset.
+    <sub>[#41709](https://github.com/flutter/engine/pull/41709) merged on May 16, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/41709) over 1 week, 67 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Fix upload xcresult script in run_tests.py
     <sub>[#42056](https://github.com/flutter/engine/pull/42056) merged on May 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42056) over 2 hours, 17 additions and 15 deletions in 1 file</sub>
