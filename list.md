@@ -515,7 +515,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-19 commits.
+20 commits.
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Fix issue about saveLayer ignoring opacity of paint with advanced blend mode
     <sub>[#41972](https://github.com/flutter/engine/pull/41972) merged on May 16, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/41972) over 3 days, 167 additions and 132 deletions in 6 files</sub>
@@ -562,6 +562,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] set stencil attachment descriptor for runtime effect.
     <sub>[#42054](https://github.com/flutter/engine/pull/42054) merged on May 15, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42054) over 3 hours, 59 additions and 1 deletion in 5 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Fix drone_dimension host_engine_builder.
+    <sub>[#42068](https://github.com/flutter/engine/pull/42068) merged on May 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42068) over 12 hours, 2 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Xilai Zhang](https://github.com/XilaiZhang)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Add linux_clang_tidy builder.
     <sub>[#41990](https://github.com/flutter/engine/pull/41990) merged on May 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41990) over 3 days, 102 additions and 0 deletions in 2 files</sub>
