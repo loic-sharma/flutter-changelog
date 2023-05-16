@@ -59,9 +59,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add ScrollMetrics.extentTotal for completeness<br />
     <sub>[#126607](https://github.com/flutter/flutter/pull/126607) opened on on May 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126607) 13 additions and 4 deletions in 2 files</sub><br />
 
-* **[Mushaheed Syed](https://github.com/predatorx7)** &mdash; Fix copyWith method of ActionIconThemeData<br />
-    <sub>[#126763](https://github.com/flutter/flutter/pull/126763) opened on on May 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126763) 40 additions and 4 deletions in 2 files</sub><br />
-
 * **[Rexios](https://github.com/Rexios80)** &mdash; Add support for separators in text copied from `SelectableRegion`<br />
     <sub>[#126835](https://github.com/flutter/flutter/pull/126835) opened on on May 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126835) 111 additions and 7 deletions in 3 files</sub><br />
 
