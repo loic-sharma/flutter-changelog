@@ -4,7 +4,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-20 commits.
+22 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add ScrollController.onAttach & onDetach, samples/docs on listening/getting scrolling info<br />
     <sub>[#124823](https://github.com/flutter/flutter/pull/124823) merged on May 15, 2023 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/124823) over 1 month, 547 additions and 7 deletions in 9 files</sub><br />
@@ -14,6 +14,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker to 5.0.0<br />
     <sub>[#126367](https://github.com/flutter/flutter/pull/126367) merged on May 16, 2023 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/126367) over 6 days, 354 additions and 350 deletions in 72 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Alert engine upon registering ServiceBinding<br />
+    <sub>[#126075](https://github.com/flutter/flutter/pull/126075) merged on May 16, 2023 &mdash; **Small:** [48 comments](https://github.com/flutter/flutter/pull/126075) over 1 week, 58 additions and 0 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[st merlhin](https://github.com/stMerlHin)** &mdash; expose `CupertinoDatePicker` and `CupertinoTimerPicker` `itemExtent` …<br />
     <sub>[#125852](https://github.com/flutter/flutter/pull/125852) merged on May 16, 2023 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/125852) over 2 weeks, 63 additions and 13 deletions in 3 files</sub><br />
@@ -29,6 +33,10 @@
 
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Add spaces after flow control statements<br />
     <sub>[#126320](https://github.com/flutter/flutter/pull/126320) merged on May 15, 2023 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/126320) over 6 days, 264 additions and 174 deletions in 116 files</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove outdated comment<br />
+    <sub>[#126927](https://github.com/flutter/flutter/pull/126927) merged on May 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/126927) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update SemanticsUpdateBuilderSpy for the conversion of SemanticsUpdateBuilder into a base class<br />
@@ -85,7 +93,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "i125138 abstract method smoke agp update (#125139)"<br />
     <sub>[#126274](https://github.com/flutter/flutter/pull/126274) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126274) over 1 week, 106 additions and 148 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [gmackall](https://github.com/gmackall)</sub><br />
 
 ### May 6, 2023 to May 12, 2023
 

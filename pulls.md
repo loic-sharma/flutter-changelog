@@ -74,6 +74,3 @@
 * **[Devin](https://github.com/dleyba042)** &mdash; Slider onChangeEnd is never called when arrow keys are used<br />
     <sub>[#126896](https://github.com/flutter/flutter/pull/126896) opened on on May 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126896) 157 additions and 0 deletions in 2 files</sub><br />
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Ignore unused_element_parameter<br />
-    <sub>[#126926](https://github.com/flutter/flutter/pull/126926) opened on on May 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126926) 3 additions and 3 deletions in 2 files</sub><br />
-
