@@ -74,6 +74,3 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Give channel descriptions in `flutter channel`, use branch instead of upstream for channel name<br />
     <sub>[#126936](https://github.com/flutter/flutter/pull/126936) opened on on May 16, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/126936) 177 additions and 140 deletions in 13 files</sub><br />
 
-* **[keyonghan](https://github.com/keyonghan)** &mdash; Move `Mac_build_test flutter_gallery__transition_perf_e2e_ios` to prod<br />
-    <sub>[#126941](https://github.com/flutter/flutter/pull/126941) opened on on May 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126941) 0 additions and 10 deletions in 1 file</sub><br />
-

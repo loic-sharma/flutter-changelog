@@ -1110,11 +1110,15 @@
 
 ### May 13, 2023 to May 19, 2023
 
-6 commits.
+7 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update min macOS versions
     <sub>[#3987](https://github.com/flutter/packages/pull/3987) merged on May 15, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/3987) over 20 hours, 351 additions and 149 deletions in 60 files</sub>
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Chris Bracken](https://github.com/cbracken), [Kate Lovett](https://github.com/Piinks), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Allow simctl shutdown to fail
+    <sub>[#4024](https://github.com/flutter/packages/pull/4024) merged on May 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4024) over 57 minutes, 2 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Move Linux repo tool tests to LUCI
     <sub>[#4006](https://github.com/flutter/packages/pull/4006) merged on May 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4006) over 4 hours, 0 additions and 6 deletions in 2 files</sub>
