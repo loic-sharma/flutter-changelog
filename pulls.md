@@ -63,7 +63,7 @@
     <sub>[#126607](https://github.com/flutter/flutter/pull/126607) opened on on May 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126607) 13 additions and 4 deletions in 2 files</sub><br />
 
 * **[Mushaheed Syed](https://github.com/predatorx7)** &mdash; Fix copyWith method of ActionIconThemeData<br />
-    <sub>[#126763](https://github.com/flutter/flutter/pull/126763) opened on on May 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126763) 27 additions and 4 deletions in 2 files</sub><br />
+    <sub>[#126763](https://github.com/flutter/flutter/pull/126763) opened on on May 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126763) 27 additions and 4 deletions in 2 files</sub><br />
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Revert "Revert "Provide default constraints for M3 dialogs" (#126355) (#126368)"<br />
     <sub>[#126810](https://github.com/flutter/flutter/pull/126810) opened on on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126810) 0 additions and 0 deletions in 0 files</sub><br />
