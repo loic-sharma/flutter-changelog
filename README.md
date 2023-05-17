@@ -603,7 +603,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-36 commits.
+37 commits.
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Fix issue about saveLayer ignoring opacity of paint with advanced blend mode<br />
     <sub>[#41972](https://github.com/flutter/engine/pull/41972) merged on May 16, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/41972) over 3 days, 167 additions and 132 deletions in 6 files</sub><br />
@@ -627,6 +627,10 @@
     <sub>[#42031](https://github.com/flutter/engine/pull/42031) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42031) over 17 hours, 61 additions and 17 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2023-05-14 at 7 14 43 PM](https://github.com/flutter/engine/assets/919017/9781ddbe-1e5c-4ee5-85e8-48e8ae538f71)</details></sub>
+
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [g3 roll] Revert "add non-rendering operation culling to DisplayListBuilder"<br />
+    <sub>[#42097](https://github.com/flutter/engine/pull/42097) merged on May 17, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/42097) over 5 hours, 305 additions and 869 deletions in 20 files</sub><br />
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Report displays for macOS<br />
     <sub>[#41998](https://github.com/flutter/engine/pull/41998) merged on May 17, 2023 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/41998) over 4 days, 128 additions and 23 deletions in 4 files</sub><br />
@@ -652,13 +656,13 @@
     <sub>[#42052](https://github.com/flutter/engine/pull/42052) merged on May 17, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/42052) over 1 day, 14 additions and 5 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Chris Yang](https://github.com/cyanglaz)** &mdash; [ios_platform_view] Only remove platform views from flutter view in reset.<br />
-    <sub>[#41709](https://github.com/flutter/engine/pull/41709) merged on May 16, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/41709) over 1 week, 67 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impelller] fix flickering due to synchronization issues in compute tessellator.<br />
     <sub>[#42076](https://github.com/flutter/engine/pull/42076) merged on May 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42076) over 23 hours, 15 additions and 5 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
+
+* **[Chris Yang](https://github.com/cyanglaz)** &mdash; [ios_platform_view] Only remove platform views from flutter view in reset.<br />
+    <sub>[#41709](https://github.com/flutter/engine/pull/41709) merged on May 16, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/41709) over 1 week, 67 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Fix upload xcresult script in run_tests.py<br />
     <sub>[#42056](https://github.com/flutter/engine/pull/42056) merged on May 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42056) over 2 hours, 17 additions and 15 deletions in 1 file</sub><br />
@@ -688,13 +692,13 @@
     <sub>[#41965](https://github.com/flutter/engine/pull/41965) merged on May 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41965) over 5 days, 2 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add force redraw to the C++ client wrapper<br />
-    <sub>[#42061](https://github.com/flutter/engine/pull/42061) merged on May 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42061) over 19 hours, 36 additions and 2 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] set stencil attachment descriptor for runtime effect.<br />
     <sub>[#42054](https://github.com/flutter/engine/pull/42054) merged on May 15, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/42054) over 3 hours, 59 additions and 1 deletion in 5 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add force redraw to the C++ client wrapper<br />
+    <sub>[#42061](https://github.com/flutter/engine/pull/42061) merged on May 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42061) over 19 hours, 36 additions and 2 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [Impeller] Include AndroidSurfaceVulkanImpeller behind a flag<br />
     <sub>[#42033](https://github.com/flutter/engine/pull/42033) merged on May 15, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/42033) over 1 hour, 8 additions and 1 deletion in 1 file</sub><br />
@@ -1239,11 +1243,15 @@
 
 ### May 13, 2023 to May 19, 2023
 
-15 commits.
+16 commits.
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchase] Fully migrate to BillingClient V5<br />
     <sub>[#3752](https://github.com/flutter/packages/pull/3752) merged on May 17, 2023 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/3752) over 4 weeks, 2076 additions and 1482 deletions in 37 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub><br />
+
+* **[Matthias Koch](https://github.com/fmt-Println-MKO)** &mdash; [flutter_adaptive_scaffold] exchange BottomNavigationBar with NavigationBar<br />
+    <sub>[#3746](https://github.com/flutter/packages/pull/3746) merged on May 17, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/3746) over 1 month, 33 additions and 28 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [espresso]: Bump com.squareup.okhttp3:okhttp from 4.10.0 to 4.11.0 in /packages/espresso/android<br />
     <sub>[#3804](https://github.com/flutter/packages/pull/3804) merged on May 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3804) over 3 weeks, 4 additions and 3 deletions in 3 files</sub><br />
