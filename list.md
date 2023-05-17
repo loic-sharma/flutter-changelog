@@ -4,7 +4,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-30 commits.
+31 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add ScrollController.onAttach & onDetach, samples/docs on listening/getting scrolling info
     <sub>[#124823](https://github.com/flutter/flutter/pull/124823) merged on May 15, 2023 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/124823) over 1 month, 547 additions and 7 deletions in 9 files</sub>
@@ -26,6 +26,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Remove duplicate plugin tests
     <sub>[#126582](https://github.com/flutter/flutter/pull/126582) merged on May 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126582) over 3 days, 0 additions and 7 deletions in 1 file</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
+
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Fix style issues
+    <sub>[#122586](https://github.com/flutter/flutter/pull/122586) merged on May 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/122586) over 2 months, 4 additions and 8 deletions in 1 file</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Add checkmark style to CupertinoRadio
     <sub>[#126480](https://github.com/flutter/flutter/pull/126480) merged on May 16, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/126480) over 5 days, 142 additions and 17 deletions in 4 files</sub>
