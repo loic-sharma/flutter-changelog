@@ -157,7 +157,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "i125138 abstract method smoke agp update (#125139)"
     <sub>[#126274](https://github.com/flutter/flutter/pull/126274) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126274) over 1 week, 106 additions and 148 deletions in 5 files</sub>
-    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [gmackall](https://github.com/gmackall)</sub>
+    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub>
 
 ### May 6, 2023 to May 12, 2023
 
@@ -283,7 +283,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Add dimensions to release builds.
     <sub>[#126117](https://github.com/flutter/flutter/pull/126117) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126117) over 6 days, 12 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jesse Seales](https://github.com/sealesj), [Drew Roen](https://github.com/drewroengoogle)</sub>
+    <sub>Reviewed by: [Drew Roen](https://github.com/drewroengoogle), [Jesse Seales](https://github.com/sealesj)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Add `cpu: x86` dimension and xcode dependency for Mac_build_test targets
     <sub>[#126482](https://github.com/flutter/flutter/pull/126482) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126482) over 16 hours, 3 additions and 0 deletions in 1 file</sub>
@@ -587,7 +587,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-33 commits.
+34 commits.
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Fix issue about saveLayer ignoring opacity of paint with advanced blend mode
     <sub>[#41972](https://github.com/flutter/engine/pull/41972) merged on May 16, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/41972) over 3 days, 167 additions and 132 deletions in 6 files</sub>
@@ -676,6 +676,10 @@
     <sub>[#42054](https://github.com/flutter/engine/pull/42054) merged on May 15, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42054) over 3 hours, 59 additions and 1 deletion in 5 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [Impeller] Include AndroidSurfaceVulkanImpeller behind a flag
+    <sub>[#42033](https://github.com/flutter/engine/pull/42033) merged on May 15, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/42033) over 1 hour, 8 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
+
 * **[Jesse Seales](https://github.com/sealesj)** &mdash; Re-Enable Vulnerability 3p Scanning Workflow
     <sub>[#42049](https://github.com/flutter/engine/pull/42049) merged on May 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/42049) over 1 day, 42 additions and 33 deletions in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
@@ -712,9 +716,9 @@
     <sub>[#42032](https://github.com/flutter/engine/pull/42032) merged on May 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42032) over 7 hours, 75 additions and 17 deletions in 14 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [Impeller] Include AndroidSurfaceVulkanImpeller behind a flag
-    <sub>[#42033](https://github.com/flutter/engine/pull/42033) merged on May 15, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/42033) over 1 hour, 8 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Simplify handling of custom url strategy
+    <sub>[#42043](https://github.com/flutter/engine/pull/42043) merged on May 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/42043) over 2 days, 129 additions and 37 deletions in 4 files</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "[ios_platform_view] only recycle maskView when the view is applying mutators"
     <sub>[#42080](https://github.com/flutter/engine/pull/42080) merged on May 16, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/42080) over 4 minutes, 65 additions and 387 deletions in 13 files</sub>
