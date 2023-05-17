@@ -84,8 +84,8 @@
     <sub>[#127026](https://github.com/flutter/flutter/pull/127026) opened on on May 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127026) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; mark windows build tests non-bringup<br />
-    <sub>[#127059](https://github.com/flutter/flutter/pull/127059) opened on on May 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127059) 0 additions and 4 deletions in 1 file</sub><br />
+    <sub>[#127059](https://github.com/flutter/flutter/pull/127059) opened on on May 17, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/127059) 0 additions and 4 deletions in 1 file</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Remove single view assumption from MouseTracker, and unify its hit testing code flow<br />
-    <sub>[#127060](https://github.com/flutter/flutter/pull/127060) opened on on May 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127060) 55 additions and 45 deletions in 5 files</sub><br />
+    <sub>[#127060](https://github.com/flutter/flutter/pull/127060) opened on on May 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127060) 73 additions and 55 deletions in 5 files</sub><br />
 
