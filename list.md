@@ -259,11 +259,11 @@
 
 * **[Severin](https://github.com/Bungeefan)** &mdash; Fix platformLocation path and search dropping
     <sub>[#126232](https://github.com/flutter/flutter/pull/126232) merged on May 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126232) over 1 day, 20 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Kevin Moore](https://github.com/kevmoo)</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Add dimensions to release builds.
     <sub>[#126117](https://github.com/flutter/flutter/pull/126117) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126117) over 6 days, 12 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jesse Seales](https://github.com/sealesj), [Drew Roen](https://github.com/drewroengoogle)</sub>
+    <sub>Reviewed by: [Drew Roen](https://github.com/drewroengoogle), [Jesse Seales](https://github.com/sealesj)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Add `cpu: x86` dimension and xcode dependency for Mac_build_test targets
     <sub>[#126482](https://github.com/flutter/flutter/pull/126482) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126482) over 16 hours, 3 additions and 0 deletions in 1 file</sub>
@@ -444,7 +444,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Report total_ui_gc_time to SkiaPerf
     <sub>[#125919](https://github.com/flutter/flutter/pull/125919) merged on May 3, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125919) over 6 hours, 7 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jim Graham](https://github.com/flar)</sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Update xcode to 14e222b
     <sub>[#125716](https://github.com/flutter/flutter/pull/125716) merged on May 2, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125716) over 3 days, 50 additions and 44 deletions in 2 files</sub>
