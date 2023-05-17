@@ -1167,11 +1167,15 @@
 
 ### May 13, 2023 to May 19, 2023
 
-7 commits.
+8 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update min macOS versions<br />
     <sub>[#3987](https://github.com/flutter/packages/pull/3987) merged on May 15, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/3987) over 20 hours, 351 additions and 149 deletions in 60 files</sub><br />
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Chris Bracken](https://github.com/cbracken), [Kate Lovett](https://github.com/Piinks), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Re-enable Windows repo tool tests<br />
+    <sub>[#4007](https://github.com/flutter/packages/pull/4007) merged on May 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4007) over 10 hours, 8 additions and 15 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Allow simctl shutdown to fail<br />
     <sub>[#4024](https://github.com/flutter/packages/pull/4024) merged on May 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4024) over 57 minutes, 2 additions and 1 deletion in 1 file</sub><br />
