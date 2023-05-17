@@ -113,7 +113,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Fix drone_dimensions.
     <sub>[#126953](https://github.com/flutter/flutter/pull/126953) merged on May 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126953) over 1 hour, 16 additions and 14 deletions in 1 file</sub>
-    <sub>Reviewed by: [Drew Roen](https://github.com/drewroengoogle), [Xilai Zhang](https://github.com/XilaiZhang)</sub>
+    <sub>Reviewed by: [Xilai Zhang](https://github.com/XilaiZhang), [Drew Roen](https://github.com/drewroengoogle)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Move `Mac_build_test flutter_gallery__transition_perf_e2e_ios` to prod
     <sub>[#126941](https://github.com/flutter/flutter/pull/126941) merged on May 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126941) over 2 hours, 0 additions and 10 deletions in 1 file</sub>
@@ -575,7 +575,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-31 commits.
+32 commits.
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Fix issue about saveLayer ignoring opacity of paint with advanced blend mode
     <sub>[#41972](https://github.com/flutter/engine/pull/41972) merged on May 16, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/41972) over 3 days, 167 additions and 132 deletions in 6 files</sub>
@@ -615,6 +615,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Limit subpass textures and backdrop blurs to the current clip
     <sub>[#42039](https://github.com/flutter/engine/pull/42039) merged on May 15, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/42039) over 5 hours, 306 additions and 160 deletions in 37 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Fix bounds when painting style is stroke width for image shaders
+    <sub>[#42052](https://github.com/flutter/engine/pull/42052) merged on May 17, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/42052) over 1 day, 14 additions and 5 deletions in 3 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [ios_platform_view] Only remove platform views from flutter view in reset.
     <sub>[#41709](https://github.com/flutter/engine/pull/41709) merged on May 16, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/41709) over 1 week, 67 additions and 2 deletions in 2 files</sub>
@@ -1191,7 +1195,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-11 commits.
+12 commits.
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchase] Fully migrate to BillingClient V5
     <sub>[#3752](https://github.com/flutter/packages/pull/3752) merged on May 17, 2023 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/3752) over 4 weeks, 2076 additions and 1482 deletions in 37 files</sub>
@@ -1209,6 +1213,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Re-enable Windows repo tool tests
     <sub>[#4007](https://github.com/flutter/packages/pull/4007) merged on May 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4007) over 10 hours, 8 additions and 15 deletions in 2 files</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[gmackall](https://github.com/gmackall)** &mdash; [image_picker] Upgrade androidx.activity to 1.7.0 and add a dependency on kotlin-bom to align kotlin transitive dependencies
+    <sub>[#3968](https://github.com/flutter/packages/pull/3968) merged on May 17, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3968) over 5 days, 9 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Allow simctl shutdown to fail
     <sub>[#4024](https://github.com/flutter/packages/pull/4024) merged on May 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4024) over 57 minutes, 2 additions and 1 deletion in 1 file</sub>
