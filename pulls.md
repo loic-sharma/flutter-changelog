@@ -77,3 +77,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Suggest that people move to "beta" when they upgrade on "stable"<br />
     <sub>[#126972](https://github.com/flutter/flutter/pull/126972) opened on on May 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126972) 154 additions and 4 deletions in 2 files</sub><br />
 
+* **[Sun Jiao](https://github.com/sun-jiao)** &mdash; make `suggestionsBuilder` in `SearchAnchor` async<br />
+    <sub>[#127019](https://github.com/flutter/flutter/pull/127019) opened on on May 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127019) 40 additions and 35 deletions in 3 files</sub><br />
+
