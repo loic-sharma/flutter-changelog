@@ -78,7 +78,7 @@
     <sub>[#126972](https://github.com/flutter/flutter/pull/126972) opened on on May 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126972) 154 additions and 4 deletions in 2 files</sub><br />
 
 * **[Sun Jiao](https://github.com/sun-jiao)** &mdash; make `suggestionsBuilder` in `SearchAnchor` async<br />
-    <sub>[#127019](https://github.com/flutter/flutter/pull/127019) opened on on May 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127019) 44 additions and 39 deletions in 7 files</sub><br />
+    <sub>[#127019](https://github.com/flutter/flutter/pull/127019) opened on on May 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127019) 44 additions and 39 deletions in 7 files</sub><br />
 
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Add missing parameters and sorted as in TextField<br />
     <sub>[#127020](https://github.com/flutter/flutter/pull/127020) opened on on May 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127020) 46 additions and 23 deletions in 1 file</sub><br />
