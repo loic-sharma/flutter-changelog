@@ -83,3 +83,6 @@
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Add missing parameters and sorted as in TextField<br />
     <sub>[#127020](https://github.com/flutter/flutter/pull/127020) opened on on May 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127020) 46 additions and 23 deletions in 1 file</sub><br />
 
+* **[Phil Larson](https://github.com/plarson)** &mdash; fix: Flutter Windows builds on ARM for M1 Macs and others<br />
+    <sub>[#127026](https://github.com/flutter/flutter/pull/127026) opened on on May 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127026) 3 additions and 0 deletions in 1 file</sub><br />
+
