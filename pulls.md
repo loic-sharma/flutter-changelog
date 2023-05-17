@@ -86,3 +86,6 @@
 * **[Phil Larson](https://github.com/plarson)** &mdash; [test-exempt] fix: Flutter Windows x64 builds on ARM64 for M1 Macs and others<br />
     <sub>[#127026](https://github.com/flutter/flutter/pull/127026) opened on on May 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127026) 3 additions and 0 deletions in 1 file</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Handle null return from WillPopCallback<br />
+    <sub>[#127039](https://github.com/flutter/flutter/pull/127039) opened on on May 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127039) 3 additions and 1 deletion in 1 file</sub><br />
+

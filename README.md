@@ -137,7 +137,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "i125138 abstract method smoke agp update (#125139)"<br />
     <sub>[#126274](https://github.com/flutter/flutter/pull/126274) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126274) over 1 week, 106 additions and 148 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [gmackall](https://github.com/gmackall)</sub><br />
 
 ### May 6, 2023 to May 12, 2023
 
@@ -685,7 +685,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [Impeller] Include AndroidSurfaceVulkanImpeller behind a flag<br />
-    <sub>[#42033](https://github.com/flutter/engine/pull/42033) merged on May 15, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/42033) over 1 hour, 8 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#42033](https://github.com/flutter/engine/pull/42033) merged on May 15, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/42033) over 1 hour, 8 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "[ios_platform_view] only recycle maskView when the view is applying mutators"<br />
