@@ -4,7 +4,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-31 commits.
+32 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add ScrollController.onAttach & onDetach, samples/docs on listening/getting scrolling info<br />
     <sub>[#124823](https://github.com/flutter/flutter/pull/124823) merged on May 15, 2023 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/124823) over 1 month, 547 additions and 7 deletions in 9 files</sub><br />
@@ -98,6 +98,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds support for f16 surfaces to wide gamut unit tests.<br />
     <sub>[#126712](https://github.com/flutter/flutter/pull/126712) merged on May 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/126712) over 2 days, 40 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[joshualitt](https://github.com/joshualitt)** &mdash; Remove 'url_launcher' from pubspec.yaml.<br />
+    <sub>[#126939](https://github.com/flutter/flutter/pull/126939) merged on May 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126939) over 20 hours, 1 addition and 10 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Fix drone_dimensions.<br />
     <sub>[#126953](https://github.com/flutter/flutter/pull/126953) merged on May 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126953) over 1 hour, 16 additions and 14 deletions in 1 file</sub><br />
@@ -1167,7 +1171,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-9 commits.
+10 commits.
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchase] Fully migrate to BillingClient V5<br />
     <sub>[#3752](https://github.com/flutter/packages/pull/3752) merged on May 17, 2023 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/3752) over 4 weeks, 2076 additions and 1482 deletions in 37 files</sub><br />
@@ -1204,6 +1208,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Disable Windows repo tool tests<br />
     <sub>[#3980](https://github.com/flutter/packages/pull/3980) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/3980) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [video_player]: Bump exoplayer_version from 2.18.5 to 2.18.6 in /packages/video_player/video_player_android/android<br />
+    <sub>[#3770](https://github.com/flutter/packages/pull/3770) merged on May 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3770) over 3 weeks, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### May 6, 2023 to May 12, 2023
 
