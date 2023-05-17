@@ -579,7 +579,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-32 commits.
+33 commits.
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Fix issue about saveLayer ignoring opacity of paint with advanced blend mode<br />
     <sub>[#41972](https://github.com/flutter/engine/pull/41972) merged on May 16, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/41972) over 3 days, 167 additions and 132 deletions in 6 files</sub><br />
@@ -603,6 +603,10 @@
     <sub>[#42031](https://github.com/flutter/engine/pull/42031) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42031) over 17 hours, 61 additions and 17 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2023-05-14 at 7 14 43 PM](https://github.com/flutter/engine/assets/919017/9781ddbe-1e5c-4ee5-85e8-48e8ae538f71)</details></sub>
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Report displays for macOS<br />
+    <sub>[#41998](https://github.com/flutter/engine/pull/41998) merged on May 17, 2023 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/41998) over 4 days, 128 additions and 23 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Convert public API NativeFieldWrapper classes to abstract interfaces<br />
     <sub>[#41945](https://github.com/flutter/engine/pull/41945) merged on May 16, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/41945) over 5 days, 1756 additions and 1177 deletions in 8 files</sub><br />
