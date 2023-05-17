@@ -137,7 +137,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "i125138 abstract method smoke agp update (#125139)"
     <sub>[#126274](https://github.com/flutter/flutter/pull/126274) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126274) over 1 week, 106 additions and 148 deletions in 5 files</sub>
-    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [gmackall](https://github.com/gmackall)</sub>
 
 ### May 6, 2023 to May 12, 2023
 
@@ -567,7 +567,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-29 commits.
+30 commits.
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Fix issue about saveLayer ignoring opacity of paint with advanced blend mode
     <sub>[#41972](https://github.com/flutter/engine/pull/41972) merged on May 16, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/41972) over 3 days, 167 additions and 132 deletions in 6 files</sub>
@@ -635,6 +635,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] switches the wide gamut surface to f16
     <sub>[#41994](https://github.com/flutter/engine/pull/41994) merged on May 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41994) over 2 days, 9 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Turned on wide gamut support by default. (#39801)
+    <sub>[#41965](https://github.com/flutter/engine/pull/41965) merged on May 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41965) over 5 days, 2 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add force redraw to the C++ client wrapper
     <sub>[#42061](https://github.com/flutter/engine/pull/42061) merged on May 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42061) over 19 hours, 36 additions and 2 deletions in 6 files</sub>
