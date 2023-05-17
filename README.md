@@ -1175,11 +1175,16 @@
 
 ### May 13, 2023 to May 19, 2023
 
-10 commits.
+11 commits.
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchase] Fully migrate to BillingClient V5<br />
     <sub>[#3752](https://github.com/flutter/packages/pull/3752) merged on May 17, 2023 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/3752) over 4 weeks, 2076 additions and 1482 deletions in 37 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub><br />
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [espresso]: Bump com.squareup.okhttp3:okhttp from 4.10.0 to 4.11.0 in /packages/espresso/android<br />
+    <sub>[#3804](https://github.com/flutter/packages/pull/3804) merged on May 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3804) over 3 weeks, 4 additions and 3 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.squareup.okhttp3:okhttp&package-manager=gradle&previous-version=4.10.0&new-version=4.11.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update min macOS versions<br />
     <sub>[#3987](https://github.com/flutter/packages/pull/3987) merged on May 15, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/3987) over 20 hours, 351 additions and 149 deletions in 60 files</sub><br />
