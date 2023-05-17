@@ -137,7 +137,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "i125138 abstract method smoke agp update (#125139)"<br />
     <sub>[#126274](https://github.com/flutter/flutter/pull/126274) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126274) over 1 week, 106 additions and 148 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [gmackall](https://github.com/gmackall)</sub><br />
+    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 ### May 6, 2023 to May 12, 2023
 
@@ -259,11 +259,11 @@
 
 * **[Severin](https://github.com/Bungeefan)** &mdash; Fix platformLocation path and search dropping<br />
     <sub>[#126232](https://github.com/flutter/flutter/pull/126232) merged on May 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126232) over 1 day, 20 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Kevin Moore](https://github.com/kevmoo)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Add dimensions to release builds.<br />
     <sub>[#126117](https://github.com/flutter/flutter/pull/126117) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126117) over 6 days, 12 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Drew Roen](https://github.com/drewroengoogle), [Jesse Seales](https://github.com/sealesj)</sub><br />
+    <sub>Reviewed by: [Jesse Seales](https://github.com/sealesj), [Drew Roen](https://github.com/drewroengoogle)</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Add `cpu: x86` dimension and xcode dependency for Mac_build_test targets<br />
     <sub>[#126482](https://github.com/flutter/flutter/pull/126482) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126482) over 16 hours, 3 additions and 0 deletions in 1 file</sub><br />
@@ -444,7 +444,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Report total_ui_gc_time to SkiaPerf<br />
     <sub>[#125919](https://github.com/flutter/flutter/pull/125919) merged on May 3, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125919) over 6 hours, 7 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jim Graham](https://github.com/flar)</sub><br />
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Update xcode to 14e222b<br />
     <sub>[#125716](https://github.com/flutter/flutter/pull/125716) merged on May 2, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/125716) over 3 days, 50 additions and 44 deletions in 2 files</sub><br />
@@ -567,7 +567,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-30 commits.
+31 commits.
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Fix issue about saveLayer ignoring opacity of paint with advanced blend mode<br />
     <sub>[#41972](https://github.com/flutter/engine/pull/41972) merged on May 16, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/41972) over 3 days, 167 additions and 132 deletions in 6 files</sub><br />
@@ -647,6 +647,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] set stencil attachment descriptor for runtime effect.<br />
     <sub>[#42054](https://github.com/flutter/engine/pull/42054) merged on May 15, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42054) over 3 hours, 59 additions and 1 deletion in 5 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Jesse Seales](https://github.com/sealesj)** &mdash; Re-Enable Vulnerability 3p Scanning Workflow<br />
+    <sub>[#42049](https://github.com/flutter/engine/pull/42049) merged on May 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/42049) over 1 day, 42 additions and 33 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; [linux] Wait for binding to be ready before requesting exits from framework<br />
     <sub>[#41782](https://github.com/flutter/engine/pull/41782) merged on May 16, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/41782) over 1 week, 50 additions and 15 deletions in 3 files</sub><br />
