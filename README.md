@@ -606,7 +606,7 @@
 36 commits.
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Fix issue about saveLayer ignoring opacity of paint with advanced blend mode<br />
-    <sub>[#41972](https://github.com/flutter/engine/pull/41972) merged on May 16, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/41972) over 3 days, 167 additions and 132 deletions in 6 files</sub><br />
+    <sub>[#41972](https://github.com/flutter/engine/pull/41972) merged on May 16, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/41972) over 3 days, 167 additions and 132 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>2 images...</summary>![56V3vfllrj](https://github.com/flutter/engine/assets/31977171/ec51dd6d-6ae0-4dcd-b18f-c023d3a2ad5e)![StzXmubqcV](https://github.com/flutter/engine/assets/31977171/232a2de7-05c3-4bbe-93d2-5daa2f8d64b5)</details></sub>
 
@@ -619,7 +619,7 @@
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Use 32 bit Gaussian function in the 2-pass blur<br />
-    <sub>[#42069](https://github.com/flutter/engine/pull/42069) merged on May 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42069) over 15 hours, 25 additions and 11 deletions in 4 files</sub><br />
+    <sub>[#42069](https://github.com/flutter/engine/pull/42069) merged on May 16, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/42069) over 15 hours, 25 additions and 11 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>3 images...</summary>![Screen Shot 2023-05-15 at 11 14 20 PM](https://github.com/flutter/engine/assets/919017/cc342954-4550-46ed-80d8-1e27acfd56ce)![Screen Shot 2023-05-15 at 11 12 18 PM](https://github.com/flutter/engine/assets/919017/f03fbd70-f21f-48e4-9a10-30aaad43bfa3)![Screen Shot 2023-05-15 at 11 16 58 PM](https://github.com/flutter/engine/assets/919017/c8ade876-4ea5-4d50-9bbe-a680d3921740)</details></sub>
 
@@ -693,7 +693,7 @@
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] set stencil attachment descriptor for runtime effect.<br />
-    <sub>[#42054](https://github.com/flutter/engine/pull/42054) merged on May 15, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42054) over 3 hours, 59 additions and 1 deletion in 5 files</sub><br />
+    <sub>[#42054](https://github.com/flutter/engine/pull/42054) merged on May 15, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/42054) over 3 hours, 59 additions and 1 deletion in 5 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [Impeller] Include AndroidSurfaceVulkanImpeller behind a flag<br />
