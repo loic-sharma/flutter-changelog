@@ -83,9 +83,3 @@
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Add missing parameters and sorted as in TextField<br />
     <sub>[#127020](https://github.com/flutter/flutter/pull/127020) opened on on May 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127020) 46 additions and 23 deletions in 1 file</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Updated the `ToggleButtons` API doc to link to `SegmentedButton`<br />
-    <sub>[#127021](https://github.com/flutter/flutter/pull/127021) opened on on May 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127021) 20 additions and 0 deletions in 1 file</sub><br />
-
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `ScrollNotificationObserver` sample<br />
-    <sub>[#127023](https://github.com/flutter/flutter/pull/127023) opened on on May 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127023) 180 additions and 0 deletions in 3 files</sub><br />
-
