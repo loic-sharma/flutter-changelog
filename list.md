@@ -4,7 +4,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-32 commits.
+33 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add ScrollController.onAttach & onDetach, samples/docs on listening/getting scrolling info
     <sub>[#124823](https://github.com/flutter/flutter/pull/124823) merged on May 15, 2023 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/124823) over 1 month, 547 additions and 7 deletions in 9 files</sub>
@@ -42,6 +42,10 @@
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Add spaces after flow control statements
     <sub>[#126320](https://github.com/flutter/flutter/pull/126320) merged on May 15, 2023 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/126320) over 6 days, 264 additions and 174 deletions in 116 files</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add missing `Switch.onFocusChange` test
+    <sub>[#126685](https://github.com/flutter/flutter/pull/126685) merged on May 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126685) over 4 days, 29 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Make SlottedMultiChildRenderObjectWidgetMixin a concrete class
     <sub>[#126108](https://github.com/flutter/flutter/pull/126108) merged on May 16, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/126108) over 1 week, 100 additions and 75 deletions in 7 files</sub>
