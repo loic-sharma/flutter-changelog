@@ -66,11 +66,14 @@
     <sub>[#126930](https://github.com/flutter/flutter/pull/126930) opened on on May 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126930) 175 additions and 1 deletion in 4 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Give channel descriptions in `flutter channel`, use branch instead of upstream for channel name<br />
-    <sub>[#126936](https://github.com/flutter/flutter/pull/126936) opened on on May 16, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/126936) 177 additions and 140 deletions in 13 files</sub><br />
+    <sub>[#126936](https://github.com/flutter/flutter/pull/126936) opened on on May 16, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/126936) 180 additions and 142 deletions in 14 files</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Add osx_sdk property to Mac platforms/targets<br />
     <sub>[#126956](https://github.com/flutter/flutter/pull/126956) opened on on May 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126956) 69 additions and 11 deletions in 1 file</sub><br />
 
 * **[Mahmoud Zayad](https://github.com/MahmoudZayad)** &mdash; Remove target Staging_build_linux framework_tests_misc<br />
     <sub>[#126959](https://github.com/flutter/flutter/pull/126959) opened on on May 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126959) 0 additions and 33 deletions in 1 file</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Suggest that people move to "beta" when they upgrade on "stable"<br />
+    <sub>[#126972](https://github.com/flutter/flutter/pull/126972) opened on on May 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126972) 154 additions and 4 deletions in 2 files</sub><br />
 
