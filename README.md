@@ -1255,7 +1255,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-17 commits.
+18 commits.
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchase] Fully migrate to BillingClient V5<br />
     <sub>[#3752](https://github.com/flutter/packages/pull/3752) merged on May 17, 2023 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/3752) over 4 weeks, 2076 additions and 1482 deletions in 37 files</sub><br />
@@ -1285,6 +1285,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Re-enable Windows repo tool tests<br />
     <sub>[#4007](https://github.com/flutter/packages/pull/4007) merged on May 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4007) over 10 hours, 8 additions and 15 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Fix a typo in the API documentation<br />
+    <sub>[#4023](https://github.com/flutter/packages/pull/4023) merged on May 18, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4023) over 1 day, 9 additions and 9 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Manual flutter roll<br />
     <sub>[#4033](https://github.com/flutter/packages/pull/4033) merged on May 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4033) over 2 hours, 26 additions and 31 deletions in 9 files</sub><br />
