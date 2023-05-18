@@ -89,6 +89,3 @@
 * **[JsGjKJzi](https://github.com/JsGjKJzi)** &mdash; Interactive viewer doesn't appear to respect the trackpadScrollCausesScale parameter<br />
     <sub>[#127114](https://github.com/flutter/flutter/pull/127114) opened on on May 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127114) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Felix Angelov](https://github.com/felangel)** &mdash; fix(flutter_tools): `findBundleFile` w/multiple flavor dimensions<br />
-    <sub>[#127133](https://github.com/flutter/flutter/pull/127133) opened on on May 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127133) 71 additions and 0 deletions in 4 files</sub><br />
-
