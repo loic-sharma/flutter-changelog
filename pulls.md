@@ -92,6 +92,3 @@
 * **[JsGjKJzi](https://github.com/JsGjKJzi)** &mdash; Interactive viewer doesn't appear to respect the trackpadScrollCausesScale parameter<br />
     <sub>[#127114](https://github.com/flutter/flutter/pull/127114) opened on on May 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127114) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Migrates android semanitcs integration to integration test<br />
-    <sub>[#127128](https://github.com/flutter/flutter/pull/127128) opened on on May 18, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/127128) 892 additions and 724 deletions in 11 files</sub><br />
-
