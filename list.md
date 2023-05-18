@@ -185,7 +185,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "i125138 abstract method smoke agp update (#125139)"
     <sub>[#126274](https://github.com/flutter/flutter/pull/126274) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126274) over 1 week, 106 additions and 148 deletions in 5 files</sub>
-    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [gmackall](https://github.com/gmackall)</sub>
 
 ### May 6, 2023 to May 12, 2023
 
@@ -307,7 +307,7 @@
 
 * **[Severin](https://github.com/Bungeefan)** &mdash; Fix platformLocation path and search dropping
     <sub>[#126232](https://github.com/flutter/flutter/pull/126232) merged on May 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126232) over 1 day, 20 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Mouad Debbar](https://github.com/mdebbar)</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Kevin Moore](https://github.com/kevmoo)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Add dimensions to release builds.
     <sub>[#126117](https://github.com/flutter/flutter/pull/126117) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126117) over 6 days, 12 additions and 0 deletions in 1 file</sub>
@@ -331,7 +331,7 @@
 
 * **[Yu](https://github.com/373n)** &mdash;  [Refactor] Fix style in example
     <sub>[#126191](https://github.com/flutter/flutter/pull/126191) merged on May 8, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/126191) over 2 days, 5 additions and 5 deletions in 1 file</sub>
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Always use `--concurrency=1` for web tests.
     <sub>[#126179](https://github.com/flutter/flutter/pull/126179) merged on May 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126179) over 2 days, 28 additions and 4 deletions in 2 files</sub>
@@ -512,7 +512,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] delete physical model layer.
     <sub>[#125719](https://github.com/flutter/flutter/pull/125719) merged on May 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/125719) over 3 days, 0 additions and 221 deletions in 3 files</sub>
-    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add debugPrintKeyboardEvents flag
     <sub>[#125629](https://github.com/flutter/flutter/pull/125629) merged on May 2, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/125629) over 5 days, 79 additions and 3 deletions in 3 files</sub>
