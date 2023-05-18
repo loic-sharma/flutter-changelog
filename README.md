@@ -164,7 +164,7 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[joshualitt](https://github.com/joshualitt)** &mdash; Migrate benchmarks to package:web<br />
-    <sub>[#126848](https://github.com/flutter/flutter/pull/126848) merged on May 18, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/126848) over 3 days, 125 additions and 89 deletions in 6 files</sub><br />
+    <sub>[#126848](https://github.com/flutter/flutter/pull/126848) merged on May 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/126848) over 3 days, 125 additions and 89 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Fixing richMessage gesture recognizer in tooltip widget<br />
