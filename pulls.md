@@ -51,7 +51,7 @@
     <sub>[#126456](https://github.com/flutter/flutter/pull/126456) opened on on May 10, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/126456) 491 additions and 516 deletions in 35 files</sub><br />
 
 * **[Florian](https://github.com/PlutoHDDev)** &mdash; Fix output of _informAboutExistingCaches<br />
-    <sub>[#126566](https://github.com/flutter/flutter/pull/126566) opened on on May 11, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/126566) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#126566](https://github.com/flutter/flutter/pull/126566) opened on on May 11, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/126566) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; Add support for separators in text copied from `SelectableRegion`<br />
     <sub>[#126835](https://github.com/flutter/flutter/pull/126835) opened on on May 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126835) 111 additions and 7 deletions in 3 files</sub><br />
@@ -88,4 +88,7 @@
 
 * **[James Gorman](https://github.com/jamesgorman2)** &mdash; Update ListTile to match M3 spec<br />
     <sub>[#127078](https://github.com/flutter/flutter/pull/127078) opened on on May 18, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/127078) 5969 additions and 429 deletions in 32 files</sub><br />
+
+* **[Matheus Kirchesch](https://github.com/matheus-kirchesch-btor)** &mdash; Added option to disable [NavigationRailDestination]s<br />
+    <sub>[#127113](https://github.com/flutter/flutter/pull/127113) opened on on May 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127113) 14 additions and 2 deletions in 1 file</sub><br />
 
