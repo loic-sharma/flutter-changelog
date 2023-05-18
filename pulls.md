@@ -62,9 +62,6 @@
 * **[Devin](https://github.com/dleyba042)** &mdash; Slider onChangeEnd is never called when arrow keys are used<br />
     <sub>[#126896](https://github.com/flutter/flutter/pull/126896) opened on on May 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126896) 168 additions and 2 deletions in 2 files</sub><br />
 
-* **[Janice Collins](https://github.com/jcollins-g)** &mdash; Implement broad-spectrum filtering for possible path and filenames in exception strings<br />
-    <sub>[#126930](https://github.com/flutter/flutter/pull/126930) opened on on May 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126930) 175 additions and 1 deletion in 4 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Give channel descriptions in `flutter channel`, use branch instead of upstream for channel name<br />
     <sub>[#126936](https://github.com/flutter/flutter/pull/126936) opened on on May 16, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/126936) 244 additions and 165 deletions in 19 files</sub><br />
 
