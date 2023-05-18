@@ -63,7 +63,7 @@
     <sub>[#126896](https://github.com/flutter/flutter/pull/126896) opened on on May 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126896) 168 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Give channel descriptions in `flutter channel`, use branch instead of upstream for channel name<br />
-    <sub>[#126936](https://github.com/flutter/flutter/pull/126936) opened on on May 16, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/126936) 244 additions and 165 deletions in 19 files</sub><br />
+    <sub>[#126936](https://github.com/flutter/flutter/pull/126936) opened on on May 16, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/126936) 248 additions and 169 deletions in 19 files</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Add osx_sdk property to Mac platforms/targets<br />
     <sub>[#126956](https://github.com/flutter/flutter/pull/126956) opened on on May 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126956) 69 additions and 11 deletions in 1 file</sub><br />
@@ -88,7 +88,4 @@
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Adds SemanticsNode Finders for searching the semantics tree<br />
     <sub>[#127137](https://github.com/flutter/flutter/pull/127137) opened on on May 18, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/127137) 1204 additions and 267 deletions in 8 files</sub><br />
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `useMaterial3` api doc<br />
-    <sub>[#127142](https://github.com/flutter/flutter/pull/127142) opened on on May 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127142) 5 additions and 3 deletions in 1 file</sub><br />
 
