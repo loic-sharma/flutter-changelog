@@ -86,3 +86,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; mark windows build tests non-bringup<br />
     <sub>[#127059](https://github.com/flutter/flutter/pull/127059) opened on on May 17, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/127059) 0 additions and 4 deletions in 1 file</sub><br />
 
+* **[James Gorman](https://github.com/jamesgorman2)** &mdash; Update ListTile to match M3 spec<br />
+    <sub>[#127078](https://github.com/flutter/flutter/pull/127078) opened on on May 18, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/127078) 5715 additions and 412 deletions in 25 files</sub><br />
+
