@@ -63,7 +63,7 @@
     <sub>[#126896](https://github.com/flutter/flutter/pull/126896) opened on on May 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126896) 168 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Give channel descriptions in `flutter channel`, use branch instead of upstream for channel name<br />
-    <sub>[#126936](https://github.com/flutter/flutter/pull/126936) opened on on May 16, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/126936) 248 additions and 169 deletions in 19 files</sub><br />
+    <sub>[#126936](https://github.com/flutter/flutter/pull/126936) opened on on May 16, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/126936) 265 additions and 187 deletions in 20 files</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Add osx_sdk property to Mac platforms/targets<br />
     <sub>[#126956](https://github.com/flutter/flutter/pull/126956) opened on on May 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126956) 69 additions and 11 deletions in 1 file</sub><br />
@@ -73,9 +73,6 @@
 
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Add missing parameters and sorted as in TextField<br />
     <sub>[#127020](https://github.com/flutter/flutter/pull/127020) opened on on May 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127020) 46 additions and 23 deletions in 1 file</sub><br />
-
-* **[Phil Larson](https://github.com/plarson)** &mdash; fix: always force x64 arch for `flutter build windows`<br />
-    <sub>[#127026](https://github.com/flutter/flutter/pull/127026) opened on on May 17, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/127026) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[James Gorman](https://github.com/jamesgorman2)** &mdash; Update ListTile to match M3 spec<br />
     <sub>[#127078](https://github.com/flutter/flutter/pull/127078) opened on on May 18, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/127078) 5969 additions and 429 deletions in 32 files</sub><br />
