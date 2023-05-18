@@ -89,3 +89,6 @@
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Adds SemanticsNode Finders for searching the semantics tree<br />
     <sub>[#127137](https://github.com/flutter/flutter/pull/127137) opened on on May 18, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/127137) 1204 additions and 267 deletions in 8 files</sub><br />
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `useMaterial3` api doc<br />
+    <sub>[#127142](https://github.com/flutter/flutter/pull/127142) opened on on May 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127142) 5 additions and 3 deletions in 1 file</sub><br />
+
