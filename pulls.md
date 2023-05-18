@@ -83,9 +83,6 @@
 * **[Phil Larson](https://github.com/plarson)** &mdash; [test-exempt] fix: Flutter Windows 11 x64 builds on ARM64 for M1 Macs and others<br />
     <sub>[#127026](https://github.com/flutter/flutter/pull/127026) opened on on May 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127026) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; mark windows build tests non-bringup<br />
-    <sub>[#127059](https://github.com/flutter/flutter/pull/127059) opened on on May 17, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/127059) 0 additions and 4 deletions in 1 file</sub><br />
-
 * **[James Gorman](https://github.com/jamesgorman2)** &mdash; Update ListTile to match M3 spec<br />
     <sub>[#127078](https://github.com/flutter/flutter/pull/127078) opened on on May 18, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/127078) 5969 additions and 429 deletions in 32 files</sub><br />
 
