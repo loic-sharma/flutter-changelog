@@ -87,5 +87,5 @@
     <sub>[#127059](https://github.com/flutter/flutter/pull/127059) opened on on May 17, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/127059) 0 additions and 4 deletions in 1 file</sub><br />
 
 * **[James Gorman](https://github.com/jamesgorman2)** &mdash; Update ListTile to match M3 spec<br />
-    <sub>[#127078](https://github.com/flutter/flutter/pull/127078) opened on on May 18, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/127078) 5909 additions and 422 deletions in 31 files</sub><br />
+    <sub>[#127078](https://github.com/flutter/flutter/pull/127078) opened on on May 18, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/127078) 5969 additions and 429 deletions in 32 files</sub><br />
 
