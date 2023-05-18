@@ -11,13 +11,13 @@
     <sub>Reviewed by: [Tae Hyung Kim](https://github.com/thkim1011)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2023-04-13 at 3 24 28 PM](https://user-images.githubusercontent.com/16964204/231897497-f5bee17d-43ed-46e5-acd7-e1bd64768274.png)</details></sub>
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker to 5.0.0<br />
-    <sub>[#126367](https://github.com/flutter/flutter/pull/126367) merged on May 16, 2023 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/126367) over 6 days, 354 additions and 350 deletions in 72 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
 * **[JellyO1](https://github.com/JellyO1)** &mdash; Expose callback that allows focus traversal customization<br />
     <sub>[#120235](https://github.com/flutter/flutter/pull/120235) merged on May 17, 2023 &mdash; **Medium:** [31 comments](https://github.com/flutter/flutter/pull/120235) over 3 months, 297 additions and 21 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker to 5.0.0<br />
+    <sub>[#126367](https://github.com/flutter/flutter/pull/126367) merged on May 16, 2023 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/126367) over 6 days, 354 additions and 350 deletions in 72 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Autocomplete async examples<br />
     <sub>[#126283](https://github.com/flutter/flutter/pull/126283) merged on May 17, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/126283) over 1 week, 799 additions and 0 deletions in 9 files</sub><br />
