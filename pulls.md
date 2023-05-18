@@ -71,14 +71,11 @@
 * **[Mahmoud Zayad](https://github.com/MahmoudZayad)** &mdash; Remove target Staging_build_linux framework_tests_misc<br />
     <sub>[#126959](https://github.com/flutter/flutter/pull/126959) opened on on May 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126959) 0 additions and 33 deletions in 1 file</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Suggest that people move to "beta" when they upgrade on "stable"<br />
-    <sub>[#126972](https://github.com/flutter/flutter/pull/126972) opened on on May 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126972) 154 additions and 4 deletions in 2 files</sub><br />
-
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Add missing parameters and sorted as in TextField<br />
     <sub>[#127020](https://github.com/flutter/flutter/pull/127020) opened on on May 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127020) 46 additions and 23 deletions in 1 file</sub><br />
 
 * **[Phil Larson](https://github.com/plarson)** &mdash; [test-exempt] fix: Flutter Windows 11 x64 builds on ARM64 for M1 Macs and others<br />
-    <sub>[#127026](https://github.com/flutter/flutter/pull/127026) opened on on May 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127026) 3 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#127026](https://github.com/flutter/flutter/pull/127026) opened on on May 17, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/127026) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[James Gorman](https://github.com/jamesgorman2)** &mdash; Update ListTile to match M3 spec<br />
     <sub>[#127078](https://github.com/flutter/flutter/pull/127078) opened on on May 18, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/127078) 5969 additions and 429 deletions in 32 files</sub><br />
@@ -88,4 +85,7 @@
 
 * **[JsGjKJzi](https://github.com/JsGjKJzi)** &mdash; Interactive viewer doesn't appear to respect the trackpadScrollCausesScale parameter<br />
     <sub>[#127114](https://github.com/flutter/flutter/pull/127114) opened on on May 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127114) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Adds SemanticsNode Finders for searching the semantics tree<br />
+    <sub>[#127137](https://github.com/flutter/flutter/pull/127137) opened on on May 18, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/127137) 1204 additions and 267 deletions in 8 files</sub><br />
 
