@@ -1255,7 +1255,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-18 commits.
+19 commits.
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchase] Fully migrate to BillingClient V5<br />
     <sub>[#3752](https://github.com/flutter/packages/pull/3752) merged on May 17, 2023 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/3752) over 4 weeks, 2076 additions and 1482 deletions in 37 files</sub><br />
@@ -1297,6 +1297,10 @@
 * **[gmackall](https://github.com/gmackall)** &mdash; [image_picker] Upgrade androidx.activity to 1.7.0 and add a dependency on kotlin-bom to align kotlin transitive dependencies<br />
     <sub>[#3968](https://github.com/flutter/packages/pull/3968) merged on May 17, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3968) over 5 days, 9 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [flutter_plugin_android_lifecycle] Fix lints<br />
+    <sub>[#4030](https://github.com/flutter/packages/pull/4030) merged on May 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4030) over 18 hours, 5 additions and 22 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Allow simctl shutdown to fail<br />
     <sub>[#4024](https://github.com/flutter/packages/pull/4024) merged on May 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4024) over 57 minutes, 2 additions and 1 deletion in 1 file</sub><br />
