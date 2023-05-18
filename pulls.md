@@ -86,3 +86,6 @@
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [tool] delete xcresult bundle file before each xcode retry.<br />
     <sub>[#127144](https://github.com/flutter/flutter/pull/127144) opened on on May 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127144) 58 additions and 5 deletions in 2 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Suggest that people move to "beta" when they upgrade on "stable"<br />
+    <sub>[#127146](https://github.com/flutter/flutter/pull/127146) opened on on May 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127146) 172 additions and 4 deletions in 2 files</sub><br />
+
