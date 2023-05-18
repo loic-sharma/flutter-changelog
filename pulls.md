@@ -89,3 +89,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Suggest that people move to "beta" when they upgrade on "stable"<br />
     <sub>[#127146](https://github.com/flutter/flutter/pull/127146) opened on on May 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127146) 172 additions and 4 deletions in 2 files</sub><br />
 
+* **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Added TooltipController to manage visibility of a tooltip<br />
+    <sub>[#127149](https://github.com/flutter/flutter/pull/127149) opened on on May 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127149) 120 additions and 0 deletions in 2 files</sub><br />
+
