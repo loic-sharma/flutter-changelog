@@ -66,7 +66,7 @@
     <sub>[#126930](https://github.com/flutter/flutter/pull/126930) opened on on May 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126930) 175 additions and 1 deletion in 4 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Give channel descriptions in `flutter channel`, use branch instead of upstream for channel name<br />
-    <sub>[#126936](https://github.com/flutter/flutter/pull/126936) opened on on May 16, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/126936) 225 additions and 148 deletions in 17 files</sub><br />
+    <sub>[#126936](https://github.com/flutter/flutter/pull/126936) opened on on May 16, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/126936) 244 additions and 165 deletions in 19 files</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Add osx_sdk property to Mac platforms/targets<br />
     <sub>[#126956](https://github.com/flutter/flutter/pull/126956) opened on on May 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126956) 69 additions and 11 deletions in 1 file</sub><br />
@@ -85,7 +85,4 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; mark windows build tests non-bringup<br />
     <sub>[#127059](https://github.com/flutter/flutter/pull/127059) opened on on May 17, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/127059) 0 additions and 4 deletions in 1 file</sub><br />
-
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Remove single view assumption from MouseTracker, and unify its hit testing code flow<br />
-    <sub>[#127060](https://github.com/flutter/flutter/pull/127060) opened on on May 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127060) 81 additions and 55 deletions in 5 files</sub><br />
 
