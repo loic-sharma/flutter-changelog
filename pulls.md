@@ -86,9 +86,9 @@
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [tool] delete xcresult bundle file before each xcode retry.<br />
     <sub>[#127144](https://github.com/flutter/flutter/pull/127144) opened on on May 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127144) 58 additions and 5 deletions in 2 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Suggest that people move to "beta" when they upgrade on "stable"<br />
-    <sub>[#127146](https://github.com/flutter/flutter/pull/127146) opened on on May 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127146) 172 additions and 4 deletions in 2 files</sub><br />
-
 * **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Added TooltipController to manage visibility of a tooltip<br />
     <sub>[#127149](https://github.com/flutter/flutter/pull/127149) opened on on May 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127149) 120 additions and 0 deletions in 2 files</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] only try to take a screenshot from flutter drive if the --screenshot flag is passed<br />
+    <sub>[#127150](https://github.com/flutter/flutter/pull/127150) opened on on May 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127150) 63 additions and 12 deletions in 3 files</sub><br />
 
