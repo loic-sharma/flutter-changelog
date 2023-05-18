@@ -72,10 +72,10 @@
     <sub>[#126959](https://github.com/flutter/flutter/pull/126959) opened on on May 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126959) 0 additions and 33 deletions in 1 file</sub><br />
 
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Add missing parameters and sorted as in TextField<br />
-    <sub>[#127020](https://github.com/flutter/flutter/pull/127020) opened on on May 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127020) 46 additions and 23 deletions in 1 file</sub><br />
+    <sub>[#127020](https://github.com/flutter/flutter/pull/127020) opened on on May 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127020) 46 additions and 23 deletions in 1 file</sub><br />
 
-* **[Phil Larson](https://github.com/plarson)** &mdash; [test-exempt] fix: Flutter Windows 11 x64 builds on ARM64 for M1 Macs and others<br />
-    <sub>[#127026](https://github.com/flutter/flutter/pull/127026) opened on on May 17, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/127026) 3 additions and 0 deletions in 1 file</sub><br />
+* **[Phil Larson](https://github.com/plarson)** &mdash; fix: always force x64 arch for `flutter build windows`<br />
+    <sub>[#127026](https://github.com/flutter/flutter/pull/127026) opened on on May 17, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/127026) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[James Gorman](https://github.com/jamesgorman2)** &mdash; Update ListTile to match M3 spec<br />
     <sub>[#127078](https://github.com/flutter/flutter/pull/127078) opened on on May 18, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/127078) 5969 additions and 429 deletions in 32 files</sub><br />
