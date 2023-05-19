@@ -81,7 +81,7 @@
     <sub>[#127113](https://github.com/flutter/flutter/pull/127113) opened on on May 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127113) 14 additions and 2 deletions in 1 file</sub><br />
 
 * **[JsGjKJzi](https://github.com/JsGjKJzi)** &mdash; Interactive viewer doesn't appear to respect the trackpadScrollCausesScale parameter<br />
-    <sub>[#127114](https://github.com/flutter/flutter/pull/127114) opened on on May 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/127114) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#127114](https://github.com/flutter/flutter/pull/127114) opened on on May 18, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/127114) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [tool] delete xcresult bundle file before each xcode retry.<br />
     <sub>[#127144](https://github.com/flutter/flutter/pull/127144) opened on on May 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127144) 58 additions and 5 deletions in 2 files</sub><br />
