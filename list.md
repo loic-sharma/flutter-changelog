@@ -1380,7 +1380,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-22 commits.
+23 commits.
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchase] Fully migrate to BillingClient V5
     <sub>[#3752](https://github.com/flutter/packages/pull/3752) merged on May 17, 2023 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/3752) over 4 weeks, 2076 additions and 1482 deletions in 37 files</sub>
@@ -1402,6 +1402,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update min macOS versions
     <sub>[#3987](https://github.com/flutter/packages/pull/3987) merged on May 15, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/3987) over 20 hours, 351 additions and 149 deletions in 60 files</sub>
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Chris Bracken](https://github.com/cbracken), [Kate Lovett](https://github.com/Piinks), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Hamad AlGhanim](https://github.com/Dreamersoul)** &mdash; [go_router] fix context extension for replaceNamed
+    <sub>[#3927](https://github.com/flutter/packages/pull/3927) merged on May 19, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/3927) over 1 week, 65 additions and 2 deletions in 4 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tools] Ignore comments in federated safety check
     <sub>[#4028](https://github.com/flutter/packages/pull/4028) merged on May 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4028) over 4 hours, 189 additions and 3 deletions in 3 files</sub>
