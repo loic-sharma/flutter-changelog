@@ -176,8 +176,8 @@
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[joshualitt](https://github.com/joshualitt)** &mdash; Migrate benchmarks to package:web
-    <sub>[#126848](https://github.com/flutter/flutter/pull/126848) merged on May 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/126848) over 3 days, 125 additions and 89 deletions in 6 files</sub>
-    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+    <sub>[#126848](https://github.com/flutter/flutter/pull/126848) merged on May 18, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/126848) over 3 days, 125 additions and 89 deletions in 6 files</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [sigmundch](https://github.com/sigmundch), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Fixing richMessage gesture recognizer in tooltip widget
     <sub>[#126207](https://github.com/flutter/flutter/pull/126207) merged on May 18, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/126207) over 1 week, 48 additions and 20 deletions in 2 files</sub>
@@ -1065,7 +1065,7 @@
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Use moved SkImage procs
     <sub>[#41947](https://github.com/flutter/engine/pull/41947) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41947) over 2 hours, 2 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update README.md
     <sub>[#41953](https://github.com/flutter/engine/pull/41953) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41953) over 56 minutes, 1 addition and 1 deletion in 1 file</sub>
@@ -1148,7 +1148,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Stop specifiying Macmini8,1 in ci builders, use inherited mac_model dimension
     <sub>[#41223](https://github.com/flutter/engine/pull/41223) merged on May 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41223) over 2 weeks, 0 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix flaky FlutterChannelsTests, stop mocking `NSObject`
     <sub>[#41747](https://github.com/flutter/engine/pull/41747) merged on May 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41747) over 41 minutes, 8 additions and 11 deletions in 1 file</sub>
@@ -1533,7 +1533,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Add Kotlin duplicate classes known error to README.md
     <sub>[#3957](https://github.com/flutter/packages/pull/3957) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3957) over 44 minutes, 14 additions and 1 deletion in 3 files</sub>
-    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Remove iOS 9 references
     <sub>[#3948](https://github.com/flutter/packages/pull/3948) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3948) over 1 day, 210 additions and 34 deletions in 23 files</sub>
