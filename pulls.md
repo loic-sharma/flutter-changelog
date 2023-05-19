@@ -54,7 +54,7 @@
     <sub>[#126566](https://github.com/flutter/flutter/pull/126566) opened on on May 11, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/126566) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] delete entitlements files after copying to macos build dir<br />
-    <sub>[#126875](https://github.com/flutter/flutter/pull/126875) opened on on May 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126875) 69 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#126875](https://github.com/flutter/flutter/pull/126875) opened on on May 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126875) 69 additions and 2 deletions in 2 files</sub><br />
 
 * **[Devin](https://github.com/dleyba042)** &mdash; Slider onChangeEnd is never called when arrow keys are used<br />
     <sub>[#126896](https://github.com/flutter/flutter/pull/126896) opened on on May 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126896) 168 additions and 2 deletions in 2 files</sub><br />
