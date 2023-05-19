@@ -84,7 +84,7 @@
     <sub>[#127114](https://github.com/flutter/flutter/pull/127114) opened on on May 18, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/127114) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [tool] delete xcresult bundle file before each xcode retry.<br />
-    <sub>[#127144](https://github.com/flutter/flutter/pull/127144) opened on on May 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127144) 58 additions and 5 deletions in 2 files</sub><br />
+    <sub>[#127144](https://github.com/flutter/flutter/pull/127144) opened on on May 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127144) 58 additions and 5 deletions in 2 files</sub><br />
 
 * **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Added TooltipController to manage visibility of a tooltip<br />
     <sub>[#127149](https://github.com/flutter/flutter/pull/127149) opened on on May 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127149) 117 additions and 0 deletions in 2 files</sub><br />
@@ -94,4 +94,7 @@
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add M3 date picker tests and fix divider<br />
     <sub>[#127197](https://github.com/flutter/flutter/pull/127197) opened on on May 19, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/127197) 399 additions and 6 deletions in 4 files</sub><br />
+
+* **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; fix: Search anchor box location when used on nested navigator<br />
+    <sub>[#127198](https://github.com/flutter/flutter/pull/127198) opened on on May 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127198) 2 additions and 12 deletions in 1 file</sub><br />
 
