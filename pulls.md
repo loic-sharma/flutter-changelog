@@ -86,3 +86,6 @@
 * **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; fix: Search anchor box location when used on nested navigator<br />
     <sub>[#127198](https://github.com/flutter/flutter/pull/127198) opened on on May 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127198) 2 additions and 12 deletions in 1 file</sub><br />
 
+* **[keyonghan](https://github.com/keyonghan)** &mdash; Run Mac intel only targets on both intel and arm<br />
+    <sub>[#127230](https://github.com/flutter/flutter/pull/127230) opened on on May 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127230) 0 additions and 8 deletions in 1 file</sub><br />
+
