@@ -739,7 +739,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Fix bounds when painting style is stroke width for image shaders<br />
     <sub>[#42052](https://github.com/flutter/engine/pull/42052) merged on May 17, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/42052) over 1 day, 14 additions and 5 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impelller] fix flickering due to synchronization issues in compute tessellator.<br />
     <sub>[#42076](https://github.com/flutter/engine/pull/42076) merged on May 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42076) over 23 hours, 15 additions and 5 deletions in 1 file</sub><br />
@@ -1078,7 +1078,7 @@
 
 * **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Remove staging flag<br />
     <sub>[#41843](https://github.com/flutter/engine/pull/41843) merged on May 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41843) over 18 hours, 0 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; [Android] Lifecycle defaults to focused instead of unfocused<br />
     <sub>[#41875](https://github.com/flutter/engine/pull/41875) merged on May 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41875) over 1 day, 9 additions and 9 deletions in 2 files</sub><br />
@@ -1345,7 +1345,7 @@
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Reland: "Determine lifecycle by looking at window focus also" (#41094)<br />
     <sub>[#41702](https://github.com/flutter/engine/pull/41702) merged on May 3, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/41702) over 2 hours, 469 additions and 31 deletions in 16 files</sub><br />
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Reid Baker](https://github.com/reidbaker)</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Reland image encoder<br />
     <sub>[#41632](https://github.com/flutter/engine/pull/41632) merged on May 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/41632) over 50 minutes, 112 additions and 29 deletions in 5 files</sub><br />
@@ -1574,7 +1574,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Add Kotlin duplicate classes known error to README.md<br />
     <sub>[#3957](https://github.com/flutter/packages/pull/3957) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3957) over 44 minutes, 14 additions and 1 deletion in 3 files</sub><br />
-    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Remove iOS 9 references<br />
     <sub>[#3948](https://github.com/flutter/packages/pull/3948) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3948) over 1 day, 210 additions and 34 deletions in 23 files</sub><br />
