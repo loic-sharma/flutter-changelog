@@ -62,9 +62,6 @@
 * **[Devin](https://github.com/dleyba042)** &mdash; Slider onChangeEnd is never called when arrow keys are used<br />
     <sub>[#126896](https://github.com/flutter/flutter/pull/126896) opened on on May 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/126896) 168 additions and 2 deletions in 2 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Give channel descriptions in `flutter channel`, use branch instead of upstream for channel name<br />
-    <sub>[#126936](https://github.com/flutter/flutter/pull/126936) opened on on May 16, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/126936) 265 additions and 187 deletions in 20 files</sub><br />
-
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Add osx_sdk property to Mac platforms/targets<br />
     <sub>[#126956](https://github.com/flutter/flutter/pull/126956) opened on on May 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126956) 69 additions and 11 deletions in 1 file</sub><br />
 
@@ -82,9 +79,6 @@
 
 * **[JsGjKJzi](https://github.com/JsGjKJzi)** &mdash; Interactive viewer doesn't appear to respect the trackpadScrollCausesScale parameter<br />
     <sub>[#127114](https://github.com/flutter/flutter/pull/127114) opened on on May 18, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/127114) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Chris Yang](https://github.com/cyanglaz)** &mdash; [tool] delete xcresult bundle file before each xcode retry.<br />
-    <sub>[#127144](https://github.com/flutter/flutter/pull/127144) opened on on May 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127144) 58 additions and 5 deletions in 2 files</sub><br />
 
 * **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Added TooltipController to manage visibility of a tooltip<br />
     <sub>[#127149](https://github.com/flutter/flutter/pull/127149) opened on on May 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127149) 117 additions and 0 deletions in 2 files</sub><br />
