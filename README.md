@@ -1380,7 +1380,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-23 commits.
+24 commits.
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchase] Fully migrate to BillingClient V5<br />
     <sub>[#3752](https://github.com/flutter/packages/pull/3752) merged on May 17, 2023 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/3752) over 4 weeks, 2076 additions and 1482 deletions in 37 files</sub><br />
@@ -1389,6 +1389,10 @@
 * **[Matthias Koch](https://github.com/fmt-Println-MKO)** &mdash; [flutter_adaptive_scaffold] exchange BottomNavigationBar with NavigationBar<br />
     <sub>[#3746](https://github.com/flutter/packages/pull/3746) merged on May 17, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/3746) over 1 month, 33 additions and 28 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Migrate iOS to Pigeon<br />
+    <sub>[#3974](https://github.com/flutter/packages/pull/3974) merged on May 19, 2023 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/3974) over 1 week, 1723 additions and 570 deletions in 14 files</sub><br />
+    <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [espresso]: Bump com.squareup.okhttp3:okhttp from 4.10.0 to 4.11.0 in /packages/espresso/android<br />
     <sub>[#3804](https://github.com/flutter/packages/pull/3804) merged on May 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3804) over 3 weeks, 4 additions and 3 deletions in 3 files</sub><br />
