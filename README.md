@@ -1380,7 +1380,7 @@
 
 ### May 13, 2023 to May 19, 2023
 
-21 commits.
+22 commits.
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchase] Fully migrate to BillingClient V5<br />
     <sub>[#3752](https://github.com/flutter/packages/pull/3752) merged on May 17, 2023 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/3752) over 4 weeks, 2076 additions and 1482 deletions in 37 files</sub><br />
@@ -1422,6 +1422,10 @@
 * **[gmackall](https://github.com/gmackall)** &mdash; [image_picker] Upgrade androidx.activity to 1.7.0 and add a dependency on kotlin-bom to align kotlin transitive dependencies<br />
     <sub>[#3968](https://github.com/flutter/packages/pull/3968) merged on May 17, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3968) over 5 days, 9 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [image_picker] Fix crash due to `SecurityException`<br />
+    <sub>[#4004](https://github.com/flutter/packages/pull/4004) merged on May 19, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4004) over 3 days, 34 additions and 2 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Lower iOS LUCI timeouts<br />
     <sub>[#4035](https://github.com/flutter/packages/pull/4035) merged on May 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4035) over 2 hours, 10 additions and 13 deletions in 1 file</sub><br />
