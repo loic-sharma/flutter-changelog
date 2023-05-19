@@ -80,9 +80,6 @@
 * **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Added TooltipController to manage visibility of a tooltip<br />
     <sub>[#127149](https://github.com/flutter/flutter/pull/127149) opened on on May 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127149) 117 additions and 0 deletions in 2 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] only try to take a screenshot from flutter drive if the --screenshot flag is passed<br />
-    <sub>[#127150](https://github.com/flutter/flutter/pull/127150) opened on on May 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127150) 63 additions and 12 deletions in 3 files</sub><br />
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add M3 date picker tests and fix divider<br />
     <sub>[#127197](https://github.com/flutter/flutter/pull/127197) opened on on May 19, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/127197) 399 additions and 6 deletions in 4 files</sub><br />
 
