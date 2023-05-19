@@ -65,26 +65,11 @@
 * **[Mahmoud Zayad](https://github.com/MahmoudZayad)** &mdash; Remove target Staging_build_linux framework_tests_misc<br />
     <sub>[#126959](https://github.com/flutter/flutter/pull/126959) opened on on May 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126959) 0 additions and 33 deletions in 1 file</sub><br />
 
-* **[lsaudon](https://github.com/lsaudon)** &mdash; Add missing parameters and sorted as in TextField<br />
-    <sub>[#127020](https://github.com/flutter/flutter/pull/127020) opened on on May 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127020) 46 additions and 23 deletions in 1 file</sub><br />
-
 * **[James Gorman](https://github.com/jamesgorman2)** &mdash; Update ListTile to match M3 spec<br />
     <sub>[#127078](https://github.com/flutter/flutter/pull/127078) opened on on May 18, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/127078) 5969 additions and 429 deletions in 32 files</sub><br />
 
 * **[Matheus Kirchesch](https://github.com/matheus-kirchesch-btor)** &mdash; Added option to disable [NavigationRailDestination]s<br />
     <sub>[#127113](https://github.com/flutter/flutter/pull/127113) opened on on May 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127113) 14 additions and 2 deletions in 1 file</sub><br />
-
-* **[JsGjKJzi](https://github.com/JsGjKJzi)** &mdash; Interactive viewer doesn't appear to respect the trackpadScrollCausesScale parameter<br />
-    <sub>[#127114](https://github.com/flutter/flutter/pull/127114) opened on on May 18, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/127114) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Added TooltipController to manage visibility of a tooltip<br />
-    <sub>[#127149](https://github.com/flutter/flutter/pull/127149) opened on on May 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127149) 117 additions and 0 deletions in 2 files</sub><br />
-
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add M3 date picker tests and fix divider<br />
-    <sub>[#127197](https://github.com/flutter/flutter/pull/127197) opened on on May 19, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/127197) 399 additions and 6 deletions in 4 files</sub><br />
-
-* **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; fix: Search anchor box location when used on nested navigator<br />
-    <sub>[#127198](https://github.com/flutter/flutter/pull/127198) opened on on May 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127198) 2 additions and 12 deletions in 1 file</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Run Mac intel only targets on both intel and arm<br />
     <sub>[#127230](https://github.com/flutter/flutter/pull/127230) opened on on May 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127230) 0 additions and 8 deletions in 1 file</sub><br />
