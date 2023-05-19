@@ -68,6 +68,3 @@
 * **[Matheus Kirchesch](https://github.com/matheus-kirchesch-btor)** &mdash; Added option to disable [NavigationRailDestination]s<br />
     <sub>[#127113](https://github.com/flutter/flutter/pull/127113) opened on on May 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127113) 14 additions and 2 deletions in 1 file</sub><br />
 
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Remove references to deprecated `ThemeData.primaryColorBrightness`<br />
-    <sub>[#127238](https://github.com/flutter/flutter/pull/127238) opened on on May 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127238) 2 additions and 76 deletions in 5 files</sub><br />
-
