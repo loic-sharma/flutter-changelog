@@ -401,7 +401,7 @@
     <sub>[#126284](https://github.com/flutter/flutter/pull/126284) merged on May 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126284) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [John Ryan](https://github.com/johnpryan)</sub>
 
-* **[Midori](https://github.com/natsukazemidori)** &mdash;  [Refactor] Fix style in example
+* **[Midori](https://github.com/natsuk4ze)** &mdash;  [Refactor] Fix style in example
     <sub>[#126191](https://github.com/flutter/flutter/pull/126191) merged on May 8, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/126191) over 2 days, 5 additions and 5 deletions in 1 file</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
@@ -622,7 +622,7 @@
     <sub>[#126035](https://github.com/flutter/flutter/pull/126035) merged on May 4, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/126035) over 20 hours, 122 additions and 26 deletions in 5 files</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
-* **[Midori](https://github.com/natsukazemidori)** &mdash; Fix typo in README.md
+* **[Midori](https://github.com/natsuk4ze)** &mdash; Fix typo in README.md
     <sub>[#126053](https://github.com/flutter/flutter/pull/126053) merged on May 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126053) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
