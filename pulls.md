@@ -65,3 +65,6 @@
 * **[James Gorman](https://github.com/jamesgorman2)** &mdash; Update ListTile to match M3 spec<br />
     <sub>[#127078](https://github.com/flutter/flutter/pull/127078) opened on on May 18, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/127078) 5969 additions and 429 deletions in 32 files</sub><br />
 
+* **[Matheus Kirchesch](https://github.com/matheus-kirchesch-btor)** &mdash; Added option to disable [NavigationRailDestination]s<br />
+    <sub>[#127113](https://github.com/flutter/flutter/pull/127113) opened on on May 18, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/127113) 58 additions and 3 deletions in 2 files</sub><br />
+

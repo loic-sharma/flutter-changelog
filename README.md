@@ -708,7 +708,7 @@
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Fix the issue that 'coverage_coords' is incorrectly calculated in 'FillPathGeometry::GetPositionUVBuffer'<br />
-    <sub>[#42155](https://github.com/flutter/engine/pull/42155) merged on May 19, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42155) over 12 hours, 9 additions and 4 deletions in 2 files</sub><br />
+    <sub>[#42155](https://github.com/flutter/engine/pull/42155) merged on May 19, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/42155) over 12 hours, 9 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
     <sub><details><summary>2 images...</summary>![3Q7pxQTjei](https://github.com/flutter/engine/assets/31977171/5d7ce98a-afef-4d42-96a4-b3524345e69a)![LRG6o1t9mm](https://github.com/flutter/engine/assets/31977171/66c9c3f9-762c-4dc8-b10b-cde179a7bbc4)</details></sub>
 
