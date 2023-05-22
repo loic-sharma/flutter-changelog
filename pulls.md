@@ -77,6 +77,6 @@
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; Add myself to AUTHORS<br />
     <sub>[#127298](https://github.com/flutter/flutter/pull/127298) opened on on May 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127298) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Ivan Suvorov](https://github.com/IvanDreamer)** &mdash; Add Pashto localization file for Cupertino to fix "No CupertinoLocalizations found." for Pashto localization.<br />
-    <sub>[#127301](https://github.com/flutter/flutter/pull/127301) opened on on May 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127301) 25 additions and 0 deletions in 1 file</sub><br />
+* **[Ivan Suvorov](https://github.com/IvanDreamer)** &mdash; Add Pashto localization file for Cupertino to fix "No CupertinoLocalizations found." for Pashto localization + tests..<br />
+    <sub>[#127303](https://github.com/flutter/flutter/pull/127303) opened on on May 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127303) 38 additions and 0 deletions in 2 files</sub><br />
 
