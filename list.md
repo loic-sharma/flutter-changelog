@@ -4,7 +4,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-7 commits.
+9 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Show warning when attempting to flutter run on an ios device with developer mode turned off
     <sub>[#125710](https://github.com/flutter/flutter/pull/125710) merged on May 22, 2023 &mdash; **Small:** [49 comments](https://github.com/flutter/flutter/pull/125710) over 3 weeks, 99 additions and 4 deletions in 9 files</sub>
@@ -27,6 +27,14 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Fix bug in Autocomplete example
     <sub>[#127219](https://github.com/flutter/flutter/pull/127219) merged on May 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127219) over 2 days, 74 additions and 11 deletions in 6 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Daniel Iglesia](https://github.com/monkeyswarm)** &mdash; Support keeping a bottom sheet with a DraggableScrollableSheet from closing on drag/fling to min extent
+    <sub>[#127339](https://github.com/flutter/flutter/pull/127339) merged on May 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127339) over 4 hours, 94 additions and 11 deletions in 5 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix wasm-opt location when using local_web_sdk
+    <sub>[#127355](https://github.com/flutter/flutter/pull/127355) merged on May 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127355) over 56 minutes, 8 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add test for setting JAVA_HOME and PATH when invoking `sdkmanager --licenses`
     <sub>[#127344](https://github.com/flutter/flutter/pull/127344) merged on May 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127344) over 41 minutes, 30 additions and 0 deletions in 1 file</sub>
