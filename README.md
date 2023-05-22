@@ -976,9 +976,18 @@
 
 ## flutter/packages
 
+### May 20, 2023 to May 26, 2023
+
+1 commits.
+
+* **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchases] Fix mismatching method signature strings<br />
+    <sub>[#4040](https://github.com/flutter/packages/pull/4040) merged on May 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4040) over 3 days, 152 additions and 35 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 ### May 13, 2023 to May 19, 2023
 
-24 commits.
+<details>
+<summary>24 commits...</summary>
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchase] Fully migrate to BillingClient V5<br />
     <sub>[#3752](https://github.com/flutter/packages/pull/3752) merged on May 17, 2023 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/3752) over 4 weeks, 2076 additions and 1482 deletions in 37 files</sub><br />
@@ -1076,6 +1085,8 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "[url_launcher] Set broadcast reciever visability as required by target api 34"<br />
     <sub>[#4027](https://github.com/flutter/packages/pull/4027) merged on May 17, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4027) over 2 hours, 6 additions and 16 deletions in 4 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub><br />
+
+</details>
 
 ### May 6, 2023 to May 12, 2023
 
