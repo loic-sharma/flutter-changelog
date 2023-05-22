@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### May 20, 2023 to May 26, 2023
+
+1 commits.
+
+* **[林洵锋](https://github.com/LinXunFeng)** &mdash; Add myself to AUTHORS
+    <sub>[#127298](https://github.com/flutter/flutter/pull/127298) merged on May 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127298) over 13 hours, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
 ### May 13, 2023 to May 19, 2023
 
-64 commits.
+<details>
+<summary>64 commits...</summary>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add ScrollController.onAttach & onDetach, samples/docs on listening/getting scrolling info
     <sub>[#124823](https://github.com/flutter/flutter/pull/124823) merged on May 15, 2023 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/124823) over 1 month, 547 additions and 7 deletions in 9 files</sub>
@@ -262,6 +271,8 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "i125138 abstract method smoke agp update (#125139)"
     <sub>[#126274](https://github.com/flutter/flutter/pull/126274) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126274) over 1 week, 106 additions and 148 deletions in 5 files</sub>
     <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub>
+
+</details>
 
 ### May 6, 2023 to May 12, 2023
 
