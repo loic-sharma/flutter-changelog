@@ -478,7 +478,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-5 commits.
+6 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Create reusable prefix sum.
     <sub>[#42167](https://github.com/flutter/engine/pull/42167) merged on May 22, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42167) over 2 days, 260 additions and 0 deletions in 6 files</sub>
@@ -500,6 +500,10 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Skip and ignore boringssl/src/rust when looking for the licenses.
     <sub>[#42210](https://github.com/flutter/engine/pull/42210) merged on May 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42210) over 3 hours, 2 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Chris Yang](https://github.com/cyanglaz)** &mdash; Reland "[ios_platform_view] only recycle maskView when the view is applying mutators #41573"
+    <sub>[#42115](https://github.com/flutter/engine/pull/42115) merged on May 22, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/engine/pull/42115) over 4 days, 391 additions and 67 deletions in 13 files</sub>
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 ### May 13, 2023 to May 19, 2023
 
@@ -1025,7 +1029,15 @@
 
 ### May 20, 2023 to May 26, 2023
 
-1 commits.
+3 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add a legacy Android build-all test
+    <sub>[#4005](https://github.com/flutter/packages/pull/4005) merged on May 22, 2023 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/4005) over 6 days, 885 additions and 162 deletions in 27 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Remove unnecessary null checks
+    <sub>[#4060](https://github.com/flutter/packages/pull/4060) merged on May 22, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/4060) over 5 hours, 242 additions and 396 deletions in 136 files</sub>
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Chris Bracken](https://github.com/cbracken), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchases] Fix mismatching method signature strings
     <sub>[#4040](https://github.com/flutter/packages/pull/4040) merged on May 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4040) over 3 days, 152 additions and 35 deletions in 7 files</sub>
