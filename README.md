@@ -422,7 +422,7 @@
 
 * **[Midori](https://github.com/natsuk4ze)** &mdash;  [Refactor] Fix style in example<br />
     <sub>[#126191](https://github.com/flutter/flutter/pull/126191) merged on May 8, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/126191) over 2 days, 5 additions and 5 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Ian Hickson](https://github.com/Hixie)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Always use `--concurrency=1` for web tests.<br />
     <sub>[#126179](https://github.com/flutter/flutter/pull/126179) merged on May 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126179) over 2 days, 28 additions and 4 deletions in 2 files</sub><br />
@@ -556,7 +556,7 @@
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Limit subpass textures and backdrop blurs to the current clip<br />
-    <sub>[#42039](https://github.com/flutter/engine/pull/42039) merged on May 15, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/42039) over 5 hours, 306 additions and 160 deletions in 37 files</sub><br />
+    <sub>[#42039](https://github.com/flutter/engine/pull/42039) merged on May 15, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/42039) over 5 hours, 306 additions and 160 deletions in 37 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup Vector3<br />
@@ -1222,7 +1222,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Add Kotlin duplicate classes known error to README.md<br />
     <sub>[#3957](https://github.com/flutter/packages/pull/3957) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3957) over 44 minutes, 14 additions and 1 deletion in 3 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub><br />
+    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Remove iOS 9 references<br />
     <sub>[#3948](https://github.com/flutter/packages/pull/3948) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3948) over 1 day, 210 additions and 34 deletions in 23 files</sub><br />
