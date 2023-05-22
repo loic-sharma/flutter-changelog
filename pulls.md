@@ -74,3 +74,6 @@
 * **[Cempluk90](https://github.com/Cempluk90)** &mdash; Rename no-response.yaml to no-response.yamlframerate<br />
     <sub>[#127280](https://github.com/flutter/flutter/pull/127280) opened on on May 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127280) 0 additions and 0 deletions in 1 file</sub><br />
 
+* **[林洵锋](https://github.com/LinXunFeng)** &mdash; Add myself to AUTHORS<br />
+    <sub>[#127298](https://github.com/flutter/flutter/pull/127298) opened on on May 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127298) 1 addition and 0 deletions in 1 file</sub><br />
+
