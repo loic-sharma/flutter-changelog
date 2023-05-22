@@ -77,6 +77,3 @@
 * **[Kohei Seino](https://github.com/kseino)** &mdash; ScaleGestureRecognizer: make pointerCount public<br />
     <sub>[#127310](https://github.com/flutter/flutter/pull/127310) opened on on May 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127310) 15 additions and 9 deletions in 2 files</sub><br />
 
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; [DRAFT] - Added ScrollPosition.dragTo()<br />
-    <sub>[#127340](https://github.com/flutter/flutter/pull/127340) opened on on May 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127340) 59 additions and 1 deletion in 4 files</sub><br />
-
