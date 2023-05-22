@@ -78,5 +78,5 @@
     <sub>[#127310](https://github.com/flutter/flutter/pull/127310) opened on on May 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127310) 15 additions and 9 deletions in 2 files</sub><br />
 
 * **[Dark Purple Knight](https://github.com/DarkPurpleKnight)** &mdash; Remove const for Scaffold in segmented_button.0.dart<br />
-    <sub>[#127353](https://github.com/flutter/flutter/pull/127353) opened on on May 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127353) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#127353](https://github.com/flutter/flutter/pull/127353) opened on on May 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127353) 1 addition and 1 deletion in 1 file</sub><br />
 

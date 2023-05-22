@@ -4,7 +4,12 @@
 
 ### May 20, 2023 to May 26, 2023
 
-6 commits.
+7 commits.
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Show warning when attempting to flutter run on an ios device with developer mode turned off<br />
+    <sub>[#125710](https://github.com/flutter/flutter/pull/125710) merged on May 22, 2023 &mdash; **Small:** [49 comments](https://github.com/flutter/flutter/pull/125710) over 3 weeks, 99 additions and 4 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+    <sub><details><summary>2 images...</summary><img width="738" alt="Screenshot 2023-05-09 at 3 53 18 AM" src="https://github.com/flutter/flutter/assets/36148254/6f473a6a-5a0d-438b-9e6f-06d09eb1f3a9"><img width="788" alt="Screenshot 2023-05-09 at 3 52 24 AM" src="https://github.com/flutter/flutter/assets/36148254/60c82b3c-d501-4a01-95ad-d6309fe39576"></details></sub>
 
 * **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; fix: Search anchor box location when used on nested navigator<br />
     <sub>[#127198](https://github.com/flutter/flutter/pull/127198) merged on May 22, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/127198) over 3 days, 39 additions and 12 deletions in 2 files</sub><br />
