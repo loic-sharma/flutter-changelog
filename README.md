@@ -4,7 +4,11 @@
 
 ### May 20, 2023 to May 26, 2023
 
-1 commits.
+2 commits.
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Fix bug in Autocomplete example<br />
+    <sub>[#127219](https://github.com/flutter/flutter/pull/127219) merged on May 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127219) over 2 days, 74 additions and 11 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; Add myself to AUTHORS<br />
     <sub>[#127298](https://github.com/flutter/flutter/pull/127298) merged on May 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127298) over 13 hours, 1 addition and 0 deletions in 1 file</sub><br />
@@ -270,7 +274,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "i125138 abstract method smoke agp update (#125139)"<br />
     <sub>[#126274](https://github.com/flutter/flutter/pull/126274) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126274) over 1 week, 106 additions and 148 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [gmackall](https://github.com/gmackall)</sub><br />
+    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 </details>
 
@@ -640,7 +644,7 @@
     <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use host image upload path on simulator<br />
-    <sub>[#42161](https://github.com/flutter/engine/pull/42161) merged on May 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42161) over 49 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#42161](https://github.com/flutter/engine/pull/42161) merged on May 19, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42161) over 49 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [Impeller] Include AndroidSurfaceVulkanImpeller behind a flag<br />
