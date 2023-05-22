@@ -81,5 +81,5 @@
     <sub>[#127339](https://github.com/flutter/flutter/pull/127339) opened on on May 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127339) 94 additions and 11 deletions in 5 files</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; [DRAFT] - Added ScrollPosition.dragTo()<br />
-    <sub>[#127340](https://github.com/flutter/flutter/pull/127340) opened on on May 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127340) 26 additions and 1 deletion in 3 files</sub><br />
+    <sub>[#127340](https://github.com/flutter/flutter/pull/127340) opened on on May 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127340) 26 additions and 1 deletion in 3 files</sub><br />
 
