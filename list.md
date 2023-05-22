@@ -4,7 +4,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-4 commits.
+5 commits.
 
 * **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; fix: Search anchor box location when used on nested navigator
     <sub>[#127198](https://github.com/flutter/flutter/pull/127198) merged on May 22, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/127198) over 3 days, 39 additions and 12 deletions in 2 files</sub>
@@ -18,6 +18,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Fix bug in Autocomplete example
     <sub>[#127219](https://github.com/flutter/flutter/pull/127219) merged on May 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127219) over 2 days, 74 additions and 11 deletions in 6 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add test for setting JAVA_HOME and PATH when invoking `sdkmanager --licenses`
+    <sub>[#127344](https://github.com/flutter/flutter/pull/127344) merged on May 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127344) over 41 minutes, 30 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; Add myself to AUTHORS
     <sub>[#127298](https://github.com/flutter/flutter/pull/127298) merged on May 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127298) over 13 hours, 1 addition and 0 deletions in 1 file</sub>
@@ -483,7 +487,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-7 commits.
+8 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Create reusable prefix sum.
     <sub>[#42167](https://github.com/flutter/engine/pull/42167) merged on May 22, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42167) over 2 days, 260 additions and 0 deletions in 6 files</sub>
@@ -497,6 +501,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Use untransformed text bounds to calculate the size of ColorSourceTextContents
     <sub>[#42142](https://github.com/flutter/engine/pull/42142) merged on May 22, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/42142) over 3 days, 11 additions and 9 deletions in 3 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Return image decoder error messages to the Dart API
+    <sub>[#42175](https://github.com/flutter/engine/pull/42175) merged on May 22, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/42175) over 2 days, 178 additions and 114 deletions in 11 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove final cmd buffer waitUntilScheduled on physical iOS
     <sub>[#42160](https://github.com/flutter/engine/pull/42160) merged on May 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42160) over 3 days, 3 additions and 0 deletions in 1 file</sub>
