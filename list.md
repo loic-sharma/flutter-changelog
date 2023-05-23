@@ -4,7 +4,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-18 commits.
+19 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Fix the breaking of multi-code-unit characters in obscure mode
     <sub>[#123366](https://github.com/flutter/flutter/pull/123366) merged on May 23, 2023 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/123366) over 2 months, 509 additions and 28 deletions in 5 files</sub>
@@ -54,6 +54,10 @@
     <sub>[#127219](https://github.com/flutter/flutter/pull/127219) merged on May 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127219) over 2 days, 74 additions and 11 deletions in 6 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
+* **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Avoid catching errors in TextPainter tests
+    <sub>[#127307](https://github.com/flutter/flutter/pull/127307) merged on May 23, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127307) over 1 day, 19 additions and 24 deletions in 1 file</sub>
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
 * **[NikolajHarderNota](https://github.com/NikolajHarderNota)** &mdash; modal bottom sheet barrier label
     <sub>[#126431](https://github.com/flutter/flutter/pull/126431) merged on May 23, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/126431) over 1 week, 57 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Qun Cheng](https://github.com/QuncCccccc)</sub>
@@ -98,7 +102,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker to 5.0.0
     <sub>[#126367](https://github.com/flutter/flutter/pull/126367) merged on May 16, 2023 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/126367) over 6 days, 354 additions and 350 deletions in 72 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Felix Angelov](https://github.com/felangel)** &mdash; fix(flutter_tools): `findBundleFile` w/multiple flavor dimensions
     <sub>[#127133](https://github.com/flutter/flutter/pull/127133) merged on May 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127133) over 19 hours, 71 additions and 0 deletions in 4 files</sub>
@@ -470,7 +474,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Add dimensions to release builds.
     <sub>[#126117](https://github.com/flutter/flutter/pull/126117) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126117) over 6 days, 12 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jesse Seales](https://github.com/sealesj), [Drew Roen](https://github.com/drewroengoogle)</sub>
+    <sub>Reviewed by: [Drew Roen](https://github.com/drewroengoogle), [Jesse Seales](https://github.com/sealesj)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Add `cpu: x86` dimension and xcode dependency for Mac_build_test targets
     <sub>[#126482](https://github.com/flutter/flutter/pull/126482) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126482) over 16 hours, 3 additions and 0 deletions in 1 file</sub>
@@ -490,7 +494,7 @@
 
 * **[Midori](https://github.com/natsuk4ze)** &mdash;  [Refactor] Fix style in example
     <sub>[#126191](https://github.com/flutter/flutter/pull/126191) merged on May 8, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/126191) over 2 days, 5 additions and 5 deletions in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Ian Hickson](https://github.com/Hixie)</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Always use `--concurrency=1` for web tests.
     <sub>[#126179](https://github.com/flutter/flutter/pull/126179) merged on May 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126179) over 2 days, 28 additions and 4 deletions in 2 files</sub>
@@ -567,7 +571,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Use untransformed text bounds to calculate the size of ColorSourceTextContents
     <sub>[#42142](https://github.com/flutter/engine/pull/42142) merged on May 22, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/42142) over 3 days, 11 additions and 9 deletions in 3 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll buildroot to 5cab8e095066d8f3de063943af26b7336aa52662
     <sub>[#42251](https://github.com/flutter/engine/pull/42251) merged on May 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42251) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
@@ -721,7 +725,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Fix bounds when painting style is stroke width for image shaders
     <sub>[#42052](https://github.com/flutter/engine/pull/42052) merged on May 17, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/42052) over 1 day, 14 additions and 5 deletions in 3 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Fix upload xcresult script in run_tests.py
     <sub>[#42056](https://github.com/flutter/engine/pull/42056) merged on May 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42056) over 2 hours, 17 additions and 15 deletions in 1 file</sub>
