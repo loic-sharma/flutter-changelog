@@ -77,3 +77,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Increases the eyeballed value of auto scroll velocity scalar<br />
     <sub>[#127410](https://github.com/flutter/flutter/pull/127410) opened on on May 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127410) 9 additions and 8 deletions in 2 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Beta CP: delete entitlements files when copying macos framework to build dir<br />
+    <sub>[#127423](https://github.com/flutter/flutter/pull/127423) opened on on May 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127423) 60 additions and 0 deletions in 2 files</sub><br />
+
