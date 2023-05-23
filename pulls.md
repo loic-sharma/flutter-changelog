@@ -54,7 +54,7 @@
     <sub>[#126566](https://github.com/flutter/flutter/pull/126566) opened on on May 11, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/126566) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Devin](https://github.com/dleyba042)** &mdash; Slider onChangeEnd is never called when arrow keys are used<br />
-    <sub>[#126896](https://github.com/flutter/flutter/pull/126896) opened on on May 16, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/126896) 168 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#126896](https://github.com/flutter/flutter/pull/126896) opened on on May 16, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/126896) 129 additions and 30 deletions in 2 files</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Add osx_sdk property to Mac platforms/targets<br />
     <sub>[#126956](https://github.com/flutter/flutter/pull/126956) opened on on May 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126956) 69 additions and 11 deletions in 1 file</sub><br />
@@ -75,5 +75,5 @@
     <sub>[#127310](https://github.com/flutter/flutter/pull/127310) opened on on May 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127310) 15 additions and 9 deletions in 2 files</sub><br />
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; test owners: cyanglaz -> vashworth<br />
-    <sub>[#127391](https://github.com/flutter/flutter/pull/127391) opened on on May 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127391) 24 additions and 24 deletions in 1 file</sub><br />
+    <sub>[#127391](https://github.com/flutter/flutter/pull/127391) opened on on May 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127391) 24 additions and 24 deletions in 1 file</sub><br />
 
