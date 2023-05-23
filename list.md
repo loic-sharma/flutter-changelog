@@ -4,7 +4,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-19 commits.
+20 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Fix the breaking of multi-code-unit characters in obscure mode
     <sub>[#123366](https://github.com/flutter/flutter/pull/123366) merged on May 23, 2023 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/123366) over 2 months, 509 additions and 28 deletions in 5 files</sub>
@@ -25,6 +25,10 @@
     <sub>[#127197](https://github.com/flutter/flutter/pull/127197) merged on May 23, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/127197) over 3 days, 408 additions and 6 deletions in 4 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot 2023-05-19 at 17 32 19](https://github.com/flutter/flutter/assets/48603081/4463de1a-fb94-4930-a6ab-8245331a8134)![Screenshot 2023-05-19 at 17 51 15](https://github.com/flutter/flutter/assets/48603081/296276f0-cf13-4a59-8542-a46da774153b)</details></sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Give channel descriptions in `flutter channel`, use branch instead of upstream for channel name
+    <sub>[#126936](https://github.com/flutter/flutter/pull/126936) merged on May 23, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/126936) over 1 week, 267 additions and 189 deletions in 20 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Adds `namespace` to module build file templates
     <sub>[#126963](https://github.com/flutter/flutter/pull/126963) merged on May 23, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/126963) over 6 days, 59 additions and 1 deletion in 5 files</sub>
@@ -72,11 +76,11 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix wasm-opt location when using local_web_sdk
     <sub>[#127355](https://github.com/flutter/flutter/pull/127355) merged on May 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127355) over 56 minutes, 8 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Yegor](https://github.com/yjbanov)</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add test for setting JAVA_HOME and PATH when invoking `sdkmanager --licenses`
     <sub>[#127344](https://github.com/flutter/flutter/pull/127344) merged on May 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127344) over 41 minutes, 30 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Reid Baker](https://github.com/reidbaker)</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; Add myself to AUTHORS
     <sub>[#127298](https://github.com/flutter/flutter/pull/127298) merged on May 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127298) over 13 hours, 1 addition and 0 deletions in 1 file</sub>
