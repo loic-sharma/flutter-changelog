@@ -4,7 +4,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-11 commits.
+12 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Show warning when attempting to flutter run on an ios device with developer mode turned off<br />
     <sub>[#125710](https://github.com/flutter/flutter/pull/125710) merged on May 22, 2023 &mdash; **Small:** [49 comments](https://github.com/flutter/flutter/pull/125710) over 3 weeks, 99 additions and 4 deletions in 9 files</sub><br />
@@ -15,6 +15,10 @@
     <sub>[#127198](https://github.com/flutter/flutter/pull/127198) merged on May 22, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/127198) over 3 days, 39 additions and 12 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
     <sub><details><summary>2 images...</summary>![Screenshot 2023-05-19 at 11 55 53](https://github.com/flutter/flutter/assets/38299943/c86747e5-6716-4e87-b3fd-ce7f0f943b92)![Screenshot 2023-05-19 at 11 53 30](https://github.com/flutter/flutter/assets/38299943/d790ee49-e047-485c-87f4-7254acbdddfa)</details></sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Adds `namespace` to module build file templates<br />
+    <sub>[#126963](https://github.com/flutter/flutter/pull/126963) merged on May 23, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126963) over 6 days, 59 additions and 1 deletion in 5 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gmackall](https://github.com/gmackall)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] delete entitlements files after copying to macos build dir<br />
     <sub>[#126875](https://github.com/flutter/flutter/pull/126875) merged on May 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126875) over 6 days, 69 additions and 2 deletions in 2 files</sub><br />
