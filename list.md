@@ -4,7 +4,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-20 commits.
+21 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Fix the breaking of multi-code-unit characters in obscure mode
     <sub>[#123366](https://github.com/flutter/flutter/pull/123366) merged on May 23, 2023 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/123366) over 2 months, 509 additions and 28 deletions in 5 files</sub>
@@ -25,6 +25,10 @@
     <sub>[#127197](https://github.com/flutter/flutter/pull/127197) merged on May 23, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/127197) over 3 days, 408 additions and 6 deletions in 4 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot 2023-05-19 at 17 32 19](https://github.com/flutter/flutter/assets/48603081/4463de1a-fb94-4930-a6ab-8245331a8134)![Screenshot 2023-05-19 at 17 51 15](https://github.com/flutter/flutter/assets/48603081/296276f0-cf13-4a59-8542-a46da774153b)</details></sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Migrates android semanitcs integration to integration test
+    <sub>[#127128](https://github.com/flutter/flutter/pull/127128) merged on May 23, 2023 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/127128) over 5 days, 979 additions and 766 deletions in 11 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Give channel descriptions in `flutter channel`, use branch instead of upstream for channel name
     <sub>[#126936](https://github.com/flutter/flutter/pull/126936) merged on May 23, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/126936) over 1 week, 267 additions and 189 deletions in 20 files</sub>
