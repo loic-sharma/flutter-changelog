@@ -29,9 +29,6 @@
 * **[Matias Sebastian Ramirez Brizuela](https://github.com/ramirezsebas)** &mdash; Added support for Custom ExpansionPanel Icon<br />
     <sub>[#121957](https://github.com/flutter/flutter/pull/121957) opened on on March 5, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/121957) 373 additions and 25 deletions in 4 files</sub><br />
 
-* **[Joseph, NamKung](https://github.com/JosephNK)** &mdash; Fix localize CupertinoDatePicker for Korea locale<br />
-    <sub>[#122259](https://github.com/flutter/flutter/pull/122259) opened on on March 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/122259) 0 additions and 0 deletions in 0 files</sub><br />
-
 * **[Ruben Aster](https://github.com/rubenaster)** &mdash; Fix transitioning a TabBarView manually doesn't honor duration and curve #16892<br />
     <sub>[#122279](https://github.com/flutter/flutter/pull/122279) opened on on March 9, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/122279) 45 additions and 16 deletions in 2 files</sub><br />
 
