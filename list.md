@@ -22,7 +22,7 @@
     <sub><details><summary>2 images...</summary>![Screenshot 2023-05-19 at 17 32 19](https://github.com/flutter/flutter/assets/48603081/4463de1a-fb94-4930-a6ab-8245331a8134)![Screenshot 2023-05-19 at 17 51 15](https://github.com/flutter/flutter/assets/48603081/296276f0-cf13-4a59-8542-a46da774153b)</details></sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Adds `namespace` to module build file templates
-    <sub>[#126963](https://github.com/flutter/flutter/pull/126963) merged on May 23, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126963) over 6 days, 59 additions and 1 deletion in 5 files</sub>
+    <sub>[#126963](https://github.com/flutter/flutter/pull/126963) merged on May 23, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/126963) over 6 days, 59 additions and 1 deletion in 5 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gmackall](https://github.com/gmackall)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] delete entitlements files after copying to macos build dir
@@ -289,7 +289,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Fix drone_dimensions.
     <sub>[#126953](https://github.com/flutter/flutter/pull/126953) merged on May 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126953) over 1 hour, 16 additions and 14 deletions in 1 file</sub>
-    <sub>Reviewed by: [Xilai Zhang](https://github.com/XilaiZhang), [Drew Roen](https://github.com/drewroengoogle)</sub>
+    <sub>Reviewed by: [Drew Roen](https://github.com/drewroengoogle), [Xilai Zhang](https://github.com/XilaiZhang)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; rename AssetManifest.bin
     <sub>[#126077](https://github.com/flutter/flutter/pull/126077) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126077) over 1 week, 32 additions and 32 deletions in 9 files</sub>
