@@ -4,7 +4,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-13 commits.
+14 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Show warning when attempting to flutter run on an ios device with developer mode turned off<br />
     <sub>[#125710](https://github.com/flutter/flutter/pull/125710) merged on May 22, 2023 &mdash; **Small:** [49 comments](https://github.com/flutter/flutter/pull/125710) over 3 weeks, 99 additions and 4 deletions in 9 files</sub><br />
@@ -44,6 +44,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Fix bug in Autocomplete example<br />
     <sub>[#127219](https://github.com/flutter/flutter/pull/127219) merged on May 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127219) over 2 days, 74 additions and 11 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Log all output of ios-deploy<br />
+    <sub>[#127222](https://github.com/flutter/flutter/pull/127222) merged on May 23, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/127222) over 3 days, 27 additions and 11 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Daniel Iglesia](https://github.com/monkeyswarm)** &mdash; Support keeping a bottom sheet with a DraggableScrollableSheet from closing on drag/fling to min extent<br />
     <sub>[#127339](https://github.com/flutter/flutter/pull/127339) merged on May 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127339) over 4 hours, 94 additions and 11 deletions in 5 files</sub><br />
