@@ -77,3 +77,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; add link to design doc wiki page<br />
     <sub>[#127442](https://github.com/flutter/flutter/pull/127442) opened on on May 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127442) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Navigator.pop before PopupMenuItem onTap call<br />
+    <sub>[#127446](https://github.com/flutter/flutter/pull/127446) opened on on May 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127446) 41 additions and 2 deletions in 2 files</sub><br />
+
