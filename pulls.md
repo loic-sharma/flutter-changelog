@@ -77,3 +77,6 @@
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; test owners: cyanglaz -> vashworth<br />
     <sub>[#127391](https://github.com/flutter/flutter/pull/127391) opened on on May 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127391) 24 additions and 24 deletions in 1 file</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Log all output of ios-deploy (#127222)"<br />
+    <sub>[#127402](https://github.com/flutter/flutter/pull/127402) opened on on May 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127402) 11 additions and 27 deletions in 2 files</sub><br />
+
