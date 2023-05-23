@@ -24,7 +24,7 @@
     <sub>[#118129](https://github.com/flutter/flutter/pull/118129) opened on on January 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/118129) 74 additions and 47 deletions in 5 files</sub><br />
 
 * **[Sohrab Vahidli](https://github.com/sohrabonline)** &mdash; Update nav_bar.dart<br />
-    <sub>[#121943](https://github.com/flutter/flutter/pull/121943) opened on on March 4, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/121943) 22 additions and 3 deletions in 1 file</sub><br />
+    <sub>[#121943](https://github.com/flutter/flutter/pull/121943) opened on on March 4, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/121943) 22 additions and 3 deletions in 1 file</sub><br />
 
 * **[Matias Sebastian Ramirez Brizuela](https://github.com/ramirezsebas)** &mdash; Added support for Custom ExpansionPanel Icon<br />
     <sub>[#121957](https://github.com/flutter/flutter/pull/121957) opened on on March 5, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/121957) 373 additions and 25 deletions in 4 files</sub><br />
