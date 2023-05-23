@@ -4,7 +4,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-9 commits.
+10 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Show warning when attempting to flutter run on an ios device with developer mode turned off
     <sub>[#125710](https://github.com/flutter/flutter/pull/125710) merged on May 22, 2023 &mdash; **Small:** [49 comments](https://github.com/flutter/flutter/pull/125710) over 3 weeks, 99 additions and 4 deletions in 9 files</sub>
@@ -23,6 +23,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Suggest that people move to "beta" when they upgrade on "master"
     <sub>[#127146](https://github.com/flutter/flutter/pull/127146) merged on May 22, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/127146) over 3 days, 169 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Tim Sneath](https://github.com/timsneath)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove null-safety argument from DartPad doc samples
+    <sub>[#127345](https://github.com/flutter/flutter/pull/127345) merged on May 23, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127345) over 4 hours, 1 addition and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Fix bug in Autocomplete example
     <sub>[#127219](https://github.com/flutter/flutter/pull/127219) merged on May 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127219) over 2 days, 74 additions and 11 deletions in 6 files</sub>
@@ -504,7 +508,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-8 commits.
+10 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Create reusable prefix sum.
     <sub>[#42167](https://github.com/flutter/engine/pull/42167) merged on May 22, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42167) over 2 days, 260 additions and 0 deletions in 6 files</sub>
@@ -514,6 +518,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Add UV compute shader.
     <sub>[#42192](https://github.com/flutter/engine/pull/42192) merged on May 22, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/42192) over 1 day, 364 additions and 89 deletions in 9 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Make FML_LOG safe from static initialization
+    <sub>[#42219](https://github.com/flutter/engine/pull/42219) merged on May 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42219) over 3 hours, 40 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Use untransformed text bounds to calculate the size of ColorSourceTextContents
     <sub>[#42142](https://github.com/flutter/engine/pull/42142) merged on May 22, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/42142) over 3 days, 11 additions and 9 deletions in 3 files</sub>
@@ -530,6 +538,10 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Skip and ignore boringssl/src/rust when looking for the licenses.
     <sub>[#42210](https://github.com/flutter/engine/pull/42210) merged on May 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42210) over 3 hours, 2 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Emircan Uysaler](https://github.com/uysalere)** &mdash; [fuchsia] Bind ChildViewWatcher on platform thread
+    <sub>[#42222](https://github.com/flutter/engine/pull/42222) merged on May 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42222) over 1 hour, 25 additions and 25 deletions in 1 file</sub>
+    <sub>Reviewed by: [David Worsham](https://github.com/arbreng)</sub>
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Again a two-word super tiny typo
     <sub>[#42181](https://github.com/flutter/engine/pull/42181) merged on May 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42181) over 2 days, 2 additions and 2 deletions in 2 files</sub>
@@ -1288,7 +1300,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Add Kotlin duplicate classes known error to README.md
     <sub>[#3957](https://github.com/flutter/packages/pull/3957) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3957) over 44 minutes, 14 additions and 1 deletion in 3 files</sub>
-    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Remove iOS 9 references
     <sub>[#3948](https://github.com/flutter/packages/pull/3948) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3948) over 1 day, 210 additions and 34 deletions in 23 files</sub>
