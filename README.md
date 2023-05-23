@@ -516,7 +516,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-12 commits.
+13 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Create reusable prefix sum.<br />
     <sub>[#42167](https://github.com/flutter/engine/pull/42167) merged on May 22, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42167) over 2 days, 260 additions and 0 deletions in 6 files</sub><br />
@@ -526,6 +526,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Add UV compute shader.<br />
     <sub>[#42192](https://github.com/flutter/engine/pull/42192) merged on May 22, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/42192) over 1 day, 364 additions and 89 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Place Entity Geometry classes in separate TUs<br />
+    <sub>[#42236](https://github.com/flutter/engine/pull/42236) merged on May 23, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/42236) over 53 minutes, 1602 additions and 1444 deletions in 33 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Make FML_LOG safe from static initialization<br />
     <sub>[#42219](https://github.com/flutter/engine/pull/42219) merged on May 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42219) over 3 hours, 40 additions and 2 deletions in 2 files</sub><br />
