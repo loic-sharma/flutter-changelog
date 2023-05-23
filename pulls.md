@@ -77,3 +77,6 @@
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; test owners: cyanglaz -> vashworth<br />
     <sub>[#127391](https://github.com/flutter/flutter/pull/127391) opened on on May 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127391) 24 additions and 24 deletions in 1 file</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Increases the eyeballed value of auto scroll velocity scalar<br />
+    <sub>[#127410](https://github.com/flutter/flutter/pull/127410) opened on on May 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127410) 9 additions and 8 deletions in 2 files</sub><br />
+
