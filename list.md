@@ -22,7 +22,7 @@
     <sub><details><summary>2 images...</summary>![Screenshot 2023-05-19 at 17 32 19](https://github.com/flutter/flutter/assets/48603081/4463de1a-fb94-4930-a6ab-8245331a8134)![Screenshot 2023-05-19 at 17 51 15](https://github.com/flutter/flutter/assets/48603081/296276f0-cf13-4a59-8542-a46da774153b)</details></sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Adds `namespace` to module build file templates
-    <sub>[#126963](https://github.com/flutter/flutter/pull/126963) merged on May 23, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/126963) over 6 days, 59 additions and 1 deletion in 5 files</sub>
+    <sub>[#126963](https://github.com/flutter/flutter/pull/126963) merged on May 23, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/126963) over 6 days, 59 additions and 1 deletion in 5 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gmackall](https://github.com/gmackall)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] delete entitlements files after copying to macos build dir
@@ -469,7 +469,7 @@
 
 * **[Midori](https://github.com/natsuk4ze)** &mdash;  [Refactor] Fix style in example
     <sub>[#126191](https://github.com/flutter/flutter/pull/126191) merged on May 8, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/126191) over 2 days, 5 additions and 5 deletions in 1 file</sub>
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Always use `--concurrency=1` for web tests.
     <sub>[#126179](https://github.com/flutter/flutter/pull/126179) merged on May 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/126179) over 2 days, 28 additions and 4 deletions in 2 files</sub>
