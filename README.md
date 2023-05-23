@@ -457,7 +457,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Add dimensions to release builds.<br />
     <sub>[#126117](https://github.com/flutter/flutter/pull/126117) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126117) over 6 days, 12 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Drew Roen](https://github.com/drewroengoogle), [Jesse Seales](https://github.com/sealesj)</sub><br />
+    <sub>Reviewed by: [Jesse Seales](https://github.com/sealesj), [Drew Roen](https://github.com/drewroengoogle)</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Add `cpu: x86` dimension and xcode dependency for Mac_build_test targets<br />
     <sub>[#126482](https://github.com/flutter/flutter/pull/126482) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126482) over 16 hours, 3 additions and 0 deletions in 1 file</sub><br />
@@ -1045,7 +1045,7 @@
 
 * **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Remove staging flag<br />
     <sub>[#41843](https://github.com/flutter/engine/pull/41843) merged on May 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41843) over 18 hours, 0 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; [Android] Lifecycle defaults to focused instead of unfocused<br />
     <sub>[#41875](https://github.com/flutter/engine/pull/41875) merged on May 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41875) over 1 day, 9 additions and 9 deletions in 2 files</sub><br />
@@ -1357,7 +1357,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Add Kotlin duplicate classes known error to README.md<br />
     <sub>[#3957](https://github.com/flutter/packages/pull/3957) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3957) over 44 minutes, 14 additions and 1 deletion in 3 files</sub><br />
-    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Remove iOS 9 references<br />
     <sub>[#3948](https://github.com/flutter/packages/pull/3948) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3948) over 1 day, 210 additions and 34 deletions in 23 files</sub><br />
