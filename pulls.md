@@ -74,3 +74,6 @@
 * **[Kohei Seino](https://github.com/kseino)** &mdash; ScaleGestureRecognizer: make pointerCount public<br />
     <sub>[#127310](https://github.com/flutter/flutter/pull/127310) opened on on May 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127310) 15 additions and 9 deletions in 2 files</sub><br />
 
+* **[Chris Yang](https://github.com/cyanglaz)** &mdash; test owners: cyanglaz -> vashworth<br />
+    <sub>[#127391](https://github.com/flutter/flutter/pull/127391) opened on on May 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127391) 24 additions and 24 deletions in 1 file</sub><br />
+

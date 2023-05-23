@@ -289,7 +289,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Fix drone_dimensions.<br />
     <sub>[#126953](https://github.com/flutter/flutter/pull/126953) merged on May 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126953) over 1 hour, 16 additions and 14 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Drew Roen](https://github.com/drewroengoogle), [Xilai Zhang](https://github.com/XilaiZhang)</sub><br />
+    <sub>Reviewed by: [Xilai Zhang](https://github.com/XilaiZhang), [Drew Roen](https://github.com/drewroengoogle)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; rename AssetManifest.bin<br />
     <sub>[#126077](https://github.com/flutter/flutter/pull/126077) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126077) over 1 week, 32 additions and 32 deletions in 9 files</sub><br />
