@@ -508,7 +508,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-10 commits.
+11 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Create reusable prefix sum.<br />
     <sub>[#42167](https://github.com/flutter/engine/pull/42167) merged on May 22, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42167) over 2 days, 260 additions and 0 deletions in 6 files</sub><br />
@@ -538,6 +538,10 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Skip and ignore boringssl/src/rust when looking for the licenses.<br />
     <sub>[#42210](https://github.com/flutter/engine/pull/42210) merged on May 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42210) over 3 hours, 2 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from b3e1eeda4918 to 1ca8f8368ecc (5 revisions)<br />
+    <sub>[#42229](https://github.com/flutter/engine/pull/42229) merged on May 23, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/42229) over 1 hour, 423 additions and 320 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Emircan Uysaler](https://github.com/uysalere)** &mdash; [fuchsia] Bind ChildViewWatcher on platform thread<br />
     <sub>[#42222](https://github.com/flutter/engine/pull/42222) merged on May 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42222) over 1 hour, 25 additions and 25 deletions in 1 file</sub><br />
