@@ -92,3 +92,6 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; [DRAFT] - Change `useMaterial3` default to true<br />
     <sub>[#127501](https://github.com/flutter/flutter/pull/127501) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127501) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Adds `TestDisplay` API for testing `Display` features<br />
+    <sub>[#127525](https://github.com/flutter/flutter/pull/127525) opened on on May 24, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/127525) 361 additions and 14 deletions in 3 files</sub><br />
+
