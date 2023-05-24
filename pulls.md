@@ -71,6 +71,9 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Increases the eyeballed value of auto scroll velocity scalar<br />
     <sub>[#127410](https://github.com/flutter/flutter/pull/127410) opened on on May 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127410) 56 additions and 10 deletions in 4 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Modify Linux_android flutter_engine_group_performance to uninstall app before attempting to install<br />
+    <sub>[#127429](https://github.com/flutter/flutter/pull/127429) opened on on May 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127429) 4 additions and 1 deletion in 2 files</sub><br />
+
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; add link to design doc wiki page<br />
     <sub>[#127442](https://github.com/flutter/flutter/pull/127442) opened on on May 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127442) 1 addition and 0 deletions in 1 file</sub><br />
 
