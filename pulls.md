@@ -71,9 +71,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Increases the eyeballed value of auto scroll velocity scalar<br />
     <sub>[#127410](https://github.com/flutter/flutter/pull/127410) opened on on May 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127410) 56 additions and 10 deletions in 4 files</sub><br />
 
-* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; `ProcessResultMatcher` created and used in test<br />
-    <sub>[#127414](https://github.com/flutter/flutter/pull/127414) opened on on May 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127414) 88 additions and 1 deletion in 3 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; add link to design doc wiki page<br />
     <sub>[#127442](https://github.com/flutter/flutter/pull/127442) opened on on May 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127442) 1 addition and 0 deletions in 1 file</sub><br />
 
@@ -89,9 +86,6 @@
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Fix super tiny space formatting (hope we have auto formatter in the future)<br />
     <sub>[#127479](https://github.com/flutter/flutter/pull/127479) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127479) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny remove unnecessary method in text_selection.dart<br />
-    <sub>[#127480](https://github.com/flutter/flutter/pull/127480) opened on on May 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127480) 0 additions and 5 deletions in 1 file</sub><br />
-
 * **[Oleh Prypin](https://github.com/oprypin)** &mdash; Prepare for making `intl` `toBeginningOfSentenceCase` non-nullable<br />
     <sub>[#127488](https://github.com/flutter/flutter/pull/127488) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127488) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -103,4 +97,7 @@
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; [DRAFT] - Change `useMaterial3` default to true<br />
     <sub>[#127501](https://github.com/flutter/flutter/pull/127501) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127501) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [Linux] Fix deprecated libupower call in example<br />
+    <sub>[#127503](https://github.com/flutter/flutter/pull/127503) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127503) 1 addition and 1 deletion in 1 file</sub><br />
 
