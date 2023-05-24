@@ -95,3 +95,6 @@
 * **[Oleh Prypin](https://github.com/oprypin)** &mdash; Prepare for making `intl` `toBeginningOfSentenceCase` non-nullable<br />
     <sub>[#127488](https://github.com/flutter/flutter/pull/127488) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127488) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Habrouk](https://github.com/ElHbrouk)** &mdash; Fixed typo in pub.dart<br />
+    <sub>[#127490](https://github.com/flutter/flutter/pull/127490) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127490) 1 addition and 1 deletion in 1 file</sub><br />
+
