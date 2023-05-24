@@ -4,7 +4,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-34 commits.
+35 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Fix the breaking of multi-code-unit characters in obscure mode<br />
     <sub>[#123366](https://github.com/flutter/flutter/pull/123366) merged on May 23, 2023 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/123366) over 2 months, 509 additions and 28 deletions in 5 files</sub><br />
@@ -94,17 +94,13 @@
     <sub>[#127020](https://github.com/flutter/flutter/pull/127020) merged on May 24, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/127020) over 1 week, 246 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Update labeler action wildcards<br />
+    <sub>[#127524](https://github.com/flutter/flutter/pull/127524) merged on May 24, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/127524) over 2 hours, 37 additions and 36 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
+
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; Add myself to AUTHORS<br />
     <sub>[#127298](https://github.com/flutter/flutter/pull/127298) merged on May 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127298) over 13 hours, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Manually roll Flutter Engine from 0c41b02cd5a6 to c641f6307f08<br />
-    <sub>[#127514](https://github.com/flutter/flutter/pull/127514) merged on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127514) over 2 hours, 10 additions and 14 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Phil Quitslund](https://github.com/pq), [Alexander Aprelev](https://github.com/aam), [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Update CP template to include timeline and changelog<br />
-    <sub>[#127507](https://github.com/flutter/flutter/pull/127507) merged on May 24, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/127507) over 3 hours, 20 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Kevin Chisholm](https://github.com/itsjustkevin)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Log all lines from ios-deploy<br />
     <sub>[#127502](https://github.com/flutter/flutter/pull/127502) merged on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127502) over 2 hours, 118 additions and 21 deletions in 4 files</sub><br />
@@ -134,13 +130,21 @@
     <sub>[#127344](https://github.com/flutter/flutter/pull/127344) merged on May 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127344) over 41 minutes, 30 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Update labeler action wildcards<br />
-    <sub>[#127524](https://github.com/flutter/flutter/pull/127524) merged on May 24, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/127524) over 2 hours, 37 additions and 36 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Manually roll Flutter Engine from 0c41b02cd5a6 to c641f6307f08<br />
+    <sub>[#127514](https://github.com/flutter/flutter/pull/127514) merged on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127514) over 2 hours, 10 additions and 14 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Phil Quitslund](https://github.com/pq), [Alexander Aprelev](https://github.com/aam), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Update CP template to include timeline and changelog<br />
+    <sub>[#127507](https://github.com/flutter/flutter/pull/127507) merged on May 24, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/127507) over 3 hours, 20 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Kevin Chisholm](https://github.com/itsjustkevin)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Log all output of ios-deploy"<br />
     <sub>[#127405](https://github.com/flutter/flutter/pull/127405) merged on May 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127405) over 3 minutes, 11 additions and 27 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Update labeler action wildcards"<br />
+    <sub>[#127541](https://github.com/flutter/flutter/pull/127541) merged on May 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127541) over 3 minutes, 36 additions and 37 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Replace rsync when unzipping artifacts on a Mac (#126703)"<br />
     <sub>[#127430](https://github.com/flutter/flutter/pull/127430) merged on May 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127430) over 22 hours, 52 additions and 108 deletions in 2 files</sub><br />
