@@ -602,7 +602,7 @@
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Ashish Myles](https://github.com/marcianx)** &mdash; [web] Update a11y announcements to append divs instead of setting content.
-    <sub>[#42258](https://github.com/flutter/engine/pull/42258) merged on May 24, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/42258) over 1 day, 107 additions and 72 deletions in 2 files</sub>
+    <sub>[#42258](https://github.com/flutter/engine/pull/42258) merged on May 24, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/42258) over 1 day, 107 additions and 72 deletions in 2 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar), [Hassan](https://github.com/htoor3)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add 1 pixel border to snapshots of Contents
