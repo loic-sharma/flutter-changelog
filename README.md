@@ -1120,7 +1120,7 @@
 
 * **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Remove staging flag<br />
     <sub>[#41843](https://github.com/flutter/engine/pull/41843) merged on May 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41843) over 18 hours, 0 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Jim Graham](https://github.com/flar)</sub><br />
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; [Android] Lifecycle defaults to focused instead of unfocused<br />
     <sub>[#41875](https://github.com/flutter/engine/pull/41875) merged on May 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41875) over 1 day, 9 additions and 9 deletions in 2 files</sub><br />
@@ -1285,7 +1285,7 @@
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [image_picker] Fix crash due to `SecurityException`<br />
     <sub>[#4004](https://github.com/flutter/packages/pull/4004) merged on May 19, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4004) over 3 days, 34 additions and 2 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [gmackall](https://github.com/gmackall)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Lower iOS LUCI timeouts<br />
     <sub>[#4035](https://github.com/flutter/packages/pull/4035) merged on May 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4035) over 2 hours, 10 additions and 13 deletions in 1 file</sub><br />
