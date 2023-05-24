@@ -92,3 +92,6 @@
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Adds `TestDisplay` API for testing `Display` features<br />
     <sub>[#127525](https://github.com/flutter/flutter/pull/127525) opened on on May 24, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/127525) 361 additions and 14 deletions in 3 files</sub><br />
 
+* **[godofredoc](https://github.com/godofredoc)** &mdash; CP: [Linux] Ignore deprecation of libupower call in example (#127503)<br />
+    <sub>[#127530](https://github.com/flutter/flutter/pull/127530) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127530) 5 additions and 0 deletions in 1 file</sub><br />
+
