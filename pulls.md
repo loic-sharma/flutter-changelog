@@ -92,3 +92,6 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; [DRAFT] - Change `useMaterial3` default to true<br />
     <sub>[#127501](https://github.com/flutter/flutter/pull/127501) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127501) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Update labeler action wildcards<br />
+    <sub>[#127524](https://github.com/flutter/flutter/pull/127524) opened on on May 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127524) 23 additions and 23 deletions in 1 file</sub><br />
+
