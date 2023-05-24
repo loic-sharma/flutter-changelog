@@ -53,9 +53,6 @@
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Add osx_sdk property to Mac platforms/targets<br />
     <sub>[#126956](https://github.com/flutter/flutter/pull/126956) opened on on May 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126956) 69 additions and 11 deletions in 1 file</sub><br />
 
-* **[Matheus Kirchesch](https://github.com/matheus-kirchesch-btor)** &mdash; Added option to disable [NavigationRailDestination]s<br />
-    <sub>[#127113](https://github.com/flutter/flutter/pull/127113) opened on on May 18, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/127113) 58 additions and 3 deletions in 2 files</sub><br />
-
 * **[Vasiliy Ditsyak](https://github.com/vasilich6107)** &mdash; Add fallback font to IconData class<br />
     <sub>[#127269](https://github.com/flutter/flutter/pull/127269) opened on on May 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127269) 33 additions and 2 deletions in 3 files</sub><br />
 
@@ -100,4 +97,10 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [Linux] Fix deprecated libupower call in example<br />
     <sub>[#127503](https://github.com/flutter/flutter/pull/127503) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127503) 5 additions and 0 deletions in 1 file</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Update platform_channel linux example<br />
+    <sub>[#127509](https://github.com/flutter/flutter/pull/127509) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127509) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Phil Quitslund](https://github.com/pq)** &mdash; Update collection-fors to prefer final (as per updated `prefer_final_in_for_each`)<br />
+    <sub>[#127511](https://github.com/flutter/flutter/pull/127511) opened on on May 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127511) 32 additions and 32 deletions in 25 files</sub><br />
 
