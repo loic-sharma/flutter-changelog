@@ -554,7 +554,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-30 commits.
+31 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Move platformViewRegistry to ui_web<br />
     <sub>[#41877](https://github.com/flutter/engine/pull/41877) merged on May 23, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/41877) over 1 week, 103 additions and 49 deletions in 11 files</sub><br />
@@ -568,6 +568,11 @@
     <sub>[#42167](https://github.com/flutter/engine/pull/42167) merged on May 22, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42167) over 2 days, 260 additions and 0 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/engine/assets/8975114/3d9af2b2-f1ea-413a-ac1f-d4a69211388e)</details></sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add golden repro for mask blur issues<br />
+    <sub>[#42275](https://github.com/flutter/engine/pull/42275) merged on May 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42275) over 1 hour, 25 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/engine/assets/919017/d08f607c-7cad-4f05-a663-4ae2316553e2)</details></sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Set the coverage hint on everything<br />
     <sub>[#42264](https://github.com/flutter/engine/pull/42264) merged on May 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/42264) over 3 hours, 27 additions and 11 deletions in 2 files</sub><br />
