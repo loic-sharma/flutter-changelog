@@ -57,7 +57,7 @@
     <sub>[#127113](https://github.com/flutter/flutter/pull/127113) opened on on May 18, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/127113) 58 additions and 3 deletions in 2 files</sub><br />
 
 * **[Vasiliy Ditsyak](https://github.com/vasilich6107)** &mdash; Add fallback font to IconData class<br />
-    <sub>[#127269](https://github.com/flutter/flutter/pull/127269) opened on on May 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127269) 33 additions and 2 deletions in 3 files</sub><br />
+    <sub>[#127269](https://github.com/flutter/flutter/pull/127269) opened on on May 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127269) 33 additions and 2 deletions in 3 files</sub><br />
 
 * **[Cempluk90](https://github.com/Cempluk90)** &mdash; Rename no-response.yaml to no-response.yamlframerate<br />
     <sub>[#127280](https://github.com/flutter/flutter/pull/127280) opened on on May 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127280) 0 additions and 0 deletions in 1 file</sub><br />
