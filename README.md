@@ -1125,7 +1125,7 @@
 
 * **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Remove staging flag<br />
     <sub>[#41843](https://github.com/flutter/engine/pull/41843) merged on May 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41843) over 18 hours, 0 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; [Android] Lifecycle defaults to focused instead of unfocused<br />
     <sub>[#41875](https://github.com/flutter/engine/pull/41875) merged on May 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41875) over 1 day, 9 additions and 9 deletions in 2 files</sub><br />
@@ -1228,7 +1228,7 @@
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchase] Bump `in_app_purchase_android` dependency to 3.0.0<br />
     <sub>[#4065](https://github.com/flutter/packages/pull/4065) merged on May 23, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4065) over 11 hours, 12 additions and 34 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchases] Fix mismatching method signature strings<br />
     <sub>[#4040](https://github.com/flutter/packages/pull/4040) merged on May 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4040) over 3 days, 152 additions and 35 deletions in 7 files</sub><br />
@@ -1445,7 +1445,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Add Kotlin duplicate classes known error to README.md<br />
     <sub>[#3957](https://github.com/flutter/packages/pull/3957) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3957) over 44 minutes, 14 additions and 1 deletion in 3 files</sub><br />
-    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Remove iOS 9 references<br />
     <sub>[#3948](https://github.com/flutter/packages/pull/3948) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3948) over 1 day, 210 additions and 34 deletions in 23 files</sub><br />
