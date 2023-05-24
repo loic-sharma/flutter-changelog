@@ -99,5 +99,5 @@
     <sub>[#127501](https://github.com/flutter/flutter/pull/127501) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127501) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [Linux] Fix deprecated libupower call in example<br />
-    <sub>[#127503](https://github.com/flutter/flutter/pull/127503) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127503) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#127503](https://github.com/flutter/flutter/pull/127503) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127503) 5 additions and 0 deletions in 1 file</sub><br />
 
