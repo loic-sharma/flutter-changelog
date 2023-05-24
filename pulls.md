@@ -83,3 +83,6 @@
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; When resized network image has error, all future unrelated images using the same url will fail, even if the network becomes OK<br />
     <sub>[#127456](https://github.com/flutter/flutter/pull/127456) opened on on May 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127456) 53 additions and 1 deletion in 4 files</sub><br />
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; handleSelectWord in MultiSelectableSelectionContainerDelegate should handle rects inside of rects<br />
+    <sub>[#127478](https://github.com/flutter/flutter/pull/127478) opened on on May 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127478) 82 additions and 1 deletion in 2 files</sub><br />
+
