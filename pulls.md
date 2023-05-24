@@ -101,3 +101,6 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [Linux] Fix deprecated libupower call in example<br />
     <sub>[#127503](https://github.com/flutter/flutter/pull/127503) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127503) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Phil Quitslund](https://github.com/pq)** &mdash; update test expectations for fixed linter<br />
+    <sub>[#127505](https://github.com/flutter/flutter/pull/127505) opened on on May 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127505) 1 addition and 2 deletions in 2 files</sub><br />
+
