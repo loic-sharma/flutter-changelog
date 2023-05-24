@@ -1199,7 +1199,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-5 commits.
+6 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add a legacy Android build-all test<br />
     <sub>[#4005](https://github.com/flutter/packages/pull/4005) merged on May 22, 2023 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/4005) over 6 days, 885 additions and 162 deletions in 27 files</sub><br />
@@ -1212,6 +1212,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Remove unnecessary null checks<br />
     <sub>[#4060](https://github.com/flutter/packages/pull/4060) merged on May 22, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/4060) over 5 hours, 242 additions and 396 deletions in 136 files</sub><br />
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Chris Bracken](https://github.com/cbracken), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Update infra reviewers and add label.<br />
+    <sub>[#4068](https://github.com/flutter/packages/pull/4068) merged on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4068) over 3 hours, 4 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchase] Bump `in_app_purchase_android` dependency to 3.0.0<br />
     <sub>[#4065](https://github.com/flutter/packages/pull/4065) merged on May 23, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4065) over 11 hours, 12 additions and 34 deletions in 4 files</sub><br />
