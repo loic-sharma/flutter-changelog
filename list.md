@@ -554,7 +554,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-29 commits.
+30 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Move platformViewRegistry to ui_web
     <sub>[#41877](https://github.com/flutter/engine/pull/41877) merged on May 23, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/41877) over 1 week, 103 additions and 49 deletions in 11 files</sub>
@@ -582,6 +582,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Add UV compute shader.
     <sub>[#42192](https://github.com/flutter/engine/pull/42192) merged on May 22, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/42192) over 1 day, 364 additions and 89 deletions in 9 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Start of Dart GPU prototype
+    <sub>[#42228](https://github.com/flutter/engine/pull/42228) merged on May 24, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/engine/pull/42228) over 1 day, 313 additions and 4 deletions in 11 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Place Entity Geometry classes in separate TUs
     <sub>[#42236](https://github.com/flutter/engine/pull/42236) merged on May 23, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/42236) over 53 minutes, 1602 additions and 1444 deletions in 33 files</sub>
