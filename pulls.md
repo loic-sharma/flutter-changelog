@@ -83,3 +83,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] manually roll pub deps<br />
     <sub>[#127447](https://github.com/flutter/flutter/pull/127447) opened on on May 23, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/127447) 406 additions and 407 deletions in 58 files</sub><br />
 
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; When resized network image has error, all future unrelated images using the same url will fail, even if the network becomes OK<br />
+    <sub>[#127456](https://github.com/flutter/flutter/pull/127456) opened on on May 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127456) 53 additions and 1 deletion in 4 files</sub><br />
+
