@@ -71,6 +71,9 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Increases the eyeballed value of auto scroll velocity scalar<br />
     <sub>[#127410](https://github.com/flutter/flutter/pull/127410) opened on on May 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127410) 56 additions and 10 deletions in 4 files</sub><br />
 
+* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; `ProcessResultMatcher` created and used in test<br />
+    <sub>[#127414](https://github.com/flutter/flutter/pull/127414) opened on on May 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127414) 82 additions and 1 deletion in 2 files</sub><br />
+
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; add link to design doc wiki page<br />
     <sub>[#127442](https://github.com/flutter/flutter/pull/127442) opened on on May 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127442) 1 addition and 0 deletions in 1 file</sub><br />
 
