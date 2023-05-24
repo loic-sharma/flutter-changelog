@@ -50,9 +50,6 @@
 * **[Florian](https://github.com/PlutoHDDev)** &mdash; Fix output of _informAboutExistingCaches<br />
     <sub>[#126566](https://github.com/flutter/flutter/pull/126566) opened on on May 11, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/126566) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[keyonghan](https://github.com/keyonghan)** &mdash; Add osx_sdk property to Mac platforms/targets<br />
-    <sub>[#126956](https://github.com/flutter/flutter/pull/126956) opened on on May 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126956) 69 additions and 11 deletions in 1 file</sub><br />
-
 * **[Vasiliy Ditsyak](https://github.com/vasilich6107)** &mdash; Add fallback font to IconData class<br />
     <sub>[#127269](https://github.com/flutter/flutter/pull/127269) opened on on May 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127269) 33 additions and 2 deletions in 3 files</sub><br />
 

@@ -4,7 +4,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-29 commits.
+31 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Fix the breaking of multi-code-unit characters in obscure mode
     <sub>[#123366](https://github.com/flutter/flutter/pull/123366) merged on May 23, 2023 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/123366) over 2 months, 509 additions and 28 deletions in 5 files</sub>
@@ -25,6 +25,10 @@
     <sub>[#127197](https://github.com/flutter/flutter/pull/127197) merged on May 23, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/127197) over 3 days, 408 additions and 6 deletions in 4 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot 2023-05-19 at 17 32 19](https://github.com/flutter/flutter/assets/48603081/4463de1a-fb94-4930-a6ab-8245331a8134)![Screenshot 2023-05-19 at 17 51 15](https://github.com/flutter/flutter/assets/48603081/296276f0-cf13-4a59-8542-a46da774153b)</details></sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Improve `TextPainter.layout` caching
+    <sub>[#118128](https://github.com/flutter/flutter/pull/118128) merged on May 24, 2023 &mdash; **Large:** [81 comments](https://github.com/flutter/flutter/pull/118128) over 4 months, 431 additions and 170 deletions in 5 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Tomasz Gucio](https://github.com/tgucio), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Sun Jiao](https://github.com/sun-jiao)** &mdash; make `suggestionsBuilder` in `SearchAnchor` asyncable
     <sub>[#127019](https://github.com/flutter/flutter/pull/127019) merged on May 24, 2023 &mdash; **Medium:** [41 comments](https://github.com/flutter/flutter/pull/127019) over 1 week, 454 additions and 7 deletions in 6 files</sub>
@@ -77,6 +81,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Fix bug in Autocomplete example
     <sub>[#127219](https://github.com/flutter/flutter/pull/127219) merged on May 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127219) over 2 days, 74 additions and 11 deletions in 6 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix ScrollPosition overscroll precision error
+    <sub>[#127321](https://github.com/flutter/flutter/pull/127321) merged on May 24, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/127321) over 2 days, 43 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [nt4f04uNd](https://github.com/nt4f04uNd)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Manually roll Flutter Engine from 0c41b02cd5a6 to c641f6307f08
     <sub>[#127514](https://github.com/flutter/flutter/pull/127514) merged on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127514) over 2 hours, 10 additions and 14 deletions in 5 files</sub>
