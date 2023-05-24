@@ -606,7 +606,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Use untransformed text bounds to calculate the size of ColorSourceTextContents<br />
     <sub>[#42142](https://github.com/flutter/engine/pull/42142) merged on May 22, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/42142) over 3 days, 11 additions and 9 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove framebuffer blending from atlas, fix transform scale<br />
     <sub>[#42254](https://github.com/flutter/engine/pull/42254) merged on May 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42254) over 6 hours, 79 additions and 41 deletions in 3 files</sub><br />
@@ -731,7 +731,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Use 32 bit Gaussian function in the 2-pass blur<br />
     <sub>[#42069](https://github.com/flutter/engine/pull/42069) merged on May 16, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/42069) over 15 hours, 25 additions and 11 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub><br />
     <sub><details><summary>3 images...</summary>![Screen Shot 2023-05-15 at 11 14 20 PM](https://github.com/flutter/engine/assets/919017/cc342954-4550-46ed-80d8-1e27acfd56ce)![Screen Shot 2023-05-15 at 11 12 18 PM](https://github.com/flutter/engine/assets/919017/f03fbd70-f21f-48e4-9a10-30aaad43bfa3)![Screen Shot 2023-05-15 at 11 16 58 PM](https://github.com/flutter/engine/assets/919017/c8ade876-4ea5-4d50-9bbe-a680d3921740)</details></sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Implement `ImageFilter`/`ColorFilter`/`MaskFilter` in Skwasm<br />
@@ -1069,7 +1069,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS - TextInput] Insert new line only when TextInputAction.newline<br />
     <sub>[#41977](https://github.com/flutter/engine/pull/41977) merged on May 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41977) over 18 hours, 203 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleaner output on LUCI<br />
     <sub>[#41989](https://github.com/flutter/engine/pull/41989) merged on May 12, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41989) over 2 hours, 9 additions and 1 deletion in 2 files</sub><br />
@@ -1157,7 +1157,7 @@
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Use moved SkImage procs<br />
     <sub>[#41947](https://github.com/flutter/engine/pull/41947) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41947) over 2 hours, 2 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update README.md<br />
     <sub>[#41953](https://github.com/flutter/engine/pull/41953) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41953) over 56 minutes, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1212,7 +1212,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-7 commits.
+8 commits.
 
 * **[Pedro Henrique Cordeiro Soares](https://github.com/phcs971)** &mdash; [quick_actions] Fix iOS home screen quick actions documentation hyperlink<br />
     <sub>[#4059](https://github.com/flutter/packages/pull/4059) merged on May 24, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/4059) over 2 days, 6 additions and 2 deletions in 3 files</sub><br />
@@ -1222,6 +1222,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add a legacy Android build-all test<br />
     <sub>[#4005](https://github.com/flutter/packages/pull/4005) merged on May 22, 2023 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/4005) over 6 days, 885 additions and 162 deletions in 27 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Fixes `unawaited_futures` violations<br />
+    <sub>[#4067](https://github.com/flutter/packages/pull/4067) merged on May 24, 2023 &mdash; **Medium:** [25 comments](https://github.com/flutter/packages/pull/4067) over 19 hours, 266 additions and 143 deletions in 78 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [gmackall](https://github.com/gmackall), [chunhtai](https://github.com/chunhtai), [Brett Morgan](https://github.com/domesticmouse), [Reid Baker](https://github.com/reidbaker), and [2 others](https://github.com/flutter/packages/pull/4067)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [in_app_purchase] Fix Java lints<br />
     <sub>[#4032](https://github.com/flutter/packages/pull/4032) merged on May 23, 2023 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/4032) over 5 days, 121 additions and 388 deletions in 9 files</sub><br />
