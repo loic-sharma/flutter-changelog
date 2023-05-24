@@ -1212,7 +1212,12 @@
 
 ### May 20, 2023 to May 26, 2023
 
-6 commits.
+7 commits.
+
+* **[Pedro Henrique Cordeiro Soares](https://github.com/phcs971)** &mdash; [quick_actions] Fix iOS home screen quick actions documentation hyperlink
+    <sub>[#4059](https://github.com/flutter/packages/pull/4059) merged on May 24, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/4059) over 2 days, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub><details><summary>1 image...</summary><img width="1732" alt="image" src="https://github.com/flutter/packages/assets/48731731/85d7555f-b3af-4f67-865d-142653949342"></details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add a legacy Android build-all test
     <sub>[#4005](https://github.com/flutter/packages/pull/4005) merged on May 22, 2023 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/4005) over 6 days, 885 additions and 162 deletions in 27 files</sub>
