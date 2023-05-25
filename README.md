@@ -1260,7 +1260,7 @@
 
 * **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Remove staging flag<br />
     <sub>[#41843](https://github.com/flutter/engine/pull/41843) merged on May 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41843) over 18 hours, 0 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Jim Graham](https://github.com/flar)</sub><br />
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; [Android] Lifecycle defaults to focused instead of unfocused<br />
     <sub>[#41875](https://github.com/flutter/engine/pull/41875) merged on May 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41875) over 1 day, 9 additions and 9 deletions in 2 files</sub><br />
