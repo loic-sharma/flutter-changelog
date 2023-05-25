@@ -4,7 +4,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-35 commits.
+36 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Fix the breaking of multi-code-unit characters in obscure mode<br />
     <sub>[#123366](https://github.com/flutter/flutter/pull/123366) merged on May 23, 2023 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/123366) over 2 months, 509 additions and 28 deletions in 5 files</sub><br />
@@ -37,6 +37,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Migrates android semanitcs integration to integration test<br />
     <sub>[#127128](https://github.com/flutter/flutter/pull/127128) merged on May 23, 2023 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/127128) over 5 days, 979 additions and 766 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove Tooltip mouse tracker listener & update hovering/MouseRegion logic & animation<br />
+    <sub>[#119199](https://github.com/flutter/flutter/pull/119199) merged on May 25, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/119199) over 3 months, 587 additions and 313 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Give channel descriptions in `flutter channel`, use branch instead of upstream for channel name<br />
     <sub>[#126936](https://github.com/flutter/flutter/pull/126936) merged on May 23, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/126936) over 1 week, 267 additions and 189 deletions in 20 files</sub><br />
@@ -102,10 +106,6 @@
     <sub>[#127298](https://github.com/flutter/flutter/pull/127298) merged on May 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127298) over 13 hours, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Log all lines from ios-deploy<br />
-    <sub>[#127502](https://github.com/flutter/flutter/pull/127502) merged on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127502) over 2 hours, 118 additions and 21 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Avoid catching errors in TextPainter tests<br />
     <sub>[#127307](https://github.com/flutter/flutter/pull/127307) merged on May 23, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127307) over 1 day, 19 additions and 24 deletions in 1 file</sub><br />
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
@@ -138,9 +138,9 @@
     <sub>[#127507](https://github.com/flutter/flutter/pull/127507) merged on May 24, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/127507) over 3 hours, 20 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Kevin Chisholm](https://github.com/itsjustkevin)</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Log all output of ios-deploy"<br />
-    <sub>[#127405](https://github.com/flutter/flutter/pull/127405) merged on May 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127405) over 3 minutes, 11 additions and 27 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Log all lines from ios-deploy<br />
+    <sub>[#127502](https://github.com/flutter/flutter/pull/127502) merged on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127502) over 2 hours, 118 additions and 21 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Update labeler action wildcards"<br />
     <sub>[#127541](https://github.com/flutter/flutter/pull/127541) merged on May 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127541) over 3 minutes, 36 additions and 37 deletions in 1 file</sub><br />
@@ -149,6 +149,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Replace rsync when unzipping artifacts on a Mac (#126703)"<br />
     <sub>[#127430](https://github.com/flutter/flutter/pull/127430) merged on May 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127430) over 22 hours, 52 additions and 108 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Log all output of ios-deploy"<br />
+    <sub>[#127405](https://github.com/flutter/flutter/pull/127405) merged on May 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127405) over 3 minutes, 11 additions and 27 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### May 13, 2023 to May 19, 2023
 
