@@ -1403,7 +1403,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Convert Android to Pigeon
-    <sub>[#4045](https://github.com/flutter/packages/pull/4045) merged on May 25, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/4045) over 5 days, 1101 additions and 643 deletions in 14 files</sub>
+    <sub>[#4045](https://github.com/flutter/packages/pull/4045) merged on May 25, 2023 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/4045) over 5 days, 1101 additions and 643 deletions in 14 files</sub>
     <sub>Reviewed by: [gmackall](https://github.com/gmackall)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Fixes `unawaited_futures` violations
