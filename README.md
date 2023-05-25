@@ -67,7 +67,7 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Tim Sneath](https://github.com/timsneath)</sub><br />
 
 * **[Devin](https://github.com/dleyba042)** &mdash; `Slider.onChangeStart` & `Slider.onChangeEnd` are not called on keyboard shortcuts<br />
-    <sub>[#126896](https://github.com/flutter/flutter/pull/126896) merged on May 24, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/126896) over 1 week, 129 additions and 30 deletions in 2 files</sub><br />
+    <sub>[#126896](https://github.com/flutter/flutter/pull/126896) merged on May 24, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/126896) over 1 week, 129 additions and 30 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; test owners: cyanglaz -> vashworth<br />
@@ -91,7 +91,7 @@
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix ScrollPosition overscroll precision error<br />
-    <sub>[#127321](https://github.com/flutter/flutter/pull/127321) merged on May 24, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/127321) over 2 days, 43 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#127321](https://github.com/flutter/flutter/pull/127321) merged on May 24, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/127321) over 2 days, 43 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [nt4f04uNd](https://github.com/nt4f04uNd)</sub><br />
 
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Add missing parameters in `TextFormField`<br />
