@@ -4,7 +4,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-36 commits.
+37 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Fix the breaking of multi-code-unit characters in obscure mode<br />
     <sub>[#123366](https://github.com/flutter/flutter/pull/123366) merged on May 23, 2023 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/123366) over 2 months, 509 additions and 28 deletions in 5 files</sub><br />
@@ -70,6 +70,10 @@
     <sub>[#126896](https://github.com/flutter/flutter/pull/126896) merged on May 24, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/126896) over 1 week, 129 additions and 30 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `ScrollNotificationObserver` sample<br />
+    <sub>[#127023](https://github.com/flutter/flutter/pull/127023) merged on May 25, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/127023) over 1 week, 175 additions and 0 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; test owners: cyanglaz -> vashworth<br />
     <sub>[#127391](https://github.com/flutter/flutter/pull/127391) merged on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127391) over 1 day, 24 additions and 24 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
@@ -106,10 +110,6 @@
     <sub>[#127298](https://github.com/flutter/flutter/pull/127298) merged on May 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127298) over 13 hours, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Avoid catching errors in TextPainter tests<br />
-    <sub>[#127307](https://github.com/flutter/flutter/pull/127307) merged on May 23, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127307) over 1 day, 19 additions and 24 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
-
 * **[NikolajHarderNota](https://github.com/NikolajHarderNota)** &mdash; modal bottom sheet barrier label<br />
     <sub>[#126431](https://github.com/flutter/flutter/pull/126431) merged on May 23, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/126431) over 1 week, 57 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
@@ -142,9 +142,9 @@
     <sub>[#127502](https://github.com/flutter/flutter/pull/127502) merged on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127502) over 2 hours, 118 additions and 21 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Update labeler action wildcards"<br />
-    <sub>[#127541](https://github.com/flutter/flutter/pull/127541) merged on May 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127541) over 3 minutes, 36 additions and 37 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
+* **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Avoid catching errors in TextPainter tests<br />
+    <sub>[#127307](https://github.com/flutter/flutter/pull/127307) merged on May 23, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127307) over 1 day, 19 additions and 24 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Replace rsync when unzipping artifacts on a Mac (#126703)"<br />
     <sub>[#127430](https://github.com/flutter/flutter/pull/127430) merged on May 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127430) over 22 hours, 52 additions and 108 deletions in 2 files</sub><br />
@@ -153,6 +153,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Log all output of ios-deploy"<br />
     <sub>[#127405](https://github.com/flutter/flutter/pull/127405) merged on May 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127405) over 3 minutes, 11 additions and 27 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Update labeler action wildcards"<br />
+    <sub>[#127541](https://github.com/flutter/flutter/pull/127541) merged on May 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127541) over 3 minutes, 36 additions and 37 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
 
 ### May 13, 2023 to May 19, 2023
 
@@ -631,7 +635,7 @@
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/engine/assets/8975114/3d9af2b2-f1ea-413a-ac1f-d4a69211388e)</details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Encode render passes concurrently on iOS.<br />
-    <sub>[#42028](https://github.com/flutter/engine/pull/42028) merged on May 23, 2023 &mdash; **Large:** [35 comments](https://github.com/flutter/engine/pull/42028) over 1 week, 442 additions and 129 deletions in 31 files</sub><br />
+    <sub>[#42028](https://github.com/flutter/engine/pull/42028) merged on May 23, 2023 &mdash; **Large:** [36 comments](https://github.com/flutter/engine/pull/42028) over 1 week, 442 additions and 129 deletions in 31 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Ashish Myles](https://github.com/marcianx)** &mdash; [web] Update a11y announcements to append divs instead of setting content.<br />
