@@ -1403,7 +1403,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-11 commits.
+12 commits.
 
 * **[Pedro Henrique Cordeiro Soares](https://github.com/phcs971)** &mdash; [quick_actions] Fix iOS home screen quick actions documentation hyperlink
     <sub>[#4059](https://github.com/flutter/packages/pull/4059) merged on May 24, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/4059) over 2 days, 6 additions and 2 deletions in 3 files</sub>
@@ -1429,6 +1429,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Remove unnecessary null checks
     <sub>[#4060](https://github.com/flutter/packages/pull/4060) merged on May 22, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/4060) over 5 hours, 242 additions and 396 deletions in 136 files</sub>
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Chris Bracken](https://github.com/cbracken), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[keyonghan](https://github.com/keyonghan)** &mdash; Append $flutter/osx sdk property to existing platforms/targets relying on xcode
+    <sub>[#4074](https://github.com/flutter/packages/pull/4074) merged on May 25, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4074) over 23 hours, 8 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [godofredoc](https://github.com/godofredoc)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [url_launcher_android] Fix `unawaited_futures` lint errors
     <sub>[#4086](https://github.com/flutter/packages/pull/4086) merged on May 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4086) over 22 minutes, 4 additions and 4 deletions in 1 file</sub>
