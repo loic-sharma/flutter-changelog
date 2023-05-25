@@ -1326,7 +1326,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-8 commits.
+9 commits.
 
 * **[Pedro Henrique Cordeiro Soares](https://github.com/phcs971)** &mdash; [quick_actions] Fix iOS home screen quick actions documentation hyperlink<br />
     <sub>[#4059](https://github.com/flutter/packages/pull/4059) merged on May 24, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/4059) over 2 days, 6 additions and 2 deletions in 3 files</sub><br />
@@ -1348,6 +1348,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Remove unnecessary null checks<br />
     <sub>[#4060](https://github.com/flutter/packages/pull/4060) merged on May 22, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/4060) over 5 hours, 242 additions and 396 deletions in 136 files</sub><br />
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Chris Bracken](https://github.com/cbracken), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Phil Quitslund](https://github.com/pq)** &mdash; [multiple packages] Update collection-fors to prefer final (as per updated `prefer_final_in_for_each`)<br />
+    <sub>[#4073](https://github.com/flutter/packages/pull/4073) merged on May 25, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4073) over 18 hours, 10 additions and 7 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [gmackall](https://github.com/gmackall)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update infra reviewers and add label.<br />
     <sub>[#4068](https://github.com/flutter/packages/pull/4068) merged on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4068) over 3 hours, 4 additions and 2 deletions in 1 file</sub><br />
