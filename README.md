@@ -709,7 +709,7 @@
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll buildroot to 5cab8e095066d8f3de063943af26b7336aa52662<br />
     <sub>[#42251](https://github.com/flutter/engine/pull/42251) merged on May 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42251) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Removed last ivars to raw vk::Device's.<br />
     <sub>[#42215](https://github.com/flutter/engine/pull/42215) merged on May 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42215) over 22 hours, 123 additions and 85 deletions in 10 files</sub><br />
@@ -1031,7 +1031,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove debug print statement from EntityPass<br />
     <sub>[#42055](https://github.com/flutter/engine/pull/42055) merged on May 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42055) over 46 minutes, 0 additions and 3 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Limit blur kernel to 1000x1000 pixels<br />
     <sub>[#42154](https://github.com/flutter/engine/pull/42154) merged on May 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/42154) over 7 hours, 18 additions and 1 deletion in 2 files</sub><br />
@@ -1208,7 +1208,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS - TextInput] Insert new line only when TextInputAction.newline<br />
     <sub>[#41977](https://github.com/flutter/engine/pull/41977) merged on May 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41977) over 18 hours, 203 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleaner output on LUCI<br />
     <sub>[#41989](https://github.com/flutter/engine/pull/41989) merged on May 12, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/41989) over 2 hours, 9 additions and 1 deletion in 2 files</sub><br />
@@ -1296,7 +1296,7 @@
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Use moved SkImage procs<br />
     <sub>[#41947](https://github.com/flutter/engine/pull/41947) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41947) over 2 hours, 2 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update README.md<br />
     <sub>[#41953](https://github.com/flutter/engine/pull/41953) merged on May 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41953) over 56 minutes, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1605,7 +1605,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Add Kotlin duplicate classes known error to README.md<br />
     <sub>[#3957](https://github.com/flutter/packages/pull/3957) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3957) over 44 minutes, 14 additions and 1 deletion in 3 files</sub><br />
-    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Remove iOS 9 references<br />
     <sub>[#3948](https://github.com/flutter/packages/pull/3948) merged on May 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3948) over 1 day, 210 additions and 34 deletions in 23 files</sub><br />
