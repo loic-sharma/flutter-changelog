@@ -92,6 +92,3 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; CP: [Linux] Ignore deprecation of libupower call in example (#127503)<br />
     <sub>[#127530](https://github.com/flutter/flutter/pull/127530) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127530) 5 additions and 0 deletions in 1 file</sub><br />
 
-* **[keyonghan](https://github.com/keyonghan)** &mdash; Append $flutter/osx sdk property to existing platforms/targets relying on xcode<br />
-    <sub>[#127537](https://github.com/flutter/flutter/pull/127537) opened on on May 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127537) 69 additions and 1 deletion in 1 file</sub><br />
-
