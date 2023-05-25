@@ -93,8 +93,11 @@
     <sub>[#127602](https://github.com/flutter/flutter/pull/127602) opened on on May 25, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/127602) 206 additions and 204 deletions in 40 files</sub><br />
 
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Avoid catching FlutterError in TextPainter tests<br />
-    <sub>[#127604](https://github.com/flutter/flutter/pull/127604) opened on on May 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127604) 26 additions and 26 deletions in 1 file</sub><br />
+    <sub>[#127604](https://github.com/flutter/flutter/pull/127604) opened on on May 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127604) 26 additions and 26 deletions in 1 file</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Clarify PointerSignalResolver.register<br />
     <sub>[#127605](https://github.com/flutter/flutter/pull/127605) opened on on May 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127605) 15 additions and 2 deletions in 1 file</sub><br />
+
+* **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Use paragraph getter in TextPainter<br />
+    <sub>[#127607](https://github.com/flutter/flutter/pull/127607) opened on on May 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127607) 5 additions and 4 deletions in 1 file</sub><br />
 
