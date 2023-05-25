@@ -78,7 +78,7 @@
     <sub>[#127490](https://github.com/flutter/flutter/pull/127490) opened on on May 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127490) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; [DRAFT] - Change `useMaterial3` default to true<br />
-    <sub>[#127501](https://github.com/flutter/flutter/pull/127501) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127501) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#127501](https://github.com/flutter/flutter/pull/127501) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127501) 96 additions and 91 deletions in 16 files</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; CP: [Linux] Ignore deprecation of libupower call in example (#127503)<br />
     <sub>[#127530](https://github.com/flutter/flutter/pull/127530) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127530) 5 additions and 0 deletions in 1 file</sub><br />
