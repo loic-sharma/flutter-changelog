@@ -38,9 +38,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update Navigation Drawer width and tiles padding<br />
     <sub>[#124042](https://github.com/flutter/flutter/pull/124042) opened on on April 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/124042) 65 additions and 35 deletions in 6 files</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tools] When running Android SDK tools, set JAVA_HOME to the home of the JDK bundled with Android Studio<br />
-    <sub>[#125895](https://github.com/flutter/flutter/pull/125895) opened on on May 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/125895) 10 additions and 0 deletions in 1 file</sub><br />
-
 * **[Dhanush Vardhan](https://github.com/dhanush17-tech)** &mdash; Added MultipleFilterChipPicker widget<br />
     <sub>[#126287](https://github.com/flutter/flutter/pull/126287) opened on on May 8, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/126287) 155 additions and 0 deletions in 2 files</sub><br />
 
@@ -48,7 +45,7 @@
     <sub>[#126456](https://github.com/flutter/flutter/pull/126456) opened on on May 10, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/126456) 491 additions and 516 deletions in 35 files</sub><br />
 
 * **[Florian](https://github.com/PlutoHDDev)** &mdash; Fix output of _informAboutExistingCaches<br />
-    <sub>[#126566](https://github.com/flutter/flutter/pull/126566) opened on on May 11, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/126566) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#126566](https://github.com/flutter/flutter/pull/126566) opened on on May 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/126566) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Vasiliy Ditsyak](https://github.com/vasilich6107)** &mdash; Add fallback font to IconData class<br />
     <sub>[#127269](https://github.com/flutter/flutter/pull/127269) opened on on May 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127269) 33 additions and 2 deletions in 3 files</sub><br />
