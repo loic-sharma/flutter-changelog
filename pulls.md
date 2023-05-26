@@ -95,6 +95,3 @@
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Use paragraph getter in TextPainter<br />
     <sub>[#127607](https://github.com/flutter/flutter/pull/127607) opened on on May 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127607) 5 additions and 4 deletions in 1 file</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove a bad assert from tooltip implementation<br />
-    <sub>[#127629](https://github.com/flutter/flutter/pull/127629) opened on on May 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127629) 194 additions and 45 deletions in 2 files</sub><br />
-
