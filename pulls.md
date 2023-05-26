@@ -95,3 +95,6 @@
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Use paragraph getter in TextPainter<br />
     <sub>[#127607](https://github.com/flutter/flutter/pull/127607) opened on on May 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127607) 5 additions and 4 deletions in 1 file</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add M3 date range picker tests and fix header background theme color<br />
+    <sub>[#127662](https://github.com/flutter/flutter/pull/127662) opened on on May 26, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/127662) 313 additions and 2 deletions in 3 files</sub><br />
+
