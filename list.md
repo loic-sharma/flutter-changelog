@@ -1447,7 +1447,7 @@
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Chris Bracken](https://github.com/cbracken), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Append $flutter/osx sdk property to existing platforms/targets relying on xcode
-    <sub>[#4074](https://github.com/flutter/packages/pull/4074) merged on May 25, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4074) over 23 hours, 8 additions and 0 deletions in 1 file</sub>
+    <sub>[#4074](https://github.com/flutter/packages/pull/4074) merged on May 25, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4074) over 23 hours, 8 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [godofredoc](https://github.com/godofredoc)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [url_launcher_android] Fix `unawaited_futures` lint errors
