@@ -1452,7 +1452,7 @@
     <sub>Reviewed by: [gmackall](https://github.com/gmackall)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Fixes `unawaited_futures` violations<br />
-    <sub>[#4067](https://github.com/flutter/packages/pull/4067) merged on May 24, 2023 &mdash; **Medium:** [25 comments](https://github.com/flutter/packages/pull/4067) over 19 hours, 266 additions and 143 deletions in 78 files</sub><br />
+    <sub>[#4067](https://github.com/flutter/packages/pull/4067) merged on May 24, 2023 &mdash; **Medium:** [26 comments](https://github.com/flutter/packages/pull/4067) over 19 hours, 266 additions and 143 deletions in 78 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [gmackall](https://github.com/gmackall), [chunhtai](https://github.com/chunhtai), [Brett Morgan](https://github.com/domesticmouse), [Reid Baker](https://github.com/reidbaker), and [2 others](https://github.com/flutter/packages/pull/4067)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [in_app_purchase] Fix Java lints<br />
