@@ -101,3 +101,6 @@
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Remove release timeline<br />
     <sub>[#127685](https://github.com/flutter/flutter/pull/127685) opened on on May 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127685) 0 additions and 11 deletions in 1 file</sub><br />
 
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Bump Snippet version<br />
+    <sub>[#127688](https://github.com/flutter/flutter/pull/127688) opened on on May 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127688) 1 addition and 1 deletion in 1 file</sub><br />
+
