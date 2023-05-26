@@ -95,3 +95,6 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Bump Snippet version<br />
     <sub>[#127688](https://github.com/flutter/flutter/pull/127688) opened on on May 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127688) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; [CP] fix: Search anchor box location when used on nested navigator<br />
+    <sub>[#127696](https://github.com/flutter/flutter/pull/127696) opened on on May 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127696) 2 additions and 1 deletion in 1 file</sub><br />
+
