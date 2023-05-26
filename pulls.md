@@ -83,6 +83,9 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; CP: [Linux] Ignore deprecation of libupower call in example (#127503)<br />
     <sub>[#127530](https://github.com/flutter/flutter/pull/127530) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127530) 5 additions and 0 deletions in 1 file</sub><br />
 
+* **[Tess Strickland](https://github.com/sstrickl)** &mdash; Use `--target-os` for appropriate precompiled targets.<br />
+    <sub>[#127567](https://github.com/flutter/flutter/pull/127567) opened on on May 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127567) 30 additions and 0 deletions in 3 files</sub><br />
+
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Pin package:test_core/test_api<br />
     <sub>[#127602](https://github.com/flutter/flutter/pull/127602) opened on on May 25, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/127602) 206 additions and 204 deletions in 40 files</sub><br />
 
