@@ -53,9 +53,6 @@
 * **[Cempluk90](https://github.com/Cempluk90)** &mdash; Rename no-response.yaml to no-response.yamlframerate<br />
     <sub>[#127280](https://github.com/flutter/flutter/pull/127280) opened on on May 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127280) 0 additions and 0 deletions in 1 file</sub><br />
 
-* **[Kohei Seino](https://github.com/kseino)** &mdash; ScaleGestureRecognizer: make pointerCount public<br />
-    <sub>[#127310](https://github.com/flutter/flutter/pull/127310) opened on on May 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127310) 15 additions and 9 deletions in 2 files</sub><br />
-
 * **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Navigator.pop before PopupMenuItem onTap call<br />
     <sub>[#127446](https://github.com/flutter/flutter/pull/127446) opened on on May 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127446) 41 additions and 2 deletions in 2 files</sub><br />
 
