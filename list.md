@@ -1431,7 +1431,7 @@
 
 ### May 20, 2023 to May 26, 2023
 
-12 commits.
+13 commits.
 
 * **[Pedro Henrique Cordeiro Soares](https://github.com/phcs971)** &mdash; [quick_actions] Fix iOS home screen quick actions documentation hyperlink
     <sub>[#4059](https://github.com/flutter/packages/pull/4059) merged on May 24, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/4059) over 2 days, 6 additions and 2 deletions in 3 files</sub>
@@ -1457,6 +1457,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Remove unnecessary null checks
     <sub>[#4060](https://github.com/flutter/packages/pull/4060) merged on May 22, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/4060) over 5 hours, 242 additions and 396 deletions in 136 files</sub>
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Chris Bracken](https://github.com/cbracken), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; bump mockito to version 5.4.1
+    <sub>[#4085](https://github.com/flutter/packages/pull/4085) merged on May 26, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4085) over 17 hours, 38 additions and 38 deletions in 38 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Append $flutter/osx sdk property to existing platforms/targets relying on xcode
     <sub>[#4074](https://github.com/flutter/packages/pull/4074) merged on May 25, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4074) over 23 hours, 8 additions and 0 deletions in 1 file</sub>
