@@ -69,7 +69,7 @@
     <sub>[#127490](https://github.com/flutter/flutter/pull/127490) opened on on May 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127490) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; [DRAFT] - Change `useMaterial3` default to true<br />
-    <sub>[#127501](https://github.com/flutter/flutter/pull/127501) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127501) 96 additions and 91 deletions in 16 files</sub><br />
+    <sub>[#127501](https://github.com/flutter/flutter/pull/127501) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127501) 116 additions and 105 deletions in 17 files</sub><br />
 
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Use `--target-os` for appropriate precompiled targets.<br />
     <sub>[#127567](https://github.com/flutter/flutter/pull/127567) opened on on May 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127567) 30 additions and 0 deletions in 3 files</sub><br />
