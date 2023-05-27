@@ -95,3 +95,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; migrate `Tooltip` to use  `OverlayPortal`<br />
     <sub>[#127728](https://github.com/flutter/flutter/pull/127728) opened on on May 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127728) 61 additions and 146 deletions in 2 files</sub><br />
 
+* **[Darshan Rander](https://github.com/SirusCodes)** &mdash; fix: wrong expansion tile shape assignment<br />
+    <sub>[#127749](https://github.com/flutter/flutter/pull/127749) opened on on May 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127749) 1 addition and 1 deletion in 1 file</sub><br />
+
