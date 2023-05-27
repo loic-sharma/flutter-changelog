@@ -89,9 +89,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; WIP - Fix nested computation of drag in NestedScrollView<br />
     <sub>[#127718](https://github.com/flutter/flutter/pull/127718) opened on on May 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127718) 35 additions and 13 deletions in 1 file</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; ContextAction.isEnabled needs a context<br />
-    <sub>[#127721](https://github.com/flutter/flutter/pull/127721) opened on on May 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127721) 148 additions and 52 deletions in 5 files</sub><br />
-
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Remove legacy xcode properties/dependencies<br />
     <sub>[#127724](https://github.com/flutter/flutter/pull/127724) opened on on May 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127724) 0 additions and 106 deletions in 1 file</sub><br />
 
