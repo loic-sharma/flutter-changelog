@@ -57,7 +57,7 @@
     <sub>[#127446](https://github.com/flutter/flutter/pull/127446) opened on on May 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127446) 41 additions and 2 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] manually roll pub deps<br />
-    <sub>[#127447](https://github.com/flutter/flutter/pull/127447) opened on on May 23, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/127447) 406 additions and 407 deletions in 58 files</sub><br />
+    <sub>[#127447](https://github.com/flutter/flutter/pull/127447) opened on on May 23, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/127447) 407 additions and 408 deletions in 59 files</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Fix super tiny space formatting (hope we have auto formatter in the future)<br />
     <sub>[#127479](https://github.com/flutter/flutter/pull/127479) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127479) 1 addition and 1 deletion in 1 file</sub><br />
@@ -69,7 +69,7 @@
     <sub>[#127490](https://github.com/flutter/flutter/pull/127490) opened on on May 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127490) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; [DRAFT] - Change `useMaterial3` default to true<br />
-    <sub>[#127501](https://github.com/flutter/flutter/pull/127501) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127501) 118 additions and 105 deletions in 18 files</sub><br />
+    <sub>[#127501](https://github.com/flutter/flutter/pull/127501) opened on on May 24, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/127501) 201 additions and 172 deletions in 21 files</sub><br />
 
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Use `--target-os` for appropriate precompiled targets.<br />
     <sub>[#127567](https://github.com/flutter/flutter/pull/127567) opened on on May 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127567) 30 additions and 0 deletions in 3 files</sub><br />
@@ -91,4 +91,7 @@
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Remove legacy xcode properties/dependencies<br />
     <sub>[#127724](https://github.com/flutter/flutter/pull/127724) opened on on May 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127724) 0 additions and 106 deletions in 1 file</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; migrate `Tooltip` to use  `OverlayPortal`<br />
+    <sub>[#127728](https://github.com/flutter/flutter/pull/127728) opened on on May 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127728) 61 additions and 146 deletions in 2 files</sub><br />
 
