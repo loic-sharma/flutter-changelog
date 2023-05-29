@@ -536,9 +536,18 @@
 
 ## flutter/engine
 
+### May 27, 2023 to June 2, 2023
+
+1 commits.
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Fix lint failure in ImageDecoderImpeller
+    <sub>[#42402](https://github.com/flutter/engine/pull/42402) merged on May 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42402) over 44 minutes, 2 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
 ### May 20, 2023 to May 26, 2023
 
-74 commits.
+<details>
+<summary>74 commits...</summary>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Move platformViewRegistry to ui_web
     <sub>[#41877](https://github.com/flutter/engine/pull/41877) merged on May 23, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/41877) over 1 week, 103 additions and 49 deletions in 11 files</sub>
@@ -843,6 +852,8 @@
 * **[Jesse Seales](https://github.com/sealesj)** &mdash; Revert "Vuln scan on 3p deps triggered by label on PR"
     <sub>[#42256](https://github.com/flutter/engine/pull/42256) merged on May 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42256) over 13 minutes, 1 addition and 5 deletions in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### May 13, 2023 to May 19, 2023
 
