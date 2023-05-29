@@ -104,6 +104,6 @@
 * **[Midori](https://github.com/natsuk4ze)** &mdash; [Refactor] fix quote style in template<br />
     <sub>[#127762](https://github.com/flutter/flutter/pull/127762) opened on on May 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127762) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Gil Nobrega](https://github.com/gilnobrega)** &mdash; [DRAFT] [a11y] CupertinoSwitch On/Off labels<br />
+* **[Gil Nobrega](https://github.com/gilnobrega)** &mdash; [a11y] CupertinoSwitch On/Off labels<br />
     <sub>[#127776](https://github.com/flutter/flutter/pull/127776) opened on on May 28, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/127776) 409 additions and 0 deletions in 4 files</sub><br />
 
