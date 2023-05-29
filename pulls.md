@@ -83,9 +83,6 @@
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Use paragraph getter in TextPainter<br />
     <sub>[#127607](https://github.com/flutter/flutter/pull/127607) opened on on May 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127607) 5 additions and 4 deletions in 1 file</sub><br />
 
-* **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; [CP] fix: Search anchor box location when used on nested navigator<br />
-    <sub>[#127696](https://github.com/flutter/flutter/pull/127696) opened on on May 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127696) 2 additions and 1 deletion in 1 file</sub><br />
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; WIP - Fix nested computation of drag in NestedScrollView<br />
     <sub>[#127718](https://github.com/flutter/flutter/pull/127718) opened on on May 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127718) 35 additions and 13 deletions in 1 file</sub><br />
 
