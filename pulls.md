@@ -107,6 +107,3 @@
 * **[Gil Nobrega](https://github.com/gilnobrega)** &mdash; [a11y] CupertinoSwitch On/Off labels<br />
     <sub>[#127776](https://github.com/flutter/flutter/pull/127776) opened on on May 28, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/127776) 409 additions and 0 deletions in 4 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update Material 2 tests group comment<br />
-    <sub>[#127796](https://github.com/flutter/flutter/pull/127796) opened on on May 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127796) 61 additions and 39 deletions in 20 files</sub><br />
-
