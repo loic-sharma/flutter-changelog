@@ -87,7 +87,7 @@
     <sub>[#127696](https://github.com/flutter/flutter/pull/127696) opened on on May 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127696) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; WIP - Fix nested computation of drag in NestedScrollView<br />
-    <sub>[#127718](https://github.com/flutter/flutter/pull/127718) opened on on May 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127718) 35 additions and 13 deletions in 1 file</sub><br />
+    <sub>[#127718](https://github.com/flutter/flutter/pull/127718) opened on on May 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127718) 35 additions and 13 deletions in 1 file</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Remove legacy xcode properties/dependencies<br />
     <sub>[#127724](https://github.com/flutter/flutter/pull/127724) opened on on May 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127724) 0 additions and 106 deletions in 1 file</sub><br />
