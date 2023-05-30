@@ -77,9 +77,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; WIP - Fix nested computation of drag in NestedScrollView<br />
     <sub>[#127718](https://github.com/flutter/flutter/pull/127718) opened on on May 26, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/127718) 35 additions and 13 deletions in 1 file</sub><br />
 
-* **[keyonghan](https://github.com/keyonghan)** &mdash; Remove legacy xcode properties/dependencies<br />
-    <sub>[#127724](https://github.com/flutter/flutter/pull/127724) opened on on May 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127724) 0 additions and 106 deletions in 1 file</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; migrate `Tooltip` to use  `OverlayPortal`<br />
     <sub>[#127728](https://github.com/flutter/flutter/pull/127728) opened on on May 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127728) 61 additions and 146 deletions in 2 files</sub><br />
 
@@ -97,4 +94,7 @@
 
 * **[Luca Venir](https://github.com/lucavenir)** &mdash; Implementing onSubmitted for Material SearchBar<br />
     <sub>[#127845](https://github.com/flutter/flutter/pull/127845) opened on on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127845) 12 additions and 0 deletions in 1 file</sub><br />
+
+* **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Fixes in Cupertino pl localizations<br />
+    <sub>[#127869](https://github.com/flutter/flutter/pull/127869) opened on on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127869) 2 additions and 2 deletions in 1 file</sub><br />
 
