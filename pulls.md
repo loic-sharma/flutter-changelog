@@ -110,9 +110,6 @@
 * **[Osamu Ishimura](https://github.com/hrontan)** &mdash; fix typo of dart command in the help message about the pub cache.<br />
     <sub>[#127839](https://github.com/flutter/flutter/pull/127839) opened on on May 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127839) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Take paint offset into account for Editable children<br />
-    <sub>[#127843](https://github.com/flutter/flutter/pull/127843) opened on on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127843) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Luca Venir](https://github.com/lucavenir)** &mdash; Implementing onSubmitted for Material SearchBar<br />
     <sub>[#127845](https://github.com/flutter/flutter/pull/127845) opened on on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127845) 12 additions and 0 deletions in 1 file</sub><br />
 
