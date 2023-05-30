@@ -553,7 +553,12 @@
 
 ### May 27, 2023 to June 2, 2023
 
-2 commits.
+3 commits.
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Bias towards sampling from lower mip levels
+    <sub>[#42386](https://github.com/flutter/engine/pull/42386) merged on May 30, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/42386) over 2 days, 276 additions and 258 deletions in 19 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub><details><summary>4 images...</summary>![image](https://github.com/flutter/engine/assets/919017/ac2fa061-b00b-45f4-9cb4-4dc4170b22bb)![Screenshot 2023-05-25 at 11 08 02 PM](https://github.com/flutter/engine/assets/919017/682aac24-6542-466c-bf0d-7aa16b1d0a2d)![Screenshot 2023-05-27 at 9 34 33 PM](https://github.com/flutter/engine/assets/919017/bfcb7921-4bb7-4cf7-8dbd-cfa1259f92f9)![Screenshot 2023-05-25 at 11 11 10 PM](https://github.com/flutter/engine/assets/919017/7809dad9-a834-4748-a221-e5db901d3663)</details></sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] Add dart-lang/native packages
     <sub>[#42412](https://github.com/flutter/engine/pull/42412) merged on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42412) over 52 minutes, 3 additions and 0 deletions in 1 file</sub>
