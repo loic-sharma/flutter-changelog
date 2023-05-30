@@ -17,9 +17,6 @@
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Added hoverColor property on ExpansionTile widget<br />
     <sub>[#116030](https://github.com/flutter/flutter/pull/116030) opened on on November 25, 2022 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/116030) 31 additions and 0 deletions in 3 files</sub><br />
 
-* **[Altynbek Aidarbekov](https://github.com/altynbek132)** &mdash; use TextField.border.borderSide by default<br />
-    <sub>[#116213](https://github.com/flutter/flutter/pull/116213) opened on on November 29, 2022 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/116213) 43 additions and 28 deletions in 1 file</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Precache after channel switch<br />
     <sub>[#118129](https://github.com/flutter/flutter/pull/118129) opened on on January 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/118129) 74 additions and 47 deletions in 5 files</sub><br />
 
@@ -106,4 +103,7 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Allow long-press gestures to continue even if buttons change.<br />
     <sub>[#127877](https://github.com/flutter/flutter/pull/127877) opened on on May 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127877) 44 additions and 4 deletions in 3 files</sub><br />
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Commit Gradle Wrapper files into git<br />
+    <sub>[#127893](https://github.com/flutter/flutter/pull/127893) opened on on May 30, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/127893) 343 additions and 0 deletions in 4 files</sub><br />
 
