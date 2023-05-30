@@ -565,7 +565,7 @@
 
 ### May 27, 2023 to June 2, 2023
 
-7 commits.
+9 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Bias towards sampling from lower mip levels
     <sub>[#42386](https://github.com/flutter/engine/pull/42386) merged on May 30, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/42386) over 2 days, 276 additions and 258 deletions in 19 files</sub>
@@ -588,6 +588,10 @@
     <sub>[#42412](https://github.com/flutter/engine/pull/42412) merged on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42412) over 52 minutes, 3 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [William Hesse](https://github.com/whesse)</sub>
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update engine testing to use api 33 for android tests. 
+    <sub>[#42351](https://github.com/flutter/engine/pull/42351) merged on May 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42351) over 4 days, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [gmackall](https://github.com/gmackall)</sub>
+
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Remove legacy xcode properties/dependencies
     <sub>[#42368](https://github.com/flutter/engine/pull/42368) merged on May 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42368) over 3 days, 0 additions and 14 deletions in 1 file</sub>
     <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog)</sub>
@@ -595,6 +599,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Fix lint failure in ImageDecoderImpeller
     <sub>[#42402](https://github.com/flutter/engine/pull/42402) merged on May 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42402) over 44 minutes, 2 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Reland: "Adding app lifecycle notification for macOS and Linux, add `hidden` state." (#40542)
+    <sub>[#42418](https://github.com/flutter/engine/pull/42418) merged on May 30, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/42418) over 5 hours, 1113 additions and 134 deletions in 28 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 ### May 20, 2023 to May 26, 2023
 
@@ -1186,12 +1194,16 @@
 
 ### May 27, 2023 to June 2, 2023
 
-2 commits.
+3 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [local_auth]: Bump androidx.fragment:fragment from 1.5.5 to 1.5.6 in /packages/local_auth/local_auth_android/android
     <sub>[#3553](https://github.com/flutter/packages/pull/3553) merged on May 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3553) over 2 months, 6 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.fragment:fragment&package-manager=gradle&previous-version=1.5.5&new-version=1.5.6)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[杨加康](https://github.com/MeandNi)** &mdash; [flutter_markdown] Unable to use MarkdownElementBuilder to act those tags without children.
+    <sub>[#3952](https://github.com/flutter/packages/pull/3952) merged on May 30, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/3952) over 2 weeks, 39 additions and 3 deletions in 4 files</sub>
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Fix cancel handling on Android
     <sub>[#4120](https://github.com/flutter/packages/pull/4120) merged on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4120) over 3 hours, 198 additions and 3 deletions in 4 files</sub>
