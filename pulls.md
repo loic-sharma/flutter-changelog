@@ -86,9 +86,6 @@
 * **[Darshan Rander](https://github.com/SirusCodes)** &mdash; fix: wrong expansion tile shape assignment<br />
     <sub>[#127749](https://github.com/flutter/flutter/pull/127749) opened on on May 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127749) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Luccas Clezar](https://github.com/luccasclezar)** &mdash; iOS TextSelectionToolbar fidelity<br />
-    <sub>[#127757](https://github.com/flutter/flutter/pull/127757) opened on on May 27, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/127757) 311 additions and 268 deletions in 6 files</sub><br />
-
 * **[Midori](https://github.com/natsuk4ze)** &mdash; [Refactor] fix quote style in template<br />
     <sub>[#127762](https://github.com/flutter/flutter/pull/127762) opened on on May 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127762) 1 addition and 1 deletion in 1 file</sub><br />
 
