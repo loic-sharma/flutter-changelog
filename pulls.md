@@ -96,5 +96,5 @@
     <sub>[#127845](https://github.com/flutter/flutter/pull/127845) opened on on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127845) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Fixes in Cupertino translations<br />
-    <sub>[#127872](https://github.com/flutter/flutter/pull/127872) opened on on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127872) 26 additions and 26 deletions in 23 files</sub><br />
+    <sub>[#127872](https://github.com/flutter/flutter/pull/127872) opened on on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127872) 28 additions and 31 deletions in 24 files</sub><br />
 
