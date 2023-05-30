@@ -569,7 +569,7 @@
 
 ### May 27, 2023 to June 2, 2023
 
-11 commits.
+12 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Bias towards sampling from lower mip levels
     <sub>[#42386](https://github.com/flutter/engine/pull/42386) merged on May 30, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/42386) over 2 days, 276 additions and 258 deletions in 19 files</sub>
@@ -583,6 +583,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete position_uv, tiled_texture vertex shaders.
     <sub>[#42416](https://github.com/flutter/engine/pull/42416) merged on May 30, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/42416) over 2 hours, 24 additions and 615 deletions in 7 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Fixed TypographerTest.MaybeHasOverlapping
+    <sub>[#42429](https://github.com/flutter/engine/pull/42429) merged on May 30, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/42429) over 2 hours, 8 additions and 7 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Fix unitialized SkRect
     <sub>[#42403](https://github.com/flutter/engine/pull/42403) merged on May 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42403) over 23 hours, 1 addition and 1 deletion in 1 file</sub>
