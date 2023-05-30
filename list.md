@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### May 27, 2023 to June 2, 2023
+
+1 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update Material 2 tests group comment
+    <sub>[#127796](https://github.com/flutter/flutter/pull/127796) merged on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127796) over 16 hours, 61 additions and 39 deletions in 20 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+
 ### May 20, 2023 to May 26, 2023
 
-62 commits.
+<details>
+<summary>62 commits...</summary>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; TwoDimensional scrolling foundation
     <sub>[#125437](https://github.com/flutter/flutter/pull/125437) merged on May 26, 2023 &mdash; **Extra large:** [210 comments](https://github.com/flutter/flutter/pull/125437) over 1 month, 5224 additions and 9 deletions in 11 files</sub>
@@ -258,6 +267,8 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Replace rsync when unzipping artifacts on a Mac (#126703)"
     <sub>[#127430](https://github.com/flutter/flutter/pull/127430) merged on May 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127430) over 22 hours, 52 additions and 108 deletions in 2 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+</details>
 
 ### May 13, 2023 to May 19, 2023
 
