@@ -101,3 +101,6 @@
 * **[Luca Venir](https://github.com/lucavenir)** &mdash; Implementing onSubmitted for Material SearchBar<br />
     <sub>[#127845](https://github.com/flutter/flutter/pull/127845) opened on on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127845) 12 additions and 0 deletions in 1 file</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Relocate const local variable in tooltip.dart<br />
+    <sub>[#127865](https://github.com/flutter/flutter/pull/127865) opened on on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127865) 15 additions and 11 deletions in 1 file</sub><br />
+
