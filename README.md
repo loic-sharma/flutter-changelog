@@ -573,7 +573,7 @@
 
 ### May 27, 2023 to June 2, 2023
 
-12 commits.
+14 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Bias towards sampling from lower mip levels<br />
     <sub>[#42386](https://github.com/flutter/engine/pull/42386) merged on May 30, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/42386) over 2 days, 276 additions and 258 deletions in 19 files</sub><br />
@@ -587,6 +587,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete position_uv, tiled_texture vertex shaders.<br />
     <sub>[#42416](https://github.com/flutter/engine/pull/42416) merged on May 30, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/42416) over 2 hours, 24 additions and 615 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Enables bugprone-unchecked-optional-access for some files<br />
+    <sub>[#42428](https://github.com/flutter/engine/pull/42428) merged on May 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42428) over 2 hours, 45 additions and 69 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Fixed TypographerTest.MaybeHasOverlapping<br />
     <sub>[#42429](https://github.com/flutter/engine/pull/42429) merged on May 30, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/42429) over 2 hours, 8 additions and 7 deletions in 2 files</sub><br />
@@ -623,6 +627,10 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Reland: "Adding app lifecycle notification for macOS and Linux, add `hidden` state." (#40542)<br />
     <sub>[#42418](https://github.com/flutter/engine/pull/42418) merged on May 30, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/42418) over 5 hours, 1113 additions and 134 deletions in 28 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Move linux clang tidy to engine_v2."<br />
+    <sub>[#42434](https://github.com/flutter/engine/pull/42434) merged on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42434) over 45 minutes, 1 addition and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 ### May 20, 2023 to May 26, 2023
 

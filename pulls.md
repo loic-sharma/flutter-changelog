@@ -104,6 +104,3 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Allow long-press gestures to continue even if buttons change.<br />
     <sub>[#127877](https://github.com/flutter/flutter/pull/127877) opened on on May 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127877) 44 additions and 4 deletions in 3 files</sub><br />
 
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Commit Gradle Wrapper files into git<br />
-    <sub>[#127893](https://github.com/flutter/flutter/pull/127893) opened on on May 30, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/127893) 343 additions and 0 deletions in 4 files</sub><br />
-
