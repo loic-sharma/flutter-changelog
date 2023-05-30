@@ -95,9 +95,6 @@
 * **[Luca Venir](https://github.com/lucavenir)** &mdash; Implementing onSubmitted for Material SearchBar<br />
     <sub>[#127845](https://github.com/flutter/flutter/pull/127845) opened on on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127845) 12 additions and 0 deletions in 1 file</sub><br />
 
-* **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Fixes in Cupertino pl localizations<br />
-    <sub>[#127869](https://github.com/flutter/flutter/pull/127869) opened on on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127869) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Fix Cupertino es select all translation<br />
-    <sub>[#127872](https://github.com/flutter/flutter/pull/127872) opened on on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127872) 21 additions and 21 deletions in 21 files</sub><br />
+* **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Fixes in Cupertino translations<br />
+    <sub>[#127872](https://github.com/flutter/flutter/pull/127872) opened on on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127872) 26 additions and 26 deletions in 23 files</sub><br />
 
