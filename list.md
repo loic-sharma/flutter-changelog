@@ -90,11 +90,11 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] delete entitlements files after copying to macos build dir
     <sub>[#127417](https://github.com/flutter/flutter/pull/127417) merged on May 23, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/127417) over 43 minutes, 60 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [godofredoc](https://github.com/godofredoc)</sub>
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] ui.platformViewRegistry => ui_web.platformViewRegistry
     <sub>[#127493](https://github.com/flutter/flutter/pull/127493) merged on May 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127493) over 8 hours, 28 additions and 42 deletions in 8 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove rounding from TextPainter
     <sub>[#127099](https://github.com/flutter/flutter/pull/127099) merged on May 26, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/127099) over 1 week, 260 additions and 84 deletions in 16 files</sub>
@@ -126,7 +126,7 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [Linux] Ignore deprecation of libupower call in example
     <sub>[#127503](https://github.com/flutter/flutter/pull/127503) merged on May 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127503) over 1 hour, 5 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Remove more `test_api/src` imports
     <sub>[#127716](https://github.com/flutter/flutter/pull/127716) merged on May 26, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/127716) over 1 hour, 2 additions and 4 deletions in 2 files</sub>
@@ -178,7 +178,7 @@
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add test for setting JAVA_HOME and PATH when invoking `sdkmanager --licenses`
     <sub>[#127344](https://github.com/flutter/flutter/pull/127344) merged on May 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127344) over 41 minutes, 30 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Manually roll Flutter Engine from 0c41b02cd5a6 to c641f6307f08
     <sub>[#127514](https://github.com/flutter/flutter/pull/127514) merged on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127514) over 2 hours, 10 additions and 14 deletions in 5 files</sub>
@@ -226,7 +226,7 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix wasm-opt location when using local_web_sdk
     <sub>[#127355](https://github.com/flutter/flutter/pull/127355) merged on May 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127355) over 56 minutes, 8 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Append $flutter/osx sdk property to existing platforms/targets relying on xcode
     <sub>[#127537](https://github.com/flutter/flutter/pull/127537) merged on May 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127537) over 1 day, 69 additions and 1 deletion in 1 file</sub>
@@ -922,7 +922,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Use 32 bit Gaussian function in the 2-pass blur
     <sub>[#42069](https://github.com/flutter/engine/pull/42069) merged on May 16, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/42069) over 15 hours, 25 additions and 11 deletions in 4 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
     <sub><details><summary>3 images...</summary>![Screen Shot 2023-05-15 at 11 14 20 PM](https://github.com/flutter/engine/assets/919017/cc342954-4550-46ed-80d8-1e27acfd56ce)![Screen Shot 2023-05-15 at 11 12 18 PM](https://github.com/flutter/engine/assets/919017/f03fbd70-f21f-48e4-9a10-30aaad43bfa3)![Screen Shot 2023-05-15 at 11 16 58 PM](https://github.com/flutter/engine/assets/919017/c8ade876-4ea5-4d50-9bbe-a680d3921740)</details></sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Implement `ImageFilter`/`ColorFilter`/`MaskFilter` in Skwasm
@@ -1083,7 +1083,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove debug print statement from EntityPass
     <sub>[#42055](https://github.com/flutter/engine/pull/42055) merged on May 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42055) over 46 minutes, 0 additions and 3 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Limit blur kernel to 1000x1000 pixels
     <sub>[#42154](https://github.com/flutter/engine/pull/42154) merged on May 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/42154) over 7 hours, 18 additions and 1 deletion in 2 files</sub>
@@ -1146,7 +1146,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS - TextInput] Insert new line only when TextInputAction.newline
     <sub>[#41977](https://github.com/flutter/engine/pull/41977) merged on May 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41977) over 18 hours, 203 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Justin McCandless](https://github.com/justinmc)</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Remove GN staging flag for save layer bounds"
     <sub>[#42026](https://github.com/flutter/engine/pull/42026) merged on May 14, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42026) over 51 minutes, 2 additions and 0 deletions in 1 file</sub>
@@ -1207,7 +1207,7 @@
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchase] Bump `in_app_purchase_android` dependency to 3.0.0
     <sub>[#4065](https://github.com/flutter/packages/pull/4065) merged on May 23, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/4065) over 11 hours, 12 additions and 34 deletions in 4 files</sub>
-    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchases] Fix mismatching method signature strings
     <sub>[#4040](https://github.com/flutter/packages/pull/4040) merged on May 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4040) over 3 days, 152 additions and 35 deletions in 7 files</sub>

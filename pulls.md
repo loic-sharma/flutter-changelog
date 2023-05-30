@@ -77,12 +77,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Pin package:test_core/test_api<br />
     <sub>[#127602](https://github.com/flutter/flutter/pull/127602) opened on on May 25, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/127602) 206 additions and 204 deletions in 40 files</sub><br />
 
-* **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Avoid catching FlutterError in TextPainter tests<br />
-    <sub>[#127604](https://github.com/flutter/flutter/pull/127604) opened on on May 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127604) 26 additions and 26 deletions in 1 file</sub><br />
-
-* **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Use paragraph getter in TextPainter<br />
-    <sub>[#127607](https://github.com/flutter/flutter/pull/127607) opened on on May 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127607) 5 additions and 4 deletions in 1 file</sub><br />
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; WIP - Fix nested computation of drag in NestedScrollView<br />
     <sub>[#127718](https://github.com/flutter/flutter/pull/127718) opened on on May 26, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/127718) 35 additions and 13 deletions in 1 file</sub><br />
 
