@@ -98,3 +98,9 @@
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Fixes in Cupertino translations<br />
     <sub>[#127872](https://github.com/flutter/flutter/pull/127872) opened on on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127872) 28 additions and 31 deletions in 24 files</sub><br />
 
+* **[Devin](https://github.com/dleyba042)** &mdash; adds fix for expansion panel and tests<br />
+    <sub>[#127876](https://github.com/flutter/flutter/pull/127876) opened on on May 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127876) 112 additions and 8 deletions in 2 files</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Allow long-press gestures to continue even if buttons change.<br />
+    <sub>[#127877](https://github.com/flutter/flutter/pull/127877) opened on on May 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127877) 44 additions and 4 deletions in 3 files</sub><br />
+
