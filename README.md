@@ -4,7 +4,7 @@
 
 ### May 27, 2023 to June 2, 2023
 
-9 commits.
+10 commits.
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] manually roll pub deps<br />
     <sub>[#127447](https://github.com/flutter/flutter/pull/127447) merged on May 30, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/127447) over 6 days, 407 additions and 408 deletions in 59 files</sub><br />
@@ -13,6 +13,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Increases the eyeballed value of auto scroll velocity scalar<br />
     <sub>[#127410](https://github.com/flutter/flutter/pull/127410) merged on May 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127410) over 1 week, 56 additions and 10 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Clarify PointerSignalResolver.register<br />
+    <sub>[#127605](https://github.com/flutter/flutter/pull/127605) merged on May 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127605) over 5 days, 15 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update Material 2 tests group comment<br />
     <sub>[#127796](https://github.com/flutter/flutter/pull/127796) merged on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127796) over 16 hours, 61 additions and 39 deletions in 20 files</sub><br />
