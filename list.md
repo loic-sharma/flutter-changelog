@@ -605,7 +605,7 @@
 
 ### May 27, 2023 to June 2, 2023
 
-17 commits.
+19 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Bias towards sampling from lower mip levels
     <sub>[#42386](https://github.com/flutter/engine/pull/42386) merged on May 30, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/42386) over 2 days, 276 additions and 258 deletions in 19 files</sub>
@@ -619,6 +619,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete position_uv, tiled_texture vertex shaders.
     <sub>[#42416](https://github.com/flutter/engine/pull/42416) merged on May 30, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/42416) over 2 hours, 24 additions and 615 deletions in 7 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Replace use of Skia's private GrRectanizer with a copy of the equivalent code
+    <sub>[#42430](https://github.com/flutter/engine/pull/42430) merged on May 31, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/42430) over 20 hours, 312 additions and 18 deletions in 9 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] offload all text computation into vertex shader
     <sub>[#42417](https://github.com/flutter/engine/pull/42417) merged on May 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42417) over 9 hours, 155 additions and 118 deletions in 3 files</sub>
@@ -647,6 +651,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] Add dart-lang/native packages
     <sub>[#42412](https://github.com/flutter/engine/pull/42412) merged on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42412) over 52 minutes, 3 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [William Hesse](https://github.com/whesse)</sub>
+
+* **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Register codecs with Skia explicitly
+    <sub>[#42320](https://github.com/flutter/engine/pull/42320) merged on May 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/42320) over 6 days, 23 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Fix bugprone-unchecked-optional-access errors in image_generator_apng
     <sub>[#42450](https://github.com/flutter/engine/pull/42450) merged on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42450) over 1 hour, 19 additions and 5 deletions in 1 file</sub>
@@ -1235,7 +1243,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "[ios_platform_view] only recycle maskView when the view is applying mutators"
     <sub>[#42080](https://github.com/flutter/engine/pull/42080) merged on May 16, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/42080) over 4 minutes, 65 additions and 387 deletions in 13 files</sub>
-    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chris Yang](https://github.com/cyanglaz)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Reland "Remove GN staging flag for save layer bounds"
     <sub>[#42029](https://github.com/flutter/engine/pull/42029) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42029) over 3 hours, 0 additions and 2 deletions in 1 file</sub>
@@ -1254,7 +1262,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS - TextInput] Insert new line only when TextInputAction.newline
     <sub>[#41977](https://github.com/flutter/engine/pull/41977) merged on May 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41977) over 18 hours, 203 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Justin McCandless](https://github.com/justinmc)</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Remove GN staging flag for save layer bounds"
     <sub>[#42026](https://github.com/flutter/engine/pull/42026) merged on May 14, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42026) over 51 minutes, 2 additions and 0 deletions in 1 file</sub>
