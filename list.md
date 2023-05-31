@@ -4,7 +4,7 @@
 
 ### May 27, 2023 to June 2, 2023
 
-8 commits.
+9 commits.
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] manually roll pub deps
     <sub>[#127447](https://github.com/flutter/flutter/pull/127447) merged on May 30, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/127447) over 6 days, 407 additions and 408 deletions in 59 files</sub>
@@ -17,6 +17,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update Material 2 tests group comment
     <sub>[#127796](https://github.com/flutter/flutter/pull/127796) merged on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127796) over 16 hours, 61 additions and 39 deletions in 20 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Add oriol_33 firebaselab configuration.
+    <sub>[#127894](https://github.com/flutter/flutter/pull/127894) merged on May 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127894) over 1 hour, 17 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update android manifests to set exported:true on main activities in integration test for api 33 support
     <sub>[#127892](https://github.com/flutter/flutter/pull/127892) merged on May 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127892) over 1 hour, 6 additions and 0 deletions in 6 files</sub>
@@ -577,7 +581,7 @@
 
 ### May 27, 2023 to June 2, 2023
 
-14 commits.
+15 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Bias towards sampling from lower mip levels
     <sub>[#42386](https://github.com/flutter/engine/pull/42386) merged on May 30, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/42386) over 2 days, 276 additions and 258 deletions in 19 files</sub>
@@ -590,6 +594,10 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete position_uv, tiled_texture vertex shaders.
     <sub>[#42416](https://github.com/flutter/engine/pull/42416) merged on May 30, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/42416) over 2 hours, 24 additions and 615 deletions in 7 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] offload all text computation into vertex shader
+    <sub>[#42417](https://github.com/flutter/engine/pull/42417) merged on May 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42417) over 9 hours, 155 additions and 118 deletions in 3 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Enables bugprone-unchecked-optional-access for some files
