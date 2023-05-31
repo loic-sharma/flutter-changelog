@@ -4,7 +4,7 @@
 
 ### May 27, 2023 to June 2, 2023
 
-11 commits.
+12 commits.
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] manually roll pub deps
     <sub>[#127447](https://github.com/flutter/flutter/pull/127447) merged on May 30, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/127447) over 6 days, 407 additions and 408 deletions in 59 files</sub>
@@ -21,6 +21,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update Material 2 tests group comment
     <sub>[#127796](https://github.com/flutter/flutter/pull/127796) merged on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127796) over 16 hours, 61 additions and 39 deletions in 20 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+
+* **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Use paragraph getter in TextPainter
+    <sub>[#127607](https://github.com/flutter/flutter/pull/127607) merged on May 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127607) over 5 days, 5 additions and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Improve web benchmarks measurements
     <sub>[#127900](https://github.com/flutter/flutter/pull/127900) merged on May 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127900) over 1 hour, 23 additions and 2 deletions in 2 files</sub>
