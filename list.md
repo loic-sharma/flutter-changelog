@@ -4,11 +4,19 @@
 
 ### May 27, 2023 to June 2, 2023
 
-15 commits.
+17 commits.
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] manually roll pub deps
     <sub>[#127447](https://github.com/flutter/flutter/pull/127447) merged on May 30, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/127447) over 6 days, 407 additions and 408 deletions in 59 files</sub>
     <sub>Reviewed by: [Nate Bosch](https://github.com/natebosch)</sub>
+
+* **[hangyu](https://github.com/hangyujin)** &mdash; Add a FocusSemanticEvent
+    <sub>[#126171](https://github.com/flutter/flutter/pull/126171) merged on May 31, 2023 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/126171) over 3 weeks, 77 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Todd Volkert](https://github.com/tvolkert), [Michael Goderbauer](https://github.com/goderbauer), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix bottom sheet rebuilding when tapping
+    <sub>[#127526](https://github.com/flutter/flutter/pull/127526) merged on May 31, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/127526) over 6 days, 215 additions and 45 deletions in 4 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Use PlatformLocation from ui_web
     <sub>[#126851](https://github.com/flutter/flutter/pull/126851) merged on May 31, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/126851) over 2 weeks, 64 additions and 243 deletions in 7 files</sub>
