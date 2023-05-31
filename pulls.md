@@ -122,3 +122,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [CP] BETA AGP 8.0 minification support when using integration_test package<br />
     <sub>[#127968](https://github.com/flutter/flutter/pull/127968) opened on on May 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127968) 8 additions and 0 deletions in 4 files</sub><br />
 
+* **[lsaudon](https://github.com/lsaudon)** &mdash; Deletes files that should be ignored<br />
+    <sub>[#127984](https://github.com/flutter/flutter/pull/127984) opened on on May 31, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/127984) 0 additions and 670 deletions in 38 files</sub><br />
+
