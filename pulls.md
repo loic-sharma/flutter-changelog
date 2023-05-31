@@ -119,3 +119,6 @@
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; fix a Scrollbar example crash<br />
     <sub>[#127925](https://github.com/flutter/flutter/pull/127925) opened on on May 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127925) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[lsaudon](https://github.com/lsaudon)** &mdash; Tap on button behind snack bar defined by margin<br />
+    <sub>[#127959](https://github.com/flutter/flutter/pull/127959) opened on on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127959) 116 additions and 0 deletions in 2 files</sub><br />
+

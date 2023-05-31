@@ -593,7 +593,7 @@
 
 ### May 27, 2023 to June 2, 2023
 
-15 commits.
+16 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Bias towards sampling from lower mip levels<br />
     <sub>[#42386](https://github.com/flutter/engine/pull/42386) merged on May 30, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/42386) over 2 days, 276 additions and 258 deletions in 19 files</sub><br />
@@ -635,6 +635,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] Add dart-lang/native packages<br />
     <sub>[#42412](https://github.com/flutter/engine/pull/42412) merged on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42412) over 52 minutes, 3 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [William Hesse](https://github.com/whesse)</sub><br />
+
+* **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Replace SkSurface::flush methods with GrDirectContext methods<br />
+    <sub>[#42425](https://github.com/flutter/engine/pull/42425) merged on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42425) over 19 hours, 36 additions and 18 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update engine testing to use api 33 for android tests. <br />
     <sub>[#42351](https://github.com/flutter/engine/pull/42351) merged on May 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42351) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
