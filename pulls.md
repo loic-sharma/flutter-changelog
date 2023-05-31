@@ -110,3 +110,9 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; Make the type of AbstractNode.parent concrete to avoid runtime type casts<br />
     <sub>[#127899](https://github.com/flutter/flutter/pull/127899) opened on on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127899) 92 additions and 175 deletions in 26 files</sub><br />
 
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Super tiny doc update<br />
+    <sub>[#127904](https://github.com/flutter/flutter/pull/127904) opened on on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127904) 3 additions and 1 deletion in 1 file</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Improve the error message for non-normalized constraints<br />
+    <sub>[#127906](https://github.com/flutter/flutter/pull/127906) opened on on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127906) 44 additions and 2 deletions in 2 files</sub><br />
+
