@@ -4,7 +4,7 @@
 
 ### May 27, 2023 to June 2, 2023
 
-10 commits.
+11 commits.
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] manually roll pub deps<br />
     <sub>[#127447](https://github.com/flutter/flutter/pull/127447) merged on May 30, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/127447) over 6 days, 407 additions and 408 deletions in 59 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update Material 2 tests group comment<br />
     <sub>[#127796](https://github.com/flutter/flutter/pull/127796) merged on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127796) over 16 hours, 61 additions and 39 deletions in 20 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Improve web benchmarks measurements<br />
+    <sub>[#127900](https://github.com/flutter/flutter/pull/127900) merged on May 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127900) over 1 hour, 23 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Add oriol_33 firebaselab configuration.<br />
     <sub>[#127894](https://github.com/flutter/flutter/pull/127894) merged on May 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127894) over 1 hour, 17 additions and 0 deletions in 1 file</sub><br />
@@ -1241,7 +1245,7 @@
 5 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_maps] Prepares packages to endorse web.<br />
-    <sub>[#4064](https://github.com/flutter/packages/pull/4064) merged on May 31, 2023 &mdash; **Extra large:** [25 comments](https://github.com/flutter/packages/pull/4064) over 1 week, 1558 additions and 1278 deletions in 18 files</sub><br />
+    <sub>[#4064](https://github.com/flutter/packages/pull/4064) merged on May 31, 2023 &mdash; **Extra large:** [26 comments](https://github.com/flutter/packages/pull/4064) over 1 week, 1558 additions and 1278 deletions in 18 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [local_auth]: Bump androidx.fragment:fragment from 1.5.5 to 1.5.6 in /packages/local_auth/local_auth_android/android<br />
