@@ -39,7 +39,7 @@
     <sub>[#126287](https://github.com/flutter/flutter/pull/126287) opened on on May 8, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/126287) 155 additions and 0 deletions in 2 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] In `flutter doctor -v`, warn when Android Studio version could not be detected.<br />
-    <sub>[#126395](https://github.com/flutter/flutter/pull/126395) opened on on May 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/126395) 122 additions and 51 deletions in 4 files</sub><br />
+    <sub>[#126395](https://github.com/flutter/flutter/pull/126395) opened on on May 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126395) 122 additions and 51 deletions in 4 files</sub><br />
 
 * **[Casey Rogers](https://github.com/caseycrogers)** &mdash; [WIP] removed generic, started fixing popupmenu<br />
     <sub>[#126456](https://github.com/flutter/flutter/pull/126456) opened on on May 10, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/126456) 491 additions and 516 deletions in 35 files</sub><br />
@@ -66,7 +66,7 @@
     <sub>[#127501](https://github.com/flutter/flutter/pull/127501) opened on on May 24, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/127501) 201 additions and 172 deletions in 21 files</sub><br />
 
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Use `--target-os` for appropriate precompiled targets.<br />
-    <sub>[#127567](https://github.com/flutter/flutter/pull/127567) opened on on May 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127567) 30 additions and 0 deletions in 3 files</sub><br />
+    <sub>[#127567](https://github.com/flutter/flutter/pull/127567) opened on on May 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127567) 30 additions and 0 deletions in 3 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Pin package:test_core/test_api<br />
     <sub>[#127602](https://github.com/flutter/flutter/pull/127602) opened on on May 25, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/127602) 206 additions and 204 deletions in 40 files</sub><br />
@@ -118,4 +118,7 @@
 
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Tap on button behind snack bar defined by margin<br />
     <sub>[#127959](https://github.com/flutter/flutter/pull/127959) opened on on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127959) 116 additions and 0 deletions in 2 files</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [CP] BETA AGP 8.0 minification support when using integration_test package<br />
+    <sub>[#127968](https://github.com/flutter/flutter/pull/127968) opened on on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127968) 162 additions and 7 deletions in 12 files</sub><br />
 
