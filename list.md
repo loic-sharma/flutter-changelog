@@ -1250,7 +1250,7 @@
 
 ### May 27, 2023 to June 2, 2023
 
-5 commits.
+6 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_maps] Prepares packages to endorse web.
     <sub>[#4064](https://github.com/flutter/packages/pull/4064) merged on May 31, 2023 &mdash; **Extra large:** [26 comments](https://github.com/flutter/packages/pull/4064) over 1 week, 1558 additions and 1278 deletions in 18 files</sub>
@@ -1272,6 +1272,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_sign_in] Clarifies canAccessScopes docs.
     <sub>[#4092](https://github.com/flutter/packages/pull/4092) merged on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4092) over 4 days, 15 additions and 5 deletions in 7 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [image_picker] Move disk accesses to background thread
+    <sub>[#4058](https://github.com/flutter/packages/pull/4058) merged on May 31, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4058) over 1 week, 68 additions and 54 deletions in 11 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub>
 
 ### May 20, 2023 to May 26, 2023
 
@@ -1325,7 +1329,7 @@
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchase] Bump `in_app_purchase_android` dependency to 3.0.0
     <sub>[#4065](https://github.com/flutter/packages/pull/4065) merged on May 23, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/4065) over 11 hours, 12 additions and 34 deletions in 4 files</sub>
-    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchases] Fix mismatching method signature strings
     <sub>[#4040](https://github.com/flutter/packages/pull/4040) merged on May 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4040) over 3 days, 152 additions and 35 deletions in 7 files</sub>
