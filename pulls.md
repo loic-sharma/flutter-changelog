@@ -128,3 +128,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Use process matcher for multidex test<br />
     <sub>[#127996](https://github.com/flutter/flutter/pull/127996) opened on on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127996) 37 additions and 32 deletions in 2 files</sub><br />
 
+* **[Arne Molland](https://github.com/arnemolland)** &mdash; Fix inconsistently suffixed macOS flavored bundle directory<br />
+    <sub>[#127997](https://github.com/flutter/flutter/pull/127997) opened on on May 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127997) 1 addition and 1 deletion in 1 file</sub><br />
+
