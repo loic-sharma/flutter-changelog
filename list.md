@@ -1234,7 +1234,11 @@
 
 ### May 27, 2023 to June 2, 2023
 
-4 commits.
+5 commits.
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [google_maps] Prepares packages to endorse web.
+    <sub>[#4064](https://github.com/flutter/packages/pull/4064) merged on May 31, 2023 &mdash; **Extra large:** [25 comments](https://github.com/flutter/packages/pull/4064) over 1 week, 1558 additions and 1278 deletions in 18 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [local_auth]: Bump androidx.fragment:fragment from 1.5.5 to 1.5.6 in /packages/local_auth/local_auth_android/android
     <sub>[#3553](https://github.com/flutter/packages/pull/3553) merged on May 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3553) over 2 months, 6 additions and 2 deletions in 3 files</sub>
