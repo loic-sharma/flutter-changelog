@@ -134,7 +134,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] ui.platformViewRegistry => ui_web.platformViewRegistry<br />
     <sub>[#127493](https://github.com/flutter/flutter/pull/127493) merged on May 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127493) over 8 hours, 28 additions and 42 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Yegor](https://github.com/yjbanov)</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove rounding from TextPainter<br />
     <sub>[#127099](https://github.com/flutter/flutter/pull/127099) merged on May 26, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/127099) over 1 week, 260 additions and 84 deletions in 16 files</sub><br />
@@ -218,7 +218,7 @@
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add test for setting JAVA_HOME and PATH when invoking `sdkmanager --licenses`<br />
     <sub>[#127344](https://github.com/flutter/flutter/pull/127344) merged on May 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127344) over 41 minutes, 30 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Manually roll Flutter Engine from 0c41b02cd5a6 to c641f6307f08<br />
     <sub>[#127514](https://github.com/flutter/flutter/pull/127514) merged on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127514) over 2 hours, 10 additions and 14 deletions in 5 files</sub><br />
@@ -330,7 +330,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker to 5.0.0<br />
     <sub>[#126367](https://github.com/flutter/flutter/pull/126367) merged on May 16, 2023 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/126367) over 6 days, 354 additions and 350 deletions in 72 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Felix Angelov](https://github.com/felangel)** &mdash; fix(flutter_tools): `findBundleFile` w/multiple flavor dimensions<br />
     <sub>[#127133](https://github.com/flutter/flutter/pull/127133) merged on May 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127133) over 19 hours, 71 additions and 0 deletions in 4 files</sub><br />
@@ -574,7 +574,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "i125138 abstract method smoke agp update (#125139)"<br />
     <sub>[#126274](https://github.com/flutter/flutter/pull/126274) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126274) over 1 week, 106 additions and 148 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [gmackall](https://github.com/gmackall)</sub><br />
+    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 </details>
 
@@ -1333,7 +1333,7 @@
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchase] Bump `in_app_purchase_android` dependency to 3.0.0<br />
     <sub>[#4065](https://github.com/flutter/packages/pull/4065) merged on May 23, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/4065) over 11 hours, 12 additions and 34 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchases] Fix mismatching method signature strings<br />
     <sub>[#4040](https://github.com/flutter/packages/pull/4040) merged on May 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4040) over 3 days, 152 additions and 35 deletions in 7 files</sub><br />
