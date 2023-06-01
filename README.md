@@ -661,7 +661,7 @@
 
 ### May 27, 2023 to June 2, 2023
 
-30 commits.
+31 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add Impeller Metal support in the embedder API<br />
     <sub>[#42411](https://github.com/flutter/engine/pull/42411) merged on June 1, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/engine/pull/42411) over 2 days, 1154 additions and 226 deletions in 51 files</sub><br />
@@ -773,6 +773,10 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Reland: "Adding app lifecycle notification for macOS and Linux, add `hidden` state." (#40542)<br />
     <sub>[#42418](https://github.com/flutter/engine/pull/42418) merged on May 30, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/42418) over 5 hours, 1113 additions and 134 deletions in 28 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Move clang tidy v2 build to prod."<br />
+    <sub>[#42495](https://github.com/flutter/engine/pull/42495) merged on June 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42495) over 43 minutes, 1 addition and 15 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[web] Remove the JS API for url strategy"<br />
     <sub>[#42468](https://github.com/flutter/engine/pull/42468) merged on June 1, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/42468) over 46 minutes, 235 additions and 76 deletions in 11 files</sub><br />
