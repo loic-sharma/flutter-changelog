@@ -131,3 +131,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] remove reference to closed issue.<br />
     <sub>[#128007](https://github.com/flutter/flutter/pull/128007) opened on on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128007) 2 additions and 5 deletions in 1 file</sub><br />
 
+* **[codenoid](https://github.com/codenoid)** &mdash; [flutter_tools] update dart cache clear hint<br />
+    <sub>[#128037](https://github.com/flutter/flutter/pull/128037) opened on on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128037) 1 addition and 1 deletion in 1 file</sub><br />
+
