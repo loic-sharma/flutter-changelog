@@ -128,3 +128,6 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated InputDecoratorExamples for M3<br />
     <sub>[#128065](https://github.com/flutter/flutter/pull/128065) opened on on June 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128065) 19 additions and 6 deletions in 15 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; migrate the package_autoroller from querying by label to title<br />
+    <sub>[#128066](https://github.com/flutter/flutter/pull/128066) opened on on June 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128066) 22 additions and 14 deletions in 2 files</sub><br />
+
