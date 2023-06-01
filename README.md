@@ -4,7 +4,7 @@
 
 ### May 27, 2023 to June 2, 2023
 
-22 commits.
+23 commits.
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] manually roll pub deps<br />
     <sub>[#127447](https://github.com/flutter/flutter/pull/127447) merged on May 30, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/127447) over 6 days, 407 additions and 408 deletions in 59 files</sub><br />
@@ -37,6 +37,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Increases the eyeballed value of auto scroll velocity scalar<br />
     <sub>[#127410](https://github.com/flutter/flutter/pull/127410) merged on May 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127410) over 1 week, 56 additions and 10 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tools] use Java class for all java-searching behavior<br />
+    <sub>[#127354](https://github.com/flutter/flutter/pull/127354) merged on June 1, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/127354) over 1 week, 204 additions and 244 deletions in 20 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; add link to design doc wiki page<br />
     <sub>[#127442](https://github.com/flutter/flutter/pull/127442) merged on June 1, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127442) over 1 week, 1 addition and 0 deletions in 1 file</sub><br />
