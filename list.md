@@ -4,7 +4,7 @@
 
 ### May 27, 2023 to June 2, 2023
 
-21 commits.
+22 commits.
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] manually roll pub deps
     <sub>[#127447](https://github.com/flutter/flutter/pull/127447) merged on May 30, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/127447) over 6 days, 407 additions and 408 deletions in 59 files</sub>
@@ -37,6 +37,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Increases the eyeballed value of auto scroll velocity scalar
     <sub>[#127410](https://github.com/flutter/flutter/pull/127410) merged on May 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127410) over 1 week, 56 additions and 10 deletions in 4 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; add link to design doc wiki page
+    <sub>[#127442](https://github.com/flutter/flutter/pull/127442) merged on June 1, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127442) over 1 week, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Address feedback for show window comment
     <sub>[#127998](https://github.com/flutter/flutter/pull/127998) merged on May 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127998) over 1 hour, 28 additions and 28 deletions in 11 files</sub>
