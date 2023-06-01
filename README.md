@@ -702,12 +702,16 @@
 
 ### May 27, 2023 to June 2, 2023
 
-34 commits.
+35 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add Impeller Metal support in the embedder API<br />
     <sub>[#42411](https://github.com/flutter/engine/pull/42411) merged on June 1, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/engine/pull/42411) over 2 days, 1154 additions and 226 deletions in 51 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2023-05-30 at 6 59 48 PM](https://github.com/flutter/engine/assets/919017/16616be8-f94e-42ba-8a97-4ce4aa29e662)</details></sub>
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Compute in Vulkan<br />
+    <sub>[#42294](https://github.com/flutter/engine/pull/42294) merged on June 1, 2023 &mdash; **Large:** [23 comments](https://github.com/flutter/engine/pull/42294) over 1 week, 783 additions and 83 deletions in 35 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[toneyzeng](https://github.com/toneyzeng)** &mdash; Support DisposalMethod::kRestorePrevious in MultiFrameCodec and fix the apng problem.<br />
     <sub>[#42153](https://github.com/flutter/engine/pull/42153) merged on June 1, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/42153) over 1 week, 56 additions and 13 deletions in 7 files</sub><br />
@@ -796,10 +800,6 @@
     <sub>[#42402](https://github.com/flutter/engine/pull/42402) merged on May 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42402) over 44 minutes, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Register codecs with Skia explicitly<br />
-    <sub>[#42320](https://github.com/flutter/engine/pull/42320) merged on May 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/42320) over 6 days, 23 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Fix bugprone-unchecked-optional-access errors in image_generator_apng<br />
     <sub>[#42450](https://github.com/flutter/engine/pull/42450) merged on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42450) over 1 hour, 19 additions and 5 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
@@ -819,6 +819,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove the JS API for url strategy<br />
     <sub>[#42134](https://github.com/flutter/engine/pull/42134) merged on May 31, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/42134) over 1 week, 76 additions and 235 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Register codecs with Skia explicitly<br />
+    <sub>[#42320](https://github.com/flutter/engine/pull/42320) merged on May 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/42320) over 6 days, 23 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Reland "add non-rendering operation culling to DisplayListBuilder" (#41463)<br />
     <sub>[#42330](https://github.com/flutter/engine/pull/42330) merged on June 1, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/42330) over 6 days, 1265 additions and 311 deletions in 20 files</sub><br />
