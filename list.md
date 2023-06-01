@@ -4,7 +4,7 @@
 
 ### May 27, 2023 to June 2, 2023
 
-29 commits.
+33 commits.
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] manually roll pub deps
     <sub>[#127447](https://github.com/flutter/flutter/pull/127447) merged on May 30, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/127447) over 6 days, 407 additions and 408 deletions in 59 files</sub>
@@ -29,6 +29,14 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix handling of AppLifecycleState.hidden
     <sub>[#127987](https://github.com/flutter/flutter/pull/127987) merged on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127987) over 2 hours, 22 additions and 0 deletions in 4 files</sub>
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Use process matcher for multidex test
+    <sub>[#127996](https://github.com/flutter/flutter/pull/127996) merged on June 1, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/127996) over 1 day, 216 additions and 141 deletions in 9 files</sub>
+    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak)</sub>
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; migrate the package_autoroller from querying by label to title
+    <sub>[#128066](https://github.com/flutter/flutter/pull/128066) merged on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128066) over 3 hours, 22 additions and 14 deletions in 2 files</sub>
+    <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin), [Elias Yishak](https://github.com/eliasyishak)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix bottom sheet rebuilding when tapping
     <sub>[#127526](https://github.com/flutter/flutter/pull/127526) merged on May 31, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/127526) over 6 days, 215 additions and 45 deletions in 4 files</sub>
@@ -65,6 +73,14 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update Material 2 tests group comment
     <sub>[#127796](https://github.com/flutter/flutter/pull/127796) merged on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127796) over 16 hours, 61 additions and 39 deletions in 20 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated InputDecoratorExamples for M3
+    <sub>[#128065](https://github.com/flutter/flutter/pull/128065) merged on June 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128065) over 3 hours, 19 additions and 6 deletions in 15 files</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Revised Floating Action Button examples
+    <sub>[#128058](https://github.com/flutter/flutter/pull/128058) merged on June 1, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/128058) over 5 hours, 162 additions and 282 deletions in 9 files</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [labeler] Remove use of any
     <sub>[#128011](https://github.com/flutter/flutter/pull/128011) merged on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128011) over 13 hours, 45 additions and 67 deletions in 1 file</sub>
