@@ -44,9 +44,6 @@
 * **[Florian](https://github.com/PlutoHDDev)** &mdash; Fix output of _informAboutExistingCaches<br />
     <sub>[#126566](https://github.com/flutter/flutter/pull/126566) opened on on May 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/126566) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Cempluk90](https://github.com/Cempluk90)** &mdash; Rename no-response.yaml to no-response.yamlframerate<br />
-    <sub>[#127280](https://github.com/flutter/flutter/pull/127280) opened on on May 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127280) 0 additions and 0 deletions in 1 file</sub><br />
-
 * **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Navigator.pop before PopupMenuItem onTap call<br />
     <sub>[#127446](https://github.com/flutter/flutter/pull/127446) opened on on May 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127446) 41 additions and 2 deletions in 2 files</sub><br />
 
@@ -70,9 +67,6 @@
 
 * **[Darshan Rander](https://github.com/SirusCodes)** &mdash; fix: wrong expansion tile shape assignment<br />
     <sub>[#127749](https://github.com/flutter/flutter/pull/127749) opened on on May 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127749) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Midori](https://github.com/natsuk4ze)** &mdash; [Refactor] fix quote style in template<br />
-    <sub>[#127762](https://github.com/flutter/flutter/pull/127762) opened on on May 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127762) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Gil Nobrega](https://github.com/gilnobrega)** &mdash; [a11y] CupertinoSwitch On/Off labels<br />
     <sub>[#127776](https://github.com/flutter/flutter/pull/127776) opened on on May 28, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/127776) 409 additions and 0 deletions in 4 files</sub><br />
@@ -127,4 +121,7 @@
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated Menu examples<br />
     <sub>[#128080](https://github.com/flutter/flutter/pull/128080) opened on on June 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128080) 13 additions and 10 deletions in 5 files</sub><br />
+
+* **[Devin](https://github.com/dleyba042)** &mdash; Ticket 74114<br />
+    <sub>[#128082](https://github.com/flutter/flutter/pull/128082) opened on on June 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128082) 113 additions and 11 deletions in 3 files</sub><br />
 
