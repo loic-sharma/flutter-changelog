@@ -113,6 +113,3 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Pass through type, class and function information for expression evaluation.<br />
     <sub>[#128084](https://github.com/flutter/flutter/pull/128084) opened on on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128084) 47 additions and 5 deletions in 4 files</sub><br />
 
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated TabBar and ToggleButtons examples<br />
-    <sub>[#128088](https://github.com/flutter/flutter/pull/128088) opened on on June 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128088) 37 additions and 31 deletions in 3 files</sub><br />
-
