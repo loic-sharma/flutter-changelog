@@ -4,7 +4,7 @@
 
 ### May 27, 2023 to June 2, 2023
 
-27 commits.
+28 commits.
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] manually roll pub deps
     <sub>[#127447](https://github.com/flutter/flutter/pull/127447) merged on May 30, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/127447) over 6 days, 407 additions and 408 deletions in 59 files</sub>
@@ -41,6 +41,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Increases the eyeballed value of auto scroll velocity scalar
     <sub>[#127410](https://github.com/flutter/flutter/pull/127410) merged on May 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127410) over 1 week, 56 additions and 10 deletions in 4 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] remove reference to closed issue.
+    <sub>[#128007](https://github.com/flutter/flutter/pull/128007) merged on June 1, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128007) over 14 hours, 2 additions and 5 deletions in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tools] use Java class for all java-searching behavior
     <sub>[#127354](https://github.com/flutter/flutter/pull/127354) merged on June 1, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/127354) over 1 week, 204 additions and 244 deletions in 20 files</sub>
@@ -670,7 +674,7 @@
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Replace use of Skia's private GrRectanizer with a copy of the equivalent code
     <sub>[#42430](https://github.com/flutter/engine/pull/42430) merged on May 31, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/42430) over 20 hours, 312 additions and 18 deletions in 9 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Dan Field](https://github.com/dnfield)</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] offload all text computation into vertex shader
     <sub>[#42417](https://github.com/flutter/engine/pull/42417) merged on May 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42417) over 9 hours, 155 additions and 118 deletions in 3 files</sub>
@@ -778,7 +782,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Limit rrect blur kernel to 1000x1000
     <sub>[#42269](https://github.com/flutter/engine/pull/42269) merged on May 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42269) over 2 hours, 63 additions and 43 deletions in 9 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot 2023-05-23 at 4 08 41 PM](https://github.com/flutter/engine/assets/919017/108e01ce-2cf1-4bc9-b51b-7f4ad7288fac)</details></sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Set the coverage hint on everything
@@ -843,7 +847,7 @@
 
 * **[Valentin Hăloiu](https://github.com/vially)** &mdash; Dynamically link against system fontconfig
     <sub>[#40725](https://github.com/flutter/engine/pull/40725) merged on May 25, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/40725) over 1 month, 3 additions and 7 deletions in 2 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Place Entity Geometry classes in separate TUs
     <sub>[#42236](https://github.com/flutter/engine/pull/42236) merged on May 23, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/42236) over 53 minutes, 1602 additions and 1444 deletions in 33 files</sub>
@@ -1330,7 +1334,7 @@
 
 ### May 27, 2023 to June 2, 2023
 
-8 commits.
+9 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_maps] Prepares packages to endorse web.
     <sub>[#4064](https://github.com/flutter/packages/pull/4064) merged on May 31, 2023 &mdash; **Extra large:** [26 comments](https://github.com/flutter/packages/pull/4064) over 1 week, 1558 additions and 1278 deletions in 18 files</sub>
@@ -1340,6 +1344,11 @@
     <sub>[#3553](https://github.com/flutter/packages/pull/3553) merged on May 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3553) over 2 months, 6 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.fragment:fragment&package-manager=gradle&previous-version=1.5.5&new-version=1.5.6)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [image_picker]: Bump org.jetbrains.kotlin:kotlin-bom from 1.8.10 to 1.8.21 in /packages/image_picker/image_picker_android/android
+    <sub>[#4054](https://github.com/flutter/packages/pull/4054) merged on June 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4054) over 1 week, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-bom&package-manager=gradle&previous-version=1.8.10&new-version=1.8.21)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[杨加康](https://github.com/MeandNi)** &mdash; [flutter_markdown] Unable to use MarkdownElementBuilder to act those tags without children.
     <sub>[#3952](https://github.com/flutter/packages/pull/3952) merged on May 30, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/3952) over 2 weeks, 39 additions and 3 deletions in 4 files</sub>
@@ -1355,7 +1364,7 @@
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [image_picker] Move disk accesses to background thread
     <sub>[#4058](https://github.com/flutter/packages/pull/4058) merged on May 31, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4058) over 1 week, 68 additions and 54 deletions in 11 files</sub>
-    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Remove legacy xcode properties and dependencies
     <sub>[#4093](https://github.com/flutter/packages/pull/4093) merged on May 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4093) over 4 days, 0 additions and 4 deletions in 1 file</sub>
@@ -1417,7 +1426,7 @@
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchase] Bump `in_app_purchase_android` dependency to 3.0.0
     <sub>[#4065](https://github.com/flutter/packages/pull/4065) merged on May 23, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/4065) over 11 hours, 12 additions and 34 deletions in 4 files</sub>
-    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchases] Fix mismatching method signature strings
     <sub>[#4040](https://github.com/flutter/packages/pull/4040) merged on May 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4040) over 3 days, 152 additions and 35 deletions in 7 files</sub>
