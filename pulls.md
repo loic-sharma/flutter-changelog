@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; Fix Chip classes to respect iconTheme constructor param. fixes #111828<br />
-    <sub>[#112001](https://github.com/flutter/flutter/pull/112001) opened on on September 20, 2022 &mdash; **Small:** [50 comments](https://github.com/flutter/flutter/pull/112001) 176 additions and 34 deletions in 10 files</sub><br />
+    <sub>[#112001](https://github.com/flutter/flutter/pull/112001) opened on on September 20, 2022 &mdash; **Small:** [51 comments](https://github.com/flutter/flutter/pull/112001) 135 additions and 34 deletions in 10 files</sub><br />
 
 * **[MattyBoy](https://github.com/MattyBoy4444)** &mdash; Fixed: ReorderableListView draghandles would display over child item<br />
     <sub>[#113642](https://github.com/flutter/flutter/pull/113642) opened on on October 18, 2022 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/113642) 44 additions and 24 deletions in 1 file</sub><br />
