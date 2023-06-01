@@ -661,7 +661,7 @@
 
 ### May 27, 2023 to June 2, 2023
 
-26 commits.
+27 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Bias towards sampling from lower mip levels<br />
     <sub>[#42386](https://github.com/flutter/engine/pull/42386) merged on May 30, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/42386) over 2 days, 276 additions and 258 deletions in 19 files</sub><br />
@@ -678,7 +678,7 @@
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Replace use of Skia's private GrRectanizer with a copy of the equivalent code<br />
     <sub>[#42430](https://github.com/flutter/engine/pull/42430) merged on May 31, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/42430) over 20 hours, 312 additions and 18 deletions in 9 files</sub><br />
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] offload all text computation into vertex shader<br />
     <sub>[#42417](https://github.com/flutter/engine/pull/42417) merged on May 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42417) over 9 hours, 155 additions and 118 deletions in 3 files</sub><br />
@@ -711,6 +711,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] Add dart-lang/native packages<br />
     <sub>[#42412](https://github.com/flutter/engine/pull/42412) merged on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42412) over 52 minutes, 3 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [William Hesse](https://github.com/whesse)</sub><br />
+
+* **[Callum Moffat](https://github.com/moffatman)** &mdash; Fix crash getting spell-check suggestions<br />
+    <sub>[#42466](https://github.com/flutter/engine/pull/42466) merged on June 1, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42466) over 18 hours, 23 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Fix lint in rectangle packer<br />
     <sub>[#42489](https://github.com/flutter/engine/pull/42489) merged on June 1, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42489) over 46 minutes, 4 additions and 4 deletions in 1 file</sub><br />
@@ -1393,7 +1397,7 @@
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [image_picker] Move disk accesses to background thread<br />
     <sub>[#4058](https://github.com/flutter/packages/pull/4058) merged on May 31, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4058) over 1 week, 68 additions and 54 deletions in 11 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub><br />
+    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Remove legacy xcode properties and dependencies<br />
     <sub>[#4093](https://github.com/flutter/packages/pull/4093) merged on May 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4093) over 4 days, 0 additions and 4 deletions in 1 file</sub><br />
@@ -1455,7 +1459,7 @@
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchase] Bump `in_app_purchase_android` dependency to 3.0.0<br />
     <sub>[#4065](https://github.com/flutter/packages/pull/4065) merged on May 23, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/4065) over 11 hours, 12 additions and 34 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchases] Fix mismatching method signature strings<br />
     <sub>[#4040](https://github.com/flutter/packages/pull/4040) merged on May 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4040) over 3 days, 152 additions and 35 deletions in 7 files</sub><br />
@@ -1523,7 +1527,7 @@
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [image_picker] Fix crash due to `SecurityException`<br />
     <sub>[#4004](https://github.com/flutter/packages/pull/4004) merged on May 19, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4004) over 3 days, 34 additions and 2 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [gmackall](https://github.com/gmackall)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Lower iOS LUCI timeouts<br />
     <sub>[#4035](https://github.com/flutter/packages/pull/4035) merged on May 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4035) over 2 hours, 10 additions and 13 deletions in 1 file</sub><br />
