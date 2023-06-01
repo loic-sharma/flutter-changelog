@@ -105,7 +105,7 @@
     <sub>[#127984](https://github.com/flutter/flutter/pull/127984) opened on on May 31, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/127984) 0 additions and 670 deletions in 38 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Use process matcher for multidex test<br />
-    <sub>[#127996](https://github.com/flutter/flutter/pull/127996) opened on on May 31, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/127996) 216 additions and 141 deletions in 9 files</sub><br />
+    <sub>[#127996](https://github.com/flutter/flutter/pull/127996) opened on on May 31, 2023 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/127996) 216 additions and 141 deletions in 9 files</sub><br />
 
 * **[Arne Molland](https://github.com/arnemolland)** &mdash; Fix inconsistently suffixed macOS flavored bundle directory<br />
     <sub>[#127997](https://github.com/flutter/flutter/pull/127997) opened on on May 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127997) 2 additions and 2 deletions in 2 files</sub><br />
@@ -124,4 +124,7 @@
 
 * **[Devin](https://github.com/dleyba042)** &mdash; Ticket 74114<br />
     <sub>[#128082](https://github.com/flutter/flutter/pull/128082) opened on on June 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128082) 113 additions and 11 deletions in 3 files</sub><br />
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Pass through type, class and function information for expression evaluation.<br />
+    <sub>[#128084](https://github.com/flutter/flutter/pull/128084) opened on on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128084) 47 additions and 5 deletions in 4 files</sub><br />
 
