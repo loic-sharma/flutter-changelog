@@ -62,9 +62,6 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; [DRAFT] - Change `useMaterial3` default to true<br />
     <sub>[#127501](https://github.com/flutter/flutter/pull/127501) opened on on May 24, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/127501) 204 additions and 172 deletions in 22 files</sub><br />
 
-* **[Tess Strickland](https://github.com/sstrickl)** &mdash; Use `--target-os` for appropriate precompiled targets.<br />
-    <sub>[#127567](https://github.com/flutter/flutter/pull/127567) opened on on May 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127567) 30 additions and 0 deletions in 3 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Pin package:test_core/test_api<br />
     <sub>[#127602](https://github.com/flutter/flutter/pull/127602) opened on on May 25, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/127602) 206 additions and 204 deletions in 40 files</sub><br />
 

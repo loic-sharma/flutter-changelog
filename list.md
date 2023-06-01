@@ -4,7 +4,7 @@
 
 ### May 27, 2023 to June 2, 2023
 
-28 commits.
+29 commits.
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] manually roll pub deps
     <sub>[#127447](https://github.com/flutter/flutter/pull/127447) merged on May 30, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/127447) over 6 days, 407 additions and 408 deletions in 59 files</sub>
@@ -65,6 +65,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update Material 2 tests group comment
     <sub>[#127796](https://github.com/flutter/flutter/pull/127796) merged on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127796) over 16 hours, 61 additions and 39 deletions in 20 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [labeler] Remove use of any
+    <sub>[#128011](https://github.com/flutter/flutter/pull/128011) merged on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128011) over 13 hours, 45 additions and 67 deletions in 1 file</sub>
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Vasiliy Ditsyak](https://github.com/vasilich6107)** &mdash; Add fallback font to IconData class
     <sub>[#127269](https://github.com/flutter/flutter/pull/127269) merged on June 1, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/127269) over 1 week, 32 additions and 2 deletions in 3 files</sub>
@@ -782,12 +786,12 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Limit rrect blur kernel to 1000x1000
     <sub>[#42269](https://github.com/flutter/engine/pull/42269) merged on May 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42269) over 2 hours, 63 additions and 43 deletions in 9 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot 2023-05-23 at 4 08 41 PM](https://github.com/flutter/engine/assets/919017/108e01ce-2cf1-4bc9-b51b-7f4ad7288fac)</details></sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Set the coverage hint on everything
     <sub>[#42264](https://github.com/flutter/engine/pull/42264) merged on May 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/42264) over 3 hours, 27 additions and 11 deletions in 2 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot 2023-05-23 at 3 16 49 PM](https://github.com/flutter/engine/assets/919017/5b7182c8-e704-4c4a-bb71-fdf226a60f4e)![Screenshot 2023-05-23 at 3 08 15 PM](https://github.com/flutter/engine/assets/919017/524c2fb1-3b58-4589-824b-0794c2bd5ea2)</details></sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add golden repro for mask blur issues
@@ -847,7 +851,7 @@
 
 * **[Valentin Hăloiu](https://github.com/vially)** &mdash; Dynamically link against system fontconfig
     <sub>[#40725](https://github.com/flutter/engine/pull/40725) merged on May 25, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/40725) over 1 month, 3 additions and 7 deletions in 2 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Place Entity Geometry classes in separate TUs
     <sub>[#42236](https://github.com/flutter/engine/pull/42236) merged on May 23, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/42236) over 53 minutes, 1602 additions and 1444 deletions in 33 files</sub>
@@ -875,7 +879,7 @@
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll buildroot to 5cab8e095066d8f3de063943af26b7336aa52662
     <sub>[#42251](https://github.com/flutter/engine/pull/42251) merged on May 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42251) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Disable the wide gamut settings flag on iOS simulators
     <sub>[#42331](https://github.com/flutter/engine/pull/42331) merged on May 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42331) over 45 minutes, 7 additions and 7 deletions in 2 files</sub>
@@ -1334,11 +1338,16 @@
 
 ### May 27, 2023 to June 2, 2023
 
-9 commits.
+10 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_maps] Prepares packages to endorse web.
     <sub>[#4064](https://github.com/flutter/packages/pull/4064) merged on May 31, 2023 &mdash; **Extra large:** [26 comments](https://github.com/flutter/packages/pull/4064) over 1 week, 1558 additions and 1278 deletions in 18 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [image_picker]: Bump androidx.core:core from 1.9.0 to 1.10.1 in /packages/image_picker/image_picker_android/android
+    <sub>[#3991](https://github.com/flutter/packages/pull/3991) merged on June 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3991) over 2 weeks, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.core:core&package-manager=gradle&previous-version=1.9.0&new-version=1.10.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [local_auth]: Bump androidx.fragment:fragment from 1.5.5 to 1.5.6 in /packages/local_auth/local_auth_android/android
     <sub>[#3553](https://github.com/flutter/packages/pull/3553) merged on May 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3553) over 2 months, 6 additions and 2 deletions in 3 files</sub>
