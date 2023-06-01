@@ -81,7 +81,7 @@
     <sub>[#127877](https://github.com/flutter/flutter/pull/127877) opened on on May 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127877) 44 additions and 4 deletions in 3 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Refactor "app plugin loader" Gradle Plugin so it can be applied using the declarative `plugins {}` block<br />
-    <sub>[#127897](https://github.com/flutter/flutter/pull/127897) opened on on May 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127897) 72 additions and 34 deletions in 7 files</sub><br />
+    <sub>[#127897](https://github.com/flutter/flutter/pull/127897) opened on on May 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/127897) 72 additions and 34 deletions in 7 files</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; Make the type of AbstractNode.parent concrete to avoid runtime type casts<br />
     <sub>[#127899](https://github.com/flutter/flutter/pull/127899) opened on on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127899) 92 additions and 175 deletions in 26 files</sub><br />
