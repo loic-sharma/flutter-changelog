@@ -119,12 +119,12 @@
 * **[codenoid](https://github.com/codenoid)** &mdash; [flutter_tools] update dart cache clear hint<br />
     <sub>[#128037](https://github.com/flutter/flutter/pull/128037) opened on on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128037) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `FilterChip.elevated`, `ChoiceChip.elevated`, & `ActionChip.elevated` variants<br />
-    <sub>[#128049](https://github.com/flutter/flutter/pull/128049) opened on on June 1, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/128049) 1096 additions and 87 deletions in 10 files</sub><br />
-
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated InputDecoratorExamples for M3<br />
     <sub>[#128065](https://github.com/flutter/flutter/pull/128065) opened on on June 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128065) 19 additions and 6 deletions in 15 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; migrate the package_autoroller from querying by label to title<br />
     <sub>[#128066](https://github.com/flutter/flutter/pull/128066) opened on on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128066) 22 additions and 14 deletions in 2 files</sub><br />
+
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated Menu examples<br />
+    <sub>[#128080](https://github.com/flutter/flutter/pull/128080) opened on on June 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128080) 13 additions and 10 deletions in 5 files</sub><br />
 
