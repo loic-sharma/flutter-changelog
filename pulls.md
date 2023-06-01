@@ -110,12 +110,6 @@
 * **[codenoid](https://github.com/codenoid)** &mdash; [flutter_tools] update dart cache clear hint<br />
     <sub>[#128037](https://github.com/flutter/flutter/pull/128037) opened on on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128037) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated Menu examples<br />
-    <sub>[#128080](https://github.com/flutter/flutter/pull/128080) opened on on June 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128080) 13 additions and 10 deletions in 5 files</sub><br />
-
-* **[Devin](https://github.com/dleyba042)** &mdash; Ticket 74114<br />
-    <sub>[#128082](https://github.com/flutter/flutter/pull/128082) opened on on June 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128082) 113 additions and 11 deletions in 3 files</sub><br />
-
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Pass through type, class and function information for expression evaluation.<br />
     <sub>[#128084](https://github.com/flutter/flutter/pull/128084) opened on on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128084) 47 additions and 5 deletions in 4 files</sub><br />
 
