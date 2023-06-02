@@ -77,9 +77,6 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; Make the type of AbstractNode.parent concrete to avoid runtime type casts<br />
     <sub>[#127899](https://github.com/flutter/flutter/pull/127899) opened on on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127899) 92 additions and 175 deletions in 26 files</sub><br />
 
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Super tiny MediaQuery doc update<br />
-    <sub>[#127904](https://github.com/flutter/flutter/pull/127904) opened on on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127904) 3 additions and 1 deletion in 1 file</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Improve the error message for non-normalized constraints<br />
     <sub>[#127906](https://github.com/flutter/flutter/pull/127906) opened on on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127906) 45 additions and 2 deletions in 2 files</sub><br />
 
@@ -118,4 +115,7 @@
 
 * **[cruiser-baxter](https://github.com/cruiser-baxter)** &mdash; Fixed slider value indicator not disappearing after a bit on desktop platform when slider is clicked not dragged<br />
     <sub>[#128137](https://github.com/flutter/flutter/pull/128137) opened on on June 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128137) 73 additions and 1 deletion in 2 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] force flexible space background to rebuild.<br />
+    <sub>[#128138](https://github.com/flutter/flutter/pull/128138) opened on on June 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128138) 7 additions and 1 deletion in 1 file</sub><br />
 
