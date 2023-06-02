@@ -334,7 +334,7 @@
     <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix ScrollPosition overscroll precision error
-    <sub>[#127321](https://github.com/flutter/flutter/pull/127321) merged on May 24, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/127321) over 2 days, 43 additions and 1 deletion in 2 files</sub>
+    <sub>[#127321](https://github.com/flutter/flutter/pull/127321) merged on May 24, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/127321) over 2 days, 43 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [nt4f04uNd](https://github.com/nt4f04uNd)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add test for setting JAVA_HOME and PATH when invoking `sdkmanager --licenses`
