@@ -116,3 +116,6 @@
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Super tiny hint text when error is thrown<br />
     <sub>[#128091](https://github.com/flutter/flutter/pull/128091) opened on on June 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128091) 3 additions and 0 deletions in 1 file</sub><br />
 
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny improvement on performance when ui.Image and ui.Picture is created/disposed<br />
+    <sub>[#128108](https://github.com/flutter/flutter/pull/128108) opened on on June 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128108) 8 additions and 8 deletions in 1 file</sub><br />
+
