@@ -750,7 +750,7 @@
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Replace use of Skia's private GrRectanizer with a copy of the equivalent code<br />
     <sub>[#42430](https://github.com/flutter/engine/pull/42430) merged on May 31, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/42430) over 20 hours, 312 additions and 18 deletions in 9 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Dan Field](https://github.com/dnfield)</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] offload all text computation into vertex shader<br />
     <sub>[#42417](https://github.com/flutter/engine/pull/42417) merged on May 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42417) over 9 hours, 155 additions and 118 deletions in 3 files</sub><br />
@@ -906,7 +906,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Limit rrect blur kernel to 1000x1000<br />
     <sub>[#42269](https://github.com/flutter/engine/pull/42269) merged on May 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42269) over 2 hours, 63 additions and 43 deletions in 9 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2023-05-23 at 4 08 41 PM](https://github.com/flutter/engine/assets/919017/108e01ce-2cf1-4bc9-b51b-7f4ad7288fac)</details></sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Set the coverage hint on everything<br />
@@ -971,7 +971,7 @@
 
 * **[Valentin Hăloiu](https://github.com/vially)** &mdash; Dynamically link against system fontconfig<br />
     <sub>[#40725](https://github.com/flutter/engine/pull/40725) merged on May 25, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/40725) over 1 month, 3 additions and 7 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Chris Bracken](https://github.com/cbracken)</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Place Entity Geometry classes in separate TUs<br />
     <sub>[#42236](https://github.com/flutter/engine/pull/42236) merged on May 23, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/42236) over 53 minutes, 1602 additions and 1444 deletions in 33 files</sub><br />
@@ -999,7 +999,7 @@
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll buildroot to 5cab8e095066d8f3de063943af26b7336aa52662<br />
     <sub>[#42251](https://github.com/flutter/engine/pull/42251) merged on May 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42251) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Disable the wide gamut settings flag on iOS simulators<br />
     <sub>[#42331](https://github.com/flutter/engine/pull/42331) merged on May 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42331) over 45 minutes, 7 additions and 7 deletions in 2 files</sub><br />
@@ -1222,7 +1222,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Use 32 bit Gaussian function in the 2-pass blur<br />
     <sub>[#42069](https://github.com/flutter/engine/pull/42069) merged on May 16, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/42069) over 15 hours, 25 additions and 11 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub><br />
     <sub><details><summary>3 images...</summary>![Screen Shot 2023-05-15 at 11 14 20 PM](https://github.com/flutter/engine/assets/919017/cc342954-4550-46ed-80d8-1e27acfd56ce)![Screen Shot 2023-05-15 at 11 12 18 PM](https://github.com/flutter/engine/assets/919017/f03fbd70-f21f-48e4-9a10-30aaad43bfa3)![Screen Shot 2023-05-15 at 11 16 58 PM](https://github.com/flutter/engine/assets/919017/c8ade876-4ea5-4d50-9bbe-a680d3921740)</details></sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Implement `ImageFilter`/`ColorFilter`/`MaskFilter` in Skwasm<br />
@@ -1415,7 +1415,7 @@
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Migrate uses of SkSurface factories<br />
     <sub>[#41978](https://github.com/flutter/engine/pull/41978) merged on May 15, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/41978) over 3 days, 171 additions and 144 deletions in 44 files</sub><br />
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix DrawPaint advanced blends on iOS.<br />
     <sub>[#42032](https://github.com/flutter/engine/pull/42032) merged on May 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42032) over 7 hours, 75 additions and 17 deletions in 14 files</sub><br />
@@ -1427,7 +1427,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "[ios_platform_view] only recycle maskView when the view is applying mutators"<br />
     <sub>[#42080](https://github.com/flutter/engine/pull/42080) merged on May 16, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/42080) over 4 minutes, 65 additions and 387 deletions in 13 files</sub><br />
-    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chris Yang](https://github.com/cyanglaz)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Reland "Remove GN staging flag for save layer bounds"<br />
     <sub>[#42029](https://github.com/flutter/engine/pull/42029) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42029) over 3 hours, 0 additions and 2 deletions in 1 file</sub><br />
@@ -1446,7 +1446,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS - TextInput] Insert new line only when TextInputAction.newline<br />
     <sub>[#41977](https://github.com/flutter/engine/pull/41977) merged on May 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/41977) over 18 hours, 203 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Remove GN staging flag for save layer bounds"<br />
     <sub>[#42026](https://github.com/flutter/engine/pull/42026) merged on May 14, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42026) over 51 minutes, 2 additions and 0 deletions in 1 file</sub><br />
@@ -1493,7 +1493,7 @@
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [image_picker] Move disk accesses to background thread<br />
     <sub>[#4058](https://github.com/flutter/packages/pull/4058) merged on May 31, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4058) over 1 week, 68 additions and 54 deletions in 11 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub><br />
+    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Remove legacy xcode properties and dependencies<br />
     <sub>[#4093](https://github.com/flutter/packages/pull/4093) merged on May 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4093) over 4 days, 0 additions and 4 deletions in 1 file</sub><br />
@@ -1555,7 +1555,7 @@
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchase] Bump `in_app_purchase_android` dependency to 3.0.0<br />
     <sub>[#4065](https://github.com/flutter/packages/pull/4065) merged on May 23, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/4065) over 11 hours, 12 additions and 34 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchases] Fix mismatching method signature strings<br />
     <sub>[#4040](https://github.com/flutter/packages/pull/4040) merged on May 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4040) over 3 days, 152 additions and 35 deletions in 7 files</sub><br />
