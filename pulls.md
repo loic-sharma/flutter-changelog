@@ -101,6 +101,3 @@
 * **[cruiser-baxter](https://github.com/cruiser-baxter)** &mdash; Fixed slider value indicator not disappearing after a bit on desktop platform when slider is clicked not dragged<br />
     <sub>[#128137](https://github.com/flutter/flutter/pull/128137) opened on on June 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128137) 73 additions and 1 deletion in 2 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Prefix for dart:ui multiview change<br />
-    <sub>[#128152](https://github.com/flutter/flutter/pull/128152) opened on on June 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128152) 1 addition and 1 deletion in 1 file</sub><br />
-

@@ -815,7 +815,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; MultiView changes for dart:ui
-    <sub>[#42493](https://github.com/flutter/engine/pull/42493) merged on June 2, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42493) over 1 day, 229 additions and 29 deletions in 11 files</sub>
+    <sub>[#42493](https://github.com/flutter/engine/pull/42493) merged on June 2, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/42493) over 1 day, 229 additions and 29 deletions in 11 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Wrap concurrent message loop tasks in an autorelease pool on iOS/Mac platforms
