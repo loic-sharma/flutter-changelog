@@ -54,7 +54,7 @@
     <sub>[#127490](https://github.com/flutter/flutter/pull/127490) opened on on May 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127490) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; [DRAFT] - Change `useMaterial3` default to true<br />
-    <sub>[#127501](https://github.com/flutter/flutter/pull/127501) opened on on May 24, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/127501) 204 additions and 172 deletions in 22 files</sub><br />
+    <sub>[#127501](https://github.com/flutter/flutter/pull/127501) opened on on May 24, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/127501) 206 additions and 172 deletions in 24 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; migrate `Tooltip` to use  `OverlayPortal`<br />
     <sub>[#127728](https://github.com/flutter/flutter/pull/127728) opened on on May 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127728) 61 additions and 146 deletions in 2 files</sub><br />
