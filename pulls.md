@@ -74,9 +74,6 @@
 * **[Luca Venir](https://github.com/lucavenir)** &mdash; Implementing onSubmitted for Material SearchBar<br />
     <sub>[#127845](https://github.com/flutter/flutter/pull/127845) opened on on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127845) 12 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Allow long-press gestures to continue even if buttons change.<br />
-    <sub>[#127877](https://github.com/flutter/flutter/pull/127877) opened on on May 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127877) 44 additions and 4 deletions in 3 files</sub><br />
-
 * **[Yegor](https://github.com/yjbanov)** &mdash; Make the type of AbstractNode.parent concrete to avoid runtime type casts<br />
     <sub>[#127899](https://github.com/flutter/flutter/pull/127899) opened on on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127899) 92 additions and 175 deletions in 26 files</sub><br />
 
