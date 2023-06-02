@@ -113,3 +113,6 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Pass through type, class and function information for expression evaluation.<br />
     <sub>[#128084](https://github.com/flutter/flutter/pull/128084) opened on on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128084) 47 additions and 5 deletions in 4 files</sub><br />
 
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Super tiny hint text when error is thrown<br />
+    <sub>[#128091](https://github.com/flutter/flutter/pull/128091) opened on on June 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128091) 3 additions and 0 deletions in 1 file</sub><br />
+
