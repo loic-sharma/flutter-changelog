@@ -4,7 +4,7 @@
 
 ### May 27, 2023 to June 2, 2023
 
-39 commits.
+40 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `FilterChip.elevated`, `ChoiceChip.elevated`, & `ActionChip.elevated` variants
     <sub>[#128049](https://github.com/flutter/flutter/pull/128049) merged on June 1, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/128049) over 7 hours, 1096 additions and 87 deletions in 10 files</sub>
@@ -51,10 +51,6 @@
     <sub>[#128066](https://github.com/flutter/flutter/pull/128066) merged on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128066) over 3 hours, 22 additions and 14 deletions in 2 files</sub>
     <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin), [Elias Yishak](https://github.com/eliasyishak)</sub>
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Increases the eyeballed value of auto scroll velocity scalar
-    <sub>[#127410](https://github.com/flutter/flutter/pull/127410) merged on May 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127410) over 1 week, 56 additions and 10 deletions in 4 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
-
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix bottom sheet rebuilding when tapping
     <sub>[#127526](https://github.com/flutter/flutter/pull/127526) merged on May 31, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/127526) over 6 days, 215 additions and 45 deletions in 4 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
@@ -62,6 +58,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Use PlatformLocation from ui_web
     <sub>[#126851](https://github.com/flutter/flutter/pull/126851) merged on May 31, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/126851) over 2 weeks, 64 additions and 243 deletions in 7 files</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Increases the eyeballed value of auto scroll velocity scalar
+    <sub>[#127410](https://github.com/flutter/flutter/pull/127410) merged on May 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127410) over 1 week, 56 additions and 10 deletions in 4 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add error message when sliver overlap absorber is missing
     <sub>[#128075](https://github.com/flutter/flutter/pull/128075) merged on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128075) over 2 hours, 49 additions and 0 deletions in 2 files</sub>
@@ -91,6 +91,10 @@
     <sub>[#127796](https://github.com/flutter/flutter/pull/127796) merged on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127796) over 16 hours, 61 additions and 39 deletions in 20 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Text should still be centered when search bar height is less than 48
+    <sub>[#128068](https://github.com/flutter/flutter/pull/128068) merged on June 2, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/128068) over 5 hours, 30 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated custom ListTile examples
     <sub>[#128071](https://github.com/flutter/flutter/pull/128071) merged on June 1, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128071) over 4 hours, 33 additions and 56 deletions in 3 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
@@ -106,10 +110,6 @@
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Avoid catching FlutterError in TextPainter tests
     <sub>[#127604](https://github.com/flutter/flutter/pull/127604) merged on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127604) over 4 days, 26 additions and 26 deletions in 1 file</sub>
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
-
-* **[Matheus Kirchesch](https://github.com/matheus-kirchesch-btor)** &mdash; Added option to disable [NavigationRailDestination]s
-    <sub>[#127113](https://github.com/flutter/flutter/pull/127113) merged on May 30, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/127113) over 1 week, 58 additions and 3 deletions in 2 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Fixes in Cupertino translations
     <sub>[#127872](https://github.com/flutter/flutter/pull/127872) merged on June 1, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/127872) over 1 day, 28 additions and 31 deletions in 24 files</sub>
@@ -162,6 +162,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Assert route names start with / if using PathUrlStrategy
     <sub>[#127986](https://github.com/flutter/flutter/pull/127986) merged on June 1, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127986) over 19 hours, 33 additions and 7 deletions in 2 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Matheus Kirchesch](https://github.com/matheus-kirchesch-btor)** &mdash; Added option to disable [NavigationRailDestination]s
+    <sub>[#127113](https://github.com/flutter/flutter/pull/127113) merged on May 30, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/127113) over 1 week, 58 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 ### May 20, 2023 to May 26, 2023
 
