@@ -60,7 +60,7 @@
     <sub>[#127501](https://github.com/flutter/flutter/pull/127501) opened on on May 24, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/127501) 204 additions and 172 deletions in 22 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix update drag error that made NestedScrollView un-scrollable<br />
-    <sub>[#127718](https://github.com/flutter/flutter/pull/127718) opened on on May 26, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/127718) 35 additions and 13 deletions in 1 file</sub><br />
+    <sub>[#127718](https://github.com/flutter/flutter/pull/127718) opened on on May 26, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/127718) 315 additions and 23 deletions in 2 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; migrate `Tooltip` to use  `OverlayPortal`<br />
     <sub>[#127728](https://github.com/flutter/flutter/pull/127728) opened on on May 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127728) 61 additions and 146 deletions in 2 files</sub><br />
