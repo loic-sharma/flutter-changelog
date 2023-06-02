@@ -44,9 +44,6 @@
 * **[Florian](https://github.com/PlutoHDDev)** &mdash; Fix output of _informAboutExistingCaches<br />
     <sub>[#126566](https://github.com/flutter/flutter/pull/126566) opened on on May 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/126566) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Navigator.pop before PopupMenuItem onTap call<br />
-    <sub>[#127446](https://github.com/flutter/flutter/pull/127446) opened on on May 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127446) 41 additions and 2 deletions in 2 files</sub><br />
-
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Fix super tiny space formatting (hope we have auto formatter in the future)<br />
     <sub>[#127479](https://github.com/flutter/flutter/pull/127479) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127479) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -70,9 +67,6 @@
 
 * **[Osamu Ishimura](https://github.com/hrontan)** &mdash; fix typo of dart command in the help message about the pub cache.<br />
     <sub>[#127839](https://github.com/flutter/flutter/pull/127839) opened on on May 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127839) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Luca Venir](https://github.com/lucavenir)** &mdash; Implementing onSubmitted for Material SearchBar<br />
-    <sub>[#127845](https://github.com/flutter/flutter/pull/127845) opened on on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127845) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; Make the type of AbstractNode.parent concrete to avoid runtime type casts<br />
     <sub>[#127899](https://github.com/flutter/flutter/pull/127899) opened on on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127899) 92 additions and 175 deletions in 26 files</sub><br />
@@ -100,15 +94,6 @@
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Pass through type, class and function information for expression evaluation.<br />
     <sub>[#128084](https://github.com/flutter/flutter/pull/128084) opened on on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128084) 47 additions and 5 deletions in 4 files</sub><br />
-
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Super tiny hint text when error is thrown<br />
-    <sub>[#128091](https://github.com/flutter/flutter/pull/128091) opened on on June 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128091) 3 additions and 0 deletions in 1 file</sub><br />
-
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny improvement on performance when ui.Image and ui.Picture is created/disposed<br />
-    <sub>[#128108](https://github.com/flutter/flutter/pull/128108) opened on on June 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128108) 8 additions and 8 deletions in 1 file</sub><br />
-
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Fix `Null check operator used on a null value` on TextField with contextMenuBuilder<br />
-    <sub>[#128114](https://github.com/flutter/flutter/pull/128114) opened on on June 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128114) 36 additions and 2 deletions in 2 files</sub><br />
 
 * **[Henrique Nascimento](https://github.com/HenriqueNas)** &mdash; Add option for flexible space on material SearchDelegate<br />
     <sub>[#128132](https://github.com/flutter/flutter/pull/128132) opened on on June 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128132) 90 additions and 45 deletions in 2 files</sub><br />
