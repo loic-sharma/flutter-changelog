@@ -87,7 +87,7 @@
     <sub>[#127904](https://github.com/flutter/flutter/pull/127904) opened on on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127904) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Improve the error message for non-normalized constraints<br />
-    <sub>[#127906](https://github.com/flutter/flutter/pull/127906) opened on on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127906) 44 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#127906](https://github.com/flutter/flutter/pull/127906) opened on on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127906) 45 additions and 2 deletions in 2 files</sub><br />
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; fix a Scrollbar example crash<br />
     <sub>[#127925](https://github.com/flutter/flutter/pull/127925) opened on on May 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127925) 1 addition and 0 deletions in 1 file</sub><br />
