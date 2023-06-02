@@ -714,7 +714,7 @@
 
 ### May 27, 2023 to June 2, 2023
 
-36 commits.
+37 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add Impeller Metal support in the embedder API<br />
     <sub>[#42411](https://github.com/flutter/engine/pull/42411) merged on June 1, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/engine/pull/42411) over 2 days, 1154 additions and 226 deletions in 51 files</sub><br />
@@ -768,10 +768,6 @@
     <sub>[#42429](https://github.com/flutter/engine/pull/42429) merged on May 30, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/42429) over 2 hours, 8 additions and 7 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Enables bugprone-unchecked-optional-access for some files<br />
-    <sub>[#42428](https://github.com/flutter/engine/pull/42428) merged on May 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42428) over 2 hours, 45 additions and 69 deletions in 11 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Fix unitialized SkRect<br />
     <sub>[#42403](https://github.com/flutter/engine/pull/42403) merged on May 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42403) over 23 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jim Graham](https://github.com/flar)</sub><br />
@@ -783,6 +779,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] removed vulkan unit test csv<br />
     <sub>[#42354](https://github.com/flutter/engine/pull/42354) merged on May 30, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/42354) over 4 days, 8 additions and 161 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Enables bugprone-unchecked-optional-access for some files<br />
+    <sub>[#42428](https://github.com/flutter/engine/pull/42428) merged on May 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42428) over 2 hours, 45 additions and 69 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Wait for GL command completion in the ExternalTextureGLRefreshedTooOften test<br />
     <sub>[#42438](https://github.com/flutter/engine/pull/42438) merged on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42438) over 1 day, 6 additions and 0 deletions in 1 file</sub><br />
@@ -812,8 +812,24 @@
     <sub>[#42485](https://github.com/flutter/engine/pull/42485) merged on June 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42485) over 2 hours, 17 additions and 14 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove the JS API for url strategy<br />
+    <sub>[#42134](https://github.com/flutter/engine/pull/42134) merged on May 31, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/42134) over 1 week, 76 additions and 235 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Fix lint failure in ImageDecoderImpeller<br />
     <sub>[#42402](https://github.com/flutter/engine/pull/42402) merged on May 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42402) over 44 minutes, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[keyonghan](https://github.com/keyonghan)** &mdash; Remove legacy xcode properties/dependencies<br />
+    <sub>[#42368](https://github.com/flutter/engine/pull/42368) merged on May 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42368) over 3 days, 0 additions and 14 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+
+* **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Register codecs with Skia explicitly<br />
+    <sub>[#42320](https://github.com/flutter/engine/pull/42320) merged on May 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/42320) over 6 days, 23 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Fix bugprone-unchecked-optional-access errors in image_generator_apng<br />
+    <sub>[#42450](https://github.com/flutter/engine/pull/42450) merged on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42450) over 1 hour, 19 additions and 5 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Replace SkSurface::flush methods with GrDirectContext methods<br />
@@ -823,22 +839,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update engine testing to use api 33 for android tests. <br />
     <sub>[#42351](https://github.com/flutter/engine/pull/42351) merged on May 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42351) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [gmackall](https://github.com/gmackall)</sub><br />
-
-* **[keyonghan](https://github.com/keyonghan)** &mdash; Remove legacy xcode properties/dependencies<br />
-    <sub>[#42368](https://github.com/flutter/engine/pull/42368) merged on May 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42368) over 3 days, 0 additions and 14 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove the JS API for url strategy<br />
-    <sub>[#42134](https://github.com/flutter/engine/pull/42134) merged on May 31, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/42134) over 1 week, 76 additions and 235 deletions in 11 files</sub><br />
-    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
-
-* **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Register codecs with Skia explicitly<br />
-    <sub>[#42320](https://github.com/flutter/engine/pull/42320) merged on May 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/42320) over 6 days, 23 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
-* **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Fix bugprone-unchecked-optional-access errors in image_generator_apng<br />
-    <sub>[#42450](https://github.com/flutter/engine/pull/42450) merged on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42450) over 1 hour, 19 additions and 5 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Reland "add non-rendering operation culling to DisplayListBuilder" (#41463)<br />
     <sub>[#42330](https://github.com/flutter/engine/pull/42330) merged on June 1, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/42330) over 6 days, 1265 additions and 311 deletions in 20 files</sub><br />
@@ -859,6 +859,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Move linux clang tidy to engine_v2."<br />
     <sub>[#42434](https://github.com/flutter/engine/pull/42434) merged on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42434) over 45 minutes, 1 addition and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Revert "[Rasterizer] Make resubmit information temporary"<br />
+    <sub>[#42455](https://github.com/flutter/engine/pull/42455) merged on June 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42455) over 1 day, 31 additions and 47 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reland "[web] Remove the JS API for url strategy (#42134)"<br />
     <sub>[#42486](https://github.com/flutter/engine/pull/42486) merged on June 1, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/42486) over 45 minutes, 75 additions and 234 deletions in 11 files</sub><br />
