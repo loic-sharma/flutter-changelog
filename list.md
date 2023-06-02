@@ -180,7 +180,7 @@
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Fix issue where DevTools would not be immediately available when using --start-paused"
-    <sub>[#128117](https://github.com/flutter/flutter/pull/128117) merged on June 2, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128117) over 1 minute, 10 additions and 90 deletions in 5 files</sub>
+    <sub>[#128117](https://github.com/flutter/flutter/pull/128117) merged on June 2, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/128117) over 1 minute, 10 additions and 90 deletions in 5 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
 ### May 20, 2023 to May 26, 2023
@@ -1474,7 +1474,7 @@
 
 ### May 27, 2023 to June 2, 2023
 
-10 commits.
+11 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_maps] Prepares packages to endorse web.
     <sub>[#4064](https://github.com/flutter/packages/pull/4064) merged on May 31, 2023 &mdash; **Extra large:** [28 comments](https://github.com/flutter/packages/pull/4064) over 1 week, 1558 additions and 1278 deletions in 18 files</sub>
@@ -1498,6 +1498,10 @@
 * **[杨加康](https://github.com/MeandNi)** &mdash; [flutter_markdown] Unable to use MarkdownElementBuilder to act those tags without children.
     <sub>[#3952](https://github.com/flutter/packages/pull/3952) merged on May 30, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/3952) over 2 weeks, 39 additions and 3 deletions in 4 files</sub>
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Mock `InstanceManager` in unit tests
+    <sub>[#4121](https://github.com/flutter/packages/pull/4121) merged on June 2, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4121) over 2 days, 36 additions and 33 deletions in 12 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Fix cancel handling on Android
     <sub>[#4120](https://github.com/flutter/packages/pull/4120) merged on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4120) over 3 hours, 198 additions and 3 deletions in 4 files</sub>
@@ -1639,7 +1643,7 @@
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [image_picker] Fix crash due to `SecurityException`
     <sub>[#4004](https://github.com/flutter/packages/pull/4004) merged on May 19, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4004) over 3 days, 34 additions and 2 deletions in 4 files</sub>
-    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [gmackall](https://github.com/gmackall)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Lower iOS LUCI timeouts
     <sub>[#4035](https://github.com/flutter/packages/pull/4035) merged on May 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4035) over 2 hours, 10 additions and 13 deletions in 1 file</sub>
