@@ -272,11 +272,11 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] delete entitlements files after copying to macos build dir
     <sub>[#127417](https://github.com/flutter/flutter/pull/127417) merged on May 23, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/127417) over 43 minutes, 60 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [godofredoc](https://github.com/godofredoc)</sub>
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] ui.platformViewRegistry => ui_web.platformViewRegistry
     <sub>[#127493](https://github.com/flutter/flutter/pull/127493) merged on May 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127493) over 8 hours, 28 additions and 42 deletions in 8 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove rounding from TextPainter
     <sub>[#127099](https://github.com/flutter/flutter/pull/127099) merged on May 26, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/127099) over 1 week, 260 additions and 84 deletions in 16 files</sub>
@@ -304,7 +304,7 @@
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Remove more `test_api/src` imports
     <sub>[#127716](https://github.com/flutter/flutter/pull/127716) merged on May 26, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/127716) over 1 hour, 2 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; `ProcessResultMatcher` created and used in test
     <sub>[#127414](https://github.com/flutter/flutter/pull/127414) merged on May 25, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/127414) over 2 days, 88 additions and 1 deletion in 3 files</sub>
@@ -328,7 +328,7 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [Linux] Ignore deprecation of libupower call in example
     <sub>[#127503](https://github.com/flutter/flutter/pull/127503) merged on May 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127503) over 1 hour, 5 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove null-safety argument from DartPad doc samples
     <sub>[#127345](https://github.com/flutter/flutter/pull/127345) merged on May 23, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127345) over 4 hours, 1 addition and 2 deletions in 2 files</sub>
@@ -432,7 +432,7 @@
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add test for setting JAVA_HOME and PATH when invoking `sdkmanager --licenses`
     <sub>[#127344](https://github.com/flutter/flutter/pull/127344) merged on May 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127344) over 41 minutes, 30 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Log all output of ios-deploy"
     <sub>[#127405](https://github.com/flutter/flutter/pull/127405) merged on May 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127405) over 3 minutes, 11 additions and 27 deletions in 2 files</sub>
@@ -472,7 +472,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker to 5.0.0
     <sub>[#126367](https://github.com/flutter/flutter/pull/126367) merged on May 16, 2023 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/126367) over 6 days, 354 additions and 350 deletions in 72 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Felix Angelov](https://github.com/felangel)** &mdash; fix(flutter_tools): `findBundleFile` w/multiple flavor dimensions
     <sub>[#127133](https://github.com/flutter/flutter/pull/127133) merged on May 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127133) over 19 hours, 71 additions and 0 deletions in 4 files</sub>
@@ -684,7 +684,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Fix drone_dimensions.
     <sub>[#126953](https://github.com/flutter/flutter/pull/126953) merged on May 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126953) over 1 hour, 16 additions and 14 deletions in 1 file</sub>
-    <sub>Reviewed by: [Xilai Zhang](https://github.com/XilaiZhang), [Drew Roen](https://github.com/drewroengoogle)</sub>
+    <sub>Reviewed by: [Drew Roen](https://github.com/drewroengoogle), [Xilai Zhang](https://github.com/XilaiZhang)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; rename AssetManifest.bin
     <sub>[#126077](https://github.com/flutter/flutter/pull/126077) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126077) over 1 week, 32 additions and 32 deletions in 9 files</sub>
@@ -716,7 +716,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "i125138 abstract method smoke agp update (#125139)"
     <sub>[#126274](https://github.com/flutter/flutter/pull/126274) merged on May 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/126274) over 1 week, 106 additions and 148 deletions in 5 files</sub>
-    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [gmackall](https://github.com/gmackall)</sub>
 
 </details>
 
