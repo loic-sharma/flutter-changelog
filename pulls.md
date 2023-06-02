@@ -59,9 +59,6 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; [DRAFT] - Change `useMaterial3` default to true<br />
     <sub>[#127501](https://github.com/flutter/flutter/pull/127501) opened on on May 24, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/127501) 204 additions and 172 deletions in 22 files</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix update drag error that made NestedScrollView un-scrollable<br />
-    <sub>[#127718](https://github.com/flutter/flutter/pull/127718) opened on on May 26, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/127718) 315 additions and 23 deletions in 2 files</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; migrate `Tooltip` to use  `OverlayPortal`<br />
     <sub>[#127728](https://github.com/flutter/flutter/pull/127728) opened on on May 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127728) 61 additions and 146 deletions in 2 files</sub><br />
 
@@ -118,4 +115,10 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Fix `Null check operator used on a null value` on TextField with contextMenuBuilder<br />
     <sub>[#128114](https://github.com/flutter/flutter/pull/128114) opened on on June 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128114) 36 additions and 2 deletions in 2 files</sub><br />
+
+* **[Henrique Nascimento](https://github.com/HenriqueNas)** &mdash; Add option for flexible space on material SearchDelegate<br />
+    <sub>[#128132](https://github.com/flutter/flutter/pull/128132) opened on on June 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128132) 90 additions and 45 deletions in 2 files</sub><br />
+
+* **[cruiser-baxter](https://github.com/cruiser-baxter)** &mdash; Fixed slider value indicator not disappearing after a bit on desktop platform when slider is clicked not dragged<br />
+    <sub>[#128137](https://github.com/flutter/flutter/pull/128137) opened on on June 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128137) 73 additions and 1 deletion in 2 files</sub><br />
 
