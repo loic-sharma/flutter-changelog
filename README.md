@@ -855,7 +855,7 @@
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Generate a unique temporary directory name in the iOS scenario test script<br />
-    <sub>[#42520](https://github.com/flutter/engine/pull/42520) merged on June 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42520) over 1 hour, 1 addition and 3 deletions in 1 file</sub><br />
+    <sub>[#42520](https://github.com/flutter/engine/pull/42520) merged on June 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42520) over 1 hour, 1 addition and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] Add dart-lang/native packages<br />
