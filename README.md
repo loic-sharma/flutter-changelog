@@ -940,7 +940,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Change Linux Android Emulator Tests to run on a device running API 33<br />
     <sub>[#42492](https://github.com/flutter/engine/pull/42492) merged on June 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42492) over 20 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker)</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Fix lint in rectangle packer<br />
     <sub>[#42489](https://github.com/flutter/engine/pull/42489) merged on June 1, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42489) over 46 minutes, 4 additions and 4 deletions in 1 file</sub><br />
@@ -1016,12 +1016,12 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Limit rrect blur kernel to 1000x1000<br />
     <sub>[#42269](https://github.com/flutter/engine/pull/42269) merged on May 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42269) over 2 hours, 63 additions and 43 deletions in 9 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2023-05-23 at 4 08 41 PM](https://github.com/flutter/engine/assets/919017/108e01ce-2cf1-4bc9-b51b-7f4ad7288fac)</details></sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Set the coverage hint on everything<br />
     <sub>[#42264](https://github.com/flutter/engine/pull/42264) merged on May 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/42264) over 3 hours, 27 additions and 11 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Zachary Anderson](https://github.com/zanderso)</sub><br />
     <sub><details><summary>2 images...</summary>![Screenshot 2023-05-23 at 3 16 49 PM](https://github.com/flutter/engine/assets/919017/5b7182c8-e704-4c4a-bb71-fdf226a60f4e)![Screenshot 2023-05-23 at 3 08 15 PM](https://github.com/flutter/engine/assets/919017/524c2fb1-3b58-4589-824b-0794c2bd5ea2)</details></sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add golden repro for mask blur issues<br />
@@ -1373,7 +1373,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Fix bounds when painting style is stroke width for image shaders<br />
     <sub>[#42052](https://github.com/flutter/engine/pull/42052) merged on May 17, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/42052) over 1 day, 14 additions and 5 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Fix upload xcresult script in run_tests.py<br />
     <sub>[#42056](https://github.com/flutter/engine/pull/42056) merged on May 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42056) over 2 hours, 17 additions and 15 deletions in 1 file</sub><br />
@@ -1525,7 +1525,7 @@
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Migrate uses of SkSurface factories<br />
     <sub>[#41978](https://github.com/flutter/engine/pull/41978) merged on May 15, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/41978) over 3 days, 171 additions and 144 deletions in 44 files</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Dan Field](https://github.com/dnfield)</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix DrawPaint advanced blends on iOS.<br />
     <sub>[#42032](https://github.com/flutter/engine/pull/42032) merged on May 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42032) over 7 hours, 75 additions and 17 deletions in 14 files</sub><br />
@@ -1741,7 +1741,7 @@
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [image_picker] Fix crash due to `SecurityException`<br />
     <sub>[#4004](https://github.com/flutter/packages/pull/4004) merged on May 19, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4004) over 3 days, 34 additions and 2 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [gmackall](https://github.com/gmackall)</sub><br />
+    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Lower iOS LUCI timeouts<br />
     <sub>[#4035](https://github.com/flutter/packages/pull/4035) merged on May 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4035) over 2 hours, 10 additions and 13 deletions in 1 file</sub><br />
