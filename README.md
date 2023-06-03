@@ -1617,6 +1617,10 @@
     <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-bom&package-manager=gradle&previous-version=1.8.10&new-version=1.8.21)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Fix cancel handling on Android<br />
+    <sub>[#4120](https://github.com/flutter/packages/pull/4120) merged on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4120) over 3 hours, 198 additions and 3 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
 * **[杨加康](https://github.com/MeandNi)** &mdash; [flutter_markdown] Unable to use MarkdownElementBuilder to act those tags without children.<br />
     <sub>[#3952](https://github.com/flutter/packages/pull/3952) merged on May 30, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/3952) over 2 weeks, 39 additions and 3 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
@@ -1624,10 +1628,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Mock `InstanceManager` in unit tests<br />
     <sub>[#4121](https://github.com/flutter/packages/pull/4121) merged on June 2, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4121) over 2 days, 36 additions and 33 deletions in 12 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
-
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Fix cancel handling on Android<br />
-    <sub>[#4120](https://github.com/flutter/packages/pull/4120) merged on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4120) over 3 hours, 198 additions and 3 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_sign_in] Clarifies canAccessScopes docs.<br />
     <sub>[#4092](https://github.com/flutter/packages/pull/4092) merged on May 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4092) over 4 days, 15 additions and 5 deletions in 7 files</sub><br />
