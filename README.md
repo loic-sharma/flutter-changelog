@@ -11,14 +11,14 @@
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>4 images...</summary>![Screenshot 2023-06-01 at 18 33 00](https://github.com/flutter/flutter/assets/48603081/bd9f5968-2beb-47da-95e7-5a356a1c375c)![Screenshot 2023-06-01 at 18 33 03](https://github.com/flutter/flutter/assets/48603081/a936191b-5e5c-4dbe-a5c7-d43f611b8a9a)![Screenshot 2023-06-01 at 18 33 08](https://github.com/flutter/flutter/assets/48603081/bb06c11e-d13f-4d98-aebc-6cba398b363c)![Screenshot 2023-06-01 at 18 33 06](https://github.com/flutter/flutter/assets/48603081/22a6ad9f-c28d-465b-ba03-6a80e82c1d4b)</details></sub>
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] manually roll pub deps<br />
-    <sub>[#127447](https://github.com/flutter/flutter/pull/127447) merged on May 30, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/127447) over 6 days, 407 additions and 408 deletions in 59 files</sub><br />
-    <sub>Reviewed by: [Nate Bosch](https://github.com/natebosch)</sub><br />
-
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny remove unnecessary method in text_selection.dart<br />
     <sub>[#127480](https://github.com/flutter/flutter/pull/127480) merged on June 2, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/127480) over 1 week, 0 additions and 5 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/5236035/3fe8fa32-cde2-45a9-901a-a383e8457fa1)</details></sub>
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] manually roll pub deps<br />
+    <sub>[#127447](https://github.com/flutter/flutter/pull/127447) merged on May 30, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/127447) over 6 days, 407 additions and 408 deletions in 59 files</sub><br />
+    <sub>Reviewed by: [Nate Bosch](https://github.com/natebosch)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Workaround for Dart VM timeout<br />
     <sub>[#127875](https://github.com/flutter/flutter/pull/127875) merged on June 2, 2023 &mdash; **Large:** [37 comments](https://github.com/flutter/flutter/pull/127875) over 2 days, 446 additions and 81 deletions in 16 files</sub><br />
