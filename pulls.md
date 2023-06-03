@@ -104,3 +104,6 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Use Material3 in the 2D viewport tests<br />
     <sub>[#128155](https://github.com/flutter/flutter/pull/128155) opened on on June 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128155) 13 additions and 2 deletions in 2 files</sub><br />
 
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny fix Flutter seems not to agree what is the estimated size of `ui.Image`<br />
+    <sub>[#128164](https://github.com/flutter/flutter/pull/128164) opened on on June 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128164) 1 addition and 1 deletion in 1 file</sub><br />
+
