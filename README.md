@@ -971,7 +971,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert "Reland "add non-rendering operation culling to DisplayListBuilder" (#41463)"<br />
-    <sub>[#42525](https://github.com/flutter/engine/pull/42525) merged on June 2, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/42525) over 54 minutes, 311 additions and 1265 deletions in 20 files</sub><br />
+    <sub>[#42525](https://github.com/flutter/engine/pull/42525) merged on June 2, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/42525) over 54 minutes, 311 additions and 1265 deletions in 20 files</sub><br />
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 9d8df2a5210b to d198f84f5e4e (1 revision)<br />
