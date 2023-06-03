@@ -87,7 +87,7 @@
     <sub>[#127984](https://github.com/flutter/flutter/pull/127984) opened on on May 31, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/127984) 0 additions and 670 deletions in 38 files</sub><br />
 
 * **[Arne Molland](https://github.com/arnemolland)** &mdash; Fix inconsistently suffixed macOS flavored bundle directory<br />
-    <sub>[#127997](https://github.com/flutter/flutter/pull/127997) opened on on May 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127997) 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#127997](https://github.com/flutter/flutter/pull/127997) opened on on May 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127997) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[codenoid](https://github.com/codenoid)** &mdash; [flutter_tools] update dart cache clear hint<br />
     <sub>[#128037](https://github.com/flutter/flutter/pull/128037) opened on on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128037) 1 addition and 1 deletion in 1 file</sub><br />
