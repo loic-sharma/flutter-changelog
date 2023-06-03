@@ -104,6 +104,3 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Use Material3 in the 2D viewport tests<br />
     <sub>[#128155](https://github.com/flutter/flutter/pull/128155) opened on on June 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128155) 13 additions and 2 deletions in 2 files</sub><br />
 
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Super tiny fix of dead link<br />
-    <sub>[#128160](https://github.com/flutter/flutter/pull/128160) opened on on June 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128160) 1 addition and 1 deletion in 1 file</sub><br />
-
