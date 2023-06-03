@@ -107,3 +107,6 @@
 * **[Dery Rahman Ahaddienata](https://github.com/deryrahman)** &mdash; Fix dart pub cache clean command on pub.dart<br />
     <sub>[#128171](https://github.com/flutter/flutter/pull/128171) opened on on June 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128171) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Md. Yeasin Sheikh](https://github.com/yeasin50)** &mdash; fixed PreferredSize constuctor invocations<br />
+    <sub>[#128181](https://github.com/flutter/flutter/pull/128181) opened on on June 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128181) 1 addition and 1 deletion in 1 file</sub><br />
+
