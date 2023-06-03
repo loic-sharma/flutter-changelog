@@ -110,3 +110,6 @@
 * **[Md. Yeasin Sheikh](https://github.com/yeasin50)** &mdash; fixed PreferredSize constuctor invocations<br />
     <sub>[#128181](https://github.com/flutter/flutter/pull/128181) opened on on June 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128181) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Alex Fischer](https://github.com/99spark)** &mdash; Addressed Ambiguity in transform.scale constructor docs<br />
+    <sub>[#128182](https://github.com/flutter/flutter/pull/128182) opened on on June 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128182) 1 addition and 1 deletion in 1 file</sub><br />
+
