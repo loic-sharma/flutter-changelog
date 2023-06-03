@@ -63,7 +63,7 @@
     <sub>[#127749](https://github.com/flutter/flutter/pull/127749) opened on on May 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127749) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Gil Nobrega](https://github.com/gilnobrega)** &mdash; [a11y] CupertinoSwitch On/Off labels<br />
-    <sub>[#127776](https://github.com/flutter/flutter/pull/127776) opened on on May 28, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/127776) 414 additions and 0 deletions in 4 files</sub><br />
+    <sub>[#127776](https://github.com/flutter/flutter/pull/127776) opened on on May 28, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/127776) 414 additions and 0 deletions in 4 files</sub><br />
 
 * **[Osamu Ishimura](https://github.com/hrontan)** &mdash; fix typo of dart command in the help message about the pub cache.<br />
     <sub>[#127839](https://github.com/flutter/flutter/pull/127839) opened on on May 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127839) 1 addition and 1 deletion in 1 file</sub><br />
