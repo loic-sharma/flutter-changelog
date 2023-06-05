@@ -113,9 +113,6 @@
 * **[XuanTung95](https://github.com/XuanTung95)** &mdash; [Android] Add opaque hybrid composition mode<br />
     <sub>[#128193](https://github.com/flutter/flutter/pull/128193) opened on on June 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128193) 242 additions and 9 deletions in 5 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Selection area right click behavior should match native<br />
-    <sub>[#128224](https://github.com/flutter/flutter/pull/128224) opened on on June 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128224) 258 additions and 10 deletions in 3 files</sub><br />
-
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Add `@hideConstantImplementations` to icons files<br />
     <sub>[#128235](https://github.com/flutter/flutter/pull/128235) opened on on June 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128235) 4 additions and 0 deletions in 2 files</sub><br />
 
