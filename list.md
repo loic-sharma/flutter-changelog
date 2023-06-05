@@ -4,11 +4,15 @@
 
 ### June 3, 2023 to June 9, 2023
 
-3 commits.
+4 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix update drag error that made NestedScrollView un-scrollable
     <sub>[#127718](https://github.com/flutter/flutter/pull/127718) merged on June 5, 2023 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/127718) over 1 week, 323 additions and 22 deletions in 2 files</sub>
     <sub>Reviewed by: [nt4f04uNd](https://github.com/nt4f04uNd), [xubaolin](https://github.com/xu-baolin), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove scrollbar deprecations isAlwaysShown and hoverThickness
+    <sub>[#127351](https://github.com/flutter/flutter/pull/127351) merged on June 5, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/127351) over 2 weeks, 127 additions and 322 deletions in 9 files</sub>
+    <sub>Reviewed by: [Tae Hyung Kim](https://github.com/thkim1011)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] force flexible space background to rebuild.
     <sub>[#128138](https://github.com/flutter/flutter/pull/128138) merged on June 5, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/128138) over 2 days, 97 additions and 4 deletions in 2 files</sub>
