@@ -122,3 +122,6 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll engine, patch expression evaluation<br />
     <sub>[#128255](https://github.com/flutter/flutter/pull/128255) opened on on June 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128255) 54 additions and 10 deletions in 6 files</sub><br />
 
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] [DAP] Don't try to restart/reload if app hasn't started yet<br />
+    <sub>[#128267](https://github.com/flutter/flutter/pull/128267) opened on on June 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128267) 30 additions and 0 deletions in 2 files</sub><br />
+
