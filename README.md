@@ -503,7 +503,7 @@
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart SDK to 3.1.0-166.0.dev<br />
-    <sub>[#42568](https://github.com/flutter/engine/pull/42568) merged on June 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42568) over 11 minutes, 3 additions and 3 deletions in 2 files</sub><br />
+    <sub>[#42568](https://github.com/flutter/engine/pull/42568) merged on June 5, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/42568) over 11 minutes, 3 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Add missing includes of GrBackendSurface.h<br />
