@@ -791,7 +791,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Limit rrect blur kernel to 1000x1000<br />
     <sub>[#42269](https://github.com/flutter/engine/pull/42269) merged on May 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42269) over 2 hours, 63 additions and 43 deletions in 9 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2023-05-23 at 4 08 41 PM](https://github.com/flutter/engine/assets/919017/108e01ce-2cf1-4bc9-b51b-7f4ad7288fac)</details></sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Set the coverage hint on everything<br />
@@ -856,7 +856,7 @@
 
 * **[Valentin Hăloiu](https://github.com/vially)** &mdash; Dynamically link against system fontconfig<br />
     <sub>[#40725](https://github.com/flutter/engine/pull/40725) merged on May 25, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/40725) over 1 month, 3 additions and 7 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Place Entity Geometry classes in separate TUs<br />
     <sub>[#42236](https://github.com/flutter/engine/pull/42236) merged on May 23, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/42236) over 53 minutes, 1602 additions and 1444 deletions in 33 files</sub><br />
@@ -868,7 +868,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Use untransformed text bounds to calculate the size of ColorSourceTextContents<br />
     <sub>[#42142](https://github.com/flutter/engine/pull/42142) merged on May 22, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/42142) over 3 days, 11 additions and 9 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Make FML_LOG safe from static initialization<br />
     <sub>[#42219](https://github.com/flutter/engine/pull/42219) merged on May 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42219) over 3 hours, 40 additions and 2 deletions in 2 files</sub><br />
