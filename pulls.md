@@ -93,7 +93,7 @@
     <sub>[#128037](https://github.com/flutter/flutter/pull/128037) opened on on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128037) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Pass through type, class and function information for expression evaluation.<br />
-    <sub>[#128084](https://github.com/flutter/flutter/pull/128084) opened on on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128084) 47 additions and 5 deletions in 4 files</sub><br />
+    <sub>[#128084](https://github.com/flutter/flutter/pull/128084) opened on on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128084) 53 additions and 9 deletions in 5 files</sub><br />
 
 * **[Henrique Nascimento](https://github.com/HenriqueNas)** &mdash; Add option for flexible space on material SearchDelegate<br />
     <sub>[#128132](https://github.com/flutter/flutter/pull/128132) opened on on June 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128132) 90 additions and 45 deletions in 2 files</sub><br />
