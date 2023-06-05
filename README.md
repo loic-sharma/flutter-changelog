@@ -494,9 +494,18 @@
 
 ## flutter/engine
 
+### June 3, 2023 to June 9, 2023
+
+1 commits.
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from d00a370c1fd3 to 5144119b99c8 (2 revisions)<br />
+    <sub>[#42557](https://github.com/flutter/engine/pull/42557) merged on June 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42557) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 ### May 27, 2023 to June 2, 2023
 
-60 commits.
+<details>
+<summary>60 commits...</summary>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add Impeller Metal support in the embedder API<br />
     <sub>[#42411](https://github.com/flutter/engine/pull/42411) merged on June 1, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/engine/pull/42411) over 2 days, 1154 additions and 226 deletions in 51 files</sub><br />
@@ -741,6 +750,8 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reland "[web] Remove the JS API for url strategy (#42134)"<br />
     <sub>[#42486](https://github.com/flutter/engine/pull/42486) merged on June 1, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/42486) over 45 minutes, 75 additions and 234 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+</details>
 
 ### May 20, 2023 to May 26, 2023
 
