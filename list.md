@@ -1142,7 +1142,12 @@
 
 ### June 3, 2023 to June 9, 2023
 
-5 commits.
+6 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [camera]: Bump com.google.guava:guava from 31.1-android to 32.0.0-android in /packages/camera/camera_android_camerax/android
+    <sub>[#4116](https://github.com/flutter/packages/pull/4116) merged on June 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4116) over 1 week, 6 additions and 3 deletions in 3 files</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.google.guava:guava&package-manager=gradle&previous-version=31.1-android&new-version=32.0.0-android)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [sign_in]: Bump com.google.guava:guava from 31.1-android to 32.0.0-android in /packages/google_sign_in/google_sign_in_android/android
     <sub>[#4112](https://github.com/flutter/packages/pull/4112) merged on June 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4112) over 1 week, 4 additions and 3 deletions in 3 files</sub>
@@ -1150,7 +1155,7 @@
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.google.guava:guava&package-manager=gradle&previous-version=31.1-android&new-version=32.0.0-android)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tools] Fix OOB test error
-    <sub>[#4144](https://github.com/flutter/packages/pull/4144) merged on June 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/4144) over 1 hour, 11 additions and 11 deletions in 2 files</sub>
+    <sub>[#4144](https://github.com/flutter/packages/pull/4144) merged on June 5, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/4144) over 1 hour, 11 additions and 11 deletions in 2 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[dsambuk](https://github.com/dsambuk)** &mdash; [path_provider] Allow win32 up to version 5.x
