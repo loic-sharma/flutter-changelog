@@ -496,7 +496,11 @@
 
 ### June 3, 2023 to June 9, 2023
 
-1 commits.
+2 commits.
+
+* **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Add missing includes of GrBackendSurface.h<br />
+    <sub>[#42563](https://github.com/flutter/engine/pull/42563) merged on June 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42563) over 2 hours, 13 additions and 0 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from d00a370c1fd3 to 5144119b99c8 (2 revisions)<br />
     <sub>[#42557](https://github.com/flutter/engine/pull/42557) merged on June 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42557) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
