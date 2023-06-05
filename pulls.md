@@ -116,6 +116,9 @@
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Add `@hideConstantImplementations` to icons files<br />
     <sub>[#128235](https://github.com/flutter/flutter/pull/128235) opened on on June 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128235) 4 additions and 0 deletions in 2 files</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [CP] Flexible space background fix<br />
+    <sub>[#128253](https://github.com/flutter/flutter/pull/128253) opened on on June 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128253) 97 additions and 4 deletions in 2 files</sub><br />
+
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll engine, patch expression evaluation<br />
-    <sub>[#128249](https://github.com/flutter/flutter/pull/128249) opened on on June 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128249) 48 additions and 6 deletions in 5 files</sub><br />
+    <sub>[#128255](https://github.com/flutter/flutter/pull/128255) opened on on June 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128255) 48 additions and 6 deletions in 5 files</sub><br />
 
