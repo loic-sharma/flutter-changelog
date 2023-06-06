@@ -122,3 +122,6 @@
 * **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; fix: SearchAnchor View not resizing when in nested navigator<br />
     <sub>[#128357](https://github.com/flutter/flutter/pull/128357) opened on on June 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128357) 46 additions and 1 deletion in 2 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [CP][Android] Adds `namespace` to module build file templates (#126963)<br />
+    <sub>[#128360](https://github.com/flutter/flutter/pull/128360) opened on on June 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128360) 59 additions and 1 deletion in 5 files</sub><br />
+
