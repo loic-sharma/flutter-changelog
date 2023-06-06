@@ -122,3 +122,6 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] [DAP] Don't try to restart/reload if app hasn't started yet<br />
     <sub>[#128267](https://github.com/flutter/flutter/pull/128267) opened on on June 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128267) 30 additions and 0 deletions in 2 files</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; apply base to Route and SelectionContainerDelegate subclass<br />
+    <sub>[#128352](https://github.com/flutter/flutter/pull/128352) opened on on June 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128352) 66 additions and 51 deletions in 27 files</sub><br />
+
