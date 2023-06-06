@@ -581,7 +581,11 @@
 
 ### June 3, 2023 to June 9, 2023
 
-21 commits.
+22 commits.
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove /#/ from home page URL<br />
+    <sub>[#42598](https://github.com/flutter/engine/pull/42598) merged on June 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42598) over 1 hour, 28 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo)</sub><br />
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Make conical gradient work as expected<br />
     <sub>[#42567](https://github.com/flutter/engine/pull/42567) merged on June 6, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/engine/pull/42567) over 12 hours, 231 additions and 94 deletions in 8 files</sub><br />
