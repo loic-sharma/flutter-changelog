@@ -104,9 +104,6 @@
 * **[Dery Rahman Ahaddienata](https://github.com/deryrahman)** &mdash; Fix dart pub cache clean command on pub.dart<br />
     <sub>[#128171](https://github.com/flutter/flutter/pull/128171) opened on on June 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128171) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Alex Fischer](https://github.com/99spark)** &mdash; Addressed Ambiguity in transform.scale constructor docs<br />
-    <sub>[#128182](https://github.com/flutter/flutter/pull/128182) opened on on June 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128182) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[XuanTung95](https://github.com/XuanTung95)** &mdash; [Android] Add opaque hybrid composition mode<br />
     <sub>[#128193](https://github.com/flutter/flutter/pull/128193) opened on on June 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128193) 242 additions and 9 deletions in 5 files</sub><br />
 
