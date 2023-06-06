@@ -66,7 +66,7 @@
     <sub>[#127839](https://github.com/flutter/flutter/pull/127839) opened on on May 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127839) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; Make the type of AbstractNode.parent concrete to avoid runtime type casts<br />
-    <sub>[#127899](https://github.com/flutter/flutter/pull/127899) opened on on May 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127899) 92 additions and 175 deletions in 26 files</sub><br />
+    <sub>[#127899](https://github.com/flutter/flutter/pull/127899) opened on on May 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127899) 92 additions and 175 deletions in 26 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Improve the error message for non-normalized constraints<br />
     <sub>[#127906](https://github.com/flutter/flutter/pull/127906) opened on on May 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/127906) 45 additions and 2 deletions in 2 files</sub><br />
@@ -123,5 +123,5 @@
     <sub>[#128357](https://github.com/flutter/flutter/pull/128357) opened on on June 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128357) 46 additions and 1 deletion in 2 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [CP][Android] Adds `namespace` to module build file templates (#126963)<br />
-    <sub>[#128360](https://github.com/flutter/flutter/pull/128360) opened on on June 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128360) 59 additions and 1 deletion in 5 files</sub><br />
+    <sub>[#128360](https://github.com/flutter/flutter/pull/128360) opened on on June 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128360) 59 additions and 1 deletion in 5 files</sub><br />
 
