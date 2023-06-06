@@ -834,7 +834,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Change Linux Android Emulator Tests to run on a device running API 33
     <sub>[#42492](https://github.com/flutter/engine/pull/42492) merged on June 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42492) over 20 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [John McCutchan](https://github.com/johnmccutchan)</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Reland "add non-rendering operation culling to DisplayListBuilder" (#41463)
     <sub>[#42330](https://github.com/flutter/engine/pull/42330) merged on June 1, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/42330) over 6 days, 1265 additions and 311 deletions in 20 files</sub>
@@ -1224,7 +1224,7 @@
 
 ### June 3, 2023 to June 9, 2023
 
-9 commits.
+10 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [camera]: Bump com.google.guava:guava from 31.1-android to 32.0.0-android in /packages/camera/camera_android_camerax/android
     <sub>[#4116](https://github.com/flutter/packages/pull/4116) merged on June 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4116) over 1 week, 6 additions and 3 deletions in 3 files</sub>
@@ -1242,6 +1242,10 @@
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Removes bespoke web scripts.
     <sub>[#4129](https://github.com/flutter/packages/pull/4129) merged on June 5, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4129) over 3 days, 0 additions and 257 deletions in 13 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [local_auth_android] Bump androidx.fragment to 1.5.7 and androidx.core to 1.10.1
+    <sub>[#4142](https://github.com/flutter/packages/pull/4142) merged on June 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4142) over 1 day, 12 additions and 3 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Arteev Raina](https://github.com/arteevraina)** &mdash; [webview_flutter]: fix typo
