@@ -125,6 +125,3 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [CP][Android] Adds `namespace` to module build file templates (#126963)<br />
     <sub>[#128360](https://github.com/flutter/flutter/pull/128360) opened on on June 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128360) 59 additions and 1 deletion in 5 files</sub><br />
 
-* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [process] Add a design doc issue template.<br />
-    <sub>[#128361](https://github.com/flutter/flutter/pull/128361) opened on on June 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128361) 32 additions and 0 deletions in 1 file</sub><br />
-
