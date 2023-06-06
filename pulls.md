@@ -24,7 +24,7 @@
     <sub>[#121943](https://github.com/flutter/flutter/pull/121943) opened on on March 4, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/121943) 22 additions and 3 deletions in 1 file</sub><br />
 
 * **[Matias Sebastian Ramirez Brizuela](https://github.com/ramirezsebas)** &mdash; Added support for Custom ExpansionPanel Icon<br />
-    <sub>[#121957](https://github.com/flutter/flutter/pull/121957) opened on on March 5, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/121957) 373 additions and 25 deletions in 4 files</sub><br />
+    <sub>[#121957](https://github.com/flutter/flutter/pull/121957) opened on on March 5, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/121957) 373 additions and 25 deletions in 4 files</sub><br />
 
 * **[Ruben Aster](https://github.com/rubenaster)** &mdash; Fix transitioning a TabBarView manually doesn't honor duration and curve #16892<br />
     <sub>[#122279](https://github.com/flutter/flutter/pull/122279) opened on on March 9, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/122279) 45 additions and 16 deletions in 2 files</sub><br />
