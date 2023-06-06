@@ -4,7 +4,7 @@
 
 ### June 3, 2023 to June 9, 2023
 
-12 commits.
+14 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix update drag error that made NestedScrollView un-scrollable
     <sub>[#127718](https://github.com/flutter/flutter/pull/127718) merged on June 5, 2023 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/127718) over 1 week, 323 additions and 22 deletions in 2 files</sub>
@@ -26,6 +26,10 @@
     <sub>[#128138](https://github.com/flutter/flutter/pull/128138) merged on June 5, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/128138) over 2 days, 97 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
+* **[yusuf-goog](https://github.com/yusuf-goog)** &mdash; Updating cirrus docker image to ubuntu focal.
+    <sub>[#128291](https://github.com/flutter/flutter/pull/128291) merged on June 6, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/128291) over 21 hours, 4 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [godofredoc](https://github.com/godofredoc)</sub>
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Clean-up viewId casts in flutter_test
     <sub>[#128256](https://github.com/flutter/flutter/pull/128256) merged on June 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128256) over 1 day, 2 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [pdblasi-google](https://github.com/pdblasi-google)</sub>
@@ -41,6 +45,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Migrate SemanticsBinding to onSemanticsActionEvent
     <sub>[#128254](https://github.com/flutter/flutter/pull/128254) merged on June 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128254) over 2 hours, 20 additions and 56 deletions in 4 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Leigha Jarett](https://github.com/leighajarett)** &mdash; Adding example for migrating to navigation drawer
+    <sub>[#128295](https://github.com/flutter/flutter/pull/128295) merged on June 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128295) over 20 hours, 66 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Update cherry-pick issue template to more uniform labels.
     <sub>[#128333](https://github.com/flutter/flutter/pull/128333) merged on June 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128333) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
