@@ -122,3 +122,6 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] [DAP] Don't try to restart/reload if app hasn't started yet<br />
     <sub>[#128267](https://github.com/flutter/flutter/pull/128267) opened on on June 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128267) 30 additions and 0 deletions in 2 files</sub><br />
 
+* **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; fix: SearchAnchor View not resizing when in nested navigator<br />
+    <sub>[#128357](https://github.com/flutter/flutter/pull/128357) opened on on June 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128357) 46 additions and 1 deletion in 2 files</sub><br />
+
