@@ -1221,7 +1221,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tools] Fix OOB test error
     <sub>[#4144](https://github.com/flutter/packages/pull/4144) merged on June 5, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/4144) over 1 hour, 11 additions and 11 deletions in 2 files</sub>
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [David Iglesias](https://github.com/ditman)</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[dsambuk](https://github.com/dsambuk)** &mdash; [path_provider] Allow win32 up to version 5.x
     <sub>[#4125](https://github.com/flutter/packages/pull/4125) merged on June 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4125) over 4 days, 4 additions and 3 deletions in 2 files</sub>
