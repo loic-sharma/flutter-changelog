@@ -122,6 +122,3 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] [DAP] Don't try to restart/reload if app hasn't started yet<br />
     <sub>[#128267](https://github.com/flutter/flutter/pull/128267) opened on on June 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128267) 30 additions and 0 deletions in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix navigation rail with long labels misplaced highlights<br />
-    <sub>[#128324](https://github.com/flutter/flutter/pull/128324) opened on on June 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128324) 82 additions and 1 deletion in 2 files</sub><br />
-
