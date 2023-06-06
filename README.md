@@ -1278,7 +1278,7 @@
 
 ### June 3, 2023 to June 9, 2023
 
-11 commits.
+12 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [camera]: Bump com.google.guava:guava from 31.1-android to 32.0.0-android in /packages/camera/camera_android_camerax/android<br />
     <sub>[#4116](https://github.com/flutter/packages/pull/4116) merged on June 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4116) over 1 week, 6 additions and 3 deletions in 3 files</sub><br />
@@ -1293,6 +1293,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_maps] Endorses package:google_maps_flutter_web.<br />
     <sub>[#4124](https://github.com/flutter/packages/pull/4124) merged on June 5, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/4124) over 5 days, 165 additions and 14 deletions in 14 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Exclude maps unit tests on Windows<br />
+    <sub>[#4152](https://github.com/flutter/packages/pull/4152) merged on June 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4152) over 2 hours, 2 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Dima Brandorf](https://github.com/dimabran)** &mdash; remove unnecessary typed_data imports<br />
     <sub>[#4136](https://github.com/flutter/packages/pull/4136) merged on June 6, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/4136) over 2 days, 0 additions and 126 deletions in 39 files</sub><br />
