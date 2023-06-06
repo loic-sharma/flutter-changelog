@@ -340,7 +340,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] ui.platformViewRegistry => ui_web.platformViewRegistry
     <sub>[#127493](https://github.com/flutter/flutter/pull/127493) merged on May 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127493) over 8 hours, 28 additions and 42 deletions in 8 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove rounding from TextPainter
     <sub>[#127099](https://github.com/flutter/flutter/pull/127099) merged on May 26, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/127099) over 1 week, 260 additions and 84 deletions in 16 files</sub>
@@ -368,7 +368,7 @@
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Remove more `test_api/src` imports
     <sub>[#127716](https://github.com/flutter/flutter/pull/127716) merged on May 26, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/127716) over 1 hour, 2 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Ian Hickson](https://github.com/Hixie)</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; `ProcessResultMatcher` created and used in test
     <sub>[#127414](https://github.com/flutter/flutter/pull/127414) merged on May 25, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/127414) over 2 days, 88 additions and 1 deletion in 3 files</sub>
