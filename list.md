@@ -527,7 +527,7 @@
 
 ### June 3, 2023 to June 9, 2023
 
-14 commits.
+15 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Improve getting non-overlapping rectangles from RTree
     <sub>[#42399](https://github.com/flutter/engine/pull/42399) merged on June 5, 2023 &mdash; **Large:** [50 comments](https://github.com/flutter/engine/pull/42399) over 1 week, 693 additions and 99 deletions in 14 files</sub>
@@ -536,6 +536,10 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; fix bounds of inverted rendered rectangles
     <sub>[#42556](https://github.com/flutter/engine/pull/42556) merged on June 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42556) over 17 hours, 144 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Force clipping to path when platform view clip rect is rotated
+    <sub>[#42539](https://github.com/flutter/engine/pull/42539) merged on June 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42539) over 2 days, 75 additions and 10 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove onSemanticsAction
     <sub>[#42579](https://github.com/flutter/engine/pull/42579) merged on June 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42579) over 1 hour, 28 additions and 120 deletions in 10 files</sub>
