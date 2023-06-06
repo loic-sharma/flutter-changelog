@@ -4,7 +4,7 @@
 
 ### June 3, 2023 to June 9, 2023
 
-20 commits.
+21 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix update drag error that made NestedScrollView un-scrollable
     <sub>[#127718](https://github.com/flutter/flutter/pull/127718) merged on June 5, 2023 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/127718) over 1 week, 323 additions and 22 deletions in 2 files</sub>
@@ -27,6 +27,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove scrollbar deprecations isAlwaysShown and hoverThickness
     <sub>[#127351](https://github.com/flutter/flutter/pull/127351) merged on June 5, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/127351) over 2 weeks, 127 additions and 322 deletions in 9 files</sub>
     <sub>Reviewed by: [Tae Hyung Kim](https://github.com/thkim1011)</sub>
+
+* **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; Update Draggable YouTube video link
+    <sub>[#128078](https://github.com/flutter/flutter/pull/128078) merged on June 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128078) over 5 days, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Use Material3 in the 2D viewport tests
     <sub>[#128155](https://github.com/flutter/flutter/pull/128155) merged on June 6, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/128155) over 3 days, 20 additions and 2 deletions in 2 files</sub>
