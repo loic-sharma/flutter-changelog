@@ -535,7 +535,12 @@
 
 ### June 3, 2023 to June 9, 2023
 
-15 commits.
+16 commits.
+
+* **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Make conical gradient work as expected<br />
+    <sub>[#42567](https://github.com/flutter/engine/pull/42567) merged on June 6, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/engine/pull/42567) over 12 hours, 231 additions and 94 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+    <sub><details><summary>1 image...</summary>![FGcZZRCQZJ](https://github.com/flutter/engine/assets/31977171/4127e73d-81a9-4d3e-8430-cf511367362c)</details></sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Improve getting non-overlapping rectangles from RTree<br />
     <sub>[#42399](https://github.com/flutter/engine/pull/42399) merged on June 5, 2023 &mdash; **Large:** [50 comments](https://github.com/flutter/engine/pull/42399) over 1 week, 693 additions and 99 deletions in 14 files</sub><br />
