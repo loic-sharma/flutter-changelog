@@ -125,6 +125,3 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Inline AbstractNode into Layer<br />
     <sub>[#128470](https://github.com/flutter/flutter/pull/128470) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128470) 130 additions and 29 deletions in 2 files</sub><br />
 
-* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [google testing + do not merge] test pr of google testing checkrun<br />
-    <sub>[#128474](https://github.com/flutter/flutter/pull/128474) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128474) 0 additions and 0 deletions in 0 files</sub><br />
-
