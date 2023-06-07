@@ -125,3 +125,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Inline AbstractNode into Layer<br />
     <sub>[#128470](https://github.com/flutter/flutter/pull/128470) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128470) 130 additions and 29 deletions in 2 files</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Redo make inspector weakly referencing the inspected objects.""<br />
+    <sub>[#128471](https://github.com/flutter/flutter/pull/128471) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128471) 190 additions and 33 deletions in 2 files</sub><br />
+
