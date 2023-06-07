@@ -4,7 +4,7 @@
 
 ### June 3, 2023 to June 9, 2023
 
-29 commits.
+30 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix update drag error that made NestedScrollView un-scrollable<br />
     <sub>[#127718](https://github.com/flutter/flutter/pull/127718) merged on June 5, 2023 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/127718) over 1 week, 323 additions and 22 deletions in 2 files</sub><br />
@@ -88,6 +88,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Migrate SemanticsBinding to onSemanticsActionEvent<br />
     <sub>[#128254](https://github.com/flutter/flutter/pull/128254) merged on June 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128254) over 2 hours, 20 additions and 56 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Leigha Jarett](https://github.com/leighajarett)** &mdash; Update menu API docs to help developers migrate to m3<br />
+    <sub>[#128351](https://github.com/flutter/flutter/pull/128351) merged on June 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128351) over 18 hours, 210 additions and 2 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Alex Fischer](https://github.com/99spark)** &mdash; Addressed Ambiguity in transform.scale constructor docs<br />
     <sub>[#128182](https://github.com/flutter/flutter/pull/128182) merged on June 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128182) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
