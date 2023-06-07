@@ -125,3 +125,9 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix typos 'wether' -> 'whether'<br />
     <sub>[#128392](https://github.com/flutter/flutter/pull/128392) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128392) 2 additions and 3 deletions in 2 files</sub><br />
 
+* **[Janice Collins](https://github.com/jcollins-g)** &mdash; Update flutter to dartdoc 6.3.0 and hide Icons implementation from doc pages<br />
+    <sub>[#128442](https://github.com/flutter/flutter/pull/128442) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128442) 3 additions and 1 deletion in 3 files</sub><br />
+
+* **[Leigha Jarett](https://github.com/leighajarett)** &mdash; Adding mention of quirky behavior to API docs<br />
+    <sub>[#128443](https://github.com/flutter/flutter/pull/128443) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128443) 11 additions and 0 deletions in 2 files</sub><br />
+
