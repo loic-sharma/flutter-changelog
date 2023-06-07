@@ -4,7 +4,7 @@
 
 ### June 3, 2023 to June 9, 2023
 
-21 commits.
+22 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix update drag error that made NestedScrollView un-scrollable
     <sub>[#127718](https://github.com/flutter/flutter/pull/127718) merged on June 5, 2023 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/127718) over 1 week, 323 additions and 22 deletions in 2 files</sub>
@@ -14,6 +14,11 @@
     <sub>[#127478](https://github.com/flutter/flutter/pull/127478) merged on June 6, 2023 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/127478) over 1 week, 76 additions and 4 deletions in 3 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Justin McCandless](https://github.com/justinmc)</sub>
     <sub><details><summary>1 image...</summary><img width="577" alt="Screenshot 2023-05-24 at 2 46 13 AM" src="https://github.com/flutter/flutter/assets/948037/bb246966-acad-4d81-bd87-758c3ea6ea39"></details></sub>
+
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Show error message in release mode when box is not laid out without losing performance
+    <sub>[#126302](https://github.com/flutter/flutter/pull/126302) merged on June 7, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/126302) over 4 weeks, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
+    <sub><details><summary>1 image...</summary>![image](https://user-images.githubusercontent.com/5236035/236962182-b9450d59-a2ac-426f-8300-3c7edcadf35e.png)</details></sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove `textScaleFactor` dependent logic from `AppBar`
     <sub>[#128112](https://github.com/flutter/flutter/pull/128112) merged on June 6, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/128112) over 4 days, 230 additions and 120 deletions in 4 files</sub>
