@@ -125,9 +125,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix typos 'wether' -> 'whether'<br />
     <sub>[#128392](https://github.com/flutter/flutter/pull/128392) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128392) 2 additions and 3 deletions in 2 files</sub><br />
 
-* **[Leigha Jarett](https://github.com/leighajarett)** &mdash; Adding migration guide for materials 3 colors<br />
-    <sub>[#128429](https://github.com/flutter/flutter/pull/128429) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128429) 93 additions and 0 deletions in 2 files</sub><br />
-
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert "Make inspector weakly referencing the inspected objects."<br />
     <sub>[#128436](https://github.com/flutter/flutter/pull/128436) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128436) 21 additions and 178 deletions in 2 files</sub><br />
 
