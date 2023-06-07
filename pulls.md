@@ -125,3 +125,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix typos 'wether' -> 'whether'<br />
     <sub>[#128392](https://github.com/flutter/flutter/pull/128392) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128392) 2 additions and 3 deletions in 2 files</sub><br />
 
+* **[Leigha Jarett](https://github.com/leighajarett)** &mdash; Adding migration guide for materials 3 colors<br />
+    <sub>[#128429](https://github.com/flutter/flutter/pull/128429) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128429) 93 additions and 0 deletions in 2 files</sub><br />
+
