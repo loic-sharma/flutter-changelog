@@ -1026,7 +1026,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Change Linux Android Emulator Tests to run on a device running API 33<br />
     <sub>[#42492](https://github.com/flutter/engine/pull/42492) merged on June 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42492) over 20 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Reland "add non-rendering operation culling to DisplayListBuilder" (#41463)<br />
     <sub>[#42330](https://github.com/flutter/engine/pull/42330) merged on June 1, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/42330) over 6 days, 1265 additions and 311 deletions in 20 files</sub><br />
@@ -1416,7 +1416,11 @@
 
 ### June 3, 2023 to June 9, 2023
 
-16 commits.
+17 commits.
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Refactors imperative APIs and browser history<br />
+    <sub>[#4134](https://github.com/flutter/packages/pull/4134) merged on June 7, 2023 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/4134) over 5 days, 1622 additions and 1476 deletions in 24 files</sub><br />
+    <sub>Reviewed by: [Phil](https://github.com/callmephil), [John Ryan](https://github.com/johnpryan)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [camera]: Bump com.google.guava:guava from 31.1-android to 32.0.0-android in /packages/camera/camera_android_camerax/android<br />
     <sub>[#4116](https://github.com/flutter/packages/pull/4116) merged on June 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4116) over 1 week, 6 additions and 3 deletions in 3 files</sub><br />
