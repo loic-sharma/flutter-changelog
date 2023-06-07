@@ -117,5 +117,5 @@
     <sub>[#128366](https://github.com/flutter/flutter/pull/128366) opened on on June 7, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/128366) 3155 additions and 2377 deletions in 17 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Paint SelectableFragments before text<br />
-    <sub>[#128375](https://github.com/flutter/flutter/pull/128375) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128375) 22 additions and 6 deletions in 2 files</sub><br />
+    <sub>[#128375](https://github.com/flutter/flutter/pull/128375) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128375) 21 additions and 6 deletions in 2 files</sub><br />
 
