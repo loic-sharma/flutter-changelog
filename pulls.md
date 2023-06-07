@@ -125,3 +125,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix typos 'wether' -> 'whether'<br />
     <sub>[#128392](https://github.com/flutter/flutter/pull/128392) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128392) 2 additions and 3 deletions in 2 files</sub><br />
 
+* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Reland: Provide default constraints for M3 dialogs<br />
+    <sub>[#128408](https://github.com/flutter/flutter/pull/128408) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128408) 66 additions and 31 deletions in 3 files</sub><br />
+
