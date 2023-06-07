@@ -735,7 +735,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Revert "[Android] Return keyboard pressed state"
-    <sub>[#42616](https://github.com/flutter/engine/pull/42616) merged on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42616) over 4 minutes, 1 addition and 257 deletions in 13 files</sub>
+    <sub>[#42616](https://github.com/flutter/engine/pull/42616) merged on June 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42616) over 4 minutes, 1 addition and 257 deletions in 13 files</sub>
     <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub>
 
 ### May 27, 2023 to June 2, 2023

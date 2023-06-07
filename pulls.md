@@ -122,3 +122,6 @@
 * **[LinChen](https://github.com/linchen2chris)** &mdash; make integration_test_driver_extended.dart support writeResponseData<br />
     <sub>[#128382](https://github.com/flutter/flutter/pull/128382) opened on on June 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128382) 50 additions and 2 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix typos 'wether' -> 'whether'<br />
+    <sub>[#128392](https://github.com/flutter/flutter/pull/128392) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128392) 2 additions and 3 deletions in 2 files</sub><br />
+
