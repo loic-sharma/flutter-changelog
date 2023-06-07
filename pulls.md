@@ -114,7 +114,7 @@
     <sub>[#128360](https://github.com/flutter/flutter/pull/128360) opened on on June 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128360) 59 additions and 1 deletion in 5 files</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] add FlutterTimeline and semantics benchmarks that use it<br />
-    <sub>[#128366](https://github.com/flutter/flutter/pull/128366) opened on on June 7, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/128366) 3155 additions and 2377 deletions in 17 files</sub><br />
+    <sub>[#128366](https://github.com/flutter/flutter/pull/128366) opened on on June 7, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/128366) 3158 additions and 2377 deletions in 18 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Paint SelectableFragments before text<br />
     <sub>[#128375](https://github.com/flutter/flutter/pull/128375) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128375) 21 additions and 6 deletions in 2 files</sub><br />
