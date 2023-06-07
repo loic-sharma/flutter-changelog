@@ -104,9 +104,6 @@
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Add `@hideConstantImplementations` to icons files<br />
     <sub>[#128235](https://github.com/flutter/flutter/pull/128235) opened on on June 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128235) 4 additions and 0 deletions in 2 files</sub><br />
 
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll engine, patch expression evaluation<br />
-    <sub>[#128255](https://github.com/flutter/flutter/pull/128255) opened on on June 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128255) 54 additions and 10 deletions in 6 files</sub><br />
-
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] [DAP] Don't try to restart/reload if app hasn't started yet<br />
     <sub>[#128267](https://github.com/flutter/flutter/pull/128267) opened on on June 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128267) 30 additions and 0 deletions in 2 files</sub><br />
 
@@ -120,5 +117,5 @@
     <sub>[#128366](https://github.com/flutter/flutter/pull/128366) opened on on June 7, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/128366) 3155 additions and 2377 deletions in 17 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Paint SelectableFragments before text<br />
-    <sub>[#128375](https://github.com/flutter/flutter/pull/128375) opened on on June 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128375) 8 additions and 5 deletions in 1 file</sub><br />
+    <sub>[#128375](https://github.com/flutter/flutter/pull/128375) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128375) 22 additions and 6 deletions in 2 files</sub><br />
 
