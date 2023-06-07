@@ -1355,7 +1355,7 @@
 
 ### June 3, 2023 to June 9, 2023
 
-12 commits.
+13 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [camera]: Bump com.google.guava:guava from 31.1-android to 32.0.0-android in /packages/camera/camera_android_camerax/android<br />
     <sub>[#4116](https://github.com/flutter/packages/pull/4116) merged on June 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4116) over 1 week, 6 additions and 3 deletions in 3 files</sub><br />
@@ -1398,6 +1398,10 @@
 * **[dsambuk](https://github.com/dsambuk)** &mdash; [path_provider] Allow win32 up to version 5.x<br />
     <sub>[#4125](https://github.com/flutter/packages/pull/4125) merged on June 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4125) over 4 days, 4 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from f92f44110e87 to 682aa387cfe4 (1 revision)<br />
+    <sub>[#4157](https://github.com/flutter/packages/pull/4157) merged on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4157) over 53 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [video_player]: Bump exoplayer_version from 2.18.6 to 2.18.7 in /packages/video_player/video_player_android/android<br />
     <sub>[#4053](https://github.com/flutter/packages/pull/4053) merged on June 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4053) over 2 weeks, 6 additions and 2 deletions in 3 files</sub><br />

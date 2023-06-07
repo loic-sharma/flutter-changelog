@@ -125,6 +125,3 @@
 * **[Leigha Jarett](https://github.com/leighajarett)** &mdash; Adding mention of quirky behavior to API docs<br />
     <sub>[#128443](https://github.com/flutter/flutter/pull/128443) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128443) 11 additions and 0 deletions in 2 files</sub><br />
 
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll to engine to 4f4486b00be28183b482bbb74bbed25f4db153fe pick up dart to 3.1.0-169.0.dev.<br />
-    <sub>[#128445](https://github.com/flutter/flutter/pull/128445) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128445) 54 additions and 10 deletions in 6 files</sub><br />
-
