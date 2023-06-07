@@ -4,7 +4,7 @@
 
 ### June 3, 2023 to June 9, 2023
 
-28 commits.
+29 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix update drag error that made NestedScrollView un-scrollable
     <sub>[#127718](https://github.com/flutter/flutter/pull/127718) merged on June 5, 2023 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/127718) over 1 week, 323 additions and 22 deletions in 2 files</sub>
@@ -28,6 +28,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Do not try to load main/default asset image if only higher-res variants exist
     <sub>[#128143](https://github.com/flutter/flutter/pull/128143) merged on June 7, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/128143) over 4 days, 382 additions and 223 deletions in 8 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tools] allow explicitly specifying the JDK to use via a new config setting
+    <sub>[#128264](https://github.com/flutter/flutter/pull/128264) merged on June 7, 2023 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/128264) over 1 day, 100 additions and 156 deletions in 8 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] never tree shake 0x20 (space) font codepoints on web
     <sub>[#128302](https://github.com/flutter/flutter/pull/128302) merged on June 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128302) over 18 hours, 116 additions and 2 deletions in 3 files</sub>
