@@ -122,6 +122,3 @@
 * **[Leigha Jarett](https://github.com/leighajarett)** &mdash; Adding mention of quirky behavior to API docs<br />
     <sub>[#128443](https://github.com/flutter/flutter/pull/128443) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128443) 11 additions and 0 deletions in 2 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `showBottomSheet` doesn't remove scrim when draggable sheet is dismissed<br />
-    <sub>[#128455](https://github.com/flutter/flutter/pull/128455) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128455) 48 additions and 0 deletions in 2 files</sub><br />
-
