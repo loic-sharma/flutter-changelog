@@ -9,7 +9,7 @@
     <sub>[#113642](https://github.com/flutter/flutter/pull/113642) opened on on October 18, 2022 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/113642) 44 additions and 24 deletions in 1 file</sub><br />
 
 * **[Mahesh Jamdade](https://github.com/maheshmnj)** &mdash; Allow selecting specific minute in a single tap<br />
-    <sub>[#115992](https://github.com/flutter/flutter/pull/115992) opened on on November 24, 2022 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/115992) 5 additions and 19 deletions in 2 files</sub><br />
+    <sub>[#115992](https://github.com/flutter/flutter/pull/115992) opened on on November 24, 2022 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/115992) 345 additions and 151 deletions in 1 file</sub><br />
 
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Added hoverColor property to CheckboxListTile widget<br />
     <sub>[#116026](https://github.com/flutter/flutter/pull/116026) opened on on November 25, 2022 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/116026) 23 additions and 1 deletion in 3 files</sub><br />
