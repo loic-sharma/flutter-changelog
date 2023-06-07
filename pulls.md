@@ -108,7 +108,7 @@
     <sub>[#128360](https://github.com/flutter/flutter/pull/128360) opened on on June 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128360) 59 additions and 1 deletion in 5 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Paint SelectableFragments before text<br />
-    <sub>[#128375](https://github.com/flutter/flutter/pull/128375) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128375) 21 additions and 6 deletions in 2 files</sub><br />
+    <sub>[#128375](https://github.com/flutter/flutter/pull/128375) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128375) 7 additions and 5 deletions in 1 file</sub><br />
 
 * **[LinChen](https://github.com/linchen2chris)** &mdash; make integration_test_driver_extended.dart support writeResponseData<br />
     <sub>[#128382](https://github.com/flutter/flutter/pull/128382) opened on on June 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128382) 50 additions and 2 deletions in 1 file</sub><br />
@@ -121,4 +121,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Inline AbstractNode into SemanticsNode<br />
     <sub>[#128467](https://github.com/flutter/flutter/pull/128467) opened on on June 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128467) 68 additions and 17 deletions in 1 file</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Inline AbstractNode into Layer<br />
+    <sub>[#128470](https://github.com/flutter/flutter/pull/128470) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128470) 130 additions and 29 deletions in 2 files</sub><br />
 

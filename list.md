@@ -654,7 +654,7 @@
     <sub><details><summary>1 image...</summary>![FGcZZRCQZJ](https://github.com/flutter/engine/assets/31977171/4127e73d-81a9-4d3e-8430-cf511367362c)</details></sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Improve getting non-overlapping rectangles from RTree
-    <sub>[#42399](https://github.com/flutter/engine/pull/42399) merged on June 5, 2023 &mdash; **Large:** [50 comments](https://github.com/flutter/engine/pull/42399) over 1 week, 693 additions and 99 deletions in 14 files</sub>
+    <sub>[#42399](https://github.com/flutter/engine/pull/42399) merged on June 5, 2023 &mdash; **Large:** [51 comments](https://github.com/flutter/engine/pull/42399) over 1 week, 693 additions and 99 deletions in 14 files</sub>
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Corrected the 'texture_coords' computation in 'Geometry::GetPositionUVBuffer'
