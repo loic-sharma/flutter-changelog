@@ -107,9 +107,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [CP][Android] Adds `namespace` to module build file templates (#126963)<br />
     <sub>[#128360](https://github.com/flutter/flutter/pull/128360) opened on on June 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128360) 59 additions and 1 deletion in 5 files</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; [framework,web] add FlutterTimeline and semantics benchmarks that use it<br />
-    <sub>[#128366](https://github.com/flutter/flutter/pull/128366) opened on on June 7, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/128366) 3158 additions and 2377 deletions in 18 files</sub><br />
-
 * **[hangyu](https://github.com/hangyujin)** &mdash; Paint SelectableFragments before text<br />
     <sub>[#128375](https://github.com/flutter/flutter/pull/128375) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128375) 21 additions and 6 deletions in 2 files</sub><br />
 
@@ -120,5 +117,5 @@
     <sub>[#128443](https://github.com/flutter/flutter/pull/128443) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128443) 11 additions and 0 deletions in 2 files</sub><br />
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Revert "test owners: cyanglaz -> vashworth"<br />
-    <sub>[#128462](https://github.com/flutter/flutter/pull/128462) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128462) 24 additions and 24 deletions in 1 file</sub><br />
+    <sub>[#128462](https://github.com/flutter/flutter/pull/128462) opened on on June 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128462) 24 additions and 24 deletions in 1 file</sub><br />
 
