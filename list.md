@@ -1201,7 +1201,7 @@
 
 * **[Valentin Hăloiu](https://github.com/vially)** &mdash; Dynamically link against system fontconfig
     <sub>[#40725](https://github.com/flutter/engine/pull/40725) merged on May 25, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/40725) over 1 month, 3 additions and 7 deletions in 2 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Place Entity Geometry classes in separate TUs
     <sub>[#42236](https://github.com/flutter/engine/pull/42236) merged on May 23, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/42236) over 53 minutes, 1602 additions and 1444 deletions in 33 files</sub>
@@ -1213,7 +1213,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Use untransformed text bounds to calculate the size of ColorSourceTextContents
     <sub>[#42142](https://github.com/flutter/engine/pull/42142) merged on May 22, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/42142) over 3 days, 11 additions and 9 deletions in 3 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Make FML_LOG safe from static initialization
     <sub>[#42219](https://github.com/flutter/engine/pull/42219) merged on May 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42219) over 3 hours, 40 additions and 2 deletions in 2 files</sub>
@@ -1440,7 +1440,7 @@
 
 ### June 3, 2023 to June 9, 2023
 
-19 commits.
+20 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Refactors imperative APIs and browser history
     <sub>[#4134](https://github.com/flutter/packages/pull/4134) merged on June 7, 2023 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/4134) over 5 days, 1622 additions and 1476 deletions in 24 files</sub>
@@ -1483,6 +1483,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Removes bespoke web scripts.
     <sub>[#4129](https://github.com/flutter/packages/pull/4129) merged on June 5, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4129) over 3 days, 0 additions and 257 deletions in 13 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Only run unit tests in Chrome for inline web
+    <sub>[#4153](https://github.com/flutter/packages/pull/4153) merged on June 8, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4153) over 1 day, 27 additions and 12 deletions in 4 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Add `http` 1.0 compatibility
     <sub>[#4147](https://github.com/flutter/packages/pull/4147) merged on June 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4147) over 1 day, 37 additions and 22 deletions in 19 files</sub>
