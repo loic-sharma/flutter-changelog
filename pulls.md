@@ -128,3 +128,6 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Add support for vmServiceFileInfo when attaching<br />
     <sub>[#128503](https://github.com/flutter/flutter/pull/128503) opened on on June 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128503) 132 additions and 4 deletions in 4 files</sub><br />
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated flutter_localizations tests for Material3;<br />
+    <sub>[#128521](https://github.com/flutter/flutter/pull/128521) opened on on June 8, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/128521) 257 additions and 134 deletions in 4 files</sub><br />
+
