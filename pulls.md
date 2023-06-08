@@ -101,9 +101,6 @@
 * **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; fix: SearchAnchor View not resizing when in nested navigator<br />
     <sub>[#128357](https://github.com/flutter/flutter/pull/128357) opened on on June 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128357) 46 additions and 1 deletion in 2 files</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; [CP][Android] Adds `namespace` to module build file templates (#126963)<br />
-    <sub>[#128360](https://github.com/flutter/flutter/pull/128360) opened on on June 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128360) 59 additions and 1 deletion in 5 files</sub><br />
-
 * **[hangyu](https://github.com/hangyujin)** &mdash; Paint SelectableFragments before text<br />
     <sub>[#128375](https://github.com/flutter/flutter/pull/128375) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128375) 21 additions and 6 deletions in 2 files</sub><br />
 
@@ -127,7 +124,4 @@
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Add support for vmServiceFileInfo when attaching<br />
     <sub>[#128503](https://github.com/flutter/flutter/pull/128503) opened on on June 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128503) 132 additions and 4 deletions in 4 files</sub><br />
-
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated flutter_localizations tests for Material3;<br />
-    <sub>[#128521](https://github.com/flutter/flutter/pull/128521) opened on on June 8, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/128521) 257 additions and 134 deletions in 4 files</sub><br />
 
