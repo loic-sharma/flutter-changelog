@@ -113,9 +113,6 @@
 * **[LinChen](https://github.com/linchen2chris)** &mdash; make integration_test_driver_extended.dart support writeResponseData<br />
     <sub>[#128382](https://github.com/flutter/flutter/pull/128382) opened on on June 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128382) 50 additions and 2 deletions in 1 file</sub><br />
 
-* **[Leigha Jarett](https://github.com/leighajarett)** &mdash; Adding mention of quirky behavior to API docs<br />
-    <sub>[#128443](https://github.com/flutter/flutter/pull/128443) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128443) 11 additions and 0 deletions in 2 files</sub><br />
-
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Revert "test owners: cyanglaz -> vashworth"<br />
     <sub>[#128462](https://github.com/flutter/flutter/pull/128462) opened on on June 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128462) 24 additions and 24 deletions in 1 file</sub><br />
 
