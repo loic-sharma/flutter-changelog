@@ -1572,7 +1572,7 @@
 
 ### June 3, 2023 to June 9, 2023
 
-25 commits.
+26 commits.
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; [go_router] Update link to example for query and path parameters<br />
     <sub>[#3994](https://github.com/flutter/packages/pull/3994) merged on June 8, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3994) over 3 weeks, 7 additions and 2 deletions in 3 files</sub><br />
@@ -1630,6 +1630,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Removes bespoke web scripts.<br />
     <sub>[#4129](https://github.com/flutter/packages/pull/4129) merged on June 5, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4129) over 3 days, 0 additions and 257 deletions in 13 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Add desktop support - platform interface<br />
+    <sub>[#4161](https://github.com/flutter/packages/pull/4161) merged on June 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4161) over 1 day, 239 additions and 4 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Explicitly disable ATS in example apps<br />
     <sub>[#4166](https://github.com/flutter/packages/pull/4166) merged on June 8, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4166) over 1 hour, 10 additions and 0 deletions in 2 files</sub><br />
