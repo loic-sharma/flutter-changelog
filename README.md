@@ -4,7 +4,7 @@
 
 ### June 3, 2023 to June 9, 2023
 
-36 commits.
+37 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix update drag error that made NestedScrollView un-scrollable<br />
     <sub>[#127718](https://github.com/flutter/flutter/pull/127718) merged on June 5, 2023 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/127718) over 1 week, 323 additions and 22 deletions in 2 files</sub><br />
@@ -61,13 +61,9 @@
     <sub>[#128138](https://github.com/flutter/flutter/pull/128138) merged on June 5, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/128138) over 2 days, 97 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll engine, patch expression evaluation<br />
-    <sub>[#128255](https://github.com/flutter/flutter/pull/128255) merged on June 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/128255) over 2 days, 54 additions and 10 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Make inspector weakly referencing the inspected objects.<br />
-    <sub>[#128095](https://github.com/flutter/flutter/pull/128095) merged on June 7, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/128095) over 5 days, 178 additions and 21 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314)</sub><br />
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Refactor tests<br />
+    <sub>[#128371](https://github.com/flutter/flutter/pull/128371) merged on June 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128371) over 2 hours, 21 additions and 213 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add viewId to PointerEvents<br />
     <sub>[#128287](https://github.com/flutter/flutter/pull/128287) merged on June 7, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/128287) over 1 day, 213 additions and 54 deletions in 15 files</sub><br />
@@ -89,13 +85,21 @@
     <sub>[#128273](https://github.com/flutter/flutter/pull/128273) merged on June 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128273) over 1 hour, 51 additions and 14 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Refactor tests<br />
-    <sub>[#128371](https://github.com/flutter/flutter/pull/128371) merged on June 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128371) over 2 hours, 21 additions and 213 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Redo make inspector weakly referencing the inspected objects.<br />
+    <sub>[#128471](https://github.com/flutter/flutter/pull/128471) merged on June 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128471) over 2 hours, 190 additions and 33 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll engine, patch expression evaluation<br />
+    <sub>[#128255](https://github.com/flutter/flutter/pull/128255) merged on June 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/128255) over 2 days, 54 additions and 10 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Migrate SemanticsBinding to onSemanticsActionEvent<br />
     <sub>[#128254](https://github.com/flutter/flutter/pull/128254) merged on June 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128254) over 2 hours, 20 additions and 56 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Make inspector weakly referencing the inspected objects.<br />
+    <sub>[#128095](https://github.com/flutter/flutter/pull/128095) merged on June 7, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/128095) over 5 days, 178 additions and 21 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Disable context menu<br />
     <sub>[#128365](https://github.com/flutter/flutter/pull/128365) merged on June 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/128365) over 23 hours, 56 additions and 11 deletions in 2 files</sub><br />
@@ -104,10 +108,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix typos 'wether' -> 'whether'<br />
     <sub>[#128392](https://github.com/flutter/flutter/pull/128392) merged on June 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128392) over 11 hours, 2 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
-
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Super tiny fix of dead link<br />
-    <sub>[#128160](https://github.com/flutter/flutter/pull/128160) merged on June 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128160) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove more rounding hacks from TextPainter<br />
     <sub>[#127826](https://github.com/flutter/flutter/pull/127826) merged on June 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127826) over 1 week, 9 additions and 10 deletions in 3 files</sub><br />
@@ -148,6 +148,10 @@
 * **[Alex Fischer](https://github.com/99spark)** &mdash; Addressed Ambiguity in transform.scale constructor docs<br />
     <sub>[#128182](https://github.com/flutter/flutter/pull/128182) merged on June 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128182) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Super tiny fix of dead link<br />
+    <sub>[#128160](https://github.com/flutter/flutter/pull/128160) merged on June 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128160) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert "Make inspector weakly referencing the inspected objects."<br />
     <sub>[#128436](https://github.com/flutter/flutter/pull/128436) merged on June 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128436) over 37 minutes, 21 additions and 178 deletions in 2 files</sub><br />
