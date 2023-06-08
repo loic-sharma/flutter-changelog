@@ -129,5 +129,5 @@
     <sub>[#128501](https://github.com/flutter/flutter/pull/128501) opened on on June 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128501) 68 additions and 1 deletion in 2 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Add support for vmServiceFileInfo when attaching<br />
-    <sub>[#128503](https://github.com/flutter/flutter/pull/128503) opened on on June 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128503) 132 additions and 4 deletions in 4 files</sub><br />
+    <sub>[#128503](https://github.com/flutter/flutter/pull/128503) opened on on June 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128503) 131 additions and 4 deletions in 4 files</sub><br />
 
