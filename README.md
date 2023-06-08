@@ -4,7 +4,7 @@
 
 ### June 3, 2023 to June 9, 2023
 
-41 commits.
+42 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix update drag error that made NestedScrollView un-scrollable<br />
     <sub>[#127718](https://github.com/flutter/flutter/pull/127718) merged on June 5, 2023 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/127718) over 1 week, 323 additions and 22 deletions in 2 files</sub><br />
@@ -61,13 +61,17 @@
     <sub>[#128138](https://github.com/flutter/flutter/pull/128138) merged on June 5, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/128138) over 2 days, 97 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Refactor tests<br />
+    <sub>[#128371](https://github.com/flutter/flutter/pull/128371) merged on June 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128371) over 2 hours, 21 additions and 213 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix PointerEventConverter doc<br />
+    <sub>[#128452](https://github.com/flutter/flutter/pull/128452) merged on June 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128452) over 1 day, 4 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add viewId to PointerEvents<br />
     <sub>[#128287](https://github.com/flutter/flutter/pull/128287) merged on June 7, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/128287) over 1 day, 213 additions and 54 deletions in 15 files</sub><br />
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
-
-* **[Tess Strickland](https://github.com/sstrickl)** &mdash; Use `--target-os` for appropriate precompiled targets.<br />
-    <sub>[#127567](https://github.com/flutter/flutter/pull/127567) merged on June 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127567) over 2 weeks, 30 additions and 0 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[yusuf-goog](https://github.com/yusuf-goog)** &mdash; Updating cirrus docker image to ubuntu focal.<br />
     <sub>[#128291](https://github.com/flutter/flutter/pull/128291) merged on June 6, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/128291) over 21 hours, 4 additions and 1 deletion in 1 file</sub><br />
@@ -81,21 +85,21 @@
     <sub>[#128298](https://github.com/flutter/flutter/pull/128298) merged on June 6, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/128298) over 16 hours, 14 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Redo make inspector weakly referencing the inspected objects.<br />
-    <sub>[#128471](https://github.com/flutter/flutter/pull/128471) merged on June 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128471) over 2 hours, 190 additions and 33 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+* **[Tess Strickland](https://github.com/sstrickl)** &mdash; Use `--target-os` for appropriate precompiled targets.<br />
+    <sub>[#127567](https://github.com/flutter/flutter/pull/127567) merged on June 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127567) over 2 weeks, 30 additions and 0 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] attempt non-key solution<br />
     <sub>[#128273](https://github.com/flutter/flutter/pull/128273) merged on June 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128273) over 1 hour, 51 additions and 14 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Refactor tests<br />
-    <sub>[#128371](https://github.com/flutter/flutter/pull/128371) merged on June 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128371) over 2 hours, 21 additions and 213 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
-
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll engine, patch expression evaluation<br />
     <sub>[#128255](https://github.com/flutter/flutter/pull/128255) merged on June 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/128255) over 2 days, 54 additions and 10 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Redo make inspector weakly referencing the inspected objects.<br />
+    <sub>[#128471](https://github.com/flutter/flutter/pull/128471) merged on June 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128471) over 2 hours, 190 additions and 33 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Migrate SemanticsBinding to onSemanticsActionEvent<br />
     <sub>[#128254](https://github.com/flutter/flutter/pull/128254) merged on June 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128254) over 2 hours, 20 additions and 56 deletions in 4 files</sub><br />
@@ -116,10 +120,6 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Disable context menu<br />
     <sub>[#128365](https://github.com/flutter/flutter/pull/128365) merged on June 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/128365) over 23 hours, 56 additions and 11 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
-
-* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Update plugin and module templates to use Flutter constant for `compileSdkVersion`<br />
-    <sub>[#128073](https://github.com/flutter/flutter/pull/128073) merged on June 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128073) over 5 days, 2 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [gmackall](https://github.com/gmackall)</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Fix `Null check operator used on a null value` on TextField with contextMenuBuilder<br />
     <sub>[#128114](https://github.com/flutter/flutter/pull/128114) merged on June 6, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/128114) over 4 days, 46 additions and 2 deletions in 2 files</sub><br />
@@ -149,21 +149,25 @@
     <sub>[#128182](https://github.com/flutter/flutter/pull/128182) merged on June 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128182) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [labeler] Fix adding labels when name is directory<br />
-    <sub>[#128243](https://github.com/flutter/flutter/pull/128243) merged on June 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128243) over 6 hours, 13 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [keyonghan](https://github.com/keyonghan)</sub><br />
+* **[Leigha Jarett](https://github.com/leighajarett)** &mdash; Migration guide for moving from BottomNavigationBar to NavigationBar<br />
+    <sub>[#128263](https://github.com/flutter/flutter/pull/128263) merged on June 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128263) over 10 hours, 50 additions and 20 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Super tiny fix of dead link<br />
     <sub>[#128160](https://github.com/flutter/flutter/pull/128160) merged on June 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128160) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
-* **[Leigha Jarett](https://github.com/leighajarett)** &mdash; Migration guide for moving from BottomNavigationBar to NavigationBar<br />
-    <sub>[#128263](https://github.com/flutter/flutter/pull/128263) merged on June 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128263) over 10 hours, 50 additions and 20 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [labeler] Fix adding labels when name is directory<br />
+    <sub>[#128243](https://github.com/flutter/flutter/pull/128243) merged on June 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128243) over 6 hours, 13 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove more rounding hacks from TextPainter<br />
     <sub>[#127826](https://github.com/flutter/flutter/pull/127826) merged on June 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127826) over 1 week, 9 additions and 10 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Update plugin and module templates to use Flutter constant for `compileSdkVersion`<br />
+    <sub>[#128073](https://github.com/flutter/flutter/pull/128073) merged on June 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128073) over 5 days, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [gmackall](https://github.com/gmackall)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Redo make inspector weakly referencing the inspected objects."<br />
     <sub>[#128506](https://github.com/flutter/flutter/pull/128506) merged on June 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128506) over 1 minute, 33 additions and 190 deletions in 2 files</sub><br />
@@ -471,7 +475,7 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] delete entitlements files after copying to macos build dir<br />
     <sub>[#127417](https://github.com/flutter/flutter/pull/127417) merged on May 23, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/127417) over 43 minutes, 60 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [godofredoc](https://github.com/godofredoc)</sub><br />
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] ui.platformViewRegistry => ui_web.platformViewRegistry<br />
     <sub>[#127493](https://github.com/flutter/flutter/pull/127493) merged on May 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127493) over 8 hours, 28 additions and 42 deletions in 8 files</sub><br />
@@ -607,7 +611,7 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix wasm-opt location when using local_web_sdk<br />
     <sub>[#127355](https://github.com/flutter/flutter/pull/127355) merged on May 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127355) over 56 minutes, 8 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Append $flutter/osx sdk property to existing platforms/targets relying on xcode<br />
     <sub>[#127537](https://github.com/flutter/flutter/pull/127537) merged on May 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127537) over 1 day, 69 additions and 1 deletion in 1 file</sub><br />
@@ -631,7 +635,7 @@
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add test for setting JAVA_HOME and PATH when invoking `sdkmanager --licenses`<br />
     <sub>[#127344](https://github.com/flutter/flutter/pull/127344) merged on May 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127344) over 41 minutes, 30 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Log all output of ios-deploy"<br />
     <sub>[#127405](https://github.com/flutter/flutter/pull/127405) merged on May 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127405) over 3 minutes, 11 additions and 27 deletions in 2 files</sub><br />
