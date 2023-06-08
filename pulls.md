@@ -120,7 +120,7 @@
     <sub>[#128470](https://github.com/flutter/flutter/pull/128470) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128470) 130 additions and 29 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Suppress git output in flutter channel<br />
-    <sub>[#128475](https://github.com/flutter/flutter/pull/128475) opened on on June 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128475) 140 additions and 68 deletions in 7 files</sub><br />
+    <sub>[#128475](https://github.com/flutter/flutter/pull/128475) opened on on June 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128475) 138 additions and 68 deletions in 7 files</sub><br />
 
 * **[ZhulanovAA](https://github.com/ZhulanovAA)** &mdash; Add tooltips for `SegmentedButton`<br />
     <sub>[#128501](https://github.com/flutter/flutter/pull/128501) opened on on June 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128501) 68 additions and 1 deletion in 2 files</sub><br />
