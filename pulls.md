@@ -15,7 +15,7 @@
     <sub>[#116030](https://github.com/flutter/flutter/pull/116030) opened on on November 25, 2022 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/116030) 31 additions and 0 deletions in 3 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Precache after channel switch<br />
-    <sub>[#118129](https://github.com/flutter/flutter/pull/118129) opened on on January 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/118129) 83 additions and 47 deletions in 6 files</sub><br />
+    <sub>[#118129](https://github.com/flutter/flutter/pull/118129) opened on on January 7, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/118129) 83 additions and 47 deletions in 6 files</sub><br />
 
 * **[Sohrab Vahidli](https://github.com/sohrabonline)** &mdash; Update nav_bar.dart<br />
     <sub>[#121943](https://github.com/flutter/flutter/pull/121943) opened on on March 4, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/121943) 22 additions and 3 deletions in 1 file</sub><br />
@@ -85,9 +85,6 @@
 
 * **[Dery Rahman Ahaddienata](https://github.com/deryrahman)** &mdash; Fix dart pub cache clean command on pub.dart<br />
     <sub>[#128171](https://github.com/flutter/flutter/pull/128171) opened on on June 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128171) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[XuanTung95](https://github.com/XuanTung95)** &mdash; [Android] Add opaque hybrid composition mode<br />
-    <sub>[#128193](https://github.com/flutter/flutter/pull/128193) opened on on June 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128193) 242 additions and 9 deletions in 5 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] [DAP] Don't try to restart/reload if app hasn't started yet<br />
     <sub>[#128267](https://github.com/flutter/flutter/pull/128267) opened on on June 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128267) 30 additions and 0 deletions in 2 files</sub><br />
