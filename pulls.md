@@ -122,3 +122,6 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Add support for vmServiceFileInfo when attaching<br />
     <sub>[#128503](https://github.com/flutter/flutter/pull/128503) opened on on June 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128503) 132 additions and 4 deletions in 4 files</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; rename generated asset manifest file back to `AssetManifest.bin` (from `AssetManifest.smcbin`)<br />
+    <sub>[#128529](https://github.com/flutter/flutter/pull/128529) opened on on June 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128529) 38 additions and 33 deletions in 10 files</sub><br />
+
