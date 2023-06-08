@@ -503,7 +503,7 @@
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Remove more `test_api/src` imports
     <sub>[#127716](https://github.com/flutter/flutter/pull/127716) merged on May 26, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/127716) over 1 hour, 2 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; `ProcessResultMatcher` created and used in test
     <sub>[#127414](https://github.com/flutter/flutter/pull/127414) merged on May 25, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/127414) over 2 days, 88 additions and 1 deletion in 3 files</sub>
@@ -1535,7 +1535,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tools] Fix OOB test error
     <sub>[#4144](https://github.com/flutter/packages/pull/4144) merged on June 5, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/4144) over 1 hour, 11 additions and 11 deletions in 2 files</sub>
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[dsambuk](https://github.com/dsambuk)** &mdash; [path_provider] Allow win32 up to version 5.x
     <sub>[#4125](https://github.com/flutter/packages/pull/4125) merged on June 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4125) over 4 days, 4 additions and 3 deletions in 2 files</sub>
