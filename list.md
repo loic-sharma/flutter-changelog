@@ -1428,7 +1428,7 @@
 
 ### June 3, 2023 to June 9, 2023
 
-17 commits.
+18 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Refactors imperative APIs and browser history
     <sub>[#4134](https://github.com/flutter/packages/pull/4134) merged on June 7, 2023 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/4134) over 5 days, 1622 additions and 1476 deletions in 24 files</sub>
@@ -1459,6 +1459,10 @@
 * **[Dima Brandorf](https://github.com/dimabran)** &mdash; remove unnecessary typed_data imports
     <sub>[#4136](https://github.com/flutter/packages/pull/4136) merged on June 6, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/4136) over 2 days, 0 additions and 126 deletions in 39 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Fix initialization race
+    <sub>[#4159](https://github.com/flutter/packages/pull/4159) merged on June 8, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/4159) over 9 hours, 193 additions and 175 deletions in 4 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Removes bespoke web scripts.
     <sub>[#4129](https://github.com/flutter/packages/pull/4129) merged on June 5, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4129) over 3 days, 0 additions and 257 deletions in 13 files</sub>
