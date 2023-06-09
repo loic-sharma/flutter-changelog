@@ -72,7 +72,7 @@
     <sub>[#127984](https://github.com/flutter/flutter/pull/127984) opened on on May 31, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/127984) 0 additions and 670 deletions in 38 files</sub><br />
 
 * **[Arne Molland](https://github.com/arnemolland)** &mdash; Fix inconsistently suffixed macOS flavored bundle directory<br />
-    <sub>[#127997](https://github.com/flutter/flutter/pull/127997) opened on on May 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127997) 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#127997](https://github.com/flutter/flutter/pull/127997) opened on on May 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127997) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Pass through type, class and function information for expression evaluation.<br />
     <sub>[#128084](https://github.com/flutter/flutter/pull/128084) opened on on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128084) 53 additions and 9 deletions in 5 files</sub><br />
@@ -112,7 +112,4 @@
 
 * **[Masatoshi Tsushima](https://github.com/utisam)** &mdash; Fix: Closing bottom sheet and removing FAB cause assertion failure<br />
     <sub>[#128566](https://github.com/flutter/flutter/pull/128566) opened on on June 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128566) 39 additions and 4 deletions in 2 files</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Temporarily disable this test to unblock the rollers.<br />
-    <sub>[#128586](https://github.com/flutter/flutter/pull/128586) opened on on June 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128586) 1 addition and 1 deletion in 1 file</sub><br />
 
