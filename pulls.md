@@ -111,5 +111,5 @@
     <sub>[#128551](https://github.com/flutter/flutter/pull/128551) opened on on June 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128551) 163 additions and 43 deletions in 2 files</sub><br />
 
 * **[Masatoshi Tsushima](https://github.com/utisam)** &mdash; Fix: Closing bottom sheet and removing FAB cause assertion failure<br />
-    <sub>[#128566](https://github.com/flutter/flutter/pull/128566) opened on on June 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128566) 2 additions and 4 deletions in 1 file</sub><br />
+    <sub>[#128566](https://github.com/flutter/flutter/pull/128566) opened on on June 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128566) 2 additions and 4 deletions in 1 file</sub><br />
 
