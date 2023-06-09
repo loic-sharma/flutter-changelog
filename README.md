@@ -243,7 +243,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[ZhulanovAA](https://github.com/ZhulanovAA)** &mdash; Add tooltips for `SegmentedButton`<br />
-    <sub>[#128501](https://github.com/flutter/flutter/pull/128501) merged on June 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128501) over 1 day, 68 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#128501](https://github.com/flutter/flutter/pull/128501) merged on June 9, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128501) over 1 day, 68 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Alex Fischer](https://github.com/99spark)** &mdash; Addressed Ambiguity in transform.scale constructor docs<br />
