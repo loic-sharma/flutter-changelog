@@ -89,9 +89,6 @@
 * **[LinChen](https://github.com/linchen2chris)** &mdash; make integration_test_driver_extended.dart support writeResponseData<br />
     <sub>[#128382](https://github.com/flutter/flutter/pull/128382) opened on on June 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128382) 50 additions and 2 deletions in 1 file</sub><br />
 
-* **[Chris Yang](https://github.com/cyanglaz)** &mdash; Revert "test owners: cyanglaz -> vashworth"<br />
-    <sub>[#128462](https://github.com/flutter/flutter/pull/128462) opened on on June 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128462) 24 additions and 24 deletions in 1 file</sub><br />
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Inline AbstractNode into SemanticsNode<br />
     <sub>[#128467](https://github.com/flutter/flutter/pull/128467) opened on on June 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128467) 68 additions and 17 deletions in 1 file</sub><br />
 
