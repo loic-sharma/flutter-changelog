@@ -95,6 +95,3 @@
 * **[Masatoshi Tsushima](https://github.com/utisam)** &mdash; Fix: Closing bottom sheet and removing FAB cause assertion failure<br />
     <sub>[#128566](https://github.com/flutter/flutter/pull/128566) opened on on June 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128566) 39 additions and 4 deletions in 2 files</sub><br />
 
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; Update button tests for Material 3 by default<br />
-    <sub>[#128628](https://github.com/flutter/flutter/pull/128628) opened on on June 9, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/128628) 701 additions and 760 deletions in 9 files</sub><br />
-
