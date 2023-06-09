@@ -894,7 +894,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Document the use of realm in archives.
     <sub>[#42682](https://github.com/flutter/engine/pull/42682) merged on June 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42682) over 2 hours, 19 additions and 6 deletions in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [keyonghan](https://github.com/keyonghan)</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Prevent double upload of benchmarks.
     <sub>[#42683](https://github.com/flutter/engine/pull/42683) merged on June 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42683) over 51 minutes, 1 addition and 1 deletion in 1 file</sub>
@@ -1071,7 +1071,7 @@
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Replace use of Skia's private GrRectanizer with a copy of the equivalent code
     <sub>[#42430](https://github.com/flutter/engine/pull/42430) merged on May 31, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/42430) over 20 hours, 312 additions and 18 deletions in 9 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Dan Field](https://github.com/dnfield)</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Ashish Myles](https://github.com/marcianx)** &mdash; [web] Move announcement live elements to the end of the DOM and make them `div`s instead of `label`s.
     <sub>[#42432](https://github.com/flutter/engine/pull/42432) merged on June 2, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/42432) over 2 days, 38 additions and 96 deletions in 7 files</sub>
