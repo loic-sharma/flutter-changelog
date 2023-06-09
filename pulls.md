@@ -104,9 +104,6 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Add support for vmServiceFileInfo when attaching<br />
     <sub>[#128503](https://github.com/flutter/flutter/pull/128503) opened on on June 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128503) 132 additions and 4 deletions in 4 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Next attempt to make inspector weakly referencing the inspected objects.<br />
-    <sub>[#128551](https://github.com/flutter/flutter/pull/128551) opened on on June 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128551) 163 additions and 43 deletions in 2 files</sub><br />
-
 * **[Masatoshi Tsushima](https://github.com/utisam)** &mdash; Fix: Closing bottom sheet and removing FAB cause assertion failure<br />
     <sub>[#128566](https://github.com/flutter/flutter/pull/128566) opened on on June 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128566) 39 additions and 4 deletions in 2 files</sub><br />
 
