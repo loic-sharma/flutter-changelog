@@ -1729,12 +1729,16 @@
 
 ### June 3, 2023 to June 9, 2023
 
-27 commits.
+28 commits.
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; [go_router] Update link to example for query and path parameters<br />
     <sub>[#3994](https://github.com/flutter/packages/pull/3994) merged on June 8, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3994) over 3 weeks, 7 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
     <sub><details><summary>1 image...</summary><img width="1440" alt="image" src="https://github.com/flutter/packages/assets/24459435/0e65d9a5-b53e-4b0e-95b2-ad4953545625"></details></sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Add desktop support - implementations<br />
+    <sub>[#4172](https://github.com/flutter/packages/pull/4172) merged on June 9, 2023 &mdash; **Extra large:** [16 comments](https://github.com/flutter/packages/pull/4172) over 3 hours, 3806 additions and 116 deletions in 59 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump org.jetbrains.kotlin:kotlin-bom from 1.8.0 to 1.8.21 in /packages/in_app_purchase/in_app_purchase_android/android<br />
     <sub>[#3839](https://github.com/flutter/packages/pull/3839) merged on June 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/3839) over 1 month, 6 additions and 2 deletions in 3 files</sub><br />

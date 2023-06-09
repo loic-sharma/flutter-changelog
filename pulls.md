@@ -104,3 +104,6 @@
 * **[Masatoshi Tsushima](https://github.com/utisam)** &mdash; Fix: Closing bottom sheet and removing FAB cause assertion failure<br />
     <sub>[#128566](https://github.com/flutter/flutter/pull/128566) opened on on June 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128566) 39 additions and 4 deletions in 2 files</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [CP] rename generated asset manifest file back to `AssetManifest.bin` (from `AssetManifest.smcbin`) <br />
+    <sub>[#128621](https://github.com/flutter/flutter/pull/128621) opened on on June 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128621) 45 additions and 36 deletions in 12 files</sub><br />
+
