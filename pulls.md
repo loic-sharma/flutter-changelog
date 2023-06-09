@@ -105,7 +105,7 @@
     <sub>[#128503](https://github.com/flutter/flutter/pull/128503) opened on on June 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128503) 132 additions and 4 deletions in 4 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Add Selected semantics to IconButton<br />
-    <sub>[#128547](https://github.com/flutter/flutter/pull/128547) opened on on June 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128547) 4 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#128547](https://github.com/flutter/flutter/pull/128547) opened on on June 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128547) 60 additions and 1 deletion in 2 files</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Next attempt to make inspector weakly referencing the inspected objects.<br />
     <sub>[#128551](https://github.com/flutter/flutter/pull/128551) opened on on June 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128551) 163 additions and 43 deletions in 2 files</sub><br />
