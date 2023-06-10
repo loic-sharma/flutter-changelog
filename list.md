@@ -1749,7 +1749,11 @@
 
 ### June 3, 2023 to June 9, 2023
 
-29 commits.
+30 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Add desktop support
+    <sub>[#3882](https://github.com/flutter/packages/pull/3882) merged on June 10, 2023 &mdash; **Extra large:** [41 comments](https://github.com/flutter/packages/pull/3882) over 1 month, 2892 additions and 29 deletions in 67 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; [go_router] Update link to example for query and path parameters
     <sub>[#3994](https://github.com/flutter/packages/pull/3994) merged on June 8, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/3994) over 3 weeks, 7 additions and 2 deletions in 3 files</sub>
