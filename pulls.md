@@ -95,3 +95,6 @@
 * **[Masatoshi Tsushima](https://github.com/utisam)** &mdash; Fix: Closing bottom sheet and removing FAB cause assertion failure<br />
     <sub>[#128566](https://github.com/flutter/flutter/pull/128566) opened on on June 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128566) 39 additions and 4 deletions in 2 files</sub><br />
 
+* **[Albert Moravec](https://github.com/albertmoravec)** &mdash; Fixed `dart pub cache clear` to `clean` (#128663)<br />
+    <sub>[#128665](https://github.com/flutter/flutter/pull/128665) opened on on June 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128665) 1 addition and 1 deletion in 1 file</sub><br />
+
