@@ -101,3 +101,6 @@
 * **[Piotr FLEURY](https://github.com/PiotrFLEURY)** &mdash; Add .env file support for  option `--dart-define-from-file`<br />
     <sub>[#128668](https://github.com/flutter/flutter/pull/128668) opened on on June 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128668) 114 additions and 10 deletions in 2 files</sub><br />
 
+* **[nt4f04uNd](https://github.com/nt4f04uNd)** &mdash; Fix RangeSlider notifies start and end twice when participates in gesture arena<br />
+    <sub>[#128674](https://github.com/flutter/flutter/pull/128674) opened on on June 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128674) 46 additions and 6 deletions in 3 files</sub><br />
+
