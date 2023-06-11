@@ -98,3 +98,6 @@
 * **[Albert Moravec](https://github.com/albertmoravec)** &mdash; Fixed `dart pub cache clear` to `clean` (#128663)<br />
     <sub>[#128665](https://github.com/flutter/flutter/pull/128665) opened on on June 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128665) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Piotr FLEURY](https://github.com/PiotrFLEURY)** &mdash; Add .env file support for  option `--dart-define-from-file`<br />
+    <sub>[#128668](https://github.com/flutter/flutter/pull/128668) opened on on June 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128668) 114 additions and 10 deletions in 2 files</sub><br />
+
