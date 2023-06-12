@@ -104,3 +104,6 @@
 * **[William Oprandi](https://github.com/woprandi)** &mdash; Fix syntax error in docstring<br />
     <sub>[#128692](https://github.com/flutter/flutter/pull/128692) opened on on June 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128692) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] WIP pass through enable impeller flag to macOS.<br />
+    <sub>[#128720](https://github.com/flutter/flutter/pull/128720) opened on on June 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128720) 15 additions and 2 deletions in 2 files</sub><br />
+
