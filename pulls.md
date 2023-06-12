@@ -47,7 +47,7 @@
 * **[Habrouk](https://github.com/ElHbrouk)** &mdash; Fixed typo in pub.dart<br />
     <sub>[#127490](https://github.com/flutter/flutter/pull/127490) opened on on May 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127490) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; [DRAFT] - Change `useMaterial3` default to true<br />
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Change `useMaterial3` default to true<br />
     <sub>[#127501](https://github.com/flutter/flutter/pull/127501) opened on on May 24, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/127501) 240 additions and 204 deletions in 30 files</sub><br />
 
 * **[Darshan Rander](https://github.com/SirusCodes)** &mdash; fix: wrong expansion tile shape assignment<br />
