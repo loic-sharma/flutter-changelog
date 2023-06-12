@@ -1270,7 +1270,12 @@
 
 ### June 10, 2023 to June 16, 2023
 
-4 commits.
+5 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [camera]: Bump com.google.guava:guava from 32.0.0-android to 32.0.1-android in /packages/camera/camera_android_camerax/android
+    <sub>[#4195](https://github.com/flutter/packages/pull/4195) merged on June 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4195) over 10 hours, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.google.guava:guava&package-manager=gradle&previous-version=32.0.0-android&new-version=32.0.1-android)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [local_auth]: Bump androidx.fragment:fragment from 1.5.7 to 1.6.0 in /packages/local_auth/local_auth_android/android
     <sub>[#4186](https://github.com/flutter/packages/pull/4186) merged on June 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4186) over 9 hours, 4 additions and 3 deletions in 3 files</sub>
