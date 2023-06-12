@@ -579,7 +579,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-6 commits.
+7 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added debug info to frame debuggers like AGI
     <sub>[#42717](https://github.com/flutter/engine/pull/42717) merged on June 12, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/42717) over 2 days, 5 additions and 4 deletions in 1 file</sub>
@@ -590,13 +590,17 @@
     <sub>[#42746](https://github.com/flutter/engine/pull/42746) merged on June 12, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/42746) over 20 hours, 440 additions and 440 deletions in 14 files</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Correct attachment description for offscreen MSAA resolve.
+    <sub>[#42753](https://github.com/flutter/engine/pull/42753) merged on June 12, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/42753) over 13 hours, 5 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
+
 * **[Tamir Duberstein](https://github.com/tamird)** &mdash; Remove dependency on memfs
     <sub>[#42773](https://github.com/flutter/engine/pull/42773) merged on June 12, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/42773) over 1 hour, 43 additions and 35 deletions in 8 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Remove unnecessary #include of SkPromiseImageTexture
     <sub>[#42770](https://github.com/flutter/engine/pull/42770) merged on June 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42770) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jason Simmons](https://github.com/jason-simmons)</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Dan Field](https://github.com/dnfield)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 3abbc4f99970 to 43ef50f389e9 (1 revision)
     <sub>[#42775](https://github.com/flutter/engine/pull/42775) merged on June 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42775) over 51 minutes, 1 addition and 1 deletion in 1 file</sub>
@@ -748,7 +752,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Delete WeakPtrFactory from GPUSurfaceVulkanImpeller
     <sub>[#42710](https://github.com/flutter/engine/pull/42710) merged on June 9, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42710) over 1 hour, 1 addition and 3 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix raster cache optional value check logic
     <sub>[#42592](https://github.com/flutter/engine/pull/42592) merged on June 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42592) over 1 hour, 4 additions and 1 deletion in 1 file</sub>
@@ -1252,9 +1256,23 @@
 
 ## flutter/packages
 
+### June 10, 2023 to June 16, 2023
+
+2 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [sign_in]: Bump com.google.guava:guava from 32.0.0-android to 32.0.1-android in /packages/google_sign_in/google_sign_in_android/android
+    <sub>[#4184](https://github.com/flutter/packages/pull/4184) merged on June 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4184) over 8 hours, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.google.guava:guava&package-manager=gradle&previous-version=32.0.0-android&new-version=32.0.1-android)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[Hashir Shoaib](https://github.com/hashirshoaeb)** &mdash; [go_router] Fixes a bug in `debugLogDiagnostics` to support StatefulShellRoute
+    <sub>[#4177](https://github.com/flutter/packages/pull/4177) merged on June 12, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4177) over 2 days, 41 additions and 3 deletions in 4 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
+
 ### June 3, 2023 to June 9, 2023
 
-30 commits.
+<details>
+<summary>30 commits...</summary>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Add desktop support
     <sub>[#3882](https://github.com/flutter/packages/pull/3882) merged on June 10, 2023 &mdash; **Extra large:** [41 comments](https://github.com/flutter/packages/pull/3882) over 1 month, 2892 additions and 29 deletions in 67 files</sub>
@@ -1303,7 +1321,7 @@
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Accept required parameters not in path
     <sub>[#4039](https://github.com/flutter/packages/pull/4039) merged on June 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4039) over 2 weeks, 115 additions and 49 deletions in 7 files</sub>
-    <sub>Reviewed by: [hangyu](https://github.com/hangyujin), [chunhtai](https://github.com/chunhtai)</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Exclude maps unit tests on Windows
     <sub>[#4152](https://github.com/flutter/packages/pull/4152) merged on June 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4152) over 2 hours, 2 additions and 0 deletions in 2 files</sub>
@@ -1363,7 +1381,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tools] Fix OOB test error
     <sub>[#4144](https://github.com/flutter/packages/pull/4144) merged on June 5, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/4144) over 1 hour, 11 additions and 11 deletions in 2 files</sub>
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [David Iglesias](https://github.com/ditman)</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[dsambuk](https://github.com/dsambuk)** &mdash; [path_provider] Allow win32 up to version 5.x
     <sub>[#4125](https://github.com/flutter/packages/pull/4125) merged on June 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4125) over 4 days, 4 additions and 3 deletions in 2 files</sub>
@@ -1380,6 +1398,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 9cd3d0d9ff05 to f92f44110e87 (4 revisions)
     <sub>[#4133](https://github.com/flutter/packages/pull/4133) merged on June 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4133) over 2 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### May 27, 2023 to June 2, 2023
 
@@ -1423,7 +1443,7 @@
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [image_picker] Move disk accesses to background thread
     <sub>[#4058](https://github.com/flutter/packages/pull/4058) merged on May 31, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4058) over 1 week, 68 additions and 54 deletions in 11 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub>
+    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [many] Bump most robolectric dependencies to version 4.10.3
     <sub>[#4128](https://github.com/flutter/packages/pull/4128) merged on June 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4128) over 20 hours, 8 additions and 8 deletions in 8 files</sub>
