@@ -104,3 +104,6 @@
 * **[nt4f04uNd](https://github.com/nt4f04uNd)** &mdash; Fix RangeSlider notifies start and end twice when participates in gesture arena<br />
     <sub>[#128674](https://github.com/flutter/flutter/pull/128674) opened on on June 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128674) 46 additions and 6 deletions in 3 files</sub><br />
 
+* **[William Oprandi](https://github.com/woprandi)** &mdash; Fix syntax error in docstring<br />
+    <sub>[#128692](https://github.com/flutter/flutter/pull/128692) opened on on June 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128692) 1 addition and 1 deletion in 1 file</sub><br />
+
