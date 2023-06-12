@@ -104,3 +104,6 @@
 * **[William Oprandi](https://github.com/woprandi)** &mdash; Fix syntax error in docstring<br />
     <sub>[#128692](https://github.com/flutter/flutter/pull/128692) opened on on June 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128692) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Update misc tests for Material3<br />
+    <sub>[#128712](https://github.com/flutter/flutter/pull/128712) opened on on June 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128712) 65 additions and 27 deletions in 2 files</sub><br />
+
