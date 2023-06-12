@@ -4,7 +4,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-4 commits.
+5 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ListTile` text defaults to use `ColorScheme`
     <sub>[#128581](https://github.com/flutter/flutter/pull/128581) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128581) over 3 days, 27 additions and 19 deletions in 4 files</sub>
@@ -14,6 +14,10 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Update button tests for Material 3 by default
     <sub>[#128628](https://github.com/flutter/flutter/pull/128628) merged on June 12, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/128628) over 2 days, 698 additions and 761 deletions in 9 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] pass through enable impeller flag to macOS.
+    <sub>[#128720](https://github.com/flutter/flutter/pull/128720) merged on June 12, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/128720) over 1 hour, 81 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[nt4f04uNd](https://github.com/nt4f04uNd)** &mdash; Fix RangeSlider notifies start and end twice when participates in gesture arena
     <sub>[#128674](https://github.com/flutter/flutter/pull/128674) merged on June 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128674) over 16 hours, 46 additions and 6 deletions in 3 files</sub>
