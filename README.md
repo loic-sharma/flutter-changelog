@@ -553,9 +553,18 @@
 
 ## flutter/engine
 
+### June 10, 2023 to June 16, 2023
+
+1 commits.
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 10380f4ba473 to 3abbc4f99970 (1 revision)<br />
+    <sub>[#42761](https://github.com/flutter/engine/pull/42761) merged on June 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42761) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 ### June 3, 2023 to June 9, 2023
 
-92 commits.
+<details>
+<summary>92 commits...</summary>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove /#/ from home page URL<br />
     <sub>[#42598](https://github.com/flutter/engine/pull/42598) merged on June 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42598) over 1 hour, 28 additions and 2 deletions in 2 files</sub><br />
@@ -931,6 +940,8 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Revert "[Android] Return keyboard pressed state"<br />
     <sub>[#42616](https://github.com/flutter/engine/pull/42616) merged on June 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/42616) over 4 minutes, 1 addition and 257 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub><br />
+
+</details>
 
 ### May 27, 2023 to June 2, 2023
 
