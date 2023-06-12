@@ -101,9 +101,6 @@
 * **[Piotr FLEURY](https://github.com/PiotrFLEURY)** &mdash; Add .env file support for  option `--dart-define-from-file`<br />
     <sub>[#128668](https://github.com/flutter/flutter/pull/128668) opened on on June 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128668) 114 additions and 10 deletions in 2 files</sub><br />
 
-* **[William Oprandi](https://github.com/woprandi)** &mdash; Fix syntax error in docstring<br />
-    <sub>[#128692](https://github.com/flutter/flutter/pull/128692) opened on on June 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128692) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Migrate more integration tests to process result matcher<br />
     <sub>[#128737](https://github.com/flutter/flutter/pull/128737) opened on on June 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128737) 34 additions and 51 deletions in 11 files</sub><br />
 
