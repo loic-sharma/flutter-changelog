@@ -4,7 +4,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-5 commits.
+6 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ListTile` text defaults to use `ColorScheme`<br />
     <sub>[#128581](https://github.com/flutter/flutter/pull/128581) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128581) over 3 days, 27 additions and 19 deletions in 4 files</sub><br />
@@ -14,6 +14,10 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Update button tests for Material 3 by default<br />
     <sub>[#128628](https://github.com/flutter/flutter/pull/128628) merged on June 12, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/128628) over 2 days, 698 additions and 761 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix paint offset in reverse for 2D<br />
+    <sub>[#128724](https://github.com/flutter/flutter/pull/128724) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128724) over 3 hours, 10 additions and 9 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] pass through enable impeller flag to macOS.<br />
     <sub>[#128720](https://github.com/flutter/flutter/pull/128720) merged on June 12, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/128720) over 1 hour, 81 additions and 2 deletions in 3 files</sub><br />
