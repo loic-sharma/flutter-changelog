@@ -579,7 +579,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-8 commits.
+10 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added debug info to frame debuggers like AGI
     <sub>[#42717](https://github.com/flutter/engine/pull/42717) merged on June 12, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/42717) over 2 days, 5 additions and 4 deletions in 1 file</sub>
@@ -589,6 +589,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] opt all vertex shader position/uvs into highp
     <sub>[#42746](https://github.com/flutter/engine/pull/42746) merged on June 12, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/42746) over 20 hours, 440 additions and 440 deletions in 14 files</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [floating_cursor_selection] a somewhat "design doc" for floating cursor feature
+    <sub>[#42173](https://github.com/flutter/engine/pull/42173) merged on June 12, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/42173) over 3 weeks, 28 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Correct attachment description for offscreen MSAA resolve.
     <sub>[#42753](https://github.com/flutter/engine/pull/42753) merged on June 12, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/42753) over 13 hours, 5 additions and 4 deletions in 2 files</sub>
@@ -604,7 +608,11 @@
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Remove unnecessary #include of SkPromiseImageTexture
     <sub>[#42770](https://github.com/flutter/engine/pull/42770) merged on June 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42770) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Dan Field](https://github.com/dnfield)</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 43ef50f389e9 to 21f16cb16333 (1 revision)
+    <sub>[#42779](https://github.com/flutter/engine/pull/42779) merged on June 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42779) over 1 hour, 13 additions and 12 deletions in 3 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 3abbc4f99970 to 43ef50f389e9 (1 revision)
     <sub>[#42775](https://github.com/flutter/engine/pull/42775) merged on June 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42775) over 51 minutes, 1 addition and 1 deletion in 1 file</sub>
