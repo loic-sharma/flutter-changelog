@@ -615,7 +615,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-32 commits.
+33 commits.
 
 * **[luckysmg](https://github.com/luckysmg)** &mdash; [iOS][Keyboard] Wait vsync on UI thread and update viewport inset to avoid jitter.
     <sub>[#42312](https://github.com/flutter/engine/pull/42312) merged on June 13, 2023 &mdash; **Small:** [37 comments](https://github.com/flutter/engine/pull/42312) over 2 weeks, 149 additions and 67 deletions in 6 files</sub>
@@ -662,6 +662,10 @@
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Fix crash with CJK keyboard with emoji at end of text field
     <sub>[#42540](https://github.com/flutter/engine/pull/42540) merged on June 12, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/42540) over 1 week, 29 additions and 22 deletions in 2 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Make validation logs ERROR level
+    <sub>[#42825](https://github.com/flutter/engine/pull/42825) merged on June 13, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42825) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Added cache for command buffers in vulkan
     <sub>[#42793](https://github.com/flutter/engine/pull/42793) merged on June 13, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/engine/pull/42793) over 22 hours, 299 additions and 29 deletions in 10 files</sub>
