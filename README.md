@@ -640,7 +640,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added CI step for building with validation layers<br />
-    <sub>[#42724](https://github.com/flutter/engine/pull/42724) merged on June 13, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/42724) over 3 days, 21 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#42724](https://github.com/flutter/engine/pull/42724) merged on June 13, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/42724) over 3 days, 21 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[gmackall](https://github.com/gmackall)** &mdash; Capture additional final inset states in ImeSyncDeferringInsetsCallback<br />
