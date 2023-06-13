@@ -105,7 +105,7 @@
     <sub>[#128737](https://github.com/flutter/flutter/pull/128737) opened on on June 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128737) 34 additions and 51 deletions in 11 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] refactor license collector<br />
-    <sub>[#128748](https://github.com/flutter/flutter/pull/128748) opened on on June 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128748) 4 additions and 5 deletions in 1 file</sub><br />
+    <sub>[#128748](https://github.com/flutter/flutter/pull/128748) opened on on June 12, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128748) 4 additions and 5 deletions in 1 file</sub><br />
 
 * **[Paurakh Sharma Humagain](https://github.com/paurakhsharma)** &mdash; fix: Inconsistency of SelectionArea when scrolling<br />
     <sub>[#128765](https://github.com/flutter/flutter/pull/128765) opened on on June 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128765) 1 addition and 2 deletions in 1 file</sub><br />
