@@ -1369,7 +1369,7 @@
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.google.guava:guava&package-manager=gradle&previous-version=32.0.0-android&new-version=32.0.1-android)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Khalid Muhammad](https://github.com/Khalidm98)** &mdash; [go_router] #127016 preserved route name case when caching `_nameToPath`
-    <sub>[#4196](https://github.com/flutter/packages/pull/4196) merged on June 13, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/4196) over 1 day, 84 additions and 12 deletions in 6 files</sub>
+    <sub>[#4196](https://github.com/flutter/packages/pull/4196) merged on June 13, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/4196) over 1 day, 84 additions and 12 deletions in 6 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Finish migrating Pigeon tests to LUCI
