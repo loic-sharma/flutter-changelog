@@ -603,8 +603,8 @@
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] allowing enabling Impeller on macOS.<br />
-    <sub>[#42639](https://github.com/flutter/engine/pull/42639) merged on June 12, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/42639) over 4 days, 29 additions and 0 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde), [Dan Field](https://github.com/dnfield)</sub><br />
+    <sub>[#42639](https://github.com/flutter/engine/pull/42639) merged on June 12, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/42639) over 4 days, 29 additions and 0 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma), [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde), [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Correct attachment description for offscreen MSAA resolve.<br />
     <sub>[#42753](https://github.com/flutter/engine/pull/42753) merged on June 12, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/42753) over 13 hours, 5 additions and 4 deletions in 2 files</sub><br />
