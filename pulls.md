@@ -80,9 +80,6 @@
 * **[Dery Rahman Ahaddienata](https://github.com/deryrahman)** &mdash; Fix dart pub cache clean command on pub.dart<br />
     <sub>[#128171](https://github.com/flutter/flutter/pull/128171) opened on on June 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128171) 3 additions and 1 deletion in 2 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Inline AbstractNode into Layer<br />
-    <sub>[#128470](https://github.com/flutter/flutter/pull/128470) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128470) 130 additions and 29 deletions in 2 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Suppress git output in flutter channel<br />
     <sub>[#128475](https://github.com/flutter/flutter/pull/128475) opened on on June 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128475) 55 additions and 21 deletions in 3 files</sub><br />
 
@@ -112,4 +109,7 @@
 
 * **[fabiancrx](https://github.com/fabiancrx)** &mdash; [flutter_tools] modify Skeleton template to use ListenableBuilder instead of AnimatedBuilder<br />
     <sub>[#128810](https://github.com/flutter/flutter/pull/128810) opened on on June 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128810) 3 additions and 3 deletions in 1 file</sub><br />
+
+* **[Swaroop S](https://github.com/SwaroopSambhayya)** &mdash; Adding ScrollController support for Stepper widget<br />
+    <sub>[#128814](https://github.com/flutter/flutter/pull/128814) opened on on June 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128814) 35 additions and 0 deletions in 2 files</sub><br />
 
