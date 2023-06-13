@@ -615,7 +615,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-30 commits.
+32 commits.
 
 * **[luckysmg](https://github.com/luckysmg)** &mdash; [iOS][Keyboard] Wait vsync on UI thread and update viewport inset to avoid jitter.<br />
     <sub>[#42312](https://github.com/flutter/engine/pull/42312) merged on June 13, 2023 &mdash; **Small:** [37 comments](https://github.com/flutter/engine/pull/42312) over 2 weeks, 149 additions and 67 deletions in 6 files</sub><br />
@@ -634,6 +634,10 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [floating_cursor_selection] a somewhat "design doc" for floating cursor feature<br />
     <sub>[#42173](https://github.com/flutter/engine/pull/42173) merged on June 12, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/42173) over 3 weeks, 28 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[Chris Yang](https://github.com/cyanglaz)** &mdash; Remove some trivial deprecated symbol usages in iOS Embedder<br />
+    <sub>[#42711](https://github.com/flutter/engine/pull/42711) merged on June 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/42711) over 4 days, 4 additions and 5 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added CI step for building with validation layers<br />
     <sub>[#42724](https://github.com/flutter/engine/pull/42724) merged on June 13, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/42724) over 3 days, 21 additions and 0 deletions in 1 file</sub><br />
@@ -698,6 +702,10 @@
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Reland "[ios_platform_view] only recycle maskView when the view is applying mutators #42115"<br />
     <sub>[#42823](https://github.com/flutter/engine/pull/42823) merged on June 13, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/42823) over 54 minutes, 519 additions and 70 deletions in 13 files</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll ICU from 1eea59cabae0 to a2961dc659b4 (0 revision)<br />
+    <sub>[#42817](https://github.com/flutter/engine/pull/42817) merged on June 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/42817) over 3 hours, 7 additions and 38 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 057b8b61b2f2 to 7e075469ff02 (1 revision)<br />
     <sub>[#42809](https://github.com/flutter/engine/pull/42809) merged on June 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42809) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
