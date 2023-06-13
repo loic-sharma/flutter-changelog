@@ -4,12 +4,16 @@
 
 ### June 10, 2023 to June 16, 2023
 
-6 commits.
+9 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ListTile` text defaults to use `ColorScheme`<br />
     <sub>[#128581](https://github.com/flutter/flutter/pull/128581) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128581) over 3 days, 27 additions and 19 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub><br />
     <sub><details><summary>2 images...</summary>![Screenshot 2023-06-09 at 17 47 04](https://github.com/flutter/flutter/assets/48603081/c0130371-3c7c-428c-bb57-504822cf64b5)![Screenshot 2023-06-09 at 17 46 17](https://github.com/flutter/flutter/assets/48603081/3b4d6f8c-7fdd-4546-a6f0-00dd34cb5a96)</details></sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update tests in material library for Material 3 by default<br />
+    <sub>[#128300](https://github.com/flutter/flutter/pull/128300) merged on June 13, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/128300) over 1 week, 952 additions and 513 deletions in 19 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Update button tests for Material 3 by default<br />
     <sub>[#128628](https://github.com/flutter/flutter/pull/128628) merged on June 12, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/128628) over 2 days, 698 additions and 761 deletions in 9 files</sub><br />
@@ -30,6 +34,14 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Address leak tracker breaking changes.<br />
     <sub>[#128623](https://github.com/flutter/flutter/pull/128623) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128623) over 2 days, 29 additions and 26 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Daniel Chevalier](https://github.com/CoderDake)</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update rest of the unit tests in material library for Material 3<br />
+    <sub>[#128747](https://github.com/flutter/flutter/pull/128747) merged on June 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128747) over 17 hours, 47 additions and 30 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Update misc tests for Material3<br />
+    <sub>[#128712](https://github.com/flutter/flutter/pull/128712) merged on June 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128712) over 22 hours, 65 additions and 27 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 ### June 3, 2023 to June 9, 2023
 
@@ -322,7 +334,7 @@
 
 * **[ZhulanovAA](https://github.com/ZhulanovAA)** &mdash; Remove unnecessary parentheses<br />
     <sub>[#128620](https://github.com/flutter/flutter/pull/128620) merged on June 10, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128620) over 20 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Leigha Jarett](https://github.com/leighajarett)** &mdash; Adding example for migrating to navigation drawer<br />
     <sub>[#128295](https://github.com/flutter/flutter/pull/128295) merged on June 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128295) over 20 hours, 66 additions and 0 deletions in 2 files</sub><br />
