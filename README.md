@@ -587,7 +587,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-15 commits.
+16 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added debug info to frame debuggers like AGI<br />
     <sub>[#42717](https://github.com/flutter/engine/pull/42717) merged on June 12, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/42717) over 2 days, 5 additions and 4 deletions in 1 file</sub><br />
@@ -613,6 +613,10 @@
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Fix crash with CJK keyboard with emoji at end of text field<br />
     <sub>[#42540](https://github.com/flutter/engine/pull/42540) merged on June 12, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/42540) over 1 week, 29 additions and 22 deletions in 2 files</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Ensure vulkan offscreen pixelformat is the same as the onscreen format<br />
+    <sub>[#42788](https://github.com/flutter/engine/pull/42788) merged on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42788) over 4 hours, 15 additions and 9 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Fix text jitter on Vulkan.<br />
     <sub>[#42792](https://github.com/flutter/engine/pull/42792) merged on June 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42792) over 1 hour, 58 additions and 57 deletions in 4 files</sub><br />
