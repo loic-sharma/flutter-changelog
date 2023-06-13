@@ -611,7 +611,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-28 commits.
+29 commits.
 
 * **[luckysmg](https://github.com/luckysmg)** &mdash; [iOS][Keyboard] Wait vsync on UI thread and update viewport inset to avoid jitter.
     <sub>[#42312](https://github.com/flutter/engine/pull/42312) merged on June 13, 2023 &mdash; **Small:** [37 comments](https://github.com/flutter/engine/pull/42312) over 2 weeks, 149 additions and 67 deletions in 6 files</sub>
@@ -632,7 +632,7 @@
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added CI step for building with validation layers
-    <sub>[#42724](https://github.com/flutter/engine/pull/42724) merged on June 13, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/42724) over 3 days, 21 additions and 0 deletions in 1 file</sub>
+    <sub>[#42724](https://github.com/flutter/engine/pull/42724) merged on June 13, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/42724) over 3 days, 21 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub>
 
 * **[gmackall](https://github.com/gmackall)** &mdash; Capture additional final inset states in ImeSyncDeferringInsetsCallback
@@ -654,6 +654,10 @@
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Fix crash with CJK keyboard with emoji at end of text field
     <sub>[#42540](https://github.com/flutter/engine/pull/42540) merged on June 12, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/42540) over 1 week, 29 additions and 22 deletions in 2 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Added cache for command buffers in vulkan
+    <sub>[#42793](https://github.com/flutter/engine/pull/42793) merged on June 13, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/engine/pull/42793) over 22 hours, 299 additions and 29 deletions in 10 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Null check for the device holder in the Vulkan context destructor
     <sub>[#42821](https://github.com/flutter/engine/pull/42821) merged on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42821) over 59 minutes, 1 addition and 1 deletion in 1 file</sub>
@@ -1499,7 +1503,7 @@
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Only run unit tests in Chrome for inline web
-    <sub>[#4153](https://github.com/flutter/packages/pull/4153) merged on June 8, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4153) over 1 day, 27 additions and 12 deletions in 4 files</sub>
+    <sub>[#4153](https://github.com/flutter/packages/pull/4153) merged on June 8, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4153) over 1 day, 27 additions and 12 deletions in 4 files</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Add `http` 1.0 compatibility
