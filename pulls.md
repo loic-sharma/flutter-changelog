@@ -80,9 +80,6 @@
 * **[Dery Rahman Ahaddienata](https://github.com/deryrahman)** &mdash; Fix dart pub cache clean command on pub.dart<br />
     <sub>[#128171](https://github.com/flutter/flutter/pull/128171) opened on on June 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128171) 3 additions and 1 deletion in 2 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Inline AbstractNode into SemanticsNode<br />
-    <sub>[#128467](https://github.com/flutter/flutter/pull/128467) opened on on June 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128467) 209 additions and 71 deletions in 4 files</sub><br />
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Inline AbstractNode into Layer<br />
     <sub>[#128470](https://github.com/flutter/flutter/pull/128470) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128470) 130 additions and 29 deletions in 2 files</sub><br />
 
