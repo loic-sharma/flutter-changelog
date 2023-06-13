@@ -587,7 +587,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-19 commits.
+20 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added debug info to frame debuggers like AGI
     <sub>[#42717](https://github.com/flutter/engine/pull/42717) merged on June 12, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/42717) over 2 days, 5 additions and 4 deletions in 1 file</sub>
@@ -637,6 +637,10 @@
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Remove unnecessary #include of SkPromiseImageTexture
     <sub>[#42770](https://github.com/flutter/engine/pull/42770) merged on June 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42770) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 1e06b31e3863 to 057b8b61b2f2 (1 revision)
+    <sub>[#42806](https://github.com/flutter/engine/pull/42806) merged on June 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42806) over 58 minutes, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 1572f609c18e to 1e06b31e3863 (1 revision)
     <sub>[#42804](https://github.com/flutter/engine/pull/42804) merged on June 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42804) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
