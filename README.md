@@ -29,7 +29,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Address leak tracker breaking changes.<br />
     <sub>[#128623](https://github.com/flutter/flutter/pull/128623) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128623) over 2 days, 29 additions and 26 deletions in 10 files</sub><br />
-    <sub>Reviewed by: [Daniel Chevalier](https://github.com/CoderDake), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Daniel Chevalier](https://github.com/CoderDake)</sub><br />
 
 ### June 3, 2023 to June 9, 2023
 
@@ -322,7 +322,7 @@
 
 * **[ZhulanovAA](https://github.com/ZhulanovAA)** &mdash; Remove unnecessary parentheses<br />
     <sub>[#128620](https://github.com/flutter/flutter/pull/128620) merged on June 10, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128620) over 20 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [chunhtai](https://github.com/chunhtai)</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Leigha Jarett](https://github.com/leighajarett)** &mdash; Adding example for migrating to navigation drawer<br />
     <sub>[#128295](https://github.com/flutter/flutter/pull/128295) merged on June 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128295) over 20 hours, 66 additions and 0 deletions in 2 files</sub><br />
@@ -1322,7 +1322,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-5 commits.
+6 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [camera]: Bump com.google.guava:guava from 32.0.0-android to 32.0.1-android in /packages/camera/camera_android_camerax/android<br />
     <sub>[#4195](https://github.com/flutter/packages/pull/4195) merged on June 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4195) over 10 hours, 6 additions and 2 deletions in 3 files</sub><br />
@@ -1338,6 +1338,10 @@
     <sub>[#4184](https://github.com/flutter/packages/pull/4184) merged on June 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4184) over 8 hours, 6 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.google.guava:guava&package-manager=gradle&previous-version=32.0.0-android&new-version=32.0.1-android)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[Khalid Muhammad](https://github.com/Khalidm98)** &mdash; [go_router] #127016 preserved route name case when caching `_nameToPath`<br />
+    <sub>[#4196](https://github.com/flutter/packages/pull/4196) merged on June 13, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/4196) over 1 day, 84 additions and 12 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Finish migrating Pigeon tests to LUCI<br />
     <sub>[#3192](https://github.com/flutter/packages/pull/3192) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3192) over 4 months, 3 additions and 41 deletions in 2 files</sub><br />
