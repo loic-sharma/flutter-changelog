@@ -587,7 +587,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-17 commits.
+18 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added debug info to frame debuggers like AGI
     <sub>[#42717](https://github.com/flutter/engine/pull/42717) merged on June 12, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/42717) over 2 days, 5 additions and 4 deletions in 1 file</sub>
@@ -625,6 +625,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Predictive back breakage fix
     <sub>[#42789](https://github.com/flutter/engine/pull/42789) merged on June 12, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/42789) over 2 hours, 26 additions and 18 deletions in 5 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Create v2 configuration for emulator tests.
+    <sub>[#42652](https://github.com/flutter/engine/pull/42652) merged on June 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42652) over 4 days, 56 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador)</sub>
 
 * **[Tamir Duberstein](https://github.com/tamird)** &mdash; Remove dependency on memfs
     <sub>[#42773](https://github.com/flutter/engine/pull/42773) merged on June 12, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/42773) over 1 hour, 43 additions and 35 deletions in 8 files</sub>
