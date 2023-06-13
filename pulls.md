@@ -81,7 +81,7 @@
     <sub>[#128171](https://github.com/flutter/flutter/pull/128171) opened on on June 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128171) 3 additions and 1 deletion in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Suppress git output in flutter channel<br />
-    <sub>[#128475](https://github.com/flutter/flutter/pull/128475) opened on on June 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128475) 55 additions and 21 deletions in 3 files</sub><br />
+    <sub>[#128475](https://github.com/flutter/flutter/pull/128475) opened on on June 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128475) 55 additions and 21 deletions in 3 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Add support for vmServiceFileInfo when attaching<br />
     <sub>[#128503](https://github.com/flutter/flutter/pull/128503) opened on on June 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128503) 132 additions and 4 deletions in 4 files</sub><br />
