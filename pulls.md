@@ -81,7 +81,7 @@
     <sub>[#128171](https://github.com/flutter/flutter/pull/128171) opened on on June 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128171) 3 additions and 1 deletion in 2 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Inline AbstractNode into SemanticsNode<br />
-    <sub>[#128467](https://github.com/flutter/flutter/pull/128467) opened on on June 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128467) 68 additions and 17 deletions in 1 file</sub><br />
+    <sub>[#128467](https://github.com/flutter/flutter/pull/128467) opened on on June 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128467) 209 additions and 71 deletions in 4 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Inline AbstractNode into Layer<br />
     <sub>[#128470](https://github.com/flutter/flutter/pull/128470) opened on on June 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128470) 130 additions and 29 deletions in 2 files</sub><br />
@@ -112,4 +112,7 @@
 
 * **[Snonky](https://github.com/Snonky)** &mdash; MergeableMaterial: Fix adding a slice and separating it<br />
     <sub>[#128804](https://github.com/flutter/flutter/pull/128804) opened on on June 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128804) 77 additions and 1 deletion in 2 files</sub><br />
+
+* **[fabiancrx](https://github.com/fabiancrx)** &mdash; [flutter_tools] modify Skeleton template to use ListenableBuilder instead of AnimatedBuilder<br />
+    <sub>[#128810](https://github.com/flutter/flutter/pull/128810) opened on on June 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128810) 3 additions and 3 deletions in 1 file</sub><br />
 
