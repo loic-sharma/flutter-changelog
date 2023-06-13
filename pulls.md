@@ -110,6 +110,3 @@
 * **[Swaroop S](https://github.com/SwaroopSambhayya)** &mdash; Adding ScrollController support for Stepper widget<br />
     <sub>[#128814](https://github.com/flutter/flutter/pull/128814) opened on on June 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128814) 35 additions and 0 deletions in 2 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Respect allowlisted count of leaks<br />
-    <sub>[#128823](https://github.com/flutter/flutter/pull/128823) opened on on June 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128823) 64 additions and 9 deletions in 2 files</sub><br />
-
