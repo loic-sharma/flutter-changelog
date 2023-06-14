@@ -45,7 +45,7 @@
     <sub>[#127490](https://github.com/flutter/flutter/pull/127490) opened on on May 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127490) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Change `useMaterial3` default to true<br />
-    <sub>[#127501](https://github.com/flutter/flutter/pull/127501) opened on on May 24, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/127501) 242 additions and 204 deletions in 32 files</sub><br />
+    <sub>[#127501](https://github.com/flutter/flutter/pull/127501) opened on on May 24, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/127501) 242 additions and 204 deletions in 32 files</sub><br />
 
 * **[Darshan Rander](https://github.com/SirusCodes)** &mdash; fix: wrong expansion tile shape assignment<br />
     <sub>[#127749](https://github.com/flutter/flutter/pull/127749) opened on on May 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127749) 1 addition and 1 deletion in 1 file</sub><br />
