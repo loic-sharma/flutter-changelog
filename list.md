@@ -4,7 +4,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-18 commits.
+19 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ListTile` text defaults to use `ColorScheme`
     <sub>[#128581](https://github.com/flutter/flutter/pull/128581) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128581) over 3 days, 27 additions and 19 deletions in 4 files</sub>
@@ -66,6 +66,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Address leak tracker breaking changes.
     <sub>[#128623](https://github.com/flutter/flutter/pull/128623) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128623) over 2 days, 29 additions and 26 deletions in 10 files</sub>
     <sub>Reviewed by: [Daniel Chevalier](https://github.com/CoderDake), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Remove temporary default case for PointerSignalKind
+    <sub>[#128900](https://github.com/flutter/flutter/pull/128900) merged on June 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128900) over 1 hour, 0 additions and 5 deletions in 1 file</sub>
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[William Oprandi](https://github.com/woprandi)** &mdash; Fix syntax error in docstring
     <sub>[#128692](https://github.com/flutter/flutter/pull/128692) merged on June 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128692) over 1 day, 1 addition and 1 deletion in 1 file</sub>
