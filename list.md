@@ -1523,7 +1523,7 @@
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Only run unit tests in Chrome for inline web
-    <sub>[#4153](https://github.com/flutter/packages/pull/4153) merged on June 8, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4153) over 1 day, 27 additions and 12 deletions in 4 files</sub>
+    <sub>[#4153](https://github.com/flutter/packages/pull/4153) merged on June 8, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/4153) over 1 day, 27 additions and 12 deletions in 4 files</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Add `http` 1.0 compatibility
