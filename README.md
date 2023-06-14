@@ -4,7 +4,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-22 commits.
+23 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ListTile` text defaults to use `ColorScheme`<br />
     <sub>[#128581](https://github.com/flutter/flutter/pull/128581) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128581) over 3 days, 27 additions and 19 deletions in 4 files</sub><br />
@@ -78,6 +78,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Address leak tracker breaking changes.<br />
     <sub>[#128623](https://github.com/flutter/flutter/pull/128623) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128623) over 2 days, 29 additions and 26 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Daniel Chevalier](https://github.com/CoderDake), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update golden tests for material<br />
+    <sub>[#128839](https://github.com/flutter/flutter/pull/128839) merged on June 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128839) over 22 hours, 64 additions and 37 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Remove temporary default case for PointerSignalKind<br />
     <sub>[#128900](https://github.com/flutter/flutter/pull/128900) merged on June 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128900) over 1 hour, 0 additions and 5 deletions in 1 file</sub><br />
