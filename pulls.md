@@ -68,9 +68,6 @@
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Deletes files that should be ignored<br />
     <sub>[#127984](https://github.com/flutter/flutter/pull/127984) opened on on May 31, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/127984) 0 additions and 670 deletions in 38 files</sub><br />
 
-* **[Arne Molland](https://github.com/arnemolland)** &mdash; Fix inconsistently suffixed macOS flavored bundle directory<br />
-    <sub>[#127997](https://github.com/flutter/flutter/pull/127997) opened on on May 31, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/127997) 2 additions and 2 deletions in 2 files</sub><br />
-
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Pass through type, class and function information for expression evaluation.<br />
     <sub>[#128084](https://github.com/flutter/flutter/pull/128084) opened on on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128084) 53 additions and 9 deletions in 5 files</sub><br />
 

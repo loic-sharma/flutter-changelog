@@ -4,12 +4,16 @@
 
 ### June 10, 2023 to June 16, 2023
 
-19 commits.
+21 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ListTile` text defaults to use `ColorScheme`<br />
     <sub>[#128581](https://github.com/flutter/flutter/pull/128581) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128581) over 3 days, 27 additions and 19 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub><br />
     <sub><details><summary>2 images...</summary>![Screenshot 2023-06-09 at 17 47 04](https://github.com/flutter/flutter/assets/48603081/c0130371-3c7c-428c-bb57-504822cf64b5)![Screenshot 2023-06-09 at 17 46 17](https://github.com/flutter/flutter/assets/48603081/3b4d6f8c-7fdd-4546-a6f0-00dd34cb5a96)</details></sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; ContextAction.isEnabled needs a context<br />
+    <sub>[#127721](https://github.com/flutter/flutter/pull/127721) merged on June 14, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/127721) over 2 weeks, 148 additions and 52 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[cruiser-baxter](https://github.com/cruiser-baxter)** &mdash; Fixed slider value indicator not disappearing after a bit on desktop platform when slider is clicked not dragged<br />
     <sub>[#128137](https://github.com/flutter/flutter/pull/128137) merged on June 14, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/128137) over 1 week, 51 additions and 2 deletions in 2 files</sub><br />
@@ -41,6 +45,10 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix paint offset in reverse for 2D<br />
     <sub>[#128724](https://github.com/flutter/flutter/pull/128724) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128724) over 3 hours, 10 additions and 9 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Improve the error message for non-normalized constraints<br />
+    <sub>[#127906](https://github.com/flutter/flutter/pull/127906) merged on June 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127906) over 2 weeks, 45 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Respect allowlisted count of leaks.<br />
