@@ -4,12 +4,16 @@
 
 ### June 10, 2023 to June 16, 2023
 
-23 commits.
+24 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ListTile` text defaults to use `ColorScheme`
     <sub>[#128581](https://github.com/flutter/flutter/pull/128581) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128581) over 3 days, 27 additions and 19 deletions in 4 files</sub>
     <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot 2023-06-09 at 17 47 04](https://github.com/flutter/flutter/assets/48603081/c0130371-3c7c-428c-bb57-504822cf64b5)![Screenshot 2023-06-09 at 17 46 17](https://github.com/flutter/flutter/assets/48603081/3b4d6f8c-7fdd-4546-a6f0-00dd34cb5a96)</details></sub>
+
+* **[Arne Molland](https://github.com/arnemolland)** &mdash; Fix inconsistently suffixed macOS flavored bundle directory
+    <sub>[#127997](https://github.com/flutter/flutter/pull/127997) merged on June 14, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/127997) over 2 weeks, 2 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; ContextAction.isEnabled needs a context
     <sub>[#127721](https://github.com/flutter/flutter/pull/127721) merged on June 14, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/127721) over 2 weeks, 148 additions and 52 deletions in 5 files</sub>
