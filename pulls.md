@@ -104,3 +104,6 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update golden tests for material<br />
     <sub>[#128839](https://github.com/flutter/flutter/pull/128839) opened on on June 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128839) 56 additions and 31 deletions in 11 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; add .pub-cache back to .gitignore<br />
+    <sub>[#128894](https://github.com/flutter/flutter/pull/128894) opened on on June 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128894) 1 addition and 0 deletions in 1 file</sub><br />
+
