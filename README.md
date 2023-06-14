@@ -294,7 +294,7 @@
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [labeler] Fix adding labels when name is directory<br />
     <sub>[#128243](https://github.com/flutter/flutter/pull/128243) merged on June 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128243) over 6 hours, 13 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [keyonghan](https://github.com/keyonghan)</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Update cherry-pick issue template to more uniform labels.<br />
     <sub>[#128333](https://github.com/flutter/flutter/pull/128333) merged on June 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128333) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
@@ -362,7 +362,7 @@
 
 * **[ZhulanovAA](https://github.com/ZhulanovAA)** &mdash; Remove unnecessary parentheses<br />
     <sub>[#128620](https://github.com/flutter/flutter/pull/128620) merged on June 10, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128620) over 20 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [chunhtai](https://github.com/chunhtai)</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Leigha Jarett](https://github.com/leighajarett)** &mdash; Adding example for migrating to navigation drawer<br />
     <sub>[#128295](https://github.com/flutter/flutter/pull/128295) merged on June 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128295) over 20 hours, 66 additions and 0 deletions in 2 files</sub><br />
@@ -1520,7 +1520,7 @@
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Accept required parameters not in path<br />
     <sub>[#4039](https://github.com/flutter/packages/pull/4039) merged on June 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4039) over 2 weeks, 115 additions and 49 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [hangyu](https://github.com/hangyujin), [chunhtai](https://github.com/chunhtai)</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Exclude maps unit tests on Windows<br />
     <sub>[#4152](https://github.com/flutter/packages/pull/4152) merged on June 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4152) over 2 hours, 2 additions and 0 deletions in 2 files</sub><br />
@@ -1580,7 +1580,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tools] Fix OOB test error<br />
     <sub>[#4144](https://github.com/flutter/packages/pull/4144) merged on June 5, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/4144) over 1 hour, 11 additions and 11 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [David Iglesias](https://github.com/ditman)</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[dsambuk](https://github.com/dsambuk)** &mdash; [path_provider] Allow win32 up to version 5.x<br />
     <sub>[#4125](https://github.com/flutter/packages/pull/4125) merged on June 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4125) over 4 days, 4 additions and 3 deletions in 2 files</sub><br />
@@ -1642,7 +1642,7 @@
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [image_picker] Move disk accesses to background thread<br />
     <sub>[#4058](https://github.com/flutter/packages/pull/4058) merged on May 31, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4058) over 1 week, 68 additions and 54 deletions in 11 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub><br />
+    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [many] Bump most robolectric dependencies to version 4.10.3<br />
     <sub>[#4128](https://github.com/flutter/packages/pull/4128) merged on June 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4128) over 20 hours, 8 additions and 8 deletions in 8 files</sub><br />
