@@ -107,3 +107,6 @@
 * **[Swaroop S](https://github.com/SwaroopSambhayya)** &mdash; Adding ScrollController support for Stepper widget<br />
     <sub>[#128814](https://github.com/flutter/flutter/pull/128814) opened on on June 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128814) 35 additions and 0 deletions in 2 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Make logs verbose for gallery tests (#124271)"<br />
+    <sub>[#128883](https://github.com/flutter/flutter/pull/128883) opened on on June 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128883) 0 additions and 2 deletions in 1 file</sub><br />
+
