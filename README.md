@@ -4,7 +4,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-21 commits.
+22 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ListTile` text defaults to use `ColorScheme`<br />
     <sub>[#128581](https://github.com/flutter/flutter/pull/128581) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128581) over 3 days, 27 additions and 19 deletions in 4 files</sub><br />
@@ -46,6 +46,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix paint offset in reverse for 2D<br />
     <sub>[#128724](https://github.com/flutter/flutter/pull/128724) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128724) over 3 hours, 10 additions and 9 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Update getChildrenSummaryTree to handle Diagnosticable as input.<br />
+    <sub>[#128833](https://github.com/flutter/flutter/pull/128833) merged on June 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/128833) over 1 day, 130 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Improve the error message for non-normalized constraints<br />
     <sub>[#127906](https://github.com/flutter/flutter/pull/127906) merged on June 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127906) over 2 weeks, 45 additions and 2 deletions in 2 files</sub><br />
