@@ -1399,7 +1399,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-7 commits.
+8 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Allow running from anywhere<br />
     <sub>[#4199](https://github.com/flutter/packages/pull/4199) merged on June 13, 2023 &mdash; **Large:** [11 comments](https://github.com/flutter/packages/pull/4199) over 1 day, 182 additions and 734 deletions in 7 files</sub><br />
@@ -1427,6 +1427,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Finish migrating Pigeon tests to LUCI<br />
     <sub>[#3192](https://github.com/flutter/packages/pull/3192) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3192) over 4 months, 3 additions and 41 deletions in 2 files</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Support running main.dart<br />
+    <sub>[#4208](https://github.com/flutter/packages/pull/4208) merged on June 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4208) over 5 hours, 6 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Hashir Shoaib](https://github.com/hashirshoaeb)** &mdash; [go_router] Fixes a bug in `debugLogDiagnostics` to support StatefulShellRoute<br />
     <sub>[#4177](https://github.com/flutter/packages/pull/4177) merged on June 12, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4177) over 2 days, 41 additions and 3 deletions in 4 files</sub><br />
