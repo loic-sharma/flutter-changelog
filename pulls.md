@@ -105,5 +105,5 @@
     <sub>[#128902](https://github.com/flutter/flutter/pull/128902) opened on on June 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128902) 14 additions and 0 deletions in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] fix cast error when dart-defines-json file includes null<br />
-    <sub>[#128909](https://github.com/flutter/flutter/pull/128909) opened on on June 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128909) 51 additions and 33 deletions in 6 files</sub><br />
+    <sub>[#128909](https://github.com/flutter/flutter/pull/128909) opened on on June 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128909) 51 additions and 33 deletions in 6 files</sub><br />
 
