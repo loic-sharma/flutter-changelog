@@ -108,5 +108,5 @@
     <sub>[#128909](https://github.com/flutter/flutter/pull/128909) opened on on June 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128909) 51 additions and 33 deletions in 6 files</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update golden tests<br />
-    <sub>[#128914](https://github.com/flutter/flutter/pull/128914) opened on on June 14, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/128914) 535 additions and 497 deletions in 13 files</sub><br />
+    <sub>[#128914](https://github.com/flutter/flutter/pull/128914) opened on on June 14, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/128914) 439 additions and 411 deletions in 8 files</sub><br />
 
