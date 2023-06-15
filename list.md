@@ -1507,7 +1507,7 @@
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Baptiste DUPUCH](https://github.com/dupuchba)** &mdash; [webview_flutter] Add support for limitsNavigationsToAppBoundDomains
-    <sub>[#4026](https://github.com/flutter/packages/pull/4026) merged on June 15, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/4026) over 4 weeks, 249 additions and 5 deletions in 18 files</sub>
+    <sub>[#4026](https://github.com/flutter/packages/pull/4026) merged on June 15, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/4026) over 4 weeks, 249 additions and 5 deletions in 18 files</sub>
     <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [camera]: Bump com.google.guava:guava from 32.0.0-android to 32.0.1-android in /packages/camera/camera_android_camerax/android
