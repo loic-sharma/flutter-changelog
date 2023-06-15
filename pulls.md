@@ -86,6 +86,3 @@
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; iOS info.plist template: make UIViewControllerBasedStatusBar to be true<br />
     <sub>[#128970](https://github.com/flutter/flutter/pull/128970) opened on on June 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128970) 30 additions and 30 deletions in 30 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove AbstractNode from RenderObject and deprecate it<br />
-    <sub>[#128973](https://github.com/flutter/flutter/pull/128973) opened on on June 15, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/128973) 192 additions and 152 deletions in 25 files</sub><br />
-
