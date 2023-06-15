@@ -406,7 +406,7 @@
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Revert "Update `chip.dart` to use set of `MaterialState`"
     <sub>[#128607](https://github.com/flutter/flutter/pull/128607) merged on June 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128607) over 53 minutes, 18 additions and 44 deletions in 1 file</sub>
-    <sub>Reviewed by: [Tae Hyung Kim](https://github.com/thkim1011), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tae Hyung Kim](https://github.com/thkim1011)</sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Revert "test owners: cyanglaz -> vashworth"
     <sub>[#128462](https://github.com/flutter/flutter/pull/128462) merged on June 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128462) over 1 day, 24 additions and 24 deletions in 1 file</sub>
@@ -1487,7 +1487,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-16 commits.
+17 commits.
 
 * **[yk3372](https://github.com/yk3372)** &mdash; [webview_flutter][webview_flutter_android] Add android support for handling geolocation permissions
     <sub>[#3795](https://github.com/flutter/packages/pull/3795) merged on June 15, 2023 &mdash; **Large:** [41 comments](https://github.com/flutter/packages/pull/3795) over 1 month, 1227 additions and 50 deletions in 24 files</sub>
@@ -1536,6 +1536,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Finish migrating Pigeon tests to LUCI
     <sub>[#3192](https://github.com/flutter/packages/pull/3192) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3192) over 4 months, 3 additions and 41 deletions in 2 files</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Support code excerpts for any .md file
+    <sub>[#4212](https://github.com/flutter/packages/pull/4212) merged on June 15, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4212) over 22 hours, 80 additions and 20 deletions in 2 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Ignore `textScaleFactor` deprecation
     <sub>[#4209](https://github.com/flutter/packages/pull/4209) merged on June 14, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4209) over 22 hours, 17 additions and 10 deletions in 5 files</sub>
