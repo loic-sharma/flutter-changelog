@@ -86,3 +86,6 @@
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; iOS info.plist template: make UIViewControllerBasedStatusBar to be true<br />
     <sub>[#128970](https://github.com/flutter/flutter/pull/128970) opened on on June 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128970) 30 additions and 30 deletions in 30 files</sub><br />
 
+* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Refactor generate_localizations_test.dart<br />
+    <sub>[#128974](https://github.com/flutter/flutter/pull/128974) opened on on June 15, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/128974) 436 additions and 1375 deletions in 1 file</sub><br />
+
