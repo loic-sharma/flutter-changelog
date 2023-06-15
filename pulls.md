@@ -99,7 +99,7 @@
     <sub>[#128814](https://github.com/flutter/flutter/pull/128814) opened on on June 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128814) 35 additions and 0 deletions in 2 files</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Update getProperties to handle Diagnosticable as input.<br />
-    <sub>[#128897](https://github.com/flutter/flutter/pull/128897) opened on on June 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128897) 58 additions and 16 deletions in 2 files</sub><br />
+    <sub>[#128897](https://github.com/flutter/flutter/pull/128897) opened on on June 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128897) 58 additions and 16 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Migrate framework to fully use package:web<br />
     <sub>[#128901](https://github.com/flutter/flutter/pull/128901) opened on on June 14, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/128901) 59 additions and 469 deletions in 6 files</sub><br />
