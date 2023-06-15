@@ -4,7 +4,11 @@
 
 ### June 10, 2023 to June 16, 2023
 
-24 commits.
+25 commits.
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] cache flutter sdk version to disk
+    <sub>[#124558](https://github.com/flutter/flutter/pull/124558) merged on June 15, 2023 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/124558) over 2 months, 707 additions and 224 deletions in 19 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Elias Yishak](https://github.com/eliasyishak), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ListTile` text defaults to use `ColorScheme`
     <sub>[#128581](https://github.com/flutter/flutter/pull/128581) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128581) over 3 days, 27 additions and 19 deletions in 4 files</sub>
@@ -1475,12 +1479,16 @@
 
 ### June 10, 2023 to June 16, 2023
 
-12 commits.
+13 commits.
 
 * **[Ahmed Fwela](https://github.com/ahmednfwela)** &mdash; [flutter_adaptive_scaffold] Support RTL
     <sub>[#4204](https://github.com/flutter/packages/pull/4204) merged on June 14, 2023 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/4204) over 1 day, 515 additions and 463 deletions in 8 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub>
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/packages/assets/63286031/10adac59-3f9a-4f4d-85da-939efbb47ae8)  |  ![image](https://github.com/flutter/packages/assets/63286031/c8c1af75-4787-473c-a397-a64d2f9b1e88)</details></sub>
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] getMedia platform implementations
+    <sub>[#4175](https://github.com/flutter/packages/pull/4175) merged on June 15, 2023 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/4175) over 5 days, 2559 additions and 447 deletions in 55 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Allow running from anywhere
     <sub>[#4199](https://github.com/flutter/packages/pull/4199) merged on June 13, 2023 &mdash; **Large:** [11 comments](https://github.com/flutter/packages/pull/4199) over 1 day, 182 additions and 734 deletions in 7 files</sub>
