@@ -1483,7 +1483,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-15 commits.
+16 commits.
 
 * **[yk3372](https://github.com/yk3372)** &mdash; [webview_flutter][webview_flutter_android] Add android support for handling geolocation permissions
     <sub>[#3795](https://github.com/flutter/packages/pull/3795) merged on June 15, 2023 &mdash; **Large:** [41 comments](https://github.com/flutter/packages/pull/3795) over 1 month, 1227 additions and 50 deletions in 24 files</sub>
@@ -1505,6 +1505,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Allow running from anywhere
     <sub>[#4199](https://github.com/flutter/packages/pull/4199) merged on June 13, 2023 &mdash; **Large:** [11 comments](https://github.com/flutter/packages/pull/4199) over 1 day, 182 additions and 734 deletions in 7 files</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Baptiste DUPUCH](https://github.com/dupuchba)** &mdash; [webview_flutter] Add support for limitsNavigationsToAppBoundDomains
+    <sub>[#4026](https://github.com/flutter/packages/pull/4026) merged on June 15, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/4026) over 4 weeks, 249 additions and 5 deletions in 18 files</sub>
+    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [camera]: Bump com.google.guava:guava from 32.0.0-android to 32.0.1-android in /packages/camera/camera_android_camerax/android
     <sub>[#4195](https://github.com/flutter/packages/pull/4195) merged on June 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4195) over 10 hours, 6 additions and 2 deletions in 3 files</sub>
