@@ -45,7 +45,7 @@
     <sub>[#127490](https://github.com/flutter/flutter/pull/127490) opened on on May 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127490) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Change `useMaterial3` default to true<br />
-    <sub>[#127501](https://github.com/flutter/flutter/pull/127501) opened on on May 24, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/127501) 241 additions and 204 deletions in 31 files</sub><br />
+    <sub>[#127501](https://github.com/flutter/flutter/pull/127501) opened on on May 24, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/127501) 232 additions and 200 deletions in 30 files</sub><br />
 
 * **[Darshan Rander](https://github.com/SirusCodes)** &mdash; fix: wrong expansion tile shape assignment<br />
     <sub>[#127749](https://github.com/flutter/flutter/pull/127749) opened on on May 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127749) 1 addition and 1 deletion in 1 file</sub><br />
@@ -81,10 +81,7 @@
     <sub>[#128668](https://github.com/flutter/flutter/pull/128668) opened on on June 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128668) 114 additions and 10 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Migrate more integration tests to process result matcher<br />
-    <sub>[#128737](https://github.com/flutter/flutter/pull/128737) opened on on June 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128737) 34 additions and 51 deletions in 11 files</sub><br />
-
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] refactor license collector<br />
-    <sub>[#128748](https://github.com/flutter/flutter/pull/128748) opened on on June 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/128748) 4 additions and 5 deletions in 1 file</sub><br />
+    <sub>[#128737](https://github.com/flutter/flutter/pull/128737) opened on on June 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128737) 34 additions and 51 deletions in 11 files</sub><br />
 
 * **[Paurakh Sharma Humagain](https://github.com/paurakhsharma)** &mdash; fix: Inconsistency of SelectionArea when scrolling<br />
     <sub>[#128765](https://github.com/flutter/flutter/pull/128765) opened on on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128765) 1 addition and 2 deletions in 1 file</sub><br />
@@ -105,5 +102,5 @@
     <sub>[#128902](https://github.com/flutter/flutter/pull/128902) opened on on June 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128902) 14 additions and 0 deletions in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] fix cast error when dart-defines-json file includes null<br />
-    <sub>[#128909](https://github.com/flutter/flutter/pull/128909) opened on on June 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128909) 51 additions and 33 deletions in 6 files</sub><br />
+    <sub>[#128909](https://github.com/flutter/flutter/pull/128909) opened on on June 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128909) 51 additions and 33 deletions in 6 files</sub><br />
 
