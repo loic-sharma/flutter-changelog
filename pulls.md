@@ -56,12 +56,6 @@
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Deletes files that should be ignored<br />
     <sub>[#127984](https://github.com/flutter/flutter/pull/127984) opened on on May 31, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/127984) 0 additions and 670 deletions in 38 files</sub><br />
 
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; Pass through type, class and function information for expression evaluation.<br />
-    <sub>[#128084](https://github.com/flutter/flutter/pull/128084) opened on on June 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128084) 53 additions and 9 deletions in 5 files</sub><br />
-
-* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Add support for vmServiceFileInfo when attaching<br />
-    <sub>[#128503](https://github.com/flutter/flutter/pull/128503) opened on on June 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128503) 132 additions and 4 deletions in 4 files</sub><br />
-
 * **[Albert Moravec](https://github.com/albertmoravec)** &mdash; Fixed `dart pub cache clear` to `clean` (#128663)<br />
     <sub>[#128665](https://github.com/flutter/flutter/pull/128665) opened on on June 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128665) 1 addition and 1 deletion in 1 file</sub><br />
 
