@@ -32,9 +32,6 @@
 * **[Casey Rogers](https://github.com/caseycrogers)** &mdash; [WIP] removed generic, started fixing popupmenu<br />
     <sub>[#126456](https://github.com/flutter/flutter/pull/126456) opened on on May 10, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/126456) 491 additions and 516 deletions in 35 files</sub><br />
 
-* **[Florian](https://github.com/PlutoHDDev)** &mdash; Fix output of _informAboutExistingCaches<br />
-    <sub>[#126566](https://github.com/flutter/flutter/pull/126566) opened on on May 11, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/126566) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Fix super tiny space formatting (hope we have auto formatter in the future)<br />
     <sub>[#127479](https://github.com/flutter/flutter/pull/127479) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127479) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -80,9 +77,6 @@
 * **[Piotr FLEURY](https://github.com/PiotrFLEURY)** &mdash; Add .env file support for  option `--dart-define-from-file`<br />
     <sub>[#128668](https://github.com/flutter/flutter/pull/128668) opened on on June 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128668) 114 additions and 10 deletions in 2 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Migrate more integration tests to process result matcher<br />
-    <sub>[#128737](https://github.com/flutter/flutter/pull/128737) opened on on June 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128737) 34 additions and 51 deletions in 11 files</sub><br />
-
 * **[Paurakh Sharma Humagain](https://github.com/paurakhsharma)** &mdash; fix: Inconsistency of SelectionArea when scrolling<br />
     <sub>[#128765](https://github.com/flutter/flutter/pull/128765) opened on on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128765) 1 addition and 2 deletions in 1 file</sub><br />
 
@@ -103,4 +97,7 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] fix cast error when dart-defines-json file includes null<br />
     <sub>[#128909](https://github.com/flutter/flutter/pull/128909) opened on on June 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128909) 51 additions and 33 deletions in 6 files</sub><br />
+
+* **[Chris Yang](https://github.com/cyanglaz)** &mdash; iOS info.plist template: make UIViewControllerBasedStatusBar to be true<br />
+    <sub>[#128970](https://github.com/flutter/flutter/pull/128970) opened on on June 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128970) 30 additions and 30 deletions in 30 files</sub><br />
 
