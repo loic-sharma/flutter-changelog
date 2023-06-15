@@ -1483,7 +1483,15 @@
 
 ### June 10, 2023 to June 16, 2023
 
-13 commits.
+15 commits.
+
+* **[yk3372](https://github.com/yk3372)** &mdash; [webview_flutter][webview_flutter_android] Add android support for handling geolocation permissions<br />
+    <sub>[#3795](https://github.com/flutter/packages/pull/3795) merged on June 15, 2023 &mdash; **Large:** [41 comments](https://github.com/flutter/packages/pull/3795) over 1 month, 1227 additions and 50 deletions in 24 files</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] add getMedia method<br />
+    <sub>[#3892](https://github.com/flutter/packages/pull/3892) merged on June 15, 2023 &mdash; **Large:** [107 comments](https://github.com/flutter/packages/pull/3892) over 1 month, 627 additions and 66 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Victoria Ashworth](https://github.com/vashworth), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Ahmed Fwela](https://github.com/ahmednfwela)** &mdash; [flutter_adaptive_scaffold] Support RTL<br />
     <sub>[#4204](https://github.com/flutter/packages/pull/4204) merged on June 14, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/4204) over 1 day, 515 additions and 463 deletions in 8 files</sub><br />
