@@ -71,9 +71,6 @@
 * **[Swaroop S](https://github.com/SwaroopSambhayya)** &mdash; Adding ScrollController support for Stepper widget<br />
     <sub>[#128814](https://github.com/flutter/flutter/pull/128814) opened on on June 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128814) 35 additions and 0 deletions in 2 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Update getProperties to handle Diagnosticable as input.<br />
-    <sub>[#128897](https://github.com/flutter/flutter/pull/128897) opened on on June 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128897) 58 additions and 16 deletions in 2 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Migrate framework to fully use package:web<br />
     <sub>[#128901](https://github.com/flutter/flutter/pull/128901) opened on on June 14, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/128901) 50 additions and 464 deletions in 6 files</sub><br />
 
@@ -85,7 +82,4 @@
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; iOS info.plist template: make UIViewControllerBasedStatusBar to be true<br />
     <sub>[#128970](https://github.com/flutter/flutter/pull/128970) opened on on June 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128970) 30 additions and 30 deletions in 30 files</sub><br />
-
-* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Refactor generate_localizations_test.dart<br />
-    <sub>[#128974](https://github.com/flutter/flutter/pull/128974) opened on on June 15, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/128974) 436 additions and 1375 deletions in 1 file</sub><br />
 
