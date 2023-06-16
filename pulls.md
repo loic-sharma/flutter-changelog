@@ -65,9 +65,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Migrate framework to fully use package:web<br />
     <sub>[#128901](https://github.com/flutter/flutter/pull/128901) opened on on June 14, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/128901) 50 additions and 464 deletions in 6 files</sub><br />
 
-* **[Myles Moylan](https://github.com/moylanm)** &mdash; add simple unit tests for annotations.dart file<br />
-    <sub>[#128902](https://github.com/flutter/flutter/pull/128902) opened on on June 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128902) 14 additions and 0 deletions in 1 file</sub><br />
-
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; iOS info.plist template: make UIViewControllerBasedStatusBar to be true<br />
     <sub>[#128970](https://github.com/flutter/flutter/pull/128970) opened on on June 15, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128970) 0 additions and 62 deletions in 31 files</sub><br />
 
