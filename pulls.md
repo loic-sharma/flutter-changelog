@@ -86,6 +86,3 @@
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; iOS info.plist template: make UIViewControllerBasedStatusBar to be true<br />
     <sub>[#128970](https://github.com/flutter/flutter/pull/128970) opened on on June 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128970) 30 additions and 30 deletions in 30 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add an example showing how to use textures<br />
-    <sub>[#128990](https://github.com/flutter/flutter/pull/128990) opened on on June 16, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/128990) 724 additions and 0 deletions in 11 files</sub><br />
-
