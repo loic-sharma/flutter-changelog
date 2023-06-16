@@ -98,7 +98,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Address leak tracker breaking changes.<br />
     <sub>[#128623](https://github.com/flutter/flutter/pull/128623) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128623) over 2 days, 29 additions and 26 deletions in 10 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Daniel Chevalier](https://github.com/CoderDake)</sub><br />
+    <sub>Reviewed by: [Daniel Chevalier](https://github.com/CoderDake), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] pass through enable impeller flag to macOS.<br />
     <sub>[#128720](https://github.com/flutter/flutter/pull/128720) merged on June 12, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/128720) over 1 hour, 81 additions and 2 deletions in 3 files</sub><br />
@@ -1556,7 +1556,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-21 commits.
+22 commits.
 
 * **[yk3372](https://github.com/yk3372)** &mdash; [webview_flutter][webview_flutter_android] Add android support for handling geolocation permissions<br />
     <sub>[#3795](https://github.com/flutter/packages/pull/3795) merged on June 15, 2023 &mdash; **Large:** [41 comments](https://github.com/flutter/packages/pull/3795) over 1 month, 1227 additions and 50 deletions in 24 files</sub><br />
@@ -1570,6 +1570,10 @@
     <sub>[#4204](https://github.com/flutter/packages/pull/4204) merged on June 14, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/4204) over 1 day, 515 additions and 463 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/packages/assets/63286031/10adac59-3f9a-4f4d-85da-939efbb47ae8)  |  ![image](https://github.com/flutter/packages/assets/63286031/c8c1af75-4787-473c-a397-a64d2f9b1e88)</details></sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_map_flutter] Fix map object regression due to async changes<br />
+    <sub>[#4171](https://github.com/flutter/packages/pull/4171) merged on June 16, 2023 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/4171) over 6 days, 783 additions and 1315 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] getMedia platform implementations<br />
     <sub>[#4175](https://github.com/flutter/packages/pull/4175) merged on June 15, 2023 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/4175) over 5 days, 2559 additions and 447 deletions in 55 files</sub><br />
