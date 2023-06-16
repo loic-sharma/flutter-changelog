@@ -885,7 +885,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Roll Clang from 6d667d4b261e to 7f374b6902fa"
-    <sub>[#42896](https://github.com/flutter/engine/pull/42896) merged on June 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42896) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+    <sub>[#42896](https://github.com/flutter/engine/pull/42896) merged on June 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42896) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jesús S Guerrero](https://github.com/Jasguerrero), [David Worsham](https://github.com/arbreng)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Reland "Move linux clang tidy to engine_v2.""
