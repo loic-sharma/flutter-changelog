@@ -75,5 +75,5 @@
     <sub>[#129024](https://github.com/flutter/flutter/pull/129024) opened on on June 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/129024) 7 additions and 7 deletions in 1 file</sub><br />
 
 * **[Chuan-Yen Chiang](https://github.com/cychiang)** &mdash; fix: duplicated Intellij IDE message when running flutter doctor<br />
-    <sub>[#129030](https://github.com/flutter/flutter/pull/129030) opened on on June 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129030) 20 additions and 9 deletions in 1 file</sub><br />
+    <sub>[#129030](https://github.com/flutter/flutter/pull/129030) opened on on June 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129030) 17 additions and 9 deletions in 1 file</sub><br />
 

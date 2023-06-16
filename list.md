@@ -4,7 +4,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-40 commits.
+41 commits.
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] cache flutter sdk version to disk
     <sub>[#124558](https://github.com/flutter/flutter/pull/124558) merged on June 15, 2023 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/124558) over 2 months, 707 additions and 224 deletions in 19 files</sub>
@@ -40,16 +40,16 @@
     <sub>[#128628](https://github.com/flutter/flutter/pull/128628) merged on June 12, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/128628) over 2 days, 698 additions and 761 deletions in 9 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update tests in material library for Material 3 by default
+    <sub>[#128300](https://github.com/flutter/flutter/pull/128300) merged on June 13, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/128300) over 1 week, 952 additions and 513 deletions in 19 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update golden tests
     <sub>[#128914](https://github.com/flutter/flutter/pull/128914) merged on June 15, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/128914) over 20 hours, 439 additions and 411 deletions in 8 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update unit tests in material library for Material 3
     <sub>[#128725](https://github.com/flutter/flutter/pull/128725) merged on June 13, 2023 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/128725) over 1 day, 1127 additions and 780 deletions in 62 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update tests in material library for Material 3 by default
-    <sub>[#128300](https://github.com/flutter/flutter/pull/128300) merged on June 13, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/128300) over 1 week, 952 additions and 513 deletions in 19 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; flutter update-packages --cherry-pick-package
@@ -64,13 +64,13 @@
     <sub>[#128580](https://github.com/flutter/flutter/pull/128580) merged on June 14, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/128580) over 5 days, 56 additions and 47 deletions in 6 files</sub>
     <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
-* **[gmackall](https://github.com/gmackall)** &mdash; Unpin flutter_plugin_android_lifecycle
-    <sub>[#128898](https://github.com/flutter/flutter/pull/128898) merged on June 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128898) over 1 hour, 103 additions and 30 deletions in 6 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix paint offset in reverse for 2D
     <sub>[#128724](https://github.com/flutter/flutter/pull/128724) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128724) over 3 hours, 10 additions and 9 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[gmackall](https://github.com/gmackall)** &mdash; Unpin flutter_plugin_android_lifecycle
+    <sub>[#128898](https://github.com/flutter/flutter/pull/128898) merged on June 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128898) over 1 hour, 103 additions and 30 deletions in 6 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] fix cast error when dart-defines-json file includes null
     <sub>[#128909](https://github.com/flutter/flutter/pull/128909) merged on June 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128909) over 1 day, 51 additions and 33 deletions in 6 files</sub>
@@ -104,6 +104,22 @@
     <sub>[#127906](https://github.com/flutter/flutter/pull/127906) merged on June 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127906) over 2 weeks, 45 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Update objectToDiagnosticsNode to stop failing.
+    <sub>[#129027](https://github.com/flutter/flutter/pull/129027) merged on June 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129027) over 1 hour, 16 additions and 9 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314)</sub>
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Respect allowlisted count of leaks.
+    <sub>[#128823](https://github.com/flutter/flutter/pull/128823) merged on June 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128823) over 1 day, 86 additions and 9 deletions in 2 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Address leak tracker breaking changes.
+    <sub>[#128623](https://github.com/flutter/flutter/pull/128623) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128623) over 2 days, 29 additions and 26 deletions in 10 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Daniel Chevalier](https://github.com/CoderDake)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] pass through enable impeller flag to macOS.
+    <sub>[#128720](https://github.com/flutter/flutter/pull/128720) merged on June 12, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/128720) over 1 hour, 81 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix ensureVisible and default focus traversal for reversed scrollables
     <sub>[#128756](https://github.com/flutter/flutter/pull/128756) merged on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128756) over 15 hours, 279 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
@@ -116,22 +132,6 @@
     <sub>[#128467](https://github.com/flutter/flutter/pull/128467) merged on June 14, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128467) over 6 days, 204 additions and 49 deletions in 3 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] pass through enable impeller flag to macOS.
-    <sub>[#128720](https://github.com/flutter/flutter/pull/128720) merged on June 12, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/128720) over 1 hour, 81 additions and 2 deletions in 3 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Respect allowlisted count of leaks.
-    <sub>[#128823](https://github.com/flutter/flutter/pull/128823) merged on June 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128823) over 1 day, 86 additions and 9 deletions in 2 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Address leak tracker breaking changes.
-    <sub>[#128623](https://github.com/flutter/flutter/pull/128623) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128623) over 2 days, 29 additions and 26 deletions in 10 files</sub>
-    <sub>Reviewed by: [Daniel Chevalier](https://github.com/CoderDake), [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Remove temporary default case for PointerSignalKind
-    <sub>[#128900](https://github.com/flutter/flutter/pull/128900) merged on June 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128900) over 1 hour, 0 additions and 5 deletions in 1 file</sub>
-    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
-
 * **[William Oprandi](https://github.com/woprandi)** &mdash; Fix syntax error in docstring
     <sub>[#128692](https://github.com/flutter/flutter/pull/128692) merged on June 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128692) over 1 day, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [pdblasi-google](https://github.com/pdblasi-google)</sub>
@@ -140,13 +140,13 @@
     <sub>[#128747](https://github.com/flutter/flutter/pull/128747) merged on June 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128747) over 17 hours, 47 additions and 30 deletions in 3 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; Update misc tests for Material3
-    <sub>[#128712](https://github.com/flutter/flutter/pull/128712) merged on June 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128712) over 22 hours, 65 additions and 27 deletions in 2 files</sub>
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
-
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Add support for vmServiceFileInfo when attaching
     <sub>[#128503](https://github.com/flutter/flutter/pull/128503) merged on June 16, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/128503) over 1 week, 132 additions and 4 deletions in 4 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Update misc tests for Material3
+    <sub>[#128712](https://github.com/flutter/flutter/pull/128712) merged on June 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128712) over 22 hours, 65 additions and 27 deletions in 2 files</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't crash on `const HtmlElementView()`
     <sub>[#128965](https://github.com/flutter/flutter/pull/128965) merged on June 16, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/128965) over 18 hours, 26 additions and 1 deletion in 2 files</sub>
@@ -167,6 +167,10 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update golden tests for material
     <sub>[#128839](https://github.com/flutter/flutter/pull/128839) merged on June 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128839) over 22 hours, 64 additions and 37 deletions in 11 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Remove temporary default case for PointerSignalKind
+    <sub>[#128900](https://github.com/flutter/flutter/pull/128900) merged on June 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128900) over 1 hour, 0 additions and 5 deletions in 1 file</sub>
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 ### June 3, 2023 to June 9, 2023
 
@@ -391,7 +395,7 @@
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [labeler] Fix adding labels when name is directory
     <sub>[#128243](https://github.com/flutter/flutter/pull/128243) merged on June 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128243) over 6 hours, 13 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Update cherry-pick issue template to more uniform labels.
     <sub>[#128333](https://github.com/flutter/flutter/pull/128333) merged on June 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128333) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
@@ -467,7 +471,7 @@
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Revert "Update `chip.dart` to use set of `MaterialState`"
     <sub>[#128607](https://github.com/flutter/flutter/pull/128607) merged on June 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128607) over 53 minutes, 18 additions and 44 deletions in 1 file</sub>
-    <sub>Reviewed by: [Tae Hyung Kim](https://github.com/thkim1011), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tae Hyung Kim](https://github.com/thkim1011)</sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Revert "test owners: cyanglaz -> vashworth"
     <sub>[#128462](https://github.com/flutter/flutter/pull/128462) merged on June 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128462) over 1 day, 24 additions and 24 deletions in 1 file</sub>
