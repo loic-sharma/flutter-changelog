@@ -71,9 +71,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] fix cast error when dart-defines-json file includes null<br />
     <sub>[#128909](https://github.com/flutter/flutter/pull/128909) opened on on June 14, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128909) 51 additions and 33 deletions in 6 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Accept Diagnosticable as input in inspector API.<br />
-    <sub>[#128962](https://github.com/flutter/flutter/pull/128962) opened on on June 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128962) 84 additions and 14 deletions in 2 files</sub><br />
-
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; iOS info.plist template: make UIViewControllerBasedStatusBar to be true<br />
     <sub>[#128970](https://github.com/flutter/flutter/pull/128970) opened on on June 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128970) 30 additions and 30 deletions in 30 files</sub><br />
 
