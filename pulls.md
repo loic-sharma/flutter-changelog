@@ -71,3 +71,6 @@
 * **[Chuan-Yen Chiang](https://github.com/cychiang)** &mdash; fix: duplicated Intellij IDE message when running flutter doctor<br />
     <sub>[#129030](https://github.com/flutter/flutter/pull/129030) opened on on June 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129030) 17 additions and 9 deletions in 1 file</sub><br />
 
+* **[Artemii Oliinyk](https://github.com/arrrtem22)** &mdash; Remove duplicate of padding for header and footer in CupertinoListSection<br />
+    <sub>[#129048](https://github.com/flutter/flutter/pull/129048) opened on on June 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129048) 4 additions and 14 deletions in 1 file</sub><br />
+
