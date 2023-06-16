@@ -62,9 +62,6 @@
 * **[fabiancrx](https://github.com/fabiancrx)** &mdash; [flutter_tools] modify Skeleton template to use ListenableBuilder instead of AnimatedBuilder<br />
     <sub>[#128810](https://github.com/flutter/flutter/pull/128810) opened on on June 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128810) 3 additions and 3 deletions in 1 file</sub><br />
 
-* **[Swaroop S](https://github.com/SwaroopSambhayya)** &mdash; Adding ScrollController support for Stepper widget<br />
-    <sub>[#128814](https://github.com/flutter/flutter/pull/128814) opened on on June 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128814) 35 additions and 0 deletions in 2 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Migrate framework to fully use package:web<br />
     <sub>[#128901](https://github.com/flutter/flutter/pull/128901) opened on on June 14, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/128901) 50 additions and 464 deletions in 6 files</sub><br />
 
