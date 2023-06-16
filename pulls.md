@@ -74,3 +74,6 @@
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; iOS info.plist template: make UIViewControllerBasedStatusBar to be true<br />
     <sub>[#128970](https://github.com/flutter/flutter/pull/128970) opened on on June 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128970) 30 additions and 30 deletions in 30 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update Xcode to 14.3.1<br />
+    <sub>[#129024](https://github.com/flutter/flutter/pull/129024) opened on on June 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129024) 7 additions and 7 deletions in 1 file</sub><br />
+
