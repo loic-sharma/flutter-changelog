@@ -707,7 +707,7 @@
 50 commits.
 
 * **[luckysmg](https://github.com/luckysmg)** &mdash; [iOS][Keyboard] Wait vsync on UI thread and update viewport inset to avoid jitter.
-    <sub>[#42312](https://github.com/flutter/engine/pull/42312) merged on June 13, 2023 &mdash; **Small:** [37 comments](https://github.com/flutter/engine/pull/42312) over 2 weeks, 149 additions and 67 deletions in 6 files</sub>
+    <sub>[#42312](https://github.com/flutter/engine/pull/42312) merged on June 13, 2023 &mdash; **Small:** [38 comments](https://github.com/flutter/engine/pull/42312) over 2 weeks, 149 additions and 67 deletions in 6 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [hellohuanlin](https://github.com/hellohuanlin), [Chris Yang](https://github.com/cyanglaz)</sub>
     <sub><details><summary>2 images...</summary>![2](https://github.com/flutter/engine/assets/49340347/71198a08-b139-4d6d-87e1-37e536f5d34b)![1](https://github.com/flutter/engine/assets/49340347/5c9df757-7e39-4855-8c3a-009f5d6438b2)</details></sub>
 
