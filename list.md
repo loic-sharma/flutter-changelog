@@ -194,6 +194,11 @@
     <sub>[#125998](https://github.com/flutter/flutter/pull/125998) merged on June 7, 2023 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/125998) over 1 month, 672 additions and 24 deletions in 11 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[Janice Collins](https://github.com/jcollins-g)** &mdash; Update flutter to dartdoc 6.3.0 and hide Icons implementation from doc pages
+    <sub>[#128442](https://github.com/flutter/flutter/pull/128442) merged on June 8, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128442) over 1 day, 4 additions and 1 deletion in 4 files</sub>
+    <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub>
+    <sub><details><summary>1 image...</summary>![Screenshot 2023-06-07 at 9 54 58 AM](https://github.com/flutter/flutter/assets/14116827/1ad9c1f0-b224-462f-a8e3-706d9858f0d8)</details></sub>
+
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated flutter_localizations tests for Material3;
     <sub>[#128521](https://github.com/flutter/flutter/pull/128521) merged on June 9, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/128521) over 23 hours, 257 additions and 134 deletions in 4 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
@@ -203,11 +208,6 @@
     <sub>[#128267](https://github.com/flutter/flutter/pull/128267) merged on June 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128267) over 3 days, 30 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/1078012/a125b455-a46d-4993-98d8-5d8ae7237a00)</details></sub>
-
-* **[Janice Collins](https://github.com/jcollins-g)** &mdash; Update flutter to dartdoc 6.3.0 and hide Icons implementation from doc pages
-    <sub>[#128442](https://github.com/flutter/flutter/pull/128442) merged on June 8, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128442) over 1 day, 4 additions and 1 deletion in 4 files</sub>
-    <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub>
-    <sub><details><summary>1 image...</summary>![Screenshot 2023-06-07 at 9 54 58 AM](https://github.com/flutter/flutter/assets/14116827/1ad9c1f0-b224-462f-a8e3-706d9858f0d8)</details></sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Do not try to load main/default asset image if only higher-res variants exist
     <sub>[#128143](https://github.com/flutter/flutter/pull/128143) merged on June 7, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/128143) over 4 days, 382 additions and 223 deletions in 8 files</sub>
@@ -1544,7 +1544,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-20 commits.
+21 commits.
 
 * **[yk3372](https://github.com/yk3372)** &mdash; [webview_flutter][webview_flutter_android] Add android support for handling geolocation permissions
     <sub>[#3795](https://github.com/flutter/packages/pull/3795) merged on June 15, 2023 &mdash; **Large:** [41 comments](https://github.com/flutter/packages/pull/3795) over 1 month, 1227 additions and 50 deletions in 24 files</sub>
@@ -1605,6 +1605,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Finish migrating Pigeon tests to LUCI
     <sub>[#3192](https://github.com/flutter/packages/pull/3192) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/3192) over 4 months, 3 additions and 41 deletions in 2 files</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [url_launcher] Add ignores for deprecated member to test
+    <sub>[#4220](https://github.com/flutter/packages/pull/4220) merged on June 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4220) over 8 hours, 13 additions and 6 deletions in 1 file</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Support code excerpts for any .md file
     <sub>[#4212](https://github.com/flutter/packages/pull/4212) merged on June 15, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4212) over 22 hours, 80 additions and 20 deletions in 2 files</sub>
