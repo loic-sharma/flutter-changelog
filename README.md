@@ -704,7 +704,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-48 commits.
+49 commits.
 
 * **[luckysmg](https://github.com/luckysmg)** &mdash; [iOS][Keyboard] Wait vsync on UI thread and update viewport inset to avoid jitter.<br />
     <sub>[#42312](https://github.com/flutter/engine/pull/42312) merged on June 13, 2023 &mdash; **Small:** [37 comments](https://github.com/flutter/engine/pull/42312) over 2 weeks, 149 additions and 67 deletions in 6 files</sub><br />
@@ -768,13 +768,13 @@
     <sub>[#42825](https://github.com/flutter/engine/pull/42825) merged on June 13, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42825) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Ensure vulkan offscreen pixelformat is the same as the onscreen format<br />
-    <sub>[#42788](https://github.com/flutter/engine/pull/42788) merged on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42788) over 4 hours, 15 additions and 9 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Renamed validation layers build<br />
     <sub>[#42826](https://github.com/flutter/engine/pull/42826) merged on June 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42826) over 21 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Null check for the device holder in the Vulkan context destructor<br />
+    <sub>[#42821](https://github.com/flutter/engine/pull/42821) merged on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42821) over 59 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Fix text jitter on Vulkan.<br />
     <sub>[#42792](https://github.com/flutter/engine/pull/42792) merged on June 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42792) over 1 hour, 58 additions and 57 deletions in 4 files</sub><br />
@@ -804,9 +804,13 @@
     <sub>[#42580](https://github.com/flutter/engine/pull/42580) merged on June 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42580) over 1 week, 106 additions and 105 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Null check for the device holder in the Vulkan context destructor<br />
-    <sub>[#42821](https://github.com/flutter/engine/pull/42821) merged on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42821) over 59 minutes, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Ensure vulkan offscreen pixelformat is the same as the onscreen format<br />
+    <sub>[#42788](https://github.com/flutter/engine/pull/42788) merged on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42788) over 4 hours, 15 additions and 9 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Fix prefer_final_in_for_each<br />
+    <sub>[#42899](https://github.com/flutter/engine/pull/42899) merged on June 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42899) over 3 hours, 2 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Remove release_build from clang_tidy build.<br />
     <sub>[#42900](https://github.com/flutter/engine/pull/42900) merged on June 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42900) over 1 hour, 0 additions and 1 deletion in 1 file</sub><br />
@@ -824,14 +828,6 @@
     <sub>[#42734](https://github.com/flutter/engine/pull/42734) merged on June 14, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/42734) over 3 days, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Tamir Duberstein](https://github.com/tamird)** &mdash; Add missing includes<br />
-    <sub>[#42812](https://github.com/flutter/engine/pull/42812) merged on June 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42812) over 1 hour, 4 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Create v2 configuration for emulator tests.<br />
-    <sub>[#42652](https://github.com/flutter/engine/pull/42652) merged on June 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42652) over 4 days, 56 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
-
 * **[Tamir Duberstein](https://github.com/tamird)** &mdash; Remove dependency on memfs<br />
     <sub>[#42773](https://github.com/flutter/engine/pull/42773) merged on June 12, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/42773) over 1 hour, 43 additions and 35 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -839,6 +835,14 @@
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Remove unnecessary #include of SkPromiseImageTexture<br />
     <sub>[#42770](https://github.com/flutter/engine/pull/42770) merged on June 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42770) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Create v2 configuration for emulator tests.<br />
+    <sub>[#42652](https://github.com/flutter/engine/pull/42652) merged on June 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42652) over 4 days, 56 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
+
+* **[Tamir Duberstein](https://github.com/tamird)** &mdash; Add missing includes<br />
+    <sub>[#42812](https://github.com/flutter/engine/pull/42812) merged on June 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42812) over 1 hour, 4 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Reland "[ios_platform_view] only recycle maskView when the view is applying mutators #42115"<br />
     <sub>[#42823](https://github.com/flutter/engine/pull/42823) merged on June 13, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/42823) over 54 minutes, 519 additions and 70 deletions in 13 files</sub><br />
