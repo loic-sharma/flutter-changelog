@@ -26,9 +26,6 @@
 * **[LiangXiang Shen](https://github.com/kj415j45)** &mdash; Update `ThemeData`'s factory method documents<br />
     <sub>[#123984](https://github.com/flutter/flutter/pull/123984) opened on on April 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123984) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Dhanush Vardhan](https://github.com/dhanush17-tech)** &mdash; Added MultipleFilterChipPicker widget<br />
-    <sub>[#126287](https://github.com/flutter/flutter/pull/126287) opened on on May 8, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/126287) 155 additions and 0 deletions in 2 files</sub><br />
-
 * **[Casey Rogers](https://github.com/caseycrogers)** &mdash; [WIP] removed generic, started fixing popupmenu<br />
     <sub>[#126456](https://github.com/flutter/flutter/pull/126456) opened on on May 10, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/126456) 491 additions and 516 deletions in 35 files</sub><br />
 
