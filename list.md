@@ -704,7 +704,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-47 commits.
+48 commits.
 
 * **[luckysmg](https://github.com/luckysmg)** &mdash; [iOS][Keyboard] Wait vsync on UI thread and update viewport inset to avoid jitter.
     <sub>[#42312](https://github.com/flutter/engine/pull/42312) merged on June 13, 2023 &mdash; **Small:** [37 comments](https://github.com/flutter/engine/pull/42312) over 2 weeks, 149 additions and 67 deletions in 6 files</sub>
@@ -772,9 +772,9 @@
     <sub>[#42788](https://github.com/flutter/engine/pull/42788) merged on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42788) over 4 hours, 15 additions and 9 deletions in 6 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Added cache for command buffers in vulkan
-    <sub>[#42793](https://github.com/flutter/engine/pull/42793) merged on June 13, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/engine/pull/42793) over 22 hours, 299 additions and 29 deletions in 10 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Renamed validation layers build
+    <sub>[#42826](https://github.com/flutter/engine/pull/42826) merged on June 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42826) over 21 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Fix text jitter on Vulkan.
     <sub>[#42792](https://github.com/flutter/engine/pull/42792) merged on June 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42792) over 1 hour, 58 additions and 57 deletions in 4 files</sub>
@@ -796,9 +796,9 @@
     <sub>[#42859](https://github.com/flutter/engine/pull/42859) merged on June 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42859) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Renamed validation layers build
-    <sub>[#42826](https://github.com/flutter/engine/pull/42826) merged on June 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42826) over 21 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Added cache for command buffers in vulkan
+    <sub>[#42793](https://github.com/flutter/engine/pull/42793) merged on June 13, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/engine/pull/42793) over 22 hours, 299 additions and 29 deletions in 10 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add deprecations to PlatformMessage stuff
     <sub>[#42580](https://github.com/flutter/engine/pull/42580) merged on June 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42580) over 1 week, 106 additions and 105 deletions in 11 files</sub>
@@ -807,6 +807,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Null check for the device holder in the Vulkan context destructor
     <sub>[#42821](https://github.com/flutter/engine/pull/42821) merged on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42821) over 59 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Remove release_build from clang_tidy build.
+    <sub>[#42900](https://github.com/flutter/engine/pull/42900) merged on June 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42900) over 1 hour, 0 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Linux] Allow BasicMessageChannel sending and responding to null message
     <sub>[#42808](https://github.com/flutter/engine/pull/42808) merged on June 15, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42808) over 1 day, 53 additions and 3 deletions in 5 files</sub>
@@ -824,6 +828,10 @@
     <sub>[#42812](https://github.com/flutter/engine/pull/42812) merged on June 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42812) over 1 hour, 4 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Create v2 configuration for emulator tests.
+    <sub>[#42652](https://github.com/flutter/engine/pull/42652) merged on June 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42652) over 4 days, 56 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador)</sub>
+
 * **[Tamir Duberstein](https://github.com/tamird)** &mdash; Remove dependency on memfs
     <sub>[#42773](https://github.com/flutter/engine/pull/42773) merged on June 12, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/42773) over 1 hour, 43 additions and 35 deletions in 8 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -832,13 +840,13 @@
     <sub>[#42770](https://github.com/flutter/engine/pull/42770) merged on June 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42770) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Create v2 configuration for emulator tests.
-    <sub>[#42652](https://github.com/flutter/engine/pull/42652) merged on June 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42652) over 4 days, 56 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador)</sub>
-
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Reland "[ios_platform_view] only recycle maskView when the view is applying mutators #42115"
     <sub>[#42823](https://github.com/flutter/engine/pull/42823) merged on June 13, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/42823) over 54 minutes, 519 additions and 70 deletions in 13 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from f1387834bfd9 to 922c315b2c34 (4 revisions)
+    <sub>[#42855](https://github.com/flutter/engine/pull/42855) merged on June 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42855) over 51 minutes, 3 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 7e075469ff02 to 3a3a3c655a96 (8 revisions)
     <sub>[#42834](https://github.com/flutter/engine/pull/42834) merged on June 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42834) over 58 minutes, 2 additions and 2 deletions in 2 files</sub>
@@ -862,10 +870,6 @@
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 21f16cb16333 to 1572f609c18e (6 revisions)
     <sub>[#42796](https://github.com/flutter/engine/pull/42796) merged on June 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42796) over 57 minutes, 2 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-
-* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from f1387834bfd9 to 922c315b2c34 (4 revisions)
-    <sub>[#42855](https://github.com/flutter/engine/pull/42855) merged on June 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42855) over 51 minutes, 3 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 43ef50f389e9 to 21f16cb16333 (1 revision)
