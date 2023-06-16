@@ -822,7 +822,7 @@
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Joined obligatory vulkan swapchain submits<br />
-    <sub>[#42865](https://github.com/flutter/engine/pull/42865) merged on June 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42865) over 16 hours, 12 additions and 10 deletions in 1 file</sub><br />
+    <sub>[#42865](https://github.com/flutter/engine/pull/42865) merged on June 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42865) over 16 hours, 12 additions and 10 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Renamed validation layers build<br />
