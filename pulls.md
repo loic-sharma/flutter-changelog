@@ -36,7 +36,7 @@
     <sub>[#127501](https://github.com/flutter/flutter/pull/127501) opened on on May 24, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/127501) 232 additions and 200 deletions in 30 files</sub><br />
 
 * **[Darshan Rander](https://github.com/SirusCodes)** &mdash; fix: wrong expansion tile shape assignment<br />
-    <sub>[#127749](https://github.com/flutter/flutter/pull/127749) opened on on May 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127749) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#127749](https://github.com/flutter/flutter/pull/127749) opened on on May 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127749) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Osamu Ishimura](https://github.com/hrontan)** &mdash; fix typo of dart command in the help message about the pub cache.<br />
     <sub>[#127839](https://github.com/flutter/flutter/pull/127839) opened on on May 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127839) 1 addition and 1 deletion in 1 file</sub><br />
