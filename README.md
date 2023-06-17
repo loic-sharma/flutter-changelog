@@ -1605,7 +1605,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-24 commits.
+25 commits.
 
 * **[yk3372](https://github.com/yk3372)** &mdash; [webview_flutter][webview_flutter_android] Add android support for handling geolocation permissions<br />
     <sub>[#3795](https://github.com/flutter/packages/pull/3795) merged on June 15, 2023 &mdash; **Large:** [41 comments](https://github.com/flutter/packages/pull/3795) over 1 month, 1227 additions and 50 deletions in 24 files</sub><br />
@@ -1674,6 +1674,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [url_launcher] Add ignores for deprecated member to test<br />
     <sub>[#4220](https://github.com/flutter/packages/pull/4220) merged on June 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4220) over 8 hours, 13 additions and 6 deletions in 1 file</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add LUCI version of build-all for web<br />
+    <sub>[#4232](https://github.com/flutter/packages/pull/4232) merged on June 17, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/4232) over 9 hours, 38 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Introduce LUCI version of Linux build-all-packages tests<br />
     <sub>[#4229](https://github.com/flutter/packages/pull/4229) merged on June 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4229) over 9 hours, 43 additions and 1 deletion in 2 files</sub><br />
