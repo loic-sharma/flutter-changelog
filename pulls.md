@@ -80,3 +80,6 @@
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Overall timing information in `TimelineSummary`, because existing metrics do not reflect real performance (reland)<br />
     <sub>[#129055](https://github.com/flutter/flutter/pull/129055) opened on on June 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129055) 214 additions and 11 deletions in 2 files</sub><br />
 
+* **[Artemii Oliinyk](https://github.com/arrrtem22)** &mdash; Remove padding duplicates of footer and header in CupertinoListSection<br />
+    <sub>[#129065](https://github.com/flutter/flutter/pull/129065) opened on on June 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129065) 4 additions and 14 deletions in 1 file</sub><br />
+
