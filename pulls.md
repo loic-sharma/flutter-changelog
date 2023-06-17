@@ -74,3 +74,6 @@
 * **[Artemii Oliinyk](https://github.com/arrrtem22)** &mdash; Remove duplicate of padding for header and footer in CupertinoListSection<br />
     <sub>[#129048](https://github.com/flutter/flutter/pull/129048) opened on on June 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129048) 4 additions and 14 deletions in 1 file</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `Tooltip` shouldn't rebuild when hiding/showing the tooltip<br />
+    <sub>[#129053](https://github.com/flutter/flutter/pull/129053) opened on on June 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129053) 99 additions and 74 deletions in 4 files</sub><br />
+

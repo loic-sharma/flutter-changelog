@@ -1605,7 +1605,7 @@
 
 ### June 10, 2023 to June 16, 2023
 
-26 commits.
+27 commits.
 
 * **[yk3372](https://github.com/yk3372)** &mdash; [webview_flutter][webview_flutter_android] Add android support for handling geolocation permissions
     <sub>[#3795](https://github.com/flutter/packages/pull/3795) merged on June 15, 2023 &mdash; **Large:** [41 comments](https://github.com/flutter/packages/pull/3795) over 1 month, 1227 additions and 50 deletions in 24 files</sub>
@@ -1678,6 +1678,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [url_launcher] Add ignores for deprecated member to test
     <sub>[#4220](https://github.com/flutter/packages/pull/4220) merged on June 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4220) over 8 hours, 13 additions and 6 deletions in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add missing ignores for `textScaleFactor` deprecation
+    <sub>[#4239](https://github.com/flutter/packages/pull/4239) merged on June 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4239) over 1 hour, 10 additions and 10 deletions in 2 files</sub>
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add LUCI version of build-all for web
     <sub>[#4232](https://github.com/flutter/packages/pull/4232) merged on June 17, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/4232) over 9 hours, 38 additions and 0 deletions in 2 files</sub>
