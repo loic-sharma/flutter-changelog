@@ -83,3 +83,6 @@
 * **[Artemii Oliinyk](https://github.com/arrrtem22)** &mdash; Remove padding duplicates of footer and header in CupertinoListSection<br />
     <sub>[#129065](https://github.com/flutter/flutter/pull/129065) opened on on June 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129065) 4 additions and 14 deletions in 1 file</sub><br />
 
+* **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Remove unnecessary variable `_hasPrimaryFocus`<br />
+    <sub>[#129066](https://github.com/flutter/flutter/pull/129066) opened on on June 17, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/129066) 299 additions and 230 deletions in 1 file</sub><br />
+
