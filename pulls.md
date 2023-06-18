@@ -86,6 +86,3 @@
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Remove unnecessary variable `_hasPrimaryFocus`<br />
     <sub>[#129066](https://github.com/flutter/flutter/pull/129066) opened on on June 17, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/129066) 299 additions and 230 deletions in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Roll Flutter Engine from 7483c8a533e3 to 7ffa1355f718 (3 revisions)"<br />
-    <sub>[#129072](https://github.com/flutter/flutter/pull/129072) opened on on June 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129072) 1 addition and 1 deletion in 1 file</sub><br />
-
