@@ -57,7 +57,7 @@
     <sub>[#128668](https://github.com/flutter/flutter/pull/128668) opened on on June 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128668) 113 additions and 9 deletions in 2 files</sub><br />
 
 * **[Paurakh Sharma Humagain](https://github.com/paurakhsharma)** &mdash; fix: Inconsistency of SelectionArea when scrolling<br />
-    <sub>[#128765](https://github.com/flutter/flutter/pull/128765) opened on on June 13, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128765) 25 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#128765](https://github.com/flutter/flutter/pull/128765) opened on on June 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128765) 25 additions and 2 deletions in 2 files</sub><br />
 
 * **[fabiancrx](https://github.com/fabiancrx)** &mdash; [flutter_tools] modify Skeleton template to use ListenableBuilder instead of AnimatedBuilder<br />
     <sub>[#128810](https://github.com/flutter/flutter/pull/128810) opened on on June 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128810) 3 additions and 3 deletions in 1 file</sub><br />
