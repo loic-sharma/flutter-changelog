@@ -124,7 +124,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Address leak tracker breaking changes.<br />
     <sub>[#128623](https://github.com/flutter/flutter/pull/128623) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128623) over 2 days, 29 additions and 26 deletions in 10 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Daniel Chevalier](https://github.com/CoderDake)</sub><br />
+    <sub>Reviewed by: [Daniel Chevalier](https://github.com/CoderDake), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix ensureVisible and default focus traversal for reversed scrollables<br />
     <sub>[#128756](https://github.com/flutter/flutter/pull/128756) merged on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128756) over 15 hours, 279 additions and 2 deletions in 2 files</sub><br />
@@ -431,7 +431,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Super tiny fix of dead link<br />
     <sub>[#128160](https://github.com/flutter/flutter/pull/128160) merged on June 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128160) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Disable context menu<br />
     <sub>[#128365](https://github.com/flutter/flutter/pull/128365) merged on June 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/128365) over 23 hours, 56 additions and 11 deletions in 2 files</sub><br />
@@ -962,7 +962,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Document the use of realm in archives.<br />
     <sub>[#42682](https://github.com/flutter/engine/pull/42682) merged on June 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42682) over 2 hours, 19 additions and 6 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [keyonghan](https://github.com/keyonghan)</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Prevent double upload of benchmarks.<br />
     <sub>[#42683](https://github.com/flutter/engine/pull/42683) merged on June 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42683) over 51 minutes, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1350,7 +1350,7 @@
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Accept required parameters not in path<br />
     <sub>[#4039](https://github.com/flutter/packages/pull/4039) merged on June 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4039) over 2 weeks, 115 additions and 49 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
+    <sub>Reviewed by: [hangyu](https://github.com/hangyujin), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Exclude maps unit tests on Windows<br />
     <sub>[#4152](https://github.com/flutter/packages/pull/4152) merged on June 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4152) over 2 hours, 2 additions and 0 deletions in 2 files</sub><br />
