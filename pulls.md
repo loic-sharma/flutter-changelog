@@ -89,3 +89,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds Suffix Property for CupertinoTextFormFieldRow<br />
     <sub>[#129077](https://github.com/flutter/flutter/pull/129077) opened on on June 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129077) 25 additions and 0 deletions in 2 files</sub><br />
 
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Let `OverflowBox` be shrink-wrappable<br />
+    <sub>[#129095](https://github.com/flutter/flutter/pull/129095) opened on on June 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129095) 37 additions and 2 deletions in 2 files</sub><br />
+

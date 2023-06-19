@@ -233,6 +233,10 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/1078012/a125b455-a46d-4993-98d8-5d8ae7237a00)</details></sub>
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tools] allow explicitly specifying the JDK to use via a new config setting
+    <sub>[#128264](https://github.com/flutter/flutter/pull/128264) merged on June 7, 2023 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/128264) over 1 day, 100 additions and 156 deletions in 8 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Do not try to load main/default asset image if only higher-res variants exist
     <sub>[#128143](https://github.com/flutter/flutter/pull/128143) merged on June 7, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/128143) over 4 days, 382 additions and 223 deletions in 8 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -244,10 +248,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] never tree shake 0x20 (space) font codepoints on web
     <sub>[#128302](https://github.com/flutter/flutter/pull/128302) merged on June 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128302) over 18 hours, 116 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
-
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tools] allow explicitly specifying the JDK to use via a new config setting
-    <sub>[#128264](https://github.com/flutter/flutter/pull/128264) merged on June 7, 2023 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/128264) over 1 day, 100 additions and 156 deletions in 8 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove scrollbar deprecations isAlwaysShown and hoverThickness
     <sub>[#127351](https://github.com/flutter/flutter/pull/127351) merged on June 5, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/127351) over 2 weeks, 127 additions and 322 deletions in 9 files</sub>
