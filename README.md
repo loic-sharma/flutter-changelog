@@ -7,7 +7,7 @@
 1 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `InputDecoration.applyDefaults` ignoring some properties<br />
-    <sub>[#129010](https://github.com/flutter/flutter/pull/129010) merged on June 19, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129010) over 2 days, 101 additions and 17 deletions in 2 files</sub><br />
+    <sub>[#129010](https://github.com/flutter/flutter/pull/129010) merged on June 19, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/129010) over 2 days, 101 additions and 17 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>2 images...</summary>![before screenshot](https://github.com/flutter/flutter/assets/48603081/ae564e15-4029-4feb-810f-e46b9312a257)![after screenshot](https://github.com/flutter/flutter/assets/48603081/8924a1d8-ffde-494b-bf44-66dab4d28845)</details></sub>
 
