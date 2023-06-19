@@ -4,7 +4,12 @@
 
 ### June 17, 2023 to June 23, 2023
 
-2 commits.
+3 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce MaterialState `color` property for chips<br />
+    <sub>[#128584](https://github.com/flutter/flutter/pull/128584) merged on June 19, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/128584) over 1 week, 1271 additions and 138 deletions in 16 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub><details><summary>2 images...</summary>![Screenshot 2023-06-13 at 16 27 13](https://github.com/flutter/flutter/assets/48603081/633f09f7-16a1-469e-b326-b9cc0ed59242)![Screenshot 2023-06-13 at 16 26 53](https://github.com/flutter/flutter/assets/48603081/7f5dffb7-4074-4268-87c0-c059c2da67a8)</details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `InputDecoration.applyDefaults` ignoring some properties<br />
     <sub>[#129010](https://github.com/flutter/flutter/pull/129010) merged on June 19, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/129010) over 2 days, 101 additions and 17 deletions in 2 files</sub><br />
