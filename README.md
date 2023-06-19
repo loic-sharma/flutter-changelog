@@ -1171,9 +1171,18 @@
 
 ## flutter/packages
 
+### June 17, 2023 to June 23, 2023
+
+1 commits.
+
+* **[Chris Yang](https://github.com/cyanglaz)** &mdash; [all] Update UIViewControllerBasedStatusBarAppearance to true<br />
+    <sub>[#4225](https://github.com/flutter/packages/pull/4225) merged on June 19, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/4225) over 3 days, 0 additions and 84 deletions in 42 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 ### June 10, 2023 to June 16, 2023
 
-27 commits.
+<details>
+<summary>27 commits...</summary>
 
 * **[yk3372](https://github.com/yk3372)** &mdash; [webview_flutter][webview_flutter_android] Add android support for handling geolocation permissions<br />
     <sub>[#3795](https://github.com/flutter/packages/pull/3795) merged on June 15, 2023 &mdash; **Large:** [41 comments](https://github.com/flutter/packages/pull/3795) over 1 month, 1227 additions and 50 deletions in 24 files</sub><br />
@@ -1286,6 +1295,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 682aa387cfe4 to 796c8ef79279 (5 revisions)<br />
     <sub>[#4213](https://github.com/flutter/packages/pull/4213) merged on June 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4213) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### June 3, 2023 to June 9, 2023
 
