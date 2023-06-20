@@ -80,3 +80,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; move test ownership from zanderso -> tools team<br />
     <sub>[#129199](https://github.com/flutter/flutter/pull/129199) opened on on June 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129199) 11 additions and 11 deletions in 1 file</sub><br />
 
+* **[Alex Isaienko](https://github.com/s0nerik)** &mdash; Notify InheritedElement when dependent is removed<br />
+    <sub>[#129210](https://github.com/flutter/flutter/pull/129210) opened on on June 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129210) 8 additions and 0 deletions in 1 file</sub><br />
+
