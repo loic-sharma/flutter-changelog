@@ -83,9 +83,6 @@
 * **[Artemii Oliinyk](https://github.com/arrrtem22)** &mdash; Remove padding duplicates of footer and header in CupertinoListSection<br />
     <sub>[#129065](https://github.com/flutter/flutter/pull/129065) opened on on June 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129065) 4 additions and 14 deletions in 1 file</sub><br />
 
-* **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Remove unnecessary variable `_hasPrimaryFocus`<br />
-    <sub>[#129066](https://github.com/flutter/flutter/pull/129066) opened on on June 17, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129066) 2 additions and 19 deletions in 1 file</sub><br />
-
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds Suffix Property for CupertinoTextFormFieldRow<br />
     <sub>[#129077](https://github.com/flutter/flutter/pull/129077) opened on on June 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129077) 25 additions and 0 deletions in 2 files</sub><br />
 

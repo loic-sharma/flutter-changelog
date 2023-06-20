@@ -699,7 +699,7 @@
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Remove unnecessary #include of SkPromiseImageTexture
     <sub>[#42770](https://github.com/flutter/engine/pull/42770) merged on June 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42770) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Dan Field](https://github.com/dnfield)</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Linux] Allow BasicMessageChannel sending and responding to null message
     <sub>[#42808](https://github.com/flutter/engine/pull/42808) merged on June 15, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42808) over 1 day, 53 additions and 3 deletions in 5 files</sub>
@@ -775,7 +775,7 @@
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Roll Clang from 6d667d4b261e to 7f374b6902fa"
     <sub>[#42896](https://github.com/flutter/engine/pull/42896) merged on June 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42896) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [David Worsham](https://github.com/arbreng), [Jesús S Guerrero](https://github.com/Jasguerrero)</sub>
+    <sub>Reviewed by: [Jesús S Guerrero](https://github.com/Jasguerrero), [David Worsham](https://github.com/arbreng)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Reland "Move linux clang tidy to engine_v2.""
     <sub>[#42713](https://github.com/flutter/engine/pull/42713) merged on June 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42713) over 2 days, 2 additions and 1 deletion in 1 file</sub>
@@ -1367,7 +1367,7 @@
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Accept required parameters not in path
     <sub>[#4039](https://github.com/flutter/packages/pull/4039) merged on June 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4039) over 2 weeks, 115 additions and 49 deletions in 7 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
+    <sub>Reviewed by: [hangyu](https://github.com/hangyujin), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Exclude maps unit tests on Windows
     <sub>[#4152](https://github.com/flutter/packages/pull/4152) merged on June 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4152) over 2 hours, 2 additions and 0 deletions in 2 files</sub>
