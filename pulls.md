@@ -72,7 +72,7 @@
     <sub>[#129030](https://github.com/flutter/flutter/pull/129030) opened on on June 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129030) 17 additions and 9 deletions in 1 file</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `Tooltip` shouldn't rebuild when hiding/showing the tooltip<br />
-    <sub>[#129053](https://github.com/flutter/flutter/pull/129053) opened on on June 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129053) 99 additions and 74 deletions in 4 files</sub><br />
+    <sub>[#129053](https://github.com/flutter/flutter/pull/129053) opened on on June 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129053) 209 additions and 82 deletions in 5 files</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny fix Flutter seems not to agree what is the estimated size of `ui.Image` (reland)<br />
     <sub>[#129054](https://github.com/flutter/flutter/pull/129054) opened on on June 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129054) 1 addition and 1 deletion in 1 file</sub><br />
