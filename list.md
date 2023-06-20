@@ -1237,11 +1237,20 @@
 
 ### June 17, 2023 to June 23, 2023
 
-2 commits.
+4 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump org.jetbrains.kotlin:kotlin-bom from 1.8.21 to 1.8.22 in /packages/in_app_purchase/in_app_purchase_android/android
+    <sub>[#4193](https://github.com/flutter/packages/pull/4193) merged on June 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4193) over 1 week, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-bom&package-manager=gradle&previous-version=1.8.21&new-version=1.8.22)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [all] Update UIViewControllerBasedStatusBarAppearance to true
     <sub>[#4225](https://github.com/flutter/packages/pull/4225) merged on June 19, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/4225) over 3 days, 0 additions and 84 deletions in 42 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add LUCI version of the analyze tasks
+    <sub>[#4253](https://github.com/flutter/packages/pull/4253) merged on June 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4253) over 22 hours, 87 additions and 1 deletion in 5 files</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Switch Linux and web build-all to LUCI
     <sub>[#4252](https://github.com/flutter/packages/pull/4252) merged on June 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4252) over 17 hours, 2 additions and 20 deletions in 2 files</sub>
