@@ -66,7 +66,7 @@
     <sub>[#128901](https://github.com/flutter/flutter/pull/128901) opened on on June 14, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/128901) 50 additions and 464 deletions in 6 files</sub><br />
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; iOS info.plist template: make UIViewControllerBasedStatusBar to be true<br />
-    <sub>[#128970](https://github.com/flutter/flutter/pull/128970) opened on on June 15, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128970) 0 additions and 62 deletions in 31 files</sub><br />
+    <sub>[#128970](https://github.com/flutter/flutter/pull/128970) opened on on June 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128970) 0 additions and 62 deletions in 31 files</sub><br />
 
 * **[Chuan-Yen Chiang](https://github.com/cychiang)** &mdash; fix: duplicated Intellij IDE message when running flutter doctor<br />
     <sub>[#129030](https://github.com/flutter/flutter/pull/129030) opened on on June 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129030) 17 additions and 9 deletions in 1 file</sub><br />
