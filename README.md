@@ -4,7 +4,7 @@
 
 ### June 17, 2023 to June 23, 2023
 
-8 commits.
+9 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce MaterialState `color` property for chips<br />
     <sub>[#128584](https://github.com/flutter/flutter/pull/128584) merged on June 19, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/128584) over 1 week, 1271 additions and 138 deletions in 16 files</sub><br />
@@ -31,6 +31,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix an ordering dependency in the flutter_tools upgrade test<br />
     <sub>[#129131](https://github.com/flutter/flutter/pull/129131) merged on June 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129131) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[William Hesse](https://github.com/whesse)** &mdash; Fix detection that tests are running on monorepo bots<br />
+    <sub>[#129173](https://github.com/flutter/flutter/pull/129173) merged on June 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129173) over 2 hours, 2 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Use the new `getIsolatePauseEvent` method from VM service to check for pause event.<br />
     <sub>[#128834](https://github.com/flutter/flutter/pull/128834) merged on June 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128834) over 6 days, 45 additions and 29 deletions in 3 files</sub><br />
@@ -595,8 +599,8 @@
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] allowing enabling Impeller on macOS.<br />
-    <sub>[#42639](https://github.com/flutter/engine/pull/42639) merged on June 12, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/42639) over 4 days, 29 additions and 0 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma), [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde), [Dan Field](https://github.com/dnfield)</sub><br />
+    <sub>[#42639](https://github.com/flutter/engine/pull/42639) merged on June 12, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/42639) over 4 days, 29 additions and 0 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma), [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso), [Chinmay Garde](https://github.com/chinmaygarde), and [1 other](https://github.com/flutter/engine/pull/42639)</sub><br />
 
 * **[gmackall](https://github.com/gmackall)** &mdash; Capture additional final inset states in ImeSyncDeferringInsetsCallback<br />
     <sub>[#42700](https://github.com/flutter/engine/pull/42700) merged on June 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42700) over 4 days, 82 additions and 1 deletion in 2 files</sub><br />
@@ -711,8 +715,8 @@
     <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Create v2 configuration for emulator tests.<br />
-    <sub>[#42652](https://github.com/flutter/engine/pull/42652) merged on June 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42652) over 4 days, 56 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
+    <sub>[#42652](https://github.com/flutter/engine/pull/42652) merged on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42652) over 4 days, 56 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
 
 * **[Tamir Duberstein](https://github.com/tamird)** &mdash; Remove dependency on memfs<br />
     <sub>[#42773](https://github.com/flutter/engine/pull/42773) merged on June 12, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/42773) over 1 hour, 43 additions and 35 deletions in 8 files</sub><br />
