@@ -4,12 +4,21 @@
 
 ### June 17, 2023 to June 23, 2023
 
-12 commits.
+14 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce MaterialState `color` property for chips<br />
     <sub>[#128584](https://github.com/flutter/flutter/pull/128584) merged on June 19, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/128584) over 1 week, 1271 additions and 138 deletions in 16 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>2 images...</summary>![Screenshot 2023-06-13 at 16 27 13](https://github.com/flutter/flutter/assets/48603081/633f09f7-16a1-469e-b326-b9cc0ed59242)![Screenshot 2023-06-13 at 16 26 53](https://github.com/flutter/flutter/assets/48603081/7f5dffb7-4074-4268-87c0-c059c2da67a8)</details></sub>
+
+* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; DecoratedSliver<br />
+    <sub>[#127823](https://github.com/flutter/flutter/pull/127823) merged on June 20, 2023 &mdash; **Large:** [46 comments](https://github.com/flutter/flutter/pull/127823) over 3 weeks, 781 additions and 0 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Fix: Magnifier appears and won't dismiss<br />
+    <sub>[#128545](https://github.com/flutter/flutter/pull/128545) merged on June 20, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/128545) over 1 week, 98 additions and 8 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+    <sub><details><summary>1 image...</summary>![Screenshot from 2023-06-13 10-52-56](https://github.com/flutter/flutter/assets/389558/d63ca4e7-a5c5-4ea1-b71b-e21c40b96a37)</details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `InputDecoration.applyDefaults` ignoring some properties<br />
     <sub>[#129010](https://github.com/flutter/flutter/pull/129010) merged on June 19, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/129010) over 2 days, 101 additions and 17 deletions in 2 files</sub><br />
@@ -563,7 +572,7 @@
 
 ### June 17, 2023 to June 23, 2023
 
-4 commits.
+5 commits.
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; A few minor cleanups of the MultiFrameCodec<br />
     <sub>[#42935](https://github.com/flutter/engine/pull/42935) merged on June 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42935) over 3 days, 6 additions and 44 deletions in 3 files</sub><br />
@@ -571,6 +580,10 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use pixel format in construction of initial PSO objects, set default sample count to 4.<br />
     <sub>[#42972](https://github.com/flutter/engine/pull/42972) merged on June 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42972) over 1 day, 88 additions and 70 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Tamir Duberstein](https://github.com/tamird)** &mdash; Roll buildroot to 6e71c38443c0bf9d8954c87bf69bb4e019f44f94<br />
+    <sub>[#43019](https://github.com/flutter/engine/pull/43019) merged on June 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43019) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Differentiate two `EncodeCommandsInReactor` with the same name<br />
