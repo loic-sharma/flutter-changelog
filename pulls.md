@@ -54,7 +54,7 @@
     <sub>[#127984](https://github.com/flutter/flutter/pull/127984) opened on on May 31, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/127984) 0 additions and 670 deletions in 38 files</sub><br />
 
 * **[Piotr FLEURY](https://github.com/PiotrFLEURY)** &mdash; Add .env file support for  option `--dart-define-from-file`<br />
-    <sub>[#128668](https://github.com/flutter/flutter/pull/128668) opened on on June 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128668) 113 additions and 9 deletions in 2 files</sub><br />
+    <sub>[#128668](https://github.com/flutter/flutter/pull/128668) opened on on June 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128668) 113 additions and 9 deletions in 2 files</sub><br />
 
 * **[Paurakh Sharma Humagain](https://github.com/paurakhsharma)** &mdash; fix: Inconsistency of SelectionArea when scrolling<br />
     <sub>[#128765](https://github.com/flutter/flutter/pull/128765) opened on on June 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128765) 31 additions and 2 deletions in 2 files</sub><br />

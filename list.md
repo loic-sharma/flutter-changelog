@@ -667,7 +667,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Null check for the device holder in the Vulkan context destructor
     <sub>[#42821](https://github.com/flutter/engine/pull/42821) merged on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42821) over 59 minutes, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Print malioc errors on CI
     <sub>[#42906](https://github.com/flutter/engine/pull/42906) merged on June 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42906) over 1 day, 11 additions and 8 deletions in 3 files</sub>
@@ -1198,11 +1198,15 @@
 
 ### June 17, 2023 to June 23, 2023
 
-1 commits.
+2 commits.
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [all] Update UIViewControllerBasedStatusBarAppearance to true
     <sub>[#4225](https://github.com/flutter/packages/pull/4225) merged on June 19, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/4225) over 3 days, 0 additions and 84 deletions in 42 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Switch Linux and web build-all to LUCI
+    <sub>[#4252](https://github.com/flutter/packages/pull/4252) merged on June 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4252) over 17 hours, 2 additions and 20 deletions in 2 files</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 ### June 10, 2023 to June 16, 2023
 
