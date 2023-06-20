@@ -66,7 +66,7 @@
     <sub>[#129030](https://github.com/flutter/flutter/pull/129030) opened on on June 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129030) 17 additions and 9 deletions in 1 file</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny fix Flutter seems not to agree what is the estimated size of `ui.Image` (reland)<br />
-    <sub>[#129054](https://github.com/flutter/flutter/pull/129054) opened on on June 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129054) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#129054](https://github.com/flutter/flutter/pull/129054) opened on on June 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129054) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Overall timing information in `TimelineSummary`, because existing metrics do not reflect real performance (reland)<br />
     <sub>[#129055](https://github.com/flutter/flutter/pull/129055) opened on on June 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129055) 214 additions and 11 deletions in 2 files</sub><br />
@@ -74,12 +74,6 @@
 * **[Artemii Oliinyk](https://github.com/arrrtem22)** &mdash; Remove padding duplicates of footer and header in CupertinoListSection<br />
     <sub>[#129065](https://github.com/flutter/flutter/pull/129065) opened on on June 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129065) 4 additions and 14 deletions in 1 file</sub><br />
 
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Let `OverflowBox` be shrink-wrappable<br />
-    <sub>[#129095](https://github.com/flutter/flutter/pull/129095) opened on on June 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129095) 37 additions and 2 deletions in 2 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; move test ownership from zanderso -> tools team<br />
     <sub>[#129199](https://github.com/flutter/flutter/pull/129199) opened on on June 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129199) 11 additions and 11 deletions in 1 file</sub><br />
-
-* **[Alex Isaienko](https://github.com/s0nerik)** &mdash; Notify InheritedElement when dependent is removed<br />
-    <sub>[#129210](https://github.com/flutter/flutter/pull/129210) opened on on June 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129210) 8 additions and 0 deletions in 1 file</sub><br />
 
