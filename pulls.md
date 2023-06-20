@@ -77,3 +77,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; move test ownership from zanderso -> tools team<br />
     <sub>[#129199](https://github.com/flutter/flutter/pull/129199) opened on on June 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129199) 11 additions and 11 deletions in 1 file</sub><br />
 
+* **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Refactor: updated segmented button<br />
+    <sub>[#129215](https://github.com/flutter/flutter/pull/129215) opened on on June 20, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/129215) 402 additions and 112 deletions in 1 file</sub><br />
+

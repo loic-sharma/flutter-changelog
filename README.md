@@ -4,7 +4,7 @@
 
 ### June 17, 2023 to June 23, 2023
 
-11 commits.
+12 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce MaterialState `color` property for chips<br />
     <sub>[#128584](https://github.com/flutter/flutter/pull/128584) merged on June 19, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/128584) over 1 week, 1271 additions and 138 deletions in 16 files</sub><br />
@@ -23,6 +23,10 @@
 * **[Swaroop S](https://github.com/SwaroopSambhayya)** &mdash; Adding ScrollController support for Stepper widget<br />
     <sub>[#128814](https://github.com/flutter/flutter/pull/128814) merged on June 20, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/128814) over 6 days, 41 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Md. Yeasin Sheikh](https://github.com/yeasin50)** &mdash; fixed PreferredSize constuctor invocations<br />
+    <sub>[#128181](https://github.com/flutter/flutter/pull/128181) merged on June 20, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/128181) over 2 weeks, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Refactor generate_localizations_test.dart<br />
     <sub>[#128974](https://github.com/flutter/flutter/pull/128974) merged on June 20, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/128974) over 4 days, 436 additions and 1375 deletions in 1 file</sub><br />
