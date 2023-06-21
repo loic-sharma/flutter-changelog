@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Arpit Gandhi](https://github.com/arpitgandhi9)** &mdash; #60704: Pass cert for TLS localhost connection<br />
-    <sub>[#106635](https://github.com/flutter/flutter/pull/106635) opened on on June 26, 2022 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/106635) 66 additions and 2 deletions in 7 files</sub><br />
+    <sub>[#106635](https://github.com/flutter/flutter/pull/106635) opened on on June 26, 2022 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/106635) 68 additions and 2 deletions in 7 files</sub><br />
 
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; Fix Chip classes to respect iconTheme constructor param. fixes #111828<br />
     <sub>[#112001](https://github.com/flutter/flutter/pull/112001) opened on on September 20, 2022 &mdash; **Small:** [57 comments](https://github.com/flutter/flutter/pull/112001) 158 additions and 55 deletions in 10 files</sub><br />
