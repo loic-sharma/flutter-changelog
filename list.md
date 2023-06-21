@@ -35,7 +35,7 @@
 
 * **[Md. Yeasin Sheikh](https://github.com/yeasin50)** &mdash; fixed PreferredSize constuctor invocations
     <sub>[#128181](https://github.com/flutter/flutter/pull/128181) merged on June 20, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/128181) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Refactor generate_localizations_test.dart
     <sub>[#128974](https://github.com/flutter/flutter/pull/128974) merged on June 20, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/128974) over 4 days, 436 additions and 1375 deletions in 1 file</sub>
@@ -70,8 +70,8 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[William Hesse](https://github.com/whesse)** &mdash; Fix detection that tests are running on monorepo bots
-    <sub>[#129173](https://github.com/flutter/flutter/pull/129173) merged on June 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129173) over 2 hours, 2 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
+    <sub>[#129173](https://github.com/flutter/flutter/pull/129173) merged on June 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129173) over 2 hours, 2 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [sigmundch](https://github.com/sigmundch), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Use the new `getIsolatePauseEvent` method from VM service to check for pause event.
     <sub>[#128834](https://github.com/flutter/flutter/pull/128834) merged on June 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128834) over 6 days, 45 additions and 29 deletions in 3 files</sub>
@@ -477,7 +477,7 @@
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [labeler] Fix adding labels when name is directory
     <sub>[#128243](https://github.com/flutter/flutter/pull/128243) merged on June 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128243) over 6 hours, 13 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Update cherry-pick issue template to more uniform labels.
     <sub>[#128333](https://github.com/flutter/flutter/pull/128333) merged on June 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128333) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
@@ -501,7 +501,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Super tiny fix of dead link
     <sub>[#128160](https://github.com/flutter/flutter/pull/128160) merged on June 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128160) over 3 days, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Polina Cherkasova](https://github.com/polina-c)</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Disable context menu
     <sub>[#128365](https://github.com/flutter/flutter/pull/128365) merged on June 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/128365) over 23 hours, 56 additions and 11 deletions in 2 files</sub>
