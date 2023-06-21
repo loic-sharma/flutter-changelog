@@ -584,7 +584,7 @@
 
 ### June 17, 2023 to June 23, 2023
 
-6 commits.
+7 commits.
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Implement the APNG_DISPOSE_OP_BACKGROUND disposal method in the animated PNG decoder<br />
     <sub>[#42933](https://github.com/flutter/engine/pull/42933) merged on June 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42933) over 4 days, 49 additions and 5 deletions in 6 files</sub><br />
@@ -597,6 +597,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use pixel format in construction of initial PSO objects, set default sample count to 4.<br />
     <sub>[#42972](https://github.com/flutter/engine/pull/42972) merged on June 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42972) over 1 day, 88 additions and 70 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Android] Return the keyboard pressed state<br />
+    <sub>[#42758](https://github.com/flutter/engine/pull/42758) merged on June 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42758) over 1 week, 194 additions and 1 deletion in 8 files</sub><br />
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Tamir Duberstein](https://github.com/tamird)** &mdash; Roll buildroot to 6e71c38443c0bf9d8954c87bf69bb4e019f44f94<br />
     <sub>[#43019](https://github.com/flutter/engine/pull/43019) merged on June 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43019) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
