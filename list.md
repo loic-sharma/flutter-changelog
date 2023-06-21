@@ -612,7 +612,7 @@
 
 ### June 17, 2023 to June 23, 2023
 
-11 commits.
+12 commits.
 
 * **[Márk Tolmács](https://github.com/mtolmacs)** &mdash; Enabling pre-push checks on Windows
     <sub>[#36123](https://github.com/flutter/engine/pull/36123) merged on June 21, 2023 &mdash; **Medium:** [49 comments](https://github.com/flutter/engine/pull/36123) over 9 months, 426 additions and 52 deletions in 10 files</sub>
@@ -653,6 +653,10 @@
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Differentiate two `EncodeCommandsInReactor` with the same name
     <sub>[#42992](https://github.com/flutter/engine/pull/42992) merged on June 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42992) over 15 hours, 2 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 3a3a3c655a96 to ac263582dda4 (60 revisions)
+    <sub>[#43062](https://github.com/flutter/engine/pull/43062) merged on June 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43062) over 1 hour, 18 additions and 6 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Add deprecations to PlatformMessage stuff" (#42580)
     <sub>[#42929](https://github.com/flutter/engine/pull/42929) merged on June 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42929) over 3 days, 106 additions and 105 deletions in 11 files</sub>
