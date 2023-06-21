@@ -84,5 +84,5 @@
     <sub>[#129274](https://github.com/flutter/flutter/pull/129274) opened on on June 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129274) 69 additions and 7 deletions in 3 files</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Stop accepting DiagnosticsNode as input from Devtools.<br />
-    <sub>[#129302](https://github.com/flutter/flutter/pull/129302) opened on on June 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129302) 18 additions and 242 deletions in 2 files</sub><br />
+    <sub>[#129302](https://github.com/flutter/flutter/pull/129302) opened on on June 21, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/129302) 44 additions and 279 deletions in 2 files</sub><br />
 
