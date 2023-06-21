@@ -83,3 +83,9 @@
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Prevent crashes on range errors when selecting device<br />
     <sub>[#129290](https://github.com/flutter/flutter/pull/129290) opened on on June 21, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/129290) 64 additions and 11 deletions in 2 files</sub><br />
 
+* **[Caffeinix](https://github.com/Caffeinix)** &mdash; Reorders menu item button shortcuts on Mac-like platforms<br />
+    <sub>[#129309](https://github.com/flutter/flutter/pull/129309) opened on on June 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129309) 69 additions and 29 deletions in 2 files</sub><br />
+
+* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; [WIP] Optimize SliverMainAxisGroup/SliverCrossAxisGroup paint function<br />
+    <sub>[#129310](https://github.com/flutter/flutter/pull/129310) opened on on June 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129310) 69 additions and 4 deletions in 2 files</sub><br />
+
