@@ -4,7 +4,7 @@
 
 ### June 17, 2023 to June 23, 2023
 
-15 commits.
+16 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce MaterialState `color` property for chips<br />
     <sub>[#128584](https://github.com/flutter/flutter/pull/128584) merged on June 19, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/128584) over 1 week, 1271 additions and 138 deletions in 16 files</sub><br />
@@ -52,6 +52,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix an ordering dependency in the flutter_tools upgrade test<br />
     <sub>[#129131](https://github.com/flutter/flutter/pull/129131) merged on June 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129131) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Move all the firebase lab device configs to .ci.yaml.<br />
+    <sub>[#129219](https://github.com/flutter/flutter/pull/129219) merged on June 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129219) over 1 hour, 43 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update resolution-aware asset docs links<br />
     <sub>[#128769](https://github.com/flutter/flutter/pull/128769) merged on June 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128769) over 1 week, 4 additions and 7 deletions in 1 file</sub><br />
