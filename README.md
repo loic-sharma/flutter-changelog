@@ -576,7 +576,11 @@
 
 ### June 17, 2023 to June 23, 2023
 
-5 commits.
+6 commits.
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Implement the APNG_DISPOSE_OP_BACKGROUND disposal method in the animated PNG decoder<br />
+    <sub>[#42933](https://github.com/flutter/engine/pull/42933) merged on June 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42933) over 4 days, 49 additions and 5 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; A few minor cleanups of the MultiFrameCodec<br />
     <sub>[#42935](https://github.com/flutter/engine/pull/42935) merged on June 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42935) over 3 days, 6 additions and 44 deletions in 3 files</sub><br />
