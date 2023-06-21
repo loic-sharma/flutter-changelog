@@ -1274,7 +1274,12 @@
 
 ### June 17, 2023 to June 23, 2023
 
-4 commits.
+5 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [image_picker]: Bump org.jetbrains.kotlin:kotlin-bom from 1.8.21 to 1.8.22 in /packages/image_picker/image_picker_android/android
+    <sub>[#4190](https://github.com/flutter/packages/pull/4190) merged on June 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4190) over 1 week, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-bom&package-manager=gradle&previous-version=1.8.21&new-version=1.8.22)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump org.jetbrains.kotlin:kotlin-bom from 1.8.21 to 1.8.22 in /packages/in_app_purchase/in_app_purchase_android/android
     <sub>[#4193](https://github.com/flutter/packages/pull/4193) merged on June 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4193) over 1 week, 6 additions and 2 deletions in 3 files</sub>
