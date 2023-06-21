@@ -74,11 +74,8 @@
 * **[Artemii Oliinyk](https://github.com/arrrtem22)** &mdash; Remove padding duplicates of footer and header in CupertinoListSection<br />
     <sub>[#129065](https://github.com/flutter/flutter/pull/129065) opened on on June 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129065) 4 additions and 14 deletions in 1 file</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; move test ownership from zanderso -> tools team<br />
-    <sub>[#129199](https://github.com/flutter/flutter/pull/129199) opened on on June 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129199) 11 additions and 11 deletions in 1 file</sub><br />
-
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Refactor: updated segmented button<br />
-    <sub>[#129215](https://github.com/flutter/flutter/pull/129215) opened on on June 20, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/129215) 402 additions and 112 deletions in 1 file</sub><br />
+    <sub>[#129215](https://github.com/flutter/flutter/pull/129215) opened on on June 20, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/129215) 402 additions and 112 deletions in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] add a gradle error handler for could not open cache directory<br />
     <sub>[#129222](https://github.com/flutter/flutter/pull/129222) opened on on June 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129222) 47 additions and 2 deletions in 2 files</sub><br />
