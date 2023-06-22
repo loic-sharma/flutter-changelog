@@ -612,7 +612,7 @@
 
 ### June 17, 2023 to June 23, 2023
 
-12 commits.
+14 commits.
 
 * **[Márk Tolmács](https://github.com/mtolmacs)** &mdash; Enabling pre-push checks on Windows<br />
     <sub>[#36123](https://github.com/flutter/engine/pull/36123) merged on June 21, 2023 &mdash; **Medium:** [49 comments](https://github.com/flutter/engine/pull/36123) over 9 months, 426 additions and 52 deletions in 10 files</sub><br />
@@ -629,6 +629,14 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use pixel format in construction of initial PSO objects, set default sample count to 4.<br />
     <sub>[#42972](https://github.com/flutter/engine/pull/42972) merged on June 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42972) over 1 day, 88 additions and 70 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Uniquely label subpasses and root blit<br />
+    <sub>[#43015](https://github.com/flutter/engine/pull/43015) merged on June 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43015) over 1 day, 9 additions and 6 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add Rect::Project<br />
+    <sub>[#43026](https://github.com/flutter/engine/pull/43026) merged on June 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43026) over 1 day, 69 additions and 6 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Document the use of contexts on engine_v2 tests.<br />
     <sub>[#43013](https://github.com/flutter/engine/pull/43013) merged on June 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43013) over 22 hours, 9 additions and 1 deletion in 1 file</sub><br />
