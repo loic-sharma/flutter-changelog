@@ -38,9 +38,6 @@
 * **[Darshan Rander](https://github.com/SirusCodes)** &mdash; fix: wrong expansion tile shape assignment<br />
     <sub>[#127749](https://github.com/flutter/flutter/pull/127749) opened on on May 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127749) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Osamu Ishimura](https://github.com/hrontan)** &mdash; fix typo of dart command in the help message about the pub cache.<br />
-    <sub>[#127839](https://github.com/flutter/flutter/pull/127839) opened on on May 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127839) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; fix a Scrollbar example crash<br />
     <sub>[#127925](https://github.com/flutter/flutter/pull/127925) opened on on May 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127925) 1 addition and 0 deletions in 1 file</sub><br />
 
@@ -48,13 +45,13 @@
     <sub>[#127959](https://github.com/flutter/flutter/pull/127959) opened on on May 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127959) 116 additions and 0 deletions in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [CP] BETA AGP 8.0 minification support when using integration_test package<br />
-    <sub>[#127968](https://github.com/flutter/flutter/pull/127968) opened on on May 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127968) 8 additions and 0 deletions in 4 files</sub><br />
+    <sub>[#127968](https://github.com/flutter/flutter/pull/127968) opened on on May 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/127968) 8 additions and 0 deletions in 4 files</sub><br />
 
 * **[Piotr FLEURY](https://github.com/PiotrFLEURY)** &mdash; Add .env file support for  option `--dart-define-from-file`<br />
     <sub>[#128668](https://github.com/flutter/flutter/pull/128668) opened on on June 11, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/128668) 255 additions and 9 deletions in 2 files</sub><br />
 
 * **[fabiancrx](https://github.com/fabiancrx)** &mdash; [flutter_tools] modify Skeleton template to use ListenableBuilder instead of AnimatedBuilder<br />
-    <sub>[#128810](https://github.com/flutter/flutter/pull/128810) opened on on June 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128810) 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>[#128810](https://github.com/flutter/flutter/pull/128810) opened on on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128810) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Migrate framework to fully use package:web<br />
     <sub>[#128901](https://github.com/flutter/flutter/pull/128901) opened on on June 14, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/128901) 50 additions and 464 deletions in 6 files</sub><br />
@@ -76,9 +73,6 @@
 
 * **[Caffeinix](https://github.com/Caffeinix)** &mdash; Reorders menu item button shortcuts on Mac-like platforms<br />
     <sub>[#129309](https://github.com/flutter/flutter/pull/129309) opened on on June 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129309) 69 additions and 29 deletions in 2 files</sub><br />
-
-* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; [WIP] Optimize SliverMainAxisGroup/SliverCrossAxisGroup paint function<br />
-    <sub>[#129310](https://github.com/flutter/flutter/pull/129310) opened on on June 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129310) 69 additions and 4 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] delete flutter format command<br />
     <sub>[#129360](https://github.com/flutter/flutter/pull/129360) opened on on June 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129360) 0 additions and 41 deletions in 2 files</sub><br />
