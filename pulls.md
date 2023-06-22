@@ -50,9 +50,6 @@
 * **[fabiancrx](https://github.com/fabiancrx)** &mdash; [flutter_tools] modify Skeleton template to use ListenableBuilder instead of AnimatedBuilder<br />
     <sub>[#128810](https://github.com/flutter/flutter/pull/128810) opened on on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128810) 3 additions and 3 deletions in 1 file</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Migrate framework to fully use package:web<br />
-    <sub>[#128901](https://github.com/flutter/flutter/pull/128901) opened on on June 14, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/128901) 50 additions and 464 deletions in 6 files</sub><br />
-
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny fix Flutter seems not to agree what is the estimated size of `ui.Image` (reland)<br />
     <sub>[#129054](https://github.com/flutter/flutter/pull/129054) opened on on June 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129054) 9 additions and 9 deletions in 4 files</sub><br />
 
