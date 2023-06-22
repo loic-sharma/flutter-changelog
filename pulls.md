@@ -80,3 +80,6 @@
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; [WIP] Optimize SliverMainAxisGroup/SliverCrossAxisGroup paint function<br />
     <sub>[#129310](https://github.com/flutter/flutter/pull/129310) opened on on June 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129310) 69 additions and 4 deletions in 2 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] delete flutter format command<br />
+    <sub>[#129360](https://github.com/flutter/flutter/pull/129360) opened on on June 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129360) 0 additions and 41 deletions in 2 files</sub><br />
+
