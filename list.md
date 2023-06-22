@@ -1342,7 +1342,7 @@
 
 ### June 17, 2023 to June 23, 2023
 
-16 commits.
+17 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Adds parent navigator key to ShellRoute and StatefulShell…
     <sub>[#4201](https://github.com/flutter/packages/pull/4201) merged on June 21, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/4201) over 1 week, 327 additions and 126 deletions in 7 files</sub>
@@ -1387,6 +1387,10 @@
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [all] Update UIViewControllerBasedStatusBarAppearance to true
     <sub>[#4225](https://github.com/flutter/packages/pull/4225) merged on June 19, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/4225) over 3 days, 0 additions and 84 deletions in 42 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Switch analyze tests to LUCI
+    <sub>[#4264](https://github.com/flutter/packages/pull/4264) merged on June 22, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4264) over 16 hours, 2 additions and 37 deletions in 2 files</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add LUCI version of build-all for Android
     <sub>[#4236](https://github.com/flutter/packages/pull/4236) merged on June 22, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/4236) over 5 days, 80 additions and 0 deletions in 4 files</sub>
