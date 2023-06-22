@@ -48,7 +48,7 @@
 
 * **[Md. Yeasin Sheikh](https://github.com/yeasin50)** &mdash; fixed PreferredSize constuctor invocations
     <sub>[#128181](https://github.com/flutter/flutter/pull/128181) merged on June 20, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/128181) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Refactor generate_localizations_test.dart
     <sub>[#128974](https://github.com/flutter/flutter/pull/128974) merged on June 20, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/128974) over 4 days, 436 additions and 1375 deletions in 1 file</sub>
@@ -56,7 +56,7 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; move test ownership from zanderso -> tools team
     <sub>[#129199](https://github.com/flutter/flutter/pull/129199) merged on June 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129199) over 21 hours, 11 additions and 11 deletions in 1 file</sub>
-    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Elias Yishak](https://github.com/eliasyishak)</sub>
 
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Remove unnecessary variable `_hasPrimaryFocus`
     <sub>[#129066](https://github.com/flutter/flutter/pull/129066) merged on June 22, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/129066) over 4 days, 2 additions and 19 deletions in 1 file</sub>
@@ -247,7 +247,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Address leak tracker breaking changes.
     <sub>[#128623](https://github.com/flutter/flutter/pull/128623) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128623) over 2 days, 29 additions and 26 deletions in 10 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Daniel Chevalier](https://github.com/CoderDake)</sub>
+    <sub>Reviewed by: [Daniel Chevalier](https://github.com/CoderDake), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix ensureVisible and default focus traversal for reversed scrollables
     <sub>[#128756](https://github.com/flutter/flutter/pull/128756) merged on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128756) over 15 hours, 279 additions and 2 deletions in 2 files</sub>
@@ -598,7 +598,7 @@
 
 * **[ZhulanovAA](https://github.com/ZhulanovAA)** &mdash; Remove unnecessary parentheses
     <sub>[#128620](https://github.com/flutter/flutter/pull/128620) merged on June 10, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128620) over 20 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Leigha Jarett](https://github.com/leighajarett)** &mdash; Adding example for migrating to navigation drawer
     <sub>[#128295](https://github.com/flutter/flutter/pull/128295) merged on June 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128295) over 20 hours, 66 additions and 0 deletions in 2 files</sub>
@@ -606,7 +606,7 @@
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Revert "Update `chip.dart` to use set of `MaterialState`"
     <sub>[#128607](https://github.com/flutter/flutter/pull/128607) merged on June 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128607) over 53 minutes, 18 additions and 44 deletions in 1 file</sub>
-    <sub>Reviewed by: [Tae Hyung Kim](https://github.com/thkim1011), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tae Hyung Kim](https://github.com/thkim1011)</sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Revert "test owners: cyanglaz -> vashworth"
     <sub>[#128462](https://github.com/flutter/flutter/pull/128462) merged on June 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128462) over 1 day, 24 additions and 24 deletions in 1 file</sub>
@@ -703,7 +703,7 @@
 
 * **[Tamir Duberstein](https://github.com/tamird)** &mdash; Remove process-local tempfs
     <sub>[#43056](https://github.com/flutter/engine/pull/43056) merged on June 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/43056) over 7 hours, 19 additions and 98 deletions in 8 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Tom Robinson](https://github.com/tarobins)</sub>
+    <sub>Reviewed by: [Tom Robinson](https://github.com/tarobins), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Uniquely label subpasses and root blit
     <sub>[#43015](https://github.com/flutter/engine/pull/43015) merged on June 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43015) over 1 day, 9 additions and 6 deletions in 3 files</sub>
@@ -735,7 +735,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Differentiate two `EncodeCommandsInReactor` with the same name
     <sub>[#42992](https://github.com/flutter/engine/pull/42992) merged on June 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42992) over 15 hours, 2 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Dan Field](https://github.com/dnfield)</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 7658525166a4 to bbcf54bcb738 (1 revision)
     <sub>[#43079](https://github.com/flutter/engine/pull/43079) merged on June 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43079) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
@@ -755,7 +755,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland: Correctly compute UVs in texture fill
     <sub>[#43093](https://github.com/flutter/engine/pull/43093) merged on June 22, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/43093) over 2 hours, 52 additions and 30 deletions in 6 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Dan Field](https://github.com/dnfield)</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[Impeller] dont use concurrent runner to decode images on Android."
     <sub>[#43061](https://github.com/flutter/engine/pull/43061) merged on June 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43061) over 20 hours, 5 additions and 13 deletions in 1 file</sub>
@@ -1000,11 +1000,11 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[Impeller] correct default PSO pixel format and sample count."
     <sub>[#42962](https://github.com/flutter/engine/pull/42962) merged on June 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42962) over 4 hours, 70 additions and 84 deletions in 4 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Revert "Add deprecations to PlatformMessage stuff"
     <sub>[#42921](https://github.com/flutter/engine/pull/42921) merged on June 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42921) over 1 hour, 105 additions and 106 deletions in 11 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland attempt Vulkan setup and fallback to GLES.
     <sub>[#42820](https://github.com/flutter/engine/pull/42820) merged on June 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/42820) over 2 hours, 18 additions and 6 deletions in 3 files</sub>
@@ -1012,7 +1012,7 @@
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Roll Clang from 6d667d4b261e to 7f374b6902fa"
     <sub>[#42896](https://github.com/flutter/engine/pull/42896) merged on June 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42896) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jesús S Guerrero](https://github.com/Jasguerrero), [David Worsham](https://github.com/arbreng)</sub>
+    <sub>Reviewed by: [David Worsham](https://github.com/arbreng), [Jesús S Guerrero](https://github.com/Jasguerrero)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Reland "Move linux clang tidy to engine_v2.""
     <sub>[#42713](https://github.com/flutter/engine/pull/42713) merged on June 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42713) over 2 days, 2 additions and 1 deletion in 1 file</sub>
