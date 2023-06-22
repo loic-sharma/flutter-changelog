@@ -77,9 +77,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix floating SnackBar throws when FAB is on the top<br />
     <sub>[#129274](https://github.com/flutter/flutter/pull/129274) opened on on June 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129274) 69 additions and 7 deletions in 3 files</sub><br />
 
-* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Prevent crashes on range errors when selecting device<br />
-    <sub>[#129290](https://github.com/flutter/flutter/pull/129290) opened on on June 21, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/129290) 64 additions and 11 deletions in 2 files</sub><br />
-
 * **[Caffeinix](https://github.com/Caffeinix)** &mdash; Reorders menu item button shortcuts on Mac-like platforms<br />
     <sub>[#129309](https://github.com/flutter/flutter/pull/129309) opened on on June 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129309) 69 additions and 29 deletions in 2 files</sub><br />
 

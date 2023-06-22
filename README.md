@@ -4,7 +4,7 @@
 
 ### June 17, 2023 to June 23, 2023
 
-26 commits.
+27 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce MaterialState `color` property for chips<br />
     <sub>[#128584](https://github.com/flutter/flutter/pull/128584) merged on June 19, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/128584) over 1 week, 1271 additions and 138 deletions in 16 files</sub><br />
@@ -43,7 +43,7 @@
 
 * **[Md. Yeasin Sheikh](https://github.com/yeasin50)** &mdash; fixed PreferredSize constuctor invocations<br />
     <sub>[#128181](https://github.com/flutter/flutter/pull/128181) merged on June 20, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/128181) over 2 weeks, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Refactor generate_localizations_test.dart<br />
     <sub>[#128974](https://github.com/flutter/flutter/pull/128974) merged on June 20, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/128974) over 4 days, 436 additions and 1375 deletions in 1 file</sub><br />
@@ -56,6 +56,10 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [process] Add a design doc issue template.<br />
     <sub>[#128361](https://github.com/flutter/flutter/pull/128361) merged on June 20, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/128361) over 1 week, 32 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
+
+* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Prevent crashes on range errors when selecting device<br />
+    <sub>[#129290](https://github.com/flutter/flutter/pull/129290) merged on June 22, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/129290) over 23 hours, 64 additions and 11 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of packages to 9af50d46e5d118fd8bc6a7b38bae748bf7877c58<br />
     <sub>[#129328](https://github.com/flutter/flutter/pull/129328) merged on June 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129328) over 53 minutes, 1 addition and 1 deletion in 1 file</sub><br />
@@ -942,7 +946,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Revert "Add deprecations to PlatformMessage stuff"<br />
     <sub>[#42921](https://github.com/flutter/engine/pull/42921) merged on June 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42921) over 1 hour, 105 additions and 106 deletions in 11 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland attempt Vulkan setup and fallback to GLES.<br />
     <sub>[#42820](https://github.com/flutter/engine/pull/42820) merged on June 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/42820) over 2 hours, 18 additions and 6 deletions in 3 files</sub><br />
@@ -1156,7 +1160,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Document the use of realm in archives.<br />
     <sub>[#42682](https://github.com/flutter/engine/pull/42682) merged on June 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42682) over 2 hours, 19 additions and 6 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [keyonghan](https://github.com/keyonghan)</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Prevent double upload of benchmarks.<br />
     <sub>[#42683](https://github.com/flutter/engine/pull/42683) merged on June 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42683) over 51 minutes, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1367,7 +1371,7 @@
 
 ### June 17, 2023 to June 23, 2023
 
-17 commits.
+18 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Adds parent navigator key to ShellRoute and StatefulShell…<br />
     <sub>[#4201](https://github.com/flutter/packages/pull/4201) merged on June 21, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/4201) over 1 week, 327 additions and 126 deletions in 7 files</sub><br />
@@ -1404,6 +1408,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tools] Add mockito support to update-dependency<br />
     <sub>[#4260](https://github.com/flutter/packages/pull/4260) merged on June 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4260) over 18 hours, 159 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[gmackall](https://github.com/gmackall)** &mdash; [in_app_purchase_android] Bump org.mockito:mockito-core from 4.7.0 to 5.3.1<br />
+    <sub>[#4224](https://github.com/flutter/packages/pull/4224) merged on June 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4224) over 6 days, 8 additions and 10 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; Roll Flutter from fc8856eb80d3 to c40baf47c5c8 (57 revisions)<br />
     <sub>[#4270](https://github.com/flutter/packages/pull/4270) merged on June 22, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/4270) over 7 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1672,7 +1680,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tools] Fix OOB test error<br />
     <sub>[#4144](https://github.com/flutter/packages/pull/4144) merged on June 5, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/4144) over 1 hour, 11 additions and 11 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[dsambuk](https://github.com/dsambuk)** &mdash; [path_provider] Allow win32 up to version 5.x<br />
     <sub>[#4125](https://github.com/flutter/packages/pull/4125) merged on June 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4125) over 4 days, 4 additions and 3 deletions in 2 files</sub><br />
