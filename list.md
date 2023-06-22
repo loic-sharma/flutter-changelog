@@ -1342,7 +1342,7 @@
 
 ### June 17, 2023 to June 23, 2023
 
-15 commits.
+16 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Adds parent navigator key to ShellRoute and StatefulShell…
     <sub>[#4201](https://github.com/flutter/packages/pull/4201) merged on June 21, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/4201) over 1 week, 327 additions and 126 deletions in 7 files</sub>
@@ -1379,6 +1379,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tools] Add mockito support to update-dependency
     <sub>[#4260](https://github.com/flutter/packages/pull/4260) merged on June 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4260) over 18 hours, 159 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; Roll Flutter from fc8856eb80d3 to c40baf47c5c8 (57 revisions)
+    <sub>[#4270](https://github.com/flutter/packages/pull/4270) merged on June 22, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/4270) over 7 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [all] Update UIViewControllerBasedStatusBarAppearance to true
     <sub>[#4225](https://github.com/flutter/packages/pull/4225) merged on June 19, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/4225) over 3 days, 0 additions and 84 deletions in 42 files</sub>
