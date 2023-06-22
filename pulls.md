@@ -86,3 +86,6 @@
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; [WIP] Optimize SliverMainAxisGroup/SliverCrossAxisGroup paint function<br />
     <sub>[#129310](https://github.com/flutter/flutter/pull/129310) opened on on June 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129310) 69 additions and 4 deletions in 2 files</sub><br />
 
+* **[hangyu](https://github.com/hangyujin)** &mdash; Fix chinese text is not selected by long press<br />
+    <sub>[#129320](https://github.com/flutter/flutter/pull/129320) opened on on June 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129320) 28 additions and 1 deletion in 2 files</sub><br />
+
