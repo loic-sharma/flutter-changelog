@@ -554,7 +554,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Super tiny fix of dead link<br />
     <sub>[#128160](https://github.com/flutter/flutter/pull/128160) merged on June 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/128160) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Disable context menu<br />
     <sub>[#128365](https://github.com/flutter/flutter/pull/128365) merged on June 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/128365) over 23 hours, 56 additions and 11 deletions in 2 files</sub><br />
@@ -641,7 +641,7 @@
 
 ### June 17, 2023 to June 23, 2023
 
-27 commits.
+28 commits.
 
 * **[Márk Tolmács](https://github.com/mtolmacs)** &mdash; Enabling pre-push checks on Windows<br />
     <sub>[#36123](https://github.com/flutter/engine/pull/36123) merged on June 21, 2023 &mdash; **Medium:** [49 comments](https://github.com/flutter/engine/pull/36123) over 9 months, 426 additions and 52 deletions in 10 files</sub><br />
@@ -656,6 +656,10 @@
     <sub>[#43092](https://github.com/flutter/engine/pull/43092) merged on June 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43092) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
     <sub><details><summary>1 image...</summary>![unnamed](https://github.com/flutter/engine/assets/8975114/93650ac8-4451-49d7-b8fa-00fc9f7f4277)</details></sub>
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Print a warning when a message channel is used on the wrong thread.<br />
+    <sub>[#42928](https://github.com/flutter/engine/pull/42928) merged on June 22, 2023 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/42928) over 6 days, 175 additions and 46 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Fix up coverage hints for blending/vertices, fix TiledTextureContents::RenderToSnapshot<br />
     <sub>[#43017](https://github.com/flutter/engine/pull/43017) merged on June 22, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/43017) over 1 day, 96 additions and 14 deletions in 9 files</sub><br />
@@ -687,7 +691,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't get break type from v8BreakIterator<br />
     <sub>[#43053](https://github.com/flutter/engine/pull/43053) merged on June 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43053) over 23 hours, 49 additions and 16 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Harry Terkelsen](https://github.com/hterkelsen), [Yegor](https://github.com/yjbanov)</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Harry Terkelsen](https://github.com/hterkelsen)</sub><br />
 
 * **[Tamir Duberstein](https://github.com/tamird)** &mdash; Remove process-local tempfs<br />
     <sub>[#43056](https://github.com/flutter/engine/pull/43056) merged on June 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/43056) over 7 hours, 19 additions and 98 deletions in 8 files</sub><br />
@@ -723,7 +727,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Differentiate two `EncodeCommandsInReactor` with the same name<br />
     <sub>[#42992](https://github.com/flutter/engine/pull/42992) merged on June 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42992) over 15 hours, 2 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Dan Field](https://github.com/dnfield)</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 7658525166a4 to bbcf54bcb738 (1 revision)<br />
     <sub>[#43079](https://github.com/flutter/engine/pull/43079) merged on June 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43079) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
@@ -880,7 +884,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Null check for the device holder in the Vulkan context destructor<br />
     <sub>[#42821](https://github.com/flutter/engine/pull/42821) merged on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42821) over 59 minutes, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Print malioc errors on CI<br />
     <sub>[#42906](https://github.com/flutter/engine/pull/42906) merged on June 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42906) over 1 day, 11 additions and 8 deletions in 3 files</sub><br />
@@ -920,7 +924,7 @@
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Remove unnecessary #include of SkPromiseImageTexture<br />
     <sub>[#42770](https://github.com/flutter/engine/pull/42770) merged on June 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42770) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Dan Field](https://github.com/dnfield)</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Linux] Allow BasicMessageChannel sending and responding to null message<br />
     <sub>[#42808](https://github.com/flutter/engine/pull/42808) merged on June 15, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42808) over 1 day, 53 additions and 3 deletions in 5 files</sub><br />
@@ -988,7 +992,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Revert "Add deprecations to PlatformMessage stuff"<br />
     <sub>[#42921](https://github.com/flutter/engine/pull/42921) merged on June 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42921) over 1 hour, 105 additions and 106 deletions in 11 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland attempt Vulkan setup and fallback to GLES.<br />
     <sub>[#42820](https://github.com/flutter/engine/pull/42820) merged on June 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/42820) over 2 hours, 18 additions and 6 deletions in 3 files</sub><br />
@@ -1516,7 +1520,7 @@
 
 * **[Ahmed Fwela](https://github.com/ahmednfwela)** &mdash; [flutter_adaptive_scaffold] Support RTL<br />
     <sub>[#4204](https://github.com/flutter/packages/pull/4204) merged on June 14, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/4204) over 1 day, 515 additions and 463 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Justin McCandless](https://github.com/justinmc)</sub><br />
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/packages/assets/63286031/10adac59-3f9a-4f4d-85da-939efbb47ae8)  |  ![image](https://github.com/flutter/packages/assets/63286031/c8c1af75-4787-473c-a397-a64d2f9b1e88)</details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_map_flutter] Fix map object regression due to async changes<br />
