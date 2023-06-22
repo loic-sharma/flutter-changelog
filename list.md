@@ -222,7 +222,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Address leak tracker breaking changes.
     <sub>[#128623](https://github.com/flutter/flutter/pull/128623) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128623) over 2 days, 29 additions and 26 deletions in 10 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Daniel Chevalier](https://github.com/CoderDake)</sub>
+    <sub>Reviewed by: [Daniel Chevalier](https://github.com/CoderDake), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix ensureVisible and default focus traversal for reversed scrollables
     <sub>[#128756](https://github.com/flutter/flutter/pull/128756) merged on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128756) over 15 hours, 279 additions and 2 deletions in 2 files</sub>
@@ -505,7 +505,7 @@
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [labeler] Fix adding labels when name is directory
     <sub>[#128243](https://github.com/flutter/flutter/pull/128243) merged on June 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128243) over 6 hours, 13 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Update cherry-pick issue template to more uniform labels.
     <sub>[#128333](https://github.com/flutter/flutter/pull/128333) merged on June 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/128333) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
@@ -645,7 +645,7 @@
 
 * **[Tamir Duberstein](https://github.com/tamird)** &mdash; Remove process-local tempfs
     <sub>[#43056](https://github.com/flutter/engine/pull/43056) merged on June 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/43056) over 7 hours, 19 additions and 98 deletions in 8 files</sub>
-    <sub>Reviewed by: [Tom Robinson](https://github.com/tarobins), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Tom Robinson](https://github.com/tarobins)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Uniquely label subpasses and root blit
     <sub>[#43015](https://github.com/flutter/engine/pull/43015) merged on June 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43015) over 1 day, 9 additions and 6 deletions in 3 files</sub>
@@ -822,7 +822,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Null check for the device holder in the Vulkan context destructor
     <sub>[#42821](https://github.com/flutter/engine/pull/42821) merged on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42821) over 59 minutes, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Print malioc errors on CI
     <sub>[#42906](https://github.com/flutter/engine/pull/42906) merged on June 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42906) over 1 day, 11 additions and 8 deletions in 3 files</sub>
@@ -930,7 +930,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Revert "Add deprecations to PlatformMessage stuff"
     <sub>[#42921](https://github.com/flutter/engine/pull/42921) merged on June 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42921) over 1 hour, 105 additions and 106 deletions in 11 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland attempt Vulkan setup and fallback to GLES.
     <sub>[#42820](https://github.com/flutter/engine/pull/42820) merged on June 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/42820) over 2 hours, 18 additions and 6 deletions in 3 files</sub>
