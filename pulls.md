@@ -68,6 +68,3 @@
 * **[Sobuur Ishola](https://github.com/103hos116)** &mdash; Fix : '(', ':', <, <qualified reference expression>, '=', '?' or IDENTIFIER expected, got 'super'<br />
     <sub>[#129375](https://github.com/flutter/flutter/pull/129375) opened on on June 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129375) 2 additions and 2 deletions in 2 files</sub><br />
 
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated TextMagnifierExampleApp to M3<br />
-    <sub>[#129381](https://github.com/flutter/flutter/pull/129381) opened on on June 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129381) 1 addition and 1 deletion in 1 file</sub><br />
-
