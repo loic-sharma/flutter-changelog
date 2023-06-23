@@ -68,3 +68,6 @@
 * **[Sobuur Ishola](https://github.com/103hos116)** &mdash; Fix : '(', ':', <, <qualified reference expression>, '=', '?' or IDENTIFIER expected, got 'super'<br />
     <sub>[#129375](https://github.com/flutter/flutter/pull/129375) opened on on June 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129375) 2 additions and 2 deletions in 2 files</sub><br />
 
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; Revert "[web] Migrate framework to fully use package:web"<br />
+    <sub>[#129400](https://github.com/flutter/flutter/pull/129400) opened on on June 23, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/129400) 464 additions and 50 deletions in 6 files</sub><br />
+
