@@ -44,7 +44,7 @@
 
 * **[gmackall](https://github.com/gmackall)** &mdash; Unpin path_provider_android
     <sub>[#129205](https://github.com/flutter/flutter/pull/129205) merged on June 22, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/129205) over 2 days, 309 additions and 109 deletions in 15 files</sub>
-    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[Paurakh Sharma Humagain](https://github.com/paurakhsharma)** &mdash; fix: Inconsistency of SelectionArea when scrolling
     <sub>[#128765](https://github.com/flutter/flutter/pull/128765) merged on June 23, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/128765) over 1 week, 77 additions and 2 deletions in 2 files</sub>
@@ -64,7 +64,7 @@
 
 * **[Md. Yeasin Sheikh](https://github.com/yeasin50)** &mdash; fixed PreferredSize constuctor invocations
     <sub>[#128181](https://github.com/flutter/flutter/pull/128181) merged on June 20, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/128181) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Oleh Prypin](https://github.com/oprypin)** &mdash; Prepare for making `intl` `toBeginningOfSentenceCase` non-nullable
     <sub>[#127488](https://github.com/flutter/flutter/pull/127488) merged on June 23, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/127488) over 4 weeks, 2 additions and 1 deletion in 1 file</sub>
@@ -76,11 +76,11 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] delete flutter format command
     <sub>[#129360](https://github.com/flutter/flutter/pull/129360) merged on June 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/129360) over 4 hours, 0 additions and 41 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Elias Yishak](https://github.com/eliasyishak)</sub>
+    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; move test ownership from zanderso -> tools team
     <sub>[#129199](https://github.com/flutter/flutter/pull/129199) merged on June 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129199) over 21 hours, 11 additions and 11 deletions in 1 file</sub>
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Elias Yishak](https://github.com/eliasyishak)</sub>
+    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Remove unnecessary variable `_hasPrimaryFocus`
     <sub>[#129066](https://github.com/flutter/flutter/pull/129066) merged on June 22, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/129066) over 4 days, 2 additions and 19 deletions in 1 file</sub>
@@ -96,7 +96,7 @@
 
 * **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; fix: SearchAnchor View not resizing when in nested navigator
     <sub>[#128357](https://github.com/flutter/flutter/pull/128357) merged on June 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128357) over 2 weeks, 46 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Run misc test shard when examples/api/** change
     <sub>[#129433](https://github.com/flutter/flutter/pull/129433) merged on June 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129433) over 57 minutes, 4 additions and 0 deletions in 1 file</sub>
@@ -795,7 +795,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't get break type from v8BreakIterator
     <sub>[#43053](https://github.com/flutter/engine/pull/43053) merged on June 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43053) over 23 hours, 49 additions and 16 deletions in 2 files</sub>
-    <sub>Reviewed by: [Harry Terkelsen](https://github.com/hterkelsen), [Yegor](https://github.com/yjbanov)</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Harry Terkelsen](https://github.com/hterkelsen)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [impeller] Explicitly cast enum class to int before passing it to a formatted string
     <sub>[#43139](https://github.com/flutter/engine/pull/43139) merged on June 23, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43139) over 7 hours, 2 additions and 2 deletions in 1 file</sub>
@@ -843,7 +843,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Differentiate two `EncodeCommandsInReactor` with the same name
     <sub>[#42992](https://github.com/flutter/engine/pull/42992) merged on June 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42992) over 15 hours, 2 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Dan Field](https://github.com/dnfield)</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Add osx_sdk context to mac_clang_tidy
     <sub>[#43115](https://github.com/flutter/engine/pull/43115) merged on June 23, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43115) over 17 hours, 6 additions and 0 deletions in 1 file</sub>
@@ -899,7 +899,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Fix and reland drawPaint collapsing optimization.
     <sub>[#43097](https://github.com/flutter/engine/pull/43097) merged on June 23, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43097) over 7 hours, 24 additions and 2 deletions in 4 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[Impeller] dont use concurrent runner to decode images on Android."
     <sub>[#43061](https://github.com/flutter/engine/pull/43061) merged on June 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43061) over 20 hours, 5 additions and 13 deletions in 1 file</sub>
@@ -1144,11 +1144,11 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[Impeller] correct default PSO pixel format and sample count."
     <sub>[#42962](https://github.com/flutter/engine/pull/42962) merged on June 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42962) over 4 hours, 70 additions and 84 deletions in 4 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Revert "Add deprecations to PlatformMessage stuff"
     <sub>[#42921](https://github.com/flutter/engine/pull/42921) merged on June 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42921) over 1 hour, 105 additions and 106 deletions in 11 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland attempt Vulkan setup and fallback to GLES.
     <sub>[#42820](https://github.com/flutter/engine/pull/42820) merged on June 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/42820) over 2 hours, 18 additions and 6 deletions in 3 files</sub>
@@ -1156,7 +1156,7 @@
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Roll Clang from 6d667d4b261e to 7f374b6902fa"
     <sub>[#42896](https://github.com/flutter/engine/pull/42896) merged on June 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42896) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [David Worsham](https://github.com/arbreng), [Jesús S Guerrero](https://github.com/Jasguerrero)</sub>
+    <sub>Reviewed by: [Jesús S Guerrero](https://github.com/Jasguerrero), [David Worsham](https://github.com/arbreng)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Reland "Move linux clang tidy to engine_v2.""
     <sub>[#42713](https://github.com/flutter/engine/pull/42713) merged on June 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/42713) over 2 days, 2 additions and 1 deletion in 1 file</sub>
