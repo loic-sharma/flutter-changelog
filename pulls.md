@@ -66,5 +66,5 @@
     <sub>[#129406](https://github.com/flutter/flutter/pull/129406) opened on on June 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129406) 40 additions and 5 deletions in 4 files</sub><br />
 
 * **[Muhammad Asad Baidar](https://github.com/asadbaidar)** &mdash; New properties added in RawAutocomplete and Autocomplete widgets<br />
-    <sub>[#129431](https://github.com/flutter/flutter/pull/129431) opened on on June 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129431) 164 additions and 20 deletions in 2 files</sub><br />
+    <sub>[#129431](https://github.com/flutter/flutter/pull/129431) opened on on June 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129431) 164 additions and 20 deletions in 2 files</sub><br />
 
