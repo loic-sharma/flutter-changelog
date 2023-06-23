@@ -59,9 +59,6 @@
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Refactor: updated segmented button<br />
     <sub>[#129215](https://github.com/flutter/flutter/pull/129215) opened on on June 20, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/129215) 402 additions and 112 deletions in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix floating SnackBar throws when FAB is on the top<br />
-    <sub>[#129274](https://github.com/flutter/flutter/pull/129274) opened on on June 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129274) 69 additions and 7 deletions in 3 files</sub><br />
-
 * **[Caffeinix](https://github.com/Caffeinix)** &mdash; Reorders menu item button shortcuts on Mac-like platforms<br />
     <sub>[#129309](https://github.com/flutter/flutter/pull/129309) opened on on June 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129309) 69 additions and 29 deletions in 2 files</sub><br />
 
