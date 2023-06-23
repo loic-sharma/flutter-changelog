@@ -4,7 +4,7 @@
 
 ### June 17, 2023 to June 23, 2023
 
-38 commits.
+39 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Material 3 Scrollable `TabBar`<br />
     <sub>[#125974](https://github.com/flutter/flutter/pull/125974) merged on June 22, 2023 &mdash; **Large:** [49 comments](https://github.com/flutter/flutter/pull/125974) over 1 month, 624 additions and 43 deletions in 6 files</sub><br />
@@ -54,6 +54,10 @@
     <sub>[#129365](https://github.com/flutter/flutter/pull/129365) merged on June 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129365) over 2 hours, 26 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
+* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Refactor generate_localizations_test.dart<br />
+    <sub>[#128974](https://github.com/flutter/flutter/pull/128974) merged on June 20, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/128974) over 4 days, 436 additions and 1375 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Migrate framework to fully use package:web<br />
     <sub>[#128901](https://github.com/flutter/flutter/pull/128901) merged on June 22, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/128901) over 1 week, 50 additions and 464 deletions in 6 files</sub><br />
     <sub>Reviewed by: [joshualitt](https://github.com/joshualitt)</sub><br />
@@ -61,10 +65,6 @@
 * **[Md. Yeasin Sheikh](https://github.com/yeasin50)** &mdash; fixed PreferredSize constuctor invocations<br />
     <sub>[#128181](https://github.com/flutter/flutter/pull/128181) merged on June 20, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/128181) over 2 weeks, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
-
-* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Refactor generate_localizations_test.dart<br />
-    <sub>[#128974](https://github.com/flutter/flutter/pull/128974) merged on June 20, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/128974) over 4 days, 436 additions and 1375 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] delete flutter format command<br />
     <sub>[#129360](https://github.com/flutter/flutter/pull/129360) merged on June 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/129360) over 4 hours, 0 additions and 41 deletions in 2 files</sub><br />
@@ -110,29 +110,33 @@
     <sub>[#129298](https://github.com/flutter/flutter/pull/129298) merged on June 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129298) over 3 hours, 9 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[Chris Yang](https://github.com/cyanglaz)** &mdash; iOS info.plist template: make UIViewControllerBasedStatusBar to be true<br />
-    <sub>[#128970](https://github.com/flutter/flutter/pull/128970) merged on June 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128970) over 4 days, 0 additions and 62 deletions in 31 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Gracefully handle negative position in getWordAtOffset<br />
-    <sub>[#128464](https://github.com/flutter/flutter/pull/128464) merged on June 21, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/128464) over 2 weeks, 55 additions and 5 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
-
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] add a gradle error handler for could not open cache directory<br />
-    <sub>[#129222](https://github.com/flutter/flutter/pull/129222) merged on June 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129222) over 20 hours, 48 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix an ordering dependency in the flutter_tools upgrade test<br />
+    <sub>[#129131](https://github.com/flutter/flutter/pull/129131) merged on June 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129131) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Refactor `Analytics` global getter to point to context only<br />
     <sub>[#129196](https://github.com/flutter/flutter/pull/129196) merged on June 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129196) over 21 hours, 8 additions and 14 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix an ordering dependency in the flutter_tools upgrade test<br />
-    <sub>[#129131](https://github.com/flutter/flutter/pull/129131) merged on June 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129131) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[Chris Yang](https://github.com/cyanglaz)** &mdash; iOS info.plist template: make UIViewControllerBasedStatusBar to be true<br />
+    <sub>[#128970](https://github.com/flutter/flutter/pull/128970) merged on June 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128970) over 4 days, 0 additions and 62 deletions in 31 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] add a gradle error handler for could not open cache directory<br />
+    <sub>[#129222](https://github.com/flutter/flutter/pull/129222) merged on June 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129222) over 20 hours, 48 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Gracefully handle negative position in getWordAtOffset<br />
+    <sub>[#128464](https://github.com/flutter/flutter/pull/128464) merged on June 21, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/128464) over 2 weeks, 55 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Use the new `getIsolatePauseEvent` method from VM service to check for pause event.<br />
     <sub>[#128834](https://github.com/flutter/flutter/pull/128834) merged on June 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/128834) over 6 days, 45 additions and 29 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; `_TapStatusTrackerMixin` should wait until the next `PointerDownEvent` before resetting its state when the tap timer has elapsed<br />
+    <sub>[#129312](https://github.com/flutter/flutter/pull/129312) merged on June 23, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/129312) over 1 day, 95 additions and 1 deletion in 3 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Relax `OverlayPortal` asserts<br />
     <sub>[#129053](https://github.com/flutter/flutter/pull/129053) merged on June 21, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/129053) over 3 days, 289 additions and 96 deletions in 5 files</sub><br />
