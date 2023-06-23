@@ -71,3 +71,6 @@
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Allow a few builders to be customized<br />
     <sub>[#129406](https://github.com/flutter/flutter/pull/129406) opened on on June 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129406) 40 additions and 5 deletions in 4 files</sub><br />
 
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Add r: timeout label to bugs/pr closed by no response bot.<br />
+    <sub>[#129408](https://github.com/flutter/flutter/pull/129408) opened on on June 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129408) 2 additions and 0 deletions in 1 file</sub><br />
+
