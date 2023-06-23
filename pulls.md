@@ -68,3 +68,6 @@
 * **[Sobuur Ishola](https://github.com/103hos116)** &mdash; Fix : '(', ':', <, <qualified reference expression>, '=', '?' or IDENTIFIER expected, got 'super'<br />
     <sub>[#129375](https://github.com/flutter/flutter/pull/129375) opened on on June 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129375) 2 additions and 2 deletions in 2 files</sub><br />
 
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Allow a few builders to be customized<br />
+    <sub>[#129406](https://github.com/flutter/flutter/pull/129406) opened on on June 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129406) 40 additions and 5 deletions in 4 files</sub><br />
+
