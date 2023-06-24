@@ -71,3 +71,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Make bug templates more consistent<br />
     <sub>[#129460](https://github.com/flutter/flutter/pull/129460) opened on on June 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129460) 6 additions and 6 deletions in 4 files</sub><br />
 
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Remove `@NonNull` to avoid warning<br />
+    <sub>[#129472](https://github.com/flutter/flutter/pull/129472) opened on on June 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129472) 3 additions and 3 deletions in 1 file</sub><br />
+
