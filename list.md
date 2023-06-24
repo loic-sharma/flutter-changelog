@@ -38,6 +38,10 @@
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>2 images...</summary>![before screenshot](https://github.com/flutter/flutter/assets/48603081/ae564e15-4029-4feb-810f-e46b9312a257)![after screenshot](https://github.com/flutter/flutter/assets/48603081/8924a1d8-ffde-494b-bf44-66dab4d28845)</details></sub>
 
+* **[Paurakh Sharma Humagain](https://github.com/paurakhsharma)** &mdash; fix: Inconsistency of SelectionArea when scrolling
+    <sub>[#128765](https://github.com/flutter/flutter/pull/128765) merged on June 23, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/128765) over 1 week, 77 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix duplicate devices from xcdevice with iOS 17
     <sub>[#128802](https://github.com/flutter/flutter/pull/128802) merged on June 20, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/128802) over 1 week, 341 additions and 12 deletions in 4 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Christopher Fujino](https://github.com/christopherfujino)</sub>
@@ -45,10 +49,6 @@
 * **[gmackall](https://github.com/gmackall)** &mdash; Unpin path_provider_android
     <sub>[#129205](https://github.com/flutter/flutter/pull/129205) merged on June 22, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/129205) over 2 days, 309 additions and 109 deletions in 15 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
-* **[Paurakh Sharma Humagain](https://github.com/paurakhsharma)** &mdash; fix: Inconsistency of SelectionArea when scrolling
-    <sub>[#128765](https://github.com/flutter/flutter/pull/128765) merged on June 23, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/128765) over 1 week, 77 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Swaroop S](https://github.com/SwaroopSambhayya)** &mdash; Adding ScrollController support for Stepper widget
     <sub>[#128814](https://github.com/flutter/flutter/pull/128814) merged on June 20, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/128814) over 6 days, 41 additions and 0 deletions in 2 files</sub>
