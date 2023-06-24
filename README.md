@@ -1607,14 +1607,14 @@
     <sub>[#4201](https://github.com/flutter/packages/pull/4201) merged on June 21, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/4201) over 1 week, 327 additions and 126 deletions in 7 files</sub><br />
     <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Reduces excessive rebuilds due to inherited look up.<br />
+    <sub>[#4227](https://github.com/flutter/packages/pull/4227) merged on June 23, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/4227) over 1 week, 146 additions and 101 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [SimonWeidemann](https://github.com/SimonWeidemann), [John Ryan](https://github.com/johnpryan)</sub><br />
+
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [url_launcher]: Bump androidx.annotation:annotation from 1.2.0 to 1.6.0 in /packages/url_launcher/url_launcher_android/android<br />
     <sub>[#3331](https://github.com/flutter/packages/pull/3331) merged on June 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/3331) over 3 months, 11 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.2.0&new-version=1.6.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Reduces excessive rebuilds due to inherited look up.<br />
-    <sub>[#4227](https://github.com/flutter/packages/pull/4227) merged on June 23, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/4227) over 1 week, 146 additions and 101 deletions in 10 files</sub><br />
-    <sub>Reviewed by: [SimonWeidemann](https://github.com/SimonWeidemann), [John Ryan](https://github.com/johnpryan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Update to 1.0<br />
     <sub>[#4285](https://github.com/flutter/packages/pull/4285) merged on June 23, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/4285) over 8 hours, 24 additions and 438 deletions in 5 files</sub><br />

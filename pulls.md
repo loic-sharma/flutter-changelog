@@ -68,3 +68,6 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Refactor JSNumber.toDart and Object.toJS<br />
     <sub>[#129436](https://github.com/flutter/flutter/pull/129436) opened on on June 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129436) 9 additions and 13 deletions in 3 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Make bug templates more consistent<br />
+    <sub>[#129460](https://github.com/flutter/flutter/pull/129460) opened on on June 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129460) 6 additions and 6 deletions in 4 files</sub><br />
+
