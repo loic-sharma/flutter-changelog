@@ -81,5 +81,5 @@
     <sub>[#129478](https://github.com/flutter/flutter/pull/129478) opened on on June 24, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/129478) 4525 additions and 0 deletions in 121 files</sub><br />
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [flutter_tools] Support coverage collection for dependencies<br />
-    <sub>[#129513](https://github.com/flutter/flutter/pull/129513) opened on on June 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129513) 226 additions and 5 deletions in 4 files</sub><br />
+    <sub>[#129513](https://github.com/flutter/flutter/pull/129513) opened on on June 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129513) 243 additions and 5 deletions in 4 files</sub><br />
 
