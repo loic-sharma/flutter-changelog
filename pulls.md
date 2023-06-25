@@ -83,3 +83,6 @@
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [flutter_tools] Support coverage collection for dependencies<br />
     <sub>[#129513](https://github.com/flutter/flutter/pull/129513) opened on on June 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129513) 243 additions and 5 deletions in 4 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] ensure flexible space bar fades when scrolling.<br />
+    <sub>[#129527](https://github.com/flutter/flutter/pull/129527) opened on on June 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129527) 34 additions and 1 deletion in 2 files</sub><br />
+
