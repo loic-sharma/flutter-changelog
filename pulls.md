@@ -65,9 +65,6 @@
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Allow a few builders to be customized<br />
     <sub>[#129406](https://github.com/flutter/flutter/pull/129406) opened on on June 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129406) 40 additions and 5 deletions in 4 files</sub><br />
 
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Refactor JSNumber.toDart and Object.toJS<br />
-    <sub>[#129436](https://github.com/flutter/flutter/pull/129436) opened on on June 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129436) 9 additions and 13 deletions in 3 files</sub><br />
-
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Remove `@NonNull` to avoid warning<br />
     <sub>[#129472](https://github.com/flutter/flutter/pull/129472) opened on on June 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129472) 3 additions and 3 deletions in 1 file</sub><br />
 
