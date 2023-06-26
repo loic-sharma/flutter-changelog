@@ -442,7 +442,7 @@
 
 ### June 24, 2023 to June 30, 2023
 
-13 commits.
+15 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Implement union and intersection for DlRegion<br />
     <sub>[#42620](https://github.com/flutter/engine/pull/42620) merged on June 26, 2023 &mdash; **Extra large:** [91 comments](https://github.com/flutter/engine/pull/42620) over 2 weeks, 1776 additions and 266 deletions in 9 files</sub><br />
@@ -464,6 +464,10 @@
     <sub>[#43183](https://github.com/flutter/engine/pull/43183) merged on June 26, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/43183) over 1 day, 261 additions and 150 deletions in 59 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix CPU Porter-Duff blends<br />
+    <sub>[#43217](https://github.com/flutter/engine/pull/43217) merged on June 26, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/43217) over 2 hours, 102 additions and 224 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Refactor JSNumber.toDart and Object.toJS<br />
     <sub>[#43149](https://github.com/flutter/engine/pull/43149) merged on June 26, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/43149) over 3 days, 168 additions and 173 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
@@ -475,6 +479,10 @@
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; ParagraphStyle uses the wrong bit mask<br />
     <sub>[#43070](https://github.com/flutter/engine/pull/43070) merged on June 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43070) over 4 days, 7 additions and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from cafbf6e2660f to cba77bceb26c (1 revision)<br />
+    <sub>[#43222](https://github.com/flutter/engine/pull/43222) merged on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43222) over 55 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 4a4b13cc6931 to cafbf6e2660f (2 revisions)<br />
     <sub>[#43219](https://github.com/flutter/engine/pull/43219) merged on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43219) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
