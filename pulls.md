@@ -86,3 +86,6 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated chip_test.dart tests for M3<br />
     <sub>[#129570](https://github.com/flutter/flutter/pull/129570) opened on on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129570) 28 additions and 7 deletions in 2 files</sub><br />
 
+* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Add locale-specific DateTime formatting syntax<br />
+    <sub>[#129573](https://github.com/flutter/flutter/pull/129573) opened on on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129573) 80 additions and 10 deletions in 4 files</sub><br />
+
