@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### June 24, 2023 to June 30, 2023
+
+1 commits.
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Make bug templates more consistent
+    <sub>[#129460](https://github.com/flutter/flutter/pull/129460) merged on June 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129460) over 2 days, 6 additions and 6 deletions in 4 files</sub>
+    <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
+
 ### June 17, 2023 to June 23, 2023
 
-52 commits.
+<details>
+<summary>52 commits...</summary>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Material 3 Scrollable `TabBar`
     <sub>[#125974](https://github.com/flutter/flutter/pull/125974) merged on June 22, 2023 &mdash; **Large:** [49 comments](https://github.com/flutter/flutter/pull/125974) over 1 month, 624 additions and 43 deletions in 6 files</sub>
@@ -188,7 +197,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [devicelab] Add platform view scroll benchmarks for Impeller on Android
     <sub>[#129455](https://github.com/flutter/flutter/pull/129455) merged on June 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129455) over 3 hours, 36 additions and 1 deletion in 4 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Relax `OverlayPortal` asserts
     <sub>[#129053](https://github.com/flutter/flutter/pull/129053) merged on June 21, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/129053) over 3 days, 289 additions and 96 deletions in 5 files</sub>
@@ -217,6 +226,8 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Roll Flutter Engine from 703c9a14ac7f to 8cc6d6d5efdb (1 revision)"
     <sub>[#129353](https://github.com/flutter/flutter/pull/129353) merged on June 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129353) over 2 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### June 10, 2023 to June 16, 2023
 
@@ -331,7 +342,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Address leak tracker breaking changes.
     <sub>[#128623](https://github.com/flutter/flutter/pull/128623) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128623) over 2 days, 29 additions and 26 deletions in 10 files</sub>
-    <sub>Reviewed by: [Daniel Chevalier](https://github.com/CoderDake), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Daniel Chevalier](https://github.com/CoderDake)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix ensureVisible and default focus traversal for reversed scrollables
     <sub>[#128756](https://github.com/flutter/flutter/pull/128756) merged on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128756) over 15 hours, 279 additions and 2 deletions in 2 files</sub>
