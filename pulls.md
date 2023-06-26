@@ -86,3 +86,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [CP] Fix TextField not responding to taps when wrapped in a GestureDetector<br />
     <sub>[#129576](https://github.com/flutter/flutter/pull/129576) opened on on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129576) 95 additions and 1 deletion in 3 files</sub><br />
 
+* **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Adds `dart_fix` support to `integration_test`<br />
+    <sub>[#129579](https://github.com/flutter/flutter/pull/129579) opened on on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129579) 133 additions and 6 deletions in 9 files</sub><br />
+
