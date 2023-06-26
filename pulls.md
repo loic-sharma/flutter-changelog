@@ -80,9 +80,6 @@
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix NetworkImage causing spurious warning in tests<br />
     <sub>[#129537](https://github.com/flutter/flutter/pull/129537) opened on on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129537) 22 additions and 2 deletions in 2 files</sub><br />
 
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated chip_test.dart tests for M3<br />
-    <sub>[#129570](https://github.com/flutter/flutter/pull/129570) opened on on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129570) 27 additions and 6 deletions in 1 file</sub><br />
-
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Add locale-specific DateTime formatting syntax<br />
     <sub>[#129573](https://github.com/flutter/flutter/pull/129573) opened on on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129573) 80 additions and 10 deletions in 4 files</sub><br />
 
