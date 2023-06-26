@@ -430,7 +430,7 @@
 
 * **[ZhulanovAA](https://github.com/ZhulanovAA)** &mdash; Remove unnecessary parentheses
     <sub>[#128620](https://github.com/flutter/flutter/pull/128620) merged on June 10, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128620) over 20 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [chunhtai](https://github.com/chunhtai)</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hans Muller](https://github.com/HansMuller)</sub>
 
 </details>
 
@@ -438,7 +438,7 @@
 
 ### June 24, 2023 to June 30, 2023
 
-12 commits.
+13 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Implement union and intersection for DlRegion
     <sub>[#42620](https://github.com/flutter/engine/pull/42620) merged on June 26, 2023 &mdash; **Extra large:** [91 comments](https://github.com/flutter/engine/pull/42620) over 2 weeks, 1776 additions and 266 deletions in 9 files</sub>
@@ -471,6 +471,10 @@
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; ParagraphStyle uses the wrong bit mask
     <sub>[#43070](https://github.com/flutter/engine/pull/43070) merged on June 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43070) over 4 days, 7 additions and 6 deletions in 2 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 4a4b13cc6931 to cafbf6e2660f (2 revisions)
+    <sub>[#43219](https://github.com/flutter/engine/pull/43219) merged on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43219) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from f6c7dc891859 to 4a4b13cc6931 (12 revisions)
     <sub>[#43213](https://github.com/flutter/engine/pull/43213) merged on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43213) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
