@@ -80,3 +80,6 @@
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix NetworkImage causing spurious warning in tests<br />
     <sub>[#129537](https://github.com/flutter/flutter/pull/129537) opened on on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129537) 22 additions and 2 deletions in 2 files</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Automatically migrate ClipboardData.text to non-null<br />
+    <sub>[#129567](https://github.com/flutter/flutter/pull/129567) opened on on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129567) 22 additions and 0 deletions in 3 files</sub><br />
+
