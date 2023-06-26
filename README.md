@@ -4,7 +4,7 @@
 
 ### June 24, 2023 to June 30, 2023
 
-4 commits.
+5 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `AnimatedList` & `AnimatedGrid` doesn't apply `MediaQuery` padding<br />
     <sub>[#129556](https://github.com/flutter/flutter/pull/129556) merged on June 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129556) over 2 hours, 169 additions and 7 deletions in 3 files</sub><br />
@@ -14,6 +14,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Make bug templates more consistent<br />
     <sub>[#129460](https://github.com/flutter/flutter/pull/129460) merged on June 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129460) over 2 days, 6 additions and 6 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub><br />
+
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated chip_test.dart tests for M3<br />
+    <sub>[#129570](https://github.com/flutter/flutter/pull/129570) merged on June 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129570) over 3 hours, 27 additions and 6 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated TextMagnifierExampleApp to M3<br />
     <sub>[#129381](https://github.com/flutter/flutter/pull/129381) merged on June 26, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/129381) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
