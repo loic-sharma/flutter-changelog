@@ -89,3 +89,6 @@
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Removes deprecated APIs from v2.6 in `binding.dart` and `widget_tester.dart`<br />
     <sub>[#129663](https://github.com/flutter/flutter/pull/129663) opened on on June 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129663) 11 additions and 60 deletions in 5 files</sub><br />
 
+* **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Revert "Update labeler.yml to v5.0.0-beta.1"<br />
+    <sub>[#129673](https://github.com/flutter/flutter/pull/129673) opened on on June 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129673) 1 addition and 1 deletion in 1 file</sub><br />
+
