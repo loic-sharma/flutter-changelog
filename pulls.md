@@ -72,7 +72,7 @@
     <sub>[#129537](https://github.com/flutter/flutter/pull/129537) opened on on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129537) 22 additions and 2 deletions in 2 files</sub><br />
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Add locale-specific DateTime formatting syntax<br />
-    <sub>[#129573](https://github.com/flutter/flutter/pull/129573) opened on on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129573) 80 additions and 10 deletions in 4 files</sub><br />
+    <sub>[#129573](https://github.com/flutter/flutter/pull/129573) opened on on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129573) 198 additions and 45 deletions in 8 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [CP] Fix TextField not responding to taps when wrapped in a GestureDetector<br />
     <sub>[#129576](https://github.com/flutter/flutter/pull/129576) opened on on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129576) 95 additions and 1 deletion in 3 files</sub><br />
