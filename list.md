@@ -434,7 +434,7 @@
 
 * **[ZhulanovAA](https://github.com/ZhulanovAA)** &mdash; Remove unnecessary parentheses
     <sub>[#128620](https://github.com/flutter/flutter/pull/128620) merged on June 10, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128620) over 20 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [chunhtai](https://github.com/chunhtai)</sub>
 
 </details>
 
@@ -442,7 +442,7 @@
 
 ### June 24, 2023 to June 30, 2023
 
-15 commits.
+16 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Implement union and intersection for DlRegion
     <sub>[#42620](https://github.com/flutter/engine/pull/42620) merged on June 26, 2023 &mdash; **Extra large:** [91 comments](https://github.com/flutter/engine/pull/42620) over 2 weeks, 1776 additions and 266 deletions in 9 files</sub>
@@ -451,6 +451,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow event channels to reuse names
     <sub>[#41837](https://github.com/flutter/engine/pull/41837) merged on June 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/41837) over 1 month, 75 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Removes patchCanvasKitModule.
+    <sub>[#42941](https://github.com/flutter/engine/pull/42941) merged on June 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42941) over 1 week, 43 additions and 93 deletions in 5 files</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/hterkelsen)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Treat SubOptimalKHR as rotated.
     <sub>[#43214](https://github.com/flutter/engine/pull/43214) merged on June 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43214) over 1 hour, 32 additions and 6 deletions in 3 files</sub>
