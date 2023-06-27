@@ -222,7 +222,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [devicelab] Add platform view scroll benchmarks for Impeller on Android
     <sub>[#129455](https://github.com/flutter/flutter/pull/129455) merged on June 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129455) over 3 hours, 36 additions and 1 deletion in 4 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Relax `OverlayPortal` asserts
     <sub>[#129053](https://github.com/flutter/flutter/pull/129053) merged on June 21, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/129053) over 3 days, 289 additions and 96 deletions in 5 files</sub>
@@ -1062,7 +1062,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[GwonHyeok](https://github.com/GwonHyeok)** &mdash; [webview_flutter_wkwebview] Adds the `isInspectable` to `WebKitWebViewController`.
-    <sub>[#3984](https://github.com/flutter/packages/pull/3984) merged on June 26, 2023 &mdash; **Small:** [27 comments](https://github.com/flutter/packages/pull/3984) over 1 month, 233 additions and 2 deletions in 17 files</sub>
+    <sub>[#3984](https://github.com/flutter/packages/pull/3984) merged on June 26, 2023 &mdash; **Small:** [28 comments](https://github.com/flutter/packages/pull/3984) over 1 month, 233 additions and 2 deletions in 17 files</sub>
     <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] Adds new `clearWithParameters` and `getAllWithParameters` methods to platform interface.
