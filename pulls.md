@@ -80,3 +80,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [CP] Fix TextField not responding to taps when wrapped in a GestureDetector<br />
     <sub>[#129576](https://github.com/flutter/flutter/pull/129576) opened on on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129576) 95 additions and 1 deletion in 3 files</sub><br />
 
+* **[MarkZ](https://github.com/Markzipan)** &mdash; Reducing flutter driver initialization timeout to 1 minute from 1 year<br />
+    <sub>[#129600](https://github.com/flutter/flutter/pull/129600) opened on on June 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129600) 1 addition and 1 deletion in 1 file</sub><br />
+

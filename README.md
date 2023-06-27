@@ -4,12 +4,16 @@
 
 ### June 24, 2023 to June 30, 2023
 
-6 commits.
+7 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `AnimatedList` & `AnimatedGrid` doesn't apply `MediaQuery` padding<br />
     <sub>[#129556](https://github.com/flutter/flutter/pull/129556) merged on June 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129556) over 2 hours, 169 additions and 7 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>4 images...</summary>![Digram of ListView applying MediaQuery padding](https://github.com/flutter/flutter/assets/48603081/01917900-cd26-4ca1-8e51-b7dcd1241471)![Digram of AnimatedList & AnimatedGrid applying MediaQuery padding](https://github.com/flutter/flutter/assets/48603081/75d0a0ad-539c-485e-b3c1-770ee187086b)![Before preview image](https://github.com/flutter/flutter/assets/48603081/73954a8a-9d1d-4b9e-b6a3-cae8071f3462)![After preview image](https://github.com/flutter/flutter/assets/48603081/9f1dc48a-622f-4402-8d5e-8e6e3e150165)</details></sub>
+
+* **[hangyu](https://github.com/hangyujin)** &mdash; Fix chinese text is not selected by long press<br />
+    <sub>[#129320](https://github.com/flutter/flutter/pull/129320) merged on June 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129320) over 5 days, 29 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Make bug templates more consistent<br />
     <sub>[#129460](https://github.com/flutter/flutter/pull/129460) merged on June 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129460) over 2 days, 6 additions and 6 deletions in 4 files</sub><br />
@@ -442,7 +446,7 @@
 
 ### June 24, 2023 to June 30, 2023
 
-16 commits.
+17 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Implement union and intersection for DlRegion<br />
     <sub>[#42620](https://github.com/flutter/engine/pull/42620) merged on June 26, 2023 &mdash; **Extra large:** [91 comments](https://github.com/flutter/engine/pull/42620) over 2 weeks, 1776 additions and 266 deletions in 9 files</sub><br />
@@ -483,6 +487,10 @@
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; ParagraphStyle uses the wrong bit mask<br />
     <sub>[#43070](https://github.com/flutter/engine/pull/43070) merged on June 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43070) over 4 days, 7 additions and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from cba77bceb26c to 02292814a9d3 (1 revision)<br />
+    <sub>[#43224](https://github.com/flutter/engine/pull/43224) merged on June 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43224) over 54 minutes, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from cafbf6e2660f to cba77bceb26c (1 revision)<br />
     <sub>[#43222](https://github.com/flutter/engine/pull/43222) merged on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43222) over 55 minutes, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1047,7 +1055,7 @@
 
 ### June 24, 2023 to June 30, 2023
 
-4 commits.
+6 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [file_selector_android] Create initial Android implementation of the file_selector package<br />
     <sub>[#3814](https://github.com/flutter/packages/pull/3814) merged on June 26, 2023 &mdash; **Extra large:** [34 comments](https://github.com/flutter/packages/pull/3814) over 2 months, 2738 additions and 0 deletions in 53 files</sub><br />
@@ -1057,6 +1065,10 @@
     <sub>[#3984](https://github.com/flutter/packages/pull/3984) merged on June 26, 2023 &mdash; **Small:** [26 comments](https://github.com/flutter/packages/pull/3984) over 1 month, 233 additions and 2 deletions in 17 files</sub><br />
     <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] Adds new `clearWithParameters` and `getAllWithParameters` methods to platform interface.<br />
+    <sub>[#4261](https://github.com/flutter/packages/pull/4261) merged on June 27, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/packages/pull/4261) over 5 days, 348 additions and 32 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump org.json:json from 20230227 to 20230618 in /packages/in_app_purchase/in_app_purchase/example/android/app<br />
     <sub>[#4244](https://github.com/flutter/packages/pull/4244) merged on June 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4244) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
@@ -1065,6 +1077,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Remove jcenter from legacy project<br />
     <sub>[#4306](https://github.com/flutter/packages/pull/4306) merged on June 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4306) over 35 minutes, 4 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated rfw/test/material_widgets_test.dart for M3<br />
+    <sub>[#4316](https://github.com/flutter/packages/pull/4316) merged on June 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4316) over 4 hours, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
 
 ### June 17, 2023 to June 23, 2023
 
