@@ -110,7 +110,7 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] delete flutter format command<br />
     <sub>[#129360](https://github.com/flutter/flutter/pull/129360) merged on June 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/129360) over 4 hours, 0 additions and 41 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Elias Yishak](https://github.com/eliasyishak)</sub><br />
+    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add CallbackShortcuts widget of the week video<br />
     <sub>[#129296](https://github.com/flutter/flutter/pull/129296) merged on June 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129296) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
@@ -126,7 +126,7 @@
 
 * **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; fix: SearchAnchor View not resizing when in nested navigator<br />
     <sub>[#128357](https://github.com/flutter/flutter/pull/128357) merged on June 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128357) over 2 weeks, 46 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Masatoshi Tsushima](https://github.com/utisam)** &mdash; Fix: Closing bottom sheet and removing FAB cause assertion failure<br />
     <sub>[#128566](https://github.com/flutter/flutter/pull/128566) merged on June 22, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/128566) over 1 week, 61 additions and 4 deletions in 2 files</sub><br />
@@ -458,7 +458,7 @@
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Removes patchCanvasKitModule.<br />
     <sub>[#42941](https://github.com/flutter/engine/pull/42941) merged on June 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42941) over 1 week, 43 additions and 93 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/hterkelsen)</sub><br />
+    <sub>Reviewed by: [Harry Terkelsen](https://github.com/hterkelsen), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Treat SubOptimalKHR as rotated.<br />
     <sub>[#43214](https://github.com/flutter/engine/pull/43214) merged on June 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43214) over 1 hour, 32 additions and 6 deletions in 3 files</sub><br />
@@ -613,7 +613,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't get break type from v8BreakIterator<br />
     <sub>[#43053](https://github.com/flutter/engine/pull/43053) merged on June 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43053) over 23 hours, 49 additions and 16 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Harry Terkelsen](https://github.com/hterkelsen)</sub><br />
+    <sub>Reviewed by: [Harry Terkelsen](https://github.com/hterkelsen), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Disable blending for Source blend mode<br />
     <sub>[#43162](https://github.com/flutter/engine/pull/43162) merged on June 24, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43162) over 20 hours, 1 addition and 0 deletions in 1 file</sub><br />
@@ -633,7 +633,7 @@
 
 * **[Tamir Duberstein](https://github.com/tamird)** &mdash; Remove process-local tempfs<br />
     <sub>[#43056](https://github.com/flutter/engine/pull/43056) merged on June 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/43056) over 7 hours, 19 additions and 98 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Tom Robinson](https://github.com/tarobins), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Tom Robinson](https://github.com/tarobins)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Uniquely label subpasses and root blit<br />
     <sub>[#43015](https://github.com/flutter/engine/pull/43015) merged on June 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43015) over 1 day, 9 additions and 6 deletions in 3 files</sub><br />
@@ -741,7 +741,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Fix and reland drawPaint collapsing optimization.<br />
     <sub>[#43097](https://github.com/flutter/engine/pull/43097) merged on June 23, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43097) over 7 hours, 24 additions and 2 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[Impeller] dont use concurrent runner to decode images on Android."<br />
     <sub>[#43061](https://github.com/flutter/engine/pull/43061) merged on June 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43061) over 20 hours, 5 additions and 13 deletions in 1 file</sub><br />
