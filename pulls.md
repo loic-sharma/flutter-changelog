@@ -45,7 +45,7 @@
     <sub>[#128810](https://github.com/flutter/flutter/pull/128810) opened on on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128810) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny fix Flutter seems not to agree what is the estimated size of `ui.Image` (reland)<br />
-    <sub>[#129054](https://github.com/flutter/flutter/pull/129054) opened on on June 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129054) 9 additions and 9 deletions in 4 files</sub><br />
+    <sub>[#129054](https://github.com/flutter/flutter/pull/129054) opened on on June 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/129054) 9 additions and 9 deletions in 4 files</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Overall timing information in `TimelineSummary`, because existing metrics do not reflect real performance (reland)<br />
     <sub>[#129055](https://github.com/flutter/flutter/pull/129055) opened on on June 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129055) 214 additions and 11 deletions in 2 files</sub><br />
@@ -55,9 +55,6 @@
 
 * **[Caffeinix](https://github.com/Caffeinix)** &mdash; Reorders menu item button shortcuts on Mac-like platforms<br />
     <sub>[#129309](https://github.com/flutter/flutter/pull/129309) opened on on June 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129309) 69 additions and 29 deletions in 2 files</sub><br />
-
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Allow a few builders to be customized<br />
-    <sub>[#129406](https://github.com/flutter/flutter/pull/129406) opened on on June 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129406) 40 additions and 5 deletions in 4 files</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Remove `@NonNull` to avoid warning<br />
     <sub>[#129472](https://github.com/flutter/flutter/pull/129472) opened on on June 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129472) 3 additions and 3 deletions in 1 file</sub><br />
@@ -77,9 +74,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [CP] Fix TextField not responding to taps when wrapped in a GestureDetector<br />
     <sub>[#129576](https://github.com/flutter/flutter/pull/129576) opened on on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129576) 95 additions and 1 deletion in 3 files</sub><br />
 
-* **[MarkZ](https://github.com/Markzipan)** &mdash; Reducing flutter driver initialization timeout to 1 minute from 1 year<br />
-    <sub>[#129600](https://github.com/flutter/flutter/pull/129600) opened on on June 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129600) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Jia Tan](https://github.com/crazytan)** &mdash; Fix typos in ListTile examples.<br />
     <sub>[#129606](https://github.com/flutter/flutter/pull/129606) opened on on June 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/129606) 13 additions and 13 deletions in 3 files</sub><br />
 
@@ -88,7 +82,4 @@
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Removes deprecated APIs from v2.6 in `binding.dart` and `widget_tester.dart`<br />
     <sub>[#129663](https://github.com/flutter/flutter/pull/129663) opened on on June 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129663) 11 additions and 60 deletions in 5 files</sub><br />
-
-* **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Revert "Update labeler.yml to v5.0.0-beta.1"<br />
-    <sub>[#129673](https://github.com/flutter/flutter/pull/129673) opened on on June 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129673) 1 addition and 1 deletion in 1 file</sub><br />
 
