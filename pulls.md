@@ -84,7 +84,7 @@
     <sub>[#129600](https://github.com/flutter/flutter/pull/129600) opened on on June 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129600) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jia Tan](https://github.com/crazytan)** &mdash; Fix typos in ListTile examples.<br />
-    <sub>[#129606](https://github.com/flutter/flutter/pull/129606) opened on on June 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129606) 13 additions and 13 deletions in 3 files</sub><br />
+    <sub>[#129606](https://github.com/flutter/flutter/pull/129606) opened on on June 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/129606) 13 additions and 13 deletions in 3 files</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `NavigationDrawer` selected item has wrong icon color<br />
     <sub>[#129625](https://github.com/flutter/flutter/pull/129625) opened on on June 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129625) 39 additions and 10 deletions in 4 files</sub><br />
