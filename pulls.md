@@ -65,15 +65,9 @@
 * **[Jia Tan](https://github.com/crazytan)** &mdash; Fix typos in ListTile examples.<br />
     <sub>[#129606](https://github.com/flutter/flutter/pull/129606) opened on on June 27, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/129606) 13 additions and 13 deletions in 3 files</sub><br />
 
-* **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Removes deprecated APIs from v2.6 in `binding.dart` and `widget_tester.dart`<br />
-    <sub>[#129663](https://github.com/flutter/flutter/pull/129663) opened on on June 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129663) 12 additions and 68 deletions in 5 files</sub><br />
-
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; (WIP) Verify that making `useMaterial3:true` is safe<br />
     <sub>[#129724](https://github.com/flutter/flutter/pull/129724) opened on on June 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129724) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [flutter_tools] build ios-frameworks: option to exclude plugin frameworks from the build<br />
     <sub>[#129739](https://github.com/flutter/flutter/pull/129739) opened on on June 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129739) 61 additions and 2 deletions in 2 files</sub><br />
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Update infrastructure issue template for new priority scheme<br />
-    <sub>[#129741](https://github.com/flutter/flutter/pull/129741) opened on on June 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129741) 3 additions and 3 deletions in 1 file</sub><br />
 
