@@ -71,9 +71,6 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; (WIP) Verify that making `useMaterial3:true` is safe<br />
     <sub>[#129724](https://github.com/flutter/flutter/pull/129724) opened on on June 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129724) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Cupertino text clear label<br />
-    <sub>[#129727](https://github.com/flutter/flutter/pull/129727) opened on on June 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129727) 89 additions and 17 deletions in 2 files</sub><br />
-
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [flutter_tools] build ios-frameworks: option to exclude plugin frameworks from the build<br />
     <sub>[#129739](https://github.com/flutter/flutter/pull/129739) opened on on June 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129739) 60 additions and 2 deletions in 2 files</sub><br />
 
