@@ -502,7 +502,7 @@
 
 ### June 24, 2023 to June 30, 2023
 
-30 commits.
+31 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Implement union and intersection for DlRegion<br />
     <sub>[#42620](https://github.com/flutter/engine/pull/42620) merged on June 26, 2023 &mdash; **Extra large:** [91 comments](https://github.com/flutter/engine/pull/42620) over 2 weeks, 1776 additions and 266 deletions in 9 files</sub><br />
@@ -527,6 +527,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Removes patchCanvasKitModule.<br />
     <sub>[#42941](https://github.com/flutter/engine/pull/42941) merged on June 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42941) over 1 week, 43 additions and 93 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/hterkelsen)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Include the SkRTreeFactory headers in the skwasm picture recorder<br />
+    <sub>[#43292](https://github.com/flutter/engine/pull/43292) merged on June 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43292) over 45 minutes, 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Update skia includes to be more specific<br />
     <sub>[#43284](https://github.com/flutter/engine/pull/43284) merged on June 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43284) over 1 hour, 4 additions and 0 deletions in 4 files</sub><br />
