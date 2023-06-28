@@ -47,9 +47,6 @@
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Refactor: updated segmented button<br />
     <sub>[#129215](https://github.com/flutter/flutter/pull/129215) opened on on June 20, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/129215) 402 additions and 112 deletions in 1 file</sub><br />
 
-* **[Caffeinix](https://github.com/Caffeinix)** &mdash; Reorders menu item button shortcuts on Mac-like platforms<br />
-    <sub>[#129309](https://github.com/flutter/flutter/pull/129309) opened on on June 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129309) 69 additions and 29 deletions in 2 files</sub><br />
-
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Remove `@NonNull` to avoid warning<br />
     <sub>[#129472](https://github.com/flutter/flutter/pull/129472) opened on on June 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129472) 3 additions and 3 deletions in 1 file</sub><br />
 
