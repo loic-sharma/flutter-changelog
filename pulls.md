@@ -80,3 +80,6 @@
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🚀 Expose `scrollControlledMaxHeightRatio` to the modal bottom sheet<br />
     <sub>[#129688](https://github.com/flutter/flutter/pull/129688) opened on on June 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129688) 76 additions and 5 deletions in 2 files</sub><br />
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; (WIP) Verify that making `useMaterial3:true` is safe<br />
+    <sub>[#129724](https://github.com/flutter/flutter/pull/129724) opened on on June 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129724) 1 addition and 1 deletion in 1 file</sub><br />
+
