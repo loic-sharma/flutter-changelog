@@ -4,7 +4,7 @@
 
 ### June 24, 2023 to June 30, 2023
 
-28 commits.
+30 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add InputDecorator.error to allow error message customization
     <sub>[#129275](https://github.com/flutter/flutter/pull/129275) merged on June 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129275) over 1 week, 77 additions and 10 deletions in 2 files</sub>
@@ -22,6 +22,11 @@
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Remove Editable.onCaretChanged callback
     <sub>[#109114](https://github.com/flutter/flutter/pull/109114) merged on June 27, 2023 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/109114) over 10 months, 80 additions and 57 deletions in 4 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; RTL InputDecoration fix
+    <sub>[#129661](https://github.com/flutter/flutter/pull/129661) merged on June 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129661) over 1 day, 31 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+    <sub><details><summary>2 images...</summary>![Screenshot from 2023-06-27 13-10-48](https://github.com/flutter/flutter/assets/389558/a0c0f344-116e-40bc-b978-d9b92e6f0691)![Screenshot from 2023-06-27 13-11-11](https://github.com/flutter/flutter/assets/389558/6495be20-bb47-4d87-b9e5-a95f59c5fba7)</details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `DatePickerTheme.inputDecorationTheme` for the DatePicker with input mode.
     <sub>[#128950](https://github.com/flutter/flutter/pull/128950) merged on June 28, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/128950) over 1 week, 142 additions and 14 deletions in 3 files</sub>
@@ -47,6 +52,10 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Fix chinese text is not selected by long press
     <sub>[#129320](https://github.com/flutter/flutter/pull/129320) merged on June 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129320) over 5 days, 29 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; mark autoroller flaky
+    <sub>[#129745](https://github.com/flutter/flutter/pull/129745) merged on June 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129745) over 1 hour, 2 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] ensure flexible space bar fades when scrolling.
     <sub>[#129527](https://github.com/flutter/flutter/pull/129527) merged on June 28, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/129527) over 2 days, 33 additions and 1 deletion in 2 files</sub>
@@ -167,11 +176,11 @@
 
 * **[gmackall](https://github.com/gmackall)** &mdash; Unpin path_provider_android
     <sub>[#129205](https://github.com/flutter/flutter/pull/129205) merged on June 22, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/129205) over 2 days, 309 additions and 109 deletions in 15 files</sub>
-    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] delete flutter format command
     <sub>[#129360](https://github.com/flutter/flutter/pull/129360) merged on June 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/129360) over 4 hours, 0 additions and 41 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Elias Yishak](https://github.com/eliasyishak)</sub>
+    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Swaroop S](https://github.com/SwaroopSambhayya)** &mdash; Adding ScrollController support for Stepper widget
     <sub>[#128814](https://github.com/flutter/flutter/pull/128814) merged on June 20, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/128814) over 6 days, 41 additions and 0 deletions in 2 files</sub>
@@ -219,7 +228,7 @@
 
 * **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; fix: SearchAnchor View not resizing when in nested navigator
     <sub>[#128357](https://github.com/flutter/flutter/pull/128357) merged on June 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128357) over 2 weeks, 46 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [process] Add a design doc issue template.
     <sub>[#128361](https://github.com/flutter/flutter/pull/128361) merged on June 20, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/128361) over 1 week, 32 additions and 0 deletions in 1 file</sub>
@@ -452,7 +461,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Address leak tracker breaking changes.
     <sub>[#128623](https://github.com/flutter/flutter/pull/128623) merged on June 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128623) over 2 days, 29 additions and 26 deletions in 10 files</sub>
-    <sub>Reviewed by: [Daniel Chevalier](https://github.com/CoderDake), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Daniel Chevalier](https://github.com/CoderDake)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix ensureVisible and default focus traversal for reversed scrollables
     <sub>[#128756](https://github.com/flutter/flutter/pull/128756) merged on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128756) over 15 hours, 279 additions and 2 deletions in 2 files</sub>
