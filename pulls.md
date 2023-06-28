@@ -83,3 +83,6 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update analysis, linter, and repo links in analysis options<br />
     <sub>[#129686](https://github.com/flutter/flutter/pull/129686) opened on on June 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129686) 6 additions and 7 deletions in 1 file</sub><br />
 
+* **[Alex Li](https://github.com/AlexV525)** &mdash; 🚀 Expose `scrollControlledMaxHeightRatio` to the modal bottom sheet<br />
+    <sub>[#129688](https://github.com/flutter/flutter/pull/129688) opened on on June 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129688) 76 additions and 5 deletions in 2 files</sub><br />
+
