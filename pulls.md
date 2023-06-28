@@ -65,9 +65,6 @@
 * **[Jia Tan](https://github.com/crazytan)** &mdash; Fix typos in ListTile examples.<br />
     <sub>[#129606](https://github.com/flutter/flutter/pull/129606) opened on on June 27, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/129606) 13 additions and 13 deletions in 3 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `NavigationDrawer` selected item has wrong icon color<br />
-    <sub>[#129625](https://github.com/flutter/flutter/pull/129625) opened on on June 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129625) 39 additions and 10 deletions in 4 files</sub><br />
-
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Removes deprecated APIs from v2.6 in `binding.dart` and `widget_tester.dart`<br />
     <sub>[#129663](https://github.com/flutter/flutter/pull/129663) opened on on June 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129663) 11 additions and 60 deletions in 5 files</sub><br />
 
