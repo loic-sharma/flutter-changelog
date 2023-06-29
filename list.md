@@ -544,11 +544,15 @@
 
 ### June 24, 2023 to June 30, 2023
 
-34 commits.
+35 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Implement union and intersection for DlRegion
     <sub>[#42620](https://github.com/flutter/engine/pull/42620) merged on June 26, 2023 &mdash; **Extra large:** [91 comments](https://github.com/flutter/engine/pull/42620) over 2 weeks, 1776 additions and 266 deletions in 9 files</sub>
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Collapse DrawRects into clear colors optimization
+    <sub>[#43168](https://github.com/flutter/engine/pull/43168) merged on June 29, 2023 &mdash; **Medium:** [28 comments](https://github.com/flutter/engine/pull/43168) over 5 days, 442 additions and 29 deletions in 19 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:a11y] introduce primary role responsible for ARIA roles
     <sub>[#43159](https://github.com/flutter/engine/pull/43159) merged on June 27, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/43159) over 3 days, 454 additions and 289 deletions in 13 files</sub>
@@ -582,21 +586,17 @@
     <sub>[#43166](https://github.com/flutter/engine/pull/43166) merged on June 27, 2023 &mdash; **Medium:** [12 comments](https://github.com/flutter/engine/pull/43166) over 3 days, 156 additions and 185 deletions in 39 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Jim Graham](https://github.com/flar)** &mdash; Update skia includes to be more specific
-    <sub>[#43284](https://github.com/flutter/engine/pull/43284) merged on June 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43284) over 1 hour, 4 additions and 0 deletions in 4 files</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Include the SkRTreeFactory headers in the skwasm picture recorder
-    <sub>[#43292](https://github.com/flutter/engine/pull/43292) merged on June 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43292) over 45 minutes, 2 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Add Vulkan allocator traces.
+    <sub>[#43215](https://github.com/flutter/engine/pull/43215) merged on June 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43215) over 21 hours, 3 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add trace events to Vulkan texture and buffer lifecycle events.
     <sub>[#43321](https://github.com/flutter/engine/pull/43321) merged on June 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43321) over 54 minutes, 12 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Add Vulkan allocator traces.
-    <sub>[#43215](https://github.com/flutter/engine/pull/43215) merged on June 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43215) over 21 hours, 3 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Jim Graham](https://github.com/flar)** &mdash; Update skia includes to be more specific
+    <sub>[#43284](https://github.com/flutter/engine/pull/43284) merged on June 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43284) over 1 hour, 4 additions and 0 deletions in 4 files</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Report pipeline creation feedback to logs and traces.
     <sub>[#43227](https://github.com/flutter/engine/pull/43227) merged on June 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/43227) over 17 hours, 222 additions and 30 deletions in 7 files</sub>
@@ -613,6 +613,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove redundant highp modifiers in vertex shaders.
     <sub>[#43305](https://github.com/flutter/engine/pull/43305) merged on June 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43305) over 1 hour, 46 additions and 48 deletions in 16 files</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Include the SkRTreeFactory headers in the skwasm picture recorder
+    <sub>[#43292](https://github.com/flutter/engine/pull/43292) merged on June 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43292) over 45 minutes, 2 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Initialize skwasm codecs before handing them back to the user.
     <sub>[#43274](https://github.com/flutter/engine/pull/43274) merged on June 27, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/43274) over 2 hours, 8 additions and 2 deletions in 3 files</sub>
@@ -637,10 +641,6 @@
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; ParagraphStyle uses the wrong bit mask
     <sub>[#43070](https://github.com/flutter/engine/pull/43070) merged on June 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43070) over 4 days, 7 additions and 6 deletions in 2 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 9faf7059f9ef to 113f847be69f (2 revisions)
-    <sub>[#43278](https://github.com/flutter/engine/pull/43278) merged on June 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43278) over 1 hour, 7 additions and 60 deletions in 3 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 02292814a9d3 to 9faf7059f9ef (7 revisions)
     <sub>[#43272](https://github.com/flutter/engine/pull/43272) merged on June 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43272) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
@@ -672,6 +672,10 @@
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 81cdbe69a16b to 7a233f843402 (4 revisions)
     <sub>[#43288](https://github.com/flutter/engine/pull/43288) merged on June 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43288) over 1 hour, 9 additions and 5 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 9faf7059f9ef to 113f847be69f (2 revisions)
+    <sub>[#43278](https://github.com/flutter/engine/pull/43278) merged on June 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43278) over 1 hour, 7 additions and 60 deletions in 3 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Revert "Refactor JSNumber.toDart and Object.toJS"
