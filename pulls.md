@@ -68,3 +68,6 @@
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [flutter_tools] build ios-frameworks: option to exclude plugin frameworks from the build<br />
     <sub>[#129739](https://github.com/flutter/flutter/pull/129739) opened on on June 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129739) 61 additions and 2 deletions in 2 files</sub><br />
 
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Prepare for utf8.encode() to return more precise Uint8List type<br />
+    <sub>[#129769](https://github.com/flutter/flutter/pull/129769) opened on on June 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129769) 2 additions and 2 deletions in 2 files</sub><br />
+
