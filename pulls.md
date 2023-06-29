@@ -68,3 +68,6 @@
 * **[Caique Ribeiro de Oliveira](https://github.com/CaiqueR)** &mdash; Fix XCode download link<br />
     <sub>[#129795](https://github.com/flutter/flutter/pull/129795) opened on on June 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129795) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; RawAutocomplete: Add optional [optionsViewOpenDirection] param<br />
+    <sub>[#129802](https://github.com/flutter/flutter/pull/129802) opened on on June 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129802) 165 additions and 4 deletions in 2 files</sub><br />
+
