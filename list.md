@@ -213,11 +213,11 @@
 
 * **[gmackall](https://github.com/gmackall)** &mdash; Unpin path_provider_android
     <sub>[#129205](https://github.com/flutter/flutter/pull/129205) merged on June 22, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/129205) over 2 days, 309 additions and 109 deletions in 15 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [John McCutchan](https://github.com/johnmccutchan)</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] delete flutter format command
     <sub>[#129360](https://github.com/flutter/flutter/pull/129360) merged on June 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/129360) over 4 hours, 0 additions and 41 deletions in 2 files</sub>
-    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Elias Yishak](https://github.com/eliasyishak)</sub>
 
 * **[Swaroop S](https://github.com/SwaroopSambhayya)** &mdash; Adding ScrollController support for Stepper widget
     <sub>[#128814](https://github.com/flutter/flutter/pull/128814) merged on June 20, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/128814) over 6 days, 41 additions and 0 deletions in 2 files</sub>
@@ -249,7 +249,7 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; move test ownership from zanderso -> tools team
     <sub>[#129199](https://github.com/flutter/flutter/pull/129199) merged on June 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129199) over 21 hours, 11 additions and 11 deletions in 1 file</sub>
-    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Elias Yishak](https://github.com/eliasyishak)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update resolution-aware asset docs links
     <sub>[#128769](https://github.com/flutter/flutter/pull/128769) merged on June 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128769) over 1 week, 4 additions and 7 deletions in 1 file</sub>
@@ -265,7 +265,7 @@
 
 * **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; fix: SearchAnchor View not resizing when in nested navigator
     <sub>[#128357](https://github.com/flutter/flutter/pull/128357) merged on June 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128357) over 2 weeks, 46 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [process] Add a design doc issue template.
     <sub>[#128361](https://github.com/flutter/flutter/pull/128361) merged on June 20, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/128361) over 1 week, 32 additions and 0 deletions in 1 file</sub>
@@ -569,7 +569,7 @@
 
 * **[ZhulanovAA](https://github.com/ZhulanovAA)** &mdash; Remove unnecessary parentheses
     <sub>[#128620](https://github.com/flutter/flutter/pull/128620) merged on June 10, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128620) over 20 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [chunhtai](https://github.com/chunhtai)</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hans Muller](https://github.com/HansMuller)</sub>
 
 </details>
 
