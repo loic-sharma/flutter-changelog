@@ -74,3 +74,6 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Revert no-response to fork.<br />
     <sub>[#129775](https://github.com/flutter/flutter/pull/129775) opened on on June 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129775) 8 additions and 17 deletions in 1 file</sub><br />
 
+* **[指尖上的艺术](https://github.com/fingerart)** &mdash; Fix CurvedAnimation._curveDirection status update issue<br />
+    <sub>[#129777](https://github.com/flutter/flutter/pull/129777) opened on on June 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129777) 2 additions and 2 deletions in 1 file</sub><br />
+
