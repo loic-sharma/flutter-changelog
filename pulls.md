@@ -47,14 +47,8 @@
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Refactor: updated segmented button<br />
     <sub>[#129215](https://github.com/flutter/flutter/pull/129215) opened on on June 20, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/129215) 402 additions and 112 deletions in 1 file</sub><br />
 
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Remove `@NonNull` to avoid warning<br />
-    <sub>[#129472](https://github.com/flutter/flutter/pull/129472) opened on on June 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129472) 3 additions and 3 deletions in 1 file</sub><br />
-
 * **[Kavan2003](https://github.com/Kavan2003)** &mdash; [flutter_image] Add example app #128699<br />
     <sub>[#129478](https://github.com/flutter/flutter/pull/129478) opened on on June 24, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/129478) 4525 additions and 0 deletions in 121 files</sub><br />
-
-* **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [flutter_tools] Support coverage collection for dependencies<br />
-    <sub>[#129513](https://github.com/flutter/flutter/pull/129513) opened on on June 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129513) 243 additions and 5 deletions in 4 files</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix NetworkImage causing spurious warning in tests<br />
     <sub>[#129537](https://github.com/flutter/flutter/pull/129537) opened on on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129537) 22 additions and 2 deletions in 2 files</sub><br />
