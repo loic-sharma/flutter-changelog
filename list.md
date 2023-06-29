@@ -4,7 +4,7 @@
 
 ### June 24, 2023 to June 30, 2023
 
-31 commits.
+32 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add InputDecorator.error to allow error message customization
     <sub>[#129275](https://github.com/flutter/flutter/pull/129275) merged on June 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129275) over 1 week, 77 additions and 10 deletions in 2 files</sub>
@@ -72,6 +72,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Make bug templates more consistent
     <sub>[#129460](https://github.com/flutter/flutter/pull/129460) merged on June 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129460) over 2 days, 6 additions and 6 deletions in 4 files</sub>
     <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
+
+* **[Jia Tan](https://github.com/crazytan)** &mdash; Fix typos in ListTile examples.
+    <sub>[#129606](https://github.com/flutter/flutter/pull/129606) merged on June 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/129606) over 2 days, 13 additions and 13 deletions in 3 files</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Daniel Agbemava](https://github.com/danagbemava-nc)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Skwasm benchmarks.
     <sub>[#129681](https://github.com/flutter/flutter/pull/129681) merged on June 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129681) over 1 day, 77 additions and 14 deletions in 9 files</sub>
