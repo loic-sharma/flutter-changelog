@@ -63,7 +63,7 @@
     <sub>[#129576](https://github.com/flutter/flutter/pull/129576) opened on on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129576) 95 additions and 1 deletion in 3 files</sub><br />
 
 * **[Jia Tan](https://github.com/crazytan)** &mdash; Fix typos in ListTile examples.<br />
-    <sub>[#129606](https://github.com/flutter/flutter/pull/129606) opened on on June 27, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/129606) 13 additions and 13 deletions in 3 files</sub><br />
+    <sub>[#129606](https://github.com/flutter/flutter/pull/129606) opened on on June 27, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/129606) 13 additions and 13 deletions in 3 files</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; (WIP) Verify that making `useMaterial3:true` is safe<br />
     <sub>[#129724](https://github.com/flutter/flutter/pull/129724) opened on on June 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129724) 1 addition and 1 deletion in 1 file</sub><br />
