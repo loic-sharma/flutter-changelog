@@ -30,7 +30,7 @@
     <sub>[#127749](https://github.com/flutter/flutter/pull/127749) opened on on May 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127749) 50 additions and 1 deletion in 2 files</sub><br />
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; fix a Scrollbar example crash<br />
-    <sub>[#127925](https://github.com/flutter/flutter/pull/127925) opened on on May 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127925) 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>[#127925](https://github.com/flutter/flutter/pull/127925) opened on on May 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/127925) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Piotr FLEURY](https://github.com/PiotrFLEURY)** &mdash; Add .env file support for  option `--dart-define-from-file`<br />
     <sub>[#128668](https://github.com/flutter/flutter/pull/128668) opened on on June 11, 2023 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/128668) 254 additions and 10 deletions in 2 files</sub><br />
