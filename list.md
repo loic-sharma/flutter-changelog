@@ -87,7 +87,7 @@
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Fix `AnimatedList` & `AnimatedGrid` doesn't apply `MediaQuery` padding"
     <sub>[#129645](https://github.com/flutter/flutter/pull/129645) merged on June 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129645) over 18 hours, 7 additions and 169 deletions in 3 files</sub>
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Labeler format to remove extra single quote
     <sub>[#129672](https://github.com/flutter/flutter/pull/129672) merged on June 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129672) over 1 minute, 1 addition and 1 deletion in 1 file</sub>
