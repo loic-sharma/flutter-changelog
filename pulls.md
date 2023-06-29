@@ -65,6 +65,3 @@
 * **[指尖上的艺术](https://github.com/fingerart)** &mdash; Fix CurvedAnimation._curveDirection status update issue<br />
     <sub>[#129777](https://github.com/flutter/flutter/pull/129777) opened on on June 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129777) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove use of any<br />
-    <sub>[#129793](https://github.com/flutter/flutter/pull/129793) opened on on June 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129793) 50 additions and 64 deletions in 1 file</sub><br />
-
