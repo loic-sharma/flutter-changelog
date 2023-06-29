@@ -78,5 +78,5 @@
     <sub>[#129777](https://github.com/flutter/flutter/pull/129777) opened on on June 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129777) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Fix flutter_plugins by rolling revision<br />
-    <sub>[#129781](https://github.com/flutter/flutter/pull/129781) opened on on June 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129781) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#129781](https://github.com/flutter/flutter/pull/129781) opened on on June 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129781) 1 addition and 1 deletion in 1 file</sub><br />
 
