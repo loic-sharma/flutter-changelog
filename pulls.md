@@ -68,3 +68,6 @@
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [flutter_tools] build ios-frameworks: option to exclude plugin frameworks from the build<br />
     <sub>[#129739](https://github.com/flutter/flutter/pull/129739) opened on on June 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129739) 61 additions and 2 deletions in 2 files</sub><br />
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Make `DropdownMenu` be able to scroll to the highlighted item when searching.<br />
+    <sub>[#129740](https://github.com/flutter/flutter/pull/129740) opened on on June 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129740) 42 additions and 3 deletions in 2 files</sub><br />
+
