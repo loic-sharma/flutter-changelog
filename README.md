@@ -544,7 +544,7 @@
 
 ### June 24, 2023 to June 30, 2023
 
-35 commits.
+36 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Implement union and intersection for DlRegion<br />
     <sub>[#42620](https://github.com/flutter/engine/pull/42620) merged on June 26, 2023 &mdash; **Extra large:** [91 comments](https://github.com/flutter/engine/pull/42620) over 2 weeks, 1776 additions and 266 deletions in 9 files</sub><br />
@@ -586,17 +586,21 @@
     <sub>[#43166](https://github.com/flutter/engine/pull/43166) merged on June 27, 2023 &mdash; **Medium:** [12 comments](https://github.com/flutter/engine/pull/43166) over 3 days, 156 additions and 185 deletions in 39 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Add Vulkan allocator traces.<br />
-    <sub>[#43215](https://github.com/flutter/engine/pull/43215) merged on June 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43215) over 21 hours, 3 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add trace events to Vulkan texture and buffer lifecycle events.<br />
-    <sub>[#43321](https://github.com/flutter/engine/pull/43321) merged on June 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43321) over 54 minutes, 12 additions and 3 deletions in 2 files</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Add a missing method to the Context mock<br />
+    <sub>[#43326](https://github.com/flutter/engine/pull/43326) merged on June 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43326) over 54 minutes, 2 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Update skia includes to be more specific<br />
     <sub>[#43284](https://github.com/flutter/engine/pull/43284) merged on June 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43284) over 1 hour, 4 additions and 0 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Include the SkRTreeFactory headers in the skwasm picture recorder<br />
+    <sub>[#43292](https://github.com/flutter/engine/pull/43292) merged on June 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43292) over 45 minutes, 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Add Vulkan allocator traces.<br />
+    <sub>[#43215](https://github.com/flutter/engine/pull/43215) merged on June 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43215) over 21 hours, 3 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Report pipeline creation feedback to logs and traces.<br />
     <sub>[#43227](https://github.com/flutter/engine/pull/43227) merged on June 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/43227) over 17 hours, 222 additions and 30 deletions in 7 files</sub><br />
@@ -610,13 +614,13 @@
     <sub>[#43182](https://github.com/flutter/engine/pull/43182) merged on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43182) over 1 day, 9 additions and 9 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add trace events to Vulkan texture and buffer lifecycle events.<br />
+    <sub>[#43321](https://github.com/flutter/engine/pull/43321) merged on June 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43321) over 54 minutes, 12 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove redundant highp modifiers in vertex shaders.<br />
     <sub>[#43305](https://github.com/flutter/engine/pull/43305) merged on June 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43305) over 1 hour, 46 additions and 48 deletions in 16 files</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Include the SkRTreeFactory headers in the skwasm picture recorder<br />
-    <sub>[#43292](https://github.com/flutter/engine/pull/43292) merged on June 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43292) over 45 minutes, 2 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Initialize skwasm codecs before handing them back to the user.<br />
     <sub>[#43274](https://github.com/flutter/engine/pull/43274) merged on June 27, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/43274) over 2 hours, 8 additions and 2 deletions in 3 files</sub><br />
@@ -634,13 +638,13 @@
     <sub>[#43149](https://github.com/flutter/engine/pull/43149) merged on June 26, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/43149) over 3 days, 168 additions and 173 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
-* **[Tamir Duberstein](https://github.com/tamird)** &mdash; Avoid channel clone<br />
-    <sub>[#43181](https://github.com/flutter/engine/pull/43181) merged on June 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43181) over 1 day, 54 additions and 47 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Tom Robinson](https://github.com/tarobins)</sub><br />
-
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; ParagraphStyle uses the wrong bit mask<br />
     <sub>[#43070](https://github.com/flutter/engine/pull/43070) merged on June 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43070) over 4 days, 7 additions and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Tamir Duberstein](https://github.com/tamird)** &mdash; Avoid channel clone<br />
+    <sub>[#43181](https://github.com/flutter/engine/pull/43181) merged on June 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43181) over 1 day, 54 additions and 47 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Tom Robinson](https://github.com/tarobins)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 02292814a9d3 to 9faf7059f9ef (7 revisions)<br />
     <sub>[#43272](https://github.com/flutter/engine/pull/43272) merged on June 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43272) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
