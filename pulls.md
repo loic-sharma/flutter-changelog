@@ -59,12 +59,12 @@
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [flutter_tools] build ios-frameworks: option to exclude plugin frameworks from the build<br />
     <sub>[#129739](https://github.com/flutter/flutter/pull/129739) opened on on June 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129739) 61 additions and 2 deletions in 2 files</sub><br />
 
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Prepare for utf8.encode() to return more precise Uint8List type<br />
-    <sub>[#129769](https://github.com/flutter/flutter/pull/129769) opened on on June 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129769) 2 additions and 2 deletions in 2 files</sub><br />
-
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Revert no-response to fork.<br />
     <sub>[#129775](https://github.com/flutter/flutter/pull/129775) opened on on June 29, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/129775) 8 additions and 17 deletions in 1 file</sub><br />
 
 * **[指尖上的艺术](https://github.com/fingerart)** &mdash; Fix CurvedAnimation._curveDirection status update issue<br />
     <sub>[#129777](https://github.com/flutter/flutter/pull/129777) opened on on June 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129777) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove use of any<br />
+    <sub>[#129793](https://github.com/flutter/flutter/pull/129793) opened on on June 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129793) 50 additions and 64 deletions in 1 file</sub><br />
 
