@@ -65,3 +65,6 @@
 * **[指尖上的艺术](https://github.com/fingerart)** &mdash; Fix CurvedAnimation._curveDirection status update issue<br />
     <sub>[#129777](https://github.com/flutter/flutter/pull/129777) opened on on June 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129777) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated some golden image tests for M2/M3<br />
+    <sub>[#129794](https://github.com/flutter/flutter/pull/129794) opened on on June 29, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/129794) 297 additions and 16 deletions in 5 files</sub><br />
+
