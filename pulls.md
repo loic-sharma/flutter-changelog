@@ -71,3 +71,6 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Prepare for utf8.encode() to return more precise Uint8List type<br />
     <sub>[#129769](https://github.com/flutter/flutter/pull/129769) opened on on June 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129769) 2 additions and 2 deletions in 2 files</sub><br />
 
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Revert no-response to fork.<br />
+    <sub>[#129775](https://github.com/flutter/flutter/pull/129775) opened on on June 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129775) 8 additions and 17 deletions in 1 file</sub><br />
+
