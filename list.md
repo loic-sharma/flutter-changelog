@@ -173,7 +173,7 @@
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Fix `AnimatedList` & `AnimatedGrid` doesn't apply `MediaQuery` padding"
     <sub>[#129645](https://github.com/flutter/flutter/pull/129645) merged on June 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129645) over 18 hours, 7 additions and 169 deletions in 3 files</sub>
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Fix syntax error in no-response
     <sub>[#129588](https://github.com/flutter/flutter/pull/129588) merged on June 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129588) over 58 minutes, 1 addition and 1 deletion in 1 file</sub>
@@ -614,7 +614,7 @@
 
 * **[ZhulanovAA](https://github.com/ZhulanovAA)** &mdash; Remove unnecessary parentheses
     <sub>[#128620](https://github.com/flutter/flutter/pull/128620) merged on June 10, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128620) over 20 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [chunhtai](https://github.com/chunhtai)</sub>
 
 </details>
 
@@ -1367,7 +1367,7 @@
 
 ### June 24, 2023 to June 30, 2023
 
-21 commits.
+22 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [file_selector_android] Create initial Android implementation of the file_selector package
     <sub>[#3814](https://github.com/flutter/packages/pull/3814) merged on June 26, 2023 &mdash; **Extra large:** [34 comments](https://github.com/flutter/packages/pull/3814) over 2 months, 2738 additions and 0 deletions in 53 files</sub>
@@ -1439,6 +1439,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Remove jcenter from legacy project
     <sub>[#4306](https://github.com/flutter/packages/pull/4306) merged on June 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4306) over 35 minutes, 4 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Prepare for utf8.encode() to return more precise Uint8List type
+    <sub>[#4342](https://github.com/flutter/packages/pull/4342) merged on June 30, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/4342) over 1 day, 6 additions and 5 deletions in 4 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Slava Egorov](https://github.com/mraleph), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [various] Update links to the old linter site to point to dart.dev
     <sub>[#4333](https://github.com/flutter/packages/pull/4333) merged on June 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4333) over 15 hours, 7 additions and 8 deletions in 5 files</sub>
