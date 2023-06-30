@@ -63,11 +63,11 @@
     <sub>[#129795](https://github.com/flutter/flutter/pull/129795) opened on on June 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129795) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; (Raw)Autocomplete: Add optional [optionsViewOpenDirection] param<br />
-    <sub>[#129802](https://github.com/flutter/flutter/pull/129802) opened on on June 29, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/129802) 193 additions and 6 deletions in 4 files</sub><br />
+    <sub>[#129802](https://github.com/flutter/flutter/pull/129802) opened on on June 29, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/129802) 193 additions and 6 deletions in 4 files</sub><br />
 
 * **[AdamMusa](https://github.com/AdamMusa)** &mdash; upgrade all outdated example app and enable material 3 for some example<br />
     <sub>[#129830](https://github.com/flutter/flutter/pull/129830) opened on on June 30, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/129830) 627 additions and 317 deletions in 11 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Change pub roller bot name<br />
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Change pub roller bot to push to flutter-pub-roller-bot/flutter.git<br />
     <sub>[#129844](https://github.com/flutter/flutter/pull/129844) opened on on June 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129844) 15 additions and 16 deletions in 3 files</sub><br />
 
