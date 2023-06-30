@@ -56,7 +56,7 @@
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix NetworkImage causing spurious warning in tests<br />
-    <sub>[#129537](https://github.com/flutter/flutter/pull/129537) merged on June 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129537) over 4 days, 22 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#129537](https://github.com/flutter/flutter/pull/129537) merged on June 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129537) over 4 days, 22 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Fix flutter_plugins by rolling revision<br />
