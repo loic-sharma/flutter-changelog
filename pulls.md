@@ -62,6 +62,3 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Implement preferPaintInterior correctly for _CompoundBorder<br />
     <sub>[#129851](https://github.com/flutter/flutter/pull/129851) opened on on June 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129851) 68 additions and 1 deletion in 2 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable unreachable_from_main lint - it is stable now!!1<br />
-    <sub>[#129854](https://github.com/flutter/flutter/pull/129854) opened on on June 30, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/129854) 66 additions and 417 deletions in 45 files</sub><br />
-
