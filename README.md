@@ -294,7 +294,7 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; move test ownership from zanderso -> tools team<br />
     <sub>[#129199](https://github.com/flutter/flutter/pull/129199) merged on June 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129199) over 21 hours, 11 additions and 11 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Elias Yishak](https://github.com/eliasyishak)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update resolution-aware asset docs links<br />
     <sub>[#128769](https://github.com/flutter/flutter/pull/128769) merged on June 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128769) over 1 week, 4 additions and 7 deletions in 1 file</sub><br />
@@ -614,7 +614,7 @@
 
 * **[ZhulanovAA](https://github.com/ZhulanovAA)** &mdash; Remove unnecessary parentheses<br />
     <sub>[#128620](https://github.com/flutter/flutter/pull/128620) merged on June 10, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128620) over 20 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 </details>
 
@@ -1367,10 +1367,14 @@
 
 ### June 24, 2023 to June 30, 2023
 
-22 commits.
+24 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [file_selector_android] Create initial Android implementation of the file_selector package<br />
     <sub>[#3814](https://github.com/flutter/packages/pull/3814) merged on June 26, 2023 &mdash; **Extra large:** [34 comments](https://github.com/flutter/packages/pull/3814) over 2 months, 2738 additions and 0 deletions in 53 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [Pigeon] readme updates<br />
+    <sub>[#3705](https://github.com/flutter/packages/pull/3705) merged on June 30, 2023 &mdash; **Extra large:** [65 comments](https://github.com/flutter/packages/pull/3705) over 2 months, 2019 additions and 421 deletions in 37 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchase] 0.3.0 Migration guide<br />
@@ -1388,6 +1392,10 @@
 * **[Tiago Alves Dulce](https://github.com/tiagoalvesdulce)** &mdash; [flutter_markdown] Add ScrollController to pre block Scrollbar<br />
     <sub>[#3821](https://github.com/flutter/packages/pull/3821) merged on June 29, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/3821) over 2 months, 10 additions and 3 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android] Support concurrently image capture and image streaming<br />
+    <sub>[#4332](https://github.com/flutter/packages/pull/4332) merged on June 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4332) over 2 days, 145 additions and 8 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[Justin Baumann](https://github.com/jxstxn1)** &mdash; [google_maps_flutter_web] Add padding to newLatLngBounds implementation<br />
     <sub>[#3452](https://github.com/flutter/packages/pull/3452) merged on June 30, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/3452) over 3 months, 62 additions and 3 deletions in 5 files</sub><br />
