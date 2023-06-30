@@ -48,7 +48,7 @@
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[gmackall](https://github.com/gmackall)** &mdash; Upgrade integration tests to use AGP 7.3/Gradle 7.4
-    <sub>[#129642](https://github.com/flutter/flutter/pull/129642) merged on June 30, 2023 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/129642) over 3 days, 2115 additions and 1234 deletions in 67 files</sub>
+    <sub>[#129642](https://github.com/flutter/flutter/pull/129642) merged on June 30, 2023 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/129642) over 3 days, 2115 additions and 1234 deletions in 67 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Deletes files that should be ignored
