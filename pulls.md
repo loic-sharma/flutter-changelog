@@ -69,5 +69,5 @@
     <sub>[#129811](https://github.com/flutter/flutter/pull/129811) opened on on June 30, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/129811) 495 additions and 71 deletions in 1 file</sub><br />
 
 * **[AdamMusa](https://github.com/AdamMusa)** &mdash; upgrade all outdated example app and enable material 3 for some example<br />
-    <sub>[#129830](https://github.com/flutter/flutter/pull/129830) opened on on June 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129830) 231 additions and 12 deletions in 9 files</sub><br />
+    <sub>[#129830](https://github.com/flutter/flutter/pull/129830) opened on on June 30, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/129830) 627 additions and 317 deletions in 11 files</sub><br />
 
