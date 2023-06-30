@@ -26,7 +26,7 @@
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Fix super tiny space formatting (hope we have auto formatter in the future)<br />
     <sub>[#127479](https://github.com/flutter/flutter/pull/127479) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127479) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Darshan Rander](https://github.com/SirusCodes)** &mdash; fix: wrong expansion tile shape assignment<br />
+* **[Darshan Rander](https://github.com/SirusCodes)** &mdash; fix: `ExpansionTileTheme.shape` assignment in `ExpansionTile`<br />
     <sub>[#127749](https://github.com/flutter/flutter/pull/127749) opened on on May 27, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/127749) 51 additions and 2 deletions in 3 files</sub><br />
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; fix a Scrollbar example crash<br />
