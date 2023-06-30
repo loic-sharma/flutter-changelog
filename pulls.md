@@ -62,3 +62,9 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Implement preferPaintInterior correctly for _CompoundBorder<br />
     <sub>[#129851](https://github.com/flutter/flutter/pull/129851) opened on on June 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129851) 68 additions and 1 deletion in 2 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; mark packages-autoroller bringup again<br />
+    <sub>[#129859](https://github.com/flutter/flutter/pull/129859) opened on on June 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129859) 2 additions and 0 deletions in 1 file</sub><br />
+
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Reland Fix AnimatedList & AnimatedGrid doesn't apply MediaQuery padding #129556<br />
+    <sub>[#129860](https://github.com/flutter/flutter/pull/129860) opened on on June 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129860) 169 additions and 7 deletions in 3 files</sub><br />
+
