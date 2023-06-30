@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; Fix Chip classes to respect iconTheme constructor param. fixes #111828<br />
-    <sub>[#112001](https://github.com/flutter/flutter/pull/112001) opened on on September 20, 2022 &mdash; **Small:** [59 comments](https://github.com/flutter/flutter/pull/112001) 159 additions and 56 deletions in 10 files</sub><br />
+    <sub>[#112001](https://github.com/flutter/flutter/pull/112001) opened on on September 20, 2022 &mdash; **Small:** [60 comments](https://github.com/flutter/flutter/pull/112001) 159 additions and 56 deletions in 10 files</sub><br />
 
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Added hoverColor property to CheckboxListTile widget<br />
     <sub>[#116026](https://github.com/flutter/flutter/pull/116026) opened on on November 25, 2022 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/116026) 23 additions and 1 deletion in 3 files</sub><br />
