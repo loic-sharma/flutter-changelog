@@ -59,9 +59,6 @@
 * **[Caique Ribeiro de Oliveira](https://github.com/CaiqueR)** &mdash; Fix XCode download link<br />
     <sub>[#129795](https://github.com/flutter/flutter/pull/129795) opened on on June 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129795) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Change pub roller bot to push to flutter-pub-roller-bot/flutter.git<br />
-    <sub>[#129844](https://github.com/flutter/flutter/pull/129844) opened on on June 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129844) 15 additions and 18 deletions in 4 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Implement preferPaintInterior correctly for _CompoundBorder<br />
     <sub>[#129851](https://github.com/flutter/flutter/pull/129851) opened on on June 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129851) 68 additions and 1 deletion in 2 files</sub><br />
 
