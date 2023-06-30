@@ -68,3 +68,6 @@
 * **[AdamMusa](https://github.com/AdamMusa)** &mdash; upgrade all outdated example app and enable material 3 for some example<br />
     <sub>[#129830](https://github.com/flutter/flutter/pull/129830) opened on on June 30, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/129830) 627 additions and 317 deletions in 11 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `Badge` widget to `NavigationBar` and `NavigationRail` examples<br />
+    <sub>[#129834](https://github.com/flutter/flutter/pull/129834) opened on on June 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129834) 76 additions and 15 deletions in 4 files</sub><br />
+
