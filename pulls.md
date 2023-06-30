@@ -44,9 +44,6 @@
 * **[Kavan2003](https://github.com/Kavan2003)** &mdash; [flutter_image] Add example app #128699<br />
     <sub>[#129478](https://github.com/flutter/flutter/pull/129478) opened on on June 24, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/129478) 4525 additions and 0 deletions in 121 files</sub><br />
 
-* **[Greg Price](https://github.com/gnprice)** &mdash; Fix NetworkImage causing spurious warning in tests<br />
-    <sub>[#129537](https://github.com/flutter/flutter/pull/129537) opened on on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129537) 22 additions and 2 deletions in 2 files</sub><br />
-
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [CP] Fix TextField not responding to taps when wrapped in a GestureDetector<br />
     <sub>[#129576](https://github.com/flutter/flutter/pull/129576) opened on on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129576) 95 additions and 1 deletion in 3 files</sub><br />
 
@@ -61,12 +58,6 @@
 
 * **[Caique Ribeiro de Oliveira](https://github.com/CaiqueR)** &mdash; Fix XCode download link<br />
     <sub>[#129795](https://github.com/flutter/flutter/pull/129795) opened on on June 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129795) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; (Raw)Autocomplete: Add optional [optionsViewOpenDirection] param<br />
-    <sub>[#129802](https://github.com/flutter/flutter/pull/129802) opened on on June 29, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/129802) 193 additions and 6 deletions in 4 files</sub><br />
-
-* **[AdamMusa](https://github.com/AdamMusa)** &mdash; upgrade all outdated example app and enable material 3 for some example<br />
-    <sub>[#129830](https://github.com/flutter/flutter/pull/129830) opened on on June 30, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/129830) 627 additions and 317 deletions in 11 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Change pub roller bot to push to flutter-pub-roller-bot/flutter.git<br />
     <sub>[#129844](https://github.com/flutter/flutter/pull/129844) opened on on June 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129844) 15 additions and 18 deletions in 4 files</sub><br />
