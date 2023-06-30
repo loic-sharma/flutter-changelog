@@ -62,7 +62,7 @@
 * **[Caique Ribeiro de Oliveira](https://github.com/CaiqueR)** &mdash; Fix XCode download link<br />
     <sub>[#129795](https://github.com/flutter/flutter/pull/129795) opened on on June 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129795) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; RawAutocomplete: Add optional [optionsViewOpenDirection] param<br />
+* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; (Raw)Autocomplete: Add optional [optionsViewOpenDirection] param<br />
     <sub>[#129802](https://github.com/flutter/flutter/pull/129802) opened on on June 29, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/129802) 193 additions and 6 deletions in 4 files</sub><br />
 
 * **[AdamMusa](https://github.com/AdamMusa)** &mdash; upgrade all outdated example app and enable material 3 for some example<br />
