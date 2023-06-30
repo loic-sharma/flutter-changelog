@@ -62,9 +62,6 @@
 * **[Caique Ribeiro de Oliveira](https://github.com/CaiqueR)** &mdash; Fix XCode download link<br />
     <sub>[#129795](https://github.com/flutter/flutter/pull/129795) opened on on June 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129795) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `SwitchTheme` tests for M2/M3<br />
-    <sub>[#129811](https://github.com/flutter/flutter/pull/129811) opened on on June 30, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/129811) 495 additions and 71 deletions in 1 file</sub><br />
-
 * **[AdamMusa](https://github.com/AdamMusa)** &mdash; upgrade all outdated example app and enable material 3 for some example<br />
     <sub>[#129830](https://github.com/flutter/flutter/pull/129830) opened on on June 30, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/129830) 627 additions and 317 deletions in 11 files</sub><br />
 
