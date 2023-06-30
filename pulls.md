@@ -71,3 +71,12 @@
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; RawAutocomplete: Add optional [optionsViewOpenDirection] param<br />
     <sub>[#129802](https://github.com/flutter/flutter/pull/129802) opened on on June 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129802) 165 additions and 4 deletions in 2 files</sub><br />
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `SwitchListTile` tests for M2/M3<br />
+    <sub>[#129809](https://github.com/flutter/flutter/pull/129809) opened on on June 30, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/129809) 308 additions and 72 deletions in 1 file</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `Switch` tests for M2/M3<br />
+    <sub>[#129810](https://github.com/flutter/flutter/pull/129810) opened on on June 30, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/129810) 1030 additions and 925 deletions in 1 file</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `SwitchTheme` tests for M2/M3<br />
+    <sub>[#129811](https://github.com/flutter/flutter/pull/129811) opened on on June 30, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/129811) 495 additions and 71 deletions in 1 file</sub><br />
+
