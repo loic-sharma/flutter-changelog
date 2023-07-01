@@ -68,3 +68,6 @@
 * **[SoaringHeart](https://github.com/shang1219178163)** &mdash; Add an entries read-only property and a clear method。<br />
     <sub>[#129872](https://github.com/flutter/flutter/pull/129872) opened on on July 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129872) 10 additions and 0 deletions in 1 file</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix typo in canvas example<br />
+    <sub>[#129879](https://github.com/flutter/flutter/pull/129879) opened on on July 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129879) 1 addition and 1 deletion in 1 file</sub><br />
+
