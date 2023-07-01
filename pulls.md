@@ -65,3 +65,6 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Reland Fix AnimatedList & AnimatedGrid doesn't apply MediaQuery padding #129556<br />
     <sub>[#129860](https://github.com/flutter/flutter/pull/129860) opened on on June 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129860) 169 additions and 7 deletions in 3 files</sub><br />
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update links to old linter site to dart.dev<br />
+    <sub>[#129866](https://github.com/flutter/flutter/pull/129866) opened on on July 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129866) 4 additions and 5 deletions in 2 files</sub><br />
+
