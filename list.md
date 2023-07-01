@@ -841,7 +841,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "Reland "add non-rendering operation culling to DisplayListBuilder" (#41463)"
-    <sub>[#43358](https://github.com/flutter/engine/pull/43358) merged on June 30, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/43358) over 4 hours, 311 additions and 1267 deletions in 20 files</sub>
+    <sub>[#43358](https://github.com/flutter/engine/pull/43358) merged on June 30, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/43358) over 4 hours, 311 additions and 1267 deletions in 20 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Revert "Refactor JSNumber.toDart and Object.toJS"
