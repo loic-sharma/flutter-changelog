@@ -1383,7 +1383,7 @@
 
 ### June 24, 2023 to June 30, 2023
 
-24 commits.
+25 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [file_selector_android] Create initial Android implementation of the file_selector package
     <sub>[#3814](https://github.com/flutter/packages/pull/3814) merged on June 26, 2023 &mdash; **Extra large:** [34 comments](https://github.com/flutter/packages/pull/3814) over 2 months, 2738 additions and 0 deletions in 53 files</sub>
@@ -1438,6 +1438,10 @@
 * **[GwonHyeok](https://github.com/GwonHyeok)** &mdash; [webview_flutter_wkwebview] Adds the `isInspectable` to `WebKitWebViewController`.
     <sub>[#3984](https://github.com/flutter/packages/pull/3984) merged on June 26, 2023 &mdash; **Small:** [32 comments](https://github.com/flutter/packages/pull/3984) over 1 month, 233 additions and 2 deletions in 17 files</sub>
     <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Convert Android to Pigeon
+    <sub>[#4344](https://github.com/flutter/packages/pull/4344) merged on July 1, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/4344) over 1 day, 2401 additions and 435 deletions in 13 files</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Remove unused flutter_driver dependencies
     <sub>[#4347](https://github.com/flutter/packages/pull/4347) merged on June 29, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4347) over 4 hours, 0 additions and 198 deletions in 74 files</sub>
