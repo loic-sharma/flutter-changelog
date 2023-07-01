@@ -1395,7 +1395,7 @@
 
 ### June 24, 2023 to June 30, 2023
 
-25 commits.
+27 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [file_selector_android] Create initial Android implementation of the file_selector package
     <sub>[#3814](https://github.com/flutter/packages/pull/3814) merged on June 26, 2023 &mdash; **Extra large:** [34 comments](https://github.com/flutter/packages/pull/3814) over 2 months, 2738 additions and 0 deletions in 53 files</sub>
@@ -1408,6 +1408,10 @@
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [in_app_purchase] 0.3.0 Migration guide
     <sub>[#4137](https://github.com/flutter/packages/pull/4137) merged on June 29, 2023 &mdash; **Small:** [28 comments](https://github.com/flutter/packages/pull/4137) over 3 weeks, 243 additions and 1 deletion in 7 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Endorse Android
+    <sub>[#4329](https://github.com/flutter/packages/pull/4329) merged on July 1, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/packages/pull/4329) over 3 days, 325 additions and 40 deletions in 29 files</sub>
+    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] Adds allowList to setPrefix method.
     <sub>[#3794](https://github.com/flutter/packages/pull/3794) merged on June 30, 2023 &mdash; **Small:** [34 comments](https://github.com/flutter/packages/pull/3794) over 2 months, 110 additions and 20 deletions in 6 files</sub>
@@ -1487,6 +1491,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [various] Update links to the old linter site to point to dart.dev
     <sub>[#4333](https://github.com/flutter/packages/pull/4333) merged on June 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4333) over 15 hours, 7 additions and 8 deletions in 5 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Add a flag to skip cleanup
+    <sub>[#4357](https://github.com/flutter/packages/pull/4357) merged on July 1, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4357) over 9 hours, 71 additions and 9 deletions in 2 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add LUCI version of dart unit tests
     <sub>[#4265](https://github.com/flutter/packages/pull/4265) merged on June 29, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/4265) over 1 week, 73 additions and 0 deletions in 3 files</sub>
