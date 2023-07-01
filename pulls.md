@@ -65,3 +65,6 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Reland Fix AnimatedList & AnimatedGrid doesn't apply MediaQuery padding #129556<br />
     <sub>[#129860](https://github.com/flutter/flutter/pull/129860) opened on on June 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129860) 169 additions and 7 deletions in 3 files</sub><br />
 
+* **[SoaringHeart](https://github.com/shang1219178163)** &mdash; Add an entries read-only property and a clear method。<br />
+    <sub>[#129872](https://github.com/flutter/flutter/pull/129872) opened on on July 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129872) 10 additions and 0 deletions in 1 file</sub><br />
+
