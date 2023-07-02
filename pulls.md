@@ -71,3 +71,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix typo in canvas example<br />
     <sub>[#129879](https://github.com/flutter/flutter/pull/129879) opened on on July 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129879) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Tsukuru Tanimichi](https://github.com/ttanimichi)** &mdash; Links in `material` library docs are outdated<br />
+    <sub>[#129891](https://github.com/flutter/flutter/pull/129891) opened on on July 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129891) 2 additions and 6 deletions in 1 file</sub><br />
+
