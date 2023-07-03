@@ -958,9 +958,18 @@
 
 ## flutter/packages
 
+### July 1, 2023 to July 7, 2023
+
+1 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Fixes inspectable compile-time error and crash from equal `NSURL`s
+    <sub>[#4340](https://github.com/flutter/packages/pull/4340) merged on July 3, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/4340) over 5 days, 37 additions and 5 deletions in 6 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Yang](https://github.com/cyanglaz)</sub>
+
 ### June 24, 2023 to June 30, 2023
 
-27 commits.
+<details>
+<summary>27 commits...</summary>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [file_selector_android] Create initial Android implementation of the file_selector package
     <sub>[#3814](https://github.com/flutter/packages/pull/3814) merged on June 26, 2023 &mdash; **Extra large:** [34 comments](https://github.com/flutter/packages/pull/3814) over 2 months, 2738 additions and 0 deletions in 53 files</sub>
@@ -1072,6 +1081,8 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated rfw/test/material_widgets_test.dart for M3
     <sub>[#4316](https://github.com/flutter/packages/pull/4316) merged on June 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4316) over 4 hours, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
+
+</details>
 
 ### June 17, 2023 to June 23, 2023
 
