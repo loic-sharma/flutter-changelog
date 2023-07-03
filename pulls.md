@@ -74,6 +74,6 @@
 * **[Tsukuru Tanimichi](https://github.com/ttanimichi)** &mdash; Links in `material` library docs are outdated<br />
     <sub>[#129891](https://github.com/flutter/flutter/pull/129891) opened on on July 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129891) 2 additions and 6 deletions in 1 file</sub><br />
 
-* **[Xianzhe Liang](https://github.com/liangxianzhe)** &mdash; Expose RenderEditable painter to EditableText.<br />
+* **[Xianzhe Liang](https://github.com/liangxianzhe)** &mdash; Expose RenderEditable painter to TextField (#113308)<br />
     <sub>[#129895](https://github.com/flutter/flutter/pull/129895) opened on on July 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129895) 55 additions and 0 deletions in 3 files</sub><br />
 
