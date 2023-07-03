@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### July 1, 2023 to July 7, 2023
+
+1 commits.
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add an example showing how to use textures
+    <sub>[#122779](https://github.com/flutter/flutter/pull/122779) merged on July 3, 2023 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/122779) over 3 months, 724 additions and 0 deletions in 11 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
 ### June 24, 2023 to June 30, 2023
 
-56 commits.
+<details>
+<summary>56 commits...</summary>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add InputDecorator.error to allow error message customization
     <sub>[#129275](https://github.com/flutter/flutter/pull/129275) merged on June 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129275) over 1 week, 77 additions and 10 deletions in 2 files</sub>
@@ -234,6 +243,8 @@
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Revert "Update labeler.yml to v5.0.0-beta.1"
     <sub>[#129673](https://github.com/flutter/flutter/pull/129673) merged on June 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129673) over 37 seconds, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### June 17, 2023 to June 23, 2023
 
