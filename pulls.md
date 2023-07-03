@@ -77,3 +77,6 @@
 * **[Xianzhe Liang](https://github.com/liangxianzhe)** &mdash; Expose RenderEditable painter to TextField (#113308)<br />
     <sub>[#129895](https://github.com/flutter/flutter/pull/129895) opened on on July 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129895) 55 additions and 0 deletions in 3 files</sub><br />
 
+* **[Xianzhe Liang](https://github.com/liangxianzhe)** &mdash; Focus SelectableRegion when drag starts (107327)<br />
+    <sub>[#129897](https://github.com/flutter/flutter/pull/129897) opened on on July 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129897) 1 addition and 1 deletion in 1 file</sub><br />
+
