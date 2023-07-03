@@ -297,7 +297,7 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] delete flutter format command<br />
     <sub>[#129360](https://github.com/flutter/flutter/pull/129360) merged on June 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/129360) over 4 hours, 0 additions and 41 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Elias Yishak](https://github.com/eliasyishak)</sub><br />
+    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Swaroop S](https://github.com/SwaroopSambhayya)** &mdash; Adding ScrollController support for Stepper widget<br />
     <sub>[#128814](https://github.com/flutter/flutter/pull/128814) merged on June 20, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/128814) over 6 days, 41 additions and 0 deletions in 2 files</sub><br />
@@ -329,7 +329,7 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; move test ownership from zanderso -> tools team<br />
     <sub>[#129199](https://github.com/flutter/flutter/pull/129199) merged on June 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129199) over 21 hours, 11 additions and 11 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Elias Yishak](https://github.com/eliasyishak)</sub><br />
+    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update resolution-aware asset docs links<br />
     <sub>[#128769](https://github.com/flutter/flutter/pull/128769) merged on June 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128769) over 1 week, 4 additions and 7 deletions in 1 file</sub><br />
@@ -345,7 +345,7 @@
 
 * **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; fix: SearchAnchor View not resizing when in nested navigator<br />
     <sub>[#128357](https://github.com/flutter/flutter/pull/128357) merged on June 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128357) over 2 weeks, 46 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [process] Add a design doc issue template.<br />
     <sub>[#128361](https://github.com/flutter/flutter/pull/128361) merged on June 20, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/128361) over 1 week, 32 additions and 0 deletions in 1 file</sub><br />
@@ -489,7 +489,7 @@
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Removes patchCanvasKitModule.<br />
     <sub>[#42941](https://github.com/flutter/engine/pull/42941) merged on June 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42941) over 1 week, 43 additions and 93 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Harry Terkelsen](https://github.com/hterkelsen), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/hterkelsen)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use default precision specifiers.<br />
     <sub>[#43183](https://github.com/flutter/engine/pull/43183) merged on June 26, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/43183) over 1 day, 261 additions and 150 deletions in 59 files</sub><br />
@@ -848,7 +848,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Differentiate two `EncodeCommandsInReactor` with the same name<br />
     <sub>[#42992](https://github.com/flutter/engine/pull/42992) merged on June 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42992) over 15 hours, 2 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland: Correctly compute UVs in texture fill<br />
     <sub>[#43093](https://github.com/flutter/engine/pull/43093) merged on June 22, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/43093) over 2 hours, 52 additions and 30 deletions in 6 files</sub><br />
@@ -916,7 +916,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Fix and reland drawPaint collapsing optimization.<br />
     <sub>[#43097](https://github.com/flutter/engine/pull/43097) merged on June 23, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43097) over 7 hours, 24 additions and 2 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Add deprecations to PlatformMessage stuff" (#42580)<br />
     <sub>[#42929](https://github.com/flutter/engine/pull/42929) merged on June 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42929) over 3 days, 106 additions and 105 deletions in 11 files</sub><br />
@@ -952,7 +952,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[Impeller] correct default PSO pixel format and sample count."<br />
     <sub>[#42962](https://github.com/flutter/engine/pull/42962) merged on June 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42962) over 4 hours, 70 additions and 84 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 </details>
 
@@ -1000,7 +1000,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.8.21 to 1.8.22 in /packages/pigeon/platform_tests/test_plugin/android<br />
     <sub>[#4189](https://github.com/flutter/packages/pull/4189) merged on June 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4189) over 2 weeks, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.8.21&new-version=1.8.22)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] Adds new clearWithParameters and getAllWithParameters methods to all platforms.<br />
@@ -1026,7 +1026,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Remove unused flutter_driver dependencies<br />
     <sub>[#4347](https://github.com/flutter/packages/pull/4347) merged on June 29, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4347) over 4 hours, 0 additions and 198 deletions in 74 files</sub><br />
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Drew Roen](https://github.com/drewroengoogle)** &mdash; [metrics_center] Add retries to unlock a lock file in case of 504 errors<br />
     <sub>[#4323](https://github.com/flutter/packages/pull/4323) merged on June 29, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/4323) over 1 day, 1396 additions and 56 deletions in 9 files</sub><br />
