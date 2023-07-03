@@ -1026,7 +1026,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Remove unused flutter_driver dependencies
     <sub>[#4347](https://github.com/flutter/packages/pull/4347) merged on June 29, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4347) over 4 hours, 0 additions and 198 deletions in 74 files</sub>
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Drew Roen](https://github.com/drewroengoogle)** &mdash; [metrics_center] Add retries to unlock a lock file in case of 504 errors
     <sub>[#4323](https://github.com/flutter/packages/pull/4323) merged on June 29, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/4323) over 1 day, 1396 additions and 56 deletions in 9 files</sub>
