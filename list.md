@@ -963,7 +963,7 @@
 1 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Fixes inspectable compile-time error and crash from equal `NSURL`s
-    <sub>[#4340](https://github.com/flutter/packages/pull/4340) merged on July 3, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/4340) over 5 days, 37 additions and 5 deletions in 6 files</sub>
+    <sub>[#4340](https://github.com/flutter/packages/pull/4340) merged on July 3, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/4340) over 5 days, 37 additions and 5 deletions in 6 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Yang](https://github.com/cyanglaz)</sub>
 
 ### June 24, 2023 to June 30, 2023
