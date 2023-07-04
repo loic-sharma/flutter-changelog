@@ -80,3 +80,6 @@
 * **[Xianzhe Liang](https://github.com/liangxianzhe)** &mdash; Focus SelectableRegion when drag starts (107327)<br />
     <sub>[#129897](https://github.com/flutter/flutter/pull/129897) opened on on July 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129897) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Add support for M3 motion<br />
+    <sub>[#129942](https://github.com/flutter/flutter/pull/129942) opened on on July 4, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/129942) 399 additions and 1 deletion in 9 files</sub><br />
+
