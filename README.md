@@ -467,9 +467,18 @@
 
 ## flutter/engine
 
+### July 1, 2023 to July 7, 2023
+
+1 commits.
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Document `impeller::Context`.<br />
+    <sub>[#43389](https://github.com/flutter/engine/pull/43389) merged on July 4, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43389) over 1 hour, 93 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 ### June 24, 2023 to June 30, 2023
 
-53 commits.
+<details>
+<summary>53 commits...</summary>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Implement union and intersection for DlRegion<br />
     <sub>[#42620](https://github.com/flutter/engine/pull/42620) merged on June 26, 2023 &mdash; **Extra large:** [91 comments](https://github.com/flutter/engine/pull/42620) over 2 weeks, 1776 additions and 266 deletions in 9 files</sub><br />
@@ -682,6 +691,8 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Revert "Remove master mirroring workflow."<br />
     <sub>[#43206](https://github.com/flutter/engine/pull/43206) merged on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43206) over 1 minute, 28 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### June 17, 2023 to June 23, 2023
 
