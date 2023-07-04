@@ -313,7 +313,7 @@
 
 * **[Md. Yeasin Sheikh](https://github.com/yeasin50)** &mdash; fixed PreferredSize constuctor invocations
     <sub>[#128181](https://github.com/flutter/flutter/pull/128181) merged on June 20, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/128181) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Oleh Prypin](https://github.com/oprypin)** &mdash; Prepare for making `intl` `toBeginningOfSentenceCase` non-nullable
     <sub>[#127488](https://github.com/flutter/flutter/pull/127488) merged on June 23, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/127488) over 4 weeks, 2 additions and 1 deletion in 1 file</sub>
@@ -329,7 +329,7 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; move test ownership from zanderso -> tools team
     <sub>[#129199](https://github.com/flutter/flutter/pull/129199) merged on June 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129199) over 21 hours, 11 additions and 11 deletions in 1 file</sub>
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Elias Yishak](https://github.com/eliasyishak)</sub>
+    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update resolution-aware asset docs links
     <sub>[#128769](https://github.com/flutter/flutter/pull/128769) merged on June 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128769) over 1 week, 4 additions and 7 deletions in 1 file</sub>
@@ -811,7 +811,7 @@
 
 * **[Tamir Duberstein](https://github.com/tamird)** &mdash; Remove process-local tempfs
     <sub>[#43056](https://github.com/flutter/engine/pull/43056) merged on June 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/43056) over 7 hours, 19 additions and 98 deletions in 8 files</sub>
-    <sub>Reviewed by: [Tom Robinson](https://github.com/tarobins), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Tom Robinson](https://github.com/tarobins)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Uniquely label subpasses and root blit
     <sub>[#43015](https://github.com/flutter/engine/pull/43015) merged on June 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43015) over 1 day, 9 additions and 6 deletions in 3 files</sub>
@@ -863,7 +863,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland: Correctly compute UVs in texture fill
     <sub>[#43093](https://github.com/flutter/engine/pull/43093) merged on June 22, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/43093) over 2 hours, 52 additions and 30 deletions in 6 files</sub>
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Dan Field](https://github.com/dnfield)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 7658525166a4 to bbcf54bcb738 (1 revision)
     <sub>[#43079](https://github.com/flutter/engine/pull/43079) merged on June 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43079) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
@@ -927,7 +927,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Fix and reland drawPaint collapsing optimization.
     <sub>[#43097](https://github.com/flutter/engine/pull/43097) merged on June 23, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43097) over 7 hours, 24 additions and 2 deletions in 4 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Add deprecations to PlatformMessage stuff" (#42580)
     <sub>[#42929](https://github.com/flutter/engine/pull/42929) merged on June 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/42929) over 3 days, 106 additions and 105 deletions in 11 files</sub>
