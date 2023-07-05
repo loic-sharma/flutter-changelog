@@ -71,9 +71,6 @@
 * **[杨加康](https://github.com/MeandNi)** &mdash; (WIP) [flutter_tools] Add flutter create-local-engine-repo<br />
     <sub>[#129948](https://github.com/flutter/flutter/pull/129948) opened on on July 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129948) 87 additions and 7 deletions in 3 files</sub><br />
 
-* **[lsaudon](https://github.com/lsaudon)** &mdash; Add constraints in SnackBar<br />
-    <sub>[#129966](https://github.com/flutter/flutter/pull/129966) opened on on July 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129966) 53 additions and 0 deletions in 2 files</sub><br />
-
 * **[Helin Shiah](https://github.com/helin24)** &mdash; Add new hot reload case string<br />
     <sub>[#130008](https://github.com/flutter/flutter/pull/130008) opened on on July 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130008) 25 additions and 0 deletions in 3 files</sub><br />
 
