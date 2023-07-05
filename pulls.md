@@ -74,3 +74,6 @@
 * **[Jordan Miller](https://github.com/lastmeta)** &mdash; Allow user to specify floatingLabelGap rather than it being hard coded.<br />
     <sub>[#130031](https://github.com/flutter/flutter/pull/130031) opened on on July 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130031) 14 additions and 2 deletions in 1 file</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Change from "created via performance template" to "from: performance template"<br />
+    <sub>[#130035](https://github.com/flutter/flutter/pull/130035) opened on on July 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130035) 2 additions and 2 deletions in 2 files</sub><br />
+
