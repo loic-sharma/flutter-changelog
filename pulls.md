@@ -32,9 +32,6 @@
 * **[fabiancrx](https://github.com/fabiancrx)** &mdash; [flutter_tools] modify Skeleton template to use ListenableBuilder instead of AnimatedBuilder<br />
     <sub>[#128810](https://github.com/flutter/flutter/pull/128810) opened on on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128810) 3 additions and 3 deletions in 1 file</sub><br />
 
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Overall timing information in `TimelineSummary`, because existing metrics do not reflect real performance (reland)<br />
-    <sub>[#129055](https://github.com/flutter/flutter/pull/129055) opened on on June 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129055) 214 additions and 11 deletions in 2 files</sub><br />
-
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Refactor: updated segmented button<br />
     <sub>[#129215](https://github.com/flutter/flutter/pull/129215) opened on on June 20, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/129215) 402 additions and 112 deletions in 1 file</sub><br />
 
