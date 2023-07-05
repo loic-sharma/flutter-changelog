@@ -83,3 +83,6 @@
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Add constraints in SnackBar<br />
     <sub>[#129966](https://github.com/flutter/flutter/pull/129966) opened on on July 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129966) 53 additions and 0 deletions in 2 files</sub><br />
 
+* **[Helin Shiah](https://github.com/helin24)** &mdash; Add new hot reload case string<br />
+    <sub>[#130008](https://github.com/flutter/flutter/pull/130008) opened on on July 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130008) 1 addition and 0 deletions in 1 file</sub><br />
+
