@@ -80,3 +80,6 @@
 * **[Jordan Miller](https://github.com/lastmeta)** &mdash; Lastmeta floating label gap patch<br />
     <sub>[#130039](https://github.com/flutter/flutter/pull/130039) opened on on July 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130039) 25 additions and 2 deletions in 1 file</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Update labeler to new label names<br />
+    <sub>[#130040](https://github.com/flutter/flutter/pull/130040) opened on on July 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130040) 2 additions and 5 deletions in 1 file</sub><br />
+
