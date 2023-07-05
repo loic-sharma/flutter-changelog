@@ -71,6 +71,3 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Add a threshold when comparing screen order for selectables.<br />
     <sub>[#130043](https://github.com/flutter/flutter/pull/130043) opened on on July 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130043) 6 additions and 3 deletions in 1 file</sub><br />
 
-* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [do not merge] google testing verify updating checkrun logic<br />
-    <sub>[#130046](https://github.com/flutter/flutter/pull/130046) opened on on July 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130046) 0 additions and 0 deletions in 0 files</sub><br />
-
