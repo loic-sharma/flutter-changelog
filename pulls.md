@@ -71,12 +71,12 @@
 * **[杨加康](https://github.com/MeandNi)** &mdash; (WIP) [flutter_tools] Add flutter create-local-engine-repo<br />
     <sub>[#129948](https://github.com/flutter/flutter/pull/129948) opened on on July 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129948) 87 additions and 7 deletions in 3 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Next attempt to make inspector weakly referencing the inspected objects.<br />
-    <sub>[#129962](https://github.com/flutter/flutter/pull/129962) opened on on July 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129962) 142 additions and 21 deletions in 4 files</sub><br />
-
 * **[Jordan Miller](https://github.com/lastmeta)** &mdash; Allow user to specify floatingLabelGap rather than it being hard coded.<br />
     <sub>[#130031](https://github.com/flutter/flutter/pull/130031) opened on on July 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130031) 14 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Change from "created via performance template" to "from: performance template"<br />
     <sub>[#130035](https://github.com/flutter/flutter/pull/130035) opened on on July 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130035) 2 additions and 2 deletions in 2 files</sub><br />
+
+* **[Jordan Miller](https://github.com/lastmeta)** &mdash; Lastmeta floating label gap patch<br />
+    <sub>[#130039](https://github.com/flutter/flutter/pull/130039) opened on on July 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130039) 25 additions and 2 deletions in 1 file</sub><br />
 
