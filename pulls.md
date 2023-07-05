@@ -29,9 +29,6 @@
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; fix a Scrollbar example crash<br />
     <sub>[#127925](https://github.com/flutter/flutter/pull/127925) opened on on May 31, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/127925) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[fabiancrx](https://github.com/fabiancrx)** &mdash; [flutter_tools] modify Skeleton template to use ListenableBuilder instead of AnimatedBuilder<br />
-    <sub>[#128810](https://github.com/flutter/flutter/pull/128810) opened on on June 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/128810) 3 additions and 3 deletions in 1 file</sub><br />
-
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Refactor: updated segmented button<br />
     <sub>[#129215](https://github.com/flutter/flutter/pull/129215) opened on on June 20, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/129215) 402 additions and 112 deletions in 1 file</sub><br />
 
