@@ -56,9 +56,6 @@
 * **[SoaringHeart](https://github.com/shang1219178163)** &mdash; Add an entries read-only property and a clear method。<br />
     <sub>[#129872](https://github.com/flutter/flutter/pull/129872) opened on on July 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129872) 10 additions and 0 deletions in 1 file</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix typo in canvas example<br />
-    <sub>[#129879](https://github.com/flutter/flutter/pull/129879) opened on on July 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129879) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Tsukuru Tanimichi](https://github.com/ttanimichi)** &mdash; Links in `material` library docs are outdated<br />
     <sub>[#129891](https://github.com/flutter/flutter/pull/129891) opened on on July 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129891) 2 additions and 6 deletions in 1 file</sub><br />
 
@@ -76,4 +73,7 @@
 
 * **[Jordan Miller](https://github.com/lastmeta)** &mdash; Lastmeta floating label gap patch<br />
     <sub>[#130039](https://github.com/flutter/flutter/pull/130039) opened on on July 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130039) 25 additions and 2 deletions in 1 file</sub><br />
+
+* **[hangyu](https://github.com/hangyujin)** &mdash; Add a threshold when comparing screen order for selectables.<br />
+    <sub>[#130043](https://github.com/flutter/flutter/pull/130043) opened on on July 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130043) 6 additions and 3 deletions in 1 file</sub><br />
 
