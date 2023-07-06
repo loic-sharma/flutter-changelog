@@ -75,5 +75,5 @@
     <sub>[#130096](https://github.com/flutter/flutter/pull/130096) opened on on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130096) 19 additions and 1 deletion in 2 files</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Test that inspector does not hold objects.<br />
-    <sub>[#130102](https://github.com/flutter/flutter/pull/130102) opened on on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130102) 34 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#130102](https://github.com/flutter/flutter/pull/130102) opened on on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130102) 38 additions and 4 deletions in 1 file</sub><br />
 

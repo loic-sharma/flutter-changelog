@@ -53,7 +53,7 @@
 
 * **[fabiancrx](https://github.com/fabiancrx)** &mdash; [flutter_tools] modify Skeleton template to use ListenableBuilder instead of AnimatedBuilder
     <sub>[#128810](https://github.com/flutter/flutter/pull/128810) merged on July 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/128810) over 3 weeks, 3 additions and 3 deletions in 1 file</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Myles Moylan](https://github.com/moylanm)** &mdash; Add simple unit tests for annotations.dart file
     <sub>[#128902](https://github.com/flutter/flutter/pull/128902) merged on July 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128902) over 2 weeks, 27 additions and 0 deletions in 1 file</sub>
@@ -255,7 +255,7 @@
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Fix `AnimatedList` & `AnimatedGrid` doesn't apply `MediaQuery` padding"
     <sub>[#129645](https://github.com/flutter/flutter/pull/129645) merged on June 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129645) over 18 hours, 7 additions and 169 deletions in 3 files</sub>
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove use of any
     <sub>[#129793](https://github.com/flutter/flutter/pull/129793) merged on June 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129793) over 40 minutes, 50 additions and 64 deletions in 1 file</sub>
@@ -410,7 +410,7 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; move test ownership from zanderso -> tools team
     <sub>[#129199](https://github.com/flutter/flutter/pull/129199) merged on June 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129199) over 21 hours, 11 additions and 11 deletions in 1 file</sub>
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Elias Yishak](https://github.com/eliasyishak)</sub>
+    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update resolution-aware asset docs links
     <sub>[#128769](https://github.com/flutter/flutter/pull/128769) merged on June 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128769) over 1 week, 4 additions and 7 deletions in 1 file</sub>
@@ -510,7 +510,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [devicelab] Add platform view scroll benchmarks for Impeller on Android
     <sub>[#129455](https://github.com/flutter/flutter/pull/129455) merged on June 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129455) over 3 hours, 36 additions and 1 deletion in 4 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Relax `OverlayPortal` asserts
     <sub>[#129053](https://github.com/flutter/flutter/pull/129053) merged on June 21, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/129053) over 3 days, 289 additions and 96 deletions in 5 files</sub>
@@ -1121,7 +1121,7 @@
 
 ### July 1, 2023 to July 7, 2023
 
-16 commits.
+19 commits.
 
 * **[Kamil Powałowski](https://github.com/kamilpowalowski)** &mdash; [google_sign_in_web] Fixes force unwrap on values that can be null
     <sub>[#4374](https://github.com/flutter/packages/pull/4374) merged on July 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/4374) over 17 hours, 48 additions and 3 deletions in 5 files</sub>
@@ -1134,6 +1134,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Allows redirect only GoRoute to be part of RouteMatchList
     <sub>[#4315](https://github.com/flutter/packages/pull/4315) merged on July 6, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4315) over 1 week, 226 additions and 42 deletions in 9 files</sub>
     <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [hangyu](https://github.com/hangyujin)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; [url_launcher] Remove nested third_party safari checker
+    <sub>[#4330](https://github.com/flutter/packages/pull/4330) merged on July 6, 2023 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/4330) over 1 week, 14 additions and 123 deletions in 8 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [sign_in]: Bump com.google.android.gms:play-services-auth from 20.5.0 to 20.6.0 in /packages/google_sign_in/google_sign_in_android/android
     <sub>[#4359](https://github.com/flutter/packages/pull/4359) merged on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4359) over 4 days, 6 additions and 2 deletions in 3 files</sub>
@@ -1155,6 +1159,14 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add a web version of Dart unit tests
     <sub>[#4352](https://github.com/flutter/packages/pull/4352) merged on July 5, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/packages/pull/4352) over 4 days, 407 additions and 37 deletions in 21 files</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [chunhtai](https://github.com/chunhtai), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Update Windows Pigeon version
+    <sub>[#4388](https://github.com/flutter/packages/pull/4388) merged on July 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4388) over 6 hours, 48 additions and 42 deletions in 5 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add partial LUCI Android platform tests
+    <sub>[#4381](https://github.com/flutter/packages/pull/4381) merged on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4381) over 1 day, 272 additions and 21 deletions in 8 files</sub>
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Switch `master` Linux custom package tests to LUCI
     <sub>[#4386](https://github.com/flutter/packages/pull/4386) merged on July 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4386) over 7 hours, 4 additions and 5 deletions in 2 files</sub>
