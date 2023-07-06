@@ -1055,7 +1055,7 @@
 
 ### July 1, 2023 to July 7, 2023
 
-9 commits.
+10 commits.
 
 * **[Kamil Powałowski](https://github.com/kamilpowalowski)** &mdash; [google_sign_in_web] Fixes force unwrap on values that can be null<br />
     <sub>[#4374](https://github.com/flutter/packages/pull/4374) merged on July 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/4374) over 17 hours, 48 additions and 3 deletions in 5 files</sub><br />
@@ -1064,6 +1064,10 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pigeon]fix a crash when casting NSNull to an Array<br />
     <sub>[#4289](https://github.com/flutter/packages/pull/4289) merged on July 6, 2023 &mdash; **Extra large:** [23 comments](https://github.com/flutter/packages/pull/4289) over 1 week, 1134 additions and 619 deletions in 47 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Allows redirect only GoRoute to be part of RouteMatchList<br />
+    <sub>[#4315](https://github.com/flutter/packages/pull/4315) merged on July 6, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4315) over 1 week, 226 additions and 42 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [sign_in]: Bump com.google.android.gms:play-services-auth from 20.5.0 to 20.6.0 in /packages/google_sign_in/google_sign_in_android/android<br />
     <sub>[#4359](https://github.com/flutter/packages/pull/4359) merged on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4359) over 4 days, 6 additions and 2 deletions in 3 files</sub><br />
