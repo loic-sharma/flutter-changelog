@@ -68,9 +68,6 @@
 * **[gmackall](https://github.com/gmackall)** &mdash; Define anchors for build_tests dependencies<br />
     <sub>[#130037](https://github.com/flutter/flutter/pull/130037) opened on on July 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130037) 11 additions and 71 deletions in 1 file</sub><br />
 
-* **[hangyu](https://github.com/hangyujin)** &mdash; Add a threshold when comparing screen order for selectables.<br />
-    <sub>[#130043](https://github.com/flutter/flutter/pull/130043) opened on on July 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130043) 6 additions and 3 deletions in 1 file</sub><br />
-
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Super tiny code optimization: No need to redundantly check whether value has changed<br />
     <sub>[#130050](https://github.com/flutter/flutter/pull/130050) opened on on July 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130050) 2 additions and 2 deletions in 1 file</sub><br />
 
