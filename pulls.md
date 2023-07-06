@@ -74,3 +74,6 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `CardTheme`, `DrawerTheme`, `NavigationBar`, and `NavigationRailTheme` tests for M2/M3 <br />
     <sub>[#130047](https://github.com/flutter/flutter/pull/130047) opened on on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130047) 155 additions and 37 deletions in 4 files</sub><br />
 
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Super tiny code optimization: No need to redundantly check whether value has changed<br />
+    <sub>[#130050](https://github.com/flutter/flutter/pull/130050) opened on on July 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130050) 2 additions and 2 deletions in 1 file</sub><br />
+
