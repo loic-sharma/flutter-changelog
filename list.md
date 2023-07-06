@@ -4,7 +4,7 @@
 
 ### July 1, 2023 to July 7, 2023
 
-21 commits.
+22 commits.
 
 * **[Piotr FLEURY](https://github.com/PiotrFLEURY)** &mdash; Add .env file support for  option `--dart-define-from-file`
     <sub>[#128668](https://github.com/flutter/flutter/pull/128668) merged on July 5, 2023 &mdash; **Small:** [45 comments](https://github.com/flutter/flutter/pull/128668) over 3 weeks, 254 additions and 10 deletions in 2 files</sub>
@@ -53,7 +53,7 @@
 
 * **[fabiancrx](https://github.com/fabiancrx)** &mdash; [flutter_tools] modify Skeleton template to use ListenableBuilder instead of AnimatedBuilder
     <sub>[#128810](https://github.com/flutter/flutter/pull/128810) merged on July 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/128810) over 3 weeks, 3 additions and 3 deletions in 1 file</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Myles Moylan](https://github.com/moylanm)** &mdash; Add simple unit tests for annotations.dart file
     <sub>[#128902](https://github.com/flutter/flutter/pull/128902) merged on July 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128902) over 2 weeks, 27 additions and 0 deletions in 1 file</sub>
@@ -86,6 +86,10 @@
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Improve documentation for `ColorSheme.fromImageProvider`
     <sub>[#129952](https://github.com/flutter/flutter/pull/129952) merged on July 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129952) over 1 day, 16 additions and 8 deletions in 1 file</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Super tiny code optimization: No need to redundantly check whether value has changed
+    <sub>[#130050](https://github.com/flutter/flutter/pull/130050) merged on July 6, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/130050) over 20 hours, 2 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Reland Fix AnimatedList & AnimatedGrid doesn't apply MediaQuery padding #129556
     <sub>[#129860](https://github.com/flutter/flutter/pull/129860) merged on July 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129860) over 4 days, 169 additions and 7 deletions in 3 files</sub>
@@ -378,7 +382,7 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] delete flutter format command
     <sub>[#129360](https://github.com/flutter/flutter/pull/129360) merged on June 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/129360) over 4 hours, 0 additions and 41 deletions in 2 files</sub>
-    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Elias Yishak](https://github.com/eliasyishak)</sub>
 
 * **[Swaroop S](https://github.com/SwaroopSambhayya)** &mdash; Adding ScrollController support for Stepper widget
     <sub>[#128814](https://github.com/flutter/flutter/pull/128814) merged on June 20, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/128814) over 6 days, 41 additions and 0 deletions in 2 files</sub>
@@ -614,7 +618,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix DrawPicture.
-    <sub>[#43446](https://github.com/flutter/engine/pull/43446) merged on July 6, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/43446) over 2 hours, 47 additions and 3 deletions in 5 files</sub>
+    <sub>[#43446](https://github.com/flutter/engine/pull/43446) merged on July 6, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/43446) over 2 hours, 47 additions and 3 deletions in 5 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Remove dead code for recreating a11y node delegates
