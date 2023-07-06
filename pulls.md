@@ -83,3 +83,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; re-enable "Linux packages_autoroller"<br />
     <sub>[#130088](https://github.com/flutter/flutter/pull/130088) opened on on July 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130088) 17 additions and 4 deletions in 3 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Always escape when writing pubspec.yaml's 'description' field.<br />
+    <sub>[#130096](https://github.com/flutter/flutter/pull/130096) opened on on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130096) 19 additions and 1 deletion in 2 files</sub><br />
+
