@@ -83,3 +83,6 @@
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; Allow committing text to trigger EditableText.onChanged<br />
     <sub>[#130081](https://github.com/flutter/flutter/pull/130081) opened on on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130081) 20 additions and 27 deletions in 2 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; re-enable "Linux packages_autoroller"<br />
+    <sub>[#130088](https://github.com/flutter/flutter/pull/130088) opened on on July 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130088) 17 additions and 4 deletions in 3 files</sub><br />
+
