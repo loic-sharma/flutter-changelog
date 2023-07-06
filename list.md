@@ -4,7 +4,7 @@
 
 ### July 1, 2023 to July 7, 2023
 
-15 commits.
+16 commits.
 
 * **[Piotr FLEURY](https://github.com/PiotrFLEURY)** &mdash; Add .env file support for  option `--dart-define-from-file`
     <sub>[#128668](https://github.com/flutter/flutter/pull/128668) merged on July 5, 2023 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/128668) over 3 weeks, 254 additions and 10 deletions in 2 files</sub>
@@ -29,6 +29,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Cleanup: stop accepting DiagnosticsNode as input from DevTools.
     <sub>[#129302](https://github.com/flutter/flutter/pull/129302) merged on July 4, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/129302) over 1 week, 60 additions and 302 deletions in 2 files</sub>
     <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314)</sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Allow long-press gestures to continue even if buttons change.
+    <sub>[#127877](https://github.com/flutter/flutter/pull/127877) merged on July 6, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/127877) over 1 month, 94 additions and 4 deletions in 3 files</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Snonky](https://github.com/Snonky)** &mdash; MergeableMaterial: Fix adding a slice and separating it
     <sub>[#128804](https://github.com/flutter/flutter/pull/128804) merged on July 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128804) over 3 weeks, 75 additions and 1 deletion in 2 files</sub>

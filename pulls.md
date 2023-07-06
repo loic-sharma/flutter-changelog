@@ -71,6 +71,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Add a threshold when comparing screen order for selectables.<br />
     <sub>[#130043](https://github.com/flutter/flutter/pull/130043) opened on on July 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130043) 6 additions and 3 deletions in 1 file</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `CardTheme` and `DrawerTheme` tests for M2/M3 <br />
-    <sub>[#130047](https://github.com/flutter/flutter/pull/130047) opened on on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130047) 85 additions and 26 deletions in 2 files</sub><br />
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `CardTheme`, `DrawerTheme`, `NavigationBar`, and `NavigationRailTheme` tests for M2/M3 <br />
+    <sub>[#130047](https://github.com/flutter/flutter/pull/130047) opened on on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130047) 155 additions and 37 deletions in 4 files</sub><br />
 
