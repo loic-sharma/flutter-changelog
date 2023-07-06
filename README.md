@@ -1055,7 +1055,15 @@
 
 ### July 1, 2023 to July 7, 2023
 
-6 commits.
+8 commits.
+
+* **[Kamil Powałowski](https://github.com/kamilpowalowski)** &mdash; [google_sign_in_web] Fixes force unwrap on values that can be null<br />
+    <sub>[#4374](https://github.com/flutter/packages/pull/4374) merged on July 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/4374) over 17 hours, 48 additions and 3 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pigeon]fix a crash when casting NSNull to an Array<br />
+    <sub>[#4289](https://github.com/flutter/packages/pull/4289) merged on July 6, 2023 &mdash; **Extra large:** [23 comments](https://github.com/flutter/packages/pull/4289) over 1 week, 1134 additions and 619 deletions in 47 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Remove `starqlteue` from FTL tests<br />
     <sub>[#4375](https://github.com/flutter/packages/pull/4375) merged on July 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4375) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
