@@ -529,7 +529,7 @@
 
 ### July 1, 2023 to July 7, 2023
 
-6 commits.
+7 commits.
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; [iOS] Fix FlutterViewController retain cycle<br />
     <sub>[#43379](https://github.com/flutter/engine/pull/43379) merged on July 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43379) over 3 days, 11 additions and 1 deletion in 2 files</sub><br />
@@ -542,6 +542,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Fix `FlutterWindow::GetNativeViewAccessible` crash<br />
     <sub>[#43368](https://github.com/flutter/engine/pull/43368) merged on July 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43368) over 4 days, 13 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix typo in painting.dart<br />
+    <sub>[#43378](https://github.com/flutter/engine/pull/43378) merged on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43378) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Allocate fewer textures in dedicated memory and adjust buffer flags.<br />
     <sub>[#43313](https://github.com/flutter/engine/pull/43313) merged on July 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/43313) over 1 week, 37 additions and 29 deletions in 9 files</sub><br />
