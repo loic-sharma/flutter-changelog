@@ -4,7 +4,7 @@
 
 ### July 1, 2023 to July 7, 2023
 
-12 commits.
+15 commits.
 
 * **[Piotr FLEURY](https://github.com/PiotrFLEURY)** &mdash; Add .env file support for  option `--dart-define-from-file`
     <sub>[#128668](https://github.com/flutter/flutter/pull/128668) merged on July 5, 2023 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/128668) over 3 weeks, 254 additions and 10 deletions in 2 files</sub>
@@ -18,6 +18,10 @@
     <sub>[#114303](https://github.com/flutter/flutter/pull/114303) merged on July 5, 2023 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/114303) over 8 months, 154 additions and 9 deletions in 3 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable unreachable_from_main lint - it is stable now!!1
+    <sub>[#129854](https://github.com/flutter/flutter/pull/129854) merged on July 6, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/129854) over 5 days, 66 additions and 419 deletions in 45 files</sub>
+    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins), [Christopher Fujino](https://github.com/christopherfujino), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Removes deprecated APIs from v2.6 in `binding.dart` and `widget_tester.dart`
     <sub>[#129663](https://github.com/flutter/flutter/pull/129663) merged on July 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/129663) over 1 week, 12 additions and 68 deletions in 5 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
@@ -26,9 +30,17 @@
     <sub>[#129302](https://github.com/flutter/flutter/pull/129302) merged on July 4, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/129302) over 1 week, 60 additions and 302 deletions in 2 files</sub>
     <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314)</sub>
 
+* **[Snonky](https://github.com/Snonky)** &mdash; MergeableMaterial: Fix adding a slice and separating it
+    <sub>[#128804](https://github.com/flutter/flutter/pull/128804) merged on July 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128804) over 3 weeks, 75 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[Myles Moylan](https://github.com/moylanm)** &mdash; Add simple unit tests for annotations.dart file
     <sub>[#128902](https://github.com/flutter/flutter/pull/128902) merged on July 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128902) over 2 weeks, 27 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [pdblasi-google](https://github.com/pdblasi-google)</sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Update labeler to new label names
+    <sub>[#130040](https://github.com/flutter/flutter/pull/130040) merged on July 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130040) over 2 hours, 2 additions and 5 deletions in 1 file</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Update infrastructure issue template for new priority scheme
     <sub>[#129741](https://github.com/flutter/flutter/pull/129741) merged on July 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129741) over 1 week, 3 additions and 3 deletions in 1 file</sub>
