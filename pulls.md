@@ -44,9 +44,6 @@
 * **[指尖上的艺术](https://github.com/fingerart)** &mdash; Fix CurvedAnimation._curveDirection status update issue<br />
     <sub>[#129777](https://github.com/flutter/flutter/pull/129777) opened on on June 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129777) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Caique Ribeiro de Oliveira](https://github.com/CaiqueR)** &mdash; Fix XCode download link<br />
-    <sub>[#129795](https://github.com/flutter/flutter/pull/129795) opened on on June 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129795) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Implement preferPaintInterior correctly for _CompoundBorder<br />
     <sub>[#129851](https://github.com/flutter/flutter/pull/129851) opened on on June 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129851) 68 additions and 1 deletion in 2 files</sub><br />
 
