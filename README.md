@@ -16,7 +16,7 @@
     <sub><details><summary>3 images...</summary>![image](https://github.com/flutter/flutter/assets/82336674/7e5a874b-b1a2-4429-a435-005e3a0a4dd3)![image](https://github.com/flutter/flutter/assets/82336674/7e294e60-6041-4bb6-a892-d7ea56cfa2c8)![ezgif com-video-to-gif](https://github.com/flutter/flutter/assets/82336674/9803d256-b058-4a7c-bbaa-2b0253508885)</details></sub>
 
 * **[luckysmg](https://github.com/luckysmg)** &mdash; [framework] Add textField OCR support for framework side<br />
-    <sub>[#96637](https://github.com/flutter/flutter/pull/96637) merged on July 6, 2023 &mdash; **Large:** [152 comments](https://github.com/flutter/flutter/pull/96637) over 17 months, 868 additions and 46 deletions in 97 files</sub><br />
+    <sub>[#96637](https://github.com/flutter/flutter/pull/96637) merged on July 6, 2023 &mdash; **Large:** [153 comments](https://github.com/flutter/flutter/pull/96637) over 17 months, 868 additions and 46 deletions in 97 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tomasz Gucio](https://github.com/tgucio)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add an example showing how to use textures<br />
@@ -255,7 +255,7 @@
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Fix `AnimatedList` & `AnimatedGrid` doesn't apply `MediaQuery` padding"<br />
     <sub>[#129645](https://github.com/flutter/flutter/pull/129645) merged on June 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129645) over 18 hours, 7 additions and 169 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove use of any<br />
     <sub>[#129793](https://github.com/flutter/flutter/pull/129793) merged on June 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129793) over 40 minutes, 50 additions and 64 deletions in 1 file</sub><br />
@@ -394,7 +394,7 @@
 
 * **[Md. Yeasin Sheikh](https://github.com/yeasin50)** &mdash; fixed PreferredSize constuctor invocations<br />
     <sub>[#128181](https://github.com/flutter/flutter/pull/128181) merged on June 20, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/128181) over 2 weeks, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Oleh Prypin](https://github.com/oprypin)** &mdash; Prepare for making `intl` `toBeginningOfSentenceCase` non-nullable<br />
     <sub>[#127488](https://github.com/flutter/flutter/pull/127488) merged on June 23, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/127488) over 4 weeks, 2 additions and 1 deletion in 1 file</sub><br />
@@ -510,7 +510,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [devicelab] Add platform view scroll benchmarks for Impeller on Android<br />
     <sub>[#129455](https://github.com/flutter/flutter/pull/129455) merged on June 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129455) over 3 hours, 36 additions and 1 deletion in 4 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Relax `OverlayPortal` asserts<br />
     <sub>[#129053](https://github.com/flutter/flutter/pull/129053) merged on June 21, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/129053) over 3 days, 289 additions and 96 deletions in 5 files</sub><br />
@@ -949,7 +949,7 @@
 
 * **[Tamir Duberstein](https://github.com/tamird)** &mdash; Remove process-local tempfs<br />
     <sub>[#43056](https://github.com/flutter/engine/pull/43056) merged on June 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/43056) over 7 hours, 19 additions and 98 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Tom Robinson](https://github.com/tarobins)</sub><br />
+    <sub>Reviewed by: [Tom Robinson](https://github.com/tarobins), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Uniquely label subpasses and root blit<br />
     <sub>[#43015](https://github.com/flutter/engine/pull/43015) merged on June 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43015) over 1 day, 9 additions and 6 deletions in 3 files</sub><br />
@@ -997,11 +997,11 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Differentiate two `EncodeCommandsInReactor` with the same name<br />
     <sub>[#42992](https://github.com/flutter/engine/pull/42992) merged on June 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42992) over 15 hours, 2 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Dan Field](https://github.com/dnfield)</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland: Correctly compute UVs in texture fill<br />
     <sub>[#43093](https://github.com/flutter/engine/pull/43093) merged on June 22, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/43093) over 2 hours, 52 additions and 30 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Dan Field](https://github.com/dnfield)</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 7658525166a4 to bbcf54bcb738 (1 revision)<br />
     <sub>[#43079](https://github.com/flutter/engine/pull/43079) merged on June 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43079) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
@@ -1101,7 +1101,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[Impeller] correct default PSO pixel format and sample count."<br />
     <sub>[#42962](https://github.com/flutter/engine/pull/42962) merged on June 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/42962) over 4 hours, 70 additions and 84 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 </details>
 
