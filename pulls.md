@@ -80,3 +80,6 @@
 * **[huycozy](https://github.com/huycozy)** &mdash; Make new issue template for 1P package<br />
     <sub>[#130065](https://github.com/flutter/flutter/pull/130065) opened on on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130065) 230 additions and 0 deletions in 1 file</sub><br />
 
+* **[Piotr FLEURY](https://github.com/PiotrFLEURY)** &mdash; Fix .env regex constants<br />
+    <sub>[#130072](https://github.com/flutter/flutter/pull/130072) opened on on July 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130072) 26 additions and 6 deletions in 1 file</sub><br />
+
