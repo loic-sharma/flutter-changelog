@@ -586,7 +586,7 @@
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Removes patchCanvasKitModule.
     <sub>[#42941](https://github.com/flutter/engine/pull/42941) merged on June 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/42941) over 1 week, 43 additions and 93 deletions in 5 files</sub>
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/hterkelsen)</sub>
+    <sub>Reviewed by: [Harry Terkelsen](https://github.com/hterkelsen), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use default precision specifiers.
     <sub>[#43183](https://github.com/flutter/engine/pull/43183) merged on June 26, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/43183) over 1 day, 261 additions and 150 deletions in 59 files</sub>
@@ -1059,7 +1059,7 @@
 
 ### July 1, 2023 to July 7, 2023
 
-12 commits.
+13 commits.
 
 * **[Kamil Powałowski](https://github.com/kamilpowalowski)** &mdash; [google_sign_in_web] Fixes force unwrap on values that can be null
     <sub>[#4374](https://github.com/flutter/packages/pull/4374) merged on July 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/4374) over 17 hours, 48 additions and 3 deletions in 5 files</sub>
@@ -1093,6 +1093,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add a web version of Dart unit tests
     <sub>[#4352](https://github.com/flutter/packages/pull/4352) merged on July 5, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/packages/pull/4352) over 4 days, 407 additions and 37 deletions in 21 files</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [chunhtai](https://github.com/chunhtai), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Enable LUCI Dart unit tests
+    <sub>[#4378](https://github.com/flutter/packages/pull/4378) merged on July 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4378) over 22 hours, 25 additions and 9 deletions in 3 files</sub>
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Bring up LUCI Linux custom package tests
     <sub>[#4382](https://github.com/flutter/packages/pull/4382) merged on July 6, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/4382) over 10 hours, 41 additions and 116 deletions in 6 files</sub>
