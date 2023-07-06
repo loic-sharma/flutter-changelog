@@ -1055,7 +1055,7 @@
 
 ### July 1, 2023 to July 7, 2023
 
-10 commits.
+11 commits.
 
 * **[Kamil Powałowski](https://github.com/kamilpowalowski)** &mdash; [google_sign_in_web] Fixes force unwrap on values that can be null<br />
     <sub>[#4374](https://github.com/flutter/packages/pull/4374) merged on July 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/4374) over 17 hours, 48 additions and 3 deletions in 5 files</sub><br />
@@ -1089,6 +1089,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add a web version of Dart unit tests<br />
     <sub>[#4352](https://github.com/flutter/packages/pull/4352) merged on July 5, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/packages/pull/4352) over 4 days, 407 additions and 37 deletions in 21 files</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [chunhtai](https://github.com/chunhtai), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] adds generate option for example pigeons<br />
+    <sub>[#4370](https://github.com/flutter/packages/pull/4370) merged on July 6, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/4370) over 1 day, 50 additions and 20 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Fixes `unawaited_futures` violations<br />
     <sub>[#4337](https://github.com/flutter/packages/pull/4337) merged on July 5, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4337) over 6 days, 32 additions and 37 deletions in 10 files</sub><br />

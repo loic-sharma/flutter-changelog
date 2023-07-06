@@ -74,3 +74,6 @@
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Super tiny code optimization: No need to redundantly check whether value has changed<br />
     <sub>[#130050](https://github.com/flutter/flutter/pull/130050) opened on on July 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130050) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Super super tiny one space formatting fix<br />
+    <sub>[#130053](https://github.com/flutter/flutter/pull/130053) opened on on July 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130053) 1 addition and 1 deletion in 1 file</sub><br />
+
