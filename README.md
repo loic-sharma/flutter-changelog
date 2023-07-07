@@ -259,7 +259,7 @@
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Fix `AnimatedList` & `AnimatedGrid` doesn't apply `MediaQuery` padding"<br />
     <sub>[#129645](https://github.com/flutter/flutter/pull/129645) merged on June 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129645) over 18 hours, 7 additions and 169 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove use of any<br />
     <sub>[#129793](https://github.com/flutter/flutter/pull/129793) merged on June 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129793) over 40 minutes, 50 additions and 64 deletions in 1 file</sub><br />
@@ -382,7 +382,7 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] delete flutter format command<br />
     <sub>[#129360](https://github.com/flutter/flutter/pull/129360) merged on June 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/129360) over 4 hours, 0 additions and 41 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Elias Yishak](https://github.com/eliasyishak)</sub><br />
 
 * **[Swaroop S](https://github.com/SwaroopSambhayya)** &mdash; Adding ScrollController support for Stepper widget<br />
     <sub>[#128814](https://github.com/flutter/flutter/pull/128814) merged on June 20, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/128814) over 6 days, 41 additions and 0 deletions in 2 files</sub><br />
@@ -398,7 +398,7 @@
 
 * **[Md. Yeasin Sheikh](https://github.com/yeasin50)** &mdash; fixed PreferredSize constuctor invocations<br />
     <sub>[#128181](https://github.com/flutter/flutter/pull/128181) merged on June 20, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/128181) over 2 weeks, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Oleh Prypin](https://github.com/oprypin)** &mdash; Prepare for making `intl` `toBeginningOfSentenceCase` non-nullable<br />
     <sub>[#127488](https://github.com/flutter/flutter/pull/127488) merged on June 23, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/127488) over 4 weeks, 2 additions and 1 deletion in 1 file</sub><br />
@@ -589,6 +589,10 @@
     <sub>[#43341](https://github.com/flutter/engine/pull/43341) merged on July 6, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/43341) over 6 days, 65 additions and 179 deletions in 12 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix DrawPicture.<br />
+    <sub>[#43446](https://github.com/flutter/engine/pull/43446) merged on July 6, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/43446) over 2 hours, 47 additions and 3 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
+
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Duplicate include removal from lazy_glyph_atlas.cc.<br />
     <sub>[#43453](https://github.com/flutter/engine/pull/43453) merged on July 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43453) over 5 hours, 0 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
@@ -628,10 +632,6 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Document `impeller::Context`.<br />
     <sub>[#43389](https://github.com/flutter/engine/pull/43389) merged on July 4, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43389) over 1 hour, 93 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix DrawPicture.<br />
-    <sub>[#43446](https://github.com/flutter/engine/pull/43446) merged on July 6, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/43446) over 2 hours, 47 additions and 3 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Remove dead code for recreating a11y node delegates<br />
     <sub>[#43359](https://github.com/flutter/engine/pull/43359) merged on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43359) over 6 days, 0 additions and 70 deletions in 6 files</sub><br />
