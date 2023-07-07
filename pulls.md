@@ -65,3 +65,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Always escape when writing pubspec.yaml's 'description' field.<br />
     <sub>[#130096](https://github.com/flutter/flutter/pull/130096) opened on on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130096) 19 additions and 1 deletion in 2 files</sub><br />
 
+* **[Gil Nobrega](https://github.com/gilnobrega)** &mdash;  Reland [a11y] CupertinoSwitch On/Off labels<br />
+    <sub>[#130173](https://github.com/flutter/flutter/pull/130173) opened on on July 7, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/130173) 383 additions and 0 deletions in 4 files</sub><br />
+
