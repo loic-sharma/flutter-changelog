@@ -66,7 +66,7 @@
     <sub>[#130053](https://github.com/flutter/flutter/pull/130053) opened on on July 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130053) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Make new issue template for 1P package<br />
-    <sub>[#130065](https://github.com/flutter/flutter/pull/130065) opened on on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130065) 230 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#130065](https://github.com/flutter/flutter/pull/130065) opened on on July 6, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/130065) 230 additions and 0 deletions in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; re-enable "Linux packages_autoroller"<br />
     <sub>[#130088](https://github.com/flutter/flutter/pull/130088) opened on on July 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130088) 17 additions and 4 deletions in 3 files</sub><br />
