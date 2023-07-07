@@ -62,12 +62,9 @@
 * **[huycozy](https://github.com/huycozy)** &mdash; Make new issue template for 1P package<br />
     <sub>[#130065](https://github.com/flutter/flutter/pull/130065) opened on on July 6, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/130065) 230 additions and 0 deletions in 1 file</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; re-enable "Linux packages_autoroller"<br />
-    <sub>[#130088](https://github.com/flutter/flutter/pull/130088) opened on on July 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130088) 63 additions and 31 deletions in 6 files</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Always escape when writing pubspec.yaml's 'description' field.<br />
     <sub>[#130096](https://github.com/flutter/flutter/pull/130096) opened on on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130096) 19 additions and 1 deletion in 2 files</sub><br />
 
-* **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Revert "[a11y] CupertinoSwitch On/Off labels"<br />
-    <sub>[#130166](https://github.com/flutter/flutter/pull/130166) opened on on July 7, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/130166) 0 additions and 383 deletions in 4 files</sub><br />
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Update labeler for recent changes<br />
+    <sub>[#130168](https://github.com/flutter/flutter/pull/130168) opened on on July 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130168) 1 addition and 12 deletions in 1 file</sub><br />
 
