@@ -62,7 +62,7 @@
 * **[gmackall](https://github.com/gmackall)** &mdash; Define anchors for build_tests dependencies<br />
     <sub>[#130037](https://github.com/flutter/flutter/pull/130037) opened on on July 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130037) 11 additions and 71 deletions in 1 file</sub><br />
 
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Super super tiny one space formatting fix<br />
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; One space formatting fix<br />
     <sub>[#130053](https://github.com/flutter/flutter/pull/130053) opened on on July 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130053) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Make new issue template for 1P package<br />
