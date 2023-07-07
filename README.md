@@ -554,7 +554,7 @@
 
 ### July 1, 2023 to July 7, 2023
 
-20 commits.
+21 commits.
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; [iOS] Fix FlutterViewController retain cycle<br />
     <sub>[#43379](https://github.com/flutter/engine/pull/43379) merged on July 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43379) over 3 days, 11 additions and 1 deletion in 2 files</sub><br />
@@ -588,6 +588,10 @@
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Use Windows Display Language<br />
     <sub>[#43341](https://github.com/flutter/engine/pull/43341) merged on July 6, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/43341) over 6 days, 65 additions and 179 deletions in 12 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Duplicate include removal from lazy_glyph_atlas.cc.<br />
+    <sub>[#43453](https://github.com/flutter/engine/pull/43453) merged on July 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43453) over 5 hours, 0 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Reduce redundant Linux clang-tidy work and run on more cores<br />
     <sub>[#43448](https://github.com/flutter/engine/pull/43448) merged on July 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43448) over 4 hours, 3 additions and 2 deletions in 1 file</sub><br />
@@ -626,7 +630,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix DrawPicture.<br />
-    <sub>[#43446](https://github.com/flutter/engine/pull/43446) merged on July 6, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/43446) over 2 hours, 47 additions and 3 deletions in 5 files</sub><br />
+    <sub>[#43446](https://github.com/flutter/engine/pull/43446) merged on July 6, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/43446) over 2 hours, 47 additions and 3 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Remove dead code for recreating a11y node delegates<br />
