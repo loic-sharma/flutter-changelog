@@ -558,7 +558,7 @@
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; [iOS] Fix FlutterViewController retain cycle<br />
     <sub>[#43379](https://github.com/flutter/engine/pull/43379) merged on July 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43379) over 3 days, 11 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [luckysmg](https://github.com/luckysmg), [Chris Yang](https://github.com/cyanglaz)</sub><br />
+    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [luckysmg](https://github.com/luckysmg)</sub><br />
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Eagerly remove the PlatformView from the view hierarchy on Android<br />
     <sub>[#43423](https://github.com/flutter/engine/pull/43423) merged on July 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43423) over 1 day, 56 additions and 4 deletions in 2 files</sub><br />
@@ -961,7 +961,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't get break type from v8BreakIterator<br />
     <sub>[#43053](https://github.com/flutter/engine/pull/43053) merged on June 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43053) over 23 hours, 49 additions and 16 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Harry Terkelsen](https://github.com/hterkelsen)</sub><br />
+    <sub>Reviewed by: [Harry Terkelsen](https://github.com/hterkelsen), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Disable blending for Source blend mode<br />
     <sub>[#43162](https://github.com/flutter/engine/pull/43162) merged on June 24, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43162) over 20 hours, 1 addition and 0 deletions in 1 file</sub><br />
@@ -981,7 +981,7 @@
 
 * **[Tamir Duberstein](https://github.com/tamird)** &mdash; Remove process-local tempfs<br />
     <sub>[#43056](https://github.com/flutter/engine/pull/43056) merged on June 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/43056) over 7 hours, 19 additions and 98 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Tom Robinson](https://github.com/tarobins)</sub><br />
+    <sub>Reviewed by: [Tom Robinson](https://github.com/tarobins), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Uniquely label subpasses and root blit<br />
     <sub>[#43015](https://github.com/flutter/engine/pull/43015) merged on June 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43015) over 1 day, 9 additions and 6 deletions in 3 files</sub><br />
@@ -1194,7 +1194,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add partial LUCI version of repo_checks<br />
     <sub>[#4389](https://github.com/flutter/packages/pull/4389) merged on July 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4389) over 7 hours, 66 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Update Windows Pigeon version<br />
     <sub>[#4388](https://github.com/flutter/packages/pull/4388) merged on July 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4388) over 6 hours, 48 additions and 42 deletions in 5 files</sub><br />
