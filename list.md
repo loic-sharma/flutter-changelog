@@ -62,7 +62,7 @@
 
 * **[fabiancrx](https://github.com/fabiancrx)** &mdash; [flutter_tools] modify Skeleton template to use ListenableBuilder instead of AnimatedBuilder
     <sub>[#128810](https://github.com/flutter/flutter/pull/128810) merged on July 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/128810) over 3 weeks, 3 additions and 3 deletions in 1 file</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Myles Moylan](https://github.com/moylanm)** &mdash; Add simple unit tests for annotations.dart file
     <sub>[#128902](https://github.com/flutter/flutter/pull/128902) merged on July 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128902) over 2 weeks, 27 additions and 0 deletions in 1 file</sub>
@@ -98,7 +98,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny one space formatting fix
     <sub>[#130053](https://github.com/flutter/flutter/pull/130053) merged on July 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/130053) over 1 day, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Tomasz Gucio](https://github.com/tgucio)</sub>
+    <sub>Reviewed by: [Tomasz Gucio](https://github.com/tgucio), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add debugging for iOS startup test flakes
     <sub>[#130099](https://github.com/flutter/flutter/pull/130099) merged on July 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130099) over 19 hours, 71 additions and 20 deletions in 3 files</sub>
@@ -280,7 +280,7 @@
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Fix `AnimatedList` & `AnimatedGrid` doesn't apply `MediaQuery` padding"
     <sub>[#129645](https://github.com/flutter/flutter/pull/129645) merged on June 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129645) over 18 hours, 7 additions and 169 deletions in 3 files</sub>
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove use of any
     <sub>[#129793](https://github.com/flutter/flutter/pull/129793) merged on June 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129793) over 40 minutes, 50 additions and 64 deletions in 1 file</sub>
@@ -1170,7 +1170,7 @@
 
 ### July 1, 2023 to July 7, 2023
 
-25 commits.
+27 commits.
 
 * **[Kamil Powałowski](https://github.com/kamilpowalowski)** &mdash; [google_sign_in_web] Fixes force unwrap on values that can be null
     <sub>[#4374](https://github.com/flutter/packages/pull/4374) merged on July 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/4374) over 17 hours, 48 additions and 3 deletions in 5 files</sub>
@@ -1224,6 +1224,14 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Enable unawaited_futures lint
     <sub>[#4271](https://github.com/flutter/packages/pull/4271) merged on July 7, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/4271) over 2 weeks, 195 additions and 203 deletions in 4 files</sub>
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Fix --current-package for app-facing packages
+    <sub>[#4399](https://github.com/flutter/packages/pull/4399) merged on July 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4399) over 3 hours, 24 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Switch some tests to LUCI
+    <sub>[#4395](https://github.com/flutter/packages/pull/4395) merged on July 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4395) over 6 hours, 15 additions and 71 deletions in 4 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [flutter_markdown] Pass parent TextStyle down to MarkdownElementBuilder.visitElementAfter
     <sub>[#4393](https://github.com/flutter/packages/pull/4393) merged on July 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4393) over 18 hours, 119 additions and 4 deletions in 5 files</sub>
