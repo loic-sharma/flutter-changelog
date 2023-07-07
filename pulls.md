@@ -59,3 +59,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Always escape when writing pubspec.yaml's 'description' field.<br />
     <sub>[#130096](https://github.com/flutter/flutter/pull/130096) opened on on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130096) 19 additions and 1 deletion in 2 files</sub><br />
 
+* **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove unneeded configuration file <br />
+    <sub>[#130183](https://github.com/flutter/flutter/pull/130183) opened on on July 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130183) 0 additions and 7 deletions in 1 file</sub><br />
+
