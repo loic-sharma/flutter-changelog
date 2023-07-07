@@ -47,7 +47,7 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Implement preferPaintInterior correctly for _CompoundBorder<br />
     <sub>[#129851](https://github.com/flutter/flutter/pull/129851) opened on on June 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129851) 68 additions and 1 deletion in 2 files</sub><br />
 
-* **[SoaringHeart](https://github.com/shang1219178163)** &mdash; Add an entries read-only property and a clear method。<br />
+* **[SoaringHeart](https://github.com/shang1219178163)** &mdash; Add an entries read-only property and a clear method<br />
     <sub>[#129872](https://github.com/flutter/flutter/pull/129872) opened on on July 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129872) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[Tsukuru Tanimichi](https://github.com/ttanimichi)** &mdash; Links in `material` library docs are outdated<br />
@@ -61,9 +61,6 @@
 
 * **[gmackall](https://github.com/gmackall)** &mdash; Define anchors for build_tests dependencies<br />
     <sub>[#130037](https://github.com/flutter/flutter/pull/130037) opened on on July 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130037) 11 additions and 71 deletions in 1 file</sub><br />
-
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny one space formatting fix<br />
-    <sub>[#130053](https://github.com/flutter/flutter/pull/130053) opened on on July 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130053) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Make new issue template for 1P package<br />
     <sub>[#130065](https://github.com/flutter/flutter/pull/130065) opened on on July 6, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/130065) 230 additions and 0 deletions in 1 file</sub><br />
