@@ -4,7 +4,7 @@
 
 ### July 1, 2023 to July 7, 2023
 
-30 commits.
+31 commits.
 
 * **[Piotr FLEURY](https://github.com/PiotrFLEURY)** &mdash; Add .env file support for  option `--dart-define-from-file`<br />
     <sub>[#128668](https://github.com/flutter/flutter/pull/128668) merged on July 5, 2023 &mdash; **Small:** [45 comments](https://github.com/flutter/flutter/pull/128668) over 3 weeks, 254 additions and 10 deletions in 2 files</sub><br />
@@ -22,6 +22,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add an example showing how to use textures<br />
     <sub>[#122779](https://github.com/flutter/flutter/pull/122779) merged on July 3, 2023 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/122779) over 3 months, 724 additions and 0 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[hangyu](https://github.com/hangyujin)** &mdash; Add a threshold when comparing screen order for selectables.<br />
+    <sub>[#130043](https://github.com/flutter/flutter/pull/130043) merged on July 7, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/130043) over 1 day, 53 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Caique Ribeiro de Oliveira](https://github.com/CaiqueR)** &mdash; Fix XCode download link<br />
     <sub>[#129795](https://github.com/flutter/flutter/pull/129795) merged on July 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/129795) over 1 week, 2 additions and 2 deletions in 1 file</sub><br />
@@ -292,7 +296,7 @@
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Fix `AnimatedList` & `AnimatedGrid` doesn't apply `MediaQuery` padding"<br />
     <sub>[#129645](https://github.com/flutter/flutter/pull/129645) merged on June 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129645) over 18 hours, 7 additions and 169 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove use of any<br />
     <sub>[#129793](https://github.com/flutter/flutter/pull/129793) merged on June 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129793) over 40 minutes, 50 additions and 64 deletions in 1 file</sub><br />
@@ -431,7 +435,7 @@
 
 * **[Md. Yeasin Sheikh](https://github.com/yeasin50)** &mdash; fixed PreferredSize constuctor invocations<br />
     <sub>[#128181](https://github.com/flutter/flutter/pull/128181) merged on June 20, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/128181) over 2 weeks, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Oleh Prypin](https://github.com/oprypin)** &mdash; Prepare for making `intl` `toBeginningOfSentenceCase` non-nullable<br />
     <sub>[#127488](https://github.com/flutter/flutter/pull/127488) merged on June 23, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/127488) over 4 weeks, 2 additions and 1 deletion in 1 file</sub><br />
