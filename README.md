@@ -263,7 +263,7 @@
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Fix `AnimatedList` & `AnimatedGrid` doesn't apply `MediaQuery` padding"<br />
     <sub>[#129645](https://github.com/flutter/flutter/pull/129645) merged on June 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129645) over 18 hours, 7 additions and 169 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove use of any<br />
     <sub>[#129793](https://github.com/flutter/flutter/pull/129793) merged on June 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129793) over 40 minutes, 50 additions and 64 deletions in 1 file</sub><br />
@@ -418,7 +418,7 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; move test ownership from zanderso -> tools team<br />
     <sub>[#129199](https://github.com/flutter/flutter/pull/129199) merged on June 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129199) over 21 hours, 11 additions and 11 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Elias Yishak](https://github.com/eliasyishak)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update resolution-aware asset docs links<br />
     <sub>[#128769](https://github.com/flutter/flutter/pull/128769) merged on June 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128769) over 1 week, 4 additions and 7 deletions in 1 file</sub><br />
@@ -434,7 +434,7 @@
 
 * **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; fix: SearchAnchor View not resizing when in nested navigator<br />
     <sub>[#128357](https://github.com/flutter/flutter/pull/128357) merged on June 22, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/128357) over 2 weeks, 46 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [process] Add a design doc issue template.<br />
     <sub>[#128361](https://github.com/flutter/flutter/pull/128361) merged on June 20, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/128361) over 1 week, 32 additions and 0 deletions in 1 file</sub><br />
@@ -1149,7 +1149,7 @@
 
 ### July 1, 2023 to July 7, 2023
 
-23 commits.
+24 commits.
 
 * **[Kamil Powałowski](https://github.com/kamilpowalowski)** &mdash; [google_sign_in_web] Fixes force unwrap on values that can be null<br />
     <sub>[#4374](https://github.com/flutter/packages/pull/4374) merged on July 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/4374) over 17 hours, 48 additions and 3 deletions in 5 files</sub><br />
@@ -1191,6 +1191,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add a web version of Dart unit tests<br />
     <sub>[#4352](https://github.com/flutter/packages/pull/4352) merged on July 5, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/packages/pull/4352) over 4 days, 407 additions and 37 deletions in 21 files</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [chunhtai](https://github.com/chunhtai), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll pigeon dependency to unblock flutter framework deps roll<br />
+    <sub>[#4383](https://github.com/flutter/packages/pull/4383) merged on July 7, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/4383) over 1 day, 48 additions and 46 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add LUCI web platform tests<br />
     <sub>[#4391](https://github.com/flutter/packages/pull/4391) merged on July 7, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/4391) over 5 hours, 123 additions and 0 deletions in 6 files</sub><br />
