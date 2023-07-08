@@ -600,7 +600,7 @@
 
 ### July 1, 2023 to July 7, 2023
 
-27 commits.
+28 commits.
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; [iOS] Fix FlutterViewController retain cycle<br />
     <sub>[#43379](https://github.com/flutter/engine/pull/43379) merged on July 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43379) over 3 days, 11 additions and 1 deletion in 2 files</sub><br />
@@ -638,6 +638,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Fix `FlutterWindow::GetNativeViewAccessible` crash<br />
     <sub>[#43368](https://github.com/flutter/engine/pull/43368) merged on July 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43368) over 4 days, 13 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Make updating window metrics multi-view<br />
+    <sub>[#43366](https://github.com/flutter/engine/pull/43366) merged on July 8, 2023 &mdash; **Medium:** [26 comments](https://github.com/flutter/engine/pull/43366) over 1 week, 228 additions and 73 deletions in 28 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Use Windows Display Language<br />
     <sub>[#43341](https://github.com/flutter/engine/pull/43341) merged on July 6, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/43341) over 6 days, 65 additions and 179 deletions in 12 files</sub><br />
