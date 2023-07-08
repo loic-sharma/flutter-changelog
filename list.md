@@ -600,7 +600,7 @@
 
 ### July 1, 2023 to July 7, 2023
 
-28 commits.
+29 commits.
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; [iOS] Fix FlutterViewController retain cycle
     <sub>[#43379](https://github.com/flutter/engine/pull/43379) merged on July 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43379) over 3 days, 11 additions and 1 deletion in 2 files</sub>
@@ -646,6 +646,10 @@
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Use Windows Display Language
     <sub>[#43341](https://github.com/flutter/engine/pull/43341) merged on July 6, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/43341) over 6 days, 65 additions and 179 deletions in 12 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Check for a null command buffer in InlinePassContext::EndPass
+    <sub>[#43485](https://github.com/flutter/engine/pull/43485) merged on July 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43485) over 13 hours, 7 additions and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix DrawPicture.
     <sub>[#43446](https://github.com/flutter/engine/pull/43446) merged on July 6, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/43446) over 2 hours, 47 additions and 3 deletions in 5 files</sub>
