@@ -1215,7 +1215,7 @@
 
 ### July 1, 2023 to July 7, 2023
 
-35 commits.
+36 commits.
 
 * **[Kamil Powałowski](https://github.com/kamilpowalowski)** &mdash; [google_sign_in_web] Fixes force unwrap on values that can be null<br />
     <sub>[#4374](https://github.com/flutter/packages/pull/4374) merged on July 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/4374) over 17 hours, 48 additions and 3 deletions in 5 files</sub><br />
@@ -1237,9 +1237,13 @@
     <sub>[#4330](https://github.com/flutter/packages/pull/4330) merged on July 6, 2023 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/4330) over 1 week, 14 additions and 123 deletions in 8 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub><br />
 
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add a web version of Dart unit tests<br />
-    <sub>[#4352](https://github.com/flutter/packages/pull/4352) merged on July 5, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/packages/pull/4352) over 4 days, 407 additions and 37 deletions in 21 files</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [chunhtai](https://github.com/chunhtai), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tools] Switch to `flutter test`<br />
+    <sub>[#4348](https://github.com/flutter/packages/pull/4348) merged on July 5, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/packages/pull/4348) over 5 days, 191 additions and 253 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Joshua Petitma](https://github.com/joshpetit)** &mdash; [flutter_markdown] Add TableCellVerticalAlignment property in markdown stylesheet<br />
+    <sub>[#3880](https://github.com/flutter/packages/pull/3880) merged on July 5, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/3880) over 2 months, 76 additions and 2 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [file_selector]: Bump androidx.annotation:annotation from 1.5.0 to 1.6.0 in /packages/file_selector/file_selector_android/android<br />
     <sub>[#4312](https://github.com/flutter/packages/pull/4312) merged on July 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4312) over 1 week, 11 additions and 2 deletions in 3 files</sub><br />
@@ -1259,25 +1263,21 @@
     <sub>[#4375](https://github.com/flutter/packages/pull/4375) merged on July 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4375) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tools] Switch to `flutter test`<br />
-    <sub>[#4348](https://github.com/flutter/packages/pull/4348) merged on July 5, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/packages/pull/4348) over 5 days, 191 additions and 253 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
-
-* **[Joshua Petitma](https://github.com/joshpetit)** &mdash; [flutter_markdown] Add TableCellVerticalAlignment property in markdown stylesheet<br />
-    <sub>[#3880](https://github.com/flutter/packages/pull/3880) merged on July 5, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/3880) over 2 months, 76 additions and 2 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add a web version of Dart unit tests<br />
+    <sub>[#4352](https://github.com/flutter/packages/pull/4352) merged on July 5, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/packages/pull/4352) over 4 days, 407 additions and 37 deletions in 21 files</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [chunhtai](https://github.com/chunhtai), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll pigeon dependency to unblock flutter framework deps roll<br />
     <sub>[#4383](https://github.com/flutter/packages/pull/4383) merged on July 7, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/4383) over 1 day, 48 additions and 46 deletions in 5 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Enable unawaited_futures lint<br />
-    <sub>[#4271](https://github.com/flutter/packages/pull/4271) merged on July 7, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/4271) over 2 weeks, 195 additions and 203 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
-
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add LUCI web platform tests<br />
     <sub>[#4391](https://github.com/flutter/packages/pull/4391) merged on July 7, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/4391) over 5 hours, 123 additions and 0 deletions in 6 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [keyonghan](https://github.com/keyonghan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Enable unawaited_futures lint<br />
+    <sub>[#4271](https://github.com/flutter/packages/pull/4271) merged on July 7, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/4271) over 2 weeks, 195 additions and 203 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] Variable binding in a condition requires an initializer fix<br />
     <sub>[#4407](https://github.com/flutter/packages/pull/4407) merged on July 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4407) over 2 hours, 6 additions and 2 deletions in 3 files</sub><br />
@@ -1286,6 +1286,10 @@
 * **[gmackall](https://github.com/gmackall)** &mdash; [in_app_purchase_android] Bump com.android.billingclient:billing from 5.2.0 to 6.0.0.<br />
     <sub>[#4390](https://github.com/flutter/packages/pull/4390) merged on July 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4390) over 1 day, 40 additions and 8 deletions in 5 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Update Dart SDK version<br />
+    <sub>[#4402](https://github.com/flutter/packages/pull/4402) merged on July 8, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/4402) over 22 hours, 124 additions and 235 deletions in 33 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_lancher] Don't use `canLaunchUrl` in Link<br />
     <sub>[#4400](https://github.com/flutter/packages/pull/4400) merged on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4400) over 13 hours, 18 additions and 9 deletions in 5 files</sub><br />
@@ -1310,10 +1314,6 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Fixes inspectable compile-time error and crash from equal `NSURL`s<br />
     <sub>[#4340](https://github.com/flutter/packages/pull/4340) merged on July 3, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/4340) over 5 days, 37 additions and 5 deletions in 6 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Yang](https://github.com/cyanglaz)</sub><br />
-
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add partial LUCI version of repo_checks<br />
-    <sub>[#4389](https://github.com/flutter/packages/pull/4389) merged on July 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4389) over 7 hours, 66 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Update Windows Pigeon version<br />
     <sub>[#4388](https://github.com/flutter/packages/pull/4388) merged on July 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4388) over 6 hours, 48 additions and 42 deletions in 5 files</sub><br />
@@ -1358,6 +1358,10 @@
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [flutter_markdown] Pass parent TextStyle down to MarkdownElementBuilder.visitElementAfter<br />
     <sub>[#4393](https://github.com/flutter/packages/pull/4393) merged on July 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4393) over 18 hours, 119 additions and 4 deletions in 5 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add partial LUCI version of repo_checks<br />
+    <sub>[#4389](https://github.com/flutter/packages/pull/4389) merged on July 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4389) over 7 hours, 66 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
 
 ### June 24, 2023 to June 30, 2023
 
