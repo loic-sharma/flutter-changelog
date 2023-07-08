@@ -600,7 +600,7 @@
 
 ### July 1, 2023 to July 7, 2023
 
-26 commits.
+27 commits.
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; [iOS] Fix FlutterViewController retain cycle<br />
     <sub>[#43379](https://github.com/flutter/engine/pull/43379) merged on July 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43379) over 3 days, 11 additions and 1 deletion in 2 files</sub><br />
@@ -614,6 +614,10 @@
     <sub>[#43308](https://github.com/flutter/engine/pull/43308) merged on July 6, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/43308) over 1 week, 51 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [hellohuanlin](https://github.com/hellohuanlin), [Chris Yang](https://github.com/cyanglaz)</sub><br />
     <sub><details><summary>2 images...</summary><img src="https://github.com/flutter/engine/assets/36148254/763004f0-970f-4d8a-9a9a-133401ef0c1b" width="360" /><img src="https://github.com/flutter/engine/assets/36148254/b20fe03f-6c9d-4a4a-98dc-8bcd840406db" width="360" /></details></sub>
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Rename default views to implicit views<br />
+    <sub>[#43364](https://github.com/flutter/engine/pull/43364) merged on July 8, 2023 &mdash; **Small:** [26 comments](https://github.com/flutter/engine/pull/43364) over 1 week, 47 additions and 45 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [iOS] Avoid crash when backdrop filter is null for PlatformViews<br />
     <sub>[#43150](https://github.com/flutter/engine/pull/43150) merged on July 5, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/43150) over 1 week, 90 additions and 3 deletions in 8 files</sub><br />
