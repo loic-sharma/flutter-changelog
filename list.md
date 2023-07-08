@@ -1207,7 +1207,7 @@
 
 ### July 1, 2023 to July 7, 2023
 
-34 commits.
+35 commits.
 
 * **[Kamil Powałowski](https://github.com/kamilpowalowski)** &mdash; [google_sign_in_web] Fixes force unwrap on values that can be null
     <sub>[#4374](https://github.com/flutter/packages/pull/4374) merged on July 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/4374) over 17 hours, 48 additions and 3 deletions in 5 files</sub>
@@ -1233,6 +1233,11 @@
     <sub>[#4352](https://github.com/flutter/packages/pull/4352) merged on July 5, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/packages/pull/4352) over 4 days, 407 additions and 37 deletions in 21 files</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [chunhtai](https://github.com/chunhtai), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [file_selector]: Bump androidx.annotation:annotation from 1.5.0 to 1.6.0 in /packages/file_selector/file_selector_android/android
+    <sub>[#4312](https://github.com/flutter/packages/pull/4312) merged on July 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4312) over 1 week, 11 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.5.0&new-version=1.6.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Fixes unawaited_futures violations
     <sub>[#4354](https://github.com/flutter/packages/pull/4354) merged on July 6, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/4354) over 6 days, 706 additions and 645 deletions in 16 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
@@ -1254,22 +1259,17 @@
     <sub>[#3880](https://github.com/flutter/packages/pull/3880) merged on July 5, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/3880) over 2 months, 76 additions and 2 deletions in 5 files</sub>
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
-* **[dependabot](https://github.com/apps/dependabot)** &mdash; [file_selector]: Bump androidx.annotation:annotation from 1.5.0 to 1.6.0 in /packages/file_selector/file_selector_android/android
-    <sub>[#4312](https://github.com/flutter/packages/pull/4312) merged on July 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4312) over 1 week, 11 additions and 2 deletions in 3 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gmackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.5.0&new-version=1.6.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
-
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll pigeon dependency to unblock flutter framework deps roll
     <sub>[#4383](https://github.com/flutter/packages/pull/4383) merged on July 7, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/4383) over 1 day, 48 additions and 46 deletions in 5 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add LUCI web platform tests
-    <sub>[#4391](https://github.com/flutter/packages/pull/4391) merged on July 7, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/4391) over 5 hours, 123 additions and 0 deletions in 6 files</sub>
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [keyonghan](https://github.com/keyonghan)</sub>
-
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Enable unawaited_futures lint
     <sub>[#4271](https://github.com/flutter/packages/pull/4271) merged on July 7, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/4271) over 2 weeks, 195 additions and 203 deletions in 4 files</sub>
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add LUCI web platform tests
+    <sub>[#4391](https://github.com/flutter/packages/pull/4391) merged on July 7, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/4391) over 5 hours, 123 additions and 0 deletions in 6 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] Variable binding in a condition requires an initializer fix
     <sub>[#4407](https://github.com/flutter/packages/pull/4407) merged on July 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4407) over 2 hours, 6 additions and 2 deletions in 3 files</sub>
@@ -1278,6 +1278,10 @@
 * **[gmackall](https://github.com/gmackall)** &mdash; [in_app_purchase_android] Bump com.android.billingclient:billing from 5.2.0 to 6.0.0.
     <sub>[#4390](https://github.com/flutter/packages/pull/4390) merged on July 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4390) over 1 day, 40 additions and 8 deletions in 5 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_lancher] Don't use `canLaunchUrl` in Link
+    <sub>[#4400](https://github.com/flutter/packages/pull/4400) merged on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4400) over 13 hours, 18 additions and 9 deletions in 5 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove unused autosubmit configuration file
     <sub>[#4410](https://github.com/flutter/packages/pull/4410) merged on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4410) over 2 hours, 0 additions and 7 deletions in 1 file</sub>
@@ -1298,10 +1302,6 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Fixes inspectable compile-time error and crash from equal `NSURL`s
     <sub>[#4340](https://github.com/flutter/packages/pull/4340) merged on July 3, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/4340) over 5 days, 37 additions and 5 deletions in 6 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Yang](https://github.com/cyanglaz)</sub>
-
-* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [flutter_markdown] Pass parent TextStyle down to MarkdownElementBuilder.visitElementAfter
-    <sub>[#4393](https://github.com/flutter/packages/pull/4393) merged on July 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4393) over 18 hours, 119 additions and 4 deletions in 5 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add partial LUCI version of repo_checks
     <sub>[#4389](https://github.com/flutter/packages/pull/4389) merged on July 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4389) over 7 hours, 66 additions and 0 deletions in 2 files</sub>
@@ -1346,6 +1346,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Switch some tests to LUCI
     <sub>[#4395](https://github.com/flutter/packages/pull/4395) merged on July 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4395) over 6 hours, 15 additions and 71 deletions in 4 files</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [flutter_markdown] Pass parent TextStyle down to MarkdownElementBuilder.visitElementAfter
+    <sub>[#4393](https://github.com/flutter/packages/pull/4393) merged on July 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4393) over 18 hours, 119 additions and 4 deletions in 5 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 ### June 24, 2023 to June 30, 2023
 
