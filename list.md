@@ -4,7 +4,7 @@
 
 ### July 1, 2023 to July 7, 2023
 
-31 commits.
+32 commits.
 
 * **[Piotr FLEURY](https://github.com/PiotrFLEURY)** &mdash; Add .env file support for  option `--dart-define-from-file`
     <sub>[#128668](https://github.com/flutter/flutter/pull/128668) merged on July 5, 2023 &mdash; **Small:** [45 comments](https://github.com/flutter/flutter/pull/128668) over 3 weeks, 254 additions and 10 deletions in 2 files</sub>
@@ -107,6 +107,10 @@
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Improve documentation for `ColorSheme.fromImageProvider`
     <sub>[#129952](https://github.com/flutter/flutter/pull/129952) merged on July 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129952) over 1 day, 16 additions and 8 deletions in 1 file</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+
+* **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove unneeded configuration file 
+    <sub>[#130183](https://github.com/flutter/flutter/pull/130183) merged on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130183) over 1 hour, 0 additions and 7 deletions in 1 file</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [yusuf-goog](https://github.com/yusuf-goog)</sub>
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny one space formatting fix
     <sub>[#130053](https://github.com/flutter/flutter/pull/130053) merged on July 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/130053) over 1 day, 1 addition and 1 deletion in 1 file</sub>
@@ -591,7 +595,7 @@
 
 ### July 1, 2023 to July 7, 2023
 
-25 commits.
+26 commits.
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; [iOS] Fix FlutterViewController retain cycle
     <sub>[#43379](https://github.com/flutter/engine/pull/43379) merged on July 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43379) over 3 days, 11 additions and 1 deletion in 2 files</sub>
@@ -673,6 +677,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Document `impeller::Context`.
     <sub>[#43389](https://github.com/flutter/engine/pull/43389) merged on July 4, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43389) over 1 hour, 93 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove unused autosubmit configuration file
+    <sub>[#43483](https://github.com/flutter/engine/pull/43483) merged on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43483) over 1 hour, 0 additions and 8 deletions in 1 file</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Remove dead code for recreating a11y node delegates
     <sub>[#43359](https://github.com/flutter/engine/pull/43359) merged on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43359) over 6 days, 0 additions and 70 deletions in 6 files</sub>
