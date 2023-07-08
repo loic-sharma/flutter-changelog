@@ -62,3 +62,6 @@
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; autocomplete: Remove mistaken paragraph in `onSelected` doc<br />
     <sub>[#130190](https://github.com/flutter/flutter/pull/130190) opened on on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130190) 0 additions and 4 deletions in 1 file</sub><br />
 
+* **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] remove unnecessary awaits from flutter.js<br />
+    <sub>[#130204](https://github.com/flutter/flutter/pull/130204) opened on on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130204) 7 additions and 9 deletions in 1 file</sub><br />
+
