@@ -59,3 +59,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Always escape when writing pubspec.yaml's 'description' field.<br />
     <sub>[#130096](https://github.com/flutter/flutter/pull/130096) opened on on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130096) 19 additions and 1 deletion in 2 files</sub><br />
 
+* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; autocomplete: Remove mistaken paragraph in `onSelected` doc<br />
+    <sub>[#130190](https://github.com/flutter/flutter/pull/130190) opened on on July 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130190) 0 additions and 4 deletions in 1 file</sub><br />
+

@@ -4,7 +4,7 @@
 
 ### July 1, 2023 to July 7, 2023
 
-32 commits.
+33 commits.
 
 * **[Piotr FLEURY](https://github.com/PiotrFLEURY)** &mdash; Add .env file support for  option `--dart-define-from-file`<br />
     <sub>[#128668](https://github.com/flutter/flutter/pull/128668) merged on July 5, 2023 &mdash; **Small:** [45 comments](https://github.com/flutter/flutter/pull/128668) over 3 weeks, 254 additions and 10 deletions in 2 files</sub><br />
@@ -14,6 +14,11 @@
     <sub>[#127776](https://github.com/flutter/flutter/pull/127776) merged on July 6, 2023 &mdash; **Medium:** [36 comments](https://github.com/flutter/flutter/pull/127776) over 1 month, 383 additions and 0 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
     <sub><details><summary>3 images...</summary>![image](https://github.com/flutter/flutter/assets/82336674/7e5a874b-b1a2-4429-a435-005e3a0a4dd3)![image](https://github.com/flutter/flutter/assets/82336674/7e294e60-6041-4bb6-a892-d7ea56cfa2c8)![ezgif com-video-to-gif](https://github.com/flutter/flutter/assets/82336674/9803d256-b058-4a7c-bbaa-2b0253508885)</details></sub>
+
+* **[Chuan-Yen Chiang](https://github.com/cychiang)** &mdash; fix: duplicated Intellij IDE message when running flutter doctor<br />
+    <sub>[#129030](https://github.com/flutter/flutter/pull/129030) merged on July 8, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/129030) over 3 weeks, 54 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+    <sub><details><summary>2 images...</summary><img width="918" alt="Screenshot 2023-06-16 at 21 04 43" src="https://github.com/flutter/flutter/assets/3291319/2f5ef0c6-0d29-4d02-97ed-257f29965a1a"><img width="924" alt="Screenshot 2023-06-16 at 21 13 15" src="https://github.com/flutter/flutter/assets/3291319/dcdca845-41a1-4896-a5ac-5bca724af676"></details></sub>
 
 * **[luckysmg](https://github.com/luckysmg)** &mdash; [framework] Add textField OCR support for framework side<br />
     <sub>[#96637](https://github.com/flutter/flutter/pull/96637) merged on July 6, 2023 &mdash; **Large:** [153 comments](https://github.com/flutter/flutter/pull/96637) over 17 months, 868 additions and 46 deletions in 97 files</sub><br />
