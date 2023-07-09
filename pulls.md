@@ -68,3 +68,6 @@
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] provide serviceWorkerVersion to the getNewServiceWorker function<br />
     <sub>[#130206](https://github.com/flutter/flutter/pull/130206) opened on on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130206) 3 additions and 2 deletions in 1 file</sub><br />
 
+* **[shirou](https://github.com/shirou)** &mdash; Add missing paramaters to PaginatedDataTable.<br />
+    <sub>[#130226](https://github.com/flutter/flutter/pull/130226) opened on on July 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130226) 51 additions and 0 deletions in 1 file</sub><br />
+
