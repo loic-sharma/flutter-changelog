@@ -32,9 +32,6 @@
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Refactor: updated segmented button<br />
     <sub>[#129215](https://github.com/flutter/flutter/pull/129215) opened on on June 20, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/129215) 402 additions and 112 deletions in 1 file</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [CP] Fix TextField not responding to taps when wrapped in a GestureDetector<br />
-    <sub>[#129576](https://github.com/flutter/flutter/pull/129576) opened on on June 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129576) 95 additions and 1 deletion in 3 files</sub><br />
-
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; (WIP) Verify that making `useMaterial3:true` is safe<br />
     <sub>[#129724](https://github.com/flutter/flutter/pull/129724) opened on on June 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129724) 1 addition and 1 deletion in 1 file</sub><br />
 
