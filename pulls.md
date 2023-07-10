@@ -71,6 +71,3 @@
 * **[shirou](https://github.com/shirou)** &mdash; Add missing paramaters to PaginatedDataTable.<br />
     <sub>[#130226](https://github.com/flutter/flutter/pull/130226) opened on on July 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130226) 57 additions and 0 deletions in 1 file</sub><br />
 
-* **[Gabriel Tavares](https://github.com/gbtb16)** &mdash; Fixes zero height in TableRow when using vertically filled cells.<br />
-    <sub>[#130264](https://github.com/flutter/flutter/pull/130264) opened on on July 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130264) 2 additions and 5 deletions in 1 file</sub><br />
-
