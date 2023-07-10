@@ -501,7 +501,7 @@
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Duplicate include removal from lazy_glyph_atlas.cc.<br />
-    <sub>[#43453](https://github.com/flutter/engine/pull/43453) merged on July 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43453) over 5 hours, 0 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#43453](https://github.com/flutter/engine/pull/43453) merged on July 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/43453) over 5 hours, 0 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Reduce redundant Linux clang-tidy work and run on more cores<br />
