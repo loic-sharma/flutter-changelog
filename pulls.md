@@ -71,3 +71,6 @@
 * **[Gabriel Tavares](https://github.com/gbtb16)** &mdash; Fixes zero height in TableRow when using vertically filled cells.<br />
     <sub>[#130264](https://github.com/flutter/flutter/pull/130264) opened on on July 10, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/130264) 74 additions and 5 deletions in 3 files</sub><br />
 
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#130289](https://github.com/flutter/flutter/pull/130289) opened on on July 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130289) 2 additions and 2 deletions in 1 file</sub><br />
+
