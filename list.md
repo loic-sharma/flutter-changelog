@@ -394,9 +394,18 @@
 
 ## flutter/engine
 
+### July 8, 2023 to July 14, 2023
+
+1 commits.
+
+* **[Dan Ballard](https://github.com/dballard)** &mdash; [linux] Allow overriding aot_library_path
+    <sub>[#42555](https://github.com/flutter/engine/pull/42555) merged on July 10, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/42555) over 1 month, 27 additions and 0 deletions in 3 files</sub>
+    <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell)</sub>
+
 ### July 1, 2023 to July 7, 2023
 
-29 commits.
+<details>
+<summary>29 commits...</summary>
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; [iOS] Fix FlutterViewController retain cycle
     <sub>[#43379](https://github.com/flutter/engine/pull/43379) merged on July 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43379) over 3 days, 11 additions and 1 deletion in 2 files</sub>
@@ -514,6 +523,8 @@
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Revert "[iOS][Keyboard] Wait vsync on UI thread and update viewport inset to avoid jitter."
     <sub>[#43422](https://github.com/flutter/engine/pull/43422) merged on July 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43422) over 23 hours, 67 additions and 149 deletions in 6 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+</details>
 
 ### June 24, 2023 to June 30, 2023
 
