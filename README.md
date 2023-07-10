@@ -803,7 +803,11 @@
 
 ### July 8, 2023 to July 14, 2023
 
-1 commits.
+2 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [web_benchmarks] Migrate custom test to `custom_package_tests`<br />
+    <sub>[#4429](https://github.com/flutter/packages/pull/4429) merged on July 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4429) over 1 hour, 82 additions and 17 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Goddchen](https://github.com/Goddchen)** &mdash; go_router: docs: fix typo in StatefulShellRoute.indexedStack(...) docs<br />
     <sub>[#4341](https://github.com/flutter/packages/pull/4341) merged on July 10, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/4341) over 1 week, 4 additions and 1 deletion in 2 files</sub><br />
