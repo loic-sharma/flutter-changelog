@@ -69,7 +69,7 @@
     <sub>[#130206](https://github.com/flutter/flutter/pull/130206) opened on on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130206) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[shirou](https://github.com/shirou)** &mdash; Add missing paramaters to PaginatedDataTable.<br />
-    <sub>[#130226](https://github.com/flutter/flutter/pull/130226) opened on on July 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130226) 53 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#130226](https://github.com/flutter/flutter/pull/130226) opened on on July 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130226) 52 additions and 0 deletions in 1 file</sub><br />
 
 * **[Rydmike](https://github.com/rydmike)** &mdash; Fix default icon color constants reversed brightness documentation<br />
     <sub>[#130231](https://github.com/flutter/flutter/pull/130231) opened on on July 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130231) 2 additions and 2 deletions in 1 file</sub><br />
