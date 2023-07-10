@@ -136,7 +136,7 @@
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove unneeded configuration file 
     <sub>[#130183](https://github.com/flutter/flutter/pull/130183) merged on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130183) over 1 hour, 0 additions and 7 deletions in 1 file</sub>
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [keyonghan](https://github.com/keyonghan)</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [yusuf-goog](https://github.com/yusuf-goog)</sub>
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny one space formatting fix
     <sub>[#130053](https://github.com/flutter/flutter/pull/130053) merged on July 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/130053) over 1 day, 1 addition and 1 deletion in 1 file</sub>
@@ -419,7 +419,12 @@
 
 ### July 8, 2023 to July 14, 2023
 
-5 commits.
+6 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Don't decompress into device buffer for Vulkan/GLES.
+    <sub>[#43493](https://github.com/flutter/engine/pull/43493) merged on July 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43493) over 1 day, 59 additions and 11 deletions in 4 files</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
+    <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/engine/assets/8975114/b6d1c225-060b-4a20-9737-ad668423799a)![image](https://github.com/flutter/engine/assets/8975114/5ff1f857-8327-4d04-b40a-3da4a5fc91a4)</details></sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add matrix backdrop filter golden.
     <sub>[#43484](https://github.com/flutter/engine/pull/43484) merged on July 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43484) over 2 days, 16 additions and 0 deletions in 1 file</sub>
