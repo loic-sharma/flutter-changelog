@@ -50,9 +50,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Always escape when writing pubspec.yaml's 'description' field.<br />
     <sub>[#130096](https://github.com/flutter/flutter/pull/130096) opened on on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130096) 19 additions and 1 deletion in 2 files</sub><br />
 
-* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; autocomplete: Remove mistaken paragraph in `onSelected` doc<br />
-    <sub>[#130190](https://github.com/flutter/flutter/pull/130190) opened on on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130190) 0 additions and 4 deletions in 1 file</sub><br />
-
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] remove unnecessary awaits from flutter.js<br />
     <sub>[#130204](https://github.com/flutter/flutter/pull/130204) opened on on July 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130204) 7 additions and 9 deletions in 1 file</sub><br />
 
@@ -61,9 +58,6 @@
 
 * **[shirou](https://github.com/shirou)** &mdash; Add missing paramaters to PaginatedDataTable.<br />
     <sub>[#130226](https://github.com/flutter/flutter/pull/130226) opened on on July 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130226) 57 additions and 0 deletions in 1 file</sub><br />
-
-* **[Gabriel Tavares](https://github.com/gbtb16)** &mdash; Fixes zero height in TableRow when using vertically filled cells.<br />
-    <sub>[#130264](https://github.com/flutter/flutter/pull/130264) opened on on July 10, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/130264) 74 additions and 5 deletions in 3 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix finish translation for tab labels<br />
     <sub>[#130333](https://github.com/flutter/flutter/pull/130333) opened on on July 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130333) 22 additions and 4 deletions in 6 files</sub><br />
