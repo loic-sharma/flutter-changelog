@@ -68,3 +68,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix finish translation for tab labels<br />
     <sub>[#130333](https://github.com/flutter/flutter/pull/130333) opened on on July 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130333) 22 additions and 4 deletions in 6 files</sub><br />
 
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#130348](https://github.com/flutter/flutter/pull/130348) opened on on July 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130348) 2 additions and 2 deletions in 1 file</sub><br />
+
