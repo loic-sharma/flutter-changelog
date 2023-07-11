@@ -846,12 +846,16 @@
 
 ### July 8, 2023 to July 14, 2023
 
-4 commits.
+5 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.8.22 to 1.9.0 in /packages/pigeon/platform_tests/test_plugin/android<br />
     <sub>[#4419](https://github.com/flutter/packages/pull/4419) merged on July 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4419) over 17 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.8.22&new-version=1.9.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] `Object` type in class integration tests<br />
+    <sub>[#4384](https://github.com/flutter/packages/pull/4384) merged on July 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4384) over 5 days, 240 additions and 54 deletions in 30 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add initial LUCI legacy analysis<br />
     <sub>[#4428](https://github.com/flutter/packages/pull/4428) merged on July 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4428) over 7 hours, 67 additions and 20 deletions in 11 files</sub><br />
