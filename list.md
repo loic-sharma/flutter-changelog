@@ -96,7 +96,7 @@
 
 * **[fabiancrx](https://github.com/fabiancrx)** &mdash; [flutter_tools] modify Skeleton template to use ListenableBuilder instead of AnimatedBuilder
     <sub>[#128810](https://github.com/flutter/flutter/pull/128810) merged on July 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/128810) over 3 weeks, 3 additions and 3 deletions in 1 file</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Myles Moylan](https://github.com/moylanm)** &mdash; Add simple unit tests for annotations.dart file
     <sub>[#128902](https://github.com/flutter/flutter/pull/128902) merged on July 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128902) over 2 weeks, 27 additions and 0 deletions in 1 file</sub>
@@ -419,7 +419,12 @@
 
 ### July 8, 2023 to July 14, 2023
 
-7 commits.
+8 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Unconditionally cache swapchain msaa texture.
+    <sub>[#43529](https://github.com/flutter/engine/pull/43529) merged on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43529) over 4 hours, 2 additions and 10 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/engine/assets/8975114/a2d0fed7-7a25-4652-9932-2464b272d80c)</details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Don't decompress into device buffer for Vulkan/GLES.
     <sub>[#43493](https://github.com/flutter/engine/pull/43493) merged on July 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43493) over 1 day, 59 additions and 11 deletions in 4 files</sub>
@@ -894,6 +899,10 @@
     <sub>[#4383](https://github.com/flutter/packages/pull/4383) merged on July 7, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/4383) over 1 day, 48 additions and 46 deletions in 5 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Update Dart SDK version
+    <sub>[#4402](https://github.com/flutter/packages/pull/4402) merged on July 8, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/4402) over 22 hours, 124 additions and 235 deletions in 33 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add LUCI web platform tests
     <sub>[#4391](https://github.com/flutter/packages/pull/4391) merged on July 7, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/4391) over 5 hours, 123 additions and 0 deletions in 6 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [keyonghan](https://github.com/keyonghan)</sub>
@@ -909,10 +918,6 @@
 * **[gmackall](https://github.com/gmackall)** &mdash; [in_app_purchase_android] Bump com.android.billingclient:billing from 5.2.0 to 6.0.0.
     <sub>[#4390](https://github.com/flutter/packages/pull/4390) merged on July 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4390) over 1 day, 40 additions and 8 deletions in 5 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
-
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Update Dart SDK version
-    <sub>[#4402](https://github.com/flutter/packages/pull/4402) merged on July 8, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/4402) over 22 hours, 124 additions and 235 deletions in 33 files</sub>
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_lancher] Don't use `canLaunchUrl` in Link
     <sub>[#4400](https://github.com/flutter/packages/pull/4400) merged on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4400) over 13 hours, 18 additions and 9 deletions in 5 files</sub>
