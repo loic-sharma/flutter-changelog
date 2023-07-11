@@ -71,9 +71,3 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#130348](https://github.com/flutter/flutter/pull/130348) opened on on July 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130348) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [flutter_releases] Flutter beta 3.13.0-0.1.pre Framework Cherrypicks<br />
-    <sub>[#130353](https://github.com/flutter/flutter/pull/130353) opened on on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130353) 2 additions and 1 deletion in 2 files</sub><br />
-
-* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Bring back old gen-l10n parser for backward compatability<br />
-    <sub>[#130358](https://github.com/flutter/flutter/pull/130358) opened on on July 11, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/130358) 2624 additions and 21 deletions in 8 files</sub><br />
-
