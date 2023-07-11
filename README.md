@@ -423,7 +423,7 @@
 
 ### July 8, 2023 to July 14, 2023
 
-10 commits.
+11 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Unconditionally cache swapchain msaa texture.<br />
     <sub>[#43529](https://github.com/flutter/engine/pull/43529) merged on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43529) over 4 hours, 2 additions and 10 deletions in 1 file</sub><br />
@@ -439,6 +439,10 @@
     <sub>[#43484](https://github.com/flutter/engine/pull/43484) merged on July 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43484) over 2 days, 16 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2023-07-07 at 4 57 56 PM](https://github.com/flutter/engine/assets/919017/2c527437-d085-4439-adb1-5ce488c50da0)</details></sub>
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Improve resolution of text scaling.<br />
+    <sub>[#43533](https://github.com/flutter/engine/pull/43533) merged on July 11, 2023 &mdash; **Medium:** [12 comments](https://github.com/flutter/engine/pull/43533) over 6 hours, 250 additions and 201 deletions in 28 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Dan Ballard](https://github.com/dballard)** &mdash; [linux] Allow overriding aot_library_path<br />
     <sub>[#42555](https://github.com/flutter/engine/pull/42555) merged on July 10, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/42555) over 1 month, 27 additions and 0 deletions in 3 files</sub><br />
