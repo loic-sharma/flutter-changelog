@@ -14,14 +14,8 @@
 * **[Matias Sebastian Ramirez Brizuela](https://github.com/ramirezsebas)** &mdash; Added support for Custom ExpansionPanel Icon<br />
     <sub>[#121957](https://github.com/flutter/flutter/pull/121957) opened on on March 5, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/121957) 373 additions and 25 deletions in 4 files</sub><br />
 
-* **[Ruben Aster](https://github.com/rubenaster)** &mdash; Fix transitioning a TabBarView manually doesn't honor duration and curve #16892<br />
-    <sub>[#122279](https://github.com/flutter/flutter/pull/122279) opened on on March 9, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/122279) 45 additions and 16 deletions in 2 files</sub><br />
-
 * **[LiangXiang Shen](https://github.com/kj415j45)** &mdash; Update `ThemeData`'s factory method documents<br />
     <sub>[#123984](https://github.com/flutter/flutter/pull/123984) opened on on April 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123984) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[Casey Rogers](https://github.com/caseycrogers)** &mdash; [WIP] removed generic, started fixing popupmenu<br />
-    <sub>[#126456](https://github.com/flutter/flutter/pull/126456) opened on on May 10, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/126456) 491 additions and 516 deletions in 35 files</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Fix super tiny space formatting (hope we have auto formatter in the future)<br />
     <sub>[#127479](https://github.com/flutter/flutter/pull/127479) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127479) 1 addition and 1 deletion in 1 file</sub><br />
@@ -64,4 +58,7 @@
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#130348](https://github.com/flutter/flutter/pull/130348) opened on on July 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130348) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; WIP - Maybe throw for constrained shrinkwrap<br />
+    <sub>[#130363](https://github.com/flutter/flutter/pull/130363) opened on on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130363) 22 additions and 0 deletions in 1 file</sub><br />
 
