@@ -30,7 +30,7 @@
     <sub>[#127925](https://github.com/flutter/flutter/pull/127925) opened on on May 31, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/127925) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Refactor: updated segmented button<br />
-    <sub>[#129215](https://github.com/flutter/flutter/pull/129215) opened on on June 20, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/129215) 402 additions and 112 deletions in 1 file</sub><br />
+    <sub>[#129215](https://github.com/flutter/flutter/pull/129215) opened on on June 20, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/129215) 402 additions and 112 deletions in 1 file</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; (WIP) Verify that making `useMaterial3:true` is safe<br />
     <sub>[#129724](https://github.com/flutter/flutter/pull/129724) opened on on June 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129724) 1 addition and 1 deletion in 1 file</sub><br />
@@ -48,7 +48,7 @@
     <sub>[#130037](https://github.com/flutter/flutter/pull/130037) opened on on July 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130037) 11 additions and 71 deletions in 1 file</sub><br />
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Make new issue template for 1P package<br />
-    <sub>[#130065](https://github.com/flutter/flutter/pull/130065) opened on on July 6, 2023 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/130065) 222 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#130065](https://github.com/flutter/flutter/pull/130065) opened on on July 6, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/130065) 222 additions and 0 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Always escape when writing pubspec.yaml's 'description' field.<br />
     <sub>[#130096](https://github.com/flutter/flutter/pull/130096) opened on on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130096) 19 additions and 1 deletion in 2 files</sub><br />

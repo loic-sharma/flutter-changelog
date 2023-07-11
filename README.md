@@ -41,7 +41,7 @@
 
 * **[Rydmike](https://github.com/rydmike)** &mdash; Fix default icon color constants reversed brightness documentation<br />
     <sub>[#130231](https://github.com/flutter/flutter/pull/130231) merged on July 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130231) over 20 hours, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 ### July 1, 2023 to July 7, 2023
 
@@ -117,7 +117,7 @@
 
 * **[fabiancrx](https://github.com/fabiancrx)** &mdash; [flutter_tools] modify Skeleton template to use ListenableBuilder instead of AnimatedBuilder<br />
     <sub>[#128810](https://github.com/flutter/flutter/pull/128810) merged on July 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/128810) over 3 weeks, 3 additions and 3 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Myles Moylan](https://github.com/moylanm)** &mdash; Add simple unit tests for annotations.dart file<br />
     <sub>[#128902](https://github.com/flutter/flutter/pull/128902) merged on July 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128902) over 2 weeks, 27 additions and 0 deletions in 1 file</sub><br />
@@ -157,11 +157,11 @@
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove unneeded configuration file <br />
     <sub>[#130183](https://github.com/flutter/flutter/pull/130183) merged on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130183) over 1 hour, 0 additions and 7 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny one space formatting fix<br />
     <sub>[#130053](https://github.com/flutter/flutter/pull/130053) merged on July 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/130053) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Tomasz Gucio](https://github.com/tgucio), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Tomasz Gucio](https://github.com/tgucio)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add debugging for iOS startup test flakes<br />
     <sub>[#130099](https://github.com/flutter/flutter/pull/130099) merged on July 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130099) over 19 hours, 71 additions and 20 deletions in 3 files</sub><br />
@@ -432,7 +432,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [devicelab] Add platform view scroll benchmarks for Impeller on Android<br />
     <sub>[#129455](https://github.com/flutter/flutter/pull/129455) merged on June 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129455) over 3 hours, 36 additions and 1 deletion in 4 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 </details>
 
@@ -440,7 +440,7 @@
 
 ### July 8, 2023 to July 14, 2023
 
-12 commits.
+13 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Unconditionally cache swapchain msaa texture.<br />
     <sub>[#43529](https://github.com/flutter/engine/pull/43529) merged on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43529) over 4 hours, 2 additions and 10 deletions in 1 file</sub><br />
@@ -476,6 +476,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix leak when switching channels<br />
     <sub>[#41827](https://github.com/flutter/engine/pull/41827) merged on July 10, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/41827) over 2 months, 3 additions and 8 deletions in 1 file</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Gustl22](https://github.com/Gustl22)</sub><br />
+
+* **[David Worsham](https://github.com/arbreng)** &mdash; [fuchsia] Remove FIDL dart references<br />
+    <sub>[#43550](https://github.com/flutter/engine/pull/43550) merged on July 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43550) over 8 hours, 2 additions and 112 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; remove include of SkPicture files from non-Fuchsia sources<br />
     <sub>[#43542](https://github.com/flutter/engine/pull/43542) merged on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43542) over 7 hours, 7 additions and 23 deletions in 9 files</sub><br />
