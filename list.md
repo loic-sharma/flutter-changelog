@@ -370,7 +370,7 @@
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Fix `AnimatedList` & `AnimatedGrid` doesn't apply `MediaQuery` padding"
     <sub>[#129645](https://github.com/flutter/flutter/pull/129645) merged on June 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129645) over 18 hours, 7 additions and 169 deletions in 3 files</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Casey Hillers](https://github.com/CaseyHillers)</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove use of any
     <sub>[#129793](https://github.com/flutter/flutter/pull/129793) merged on June 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129793) over 40 minutes, 50 additions and 64 deletions in 1 file</sub>
@@ -453,7 +453,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [devicelab] Add platform view scroll benchmarks for Impeller on Android
     <sub>[#129455](https://github.com/flutter/flutter/pull/129455) merged on June 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129455) over 3 hours, 36 additions and 1 deletion in 4 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 </details>
 
@@ -915,7 +915,7 @@
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [palette_generator] Add web support to unit tests
-    <sub>[#4440](https://github.com/flutter/packages/pull/4440) merged on July 11, 2023 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/4440) over 1 hour, 1360 additions and 23 deletions in 4 files</sub>
+    <sub>[#4440](https://github.com/flutter/packages/pull/4440) merged on July 11, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/4440) over 1 hour, 1360 additions and 23 deletions in 4 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router_builder] Cleans up builder code.
