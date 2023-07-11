@@ -4,7 +4,7 @@
 
 ### July 8, 2023 to July 14, 2023
 
-13 commits.
+14 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `DropdownMenu` can be expanded to its parent size
     <sub>[#129753](https://github.com/flutter/flutter/pull/129753) merged on July 11, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/129753) over 1 week, 183 additions and 84 deletions in 2 files</sub>
@@ -15,6 +15,10 @@
     <sub>[#129834](https://github.com/flutter/flutter/pull/129834) merged on July 11, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129834) over 1 week, 142 additions and 33 deletions in 4 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>3 images...</summary><img src="https://github.com/flutter/flutter/assets/48603081/808c9577-c6b4-465f-b9fe-100d422dd408" /><img src="https://github.com/flutter/flutter/assets/48603081/c9b3ee03-56d7-4220-94cf-06e235631714" /><img src="https://github.com/flutter/flutter/assets/48603081/43fab47b-25e8-4412-92d2-6d4868e43ff8"  /></details></sub>
+
+* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Refactor refresh_indicator.1.dart to not use shrinkwrap
+    <sub>[#129377](https://github.com/flutter/flutter/pull/129377) merged on July 11, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/129377) over 2 weeks, 24 additions and 11 deletions in 1 file</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add Linux implementation of the platform view example
     <sub>[#123731](https://github.com/flutter/flutter/pull/123731) merged on July 11, 2023 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/123731) over 3 months, 429 additions and 1 deletion in 6 files</sub>
@@ -366,7 +370,7 @@
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Fix `AnimatedList` & `AnimatedGrid` doesn't apply `MediaQuery` padding"
     <sub>[#129645](https://github.com/flutter/flutter/pull/129645) merged on June 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129645) over 18 hours, 7 additions and 169 deletions in 3 files</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Casey Hillers](https://github.com/CaseyHillers)</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove use of any
     <sub>[#129793](https://github.com/flutter/flutter/pull/129793) merged on June 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129793) over 40 minutes, 50 additions and 64 deletions in 1 file</sub>
