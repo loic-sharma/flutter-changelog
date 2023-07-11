@@ -4,7 +4,7 @@
 
 ### July 8, 2023 to July 14, 2023
 
-10 commits.
+11 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `DropdownMenu` can be expanded to its parent size
     <sub>[#129753](https://github.com/flutter/flutter/pull/129753) merged on July 11, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/129753) over 1 week, 183 additions and 84 deletions in 2 files</sub>
@@ -39,6 +39,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Change resultBundlePath representation from File to Directory
     <sub>[#130156](https://github.com/flutter/flutter/pull/130156) merged on July 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130156) over 3 days, 26 additions and 26 deletions in 2 files</sub>
     <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz)</sub>
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
+    <sub>[#130289](https://github.com/flutter/flutter/pull/130289) merged on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130289) over 20 hours, 2 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Throw error on unexpected positional arguments
     <sub>[#130274](https://github.com/flutter/flutter/pull/130274) merged on July 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130274) over 1 hour, 18 additions and 0 deletions in 2 files</sub>
@@ -162,11 +166,11 @@
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove unneeded configuration file 
     <sub>[#130183](https://github.com/flutter/flutter/pull/130183) merged on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130183) over 1 hour, 0 additions and 7 deletions in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [yusuf-goog](https://github.com/yusuf-goog)</sub>
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny one space formatting fix
     <sub>[#130053](https://github.com/flutter/flutter/pull/130053) merged on July 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/130053) over 1 day, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Tomasz Gucio](https://github.com/tgucio), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Tomasz Gucio](https://github.com/tgucio)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add debugging for iOS startup test flakes
     <sub>[#130099](https://github.com/flutter/flutter/pull/130099) merged on July 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130099) over 19 hours, 71 additions and 20 deletions in 3 files</sub>
@@ -354,7 +358,7 @@
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Fix `AnimatedList` & `AnimatedGrid` doesn't apply `MediaQuery` padding"
     <sub>[#129645](https://github.com/flutter/flutter/pull/129645) merged on June 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129645) over 18 hours, 7 additions and 169 deletions in 3 files</sub>
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove use of any
     <sub>[#129793](https://github.com/flutter/flutter/pull/129793) merged on June 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129793) over 40 minutes, 50 additions and 64 deletions in 1 file</sub>
