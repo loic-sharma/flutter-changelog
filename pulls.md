@@ -62,3 +62,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; WIP - Maybe throw for constrained shrinkwrap<br />
     <sub>[#130363](https://github.com/flutter/flutter/pull/130363) opened on on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130363) 22 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Automatically create the layer when setting hints in PaintingContext<br />
+    <sub>[#130364](https://github.com/flutter/flutter/pull/130364) opened on on July 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130364) 50 additions and 2 deletions in 2 files</sub><br />
+
