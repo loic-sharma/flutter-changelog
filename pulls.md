@@ -48,7 +48,7 @@
     <sub>[#130037](https://github.com/flutter/flutter/pull/130037) opened on on July 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130037) 11 additions and 71 deletions in 1 file</sub><br />
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Make new issue template for 1P package<br />
-    <sub>[#130065](https://github.com/flutter/flutter/pull/130065) opened on on July 6, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/130065) 222 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#130065](https://github.com/flutter/flutter/pull/130065) opened on on July 6, 2023 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/130065) 222 additions and 0 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Always escape when writing pubspec.yaml's 'description' field.<br />
     <sub>[#130096](https://github.com/flutter/flutter/pull/130096) opened on on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130096) 19 additions and 1 deletion in 2 files</sub><br />
@@ -70,4 +70,7 @@
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#130289](https://github.com/flutter/flutter/pull/130289) opened on on July 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130289) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix finish translation for tab labels<br />
+    <sub>[#130333](https://github.com/flutter/flutter/pull/130333) opened on on July 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130333) 22 additions and 4 deletions in 6 files</sub><br />
 
