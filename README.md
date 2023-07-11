@@ -4,7 +4,11 @@
 
 ### July 8, 2023 to July 14, 2023
 
-4 commits.
+5 commits.
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add Linux implementation of the platform view example<br />
+    <sub>[#123731](https://github.com/flutter/flutter/pull/123731) merged on July 11, 2023 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/123731) over 3 months, 429 additions and 1 deletion in 6 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; re-enable "Linux packages_autoroller"<br />
     <sub>[#130088](https://github.com/flutter/flutter/pull/130088) merged on July 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130088) over 4 days, 63 additions and 31 deletions in 6 files</sub><br />
