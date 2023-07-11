@@ -6,10 +6,10 @@
     <sub>[#112001](https://github.com/flutter/flutter/pull/112001) opened on on September 20, 2022 &mdash; **Medium:** [62 comments](https://github.com/flutter/flutter/pull/112001) 293 additions and 36 deletions in 10 files</sub><br />
 
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Added hoverColor property to CheckboxListTile widget<br />
-    <sub>[#116026](https://github.com/flutter/flutter/pull/116026) opened on on November 25, 2022 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/116026) 23 additions and 1 deletion in 3 files</sub><br />
+    <sub>[#116026](https://github.com/flutter/flutter/pull/116026) opened on on November 25, 2022 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/116026) 23 additions and 1 deletion in 3 files</sub><br />
 
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Added hoverColor property on ExpansionTile widget<br />
-    <sub>[#116030](https://github.com/flutter/flutter/pull/116030) opened on on November 25, 2022 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/116030) 31 additions and 0 deletions in 3 files</sub><br />
+    <sub>[#116030](https://github.com/flutter/flutter/pull/116030) opened on on November 25, 2022 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/116030) 31 additions and 0 deletions in 3 files</sub><br />
 
 * **[Matias Sebastian Ramirez Brizuela](https://github.com/ramirezsebas)** &mdash; Added support for Custom ExpansionPanel Icon<br />
     <sub>[#121957](https://github.com/flutter/flutter/pull/121957) opened on on March 5, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/121957) 373 additions and 25 deletions in 4 files</sub><br />
