@@ -65,9 +65,6 @@
 * **[Michelle Nguyen](https://github.com/mnguyen427)** &mdash; Fix CLI build tool log output during build ipa --export-options-plist<br />
     <sub>[#130424](https://github.com/flutter/flutter/pull/130424) opened on on July 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130424) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [flutter_releases] Flutter stable 3.10.6 Framework Cherrypicks<br />
-    <sub>[#130446](https://github.com/flutter/flutter/pull/130446) opened on on July 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130446) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[mohnasaye](https://github.com/mohnasaye)** &mdash; Mohnasaye refactor  pod file<br />
     <sub>[#130449](https://github.com/flutter/flutter/pull/130449) opened on on July 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130449) 6 additions and 2 deletions in 2 files</sub><br />
 
