@@ -65,3 +65,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Automatically create the layer when setting hints in PaintingContext<br />
     <sub>[#130364](https://github.com/flutter/flutter/pull/130364) opened on on July 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130364) 50 additions and 2 deletions in 2 files</sub><br />
 
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny remove outdated comments<br />
+    <sub>[#130387](https://github.com/flutter/flutter/pull/130387) opened on on July 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130387) 0 additions and 2 deletions in 1 file</sub><br />
+
