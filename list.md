@@ -411,7 +411,7 @@
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Fix `AnimatedList` & `AnimatedGrid` doesn't apply `MediaQuery` padding"
     <sub>[#129645](https://github.com/flutter/flutter/pull/129645) merged on June 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129645) over 18 hours, 7 additions and 169 deletions in 3 files</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Casey Hillers](https://github.com/CaseyHillers)</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove use of any
     <sub>[#129793](https://github.com/flutter/flutter/pull/129793) merged on June 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129793) over 40 minutes, 50 additions and 64 deletions in 1 file</sub>
@@ -494,7 +494,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [devicelab] Add platform view scroll benchmarks for Impeller on Android
     <sub>[#129455](https://github.com/flutter/flutter/pull/129455) merged on June 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129455) over 3 hours, 36 additions and 1 deletion in 4 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 </details>
 
@@ -1007,7 +1007,7 @@
 
 ### July 8, 2023 to July 14, 2023
 
-22 commits.
+23 commits.
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [flutter_plugin_tools] Reimplements the excerpt system inline in the tool, rather than relying on a separate package.
     <sub>[#4417](https://github.com/flutter/packages/pull/4417) merged on July 11, 2023 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/4417) over 1 day, 747 additions and 1078 deletions in 45 files</sub>
@@ -1028,6 +1028,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Conditionalize color on `stdout`
     <sub>[#4436](https://github.com/flutter/packages/pull/4436) merged on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4436) over 2 hours, 187 additions and 26 deletions in 35 files</sub>
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Raju Muliyashiya](https://github.com/raju8000)** &mdash; [file_selector_web] Listens to file input cancel event.
+    <sub>[#3683](https://github.com/flutter/packages/pull/3683) merged on July 12, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/3683) over 3 months, 71 additions and 8 deletions in 10 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] Roll dependancies to avoid error
     <sub>[#4431](https://github.com/flutter/packages/pull/4431) merged on July 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4431) over 1 day, 12 additions and 7 deletions in 2 files</sub>
