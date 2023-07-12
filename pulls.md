@@ -68,6 +68,3 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Correct a few import sortings<br />
     <sub>[#130435](https://github.com/flutter/flutter/pull/130435) opened on on July 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130435) 2 additions and 2 deletions in 2 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Inspector should not hold callback from garbage collection.<br />
-    <sub>[#130436](https://github.com/flutter/flutter/pull/130436) opened on on July 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130436) 44 additions and 9 deletions in 2 files</sub><br />
-
