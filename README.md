@@ -1055,7 +1055,7 @@
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add LUCI web platform tests<br />
-    <sub>[#4391](https://github.com/flutter/packages/pull/4391) merged on July 7, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/4391) over 5 hours, 123 additions and 0 deletions in 6 files</sub><br />
+    <sub>[#4391](https://github.com/flutter/packages/pull/4391) merged on July 7, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/4391) over 5 hours, 123 additions and 0 deletions in 6 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Enable unawaited_futures lint<br />
