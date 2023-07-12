@@ -38,9 +38,6 @@
 * **[杨加康](https://github.com/MeandNi)** &mdash; [flutter_tools] Add flutter create-local-engine-repo<br />
     <sub>[#129948](https://github.com/flutter/flutter/pull/129948) opened on on July 4, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/129948) 243 additions and 7 deletions in 4 files</sub><br />
 
-* **[huycozy](https://github.com/huycozy)** &mdash; Make new issue template for 1P package<br />
-    <sub>[#130065](https://github.com/flutter/flutter/pull/130065) opened on on July 6, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/130065) 222 additions and 0 deletions in 1 file</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Always escape when writing pubspec.yaml's 'description' field.<br />
     <sub>[#130096](https://github.com/flutter/flutter/pull/130096) opened on on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130096) 19 additions and 1 deletion in 2 files</sub><br />
 

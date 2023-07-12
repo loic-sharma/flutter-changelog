@@ -4,7 +4,12 @@
 
 ### July 8, 2023 to July 14, 2023
 
-16 commits.
+17 commits.
+
+* **[huycozy](https://github.com/huycozy)** &mdash; Make new issue template for 1P package<br />
+    <sub>[#130065](https://github.com/flutter/flutter/pull/130065) merged on July 12, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/130065) over 5 days, 222 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub><details><summary>1 image...</summary>![screenshot](https://github.com/flutter/flutter/assets/104349824/40968935-b898-4303-b3ee-08abed94f6eb)</details></sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `DropdownMenu` can be expanded to its parent size<br />
     <sub>[#129753](https://github.com/flutter/flutter/pull/129753) merged on July 11, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/129753) over 1 week, 183 additions and 84 deletions in 2 files</sub><br />
@@ -345,7 +350,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `RadioListTile` tests to M3<br />
-    <sub>[#129718](https://github.com/flutter/flutter/pull/129718) merged on June 29, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/129718) over 1 day, 220 additions and 48 deletions in 1 file</sub><br />
+    <sub>[#129718](https://github.com/flutter/flutter/pull/129718) merged on June 29, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/129718) over 1 day, 220 additions and 48 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Prepare for utf8.encode() to return more precise Uint8List type<br />
