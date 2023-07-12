@@ -4,7 +4,7 @@
 
 ### July 8, 2023 to July 14, 2023
 
-15 commits.
+16 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `DropdownMenu` can be expanded to its parent size<br />
     <sub>[#129753](https://github.com/flutter/flutter/pull/129753) merged on July 11, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/129753) over 1 week, 183 additions and 84 deletions in 2 files</sub><br />
@@ -27,6 +27,10 @@
 * **[Darshan Rander](https://github.com/SirusCodes)** &mdash; fix: `ExpansionTileTheme.shape` assignment in `ExpansionTile`<br />
     <sub>[#127749](https://github.com/flutter/flutter/pull/127749) merged on July 11, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/127749) over 1 month, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Enable not GCed leak tracking.<br />
+    <sub>[#130159](https://github.com/flutter/flutter/pull/130159) merged on July 12, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/130159) over 4 days, 49 additions and 49 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker to 7.0.6.<br />
     <sub>[#130346](https://github.com/flutter/flutter/pull/130346) merged on July 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130346) over 1 hour, 4 additions and 4 deletions in 2 files</sub><br />
