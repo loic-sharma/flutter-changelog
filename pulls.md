@@ -26,9 +26,6 @@
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Refactor: updated segmented button<br />
     <sub>[#129215](https://github.com/flutter/flutter/pull/129215) opened on on June 20, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/129215) 402 additions and 112 deletions in 1 file</sub><br />
 
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; (WIP) Verify that making `useMaterial3:true` is safe<br />
-    <sub>[#129724](https://github.com/flutter/flutter/pull/129724) opened on on June 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129724) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [flutter_tools] build ios-frameworks: option to exclude plugin frameworks from the build<br />
     <sub>[#129739](https://github.com/flutter/flutter/pull/129739) opened on on June 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129739) 61 additions and 2 deletions in 2 files</sub><br />
 
