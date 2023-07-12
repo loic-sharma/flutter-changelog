@@ -62,6 +62,6 @@
 * **[Aakash Pamnani](https://github.com/aakash-pamnani)** &mdash; Paginated Data Table : Fixed Row number at fotter in last page & added missing parameters.<br />
     <sub>[#130389](https://github.com/flutter/flutter/pull/130389) opened on on July 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130389) 27 additions and 1 deletion in 1 file</sub><br />
 
-* **[mnguyen427](https://github.com/mnguyen427)** &mdash; Fix CLI build tool log output during build ipa --export-options-plist<br />
+* **[Michelle Nguyen](https://github.com/mnguyen427)** &mdash; Fix CLI build tool log output during build ipa --export-options-plist<br />
     <sub>[#130424](https://github.com/flutter/flutter/pull/130424) opened on on July 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130424) 2 additions and 2 deletions in 1 file</sub><br />
 
