@@ -71,3 +71,6 @@
 * **[mohnasaye](https://github.com/mohnasaye)** &mdash; Mohnasaye refactor  pod file<br />
     <sub>[#130449](https://github.com/flutter/flutter/pull/130449) opened on on July 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130449) 6 additions and 2 deletions in 2 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Document that you can't change initialRoute usefully<br />
+    <sub>[#130450](https://github.com/flutter/flutter/pull/130450) opened on on July 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130450) 8 additions and 0 deletions in 2 files</sub><br />
+
