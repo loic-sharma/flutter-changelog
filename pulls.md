@@ -21,7 +21,7 @@
     <sub>[#127479](https://github.com/flutter/flutter/pull/127479) opened on on May 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/127479) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; fix a Scrollbar example crash<br />
-    <sub>[#127925](https://github.com/flutter/flutter/pull/127925) opened on on May 31, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/127925) 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>[#127925](https://github.com/flutter/flutter/pull/127925) opened on on May 31, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/127925) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Refactor: updated segmented button<br />
     <sub>[#129215](https://github.com/flutter/flutter/pull/129215) opened on on June 20, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/129215) 402 additions and 112 deletions in 1 file</sub><br />
@@ -49,9 +49,6 @@
 
 * **[shirou](https://github.com/shirou)** &mdash; Add missing paramaters to PaginatedDataTable.<br />
     <sub>[#130226](https://github.com/flutter/flutter/pull/130226) opened on on July 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130226) 57 additions and 0 deletions in 1 file</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix finish translation for tab labels<br />
-    <sub>[#130333](https://github.com/flutter/flutter/pull/130333) opened on on July 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130333) 22 additions and 4 deletions in 6 files</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#130348](https://github.com/flutter/flutter/pull/130348) opened on on July 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130348) 2 additions and 2 deletions in 1 file</sub><br />
