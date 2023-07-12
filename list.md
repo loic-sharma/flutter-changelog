@@ -34,7 +34,7 @@
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `Divider`/`VerticalDivider` and theme tests for M2/M3
-    <sub>[#130415](https://github.com/flutter/flutter/pull/130415) merged on July 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130415) over 2 hours, 50 additions and 48 deletions in 2 files</sub>
+    <sub>[#130415](https://github.com/flutter/flutter/pull/130415) merged on July 12, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130415) over 2 hours, 50 additions and 48 deletions in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `RadioListTile` tests format for M2/M3
