@@ -68,3 +68,6 @@
 * **[Aakash Pamnani](https://github.com/aakash-pamnani)** &mdash; Paginated Data Table : Fixed Row number at fotter in last page & added missing parameters.<br />
     <sub>[#130389](https://github.com/flutter/flutter/pull/130389) opened on on July 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130389) 27 additions and 1 deletion in 1 file</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `DialogTheme` tests for M2/M3<br />
+    <sub>[#130414](https://github.com/flutter/flutter/pull/130414) opened on on July 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130414) 88 additions and 20 deletions in 1 file</sub><br />
+
