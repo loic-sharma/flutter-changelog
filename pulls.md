@@ -71,3 +71,6 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `DialogTheme` tests for M2/M3<br />
     <sub>[#130414](https://github.com/flutter/flutter/pull/130414) opened on on July 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130414) 88 additions and 20 deletions in 1 file</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `Divider`/`VerticalDivider` and theme tests for M2/M3<br />
+    <sub>[#130415](https://github.com/flutter/flutter/pull/130415) opened on on July 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130415) 50 additions and 48 deletions in 2 files</sub><br />
+
