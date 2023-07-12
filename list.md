@@ -4,7 +4,7 @@
 
 ### July 8, 2023 to July 14, 2023
 
-19 commits.
+20 commits.
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Make new issue template for 1P package
     <sub>[#130065](https://github.com/flutter/flutter/pull/130065) merged on July 12, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/130065) over 5 days, 222 additions and 0 deletions in 1 file</sub>
@@ -20,6 +20,10 @@
     <sub>[#129834](https://github.com/flutter/flutter/pull/129834) merged on July 11, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129834) over 1 week, 142 additions and 33 deletions in 4 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>3 images...</summary><img src="https://github.com/flutter/flutter/assets/48603081/808c9577-c6b4-465f-b9fe-100d422dd408" /><img src="https://github.com/flutter/flutter/assets/48603081/c9b3ee03-56d7-4220-94cf-06e235631714" /><img src="https://github.com/flutter/flutter/assets/48603081/43fab47b-25e8-4412-92d2-6d4868e43ff8"  /></details></sub>
+
+* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Use platform specific line separator in gen-l10n
+    <sub>[#130090](https://github.com/flutter/flutter/pull/130090) merged on July 12, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/130090) over 6 days, 64 additions and 15 deletions in 3 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Refactor refresh_indicator.1.dart to not use shrinkwrap
     <sub>[#129377](https://github.com/flutter/flutter/pull/129377) merged on July 11, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/129377) over 2 weeks, 24 additions and 11 deletions in 1 file</sub>
@@ -83,7 +87,7 @@
 
 * **[Rydmike](https://github.com/rydmike)** &mdash; Fix default icon color constants reversed brightness documentation
     <sub>[#130231](https://github.com/flutter/flutter/pull/130231) merged on July 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130231) over 20 hours, 2 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
 
 ### July 1, 2023 to July 7, 2023
 
@@ -199,11 +203,11 @@
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove unneeded configuration file 
     <sub>[#130183](https://github.com/flutter/flutter/pull/130183) merged on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130183) over 1 hour, 0 additions and 7 deletions in 1 file</sub>
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [keyonghan](https://github.com/keyonghan)</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [yusuf-goog](https://github.com/yusuf-goog)</sub>
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny one space formatting fix
     <sub>[#130053](https://github.com/flutter/flutter/pull/130053) merged on July 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/130053) over 1 day, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Tomasz Gucio](https://github.com/tgucio), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Tomasz Gucio](https://github.com/tgucio)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add debugging for iOS startup test flakes
     <sub>[#130099](https://github.com/flutter/flutter/pull/130099) merged on July 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130099) over 19 hours, 71 additions and 20 deletions in 3 files</sub>
@@ -215,7 +219,7 @@
 
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Revert "[a11y] CupertinoSwitch On/Off labels"
     <sub>[#130166](https://github.com/flutter/flutter/pull/130166) merged on July 7, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/130166) over 1 hour, 0 additions and 383 deletions in 4 files</sub>
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Justin McCandless](https://github.com/justinmc)</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Revert "fix a bug when android uses CupertinoPageTransitionsBuilder..."
     <sub>[#130144](https://github.com/flutter/flutter/pull/130144) merged on July 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130144) over 1 hour, 9 additions and 154 deletions in 3 files</sub>

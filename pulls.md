@@ -65,6 +65,3 @@
 * **[mnguyen427](https://github.com/mnguyen427)** &mdash; Fix CLI build tool log output during build ipa --export-options-plist<br />
     <sub>[#130424](https://github.com/flutter/flutter/pull/130424) opened on on July 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130424) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Correct a few import sortings<br />
-    <sub>[#130435](https://github.com/flutter/flutter/pull/130435) opened on on July 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130435) 2 additions and 2 deletions in 2 files</sub><br />
-
