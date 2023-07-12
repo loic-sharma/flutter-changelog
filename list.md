@@ -4,7 +4,7 @@
 
 ### July 8, 2023 to July 14, 2023
 
-18 commits.
+19 commits.
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Make new issue template for 1P package
     <sub>[#130065](https://github.com/flutter/flutter/pull/130065) merged on July 12, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/130065) over 5 days, 222 additions and 0 deletions in 1 file</sub>
@@ -32,6 +32,10 @@
 * **[Darshan Rander](https://github.com/SirusCodes)** &mdash; fix: `ExpansionTileTheme.shape` assignment in `ExpansionTile`
     <sub>[#127749](https://github.com/flutter/flutter/pull/127749) merged on July 11, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/127749) over 1 month, 2 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `Divider`/`VerticalDivider` and theme tests for M2/M3
+    <sub>[#130415](https://github.com/flutter/flutter/pull/130415) merged on July 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130415) over 2 hours, 50 additions and 48 deletions in 2 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `RadioListTile` tests format for M2/M3
     <sub>[#130391](https://github.com/flutter/flutter/pull/130391) merged on July 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130391) over 7 hours, 4 additions and 4 deletions in 1 file</sub>
@@ -470,7 +474,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [devicelab] Add platform view scroll benchmarks for Impeller on Android
     <sub>[#129455](https://github.com/flutter/flutter/pull/129455) merged on June 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129455) over 3 hours, 36 additions and 1 deletion in 4 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 </details>
 
