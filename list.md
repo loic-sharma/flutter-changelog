@@ -469,7 +469,7 @@
 
 ### July 8, 2023 to July 14, 2023
 
-20 commits.
+22 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Unconditionally cache swapchain msaa texture.
     <sub>[#43529](https://github.com/flutter/engine/pull/43529) merged on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43529) over 4 hours, 2 additions and 10 deletions in 1 file</sub>
@@ -498,6 +498,10 @@
     <sub>[#42555](https://github.com/flutter/engine/pull/42555) merged on July 10, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/42555) over 1 month, 27 additions and 0 deletions in 3 files</sub>
     <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell)</sub>
 
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Create a resource manager that batch deallocates resources on a dedicated thread.
+    <sub>[#43579](https://github.com/flutter/engine/pull/43579) merged on July 12, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/43579) over 2 hours, 370 additions and 51 deletions in 9 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[Jim Graham](https://github.com/flar)** &mdash; Use full 4x4 matrix transforms in TransformLayer
     <sub>[#43536](https://github.com/flutter/engine/pull/43536) merged on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43536) over 2 hours, 134 additions and 11 deletions in 11 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
@@ -509,6 +513,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix leak when switching channels
     <sub>[#41827](https://github.com/flutter/engine/pull/41827) merged on July 10, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/41827) over 2 months, 3 additions and 8 deletions in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Gustl22](https://github.com/Gustl22)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove un-actionable info log about validations.
+    <sub>[#43575](https://github.com/flutter/engine/pull/43575) merged on July 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/43575) over 5 hours, 0 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Release the mutex in the CanCreateConcurrentMessageLoop test before waking the latch
     <sub>[#43574](https://github.com/flutter/engine/pull/43574) merged on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43574) over 2 hours, 4 additions and 2 deletions in 1 file</sub>
