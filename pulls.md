@@ -95,3 +95,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Mention saveLayer in the CustomPainter docs.<br />
     <sub>[#130520](https://github.com/flutter/flutter/pull/130520) opened on on July 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130520) 17 additions and 0 deletions in 1 file</sub><br />
 
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add missing example links<br />
+    <sub>[#130521](https://github.com/flutter/flutter/pull/130521) opened on on July 13, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/130521) 198 additions and 114 deletions in 6 files</sub><br />
+
