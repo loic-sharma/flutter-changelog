@@ -81,7 +81,7 @@
     <sub>[#130465](https://github.com/flutter/flutter/pull/130465) opened on on July 13, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/130465) 316 additions and 4 deletions in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; ImageDecoration.lerp<br />
-    <sub>[#130483](https://github.com/flutter/flutter/pull/130483) opened on on July 13, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/130483) 471 additions and 58 deletions in 11 files</sub><br />
+    <sub>[#130483](https://github.com/flutter/flutter/pull/130483) opened on on July 13, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/130483) 471 additions and 58 deletions in 11 files</sub><br />
 
 * **[Seiya Kokushi](https://github.com/ronnnnn)** &mdash; Proposal to add barrier configs for showDatePicker, showTimePicker and showAboutDialog.<br />
     <sub>[#130484](https://github.com/flutter/flutter/pull/130484) opened on on July 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/130484) 526 additions and 8 deletions in 6 files</sub><br />
