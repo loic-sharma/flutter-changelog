@@ -71,3 +71,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Document that you can't change initialRoute usefully<br />
     <sub>[#130450](https://github.com/flutter/flutter/pull/130450) opened on on July 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130450) 8 additions and 0 deletions in 2 files</sub><br />
 
+* **[Gianluca Bettega](https://github.com/Macacoazul01)** &mdash; Improve customization of ExpandIcon, ExpansionPanel and ExpansionPanelList widgets.<br />
+    <sub>[#130462](https://github.com/flutter/flutter/pull/130462) opened on on July 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130462) 88 additions and 37 deletions in 2 files</sub><br />
+
