@@ -37,6 +37,10 @@
     <sub>[#129377](https://github.com/flutter/flutter/pull/129377) merged on July 11, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/129377) over 2 weeks, 24 additions and 11 deletions in 1 file</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Change the default for`ThemeData.useMaterial3` to true
+    <sub>[#129724](https://github.com/flutter/flutter/pull/129724) merged on July 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129724) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Print pretty error when xcodebuild fails due to missing simulator
     <sub>[#130286](https://github.com/flutter/flutter/pull/130286) merged on July 13, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/130286) over 2 days, 468 additions and 1 deletion in 6 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Christopher Fujino](https://github.com/christopherfujino)</sub>
@@ -49,10 +53,6 @@
     <sub>[#127749](https://github.com/flutter/flutter/pull/127749) merged on July 11, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/127749) over 1 month, 2 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Migrate web-only initialization APIs
-    <sub>[#129856](https://github.com/flutter/flutter/pull/129856) merged on July 13, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129856) over 1 week, 21 additions and 23 deletions in 8 files</sub>
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
-
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Refactor JSNumber.toDart and Object.toJS
     <sub>[#129436](https://github.com/flutter/flutter/pull/129436) merged on July 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/129436) over 2 weeks, 9 additions and 13 deletions in 3 files</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
@@ -61,13 +61,13 @@
     <sub>[#129652](https://github.com/flutter/flutter/pull/129652) merged on July 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/129652) over 2 weeks, 36 additions and 6 deletions in 3 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; Change the default for`ThemeData.useMaterial3` to true
-    <sub>[#129724](https://github.com/flutter/flutter/pull/129724) merged on July 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129724) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Migrate web-only initialization APIs
+    <sub>[#129856](https://github.com/flutter/flutter/pull/129856) merged on July 13, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129856) over 1 week, 21 additions and 23 deletions in 8 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.
     <sub>[#130507](https://github.com/flutter/flutter/pull/130507) merged on July 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130507) over 57 minutes, 6 additions and 8 deletions in 3 files</sub>
-    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jacob Richman](https://github.com/jacob314)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark leak in text_form_field_test.dart.
     <sub>[#130468](https://github.com/flutter/flutter/pull/130468) merged on July 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130468) over 15 hours, 5 additions and 1 deletion in 1 file</sub>
@@ -279,7 +279,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny one space formatting fix
     <sub>[#130053](https://github.com/flutter/flutter/pull/130053) merged on July 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/130053) over 1 day, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Tomasz Gucio](https://github.com/tgucio)</sub>
+    <sub>Reviewed by: [Tomasz Gucio](https://github.com/tgucio), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add debugging for iOS startup test flakes
     <sub>[#130099](https://github.com/flutter/flutter/pull/130099) merged on July 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130099) over 19 hours, 71 additions and 20 deletions in 3 files</sub>
@@ -467,7 +467,7 @@
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Fix `AnimatedList` & `AnimatedGrid` doesn't apply `MediaQuery` padding"
     <sub>[#129645](https://github.com/flutter/flutter/pull/129645) merged on June 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129645) over 18 hours, 7 additions and 169 deletions in 3 files</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Casey Hillers](https://github.com/CaseyHillers)</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove use of any
     <sub>[#129793](https://github.com/flutter/flutter/pull/129793) merged on June 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129793) over 40 minutes, 50 additions and 64 deletions in 1 file</sub>
@@ -550,7 +550,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [devicelab] Add platform view scroll benchmarks for Impeller on Android
     <sub>[#129455](https://github.com/flutter/flutter/pull/129455) merged on June 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129455) over 3 hours, 36 additions and 1 deletion in 4 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 </details>
 
