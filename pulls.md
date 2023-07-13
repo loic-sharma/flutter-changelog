@@ -48,7 +48,7 @@
     <sub>[#130226](https://github.com/flutter/flutter/pull/130226) opened on on July 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130226) 57 additions and 0 deletions in 1 file</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#130348](https://github.com/flutter/flutter/pull/130348) opened on on July 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130348) 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#130348](https://github.com/flutter/flutter/pull/130348) opened on on July 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130348) 0 additions and 0 deletions in 0 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; WIP - Maybe throw for constrained shrinkwrap<br />
     <sub>[#130363](https://github.com/flutter/flutter/pull/130363) opened on on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130363) 24 additions and 0 deletions in 1 file</sub><br />
@@ -91,7 +91,4 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Reland "Print pretty error when xcodebuild fails due to missing simulator #130286"<br />
     <sub>[#130506](https://github.com/flutter/flutter/pull/130506) opened on on July 13, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/130506) 468 additions and 1 deletion in 6 files</sub><br />
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.<br />
-    <sub>[#130507](https://github.com/flutter/flutter/pull/130507) opened on on July 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130507) 6 additions and 8 deletions in 3 files</sub><br />
 
