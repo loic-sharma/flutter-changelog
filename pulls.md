@@ -80,3 +80,6 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark leak in text_form_field_test.dart.<br />
     <sub>[#130468](https://github.com/flutter/flutter/pull/130468) opened on on July 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130468) 5 additions and 1 deletion in 1 file</sub><br />
 
+* **[huylg](https://github.com/huylg)** &mdash; Fix null data when integration test fail<br />
+    <sub>[#130475](https://github.com/flutter/flutter/pull/130475) opened on on July 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130475) 1 addition and 1 deletion in 1 file</sub><br />
+
