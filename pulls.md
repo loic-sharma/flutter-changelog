@@ -83,3 +83,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Roll Flutter Engine from 16e2ab7e986c to 1b1ccdd1f527 (13 revisions)"<br />
     <sub>[#130479](https://github.com/flutter/flutter/pull/130479) opened on on July 13, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130479) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; ImageDecoration.lerp<br />
+    <sub>[#130483](https://github.com/flutter/flutter/pull/130483) opened on on July 13, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/130483) 465 additions and 58 deletions in 11 files</sub><br />
+
