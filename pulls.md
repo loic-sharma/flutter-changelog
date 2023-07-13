@@ -84,5 +84,5 @@
     <sub>[#130484](https://github.com/flutter/flutter/pull/130484) opened on on July 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/130484) 526 additions and 8 deletions in 6 files</sub><br />
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Fix material date picker changing year behavior<br />
-    <sub>[#130486](https://github.com/flutter/flutter/pull/130486) opened on on July 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130486) 41 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#130486](https://github.com/flutter/flutter/pull/130486) opened on on July 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130486) 43 additions and 4 deletions in 3 files</sub><br />
 
