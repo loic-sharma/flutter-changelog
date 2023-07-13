@@ -80,9 +80,3 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; More documentation for MediaQuery and friends<br />
     <sub>[#130509](https://github.com/flutter/flutter/pull/130509) opened on on July 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130509) 21 additions and 5 deletions in 2 files</sub><br />
 
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add missing example links<br />
-    <sub>[#130521](https://github.com/flutter/flutter/pull/130521) opened on on July 13, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/130521) 198 additions and 114 deletions in 6 files</sub><br />
-
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add lint check to make sure samples are linked and have tests<br />
-    <sub>[#130523](https://github.com/flutter/flutter/pull/130523) opened on on July 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/130523) 677 additions and 3 deletions in 5 files</sub><br />
-
