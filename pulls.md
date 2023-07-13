@@ -92,3 +92,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Reland "Print pretty error when xcodebuild fails due to missing simulator #130286"<br />
     <sub>[#130506](https://github.com/flutter/flutter/pull/130506) opened on on July 13, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/130506) 468 additions and 1 deletion in 6 files</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.<br />
+    <sub>[#130507](https://github.com/flutter/flutter/pull/130507) opened on on July 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130507) 6 additions and 8 deletions in 3 files</sub><br />
+
