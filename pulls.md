@@ -83,3 +83,6 @@
 * **[huylg](https://github.com/huylg)** &mdash; Fix null data when integration test fail<br />
     <sub>[#130475](https://github.com/flutter/flutter/pull/130475) opened on on July 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/130475) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Roll Flutter Engine from 16e2ab7e986c to 1b1ccdd1f527 (13 revisions)"<br />
+    <sub>[#130479](https://github.com/flutter/flutter/pull/130479) opened on on July 13, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130479) 1 addition and 1 deletion in 1 file</sub><br />
+
