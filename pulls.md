@@ -35,12 +35,6 @@
 * **[杨加康](https://github.com/MeandNi)** &mdash; [flutter_tools] Add flutter create-local-engine-repo<br />
     <sub>[#129948](https://github.com/flutter/flutter/pull/129948) opened on on July 4, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/129948) 243 additions and 7 deletions in 4 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Always escape when writing pubspec.yaml's 'description' field.<br />
-    <sub>[#130096](https://github.com/flutter/flutter/pull/130096) opened on on July 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130096) 19 additions and 1 deletion in 2 files</sub><br />
-
-* **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] remove unnecessary awaits from flutter.js<br />
-    <sub>[#130204](https://github.com/flutter/flutter/pull/130204) opened on on July 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130204) 7 additions and 9 deletions in 1 file</sub><br />
-
 * **[shirou](https://github.com/shirou)** &mdash; Add missing paramaters to PaginatedDataTable.<br />
     <sub>[#130226](https://github.com/flutter/flutter/pull/130226) opened on on July 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130226) 57 additions and 0 deletions in 1 file</sub><br />
 
@@ -97,4 +91,7 @@
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add missing example links<br />
     <sub>[#130521](https://github.com/flutter/flutter/pull/130521) opened on on July 13, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/130521) 198 additions and 114 deletions in 6 files</sub><br />
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add lint check to make sure samples are linked and have tests<br />
+    <sub>[#130523](https://github.com/flutter/flutter/pull/130523) opened on on July 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/130523) 679 additions and 3 deletions in 5 files</sub><br />
 
