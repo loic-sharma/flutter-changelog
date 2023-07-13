@@ -89,6 +89,3 @@
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Fix material date picker changing year behavior<br />
     <sub>[#130486](https://github.com/flutter/flutter/pull/130486) opened on on July 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130486) 43 additions and 4 deletions in 3 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Reland "Print pretty error when xcodebuild fails due to missing simulator #130286"<br />
-    <sub>[#130506](https://github.com/flutter/flutter/pull/130506) opened on on July 13, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/130506) 468 additions and 1 deletion in 6 files</sub><br />
-
