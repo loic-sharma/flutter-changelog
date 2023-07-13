@@ -107,7 +107,7 @@
 
 * **[Gil Nobrega](https://github.com/gilnobrega)** &mdash;  Reland [a11y] CupertinoSwitch On/Off labels
     <sub>[#130173](https://github.com/flutter/flutter/pull/130173) merged on July 12, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/130173) over 4 days, 383 additions and 0 deletions in 4 files</sub>
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 ### July 1, 2023 to July 7, 2023
 
@@ -415,7 +415,7 @@
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Fix `AnimatedList` & `AnimatedGrid` doesn't apply `MediaQuery` padding"
     <sub>[#129645](https://github.com/flutter/flutter/pull/129645) merged on June 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129645) over 18 hours, 7 additions and 169 deletions in 3 files</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Casey Hillers](https://github.com/CaseyHillers)</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove use of any
     <sub>[#129793](https://github.com/flutter/flutter/pull/129793) merged on June 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129793) over 40 minutes, 50 additions and 64 deletions in 1 file</sub>
@@ -498,7 +498,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [devicelab] Add platform view scroll benchmarks for Impeller on Android
     <sub>[#129455](https://github.com/flutter/flutter/pull/129455) merged on June 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129455) over 3 hours, 36 additions and 1 deletion in 4 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 </details>
 
@@ -1027,7 +1027,7 @@
 
 ### July 8, 2023 to July 14, 2023
 
-23 commits.
+24 commits.
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [flutter_plugin_tools] Reimplements the excerpt system inline in the tool, rather than relying on a separate package.
     <sub>[#4417](https://github.com/flutter/packages/pull/4417) merged on July 11, 2023 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/4417) over 1 day, 747 additions and 1078 deletions in 45 files</sub>
@@ -1036,6 +1036,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Add some more documentation for RFW
     <sub>[#4349](https://github.com/flutter/packages/pull/4349) merged on July 12, 2023 &mdash; **Large:** [71 comments](https://github.com/flutter/packages/pull/4349) over 1 week, 1140 additions and 85 deletions in 10 files</sub>
     <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Restore RFW to 100% coverage
+    <sub>[#4355](https://github.com/flutter/packages/pull/4355) merged on July 13, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/packages/pull/4355) over 1 week, 262 additions and 51 deletions in 9 files</sub>
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [metrics_center] Remove Equatable dependency
     <sub>[#4444](https://github.com/flutter/packages/pull/4444) merged on July 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4444) over 22 hours, 7 additions and 10 deletions in 3 files</sub>
