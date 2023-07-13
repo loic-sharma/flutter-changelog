@@ -63,13 +63,10 @@
     <sub>[#130450](https://github.com/flutter/flutter/pull/130450) opened on on July 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130450) 8 additions and 0 deletions in 2 files</sub><br />
 
 * **[Gianluca Bettega](https://github.com/Macacoazul01)** &mdash; Improve customization of ExpandIcon, ExpansionPanel and ExpansionPanelList widgets.<br />
-    <sub>[#130462](https://github.com/flutter/flutter/pull/130462) opened on on July 13, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/130462) 1333 additions and 261 deletions in 5 files</sub><br />
+    <sub>[#130462](https://github.com/flutter/flutter/pull/130462) opened on on July 13, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/130462) 1281 additions and 261 deletions in 4 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Add tests for navigation_drawer_theme_test.dart <br />
     <sub>[#130465](https://github.com/flutter/flutter/pull/130465) opened on on July 13, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/130465) 313 additions and 4 deletions in 2 files</sub><br />
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; ImageDecoration.lerp<br />
-    <sub>[#130483](https://github.com/flutter/flutter/pull/130483) opened on on July 13, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/130483) 527 additions and 58 deletions in 11 files</sub><br />
 
 * **[Seiya Kokushi](https://github.com/ronnnnn)** &mdash; Proposal to add barrier configs for showDatePicker, showTimePicker and showAboutDialog.<br />
     <sub>[#130484](https://github.com/flutter/flutter/pull/130484) opened on on July 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/130484) 526 additions and 8 deletions in 6 files</sub><br />
@@ -82,4 +79,10 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add implementation advice to debugTypicalAncestorWidgetClass<br />
     <sub>[#130530](https://github.com/flutter/flutter/pull/130530) opened on on July 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130530) 16 additions and 3 deletions in 3 files</sub><br />
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [framework] Add Look Up to selection controls for iOS <br />
+    <sub>[#130532](https://github.com/flutter/flutter/pull/130532) opened on on July 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/130532) 605 additions and 143 deletions in 96 files</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; ImageDecoration.lerp<br />
+    <sub>[#130533](https://github.com/flutter/flutter/pull/130533) opened on on July 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/130533) 527 additions and 58 deletions in 11 files</sub><br />
 
