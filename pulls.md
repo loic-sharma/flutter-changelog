@@ -74,6 +74,9 @@
 * **[Gianluca Bettega](https://github.com/Macacoazul01)** &mdash; Improve customization of ExpandIcon, ExpansionPanel and ExpansionPanelList widgets.<br />
     <sub>[#130462](https://github.com/flutter/flutter/pull/130462) opened on on July 13, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/130462) 1333 additions and 261 deletions in 5 files</sub><br />
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `DropdownMenu`, `SnackBarTheme` and `Stepper` tests for M2/M3<br />
+    <sub>[#130464](https://github.com/flutter/flutter/pull/130464) opened on on July 13, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/130464) 317 additions and 45 deletions in 3 files</sub><br />
+
 * **[hangyu](https://github.com/hangyujin)** &mdash; Add tests for navigation_drawer_theme_test.dart <br />
     <sub>[#130465](https://github.com/flutter/flutter/pull/130465) opened on on July 13, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/130465) 316 additions and 4 deletions in 2 files</sub><br />
 
