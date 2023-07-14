@@ -92,6 +92,3 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; DO NOT SUBMIT2<br />
     <sub>[#130550](https://github.com/flutter/flutter/pull/130550) opened on on July 14, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/130550) 4595 additions and 534 deletions in 57 files</sub><br />
 
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use utf8.encode() instead of longer const Utf8Encoder.convert()<br />
-    <sub>[#130567](https://github.com/flutter/flutter/pull/130567) opened on on July 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130567) 25 additions and 37 deletions in 7 files</sub><br />
-
