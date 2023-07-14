@@ -95,3 +95,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Clarify the whole "CustomPainters default to Size.zero" thing.<br />
     <sub>[#130624](https://github.com/flutter/flutter/pull/130624) opened on on July 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130624) 6 additions and 4 deletions in 1 file</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Show overflow indicators for Wrap widget<br />
+    <sub>[#130628](https://github.com/flutter/flutter/pull/130628) opened on on July 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130628) 109 additions and 18 deletions in 3 files</sub><br />
+
