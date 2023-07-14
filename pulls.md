@@ -89,6 +89,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; DO NOT SUBMIT<br />
     <sub>[#130535](https://github.com/flutter/flutter/pull/130535) opened on on July 13, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/130535) 4593 additions and 532 deletions in 56 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark some leak-free tests.<br />
-    <sub>[#130543](https://github.com/flutter/flutter/pull/130543) opened on on July 14, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/130543) 201 additions and 188 deletions in 9 files</sub><br />
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Secure some leak-free code.<br />
+    <sub>[#130543](https://github.com/flutter/flutter/pull/130543) opened on on July 14, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/130543) 198 additions and 185 deletions in 9 files</sub><br />
 
