@@ -98,3 +98,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Show overflow indicators for Wrap widget<br />
     <sub>[#130628](https://github.com/flutter/flutter/pull/130628) opened on on July 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130628) 109 additions and 18 deletions in 3 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Update list of CoC contacts.<br />
+    <sub>[#130630](https://github.com/flutter/flutter/pull/130630) opened on on July 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130630) 1 addition and 1 deletion in 1 file</sub><br />
+
