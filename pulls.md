@@ -38,9 +38,6 @@
 * **[shirou](https://github.com/shirou)** &mdash; Add missing paramaters to PaginatedDataTable.<br />
     <sub>[#130226](https://github.com/flutter/flutter/pull/130226) opened on on July 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130226) 57 additions and 0 deletions in 1 file</sub><br />
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#130348](https://github.com/flutter/flutter/pull/130348) opened on on July 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130348) 0 additions and 0 deletions in 0 files</sub><br />
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; WIP - Maybe throw for constrained shrinkwrap<br />
     <sub>[#130363](https://github.com/flutter/flutter/pull/130363) opened on on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130363) 24 additions and 0 deletions in 1 file</sub><br />
 
@@ -91,4 +88,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; DO NOT SUBMIT2<br />
     <sub>[#130550](https://github.com/flutter/flutter/pull/130550) opened on on July 14, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/130550) 4595 additions and 534 deletions in 57 files</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused imports<br />
+    <sub>[#130603](https://github.com/flutter/flutter/pull/130603) opened on on July 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130603) 0 additions and 2 deletions in 1 file</sub><br />
 
