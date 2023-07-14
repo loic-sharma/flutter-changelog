@@ -84,8 +84,11 @@
     <sub>[#130532](https://github.com/flutter/flutter/pull/130532) opened on on July 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/130532) 605 additions and 143 deletions in 96 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; ImageDecoration.lerp<br />
-    <sub>[#130533](https://github.com/flutter/flutter/pull/130533) opened on on July 13, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/130533) 527 additions and 58 deletions in 11 files</sub><br />
+    <sub>[#130533](https://github.com/flutter/flutter/pull/130533) opened on on July 13, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/130533) 607 additions and 58 deletions in 11 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; DO NOT SUBMIT<br />
     <sub>[#130535](https://github.com/flutter/flutter/pull/130535) opened on on July 13, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/130535) 4593 additions and 532 deletions in 56 files</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark some leak-free tests.<br />
+    <sub>[#130543](https://github.com/flutter/flutter/pull/130543) opened on on July 14, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/130543) 201 additions and 188 deletions in 9 files</sub><br />
 
