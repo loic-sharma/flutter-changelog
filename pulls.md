@@ -92,6 +92,3 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; DO NOT SUBMIT2<br />
     <sub>[#130550](https://github.com/flutter/flutter/pull/130550) opened on on July 14, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/130550) 4595 additions and 534 deletions in 57 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `DatePicker` uses incorrect overlay color from `DatePickerTheme` and add missing tests<br />
-    <sub>[#130584](https://github.com/flutter/flutter/pull/130584) opened on on July 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130584) 264 additions and 1 deletion in 2 files</sub><br />
-
