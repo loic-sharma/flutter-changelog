@@ -111,7 +111,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.<br />
     <sub>[#130507](https://github.com/flutter/flutter/pull/130507) merged on July 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130507) over 57 minutes, 6 additions and 8 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jacob Richman](https://github.com/jacob314)</sub><br />
+    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark leak in text_form_field_test.dart.<br />
     <sub>[#130468](https://github.com/flutter/flutter/pull/130468) merged on July 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130468) over 15 hours, 5 additions and 1 deletion in 1 file</sub><br />
@@ -327,7 +327,7 @@
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove unneeded configuration file <br />
     <sub>[#130183](https://github.com/flutter/flutter/pull/130183) merged on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130183) over 1 hour, 0 additions and 7 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny one space formatting fix<br />
     <sub>[#130053](https://github.com/flutter/flutter/pull/130053) merged on July 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/130053) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
@@ -602,7 +602,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [devicelab] Add platform view scroll benchmarks for Impeller on Android<br />
     <sub>[#129455](https://github.com/flutter/flutter/pull/129455) merged on June 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129455) over 3 hours, 36 additions and 1 deletion in 4 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 </details>
 
