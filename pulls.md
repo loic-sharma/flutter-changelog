@@ -92,6 +92,3 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; DO NOT SUBMIT2<br />
     <sub>[#130550](https://github.com/flutter/flutter/pull/130550) opened on on July 14, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/130550) 4595 additions and 534 deletions in 57 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tacker and other packages.<br />
-    <sub>[#130585](https://github.com/flutter/flutter/pull/130585) opened on on July 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130585) 13 additions and 17 deletions in 5 files</sub><br />
-
