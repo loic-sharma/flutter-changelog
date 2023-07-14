@@ -95,11 +95,11 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; mark android impeller tests as bringup<br />
     <sub>[#130525](https://github.com/flutter/flutter/pull/130525) merged on July 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130525) over 1 minute, 4 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.<br />
     <sub>[#130507](https://github.com/flutter/flutter/pull/130507) merged on July 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130507) over 57 minutes, 6 additions and 8 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jacob Richman](https://github.com/jacob314)</sub><br />
+    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark leak in text_form_field_test.dart.<br />
     <sub>[#130468](https://github.com/flutter/flutter/pull/130468) merged on July 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130468) over 15 hours, 5 additions and 1 deletion in 1 file</sub><br />
@@ -311,11 +311,11 @@
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove unneeded configuration file <br />
     <sub>[#130183](https://github.com/flutter/flutter/pull/130183) merged on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130183) over 1 hour, 0 additions and 7 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [keyonghan](https://github.com/keyonghan)</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny one space formatting fix<br />
     <sub>[#130053](https://github.com/flutter/flutter/pull/130053) merged on July 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/130053) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Tomasz Gucio](https://github.com/tgucio), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Tomasz Gucio](https://github.com/tgucio)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add debugging for iOS startup test flakes<br />
     <sub>[#130099](https://github.com/flutter/flutter/pull/130099) merged on July 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130099) over 19 hours, 71 additions and 20 deletions in 3 files</sub><br />
@@ -327,7 +327,7 @@
 
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Revert "[a11y] CupertinoSwitch On/Off labels"<br />
     <sub>[#130166](https://github.com/flutter/flutter/pull/130166) merged on July 7, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/130166) over 1 hour, 0 additions and 383 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Revert "fix a bug when android uses CupertinoPageTransitionsBuilder..."<br />
     <sub>[#130144](https://github.com/flutter/flutter/pull/130144) merged on July 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130144) over 1 hour, 9 additions and 154 deletions in 3 files</sub><br />
@@ -1172,7 +1172,7 @@
 
 ### July 8, 2023 to July 14, 2023
 
-31 commits.
+32 commits.
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [flutter_plugin_tools] Reimplements the excerpt system inline in the tool, rather than relying on a separate package.<br />
     <sub>[#4417](https://github.com/flutter/packages/pull/4417) merged on July 11, 2023 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/4417) over 1 day, 747 additions and 1078 deletions in 45 files</sub><br />
@@ -1201,6 +1201,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Conditionalize color on `stdout`<br />
     <sub>[#4436](https://github.com/flutter/packages/pull/4436) merged on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4436) over 2 hours, 187 additions and 26 deletions in 35 files</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Zaldy Pagaduan Jr.](https://github.com/zopagaduanjr)** &mdash; [video_player] added iOS exception on incorrect asset path<br />
+    <sub>[#4318](https://github.com/flutter/packages/pull/4318) merged on July 14, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/4318) over 2 weeks, 24 additions and 6 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [xdg_directories] Remove `process` dependency<br />
     <sub>[#4460](https://github.com/flutter/packages/pull/4460) merged on July 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4460) over 7 hours, 66 additions and 35 deletions in 4 files</sub><br />
