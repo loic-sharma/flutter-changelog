@@ -92,6 +92,3 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; DO NOT SUBMIT2<br />
     <sub>[#130550](https://github.com/flutter/flutter/pull/130550) opened on on July 14, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/130550) 4595 additions and 534 deletions in 57 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix AppBar.title ignoring `SafeArea`<br />
-    <sub>[#130557](https://github.com/flutter/flutter/pull/130557) opened on on July 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130557) 55 additions and 33 deletions in 2 files</sub><br />
-
