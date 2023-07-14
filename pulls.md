@@ -89,6 +89,3 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; DO NOT SUBMIT2<br />
     <sub>[#130550](https://github.com/flutter/flutter/pull/130550) opened on on July 14, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/130550) 4595 additions and 534 deletions in 57 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused imports<br />
-    <sub>[#130603](https://github.com/flutter/flutter/pull/130603) opened on on July 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130603) 0 additions and 2 deletions in 1 file</sub><br />
-
