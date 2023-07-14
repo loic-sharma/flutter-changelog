@@ -107,7 +107,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; mark android impeller tests as bringup
     <sub>[#130525](https://github.com/flutter/flutter/pull/130525) merged on July 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130525) over 1 minute, 4 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.
     <sub>[#130507](https://github.com/flutter/flutter/pull/130507) merged on July 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130507) over 57 minutes, 6 additions and 8 deletions in 3 files</sub>
@@ -199,7 +199,7 @@
 
 * **[Gil Nobrega](https://github.com/gilnobrega)** &mdash;  Reland [a11y] CupertinoSwitch On/Off labels
     <sub>[#130173](https://github.com/flutter/flutter/pull/130173) merged on July 12, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/130173) over 4 days, 383 additions and 0 deletions in 4 files</sub>
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Update `DialogTheme` tests for M2/M3"
     <sub>[#130578](https://github.com/flutter/flutter/pull/130578) merged on July 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130578) over 1 minute, 20 additions and 88 deletions in 1 file</sub>
@@ -287,7 +287,7 @@
 
 * **[fabiancrx](https://github.com/fabiancrx)** &mdash; [flutter_tools] modify Skeleton template to use ListenableBuilder instead of AnimatedBuilder
     <sub>[#128810](https://github.com/flutter/flutter/pull/128810) merged on July 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/128810) over 3 weeks, 3 additions and 3 deletions in 1 file</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Myles Moylan](https://github.com/moylanm)** &mdash; Add simple unit tests for annotations.dart file
     <sub>[#128902](https://github.com/flutter/flutter/pull/128902) merged on July 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128902) over 2 weeks, 27 additions and 0 deletions in 1 file</sub>
@@ -1192,7 +1192,7 @@
 
 ### July 8, 2023 to July 14, 2023
 
-32 commits.
+33 commits.
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [flutter_plugin_tools] Reimplements the excerpt system inline in the tool, rather than relying on a separate package.
     <sub>[#4417](https://github.com/flutter/packages/pull/4417) merged on July 11, 2023 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/4417) over 1 day, 747 additions and 1078 deletions in 45 files</sub>
@@ -1201,6 +1201,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Add some more documentation for RFW
     <sub>[#4349](https://github.com/flutter/packages/pull/4349) merged on July 12, 2023 &mdash; **Large:** [71 comments](https://github.com/flutter/packages/pull/4349) over 1 week, 1140 additions and 85 deletions in 10 files</sub>
     <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [Tool] New tool to download android dependencies 
+    <sub>[#4408](https://github.com/flutter/packages/pull/4408) merged on July 14, 2023 &mdash; **Medium:** [17 comments](https://github.com/flutter/packages/pull/4408) over 6 days, 333 additions and 0 deletions in 4 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [John McCutchan](https://github.com/johnmccutchan), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Restore RFW to 100% coverage
     <sub>[#4355](https://github.com/flutter/packages/pull/4355) merged on July 13, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/packages/pull/4355) over 1 week, 262 additions and 51 deletions in 9 files</sub>
