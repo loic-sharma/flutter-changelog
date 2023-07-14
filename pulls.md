@@ -90,5 +90,5 @@
     <sub>[#130608](https://github.com/flutter/flutter/pull/130608) opened on on July 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130608) 13 additions and 17 deletions in 5 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Show overflow indicators for Wrap widget<br />
-    <sub>[#130628](https://github.com/flutter/flutter/pull/130628) opened on on July 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130628) 109 additions and 18 deletions in 3 files</sub><br />
+    <sub>[#130628](https://github.com/flutter/flutter/pull/130628) opened on on July 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130628) 114 additions and 20 deletions in 5 files</sub><br />
 
