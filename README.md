@@ -1292,7 +1292,7 @@
 
 ### July 8, 2023 to July 14, 2023
 
-36 commits.
+37 commits.
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [flutter_plugin_tools] Reimplements the excerpt system inline in the tool, rather than relying on a separate package.<br />
     <sub>[#4417](https://github.com/flutter/packages/pull/4417) merged on July 11, 2023 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/4417) over 1 day, 747 additions and 1078 deletions in 45 files</sub><br />
@@ -1301,6 +1301,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Add some more documentation for RFW<br />
     <sub>[#4349](https://github.com/flutter/packages/pull/4349) merged on July 12, 2023 &mdash; **Large:** [71 comments](https://github.com/flutter/packages/pull/4349) over 1 week, 1140 additions and 85 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Switch Android unit tests to LUCI<br />
+    <sub>[#4406](https://github.com/flutter/packages/pull/4406) merged on July 15, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/4406) over 1 week, 343 additions and 221 deletions in 39 files</sub><br />
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [Tool] New tool to download android dependencies <br />
     <sub>[#4408](https://github.com/flutter/packages/pull/4408) merged on July 14, 2023 &mdash; **Medium:** [17 comments](https://github.com/flutter/packages/pull/4408) over 6 days, 333 additions and 0 deletions in 4 files</sub><br />
@@ -1326,25 +1330,25 @@
     <sub>[#4436](https://github.com/flutter/packages/pull/4436) merged on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4436) over 2 hours, 187 additions and 26 deletions in 35 files</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Introduce LUCI versions of Linux desktop platform tests<br />
-    <sub>[#4223](https://github.com/flutter/packages/pull/4223) merged on July 15, 2023 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/4223) over 4 weeks, 83 additions and 0 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [xdg_directories] Remove `process` dependency<br />
+    <sub>[#4460](https://github.com/flutter/packages/pull/4460) merged on July 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4460) over 7 hours, 66 additions and 35 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Zaldy Pagaduan Jr.](https://github.com/zopagaduanjr)** &mdash; [video_player] added iOS exception on incorrect asset path<br />
     <sub>[#4318](https://github.com/flutter/packages/pull/4318) merged on July 14, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/4318) over 2 weeks, 24 additions and 6 deletions in 4 files</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [xdg_directories] Remove `process` dependency<br />
-    <sub>[#4460](https://github.com/flutter/packages/pull/4460) merged on July 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4460) over 7 hours, 66 additions and 35 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update Pigeon in Swift plugins<br />
+    <sub>[#4461](https://github.com/flutter/packages/pull/4461) merged on July 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4461) over 3 hours, 86 additions and 66 deletions in 19 files</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Introduce LUCI versions of Linux desktop platform tests<br />
+    <sub>[#4223](https://github.com/flutter/packages/pull/4223) merged on July 15, 2023 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/4223) over 4 weeks, 83 additions and 0 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
 
 * **[Raju Muliyashiya](https://github.com/raju8000)** &mdash; [file_selector_web] Listens to file input cancel event.<br />
     <sub>[#3683](https://github.com/flutter/packages/pull/3683) merged on July 12, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/3683) over 3 months, 71 additions and 8 deletions in 10 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub><br />
-
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update Pigeon in Swift plugins<br />
-    <sub>[#4461](https://github.com/flutter/packages/pull/4461) merged on July 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4461) over 3 hours, 86 additions and 66 deletions in 19 files</sub><br />
-    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] Roll dependancies to avoid error<br />
     <sub>[#4431](https://github.com/flutter/packages/pull/4431) merged on July 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4431) over 1 day, 12 additions and 7 deletions in 2 files</sub><br />
@@ -1392,10 +1396,6 @@
     <sub>[#4341](https://github.com/flutter/packages/pull/4341) merged on July 10, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/4341) over 1 week, 4 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
-* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_platform_interface] Adds url to `WebResourceError`<br />
-    <sub>[#4439](https://github.com/flutter/packages/pull/4439) merged on July 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4439) over 1 day, 9 additions and 1 deletion in 3 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
-
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [cross_file] Correct sorting of import starting with dot-slash<br />
     <sub>[#4449](https://github.com/flutter/packages/pull/4449) merged on July 12, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4449) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
@@ -1435,6 +1435,10 @@
 * **[Seolin](https://github.com/bisor0627)** &mdash; Fix Router Config Issues #4300 (go_router_builder/example) <br />
     <sub>[#4369](https://github.com/flutter/packages/pull/4369) merged on July 13, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/4369) over 1 week, 23 additions and 8 deletions in 4 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_platform_interface] Adds url to `WebResourceError`<br />
+    <sub>[#4439](https://github.com/flutter/packages/pull/4439) merged on July 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4439) over 1 day, 9 additions and 1 deletion in 3 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 796c8ef79279 to f468f3366c26 (2 revisions)<br />
     <sub>[#4456](https://github.com/flutter/packages/pull/4456) merged on July 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4456) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
