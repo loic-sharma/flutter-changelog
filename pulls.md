@@ -104,3 +104,6 @@
 * **[David Martos](https://github.com/davidmartos96)** &mdash; [flutter_tools] add preHotRestart callbacks<br />
     <sub>[#130662](https://github.com/flutter/flutter/pull/130662) opened on on July 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130662) 224 additions and 5 deletions in 9 files</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Move examples to `ListenableBuilder`<br />
+    <sub>[#130671](https://github.com/flutter/flutter/pull/130671) opened on on July 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130671) 10 additions and 10 deletions in 4 files</sub><br />
+
