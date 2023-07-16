@@ -60,7 +60,7 @@
     <sub>[#130450](https://github.com/flutter/flutter/pull/130450) opened on on July 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130450) 8 additions and 0 deletions in 2 files</sub><br />
 
 * **[Gianluca Bettega](https://github.com/Macacoazul01)** &mdash; Improve customization of ExpandIcon, ExpansionPanel and ExpansionPanelList widgets.<br />
-    <sub>[#130462](https://github.com/flutter/flutter/pull/130462) opened on on July 13, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/130462) 1281 additions and 261 deletions in 4 files</sub><br />
+    <sub>[#130462](https://github.com/flutter/flutter/pull/130462) opened on on July 13, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/130462) 1265 additions and 253 deletions in 4 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Add tests for navigation_drawer_theme_test.dart <br />
     <sub>[#130465](https://github.com/flutter/flutter/pull/130465) opened on on July 13, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/130465) 313 additions and 4 deletions in 2 files</sub><br />
