@@ -767,7 +767,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Optimizing performance by avoiding multiple GC operations caused by multiple surface destruction notifications
-    <sub>[#43587](https://github.com/flutter/engine/pull/43587) merged on July 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43587) over 3 days, 28 additions and 11 deletions in 2 files</sub>
+    <sub>[#43587](https://github.com/flutter/engine/pull/43587) merged on July 15, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43587) over 3 days, 28 additions and 11 deletions in 2 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Fix text scaling issues again, this time with perspective when a save layer is involved
