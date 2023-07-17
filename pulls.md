@@ -105,5 +105,5 @@
     <sub>[#130662](https://github.com/flutter/flutter/pull/130662) opened on on July 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130662) 224 additions and 5 deletions in 9 files</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix contradictory advice in "detach" docs; cut redundancy in "attach"<br />
-    <sub>[#130688](https://github.com/flutter/flutter/pull/130688) opened on on July 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130688) 15 additions and 18 deletions in 3 files</sub><br />
+    <sub>[#130688](https://github.com/flutter/flutter/pull/130688) opened on on July 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130688) 15 additions and 18 deletions in 3 files</sub><br />
 
