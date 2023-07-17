@@ -80,9 +80,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; ImageDecoration.lerp<br />
     <sub>[#130533](https://github.com/flutter/flutter/pull/130533) opened on on July 13, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/130533) 612 additions and 59 deletions in 11 files</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `TextSelectionTheme`, `ThemeData`, `TimePicker`, and `TimePickerTheme` tests for M2/M3<br />
-    <sub>[#130547](https://github.com/flutter/flutter/pull/130547) opened on on July 14, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/130547) 902 additions and 473 deletions in 5 files</sub><br />
-
 * **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Update Dockerfile<br />
     <sub>[#130607](https://github.com/flutter/flutter/pull/130607) opened on on July 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130607) 4 additions and 2 deletions in 1 file</sub><br />
 
@@ -102,7 +99,7 @@
     <sub>[#130662](https://github.com/flutter/flutter/pull/130662) opened on on July 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130662) 292 additions and 8 deletions in 10 files</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix contradictory advice in "detach" docs; cut redundancy in "attach"<br />
-    <sub>[#130688](https://github.com/flutter/flutter/pull/130688) opened on on July 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130688) 15 additions and 18 deletions in 3 files</sub><br />
+    <sub>[#130688](https://github.com/flutter/flutter/pull/130688) opened on on July 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130688) 18 additions and 33 deletions in 3 files</sub><br />
 
 * **[Sabin Neupane](https://github.com/sabin26)** &mdash; [DropdownMenu] Close menu after editing is complete<br />
     <sub>[#130710](https://github.com/flutter/flutter/pull/130710) opened on on July 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130710) 33 additions and 3 deletions in 2 files</sub><br />
