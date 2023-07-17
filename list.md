@@ -4,7 +4,7 @@
 
 ### July 15, 2023 to July 21, 2023
 
-4 commits.
+5 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `DatePicker` uses incorrect overlay color from `DatePickerTheme` and add missing tests
     <sub>[#130584](https://github.com/flutter/flutter/pull/130584) merged on July 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130584) over 2 days, 283 additions and 1 deletion in 2 files</sub>
@@ -22,6 +22,10 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `DropdownMenu`, `SnackBarTheme` and `Stepper` tests for M2/M3
     <sub>[#130464](https://github.com/flutter/flutter/pull/130464) merged on July 17, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/130464) over 4 days, 331 additions and 45 deletions in 3 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [Reland] - Update `DialogTheme` tests for M2/M3
+    <sub>[#130711](https://github.com/flutter/flutter/pull/130711) merged on July 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130711) over 1 hour, 88 additions and 20 deletions in 1 file</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 ### July 8, 2023 to July 14, 2023
 
