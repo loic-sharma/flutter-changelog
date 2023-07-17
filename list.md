@@ -4,7 +4,11 @@
 
 ### July 15, 2023 to July 21, 2023
 
-6 commits.
+7 commits.
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Stand-alone widget tree with multiple render trees to enable multi-view rendering
+    <sub>[#125003](https://github.com/flutter/flutter/pull/125003) merged on July 17, 2023 &mdash; **Extra large:** [132 comments](https://github.com/flutter/flutter/pull/125003) over 3 months, 4595 additions and 534 deletions in 57 files</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Tong Mu](https://github.com/dkwingsmt), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `DatePicker` uses incorrect overlay color from `DatePickerTheme` and add missing tests
     <sub>[#130584](https://github.com/flutter/flutter/pull/130584) merged on July 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130584) over 2 days, 283 additions and 1 deletion in 2 files</sub>
@@ -193,11 +197,11 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; mark android impeller tests as bringup
     <sub>[#130525](https://github.com/flutter/flutter/pull/130525) merged on July 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130525) over 1 minute, 4 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.
     <sub>[#130507](https://github.com/flutter/flutter/pull/130507) merged on July 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130507) over 57 minutes, 6 additions and 8 deletions in 3 files</sub>
-    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jacob Richman](https://github.com/jacob314)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Update labeler for recent changes
     <sub>[#130168](https://github.com/flutter/flutter/pull/130168) merged on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130168) over 3 days, 1 addition and 12 deletions in 1 file</sub>
@@ -379,7 +383,7 @@
 
 * **[fabiancrx](https://github.com/fabiancrx)** &mdash; [flutter_tools] modify Skeleton template to use ListenableBuilder instead of AnimatedBuilder
     <sub>[#128810](https://github.com/flutter/flutter/pull/128810) merged on July 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/128810) over 3 weeks, 3 additions and 3 deletions in 1 file</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Myles Moylan](https://github.com/moylanm)** &mdash; Add simple unit tests for annotations.dart file
     <sub>[#128902](https://github.com/flutter/flutter/pull/128902) merged on July 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128902) over 2 weeks, 27 additions and 0 deletions in 1 file</sub>
