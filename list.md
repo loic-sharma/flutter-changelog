@@ -43,13 +43,13 @@
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>3 images...</summary><img src="https://github.com/flutter/flutter/assets/48603081/808c9577-c6b4-465f-b9fe-100d422dd408" /><img src="https://github.com/flutter/flutter/assets/48603081/c9b3ee03-56d7-4220-94cf-06e235631714" /><img src="https://github.com/flutter/flutter/assets/48603081/43fab47b-25e8-4412-92d2-6d4868e43ff8"  /></details></sub>
 
-* **[gmackall](https://github.com/gmackall)** &mdash; Add an android migrator to upgrade minSdkVersions 16,17,18 to flutter.minSdkVersion
-    <sub>[#129729](https://github.com/flutter/flutter/pull/129729) merged on July 14, 2023 &mdash; **Medium:** [53 comments](https://github.com/flutter/flutter/pull/129729) over 2 weeks, 282 additions and 29 deletions in 5 files</sub>
-    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker)</sub>
-
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Change the default for`ThemeData.useMaterial3` to true
     <sub>[#129724](https://github.com/flutter/flutter/pull/129724) merged on July 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129724) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[gmackall](https://github.com/gmackall)** &mdash; Add an android migrator to upgrade minSdkVersions 16,17,18 to flutter.minSdkVersion
+    <sub>[#129729](https://github.com/flutter/flutter/pull/129729) merged on July 14, 2023 &mdash; **Medium:** [53 comments](https://github.com/flutter/flutter/pull/129729) over 2 weeks, 282 additions and 29 deletions in 5 files</sub>
+    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add Linux implementation of the platform view example
     <sub>[#123731](https://github.com/flutter/flutter/pull/123731) merged on July 11, 2023 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/123731) over 3 months, 429 additions and 1 deletion in 6 files</sub>
@@ -371,7 +371,7 @@
 
 * **[fabiancrx](https://github.com/fabiancrx)** &mdash; [flutter_tools] modify Skeleton template to use ListenableBuilder instead of AnimatedBuilder
     <sub>[#128810](https://github.com/flutter/flutter/pull/128810) merged on July 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/128810) over 3 weeks, 3 additions and 3 deletions in 1 file</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Myles Moylan](https://github.com/moylanm)** &mdash; Add simple unit tests for annotations.dart file
     <sub>[#128902](https://github.com/flutter/flutter/pull/128902) merged on July 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128902) over 2 weeks, 27 additions and 0 deletions in 1 file</sub>
@@ -411,11 +411,11 @@
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove unneeded configuration file 
     <sub>[#130183](https://github.com/flutter/flutter/pull/130183) merged on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130183) over 1 hour, 0 additions and 7 deletions in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [yusuf-goog](https://github.com/yusuf-goog)</sub>
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny one space formatting fix
     <sub>[#130053](https://github.com/flutter/flutter/pull/130053) merged on July 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/130053) over 1 day, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Tomasz Gucio](https://github.com/tgucio)</sub>
+    <sub>Reviewed by: [Tomasz Gucio](https://github.com/tgucio), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add debugging for iOS startup test flakes
     <sub>[#130099](https://github.com/flutter/flutter/pull/130099) merged on July 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130099) over 19 hours, 71 additions and 20 deletions in 3 files</sub>
@@ -427,7 +427,7 @@
 
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Revert "[a11y] CupertinoSwitch On/Off labels"
     <sub>[#130166](https://github.com/flutter/flutter/pull/130166) merged on July 7, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/130166) over 1 hour, 0 additions and 383 deletions in 4 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Casey Hillers](https://github.com/CaseyHillers)</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Revert "fix a bug when android uses CupertinoPageTransitionsBuilder..."
     <sub>[#130144](https://github.com/flutter/flutter/pull/130144) merged on July 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130144) over 1 hour, 9 additions and 154 deletions in 3 files</sub>
