@@ -887,9 +887,18 @@
 
 ## flutter/packages
 
+### July 15, 2023 to July 21, 2023
+
+1 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Adjust bot configurations<br />
+    <sub>[#4485](https://github.com/flutter/packages/pull/4485) merged on July 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4485) over 1 day, 85 additions and 26 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+
 ### July 8, 2023 to July 14, 2023
 
-37 commits.
+<details>
+<summary>37 commits...</summary>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [flutter_plugin_tools] Reimplements the excerpt system inline in the tool, rather than relying on a separate package.<br />
     <sub>[#4417](https://github.com/flutter/packages/pull/4417) merged on July 11, 2023 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/4417) over 1 day, 747 additions and 1078 deletions in 45 files</sub><br />
@@ -1040,6 +1049,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 796c8ef79279 to f468f3366c26 (2 revisions)<br />
     <sub>[#4456](https://github.com/flutter/packages/pull/4456) merged on July 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4456) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### July 1, 2023 to July 7, 2023
 
