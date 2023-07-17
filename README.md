@@ -423,7 +423,7 @@
 
 * **[fabiancrx](https://github.com/fabiancrx)** &mdash; [flutter_tools] modify Skeleton template to use ListenableBuilder instead of AnimatedBuilder<br />
     <sub>[#128810](https://github.com/flutter/flutter/pull/128810) merged on July 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/128810) over 3 weeks, 3 additions and 3 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Myles Moylan](https://github.com/moylanm)** &mdash; Add simple unit tests for annotations.dart file<br />
     <sub>[#128902](https://github.com/flutter/flutter/pull/128902) merged on July 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128902) over 2 weeks, 27 additions and 0 deletions in 1 file</sub><br />
@@ -953,7 +953,11 @@
 
 ### July 15, 2023 to July 21, 2023
 
-4 commits.
+5 commits.
+
+* **[Undefined](https://github.com/unknown-undefined)** &mdash; [video_player] fix: add missing isPlaybackLikelyToKeepUp check.<br />
+    <sub>[#3826](https://github.com/flutter/packages/pull/3826) merged on July 17, 2023 &mdash; **Small:** [52 comments](https://github.com/flutter/packages/pull/3826) over 2 months, 56 additions and 22 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hellohuanlin](https://github.com/hellohuanlin), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Add flash configuration for image capture<br />
     <sub>[#3800](https://github.com/flutter/packages/pull/3800) merged on July 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3800) over 2 months, 66 additions and 7 deletions in 5 files</sub><br />

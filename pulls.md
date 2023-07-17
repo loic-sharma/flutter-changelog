@@ -119,3 +119,6 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; Stabilize hybrid_android_views_integration_test rendering tree<br />
     <sub>[#130751](https://github.com/flutter/flutter/pull/130751) opened on on July 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130751) 24 additions and 7 deletions in 1 file</sub><br />
 
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [tools/ios_build_ipa] fallback to CFBundleName if CFBundleDisplayName is absent<br />
+    <sub>[#130752](https://github.com/flutter/flutter/pull/130752) opened on on July 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130752) 61 additions and 1 deletion in 3 files</sub><br />
+
