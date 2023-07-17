@@ -107,3 +107,6 @@
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix contradictory advice in "detach" docs; cut redundancy in "attach"<br />
     <sub>[#130688](https://github.com/flutter/flutter/pull/130688) opened on on July 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130688) 15 additions and 18 deletions in 3 files</sub><br />
 
+* **[Greg Price](https://github.com/gnprice)** &mdash; Make AbstractNode-derived docs more specific on RenderObject et al.<br />
+    <sub>[#130689](https://github.com/flutter/flutter/pull/130689) opened on on July 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130689) 44 additions and 32 deletions in 3 files</sub><br />
+
