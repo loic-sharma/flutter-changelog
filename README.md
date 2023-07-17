@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### July 15, 2023 to July 21, 2023
+
+1 commits.
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Clarify the whole "CustomPainters default to Size.zero" thing.<br />
+    <sub>[#130624](https://github.com/flutter/flutter/pull/130624) merged on July 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130624) over 2 days, 6 additions and 4 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
 ### July 8, 2023 to July 14, 2023
 
-66 commits.
+<details>
+<summary>66 commits...</summary>
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Make new issue template for 1P package<br />
     <sub>[#130065](https://github.com/flutter/flutter/pull/130065) merged on July 12, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/130065) over 5 days, 222 additions and 0 deletions in 1 file</sub><br />
@@ -247,7 +256,7 @@
 
 * **[Rydmike](https://github.com/rydmike)** &mdash; Fix default icon color constants reversed brightness documentation<br />
     <sub>[#130231](https://github.com/flutter/flutter/pull/130231) merged on July 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130231) over 20 hours, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Reland "Print pretty error when xcodebuild fails due to missing simulator #130286"<br />
     <sub>[#130506](https://github.com/flutter/flutter/pull/130506) merged on July 13, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/130506) over 2 hours, 468 additions and 1 deletion in 6 files</sub><br />
@@ -272,6 +281,8 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Roll Flutter Engine from 16e2ab7e986c to 1b1ccdd1f527 (13 revisions)"<br />
     <sub>[#130479](https://github.com/flutter/flutter/pull/130479) merged on July 13, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/130479) over 9 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+</details>
 
 ### July 1, 2023 to July 7, 2023
 
@@ -387,7 +398,7 @@
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove unneeded configuration file <br />
     <sub>[#130183](https://github.com/flutter/flutter/pull/130183) merged on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130183) over 1 hour, 0 additions and 7 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [keyonghan](https://github.com/keyonghan)</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny one space formatting fix<br />
     <sub>[#130053](https://github.com/flutter/flutter/pull/130053) merged on July 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/130053) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
