@@ -4,7 +4,7 @@
 
 ### July 15, 2023 to July 21, 2023
 
-13 commits.
+15 commits.
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Stand-alone widget tree with multiple render trees to enable multi-view rendering<br />
     <sub>[#125003](https://github.com/flutter/flutter/pull/125003) merged on July 17, 2023 &mdash; **Extra large:** [132 comments](https://github.com/flutter/flutter/pull/125003) over 3 months, 4595 additions and 534 deletions in 57 files</sub><br />
@@ -39,6 +39,10 @@
     <sub>[#125825](https://github.com/flutter/flutter/pull/125825) merged on July 17, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/125825) over 2 months, 51 additions and 52 deletions in 4 files</sub><br />
     <sub>Reviewed by: [gmackall](https://github.com/gmackall)</sub><br />
 
+* **[Greg Price](https://github.com/gnprice)** &mdash; Make AbstractNode-derived docs more specific on RenderObject et al.<br />
+    <sub>[#130689](https://github.com/flutter/flutter/pull/130689) merged on July 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130689) over 18 hours, 44 additions and 32 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Guard access to dart:developer with !kReleaseMode<br />
     <sub>[#130627](https://github.com/flutter/flutter/pull/130627) merged on July 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130627) over 2 days, 47 additions and 32 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
@@ -46,6 +50,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Skip the iteration in Layer._fireCompositionCallbacks if the callbacks map is empty<br />
     <sub>[#130438](https://github.com/flutter/flutter/pull/130438) merged on July 17, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/130438) over 4 days, 3 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add missing example links<br />
+    <sub>[#130521](https://github.com/flutter/flutter/pull/130521) merged on July 17, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/130521) over 3 days, 189 additions and 114 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `_RenderScaledInlineWidget` constrains child size<br />
     <sub>[#130648](https://github.com/flutter/flutter/pull/130648) merged on July 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130648) over 2 days, 18 additions and 1 deletion in 2 files</sub><br />
@@ -305,7 +313,7 @@
 
 * **[Rydmike](https://github.com/rydmike)** &mdash; Fix default icon color constants reversed brightness documentation<br />
     <sub>[#130231](https://github.com/flutter/flutter/pull/130231) merged on July 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130231) over 20 hours, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Reland "Print pretty error when xcodebuild fails due to missing simulator #130286"<br />
     <sub>[#130506](https://github.com/flutter/flutter/pull/130506) merged on July 13, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/130506) over 2 hours, 468 additions and 1 deletion in 6 files</sub><br />
@@ -317,7 +325,7 @@
 
 * **[Gil Nobrega](https://github.com/gilnobrega)** &mdash;  Reland [a11y] CupertinoSwitch On/Off labels<br />
     <sub>[#130173](https://github.com/flutter/flutter/pull/130173) merged on July 12, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/130173) over 4 days, 383 additions and 0 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Update `DialogTheme` tests for M2/M3"<br />
     <sub>[#130578](https://github.com/flutter/flutter/pull/130578) merged on July 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130578) over 1 minute, 20 additions and 88 deletions in 1 file</sub><br />

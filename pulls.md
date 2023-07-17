@@ -102,10 +102,10 @@
     <sub>[#130645](https://github.com/flutter/flutter/pull/130645) opened on on July 14, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/130645) 528 additions and 0 deletions in 2 files</sub><br />
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; [flutter_tools] add preHotRestart callbacks<br />
-    <sub>[#130662](https://github.com/flutter/flutter/pull/130662) opened on on July 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130662) 290 additions and 8 deletions in 10 files</sub><br />
+    <sub>[#130662](https://github.com/flutter/flutter/pull/130662) opened on on July 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130662) 292 additions and 8 deletions in 10 files</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix contradictory advice in "detach" docs; cut redundancy in "attach"<br />
-    <sub>[#130688](https://github.com/flutter/flutter/pull/130688) opened on on July 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130688) 15 additions and 18 deletions in 3 files</sub><br />
+    <sub>[#130688](https://github.com/flutter/flutter/pull/130688) opened on on July 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130688) 15 additions and 18 deletions in 3 files</sub><br />
 
 * **[Sabin Neupane](https://github.com/sabin26)** &mdash; [DropdownMenu] Close menu after editing is complete<br />
     <sub>[#130710](https://github.com/flutter/flutter/pull/130710) opened on on July 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130710) 33 additions and 3 deletions in 2 files</sub><br />
