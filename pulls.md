@@ -111,7 +111,7 @@
     <sub>[#130710](https://github.com/flutter/flutter/pull/130710) opened on on July 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130710) 33 additions and 3 deletions in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update SnackBar tests for M2/M3<br />
-    <sub>[#130717](https://github.com/flutter/flutter/pull/130717) opened on on July 17, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/130717) 619 additions and 52 deletions in 1 file</sub><br />
+    <sub>[#130717](https://github.com/flutter/flutter/pull/130717) opened on on July 17, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/130717) 625 additions and 52 deletions in 1 file</sub><br />
 
 * **[Milad Akarie](https://github.com/Milad-Akarie)** &mdash; Expose RenderColoredBox and RenderParagraph.textPainter<br />
     <sub>[#130730](https://github.com/flutter/flutter/pull/130730) opened on on July 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130730) 9 additions and 4 deletions in 2 files</sub><br />
