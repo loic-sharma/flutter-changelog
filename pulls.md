@@ -107,3 +107,6 @@
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix contradictory advice in "detach" docs; cut redundancy in "attach"<br />
     <sub>[#130688](https://github.com/flutter/flutter/pull/130688) opened on on July 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130688) 15 additions and 18 deletions in 3 files</sub><br />
 
+* **[Sabin Neupane](https://github.com/sabin26)** &mdash; Close dropdown menu <br />
+    <sub>[#130704](https://github.com/flutter/flutter/pull/130704) opened on on July 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130704) 33 additions and 3 deletions in 2 files</sub><br />
+
