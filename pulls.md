@@ -117,5 +117,5 @@
     <sub>[#130751](https://github.com/flutter/flutter/pull/130751) opened on on July 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130751) 24 additions and 7 deletions in 1 file</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [tools/ios_build_ipa] fallback to CFBundleName if CFBundleDisplayName is absent<br />
-    <sub>[#130752](https://github.com/flutter/flutter/pull/130752) opened on on July 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130752) 61 additions and 1 deletion in 3 files</sub><br />
+    <sub>[#130752](https://github.com/flutter/flutter/pull/130752) opened on on July 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130752) 61 additions and 1 deletion in 3 files</sub><br />
 
