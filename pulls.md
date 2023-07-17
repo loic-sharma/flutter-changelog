@@ -72,7 +72,7 @@
     <sub>[#130486](https://github.com/flutter/flutter/pull/130486) opened on on July 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130486) 43 additions and 4 deletions in 3 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; More documentation for MediaQuery and friends<br />
-    <sub>[#130509](https://github.com/flutter/flutter/pull/130509) opened on on July 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130509) 21 additions and 5 deletions in 2 files</sub><br />
+    <sub>[#130509](https://github.com/flutter/flutter/pull/130509) opened on on July 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130509) 21 additions and 5 deletions in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add implementation advice to debugTypicalAncestorWidgetClass<br />
     <sub>[#130530](https://github.com/flutter/flutter/pull/130530) opened on on July 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130530) 16 additions and 3 deletions in 3 files</sub><br />
