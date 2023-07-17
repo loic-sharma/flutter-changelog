@@ -113,3 +113,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update SnackBar tests for M2/M3<br />
     <sub>[#130717](https://github.com/flutter/flutter/pull/130717) opened on on July 17, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/130717) 619 additions and 52 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix IconButton leaks its internal MaterialStatesController<br />
+    <sub>[#130720](https://github.com/flutter/flutter/pull/130720) opened on on July 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130720) 69 additions and 11 deletions in 2 files</sub><br />
+
