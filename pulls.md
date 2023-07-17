@@ -84,7 +84,7 @@
     <sub>[#130533](https://github.com/flutter/flutter/pull/130533) opened on on July 13, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/130533) 612 additions and 59 deletions in 11 files</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `TextSelectionTheme`, `ThemeData`, `TimePicker`, and `TimePickerTheme` tests for M2/M3<br />
-    <sub>[#130547](https://github.com/flutter/flutter/pull/130547) opened on on July 14, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/130547) 891 additions and 473 deletions in 5 files</sub><br />
+    <sub>[#130547](https://github.com/flutter/flutter/pull/130547) opened on on July 14, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/130547) 902 additions and 473 deletions in 5 files</sub><br />
 
 * **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Update Dockerfile<br />
     <sub>[#130607](https://github.com/flutter/flutter/pull/130607) opened on on July 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130607) 4 additions and 2 deletions in 1 file</sub><br />
@@ -112,4 +112,7 @@
 
 * **[Milad Akarie](https://github.com/Milad-Akarie)** &mdash; Expose RenderColoredBox and RenderParagraph.textPainter<br />
     <sub>[#130730](https://github.com/flutter/flutter/pull/130730) opened on on July 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130730) 9 additions and 4 deletions in 2 files</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Catch errors in loadStructuredData<br />
+    <sub>[#130748](https://github.com/flutter/flutter/pull/130748) opened on on July 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130748) 78 additions and 62 deletions in 3 files</sub><br />
 
