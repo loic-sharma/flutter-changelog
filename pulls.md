@@ -110,3 +110,6 @@
 * **[Sabin Neupane](https://github.com/sabin26)** &mdash; [DropdownMenu] Close menu after editing is complete<br />
     <sub>[#130710](https://github.com/flutter/flutter/pull/130710) opened on on July 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130710) 33 additions and 3 deletions in 2 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update SnackBar tests for M2/M3<br />
+    <sub>[#130717](https://github.com/flutter/flutter/pull/130717) opened on on July 17, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/130717) 619 additions and 52 deletions in 1 file</sub><br />
+
