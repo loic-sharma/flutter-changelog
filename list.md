@@ -104,7 +104,7 @@
     <sub><details><summary>3 images...</summary><img src="https://github.com/flutter/flutter/assets/48603081/808c9577-c6b4-465f-b9fe-100d422dd408" /><img src="https://github.com/flutter/flutter/assets/48603081/c9b3ee03-56d7-4220-94cf-06e235631714" /><img src="https://github.com/flutter/flutter/assets/48603081/43fab47b-25e8-4412-92d2-6d4868e43ff8"  /></details></sub>
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Change the default for`ThemeData.useMaterial3` to true
-    <sub>[#129724](https://github.com/flutter/flutter/pull/129724) merged on July 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/129724) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
+    <sub>[#129724](https://github.com/flutter/flutter/pull/129724) merged on July 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/129724) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[gmackall](https://github.com/gmackall)** &mdash; Add an android migrator to upgrade minSdkVersions 16,17,18 to flutter.minSdkVersion
@@ -249,7 +249,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.
     <sub>[#130507](https://github.com/flutter/flutter/pull/130507) merged on July 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130507) over 57 minutes, 6 additions and 8 deletions in 3 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jacob Richman](https://github.com/jacob314)</sub>
+    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Update labeler for recent changes
     <sub>[#130168](https://github.com/flutter/flutter/pull/130168) merged on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130168) over 3 days, 1 addition and 12 deletions in 1 file</sub>
@@ -969,7 +969,7 @@
 
 ### July 15, 2023 to July 21, 2023
 
-7 commits.
+8 commits.
 
 * **[Undefined](https://github.com/unknown-undefined)** &mdash; [video_player] fix: add missing isPlaybackLikelyToKeepUp check.
     <sub>[#3826](https://github.com/flutter/packages/pull/3826) merged on July 17, 2023 &mdash; **Small:** [52 comments](https://github.com/flutter/packages/pull/3826) over 2 months, 56 additions and 22 deletions in 4 files</sub>
@@ -986,6 +986,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Add flash configuration for image capture
     <sub>[#3800](https://github.com/flutter/packages/pull/3800) merged on July 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3800) over 2 months, 66 additions and 7 deletions in 5 files</sub>
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Enable Android emulator tests in CI
+    <sub>[#4484](https://github.com/flutter/packages/pull/4484) merged on July 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4484) over 1 day, 10 additions and 10 deletions in 2 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Remove `equatable` and `xml` allowances
     <sub>[#4489](https://github.com/flutter/packages/pull/4489) merged on July 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4489) over 23 hours, 0 additions and 7 deletions in 2 files</sub>
