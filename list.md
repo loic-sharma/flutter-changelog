@@ -534,7 +534,7 @@
 
 ### July 15, 2023 to July 21, 2023
 
-8 commits.
+9 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Correct coverage hint usage in PipelineBlend
     <sub>[#43708](https://github.com/flutter/engine/pull/43708) merged on July 17, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/43708) over 2 days, 62 additions and 24 deletions in 2 files</sub>
@@ -544,6 +544,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Move Dart licenses into a separate golden file
     <sub>[#43289](https://github.com/flutter/engine/pull/43289) merged on July 17, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/43289) over 2 weeks, 4838 additions and 4527 deletions in 5 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jia Hao](https://github.com/jiahaog)** &mdash; Minor fixes for C++20 compatibility
+    <sub>[#43674](https://github.com/flutter/engine/pull/43674) merged on July 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43674) over 3 days, 8 additions and 7 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add a GN flag to set the Dart VM's optimization level
     <sub>[#43743](https://github.com/flutter/engine/pull/43743) merged on July 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43743) over 7 hours, 11 additions and 0 deletions in 1 file</sub>
