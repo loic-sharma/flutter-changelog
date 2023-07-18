@@ -72,16 +72,13 @@
     <sub>[#130530](https://github.com/flutter/flutter/pull/130530) opened on on July 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130530) 16 additions and 3 deletions in 3 files</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [framework] Add Look Up to selection controls for iOS <br />
-    <sub>[#130532](https://github.com/flutter/flutter/pull/130532) opened on on July 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/130532) 605 additions and 143 deletions in 96 files</sub><br />
+    <sub>[#130532](https://github.com/flutter/flutter/pull/130532) opened on on July 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/130532) 997 additions and 220 deletions in 175 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; ImageDecoration.lerp<br />
     <sub>[#130533](https://github.com/flutter/flutter/pull/130533) opened on on July 13, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/130533) 612 additions and 59 deletions in 11 files</sub><br />
 
 * **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Update Dockerfile<br />
     <sub>[#130607](https://github.com/flutter/flutter/pull/130607) opened on on July 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130607) 4 additions and 2 deletions in 1 file</sub><br />
-
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#130608](https://github.com/flutter/flutter/pull/130608) opened on on July 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130608) 13 additions and 17 deletions in 5 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Show overflow indicators for Wrap widget<br />
     <sub>[#130628](https://github.com/flutter/flutter/pull/130628) opened on on July 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130628) 222 additions and 33 deletions in 7 files</sub><br />
