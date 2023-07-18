@@ -50,9 +50,6 @@
 * **[Michelle Nguyen](https://github.com/mnguyen427)** &mdash; Fix CLI build tool log output during build ipa --export-options-plist<br />
     <sub>[#130424](https://github.com/flutter/flutter/pull/130424) opened on on July 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130424) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Document that you can't change initialRoute usefully<br />
-    <sub>[#130450](https://github.com/flutter/flutter/pull/130450) opened on on July 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130450) 8 additions and 0 deletions in 2 files</sub><br />
-
 * **[Gianluca Bettega](https://github.com/Macacoazul01)** &mdash; Improve customization of ExpandIcon, ExpansionPanel and ExpansionPanelList widgets.<br />
     <sub>[#130462](https://github.com/flutter/flutter/pull/130462) opened on on July 13, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/130462) 1265 additions and 253 deletions in 4 files</sub><br />
 
@@ -67,12 +64,6 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; More documentation for MediaQuery and friends<br />
     <sub>[#130509](https://github.com/flutter/flutter/pull/130509) opened on on July 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130509) 21 additions and 5 deletions in 2 files</sub><br />
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Add implementation advice to debugTypicalAncestorWidgetClass<br />
-    <sub>[#130530](https://github.com/flutter/flutter/pull/130530) opened on on July 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130530) 16 additions and 3 deletions in 3 files</sub><br />
-
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [framework] Add Look Up to selection controls for iOS <br />
-    <sub>[#130532](https://github.com/flutter/flutter/pull/130532) opened on on July 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/130532) 997 additions and 220 deletions in 175 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; ImageDecoration.lerp<br />
     <sub>[#130533](https://github.com/flutter/flutter/pull/130533) opened on on July 13, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/130533) 612 additions and 59 deletions in 11 files</sub><br />
@@ -96,7 +87,7 @@
     <sub>[#130710](https://github.com/flutter/flutter/pull/130710) opened on on July 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130710) 33 additions and 3 deletions in 2 files</sub><br />
 
 * **[Milad Akarie](https://github.com/Milad-Akarie)** &mdash; Expose RenderColoredBox and RenderParagraph.textPainter<br />
-    <sub>[#130730](https://github.com/flutter/flutter/pull/130730) opened on on July 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130730) 9 additions and 4 deletions in 2 files</sub><br />
+    <sub>[#130730](https://github.com/flutter/flutter/pull/130730) opened on on July 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130730) 9 additions and 4 deletions in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Catch errors in loadStructuredData<br />
     <sub>[#130748](https://github.com/flutter/flutter/pull/130748) opened on on July 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130748) 78 additions and 62 deletions in 3 files</sub><br />
