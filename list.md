@@ -4,7 +4,7 @@
 
 ### July 15, 2023 to July 21, 2023
 
-21 commits.
+22 commits.
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Stand-alone widget tree with multiple render trees to enable multi-view rendering
     <sub>[#125003](https://github.com/flutter/flutter/pull/125003) merged on July 17, 2023 &mdash; **Extra large:** [132 comments](https://github.com/flutter/flutter/pull/125003) over 3 months, 4595 additions and 534 deletions in 57 files</sub>
@@ -42,6 +42,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update to valid build tools variant and update lockfiles
     <sub>[#125825](https://github.com/flutter/flutter/pull/125825) merged on July 17, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/125825) over 2 months, 51 additions and 52 deletions in 4 files</sub>
     <sub>Reviewed by: [gmackall](https://github.com/gmackall)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Stabilize hybrid_android_views_integration_test rendering tree
+    <sub>[#130751](https://github.com/flutter/flutter/pull/130751) merged on July 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130751) over 3 hours, 24 additions and 7 deletions in 1 file</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Resolve TODOs in channels integration test
     <sub>[#130745](https://github.com/flutter/flutter/pull/130745) merged on July 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130745) over 1 hour, 0 additions and 7 deletions in 1 file</sub>
