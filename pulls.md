@@ -110,3 +110,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update app_builder_test.dart for M3<br />
     <sub>[#130794](https://github.com/flutter/flutter/pull/130794) opened on on July 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130794) 0 additions and 10 deletions in 1 file</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Can traverse if current focused node skips traversal<br />
+    <sub>[#130812](https://github.com/flutter/flutter/pull/130812) opened on on July 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130812) 112 additions and 11 deletions in 4 files</sub><br />
+
