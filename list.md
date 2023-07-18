@@ -298,7 +298,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; mark android impeller tests as bringup
     <sub>[#130525](https://github.com/flutter/flutter/pull/130525) merged on July 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130525) over 1 minute, 4 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.
     <sub>[#130507](https://github.com/flutter/flutter/pull/130507) merged on July 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130507) over 57 minutes, 6 additions and 8 deletions in 3 files</sub>
@@ -394,7 +394,7 @@
 
 * **[Gil Nobrega](https://github.com/gilnobrega)** &mdash;  Reland [a11y] CupertinoSwitch On/Off labels
     <sub>[#130173](https://github.com/flutter/flutter/pull/130173) merged on July 12, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/130173) over 4 days, 383 additions and 0 deletions in 4 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Update `DialogTheme` tests for M2/M3"
     <sub>[#130578](https://github.com/flutter/flutter/pull/130578) merged on July 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130578) over 1 minute, 20 additions and 88 deletions in 1 file</sub>
@@ -1058,7 +1058,7 @@
 
 ### July 15, 2023 to July 21, 2023
 
-10 commits.
+11 commits.
 
 * **[Undefined](https://github.com/unknown-undefined)** &mdash; [video_player] fix: add missing isPlaybackLikelyToKeepUp check.
     <sub>[#3826](https://github.com/flutter/packages/pull/3826) merged on July 17, 2023 &mdash; **Small:** [52 comments](https://github.com/flutter/packages/pull/3826) over 2 months, 56 additions and 22 deletions in 4 files</sub>
@@ -1067,6 +1067,10 @@
 * **[Jakub Turek](https://github.com/turekj)** &mdash; [video_player] Fix iOS crash with multiple players
     <sub>[#4202](https://github.com/flutter/packages/pull/4202) merged on July 18, 2023 &mdash; **Small:** [28 comments](https://github.com/flutter/packages/pull/4202) over 1 month, 121 additions and 1 deletion in 4 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Fixes relistening to `onStreamedFrameAvailable`'s stream behavior
+    <sub>[#4511](https://github.com/flutter/packages/pull/4511) merged on July 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4511) over 2 hours, 58 additions and 11 deletions in 4 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[James Leahy](https://github.com/defuncart)** &mdash; [video_player] Add optional web options [Platform interface]
     <sub>[#4433](https://github.com/flutter/packages/pull/4433) merged on July 17, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/4433) over 6 days, 217 additions and 4 deletions in 6 files</sub>
