@@ -110,3 +110,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Catch errors in loadStructuredData<br />
     <sub>[#130748](https://github.com/flutter/flutter/pull/130748) opened on on July 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130748) 78 additions and 62 deletions in 3 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Further clarify Stack documentation on overflowing<br />
+    <sub>[#130776](https://github.com/flutter/flutter/pull/130776) opened on on July 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130776) 7 additions and 5 deletions in 1 file</sub><br />
+
