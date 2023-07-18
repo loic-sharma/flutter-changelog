@@ -4,7 +4,7 @@
 
 ### July 15, 2023 to July 21, 2023
 
-22 commits.
+23 commits.
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Stand-alone widget tree with multiple render trees to enable multi-view rendering<br />
     <sub>[#125003](https://github.com/flutter/flutter/pull/125003) merged on July 17, 2023 &mdash; **Extra large:** [132 comments](https://github.com/flutter/flutter/pull/125003) over 3 months, 4595 additions and 534 deletions in 57 files</sub><br />
@@ -26,6 +26,10 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [tools/ios_build_ipa] fallback to CFBundleName if CFBundleDisplayName is absent<br />
     <sub>[#130752](https://github.com/flutter/flutter/pull/130752) merged on July 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130752) over 1 hour, 61 additions and 1 deletion in 3 files</sub><br />
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Document stack's clipping behaviour better<br />
+    <sub>[#130749](https://github.com/flutter/flutter/pull/130749) merged on July 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130749) over 6 hours, 19 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Clarify the whole "CustomPainters default to Size.zero" thing.<br />
     <sub>[#130624](https://github.com/flutter/flutter/pull/130624) merged on July 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130624) over 2 days, 6 additions and 4 deletions in 1 file</sub><br />
