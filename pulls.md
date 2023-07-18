@@ -113,3 +113,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Further clarify Stack documentation on overflowing<br />
     <sub>[#130776](https://github.com/flutter/flutter/pull/130776) opened on on July 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130776) 7 additions and 5 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update app tests for M3<br />
+    <sub>[#130792](https://github.com/flutter/flutter/pull/130792) opened on on July 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130792) 70 additions and 70 deletions in 1 file</sub><br />
+
