@@ -398,7 +398,7 @@
 
 * **[Gil Nobrega](https://github.com/gilnobrega)** &mdash;  Reland [a11y] CupertinoSwitch On/Off labels<br />
     <sub>[#130173](https://github.com/flutter/flutter/pull/130173) merged on July 12, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/130173) over 4 days, 383 additions and 0 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Update `DialogTheme` tests for M2/M3"<br />
     <sub>[#130578](https://github.com/flutter/flutter/pull/130578) merged on July 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130578) over 1 minute, 20 additions and 88 deletions in 1 file</sub><br />
@@ -528,7 +528,7 @@
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove unneeded configuration file <br />
     <sub>[#130183](https://github.com/flutter/flutter/pull/130183) merged on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130183) over 1 hour, 0 additions and 7 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [keyonghan](https://github.com/keyonghan)</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny one space formatting fix<br />
     <sub>[#130053](https://github.com/flutter/flutter/pull/130053) merged on July 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/130053) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
@@ -544,7 +544,7 @@
 
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Revert "[a11y] CupertinoSwitch On/Off labels"<br />
     <sub>[#130166](https://github.com/flutter/flutter/pull/130166) merged on July 7, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/130166) over 1 hour, 0 additions and 383 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Revert "fix a bug when android uses CupertinoPageTransitionsBuilder..."<br />
     <sub>[#130144](https://github.com/flutter/flutter/pull/130144) merged on July 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130144) over 1 hour, 9 additions and 154 deletions in 3 files</sub><br />
@@ -575,7 +575,7 @@
 
 ### July 15, 2023 to July 21, 2023
 
-15 commits.
+16 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Correct coverage hint usage in PipelineBlend<br />
     <sub>[#43708](https://github.com/flutter/engine/pull/43708) merged on July 17, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/43708) over 2 days, 62 additions and 24 deletions in 2 files</sub><br />
@@ -605,6 +605,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Remove accessibility bridge helpers from the engine<br />
     <sub>[#43710](https://github.com/flutter/engine/pull/43710) merged on July 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43710) over 2 days, 27 additions and 39 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix GL_NUM_EXTENSIONS check for desktop GL<br />
+    <sub>[#43785](https://github.com/flutter/engine/pull/43785) merged on July 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43785) over 1 hour, 15 additions and 14 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] sync => isSync , scuba => golden<br />
     <sub>[#43699](https://github.com/flutter/engine/pull/43699) merged on July 18, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/43699) over 3 days, 43 additions and 52 deletions in 14 files</sub><br />
