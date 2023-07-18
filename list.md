@@ -28,7 +28,7 @@
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Document stack's clipping behaviour better
-    <sub>[#130749](https://github.com/flutter/flutter/pull/130749) merged on July 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130749) over 6 hours, 19 additions and 1 deletion in 2 files</sub>
+    <sub>[#130749](https://github.com/flutter/flutter/pull/130749) merged on July 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130749) over 6 hours, 19 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Clarify the whole "CustomPainters default to Size.zero" thing.
