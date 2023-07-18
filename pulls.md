@@ -38,9 +38,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; WIP - Maybe throw for constrained shrinkwrap<br />
     <sub>[#130363](https://github.com/flutter/flutter/pull/130363) opened on on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130363) 24 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Automatically create the layer when setting hints in PaintingContext<br />
-    <sub>[#130364](https://github.com/flutter/flutter/pull/130364) opened on on July 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130364) 50 additions and 2 deletions in 2 files</sub><br />
-
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny remove outdated comments<br />
     <sub>[#130387](https://github.com/flutter/flutter/pull/130387) opened on on July 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130387) 0 additions and 2 deletions in 1 file</sub><br />
 
@@ -80,18 +77,9 @@
 * **[David Martos](https://github.com/davidmartos96)** &mdash; [flutter_tools] add preHotRestart callbacks<br />
     <sub>[#130662](https://github.com/flutter/flutter/pull/130662) opened on on July 15, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/130662) 350 additions and 35 deletions in 10 files</sub><br />
 
-* **[Greg Price](https://github.com/gnprice)** &mdash; Fix contradictory advice in "detach" docs; cut redundancy in "attach"<br />
-    <sub>[#130688](https://github.com/flutter/flutter/pull/130688) opened on on July 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130688) 18 additions and 33 deletions in 3 files</sub><br />
-
 * **[Sabin Neupane](https://github.com/sabin26)** &mdash; [DropdownMenu] Close menu after editing is complete<br />
     <sub>[#130710](https://github.com/flutter/flutter/pull/130710) opened on on July 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130710) 33 additions and 3 deletions in 2 files</sub><br />
 
-* **[Milad Akarie](https://github.com/Milad-Akarie)** &mdash; Expose RenderColoredBox and RenderParagraph.textPainter<br />
-    <sub>[#130730](https://github.com/flutter/flutter/pull/130730) opened on on July 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130730) 9 additions and 4 deletions in 2 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Catch errors in loadStructuredData<br />
-    <sub>[#130748](https://github.com/flutter/flutter/pull/130748) opened on on July 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130748) 78 additions and 62 deletions in 3 files</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update app_builder_test.dart for M3<br />
-    <sub>[#130794](https://github.com/flutter/flutter/pull/130794) opened on on July 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130794) 0 additions and 10 deletions in 1 file</sub><br />
+    <sub>[#130748](https://github.com/flutter/flutter/pull/130748) opened on on July 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130748) 78 additions and 62 deletions in 3 files</sub><br />
 
