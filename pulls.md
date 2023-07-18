@@ -110,6 +110,3 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Catch errors in loadStructuredData<br />
     <sub>[#130748](https://github.com/flutter/flutter/pull/130748) opened on on July 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130748) 78 additions and 62 deletions in 3 files</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; Stabilize hybrid_android_views_integration_test rendering tree<br />
-    <sub>[#130751](https://github.com/flutter/flutter/pull/130751) opened on on July 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130751) 24 additions and 7 deletions in 1 file</sub><br />
-
