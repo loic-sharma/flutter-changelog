@@ -74,3 +74,6 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; plugin templates: replace `allprojects.repositories` with `repositories`<br />
     <sub>[#130835](https://github.com/flutter/flutter/pull/130835) opened on on July 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130835) 10 additions and 14 deletions in 4 files</sub><br />
 
+* **[DrNorton](https://github.com/DrNorton)** &mdash; Localize the 'No Replacements Found' spell check string<br />
+    <sub>[#130875](https://github.com/flutter/flutter/pull/130875) opened on on July 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130875) 1 addition and 1 deletion in 1 file</sub><br />
+
