@@ -4,7 +4,7 @@
 
 ### July 15, 2023 to July 21, 2023
 
-42 commits.
+44 commits.
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Stand-alone widget tree with multiple render trees to enable multi-view rendering
     <sub>[#125003](https://github.com/flutter/flutter/pull/125003) merged on July 17, 2023 &mdash; **Extra large:** [132 comments](https://github.com/flutter/flutter/pull/125003) over 3 months, 4595 additions and 534 deletions in 57 files</sub>
@@ -32,6 +32,10 @@
     <sub>[#129513](https://github.com/flutter/flutter/pull/129513) merged on July 17, 2023 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/129513) over 3 weeks, 257 additions and 5 deletions in 4 files</sub>
     <sub>Reviewed by: [Liam Appelbe](https://github.com/liamappelbe), [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add menu dismiss localization
+    <sub>[#128613](https://github.com/flutter/flutter/pull/128613) merged on July 19, 2023 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/128613) over 1 month, 812 additions and 160 deletions in 165 files</sub>
+    <sub>Reviewed by: [Tomasz Gucio](https://github.com/tgucio), [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Extract common functionality of iOS platformviews into superclasses
     <sub>[#128716](https://github.com/flutter/flutter/pull/128716) merged on July 18, 2023 &mdash; **Small:** [62 comments](https://github.com/flutter/flutter/pull/128716) over 1 month, 188 additions and 105 deletions in 3 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [hellohuanlin](https://github.com/hellohuanlin)</sub>
@@ -56,13 +60,17 @@
     <sub>[#130688](https://github.com/flutter/flutter/pull/130688) merged on July 19, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/130688) over 2 days, 18 additions and 33 deletions in 3 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Clarify the whole "CustomPainters default to Size.zero" thing.
-    <sub>[#130624](https://github.com/flutter/flutter/pull/130624) merged on July 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130624) over 2 days, 6 additions and 4 deletions in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `AppBar` and `AppBarTheme` tests for M2/M3
     <sub>[#130790](https://github.com/flutter/flutter/pull/130790) merged on July 18, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/130790) over 3 hours, 599 additions and 237 deletions in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Add implementation advice to debugTypicalAncestorWidgetClass
+    <sub>[#130530](https://github.com/flutter/flutter/pull/130530) merged on July 19, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130530) over 6 days, 16 additions and 3 deletions in 3 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Clarify the whole "CustomPainters default to Size.zero" thing.
+    <sub>[#130624](https://github.com/flutter/flutter/pull/130624) merged on July 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130624) over 2 days, 6 additions and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated `ThemeData.useMaterial3` API doc, default is `true`
     <sub>[#130764](https://github.com/flutter/flutter/pull/130764) merged on July 18, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130764) over 17 hours, 11 additions and 17 deletions in 1 file</sub>
@@ -72,13 +80,13 @@
     <sub>[#130523](https://github.com/flutter/flutter/pull/130523) merged on July 18, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/130523) over 4 days, 689 additions and 42 deletions in 7 files</sub>
     <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub>
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `DropdownMenu`, `SnackBarTheme` and `Stepper` tests for M2/M3
-    <sub>[#130464](https://github.com/flutter/flutter/pull/130464) merged on July 17, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/130464) over 4 days, 331 additions and 45 deletions in 3 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update SnackBar tests for M2/M3
     <sub>[#130717](https://github.com/flutter/flutter/pull/130717) merged on July 18, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/130717) over 1 day, 625 additions and 52 deletions in 1 file</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `DropdownMenu`, `SnackBarTheme` and `Stepper` tests for M2/M3
+    <sub>[#130464](https://github.com/flutter/flutter/pull/130464) merged on July 17, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/130464) over 4 days, 331 additions and 45 deletions in 3 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Allow `OverlayPortal` to be added/removed from the tree in a layout callback
     <sub>[#130670](https://github.com/flutter/flutter/pull/130670) merged on July 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130670) over 1 day, 59 additions and 10 deletions in 2 files</sub>
