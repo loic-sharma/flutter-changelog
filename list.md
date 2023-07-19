@@ -1157,8 +1157,8 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Deprecate platform interface methods
-    <sub>[#4520](https://github.com/flutter/packages/pull/4520) merged on July 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4520) over 3 hours, 11 additions and 7 deletions in 3 files</sub>
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub>[#4520](https://github.com/flutter/packages/pull/4520) merged on July 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4520) over 3 hours, 11 additions and 7 deletions in 3 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Roll Flutter to f842ed91
     <sub>[#4513](https://github.com/flutter/packages/pull/4513) merged on July 18, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/4513) over 2 hours, 28 additions and 9 deletions in 2 files</sub>
