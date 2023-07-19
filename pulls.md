@@ -80,6 +80,3 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update AutoComplete test for M3 migration<br />
     <sub>[#130883](https://github.com/flutter/flutter/pull/130883) opened on on July 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130883) 28 additions and 16 deletions in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update banner_theme_test.dart for M3<br />
-    <sub>[#130884](https://github.com/flutter/flutter/pull/130884) opened on on July 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130884) 4 additions and 4 deletions in 1 file</sub><br />
-
