@@ -48,7 +48,7 @@
     <sub>[#130462](https://github.com/flutter/flutter/pull/130462) opened on on July 13, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/130462) 1265 additions and 253 deletions in 4 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Add tests for navigation_drawer_theme_test.dart <br />
-    <sub>[#130465](https://github.com/flutter/flutter/pull/130465) opened on on July 13, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/130465) 313 additions and 4 deletions in 2 files</sub><br />
+    <sub>[#130465](https://github.com/flutter/flutter/pull/130465) opened on on July 13, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/130465) 313 additions and 4 deletions in 2 files</sub><br />
 
 * **[Seiya Kokushi](https://github.com/ronnnnn)** &mdash; Proposal to add barrier configs for showDatePicker, showTimePicker and showAboutDialog.<br />
     <sub>[#130484](https://github.com/flutter/flutter/pull/130484) opened on on July 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/130484) 526 additions and 8 deletions in 6 files</sub><br />

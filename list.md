@@ -552,11 +552,11 @@
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove unneeded configuration file 
     <sub>[#130183](https://github.com/flutter/flutter/pull/130183) merged on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130183) over 1 hour, 0 additions and 7 deletions in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [yusuf-goog](https://github.com/yusuf-goog)</sub>
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny one space formatting fix
     <sub>[#130053](https://github.com/flutter/flutter/pull/130053) merged on July 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/130053) over 1 day, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Tomasz Gucio](https://github.com/tgucio)</sub>
+    <sub>Reviewed by: [Tomasz Gucio](https://github.com/tgucio), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add debugging for iOS startup test flakes
     <sub>[#130099](https://github.com/flutter/flutter/pull/130099) merged on July 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130099) over 19 hours, 71 additions and 20 deletions in 3 files</sub>
@@ -568,7 +568,7 @@
 
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Revert "[a11y] CupertinoSwitch On/Off labels"
     <sub>[#130166](https://github.com/flutter/flutter/pull/130166) merged on July 7, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/130166) over 1 hour, 0 additions and 383 deletions in 4 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Casey Hillers](https://github.com/CaseyHillers)</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Revert "fix a bug when android uses CupertinoPageTransitionsBuilder..."
     <sub>[#130144](https://github.com/flutter/flutter/pull/130144) merged on July 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130144) over 1 hour, 9 additions and 154 deletions in 3 files</sub>
@@ -990,7 +990,7 @@
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; [iOS] Fix FlutterViewController retain cycle
     <sub>[#43379](https://github.com/flutter/engine/pull/43379) merged on July 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43379) over 3 days, 11 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [luckysmg](https://github.com/luckysmg), [Chris Yang](https://github.com/cyanglaz)</sub>
+    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [luckysmg](https://github.com/luckysmg)</sub>
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Eagerly remove the PlatformView from the view hierarchy on Android
     <sub>[#43423](https://github.com/flutter/engine/pull/43423) merged on July 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43423) over 1 day, 56 additions and 4 deletions in 2 files</sub>
@@ -1170,7 +1170,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Update Android example
     <sub>[#4504](https://github.com/flutter/packages/pull/4504) merged on July 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/4504) over 5 hours, 23 additions and 16 deletions in 3 files</sub>
-    <sub>Reviewed by: [gmackall](https://github.com/gmackall), [David Iglesias](https://github.com/ditman)</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [gmackall](https://github.com/gmackall)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [various] Deletes deprecated splash screen meta-data element
     <sub>[#4501](https://github.com/flutter/packages/pull/4501) merged on July 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4501) over 21 hours, 12 additions and 36 deletions in 7 files</sub>
@@ -1498,7 +1498,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add partial LUCI version of repo_checks
     <sub>[#4389](https://github.com/flutter/packages/pull/4389) merged on July 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4389) over 7 hours, 66 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [yusuf-goog](https://github.com/yusuf-goog)</sub>
 
 </details>
 
