@@ -72,5 +72,5 @@
     <sub>[#130710](https://github.com/flutter/flutter/pull/130710) opened on on July 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130710) 33 additions and 3 deletions in 2 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; plugin templates: replace `allprojects.repositories` with `repositories`<br />
-    <sub>[#130835](https://github.com/flutter/flutter/pull/130835) opened on on July 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130835) 10 additions and 14 deletions in 4 files</sub><br />
+    <sub>[#130835](https://github.com/flutter/flutter/pull/130835) opened on on July 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130835) 10 additions and 14 deletions in 4 files</sub><br />
 
