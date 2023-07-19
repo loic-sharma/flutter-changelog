@@ -599,7 +599,7 @@
 
 ### July 15, 2023 to July 21, 2023
 
-22 commits.
+23 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Correct coverage hint usage in PipelineBlend<br />
     <sub>[#43708](https://github.com/flutter/engine/pull/43708) merged on July 17, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/43708) over 2 days, 62 additions and 24 deletions in 2 files</sub><br />
@@ -673,6 +673,10 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Revert "Log dlopen errors in opt builds (#41477)"<br />
     <sub>[#43677](https://github.com/flutter/engine/pull/43677) merged on July 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43677) over 3 days, 2 additions and 4 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 255dec886475 to 4dcaad2a894d (1 revision)<br />
+    <sub>[#43809](https://github.com/flutter/engine/pull/43809) merged on July 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43809) over 36 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from b32d661389a6 to 255dec886475 (1 revision)<br />
     <sub>[#43804](https://github.com/flutter/engine/pull/43804) merged on July 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43804) over 33 minutes, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1114,7 +1118,7 @@
 
 ### July 15, 2023 to July 21, 2023
 
-14 commits.
+15 commits.
 
 * **[Undefined](https://github.com/unknown-undefined)** &mdash; [video_player] fix: add missing isPlaybackLikelyToKeepUp check.<br />
     <sub>[#3826](https://github.com/flutter/packages/pull/3826) merged on July 17, 2023 &mdash; **Small:** [52 comments](https://github.com/flutter/packages/pull/3826) over 2 months, 56 additions and 22 deletions in 4 files</sub><br />
@@ -1143,6 +1147,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Add flash configuration for image capture<br />
     <sub>[#3800](https://github.com/flutter/packages/pull/3800) merged on July 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3800) over 2 months, 66 additions and 7 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Enable new sharding<br />
+    <sub>[#4515](https://github.com/flutter/packages/pull/4515) merged on July 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4515) over 15 hours, 8 additions and 44 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [flutter_markdown] Change the way tests get screen size<br />
     <sub>[#4514](https://github.com/flutter/packages/pull/4514) merged on July 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4514) over 7 hours, 4 additions and 2 deletions in 1 file</sub><br />
