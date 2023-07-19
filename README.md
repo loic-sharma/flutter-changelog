@@ -1102,7 +1102,7 @@
 
 ### July 15, 2023 to July 21, 2023
 
-13 commits.
+14 commits.
 
 * **[Undefined](https://github.com/unknown-undefined)** &mdash; [video_player] fix: add missing isPlaybackLikelyToKeepUp check.<br />
     <sub>[#3826](https://github.com/flutter/packages/pull/3826) merged on July 17, 2023 &mdash; **Small:** [52 comments](https://github.com/flutter/packages/pull/3826) over 2 months, 56 additions and 22 deletions in 4 files</sub><br />
@@ -1131,6 +1131,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Add flash configuration for image capture<br />
     <sub>[#3800](https://github.com/flutter/packages/pull/3800) merged on July 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3800) over 2 months, 66 additions and 7 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [flutter_markdown] Change the way tests get screen size<br />
+    <sub>[#4514](https://github.com/flutter/packages/pull/4514) merged on July 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4514) over 7 hours, 4 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Update Android example<br />
     <sub>[#4504](https://github.com/flutter/packages/pull/4504) merged on July 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/4504) over 5 hours, 23 additions and 16 deletions in 3 files</sub><br />
