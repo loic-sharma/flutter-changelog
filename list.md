@@ -595,7 +595,7 @@
 
 ### July 15, 2023 to July 21, 2023
 
-20 commits.
+21 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Correct coverage hint usage in PipelineBlend
     <sub>[#43708](https://github.com/flutter/engine/pull/43708) merged on July 17, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/43708) over 2 days, 62 additions and 24 deletions in 2 files</sub>
@@ -605,6 +605,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Move Dart licenses into a separate golden file
     <sub>[#43289](https://github.com/flutter/engine/pull/43289) merged on July 17, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/43289) over 2 weeks, 4838 additions and 4527 deletions in 5 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix the rules for determining whether a blur image filter is valid
+    <sub>[#43791](https://github.com/flutter/engine/pull/43791) merged on July 19, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/43791) over 9 hours, 25 additions and 4 deletions in 3 files</sub>
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Increase engine v2 orchestrator timeouts
     <sub>[#43788](https://github.com/flutter/engine/pull/43788) merged on July 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43788) over 2 hours, 18 additions and 18 deletions in 1 file</sub>
