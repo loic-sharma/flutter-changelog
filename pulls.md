@@ -80,3 +80,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update AutoComplete test for M3 migration<br />
     <sub>[#130883](https://github.com/flutter/flutter/pull/130883) opened on on July 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130883) 28 additions and 16 deletions in 1 file</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Suggest a potential valid name for the flutter project when using `flutter create`<br />
+    <sub>[#130900](https://github.com/flutter/flutter/pull/130900) opened on on July 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130900) 32 additions and 3 deletions in 3 files</sub><br />
+
