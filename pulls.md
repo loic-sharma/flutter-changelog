@@ -77,6 +77,3 @@
 * **[DrNorton](https://github.com/DrNorton)** &mdash; Localize the 'No Replacements Found' spell check string<br />
     <sub>[#130875](https://github.com/flutter/flutter/pull/130875) opened on on July 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130875) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Use downgraded analyze for flutter/packages<br />
-    <sub>[#130878](https://github.com/flutter/flutter/pull/130878) opened on on July 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130878) 7 additions and 0 deletions in 1 file</sub><br />
-
