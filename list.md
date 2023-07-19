@@ -15,6 +15,10 @@
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot 2023-07-14 at 18 40 58](https://github.com/flutter/flutter/assets/48603081/a6caffd6-d9a1-407a-aea7-c30047bfe7c7)![Screenshot 2023-07-14 at 18 41 04](https://github.com/flutter/flutter/assets/48603081/f864da7a-2ff8-46a4-8927-591e50050502)</details></sub>
 
+* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Relax syntax for gen-l10n
+    <sub>[#130736](https://github.com/flutter/flutter/pull/130736) merged on July 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/130736) over 1 day, 143 additions and 6 deletions in 7 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Replaces `textScaleFactor` with `TextScaler`
     <sub>[#128522](https://github.com/flutter/flutter/pull/128522) merged on July 17, 2023 &mdash; **Extra large:** [144 comments](https://github.com/flutter/flutter/pull/128522) over 1 month, 1696 additions and 457 deletions in 85 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai), [Michael Goderbauer](https://github.com/goderbauer)</sub>
@@ -23,10 +27,6 @@
     <sub>[#130584](https://github.com/flutter/flutter/pull/130584) merged on July 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130584) over 2 days, 283 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot 2023-07-14 at 18 39 51](https://github.com/flutter/flutter/assets/48603081/52ec5096-bad6-4753-9e9a-15b6d5ce767e)![Screenshot 2023-07-14 at 18 38 32](https://github.com/flutter/flutter/assets/48603081/a51aeca8-a5c2-42b4-8c05-b55f9955e860)</details></sub>
-
-* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Relax syntax for gen-l10n
-    <sub>[#130736](https://github.com/flutter/flutter/pull/130736) merged on July 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/130736) over 1 day, 143 additions and 6 deletions in 7 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [flutter_tools] Support coverage collection for dependencies
     <sub>[#129513](https://github.com/flutter/flutter/pull/129513) merged on July 17, 2023 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/129513) over 3 weeks, 257 additions and 5 deletions in 4 files</sub>
