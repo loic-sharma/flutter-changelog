@@ -611,7 +611,7 @@
 
 ### July 15, 2023 to July 21, 2023
 
-29 commits.
+30 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Correct coverage hint usage in PipelineBlend
     <sub>[#43708](https://github.com/flutter/engine/pull/43708) merged on July 17, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/43708) over 2 days, 62 additions and 24 deletions in 2 files</sub>
@@ -625,6 +625,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Apply the offset to the child bounds of an ImageFilterLayer with no filter
     <sub>[#43783](https://github.com/flutter/engine/pull/43783) merged on July 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43783) over 18 hours, 14 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Reland "Add non-rendering operation culling to DisplayListBuilder" (#41463)
+    <sub>[#43831](https://github.com/flutter/engine/pull/43831) merged on July 19, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/43831) over 1 hour, 1267 additions and 312 deletions in 20 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add the 'affects: desktop' label to labeler.yml
     <sub>[#43827](https://github.com/flutter/engine/pull/43827) merged on July 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43827) over 1 hour, 6 additions and 0 deletions in 1 file</sub>
