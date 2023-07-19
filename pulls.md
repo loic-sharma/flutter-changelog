@@ -86,3 +86,9 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.<br />
     <sub>[#130951](https://github.com/flutter/flutter/pull/130951) opened on on July 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130951) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Improve performance of leak tracking.<br />
+    <sub>[#130952](https://github.com/flutter/flutter/pull/130952) opened on on July 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130952) 5 additions and 2 deletions in 1 file</sub><br />
+
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated the ThemeData API example<br />
+    <sub>[#130954](https://github.com/flutter/flutter/pull/130954) opened on on July 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130954) 157 additions and 61 deletions in 3 files</sub><br />
+
