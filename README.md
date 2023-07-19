@@ -1122,7 +1122,7 @@
 
 ### July 15, 2023 to July 21, 2023
 
-15 commits.
+16 commits.
 
 * **[Undefined](https://github.com/unknown-undefined)** &mdash; [video_player] fix: add missing isPlaybackLikelyToKeepUp check.<br />
     <sub>[#3826](https://github.com/flutter/packages/pull/3826) merged on July 17, 2023 &mdash; **Small:** [52 comments](https://github.com/flutter/packages/pull/3826) over 2 months, 56 additions and 22 deletions in 4 files</sub><br />
@@ -1151,6 +1151,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Add flash configuration for image capture<br />
     <sub>[#3800](https://github.com/flutter/packages/pull/3800) merged on July 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/3800) over 2 months, 66 additions and 7 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [tooling] mark infra steps as infra steps in yaml files<br />
+    <sub>[#4473](https://github.com/flutter/packages/pull/4473) merged on July 19, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/4473) over 4 days, 31 additions and 0 deletions in 21 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Enable new sharding<br />
     <sub>[#4515](https://github.com/flutter/packages/pull/4515) merged on July 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4515) over 15 hours, 8 additions and 44 deletions in 4 files</sub><br />
