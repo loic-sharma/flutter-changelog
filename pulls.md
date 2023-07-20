@@ -75,7 +75,7 @@
     <sub>[#130875](https://github.com/flutter/flutter/pull/130875) opened on on July 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130875) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Suggest a potential valid name for the flutter project when using `flutter create`<br />
-    <sub>[#130900](https://github.com/flutter/flutter/pull/130900) opened on on July 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130900) 32 additions and 3 deletions in 3 files</sub><br />
+    <sub>[#130900](https://github.com/flutter/flutter/pull/130900) opened on on July 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130900) 33 additions and 3 deletions in 3 files</sub><br />
 
 * **[Andrey Suvorov](https://github.com/AndreySuworow)** &mdash; fixes l10n for CupertinoDatePicker in monthYear mode<br />
     <sub>[#130934](https://github.com/flutter/flutter/pull/130934) opened on on July 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130934) 70 additions and 8 deletions in 5 files</sub><br />
