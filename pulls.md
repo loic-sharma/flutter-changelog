@@ -78,7 +78,7 @@
     <sub>[#130900](https://github.com/flutter/flutter/pull/130900) opened on on July 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130900) 33 additions and 3 deletions in 3 files</sub><br />
 
 * **[Andrey Suvorov](https://github.com/AndreySuworow)** &mdash; fixes l10n for CupertinoDatePicker in monthYear mode<br />
-    <sub>[#130934](https://github.com/flutter/flutter/pull/130934) opened on on July 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130934) 70 additions and 8 deletions in 5 files</sub><br />
+    <sub>[#130934](https://github.com/flutter/flutter/pull/130934) opened on on July 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130934) 70 additions and 8 deletions in 5 files</sub><br />
 
 * **[xhzq233](https://github.com/xhzq233)** &mdash; Fix gesture conflicts of context_menu<br />
     <sub>[#130977](https://github.com/flutter/flutter/pull/130977) opened on on July 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130977) 14 additions and 9 deletions in 1 file</sub><br />
