@@ -4,7 +4,7 @@
 
 ### July 15, 2023 to July 21, 2023
 
-45 commits.
+47 commits.
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Stand-alone widget tree with multiple render trees to enable multi-view rendering<br />
     <sub>[#125003](https://github.com/flutter/flutter/pull/125003) merged on July 17, 2023 &mdash; **Extra large:** [132 comments](https://github.com/flutter/flutter/pull/125003) over 3 months, 4595 additions and 534 deletions in 57 files</sub><br />
@@ -104,6 +104,10 @@
     <sub>[#125825](https://github.com/flutter/flutter/pull/125825) merged on July 17, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/125825) over 2 months, 51 additions and 52 deletions in 4 files</sub><br />
     <sub>Reviewed by: [gmackall](https://github.com/gmackall)</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Document that you can't change initialRoute usefully<br />
+    <sub>[#130450](https://github.com/flutter/flutter/pull/130450) merged on July 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130450) over 1 week, 8 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Mark Windows_android channels_integration_test_win flaky<br />
     <sub>[#130893](https://github.com/flutter/flutter/pull/130893) merged on July 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130893) over 54 minutes, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
@@ -124,25 +128,29 @@
     <sub>[#130689](https://github.com/flutter/flutter/pull/130689) merged on July 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130689) over 18 hours, 44 additions and 32 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Move examples to `ListenableBuilder`<br />
+    <sub>[#130671](https://github.com/flutter/flutter/pull/130671) merged on July 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130671) over 1 day, 10 additions and 10 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark some leaks.<br />
     <sub>[#130470](https://github.com/flutter/flutter/pull/130470) merged on July 17, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/130470) over 4 days, 64 additions and 8 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Guard access to dart:developer with !kReleaseMode<br />
-    <sub>[#130627](https://github.com/flutter/flutter/pull/130627) merged on July 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130627) over 2 days, 47 additions and 32 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Skip the iteration in Layer._fireCompositionCallbacks if the callbacks map is empty<br />
     <sub>[#130438](https://github.com/flutter/flutter/pull/130438) merged on July 17, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/130438) over 4 days, 3 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Move examples to `ListenableBuilder`<br />
-    <sub>[#130671](https://github.com/flutter/flutter/pull/130671) merged on July 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130671) over 1 day, 10 additions and 10 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Guard access to dart:developer with !kReleaseMode<br />
+    <sub>[#130627](https://github.com/flutter/flutter/pull/130627) merged on July 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130627) over 2 days, 47 additions and 32 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Prevent `InputDecorator` from supplying its descendants with non-normalized constraints<br />
     <sub>[#130460](https://github.com/flutter/flutter/pull/130460) merged on July 17, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130460) over 4 days, 44 additions and 16 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Can traverse if current focused node skips traversal<br />
+    <sub>[#130812](https://github.com/flutter/flutter/pull/130812) merged on July 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130812) over 1 day, 94 additions and 18 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update app_builder_test.dart for M3<br />
     <sub>[#130794](https://github.com/flutter/flutter/pull/130794) merged on July 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130794) over 10 hours, 0 additions and 10 deletions in 1 file</sub><br />

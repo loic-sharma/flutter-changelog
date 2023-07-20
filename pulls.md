@@ -92,3 +92,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Trivial grammar and wrapping fix for docs<br />
     <sub>[#130955](https://github.com/flutter/flutter/pull/130955) opened on on July 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130955) 12 additions and 13 deletions in 1 file</sub><br />
 
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#130957](https://github.com/flutter/flutter/pull/130957) opened on on July 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130957) 2 additions and 2 deletions in 1 file</sub><br />
+
