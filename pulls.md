@@ -48,7 +48,7 @@
     <sub>[#130462](https://github.com/flutter/flutter/pull/130462) opened on on July 13, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/130462) 1265 additions and 253 deletions in 4 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Add tests for navigation_drawer_theme_test.dart <br />
-    <sub>[#130465](https://github.com/flutter/flutter/pull/130465) opened on on July 13, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/130465) 313 additions and 4 deletions in 2 files</sub><br />
+    <sub>[#130465](https://github.com/flutter/flutter/pull/130465) opened on on July 13, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/130465) 296 additions and 4 deletions in 2 files</sub><br />
 
 * **[Seiya Kokushi](https://github.com/ronnnnn)** &mdash; Proposal to add barrier configs for showDatePicker, showTimePicker and showAboutDialog.<br />
     <sub>[#130484](https://github.com/flutter/flutter/pull/130484) opened on on July 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/130484) 526 additions and 8 deletions in 6 files</sub><br />
@@ -58,6 +58,9 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; ImageDecoration.lerp<br />
     <sub>[#130533](https://github.com/flutter/flutter/pull/130533) opened on on July 13, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/130533) 612 additions and 59 deletions in 11 files</sub><br />
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add applyFocusChangeIfNeeded, have menus restore focus before activating<br />
+    <sub>[#130536](https://github.com/flutter/flutter/pull/130536) opened on on July 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130536) 140 additions and 50 deletions in 9 files</sub><br />
 
 * **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Update Dockerfile<br />
     <sub>[#130607](https://github.com/flutter/flutter/pull/130607) opened on on July 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130607) 4 additions and 2 deletions in 1 file</sub><br />
@@ -87,7 +90,7 @@
     <sub>[#130957](https://github.com/flutter/flutter/pull/130957) opened on on July 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130957) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[xhzq233](https://github.com/xhzq233)** &mdash; Fix gesture conflicts of context_menu<br />
-    <sub>[#130977](https://github.com/flutter/flutter/pull/130977) opened on on July 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130977) 14 additions and 9 deletions in 1 file</sub><br />
+    <sub>[#130977](https://github.com/flutter/flutter/pull/130977) opened on on July 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130977) 14 additions and 9 deletions in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update BottomAppBar and BottomAppBarTheme tests for M3<br />
     <sub>[#130983](https://github.com/flutter/flutter/pull/130983) opened on on July 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130983) 166 additions and 67 deletions in 2 files</sub><br />
