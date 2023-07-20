@@ -90,5 +90,5 @@
     <sub>[#130977](https://github.com/flutter/flutter/pull/130977) opened on on July 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130977) 14 additions and 9 deletions in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update BottomAppBar and BottomAppBarTheme tests for M3<br />
-    <sub>[#130983](https://github.com/flutter/flutter/pull/130983) opened on on July 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130983) 166 additions and 67 deletions in 2 files</sub><br />
+    <sub>[#130983](https://github.com/flutter/flutter/pull/130983) opened on on July 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130983) 166 additions and 67 deletions in 2 files</sub><br />
 
