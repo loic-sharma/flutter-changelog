@@ -684,7 +684,7 @@
 
 ### July 15, 2023 to July 21, 2023
 
-37 commits.
+38 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Correct coverage hint usage in PipelineBlend<br />
     <sub>[#43708](https://github.com/flutter/engine/pull/43708) merged on July 17, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/43708) over 2 days, 62 additions and 24 deletions in 2 files</sub><br />
@@ -707,9 +707,13 @@
     <sub>[#43813](https://github.com/flutter/engine/pull/43813) merged on July 20, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/43813) over 12 hours, 459 additions and 337 deletions in 9 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Avoid inserting additional save layers based on clip configuration.<br />
-    <sub>[#43759](https://github.com/flutter/engine/pull/43759) merged on July 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43759) over 11 hours, 88 additions and 15 deletions in 11 files</sub><br />
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Provide fragment uniform data through varyings for solid color, glyph atlas, texture shaders.<br />
+    <sub>[#43838](https://github.com/flutter/engine/pull/43838) merged on July 20, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/43838) over 20 hours, 295 additions and 265 deletions in 19 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add the 'affects: desktop' label to labeler.yml<br />
+    <sub>[#43827](https://github.com/flutter/engine/pull/43827) merged on July 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43827) over 1 hour, 6 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; fix handling of clipped rendering inside a layer that applies a filter<br />
     <sub>[#43787](https://github.com/flutter/engine/pull/43787) merged on July 19, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43787) over 21 hours, 163 additions and 10 deletions in 5 files</sub><br />
@@ -727,6 +731,10 @@
     <sub>[#43790](https://github.com/flutter/engine/pull/43790) merged on July 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43790) over 33 minutes, 0 additions and 241 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [keyonghan](https://github.com/keyonghan)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Avoid inserting additional save layers based on clip configuration.<br />
+    <sub>[#43759](https://github.com/flutter/engine/pull/43759) merged on July 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43759) over 11 hours, 88 additions and 15 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Reset Dart VM optimization level to 2<br />
     <sub>[#43770](https://github.com/flutter/engine/pull/43770) merged on July 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43770) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
@@ -734,10 +742,6 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Minor fixes for C++20 compatibility<br />
     <sub>[#43674](https://github.com/flutter/engine/pull/43674) merged on July 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43674) over 3 days, 8 additions and 7 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[Dan Field](https://github.com/dnfield)** &mdash; More validation logs for CommandEncoderVK submission<br />
-    <sub>[#43859](https://github.com/flutter/engine/pull/43859) merged on July 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43859) over 36 minutes, 9 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add a GN flag to set the Dart VM's optimization level<br />
     <sub>[#43743](https://github.com/flutter/engine/pull/43743) merged on July 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43743) over 7 hours, 11 additions and 0 deletions in 1 file</sub><br />
@@ -747,13 +751,13 @@
     <sub>[#43710](https://github.com/flutter/engine/pull/43710) merged on July 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43710) over 2 days, 27 additions and 39 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
+* **[Dan Field](https://github.com/dnfield)** &mdash; More validation logs for CommandEncoderVK submission<br />
+    <sub>[#43859](https://github.com/flutter/engine/pull/43859) merged on July 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43859) over 36 minutes, 9 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Jim Graham](https://github.com/flar)** &mdash; Reland "Add non-rendering operation culling to DisplayListBuilder" (#41463)<br />
     <sub>[#43831](https://github.com/flutter/engine/pull/43831) merged on July 19, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/43831) over 1 hour, 1267 additions and 312 deletions in 20 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add the 'affects: desktop' label to labeler.yml<br />
-    <sub>[#43827](https://github.com/flutter/engine/pull/43827) merged on July 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43827) over 1 hour, 6 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Add url to get GoogleFonts API key<br />
     <sub>[#43857](https://github.com/flutter/engine/pull/43857) merged on July 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43857) over 55 minutes, 2 additions and 0 deletions in 1 file</sub><br />
@@ -779,13 +783,13 @@
     <sub>[#43776](https://github.com/flutter/engine/pull/43776) merged on July 18, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/43776) over 37 minutes, 420 additions and 434 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [ci.yaml] Skip windows arm on releases<br />
-    <sub>[#43771](https://github.com/flutter/engine/pull/43771) merged on July 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43771) over 41 minutes, 0 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Jesús S Guerrero](https://github.com/Jasguerrero), [Xilai Zhang](https://github.com/XilaiZhang), [Drew Roen](https://github.com/drewroengoogle)</sub><br />
-
 * **[Caroline Liu](https://github.com/caroqliu)** &mdash; [fuchsia] flutter-embedder-test and touch-input-test use Flatland Test UI Stack<br />
     <sub>[#43562](https://github.com/flutter/engine/pull/43562) merged on July 17, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/43562) over 5 days, 286 additions and 293 deletions in 16 files</sub><br />
     <sub>Reviewed by: [David Worsham](https://github.com/arbreng)</sub><br />
+
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [ci.yaml] Skip windows arm on releases<br />
+    <sub>[#43771](https://github.com/flutter/engine/pull/43771) merged on July 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43771) over 41 minutes, 0 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jesús S Guerrero](https://github.com/Jasguerrero), [Xilai Zhang](https://github.com/XilaiZhang), [Drew Roen](https://github.com/drewroengoogle)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Check FlutterAppDelegate selector support before calling<br />
     <sub>[#43425](https://github.com/flutter/engine/pull/43425) merged on July 18, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/43425) over 1 week, 54 additions and 11 deletions in 2 files</sub><br />
@@ -1123,7 +1127,7 @@
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; [iOS] Fix FlutterViewController retain cycle<br />
     <sub>[#43379](https://github.com/flutter/engine/pull/43379) merged on July 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43379) over 3 days, 11 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [luckysmg](https://github.com/luckysmg)</sub><br />
+    <sub>Reviewed by: [luckysmg](https://github.com/luckysmg), [Chris Yang](https://github.com/cyanglaz)</sub><br />
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Eagerly remove the PlatformView from the view hierarchy on Android<br />
     <sub>[#43423](https://github.com/flutter/engine/pull/43423) merged on July 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43423) over 1 day, 56 additions and 4 deletions in 2 files</sub><br />
