@@ -95,3 +95,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update BottomAppBar and BottomAppBarTheme tests for M3<br />
     <sub>[#130983](https://github.com/flutter/flutter/pull/130983) opened on on July 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130983) 166 additions and 67 deletions in 2 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Migrate more integration tests to process result matcher<br />
+    <sub>[#130994](https://github.com/flutter/flutter/pull/130994) opened on on July 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130994) 60 additions and 71 deletions in 6 files</sub><br />
+
