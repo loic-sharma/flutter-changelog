@@ -89,6 +89,6 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Improve performance of leak tracking.<br />
     <sub>[#130952](https://github.com/flutter/flutter/pull/130952) opened on on July 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130952) 5 additions and 2 deletions in 1 file</sub><br />
 
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated the ThemeData API example<br />
-    <sub>[#130954](https://github.com/flutter/flutter/pull/130954) opened on on July 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130954) 157 additions and 61 deletions in 3 files</sub><br />
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Trivial grammar and wrapping fix for docs<br />
+    <sub>[#130955](https://github.com/flutter/flutter/pull/130955) opened on on July 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130955) 12 additions and 13 deletions in 1 file</sub><br />
 
