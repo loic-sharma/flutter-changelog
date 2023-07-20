@@ -86,6 +86,3 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update BottomAppBar and BottomAppBarTheme tests for M3<br />
     <sub>[#130983](https://github.com/flutter/flutter/pull/130983) opened on on July 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130983) 166 additions and 67 deletions in 2 files</sub><br />
 
-* **[gmilou](https://github.com/gmilou)** &mdash; Add a new MatrixTransition and refactor ScaleTransition and RotationT…<br />
-    <sub>[#131018](https://github.com/flutter/flutter/pull/131018) opened on on July 20, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/131018) 216 additions and 90 deletions in 2 files</sub><br />
-
