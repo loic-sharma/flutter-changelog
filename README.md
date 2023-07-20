@@ -56,16 +56,20 @@
     <sub>[#130749](https://github.com/flutter/flutter/pull/130749) merged on July 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130749) over 6 hours, 19 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; More documentation for MediaQuery and friends<br />
+    <sub>[#130509](https://github.com/flutter/flutter/pull/130509) merged on July 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130509) over 6 days, 21 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix contradictory advice in "detach" docs; cut redundancy in "attach"<br />
     <sub>[#130688](https://github.com/flutter/flutter/pull/130688) merged on July 19, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/130688) over 2 days, 18 additions and 33 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Clarify the whole "CustomPainters default to Size.zero" thing.<br />
-    <sub>[#130624](https://github.com/flutter/flutter/pull/130624) merged on July 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130624) over 2 days, 6 additions and 4 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add implementation advice to debugTypicalAncestorWidgetClass<br />
     <sub>[#130530](https://github.com/flutter/flutter/pull/130530) merged on July 19, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130530) over 6 days, 16 additions and 3 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Automatically create the layer when setting hints in PaintingContext<br />
+    <sub>[#130364](https://github.com/flutter/flutter/pull/130364) merged on July 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130364) over 1 week, 50 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Further clarify Stack documentation on overflowing<br />
@@ -76,13 +80,17 @@
     <sub>[#130790](https://github.com/flutter/flutter/pull/130790) merged on July 18, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/130790) over 3 hours, 599 additions and 237 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Automatically create the layer when setting hints in PaintingContext<br />
-    <sub>[#130364](https://github.com/flutter/flutter/pull/130364) merged on July 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130364) over 1 week, 50 additions and 2 deletions in 2 files</sub><br />
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Clarify the whole "CustomPainters default to Size.zero" thing.<br />
+    <sub>[#130624](https://github.com/flutter/flutter/pull/130624) merged on July 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130624) over 2 days, 6 additions and 4 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated `ThemeData.useMaterial3` API doc, default is `true`<br />
     <sub>[#130764](https://github.com/flutter/flutter/pull/130764) merged on July 18, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130764) over 17 hours, 11 additions and 17 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add lint check to make sure samples are linked and have tests<br />
+    <sub>[#130523](https://github.com/flutter/flutter/pull/130523) merged on July 18, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/130523) over 4 days, 689 additions and 42 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update SnackBar tests for M2/M3<br />
     <sub>[#130717](https://github.com/flutter/flutter/pull/130717) merged on July 18, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/130717) over 1 day, 625 additions and 52 deletions in 1 file</sub><br />
@@ -91,10 +99,6 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `DropdownMenu`, `SnackBarTheme` and `Stepper` tests for M2/M3<br />
     <sub>[#130464](https://github.com/flutter/flutter/pull/130464) merged on July 17, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/130464) over 4 days, 331 additions and 45 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
-
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add lint check to make sure samples are linked and have tests<br />
-    <sub>[#130523](https://github.com/flutter/flutter/pull/130523) merged on July 18, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/130523) over 4 days, 689 additions and 42 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Allow `OverlayPortal` to be added/removed from the tree in a layout callback<br />
     <sub>[#130670](https://github.com/flutter/flutter/pull/130670) merged on July 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130670) over 1 day, 59 additions and 10 deletions in 2 files</sub><br />
@@ -111,10 +115,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update to valid build tools variant and update lockfiles<br />
     <sub>[#125825](https://github.com/flutter/flutter/pull/125825) merged on July 17, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/125825) over 2 months, 51 additions and 52 deletions in 4 files</sub><br />
     <sub>Reviewed by: [gmackall](https://github.com/gmackall)</sub><br />
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; More documentation for MediaQuery and friends<br />
-    <sub>[#130509](https://github.com/flutter/flutter/pull/130509) merged on July 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130509) over 6 days, 21 additions and 5 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Document that you can't change initialRoute usefully<br />
     <sub>[#130450](https://github.com/flutter/flutter/pull/130450) merged on July 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130450) over 1 week, 8 additions and 0 deletions in 2 files</sub><br />
