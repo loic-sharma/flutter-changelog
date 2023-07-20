@@ -80,15 +80,9 @@
 * **[Andrey Suvorov](https://github.com/AndreySuworow)** &mdash; fixes l10n for CupertinoDatePicker in monthYear mode<br />
     <sub>[#130934](https://github.com/flutter/flutter/pull/130934) opened on on July 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130934) 70 additions and 8 deletions in 5 files</sub><br />
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#130957](https://github.com/flutter/flutter/pull/130957) opened on on July 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130957) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[xhzq233](https://github.com/xhzq233)** &mdash; Fix gesture conflicts of context_menu<br />
     <sub>[#130977](https://github.com/flutter/flutter/pull/130977) opened on on July 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130977) 14 additions and 9 deletions in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update BottomAppBar and BottomAppBarTheme tests for M3<br />
     <sub>[#130983](https://github.com/flutter/flutter/pull/130983) opened on on July 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130983) 166 additions and 67 deletions in 2 files</sub><br />
-
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Migrate more integration tests to process result matcher<br />
-    <sub>[#130994](https://github.com/flutter/flutter/pull/130994) opened on on July 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130994) 60 additions and 71 deletions in 6 files</sub><br />
 
