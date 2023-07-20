@@ -486,7 +486,7 @@
 
 * **[Rydmike](https://github.com/rydmike)** &mdash; Fix default icon color constants reversed brightness documentation
     <sub>[#130231](https://github.com/flutter/flutter/pull/130231) merged on July 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130231) over 20 hours, 2 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Reland "Print pretty error when xcodebuild fails due to missing simulator #130286"
     <sub>[#130506](https://github.com/flutter/flutter/pull/130506) merged on July 13, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/130506) over 2 hours, 468 additions and 1 deletion in 6 files</sub>
@@ -588,7 +588,7 @@
 
 * **[fabiancrx](https://github.com/fabiancrx)** &mdash; [flutter_tools] modify Skeleton template to use ListenableBuilder instead of AnimatedBuilder
     <sub>[#128810](https://github.com/flutter/flutter/pull/128810) merged on July 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/128810) over 3 weeks, 3 additions and 3 deletions in 1 file</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Myles Moylan](https://github.com/moylanm)** &mdash; Add simple unit tests for annotations.dart file
     <sub>[#128902](https://github.com/flutter/flutter/pull/128902) merged on July 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128902) over 2 weeks, 27 additions and 0 deletions in 1 file</sub>
@@ -1043,7 +1043,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Revert https://github.com/flutter/engine/pull/43533
     <sub>[#43654](https://github.com/flutter/engine/pull/43654) merged on July 13, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/43654) over 46 minutes, 199 additions and 248 deletions in 28 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[David Worsham](https://github.com/arbreng)** &mdash; [fuchsia] Remove FIDL dart references
     <sub>[#43550](https://github.com/flutter/engine/pull/43550) merged on July 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43550) over 8 hours, 2 additions and 112 deletions in 3 files</sub>
@@ -1412,7 +1412,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.8.22 to 1.9.0 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#4419](https://github.com/flutter/packages/pull/4419) merged on July 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4419) over 17 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.8.22&new-version=1.9.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [file_selector] Avoids using path_provider in web example app.
