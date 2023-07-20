@@ -86,6 +86,6 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#130957](https://github.com/flutter/flutter/pull/130957) opened on on July 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130957) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update about tests for M3<br />
-    <sub>[#130970](https://github.com/flutter/flutter/pull/130970) opened on on July 20, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/130970) 380 additions and 17 deletions in 1 file</sub><br />
+* **[xhzq233](https://github.com/xhzq233)** &mdash; Fix gesture conflicts of context_menu<br />
+    <sub>[#130977](https://github.com/flutter/flutter/pull/130977) opened on on July 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130977) 14 additions and 9 deletions in 1 file</sub><br />
 
