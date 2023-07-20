@@ -59,9 +59,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; ImageDecoration.lerp<br />
     <sub>[#130533](https://github.com/flutter/flutter/pull/130533) opened on on July 13, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/130533) 612 additions and 59 deletions in 11 files</sub><br />
 
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add applyFocusChangeIfNeeded, have menus restore focus before activating<br />
-    <sub>[#130536](https://github.com/flutter/flutter/pull/130536) opened on on July 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130536) 140 additions and 50 deletions in 9 files</sub><br />
-
 * **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Update Dockerfile<br />
     <sub>[#130607](https://github.com/flutter/flutter/pull/130607) opened on on July 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130607) 4 additions and 2 deletions in 1 file</sub><br />
 
