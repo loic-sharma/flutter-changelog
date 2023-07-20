@@ -28,6 +28,10 @@
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot 2023-07-14 at 18 39 51](https://github.com/flutter/flutter/assets/48603081/52ec5096-bad6-4753-9e9a-15b6d5ce767e)![Screenshot 2023-07-14 at 18 38 32](https://github.com/flutter/flutter/assets/48603081/a51aeca8-a5c2-42b4-8c05-b55f9955e860)</details></sub>
 
+* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Add support for M3 motion
+    <sub>[#129942](https://github.com/flutter/flutter/pull/129942) merged on July 19, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/129942) over 2 weeks, 407 additions and 1 deletion in 10 files</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [flutter_tools] Support coverage collection for dependencies
     <sub>[#129513](https://github.com/flutter/flutter/pull/129513) merged on July 17, 2023 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/129513) over 3 weeks, 257 additions and 5 deletions in 4 files</sub>
     <sub>Reviewed by: [Liam Appelbe](https://github.com/liamappelbe), [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
@@ -39,10 +43,6 @@
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Extract common functionality of iOS platformviews into superclasses
     <sub>[#128716](https://github.com/flutter/flutter/pull/128716) merged on July 18, 2023 &mdash; **Small:** [62 comments](https://github.com/flutter/flutter/pull/128716) over 1 month, 188 additions and 105 deletions in 3 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [hellohuanlin](https://github.com/hellohuanlin)</sub>
-
-* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Add support for M3 motion
-    <sub>[#129942](https://github.com/flutter/flutter/pull/129942) merged on July 19, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/129942) over 2 weeks, 407 additions and 1 deletion in 10 files</sub>
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Move TapAndDragGestureRecognizer code under gestures
     <sub>[#119508](https://github.com/flutter/flutter/pull/119508) merged on July 19, 2023 &mdash; **Small:** [54 comments](https://github.com/flutter/flutter/pull/119508) over 5 months, 88 additions and 79 deletions in 6 files</sub>
