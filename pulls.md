@@ -74,6 +74,12 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Reduce usage of testUsingContext<br />
     <sub>[#131078](https://github.com/flutter/flutter/pull/131078) opened on on July 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131078) 79 additions and 104 deletions in 10 files</sub><br />
 
-* **[gmilou](https://github.com/gmilou)** &mdash; Add a new MatrixTransition and refactor ScaleTransition and RotationT…<br />
-    <sub>[#131084](https://github.com/flutter/flutter/pull/131084) opened on on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131084) 212 additions and 88 deletions in 2 files</sub><br />
+* **[mcmah309](https://github.com/mcmah309)** &mdash; Add onselectionevent to text widget<br />
+    <sub>[#131097](https://github.com/flutter/flutter/pull/131097) opened on on July 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131097) 86 additions and 2 deletions in 4 files</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; WIP<br />
+    <sub>[#131098](https://github.com/flutter/flutter/pull/131098) opened on on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131098) 0 additions and 124 deletions in 1 file</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Throw in flutter test with device<br />
+    <sub>[#131099](https://github.com/flutter/flutter/pull/131099) opened on on July 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131099) 84 additions and 56 deletions in 2 files</sub><br />
 
