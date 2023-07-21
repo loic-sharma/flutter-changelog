@@ -119,7 +119,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `TextSelectionTheme`, `ThemeData`, `TimePicker`, and `TimePickerTheme` tests for M2/M3<br />
     <sub>[#130547](https://github.com/flutter/flutter/pull/130547) merged on July 20, 2023 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/130547) over 6 days, 901 additions and 470 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update about tests for M3<br />
     <sub>[#130970](https://github.com/flutter/flutter/pull/130970) merged on July 20, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/130970) over 7 hours, 380 additions and 17 deletions in 1 file</sub><br />
@@ -447,7 +447,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; mark android impeller tests as bringup<br />
     <sub>[#130525](https://github.com/flutter/flutter/pull/130525) merged on July 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130525) over 1 minute, 4 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.<br />
     <sub>[#130507](https://github.com/flutter/flutter/pull/130507) merged on July 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130507) over 57 minutes, 6 additions and 8 deletions in 3 files</sub><br />
@@ -531,7 +531,7 @@
 
 * **[Rydmike](https://github.com/rydmike)** &mdash; Fix default icon color constants reversed brightness documentation<br />
     <sub>[#130231](https://github.com/flutter/flutter/pull/130231) merged on July 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130231) over 20 hours, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Reland "Print pretty error when xcodebuild fails due to missing simulator #130286"<br />
     <sub>[#130506](https://github.com/flutter/flutter/pull/130506) merged on July 13, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/130506) over 2 hours, 468 additions and 1 deletion in 6 files</sub><br />
@@ -677,7 +677,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny one space formatting fix<br />
     <sub>[#130053](https://github.com/flutter/flutter/pull/130053) merged on July 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/130053) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Tomasz Gucio](https://github.com/tgucio), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Tomasz Gucio](https://github.com/tgucio)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add debugging for iOS startup test flakes<br />
     <sub>[#130099](https://github.com/flutter/flutter/pull/130099) merged on July 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130099) over 19 hours, 71 additions and 20 deletions in 3 files</sub><br />
