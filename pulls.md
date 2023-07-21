@@ -86,3 +86,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update BottomAppBar and BottomAppBarTheme tests for M3<br />
     <sub>[#130983](https://github.com/flutter/flutter/pull/130983) opened on on July 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130983) 166 additions and 67 deletions in 2 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Use toStringAsFixed in DecorationImage.toString<br />
+    <sub>[#131026](https://github.com/flutter/flutter/pull/131026) opened on on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131026) 15 additions and 2 deletions in 2 files</sub><br />
+
