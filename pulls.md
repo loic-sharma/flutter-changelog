@@ -38,9 +38,6 @@
 * **[Seiya Kokushi](https://github.com/ronnnnn)** &mdash; Proposal to add barrier configs for showDatePicker, showTimePicker and showAboutDialog.<br />
     <sub>[#130484](https://github.com/flutter/flutter/pull/130484) opened on on July 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/130484) 526 additions and 8 deletions in 6 files</sub><br />
 
-* **[Lexycon](https://github.com/Lexycon)** &mdash; Fix material date picker behavior when changing year<br />
-    <sub>[#130486](https://github.com/flutter/flutter/pull/130486) opened on on July 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130486) 43 additions and 4 deletions in 3 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; ImageDecoration.lerp<br />
     <sub>[#130533](https://github.com/flutter/flutter/pull/130533) opened on on July 13, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/130533) 612 additions and 59 deletions in 11 files</sub><br />
 
