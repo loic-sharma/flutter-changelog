@@ -776,7 +776,7 @@
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] [Vulkan] Add reset command buffer bit to command pools.<br />
-    <sub>[#43867](https://github.com/flutter/engine/pull/43867) merged on July 20, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/43867) over 2 hours, 2 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#43867](https://github.com/flutter/engine/pull/43867) merged on July 20, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43867) over 2 hours, 2 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Provide fragment uniform data through varyings for solid color, glyph atlas, texture shaders.<br />
