@@ -955,7 +955,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Gustl22](https://github.com/Gustl22)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix some OpenGL Linux desktop issues.
-    <sub>[#43727](https://github.com/flutter/engine/pull/43727) merged on July 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43727) over 4 hours, 30 additions and 7 deletions in 3 files</sub>
+    <sub>[#43727](https://github.com/flutter/engine/pull/43727) merged on July 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43727) over 4 hours, 30 additions and 7 deletions in 3 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; [Impeller] Fixes for asymmetric stencil descriptors
