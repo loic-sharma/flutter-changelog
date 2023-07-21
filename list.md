@@ -29,8 +29,8 @@
     <sub><details><summary>2 images...</summary>![Screenshot 2023-07-14 at 18 39 51](https://github.com/flutter/flutter/assets/48603081/52ec5096-bad6-4753-9e9a-15b6d5ce767e)![Screenshot 2023-07-14 at 18 38 32](https://github.com/flutter/flutter/assets/48603081/a51aeca8-a5c2-42b4-8c05-b55f9955e860)</details></sub>
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Add support for M3 motion
-    <sub>[#129942](https://github.com/flutter/flutter/pull/129942) merged on July 19, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/129942) over 2 weeks, 407 additions and 1 deletion in 10 files</sub>
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+    <sub>[#129942](https://github.com/flutter/flutter/pull/129942) merged on July 19, 2023 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/129942) over 2 weeks, 407 additions and 1 deletion in 10 files</sub>
+    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [flutter_tools] Support coverage collection for dependencies
     <sub>[#129513](https://github.com/flutter/flutter/pull/129513) merged on July 17, 2023 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/129513) over 3 weeks, 257 additions and 5 deletions in 4 files</sub>
@@ -443,7 +443,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; mark android impeller tests as bringup
     <sub>[#130525](https://github.com/flutter/flutter/pull/130525) merged on July 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130525) over 1 minute, 4 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.
     <sub>[#130507](https://github.com/flutter/flutter/pull/130507) merged on July 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130507) over 57 minutes, 6 additions and 8 deletions in 3 files</sub>
@@ -629,7 +629,7 @@
 
 * **[fabiancrx](https://github.com/fabiancrx)** &mdash; [flutter_tools] modify Skeleton template to use ListenableBuilder instead of AnimatedBuilder
     <sub>[#128810](https://github.com/flutter/flutter/pull/128810) merged on July 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/128810) over 3 weeks, 3 additions and 3 deletions in 1 file</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Myles Moylan](https://github.com/moylanm)** &mdash; Add simple unit tests for annotations.dart file
     <sub>[#128902](https://github.com/flutter/flutter/pull/128902) merged on July 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/128902) over 2 weeks, 27 additions and 0 deletions in 1 file</sub>
@@ -673,7 +673,7 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny one space formatting fix
     <sub>[#130053](https://github.com/flutter/flutter/pull/130053) merged on July 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/130053) over 1 day, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Tomasz Gucio](https://github.com/tgucio), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Tomasz Gucio](https://github.com/tgucio)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add debugging for iOS startup test flakes
     <sub>[#130099](https://github.com/flutter/flutter/pull/130099) merged on July 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130099) over 19 hours, 71 additions and 20 deletions in 3 files</sub>
