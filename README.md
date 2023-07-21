@@ -1150,7 +1150,7 @@
 <summary>29 commits...</summary>
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; [iOS] Fix FlutterViewController retain cycle<br />
-    <sub>[#43379](https://github.com/flutter/engine/pull/43379) merged on July 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43379) over 3 days, 11 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#43379](https://github.com/flutter/engine/pull/43379) merged on July 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/43379) over 3 days, 11 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [luckysmg](https://github.com/luckysmg)</sub><br />
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Eagerly remove the PlatformView from the view hierarchy on Android<br />
