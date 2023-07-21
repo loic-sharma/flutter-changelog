@@ -84,8 +84,5 @@
     <sub>[#131068](https://github.com/flutter/flutter/pull/131068) opened on on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131068) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Reduce usage of testUsingContext<br />
-    <sub>[#131078](https://github.com/flutter/flutter/pull/131078) opened on on July 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131078) 79 additions and 104 deletions in 10 files</sub><br />
-
-* **[gmilou](https://github.com/gmilou)** &mdash; Add a new MatrixTransition and refactor ScaleTransition and RotationT…<br />
-    <sub>[#131080](https://github.com/flutter/flutter/pull/131080) opened on on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131080) 212 additions and 88 deletions in 2 files</sub><br />
+    <sub>[#131078](https://github.com/flutter/flutter/pull/131078) opened on on July 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131078) 79 additions and 104 deletions in 10 files</sub><br />
 
