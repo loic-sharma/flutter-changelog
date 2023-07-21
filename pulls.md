@@ -29,9 +29,6 @@
 * **[杨加康](https://github.com/MeandNi)** &mdash; [flutter_tools] Add flutter create-local-engine-repo<br />
     <sub>[#129948](https://github.com/flutter/flutter/pull/129948) opened on on July 4, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/129948) 243 additions and 7 deletions in 4 files</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; WIP - Maybe throw for constrained shrinkwrap<br />
-    <sub>[#130363](https://github.com/flutter/flutter/pull/130363) opened on on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130363) 26 additions and 0 deletions in 1 file</sub><br />
-
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny remove outdated comments<br />
     <sub>[#130387](https://github.com/flutter/flutter/pull/130387) opened on on July 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130387) 0 additions and 2 deletions in 1 file</sub><br />
 
@@ -81,5 +78,5 @@
     <sub>[#131098](https://github.com/flutter/flutter/pull/131098) opened on on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131098) 0 additions and 124 deletions in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Throw in flutter test with device<br />
-    <sub>[#131099](https://github.com/flutter/flutter/pull/131099) opened on on July 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131099) 84 additions and 56 deletions in 2 files</sub><br />
+    <sub>[#131099](https://github.com/flutter/flutter/pull/131099) opened on on July 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/131099) 84 additions and 56 deletions in 2 files</sub><br />
 
