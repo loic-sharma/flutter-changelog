@@ -80,9 +80,6 @@
 * **[Andrey Suvorov](https://github.com/AndreySuworow)** &mdash; fixes l10n for CupertinoDatePicker in monthYear mode<br />
     <sub>[#130934](https://github.com/flutter/flutter/pull/130934) opened on on July 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130934) 70 additions and 8 deletions in 5 files</sub><br />
 
-* **[xhzq233](https://github.com/xhzq233)** &mdash; Fix gesture conflicts of context_menu<br />
-    <sub>[#130977](https://github.com/flutter/flutter/pull/130977) opened on on July 20, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/130977) 1789 additions and 729 deletions in 41 files</sub><br />
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update BottomAppBar and BottomAppBarTheme tests for M3<br />
     <sub>[#130983](https://github.com/flutter/flutter/pull/130983) opened on on July 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130983) 166 additions and 67 deletions in 2 files</sub><br />
 
