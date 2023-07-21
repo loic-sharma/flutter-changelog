@@ -80,15 +80,12 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#131063](https://github.com/flutter/flutter/pull/131063) opened on on July 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131063) 6 additions and 4 deletions in 2 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove obsolete work around for shadow drawing<br />
-    <sub>[#131066](https://github.com/flutter/flutter/pull/131066) opened on on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131066) 0 additions and 8 deletions in 1 file</sub><br />
-
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Ignore unused parameters in snippet code<br />
     <sub>[#131068](https://github.com/flutter/flutter/pull/131068) opened on on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131068) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[gmilou](https://github.com/gmilou)** &mdash; Add a new MatrixTransition and refactor ScaleTransition and RotationT…<br />
-    <sub>[#131072](https://github.com/flutter/flutter/pull/131072) opened on on July 21, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/131072) 211 additions and 90 deletions in 2 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Reduce usage of testUsingContext<br />
     <sub>[#131078](https://github.com/flutter/flutter/pull/131078) opened on on July 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131078) 79 additions and 100 deletions in 10 files</sub><br />
+
+* **[gmilou](https://github.com/gmilou)** &mdash; Add a new MatrixTransition and refactor ScaleTransition and RotationT…<br />
+    <sub>[#131080](https://github.com/flutter/flutter/pull/131080) opened on on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131080) 212 additions and 88 deletions in 2 files</sub><br />
 
