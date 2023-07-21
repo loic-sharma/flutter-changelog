@@ -86,6 +86,3 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update BottomAppBar and BottomAppBarTheme tests for M3<br />
     <sub>[#130983](https://github.com/flutter/flutter/pull/130983) opened on on July 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130983) 166 additions and 67 deletions in 2 files</sub><br />
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#131022](https://github.com/flutter/flutter/pull/131022) opened on on July 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131022) 14 additions and 14 deletions in 7 files</sub><br />
-
