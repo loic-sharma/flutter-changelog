@@ -431,11 +431,11 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; mark android impeller tests as bringup
     <sub>[#130525](https://github.com/flutter/flutter/pull/130525) merged on July 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130525) over 1 minute, 4 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.
     <sub>[#130507](https://github.com/flutter/flutter/pull/130507) merged on July 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130507) over 57 minutes, 6 additions and 8 deletions in 3 files</sub>
-    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jacob Richman](https://github.com/jacob314)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Update labeler for recent changes
     <sub>[#130168](https://github.com/flutter/flutter/pull/130168) merged on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130168) over 3 days, 1 addition and 12 deletions in 1 file</sub>
@@ -741,7 +741,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add the 'affects: desktop' label to labeler.yml
     <sub>[#43827](https://github.com/flutter/engine/pull/43827) merged on July 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43827) over 1 hour, 6 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; fix handling of clipped rendering inside a layer that applies a filter
     <sub>[#43787](https://github.com/flutter/engine/pull/43787) merged on July 19, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43787) over 21 hours, 163 additions and 10 deletions in 5 files</sub>
@@ -1163,7 +1163,7 @@
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; [iOS] Fix FlutterViewController retain cycle
     <sub>[#43379](https://github.com/flutter/engine/pull/43379) merged on July 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/43379) over 3 days, 11 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [luckysmg](https://github.com/luckysmg), [Chris Yang](https://github.com/cyanglaz)</sub>
+    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [luckysmg](https://github.com/luckysmg)</sub>
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Eagerly remove the PlatformView from the view hierarchy on Android
     <sub>[#43423](https://github.com/flutter/engine/pull/43423) merged on July 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43423) over 1 day, 56 additions and 4 deletions in 2 files</sub>
