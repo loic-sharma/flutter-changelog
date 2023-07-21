@@ -74,9 +74,9 @@
 * **[Andrey Suvorov](https://github.com/AndreySuworow)** &mdash; fixes l10n for CupertinoDatePicker in monthYear mode<br />
     <sub>[#130934](https://github.com/flutter/flutter/pull/130934) opened on on July 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130934) 70 additions and 8 deletions in 5 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Use toStringAsFixed in DecorationImage.toString<br />
-    <sub>[#131026](https://github.com/flutter/flutter/pull/131026) opened on on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131026) 15 additions and 2 deletions in 2 files</sub><br />
-
 * **[xhzq233](https://github.com/xhzq233)** &mdash; Context menu improvement<br />
     <sub>[#131030](https://github.com/flutter/flutter/pull/131030) opened on on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131030) 82 additions and 9 deletions in 2 files</sub><br />
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#131063](https://github.com/flutter/flutter/pull/131063) opened on on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131063) 6 additions and 4 deletions in 2 files</sub><br />
 
