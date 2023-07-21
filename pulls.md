@@ -86,3 +86,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Ignore unused parameters in snippet code<br />
     <sub>[#131068](https://github.com/flutter/flutter/pull/131068) opened on on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131068) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[gmilou](https://github.com/gmilou)** &mdash; Add a new MatrixTransition and refactor ScaleTransition and RotationT…<br />
+    <sub>[#131072](https://github.com/flutter/flutter/pull/131072) opened on on July 21, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/131072) 211 additions and 90 deletions in 2 files</sub><br />
+
