@@ -75,7 +75,7 @@
     <sub>[#131099](https://github.com/flutter/flutter/pull/131099) opened on on July 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/131099) 84 additions and 56 deletions in 2 files</sub><br />
 
 * **[Vasiliy Ditsyak](https://github.com/vasilich6107)** &mdash; Access to fragment in router state on page refresh<br />
-    <sub>[#131123](https://github.com/flutter/flutter/pull/131123) opened on on July 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131123) 5 additions and 3 deletions in 2 files</sub><br />
+    <sub>[#131123](https://github.com/flutter/flutter/pull/131123) opened on on July 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131123) 5 additions and 3 deletions in 2 files</sub><br />
 
 * **[David](https://github.com/DavidIsa)** &mdash; Fix template app documentation<br />
     <sub>[#131125](https://github.com/flutter/flutter/pull/131125) opened on on July 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131125) 1 addition and 1 deletion in 1 file</sub><br />
