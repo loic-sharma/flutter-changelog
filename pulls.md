@@ -74,3 +74,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Throw in flutter test with device<br />
     <sub>[#131099](https://github.com/flutter/flutter/pull/131099) opened on on July 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/131099) 84 additions and 56 deletions in 2 files</sub><br />
 
+* **[Vasiliy Ditsyak](https://github.com/vasilich6107)** &mdash; Access to fragment in router state on page refresh<br />
+    <sub>[#131123](https://github.com/flutter/flutter/pull/131123) opened on on July 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131123) 5 additions and 3 deletions in 2 files</sub><br />
+
