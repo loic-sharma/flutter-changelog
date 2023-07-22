@@ -29,7 +29,7 @@
     <sub><details><summary>2 images...</summary>![Screenshot 2023-07-14 at 18 39 51](https://github.com/flutter/flutter/assets/48603081/52ec5096-bad6-4753-9e9a-15b6d5ce767e)![Screenshot 2023-07-14 at 18 38 32](https://github.com/flutter/flutter/assets/48603081/a51aeca8-a5c2-42b4-8c05-b55f9955e860)</details></sub>
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Add support for M3 motion
-    <sub>[#129942](https://github.com/flutter/flutter/pull/129942) merged on July 19, 2023 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/129942) over 2 weeks, 407 additions and 1 deletion in 10 files</sub>
+    <sub>[#129942](https://github.com/flutter/flutter/pull/129942) merged on July 19, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/129942) over 2 weeks, 407 additions and 1 deletion in 10 files</sub>
     <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [flutter_tools] Support coverage collection for dependencies
