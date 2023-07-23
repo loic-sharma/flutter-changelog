@@ -86,3 +86,6 @@
 * **[Jay Mehta](https://github.com/thisisjaymehta)** &mdash; Fixed regex to show missing assets file error<br />
     <sub>[#131160](https://github.com/flutter/flutter/pull/131160) opened on on July 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131160) 16 additions and 1 deletion in 2 files</sub><br />
 
+* **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Update `Scrollable` on `ScrollBehaviour` change.<br />
+    <sub>[#131164](https://github.com/flutter/flutter/pull/131164) opened on on July 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131164) 56 additions and 0 deletions in 2 files</sub><br />
+
