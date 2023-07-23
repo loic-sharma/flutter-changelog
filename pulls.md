@@ -65,8 +65,8 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Reduce usage of testUsingContext<br />
     <sub>[#131078](https://github.com/flutter/flutter/pull/131078) opened on on July 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131078) 79 additions and 104 deletions in 10 files</sub><br />
 
-* **[mcmah309](https://github.com/mcmah309)** &mdash; Add onselectionevent to text widget<br />
-    <sub>[#131097](https://github.com/flutter/flutter/pull/131097) opened on on July 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131097) 86 additions and 2 deletions in 4 files</sub><br />
+* **[mcmah309](https://github.com/mcmah309)** &mdash; Add onSelectionEvent to text widget<br />
+    <sub>[#131097](https://github.com/flutter/flutter/pull/131097) opened on on July 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131097) 88 additions and 2 deletions in 4 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; WIP<br />
     <sub>[#131098](https://github.com/flutter/flutter/pull/131098) opened on on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131098) 4 additions and 229 deletions in 3 files</sub><br />
