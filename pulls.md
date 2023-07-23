@@ -84,5 +84,5 @@
     <sub>[#131141](https://github.com/flutter/flutter/pull/131141) opened on on July 23, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131141) 6 additions and 4 deletions in 2 files</sub><br />
 
 * **[Jay Mehta](https://github.com/thisisjaymehta)** &mdash; Fixed regex to show missing assets file error<br />
-    <sub>[#131160](https://github.com/flutter/flutter/pull/131160) opened on on July 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131160) 16 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#131160](https://github.com/flutter/flutter/pull/131160) opened on on July 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131160) 16 additions and 1 deletion in 2 files</sub><br />
 
