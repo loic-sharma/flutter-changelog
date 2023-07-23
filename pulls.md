@@ -80,3 +80,6 @@
 * **[David](https://github.com/DavidIsa)** &mdash; Fix template app documentation<br />
     <sub>[#131125](https://github.com/flutter/flutter/pull/131125) opened on on July 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131125) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Donghyun Kim](https://github.com/temeddix)** &mdash; Use Flutter project's NDK version from FFI plugin<br />
+    <sub>[#131141](https://github.com/flutter/flutter/pull/131141) opened on on July 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131141) 5 additions and 3 deletions in 1 file</sub><br />
+
