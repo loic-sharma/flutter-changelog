@@ -610,7 +610,7 @@
 
 ### July 22, 2023 to July 28, 2023
 
-4 commits.
+5 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix typo in help for compiler switches.<br />
     <sub>[#43937](https://github.com/flutter/engine/pull/43937) merged on July 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43937) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -619,6 +619,10 @@
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Remove more calls to SkCanvas::flush() and SkSurface::flush()<br />
     <sub>[#43902](https://github.com/flutter/engine/pull/43902) merged on July 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43902) over 2 days, 24 additions and 9 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from e28575f66ae5 to 5e21d7f02425 (4 revisions)<br />
+    <sub>[#43964](https://github.com/flutter/engine/pull/43964) merged on July 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43964) over 31 minutes, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 430a4f559cbc to e28575f66ae5 (1 revision)<br />
     <sub>[#43951](https://github.com/flutter/engine/pull/43951) merged on July 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43951) over 31 minutes, 1 addition and 1 deletion in 1 file</sub><br />
@@ -664,7 +668,7 @@
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Refactor: fix typo "setup" -> "set up"<br />
     <sub>[#43824](https://github.com/flutter/engine/pull/43824) merged on July 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43824) over 1 day, 98 additions and 98 deletions in 21 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart<br />
     <sub>[#43895](https://github.com/flutter/engine/pull/43895) merged on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43895) over 36 minutes, 12 additions and 16 deletions in 2 files</sub><br />
