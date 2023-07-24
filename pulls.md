@@ -77,3 +77,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; IgnoreBaseline widget<br />
     <sub>[#131220](https://github.com/flutter/flutter/pull/131220) opened on on July 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131220) 141 additions and 3 deletions in 5 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Device discovery output cleanup<br />
+    <sub>[#131223](https://github.com/flutter/flutter/pull/131223) opened on on July 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131223) 163 additions and 129 deletions in 3 files</sub><br />
+
