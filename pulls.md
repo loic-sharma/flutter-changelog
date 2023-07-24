@@ -62,9 +62,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Ignore unused parameters in snippet code<br />
     <sub>[#131068](https://github.com/flutter/flutter/pull/131068) opened on on July 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131068) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Reduce usage of testUsingContext<br />
-    <sub>[#131078](https://github.com/flutter/flutter/pull/131078) opened on on July 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/131078) 79 additions and 104 deletions in 10 files</sub><br />
-
 * **[mcmah309](https://github.com/mcmah309)** &mdash; Add onSelectionEvent to text widget<br />
     <sub>[#131097](https://github.com/flutter/flutter/pull/131097) opened on on July 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131097) 88 additions and 2 deletions in 4 files</sub><br />
 
