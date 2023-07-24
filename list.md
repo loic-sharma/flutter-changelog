@@ -4,7 +4,11 @@
 
 ### July 22, 2023 to July 28, 2023
 
-4 commits.
+5 commits.
+
+* **[Sabin Neupane](https://github.com/sabin26)** &mdash; [DropdownMenu] Close menu after editing is complete
+    <sub>[#130710](https://github.com/flutter/flutter/pull/130710) merged on July 24, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130710) over 1 week, 29 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Fix material date picker behavior when changing year
     <sub>[#130486](https://github.com/flutter/flutter/pull/130486) merged on July 24, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/130486) over 1 week, 42 additions and 4 deletions in 3 files</sub>
@@ -610,7 +614,15 @@
 
 ### July 22, 2023 to July 28, 2023
 
-5 commits.
+7 commits.
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix clip pipeline validation failure; add dedicated clip shaders.
+    <sub>[#43946](https://github.com/flutter/engine/pull/43946) merged on July 24, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/43946) over 12 hours, 516 additions and 166 deletions in 15 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] provide cull rect to Canvas in GL/Vulakn impeller backend.
+    <sub>[#43961](https://github.com/flutter/engine/pull/43961) merged on July 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43961) over 1 hour, 4 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix typo in help for compiler switches.
     <sub>[#43937](https://github.com/flutter/engine/pull/43937) merged on July 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43937) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
