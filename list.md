@@ -178,7 +178,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `TextSelectionTheme`, `ThemeData`, `TimePicker`, and `TimePickerTheme` tests for M2/M3
     <sub>[#130547](https://github.com/flutter/flutter/pull/130547) merged on July 20, 2023 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/130547) over 6 days, 901 additions and 470 deletions in 5 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update SnackBar tests for M2/M3
     <sub>[#130717](https://github.com/flutter/flutter/pull/130717) merged on July 18, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/130717) over 1 day, 625 additions and 52 deletions in 1 file</sub>
@@ -636,7 +636,7 @@
 
 ### July 22, 2023 to July 28, 2023
 
-13 commits.
+14 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix MatrixFilter multiplication ordering for subpasses.
     <sub>[#43943](https://github.com/flutter/engine/pull/43943) merged on July 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43943) over 18 hours, 73 additions and 30 deletions in 3 files</sub>
@@ -649,6 +649,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix clip pipeline validation failure; add dedicated clip shaders.
     <sub>[#43946](https://github.com/flutter/engine/pull/43946) merged on July 24, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/43946) over 12 hours, 516 additions and 166 deletions in 15 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] presentKHR from background worker.
+    <sub>[#43976](https://github.com/flutter/engine/pull/43976) merged on July 24, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/43976) over 1 hour, 88 additions and 79 deletions in 1 file</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; add ColorFilter.toString to web_ui
     <sub>[#43874](https://github.com/flutter/engine/pull/43874) merged on July 24, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43874) over 3 days, 19 additions and 0 deletions in 2 files</sub>
