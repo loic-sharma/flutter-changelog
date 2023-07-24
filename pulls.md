@@ -47,9 +47,6 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; plugin templates: replace `allprojects.repositories` with `repositories`<br />
     <sub>[#130835](https://github.com/flutter/flutter/pull/130835) opened on on July 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130835) 10 additions and 14 deletions in 4 files</sub><br />
 
-* **[DrNorton](https://github.com/DrNorton)** &mdash; Localize the 'No Replacements Found' spell check string<br />
-    <sub>[#130875](https://github.com/flutter/flutter/pull/130875) opened on on July 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130875) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Andrey Suvorov](https://github.com/AndreySuworow)** &mdash; fixes l10n for CupertinoDatePicker in monthYear mode<br />
     <sub>[#130934](https://github.com/flutter/flutter/pull/130934) opened on on July 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130934) 90 additions and 6 deletions in 5 files</sub><br />
 
