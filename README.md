@@ -585,9 +585,18 @@
 
 ## flutter/engine
 
+### July 22, 2023 to July 28, 2023
+
+1 commits.
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix typo in help for compiler switches.<br />
+    <sub>[#43937](https://github.com/flutter/engine/pull/43937) merged on July 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43937) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 ### July 15, 2023 to July 21, 2023
 
-56 commits.
+<details>
+<summary>56 commits...</summary>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Correct coverage hint usage in PipelineBlend<br />
     <sub>[#43708](https://github.com/flutter/engine/pull/43708) merged on July 17, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/43708) over 2 days, 62 additions and 24 deletions in 2 files</sub><br />
@@ -813,6 +822,8 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Roll Clang from 6d667d4b261e to ebd0b8a0472b"<br />
     <sub>[#43749](https://github.com/flutter/engine/pull/43749) merged on July 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43749) over 43 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+</details>
 
 ### July 8, 2023 to July 14, 2023
 
