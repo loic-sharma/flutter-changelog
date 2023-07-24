@@ -47,9 +47,6 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; plugin templates: replace `allprojects.repositories` with `repositories`<br />
     <sub>[#130835](https://github.com/flutter/flutter/pull/130835) opened on on July 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130835) 10 additions and 14 deletions in 4 files</sub><br />
 
-* **[Andrey Suvorov](https://github.com/AndreySuworow)** &mdash; fixes l10n for CupertinoDatePicker in monthYear mode<br />
-    <sub>[#130934](https://github.com/flutter/flutter/pull/130934) opened on on July 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130934) 90 additions and 6 deletions in 5 files</sub><br />
-
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#131063](https://github.com/flutter/flutter/pull/131063) opened on on July 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131063) 6 additions and 4 deletions in 2 files</sub><br />
 
