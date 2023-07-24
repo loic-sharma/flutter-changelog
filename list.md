@@ -558,7 +558,7 @@
 
 * **[Rydmike](https://github.com/rydmike)** &mdash; Fix default icon color constants reversed brightness documentation
     <sub>[#130231](https://github.com/flutter/flutter/pull/130231) merged on July 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130231) over 20 hours, 2 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Reland "Print pretty error when xcodebuild fails due to missing simulator #130286"
     <sub>[#130506](https://github.com/flutter/flutter/pull/130506) merged on July 13, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/130506) over 2 hours, 468 additions and 1 deletion in 6 files</sub>
@@ -606,7 +606,7 @@
 
 ### July 22, 2023 to July 28, 2023
 
-3 commits.
+4 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix typo in help for compiler switches.
     <sub>[#43937](https://github.com/flutter/engine/pull/43937) merged on July 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43937) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -619,6 +619,10 @@
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 430a4f559cbc to e28575f66ae5 (1 revision)
     <sub>[#43951](https://github.com/flutter/engine/pull/43951) merged on July 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43951) over 31 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Remove more calls to SkCanvas::flush() and SkSurface::flush()"
+    <sub>[#43957](https://github.com/flutter/engine/pull/43957) merged on July 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43957) over 25 minutes, 9 additions and 24 deletions in 4 files</sub>
+    <sub>Reviewed by: [Kevin Lubick](https://github.com/kjlubick)</sub>
 
 ### July 15, 2023 to July 21, 2023
 
