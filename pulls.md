@@ -86,3 +86,6 @@
 * **[OctavianMihaila](https://github.com/OctavianMihaila)** &mdash; Fix DropdownButton extra padding when alignDropdown: true<br />
     <sub>[#131183](https://github.com/flutter/flutter/pull/131183) opened on on July 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131183) 44 additions and 61 deletions in 2 files</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update link to unbounded constraints error<br />
+    <sub>[#131205](https://github.com/flutter/flutter/pull/131205) opened on on July 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131205) 1 addition and 1 deletion in 1 file</sub><br />
+
