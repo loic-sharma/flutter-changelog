@@ -35,9 +35,6 @@
 * **[Michelle Nguyen](https://github.com/mnguyen427)** &mdash; Fix CLI build tool log output during build ipa --export-options-plist<br />
     <sub>[#130424](https://github.com/flutter/flutter/pull/130424) opened on on July 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130424) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; ImageDecoration.lerp<br />
-    <sub>[#130533](https://github.com/flutter/flutter/pull/130533) opened on on July 13, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/130533) 612 additions and 59 deletions in 11 files</sub><br />
-
 * **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Update Dockerfile<br />
     <sub>[#130607](https://github.com/flutter/flutter/pull/130607) opened on on July 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130607) 4 additions and 2 deletions in 1 file</sub><br />
 
@@ -56,23 +53,14 @@
 * **[Donghyun Kim](https://github.com/temeddix)** &mdash; Use Flutter app project's NDK version from FFI plugin<br />
     <sub>[#131141](https://github.com/flutter/flutter/pull/131141) opened on on July 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131141) 6 additions and 4 deletions in 2 files</sub><br />
 
-* **[Jay Mehta](https://github.com/thisisjaymehta)** &mdash; Fixed regex to show missing assets file error<br />
-    <sub>[#131160](https://github.com/flutter/flutter/pull/131160) opened on on July 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131160) 16 additions and 1 deletion in 2 files</sub><br />
-
 * **[OctavianMihaila](https://github.com/OctavianMihaila)** &mdash; Fix DropdownButton extra padding when alignDropdown: true<br />
     <sub>[#131183](https://github.com/flutter/flutter/pull/131183) opened on on July 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131183) 44 additions and 61 deletions in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Device discovery output cleanup<br />
     <sub>[#131223](https://github.com/flutter/flutter/pull/131223) opened on on July 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131223) 163 additions and 129 deletions in 3 files</sub><br />
 
-* **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 Only format Dart files for `gen-l10n`<br />
-    <sub>[#131232](https://github.com/flutter/flutter/pull/131232) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131232) 4 additions and 8 deletions in 1 file</sub><br />
-
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] provide serviceWorkerVersion to the getNewServiceWorker function<br />
     <sub>[#131240](https://github.com/flutter/flutter/pull/131240) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131240) 182 additions and 2 deletions in 4 files</sub><br />
-
-* **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 Treat empty ARB content as empty map when decoding<br />
-    <sub>[#131242](https://github.com/flutter/flutter/pull/131242) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131242) 14 additions and 3 deletions in 2 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Improve rendering of structured errors via DAP<br />
     <sub>[#131251](https://github.com/flutter/flutter/pull/131251) opened on on July 25, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/131251) 292 additions and 26 deletions in 6 files</sub><br />
@@ -91,4 +79,7 @@
 
 * **[Sumit Bikram Maity](https://github.com/SumitBikram)** &mdash; Appended period remove & Uri parsing fix.<br />
     <sub>[#131293](https://github.com/flutter/flutter/pull/131293) opened on on July 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131293) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated integration_tests/platform_interaction test_step.dart<br />
+    <sub>[#131301](https://github.com/flutter/flutter/pull/131301) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131301) 4 additions and 3 deletions in 1 file</sub><br />
 
