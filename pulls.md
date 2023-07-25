@@ -89,3 +89,6 @@
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] provide serviceWorkerVersion to the getNewServiceWorker function<br />
     <sub>[#131240](https://github.com/flutter/flutter/pull/131240) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131240) 182 additions and 2 deletions in 4 files</sub><br />
 
+* **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 Treat empty ARB content as empty map when decoding<br />
+    <sub>[#131242](https://github.com/flutter/flutter/pull/131242) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131242) 14 additions and 3 deletions in 2 files</sub><br />
+
