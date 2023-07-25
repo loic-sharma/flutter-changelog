@@ -83,9 +83,6 @@
 * **[Sabin Neupane](https://github.com/sabin26)** &mdash; Add Sabin Neupane to AUTHORS<br />
     <sub>[#131237](https://github.com/flutter/flutter/pull/131237) opened on on July 25, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131237) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Document the Flow/Opacity/hit-test issues<br />
-    <sub>[#131239](https://github.com/flutter/flutter/pull/131239) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131239) 124 additions and 11 deletions in 3 files</sub><br />
-
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] provide serviceWorkerVersion to the getNewServiceWorker function<br />
     <sub>[#131240](https://github.com/flutter/flutter/pull/131240) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131240) 182 additions and 2 deletions in 4 files</sub><br />
 
