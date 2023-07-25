@@ -101,3 +101,6 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Fix ios_add2app Podfile<br />
     <sub>[#131263](https://github.com/flutter/flutter/pull/131263) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131263) 12 additions and 19 deletions in 2 files</sub><br />
 
+* **[Chris Evans](https://github.com/perks)** &mdash; Add 'vm:keep-name' pragmas to platform channel classes<br />
+    <sub>[#131271](https://github.com/flutter/flutter/pull/131271) opened on on July 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131271) 2 additions and 0 deletions in 2 files</sub><br />
+
