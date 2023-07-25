@@ -588,7 +588,7 @@
 
 * **[Rydmike](https://github.com/rydmike)** &mdash; Fix default icon color constants reversed brightness documentation
     <sub>[#130231](https://github.com/flutter/flutter/pull/130231) merged on July 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130231) over 20 hours, 2 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Reland "Print pretty error when xcodebuild fails due to missing simulator #130286"
     <sub>[#130506](https://github.com/flutter/flutter/pull/130506) merged on July 13, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/130506) over 2 hours, 468 additions and 1 deletion in 6 files</sub>
@@ -636,7 +636,12 @@
 
 ### July 22, 2023 to July 28, 2023
 
-14 commits.
+15 commits.
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Skip rect clips that do nothing.
+    <sub>[#43948](https://github.com/flutter/engine/pull/43948) merged on July 25, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/43948) over 16 hours, 182 additions and 76 deletions in 16 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub><details><summary>1 image...</summary>![compare](https://github.com/flutter/engine/assets/919017/34608633-6b3b-4979-be2b-f2685b32168f)</details></sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix MatrixFilter multiplication ordering for subpasses.
     <sub>[#43943](https://github.com/flutter/engine/pull/43943) merged on July 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43943) over 18 hours, 73 additions and 30 deletions in 3 files</sub>
