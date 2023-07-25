@@ -50,9 +50,6 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#131063](https://github.com/flutter/flutter/pull/131063) opened on on July 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131063) 6 additions and 4 deletions in 2 files</sub><br />
 
-* **[mcmah309](https://github.com/mcmah309)** &mdash; Add onSelectionEvent to text widget<br />
-    <sub>[#131097](https://github.com/flutter/flutter/pull/131097) opened on on July 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131097) 88 additions and 2 deletions in 4 files</sub><br />
-
 * **[David](https://github.com/DavidIsa)** &mdash; Fix template app documentation<br />
     <sub>[#131125](https://github.com/flutter/flutter/pull/131125) opened on on July 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131125) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -61,9 +58,6 @@
 
 * **[Jay Mehta](https://github.com/thisisjaymehta)** &mdash; Fixed regex to show missing assets file error<br />
     <sub>[#131160](https://github.com/flutter/flutter/pull/131160) opened on on July 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131160) 16 additions and 1 deletion in 2 files</sub><br />
-
-* **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Update `Scrollable` on `ScrollBehaviour` change.<br />
-    <sub>[#131164](https://github.com/flutter/flutter/pull/131164) opened on on July 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131164) 56 additions and 0 deletions in 2 files</sub><br />
 
 * **[OctavianMihaila](https://github.com/OctavianMihaila)** &mdash; Fix DropdownButton extra padding when alignDropdown: true<br />
     <sub>[#131183](https://github.com/flutter/flutter/pull/131183) opened on on July 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131183) 44 additions and 61 deletions in 2 files</sub><br />
