@@ -89,9 +89,6 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Fix ios_add2app Podfile<br />
     <sub>[#131263](https://github.com/flutter/flutter/pull/131263) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131263) 12 additions and 19 deletions in 2 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds more documentations around ignoreSemantics deprecations.<br />
-    <sub>[#131287](https://github.com/flutter/flutter/pull/131287) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131287) 12 additions and 0 deletions in 1 file</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [Cp] Fix Tooltip crash when selected in a SelectableRegion (#130181)<br />
     <sub>[#131288](https://github.com/flutter/flutter/pull/131288) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131288) 115 additions and 24 deletions in 4 files</sub><br />
 
