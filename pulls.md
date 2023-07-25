@@ -50,9 +50,6 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#131063](https://github.com/flutter/flutter/pull/131063) opened on on July 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131063) 6 additions and 4 deletions in 2 files</sub><br />
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Ignore unused parameters in snippet code<br />
-    <sub>[#131068](https://github.com/flutter/flutter/pull/131068) opened on on July 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131068) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[mcmah309](https://github.com/mcmah309)** &mdash; Add onSelectionEvent to text widget<br />
     <sub>[#131097](https://github.com/flutter/flutter/pull/131097) opened on on July 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131097) 88 additions and 2 deletions in 4 files</sub><br />
 
