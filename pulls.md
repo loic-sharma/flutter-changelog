@@ -80,6 +80,3 @@
 * **[Sumit Bikram Maity](https://github.com/SumitBikram)** &mdash; Appended period remove & Uri parsing fix.<br />
     <sub>[#131293](https://github.com/flutter/flutter/pull/131293) opened on on July 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131293) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated integration_tests/platform_interaction test_step.dart<br />
-    <sub>[#131301](https://github.com/flutter/flutter/pull/131301) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131301) 4 additions and 3 deletions in 1 file</sub><br />
-
