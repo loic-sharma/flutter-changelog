@@ -95,3 +95,6 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Fix ios_add2app Podfile<br />
     <sub>[#131263](https://github.com/flutter/flutter/pull/131263) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131263) 12 additions and 19 deletions in 2 files</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Revert "Proposal to add barrier configs for showDatePicker, showTimePicker and showAboutDialog."<br />
+    <sub>[#131278](https://github.com/flutter/flutter/pull/131278) opened on on July 25, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/131278) 14 additions and 564 deletions in 7 files</sub><br />
+
