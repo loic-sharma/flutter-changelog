@@ -513,7 +513,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; mark android impeller tests as bringup<br />
     <sub>[#130525](https://github.com/flutter/flutter/pull/130525) merged on July 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130525) over 1 minute, 4 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.<br />
     <sub>[#130507](https://github.com/flutter/flutter/pull/130507) merged on July 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130507) over 57 minutes, 6 additions and 8 deletions in 3 files</sub><br />
@@ -609,7 +609,7 @@
 
 * **[Gil Nobrega](https://github.com/gilnobrega)** &mdash;  Reland [a11y] CupertinoSwitch On/Off labels<br />
     <sub>[#130173](https://github.com/flutter/flutter/pull/130173) merged on July 12, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/130173) over 4 days, 383 additions and 0 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Update `DialogTheme` tests for M2/M3"<br />
     <sub>[#130578](https://github.com/flutter/flutter/pull/130578) merged on July 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130578) over 1 minute, 20 additions and 88 deletions in 1 file</sub><br />
@@ -637,7 +637,7 @@
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove unneeded configuration file <br />
     <sub>[#130183](https://github.com/flutter/flutter/pull/130183) merged on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130183) over 1 hour, 0 additions and 7 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [keyonghan](https://github.com/keyonghan)</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
 
 </details>
 
@@ -645,7 +645,7 @@
 
 ### July 22, 2023 to July 28, 2023
 
-21 commits.
+22 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Skip rect clips that do nothing.<br />
     <sub>[#43948](https://github.com/flutter/engine/pull/43948) merged on July 25, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/43948) over 16 hours, 182 additions and 76 deletions in 16 files</sub><br />
@@ -729,6 +729,10 @@
     <sub>[#43957](https://github.com/flutter/engine/pull/43957) merged on July 24, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/43957) over 25 minutes, 9 additions and 24 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kevin Lubick](https://github.com/kjlubick)</sub><br />
 
+* **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Reland "Remove more calls to SkCanvas::flush() and SkSurface::flush()"<br />
+    <sub>[#43965](https://github.com/flutter/engine/pull/43965) merged on July 25, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/43965) over 1 day, 24 additions and 9 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jim Graham](https://github.com/flar)</sub><br />
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "[Impeller] Fix MatrixFilter multiplication ordering for subpasses."<br />
     <sub>[#43978](https://github.com/flutter/engine/pull/43978) merged on July 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43978) over 43 minutes, 30 additions and 73 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
@@ -769,7 +773,7 @@
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Refactor: fix typo "setup" -> "set up"<br />
     <sub>[#43824](https://github.com/flutter/engine/pull/43824) merged on July 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43824) over 1 day, 98 additions and 98 deletions in 21 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart<br />
     <sub>[#43895](https://github.com/flutter/engine/pull/43895) merged on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43895) over 36 minutes, 12 additions and 16 deletions in 2 files</sub><br />
@@ -793,7 +797,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add the 'affects: desktop' label to labeler.yml<br />
     <sub>[#43827](https://github.com/flutter/engine/pull/43827) merged on July 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43827) over 1 hour, 6 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] size command pools to npot of command count.<br />
     <sub>[#43903](https://github.com/flutter/engine/pull/43903) merged on July 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43903) over 7 hours, 39 additions and 22 deletions in 6 files</sub><br />
@@ -833,7 +837,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Remove accessibility bridge helpers from the engine<br />
     <sub>[#43710](https://github.com/flutter/engine/pull/43710) merged on July 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43710) over 2 days, 27 additions and 39 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Increase engine v2 orchestrator timeouts<br />
     <sub>[#43788](https://github.com/flutter/engine/pull/43788) merged on July 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43788) over 2 hours, 18 additions and 18 deletions in 1 file</sub><br />
@@ -1285,7 +1289,7 @@
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Fixes bug where `PlatformWebViewWidget` doesn't rebuild when the controller changes<br />
     <sub>[#4533](https://github.com/flutter/packages/pull/4533) merged on July 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4533) over 4 days, 197 additions and 35 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Maurits van Beusekom](https://github.com/mvanbeusekom), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurits van Beusekom](https://github.com/mvanbeusekom)</sub><br />
 
 ### July 15, 2023 to July 21, 2023
 
