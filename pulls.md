@@ -63,7 +63,7 @@
     <sub>[#131160](https://github.com/flutter/flutter/pull/131160) opened on on July 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131160) 16 additions and 1 deletion in 2 files</sub><br />
 
 * **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Update `Scrollable` on `ScrollBehaviour` change.<br />
-    <sub>[#131164](https://github.com/flutter/flutter/pull/131164) opened on on July 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131164) 56 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#131164](https://github.com/flutter/flutter/pull/131164) opened on on July 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131164) 56 additions and 0 deletions in 2 files</sub><br />
 
 * **[OctavianMihaila](https://github.com/OctavianMihaila)** &mdash; Fix DropdownButton extra padding when alignDropdown: true<br />
     <sub>[#131183](https://github.com/flutter/flutter/pull/131183) opened on on July 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131183) 44 additions and 61 deletions in 2 files</sub><br />
