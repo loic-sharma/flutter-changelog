@@ -93,8 +93,11 @@
     <sub>[#131242](https://github.com/flutter/flutter/pull/131242) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131242) 14 additions and 3 deletions in 2 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Improve rendering of structured errors via DAP<br />
-    <sub>[#131251](https://github.com/flutter/flutter/pull/131251) opened on on July 25, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/131251) 289 additions and 26 deletions in 6 files</sub><br />
+    <sub>[#131251](https://github.com/flutter/flutter/pull/131251) opened on on July 25, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/131251) 292 additions and 26 deletions in 6 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Relax HarwareKeyboard assert on first received event<br />
     <sub>[#131258](https://github.com/flutter/flutter/pull/131258) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131258) 66 additions and 0 deletions in 2 files</sub><br />
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Fix ios_add2app Podfile<br />
+    <sub>[#131263](https://github.com/flutter/flutter/pull/131263) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131263) 12 additions and 19 deletions in 2 files</sub><br />
 
