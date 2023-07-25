@@ -77,3 +77,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Device discovery output cleanup<br />
     <sub>[#131223](https://github.com/flutter/flutter/pull/131223) opened on on July 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131223) 163 additions and 129 deletions in 3 files</sub><br />
 
+* **[Sabin Neupane](https://github.com/sabin26)** &mdash; Add Sabin Neupane to AUTHORS<br />
+    <sub>[#131237](https://github.com/flutter/flutter/pull/131237) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131237) 1 addition and 0 deletions in 1 file</sub><br />
+
