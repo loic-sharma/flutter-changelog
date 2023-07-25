@@ -81,7 +81,7 @@
     <sub>[#131232](https://github.com/flutter/flutter/pull/131232) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131232) 4 additions and 8 deletions in 1 file</sub><br />
 
 * **[Sabin Neupane](https://github.com/sabin26)** &mdash; Add Sabin Neupane to AUTHORS<br />
-    <sub>[#131237](https://github.com/flutter/flutter/pull/131237) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131237) 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>[#131237](https://github.com/flutter/flutter/pull/131237) opened on on July 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131237) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Document the Flow/Opacity/hit-test issues<br />
     <sub>[#131239](https://github.com/flutter/flutter/pull/131239) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131239) 124 additions and 11 deletions in 3 files</sub><br />
