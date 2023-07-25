@@ -645,7 +645,7 @@
 
 ### July 22, 2023 to July 28, 2023
 
-20 commits.
+21 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Skip rect clips that do nothing.
     <sub>[#43948](https://github.com/flutter/engine/pull/43948) merged on July 25, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/43948) over 16 hours, 182 additions and 76 deletions in 16 files</sub>
@@ -656,6 +656,10 @@
     <sub>[#43990](https://github.com/flutter/engine/pull/43990) merged on July 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43990) over 11 hours, 57 additions and 26 deletions in 3 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/engine/assets/919017/3f2e099d-9d43-4ee6-8efe-3203edad47ad)</details></sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] round scale for glyph atlas cache to 2 decimal places.
+    <sub>[#43752](https://github.com/flutter/engine/pull/43752) merged on July 25, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/43752) over 1 week, 29 additions and 2 deletions in 4 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix MatrixFilter multiplication ordering for subpasses.
     <sub>[#43943](https://github.com/flutter/engine/pull/43943) merged on July 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43943) over 18 hours, 73 additions and 30 deletions in 3 files</sub>
