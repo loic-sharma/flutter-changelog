@@ -101,3 +101,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [CP] Allow `OverlayPortal` to be added/removed from the tree in a layout callback (#130670)<br />
     <sub>[#131290](https://github.com/flutter/flutter/pull/131290) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131290) 59 additions and 10 deletions in 2 files</sub><br />
 
+* **[Sumit Bikram Maity](https://github.com/SumitBikram)** &mdash; Appended period remove & Uri parsing fix.<br />
+    <sub>[#131293](https://github.com/flutter/flutter/pull/131293) opened on on July 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131293) 1 addition and 1 deletion in 1 file</sub><br />
+
