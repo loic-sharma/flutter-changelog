@@ -98,3 +98,6 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `RawChip` doesn't use `ChipTheme.showCheckmark` value<br />
     <sub>[#131257](https://github.com/flutter/flutter/pull/131257) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131257) 63 additions and 3 deletions in 2 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Relax HarwareKeyboard assert on first received event<br />
+    <sub>[#131258](https://github.com/flutter/flutter/pull/131258) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131258) 66 additions and 0 deletions in 2 files</sub><br />
+
