@@ -95,6 +95,3 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Improve rendering of structured errors via DAP<br />
     <sub>[#131251](https://github.com/flutter/flutter/pull/131251) opened on on July 25, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/131251) 289 additions and 26 deletions in 6 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TimePicker` defaults for `hourMinuteTextStyle` and `dayPeriodTextColor` for Material 3<br />
-    <sub>[#131253](https://github.com/flutter/flutter/pull/131253) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131253) 52 additions and 78 deletions in 4 files</sub><br />
-
