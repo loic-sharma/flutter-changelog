@@ -669,7 +669,7 @@
 
 ### July 22, 2023 to July 28, 2023
 
-27 commits.
+30 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Skip rect clips that do nothing.
     <sub>[#43948](https://github.com/flutter/engine/pull/43948) merged on July 25, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/43948) over 16 hours, 182 additions and 76 deletions in 16 files</sub>
@@ -717,6 +717,14 @@
     <sub>[#43937](https://github.com/flutter/engine/pull/43937) merged on July 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43937) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Roll fallback fonts.
+    <sub>[#44000](https://github.com/flutter/engine/pull/44000) merged on July 26, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/44000) over 9 hours, 162 additions and 162 deletions in 2 files</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Paul Berry](https://github.com/stereotype441)** &mdash; Prepare flutter engine for enabling private final field promotion.
+    <sub>[#43959](https://github.com/flutter/engine/pull/43959) merged on July 26, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/43959) over 1 day, 46 additions and 32 deletions in 5 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Uncap framerate for `iOSAppOnMac`
     <sub>[#43840](https://github.com/flutter/engine/pull/43840) merged on July 25, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/43840) over 5 days, 41 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz)</sub>
@@ -728,6 +736,10 @@
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Remove more calls to SkCanvas::flush() and SkSurface::flush()
     <sub>[#43902](https://github.com/flutter/engine/pull/43902) merged on July 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43902) over 2 days, 24 additions and 9 deletions in 4 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 61ab5422fb7b to b1e82e2e55b2 (3 revisions)
+    <sub>[#44018](https://github.com/flutter/engine/pull/44018) merged on July 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44018) over 3 hours, 2 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from b0b71d59391c to 84f5295c9782 (3 revisions)
     <sub>[#44025](https://github.com/flutter/engine/pull/44025) merged on July 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44025) over 36 minutes, 2 additions and 2 deletions in 2 files</sub>
