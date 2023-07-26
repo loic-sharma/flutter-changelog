@@ -219,7 +219,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `TextSelectionTheme`, `ThemeData`, `TimePicker`, and `TimePickerTheme` tests for M2/M3
     <sub>[#130547](https://github.com/flutter/flutter/pull/130547) merged on July 20, 2023 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/130547) over 6 days, 901 additions and 470 deletions in 5 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update SnackBar tests for M2/M3
     <sub>[#130717](https://github.com/flutter/flutter/pull/130717) merged on July 18, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/130717) over 1 day, 625 additions and 52 deletions in 1 file</sub>
@@ -545,11 +545,11 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; mark android impeller tests as bringup
     <sub>[#130525](https://github.com/flutter/flutter/pull/130525) merged on July 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130525) over 1 minute, 4 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.
     <sub>[#130507](https://github.com/flutter/flutter/pull/130507) merged on July 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130507) over 57 minutes, 6 additions and 8 deletions in 3 files</sub>
-    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jacob Richman](https://github.com/jacob314)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Update labeler for recent changes
     <sub>[#130168](https://github.com/flutter/flutter/pull/130168) merged on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130168) over 3 days, 1 addition and 12 deletions in 1 file</sub>
@@ -669,7 +669,7 @@
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove unneeded configuration file 
     <sub>[#130183](https://github.com/flutter/flutter/pull/130183) merged on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130183) over 1 hour, 0 additions and 7 deletions in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [yusuf-goog](https://github.com/yusuf-goog)</sub>
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [keyonghan](https://github.com/keyonghan)</sub>
 
 </details>
 
@@ -719,7 +719,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS] Return keyboard pressed state
     <sub>[#42878](https://github.com/flutter/engine/pull/42878) merged on July 26, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42878) over 1 month, 144 additions and 6 deletions in 7 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Tong Mu](https://github.com/dkwingsmt)</sub>
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Remove duplicated code.
     <sub>[#44024](https://github.com/flutter/engine/pull/44024) merged on July 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44024) over 6 hours, 0 additions and 26 deletions in 4 files</sub>
@@ -861,11 +861,11 @@
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Refactor: fix typo "setup" -> "set up"
     <sub>[#43824](https://github.com/flutter/engine/pull/43824) merged on July 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43824) over 1 day, 98 additions and 98 deletions in 21 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart
     <sub>[#43895](https://github.com/flutter/engine/pull/43895) merged on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43895) over 36 minutes, 12 additions and 16 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a breadcrumb for people who want to run the web tests
     <sub>[#43865](https://github.com/flutter/engine/pull/43865) merged on July 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43865) over 6 hours, 3 additions and 0 deletions in 1 file</sub>
