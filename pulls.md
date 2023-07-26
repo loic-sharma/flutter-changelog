@@ -83,6 +83,3 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; ImageProvider.toString uses double.toStringAsFixed<br />
     <sub>[#131348](https://github.com/flutter/flutter/pull/131348) opened on on July 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131348) 11 additions and 6 deletions in 4 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; ImageDecoration.lerp (#130533)<br />
-    <sub>[#131349](https://github.com/flutter/flutter/pull/131349) opened on on July 26, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/131349) 612 additions and 59 deletions in 11 files</sub><br />
-
