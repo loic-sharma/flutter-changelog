@@ -251,7 +251,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `TextSelectionTheme`, `ThemeData`, `TimePicker`, and `TimePickerTheme` tests for M2/M3<br />
     <sub>[#130547](https://github.com/flutter/flutter/pull/130547) merged on July 20, 2023 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/130547) over 6 days, 901 additions and 470 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update SnackBar tests for M2/M3<br />
     <sub>[#130717](https://github.com/flutter/flutter/pull/130717) merged on July 18, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/130717) over 1 day, 625 additions and 52 deletions in 1 file</sub><br />
@@ -577,11 +577,11 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; mark android impeller tests as bringup<br />
     <sub>[#130525](https://github.com/flutter/flutter/pull/130525) merged on July 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130525) over 1 minute, 4 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.<br />
     <sub>[#130507](https://github.com/flutter/flutter/pull/130507) merged on July 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130507) over 57 minutes, 6 additions and 8 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jacob Richman](https://github.com/jacob314)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Update labeler for recent changes<br />
     <sub>[#130168](https://github.com/flutter/flutter/pull/130168) merged on July 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130168) over 3 days, 1 addition and 12 deletions in 1 file</sub><br />
@@ -701,7 +701,7 @@
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove unneeded configuration file <br />
     <sub>[#130183](https://github.com/flutter/flutter/pull/130183) merged on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130183) over 1 hour, 0 additions and 7 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [keyonghan](https://github.com/keyonghan)</sub><br />
 
 </details>
 
@@ -709,7 +709,7 @@
 
 ### July 22, 2023 to July 28, 2023
 
-38 commits.
+39 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Skip rect clips that do nothing.<br />
     <sub>[#43948](https://github.com/flutter/engine/pull/43948) merged on July 25, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/43948) over 16 hours, 182 additions and 76 deletions in 16 files</sub><br />
@@ -733,6 +733,10 @@
     <sub>[#43943](https://github.com/flutter/engine/pull/43943) merged on July 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43943) over 18 hours, 73 additions and 30 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix clip pipeline validation failure; add dedicated clip shaders.<br />
+    <sub>[#43946](https://github.com/flutter/engine/pull/43946) merged on July 24, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/43946) over 12 hours, 516 additions and 166 deletions in 15 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Only strip the translation from backdrop filter effect transforms.<br />
     <sub>[#44029](https://github.com/flutter/engine/pull/44029) merged on July 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44029) over 1 hour, 36 additions and 5 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -740,10 +744,6 @@
 * **[Ann Marie Mossman](https://github.com/mossmana)** &mdash; Replace deprecated [UIScreen mainScreen] in FlutterViewController.mm and FlutterViewControllerTest.mm<br />
     <sub>[#43690](https://github.com/flutter/engine/pull/43690) merged on July 24, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/43690) over 1 week, 124 additions and 81 deletions in 2 files</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Chris Yang](https://github.com/cyanglaz)</sub><br />
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix clip pipeline validation failure; add dedicated clip shaders.<br />
-    <sub>[#43946](https://github.com/flutter/engine/pull/43946) merged on July 24, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/43946) over 12 hours, 516 additions and 166 deletions in 15 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Preserve canvaskit variant during tests.<br />
     <sub>[#43868](https://github.com/flutter/engine/pull/43868) merged on July 26, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/43868) over 5 days, 56 additions and 74 deletions in 7 files</sub><br />
@@ -757,21 +757,21 @@
     <sub>[#42878](https://github.com/flutter/engine/pull/42878) merged on July 26, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42878) over 1 month, 144 additions and 6 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] provide cull rect to Canvas in GL/Vulakn impeller backend.<br />
+    <sub>[#43961](https://github.com/flutter/engine/pull/43961) merged on July 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43961) over 1 hour, 4 additions and 4 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] presentKHR from background worker.<br />
     <sub>[#43976](https://github.com/flutter/engine/pull/43976) merged on July 24, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/43976) over 1 hour, 88 additions and 79 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
-
-* **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Remove duplicated code.<br />
-    <sub>[#44024](https://github.com/flutter/engine/pull/44024) merged on July 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44024) over 6 hours, 0 additions and 26 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; add ColorFilter.toString to web_ui<br />
     <sub>[#43874](https://github.com/flutter/engine/pull/43874) merged on July 24, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43874) over 3 days, 19 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] provide cull rect to Canvas in GL/Vulakn impeller backend.<br />
-    <sub>[#43961](https://github.com/flutter/engine/pull/43961) merged on July 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43961) over 1 hour, 4 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
+* **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Remove duplicated code.<br />
+    <sub>[#44024](https://github.com/flutter/engine/pull/44024) merged on July 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44024) over 6 hours, 0 additions and 26 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix typo in help for compiler switches.<br />
     <sub>[#43937](https://github.com/flutter/engine/pull/43937) merged on July 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43937) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -797,6 +797,10 @@
     <sub>[#43902](https://github.com/flutter/engine/pull/43902) merged on July 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43902) over 2 days, 24 additions and 9 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 451b3c31a1fa to af5bf5b8245e (1 revision)<br />
+    <sub>[#44050](https://github.com/flutter/engine/pull/44050) merged on July 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44050) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 58cb5c8396a3 to 451b3c31a1fa (1 revision)<br />
     <sub>[#44044](https://github.com/flutter/engine/pull/44044) merged on July 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44044) over 42 minutes, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
@@ -809,12 +813,8 @@
     <sub>[#43964](https://github.com/flutter/engine/pull/43964) merged on July 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43964) over 31 minutes, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 84f5295c9782 to a09773110c4a (1 revision)<br />
-    <sub>[#44028](https://github.com/flutter/engine/pull/44028) merged on July 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44028) over 41 minutes, 2 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
-
-* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 8662af7d9aa3 to 61ab5422fb7b (12 revisions)<br />
-    <sub>[#44007](https://github.com/flutter/engine/pull/44007) merged on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44007) over 33 minutes, 26 additions and 14 deletions in 2 files</sub><br />
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 430a4f559cbc to e28575f66ae5 (1 revision)<br />
+    <sub>[#43951](https://github.com/flutter/engine/pull/43951) merged on July 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43951) over 31 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 7ae6458b664f to 2d5fb09d7f0a (2 revisions)<br />
@@ -837,8 +837,8 @@
     <sub>[#43968](https://github.com/flutter/engine/pull/43968) merged on July 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43968) over 31 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 61ab5422fb7b to b1e82e2e55b2 (3 revisions)<br />
-    <sub>[#44018](https://github.com/flutter/engine/pull/44018) merged on July 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44018) over 3 hours, 2 additions and 2 deletions in 2 files</sub><br />
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 84f5295c9782 to a09773110c4a (1 revision)<br />
+    <sub>[#44028](https://github.com/flutter/engine/pull/44028) merged on July 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44028) over 41 minutes, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from b0b71d59391c to 84f5295c9782 (3 revisions)<br />
@@ -849,21 +849,25 @@
     <sub>[#44009](https://github.com/flutter/engine/pull/44009) merged on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44009) over 32 minutes, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 430a4f559cbc to e28575f66ae5 (1 revision)<br />
-    <sub>[#43951](https://github.com/flutter/engine/pull/43951) merged on July 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43951) over 31 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 61ab5422fb7b to b1e82e2e55b2 (3 revisions)<br />
+    <sub>[#44018](https://github.com/flutter/engine/pull/44018) merged on July 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44018) over 3 hours, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 8662af7d9aa3 to 61ab5422fb7b (12 revisions)<br />
+    <sub>[#44007](https://github.com/flutter/engine/pull/44007) merged on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44007) over 33 minutes, 26 additions and 14 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Remove more calls to SkCanvas::flush() and SkSurface::flush()"<br />
     <sub>[#43957](https://github.com/flutter/engine/pull/43957) merged on July 24, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/43957) over 25 minutes, 9 additions and 24 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kevin Lubick](https://github.com/kjlubick)</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "[Impeller] Fix MatrixFilter multiplication ordering for subpasses."<br />
-    <sub>[#43978](https://github.com/flutter/engine/pull/43978) merged on July 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43978) over 43 minutes, 30 additions and 73 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Reland "Remove more calls to SkCanvas::flush() and SkSurface::flush()"<br />
     <sub>[#43965](https://github.com/flutter/engine/pull/43965) merged on July 25, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/43965) over 1 day, 24 additions and 9 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "[Impeller] Fix MatrixFilter multiplication ordering for subpasses."<br />
+    <sub>[#43978](https://github.com/flutter/engine/pull/43978) merged on July 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43978) over 43 minutes, 30 additions and 73 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 ### July 15, 2023 to July 21, 2023
 
@@ -1646,7 +1650,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.8.22 to 1.9.0 in /packages/pigeon/platform_tests/test_plugin/android<br />
     <sub>[#4419](https://github.com/flutter/packages/pull/4419) merged on July 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4419) over 17 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.8.22&new-version=1.9.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [file_selector] Avoids using path_provider in web example app.<br />
