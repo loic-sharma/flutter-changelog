@@ -80,6 +80,6 @@
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ⚡️ Add `ssh://git@github.com/flutter/flutter.git` as a standard remote<br />
     <sub>[#131333](https://github.com/flutter/flutter/pull/131333) opened on on July 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131333) 6 additions and 0 deletions in 2 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Revert "ImageDecoration.lerp"<br />
-    <sub>[#131347](https://github.com/flutter/flutter/pull/131347) opened on on July 26, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/131347) 59 additions and 612 deletions in 11 files</sub><br />
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; ImageProvider.toString uses double.toStringAsFixed<br />
+    <sub>[#131348](https://github.com/flutter/flutter/pull/131348) opened on on July 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131348) 11 additions and 6 deletions in 4 files</sub><br />
 
