@@ -81,5 +81,5 @@
     <sub>[#131348](https://github.com/flutter/flutter/pull/131348) opened on on July 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131348) 11 additions and 6 deletions in 4 files</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Add DeviceLab build+test separation doc<br />
-    <sub>[#131365](https://github.com/flutter/flutter/pull/131365) opened on on July 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131365) 27 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#131365](https://github.com/flutter/flutter/pull/131365) opened on on July 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131365) 29 additions and 0 deletions in 1 file</sub><br />
 
