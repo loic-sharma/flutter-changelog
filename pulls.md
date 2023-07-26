@@ -75,7 +75,7 @@
     <sub>[#131290](https://github.com/flutter/flutter/pull/131290) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131290) 59 additions and 10 deletions in 2 files</sub><br />
 
 * **[Sumit Bikram Maity](https://github.com/SumitBikram)** &mdash; Appended period remove & Uri parsing fix.<br />
-    <sub>[#131293](https://github.com/flutter/flutter/pull/131293) opened on on July 25, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131293) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#131293](https://github.com/flutter/flutter/pull/131293) opened on on July 25, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131293) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Seiya Kokushi](https://github.com/ronnnnn)** &mdash; Proposal to add barrier configs for showDatePicker, showTimePicker and showAboutDialog.<br />
     <sub>[#131306](https://github.com/flutter/flutter/pull/131306) opened on on July 26, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/131306) 558 additions and 14 deletions in 7 files</sub><br />
