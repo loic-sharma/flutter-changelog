@@ -80,3 +80,6 @@
 * **[Seiya Kokushi](https://github.com/ronnnnn)** &mdash; Proposal to add barrier configs for showDatePicker, showTimePicker and showAboutDialog.<br />
     <sub>[#131306](https://github.com/flutter/flutter/pull/131306) opened on on July 26, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/131306) 558 additions and 14 deletions in 7 files</sub><br />
 
+* **[Alex Li](https://github.com/AlexV525)** &mdash; ⚡️ Add `ssh://git@github.com/flutter/flutter.git` as a standard remote<br />
+    <sub>[#131333](https://github.com/flutter/flutter/pull/131333) opened on on July 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131333) 6 additions and 0 deletions in 2 files</sub><br />
+
