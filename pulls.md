@@ -59,9 +59,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Device discovery output cleanup<br />
     <sub>[#131223](https://github.com/flutter/flutter/pull/131223) opened on on July 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131223) 163 additions and 129 deletions in 3 files</sub><br />
 
-* **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] provide serviceWorkerVersion to the getNewServiceWorker function<br />
-    <sub>[#131240](https://github.com/flutter/flutter/pull/131240) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131240) 182 additions and 2 deletions in 4 files</sub><br />
-
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Improve rendering of structured errors via DAP<br />
     <sub>[#131251](https://github.com/flutter/flutter/pull/131251) opened on on July 25, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/131251) 292 additions and 26 deletions in 6 files</sub><br />
 
