@@ -70,7 +70,7 @@
     <sub>Reviewed by: [Tess Strickland](https://github.com/sstrickl)</sub>
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Fix floating SnackBar throws when FAB is on the top"
-    <sub>[#131303](https://github.com/flutter/flutter/pull/131303) merged on July 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131303) over 13 hours, 7 additions and 87 deletions in 3 files</sub>
+    <sub>[#131303](https://github.com/flutter/flutter/pull/131303) merged on July 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131303) over 13 hours, 7 additions and 87 deletions in 3 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Ignore unused parameters in snippet code
