@@ -11,9 +11,6 @@
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Added hoverColor property on ExpansionTile widget<br />
     <sub>[#116030](https://github.com/flutter/flutter/pull/116030) opened on on November 25, 2022 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/116030) 31 additions and 0 deletions in 3 files</sub><br />
 
-* **[Matias Sebastian Ramirez Brizuela](https://github.com/ramirezsebas)** &mdash; Added support for Custom ExpansionPanel Icon<br />
-    <sub>[#121957](https://github.com/flutter/flutter/pull/121957) opened on on March 5, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/121957) 373 additions and 25 deletions in 4 files</sub><br />
-
 * **[LiangXiang Shen](https://github.com/kj415j45)** &mdash; Update `ThemeData`'s factory method documents<br />
     <sub>[#123984](https://github.com/flutter/flutter/pull/123984) opened on on April 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123984) 2 additions and 2 deletions in 1 file</sub><br />
 
