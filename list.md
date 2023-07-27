@@ -291,7 +291,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `TextSelectionTheme`, `ThemeData`, `TimePicker`, and `TimePickerTheme` tests for M2/M3
     <sub>[#130547](https://github.com/flutter/flutter/pull/130547) merged on July 20, 2023 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/130547) over 6 days, 901 additions and 470 deletions in 5 files</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update SnackBar tests for M2/M3
     <sub>[#130717](https://github.com/flutter/flutter/pull/130717) merged on July 18, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/130717) over 1 day, 625 additions and 52 deletions in 1 file</sub>
@@ -803,7 +803,7 @@
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Provide convenient default factories for platform views
-    <sub>[#43828](https://github.com/flutter/engine/pull/43828) merged on July 26, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/43828) over 6 days, 83 additions and 9 deletions in 3 files</sub>
+    <sub>[#43828](https://github.com/flutter/engine/pull/43828) merged on July 26, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/43828) over 6 days, 83 additions and 9 deletions in 3 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS] Return keyboard pressed state
