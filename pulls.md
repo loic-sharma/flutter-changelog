@@ -41,9 +41,6 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; plugin templates: replace `allprojects.repositories` with `repositories`<br />
     <sub>[#130835](https://github.com/flutter/flutter/pull/130835) opened on on July 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/130835) 10 additions and 14 deletions in 4 files</sub><br />
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#131063](https://github.com/flutter/flutter/pull/131063) opened on on July 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131063) 6 additions and 4 deletions in 2 files</sub><br />
-
 * **[OctavianMihaila](https://github.com/OctavianMihaila)** &mdash; Fix DropdownButton extra padding when alignDropdown: true<br />
     <sub>[#131183](https://github.com/flutter/flutter/pull/131183) opened on on July 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131183) 44 additions and 61 deletions in 2 files</sub><br />
 
