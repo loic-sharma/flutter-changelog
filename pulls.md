@@ -62,9 +62,6 @@
 * **[vijaymehrotra](https://github.com/vijaymehrotra)** &mdash; Vijay Mehrotra ..Solved the issue number #130455.<br />
     <sub>[#131392](https://github.com/flutter/flutter/pull/131392) opened on on July 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131392) 4 additions and 4 deletions in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] clean up image provider documentation.<br />
-    <sub>[#131416](https://github.com/flutter/flutter/pull/131416) opened on on July 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131416) 10 additions and 10 deletions in 1 file</sub><br />
-
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update Chrome to 115, and remove `bringup: true` from skwasm benchmarks.<br />
     <sub>[#131430](https://github.com/flutter/flutter/pull/131430) opened on on July 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131430) 73 additions and 75 deletions in 1 file</sub><br />
 
