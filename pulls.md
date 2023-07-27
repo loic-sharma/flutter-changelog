@@ -80,3 +80,9 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; PaginatedDataTable improvements<br />
     <sub>[#131374](https://github.com/flutter/flutter/pull/131374) opened on on July 27, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/131374) 540 additions and 16 deletions in 10 files</sub><br />
 
+* **[vijaymehrotra](https://github.com/vijaymehrotra)** &mdash; Vijay Mehrotra ..Solved the issue number #130455.<br />
+    <sub>[#131392](https://github.com/flutter/flutter/pull/131392) opened on on July 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131392) 4 additions and 4 deletions in 1 file</sub><br />
+
+* **[xubaolin](https://github.com/xu-baolin)** &mdash; [New feature] Allowing the `ListView` slivers to have different extents while still having scrolling performance<br />
+    <sub>[#131393](https://github.com/flutter/flutter/pull/131393) opened on on July 27, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/131393) 285 additions and 46 deletions in 4 files</sub><br />
+
