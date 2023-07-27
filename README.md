@@ -717,7 +717,7 @@
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Remove unneeded configuration file <br />
     <sub>[#130183](https://github.com/flutter/flutter/pull/130183) merged on July 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130183) over 1 hour, 0 additions and 7 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [keyonghan](https://github.com/keyonghan)</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
 
 </details>
 
@@ -775,7 +775,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS] Return keyboard pressed state<br />
     <sub>[#42878](https://github.com/flutter/engine/pull/42878) merged on July 26, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42878) over 1 month, 144 additions and 6 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] presentKHR from background worker.<br />
     <sub>[#43976](https://github.com/flutter/engine/pull/43976) merged on July 24, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/43976) over 1 hour, 88 additions and 79 deletions in 1 file</sub><br />
@@ -937,7 +937,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart<br />
     <sub>[#43895](https://github.com/flutter/engine/pull/43895) merged on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43895) over 36 minutes, 12 additions and 16 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a breadcrumb for people who want to run the web tests<br />
     <sub>[#43865](https://github.com/flutter/engine/pull/43865) merged on July 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43865) over 6 hours, 3 additions and 0 deletions in 1 file</sub><br />
@@ -1350,7 +1350,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Revert https://github.com/flutter/engine/pull/43533<br />
     <sub>[#43654](https://github.com/flutter/engine/pull/43654) merged on July 13, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/43654) over 46 minutes, 199 additions and 248 deletions in 28 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[David Worsham](https://github.com/arbreng)** &mdash; [fuchsia] Remove FIDL dart references<br />
     <sub>[#43550](https://github.com/flutter/engine/pull/43550) merged on July 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43550) over 8 hours, 2 additions and 112 deletions in 3 files</sub><br />
@@ -1457,7 +1457,7 @@
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Fixes bug where `PlatformWebViewWidget` doesn't rebuild when the controller changes<br />
     <sub>[#4533](https://github.com/flutter/packages/pull/4533) merged on July 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4533) over 4 days, 197 additions and 35 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurits van Beusekom](https://github.com/mvanbeusekom)</sub><br />
+    <sub>Reviewed by: [Maurits van Beusekom](https://github.com/mvanbeusekom), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 ### July 15, 2023 to July 21, 2023
 
