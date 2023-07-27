@@ -72,5 +72,5 @@
     <sub>[#131436](https://github.com/flutter/flutter/pull/131436) opened on on July 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131436) 105 additions and 2 deletions in 3 files</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#131442](https://github.com/flutter/flutter/pull/131442) opened on on July 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131442) 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#131442](https://github.com/flutter/flutter/pull/131442) opened on on July 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131442) 2 additions and 2 deletions in 1 file</sub><br />
 
