@@ -78,7 +78,7 @@
     <sub>[#131392](https://github.com/flutter/flutter/pull/131392) opened on on July 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131392) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Scrollable `TabBar` for Material 3<br />
-    <sub>[#131409](https://github.com/flutter/flutter/pull/131409) opened on on July 27, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/131409) 967 additions and 95 deletions in 6 files</sub><br />
+    <sub>[#131409](https://github.com/flutter/flutter/pull/131409) opened on on July 27, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/131409) 967 additions and 95 deletions in 6 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] clean up image provider documentation.<br />
     <sub>[#131416](https://github.com/flutter/flutter/pull/131416) opened on on July 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131416) 10 additions and 10 deletions in 1 file</sub><br />
