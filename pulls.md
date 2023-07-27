@@ -89,3 +89,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update Chrome to 115, and remove `bringup: true` from skwasm benchmarks.<br />
     <sub>[#131430](https://github.com/flutter/flutter/pull/131430) opened on on July 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131430) 73 additions and 75 deletions in 1 file</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [CP] Minor adjustments on 2D APIs (#131358)<br />
+    <sub>[#131436](https://github.com/flutter/flutter/pull/131436) opened on on July 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131436) 105 additions and 2 deletions in 3 files</sub><br />
+
