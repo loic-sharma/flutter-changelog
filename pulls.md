@@ -62,9 +62,6 @@
 * **[vijaymehrotra](https://github.com/vijaymehrotra)** &mdash; Vijay Mehrotra ..Solved the issue number #130455.<br />
     <sub>[#131392](https://github.com/flutter/flutter/pull/131392) opened on on July 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131392) 4 additions and 4 deletions in 1 file</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update Chrome to 115, and remove `bringup: true` from skwasm benchmarks.<br />
-    <sub>[#131430](https://github.com/flutter/flutter/pull/131430) opened on on July 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131430) 73 additions and 75 deletions in 1 file</sub><br />
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [CP] Minor adjustments on 2D APIs (#131358)<br />
     <sub>[#131436](https://github.com/flutter/flutter/pull/131436) opened on on July 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131436) 105 additions and 2 deletions in 3 files</sub><br />
 
@@ -76,4 +73,7 @@
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `DropdownButtonFormField` input border clipping<br />
     <sub>[#131481](https://github.com/flutter/flutter/pull/131481) opened on on July 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131481) 125 additions and 1 deletion in 2 files</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `BottomSheet.enableDrag`  & `BottomSheet.showDragHandle` docs for animation controller<br />
+    <sub>[#131484](https://github.com/flutter/flutter/pull/131484) opened on on July 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131484) 8 additions and 0 deletions in 1 file</sub><br />
 
