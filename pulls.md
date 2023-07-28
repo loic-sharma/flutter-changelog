@@ -75,5 +75,5 @@
     <sub>[#131481](https://github.com/flutter/flutter/pull/131481) opened on on July 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131481) 125 additions and 1 deletion in 2 files</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `BottomSheet.enableDrag`  & `BottomSheet.showDragHandle` docs for animation controller<br />
-    <sub>[#131484](https://github.com/flutter/flutter/pull/131484) opened on on July 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131484) 8 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#131484](https://github.com/flutter/flutter/pull/131484) opened on on July 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131484) 8 additions and 0 deletions in 1 file</sub><br />
 
