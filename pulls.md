@@ -71,9 +71,9 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#131442](https://github.com/flutter/flutter/pull/131442) opened on on July 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131442) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `Card.color` documentation for Material 3<br />
-    <sub>[#131468](https://github.com/flutter/flutter/pull/131468) opened on on July 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131468) 6 additions and 0 deletions in 1 file</sub><br />
-
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [doc] Fix module_test_ios comments<br />
     <sub>[#131470](https://github.com/flutter/flutter/pull/131470) opened on on July 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131470) 3 additions and 3 deletions in 1 file</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `DropdownButtonFormField` input border clipping<br />
+    <sub>[#131481](https://github.com/flutter/flutter/pull/131481) opened on on July 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131481) 125 additions and 1 deletion in 2 files</sub><br />
 
