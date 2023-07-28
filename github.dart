@@ -237,16 +237,11 @@ class Changes {
     final commits = <Commit>[];
 
     for (final commit in history['edges'] as List<dynamic>) {
-      try {
-        commits.add(Commit.fromJson(commit['node'] as Map<String, dynamic>));
-      } catch (e, s) {
-        print('Ignoring invalid commit JSON: $e');
-        print('');
-        print('JSON:');
-        print(commit);
-        print('');
-        print(s);
-      }
+      _tryParseJson(
+        'commit',
+        commit,
+        (review) => commits.add(Commit.fromJson(commit['node'] as Map<String, dynamic>)),
+      );
     }
 
     return Changes(
@@ -360,8 +355,24 @@ class PullRequest {
     final author = json['author'] as Map<String, dynamic>;
     final organizations = author['organizations']?['nodes'] as List<dynamic>?;
     final issues = json['closingIssuesReferences']?['nodes'] as List<dynamic>?;
-    final reviews = json['latestReviews']['nodes'] as List<dynamic>;
-    final reviewRequests = json['reviewRequests']?['nodes'] as List<dynamic>? ?? [];
+
+    final reviews = <Review>[];
+    for (Map<String, dynamic> review in json['latestReviews']['nodes'] as List<dynamic>) {
+      _tryParseJson(
+        'review',
+        review,
+        (review) => reviews.add(Review.fromJson(review)),
+      );
+    }
+
+    final reviewRequests = <Review>[];
+    for (Map<String, dynamic> review in json['reviewRequests']?['nodes'] as List<dynamic>? ?? []) {
+      _tryParseJson(
+        'review request',
+        review,
+        (review) => reviewRequests.add(Review.fromJson(review)),
+      );
+    }
 
     return PullRequest(
       number: json['number'] as int,
@@ -383,15 +394,9 @@ class PullRequest {
           (organization['name'] as String).toLowerCase(),
       ],
       totalReviews: json['latestReviews']['totalCount'] as int,
-      reviews: [
-        for (Map<String, dynamic> review in reviews)
-          Review.fromJson(review),
-      ],
+      reviews: reviews,
       totalReviewRequests: json['reviewRequests']?['totalCount'] as int? ?? 0,
-      reviewRequests: [
-        for (Map<String, dynamic> review in reviewRequests)
-          Review.fromJson(review),
-      ],
+      reviewRequests: reviewRequests,
       issue: issues != null && issues.isNotEmpty
         ? Issue.fromJson(issues[0] as Map<String, dynamic>)
         : null,
@@ -443,6 +448,20 @@ class Review {
     return Review(
       reviewerLogin: json['author']['login'] as String,
       reviewerName: json['author']['name'] as String?,
-      reviewerUrl: Uri.parse(json['author']['url'] as String));
+      reviewerUrl: Uri.parse(json['author']['url'] as String),
+    );
+  }
+}
+
+void _tryParseJson<T>(String type, T json, void Function(T) parse) {
+  try {
+    parse(json);
+  } catch (e, s) {
+    print('Ignoring error parsing $type JSON: "$e"');
+    print('');
+    print('JSON:');
+    print(json);
+    print('');
+    print(s);
   }
 }
