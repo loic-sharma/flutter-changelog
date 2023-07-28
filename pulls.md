@@ -77,3 +77,6 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [doc] Fix module_test_ios comments<br />
     <sub>[#131470](https://github.com/flutter/flutter/pull/131470) opened on on July 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131470) 3 additions and 3 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland - Fix floating SnackBar throws when FAB is on the top<br />
+    <sub>[#131475](https://github.com/flutter/flutter/pull/131475) opened on on July 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131475) 84 additions and 6 deletions in 3 files</sub><br />
+
