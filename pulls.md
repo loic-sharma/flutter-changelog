@@ -69,11 +69,14 @@
     <sub>[#131442](https://github.com/flutter/flutter/pull/131442) opened on on July 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131442) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [doc] Fix module_test_ios comments<br />
-    <sub>[#131470](https://github.com/flutter/flutter/pull/131470) opened on on July 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131470) 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>[#131470](https://github.com/flutter/flutter/pull/131470) opened on on July 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131470) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `DropdownButtonFormField` input border clipping<br />
     <sub>[#131481](https://github.com/flutter/flutter/pull/131481) opened on on July 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131481) 125 additions and 1 deletion in 2 files</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `BottomSheet.enableDrag`  & `BottomSheet.showDragHandle` docs for animation controller<br />
     <sub>[#131484](https://github.com/flutter/flutter/pull/131484) opened on on July 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131484) 8 additions and 0 deletions in 1 file</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland --omit-type-checks for benchmarks.<br />
+    <sub>[#131493](https://github.com/flutter/flutter/pull/131493) opened on on July 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131493) 1 addition and 0 deletions in 1 file</sub><br />
 
