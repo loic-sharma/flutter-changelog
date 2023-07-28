@@ -74,3 +74,6 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `Card.color` documentation for Material 3<br />
     <sub>[#131468](https://github.com/flutter/flutter/pull/131468) opened on on July 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131468) 6 additions and 0 deletions in 1 file</sub><br />
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [doc] Fix module_test_ios comments<br />
+    <sub>[#131470](https://github.com/flutter/flutter/pull/131470) opened on on July 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131470) 3 additions and 3 deletions in 1 file</sub><br />
+
