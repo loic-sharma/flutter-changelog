@@ -71,3 +71,6 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [doc] Fix module_test_ios comments<br />
     <sub>[#131470](https://github.com/flutter/flutter/pull/131470) opened on on July 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131470) 3 additions and 3 deletions in 1 file</sub><br />
 
+* **[Fré Dumazy](https://github.com/dumazy)** &mdash; Add hasInteractedByUser getter in FormField<br />
+    <sub>[#131539](https://github.com/flutter/flutter/pull/131539) opened on on July 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131539) 85 additions and 0 deletions in 2 files</sub><br />
+
