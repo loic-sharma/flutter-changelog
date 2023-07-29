@@ -74,3 +74,6 @@
 * **[Fré Dumazy](https://github.com/dumazy)** &mdash; Add hasInteractedByUser getter in FormField<br />
     <sub>[#131539](https://github.com/flutter/flutter/pull/131539) opened on on July 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131539) 85 additions and 0 deletions in 2 files</sub><br />
 
+* **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Adds callback onWillAcceptWithDetails in DragTarget.<br />
+    <sub>[#131545](https://github.com/flutter/flutter/pull/131545) opened on on July 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131545) 266 additions and 2 deletions in 2 files</sub><br />
+
