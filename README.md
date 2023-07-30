@@ -681,7 +681,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; mark android impeller tests as bringup<br />
     <sub>[#130525](https://github.com/flutter/flutter/pull/130525) merged on July 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130525) over 1 minute, 4 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.<br />
     <sub>[#130507](https://github.com/flutter/flutter/pull/130507) merged on July 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130507) over 57 minutes, 6 additions and 8 deletions in 3 files</sub><br />
@@ -888,7 +888,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS] Return keyboard pressed state<br />
     <sub>[#42878](https://github.com/flutter/engine/pull/42878) merged on July 26, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42878) over 1 month, 144 additions and 6 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Ignore the NOTICE.fuchsia file in the new license script<br />
     <sub>[#44021](https://github.com/flutter/engine/pull/44021) merged on July 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44021) over 1 day, 3 additions and 1 deletion in 2 files</sub><br />
