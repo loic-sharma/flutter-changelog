@@ -4,7 +4,7 @@
 
 ### July 29, 2023 to August 4, 2023
 
-8 commits.
+9 commits.
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Improve rendering of structured errors via DAP
     <sub>[#131251](https://github.com/flutter/flutter/pull/131251) merged on July 31, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/131251) over 6 days, 292 additions and 26 deletions in 6 files</sub>
@@ -35,6 +35,10 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add Expanded/Collapsed State for Semantics
     <sub>[#131233](https://github.com/flutter/flutter/pull/131233) merged on July 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131233) over 6 days, 201 additions and 17 deletions in 10 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland --omit-type-checks for benchmarks.
+    <sub>[#131493](https://github.com/flutter/flutter/pull/131493) merged on July 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131493) over 3 days, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland - "Update Unit Tests for M2/M3"
     <sub>[#131504](https://github.com/flutter/flutter/pull/131504) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131504) over 2 days, 231 additions and 16 deletions in 5 files</sub>
@@ -396,7 +400,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `TextSelectionTheme`, `ThemeData`, `TimePicker`, and `TimePickerTheme` tests for M2/M3
     <sub>[#130547](https://github.com/flutter/flutter/pull/130547) merged on July 20, 2023 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/130547) over 6 days, 901 additions and 470 deletions in 5 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update SnackBar tests for M2/M3
     <sub>[#130717](https://github.com/flutter/flutter/pull/130717) merged on July 18, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/130717) over 1 day, 625 additions and 52 deletions in 1 file</sub>
@@ -675,7 +679,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS] Return keyboard pressed state
     <sub>[#42878](https://github.com/flutter/engine/pull/42878) merged on July 26, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42878) over 1 month, 144 additions and 6 deletions in 7 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Tong Mu](https://github.com/dkwingsmt)</sub>
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Ignore the NOTICE.fuchsia file in the new license script
     <sub>[#44021](https://github.com/flutter/engine/pull/44021) merged on July 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44021) over 1 day, 3 additions and 1 deletion in 2 files</sub>
@@ -927,7 +931,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add the 'affects: desktop' label to labeler.yml
     <sub>[#43827](https://github.com/flutter/engine/pull/43827) merged on July 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43827) over 1 hour, 6 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Casey Hillers](https://github.com/CaseyHillers)</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] size command pools to npot of command count.
     <sub>[#43903](https://github.com/flutter/engine/pull/43903) merged on July 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43903) over 7 hours, 39 additions and 22 deletions in 6 files</sub>
@@ -967,7 +971,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Remove accessibility bridge helpers from the engine
     <sub>[#43710](https://github.com/flutter/engine/pull/43710) merged on July 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43710) over 2 days, 27 additions and 39 deletions in 5 files</sub>
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Increase engine v2 orchestrator timeouts
     <sub>[#43788](https://github.com/flutter/engine/pull/43788) merged on July 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43788) over 2 hours, 18 additions and 18 deletions in 1 file</sub>
@@ -1134,7 +1138,7 @@
 
 ### July 29, 2023 to August 4, 2023
 
-3 commits.
+4 commits.
 
 * **[Eli Geller](https://github.com/elitree)** &mdash; [google_maps_flutter_web] Initial support for custom overlays
     <sub>[#3538](https://github.com/flutter/packages/pull/3538) merged on July 31, 2023 &mdash; **Large:** [45 comments](https://github.com/flutter/packages/pull/3538) over 4 months, 801 additions and 151 deletions in 15 files</sub>
@@ -1143,6 +1147,10 @@
 * **[Maciej Brzeziński](https://github.com/maciejbrzezinski)** &mdash; [camera] Removed the microphone permission request from availableCameras on Web
     <sub>[#4263](https://github.com/flutter/packages/pull/4263) merged on July 31, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/4263) over 1 month, 12 additions and 22 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub>
+
+* **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Update the cirrus key jul-31-2023
+    <sub>[#4618](https://github.com/flutter/packages/pull/4618) merged on July 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4618) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Drew Roen](https://github.com/drewroengoogle)</sub>
 
 * **[J-P Nurmi](https://github.com/jpnurmi)** &mdash; [path_provider_platform_interface] Add getApplicationCachePath()
     <sub>[#4614](https://github.com/flutter/packages/pull/4614) merged on July 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4614) over 33 minutes, 58 additions and 2 deletions in 6 files</sub>
@@ -1195,7 +1203,7 @@
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Fixes bug where `PlatformWebViewWidget` doesn't rebuild when the controller changes
     <sub>[#4533](https://github.com/flutter/packages/pull/4533) merged on July 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4533) over 4 days, 197 additions and 35 deletions in 8 files</sub>
-    <sub>Reviewed by: [Maurits van Beusekom](https://github.com/mvanbeusekom), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurits van Beusekom](https://github.com/mvanbeusekom)</sub>
 
 </details>
 
