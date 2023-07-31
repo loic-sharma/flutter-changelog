@@ -4,7 +4,12 @@
 
 ### July 29, 2023 to August 4, 2023
 
-2 commits.
+3 commits.
+
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Improve rendering of structured errors via DAP<br />
+    <sub>[#131251](https://github.com/flutter/flutter/pull/131251) merged on July 31, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/131251) over 6 days, 292 additions and 26 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [_abi](https://github.com/Abjithwyn), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub><details><summary>2 images...</summary>![1_comparison](https://github.com/flutter/flutter/assets/1078012/74e7e6d6-c8d0-471f-b584-37ae148b0ce7)![2_comparison](https://github.com/flutter/flutter/assets/1078012/21888934-6f2f-4048-86d7-bdf92d5c7301)</details></sub>
 
 * **[Donghyun Kim](https://github.com/temeddix)** &mdash; Use Flutter app project's NDK version from FFI plugin<br />
     <sub>[#131141](https://github.com/flutter/flutter/pull/131141) merged on July 31, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/131141) over 1 week, 6 additions and 4 deletions in 2 files</sub><br />
@@ -371,7 +376,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `TextSelectionTheme`, `ThemeData`, `TimePicker`, and `TimePickerTheme` tests for M2/M3<br />
     <sub>[#130547](https://github.com/flutter/flutter/pull/130547) merged on July 20, 2023 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/130547) over 6 days, 901 additions and 470 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update SnackBar tests for M2/M3<br />
     <sub>[#130717](https://github.com/flutter/flutter/pull/130717) merged on July 18, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/130717) over 1 day, 625 additions and 52 deletions in 1 file</sub><br />
