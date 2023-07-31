@@ -4,7 +4,7 @@
 
 ### July 29, 2023 to August 4, 2023
 
-7 commits.
+8 commits.
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Improve rendering of structured errors via DAP
     <sub>[#131251](https://github.com/flutter/flutter/pull/131251) merged on July 31, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/131251) over 6 days, 292 additions and 26 deletions in 6 files</sub>
@@ -27,6 +27,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [doc] Fix module_test_ios comments
     <sub>[#131470](https://github.com/flutter/flutter/pull/131470) merged on July 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131470) over 3 days, 3 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Update the cirrus key jul-31-2023
+    <sub>[#131624](https://github.com/flutter/flutter/pull/131624) merged on July 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131624) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Drew Roen](https://github.com/drewroengoogle)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add Expanded/Collapsed State for Semantics
     <sub>[#131233](https://github.com/flutter/flutter/pull/131233) merged on July 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131233) over 6 days, 201 additions and 17 deletions in 10 files</sub>
@@ -579,7 +583,11 @@
 
 ### July 29, 2023 to August 4, 2023
 
-2 commits.
+3 commits.
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 2755f73a3461 to faca95f7e81b (1 revision)
+    <sub>[#44178](https://github.com/flutter/engine/pull/44178) merged on July 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44178) over 31 minutes, 2 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from fb37e0542c7c to 2755f73a3461 (1 revision)
     <sub>[#44167](https://github.com/flutter/engine/pull/44167) merged on July 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44167) over 35 minutes, 1 addition and 1 deletion in 1 file</sub>
