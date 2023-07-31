@@ -854,7 +854,7 @@
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Refactor: fix typo "setup" -> "set up"<br />
     <sub>[#43824](https://github.com/flutter/engine/pull/43824) merged on July 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43824) over 1 day, 98 additions and 98 deletions in 21 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart<br />
     <sub>[#43895](https://github.com/flutter/engine/pull/43895) merged on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43895) over 36 minutes, 12 additions and 16 deletions in 2 files</sub><br />
