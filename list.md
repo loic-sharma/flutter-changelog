@@ -4,7 +4,7 @@
 
 ### July 29, 2023 to August 4, 2023
 
-4 commits.
+5 commits.
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Improve rendering of structured errors via DAP
     <sub>[#131251](https://github.com/flutter/flutter/pull/131251) merged on July 31, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/131251) over 6 days, 292 additions and 26 deletions in 6 files</sub>
@@ -15,6 +15,10 @@
     <sub>[#131141](https://github.com/flutter/flutter/pull/131141) merged on July 31, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/131141) over 1 week, 6 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [Christopher Fujino](https://github.com/christopherfujino)</sub>
     <sub><details><summary>1 image...</summary><img width="1119" alt="image" src="https://github.com/flutter/flutter/assets/66480156/e2e8eed1-3bef-436c-b21f-3891bdbe05bb"></details></sub>
+
+* **[gmackall](https://github.com/gmackall)** &mdash; Upgrade compile and target sdk versions in tests and benchmarks
+    <sub>[#131428](https://github.com/flutter/flutter/pull/131428) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131428) over 4 days, 15 additions and 15 deletions in 9 files</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Fix dartdoc for `ButtonSegment` constructor
     <sub>[#131400](https://github.com/flutter/flutter/pull/131400) merged on July 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131400) over 4 days, 1 addition and 1 deletion in 1 file</sub>
@@ -655,7 +659,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS] Return keyboard pressed state
     <sub>[#42878](https://github.com/flutter/engine/pull/42878) merged on July 26, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42878) over 1 month, 144 additions and 6 deletions in 7 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Tong Mu](https://github.com/dkwingsmt)</sub>
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Ignore the NOTICE.fuchsia file in the new license script
     <sub>[#44021](https://github.com/flutter/engine/pull/44021) merged on July 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44021) over 1 day, 3 additions and 1 deletion in 2 files</sub>
@@ -1114,7 +1118,7 @@
 
 ### July 29, 2023 to August 4, 2023
 
-2 commits.
+3 commits.
 
 * **[Eli Geller](https://github.com/elitree)** &mdash; [google_maps_flutter_web] Initial support for custom overlays
     <sub>[#3538](https://github.com/flutter/packages/pull/3538) merged on July 31, 2023 &mdash; **Large:** [45 comments](https://github.com/flutter/packages/pull/3538) over 4 months, 801 additions and 151 deletions in 15 files</sub>
@@ -1123,6 +1127,10 @@
 * **[Maciej Brzeziński](https://github.com/maciejbrzezinski)** &mdash; [camera] Removed the microphone permission request from availableCameras on Web
     <sub>[#4263](https://github.com/flutter/packages/pull/4263) merged on July 31, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/4263) over 1 month, 12 additions and 22 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub>
+
+* **[J-P Nurmi](https://github.com/jpnurmi)** &mdash; [path_provider_platform_interface] Add getApplicationCachePath()
+    <sub>[#4614](https://github.com/flutter/packages/pull/4614) merged on July 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4614) over 33 minutes, 58 additions and 2 deletions in 6 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 ### July 22, 2023 to July 28, 2023
 
