@@ -4,7 +4,7 @@
 
 ### July 29, 2023 to August 4, 2023
 
-10 commits.
+12 commits.
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Improve rendering of structured errors via DAP<br />
     <sub>[#131251](https://github.com/flutter/flutter/pull/131251) merged on July 31, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/131251) over 6 days, 292 additions and 26 deletions in 6 files</sub><br />
@@ -15,6 +15,14 @@
     <sub>[#131141](https://github.com/flutter/flutter/pull/131141) merged on July 31, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/131141) over 1 week, 6 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
     <sub><details><summary>1 image...</summary><img width="1119" alt="image" src="https://github.com/flutter/flutter/assets/66480156/e2e8eed1-3bef-436c-b21f-3891bdbe05bb"></details></sub>
+
+* **[Jay Mehta](https://github.com/thisisjaymehta)** &mdash; Fixed regex to show missing assets file error<br />
+    <sub>[#131160](https://github.com/flutter/flutter/pull/131160) merged on July 31, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/131160) over 1 week, 45 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Loïc Sharma](https://github.com/loic-sharma), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Sumit Bikram Maity](https://github.com/SumitBikram)** &mdash; Appended period remove & Uri parsing fix.<br />
+    <sub>[#131293](https://github.com/flutter/flutter/pull/131293) merged on July 31, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/131293) over 6 days, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[gmackall](https://github.com/gmackall)** &mdash; Upgrade compile and target sdk versions in tests and benchmarks<br />
     <sub>[#131428](https://github.com/flutter/flutter/pull/131428) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131428) over 4 days, 15 additions and 15 deletions in 9 files</sub><br />
@@ -683,7 +691,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS] Return keyboard pressed state<br />
     <sub>[#42878](https://github.com/flutter/engine/pull/42878) merged on July 26, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42878) over 1 month, 144 additions and 6 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Ignore the NOTICE.fuchsia file in the new license script<br />
     <sub>[#44021](https://github.com/flutter/engine/pull/44021) merged on July 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44021) over 1 day, 3 additions and 1 deletion in 2 files</sub><br />
@@ -911,11 +919,11 @@
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Refactor: fix typo "setup" -> "set up"<br />
     <sub>[#43824](https://github.com/flutter/engine/pull/43824) merged on July 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43824) over 1 day, 98 additions and 98 deletions in 21 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart<br />
     <sub>[#43895](https://github.com/flutter/engine/pull/43895) merged on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43895) over 36 minutes, 12 additions and 16 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a breadcrumb for people who want to run the web tests<br />
     <sub>[#43865](https://github.com/flutter/engine/pull/43865) merged on July 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43865) over 6 hours, 3 additions and 0 deletions in 1 file</sub><br />
