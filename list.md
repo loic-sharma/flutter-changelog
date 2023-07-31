@@ -2,9 +2,19 @@
 
 ## flutter/flutter
 
+### July 29, 2023 to August 4, 2023
+
+1 commits.
+
+* **[Donghyun Kim](https://github.com/temeddix)** &mdash; Use Flutter app project's NDK version from FFI plugin
+    <sub>[#131141](https://github.com/flutter/flutter/pull/131141) merged on July 31, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/131141) over 1 week, 6 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub><details><summary>1 image...</summary><img width="1119" alt="image" src="https://github.com/flutter/flutter/assets/66480156/e2e8eed1-3bef-436c-b21f-3891bdbe05bb"></details></sub>
+
 ### July 22, 2023 to July 28, 2023
 
-53 commits.
+<details>
+<summary>53 commits...</summary>
 
 * **[Daniel Chevalier](https://github.com/CoderDake)** &mdash; Shared state to support multi screen inspection 
     <sub>[#129452](https://github.com/flutter/flutter/pull/129452) merged on July 28, 2023 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/129452) over 1 month, 162 additions and 75 deletions in 3 files</sub>
@@ -225,6 +235,8 @@
     <sub>[#131353](https://github.com/flutter/flutter/pull/131353) merged on July 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131353) over 3 minutes, 2 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
+</details>
+
 ### July 15, 2023 to July 21, 2023
 
 <details>
@@ -355,7 +367,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `TextSelectionTheme`, `ThemeData`, `TimePicker`, and `TimePickerTheme` tests for M2/M3
     <sub>[#130547](https://github.com/flutter/flutter/pull/130547) merged on July 20, 2023 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/130547) over 6 days, 901 additions and 470 deletions in 5 files</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update SnackBar tests for M2/M3
     <sub>[#130717](https://github.com/flutter/flutter/pull/130717) merged on July 18, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/130717) over 1 day, 625 additions and 52 deletions in 1 file</sub>
@@ -662,7 +674,7 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Hide some log lines from release builds
     <sub>[#44073](https://github.com/flutter/engine/pull/44073) merged on July 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44073) over 2 hours, 4 additions and 4 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; add ColorFilter.toString to web_ui
     <sub>[#43874](https://github.com/flutter/engine/pull/43874) merged on July 24, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43874) over 3 days, 19 additions and 0 deletions in 2 files</sub>
