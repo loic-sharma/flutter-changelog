@@ -380,7 +380,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `TextSelectionTheme`, `ThemeData`, `TimePicker`, and `TimePickerTheme` tests for M2/M3
     <sub>[#130547](https://github.com/flutter/flutter/pull/130547) merged on July 20, 2023 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/130547) over 6 days, 901 additions and 470 deletions in 5 files</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update SnackBar tests for M2/M3
     <sub>[#130717](https://github.com/flutter/flutter/pull/130717) merged on July 18, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/130717) over 1 day, 625 additions and 52 deletions in 1 file</sub>
@@ -1110,7 +1110,11 @@
 
 ### July 29, 2023 to August 4, 2023
 
-1 commits.
+2 commits.
+
+* **[Eli Geller](https://github.com/elitree)** &mdash; [google_maps_flutter_web] Initial support for custom overlays
+    <sub>[#3538](https://github.com/flutter/packages/pull/3538) merged on July 31, 2023 &mdash; **Large:** [45 comments](https://github.com/flutter/packages/pull/3538) over 4 months, 801 additions and 151 deletions in 15 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Ross Wang](https://github.com/AsturaPhoenix), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Maciej Brzeziński](https://github.com/maciejbrzezinski)** &mdash; [camera] Removed the microphone permission request from availableCameras on Web
     <sub>[#4263](https://github.com/flutter/packages/pull/4263) merged on July 31, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/4263) over 1 month, 12 additions and 22 deletions in 4 files</sub>
