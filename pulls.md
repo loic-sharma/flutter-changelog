@@ -21,7 +21,7 @@
     <sub>[#129739](https://github.com/flutter/flutter/pull/129739) opened on on June 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129739) 61 additions and 2 deletions in 2 files</sub><br />
 
 * **[指尖上的艺术](https://github.com/fingerart)** &mdash; Fix CurvedAnimation._curveDirection status update issue<br />
-    <sub>[#129777](https://github.com/flutter/flutter/pull/129777) opened on on June 29, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/129777) 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#129777](https://github.com/flutter/flutter/pull/129777) opened on on June 29, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129777) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[杨加康](https://github.com/MeandNi)** &mdash; [flutter_tools] Add flutter create-local-engine-repo<br />
     <sub>[#129948](https://github.com/flutter/flutter/pull/129948) opened on on July 4, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/129948) 243 additions and 7 deletions in 4 files</sub><br />
@@ -54,7 +54,7 @@
     <sub>[#131348](https://github.com/flutter/flutter/pull/131348) opened on on July 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131348) 11 additions and 6 deletions in 4 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; PaginatedDataTable improvements<br />
-    <sub>[#131374](https://github.com/flutter/flutter/pull/131374) opened on on July 27, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/131374) 540 additions and 16 deletions in 10 files</sub><br />
+    <sub>[#131374](https://github.com/flutter/flutter/pull/131374) opened on on July 27, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/131374) 535 additions and 11 deletions in 10 files</sub><br />
 
 * **[vijaymehrotra](https://github.com/vijaymehrotra)** &mdash; Vijay Mehrotra ..Solved the issue number #130455.<br />
     <sub>[#131392](https://github.com/flutter/flutter/pull/131392) opened on on July 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131392) 4 additions and 4 deletions in 1 file</sub><br />
