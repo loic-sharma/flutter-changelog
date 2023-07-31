@@ -4,12 +4,16 @@
 
 ### July 29, 2023 to August 4, 2023
 
-1 commits.
+2 commits.
 
 * **[Donghyun Kim](https://github.com/temeddix)** &mdash; Use Flutter app project's NDK version from FFI plugin<br />
     <sub>[#131141](https://github.com/flutter/flutter/pull/131141) merged on July 31, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/131141) over 1 week, 6 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
     <sub><details><summary>1 image...</summary><img width="1119" alt="image" src="https://github.com/flutter/flutter/assets/66480156/e2e8eed1-3bef-436c-b21f-3891bdbe05bb"></details></sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [doc] Fix module_test_ios comments<br />
+    <sub>[#131470](https://github.com/flutter/flutter/pull/131470) merged on July 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131470) over 3 days, 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 ### July 22, 2023 to July 28, 2023
 
