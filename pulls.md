@@ -77,3 +77,6 @@
 * **[Chinmay Kabi](https://github.com/Chinmay-KB)** &mdash; Fix DataTable example not being scrollable<br />
     <sub>[#131556](https://github.com/flutter/flutter/pull/131556) opened on on July 29, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/131556) 32 additions and 4 deletions in 3 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `PopupMenuItem` & `CheckedPopupMenuItem` has redundant `ListTile` padding and update default horizontal padding for Material 3<br />
+    <sub>[#131609](https://github.com/flutter/flutter/pull/131609) opened on on July 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131609) 197 additions and 11 deletions in 3 files</sub><br />
+
