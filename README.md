@@ -785,7 +785,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS] Return keyboard pressed state<br />
     <sub>[#42878](https://github.com/flutter/engine/pull/42878) merged on July 26, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42878) over 1 month, 144 additions and 6 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Ignore the NOTICE.fuchsia file in the new license script<br />
     <sub>[#44021](https://github.com/flutter/engine/pull/44021) merged on July 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44021) over 1 day, 3 additions and 1 deletion in 2 files</sub><br />
@@ -1037,7 +1037,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add the 'affects: desktop' label to labeler.yml<br />
     <sub>[#43827](https://github.com/flutter/engine/pull/43827) merged on July 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43827) over 1 hour, 6 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] size command pools to npot of command count.<br />
     <sub>[#43903](https://github.com/flutter/engine/pull/43903) merged on July 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43903) over 7 hours, 39 additions and 22 deletions in 6 files</sub><br />
