@@ -992,7 +992,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart<br />
     <sub>[#43895](https://github.com/flutter/engine/pull/43895) merged on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43895) over 36 minutes, 12 additions and 16 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a breadcrumb for people who want to run the web tests<br />
     <sub>[#43865](https://github.com/flutter/engine/pull/43865) merged on July 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43865) over 6 hours, 3 additions and 0 deletions in 1 file</sub><br />
