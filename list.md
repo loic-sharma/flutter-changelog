@@ -53,12 +53,12 @@
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland --omit-type-checks for benchmarks.
-    <sub>[#131493](https://github.com/flutter/flutter/pull/131493) merged on July 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131493) over 3 days, 1 addition and 0 deletions in 1 file</sub>
+    <sub>[#131493](https://github.com/flutter/flutter/pull/131493) merged on July 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131493) over 3 days, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland - "Update Unit Tests for M2/M3"
     <sub>[#131504](https://github.com/flutter/flutter/pull/131504) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131504) over 2 days, 231 additions and 16 deletions in 5 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Hans Muller](https://github.com/HansMuller)</sub>
 
 ### July 22, 2023 to July 28, 2023
 
@@ -603,12 +603,16 @@
 
 ### July 29, 2023 to August 4, 2023
 
-21 commits.
+22 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Implement, non user-facing, dithering for LinearGradients.
     <sub>[#44181](https://github.com/flutter/engine/pull/44181) merged on August 1, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/44181) over 5 hours, 118 additions and 10 deletions in 11 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
     <sub><details><summary>7 images...</summary>![Screenshot 2023-07-31 at 1 29 16 PM](https://github.com/flutter/engine/assets/168174/51d2f7a0-dc22-44fe-b7f9-990b826c5fd9)![Screenshot 2023-07-31 at 1 29 25 PM](https://github.com/flutter/engine/assets/168174/78da2efe-2c5d-438f-b7f7-d8eb092c6a2c)![Screenshot 2023-07-31 at 11 35 07 AM](https://github.com/flutter/engine/assets/168174/719f97fc-1a3d-4920-8687-486c4de28b79)![Screenshot 2023-07-31 at 12 12 38 PM](https://github.com/flutter/engine/assets/168174/ed262f83-442f-484b-8288-30e8e0d5e768)![Screenshot 2023-07-31 at 12 19 56 PM](https://github.com/flutter/engine/assets/168174/057b1f95-fbd2-4ae2-bb25-8dd967cf8466)![Screenshot 2023-07-31 at 12 25 59 PM](https://github.com/flutter/engine/assets/168174/34857c6e-49cd-40c1-9e91-646b7bfbf97c)![Screenshot 2023-07-31 at 12 44 08 PM](https://github.com/flutter/engine/assets/168174/3b272428-b5be-4ca5-8cfe-1b12062a64f4)</details></sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Made the clear optimization handle backdrop filters.
+    <sub>[#44192](https://github.com/flutter/engine/pull/44192) merged on August 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44192) over 18 hours, 27 additions and 9 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Update guidance on how to run with Metal validation without Xcode.
     <sub>[#44190](https://github.com/flutter/engine/pull/44190) merged on July 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44190) over 1 hour, 16 additions and 16 deletions in 1 file</sub>
@@ -768,7 +772,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS] Return keyboard pressed state
     <sub>[#42878](https://github.com/flutter/engine/pull/42878) merged on July 26, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42878) over 1 month, 144 additions and 6 deletions in 7 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Tong Mu](https://github.com/dkwingsmt)</sub>
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Ignore the NOTICE.fuchsia file in the new license script
     <sub>[#44021](https://github.com/flutter/engine/pull/44021) merged on July 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44021) over 1 day, 3 additions and 1 deletion in 2 files</sub>
@@ -804,7 +808,7 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Hide some log lines from release builds
     <sub>[#44073](https://github.com/flutter/engine/pull/44073) merged on July 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44073) over 2 hours, 4 additions and 4 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; add ColorFilter.toString to web_ui
     <sub>[#43874](https://github.com/flutter/engine/pull/43874) merged on July 24, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43874) over 3 days, 19 additions and 0 deletions in 2 files</sub>
@@ -1020,7 +1024,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add the 'affects: desktop' label to labeler.yml
     <sub>[#43827](https://github.com/flutter/engine/pull/43827) merged on July 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43827) over 1 hour, 6 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Casey Hillers](https://github.com/CaseyHillers)</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] size command pools to npot of command count.
     <sub>[#43903](https://github.com/flutter/engine/pull/43903) merged on July 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43903) over 7 hours, 39 additions and 22 deletions in 6 files</sub>
