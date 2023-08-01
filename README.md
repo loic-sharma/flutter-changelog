@@ -603,7 +603,12 @@
 
 ### July 29, 2023 to August 4, 2023
 
-14 commits.
+15 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Implement, non user-facing, dithering for LinearGradients.<br />
+    <sub>[#44181](https://github.com/flutter/engine/pull/44181) merged on August 1, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/44181) over 5 hours, 118 additions and 10 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub><details><summary>7 images...</summary>![Screenshot 2023-07-31 at 1 29 16 PM](https://github.com/flutter/engine/assets/168174/51d2f7a0-dc22-44fe-b7f9-990b826c5fd9)![Screenshot 2023-07-31 at 1 29 25 PM](https://github.com/flutter/engine/assets/168174/78da2efe-2c5d-438f-b7f7-d8eb092c6a2c)![Screenshot 2023-07-31 at 11 35 07 AM](https://github.com/flutter/engine/assets/168174/719f97fc-1a3d-4920-8687-486c4de28b79)![Screenshot 2023-07-31 at 12 12 38 PM](https://github.com/flutter/engine/assets/168174/ed262f83-442f-484b-8288-30e8e0d5e768)![Screenshot 2023-07-31 at 12 19 56 PM](https://github.com/flutter/engine/assets/168174/057b1f95-fbd2-4ae2-bb25-8dd967cf8466)![Screenshot 2023-07-31 at 12 25 59 PM](https://github.com/flutter/engine/assets/168174/34857c6e-49cd-40c1-9e91-646b7bfbf97c)![Screenshot 2023-07-31 at 12 44 08 PM](https://github.com/flutter/engine/assets/168174/3b272428-b5be-4ca5-8cfe-1b12062a64f4)</details></sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Update guidance on how to run with Metal validation without Xcode.<br />
     <sub>[#44190](https://github.com/flutter/engine/pull/44190) merged on July 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44190) over 1 hour, 16 additions and 16 deletions in 1 file</sub><br />

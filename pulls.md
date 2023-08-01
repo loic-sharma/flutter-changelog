@@ -78,7 +78,7 @@
     <sub>[#131637](https://github.com/flutter/flutter/pull/131637) opened on on July 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131637) 28 additions and 0 deletions in 2 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; SelectionArea cursor should only change when over text<br />
-    <sub>[#131640](https://github.com/flutter/flutter/pull/131640) opened on on August 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131640) 46 additions and 26 deletions in 5 files</sub><br />
+    <sub>[#131640](https://github.com/flutter/flutter/pull/131640) opened on on August 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131640) 53 additions and 29 deletions in 6 files</sub><br />
 
 * **[Abdelrahman Shehata](https://github.com/abdelrahman122)** &mdash; Flutter Fix<br />
     <sub>[#131643](https://github.com/flutter/flutter/pull/131643) opened on on August 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131643) 18 additions and 0 deletions in 1 file</sub><br />
