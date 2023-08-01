@@ -44,9 +44,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [CP] Allow `OverlayPortal` to be added/removed from the tree in a layout callback (#130670)<br />
     <sub>[#131290](https://github.com/flutter/flutter/pull/131290) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131290) 59 additions and 10 deletions in 2 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; ImageProvider.toString uses double.toStringAsFixed<br />
-    <sub>[#131348](https://github.com/flutter/flutter/pull/131348) opened on on July 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131348) 11 additions and 6 deletions in 4 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; PaginatedDataTable improvements<br />
     <sub>[#131374](https://github.com/flutter/flutter/pull/131374) opened on on July 27, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/131374) 535 additions and 11 deletions in 10 files</sub><br />
 
