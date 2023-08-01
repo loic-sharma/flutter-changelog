@@ -77,3 +77,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Mention that the widget tree is not disposed on exit<br />
     <sub>[#131637](https://github.com/flutter/flutter/pull/131637) opened on on July 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131637) 28 additions and 0 deletions in 2 files</sub><br />
 
+* **[hangyu](https://github.com/hangyujin)** &mdash; SelectionArea cursor should only change when over text<br />
+    <sub>[#131640](https://github.com/flutter/flutter/pull/131640) opened on on August 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131640) 37 additions and 14 deletions in 3 files</sub><br />
+
