@@ -26,9 +26,6 @@
 * **[杨加康](https://github.com/MeandNi)** &mdash; [flutter_tools] Add flutter create-local-engine-repo<br />
     <sub>[#129948](https://github.com/flutter/flutter/pull/129948) opened on on July 4, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/129948) 243 additions and 7 deletions in 4 files</sub><br />
 
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny remove outdated comments<br />
-    <sub>[#130387](https://github.com/flutter/flutter/pull/130387) opened on on July 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/130387) 0 additions and 2 deletions in 1 file</sub><br />
-
 * **[Michelle Nguyen](https://github.com/mnguyen427)** &mdash; Fix CLI build tool log output during build ipa --export-options-plist<br />
     <sub>[#130424](https://github.com/flutter/flutter/pull/130424) opened on on July 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130424) 2 additions and 2 deletions in 1 file</sub><br />
 
