@@ -4,7 +4,7 @@
 
 ### July 29, 2023 to August 4, 2023
 
-12 commits.
+13 commits.
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Improve rendering of structured errors via DAP
     <sub>[#131251](https://github.com/flutter/flutter/pull/131251) merged on July 31, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/131251) over 6 days, 292 additions and 26 deletions in 6 files</sub>
@@ -15,6 +15,10 @@
     <sub>[#131141](https://github.com/flutter/flutter/pull/131141) merged on July 31, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/131141) over 1 week, 6 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [Christopher Fujino](https://github.com/christopherfujino)</sub>
     <sub><details><summary>1 image...</summary><img width="1119" alt="image" src="https://github.com/flutter/flutter/assets/66480156/e2e8eed1-3bef-436c-b21f-3891bdbe05bb"></details></sub>
+
+* **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 Treat empty ARB content as empty map when decoding
+    <sub>[#131242](https://github.com/flutter/flutter/pull/131242) merged on August 1, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/131242) over 6 days, 57 additions and 16 deletions in 2 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Tae Hyung Kim](https://github.com/thkim1011)</sub>
 
 * **[Jay Mehta](https://github.com/thisisjaymehta)** &mdash; Fixed regex to show missing assets file error
     <sub>[#131160](https://github.com/flutter/flutter/pull/131160) merged on July 31, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/131160) over 1 week, 45 additions and 1 deletion in 2 files</sub>
