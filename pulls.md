@@ -72,7 +72,7 @@
     <sub>[#131545](https://github.com/flutter/flutter/pull/131545) opened on on July 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131545) 266 additions and 2 deletions in 2 files</sub><br />
 
 * **[Chinmay Kabi](https://github.com/Chinmay-KB)** &mdash; Fix DataTable example not being scrollable<br />
-    <sub>[#131556](https://github.com/flutter/flutter/pull/131556) opened on on July 29, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/131556) 32 additions and 4 deletions in 3 files</sub><br />
+    <sub>[#131556](https://github.com/flutter/flutter/pull/131556) opened on on July 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/131556) 32 additions and 4 deletions in 3 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Mention that the widget tree is not disposed on exit<br />
     <sub>[#131637](https://github.com/flutter/flutter/pull/131637) opened on on July 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131637) 28 additions and 0 deletions in 2 files</sub><br />
