@@ -18,7 +18,7 @@
     <sub>[#129739](https://github.com/flutter/flutter/pull/129739) opened on on June 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/129739) 61 additions and 2 deletions in 2 files</sub><br />
 
 * **[指尖上的艺术](https://github.com/fingerart)** &mdash; Fix CurvedAnimation._curveDirection status update issue<br />
-    <sub>[#129777](https://github.com/flutter/flutter/pull/129777) opened on on June 29, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129777) 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#129777](https://github.com/flutter/flutter/pull/129777) opened on on June 29, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/129777) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[杨加康](https://github.com/MeandNi)** &mdash; [flutter_tools] Add flutter create-local-engine-repo<br />
     <sub>[#129948](https://github.com/flutter/flutter/pull/129948) opened on on July 4, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/129948) 243 additions and 7 deletions in 4 files</sub><br />
@@ -55,9 +55,6 @@
 
 * **[Fré Dumazy](https://github.com/dumazy)** &mdash; Add hasInteractedByUser getter in FormField<br />
     <sub>[#131539](https://github.com/flutter/flutter/pull/131539) opened on on July 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131539) 85 additions and 0 deletions in 2 files</sub><br />
-
-* **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Adds callback onWillAcceptWithDetails in DragTarget.<br />
-    <sub>[#131545](https://github.com/flutter/flutter/pull/131545) opened on on July 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131545) 266 additions and 2 deletions in 2 files</sub><br />
 
 * **[Chinmay Kabi](https://github.com/Chinmay-KB)** &mdash; Fix DataTable example not being scrollable<br />
     <sub>[#131556](https://github.com/flutter/flutter/pull/131556) opened on on July 29, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/131556) 33 additions and 4 deletions in 3 files</sub><br />
