@@ -11,9 +11,6 @@
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Added hoverColor property on ExpansionTile widget<br />
     <sub>[#116030](https://github.com/flutter/flutter/pull/116030) opened on on November 25, 2022 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/116030) 31 additions and 0 deletions in 3 files</sub><br />
 
-* **[LiangXiang Shen](https://github.com/kj415j45)** &mdash; Update `ThemeData`'s factory method documents<br />
-    <sub>[#123984](https://github.com/flutter/flutter/pull/123984) opened on on April 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/123984) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Refactor: updated segmented button<br />
     <sub>[#129215](https://github.com/flutter/flutter/pull/129215) opened on on June 20, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/129215) 402 additions and 112 deletions in 1 file</sub><br />
 
