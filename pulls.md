@@ -53,9 +53,6 @@
 * **[vijaymehrotra](https://github.com/vijaymehrotra)** &mdash; Vijay Mehrotra ..Solved the issue number #130455.<br />
     <sub>[#131392](https://github.com/flutter/flutter/pull/131392) opened on on July 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131392) 4 additions and 4 deletions in 1 file</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; [CP] Minor adjustments on 2D APIs (#131358)<br />
-    <sub>[#131436](https://github.com/flutter/flutter/pull/131436) opened on on July 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131436) 105 additions and 2 deletions in 3 files</sub><br />
-
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#131442](https://github.com/flutter/flutter/pull/131442) opened on on July 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131442) 2 additions and 2 deletions in 1 file</sub><br />
 
