@@ -603,7 +603,7 @@
 
 ### July 29, 2023 to August 4, 2023
 
-15 commits.
+16 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Implement, non user-facing, dithering for LinearGradients.<br />
     <sub>[#44181](https://github.com/flutter/engine/pull/44181) merged on August 1, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/44181) over 5 hours, 118 additions and 10 deletions in 11 files</sub><br />
@@ -617,6 +617,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Document the fiddly bits about setting up Metal shader source debugging.<br />
     <sub>[#44195](https://github.com/flutter/engine/pull/44195) merged on August 1, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44195) over 1 hour, 35 additions and 0 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[David Worsham](https://github.com/arbreng)** &mdash; [fuchsia] Only use upstream vulkan headers<br />
+    <sub>[#44157](https://github.com/flutter/engine/pull/44157) merged on August 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44157) over 22 hours, 18 additions and 135 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add documentation on how to enable Metal Profiling HUD without Xcode.<br />
     <sub>[#44196](https://github.com/flutter/engine/pull/44196) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44196) over 35 minutes, 18 additions and 0 deletions in 2 files</sub><br />
