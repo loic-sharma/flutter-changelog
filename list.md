@@ -611,7 +611,7 @@
 
 ### July 29, 2023 to August 4, 2023
 
-30 commits.
+31 commits.
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [iOS] Add darwin_extension_safe flag and use UIScene api when building for extensions
     <sub>[#43449](https://github.com/flutter/engine/pull/43449) merged on August 1, 2023 &mdash; **Large:** [21 comments](https://github.com/flutter/engine/pull/43449) over 3 weeks, 574 additions and 70 deletions in 11 files</sub>
@@ -626,6 +626,10 @@
     <sub>[#44181](https://github.com/flutter/engine/pull/44181) merged on August 1, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/44181) over 5 hours, 118 additions and 10 deletions in 11 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
     <sub><details><summary>7 images...</summary>![Screenshot 2023-07-31 at 1 29 16 PM](https://github.com/flutter/engine/assets/168174/51d2f7a0-dc22-44fe-b7f9-990b826c5fd9)![Screenshot 2023-07-31 at 1 29 25 PM](https://github.com/flutter/engine/assets/168174/78da2efe-2c5d-438f-b7f7-d8eb092c6a2c)![Screenshot 2023-07-31 at 11 35 07 AM](https://github.com/flutter/engine/assets/168174/719f97fc-1a3d-4920-8687-486c4de28b79)![Screenshot 2023-07-31 at 12 12 38 PM](https://github.com/flutter/engine/assets/168174/ed262f83-442f-484b-8288-30e8e0d5e768)![Screenshot 2023-07-31 at 12 19 56 PM](https://github.com/flutter/engine/assets/168174/057b1f95-fbd2-4ae2-bb25-8dd967cf8466)![Screenshot 2023-07-31 at 12 25 59 PM](https://github.com/flutter/engine/assets/168174/34857c6e-49cd-40c1-9e91-646b7bfbf97c)![Screenshot 2023-07-31 at 12 44 08 PM](https://github.com/flutter/engine/assets/168174/3b272428-b5be-4ca5-8cfe-1b12062a64f4)</details></sub>
+
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; [Impeller] Support for rendering Android Platform Views into a HardwareBuffer backed texture.
+    <sub>[#44087](https://github.com/flutter/engine/pull/44087) merged on August 1, 2023 &mdash; **Large:** [36 comments](https://github.com/flutter/engine/pull/44087) over 5 days, 1154 additions and 51 deletions in 36 files</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Made the clear optimization handle backdrop filters.
     <sub>[#44192](https://github.com/flutter/engine/pull/44192) merged on August 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44192) over 18 hours, 27 additions and 9 deletions in 2 files</sub>
@@ -1045,7 +1049,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart
     <sub>[#43895](https://github.com/flutter/engine/pull/43895) merged on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43895) over 36 minutes, 12 additions and 16 deletions in 2 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jason Simmons](https://github.com/jason-simmons)</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a breadcrumb for people who want to run the web tests
     <sub>[#43865](https://github.com/flutter/engine/pull/43865) merged on July 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43865) over 6 hours, 3 additions and 0 deletions in 1 file</sub>
@@ -1105,7 +1109,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Remove accessibility bridge helpers from the engine
     <sub>[#43710](https://github.com/flutter/engine/pull/43710) merged on July 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43710) over 2 days, 27 additions and 39 deletions in 5 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Increase engine v2 orchestrator timeouts
     <sub>[#43788](https://github.com/flutter/engine/pull/43788) merged on July 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43788) over 2 hours, 18 additions and 18 deletions in 1 file</sub>
