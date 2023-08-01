@@ -83,6 +83,3 @@
 * **[Abdelrahman Shehata](https://github.com/abdelrahman122)** &mdash; Flutter Fix<br />
     <sub>[#131643](https://github.com/flutter/flutter/pull/131643) opened on on August 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131643) 18 additions and 0 deletions in 1 file</sub><br />
 
-* **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Take paint offset into account for inline children hit test in Editable<br />
-    <sub>[#131675](https://github.com/flutter/flutter/pull/131675) opened on on August 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131675) 2 additions and 2 deletions in 1 file</sub><br />
-
