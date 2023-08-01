@@ -66,7 +66,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland - "Update Unit Tests for M2/M3"
     <sub>[#131504](https://github.com/flutter/flutter/pull/131504) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131504) over 2 days, 231 additions and 16 deletions in 5 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Hans Muller](https://github.com/HansMuller)</sub>
 
 ### July 22, 2023 to July 28, 2023
 
@@ -424,7 +424,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `TextSelectionTheme`, `ThemeData`, `TimePicker`, and `TimePickerTheme` tests for M2/M3
     <sub>[#130547](https://github.com/flutter/flutter/pull/130547) merged on July 20, 2023 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/130547) over 6 days, 901 additions and 470 deletions in 5 files</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update SnackBar tests for M2/M3
     <sub>[#130717](https://github.com/flutter/flutter/pull/130717) merged on July 18, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/130717) over 1 day, 625 additions and 52 deletions in 1 file</sub>
@@ -611,7 +611,7 @@
 
 ### July 29, 2023 to August 4, 2023
 
-31 commits.
+32 commits.
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [iOS] Add darwin_extension_safe flag and use UIScene api when building for extensions
     <sub>[#43449](https://github.com/flutter/engine/pull/43449) merged on August 1, 2023 &mdash; **Large:** [21 comments](https://github.com/flutter/engine/pull/43449) over 3 weeks, 574 additions and 70 deletions in 11 files</sub>
@@ -630,6 +630,10 @@
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; [Impeller] Support for rendering Android Platform Views into a HardwareBuffer backed texture.
     <sub>[#44087](https://github.com/flutter/engine/pull/44087) merged on August 1, 2023 &mdash; **Large:** [36 comments](https://github.com/flutter/engine/pull/44087) over 5 days, 1154 additions and 51 deletions in 36 files</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Harry Terkelsen](https://github.com/hterkelsen)** &mdash; [canvaskit] Enable CanvasKit to compute tight SkPicture bounds
+    <sub>[#43361](https://github.com/flutter/engine/pull/43361) merged on August 1, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/43361) over 1 month, 145 additions and 29 deletions in 9 files</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Made the clear optimization handle backdrop filters.
     <sub>[#44192](https://github.com/flutter/engine/pull/44192) merged on August 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44192) over 18 hours, 27 additions and 9 deletions in 2 files</sub>

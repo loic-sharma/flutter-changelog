@@ -66,5 +66,8 @@
     <sub>[#131643](https://github.com/flutter/flutter/pull/131643) opened on on August 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131643) 18 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] lerp images in a save layer.<br />
-    <sub>[#131703](https://github.com/flutter/flutter/pull/131703) opened on on August 1, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131703) 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#131703](https://github.com/flutter/flutter/pull/131703) opened on on August 1, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131703) 219 additions and 0 deletions in 2 files</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] set terminal.singleCharMode to false after attach finishes<br />
+    <sub>[#131723](https://github.com/flutter/flutter/pull/131723) opened on on August 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131723) 87 additions and 0 deletions in 2 files</sub><br />
 
