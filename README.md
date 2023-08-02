@@ -35,7 +35,7 @@
 
 * **[LiangXiang Shen](https://github.com/kj415j45)** &mdash; Update `ThemeData`'s factory method documents<br />
     <sub>[#123984](https://github.com/flutter/flutter/pull/123984) merged on August 2, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123984) over 4 months, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Ian Hickson](https://github.com/Hixie)</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; ImageProvider.toString uses double.toStringAsFixed<br />
     <sub>[#131348](https://github.com/flutter/flutter/pull/131348) merged on August 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131348) over 6 days, 11 additions and 6 deletions in 4 files</sub><br />
@@ -1489,7 +1489,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Update Android example<br />
     <sub>[#4504](https://github.com/flutter/packages/pull/4504) merged on July 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/4504) over 5 hours, 23 additions and 16 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Gray Mackall](https://github.com/gmackall)</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [various] Deletes deprecated splash screen meta-data element<br />
     <sub>[#4501](https://github.com/flutter/packages/pull/4501) merged on July 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4501) over 21 hours, 12 additions and 36 deletions in 7 files</sub><br />
