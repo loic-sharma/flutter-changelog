@@ -66,7 +66,7 @@
     <sub>[#131776](https://github.com/flutter/flutter/pull/131776) opened on on August 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131776) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Update stack_frame.dart to be tolerant to unexpected error format.<br />
-    <sub>[#131786](https://github.com/flutter/flutter/pull/131786) opened on on August 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131786) 17 additions and 3 deletions in 1 file</sub><br />
+    <sub>[#131786](https://github.com/flutter/flutter/pull/131786) opened on on August 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131786) 24 additions and 7 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Check for simulator runtime in flutter doctor<br />
     <sub>[#131795](https://github.com/flutter/flutter/pull/131795) opened on on August 2, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/131795) 617 additions and 14 deletions in 8 files</sub><br />

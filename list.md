@@ -4,7 +4,7 @@
 
 ### July 29, 2023 to August 4, 2023
 
-27 commits.
+28 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Scrollable `TabBar` for Material 3
     <sub>[#131409](https://github.com/flutter/flutter/pull/131409) merged on August 2, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/131409) over 5 days, 967 additions and 95 deletions in 6 files</sub>
@@ -38,6 +38,10 @@
 * **[Jay Mehta](https://github.com/thisisjaymehta)** &mdash; Fixed regex to show missing assets file error
     <sub>[#131160](https://github.com/flutter/flutter/pull/131160) merged on July 31, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/131160) over 1 week, 45 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Loïc Sharma](https://github.com/loic-sharma), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add documentation in flutter.groovy noting that we always use the latest available android version
+    <sub>[#131705](https://github.com/flutter/flutter/pull/131705) merged on August 2, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/131705) over 1 day, 7 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] set terminal.singleCharMode to false after attach finishes
     <sub>[#131723](https://github.com/flutter/flutter/pull/131723) merged on August 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131723) over 18 hours, 87 additions and 0 deletions in 2 files</sub>
@@ -1156,7 +1160,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart
     <sub>[#43895](https://github.com/flutter/engine/pull/43895) merged on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43895) over 36 minutes, 12 additions and 16 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a breadcrumb for people who want to run the web tests
     <sub>[#43865](https://github.com/flutter/engine/pull/43865) merged on July 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43865) over 6 hours, 3 additions and 0 deletions in 1 file</sub>
@@ -1216,7 +1220,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Remove accessibility bridge helpers from the engine
     <sub>[#43710](https://github.com/flutter/engine/pull/43710) merged on July 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43710) over 2 days, 27 additions and 39 deletions in 5 files</sub>
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Increase engine v2 orchestrator timeouts
     <sub>[#43788](https://github.com/flutter/engine/pull/43788) merged on July 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43788) over 2 hours, 18 additions and 18 deletions in 1 file</sub>
@@ -1571,7 +1575,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Update Android example
     <sub>[#4504](https://github.com/flutter/packages/pull/4504) merged on July 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/4504) over 5 hours, 23 additions and 16 deletions in 3 files</sub>
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Gray Mackall](https://github.com/gmackall)</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [various] Deletes deprecated splash screen meta-data element
     <sub>[#4501](https://github.com/flutter/packages/pull/4501) merged on July 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4501) over 21 hours, 12 additions and 36 deletions in 7 files</sub>
