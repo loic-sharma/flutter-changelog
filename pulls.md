@@ -75,5 +75,5 @@
     <sub>[#131724](https://github.com/flutter/flutter/pull/131724) opened on on August 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131724) 41 additions and 10 deletions in 2 files</sub><br />
 
 * **[Danny Eldering](https://github.com/deldering-momo)** &mdash; Fix: use --web-launch-url and --web-hostname arguments in flutter drive<br />
-    <sub>[#131763](https://github.com/flutter/flutter/pull/131763) opened on on August 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131763) 5 additions and 3 deletions in 1 file</sub><br />
+    <sub>[#131763](https://github.com/flutter/flutter/pull/131763) opened on on August 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131763) 36 additions and 3 deletions in 2 files</sub><br />
 
