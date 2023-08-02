@@ -69,11 +69,11 @@
     <sub>[#131703](https://github.com/flutter/flutter/pull/131703) opened on on August 1, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131703) 7 additions and 5 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] set terminal.singleCharMode to false after attach finishes<br />
-    <sub>[#131723](https://github.com/flutter/flutter/pull/131723) opened on on August 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131723) 87 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#131723](https://github.com/flutter/flutter/pull/131723) opened on on August 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131723) 87 additions and 0 deletions in 2 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix flex methods for min and max column widths<br />
     <sub>[#131724](https://github.com/flutter/flutter/pull/131724) opened on on August 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131724) 41 additions and 10 deletions in 2 files</sub><br />
 
 * **[Danny Eldering](https://github.com/deldering-momo)** &mdash; Fix: use --web-launch-url and --web-hostname arguments in flutter drive<br />
-    <sub>[#131763](https://github.com/flutter/flutter/pull/131763) opened on on August 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131763) 36 additions and 3 deletions in 2 files</sub><br />
+    <sub>[#131763](https://github.com/flutter/flutter/pull/131763) opened on on August 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131763) 36 additions and 4 deletions in 3 files</sub><br />
 
