@@ -50,9 +50,6 @@
 * **[vijaymehrotra](https://github.com/vijaymehrotra)** &mdash; Vijay Mehrotra ..Solved the issue number #130455.<br />
     <sub>[#131392](https://github.com/flutter/flutter/pull/131392) opened on on July 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131392) 4 additions and 4 deletions in 1 file</sub><br />
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#131442](https://github.com/flutter/flutter/pull/131442) opened on on July 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131442) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Fré Dumazy](https://github.com/dumazy)** &mdash; Add hasInteractedByUser getter in FormField<br />
     <sub>[#131539](https://github.com/flutter/flutter/pull/131539) opened on on July 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131539) 85 additions and 0 deletions in 2 files</sub><br />
 

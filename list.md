@@ -52,7 +52,7 @@
 
 * **[LiangXiang Shen](https://github.com/kj415j45)** &mdash; Update `ThemeData`'s factory method documents
     <sub>[#123984](https://github.com/flutter/flutter/pull/123984) merged on August 2, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123984) over 4 months, 2 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; add gem dependency to the ios_app_with_extensions_test
     <sub>[#131713](https://github.com/flutter/flutter/pull/131713) merged on August 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131713) over 21 hours, 8 additions and 0 deletions in 1 file</sub>
@@ -681,7 +681,7 @@
     <sub>[#44190](https://github.com/flutter/engine/pull/44190) merged on July 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44190) over 1 hour, 16 additions and 16 deletions in 1 file</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Harry Terkelsen](https://github.com/hterkelsen)** &mdash; [canvaskit] Enable CanvasKit to compute tight SkPicture bounds
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Enable CanvasKit to compute tight SkPicture bounds
     <sub>[#43361](https://github.com/flutter/engine/pull/43361) merged on August 1, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/43361) over 1 month, 145 additions and 29 deletions in 9 files</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
@@ -1131,7 +1131,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Preserve correct CanvasKit Variant during test initialization
     <sub>[#43854](https://github.com/flutter/engine/pull/43854) merged on July 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43854) over 1 hour, 102 additions and 9 deletions in 8 files</sub>
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Harry Terkelsen](https://github.com/hterkelsen)</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Add a PlatformViewRenderTarget abstraction
     <sub>[#43813](https://github.com/flutter/engine/pull/43813) merged on July 20, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/43813) over 12 hours, 459 additions and 337 deletions in 9 files</sub>
@@ -1147,7 +1147,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart
     <sub>[#43895](https://github.com/flutter/engine/pull/43895) merged on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43895) over 36 minutes, 12 additions and 16 deletions in 2 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jason Simmons](https://github.com/jason-simmons)</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a breadcrumb for people who want to run the web tests
     <sub>[#43865](https://github.com/flutter/engine/pull/43865) merged on July 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43865) over 6 hours, 3 additions and 0 deletions in 1 file</sub>
