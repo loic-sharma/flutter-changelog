@@ -77,3 +77,6 @@
 * **[Veera](https://github.com/5v1988)** &mdash; add text_input_action deserialization factory<br />
     <sub>[#131776](https://github.com/flutter/flutter/pull/131776) opened on on August 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131776) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Update stack_frame.dart to be tolerant to unexpected error format.<br />
+    <sub>[#131786](https://github.com/flutter/flutter/pull/131786) opened on on August 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131786) 17 additions and 3 deletions in 1 file</sub><br />
+
