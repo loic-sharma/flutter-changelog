@@ -71,6 +71,3 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Check for simulator runtime in flutter doctor<br />
     <sub>[#131795](https://github.com/flutter/flutter/pull/131795) opened on on August 2, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/131795) 617 additions and 14 deletions in 8 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added new gallery benchmark test that forces opengles.<br />
-    <sub>[#131796](https://github.com/flutter/flutter/pull/131796) opened on on August 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131796) 94 additions and 0 deletions in 6 files</sub><br />
-

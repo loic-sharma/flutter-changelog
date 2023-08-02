@@ -4,12 +4,17 @@
 
 ### July 29, 2023 to August 4, 2023
 
-26 commits.
+27 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Scrollable `TabBar` for Material 3<br />
     <sub>[#131409](https://github.com/flutter/flutter/pull/131409) merged on August 2, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/131409) over 5 days, 967 additions and 95 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
     <sub><details><summary>3 images...</summary>![Screenshot 2023-07-27 at 14 12 36](https://github.com/flutter/flutter/assets/48603081/1c08a9d2-ac15-4d33-8fa1-c765b4b10f92)![Screenshot 2023-07-27 at 14 13 12](https://github.com/flutter/flutter/assets/48603081/7e662dfe-9f32-46c9-a128-3024a4782882)![Screenshot 2023-07-27 at 14 16 37](https://github.com/flutter/flutter/assets/48603081/ac2ef49b-2410-46d0-8ae2-d9b77236abba)</details></sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] lerp images in a save layer.<br />
+    <sub>[#131703](https://github.com/flutter/flutter/pull/131703) merged on August 2, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/131703) over 1 day, 165 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
+    <sub><details><summary>2 images...</summary>![flutter_02](https://github.com/flutter/flutter/assets/8975114/1e783285-2fc2-429f-9fd8-6d04d4a155e1)![flutter_03](https://github.com/flutter/flutter/assets/8975114/3d08b187-26aa-4471-926d-e9ed5946a206)</details></sub>
 
 * **[Daniel Chevalier](https://github.com/CoderDake)** &mdash; Fix for endless recursion for getLayoutExplorerNode on a Tooltip<br />
     <sub>[#131486](https://github.com/flutter/flutter/pull/131486) merged on August 2, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/131486) over 4 days, 64 additions and 6 deletions in 2 files</sub><br />
@@ -470,7 +475,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `TextSelectionTheme`, `ThemeData`, `TimePicker`, and `TimePickerTheme` tests for M2/M3<br />
     <sub>[#130547](https://github.com/flutter/flutter/pull/130547) merged on July 20, 2023 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/130547) over 6 days, 901 additions and 470 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update SnackBar tests for M2/M3<br />
     <sub>[#130717](https://github.com/flutter/flutter/pull/130717) merged on July 18, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/130717) over 1 day, 625 additions and 52 deletions in 1 file</sub><br />
@@ -1151,7 +1156,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart<br />
     <sub>[#43895](https://github.com/flutter/engine/pull/43895) merged on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/43895) over 36 minutes, 12 additions and 16 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a breadcrumb for people who want to run the web tests<br />
     <sub>[#43865](https://github.com/flutter/engine/pull/43865) merged on July 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/43865) over 6 hours, 3 additions and 0 deletions in 1 file</sub><br />
@@ -1211,7 +1216,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Remove accessibility bridge helpers from the engine<br />
     <sub>[#43710](https://github.com/flutter/engine/pull/43710) merged on July 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/43710) over 2 days, 27 additions and 39 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Increase engine v2 orchestrator timeouts<br />
     <sub>[#43788](https://github.com/flutter/engine/pull/43788) merged on July 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/43788) over 2 hours, 18 additions and 18 deletions in 1 file</sub><br />
