@@ -68,6 +68,3 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Update stack_frame.dart to be tolerant to unexpected error format.<br />
     <sub>[#131786](https://github.com/flutter/flutter/pull/131786) opened on on August 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131786) 24 additions and 7 deletions in 2 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Check for simulator runtime in flutter doctor<br />
-    <sub>[#131795](https://github.com/flutter/flutter/pull/131795) opened on on August 2, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/131795) 617 additions and 14 deletions in 8 files</sub><br />
-
