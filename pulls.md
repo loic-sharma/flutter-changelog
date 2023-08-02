@@ -77,3 +77,6 @@
 * **[Danny Eldering](https://github.com/deldering-momo)** &mdash; Fix: use --web-launch-url and --web-hostname arguments in flutter drive<br />
     <sub>[#131763](https://github.com/flutter/flutter/pull/131763) opened on on August 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131763) 36 additions and 4 deletions in 3 files</sub><br />
 
+* **[Veera](https://github.com/5v1988)** &mdash; add text_input_action deserialization factory<br />
+    <sub>[#131776](https://github.com/flutter/flutter/pull/131776) opened on on August 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131776) 2 additions and 0 deletions in 1 file</sub><br />
+
