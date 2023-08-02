@@ -65,11 +65,11 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny remove outdated comments<br />
     <sub>[#130387](https://github.com/flutter/flutter/pull/130387) merged on August 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130387) over 3 weeks, 0 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[LiangXiang Shen](https://github.com/kj415j45)** &mdash; Update `ThemeData`'s factory method documents<br />
     <sub>[#123984](https://github.com/flutter/flutter/pull/123984) merged on August 2, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123984) over 4 months, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Ian Hickson](https://github.com/Hixie)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Mention that the widget tree is not disposed on exit<br />
     <sub>[#131637](https://github.com/flutter/flutter/pull/131637) merged on August 2, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/131637) over 1 day, 28 additions and 0 deletions in 2 files</sub><br />
@@ -491,7 +491,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `TextSelectionTheme`, `ThemeData`, `TimePicker`, and `TimePickerTheme` tests for M2/M3<br />
     <sub>[#130547](https://github.com/flutter/flutter/pull/130547) merged on July 20, 2023 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/130547) over 6 days, 901 additions and 470 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update SnackBar tests for M2/M3<br />
     <sub>[#130717](https://github.com/flutter/flutter/pull/130717) merged on July 18, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/130717) over 1 day, 625 additions and 52 deletions in 1 file</sub><br />
@@ -787,8 +787,8 @@
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Be sure to clear exceptions after a failed JNI lookup<br />
-    <sub>[#44293](https://github.com/flutter/engine/pull/44293) merged on August 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44293) over 10 minutes, 7 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
+    <sub>[#44293](https://github.com/flutter/engine/pull/44293) merged on August 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44293) over 10 minutes, 7 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Remove extends JSTypedArray from JSUint8Array1<br />
     <sub>[#44175](https://github.com/flutter/engine/pull/44175) merged on August 1, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/44175) over 1 day, 2 additions and 2 deletions in 2 files</sub><br />
@@ -1423,7 +1423,7 @@
 
 ### July 29, 2023 to August 4, 2023
 
-6 commits.
+7 commits.
 
 * **[Eli Geller](https://github.com/elitree)** &mdash; [google_maps_flutter_web] Initial support for custom overlays<br />
     <sub>[#3538](https://github.com/flutter/packages/pull/3538) merged on July 31, 2023 &mdash; **Large:** [45 comments](https://github.com/flutter/packages/pull/3538) over 4 months, 801 additions and 151 deletions in 15 files</sub><br />
@@ -1436,6 +1436,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Support `ShellRouteData` without `const` constructor <br />
     <sub>[#4627](https://github.com/flutter/packages/pull/4627) merged on August 2, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4627) over 10 hours, 72 additions and 8 deletions in 7 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [Tooling] Add google owned cache for dependencies as an option in ci<br />
+    <sub>[#4567](https://github.com/flutter/packages/pull/4567) merged on August 2, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/4567) over 1 week, 21 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Gray Mackall](https://github.com/gmackall), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [google_maps_flutter_android] Disable flaky `testToggleInfo` test<br />
     <sub>[#4629](https://github.com/flutter/packages/pull/4629) merged on August 2, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4629) over 53 minutes, 3 additions and 1 deletion in 1 file</sub><br />
