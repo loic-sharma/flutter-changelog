@@ -624,7 +624,7 @@
 
 ### July 29, 2023 to August 4, 2023
 
-32 commits.
+33 commits.
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [iOS] Add darwin_extension_safe flag and use UIScene api when building for extensions
     <sub>[#43449](https://github.com/flutter/engine/pull/43449) merged on August 1, 2023 &mdash; **Large:** [21 comments](https://github.com/flutter/engine/pull/43449) over 3 weeks, 574 additions and 70 deletions in 11 files</sub>
@@ -663,6 +663,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Document the fiddly bits about setting up Metal shader source debugging.
     <sub>[#44195](https://github.com/flutter/engine/pull/44195) merged on August 1, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44195) over 1 hour, 35 additions and 0 deletions in 3 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Give a fixed timeout for acquireNextImageKHR.
+    <sub>[#44241](https://github.com/flutter/engine/pull/44241) merged on August 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44241) over 3 hours, 4 additions and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:a11y] add platform view role
     <sub>[#44188](https://github.com/flutter/engine/pull/44188) merged on August 1, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/44188) over 1 day, 116 additions and 12 deletions in 11 files</sub>
