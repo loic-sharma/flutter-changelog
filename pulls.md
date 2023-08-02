@@ -74,9 +74,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix flex methods for min and max column widths<br />
     <sub>[#131724](https://github.com/flutter/flutter/pull/131724) opened on on August 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131724) 41 additions and 10 deletions in 2 files</sub><br />
 
-* **[Veera](https://github.com/5v1988)** &mdash; Update deserialization_factory.dart<br />
-    <sub>[#131731](https://github.com/flutter/flutter/pull/131731) opened on on August 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131731) 2 additions and 0 deletions in 1 file</sub><br />
-
 * **[PoloMarkoDev](https://github.com/PoloMarkoDev)** &mdash; Test - Please Ignore<br />
     <sub>[#131740](https://github.com/flutter/flutter/pull/131740) opened on on August 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131740) 5 additions and 1 deletion in 1 file</sub><br />
 
