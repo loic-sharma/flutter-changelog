@@ -59,9 +59,6 @@
 * **[Chinmay Kabi](https://github.com/Chinmay-KB)** &mdash; Fix DataTable example not being scrollable<br />
     <sub>[#131556](https://github.com/flutter/flutter/pull/131556) opened on on July 29, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/131556) 33 additions and 4 deletions in 3 files</sub><br />
 
-* **[hangyu](https://github.com/hangyujin)** &mdash; SelectionArea cursor should only change when over text<br />
-    <sub>[#131640](https://github.com/flutter/flutter/pull/131640) opened on on August 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131640) 68 additions and 29 deletions in 5 files</sub><br />
-
 * **[Abdelrahman Shehata](https://github.com/abdelrahman122)** &mdash; Flutter Fix<br />
     <sub>[#131643](https://github.com/flutter/flutter/pull/131643) opened on on August 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131643) 18 additions and 0 deletions in 1 file</sub><br />
 
