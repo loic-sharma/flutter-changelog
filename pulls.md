@@ -65,6 +65,3 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Fix description in index.html / manifest.json getting double quoted<br />
     <sub>[#131842](https://github.com/flutter/flutter/pull/131842) opened on on August 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131842) 40 additions and 0 deletions in 2 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add TODO to refactor error handling.<br />
-    <sub>[#131878](https://github.com/flutter/flutter/pull/131878) opened on on August 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131878) 2 additions and 0 deletions in 1 file</sub><br />
-
