@@ -74,3 +74,6 @@
 * **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Introduce architecture subdirectory for Windows build (#129805, #116196)<br />
     <sub>[#131843](https://github.com/flutter/flutter/pull/131843) opened on on August 3, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/131843) 333 additions and 21 deletions in 6 files</sub><br />
 
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter_releases] Flutter beta 3.13.0-0.3.pre Framework Cherrypicks<br />
+    <sub>[#131857](https://github.com/flutter/flutter/pull/131857) opened on on August 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131857) 1 addition and 1 deletion in 1 file</sub><br />
+
