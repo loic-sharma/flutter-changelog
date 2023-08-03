@@ -65,3 +65,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; GridView sample code<br />
     <sub>[#131900](https://github.com/flutter/flutter/pull/131900) opened on on August 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131900) 265 additions and 9 deletions in 4 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Allow plugins to use compileSdkPreview<br />
+    <sub>[#131901](https://github.com/flutter/flutter/pull/131901) opened on on August 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131901) 43 additions and 2 deletions in 2 files</sub><br />
+
