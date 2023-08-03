@@ -72,5 +72,5 @@
     <sub>[#131842](https://github.com/flutter/flutter/pull/131842) opened on on August 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131842) 26 additions and 0 deletions in 2 files</sub><br />
 
 * **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Introduce architecture subdirectory for Windows build (#129805, #116196)<br />
-    <sub>[#131843](https://github.com/flutter/flutter/pull/131843) opened on on August 3, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/131843) 333 additions and 21 deletions in 6 files</sub><br />
+    <sub>[#131843](https://github.com/flutter/flutter/pull/131843) opened on on August 3, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/131843) 333 additions and 21 deletions in 6 files</sub><br />
 
