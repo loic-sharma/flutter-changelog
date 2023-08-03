@@ -62,3 +62,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Fix description in index.html / manifest.json getting double quoted<br />
     <sub>[#131842](https://github.com/flutter/flutter/pull/131842) opened on on August 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131842) 40 additions and 0 deletions in 2 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; GridView sample code<br />
+    <sub>[#131900](https://github.com/flutter/flutter/pull/131900) opened on on August 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131900) 265 additions and 9 deletions in 4 files</sub><br />
+
