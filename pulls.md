@@ -20,9 +20,6 @@
 * **[指尖上的艺术](https://github.com/fingerart)** &mdash; Fix CurvedAnimation._curveDirection status update issue<br />
     <sub>[#129777](https://github.com/flutter/flutter/pull/129777) opened on on June 29, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/129777) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[杨加康](https://github.com/MeandNi)** &mdash; [flutter_tools] Add flutter create-local-engine-repo<br />
-    <sub>[#129948](https://github.com/flutter/flutter/pull/129948) opened on on July 4, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/129948) 243 additions and 7 deletions in 4 files</sub><br />
-
 * **[Michelle Nguyen](https://github.com/mnguyen427)** &mdash; Fix CLI build tool log output during build ipa --export-options-plist<br />
     <sub>[#130424](https://github.com/flutter/flutter/pull/130424) opened on on July 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130424) 2 additions and 2 deletions in 1 file</sub><br />
 
@@ -56,9 +53,6 @@
 * **[Abdelrahman Shehata](https://github.com/abdelrahman122)** &mdash; Flutter Fix<br />
     <sub>[#131643](https://github.com/flutter/flutter/pull/131643) opened on on August 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131643) 18 additions and 0 deletions in 1 file</sub><br />
 
-* **[Danny Eldering](https://github.com/deldering-momo)** &mdash; Fix: use --web-launch-url and --web-hostname arguments in flutter drive<br />
-    <sub>[#131763](https://github.com/flutter/flutter/pull/131763) opened on on August 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131763) 36 additions and 4 deletions in 3 files</sub><br />
-
 * **[Veera](https://github.com/5v1988)** &mdash; add text_input_action deserialization factory<br />
     <sub>[#131776](https://github.com/flutter/flutter/pull/131776) opened on on August 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131776) 2 additions and 0 deletions in 1 file</sub><br />
 
@@ -70,9 +64,6 @@
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Fix description in index.html / manifest.json getting double quoted<br />
     <sub>[#131842](https://github.com/flutter/flutter/pull/131842) opened on on August 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131842) 40 additions and 0 deletions in 2 files</sub><br />
-
-* **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Introduce architecture subdirectory for Windows build (#129805, #116196)<br />
-    <sub>[#131843](https://github.com/flutter/flutter/pull/131843) opened on on August 3, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/131843) 333 additions and 21 deletions in 6 files</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add TODO to refactor error handling.<br />
     <sub>[#131878](https://github.com/flutter/flutter/pull/131878) opened on on August 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131878) 2 additions and 0 deletions in 1 file</sub><br />
