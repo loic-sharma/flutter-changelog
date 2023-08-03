@@ -759,7 +759,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Check whether the lookup of android.hardware.HardwareBuffer found a class
-    <sub>[#44304](https://github.com/flutter/engine/pull/44304) merged on August 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44304) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+    <sub>[#44304](https://github.com/flutter/engine/pull/44304) merged on August 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44304) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Fix use-after-free in setBinaryMessenger
