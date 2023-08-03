@@ -74,6 +74,3 @@
 * **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Introduce architecture subdirectory for Windows build (#129805, #116196)<br />
     <sub>[#131843](https://github.com/flutter/flutter/pull/131843) opened on on August 3, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/131843) 333 additions and 21 deletions in 6 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [WIP] Xcode debug and devicectl workflow<br />
-    <sub>[#131865](https://github.com/flutter/flutter/pull/131865) opened on on August 3, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/131865) 7039 additions and 88 deletions in 30 files</sub><br />
-
