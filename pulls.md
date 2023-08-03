@@ -68,9 +68,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Add static_path_tessellation macrobenchmark<br />
     <sub>[#131837](https://github.com/flutter/flutter/pull/131837) opened on on August 3, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/131837) 302 additions and 0 deletions in 4 files</sub><br />
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Fix description in index.html getting double quoted<br />
-    <sub>[#131842](https://github.com/flutter/flutter/pull/131842) opened on on August 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131842) 26 additions and 0 deletions in 2 files</sub><br />
-
 * **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Introduce architecture subdirectory for Windows build (#129805, #116196)<br />
     <sub>[#131843](https://github.com/flutter/flutter/pull/131843) opened on on August 3, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/131843) 333 additions and 21 deletions in 6 files</sub><br />
 
