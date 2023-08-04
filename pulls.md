@@ -50,6 +50,9 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; An example of parentData usage.<br />
     <sub>[#131818](https://github.com/flutter/flutter/pull/131818) opened on on August 2, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/131818) 447 additions and 18 deletions in 4 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Fix flutter attach local engine<br />
+    <sub>[#131825](https://github.com/flutter/flutter/pull/131825) opened on on August 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131825) 91 additions and 51 deletions in 5 files</sub><br />
+
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Add static_path_tessellation macrobenchmark<br />
     <sub>[#131837](https://github.com/flutter/flutter/pull/131837) opened on on August 3, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/131837) 344 additions and 0 deletions in 4 files</sub><br />
 
