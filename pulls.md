@@ -27,7 +27,7 @@
     <sub>[#130645](https://github.com/flutter/flutter/pull/130645) opened on on July 14, 2023 &mdash; **Large:** [36 comments](https://github.com/flutter/flutter/pull/130645) 506 additions and 0 deletions in 3 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Replace `allprojects.repositories` with `repositories` in app and plugin templates<br />
-    <sub>[#130835](https://github.com/flutter/flutter/pull/130835) opened on on July 18, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/130835) 10 additions and 14 deletions in 4 files</sub><br />
+    <sub>[#130835](https://github.com/flutter/flutter/pull/130835) opened on on July 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/130835) 10 additions and 14 deletions in 4 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [Cp] Fix Tooltip crash when selected in a SelectableRegion (#130181)<br />
     <sub>[#131288](https://github.com/flutter/flutter/pull/131288) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131288) 115 additions and 24 deletions in 4 files</sub><br />
@@ -61,7 +61,4 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; GridView sample code<br />
     <sub>[#131900](https://github.com/flutter/flutter/pull/131900) opened on on August 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131900) 265 additions and 9 deletions in 4 files</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Allow plugins to use compileSdkPreview<br />
-    <sub>[#131901](https://github.com/flutter/flutter/pull/131901) opened on on August 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131901) 43 additions and 2 deletions in 2 files</sub><br />
 
