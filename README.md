@@ -1609,7 +1609,7 @@
 
 ### July 29, 2023 to August 4, 2023
 
-17 commits.
+18 commits.
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; [go_router_builder]  Add go_router StatefulShellRoute support to go_router_builder<br />
     <sub>[#4238](https://github.com/flutter/packages/pull/4238) merged on August 2, 2023 &mdash; **Large:** [22 comments](https://github.com/flutter/packages/pull/4238) over 1 month, 608 additions and 73 deletions in 10 files</sub><br />
@@ -1646,6 +1646,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [Tooling] Add google owned cache for dependencies as an option in ci<br />
     <sub>[#4567](https://github.com/flutter/packages/pull/4567) merged on August 2, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/4567) over 1 week, 21 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Gray Mackall](https://github.com/gmackall), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Remove tools from Dockerfile<br />
+    <sub>[#4649](https://github.com/flutter/packages/pull/4649) merged on August 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4649) over 6 hours, 0 additions and 10 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Update to not backfill the ci.yaml roller task.<br />
     <sub>[#4651](https://github.com/flutter/packages/pull/4651) merged on August 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4651) over 1 hour, 2 additions and 0 deletions in 1 file</sub><br />
