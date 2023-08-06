@@ -68,3 +68,6 @@
 * **[Adam Vongrej](https://github.com/vongrad)** &mdash; Fix: SelectableText userUpdateTextEditingValue calls _scheduleShowCar…<br />
     <sub>[#131985](https://github.com/flutter/flutter/pull/131985) opened on on August 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131985) 3 additions and 3 deletions in 1 file</sub><br />
 
+* **[Mingyu](https://github.com/liumcse)** &mdash; Slider should check `mounted` before start interaction<br />
+    <sub>[#132010](https://github.com/flutter/flutter/pull/132010) opened on on August 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132010) 27 additions and 19 deletions in 2 files</sub><br />
+
