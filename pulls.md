@@ -45,13 +45,13 @@
     <sub>[#131825](https://github.com/flutter/flutter/pull/131825) opened on on August 3, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/131825) 91 additions and 61 deletions in 6 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Fix description in index.html / manifest.json getting double quoted<br />
-    <sub>[#131842](https://github.com/flutter/flutter/pull/131842) opened on on August 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131842) 40 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#131842](https://github.com/flutter/flutter/pull/131842) opened on on August 3, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/131842) 40 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; GridView sample code<br />
     <sub>[#131900](https://github.com/flutter/flutter/pull/131900) opened on on August 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131900) 265 additions and 9 deletions in 4 files</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Allows adding a storage 'realm' to the storage base URL<br />
-    <sub>[#131951](https://github.com/flutter/flutter/pull/131951) opened on on August 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131951) 161 additions and 53 deletions in 13 files</sub><br />
+    <sub>[#131951](https://github.com/flutter/flutter/pull/131951) opened on on August 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131951) 166 additions and 53 deletions in 13 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Sample code for ImageProvider<br />
     <sub>[#131952](https://github.com/flutter/flutter/pull/131952) opened on on August 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131952) 187 additions and 24 deletions in 7 files</sub><br />
@@ -73,4 +73,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reland "[web] Migrate framework to fully use package:web (#128901)"<br />
     <sub>[#132092](https://github.com/flutter/flutter/pull/132092) opened on on August 7, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/132092) 50 additions and 464 deletions in 6 files</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Handle hasStrings on web<br />
+    <sub>[#132093](https://github.com/flutter/flutter/pull/132093) opened on on August 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132093) 72 additions and 1 deletion in 2 files</sub><br />
 
