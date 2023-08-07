@@ -65,6 +65,3 @@
 * **[Roger](https://github.com/TJRoger)** &mdash; bind missing add icon in platform_view example<br />
     <sub>[#132028](https://github.com/flutter/flutter/pull/132028) opened on on August 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132028) 14 additions and 10 deletions in 1 file</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `PopupMenuButton..iconColor`, `PopupMenuTheme.iconSize` and fix button icon using unexpected color property<br />
-    <sub>[#132054](https://github.com/flutter/flutter/pull/132054) opened on on August 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132054) 108 additions and 44 deletions in 4 files</sub><br />
-
