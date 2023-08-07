@@ -71,3 +71,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; setState documentation<br />
     <sub>[#132090](https://github.com/flutter/flutter/pull/132090) opened on on August 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132090) 65 additions and 1 deletion in 1 file</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reland "[web] Migrate framework to fully use package:web (#128901)"<br />
+    <sub>[#132092](https://github.com/flutter/flutter/pull/132092) opened on on August 7, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/132092) 50 additions and 464 deletions in 6 files</sub><br />
+
