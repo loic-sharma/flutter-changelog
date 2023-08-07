@@ -476,7 +476,11 @@
 
 ### August 5, 2023 to August 11, 2023
 
-2 commits.
+3 commits.
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert clang back to 6d667d4b261e81f325756fdfd5bb43b3b3d2451d
+    <sub>[#44442](https://github.com/flutter/engine/pull/44442) merged on August 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44442) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove leftover comments from semantics tester
     <sub>[#44350](https://github.com/flutter/engine/pull/44350) merged on August 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44350) over 3 days, 0 additions and 21 deletions in 1 file</sub>
@@ -1103,9 +1107,18 @@
 
 ## flutter/packages
 
+### August 5, 2023 to August 11, 2023
+
+1 commits.
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [All] Expand artifact hub to all plugins
+    <sub>[#4645](https://github.com/flutter/packages/pull/4645) merged on August 7, 2023 &mdash; **Large:** [23 comments](https://github.com/flutter/packages/pull/4645) over 3 days, 1089 additions and 8 deletions in 84 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
 ### July 29, 2023 to August 4, 2023
 
-19 commits.
+<details>
+<summary>19 commits...</summary>
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; [go_router_builder]  Add go_router StatefulShellRoute support to go_router_builder
     <sub>[#4238](https://github.com/flutter/packages/pull/4238) merged on August 2, 2023 &mdash; **Large:** [22 comments](https://github.com/flutter/packages/pull/4238) over 1 month, 608 additions and 73 deletions in 10 files</sub>
@@ -1182,6 +1195,8 @@
 * **[J-P Nurmi](https://github.com/jpnurmi)** &mdash; [path_provider_platform_interface] Add getApplicationCachePath()
     <sub>[#4614](https://github.com/flutter/packages/pull/4614) merged on July 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4614) over 33 minutes, 58 additions and 2 deletions in 6 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+</details>
 
 ### July 22, 2023 to July 28, 2023
 
