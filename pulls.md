@@ -65,6 +65,3 @@
 * **[Roger](https://github.com/TJRoger)** &mdash; bind missing add icon in platform_view example<br />
     <sub>[#132028](https://github.com/flutter/flutter/pull/132028) opened on on August 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132028) 14 additions and 10 deletions in 1 file</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Update dartdoc driver to match current behaviour<br />
-    <sub>[#132078](https://github.com/flutter/flutter/pull/132078) opened on on August 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132078) 3 additions and 4 deletions in 1 file</sub><br />
-
