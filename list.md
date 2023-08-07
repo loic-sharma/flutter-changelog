@@ -33,7 +33,7 @@
 <summary>51 commits...</summary>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Predictive back support for root routes
-    <sub>[#120385](https://github.com/flutter/flutter/pull/120385) merged on August 4, 2023 &mdash; **Extra large:** [149 comments](https://github.com/flutter/flutter/pull/120385) over 5 months, 3241 additions and 302 deletions in 36 files</sub>
+    <sub>[#120385](https://github.com/flutter/flutter/pull/120385) merged on August 4, 2023 &mdash; **Extra large:** [151 comments](https://github.com/flutter/flutter/pull/120385) over 5 months, 3241 additions and 302 deletions in 36 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
     <sub><details><summary>1 image...</summary><img width="200" src="https://user-images.githubusercontent.com/389558/217918109-945febaa-9086-41cc-a476-1a189c7831d8.gif" /></details></sub>
 
@@ -240,7 +240,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland - "Update Unit Tests for M2/M3"
     <sub>[#131504](https://github.com/flutter/flutter/pull/131504) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131504) over 2 days, 231 additions and 16 deletions in 5 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Hans Muller](https://github.com/HansMuller)</sub>
 
 </details>
 
@@ -569,7 +569,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Fail loudly if --enable-software-rendering is used.
     <sub>[#44346](https://github.com/flutter/engine/pull/44346) merged on August 3, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/44346) over 1 hour, 22 additions and 1 deletion in 3 files</sub>
-    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chris Yang](https://github.com/cyanglaz)</sub>
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Re-Re-Land Support for rendering Android Platform Views into a HardwareBuffer backed texture
     <sub>[#44326](https://github.com/flutter/engine/pull/44326) merged on August 3, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/44326) over 18 minutes, 1167 additions and 51 deletions in 36 files</sub>
@@ -911,7 +911,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS] Return keyboard pressed state
     <sub>[#42878](https://github.com/flutter/engine/pull/42878) merged on July 26, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42878) over 1 month, 144 additions and 6 deletions in 7 files</sub>
-    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Ignore the NOTICE.fuchsia file in the new license script
     <sub>[#44021](https://github.com/flutter/engine/pull/44021) merged on July 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44021) over 1 day, 3 additions and 1 deletion in 2 files</sub>
