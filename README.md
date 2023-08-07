@@ -4,7 +4,12 @@
 
 ### August 5, 2023 to August 11, 2023
 
-3 commits.
+4 commits.
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Android context menu theming and visual update<br />
+    <sub>[#131816](https://github.com/flutter/flutter/pull/131816) merged on August 7, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/131816) over 4 days, 204 additions and 9 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+    <sub><details><summary>6 images...</summary><img width="239" alt="Screenshot 2023-08-07 at 11 45 37 AM" src="https://github.com/flutter/flutter/assets/389558/a9fb75e5-b6c3-4f8e-8c59-2021780c44a7"><img width="250" alt="Screenshot 2023-08-07 at 11 51 10 AM" src="https://github.com/flutter/flutter/assets/389558/a5abd2d2-49bb-47a0-836f-864d56af2f58"><img width="244" alt="Screenshot 2023-08-07 at 11 42 05 AM" src="https://github.com/flutter/flutter/assets/389558/74c6870b-5ff7-4b1a-9e0c-b2bb4809ef1e"><img width="239" alt="Screenshot 2023-08-07 at 11 42 23 AM" src="https://github.com/flutter/flutter/assets/389558/91fe32f8-bd62-4d9b-96e8-ae5a9a769745"><img width="240" alt="Screenshot 2023-08-07 at 11 43 06 AM" src="https://github.com/flutter/flutter/assets/389558/e5752f8b-3738-4391-9055-15c38bd4af21"><img width="244" alt="Screenshot 2023-08-07 at 11 42 47 AM" src="https://github.com/flutter/flutter/assets/389558/68cc68f0-b338-4d94-8810-d8e46fb1e48e"></details></sub>
 
 * **[xhzq233](https://github.com/xhzq233)** &mdash; CupertinoContextMenu improvement<br />
     <sub>[#131030](https://github.com/flutter/flutter/pull/131030) merged on August 7, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/131030) over 2 weeks, 85 additions and 9 deletions in 2 files</sub><br />
