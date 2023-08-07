@@ -62,3 +62,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reland "[web] Migrate framework to fully use package:web (#128901)"<br />
     <sub>[#132092](https://github.com/flutter/flutter/pull/132092) opened on on August 7, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/132092) 50 additions and 464 deletions in 6 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [CP] Constrain _RenderScaledInlineWidget child size in computeDryLayout #131765<br />
+    <sub>[#132096](https://github.com/flutter/flutter/pull/132096) opened on on August 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132096) 3 additions and 3 deletions in 2 files</sub><br />
+
