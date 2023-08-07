@@ -53,9 +53,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; GridView sample code<br />
     <sub>[#131900](https://github.com/flutter/flutter/pull/131900) opened on on August 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131900) 265 additions and 9 deletions in 4 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update default menu text styles for Material 3<br />
-    <sub>[#131930](https://github.com/flutter/flutter/pull/131930) opened on on August 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131930) 143 additions and 32 deletions in 7 files</sub><br />
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Allows adding a storage 'realm' to the storage base URL<br />
     <sub>[#131951](https://github.com/flutter/flutter/pull/131951) opened on on August 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131951) 150 additions and 39 deletions in 14 files</sub><br />
 
@@ -70,4 +67,7 @@
 
 * **[Roger](https://github.com/TJRoger)** &mdash; bind missing add icon in platform_view example<br />
     <sub>[#132028](https://github.com/flutter/flutter/pull/132028) opened on on August 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132028) 14 additions and 10 deletions in 1 file</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `PopupMenuButton..iconColor`, `PopupMenuTheme.iconSize` and fix button icon using unexpected color property<br />
+    <sub>[#132054](https://github.com/flutter/flutter/pull/132054) opened on on August 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132054) 108 additions and 44 deletions in 4 files</sub><br />
 
