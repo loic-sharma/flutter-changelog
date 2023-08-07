@@ -23,15 +23,6 @@
 * **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Update Dockerfile<br />
     <sub>[#130607](https://github.com/flutter/flutter/pull/130607) opened on on July 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130607) 4 additions and 2 deletions in 1 file</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [Cp] Fix Tooltip crash when selected in a SelectableRegion (#130181)<br />
-    <sub>[#131288](https://github.com/flutter/flutter/pull/131288) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131288) 115 additions and 24 deletions in 4 files</sub><br />
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [CP] `_RenderScaledInlineWidget` constrains child size (#130648)<br />
-    <sub>[#131289](https://github.com/flutter/flutter/pull/131289) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131289) 18 additions and 1 deletion in 2 files</sub><br />
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [CP] Allow `OverlayPortal` to be added/removed from the tree in a layout callback (#130670)<br />
-    <sub>[#131290](https://github.com/flutter/flutter/pull/131290) opened on on July 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131290) 59 additions and 10 deletions in 2 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; PaginatedDataTable improvements<br />
     <sub>[#131374](https://github.com/flutter/flutter/pull/131374) opened on on July 27, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/131374) 535 additions and 11 deletions in 10 files</sub><br />
 
