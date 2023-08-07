@@ -476,7 +476,11 @@
 
 ### August 5, 2023 to August 11, 2023
 
-4 commits.
+5 commits.
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Flutter GPU: Add GpuContext.
+    <sub>[#44359](https://github.com/flutter/engine/pull/44359) merged on August 7, 2023 &mdash; **Medium:** [20 comments](https://github.com/flutter/engine/pull/44359) over 3 days, 214 additions and 114 deletions in 18 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert clang back to 6d667d4b261e81f325756fdfd5bb43b3b3d2451d
     <sub>[#44442](https://github.com/flutter/engine/pull/44442) merged on August 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44442) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
