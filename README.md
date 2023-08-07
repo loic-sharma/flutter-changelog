@@ -4,7 +4,12 @@
 
 ### August 5, 2023 to August 11, 2023
 
-5 commits.
+6 commits.
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Add static_path_tessellation macrobenchmark<br />
+    <sub>[#131837](https://github.com/flutter/flutter/pull/131837) merged on August 7, 2023 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/131837) over 4 days, 405 additions and 18 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub><details><summary>1 image...</summary><img alt="screenshot" width="320" src="https://github.com/flutter/flutter/assets/96958/7a2f9384-b512-477b-bffa-058d4d284a41"/></details></sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Android context menu theming and visual update<br />
     <sub>[#131816](https://github.com/flutter/flutter/pull/131816) merged on August 7, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/131816) over 4 days, 204 additions and 9 deletions in 4 files</sub><br />
@@ -33,7 +38,7 @@
 <summary>51 commits...</summary>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Predictive back support for root routes<br />
-    <sub>[#120385](https://github.com/flutter/flutter/pull/120385) merged on August 4, 2023 &mdash; **Extra large:** [151 comments](https://github.com/flutter/flutter/pull/120385) over 5 months, 3241 additions and 302 deletions in 36 files</sub><br />
+    <sub>[#120385](https://github.com/flutter/flutter/pull/120385) merged on August 4, 2023 &mdash; **Extra large:** [152 comments](https://github.com/flutter/flutter/pull/120385) over 5 months, 3241 additions and 302 deletions in 36 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
     <sub><details><summary>1 image...</summary><img width="200" src="https://user-images.githubusercontent.com/389558/217918109-945febaa-9086-41cc-a476-1a189c7831d8.gif" /></details></sub>
 
@@ -665,7 +670,7 @@
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add documentation on how to enable Metal Profiling HUD without Xcode.<br />
     <sub>[#44196](https://github.com/flutter/engine/pull/44196) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44196) over 35 minutes, 18 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [Darwin] Enable ARC in darwin/common unit tests<br />
     <sub>[#44396](https://github.com/flutter/engine/pull/44396) merged on August 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44396) over 2 hours, 20 additions and 18 deletions in 5 files</sub><br />
