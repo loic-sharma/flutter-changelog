@@ -68,3 +68,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; More documentation about warm-up frames<br />
     <sub>[#132085](https://github.com/flutter/flutter/pull/132085) opened on on August 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132085) 24 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; setState documentation<br />
+    <sub>[#132090](https://github.com/flutter/flutter/pull/132090) opened on on August 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132090) 65 additions and 1 deletion in 1 file</sub><br />
+
