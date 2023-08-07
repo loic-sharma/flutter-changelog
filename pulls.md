@@ -60,7 +60,7 @@
     <sub>[#131954](https://github.com/flutter/flutter/pull/131954) opened on on August 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131954) 55 additions and 18 deletions in 8 files</sub><br />
 
 * **[Adam Vongrej](https://github.com/vongrad)** &mdash; Fix: SelectableText userUpdateTextEditingValue calls _scheduleShowCar…<br />
-    <sub>[#131985](https://github.com/flutter/flutter/pull/131985) opened on on August 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131985) 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>[#131985](https://github.com/flutter/flutter/pull/131985) opened on on August 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131985) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Roger](https://github.com/TJRoger)** &mdash; bind missing add icon in platform_view example<br />
     <sub>[#132028](https://github.com/flutter/flutter/pull/132028) opened on on August 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132028) 14 additions and 10 deletions in 1 file</sub><br />
