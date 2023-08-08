@@ -35,9 +35,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; GridView sample code<br />
     <sub>[#131900](https://github.com/flutter/flutter/pull/131900) opened on on August 3, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/131900) 265 additions and 9 deletions in 4 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Sample code for ImageProvider<br />
-    <sub>[#131952](https://github.com/flutter/flutter/pull/131952) opened on on August 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131952) 187 additions and 24 deletions in 7 files</sub><br />
-
 * **[Adam Vongrej](https://github.com/vongrad)** &mdash; Fix: SelectableText userUpdateTextEditingValue calls _scheduleShowCar…<br />
     <sub>[#131985](https://github.com/flutter/flutter/pull/131985) opened on on August 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/131985) 3 additions and 3 deletions in 1 file</sub><br />
 
