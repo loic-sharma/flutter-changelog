@@ -26,9 +26,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; PaginatedDataTable improvements<br />
     <sub>[#131374](https://github.com/flutter/flutter/pull/131374) opened on on July 27, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/131374) 535 additions and 11 deletions in 10 files</sub><br />
 
-* **[Abdelrahman Shehata](https://github.com/abdelrahman122)** &mdash; Flutter Fix<br />
-    <sub>[#131643](https://github.com/flutter/flutter/pull/131643) opened on on August 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131643) 21 additions and 10 deletions in 2 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; An example of parentData usage.<br />
     <sub>[#131818](https://github.com/flutter/flutter/pull/131818) opened on on August 2, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/131818) 447 additions and 18 deletions in 4 files</sub><br />
 
