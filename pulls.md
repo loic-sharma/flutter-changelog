@@ -38,9 +38,6 @@
 * **[Adam Vongrej](https://github.com/vongrad)** &mdash; Fix: SelectableText userUpdateTextEditingValue calls _scheduleShowCar…<br />
     <sub>[#131985](https://github.com/flutter/flutter/pull/131985) opened on on August 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/131985) 3 additions and 3 deletions in 1 file</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; setState documentation<br />
-    <sub>[#132090](https://github.com/flutter/flutter/pull/132090) opened on on August 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132090) 68 additions and 2 deletions in 2 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reland "[web] Migrate framework to fully use package:web (#128901)"<br />
     <sub>[#132092](https://github.com/flutter/flutter/pull/132092) opened on on August 7, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/132092) 50 additions and 464 deletions in 6 files</sub><br />
 
