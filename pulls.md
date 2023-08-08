@@ -42,7 +42,7 @@
     <sub>[#131900](https://github.com/flutter/flutter/pull/131900) opened on on August 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/131900) 265 additions and 9 deletions in 4 files</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Allows adding a storage 'realm' to the storage base URL<br />
-    <sub>[#131951](https://github.com/flutter/flutter/pull/131951) opened on on August 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131951) 170 additions and 54 deletions in 14 files</sub><br />
+    <sub>[#131951](https://github.com/flutter/flutter/pull/131951) opened on on August 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131951) 156 additions and 40 deletions in 14 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Sample code for ImageProvider<br />
     <sub>[#131952](https://github.com/flutter/flutter/pull/131952) opened on on August 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131952) 187 additions and 24 deletions in 7 files</sub><br />
@@ -57,7 +57,7 @@
     <sub>[#132028](https://github.com/flutter/flutter/pull/132028) opened on on August 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132028) 14 additions and 10 deletions in 1 file</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; setState documentation<br />
-    <sub>[#132090](https://github.com/flutter/flutter/pull/132090) opened on on August 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132090) 65 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#132090](https://github.com/flutter/flutter/pull/132090) opened on on August 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132090) 65 additions and 1 deletion in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reland "[web] Migrate framework to fully use package:web (#128901)"<br />
     <sub>[#132092](https://github.com/flutter/flutter/pull/132092) opened on on August 7, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/132092) 50 additions and 464 deletions in 6 files</sub><br />
