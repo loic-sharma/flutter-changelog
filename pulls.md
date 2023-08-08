@@ -68,3 +68,6 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TabBarTheme.indicatorColor` not applied in Material 2<br />
     <sub>[#132123](https://github.com/flutter/flutter/pull/132123) opened on on August 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132123) 87 additions and 5 deletions in 3 files</sub><br />
 
+* **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; fixed documentation error input decorator<br />
+    <sub>[#132124](https://github.com/flutter/flutter/pull/132124) opened on on August 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132124) 1 addition and 1 deletion in 1 file</sub><br />
+
