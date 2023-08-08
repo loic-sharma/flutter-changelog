@@ -38,9 +38,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Sample code for ImageProvider<br />
     <sub>[#131952](https://github.com/flutter/flutter/pull/131952) opened on on August 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131952) 187 additions and 24 deletions in 7 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; More PageStorage clarity in the documentation<br />
-    <sub>[#131954](https://github.com/flutter/flutter/pull/131954) opened on on August 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131954) 55 additions and 18 deletions in 8 files</sub><br />
-
 * **[Adam Vongrej](https://github.com/vongrad)** &mdash; Fix: SelectableText userUpdateTextEditingValue calls _scheduleShowCar…<br />
     <sub>[#131985](https://github.com/flutter/flutter/pull/131985) opened on on August 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/131985) 3 additions and 3 deletions in 1 file</sub><br />
 
@@ -52,12 +49,6 @@
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Reland: Replace TextField.canRequestFocus with TextField.focusNode.canRequestFocus<br />
     <sub>[#132111](https://github.com/flutter/flutter/pull/132111) opened on on August 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132111) 44 additions and 11 deletions in 4 files</sub><br />
-
-* **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; fixed documentation error input decorator<br />
-    <sub>[#132124](https://github.com/flutter/flutter/pull/132124) opened on on August 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132124) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Document that missed_frame_build_budget_count is misleading<br />
-    <sub>[#132137](https://github.com/flutter/flutter/pull/132137) opened on on August 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132137) 26 additions and 10 deletions in 1 file</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; 3.13.0-0.4.pre Beta Cherrypicks<br />
     <sub>[#132146](https://github.com/flutter/flutter/pull/132146) opened on on August 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132146) 1 addition and 1 deletion in 1 file</sub><br />
