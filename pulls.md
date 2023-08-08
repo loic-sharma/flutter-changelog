@@ -65,3 +65,6 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Reland: Replace TextField.canRequestFocus with TextField.focusNode.canRequestFocus<br />
     <sub>[#132111](https://github.com/flutter/flutter/pull/132111) opened on on August 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132111) 44 additions and 11 deletions in 4 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TabBarTheme.indicatorColor` not applied in Material 2<br />
+    <sub>[#132123](https://github.com/flutter/flutter/pull/132123) opened on on August 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132123) 87 additions and 5 deletions in 3 files</sub><br />
+
