@@ -4,7 +4,7 @@
 
 ### August 5, 2023 to August 11, 2023
 
-14 commits.
+15 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] New HtmlElementView.fromTagName constructor<br />
     <sub>[#130513](https://github.com/flutter/flutter/pull/130513) merged on August 7, 2023 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/130513) over 3 weeks, 487 additions and 217 deletions in 6 files</sub><br />
@@ -32,6 +32,10 @@
     <sub>[#131998](https://github.com/flutter/flutter/pull/131998) merged on August 8, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/131998) over 2 days, 1141 additions and 899 deletions in 112 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Remove Iterator from _History<br />
+    <sub>[#132101](https://github.com/flutter/flutter/pull/132101) merged on August 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132101) over 17 hours, 1 addition and 16 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Update dartdoc driver to match current behaviour<br />
     <sub>[#132078](https://github.com/flutter/flutter/pull/132078) merged on August 8, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/132078) over 22 hours, 3 additions and 4 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
@@ -46,7 +50,7 @@
 
 * **[Mingyu](https://github.com/liumcse)** &mdash; Slider should check `mounted` before start interaction<br />
     <sub>[#132010](https://github.com/flutter/flutter/pull/132010) merged on August 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132010) over 1 day, 27 additions and 19 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Kate Lovett](https://github.com/Piinks)</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds more documentations around ignoreSemantics deprecations.<br />
     <sub>[#131287](https://github.com/flutter/flutter/pull/131287) merged on August 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/131287) over 1 week, 88 additions and 33 deletions in 4 files</sub><br />
@@ -149,11 +153,11 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny remove outdated comments<br />
     <sub>[#130387](https://github.com/flutter/flutter/pull/130387) merged on August 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130387) over 3 weeks, 0 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[LiangXiang Shen](https://github.com/kj415j45)** &mdash; Update `ThemeData`'s factory method documents<br />
     <sub>[#123984](https://github.com/flutter/flutter/pull/123984) merged on August 2, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123984) over 4 months, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Ian Hickson](https://github.com/Hixie)</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add TODO to refactor error handling.<br />
     <sub>[#131878](https://github.com/flutter/flutter/pull/131878) merged on August 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131878) over 1 day, 3 additions and 0 deletions in 1 file</sub><br />
