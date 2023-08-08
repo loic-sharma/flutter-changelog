@@ -940,7 +940,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS] Return keyboard pressed state<br />
     <sub>[#42878](https://github.com/flutter/engine/pull/42878) merged on July 26, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42878) over 1 month, 144 additions and 6 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Ignore the NOTICE.fuchsia file in the new license script<br />
     <sub>[#44021](https://github.com/flutter/engine/pull/44021) merged on July 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44021) over 1 day, 3 additions and 1 deletion in 2 files</sub><br />
@@ -1175,7 +1175,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Nitin-Poojary](https://github.com/Nitin-Poojary)** &mdash; [pigeon] Recursively create output target files<br />
-    <sub>[#4458](https://github.com/flutter/packages/pull/4458) merged on August 8, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/4458) over 3 weeks, 14 additions and 2 deletions in 5 files</sub><br />
+    <sub>[#4458](https://github.com/flutter/packages/pull/4458) merged on August 8, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/4458) over 3 weeks, 14 additions and 2 deletions in 5 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Repeatedly pump WebViews until one is garbage collected<br />
