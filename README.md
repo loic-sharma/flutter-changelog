@@ -1159,7 +1159,7 @@
 
 ### August 5, 2023 to August 11, 2023
 
-5 commits.
+6 commits.
 
 * **[Erik German](https://github.com/eriko13)** &mdash; [xdg_directories] Add example app<br />
     <sub>[#4554](https://github.com/flutter/packages/pull/4554) merged on August 8, 2023 &mdash; **Large:** [30 comments](https://github.com/flutter/packages/pull/4554) over 2 weeks, 540 additions and 1 deletion in 16 files</sub><br />
@@ -1177,6 +1177,10 @@
 * **[Nitin-Poojary](https://github.com/Nitin-Poojary)** &mdash; [pigeon] Recursively create output target files<br />
     <sub>[#4458](https://github.com/flutter/packages/pull/4458) merged on August 8, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/4458) over 3 weeks, 14 additions and 2 deletions in 5 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Repeatedly pump WebViews until one is garbage collected<br />
+    <sub>[#4662](https://github.com/flutter/packages/pull/4662) merged on August 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4662) over 2 hours, 32 additions and 29 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [flutter_markdown] Adopt code excerpts in README<br />
     <sub>[#4656](https://github.com/flutter/packages/pull/4656) merged on August 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4656) over 20 hours, 85 additions and 13 deletions in 5 files</sub><br />
