@@ -20,9 +20,6 @@
 * **[指尖上的艺术](https://github.com/fingerart)** &mdash; Fix CurvedAnimation._curveDirection status update issue<br />
     <sub>[#129777](https://github.com/flutter/flutter/pull/129777) opened on on June 29, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/129777) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Update Dockerfile<br />
-    <sub>[#130607](https://github.com/flutter/flutter/pull/130607) opened on on July 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/130607) 4 additions and 2 deletions in 1 file</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; PaginatedDataTable improvements<br />
     <sub>[#131374](https://github.com/flutter/flutter/pull/131374) opened on on July 27, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/131374) 535 additions and 11 deletions in 10 files</sub><br />
 
@@ -46,9 +43,6 @@
 
 * **[Adam Vongrej](https://github.com/vongrad)** &mdash; Fix: SelectableText userUpdateTextEditingValue calls _scheduleShowCar…<br />
     <sub>[#131985](https://github.com/flutter/flutter/pull/131985) opened on on August 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/131985) 3 additions and 3 deletions in 1 file</sub><br />
-
-* **[Roger](https://github.com/TJRoger)** &mdash; bind missing add icon in platform_view example<br />
-    <sub>[#132028](https://github.com/flutter/flutter/pull/132028) opened on on August 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132028) 14 additions and 10 deletions in 1 file</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; setState documentation<br />
     <sub>[#132090](https://github.com/flutter/flutter/pull/132090) opened on on August 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132090) 68 additions and 2 deletions in 2 files</sub><br />
