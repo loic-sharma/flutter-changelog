@@ -62,6 +62,3 @@
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; 3.13.0-0.4.pre Beta Cherrypicks<br />
     <sub>[#132146](https://github.com/flutter/flutter/pull/132146) opened on on August 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132146) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; Fix null check crash by ReorderableList<br />
-    <sub>[#132153](https://github.com/flutter/flutter/pull/132153) opened on on August 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132153) 4 additions and 0 deletions in 1 file</sub><br />
-
