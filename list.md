@@ -4,7 +4,7 @@
 
 ### August 5, 2023 to August 11, 2023
 
-23 commits.
+24 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] New HtmlElementView.fromTagName constructor
     <sub>[#130513](https://github.com/flutter/flutter/pull/130513) merged on August 7, 2023 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/130513) over 3 weeks, 487 additions and 217 deletions in 6 files</sub>
@@ -54,6 +54,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Use benchmark callback from `dart:ui_web`
     <sub>[#132087](https://github.com/flutter/flutter/pull/132087) merged on August 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132087) over 21 hours, 3 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Revert of #120385
+    <sub>[#132167](https://github.com/flutter/flutter/pull/132167) merged on August 8, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/132167) over 1 hour, 302 additions and 3226 deletions in 36 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [framework] Add Search Web to selection controls for iOS
     <sub>[#131898](https://github.com/flutter/flutter/pull/131898) merged on August 8, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/131898) over 4 days, 1122 additions and 241 deletions in 176 files</sub>
