@@ -510,11 +510,15 @@
 
 ### August 5, 2023 to August 11, 2023
 
-7 commits.
+8 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Flutter GPU: Add GpuContext.
     <sub>[#44359](https://github.com/flutter/engine/pull/44359) merged on August 7, 2023 &mdash; **Medium:** [20 comments](https://github.com/flutter/engine/pull/44359) over 3 days, 214 additions and 114 deletions in 18 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Excludes entity_pass.cc from clang-tidy due to timeouts
+    <sub>[#44495](https://github.com/flutter/engine/pull/44495) merged on August 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44495) over 38 minutes, 2 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert clang back to 6d667d4b261e81f325756fdfd5bb43b3b3d2451d
     <sub>[#44442](https://github.com/flutter/engine/pull/44442) merged on August 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44442) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
@@ -1316,7 +1320,7 @@
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Fixes bug where `PlatformWebViewWidget` doesn't rebuild when the controller changes
     <sub>[#4533](https://github.com/flutter/packages/pull/4533) merged on July 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4533) over 4 days, 197 additions and 35 deletions in 8 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurits van Beusekom](https://github.com/mvanbeusekom)</sub>
+    <sub>Reviewed by: [Maurits van Beusekom](https://github.com/mvanbeusekom), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 </details>
 
