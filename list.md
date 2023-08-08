@@ -16,7 +16,7 @@
     <sub><details><summary>1 image...</summary><img alt="screenshot" width="320" src="https://github.com/flutter/flutter/assets/96958/7a2f9384-b512-477b-bffa-058d4d284a41"/></details></sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Move mock canvas to flutter_test
-    <sub>[#131631](https://github.com/flutter/flutter/pull/131631) merged on August 7, 2023 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/131631) over 1 week, 304 additions and 327 deletions in 139 files</sub>
+    <sub>[#131631](https://github.com/flutter/flutter/pull/131631) merged on August 7, 2023 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/131631) over 1 week, 304 additions and 327 deletions in 139 files</sub>
     <sub>Reviewed by: [pdblasi-google](https://github.com/pdblasi-google)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Android context menu theming and visual update
@@ -265,7 +265,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland - "Update Unit Tests for M2/M3"
     <sub>[#131504](https://github.com/flutter/flutter/pull/131504) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131504) over 2 days, 231 additions and 16 deletions in 5 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Hans Muller](https://github.com/HansMuller)</sub>
 
 </details>
 
@@ -694,7 +694,7 @@
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add documentation on how to enable Metal Profiling HUD without Xcode.
     <sub>[#44196](https://github.com/flutter/engine/pull/44196) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44196) over 35 minutes, 18 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Matan Lurey](https://github.com/matanlurey)</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [Darwin] Enable ARC in darwin/common unit tests
     <sub>[#44396](https://github.com/flutter/engine/pull/44396) merged on August 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44396) over 2 hours, 20 additions and 18 deletions in 5 files</sub>
