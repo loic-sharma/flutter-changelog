@@ -4,7 +4,7 @@
 
 ### August 5, 2023 to August 11, 2023
 
-24 commits.
+25 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] New HtmlElementView.fromTagName constructor<br />
     <sub>[#130513](https://github.com/flutter/flutter/pull/130513) merged on August 7, 2023 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/130513) over 3 weeks, 487 additions and 217 deletions in 6 files</sub><br />
@@ -54,6 +54,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Use benchmark callback from `dart:ui_web`<br />
     <sub>[#132087](https://github.com/flutter/flutter/pull/132087) merged on August 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132087) over 21 hours, 3 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add `textCapitalization` property for `SearchBar` and `SearchAnchor`<br />
+    <sub>[#131459](https://github.com/flutter/flutter/pull/131459) merged on August 8, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/131459) over 1 week, 148 additions and 1 deletion in 5 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Revert of #120385<br />
     <sub>[#132167](https://github.com/flutter/flutter/pull/132167) merged on August 8, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/132167) over 1 hour, 302 additions and 3226 deletions in 36 files</sub><br />
@@ -565,7 +569,18 @@
 
 ### August 5, 2023 to August 11, 2023
 
-18 commits.
+19 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Add gradient dithering for Radial/Sweep/Conical gradients<br />
+    <sub>[#44331](https://github.com/flutter/engine/pull/44331) merged on August 8, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/44331) over 5 days, 156 additions and 28 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub><details><summary>5 images...</summary><img width="1014" alt="Screenshot 2023-08-03 at 10 08 53 AM" src="https://github.com/flutter/engine/assets/168174/d53f2c0e-5c48-4ecb-8e67-d4ab28bfe488"><img width="1018" alt="Screenshot 2023-08-03 at 10 13 57 AM" src="https://github.com/flutter/engine/assets/168174/3b6e6e65-3dd3-4cb3-9950-36e2ba5c1da2"><img width="1019" alt="Screenshot 2023-08-03 at 10 27 35 AM" src="https://github.com/flutter/engine/assets/168174/4e3bc82d-c0d5-43dd-952a-c11cb586fb65"><img width="1018" alt="Screenshot 2023-08-03 at 10 33 11 AM" src="https://github.com/flutter/engine/assets/168174/7e526391-cfd7-4920-89ff-fe26793b24fc"
+
+## Conical
+
+### Before
+
+<img width="1019" alt="Screenshot 2023-08-08 at 11 55 43 AM" src="https://github.com/flutter/engine/assets/168174/944709f4-8163-4de3-bfc5-eaf30b978529"><img width="1016" alt="Screenshot 2023-08-08 at 1 11 40 PM" src="https://github.com/flutter/engine/assets/168174/60ad67a4-b409-4136-a753-b8608f46fbf2"></details></sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] started std::moving `Command`s instead of copying<br />
     <sub>[#44508](https://github.com/flutter/engine/pull/44508) merged on August 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44508) over 1 hour, 17 additions and 17 deletions in 10 files</sub><br />
@@ -699,7 +714,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Fail loudly if --enable-software-rendering is used.<br />
     <sub>[#44346](https://github.com/flutter/engine/pull/44346) merged on August 3, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/44346) over 1 hour, 22 additions and 1 deletion in 3 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chris Yang](https://github.com/cyanglaz)</sub><br />
+    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Re-Re-Land Support for rendering Android Platform Views into a HardwareBuffer backed texture<br />
     <sub>[#44326](https://github.com/flutter/engine/pull/44326) merged on August 3, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/44326) over 18 minutes, 1167 additions and 51 deletions in 36 files</sub><br />
@@ -795,7 +810,7 @@
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add documentation on how to enable Metal Profiling HUD without Xcode.<br />
     <sub>[#44196](https://github.com/flutter/engine/pull/44196) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44196) over 35 minutes, 18 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [Darwin] Enable ARC in darwin/common unit tests<br />
     <sub>[#44396](https://github.com/flutter/engine/pull/44396) merged on August 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44396) over 2 hours, 20 additions and 18 deletions in 5 files</sub><br />
@@ -1077,7 +1092,7 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Hide some log lines from release builds<br />
     <sub>[#44073](https://github.com/flutter/engine/pull/44073) merged on July 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44073) over 2 hours, 4 additions and 4 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; add ColorFilter.toString to web_ui<br />
     <sub>[#43874](https://github.com/flutter/engine/pull/43874) merged on July 24, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43874) over 3 days, 19 additions and 0 deletions in 2 files</sub><br />
@@ -1260,12 +1275,16 @@
 
 ### August 5, 2023 to August 11, 2023
 
-6 commits.
+7 commits.
 
 * **[Erik German](https://github.com/eriko13)** &mdash; [xdg_directories] Add example app<br />
     <sub>[#4554](https://github.com/flutter/packages/pull/4554) merged on August 8, 2023 &mdash; **Large:** [30 comments](https://github.com/flutter/packages/pull/4554) over 2 weeks, 540 additions and 1 deletion in 16 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
     <sub><details><summary>1 image...</summary><img width="1440" alt="Screenshot 2023-08-01 at 11 45 31 a m" src="https://github.com/flutter/packages/assets/36830415/95adbcde-f554-4fce-ace9-e385cb66db3c"></details></sub>
+
+* **[Francisco Reis Nogueira](https://github.com/Franreno)** &mdash; Migrating styleFrom API to new version.<br />
+    <sub>[#4540](https://github.com/flutter/packages/pull/4540) merged on August 8, 2023 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/4540) over 2 weeks, 127 additions and 214 deletions in 53 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [All] Expand artifact hub to all plugins<br />
     <sub>[#4645](https://github.com/flutter/packages/pull/4645) merged on August 7, 2023 &mdash; **Large:** [23 comments](https://github.com/flutter/packages/pull/4645) over 3 days, 1089 additions and 8 deletions in 84 files</sub><br />
@@ -1417,7 +1436,7 @@
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Fixes bug where `PlatformWebViewWidget` doesn't rebuild when the controller changes<br />
     <sub>[#4533](https://github.com/flutter/packages/pull/4533) merged on July 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4533) over 4 days, 197 additions and 35 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurits van Beusekom](https://github.com/mvanbeusekom)</sub><br />
+    <sub>Reviewed by: [Maurits van Beusekom](https://github.com/mvanbeusekom), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 </details>
 
