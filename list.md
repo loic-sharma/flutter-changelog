@@ -4,7 +4,7 @@
 
 ### August 5, 2023 to August 11, 2023
 
-16 commits.
+17 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] New HtmlElementView.fromTagName constructor
     <sub>[#130513](https://github.com/flutter/flutter/pull/130513) merged on August 7, 2023 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/130513) over 3 weeks, 487 additions and 217 deletions in 6 files</sub>
@@ -31,6 +31,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Handle breaking changes in leak_tracker.
     <sub>[#131998](https://github.com/flutter/flutter/pull/131998) merged on August 8, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/131998) over 2 days, 1141 additions and 899 deletions in 112 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Use benchmark callback from `dart:ui_web`
+    <sub>[#132087](https://github.com/flutter/flutter/pull/132087) merged on August 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132087) over 21 hours, 3 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [framework] Add Search Web to selection controls for iOS
     <sub>[#131898](https://github.com/flutter/flutter/pull/131898) merged on August 8, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/131898) over 4 days, 1122 additions and 241 deletions in 176 files</sub>
@@ -739,7 +743,7 @@
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add documentation on how to enable Metal Profiling HUD without Xcode.
     <sub>[#44196](https://github.com/flutter/engine/pull/44196) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44196) over 35 minutes, 18 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [Darwin] Enable ARC in darwin/common unit tests
     <sub>[#44396](https://github.com/flutter/engine/pull/44396) merged on August 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44396) over 2 hours, 20 additions and 18 deletions in 5 files</sub>
@@ -791,7 +795,7 @@
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Remove WARNINGs from JNI load path as we can't suppress them
     <sub>[#44348](https://github.com/flutter/engine/pull/44348) merged on August 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44348) over 7 minutes, 0 additions and 6 deletions in 1 file</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jason Simmons](https://github.com/jason-simmons)</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Remove extends JSTypedArray from JSUint8Array1
     <sub>[#44175](https://github.com/flutter/engine/pull/44175) merged on August 1, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/44175) over 1 day, 2 additions and 2 deletions in 2 files</sub>
@@ -985,7 +989,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS] Return keyboard pressed state
     <sub>[#42878](https://github.com/flutter/engine/pull/42878) merged on July 26, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42878) over 1 month, 144 additions and 6 deletions in 7 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Tong Mu](https://github.com/dkwingsmt)</sub>
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Ignore the NOTICE.fuchsia file in the new license script
     <sub>[#44021](https://github.com/flutter/engine/pull/44021) merged on July 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44021) over 1 day, 3 additions and 1 deletion in 2 files</sub>
@@ -1021,7 +1025,7 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Hide some log lines from release builds
     <sub>[#44073](https://github.com/flutter/engine/pull/44073) merged on July 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44073) over 2 hours, 4 additions and 4 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; add ColorFilter.toString to web_ui
     <sub>[#43874](https://github.com/flutter/engine/pull/43874) merged on July 24, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43874) over 3 days, 19 additions and 0 deletions in 2 files</sub>
