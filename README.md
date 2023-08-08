@@ -141,7 +141,7 @@
 
 * **[LiangXiang Shen](https://github.com/kj415j45)** &mdash; Update `ThemeData`'s factory method documents<br />
     <sub>[#123984](https://github.com/flutter/flutter/pull/123984) merged on August 2, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123984) over 4 months, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Ian Hickson](https://github.com/Hixie)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add TODO to refactor error handling.<br />
     <sub>[#131878](https://github.com/flutter/flutter/pull/131878) merged on August 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131878) over 1 day, 3 additions and 0 deletions in 1 file</sub><br />
@@ -265,7 +265,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland - "Update Unit Tests for M2/M3"<br />
     <sub>[#131504](https://github.com/flutter/flutter/pull/131504) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131504) over 2 days, 231 additions and 16 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 </details>
 
@@ -510,7 +510,7 @@
 
 ### August 5, 2023 to August 11, 2023
 
-8 commits.
+9 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Flutter GPU: Add GpuContext.<br />
     <sub>[#44359](https://github.com/flutter/engine/pull/44359) merged on August 7, 2023 &mdash; **Medium:** [20 comments](https://github.com/flutter/engine/pull/44359) over 3 days, 214 additions and 114 deletions in 18 files</sub><br />
@@ -531,6 +531,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do not log exceptions from JNI lookups of APIs that are known to be unavailable on older devices<br />
     <sub>[#44357](https://github.com/flutter/engine/pull/44357) merged on August 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44357) over 3 days, 8 additions and 6 deletions in 3 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Expose the benchmark callback through dart:ui_web<br />
+    <sub>[#44461](https://github.com/flutter/engine/pull/44461) merged on August 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44461) over 19 hours, 152 additions and 63 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Silence `pub get` when it's successful<br />
     <sub>[#44445](https://github.com/flutter/engine/pull/44445) merged on August 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44445) over 5 hours, 15 additions and 1 deletion in 1 file</sub><br />
