@@ -41,6 +41,9 @@
 * **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Add hover duration for `Inkwell` widget<br />
     <sub>[#132176](https://github.com/flutter/flutter/pull/132176) opened on on August 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132176) 33 additions and 1 deletion in 2 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP] Check for iOS simulator runtime in flutter doctor for Xcode 15<br />
+    <sub>[#132230](https://github.com/flutter/flutter/pull/132230) opened on on August 9, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/132230) 617 additions and 14 deletions in 8 files</sub><br />
+
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Fix prefer_null_aware_operators violation<br />
     <sub>[#132242](https://github.com/flutter/flutter/pull/132242) opened on on August 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132242) 1 addition and 1 deletion in 1 file</sub><br />
 
