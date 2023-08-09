@@ -24,7 +24,7 @@
     <sub>[#131374](https://github.com/flutter/flutter/pull/131374) opened on on July 27, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/131374) 535 additions and 11 deletions in 10 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Fix flutter attach local engine<br />
-    <sub>[#131825](https://github.com/flutter/flutter/pull/131825) opened on on August 3, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/131825) 91 additions and 61 deletions in 6 files</sub><br />
+    <sub>[#131825](https://github.com/flutter/flutter/pull/131825) opened on on August 3, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/131825) 91 additions and 61 deletions in 6 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Fix description in index.html / manifest.json getting double quoted<br />
     <sub>[#131842](https://github.com/flutter/flutter/pull/131842) opened on on August 3, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/131842) 40 additions and 0 deletions in 2 files</sub><br />
