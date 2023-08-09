@@ -4,7 +4,7 @@
 
 ### August 5, 2023 to August 11, 2023
 
-26 commits.
+27 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] New HtmlElementView.fromTagName constructor<br />
     <sub>[#130513](https://github.com/flutter/flutter/pull/130513) merged on August 7, 2023 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/130513) over 3 weeks, 487 additions and 217 deletions in 6 files</sub><br />
@@ -70,6 +70,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Document that missed_frame_build_budget_count is misleading<br />
     <sub>[#132137](https://github.com/flutter/flutter/pull/132137) merged on August 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132137) over 5 hours, 26 additions and 10 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Use pattern matching to avoid strange type annotations<br />
+    <sub>[#131964](https://github.com/flutter/flutter/pull/131964) merged on August 9, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/131964) over 4 days, 10 additions and 11 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add more info to `OverlayState.insert` error messages<br />
     <sub>[#129363](https://github.com/flutter/flutter/pull/129363) merged on August 9, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/129363) over 1 month, 119 additions and 12 deletions in 2 files</sub><br />
