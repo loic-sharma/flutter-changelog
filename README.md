@@ -577,7 +577,7 @@
 
 ### August 5, 2023 to August 11, 2023
 
-20 commits.
+21 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Plumb Paint.enableDithering to backend<br />
     <sub>[#44522](https://github.com/flutter/engine/pull/44522) merged on August 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44522) over 47 minutes, 1 addition and 4 deletions in 1 file</sub><br />
@@ -648,6 +648,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do not log exceptions from JNI lookups of APIs that are known to be unavailable on older devices<br />
     <sub>[#44357](https://github.com/flutter/engine/pull/44357) merged on August 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44357) over 3 days, 8 additions and 6 deletions in 3 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Windows] Return keyboard pressed state<br />
+    <sub>[#43998](https://github.com/flutter/engine/pull/43998) merged on August 9, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/43998) over 2 weeks, 254 additions and 9 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Disable HTML renderer paragraph input width flooring<br />
     <sub>[#44478](https://github.com/flutter/engine/pull/44478) merged on August 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44478) over 17 hours, 29 additions and 3 deletions in 2 files</sub><br />
