@@ -38,9 +38,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reland "[web] Migrate framework to fully use package:web (#128901)"<br />
     <sub>[#132092](https://github.com/flutter/flutter/pull/132092) opened on on August 7, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/132092) 50 additions and 464 deletions in 6 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Making TextPainter rounding hack disabled by default<br />
-    <sub>[#132094](https://github.com/flutter/flutter/pull/132094) opened on on August 7, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/132094) 480 additions and 464 deletions in 33 files</sub><br />
-
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; [flutter_tools] Generate localizations on flutter pub get<br />
     <sub>[#132172](https://github.com/flutter/flutter/pull/132172) opened on on August 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132172) 103 additions and 0 deletions in 2 files</sub><br />
 
