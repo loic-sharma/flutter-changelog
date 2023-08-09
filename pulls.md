@@ -42,7 +42,7 @@
     <sub>[#132235](https://github.com/flutter/flutter/pull/132235) opened on on August 9, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/132235) 468 additions and 1 deletion in 6 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Support disabling animations in the CLI<br />
-    <sub>[#132239](https://github.com/flutter/flutter/pull/132239) opened on on August 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132239) 138 additions and 62 deletions in 16 files</sub><br />
+    <sub>[#132239](https://github.com/flutter/flutter/pull/132239) opened on on August 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132239) 134 additions and 30 deletions in 16 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Migrate remaining web-only API usages to `dart:ui_web`<br />
     <sub>[#132248](https://github.com/flutter/flutter/pull/132248) opened on on August 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132248) 7 additions and 6 deletions in 2 files</sub><br />
