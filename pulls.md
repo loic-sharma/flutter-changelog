@@ -30,7 +30,7 @@
     <sub>[#131842](https://github.com/flutter/flutter/pull/131842) opened on on August 3, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/131842) 40 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; GridView sample code<br />
-    <sub>[#131900](https://github.com/flutter/flutter/pull/131900) opened on on August 3, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/131900) 265 additions and 9 deletions in 4 files</sub><br />
+    <sub>[#131900](https://github.com/flutter/flutter/pull/131900) opened on on August 3, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/131900) 278 additions and 16 deletions in 4 files</sub><br />
 
 * **[Adam Vongrej](https://github.com/vongrad)** &mdash; Fix: SelectableText userUpdateTextEditingValue calls _scheduleShowCar…<br />
     <sub>[#131985](https://github.com/flutter/flutter/pull/131985) opened on on August 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/131985) 3 additions and 3 deletions in 1 file</sub><br />
@@ -43,4 +43,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Migrate remaining web-only API usages to `dart:ui_web`<br />
     <sub>[#132248](https://github.com/flutter/flutter/pull/132248) opened on on August 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132248) 7 additions and 6 deletions in 2 files</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Reland root predictive back<br />
+    <sub>[#132249](https://github.com/flutter/flutter/pull/132249) opened on on August 9, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/132249) 3226 additions and 302 deletions in 36 files</sub><br />
 
