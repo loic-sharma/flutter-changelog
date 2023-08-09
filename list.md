@@ -4,7 +4,7 @@
 
 ### August 5, 2023 to August 11, 2023
 
-28 commits.
+29 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] New HtmlElementView.fromTagName constructor
     <sub>[#130513](https://github.com/flutter/flutter/pull/130513) merged on August 7, 2023 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/130513) over 3 weeks, 487 additions and 217 deletions in 6 files</sub>
@@ -28,6 +28,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Move mock canvas to flutter_test
     <sub>[#131631](https://github.com/flutter/flutter/pull/131631) merged on August 7, 2023 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/131631) over 1 week, 304 additions and 327 deletions in 139 files</sub>
     <sub>Reviewed by: [pdblasi-google](https://github.com/pdblasi-google)</sub>
+
+* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Update material and cupertino localizations
+    <sub>[#131212](https://github.com/flutter/flutter/pull/131212) merged on August 9, 2023 &mdash; **Extra large:** [24 comments](https://github.com/flutter/flutter/pull/131212) over 2 weeks, 2914 additions and 1576 deletions in 221 files</sub>
+    <sub>Reviewed by: [Hady Saleh](https://github.com/hadysata), [Hans Muller](https://github.com/HansMuller), [Tomasz Gucio](https://github.com/tgucio)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `PopupMenuButton.iconColor`, `PopupMenuTheme.iconSize` and fix button icon using unexpected color propert
     <sub>[#132054](https://github.com/flutter/flutter/pull/132054) merged on August 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132054) over 1 day, 108 additions and 44 deletions in 4 files</sub>
@@ -168,7 +172,7 @@
 
 * **[Mahmoud Zayad](https://github.com/MahmoudZayad)** &mdash; Remove target Staging_build_linux framework_tests_misc
     <sub>[#126959](https://github.com/flutter/flutter/pull/126959) merged on August 3, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/126959) over 2 months, 0 additions and 34 deletions in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Reid Baker](https://github.com/reidbaker)</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add documentation in flutter.groovy noting that we always use the latest available android version
     <sub>[#131705](https://github.com/flutter/flutter/pull/131705) merged on August 2, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/131705) over 1 day, 7 additions and 2 deletions in 1 file</sub>
@@ -208,11 +212,11 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny remove outdated comments
     <sub>[#130387](https://github.com/flutter/flutter/pull/130387) merged on August 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130387) over 3 weeks, 0 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[LiangXiang Shen](https://github.com/kj415j45)** &mdash; Update `ThemeData`'s factory method documents
     <sub>[#123984](https://github.com/flutter/flutter/pull/123984) merged on August 2, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123984) over 4 months, 2 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Ian Hickson](https://github.com/Hixie)</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add TODO to refactor error handling.
     <sub>[#131878](https://github.com/flutter/flutter/pull/131878) merged on August 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131878) over 1 day, 3 additions and 0 deletions in 1 file</sub>

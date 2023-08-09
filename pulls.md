@@ -38,12 +38,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reland "[web] Migrate framework to fully use package:web (#128901)"<br />
     <sub>[#132092](https://github.com/flutter/flutter/pull/132092) opened on on August 7, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/132092) 50 additions and 464 deletions in 6 files</sub><br />
 
-* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; [flutter_tools] Generate localizations on flutter pub get<br />
-    <sub>[#132172](https://github.com/flutter/flutter/pull/132172) opened on on August 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132172) 103 additions and 0 deletions in 2 files</sub><br />
-
-* **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Remove shrinkWrap from flexible_space_bar_test.dart<br />
-    <sub>[#132173](https://github.com/flutter/flutter/pull/132173) opened on on August 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132173) 10 additions and 14 deletions in 1 file</sub><br />
-
 * **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Add hover duration for `Inkwell` widget<br />
     <sub>[#132176](https://github.com/flutter/flutter/pull/132176) opened on on August 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132176) 33 additions and 1 deletion in 2 files</sub><br />
 
