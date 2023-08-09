@@ -4,7 +4,7 @@
 
 ### August 5, 2023 to August 11, 2023
 
-33 commits.
+34 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] New HtmlElementView.fromTagName constructor
     <sub>[#130513](https://github.com/flutter/flutter/pull/130513) merged on August 7, 2023 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/130513) over 3 weeks, 487 additions and 217 deletions in 6 files</sub>
@@ -23,6 +23,11 @@
     <sub>[#132123](https://github.com/flutter/flutter/pull/132123) merged on August 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132123) over 6 hours, 87 additions and 5 deletions in 3 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot 2023-08-08 at 15 39 24](https://github.com/flutter/flutter/assets/48603081/9030e025-8615-45d0-a337-87ba2fdf6ca3)![Screenshot 2023-08-08 at 15 39 07](https://github.com/flutter/flutter/assets/48603081/4b98ac55-2d51-4a4c-93ba-7d36dc4be1d8)</details></sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Handle hasStrings on web
+    <sub>[#132093](https://github.com/flutter/flutter/pull/132093) merged on August 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132093) over 1 day, 83 additions and 7 deletions in 3 files</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Yegor](https://github.com/yjbanov)</sub>
+    <sub><details><summary>3 images...</summary><img width="200" src="https://github.com/flutter/flutter/assets/389558/990f99cb-bc38-40f1-9e88-8839bc342da5" /><img width="284" alt="Screenshot 2023-08-07 at 2 39 03 PM" src="https://github.com/flutter/flutter/assets/389558/f632be25-28b1-4e2e-98f7-3bb443f077df"><img width="200" src="https://github.com/flutter/flutter/assets/389558/5abdb160-1b13-4f1a-87e1-4653ca19d73e" /></details></sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Add static_path_tessellation macrobenchmark
     <sub>[#131837](https://github.com/flutter/flutter/pull/131837) merged on August 7, 2023 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/131837) over 4 days, 405 additions and 18 deletions in 6 files</sub>
@@ -91,9 +96,9 @@
     <sub>[#129363](https://github.com/flutter/flutter/pull/129363) merged on August 9, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/129363) over 1 month, 119 additions and 12 deletions in 2 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Remove Iterator from _History
-    <sub>[#132101](https://github.com/flutter/flutter/pull/132101) merged on August 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132101) over 17 hours, 1 addition and 16 deletions in 1 file</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+* **[Mingyu](https://github.com/liumcse)** &mdash; Slider should check `mounted` before start interaction
+    <sub>[#132010](https://github.com/flutter/flutter/pull/132010) merged on August 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132010) over 1 day, 27 additions and 19 deletions in 2 files</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Update dartdoc driver to match current behaviour
     <sub>[#132078](https://github.com/flutter/flutter/pull/132078) merged on August 8, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/132078) over 22 hours, 3 additions and 4 deletions in 1 file</sub>
@@ -107,9 +112,9 @@
     <sub>[#132080](https://github.com/flutter/flutter/pull/132080) merged on August 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132080) over 5 hours, 283 additions and 1 deletion in 6 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [gaaclarke](https://github.com/gaaclarke)</sub>
 
-* **[Mingyu](https://github.com/liumcse)** &mdash; Slider should check `mounted` before start interaction
-    <sub>[#132010](https://github.com/flutter/flutter/pull/132010) merged on August 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132010) over 1 day, 27 additions and 19 deletions in 2 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub>
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Remove Iterator from _History
+    <sub>[#132101](https://github.com/flutter/flutter/pull/132101) merged on August 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132101) over 17 hours, 1 addition and 16 deletions in 1 file</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add an example for `TapAndPanGestureRecognizer`
     <sub>[#131873](https://github.com/flutter/flutter/pull/131873) merged on August 9, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/131873) over 6 days, 233 additions and 0 deletions in 3 files</sub>
@@ -867,7 +872,7 @@
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add documentation on how to enable Metal Profiling HUD without Xcode.
     <sub>[#44196](https://github.com/flutter/engine/pull/44196) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44196) over 35 minutes, 18 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [Darwin] Enable ARC in darwin/common unit tests
     <sub>[#44396](https://github.com/flutter/engine/pull/44396) merged on August 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44396) over 2 hours, 20 additions and 18 deletions in 5 files</sub>
@@ -1332,7 +1337,7 @@
 
 ### August 5, 2023 to August 11, 2023
 
-8 commits.
+10 commits.
 
 * **[Erik German](https://github.com/eriko13)** &mdash; [xdg_directories] Add example app
     <sub>[#4554](https://github.com/flutter/packages/pull/4554) merged on August 8, 2023 &mdash; **Large:** [30 comments](https://github.com/flutter/packages/pull/4554) over 2 weeks, 540 additions and 1 deletion in 16 files</sub>
@@ -1351,6 +1356,10 @@
     <sub>[#4483](https://github.com/flutter/packages/pull/4483) merged on August 7, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/4483) over 3 weeks, 58 additions and 10 deletions in 7 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
+* **[hangyu](https://github.com/hangyujin)** &mdash; go_router should allow setting requestFocus
+    <sub>[#4636](https://github.com/flutter/packages/pull/4636) merged on August 9, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/4636) over 6 days, 89 additions and 2 deletions in 7 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [url_launcher] Android API 34 support
     <sub>[#4660](https://github.com/flutter/packages/pull/4660) merged on August 9, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/4660) over 1 day, 51 additions and 3 deletions in 5 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
@@ -1358,6 +1367,10 @@
 * **[Nitin-Poojary](https://github.com/Nitin-Poojary)** &mdash; [pigeon] Recursively create output target files
     <sub>[#4458](https://github.com/flutter/packages/pull/4458) merged on August 8, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/packages/pull/4458) over 3 weeks, 14 additions and 2 deletions in 5 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Fixes widget rebuild bug caused by key type
+    <sub>[#4667](https://github.com/flutter/packages/pull/4667) merged on August 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4667) over 4 hours, 165 additions and 6 deletions in 8 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Repeatedly pump WebViews until one is garbage collected
     <sub>[#4662](https://github.com/flutter/packages/pull/4662) merged on August 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4662) over 2 hours, 32 additions and 29 deletions in 1 file</sub>
@@ -1497,7 +1510,7 @@
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Fixes bug where `PlatformWebViewWidget` doesn't rebuild when the controller changes
     <sub>[#4533](https://github.com/flutter/packages/pull/4533) merged on July 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4533) over 4 days, 197 additions and 35 deletions in 8 files</sub>
-    <sub>Reviewed by: [Maurits van Beusekom](https://github.com/mvanbeusekom), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurits van Beusekom](https://github.com/mvanbeusekom)</sub>
 
 </details>
 
