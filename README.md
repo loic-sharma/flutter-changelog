@@ -4,7 +4,7 @@
 
 ### August 5, 2023 to August 11, 2023
 
-29 commits.
+30 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] New HtmlElementView.fromTagName constructor<br />
     <sub>[#130513](https://github.com/flutter/flutter/pull/130513) merged on August 7, 2023 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/130513) over 3 weeks, 487 additions and 217 deletions in 6 files</sub><br />
@@ -70,6 +70,10 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [framework] Add Search Web to selection controls for iOS<br />
     <sub>[#131898](https://github.com/flutter/flutter/pull/131898) merged on August 8, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/131898) over 4 days, 1122 additions and 241 deletions in 176 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Adds advanced blend benchmark<br />
+    <sub>[#131893](https://github.com/flutter/flutter/pull/131893) merged on August 9, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/131893) over 5 days, 219 additions and 12 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Document that missed_frame_build_budget_count is misleading<br />
     <sub>[#132137](https://github.com/flutter/flutter/pull/132137) merged on August 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132137) over 5 hours, 26 additions and 10 deletions in 1 file</sub><br />
@@ -1481,7 +1485,7 @@
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Fixes bug where `PlatformWebViewWidget` doesn't rebuild when the controller changes<br />
     <sub>[#4533](https://github.com/flutter/packages/pull/4533) merged on July 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4533) over 4 days, 197 additions and 35 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurits van Beusekom](https://github.com/mvanbeusekom)</sub><br />
+    <sub>Reviewed by: [Maurits van Beusekom](https://github.com/mvanbeusekom), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 </details>
 
