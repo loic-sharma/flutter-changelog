@@ -47,3 +47,6 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Reland root predictive back<br />
     <sub>[#132249](https://github.com/flutter/flutter/pull/132249) opened on on August 9, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/132249) 3226 additions and 302 deletions in 36 files</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Pin leak_tracker.<br />
+    <sub>[#132261](https://github.com/flutter/flutter/pull/132261) opened on on August 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132261) 2 additions and 0 deletions in 1 file</sub><br />
+
