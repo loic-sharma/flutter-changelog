@@ -823,7 +823,7 @@
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add documentation on how to enable Metal Profiling HUD without Xcode.
     <sub>[#44196](https://github.com/flutter/engine/pull/44196) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44196) over 35 minutes, 18 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [Darwin] Enable ARC in darwin/common unit tests
     <sub>[#44396](https://github.com/flutter/engine/pull/44396) merged on August 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44396) over 2 hours, 20 additions and 18 deletions in 5 files</sub>
@@ -1449,7 +1449,7 @@
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Fixes bug where `PlatformWebViewWidget` doesn't rebuild when the controller changes
     <sub>[#4533](https://github.com/flutter/packages/pull/4533) merged on July 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4533) over 4 days, 197 additions and 35 deletions in 8 files</sub>
-    <sub>Reviewed by: [Maurits van Beusekom](https://github.com/mvanbeusekom), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurits van Beusekom](https://github.com/mvanbeusekom)</sub>
 
 </details>
 
