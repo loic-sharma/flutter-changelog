@@ -581,7 +581,11 @@
 
 ### August 5, 2023 to August 11, 2023
 
-24 commits.
+25 commits.
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Android a11y bridge sets importantness<br />
+    <sub>[#44452](https://github.com/flutter/engine/pull/44452) merged on August 9, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/44452) over 1 day, 157 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Gaël](https://github.com/Logharaa), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Plumb Paint.enableDithering to backend<br />
     <sub>[#44522](https://github.com/flutter/engine/pull/44522) merged on August 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44522) over 47 minutes, 1 addition and 4 deletions in 1 file</sub><br />
