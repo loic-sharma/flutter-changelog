@@ -328,7 +328,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland - "Update Unit Tests for M2/M3"
     <sub>[#131504](https://github.com/flutter/flutter/pull/131504) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131504) over 2 days, 231 additions and 16 deletions in 5 files</sub>
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 </details>
 
@@ -573,7 +573,12 @@
 
 ### August 5, 2023 to August 11, 2023
 
-19 commits.
+20 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Plumb Paint.enableDithering to backend
+    <sub>[#44522](https://github.com/flutter/engine/pull/44522) merged on August 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44522) over 47 minutes, 1 addition and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub><details><summary>2 images...</summary><img width="2028" alt="Screenshot 2023-08-08 at 5 15 40 PM" src="https://github.com/flutter/engine/assets/168174/c58106bb-f588-4019-8cf0-3dd801f0b118"><img width="2028" alt="Screenshot 2023-08-08 at 5 15 01 PM" src="https://github.com/flutter/engine/assets/168174/33c4fec8-db52-47c2-b215-c1988ce82416"></details></sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Add gradient dithering for Radial/Sweep/Conical gradients
     <sub>[#44331](https://github.com/flutter/engine/pull/44331) merged on August 8, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/44331) over 5 days, 156 additions and 28 deletions in 12 files</sub>
