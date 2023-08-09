@@ -24,7 +24,7 @@
     <sub>[#131374](https://github.com/flutter/flutter/pull/131374) opened on on July 27, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/131374) 535 additions and 11 deletions in 10 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Fix flutter attach local engine<br />
-    <sub>[#131825](https://github.com/flutter/flutter/pull/131825) opened on on August 3, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/131825) 91 additions and 61 deletions in 6 files</sub><br />
+    <sub>[#131825](https://github.com/flutter/flutter/pull/131825) opened on on August 3, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/131825) 91 additions and 61 deletions in 6 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Fix description in index.html / manifest.json getting double quoted<br />
     <sub>[#131842](https://github.com/flutter/flutter/pull/131842) opened on on August 3, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/131842) 40 additions and 0 deletions in 2 files</sub><br />
@@ -37,9 +37,6 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reland "[web] Migrate framework to fully use package:web (#128901)"<br />
     <sub>[#132092](https://github.com/flutter/flutter/pull/132092) opened on on August 7, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/132092) 50 additions and 464 deletions in 6 files</sub><br />
-
-* **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Add hover duration for `Inkwell` widget<br />
-    <sub>[#132176](https://github.com/flutter/flutter/pull/132176) opened on on August 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132176) 33 additions and 1 deletion in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP] Check for iOS simulator runtime in flutter doctor for Xcode 15<br />
     <sub>[#132230](https://github.com/flutter/flutter/pull/132230) opened on on August 9, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/132230) 617 additions and 14 deletions in 8 files</sub><br />
