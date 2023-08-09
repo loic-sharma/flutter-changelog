@@ -38,9 +38,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reland "[web] Migrate framework to fully use package:web (#128901)"<br />
     <sub>[#132092](https://github.com/flutter/flutter/pull/132092) opened on on August 7, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/132092) 50 additions and 464 deletions in 6 files</sub><br />
 
-* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; 3.13.0-0.4.pre Beta Cherrypicks<br />
-    <sub>[#132146](https://github.com/flutter/flutter/pull/132146) opened on on August 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132146) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; [flutter_tools] Generate localizations on flutter pub get<br />
     <sub>[#132172](https://github.com/flutter/flutter/pull/132172) opened on on August 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132172) 103 additions and 0 deletions in 2 files</sub><br />
 
