@@ -38,6 +38,9 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP] Check for iOS simulator runtime in flutter doctor for Xcode 15<br />
     <sub>[#132230](https://github.com/flutter/flutter/pull/132230) opened on on August 9, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/132230) 617 additions and 14 deletions in 8 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP] Print pretty error when xcodebuild fails due to missing simulator<br />
+    <sub>[#132235](https://github.com/flutter/flutter/pull/132235) opened on on August 9, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/132235) 468 additions and 1 deletion in 6 files</sub><br />
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Migrate remaining web-only API usages to `dart:ui_web`<br />
     <sub>[#132248](https://github.com/flutter/flutter/pull/132248) opened on on August 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132248) 7 additions and 6 deletions in 2 files</sub><br />
 
