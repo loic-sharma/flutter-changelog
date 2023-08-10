@@ -626,7 +626,7 @@
 
 ### August 5, 2023 to August 11, 2023
 
-29 commits.
+30 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Android a11y bridge sets importantness<br />
     <sub>[#44452](https://github.com/flutter/engine/pull/44452) merged on August 9, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/44452) over 1 day, 157 additions and 1 deletion in 2 files</sub><br />
@@ -710,6 +710,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do not log exceptions from JNI lookups of APIs that are known to be unavailable on older devices<br />
     <sub>[#44357](https://github.com/flutter/engine/pull/44357) merged on August 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44357) over 3 days, 8 additions and 6 deletions in 3 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Disable text rounding hack by default<br />
+    <sub>[#44544](https://github.com/flutter/engine/pull/44544) merged on August 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44544) over 9 hours, 28 additions and 11 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Make toJS'd function use JS types<br />
     <sub>[#44469](https://github.com/flutter/engine/pull/44469) merged on August 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44469) over 1 day, 3 additions and 2 deletions in 1 file</sub><br />
