@@ -56,3 +56,6 @@
 * **[Matheus Kirchesch](https://github.com/matheus-kirchesch-btor)** &mdash; Fixed [NavigationRailDestination]'s label opacity while disabled not being coherent with the icon<br />
     <sub>[#132345](https://github.com/flutter/flutter/pull/132345) opened on on August 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132345) 3 additions and 1 deletion in 1 file</sub><br />
 
+* **[Matheus Kirchesch](https://github.com/matheus-kirchesch-btor)** &mdash; Added option to disable [NavigationDrawerDestination]s<br />
+    <sub>[#132349](https://github.com/flutter/flutter/pull/132349) opened on on August 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132349) 78 additions and 9 deletions in 2 files</sub><br />
+

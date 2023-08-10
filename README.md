@@ -200,7 +200,7 @@
 
 * **[Mingyu](https://github.com/liumcse)** &mdash; Slider should check `mounted` before start interaction<br />
     <sub>[#132010](https://github.com/flutter/flutter/pull/132010) merged on August 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132010) over 1 day, 27 additions and 19 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Kate Lovett](https://github.com/Piinks)</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Tae Hyung Kim](https://github.com/thkim1011)** &mdash; Remove shrinkWrap from flexible_space_bar_test.dart<br />
     <sub>[#132173](https://github.com/flutter/flutter/pull/132173) merged on August 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132173) over 23 hours, 10 additions and 14 deletions in 1 file</sub><br />
@@ -351,7 +351,7 @@
 
 * **[LiangXiang Shen](https://github.com/kj415j45)** &mdash; Update `ThemeData`'s factory method documents<br />
     <sub>[#123984](https://github.com/flutter/flutter/pull/123984) merged on August 2, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123984) over 4 months, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Ian Hickson](https://github.com/Hixie)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add TODO to refactor error handling.<br />
     <sub>[#131878](https://github.com/flutter/flutter/pull/131878) merged on August 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131878) over 1 day, 3 additions and 0 deletions in 1 file</sub><br />
@@ -475,7 +475,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland - "Update Unit Tests for M2/M3"<br />
     <sub>[#131504](https://github.com/flutter/flutter/pull/131504) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131504) over 2 days, 231 additions and 16 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 </details>
 
@@ -796,7 +796,7 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [shell] Add references to VsyncWaiter docs<br />
     <sub>[#44607](https://github.com/flutter/engine/pull/44607) merged on August 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44607) over 37 minutes, 3 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Flutter GPU: Add GpuContext.<br />
     <sub>[#44359](https://github.com/flutter/engine/pull/44359) merged on August 7, 2023 &mdash; **Medium:** [20 comments](https://github.com/flutter/engine/pull/44359) over 3 days, 214 additions and 114 deletions in 18 files</sub><br />
