@@ -23,9 +23,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Fix description in index.html / manifest.json getting double quoted<br />
     <sub>[#131842](https://github.com/flutter/flutter/pull/131842) opened on on August 3, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/131842) 40 additions and 0 deletions in 2 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; GridView sample code<br />
-    <sub>[#131900](https://github.com/flutter/flutter/pull/131900) opened on on August 3, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/131900) 278 additions and 16 deletions in 4 files</sub><br />
-
 * **[Adam Vongrej](https://github.com/vongrad)** &mdash; Fix: SelectableText userUpdateTextEditingValue calls _scheduleShowCar…<br />
     <sub>[#131985](https://github.com/flutter/flutter/pull/131985) opened on on August 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/131985) 3 additions and 3 deletions in 1 file</sub><br />
 
@@ -49,7 +46,4 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP] New tooling for iOS 17 physical devices<br />
     <sub>[#132283](https://github.com/flutter/flutter/pull/132283) opened on on August 10, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/132283) 7584 additions and 157 deletions in 39 files</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Analyze code snippets in integration_test docs<br />
-    <sub>[#132314](https://github.com/flutter/flutter/pull/132314) opened on on August 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132314) 6 additions and 3 deletions in 3 files</sub><br />
 
