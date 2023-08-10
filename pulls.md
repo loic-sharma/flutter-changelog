@@ -53,6 +53,9 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Reland: Replace TextField.canRequestFocus with TextField.focusNode.canRequestFocus<br />
     <sub>[#132273](https://github.com/flutter/flutter/pull/132273) opened on on August 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132273) 44 additions and 11 deletions in 4 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP] New tooling for iOS 17 physical devices<br />
+    <sub>[#132283](https://github.com/flutter/flutter/pull/132283) opened on on August 10, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/132283) 7584 additions and 157 deletions in 39 files</sub><br />
+
 * **[Chip Weinberger](https://github.com/chipweinberger)** &mdash; [Velocity Tracker] Fix: Issue 97761: Flutter Scrolling does not match iOS; inadvertent scrolling when user lifts up finger<br />
     <sub>[#132291](https://github.com/flutter/flutter/pull/132291) opened on on August 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132291) 37 additions and 0 deletions in 1 file</sub><br />
 
