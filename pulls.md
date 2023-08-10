@@ -53,3 +53,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Allow date pickers to not have selected date<br />
     <sub>[#132343](https://github.com/flutter/flutter/pull/132343) opened on on August 10, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/132343) 342 additions and 212 deletions in 5 files</sub><br />
 
+* **[Matheus Kirchesch](https://github.com/matheus-kirchesch-btor)** &mdash; Fixed [NavigationRailDestination]'s label opacity while disabled not being coherent with the icon<br />
+    <sub>[#132345](https://github.com/flutter/flutter/pull/132345) opened on on August 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132345) 3 additions and 1 deletion in 1 file</sub><br />
+
