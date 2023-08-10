@@ -59,6 +59,3 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Analyze code snippets in integration_test docs<br />
     <sub>[#132314](https://github.com/flutter/flutter/pull/132314) opened on on August 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132314) 6 additions and 3 deletions in 3 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; TextPainter migration cleanup<br />
-    <sub>[#132317](https://github.com/flutter/flutter/pull/132317) opened on on August 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132317) 5 additions and 11 deletions in 2 files</sub><br />
-
