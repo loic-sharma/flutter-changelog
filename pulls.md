@@ -59,3 +59,6 @@
 * **[Chip Weinberger](https://github.com/chipweinberger)** &mdash; [Velocity Tracker] Fix: Issue 97761: Flutter Scrolling does not match iOS; inadvertent scrolling when user lifts up finger<br />
     <sub>[#132291](https://github.com/flutter/flutter/pull/132291) opened on on August 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132291) 37 additions and 0 deletions in 1 file</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Analyze code snippets in integration_test docs<br />
+    <sub>[#132314](https://github.com/flutter/flutter/pull/132314) opened on on August 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132314) 6 additions and 3 deletions in 3 files</sub><br />
+
