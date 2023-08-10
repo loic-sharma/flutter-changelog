@@ -50,3 +50,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Analyze code snippets in flutter_driver docs<br />
     <sub>[#132337](https://github.com/flutter/flutter/pull/132337) opened on on August 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132337) 144 additions and 102 deletions in 9 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Allow date pickers to not have selected date<br />
+    <sub>[#132343](https://github.com/flutter/flutter/pull/132343) opened on on August 10, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/132343) 342 additions and 212 deletions in 5 files</sub><br />
+
