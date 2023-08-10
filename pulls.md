@@ -47,6 +47,3 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP] New tooling for iOS 17 physical devices<br />
     <sub>[#132283](https://github.com/flutter/flutter/pull/132283) opened on on August 10, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/132283) 7584 additions and 157 deletions in 39 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Update application id and bundle id of a11y assessment app<br />
-    <sub>[#132334](https://github.com/flutter/flutter/pull/132334) opened on on August 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132334) 15 additions and 19 deletions in 2 files</sub><br />
-
