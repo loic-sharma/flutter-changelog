@@ -18,7 +18,7 @@
     <sub>[#129739](https://github.com/flutter/flutter/pull/129739) opened on on June 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129739) 61 additions and 2 deletions in 2 files</sub><br />
 
 * **[指尖上的艺术](https://github.com/fingerart)** &mdash; Fix CurvedAnimation._curveDirection status update issue<br />
-    <sub>[#129777](https://github.com/flutter/flutter/pull/129777) opened on on June 29, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/129777) 36 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#129777](https://github.com/flutter/flutter/pull/129777) opened on on June 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/129777) 36 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; PaginatedDataTable improvements<br />
     <sub>[#131374](https://github.com/flutter/flutter/pull/131374) opened on on July 27, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/131374) 535 additions and 11 deletions in 10 files</sub><br />
