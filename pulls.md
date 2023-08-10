@@ -53,3 +53,6 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Reland: Replace TextField.canRequestFocus with TextField.focusNode.canRequestFocus<br />
     <sub>[#132273](https://github.com/flutter/flutter/pull/132273) opened on on August 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132273) 44 additions and 11 deletions in 4 files</sub><br />
 
+* **[Chip Weinberger](https://github.com/chipweinberger)** &mdash; [Velocity Tracker] Fix: Issue 97761: Flutter Scrolling does not match iOS; inadvertent scrolling when user lifts up finger<br />
+    <sub>[#132291](https://github.com/flutter/flutter/pull/132291) opened on on August 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132291) 35 additions and 0 deletions in 1 file</sub><br />
+
