@@ -626,11 +626,16 @@
 
 ### August 5, 2023 to August 11, 2023
 
-30 commits.
+31 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Android a11y bridge sets importantness<br />
     <sub>[#44452](https://github.com/flutter/engine/pull/44452) merged on August 9, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/44452) over 1 day, 157 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Gaël](https://github.com/Logharaa), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Replace Vulkan rotation checks with polling<br />
+    <sub>[#44361](https://github.com/flutter/engine/pull/44361) merged on August 10, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/44361) over 6 days, 60 additions and 38 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub><details><summary>4 images...</summary><img src="https://github.com/flutter/engine/assets/168174/e7b9e5c0-86b0-407f-aa51-2f76afda4f03)" /><img src="https://github.com/flutter/engine/assets/168174/6b611090-97f5-4589-9ef9-6ba778efc6b7" />![7v5zfd](https://github.com/flutter/engine/assets/168174/b87a0726-cddd-415e-a46c-2c65d6f5c9d5)![flutter_04](https://github.com/flutter/engine/assets/168174/969f5c5e-7f6a-4156-8de8-1351b32f2a2f)</details></sub>
 
 * **[xuty](https://github.com/xtyxtyx)** &mdash; [web] Fix rendering of gradients in html mode<br />
     <sub>[#40345](https://github.com/flutter/engine/pull/40345) merged on August 9, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/40345) over 4 months, 224 additions and 20 deletions in 3 files</sub><br />
