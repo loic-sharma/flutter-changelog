@@ -53,6 +53,3 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Reland: Replace TextField.canRequestFocus with TextField.focusNode.canRequestFocus<br />
     <sub>[#132273](https://github.com/flutter/flutter/pull/132273) opened on on August 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132273) 44 additions and 11 deletions in 4 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add missing `ignore: deprecated_member_use` to unblock the engine roller<br />
-    <sub>[#132280](https://github.com/flutter/flutter/pull/132280) opened on on August 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132280) 2 additions and 0 deletions in 1 file</sub><br />
-
