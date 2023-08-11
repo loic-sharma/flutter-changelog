@@ -1140,7 +1140,7 @@
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Remove WARNINGs from JNI load path as we can't suppress them
     <sub>[#44348](https://github.com/flutter/engine/pull/44348) merged on August 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44348) over 7 minutes, 0 additions and 6 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Reid Baker](https://github.com/reidbaker)</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Remove extends JSTypedArray from JSUint8Array1
     <sub>[#44175](https://github.com/flutter/engine/pull/44175) merged on August 1, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/44175) over 1 day, 2 additions and 2 deletions in 2 files</sub>
@@ -1334,7 +1334,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS] Return keyboard pressed state
     <sub>[#42878](https://github.com/flutter/engine/pull/42878) merged on July 26, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42878) over 1 month, 144 additions and 6 deletions in 7 files</sub>
-    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Ignore the NOTICE.fuchsia file in the new license script
     <sub>[#44021](https://github.com/flutter/engine/pull/44021) merged on July 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44021) over 1 day, 3 additions and 1 deletion in 2 files</sub>
@@ -1553,7 +1553,7 @@
 
 ### August 5, 2023 to August 11, 2023
 
-11 commits.
+12 commits.
 
 * **[Erik German](https://github.com/eriko13)** &mdash; [xdg_directories] Add example app
     <sub>[#4554](https://github.com/flutter/packages/pull/4554) merged on August 8, 2023 &mdash; **Large:** [30 comments](https://github.com/flutter/packages/pull/4554) over 2 weeks, 540 additions and 1 deletion in 16 files</sub>
@@ -1586,6 +1586,10 @@
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Fixes widget rebuild bug caused by key type
     <sub>[#4667](https://github.com/flutter/packages/pull/4667) merged on August 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4667) over 4 hours, 165 additions and 6 deletions in 8 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] skipGen
+    <sub>[#4682](https://github.com/flutter/packages/pull/4682) merged on August 11, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4682) over 36 minutes, 20 additions and 12 deletions in 2 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [dynamic_layouts] relax layout test to fix tree
