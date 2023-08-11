@@ -23,9 +23,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Fix description in index.html / manifest.json getting double quoted<br />
     <sub>[#131842](https://github.com/flutter/flutter/pull/131842) opened on on August 3, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/131842) 45 additions and 2 deletions in 3 files</sub><br />
 
-* **[Adam Vongrej](https://github.com/vongrad)** &mdash; Fix: SelectableText userUpdateTextEditingValue calls _scheduleShowCar…<br />
-    <sub>[#131985](https://github.com/flutter/flutter/pull/131985) opened on on August 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/131985) 3 additions and 3 deletions in 1 file</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Support disabling animations in the CLI<br />
     <sub>[#132239](https://github.com/flutter/flutter/pull/132239) opened on on August 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132239) 133 additions and 29 deletions in 16 files</sub><br />
 
@@ -43,12 +40,6 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Allow date pickers to not have selected date<br />
     <sub>[#132343](https://github.com/flutter/flutter/pull/132343) opened on on August 10, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/132343) 342 additions and 212 deletions in 5 files</sub><br />
-
-* **[Matheus Kirchesch](https://github.com/matheus-kirchesch-btor)** &mdash; Fixed [NavigationRailDestination]'s label opacity while disabled not being coherent with the icon<br />
-    <sub>[#132345](https://github.com/flutter/flutter/pull/132345) opened on on August 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132345) 50 additions and 1 deletion in 2 files</sub><br />
-
-* **[Matheus Kirchesch](https://github.com/matheus-kirchesch-btor)** &mdash; Added option to disable [NavigationDrawerDestination]s<br />
-    <sub>[#132349](https://github.com/flutter/flutter/pull/132349) opened on on August 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132349) 78 additions and 9 deletions in 2 files</sub><br />
 
 * **[Mikhail](https://github.com/mishapark)** &mdash; WIP Fix/bottom navigation bar splash radius<br />
     <sub>[#132396](https://github.com/flutter/flutter/pull/132396) opened on on August 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132396) 9 additions and 1 deletion in 1 file</sub><br />
