@@ -936,7 +936,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Android a11y bridge sets importantness"<br />
     <sub>[#44569](https://github.com/flutter/engine/pull/44569) merged on August 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44569) over 23 minutes, 1 addition and 157 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reland "Android a11y bridge sets importantness"<br />
     <sub>[#44589](https://github.com/flutter/engine/pull/44589) merged on August 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44589) over 3 hours, 165 additions and 1 deletion in 2 files</sub><br />
@@ -1096,7 +1096,7 @@
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add documentation on how to enable Metal Profiling HUD without Xcode.<br />
     <sub>[#44196](https://github.com/flutter/engine/pull/44196) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44196) over 35 minutes, 18 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [Darwin] Enable ARC in darwin/common unit tests<br />
     <sub>[#44396](https://github.com/flutter/engine/pull/44396) merged on August 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44396) over 2 hours, 20 additions and 18 deletions in 5 files</sub><br />
@@ -1561,7 +1561,7 @@
 
 ### August 5, 2023 to August 11, 2023
 
-12 commits.
+13 commits.
 
 * **[Erik German](https://github.com/eriko13)** &mdash; [xdg_directories] Add example app<br />
     <sub>[#4554](https://github.com/flutter/packages/pull/4554) merged on August 8, 2023 &mdash; **Large:** [30 comments](https://github.com/flutter/packages/pull/4554) over 2 weeks, 540 additions and 1 deletion in 16 files</sub><br />
@@ -1595,6 +1595,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Fixes widget rebuild bug caused by key type<br />
     <sub>[#4667](https://github.com/flutter/packages/pull/4667) merged on August 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4667) over 4 hours, 165 additions and 6 deletions in 8 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Update iOS/macOS Pigeon<br />
+    <sub>[#4668](https://github.com/flutter/packages/pull/4668) merged on August 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4668) over 1 day, 60 additions and 38 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] skipGen<br />
     <sub>[#4682](https://github.com/flutter/packages/pull/4682) merged on August 11, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4682) over 36 minutes, 20 additions and 12 deletions in 2 files</sub><br />
