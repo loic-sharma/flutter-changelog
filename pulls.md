@@ -50,9 +50,6 @@
 * **[Matheus Kirchesch](https://github.com/matheus-kirchesch-btor)** &mdash; Added option to disable [NavigationDrawerDestination]s<br />
     <sub>[#132349](https://github.com/flutter/flutter/pull/132349) opened on on August 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132349) 78 additions and 9 deletions in 2 files</sub><br />
 
-* **[Matheus Kirchesch](https://github.com/matheus-kirchesch-btor)** &mdash; Added option to disable [NavigationDestination]s ([NavigationBar] destination widget)<br />
-    <sub>[#132361](https://github.com/flutter/flutter/pull/132361) opened on on August 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132361) 77 additions and 7 deletions in 2 files</sub><br />
-
 * **[Mikhail](https://github.com/mishapark)** &mdash; WIP Fix/bottom navigation bar splash radius<br />
     <sub>[#132396](https://github.com/flutter/flutter/pull/132396) opened on on August 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132396) 9 additions and 1 deletion in 1 file</sub><br />
 
