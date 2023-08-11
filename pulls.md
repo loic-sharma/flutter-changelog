@@ -65,6 +65,3 @@
 * **[Matheus Kirchesch](https://github.com/matheus-kirchesch-btor)** &mdash; Added option to disable [NavigationDestination]s ([NavigationBar] destination widget)<br />
     <sub>[#132361](https://github.com/flutter/flutter/pull/132361) opened on on August 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132361) 77 additions and 7 deletions in 2 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update menu examples for `SafeArea`<br />
-    <sub>[#132390](https://github.com/flutter/flutter/pull/132390) opened on on August 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132390) 79 additions and 7 deletions in 10 files</sub><br />
-
