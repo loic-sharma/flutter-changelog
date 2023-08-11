@@ -66,5 +66,5 @@
     <sub>[#132396](https://github.com/flutter/flutter/pull/132396) opened on on August 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132396) 9 additions and 1 deletion in 1 file</sub><br />
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Updates `AutomatedTestWidgetsFlutterBinding.pump` to support microsecond precision<br />
-    <sub>[#132401](https://github.com/flutter/flutter/pull/132401) opened on on August 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132401) 21 additions and 4 deletions in 3 files</sub><br />
+    <sub>[#132401](https://github.com/flutter/flutter/pull/132401) opened on on August 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132401) 21 additions and 4 deletions in 3 files</sub><br />
 
