@@ -26,12 +26,6 @@
 * **[Adam Vongrej](https://github.com/vongrad)** &mdash; Fix: SelectableText userUpdateTextEditingValue calls _scheduleShowCar…<br />
     <sub>[#131985](https://github.com/flutter/flutter/pull/131985) opened on on August 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/131985) 3 additions and 3 deletions in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP] Check for iOS simulator runtime in flutter doctor for Xcode 15<br />
-    <sub>[#132230](https://github.com/flutter/flutter/pull/132230) opened on on August 9, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/132230) 617 additions and 14 deletions in 8 files</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP] Print pretty error when xcodebuild fails due to missing simulator<br />
-    <sub>[#132235](https://github.com/flutter/flutter/pull/132235) opened on on August 9, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/132235) 468 additions and 1 deletion in 6 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Support disabling animations in the CLI<br />
     <sub>[#132239](https://github.com/flutter/flutter/pull/132239) opened on on August 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132239) 133 additions and 29 deletions in 16 files</sub><br />
 
