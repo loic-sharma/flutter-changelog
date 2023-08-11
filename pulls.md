@@ -63,5 +63,5 @@
     <sub>[#132357](https://github.com/flutter/flutter/pull/132357) opened on on August 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132357) 234 additions and 9 deletions in 3 files</sub><br />
 
 * **[Matheus Kirchesch](https://github.com/matheus-kirchesch-btor)** &mdash; Added option to disable [NavigationDestination]s ([NavigationBar] destination widget)<br />
-    <sub>[#132361](https://github.com/flutter/flutter/pull/132361) opened on on August 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132361) 77 additions and 7 deletions in 2 files</sub><br />
+    <sub>[#132361](https://github.com/flutter/flutter/pull/132361) opened on on August 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132361) 77 additions and 7 deletions in 2 files</sub><br />
 
