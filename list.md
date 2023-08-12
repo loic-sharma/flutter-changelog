@@ -331,7 +331,7 @@
 
 * **[Mahmoud Zayad](https://github.com/MahmoudZayad)** &mdash; Remove target Staging_build_linux framework_tests_misc
     <sub>[#126959](https://github.com/flutter/flutter/pull/126959) merged on August 3, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/126959) over 2 months, 0 additions and 34 deletions in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Reid Baker](https://github.com/reidbaker)</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [framework] Add Look Up to selection controls for iOS 
     <sub>[#131798](https://github.com/flutter/flutter/pull/131798) merged on August 2, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/131798) over 1 hour, 1094 additions and 246 deletions in 175 files</sub>
