@@ -47,3 +47,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; introduce no-op parameter that SHOULD break google testing<br />
     <sub>[#132403](https://github.com/flutter/flutter/pull/132403) opened on on August 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132403) 27 additions and 1 deletion in 4 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Update the tool to know about all our new platforms<br />
+    <sub>[#132423](https://github.com/flutter/flutter/pull/132423) opened on on August 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132423) 111 additions and 34 deletions in 4 files</sub><br />
+
