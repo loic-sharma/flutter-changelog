@@ -944,7 +944,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Android a11y bridge sets importantness"<br />
     <sub>[#44569](https://github.com/flutter/engine/pull/44569) merged on August 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44569) over 23 minutes, 1 addition and 157 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reland "Android a11y bridge sets importantness"<br />
     <sub>[#44589](https://github.com/flutter/engine/pull/44589) merged on August 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44589) over 3 hours, 165 additions and 1 deletion in 2 files</sub><br />
@@ -1156,7 +1156,7 @@
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Remove WARNINGs from JNI load path as we can't suppress them<br />
     <sub>[#44348](https://github.com/flutter/engine/pull/44348) merged on August 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44348) over 7 minutes, 0 additions and 6 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Reid Baker](https://github.com/reidbaker)</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Remove extends JSTypedArray from JSUint8Array1<br />
     <sub>[#44175](https://github.com/flutter/engine/pull/44175) merged on August 1, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/44175) over 1 day, 2 additions and 2 deletions in 2 files</sub><br />
@@ -1350,7 +1350,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS] Return keyboard pressed state<br />
     <sub>[#42878](https://github.com/flutter/engine/pull/42878) merged on July 26, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/42878) over 1 month, 144 additions and 6 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Ignore the NOTICE.fuchsia file in the new license script<br />
     <sub>[#44021](https://github.com/flutter/engine/pull/44021) merged on July 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44021) over 1 day, 3 additions and 1 deletion in 2 files</sub><br />
