@@ -50,3 +50,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Update the tool to know about all our new platforms<br />
     <sub>[#132423](https://github.com/flutter/flutter/pull/132423) opened on on August 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132423) 111 additions and 34 deletions in 4 files</sub><br />
 
+* **[ganluo960214](https://github.com/ganluo960214)** &mdash; Update dropdown_menu to fix on android switch system language TextEdi…<br />
+    <sub>[#132444](https://github.com/flutter/flutter/pull/132444) opened on on August 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132444) 19 additions and 15 deletions in 1 file</sub><br />
+
