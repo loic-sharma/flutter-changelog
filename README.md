@@ -216,7 +216,7 @@
 
 * **[Mingyu](https://github.com/liumcse)** &mdash; Slider should check `mounted` before start interaction<br />
     <sub>[#132010](https://github.com/flutter/flutter/pull/132010) merged on August 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132010) over 1 day, 27 additions and 19 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Kate Lovett](https://github.com/Piinks)</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add missing `ignore: deprecated_member_use` to unblock the engine roller<br />
     <sub>[#132280](https://github.com/flutter/flutter/pull/132280) merged on August 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132280) over 2 hours, 2 additions and 0 deletions in 1 file</sub><br />
