@@ -24,7 +24,7 @@
     <sub>[#131842](https://github.com/flutter/flutter/pull/131842) opened on on August 3, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/131842) 45 additions and 2 deletions in 3 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Support disabling animations in the CLI<br />
-    <sub>[#132239](https://github.com/flutter/flutter/pull/132239) opened on on August 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132239) 133 additions and 29 deletions in 16 files</sub><br />
+    <sub>[#132239](https://github.com/flutter/flutter/pull/132239) opened on on August 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132239) 131 additions and 27 deletions in 15 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Migrate remaining web-only API usages to `dart:ui_web`<br />
     <sub>[#132248](https://github.com/flutter/flutter/pull/132248) opened on on August 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132248) 7 additions and 6 deletions in 2 files</sub><br />
@@ -48,7 +48,7 @@
     <sub>[#132403](https://github.com/flutter/flutter/pull/132403) opened on on August 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132403) 27 additions and 1 deletion in 4 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Update the tool to know about all our new platforms<br />
-    <sub>[#132423](https://github.com/flutter/flutter/pull/132423) opened on on August 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132423) 111 additions and 34 deletions in 4 files</sub><br />
+    <sub>[#132423](https://github.com/flutter/flutter/pull/132423) opened on on August 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132423) 122 additions and 43 deletions in 6 files</sub><br />
 
 * **[ganluo960214](https://github.com/ganluo960214)** &mdash; Update dropdown_menu to fix on android switch system language TextEdi…<br />
     <sub>[#132444](https://github.com/flutter/flutter/pull/132444) opened on on August 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132444) 19 additions and 15 deletions in 1 file</sub><br />
