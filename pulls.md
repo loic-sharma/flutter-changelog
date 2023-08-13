@@ -30,7 +30,7 @@
     <sub>[#132248](https://github.com/flutter/flutter/pull/132248) opened on on August 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132248) 7 additions and 6 deletions in 2 files</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Reland root predictive back<br />
-    <sub>[#132249](https://github.com/flutter/flutter/pull/132249) opened on on August 9, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/132249) 3226 additions and 302 deletions in 36 files</sub><br />
+    <sub>[#132249](https://github.com/flutter/flutter/pull/132249) opened on on August 9, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/132249) 3226 additions and 302 deletions in 36 files</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Reland: Replace TextField.canRequestFocus with TextField.focusNode.canRequestFocus<br />
     <sub>[#132273](https://github.com/flutter/flutter/pull/132273) opened on on August 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132273) 44 additions and 11 deletions in 4 files</sub><br />
