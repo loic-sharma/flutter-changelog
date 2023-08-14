@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### August 12, 2023 to August 18, 2023
+
+1 commits.
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Unpin leak_tracker and handle breaking changes in API.<br />
+    <sub>[#132352](https://github.com/flutter/flutter/pull/132352) merged on August 14, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/132352) over 3 days, 666 additions and 1048 deletions in 142 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ryan Macnak](https://github.com/rmacnak-google)</sub><br />
+
 ### August 5, 2023 to August 11, 2023
 
-69 commits.
+<details>
+<summary>69 commits...</summary>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add double click and double click + drag gestures to SelectionArea<br />
     <sub>[#124817](https://github.com/flutter/flutter/pull/124817) merged on August 11, 2023 &mdash; **Large:** [84 comments](https://github.com/flutter/flutter/pull/124817) over 4 months, 685 additions and 50 deletions in 7 files</sub><br />
@@ -232,7 +241,7 @@
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Read `--dart-define` in `RendererBinding.initInstances()`<br />
     <sub>[#132408](https://github.com/flutter/flutter/pull/132408) merged on August 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/132408) over 4 hours, 6 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun), [Ian Hickson](https://github.com/Hixie)</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable Xcode Debug tests<br />
     <sub>[#132398](https://github.com/flutter/flutter/pull/132398) merged on August 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132398) over 42 minutes, 0 additions and 20 deletions in 1 file</sub><br />
@@ -289,6 +298,8 @@
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Revert "Replace TextField.canRequestFocus with TextField.focusNode.canRequestFocus"<br />
     <sub>[#132104](https://github.com/flutter/flutter/pull/132104) merged on August 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132104) over 25 minutes, 11 additions and 44 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+</details>
 
 ### July 29, 2023 to August 4, 2023
 
@@ -379,7 +390,7 @@
 
 * **[LiangXiang Shen](https://github.com/kj415j45)** &mdash; Update `ThemeData`'s factory method documents<br />
     <sub>[#123984](https://github.com/flutter/flutter/pull/123984) merged on August 2, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123984) over 4 months, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Ian Hickson](https://github.com/Hixie)</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add TODO to refactor error handling.<br />
     <sub>[#131878](https://github.com/flutter/flutter/pull/131878) merged on August 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131878) over 1 day, 3 additions and 0 deletions in 1 file</sub><br />
@@ -503,15 +514,25 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland - "Update Unit Tests for M2/M3"<br />
     <sub>[#131504](https://github.com/flutter/flutter/pull/131504) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131504) over 2 days, 231 additions and 16 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 </details>
 
 ## flutter/engine
 
+### August 12, 2023 to August 18, 2023
+
+1 commits.
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; hasStrings for web<br />
+    <sub>[#43360](https://github.com/flutter/engine/pull/43360) merged on August 14, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43360) over 1 month, 76 additions and 0 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+    <sub><details><summary>2 images...</summary><img width="300" src="https://github.com/flutter/engine/assets/389558/2b53575f-85e9-4a6d-a3da-be56c1f8410a" />![Screenshot from 2023-06-30 10-20-22](https://github.com/flutter/engine/assets/389558/d1fc65d4-9632-4bd5-bc83-b42dea127a01) | ![Screenshot from 2023-06-30 10-17-50](https://github.com/flutter/engine/assets/389558/acacd3e5-07bc-4017-a073-1c3657d2dac2)</details></sub>
+
 ### August 5, 2023 to August 11, 2023
 
-48 commits.
+<details>
+<summary>48 commits...</summary>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Android a11y bridge sets importantness<br />
     <sub>[#44452](https://github.com/flutter/engine/pull/44452) merged on August 9, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/44452) over 1 day, 157 additions and 1 deletion in 2 files</sub><br />
@@ -716,6 +737,8 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reland "Android a11y bridge sets importantness"<br />
     <sub>[#44589](https://github.com/flutter/engine/pull/44589) merged on August 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44589) over 3 hours, 165 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+</details>
 
 ### July 29, 2023 to August 4, 2023
 
