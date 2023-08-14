@@ -56,3 +56,6 @@
 * **[Aiko Ramalho](https://github.com/AikoRamalho)** &mdash; Revert 1 aiko ramalho patch 1<br />
     <sub>[#132472](https://github.com/flutter/flutter/pull/132472) opened on on August 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132472) 0 additions and 0 deletions in 0 files</sub><br />
 
+* **[MFW](https://github.com/mafanwei)** &mdash; Add 'outerStrokeWidth' to allow user change radio outer stroke width<br />
+    <sub>[#132478](https://github.com/flutter/flutter/pull/132478) opened on on August 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132478) 14 additions and 2 deletions in 1 file</sub><br />
+
