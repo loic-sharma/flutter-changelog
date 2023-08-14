@@ -65,3 +65,6 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Make completeError be a proper JS function<br />
     <sub>[#132492](https://github.com/flutter/flutter/pull/132492) opened on on August 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132492) 2 additions and 1 deletion in 1 file</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix extent for null returning builder in GridView<br />
+    <sub>[#132511](https://github.com/flutter/flutter/pull/132511) opened on on August 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132511) 48 additions and 7 deletions in 2 files</sub><br />
+
