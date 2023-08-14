@@ -62,3 +62,6 @@
 * **[Mustafa Ateş UZUN](https://github.com/0o001)** &mdash; doc: add flag params<br />
     <sub>[#132485](https://github.com/flutter/flutter/pull/132485) opened on on August 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132485) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Make completeError be a proper JS function<br />
+    <sub>[#132492](https://github.com/flutter/flutter/pull/132492) opened on on August 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132492) 2 additions and 1 deletion in 1 file</sub><br />
+
