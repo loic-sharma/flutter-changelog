@@ -21,7 +21,7 @@
     <sub>[#131374](https://github.com/flutter/flutter/pull/131374) opened on on July 27, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/131374) 535 additions and 11 deletions in 10 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Fix description in index.html / manifest.json getting double quoted<br />
-    <sub>[#131842](https://github.com/flutter/flutter/pull/131842) opened on on August 3, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/131842) 45 additions and 2 deletions in 3 files</sub><br />
+    <sub>[#131842](https://github.com/flutter/flutter/pull/131842) opened on on August 3, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/131842) 43 additions and 2 deletions in 3 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Support disabling animations in the CLI<br />
     <sub>[#132239](https://github.com/flutter/flutter/pull/132239) opened on on August 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132239) 131 additions and 27 deletions in 15 files</sub><br />
@@ -70,4 +70,7 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix extent for null returning builder in GridView<br />
     <sub>[#132511](https://github.com/flutter/flutter/pull/132511) opened on on August 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132511) 48 additions and 7 deletions in 2 files</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Selection area should move selection word by word on a long press drag<br />
+    <sub>[#132518](https://github.com/flutter/flutter/pull/132518) opened on on August 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132518) 5 additions and 4 deletions in 2 files</sub><br />
 
