@@ -4,11 +4,15 @@
 
 ### August 12, 2023 to August 18, 2023
 
-1 commits.
+2 commits.
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Unpin leak_tracker and handle breaking changes in API.<br />
     <sub>[#132352](https://github.com/flutter/flutter/pull/132352) merged on August 14, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/132352) over 3 days, 666 additions and 1048 deletions in 142 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ryan Macnak](https://github.com/rmacnak-google)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix log filtering and CI tests for iOS 17 physical devices<br />
+    <sub>[#132491](https://github.com/flutter/flutter/pull/132491) merged on August 14, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/132491) over 1 hour, 737 additions and 228 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 ### August 5, 2023 to August 11, 2023
 
@@ -289,7 +293,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reland "[web] Migrate framework to fully use package:web (#128901)"<br />
     <sub>[#132092](https://github.com/flutter/flutter/pull/132092) merged on August 9, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/132092) over 1 day, 50 additions and 464 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs), [joshualitt](https://github.com/joshualitt)</sub><br />
+    <sub>Reviewed by: [joshualitt](https://github.com/joshualitt), [Srujan Gaddam](https://github.com/srujzs)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Fix `PopupMenuItem` & `CheckedPopupMenuItem` has redundant `ListTile` padding and update default horizontal padding for Material 3"<br />
     <sub>[#132457](https://github.com/flutter/flutter/pull/132457) merged on August 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132457) over 6 hours, 11 additions and 197 deletions in 3 files</sub><br />
@@ -386,11 +390,11 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny remove outdated comments<br />
     <sub>[#130387](https://github.com/flutter/flutter/pull/130387) merged on August 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130387) over 3 weeks, 0 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[LiangXiang Shen](https://github.com/kj415j45)** &mdash; Update `ThemeData`'s factory method documents<br />
     <sub>[#123984](https://github.com/flutter/flutter/pull/123984) merged on August 2, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123984) over 4 months, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Ian Hickson](https://github.com/Hixie)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add TODO to refactor error handling.<br />
     <sub>[#131878](https://github.com/flutter/flutter/pull/131878) merged on August 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131878) over 1 day, 3 additions and 0 deletions in 1 file</sub><br />
@@ -704,7 +708,7 @@
 
 * **[ftsui](https://github.com/ftsui)** &mdash; Request GLES version 2 interface.<br />
     <sub>[#44504](https://github.com/flutter/engine/pull/44504) merged on August 9, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/44504) over 22 hours, 2 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken)</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Caroline Liu](https://github.com/caroqliu)** &mdash; Remove GFX and Scenic dependencies from Fuchsia integration tests<br />
     <sub>[#44498](https://github.com/flutter/engine/pull/44498) merged on August 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44498) over 21 hours, 36 additions and 47 deletions in 15 files</sub><br />
@@ -740,7 +744,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Android a11y bridge sets importantness"<br />
     <sub>[#44569](https://github.com/flutter/engine/pull/44569) merged on August 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44569) over 23 minutes, 1 addition and 157 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reland "Android a11y bridge sets importantness"<br />
     <sub>[#44589](https://github.com/flutter/engine/pull/44589) merged on August 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44589) over 3 hours, 165 additions and 1 deletion in 2 files</sub><br />
@@ -806,7 +810,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Fail loudly if --enable-software-rendering is used.<br />
     <sub>[#44346](https://github.com/flutter/engine/pull/44346) merged on August 3, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/44346) over 1 hour, 22 additions and 1 deletion in 3 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chris Yang](https://github.com/cyanglaz)</sub><br />
+    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Re-Re-Land Support for rendering Android Platform Views into a HardwareBuffer backed texture<br />
     <sub>[#44326](https://github.com/flutter/engine/pull/44326) merged on August 3, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/44326) over 18 minutes, 1167 additions and 51 deletions in 36 files</sub><br />
@@ -902,7 +906,7 @@
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add documentation on how to enable Metal Profiling HUD without Xcode.<br />
     <sub>[#44196](https://github.com/flutter/engine/pull/44196) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44196) over 35 minutes, 18 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [Darwin] Enable ARC in darwin/common unit tests<br />
     <sub>[#44396](https://github.com/flutter/engine/pull/44396) merged on August 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44396) over 2 hours, 20 additions and 18 deletions in 5 files</sub><br />
