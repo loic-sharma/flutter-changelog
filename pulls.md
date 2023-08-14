@@ -68,6 +68,3 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Explain the keyboard manager protocol<br />
     <sub>[#132533](https://github.com/flutter/flutter/pull/132533) opened on on August 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132533) 34 additions and 6 deletions in 1 file</sub><br />
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Manual roll of docker focal version.<br />
-    <sub>[#132536](https://github.com/flutter/flutter/pull/132536) opened on on August 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132536) 4 additions and 8 deletions in 1 file</sub><br />
-
