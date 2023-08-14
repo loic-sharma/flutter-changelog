@@ -65,3 +65,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Improvements to EditableText documentation<br />
     <sub>[#132532](https://github.com/flutter/flutter/pull/132532) opened on on August 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132532) 67 additions and 38 deletions in 3 files</sub><br />
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Explain the keyboard manager protocol<br />
+    <sub>[#132533](https://github.com/flutter/flutter/pull/132533) opened on on August 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132533) 34 additions and 6 deletions in 1 file</sub><br />
+
