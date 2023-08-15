@@ -72,5 +72,5 @@
     <sub>[#132539](https://github.com/flutter/flutter/pull/132539) opened on on August 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132539) 31 additions and 19 deletions in 2 files</sub><br />
 
 * **[Anirudh Hegde](https://github.com/Anianonymous)** &mdash; DataTable example is scrollable<br />
-    <sub>[#132563](https://github.com/flutter/flutter/pull/132563) opened on on August 15, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132563) 35 additions and 30 deletions in 1 file</sub><br />
+    <sub>[#132563](https://github.com/flutter/flutter/pull/132563) opened on on August 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132563) 35 additions and 30 deletions in 1 file</sub><br />
 
