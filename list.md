@@ -567,7 +567,7 @@
 
 ### August 12, 2023 to August 18, 2023
 
-11 commits.
+12 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; hasStrings for web
     <sub>[#43360](https://github.com/flutter/engine/pull/43360) merged on August 14, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43360) over 1 month, 76 additions and 0 deletions in 3 files</sub>
@@ -585,6 +585,10 @@
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Update CompositionAwareMixin to correctly compute composingBase in Web engine
     <sub>[#44139](https://github.com/flutter/engine/pull/44139) merged on August 14, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/44139) over 2 weeks, 29 additions and 4 deletions in 3 files</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Hassan](https://github.com/htoor3)</sub>
+
+* **[Jia Hao](https://github.com/jiahaog)** &mdash; Namespace imports with flutter
+    <sub>[#44709](https://github.com/flutter/engine/pull/44709) merged on August 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44709) over 4 hours, 5 additions and 6 deletions in 5 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update android_embedding_bundle CIPD instructions
     <sub>[#44644](https://github.com/flutter/engine/pull/44644) merged on August 14, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/44644) over 3 days, 88 additions and 42 deletions in 9 files</sub>
@@ -701,7 +705,7 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [shell] Add references to VsyncWaiter docs
     <sub>[#44607](https://github.com/flutter/engine/pull/44607) merged on August 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44607) over 37 minutes, 3 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Allow macOS plugins to register as app delegates
     <sub>[#44587](https://github.com/flutter/engine/pull/44587) merged on August 11, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/44587) over 1 day, 169 additions and 27 deletions in 7 files</sub>
@@ -883,7 +887,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Fail loudly if --enable-software-rendering is used.
     <sub>[#44346](https://github.com/flutter/engine/pull/44346) merged on August 3, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/44346) over 1 hour, 22 additions and 1 deletion in 3 files</sub>
-    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chris Yang](https://github.com/cyanglaz)</sub>
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Re-Re-Land Support for rendering Android Platform Views into a HardwareBuffer backed texture
     <sub>[#44326](https://github.com/flutter/engine/pull/44326) merged on August 3, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/44326) over 18 minutes, 1167 additions and 51 deletions in 36 files</sub>
@@ -1031,7 +1035,7 @@
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Remove WARNINGs from JNI load path as we can't suppress them
     <sub>[#44348](https://github.com/flutter/engine/pull/44348) merged on August 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44348) over 7 minutes, 0 additions and 6 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Reid Baker](https://github.com/reidbaker)</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Remove extends JSTypedArray from JSUint8Array1
     <sub>[#44175](https://github.com/flutter/engine/pull/44175) merged on August 1, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/44175) over 1 day, 2 additions and 2 deletions in 2 files</sub>
