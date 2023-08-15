@@ -1234,7 +1234,7 @@
 
 ### August 12, 2023 to August 18, 2023
 
-5 commits.
+6 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Wrap classes to implement resolution configuration for video capture
     <sub>[#4620](https://github.com/flutter/packages/pull/4620) merged on August 15, 2023 &mdash; **Extra large:** [20 comments](https://github.com/flutter/packages/pull/4620) over 2 weeks, 2105 additions and 46 deletions in 22 files</sub>
@@ -1251,6 +1251,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; [pigeon] Fix typo in README.md
     <sub>[#4707](https://github.com/flutter/packages/pull/4707) merged on August 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4707) over 8 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update palette_generator_test.dart
+    <sub>[#4720](https://github.com/flutter/packages/pull/4720) merged on August 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4720) over 31 minutes, 4 additions and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Explicitly remove READ_EXTERNAL_STORAGE permission
     <sub>[#4716](https://github.com/flutter/packages/pull/4716) merged on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4716) over 2 hours, 8 additions and 1 deletion in 3 files</sub>
