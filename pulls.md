@@ -68,3 +68,6 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Explain the keyboard manager protocol<br />
     <sub>[#132533](https://github.com/flutter/flutter/pull/132533) opened on on August 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132533) 34 additions and 6 deletions in 1 file</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Further clarification of the TextSelectionControls migration<br />
+    <sub>[#132539](https://github.com/flutter/flutter/pull/132539) opened on on August 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132539) 31 additions and 19 deletions in 2 files</sub><br />
+
