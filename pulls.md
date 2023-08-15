@@ -29,9 +29,6 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Reland: Replace TextField.canRequestFocus with TextField.focusNode.canRequestFocus<br />
     <sub>[#132273](https://github.com/flutter/flutter/pull/132273) opened on on August 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132273) 44 additions and 11 deletions in 4 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Analyze code snippets in flutter_driver docs<br />
-    <sub>[#132337](https://github.com/flutter/flutter/pull/132337) opened on on August 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132337) 144 additions and 102 deletions in 9 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Allow date pickers to not have selected date<br />
     <sub>[#132343](https://github.com/flutter/flutter/pull/132343) opened on on August 10, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/132343) 342 additions and 212 deletions in 5 files</sub><br />
 
@@ -68,12 +65,12 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Explain the keyboard manager protocol<br />
     <sub>[#132533](https://github.com/flutter/flutter/pull/132533) opened on on August 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132533) 34 additions and 6 deletions in 1 file</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Further clarification of the TextSelectionControls migration<br />
-    <sub>[#132539](https://github.com/flutter/flutter/pull/132539) opened on on August 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132539) 31 additions and 19 deletions in 2 files</sub><br />
-
 * **[Anirudh Hegde](https://github.com/Anianonymous)** &mdash; DataTable example is scrollable<br />
     <sub>[#132563](https://github.com/flutter/flutter/pull/132563) opened on on August 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132563) 35 additions and 30 deletions in 1 file</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `FlexibleSpaceBar.title` doesn't respect the leading widget<br />
     <sub>[#132573](https://github.com/flutter/flutter/pull/132573) opened on on August 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132573) 105 additions and 2 deletions in 3 files</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Revert "Remove the fast reassemble / single widget reload feature"<br />
+    <sub>[#132578](https://github.com/flutter/flutter/pull/132578) opened on on August 15, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/132578) 615 additions and 105 deletions in 25 files</sub><br />
 
