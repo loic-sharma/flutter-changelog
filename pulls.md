@@ -69,5 +69,5 @@
     <sub>[#132573](https://github.com/flutter/flutter/pull/132573) opened on on August 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132573) 105 additions and 2 deletions in 3 files</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Test Engine PR "Roll clang with fix for ABI change"<br />
-    <sub>[#132581](https://github.com/flutter/flutter/pull/132581) opened on on August 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132581) 2 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#132581](https://github.com/flutter/flutter/pull/132581) opened on on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132581) 2 additions and 1 deletion in 2 files</sub><br />
 
