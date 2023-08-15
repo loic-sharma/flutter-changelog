@@ -74,3 +74,6 @@
 * **[Anirudh Hegde](https://github.com/Anianonymous)** &mdash; DataTable example is scrollable<br />
     <sub>[#132563](https://github.com/flutter/flutter/pull/132563) opened on on August 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132563) 35 additions and 30 deletions in 1 file</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `FlexibleSpaceBar.title` doesn't respect the leading widget<br />
+    <sub>[#132573](https://github.com/flutter/flutter/pull/132573) opened on on August 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132573) 105 additions and 2 deletions in 3 files</sub><br />
+
