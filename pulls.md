@@ -69,5 +69,5 @@
     <sub>[#132581](https://github.com/flutter/flutter/pull/132581) opened on on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132581) 2 additions and 1 deletion in 2 files</sub><br />
 
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Clean up analytics opt in/out flags<br />
-    <sub>[#132588](https://github.com/flutter/flutter/pull/132588) opened on on August 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132588) 29 additions and 28 deletions in 5 files</sub><br />
+    <sub>[#132588](https://github.com/flutter/flutter/pull/132588) opened on on August 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132588) 30 additions and 29 deletions in 5 files</sub><br />
 
