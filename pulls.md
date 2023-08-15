@@ -54,7 +54,7 @@
     <sub>[#132485](https://github.com/flutter/flutter/pull/132485) opened on on August 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132485) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix extent for null returning builder in GridView<br />
-    <sub>[#132511](https://github.com/flutter/flutter/pull/132511) opened on on August 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132511) 48 additions and 7 deletions in 2 files</sub><br />
+    <sub>[#132511](https://github.com/flutter/flutter/pull/132511) opened on on August 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132511) 48 additions and 7 deletions in 2 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Explain the keyboard manager protocol<br />
     <sub>[#132533](https://github.com/flutter/flutter/pull/132533) opened on on August 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132533) 34 additions and 6 deletions in 1 file</sub><br />
