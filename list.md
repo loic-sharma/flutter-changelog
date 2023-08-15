@@ -567,7 +567,7 @@
 
 ### August 12, 2023 to August 18, 2023
 
-12 commits.
+13 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; hasStrings for web
     <sub>[#43360](https://github.com/flutter/engine/pull/43360) merged on August 14, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43360) over 1 month, 76 additions and 0 deletions in 3 files</sub>
@@ -585,6 +585,10 @@
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Update CompositionAwareMixin to correctly compute composingBase in Web engine
     <sub>[#44139](https://github.com/flutter/engine/pull/44139) merged on August 14, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/44139) over 2 weeks, 29 additions and 4 deletions in 3 files</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Hassan](https://github.com/htoor3)</sub>
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Reset editing delta state when replacing editing state
+    <sub>[#44595](https://github.com/flutter/engine/pull/44595) merged on August 15, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/44595) over 4 days, 22 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Namespace imports with flutter
     <sub>[#44709](https://github.com/flutter/engine/pull/44709) merged on August 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44709) over 4 hours, 5 additions and 6 deletions in 5 files</sub>
