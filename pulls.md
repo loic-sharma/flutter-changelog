@@ -71,6 +71,3 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `FlexibleSpaceBar.title` doesn't respect the leading widget<br />
     <sub>[#132573](https://github.com/flutter/flutter/pull/132573) opened on on August 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132573) 105 additions and 2 deletions in 3 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Revert "Remove the fast reassemble / single widget reload feature"<br />
-    <sub>[#132578](https://github.com/flutter/flutter/pull/132578) opened on on August 15, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/132578) 615 additions and 105 deletions in 25 files</sub><br />
-
