@@ -4,7 +4,7 @@
 
 ### August 12, 2023 to August 18, 2023
 
-22 commits.
+23 commits.
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fixing a memory leak in About box/dialog overlays
     <sub>[#130842](https://github.com/flutter/flutter/pull/130842) merged on August 15, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/130842) over 3 weeks, 27 additions and 34 deletions in 4 files</sub>
@@ -42,6 +42,10 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Selection area should move selection word by word on a long press drag
     <sub>[#132518](https://github.com/flutter/flutter/pull/132518) merged on August 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132518) over 2 hours, 5 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Explain the keyboard manager protocol
+    <sub>[#132533](https://github.com/flutter/flutter/pull/132533) merged on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132533) over 1 day, 34 additions and 6 deletions in 1 file</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Reorganize and clarify API doc generator
     <sub>[#132353](https://github.com/flutter/flutter/pull/132353) merged on August 15, 2023 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/132353) over 4 days, 1384 additions and 938 deletions in 8 files</sub>
