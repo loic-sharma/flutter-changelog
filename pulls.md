@@ -53,6 +53,9 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Test Engine PR "Roll clang with fix for ABI change"<br />
     <sub>[#132581](https://github.com/flutter/flutter/pull/132581) opened on on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132581) 2 additions and 1 deletion in 2 files</sub><br />
 
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [Framework] Add Share to selection controls<br />
+    <sub>[#132599](https://github.com/flutter/flutter/pull/132599) opened on on August 15, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/132599) 1036 additions and 218 deletions in 175 files</sub><br />
+
 * **[Aakash Pamnani](https://github.com/aakash-pamnani)** &mdash; Fixed : Empty Rows shown at last page in Paginated data table<br />
     <sub>[#132646](https://github.com/flutter/flutter/pull/132646) opened on on August 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132646) 4 additions and 9 deletions in 1 file</sub><br />
 
@@ -60,5 +63,5 @@
     <sub>[#132650](https://github.com/flutter/flutter/pull/132650) opened on on August 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132650) 35 additions and 0 deletions in 2 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea single click/tap gestures<br />
-    <sub>[#132682](https://github.com/flutter/flutter/pull/132682) opened on on August 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132682) 106 additions and 33 deletions in 3 files</sub><br />
+    <sub>[#132682](https://github.com/flutter/flutter/pull/132682) opened on on August 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132682) 161 additions and 65 deletions in 3 files</sub><br />
 
