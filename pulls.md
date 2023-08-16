@@ -59,3 +59,6 @@
 * **[dheeraj](https://github.com/dheerajv099)** &mdash; added option to change color of heading row(#132428)<br />
     <sub>[#132650](https://github.com/flutter/flutter/pull/132650) opened on on August 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132650) 35 additions and 0 deletions in 2 files</sub><br />
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea single click/tap gestures<br />
+    <sub>[#132682](https://github.com/flutter/flutter/pull/132682) opened on on August 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132682) 106 additions and 33 deletions in 3 files</sub><br />
+
