@@ -65,6 +65,3 @@
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [do not merge] google testing test pr<br />
     <sub>[#132693](https://github.com/flutter/flutter/pull/132693) opened on on August 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132693) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix not-disposed _InputBorderGap.<br />
-    <sub>[#132694](https://github.com/flutter/flutter/pull/132694) opened on on August 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132694) 1 addition and 5 deletions in 2 files</sub><br />
-
