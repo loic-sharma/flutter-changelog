@@ -29,9 +29,6 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Reland: Replace TextField.canRequestFocus with TextField.focusNode.canRequestFocus<br />
     <sub>[#132273](https://github.com/flutter/flutter/pull/132273) opened on on August 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132273) 44 additions and 11 deletions in 4 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Allow date pickers to not have selected date<br />
-    <sub>[#132343](https://github.com/flutter/flutter/pull/132343) opened on on August 10, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/132343) 342 additions and 212 deletions in 5 files</sub><br />
-
 * **[Mikhail](https://github.com/mishapark)** &mdash; WIP Fix/bottom navigation bar splash radius<br />
     <sub>[#132396](https://github.com/flutter/flutter/pull/132396) opened on on August 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132396) 9 additions and 1 deletion in 1 file</sub><br />
 

@@ -27,6 +27,10 @@
     <sub>[#132148](https://github.com/flutter/flutter/pull/132148) merged on August 14, 2023 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/132148) over 6 days, 307 additions and 0 deletions in 13 files</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [keyonghan](https://github.com/keyonghan), [gaaclarke](https://github.com/gaaclarke)</sub>
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Explain the keyboard manager protocol
+    <sub>[#132533](https://github.com/flutter/flutter/pull/132533) merged on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132533) over 1 day, 34 additions and 6 deletions in 1 file</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [integration_test] Update outdated onScreenshot signature in README code snippet
     <sub>[#132409](https://github.com/flutter/flutter/pull/132409) merged on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132409) over 3 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
@@ -42,10 +46,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Selection area should move selection word by word on a long press drag
     <sub>[#132518](https://github.com/flutter/flutter/pull/132518) merged on August 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132518) over 2 hours, 5 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Explain the keyboard manager protocol
-    <sub>[#132533](https://github.com/flutter/flutter/pull/132533) merged on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132533) over 1 day, 34 additions and 6 deletions in 1 file</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Reorganize and clarify API doc generator
     <sub>[#132353](https://github.com/flutter/flutter/pull/132353) merged on August 15, 2023 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/132353) over 4 days, 1384 additions and 938 deletions in 8 files</sub>
@@ -611,7 +611,7 @@
 
 ### August 12, 2023 to August 18, 2023
 
-17 commits.
+18 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; hasStrings for web
     <sub>[#43360](https://github.com/flutter/engine/pull/43360) merged on August 14, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43360) over 1 month, 76 additions and 0 deletions in 3 files</sub>
@@ -657,6 +657,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Conditionally set command debug info.
     <sub>[#44274](https://github.com/flutter/engine/pull/44274) merged on August 14, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/44274) over 1 week, 94 additions and 73 deletions in 37 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add more tests for CompositionAwareMixin
+    <sub>[#44717](https://github.com/flutter/engine/pull/44717) merged on August 16, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/44717) over 15 hours, 80 additions and 9 deletions in 1 file</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Hassan](https://github.com/htoor3)</sub>
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Fix clang_tidy lints
     <sub>[#44740](https://github.com/flutter/engine/pull/44740) merged on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44740) over 1 hour, 11 additions and 11 deletions in 4 files</sub>
