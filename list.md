@@ -366,7 +366,7 @@
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Read `--dart-define` in `RendererBinding.initInstances()`
     <sub>[#132408](https://github.com/flutter/flutter/pull/132408) merged on August 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/132408) over 4 hours, 6 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Lau Ching Jun](https://github.com/chingjun)</sub>
+    <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun), [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable Xcode Debug tests
     <sub>[#132398](https://github.com/flutter/flutter/pull/132398) merged on August 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132398) over 42 minutes, 0 additions and 20 deletions in 1 file</sub>
@@ -471,7 +471,7 @@
 
 * **[Mahmoud Zayad](https://github.com/MahmoudZayad)** &mdash; Remove target Staging_build_linux framework_tests_misc
     <sub>[#126959](https://github.com/flutter/flutter/pull/126959) merged on August 3, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/126959) over 2 months, 0 additions and 34 deletions in 1 file</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [keyonghan](https://github.com/keyonghan)</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [framework] Add Look Up to selection controls for iOS 
     <sub>[#131798](https://github.com/flutter/flutter/pull/131798) merged on August 2, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/131798) over 1 hour, 1094 additions and 246 deletions in 175 files</sub>
