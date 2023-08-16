@@ -53,3 +53,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Test Engine PR "Roll clang with fix for ABI change"<br />
     <sub>[#132581](https://github.com/flutter/flutter/pull/132581) opened on on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132581) 2 additions and 1 deletion in 2 files</sub><br />
 
+* **[Aakash Pamnani](https://github.com/aakash-pamnani)** &mdash; Fixed : Empty Rows shown at last page in Paginated data table<br />
+    <sub>[#132646](https://github.com/flutter/flutter/pull/132646) opened on on August 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132646) 5 additions and 2 deletions in 1 file</sub><br />
+

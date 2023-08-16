@@ -68,8 +68,8 @@
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `flutter_tools` internals related to Gradle/XCode to set `--local-engine-host`.<br />
-    <sub>[#132346](https://github.com/flutter/flutter/pull/132346) merged on August 15, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/132346) over 4 days, 73 additions and 33 deletions in 9 files</sub><br />
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+    <sub>[#132346](https://github.com/flutter/flutter/pull/132346) merged on August 15, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/132346) over 4 days, 73 additions and 33 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [William Hesse](https://github.com/whesse), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] fix name of flutter driver benchmark.<br />
     <sub>[#132527](https://github.com/flutter/flutter/pull/132527) merged on August 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132527) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1075,7 +1075,7 @@
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add documentation on how to enable Metal Profiling HUD without Xcode.<br />
     <sub>[#44196](https://github.com/flutter/engine/pull/44196) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44196) over 35 minutes, 18 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [Darwin] Enable ARC in darwin/common unit tests<br />
     <sub>[#44396](https://github.com/flutter/engine/pull/44396) merged on August 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44396) over 2 hours, 20 additions and 18 deletions in 5 files</sub><br />
