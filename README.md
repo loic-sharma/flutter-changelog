@@ -10,6 +10,10 @@
     <sub>[#130842](https://github.com/flutter/flutter/pull/130842) merged on August 15, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/130842) over 3 weeks, 27 additions and 34 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix extent for null returning builder in GridView<br />
+    <sub>[#132511](https://github.com/flutter/flutter/pull/132511) merged on August 15, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132511) over 1 day, 48 additions and 7 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update menu examples for `SafeArea`<br />
     <sub>[#132390](https://github.com/flutter/flutter/pull/132390) merged on August 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132390) over 3 days, 79 additions and 7 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
@@ -34,10 +38,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [integration_test] Update outdated onScreenshot signature in README code snippet<br />
     <sub>[#132409](https://github.com/flutter/flutter/pull/132409) merged on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132409) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix extent for null returning builder in GridView<br />
-    <sub>[#132511](https://github.com/flutter/flutter/pull/132511) merged on August 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132511) over 1 day, 48 additions and 7 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Unpin leak_tracker and handle breaking changes in API.<br />
     <sub>[#132352](https://github.com/flutter/flutter/pull/132352) merged on August 14, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/132352) over 3 days, 666 additions and 1048 deletions in 142 files</sub><br />
