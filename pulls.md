@@ -56,3 +56,6 @@
 * **[Aakash Pamnani](https://github.com/aakash-pamnani)** &mdash; Fixed : Empty Rows shown at last page in Paginated data table<br />
     <sub>[#132646](https://github.com/flutter/flutter/pull/132646) opened on on August 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132646) 5 additions and 2 deletions in 1 file</sub><br />
 
+* **[William Hesse](https://github.com/whesse)** &mdash; Fix flutter_tools use of --local-engine-host<br />
+    <sub>[#132648](https://github.com/flutter/flutter/pull/132648) opened on on August 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132648) 1 addition and 1 deletion in 1 file</sub><br />
+
