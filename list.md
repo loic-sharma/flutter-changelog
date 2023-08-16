@@ -611,7 +611,7 @@
 
 ### August 12, 2023 to August 18, 2023
 
-18 commits.
+19 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; hasStrings for web
     <sub>[#43360](https://github.com/flutter/engine/pull/43360) merged on August 14, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43360) over 1 month, 76 additions and 0 deletions in 3 files</sub>
@@ -621,6 +621,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Add application:openURLs: forwarding on macOS
     <sub>[#44689](https://github.com/flutter/engine/pull/44689) merged on August 14, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/44689) over 2 hours, 124 additions and 16 deletions in 9 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Cache render target texture allocations across frames.
+    <sub>[#44527](https://github.com/flutter/engine/pull/44527) merged on August 16, 2023 &mdash; **Medium:** [30 comments](https://github.com/flutter/engine/pull/44527) over 6 days, 432 additions and 38 deletions in 25 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Make porter duff blended atlas calls faster.
     <sub>[#44059](https://github.com/flutter/engine/pull/44059) merged on August 15, 2023 &mdash; **Large:** [16 comments](https://github.com/flutter/engine/pull/44059) over 2 weeks, 483 additions and 63 deletions in 9 files</sub>
