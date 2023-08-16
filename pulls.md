@@ -65,3 +65,6 @@
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [do not merge] google testing test pr<br />
     <sub>[#132693](https://github.com/flutter/flutter/pull/132693) opened on on August 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132693) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Reland: "Reorganize and clarify API doc generator" (#132353)<br />
+    <sub>[#132710](https://github.com/flutter/flutter/pull/132710) opened on on August 16, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/132710) 1393 additions and 938 deletions in 8 files</sub><br />
+
