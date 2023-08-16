@@ -615,7 +615,7 @@
 
 ### August 12, 2023 to August 18, 2023
 
-19 commits.
+20 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; hasStrings for web<br />
     <sub>[#43360](https://github.com/flutter/engine/pull/43360) merged on August 14, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43360) over 1 month, 76 additions and 0 deletions in 3 files</sub><br />
@@ -633,6 +633,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Make porter duff blended atlas calls faster.<br />
     <sub>[#44059](https://github.com/flutter/engine/pull/44059) merged on August 15, 2023 &mdash; **Large:** [16 comments](https://github.com/flutter/engine/pull/44059) over 2 weeks, 483 additions and 63 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Skia] Only respect ui.Paint.dither when the colorSource is a gradient<br />
+    <sub>[#44730](https://github.com/flutter/engine/pull/44730) merged on August 16, 2023 &mdash; **Small:** [24 comments](https://github.com/flutter/engine/pull/44730) over 6 hours, 109 additions and 100 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Add support for SurfaceTexture based external textures on Android under Impeller/GLES.<br />
     <sub>[#44734](https://github.com/flutter/engine/pull/44734) merged on August 15, 2023 &mdash; **Large:** [9 comments](https://github.com/flutter/engine/pull/44734) over 2 hours, 340 additions and 174 deletions in 11 files</sub><br />
