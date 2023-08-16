@@ -4,7 +4,7 @@
 
 ### August 12, 2023 to August 18, 2023
 
-25 commits.
+26 commits.
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fixing a memory leak in About box/dialog overlays<br />
     <sub>[#130842](https://github.com/flutter/flutter/pull/130842) merged on August 15, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/130842) over 3 weeks, 27 additions and 34 deletions in 4 files</sub><br />
@@ -86,6 +86,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `dev/bots/test.dart` (and friends) to provide `--local-engine-host`.<br />
     <sub>[#132354](https://github.com/flutter/flutter/pull/132354) merged on August 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132354) over 3 days, 14 additions and 6 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[William Hesse](https://github.com/whesse)** &mdash; Fix flutter_tools use of --local-engine-host<br />
+    <sub>[#132648](https://github.com/flutter/flutter/pull/132648) merged on August 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132648) over 44 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph)</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Make completeError be a proper JS function<br />
     <sub>[#132492](https://github.com/flutter/flutter/pull/132492) merged on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132492) over 1 day, 2 additions and 1 deletion in 1 file</sub><br />
@@ -913,7 +917,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Android a11y bridge sets importantness"<br />
     <sub>[#44569](https://github.com/flutter/engine/pull/44569) merged on August 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44569) over 23 minutes, 1 addition and 157 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reland "Android a11y bridge sets importantness"<br />
     <sub>[#44589](https://github.com/flutter/engine/pull/44589) merged on August 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44589) over 3 hours, 165 additions and 1 deletion in 2 files</sub><br />
