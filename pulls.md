@@ -77,3 +77,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [CP] Fix lower bound of children from TwoDimensionalChildBuilderDelegate<br />
     <sub>[#132764](https://github.com/flutter/flutter/pull/132764) opened on on August 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132764) 17 additions and 13 deletions in 2 files</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run new_gallery__transition_perf on Pixel 7 and Samsung A02<br />
+    <sub>[#132772](https://github.com/flutter/flutter/pull/132772) opened on on August 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132772) 71 additions and 9 deletions in 1 file</sub><br />
+
