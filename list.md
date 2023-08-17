@@ -4,7 +4,12 @@
 
 ### August 12, 2023 to August 18, 2023
 
-39 commits.
+40 commits.
+
+* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Improve and optimize non-uniform Borders.
+    <sub>[#124417](https://github.com/flutter/flutter/pull/124417) merged on August 17, 2023 &mdash; **Small:** [62 comments](https://github.com/flutter/flutter/pull/124417) over 4 months, 153 additions and 58 deletions in 4 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub><details><summary>1 image...</summary><img width="448" alt="image" src="https://user-images.githubusercontent.com/351125/236550350-7499d758-5b44-40e6-9105-32671eb21998.png"></details></sub>
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fixing a memory leak in About box/dialog overlays
     <sub>[#130842](https://github.com/flutter/flutter/pull/130842) merged on August 15, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/130842) over 3 weeks, 27 additions and 34 deletions in 4 files</sub>
@@ -51,10 +56,6 @@
     <sub>[#132518](https://github.com/flutter/flutter/pull/132518) merged on August 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132518) over 2 hours, 5 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix log filtering and CI tests for iOS 17 physical devices
-    <sub>[#132491](https://github.com/flutter/flutter/pull/132491) merged on August 14, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/132491) over 1 hour, 737 additions and 228 deletions in 4 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Reorganize and clarify API doc generator
     <sub>[#132353](https://github.com/flutter/flutter/pull/132353) merged on August 15, 2023 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/132353) over 4 days, 1384 additions and 938 deletions in 8 files</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Christopher Fujino](https://github.com/christopherfujino), [godofredoc](https://github.com/godofredoc)</sub>
@@ -63,17 +64,21 @@
     <sub>[#132357](https://github.com/flutter/flutter/pull/132357) merged on August 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132357) over 5 days, 234 additions and 9 deletions in 3 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix log filtering and CI tests for iOS 17 physical devices
+    <sub>[#132491](https://github.com/flutter/flutter/pull/132491) merged on August 14, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/132491) over 1 hour, 737 additions and 228 deletions in 4 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add more use cases to a11y assessments
     <sub>[#132325](https://github.com/flutter/flutter/pull/132325) merged on August 16, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/132325) over 5 days, 452 additions and 0 deletions in 14 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix some leaks and add test to test cover remaining in a simple way.
-    <sub>[#131373](https://github.com/flutter/flutter/pull/131373) merged on August 16, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/131373) over 2 weeks, 41 additions and 0 deletions in 3 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add support for LOCAL_ENGINE_HOST to Linux/Mac/Win builds.
     <sub>[#132579](https://github.com/flutter/flutter/pull/132579) merged on August 16, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/132579) over 1 day, 127 additions and 54 deletions in 8 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Christopher Fujino](https://github.com/christopherfujino), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix some leaks and add test to test cover remaining in a simple way.
+    <sub>[#131373](https://github.com/flutter/flutter/pull/131373) merged on August 16, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/131373) over 2 weeks, 41 additions and 0 deletions in 3 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix lower bound of children from TwoDimensionalChildBuilderDelegate
     <sub>[#132713](https://github.com/flutter/flutter/pull/132713) merged on August 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132713) over 2 hours, 17 additions and 13 deletions in 2 files</sub>
@@ -107,10 +112,6 @@
     <sub>[#132337](https://github.com/flutter/flutter/pull/132337) merged on August 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132337) over 4 days, 144 additions and 102 deletions in 9 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] hide Skia specific rendering options.
-    <sub>[#132509](https://github.com/flutter/flutter/pull/132509) merged on August 14, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/132509) over 2 hours, 8 additions and 17 deletions in 1 file</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `flutter_tools` internals related to Gradle/XCode to set `--local-engine-host`.
     <sub>[#132346](https://github.com/flutter/flutter/pull/132346) merged on August 15, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/132346) over 4 days, 73 additions and 33 deletions in 9 files</sub>
     <sub>Reviewed by: [William Hesse](https://github.com/whesse), [Reid Baker](https://github.com/reidbaker)</sub>
@@ -131,9 +132,9 @@
     <sub>[#132539](https://github.com/flutter/flutter/pull/132539) merged on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132539) over 16 hours, 31 additions and 19 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
-* **[William Hesse](https://github.com/whesse)** &mdash; Fix flutter_tools use of --local-engine-host
-    <sub>[#132648](https://github.com/flutter/flutter/pull/132648) merged on August 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132648) over 44 minutes, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] hide Skia specific rendering options.
+    <sub>[#132509](https://github.com/flutter/flutter/pull/132509) merged on August 14, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/132509) over 2 hours, 8 additions and 17 deletions in 1 file</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Make completeError be a proper JS function
     <sub>[#132492](https://github.com/flutter/flutter/pull/132492) merged on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132492) over 1 day, 2 additions and 1 deletion in 1 file</sub>
@@ -150,6 +151,10 @@
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; fixed documentation error input decorator
     <sub>[#132124](https://github.com/flutter/flutter/pull/132124) merged on August 16, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/132124) over 1 week, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[William Hesse](https://github.com/whesse)** &mdash; Fix flutter_tools use of --local-engine-host
+    <sub>[#132648](https://github.com/flutter/flutter/pull/132648) merged on August 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132648) over 44 minutes, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Reorganize and clarify API doc generator"
     <sub>[#132613](https://github.com/flutter/flutter/pull/132613) merged on August 16, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/132613) over 2 minutes, 938 additions and 1384 deletions in 8 files</sub>
