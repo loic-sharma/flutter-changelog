@@ -57,7 +57,7 @@
     <sub>[#132646](https://github.com/flutter/flutter/pull/132646) opened on on August 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132646) 4 additions and 9 deletions in 1 file</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea single click/tap gestures<br />
-    <sub>[#132682](https://github.com/flutter/flutter/pull/132682) opened on on August 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132682) 182 additions and 70 deletions in 6 files</sub><br />
+    <sub>[#132682](https://github.com/flutter/flutter/pull/132682) opened on on August 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132682) 185 additions and 70 deletions in 6 files</sub><br />
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [do not merge] google testing test pr<br />
     <sub>[#132693](https://github.com/flutter/flutter/pull/132693) opened on on August 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132693) 2 additions and 0 deletions in 1 file</sub><br />
