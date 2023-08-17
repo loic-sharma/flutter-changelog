@@ -41,7 +41,7 @@
 * **[MFW](https://github.com/mafanwei)** &mdash; Add 'outerStrokeWidth' to allow user change radio outer stroke width<br />
     <sub>[#132478](https://github.com/flutter/flutter/pull/132478) opened on on August 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132478) 19 additions and 2 deletions in 1 file</sub><br />
 
-* **[Mustafa Ateş UZUN](https://github.com/0o001)** &mdash; doc: add flag params<br />
+* **[Mustafa Ateş Uzun](https://github.com/0o001)** &mdash; doc: add flag params<br />
     <sub>[#132485](https://github.com/flutter/flutter/pull/132485) opened on on August 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132485) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `FlexibleSpaceBar.title` doesn't respect the leading widget<br />
