@@ -74,3 +74,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update the Dart SDK lower bound in dev/tracing_tests<br />
     <sub>[#132752](https://github.com/flutter/flutter/pull/132752) opened on on August 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132752) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [CP] Fix lower bound of children from TwoDimensionalChildBuilderDelegate<br />
+    <sub>[#132764](https://github.com/flutter/flutter/pull/132764) opened on on August 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132764) 17 additions and 13 deletions in 2 files</sub><br />
+
