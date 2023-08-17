@@ -17,9 +17,6 @@
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [flutter_tools] build ios-frameworks: option to exclude plugin frameworks from the build<br />
     <sub>[#129739](https://github.com/flutter/flutter/pull/129739) opened on on June 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129739) 61 additions and 2 deletions in 2 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove deprecated *TestValues from TestWindow<br />
-    <sub>[#131098](https://github.com/flutter/flutter/pull/131098) opened on on July 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/131098) 4 additions and 229 deletions in 3 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Support disabling animations in the CLI<br />
     <sub>[#132239](https://github.com/flutter/flutter/pull/132239) opened on on August 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132239) 131 additions and 27 deletions in 15 files</sub><br />
 
