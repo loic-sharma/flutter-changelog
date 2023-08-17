@@ -56,9 +56,6 @@
 * **[Aakash Pamnani](https://github.com/aakash-pamnani)** &mdash; Fixed : Empty Rows shown at last page in Paginated data table<br />
     <sub>[#132646](https://github.com/flutter/flutter/pull/132646) opened on on August 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132646) 4 additions and 9 deletions in 1 file</sub><br />
 
-* **[dheeraj](https://github.com/dheerajv099)** &mdash; added option to change color of heading row(#132428)<br />
-    <sub>[#132650](https://github.com/flutter/flutter/pull/132650) opened on on August 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132650) 35 additions and 0 deletions in 2 files</sub><br />
-
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea single click/tap gestures<br />
     <sub>[#132682](https://github.com/flutter/flutter/pull/132682) opened on on August 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132682) 182 additions and 70 deletions in 6 files</sub><br />
 
@@ -67,4 +64,7 @@
 
 * **[Edgar Jan](https://github.com/EdgarJan)** &mdash; Fix and Test Conditional Validator Behavior in FormField<br />
     <sub>[#132714](https://github.com/flutter/flutter/pull/132714) opened on on August 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132714) 59 additions and 0 deletions in 2 files</sub><br />
+
+* **[Salmanul Farisi.M.](https://github.com/salmanulfarisi)** &mdash; added option to change color of heading row(flutter#132428)<br />
+    <sub>[#132728](https://github.com/flutter/flutter/pull/132728) opened on on August 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132728) 35 additions and 0 deletions in 2 files</sub><br />
 
