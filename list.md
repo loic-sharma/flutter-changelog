@@ -150,7 +150,7 @@
 
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; fixed documentation error input decorator
     <sub>[#132124](https://github.com/flutter/flutter/pull/132124) merged on August 16, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/132124) over 1 week, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Justin McCandless](https://github.com/justinmc)</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[William Hesse](https://github.com/whesse)** &mdash; Fix flutter_tools use of --local-engine-host
     <sub>[#132648](https://github.com/flutter/flutter/pull/132648) merged on August 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132648) over 44 minutes, 1 addition and 1 deletion in 1 file</sub>
@@ -158,11 +158,11 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Reorganize and clarify API doc generator"
     <sub>[#132613](https://github.com/flutter/flutter/pull/132613) merged on August 16, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/132613) over 2 minutes, 938 additions and 1384 deletions in 8 files</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [Reland] #131609
     <sub>[#132555](https://github.com/flutter/flutter/pull/132555) merged on August 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132555) over 16 hours, 197 additions and 11 deletions in 3 files</sub>
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Revert "Roll Flutter Engine from dbfe71c898b6 to 12cafaeb9e31 (1 revision)"
     <sub>[#132698](https://github.com/flutter/flutter/pull/132698) merged on August 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132698) over 1 minute, 1 addition and 1 deletion in 1 file</sub>
@@ -359,7 +359,7 @@
 
 * **[Mingyu](https://github.com/liumcse)** &mdash; Slider should check `mounted` before start interaction
     <sub>[#132010](https://github.com/flutter/flutter/pull/132010) merged on August 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132010) over 1 day, 27 additions and 19 deletions in 2 files</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Kate Lovett](https://github.com/Piinks)</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add drawVertices and drawAtlas benchmarks.
     <sub>[#132080](https://github.com/flutter/flutter/pull/132080) merged on August 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132080) over 5 hours, 283 additions and 1 deletion in 6 files</sub>
@@ -447,7 +447,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reland "[web] Migrate framework to fully use package:web (#128901)"
     <sub>[#132092](https://github.com/flutter/flutter/pull/132092) merged on August 9, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/132092) over 1 day, 50 additions and 464 deletions in 6 files</sub>
-    <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs), [joshualitt](https://github.com/joshualitt)</sub>
+    <sub>Reviewed by: [joshualitt](https://github.com/joshualitt), [Srujan Gaddam](https://github.com/srujzs)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Fix `PopupMenuItem` & `CheckedPopupMenuItem` has redundant `ListTile` padding and update default horizontal padding for Material 3"
     <sub>[#132457](https://github.com/flutter/flutter/pull/132457) merged on August 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132457) over 6 hours, 11 additions and 197 deletions in 3 files</sub>
@@ -504,7 +504,7 @@
 
 * **[Mahmoud Zayad](https://github.com/MahmoudZayad)** &mdash; Remove target Staging_build_linux framework_tests_misc
     <sub>[#126959](https://github.com/flutter/flutter/pull/126959) merged on August 3, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/126959) over 2 months, 0 additions and 34 deletions in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Reid Baker](https://github.com/reidbaker)</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [framework] Add Look Up to selection controls for iOS 
     <sub>[#131798](https://github.com/flutter/flutter/pull/131798) merged on August 2, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/131798) over 1 hour, 1094 additions and 246 deletions in 175 files</sub>
@@ -544,11 +544,11 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny remove outdated comments
     <sub>[#130387](https://github.com/flutter/flutter/pull/130387) merged on August 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/130387) over 3 weeks, 0 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[LiangXiang Shen](https://github.com/kj415j45)** &mdash; Update `ThemeData`'s factory method documents
     <sub>[#123984](https://github.com/flutter/flutter/pull/123984) merged on August 2, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/123984) over 4 months, 2 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Ian Hickson](https://github.com/Hixie)</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add TODO to refactor error handling.
     <sub>[#131878](https://github.com/flutter/flutter/pull/131878) merged on August 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131878) over 1 day, 3 additions and 0 deletions in 1 file</sub>
@@ -672,7 +672,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland - "Update Unit Tests for M2/M3"
     <sub>[#131504](https://github.com/flutter/flutter/pull/131504) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131504) over 2 days, 231 additions and 16 deletions in 5 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Hans Muller](https://github.com/HansMuller)</sub>
 
 </details>
 
@@ -1367,7 +1367,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [platform] Import the `platform` package
     <sub>[#4613](https://github.com/flutter/packages/pull/4613) merged on August 16, 2023 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/4613) over 2 weeks, 815 additions and 1 deletion in 15 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Wrap classes to implement resolution configuration for video capture
     <sub>[#4620](https://github.com/flutter/packages/pull/4620) merged on August 15, 2023 &mdash; **Extra large:** [20 comments](https://github.com/flutter/packages/pull/4620) over 2 weeks, 2105 additions and 46 deletions in 22 files</sub>
