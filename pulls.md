@@ -56,9 +56,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Test Engine PR "Roll clang with fix for ABI change"<br />
     <sub>[#132581](https://github.com/flutter/flutter/pull/132581) opened on on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132581) 2 additions and 1 deletion in 2 files</sub><br />
 
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [Framework] Add Share to selection controls<br />
-    <sub>[#132599](https://github.com/flutter/flutter/pull/132599) opened on on August 15, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/132599) 1036 additions and 218 deletions in 175 files</sub><br />
-
 * **[Aakash Pamnani](https://github.com/aakash-pamnani)** &mdash; Fixed : Empty Rows shown at last page in Paginated data table<br />
     <sub>[#132646](https://github.com/flutter/flutter/pull/132646) opened on on August 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132646) 4 additions and 9 deletions in 1 file</sub><br />
 
