@@ -35,6 +35,9 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; introduce no-op parameter that SHOULD break google testing<br />
     <sub>[#132403](https://github.com/flutter/flutter/pull/132403) opened on on August 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132403) 27 additions and 1 deletion in 4 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [integration_test] Allow capture of screenshots for `FlutterFragmentActivity`s<br />
+    <sub>[#132406](https://github.com/flutter/flutter/pull/132406) opened on on August 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132406) 97 additions and 10 deletions in 7 files</sub><br />
+
 * **[ganluo960214](https://github.com/ganluo960214)** &mdash; Update dropdown_menu to fix on android switch system language TextEdi…<br />
     <sub>[#132444](https://github.com/flutter/flutter/pull/132444) opened on on August 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132444) 19 additions and 15 deletions in 1 file</sub><br />
 
@@ -76,7 +79,4 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [CP] Fix lower bound of children from TwoDimensionalChildBuilderDelegate<br />
     <sub>[#132764](https://github.com/flutter/flutter/pull/132764) opened on on August 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132764) 17 additions and 13 deletions in 2 files</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run new_gallery__transition_perf on Pixel 7 and Samsung A02<br />
-    <sub>[#132772](https://github.com/flutter/flutter/pull/132772) opened on on August 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132772) 71 additions and 9 deletions in 1 file</sub><br />
 
