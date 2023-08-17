@@ -75,5 +75,5 @@
     <sub>[#132764](https://github.com/flutter/flutter/pull/132764) opened on on August 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132764) 17 additions and 13 deletions in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix the name of the local-engine-host flag in the warning message<br />
-    <sub>[#132808](https://github.com/flutter/flutter/pull/132808) opened on on August 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132808) 4 additions and 4 deletions in 2 files</sub><br />
+    <sub>[#132808](https://github.com/flutter/flutter/pull/132808) opened on on August 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132808) 4 additions and 4 deletions in 2 files</sub><br />
 
