@@ -1014,7 +1014,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Android a11y bridge sets importantness"
     <sub>[#44569](https://github.com/flutter/engine/pull/44569) merged on August 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44569) over 23 minutes, 1 addition and 157 deletions in 2 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reland "Android a11y bridge sets importantness"
     <sub>[#44589](https://github.com/flutter/engine/pull/44589) merged on August 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44589) over 3 hours, 165 additions and 1 deletion in 2 files</sub>
@@ -1367,7 +1367,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [platform] Import the `platform` package
     <sub>[#4613](https://github.com/flutter/packages/pull/4613) merged on August 16, 2023 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/4613) over 2 weeks, 815 additions and 1 deletion in 15 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Wrap classes to implement resolution configuration for video capture
     <sub>[#4620](https://github.com/flutter/packages/pull/4620) merged on August 15, 2023 &mdash; **Extra large:** [20 comments](https://github.com/flutter/packages/pull/4620) over 2 weeks, 2105 additions and 46 deletions in 22 files</sub>
