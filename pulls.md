@@ -59,9 +59,6 @@
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [do not merge] google testing test pr<br />
     <sub>[#132693](https://github.com/flutter/flutter/pull/132693) opened on on August 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132693) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Flutter 3.10.7 cherrypicks<br />
-    <sub>[#132706](https://github.com/flutter/flutter/pull/132706) opened on on August 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132706) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Edgar Jan](https://github.com/EdgarJan)** &mdash; Fix and Test Conditional Validator Behavior in FormField<br />
     <sub>[#132714](https://github.com/flutter/flutter/pull/132714) opened on on August 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132714) 59 additions and 0 deletions in 2 files</sub><br />
 
