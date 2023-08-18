@@ -215,7 +215,7 @@
 
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; fixed documentation error input decorator<br />
     <sub>[#132124](https://github.com/flutter/flutter/pull/132124) merged on August 16, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/132124) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Manual roll of docker focal version.<br />
     <sub>[#132536](https://github.com/flutter/flutter/pull/132536) merged on August 15, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/132536) over 2 hours, 3 additions and 8 deletions in 1 file</sub><br />
@@ -239,7 +239,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Reorganize and clarify API doc generator"<br />
     <sub>[#132613](https://github.com/flutter/flutter/pull/132613) merged on August 16, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/132613) over 2 minutes, 938 additions and 1384 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Reland: "Reorganize and clarify API doc generator" (#132353)<br />
     <sub>[#132710](https://github.com/flutter/flutter/pull/132710) merged on August 17, 2023 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/132710) over 1 day, 1441 additions and 938 deletions in 8 files</sub><br />
@@ -761,7 +761,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland - "Update Unit Tests for M2/M3"<br />
     <sub>[#131504](https://github.com/flutter/flutter/pull/131504) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131504) over 2 days, 231 additions and 16 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 </details>
 
