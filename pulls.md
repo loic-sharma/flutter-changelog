@@ -74,6 +74,3 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash;  Update `ExpansionPanel` example for the updated `expansionCallback` callback<br />
     <sub>[#132837](https://github.com/flutter/flutter/pull/132837) opened on on August 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132837) 79 additions and 4 deletions in 2 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TimePickerThemeData.cancelButtonStyle` & `TimePickerThemeData.confirmButtonStyle` aren't working<br />
-    <sub>[#132843](https://github.com/flutter/flutter/pull/132843) opened on on August 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132843) 113 additions and 43 deletions in 2 files</sub><br />
-
