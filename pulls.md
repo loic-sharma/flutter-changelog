@@ -71,3 +71,6 @@
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Dispose overlay entries<br />
     <sub>[#132826](https://github.com/flutter/flutter/pull/132826) opened on on August 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132826) 23 additions and 16 deletions in 8 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash;  Update `ExpansionPanel` example for the updated `expansionCallback` callback<br />
+    <sub>[#132837](https://github.com/flutter/flutter/pull/132837) opened on on August 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132837) 79 additions and 4 deletions in 2 files</sub><br />
+
