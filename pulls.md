@@ -71,3 +71,6 @@
 * **[gmilou](https://github.com/gmilou)** &mdash; Add an example showing how to use a MatrixTransition.<br />
     <sub>[#132874](https://github.com/flutter/flutter/pull/132874) opened on on August 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132874) 73 additions and 1 deletion in 2 files</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Warm-Up frames should not interfere with pumps in live tests<br />
+    <sub>[#132875](https://github.com/flutter/flutter/pull/132875) opened on on August 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132875) 14 additions and 1 deletion in 1 file</sub><br />
+

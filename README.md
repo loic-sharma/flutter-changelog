@@ -122,7 +122,7 @@
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Forward port API docs creation realm handling from prior script<br />
-    <sub>[#132867](https://github.com/flutter/flutter/pull/132867) merged on August 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132867) over 2 hours, 24 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#132867](https://github.com/flutter/flutter/pull/132867) merged on August 18, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/132867) over 2 hours, 24 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix the name of the local-engine-host flag in the warning message<br />
