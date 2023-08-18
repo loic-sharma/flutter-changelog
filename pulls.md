@@ -68,3 +68,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea triple click gestures<br />
     <sub>[#132814](https://github.com/flutter/flutter/pull/132814) opened on on August 18, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/132814) 607 additions and 96 deletions in 7 files</sub><br />
 
+* **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Dispose overlay entries<br />
+    <sub>[#132826](https://github.com/flutter/flutter/pull/132826) opened on on August 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132826) 23 additions and 16 deletions in 8 files</sub><br />
+
