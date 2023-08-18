@@ -17,9 +17,6 @@
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [flutter_tools] build ios-frameworks: option to exclude plugin frameworks from the build<br />
     <sub>[#129739](https://github.com/flutter/flutter/pull/129739) opened on on June 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/129739) 61 additions and 2 deletions in 2 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Support disabling animations in the CLI<br />
-    <sub>[#132239](https://github.com/flutter/flutter/pull/132239) opened on on August 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132239) 131 additions and 27 deletions in 15 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Migrate remaining web-only API usages to `dart:ui_web`<br />
     <sub>[#132248](https://github.com/flutter/flutter/pull/132248) opened on on August 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132248) 7 additions and 6 deletions in 2 files</sub><br />
 
@@ -40,9 +37,6 @@
 
 * **[MFW](https://github.com/mafanwei)** &mdash; Add 'outerStrokeWidth' to allow user change radio outer stroke width<br />
     <sub>[#132478](https://github.com/flutter/flutter/pull/132478) opened on on August 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132478) 19 additions and 2 deletions in 1 file</sub><br />
-
-* **[Mustafa Ateş Uzun](https://github.com/0o001)** &mdash; doc: add flag params<br />
-    <sub>[#132485](https://github.com/flutter/flutter/pull/132485) opened on on August 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132485) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `FlexibleSpaceBar.title` doesn't respect the leading widget<br />
     <sub>[#132573](https://github.com/flutter/flutter/pull/132573) opened on on August 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132573) 105 additions and 2 deletions in 3 files</sub><br />
