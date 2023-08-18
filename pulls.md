@@ -72,5 +72,8 @@
     <sub>[#132826](https://github.com/flutter/flutter/pull/132826) opened on on August 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132826) 23 additions and 16 deletions in 8 files</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash;  Update `ExpansionPanel` example for the updated `expansionCallback` callback<br />
-    <sub>[#132837](https://github.com/flutter/flutter/pull/132837) opened on on August 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132837) 79 additions and 4 deletions in 2 files</sub><br />
+    <sub>[#132837](https://github.com/flutter/flutter/pull/132837) opened on on August 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132837) 79 additions and 5 deletions in 3 files</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `cancelButtonStyle` & `confirmButtonStyle` to the `DatePickerThemeData`<br />
+    <sub>[#132847](https://github.com/flutter/flutter/pull/132847) opened on on August 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132847) 85 additions and 10 deletions in 4 files</sub><br />
 
