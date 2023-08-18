@@ -57,7 +57,7 @@
     <sub>[#132728](https://github.com/flutter/flutter/pull/132728) opened on on August 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132728) 35 additions and 0 deletions in 2 files</sub><br />
 
 * **[Tibor Szuntheimer](https://github.com/Producer86)** &mdash; doc: Update Overlay example.<br />
-    <sub>[#132747](https://github.com/flutter/flutter/pull/132747) opened on on August 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132747) 39 additions and 45 deletions in 1 file</sub><br />
+    <sub>[#132747](https://github.com/flutter/flutter/pull/132747) opened on on August 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132747) 39 additions and 45 deletions in 1 file</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update the Dart SDK lower bound in dev/tracing_tests<br />
     <sub>[#132752](https://github.com/flutter/flutter/pull/132752) opened on on August 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132752) 1 addition and 1 deletion in 1 file</sub><br />
@@ -70,9 +70,6 @@
 
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Dispose overlay entries<br />
     <sub>[#132826](https://github.com/flutter/flutter/pull/132826) opened on on August 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132826) 23 additions and 16 deletions in 8 files</sub><br />
-
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash;  Update `ExpansionPanel` example for the updated `expansionCallback` callback<br />
-    <sub>[#132837](https://github.com/flutter/flutter/pull/132837) opened on on August 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132837) 79 additions and 5 deletions in 3 files</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `cancelButtonStyle` & `confirmButtonStyle` to the `DatePickerThemeData`<br />
     <sub>[#132847](https://github.com/flutter/flutter/pull/132847) opened on on August 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132847) 85 additions and 12 deletions in 4 files</sub><br />
