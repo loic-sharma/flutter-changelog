@@ -29,9 +29,6 @@
 * **[Mikhail](https://github.com/mishapark)** &mdash; WIP Fix/bottom navigation bar splash radius<br />
     <sub>[#132396](https://github.com/flutter/flutter/pull/132396) opened on on August 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132396) 9 additions and 1 deletion in 1 file</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; introduce no-op parameter that SHOULD break google testing<br />
-    <sub>[#132403](https://github.com/flutter/flutter/pull/132403) opened on on August 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132403) 27 additions and 1 deletion in 4 files</sub><br />
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [integration_test] Allow capture of screenshots for `FlutterFragmentActivity`s<br />
     <sub>[#132406](https://github.com/flutter/flutter/pull/132406) opened on on August 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132406) 97 additions and 10 deletions in 7 files</sub><br />
 
