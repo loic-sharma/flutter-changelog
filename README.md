@@ -247,7 +247,7 @@
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [Reland] #131609<br />
     <sub>[#132555](https://github.com/flutter/flutter/pull/132555) merged on August 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132555) over 16 hours, 197 additions and 11 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Revert "[Windows] Allow overwriting the cache's Dart SDK archive license file"<br />
     <sub>[#132773](https://github.com/flutter/flutter/pull/132773) merged on August 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132773) over 1 minute, 3 additions and 119 deletions in 2 files</sub><br />
@@ -299,7 +299,7 @@
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Handle hasStrings on web<br />
     <sub>[#132093](https://github.com/flutter/flutter/pull/132093) merged on August 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132093) over 1 day, 83 additions and 7 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Yegor](https://github.com/yjbanov)</sub><br />
     <sub><details><summary>3 images...</summary><img width="200" src="https://github.com/flutter/flutter/assets/389558/990f99cb-bc38-40f1-9e88-8839bc342da5" /><img width="284" alt="Screenshot 2023-08-07 at 2 39 03 PM" src="https://github.com/flutter/flutter/assets/389558/f632be25-28b1-4e2e-98f7-3bb443f077df"><img width="200" src="https://github.com/flutter/flutter/assets/389558/5abdb160-1b13-4f1a-87e1-4653ca19d73e" /></details></sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Move mock canvas to flutter_test<br />
@@ -488,7 +488,7 @@
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Read `--dart-define` in `RendererBinding.initInstances()`<br />
     <sub>[#132408](https://github.com/flutter/flutter/pull/132408) merged on August 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/132408) over 4 hours, 6 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun), [Ian Hickson](https://github.com/Hixie)</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable Xcode Debug tests<br />
     <sub>[#132398](https://github.com/flutter/flutter/pull/132398) merged on August 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132398) over 42 minutes, 0 additions and 20 deletions in 1 file</sub><br />
@@ -536,7 +536,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reland "[web] Migrate framework to fully use package:web (#128901)"<br />
     <sub>[#132092](https://github.com/flutter/flutter/pull/132092) merged on August 9, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/132092) over 1 day, 50 additions and 464 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [joshualitt](https://github.com/joshualitt), [Srujan Gaddam](https://github.com/srujzs)</sub><br />
+    <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs), [joshualitt](https://github.com/joshualitt)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Fix `PopupMenuItem` & `CheckedPopupMenuItem` has redundant `ListTile` padding and update default horizontal padding for Material 3"<br />
     <sub>[#132457](https://github.com/flutter/flutter/pull/132457) merged on August 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132457) over 6 hours, 11 additions and 197 deletions in 3 files</sub><br />
@@ -761,7 +761,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland - "Update Unit Tests for M2/M3"<br />
     <sub>[#131504](https://github.com/flutter/flutter/pull/131504) merged on July 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131504) over 2 days, 231 additions and 16 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 </details>
 
@@ -769,12 +769,16 @@
 
 ### August 12, 2023 to August 18, 2023
 
-46 commits.
+47 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Basic view management for engine classes<br />
     <sub>[#42991](https://github.com/flutter/engine/pull/42991) merged on August 17, 2023 &mdash; **Large:** [121 comments](https://github.com/flutter/engine/pull/42991) over 1 month, 872 additions and 336 deletions in 34 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Dan Field](https://github.com/dnfield)</sub><br />
     <sub><details><summary>3 images...</summary><img width="879" alt="image" src="https://github.com/flutter/engine/assets/1596656/31244685-d9d3-4c9a-9a9e-6e8540a5711e"><img width="864" alt="image" src="https://github.com/flutter/engine/assets/1596656/e2dd4b8c-57e3-428d-8547-834fb270052b"><img width="860" alt="image" src="https://github.com/flutter/engine/assets/1596656/58dae687-8c17-434e-ae24-a48c2d8fa5fa"></details></sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Allow optional codepoints to be expressed to the font subset generator.<br />
+    <sub>[#44864](https://github.com/flutter/engine/pull/44864) merged on August 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44864) over 35 minutes, 31 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; hasStrings for web<br />
     <sub>[#43360](https://github.com/flutter/engine/pull/43360) merged on August 14, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43360) over 1 month, 76 additions and 0 deletions in 3 files</sub><br />
@@ -798,14 +802,14 @@
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
     <sub><details><summary>1 image...</summary><img width="479" alt="Screenshot 2023-08-16 at 1 19 39 PM" src="https://github.com/flutter/engine/assets/41930132/a5a1dda7-ba21-462e-a65c-1afeecf7559f"></details></sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Make porter duff blended atlas calls faster.<br />
+    <sub>[#44059](https://github.com/flutter/engine/pull/44059) merged on August 15, 2023 &mdash; **Large:** [16 comments](https://github.com/flutter/engine/pull/44059) over 2 weeks, 483 additions and 63 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add trace events for VkRenderPass and VkFrameBuffer creation.<br />
     <sub>[#44837](https://github.com/flutter/engine/pull/44837) merged on August 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44837) over 11 hours, 2 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Dan Field](https://github.com/dnfield)</sub><br />
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/engine/assets/8975114/b768b5d7-b8c1-4acd-b518-bfd83486d6b2)</details></sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Make porter duff blended atlas calls faster.<br />
-    <sub>[#44059](https://github.com/flutter/engine/pull/44059) merged on August 15, 2023 &mdash; **Large:** [16 comments](https://github.com/flutter/engine/pull/44059) over 2 weeks, 483 additions and 63 deletions in 9 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Enabling the host application to control the timing of attaching the |FlutterView| to the engine<br />
     <sub>[#43595](https://github.com/flutter/engine/pull/43595) merged on August 16, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43595) over 1 month, 75 additions and 2 deletions in 5 files</sub><br />
@@ -831,17 +835,25 @@
     <sub>[#44139](https://github.com/flutter/engine/pull/44139) merged on August 14, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/44139) over 2 weeks, 29 additions and 4 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Hassan](https://github.com/htoor3)</sub><br />
 
-* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [Windows] Delay enabling app lifecycle states until requested<br />
-    <sub>[#44238](https://github.com/flutter/engine/pull/44238) merged on August 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44238) over 2 weeks, 157 additions and 9 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
-
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Reenable HardwareBuffer backed Android Platform Views on SDK >= 29<br />
     <sub>[#44790](https://github.com/flutter/engine/pull/44790) merged on August 17, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/44790) over 19 hours, 34 additions and 33 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Navaron Bracke](https://github.com/navaronbracke), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [Windows] Delay enabling app lifecycle states until requested<br />
+    <sub>[#44238](https://github.com/flutter/engine/pull/44238) merged on August 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44238) over 2 weeks, 157 additions and 9 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Flush pending graphics commands when the unref queue is drained on the IO thread<br />
     <sub>[#44831](https://github.com/flutter/engine/pull/44831) merged on August 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44831) over 17 hours, 3 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Implement 2 suggested Clang Tidy fixes we don't look for yet.<br />
+    <sub>[#44816](https://github.com/flutter/engine/pull/44816) merged on August 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44816) over 1 hour, 16 additions and 16 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Adds new builders for partial clang-tidy checks.<br />
+    <sub>[#44811](https://github.com/flutter/engine/pull/44811) merged on August 17, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/44811) over 1 hour, 249 additions and 0 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Passthrough stderr results of clang_tidy when --enable-check-profile.<br />
     <sub>[#44789](https://github.com/flutter/engine/pull/44789) merged on August 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44789) over 41 minutes, 6 additions and 0 deletions in 1 file</sub><br />
@@ -863,25 +875,9 @@
     <sub>[#44595](https://github.com/flutter/engine/pull/44595) merged on August 15, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/44595) over 4 days, 22 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Adds runIf to linux_clang_tidy<br />
-    <sub>[#44759](https://github.com/flutter/engine/pull/44759) merged on August 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44759) over 1 hour, 16 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [godofredoc](https://github.com/godofredoc)</sub><br />
-
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Namespace imports with flutter<br />
     <sub>[#44709](https://github.com/flutter/engine/pull/44709) merged on August 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44709) over 4 hours, 5 additions and 6 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update android_embedding_bundle CIPD instructions<br />
-    <sub>[#44644](https://github.com/flutter/engine/pull/44644) merged on August 14, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/44644) over 3 days, 88 additions and 42 deletions in 9 files</sub><br />
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix FlutterInjectorTest assumptions about how the executor service assigns tasks to threads<br />
-    <sub>[#44775](https://github.com/flutter/engine/pull/44775) merged on August 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44775) over 1 day, 4 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Implement 2 suggested Clang Tidy fixes we don't look for yet.<br />
-    <sub>[#44816](https://github.com/flutter/engine/pull/44816) merged on August 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44816) over 1 hour, 16 additions and 16 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `web_ui/**` to explicitly pass `--local-engine-host` to the `flutter` tool.<br />
     <sub>[#44613](https://github.com/flutter/engine/pull/44613) merged on August 14, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/44613) over 3 days, 0 additions and 23 deletions in 1 file</sub><br />
@@ -891,17 +887,21 @@
     <sub>[#44834](https://github.com/flutter/engine/pull/44834) merged on August 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44834) over 13 hours, 2 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update android_embedding_bundle CIPD instructions<br />
+    <sub>[#44644](https://github.com/flutter/engine/pull/44644) merged on August 14, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/44644) over 3 days, 88 additions and 42 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Adds runIf to linux_clang_tidy<br />
+    <sub>[#44759](https://github.com/flutter/engine/pull/44759) merged on August 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44759) over 1 hour, 16 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [godofredoc](https://github.com/godofredoc)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Conditionally set command debug info.<br />
     <sub>[#44274](https://github.com/flutter/engine/pull/44274) merged on August 14, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/44274) over 1 week, 94 additions and 73 deletions in 37 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Adds new builders for partial clang-tidy checks.<br />
-    <sub>[#44811](https://github.com/flutter/engine/pull/44811) merged on August 17, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/44811) over 1 hour, 249 additions and 0 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub><br />
-
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Add SLSA L1 badge<br />
-    <sub>[#44731](https://github.com/flutter/engine/pull/44731) merged on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44731) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jesse Seales](https://github.com/sealesj)</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix FlutterInjectorTest assumptions about how the executor service assigns tasks to threads<br />
+    <sub>[#44775](https://github.com/flutter/engine/pull/44775) merged on August 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44775) over 1 day, 4 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Add share to selection controls<br />
     <sub>[#44554](https://github.com/flutter/engine/pull/44554) merged on August 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44554) over 1 week, 43 additions and 1 deletion in 2 files</sub><br />
@@ -911,13 +911,13 @@
     <sub>[#44787](https://github.com/flutter/engine/pull/44787) merged on August 17, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/44787) over 17 hours, 96 additions and 95 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
-* **[Brian Osman](https://github.com/brianosman)** &mdash; Stop using deprecated GrBackendRenderTarget constructor<br />
-    <sub>[#44694](https://github.com/flutter/engine/pull/44694) merged on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44694) over 8 hours, 2 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Switch some ERROR logs to WARNING logs<br />
     <sub>[#44784](https://github.com/flutter/engine/pull/44784) merged on August 16, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/44784) over 11 minutes, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Brian Osman](https://github.com/brianosman)** &mdash; Stop using deprecated GrBackendRenderTarget constructor<br />
+    <sub>[#44694](https://github.com/flutter/engine/pull/44694) merged on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44694) over 8 hours, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Fix search web test<br />
     <sub>[#44704](https://github.com/flutter/engine/pull/44704) merged on August 16, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/44704) over 1 day, 41 additions and 2 deletions in 1 file</sub><br />
@@ -935,21 +935,25 @@
     <sub>[#44739](https://github.com/flutter/engine/pull/44739) merged on August 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44739) over 4 hours, 0 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
+* **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add more tests for CompositionAwareMixin<br />
+    <sub>[#44717](https://github.com/flutter/engine/pull/44717) merged on August 16, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/44717) over 15 hours, 80 additions and 9 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Hassan](https://github.com/htoor3)</sub><br />
+
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Update embedder_semantics_update.h imports to include flutter namespace<br />
     <sub>[#44670](https://github.com/flutter/engine/pull/44670) merged on August 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44670) over 18 hours, 3 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
-* **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add more tests for CompositionAwareMixin<br />
-    <sub>[#44717](https://github.com/flutter/engine/pull/44717) merged on August 16, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/44717) over 15 hours, 80 additions and 9 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Hassan](https://github.com/htoor3)</sub><br />
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Fix clang_tidy lints<br />
+    <sub>[#44740](https://github.com/flutter/engine/pull/44740) merged on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44740) over 1 hour, 11 additions and 11 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Migrate more GL calls of GrBackend*<br />
     <sub>[#44682](https://github.com/flutter/engine/pull/44682) merged on August 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44682) over 2 hours, 6 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
-* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Fix clang_tidy lints<br />
-    <sub>[#44740](https://github.com/flutter/engine/pull/44740) merged on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44740) over 1 hour, 11 additions and 11 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Add SLSA L1 badge<br />
+    <sub>[#44731](https://github.com/flutter/engine/pull/44731) merged on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44731) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jesse Seales](https://github.com/sealesj)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Revert "Make run_tests.py assert that the ios test dylib is at least as new as libFlutter.dylib"<br />
     <sub>[#44690](https://github.com/flutter/engine/pull/44690) merged on August 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44690) over 44 minutes, 0 additions and 9 deletions in 1 file</sub><br />
@@ -1046,7 +1050,7 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [shell] Add references to VsyncWaiter docs<br />
     <sub>[#44607](https://github.com/flutter/engine/pull/44607) merged on August 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44607) over 37 minutes, 3 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Allow macOS plugins to register as app delegates<br />
     <sub>[#44587](https://github.com/flutter/engine/pull/44587) merged on August 11, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/44587) over 1 day, 169 additions and 27 deletions in 7 files</sub><br />
@@ -1519,7 +1523,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [platform] Import the `platform` package<br />
     <sub>[#4613](https://github.com/flutter/packages/pull/4613) merged on August 16, 2023 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/4613) over 2 weeks, 815 additions and 1 deletion in 15 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Wrap classes to implement resolution configuration for video capture<br />
     <sub>[#4620](https://github.com/flutter/packages/pull/4620) merged on August 15, 2023 &mdash; **Extra large:** [20 comments](https://github.com/flutter/packages/pull/4620) over 2 weeks, 2105 additions and 46 deletions in 22 files</sub><br />
