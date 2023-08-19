@@ -71,3 +71,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Warm-Up frames should not interfere with pumps in live tests<br />
     <sub>[#132875](https://github.com/flutter/flutter/pull/132875) opened on on August 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132875) 14 additions and 1 deletion in 1 file</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [CP] Space character should be optional when tree shaking fonts<br />
+    <sub>[#132882](https://github.com/flutter/flutter/pull/132882) opened on on August 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132882) 20 additions and 10 deletions in 2 files</sub><br />
+
