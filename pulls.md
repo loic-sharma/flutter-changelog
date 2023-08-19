@@ -75,5 +75,5 @@
     <sub>[#132882](https://github.com/flutter/flutter/pull/132882) opened on on August 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132882) 20 additions and 10 deletions in 2 files</sub><br />
 
 * **[merterkoc](https://github.com/merterkoc)** &mdash; Rename _handleNavigationInvocation to handleNavigationInvocation<br />
-    <sub>[#132896](https://github.com/flutter/flutter/pull/132896) opened on on August 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132896) 5 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#132896](https://github.com/flutter/flutter/pull/132896) opened on on August 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132896) 7 additions and 2 deletions in 1 file</sub><br />
 
