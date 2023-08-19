@@ -80,3 +80,6 @@
 * **[kamilkarp](https://github.com/kamilkarp)** &mdash; Add ability to customize arrow icon in SubmenuButton<br />
     <sub>[#132899](https://github.com/flutter/flutter/pull/132899) opened on on August 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132899) 136 additions and 1 deletion in 2 files</sub><br />
 
+* **[vivek kumar dixit](https://github.com/vivekdixit3911)** &mdash; assets/AssetManifest.bin is been added kindly look to it if correctly…<br />
+    <sub>[#132901](https://github.com/flutter/flutter/pull/132901) opened on on August 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132901) 4 additions and 4 deletions in 1 file</sub><br />
+
