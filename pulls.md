@@ -74,3 +74,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [CP] Space character should be optional when tree shaking fonts<br />
     <sub>[#132882](https://github.com/flutter/flutter/pull/132882) opened on on August 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132882) 20 additions and 10 deletions in 2 files</sub><br />
 
+* **[merterkoc](https://github.com/merterkoc)** &mdash; Rename _handleNavigationInvocation to handleNavigationInvocation<br />
+    <sub>[#132894](https://github.com/flutter/flutter/pull/132894) opened on on August 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132894) 2 additions and 2 deletions in 1 file</sub><br />
+
