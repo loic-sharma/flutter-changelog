@@ -86,3 +86,6 @@
 * **[Hasan M. Hallak](https://github.com/hasanmhallak)** &mdash; add forceErrorText to FormField & TextFormField.<br />
     <sub>[#132903](https://github.com/flutter/flutter/pull/132903) opened on on August 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132903) 198 additions and 5 deletions in 3 files</sub><br />
 
+* **[Angelo Silvestre](https://github.com/angelosilvestre)** &mdash; Add deleteBackwardByDecomposingPreviousCharacter mapping for tests<br />
+    <sub>[#132919](https://github.com/flutter/flutter/pull/132919) opened on on August 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132919) 24 additions and 0 deletions in 2 files</sub><br />
+
