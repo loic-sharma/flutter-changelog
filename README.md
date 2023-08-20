@@ -783,14 +783,14 @@
 
 49 commits.
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Allow optional codepoints to be expressed to the font subset generator.<br />
+    <sub>[#44864](https://github.com/flutter/engine/pull/44864) merged on August 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44864) over 35 minutes, 31 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Basic view management for engine classes<br />
     <sub>[#42991](https://github.com/flutter/engine/pull/42991) merged on August 17, 2023 &mdash; **Large:** [121 comments](https://github.com/flutter/engine/pull/42991) over 1 month, 872 additions and 336 deletions in 34 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Dan Field](https://github.com/dnfield)</sub><br />
     <sub><details><summary>3 images...</summary><img width="879" alt="image" src="https://github.com/flutter/engine/assets/1596656/31244685-d9d3-4c9a-9a9e-6e8540a5711e"><img width="864" alt="image" src="https://github.com/flutter/engine/assets/1596656/e2dd4b8c-57e3-428d-8547-834fb270052b"><img width="860" alt="image" src="https://github.com/flutter/engine/assets/1596656/58dae687-8c17-434e-ae24-a48c2d8fa5fa"></details></sub>
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Allow optional codepoints to be expressed to the font subset generator.<br />
-    <sub>[#44864](https://github.com/flutter/engine/pull/44864) merged on August 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44864) over 35 minutes, 31 additions and 5 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; hasStrings for web<br />
     <sub>[#43360](https://github.com/flutter/engine/pull/43360) merged on August 14, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/43360) over 1 month, 76 additions and 0 deletions in 3 files</sub><br />
