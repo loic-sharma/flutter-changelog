@@ -92,3 +92,6 @@
 * **[Burak İmdat](https://github.com/burakJs)** &mdash; Add viewSearchOnChanged to SearchAnchor<br />
     <sub>[#132924](https://github.com/flutter/flutter/pull/132924) opened on on August 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132924) 16 additions and 2 deletions in 1 file</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Chip.shape`'s side doesn't override `Chip.side` in Material 3<br />
+    <sub>[#132941](https://github.com/flutter/flutter/pull/132941) opened on on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132941) 119 additions and 1 deletion in 3 files</sub><br />
+
