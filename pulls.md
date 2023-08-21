@@ -95,6 +95,3 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix visual overflow for SliverMainAxisGroup<br />
     <sub>[#132989](https://github.com/flutter/flutter/pull/132989) opened on on August 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132989) 5 additions and 0 deletions in 2 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Reference AppLifecycleListener from widgets library<br />
-    <sub>[#132995](https://github.com/flutter/flutter/pull/132995) opened on on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132995) 11 additions and 0 deletions in 2 files</sub><br />
-
