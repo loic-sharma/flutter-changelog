@@ -26,9 +26,6 @@
 * **[Mikhail](https://github.com/mishapark)** &mdash; WIP Fix/bottom navigation bar splash radius<br />
     <sub>[#132396](https://github.com/flutter/flutter/pull/132396) opened on on August 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132396) 9 additions and 1 deletion in 1 file</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; [integration_test] Allow capture of screenshots for `FlutterFragmentActivity`s<br />
-    <sub>[#132406](https://github.com/flutter/flutter/pull/132406) opened on on August 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132406) 97 additions and 10 deletions in 7 files</sub><br />
-
 * **[ganluo960214](https://github.com/ganluo960214)** &mdash; Update dropdown_menu to fix on android switch system language TextEdi…<br />
     <sub>[#132444](https://github.com/flutter/flutter/pull/132444) opened on on August 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132444) 19 additions and 15 deletions in 1 file</sub><br />
 
