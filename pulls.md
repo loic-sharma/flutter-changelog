@@ -101,3 +101,6 @@
 * **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Add support for `Future<List<int>?>` to `MatchesGoldenFile`<br />
     <sub>[#132965](https://github.com/flutter/flutter/pull/132965) opened on on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132965) 11 additions and 2 deletions in 2 files</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump memory usage for flutter gallery<br />
+    <sub>[#132968](https://github.com/flutter/flutter/pull/132968) opened on on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132968) 1 addition and 1 deletion in 1 file</sub><br />
+
