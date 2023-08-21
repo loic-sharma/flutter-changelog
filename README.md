@@ -247,7 +247,7 @@
 
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; fixed documentation error input decorator<br />
     <sub>[#132124](https://github.com/flutter/flutter/pull/132124) merged on August 16, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/132124) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Reorganize and clarify API doc generator"<br />
     <sub>[#132613](https://github.com/flutter/flutter/pull/132613) merged on August 16, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/132613) over 2 minutes, 938 additions and 1384 deletions in 8 files</sub><br />
@@ -621,8 +621,8 @@
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implementing TextScaler for nonlinear text scaling<br />
-    <sub>[#42062](https://github.com/flutter/engine/pull/42062) merged on August 18, 2023 &mdash; **Large:** [123 comments](https://github.com/flutter/engine/pull/42062) over 3 months, 561 additions and 8 deletions in 29 files</sub><br />
-    <sub>Reviewed by: [Tyler Freeman](https://github.com/odbol), [Michael Goderbauer](https://github.com/goderbauer), [Reid Baker](https://github.com/reidbaker)</sub><br />
+    <sub>[#42062](https://github.com/flutter/engine/pull/42062) merged on August 18, 2023 &mdash; **Large:** [124 comments](https://github.com/flutter/engine/pull/42062) over 3 months, 561 additions and 8 deletions in 29 files</sub><br />
+    <sub>Reviewed by: [Tyler Freeman](https://github.com/odbol), [Reid Baker](https://github.com/reidbaker), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add Doxygen doc generation for iOS, macOS, Linux, Windows, and Impeller<br />
     <sub>[#43915](https://github.com/flutter/engine/pull/43915) merged on August 17, 2023 &mdash; **Extra large:** [11 comments](https://github.com/flutter/engine/pull/43915) over 3 weeks, 2853 additions and 1 deletion in 3 files</sub><br />
@@ -1047,7 +1047,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [platform] Import the `platform` package<br />
     <sub>[#4613](https://github.com/flutter/packages/pull/4613) merged on August 16, 2023 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/4613) over 2 weeks, 815 additions and 1 deletion in 15 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Wrap classes to implement resolution configuration for video capture<br />
     <sub>[#4620](https://github.com/flutter/packages/pull/4620) merged on August 15, 2023 &mdash; **Extra large:** [20 comments](https://github.com/flutter/packages/pull/4620) over 2 weeks, 2105 additions and 46 deletions in 22 files</sub><br />
