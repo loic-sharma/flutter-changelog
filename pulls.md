@@ -95,3 +95,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP - 3.13] Fix Xcode 15 build failure due to DT_TOOLCHAIN_DIR<br />
     <sub>[#132958](https://github.com/flutter/flutter/pull/132958) opened on on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132958) 222 additions and 3 deletions in 4 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [CP] Space character should be optional when tree shaking fonts on 3.14<br />
+    <sub>[#132977](https://github.com/flutter/flutter/pull/132977) opened on on August 21, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/132977) 8596 additions and 3472 deletions in 82 files</sub><br />
+
