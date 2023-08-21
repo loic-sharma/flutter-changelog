@@ -65,9 +65,6 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Test builds on all macs.<br />
     <sub>[#132863](https://github.com/flutter/flutter/pull/132863) opened on on August 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132863) 2 additions and 1 deletion in 2 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Warm-Up frames should not interfere with pumps in live tests<br />
-    <sub>[#132875](https://github.com/flutter/flutter/pull/132875) opened on on August 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132875) 14 additions and 1 deletion in 1 file</sub><br />
-
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [CP] Space character should be optional when tree shaking fonts<br />
     <sub>[#132882](https://github.com/flutter/flutter/pull/132882) opened on on August 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132882) 20 additions and 10 deletions in 2 files</sub><br />
 
@@ -87,7 +84,7 @@
     <sub>[#132919](https://github.com/flutter/flutter/pull/132919) opened on on August 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132919) 24 additions and 0 deletions in 2 files</sub><br />
 
 * **[Burak İmdat](https://github.com/burakJs)** &mdash; Add viewSearchOnChanged to SearchAnchor<br />
-    <sub>[#132924](https://github.com/flutter/flutter/pull/132924) opened on on August 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132924) 16 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#132924](https://github.com/flutter/flutter/pull/132924) opened on on August 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132924) 16 additions and 2 deletions in 1 file</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Chip.shape`'s side doesn't override `Chip.side` in Material 3<br />
     <sub>[#132941](https://github.com/flutter/flutter/pull/132941) opened on on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132941) 119 additions and 1 deletion in 3 files</sub><br />
