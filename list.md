@@ -4,11 +4,15 @@
 
 ### August 19, 2023 to August 25, 2023
 
-1 commits.
+2 commits.
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; When resized network image has error, all future unrelated images using the same url will fail, even if the network becomes OK
     <sub>[#127456](https://github.com/flutter/flutter/pull/127456) merged on August 21, 2023 &mdash; **Small:** [45 comments](https://github.com/flutter/flutter/pull/127456) over 2 months, 132 additions and 8 deletions in 4 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump memory usage for flutter gallery
+    <sub>[#132968](https://github.com/flutter/flutter/pull/132968) merged on August 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132968) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Gray Mackall](https://github.com/gmackall)</sub>
 
 ### August 12, 2023 to August 18, 2023
 
@@ -644,7 +648,7 @@
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implementing TextScaler for nonlinear text scaling
-    <sub>[#42062](https://github.com/flutter/engine/pull/42062) merged on August 18, 2023 &mdash; **Large:** [127 comments](https://github.com/flutter/engine/pull/42062) over 3 months, 561 additions and 8 deletions in 29 files</sub>
+    <sub>[#42062](https://github.com/flutter/engine/pull/42062) merged on August 18, 2023 &mdash; **Large:** [128 comments](https://github.com/flutter/engine/pull/42062) over 3 months, 561 additions and 8 deletions in 29 files</sub>
     <sub>Reviewed by: [Tyler Freeman](https://github.com/odbol), [Reid Baker](https://github.com/reidbaker), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add Doxygen doc generation for iOS, macOS, Linux, Windows, and Impeller
@@ -850,7 +854,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
     <sub><details><summary>4 images...</summary><img src="https://github.com/flutter/engine/assets/168174/e7b9e5c0-86b0-407f-aa51-2f76afda4f03)" /><img src="https://github.com/flutter/engine/assets/168174/6b611090-97f5-4589-9ef9-6ba778efc6b7" />![7v5zfd](https://github.com/flutter/engine/assets/168174/b87a0726-cddd-415e-a46c-2c65d6f5c9d5)![flutter_04](https://github.com/flutter/engine/assets/168174/969f5c5e-7f6a-4156-8de8-1351b32f2a2f)</details></sub>
 
-* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Support for Android Platform Views under Impeller/Vulkan
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; [Impeller] Support for Android Platform Views under Impeller/Vulkan
     <sub>[#44571](https://github.com/flutter/engine/pull/44571) merged on August 10, 2023 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/44571) over 15 hours, 624 additions and 152 deletions in 18 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 

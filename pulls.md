@@ -72,7 +72,7 @@
     <sub>[#132896](https://github.com/flutter/flutter/pull/132896) opened on on August 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132896) 6 additions and 2 deletions in 1 file</sub><br />
 
 * **[kamilkarp](https://github.com/kamilkarp)** &mdash; Add ability to customize arrow icon in SubmenuButton<br />
-    <sub>[#132899](https://github.com/flutter/flutter/pull/132899) opened on on August 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132899) 143 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#132899](https://github.com/flutter/flutter/pull/132899) opened on on August 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132899) 143 additions and 1 deletion in 2 files</sub><br />
 
 * **[vivek kumar dixit](https://github.com/vivekdixit3911)** &mdash; assets/AssetManifest.bin is been added kindly look to it if correctly…<br />
     <sub>[#132901](https://github.com/flutter/flutter/pull/132901) opened on on August 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132901) 4 additions and 4 deletions in 1 file</sub><br />
@@ -94,7 +94,4 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP - 3.13] Fix Xcode 15 build failure due to DT_TOOLCHAIN_DIR<br />
     <sub>[#132958](https://github.com/flutter/flutter/pull/132958) opened on on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132958) 222 additions and 3 deletions in 4 files</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Change gradle lockfile generation script to use --config-only flag<br />
-    <sub>[#132967](https://github.com/flutter/flutter/pull/132967) opened on on August 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132967) 2 additions and 4 deletions in 1 file</sub><br />
 
