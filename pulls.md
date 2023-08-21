@@ -72,7 +72,7 @@
     <sub>[#132875](https://github.com/flutter/flutter/pull/132875) opened on on August 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132875) 14 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [CP] Space character should be optional when tree shaking fonts<br />
-    <sub>[#132882](https://github.com/flutter/flutter/pull/132882) opened on on August 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132882) 20 additions and 10 deletions in 2 files</sub><br />
+    <sub>[#132882](https://github.com/flutter/flutter/pull/132882) opened on on August 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132882) 20 additions and 10 deletions in 2 files</sub><br />
 
 * **[merterkoc](https://github.com/merterkoc)** &mdash; Rename _handleNavigationInvocation to handleNavigationInvocation<br />
     <sub>[#132896](https://github.com/flutter/flutter/pull/132896) opened on on August 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132896) 6 additions and 2 deletions in 1 file</sub><br />
@@ -94,4 +94,7 @@
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Chip.shape`'s side doesn't override `Chip.side` in Material 3<br />
     <sub>[#132941](https://github.com/flutter/flutter/pull/132941) opened on on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132941) 119 additions and 1 deletion in 3 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP - 3.14] Fix Xcode 15 build failure due to DT_TOOLCHAIN_DIR<br />
+    <sub>[#132956](https://github.com/flutter/flutter/pull/132956) opened on on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132956) 222 additions and 3 deletions in 4 files</sub><br />
 
