@@ -598,11 +598,15 @@
 
 ### August 19, 2023 to August 25, 2023
 
-2 commits.
+3 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Split DisplayListBuilder into DlCanvas optimizer and DlOp recorder classes<br />
     <sub>[#44718](https://github.com/flutter/engine/pull/44718) merged on August 21, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/44718) over 5 days, 3726 additions and 3556 deletions in 61 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Change Doxyfile options to not create subdirs<br />
+    <sub>[#44855](https://github.com/flutter/engine/pull/44855) merged on August 21, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/44855) over 2 days, 706 additions and 2269 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Remove sync switch<br />
     <sub>[#44885](https://github.com/flutter/engine/pull/44885) merged on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44885) over 17 hours, 14 additions and 25 deletions in 1 file</sub><br />

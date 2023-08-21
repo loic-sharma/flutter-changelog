@@ -96,5 +96,5 @@
     <sub>[#132958](https://github.com/flutter/flutter/pull/132958) opened on on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132958) 222 additions and 3 deletions in 4 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change gradle lockfile generation script to use --config-only flag<br />
-    <sub>[#132967](https://github.com/flutter/flutter/pull/132967) opened on on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132967) 2 additions and 4 deletions in 1 file</sub><br />
+    <sub>[#132967](https://github.com/flutter/flutter/pull/132967) opened on on August 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132967) 2 additions and 4 deletions in 1 file</sub><br />
 
