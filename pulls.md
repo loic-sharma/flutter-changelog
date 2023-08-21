@@ -78,7 +78,7 @@
     <sub>[#132901](https://github.com/flutter/flutter/pull/132901) opened on on August 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132901) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Hasan M. Hallak](https://github.com/hasanmhallak)** &mdash; add forceErrorText to FormField & TextFormField.<br />
-    <sub>[#132903](https://github.com/flutter/flutter/pull/132903) opened on on August 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132903) 198 additions and 5 deletions in 3 files</sub><br />
+    <sub>[#132903](https://github.com/flutter/flutter/pull/132903) opened on on August 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132903) 198 additions and 5 deletions in 3 files</sub><br />
 
 * **[Angelo Silvestre](https://github.com/angelosilvestre)** &mdash; Add deleteBackwardByDecomposingPreviousCharacter mapping for tests<br />
     <sub>[#132919](https://github.com/flutter/flutter/pull/132919) opened on on August 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132919) 24 additions and 0 deletions in 2 files</sub><br />
@@ -94,7 +94,4 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP - 3.13] Fix Xcode 15 build failure due to DT_TOOLCHAIN_DIR<br />
     <sub>[#132958](https://github.com/flutter/flutter/pull/132958) opened on on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132958) 222 additions and 3 deletions in 4 files</sub><br />
-
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [CP] Space character should be optional when tree shaking fonts on 3.14<br />
-    <sub>[#132977](https://github.com/flutter/flutter/pull/132977) opened on on August 21, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/132977) 8596 additions and 3472 deletions in 82 files</sub><br />
 
