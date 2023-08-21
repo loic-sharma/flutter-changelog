@@ -98,3 +98,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP - 3.13] Fix Xcode 15 build failure due to DT_TOOLCHAIN_DIR<br />
     <sub>[#132958](https://github.com/flutter/flutter/pull/132958) opened on on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132958) 222 additions and 3 deletions in 4 files</sub><br />
 
+* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Add support for `Future<List<int>?>` to `MatchesGoldenFile`<br />
+    <sub>[#132965](https://github.com/flutter/flutter/pull/132965) opened on on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132965) 11 additions and 2 deletions in 2 files</sub><br />
+
