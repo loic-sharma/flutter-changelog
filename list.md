@@ -4,11 +4,15 @@
 
 ### August 19, 2023 to August 25, 2023
 
-2 commits.
+3 commits.
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; When resized network image has error, all future unrelated images using the same url will fail, even if the network becomes OK
     <sub>[#127456](https://github.com/flutter/flutter/pull/127456) merged on August 21, 2023 &mdash; **Small:** [45 comments](https://github.com/flutter/flutter/pull/127456) over 2 months, 132 additions and 8 deletions in 4 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Docs on iOS's directional quote characters
+    <sub>[#132869](https://github.com/flutter/flutter/pull/132869) merged on August 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132869) over 2 days, 8 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump memory usage for flutter gallery
     <sub>[#132968](https://github.com/flutter/flutter/pull/132968) merged on August 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132968) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
@@ -1070,7 +1074,7 @@
 
 * **[Raul Vilar](https://github.com/raulsvilar)** &mdash; [camera_android]: Fixes crash when record video on Android versions lower than 12
     <sub>[#4635](https://github.com/flutter/packages/pull/4635) merged on August 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4635) over 2 weeks, 5 additions and 5 deletions in 3 files</sub>
-    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Camille Simon](https://github.com/camsim99)</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 ### August 12, 2023 to August 18, 2023
 
