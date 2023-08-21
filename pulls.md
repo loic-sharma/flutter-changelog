@@ -93,5 +93,5 @@
     <sub>[#132958](https://github.com/flutter/flutter/pull/132958) opened on on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132958) 222 additions and 3 deletions in 4 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix visual overflow for SliverMainAxisGroup<br />
-    <sub>[#132989](https://github.com/flutter/flutter/pull/132989) opened on on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132989) 5 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#132989](https://github.com/flutter/flutter/pull/132989) opened on on August 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132989) 5 additions and 0 deletions in 2 files</sub><br />
 
