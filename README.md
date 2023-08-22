@@ -56,7 +56,7 @@
 
 * **[Angelo Silvestre](https://github.com/angelosilvestre)** &mdash; Add deleteBackwardByDecomposingPreviousCharacter mapping for tests<br />
     <sub>[#132919](https://github.com/flutter/flutter/pull/132919) merged on August 21, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/132919) over 23 hours, 24 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 ### August 12, 2023 to August 18, 2023
 
@@ -284,7 +284,7 @@
 
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; fixed documentation error input decorator<br />
     <sub>[#132124](https://github.com/flutter/flutter/pull/132124) merged on August 16, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/132124) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SelectionArea on iOS should toggle the context menu when tapping on the previous selection<br />
     <sub>[#132851](https://github.com/flutter/flutter/pull/132851) merged on August 18, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/132851) over 7 hours, 86 additions and 1 deletion in 2 files</sub><br />
@@ -370,7 +370,7 @@
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Handle hasStrings on web<br />
     <sub>[#132093](https://github.com/flutter/flutter/pull/132093) merged on August 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132093) over 1 day, 83 additions and 7 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Yegor](https://github.com/yjbanov)</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
     <sub><details><summary>3 images...</summary><img width="200" src="https://github.com/flutter/flutter/assets/389558/990f99cb-bc38-40f1-9e88-8839bc342da5" /><img width="284" alt="Screenshot 2023-08-07 at 2 39 03 PM" src="https://github.com/flutter/flutter/assets/389558/f632be25-28b1-4e2e-98f7-3bb443f077df"><img width="200" src="https://github.com/flutter/flutter/assets/389558/5abdb160-1b13-4f1a-87e1-4653ca19d73e" /></details></sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Move mock canvas to flutter_test<br />
@@ -519,7 +519,7 @@
 
 * **[Mingyu](https://github.com/liumcse)** &mdash; Slider should check `mounted` before start interaction<br />
     <sub>[#132010](https://github.com/flutter/flutter/pull/132010) merged on August 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132010) over 1 day, 27 additions and 19 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Kate Lovett](https://github.com/Piinks)</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add drawVertices and drawAtlas benchmarks.<br />
     <sub>[#132080](https://github.com/flutter/flutter/pull/132080) merged on August 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132080) over 5 hours, 283 additions and 1 deletion in 6 files</sub><br />
@@ -646,7 +646,7 @@
 
 ### August 19, 2023 to August 25, 2023
 
-18 commits.
+19 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; i82973 scroll mouse wheel support<br />
     <sub>[#44724](https://github.com/flutter/engine/pull/44724) merged on August 22, 2023 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/44724) over 1 week, 554 additions and 25 deletions in 4 files</sub><br />
@@ -716,6 +716,10 @@
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; [Impeller] Initial Android Impeller docs on backend selection and platform views.<br />
     <sub>[#44815](https://github.com/flutter/engine/pull/44815) merged on August 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44815) over 4 days, 34 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Revert "Split DisplayListBuilder into DlCanvas optimizer and DlOp recorder classes"<br />
+    <sub>[#44968](https://github.com/flutter/engine/pull/44968) merged on August 22, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/44968) over 33 minutes, 3556 additions and 3726 deletions in 61 files</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland "Implementing TextScaler for nonlinear text scaling (#42062)"<br />
     <sub>[#44907](https://github.com/flutter/engine/pull/44907) merged on August 21, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/44907) over 5 hours, 564 additions and 8 deletions in 29 files</sub><br />
@@ -1167,11 +1171,15 @@
 
 ### August 19, 2023 to August 25, 2023
 
-2 commits.
+3 commits.
 
 * **[Raul Vilar](https://github.com/raulsvilar)** &mdash; [camera_android]: Fixes crash when record video on Android versions lower than 12<br />
     <sub>[#4635](https://github.com/flutter/packages/pull/4635) merged on August 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4635) over 2 weeks, 5 additions and 5 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove deprecated `ImageProvider` methods<br />
+    <sub>[#4725](https://github.com/flutter/packages/pull/4725) merged on August 22, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/4725) over 5 days, 25 additions and 21 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump io.mockk:mockk from 1.13.5 to 1.13.7 in /packages/pigeon/platform_tests/test_plugin/android<br />
     <sub>[#4736](https://github.com/flutter/packages/pull/4736) merged on August 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4736) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
