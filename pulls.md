@@ -86,9 +86,3 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Chip.shape`'s side doesn't override `Chip.side` in Material 3<br />
     <sub>[#132941](https://github.com/flutter/flutter/pull/132941) opened on on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132941) 119 additions and 1 deletion in 3 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP - 3.14] Fix Xcode 15 build failure due to DT_TOOLCHAIN_DIR<br />
-    <sub>[#132956](https://github.com/flutter/flutter/pull/132956) opened on on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132956) 222 additions and 3 deletions in 4 files</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP - 3.13] Fix Xcode 15 build failure due to DT_TOOLCHAIN_DIR<br />
-    <sub>[#132958](https://github.com/flutter/flutter/pull/132958) opened on on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132958) 222 additions and 3 deletions in 4 files</sub><br />
-
