@@ -59,6 +59,9 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Test builds on all macs.<br />
     <sub>[#132863](https://github.com/flutter/flutter/pull/132863) opened on on August 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132863) 2 additions and 1 deletion in 2 files</sub><br />
 
+* **[gmilou](https://github.com/gmilou)** &mdash; Add an example showing how to use a MatrixTransition.<br />
+    <sub>[#132874](https://github.com/flutter/flutter/pull/132874) opened on on August 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/132874) 90 additions and 1 deletion in 3 files</sub><br />
+
 * **[merterkoc](https://github.com/merterkoc)** &mdash; Rename _handleNavigationInvocation to handleNavigationInvocation<br />
     <sub>[#132896](https://github.com/flutter/flutter/pull/132896) opened on on August 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132896) 6 additions and 2 deletions in 1 file</sub><br />
 
