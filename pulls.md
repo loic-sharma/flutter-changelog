@@ -80,3 +80,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [CP] Fix visual overflow for SliverMainAxisGroup (#132989)<br />
     <sub>[#133057](https://github.com/flutter/flutter/pull/133057) opened on on August 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133057) 5 additions and 0 deletions in 2 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add `--experimental-wasm-type-reflection` and support newer emscripten builds.<br />
+    <sub>[#133084](https://github.com/flutter/flutter/pull/133084) opened on on August 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133084) 6 additions and 3 deletions in 2 files</sub><br />
+
