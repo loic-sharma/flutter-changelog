@@ -72,7 +72,7 @@
     <sub>[#132896](https://github.com/flutter/flutter/pull/132896) opened on on August 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132896) 6 additions and 2 deletions in 1 file</sub><br />
 
 * **[kamilkarp](https://github.com/kamilkarp)** &mdash; Add ability to customize arrow icon in SubmenuButton<br />
-    <sub>[#132899](https://github.com/flutter/flutter/pull/132899) opened on on August 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132899) 143 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#132899](https://github.com/flutter/flutter/pull/132899) opened on on August 19, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/132899) 143 additions and 1 deletion in 2 files</sub><br />
 
 * **[vivek kumar dixit](https://github.com/vivekdixit3911)** &mdash; assets/AssetManifest.bin is been added kindly look to it if correctly…<br />
     <sub>[#132901](https://github.com/flutter/flutter/pull/132901) opened on on August 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132901) 4 additions and 4 deletions in 1 file</sub><br />
@@ -81,7 +81,7 @@
     <sub>[#132903](https://github.com/flutter/flutter/pull/132903) opened on on August 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132903) 198 additions and 5 deletions in 3 files</sub><br />
 
 * **[Burak İmdat](https://github.com/burakJs)** &mdash; Add viewSearchOnChanged to SearchAnchor<br />
-    <sub>[#132924](https://github.com/flutter/flutter/pull/132924) opened on on August 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132924) 16 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#132924](https://github.com/flutter/flutter/pull/132924) opened on on August 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/132924) 16 additions and 2 deletions in 1 file</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Chip.shape`'s side doesn't override `Chip.side` in Material 3<br />
     <sub>[#132941](https://github.com/flutter/flutter/pull/132941) opened on on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132941) 119 additions and 1 deletion in 3 files</sub><br />
