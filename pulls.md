@@ -80,6 +80,3 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [CP] Fix visual overflow for SliverMainAxisGroup (#132989)<br />
     <sub>[#133057](https://github.com/flutter/flutter/pull/133057) opened on on August 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133057) 5 additions and 0 deletions in 2 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Enable ChangeNotifier clients to dispatch event of object creation in constructor.<br />
-    <sub>[#133060](https://github.com/flutter/flutter/pull/133060) opened on on August 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133060) 28 additions and 16 deletions in 2 files</sub><br />
-
