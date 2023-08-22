@@ -95,3 +95,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix visual overflow for SliverMainAxisGroup<br />
     <sub>[#132989](https://github.com/flutter/flutter/pull/132989) opened on on August 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132989) 5 additions and 0 deletions in 2 files</sub><br />
 
+* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; Tooltip: Have `preferBelow` default to false instead of true<br />
+    <sub>[#133007](https://github.com/flutter/flutter/pull/133007) opened on on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133007) 57 additions and 2 deletions in 2 files</sub><br />
+
