@@ -618,7 +618,7 @@
 
 ### August 19, 2023 to August 25, 2023
 
-11 commits.
+12 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Added recycled command buffers.<br />
     <sub>[#44904](https://github.com/flutter/engine/pull/44904) merged on August 21, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/44904) over 5 hours, 28 additions and 9 deletions in 2 files</sub><br />
@@ -636,6 +636,10 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Change Doxyfile options to not create subdirs<br />
     <sub>[#44855](https://github.com/flutter/engine/pull/44855) merged on August 21, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/44855) over 2 days, 706 additions and 2269 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Document rendering backend selection on Android.<br />
+    <sub>[#44933](https://github.com/flutter/engine/pull/44933) merged on August 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44933) over 1 hour, 62 additions and 6 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Don't run clang_tidy --lint-all in presubmit<br />
     <sub>[#44833](https://github.com/flutter/engine/pull/44833) merged on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44833) over 3 days, 2 additions and 3 deletions in 2 files</sub><br />
