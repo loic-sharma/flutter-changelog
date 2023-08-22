@@ -626,12 +626,16 @@
 
 ### August 19, 2023 to August 25, 2023
 
-12 commits.
+13 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Added recycled command buffers.<br />
     <sub>[#44904](https://github.com/flutter/engine/pull/44904) merged on August 21, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/44904) over 5 hours, 28 additions and 9 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>1 image...</summary>![unnamed](https://github.com/flutter/engine/assets/30870216/2136dda0-6747-43a7-9a94-a0223c55b704)</details></sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Disallow using ./tools/gn --enable-unittests --android (or --ios)<br />
+    <sub>[#44930](https://github.com/flutter/engine/pull/44930) merged on August 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44930) over 4 hours, 19 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Disable Impeller on Fuchsia<br />
     <sub>[#44925](https://github.com/flutter/engine/pull/44925) merged on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44925) over 1 hour, 5 additions and 3 deletions in 1 file</sub><br />
