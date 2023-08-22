@@ -56,17 +56,11 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update the Dart SDK lower bound in dev/tracing_tests<br />
     <sub>[#132752](https://github.com/flutter/flutter/pull/132752) opened on on August 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132752) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; [CP] Fix lower bound of children from TwoDimensionalChildBuilderDelegate<br />
-    <sub>[#132764](https://github.com/flutter/flutter/pull/132764) opened on on August 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132764) 17 additions and 13 deletions in 2 files</sub><br />
-
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Dispose overlay entries<br />
     <sub>[#132826](https://github.com/flutter/flutter/pull/132826) opened on on August 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132826) 23 additions and 16 deletions in 8 files</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Test builds on all macs.<br />
     <sub>[#132863](https://github.com/flutter/flutter/pull/132863) opened on on August 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132863) 2 additions and 1 deletion in 2 files</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [CP] Space character should be optional when tree shaking fonts<br />
-    <sub>[#132882](https://github.com/flutter/flutter/pull/132882) opened on on August 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132882) 20 additions and 10 deletions in 2 files</sub><br />
 
 * **[merterkoc](https://github.com/merterkoc)** &mdash; Rename _handleNavigationInvocation to handleNavigationInvocation<br />
     <sub>[#132896](https://github.com/flutter/flutter/pull/132896) opened on on August 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132896) 6 additions and 2 deletions in 1 file</sub><br />
