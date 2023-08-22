@@ -41,9 +41,6 @@
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [do not merge] google testing test pr<br />
     <sub>[#132693](https://github.com/flutter/flutter/pull/132693) opened on on August 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132693) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Edgar Jan](https://github.com/EdgarJan)** &mdash; Fix and Test Conditional Validator Behavior in FormField<br />
-    <sub>[#132714](https://github.com/flutter/flutter/pull/132714) opened on on August 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132714) 59 additions and 0 deletions in 2 files</sub><br />
-
 * **[Salmanul Farisi.M.](https://github.com/salmanulfarisi)** &mdash; added option to change color of heading row(flutter#132428)<br />
     <sub>[#132728](https://github.com/flutter/flutter/pull/132728) opened on on August 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132728) 35 additions and 0 deletions in 2 files</sub><br />
 
