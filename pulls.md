@@ -72,11 +72,14 @@
     <sub>[#132903](https://github.com/flutter/flutter/pull/132903) opened on on August 19, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/132903) 198 additions and 5 deletions in 3 files</sub><br />
 
 * **[Burak İmdat](https://github.com/burakJs)** &mdash; Add viewSearchOnChanged to SearchAnchor<br />
-    <sub>[#132924](https://github.com/flutter/flutter/pull/132924) opened on on August 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/132924) 16 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#132924](https://github.com/flutter/flutter/pull/132924) opened on on August 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/132924) 16 additions and 2 deletions in 1 file</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Chip.shape`'s side doesn't override `Chip.side` in Material 3<br />
     <sub>[#132941](https://github.com/flutter/flutter/pull/132941) opened on on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132941) 119 additions and 1 deletion in 3 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [CP] Fix visual overflow for SliverMainAxisGroup (#132989)<br />
     <sub>[#133057](https://github.com/flutter/flutter/pull/133057) opened on on August 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133057) 5 additions and 0 deletions in 2 files</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Enable ChangeNotifier clients to dispatch event of object creation in constructor.<br />
+    <sub>[#133060](https://github.com/flutter/flutter/pull/133060) opened on on August 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133060) 50 additions and 16 deletions in 5 files</sub><br />
 
