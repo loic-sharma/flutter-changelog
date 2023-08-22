@@ -17,6 +17,9 @@
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [flutter_tools] build ios-frameworks: option to exclude plugin frameworks from the build<br />
     <sub>[#129739](https://github.com/flutter/flutter/pull/129739) opened on on June 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/129739) 61 additions and 2 deletions in 2 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Change java-gradle incompatibility error for jdk 18 and above to not link to docs.flutter.dev/go/android-java-gradle-error<br />
+    <sub>[#131354](https://github.com/flutter/flutter/pull/131354) opened on on July 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/131354) 78 additions and 4 deletions in 2 files</sub><br />
+
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Reland: Replace TextField.canRequestFocus with TextField.focusNode.canRequestFocus<br />
     <sub>[#132273](https://github.com/flutter/flutter/pull/132273) opened on on August 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132273) 44 additions and 11 deletions in 4 files</sub><br />
 
