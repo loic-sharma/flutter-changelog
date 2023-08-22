@@ -78,7 +78,7 @@
     <sub>[#132901](https://github.com/flutter/flutter/pull/132901) opened on on August 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132901) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Hasan M. Hallak](https://github.com/hasanmhallak)** &mdash; add forceErrorText to FormField & TextFormField.<br />
-    <sub>[#132903](https://github.com/flutter/flutter/pull/132903) opened on on August 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132903) 198 additions and 5 deletions in 3 files</sub><br />
+    <sub>[#132903](https://github.com/flutter/flutter/pull/132903) opened on on August 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132903) 198 additions and 5 deletions in 3 files</sub><br />
 
 * **[Burak İmdat](https://github.com/burakJs)** &mdash; Add viewSearchOnChanged to SearchAnchor<br />
     <sub>[#132924](https://github.com/flutter/flutter/pull/132924) opened on on August 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132924) 16 additions and 2 deletions in 1 file</sub><br />
