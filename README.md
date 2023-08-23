@@ -672,11 +672,15 @@
 
 ### August 19, 2023 to August 25, 2023
 
-24 commits.
+25 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; i82973 scroll mouse wheel support<br />
     <sub>[#44724](https://github.com/flutter/engine/pull/44724) merged on August 22, 2023 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/44724) over 1 week, 554 additions and 25 deletions in 4 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Callum Moffat](https://github.com/moffatman), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Enable clang-tidy for pre-push (opt-out), exclude `performance-unnecessary-value-param`<br />
+    <sub>[#44936](https://github.com/flutter/engine/pull/44936) merged on August 23, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/44936) over 1 day, 349 additions and 53 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Added recycled command buffers.<br />
     <sub>[#44904](https://github.com/flutter/engine/pull/44904) merged on August 21, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/44904) over 5 hours, 28 additions and 9 deletions in 2 files</sub><br />
@@ -765,7 +769,7 @@
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert "Split DisplayListBuilder into DlCanvas optimizer and DlOp recorder classes"<br />
     <sub>[#44968](https://github.com/flutter/engine/pull/44968) merged on August 22, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/44968) over 33 minutes, 3556 additions and 3726 deletions in 61 files</sub><br />
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland "Implementing TextScaler for nonlinear text scaling (#42062)"<br />
     <sub>[#44907](https://github.com/flutter/engine/pull/44907) merged on August 21, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/44907) over 5 hours, 564 additions and 8 deletions in 29 files</sub><br />
