@@ -92,3 +92,6 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `PopupMenuItem` with a `ListTile` doesn't use the correct style.<br />
     <sub>[#133141](https://github.com/flutter/flutter/pull/133141) opened on on August 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133141) 168 additions and 11 deletions in 2 files</sub><br />
 
+* **[Ryotaro Onoue](https://github.com/YumNumm)** &mdash; Fixes an overflow issue in `RadioListTile` sample code<br />
+    <sub>[#133143](https://github.com/flutter/flutter/pull/133143) opened on on August 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133143) 122 additions and 114 deletions in 4 files</sub><br />
+
