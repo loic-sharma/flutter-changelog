@@ -83,3 +83,6 @@
 * **[YeLinAung](https://github.com/b14cknc0d3)** &mdash; added '.fvm/flutter_sdk ' in .gitignore.tmp<br />
     <sub>[#133107](https://github.com/flutter/flutter/pull/133107) opened on on August 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133107) 3 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; l10n-related documentation improvements<br />
+    <sub>[#133114](https://github.com/flutter/flutter/pull/133114) opened on on August 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133114) 17 additions and 19 deletions in 6 files</sub><br />
+
