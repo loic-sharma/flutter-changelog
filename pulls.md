@@ -89,3 +89,6 @@
 * **[Ryotaro Onoue](https://github.com/YumNumm)** &mdash; Fixes an overflow issue in `RadioListTile` sample code<br />
     <sub>[#133143](https://github.com/flutter/flutter/pull/133143) opened on on August 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133143) 122 additions and 114 deletions in 4 files</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump memory usage in gradle for platform views<br />
+    <sub>[#133155](https://github.com/flutter/flutter/pull/133155) opened on on August 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133155) 1 addition and 1 deletion in 1 file</sub><br />
+
