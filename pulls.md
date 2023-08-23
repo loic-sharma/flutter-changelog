@@ -80,3 +80,6 @@
 * **[Ryotaro Onoue](https://github.com/YumNumm)** &mdash; Fixes an overflow issue in `RadioListTile` sample code<br />
     <sub>[#133143](https://github.com/flutter/flutter/pull/133143) opened on on August 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133143) 122 additions and 114 deletions in 4 files</sub><br />
 
+* **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; `InputDecorationTheme.isCollapsed` doesn't work if `InputDecoration.isCollapsed` is not provided.<br />
+    <sub>[#133189](https://github.com/flutter/flutter/pull/133189) opened on on August 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133189) 25 additions and 1 deletion in 2 files</sub><br />
+

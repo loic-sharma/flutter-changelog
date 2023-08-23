@@ -1255,7 +1255,7 @@
 
 * **[ftsui](https://github.com/ftsui)** &mdash; Request GLES version 2 interface.<br />
     <sub>[#44504](https://github.com/flutter/engine/pull/44504) merged on August 9, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/44504) over 22 hours, 2 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken)</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Caroline Liu](https://github.com/caroqliu)** &mdash; Remove GFX and Scenic dependencies from Fuchsia integration tests<br />
     <sub>[#44498](https://github.com/flutter/engine/pull/44498) merged on August 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44498) over 21 hours, 36 additions and 47 deletions in 15 files</sub><br />
@@ -1318,7 +1318,7 @@
 
 * **[Raul Vilar](https://github.com/raulsvilar)** &mdash; [camera_android]: Fixes crash when record video on Android versions lower than 12<br />
     <sub>[#4635](https://github.com/flutter/packages/pull/4635) merged on August 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4635) over 2 weeks, 5 additions and 5 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Camille Simon](https://github.com/camsim99)</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[Jason C.H](https://github.com/ctrysbita)** &mdash; [flutter_adaptive_scaffold] Fix top padding for NavigationBar<br />
     <sub>[#4661](https://github.com/flutter/packages/pull/4661) merged on August 22, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4661) over 2 weeks, 20 additions and 10 deletions in 5 files</sub><br />
@@ -1334,7 +1334,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump io.mockk:mockk from 1.13.5 to 1.13.7 in /packages/pigeon/platform_tests/test_plugin/android<br />
     <sub>[#4736](https://github.com/flutter/packages/pull/4736) merged on August 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4736) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=io.mockk:mockk&package-manager=gradle&previous-version=1.13.5&new-version=1.13.7)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Support web (as JS)<br />
@@ -1356,7 +1356,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [platform] Import the `platform` package<br />
     <sub>[#4613](https://github.com/flutter/packages/pull/4613) merged on August 16, 2023 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/4613) over 2 weeks, 815 additions and 1 deletion in 15 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Wrap classes to implement resolution configuration for video capture<br />
     <sub>[#4620](https://github.com/flutter/packages/pull/4620) merged on August 15, 2023 &mdash; **Extra large:** [20 comments](https://github.com/flutter/packages/pull/4620) over 2 weeks, 2105 additions and 46 deletions in 22 files</sub><br />
