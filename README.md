@@ -684,7 +684,7 @@
 
 ### August 19, 2023 to August 25, 2023
 
-30 commits.
+31 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; i82973 scroll mouse wheel support<br />
     <sub>[#44724](https://github.com/flutter/engine/pull/44724) merged on August 22, 2023 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/44724) over 1 week, 554 additions and 25 deletions in 4 files</sub><br />
@@ -798,6 +798,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland "Implementing TextScaler for nonlinear text scaling (#42062)"<br />
     <sub>[#44907](https://github.com/flutter/engine/pull/44907) merged on August 21, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/44907) over 5 hours, 564 additions and 8 deletions in 29 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "FontVariation.lerp, custom FontVariation constructors, and more documentation"<br />
+    <sub>[#44993](https://github.com/flutter/engine/pull/44993) merged on August 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44993) over 33 minutes, 22 additions and 257 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Roll Dart SDK from ab417bc74bb1 to c162b4979562 (1 revision)"<br />
     <sub>[#44989](https://github.com/flutter/engine/pull/44989) merged on August 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44989) over 4 minutes, 2 additions and 2 deletions in 2 files</sub><br />
@@ -1230,7 +1234,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Android a11y bridge sets importantness"<br />
     <sub>[#44569](https://github.com/flutter/engine/pull/44569) merged on August 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44569) over 23 minutes, 1 addition and 157 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reland "Android a11y bridge sets importantness"<br />
     <sub>[#44589](https://github.com/flutter/engine/pull/44589) merged on August 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44589) over 3 hours, 165 additions and 1 deletion in 2 files</sub><br />
