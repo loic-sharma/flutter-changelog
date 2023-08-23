@@ -684,7 +684,7 @@
 
 ### August 19, 2023 to August 25, 2023
 
-29 commits.
+30 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; i82973 scroll mouse wheel support
     <sub>[#44724](https://github.com/flutter/engine/pull/44724) merged on August 22, 2023 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/44724) over 1 week, 554 additions and 25 deletions in 4 files</sub>
@@ -758,6 +758,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Remove sync switch
     <sub>[#44885](https://github.com/flutter/engine/pull/44885) merged on August 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44885) over 17 hours, 14 additions and 25 deletions in 1 file</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Move Rasterizer::Draw's discard_callback to Delegate
+    <sub>[#44813](https://github.com/flutter/engine/pull/44813) merged on August 23, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/44813) over 5 days, 62 additions and 62 deletions in 5 files</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Chinmay Garde](https://github.com/chinmaygarde), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Restore old SurfaceTextureExternal drawing code
     <sub>[#44979](https://github.com/flutter/engine/pull/44979) merged on August 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44979) over 45 minutes, 21 additions and 8 deletions in 1 file</sub>
@@ -1110,7 +1114,7 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [shell] Add references to VsyncWaiter docs
     <sub>[#44607](https://github.com/flutter/engine/pull/44607) merged on August 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44607) over 37 minutes, 3 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Allow macOS plugins to register as app delegates
     <sub>[#44587](https://github.com/flutter/engine/pull/44587) merged on August 11, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/44587) over 1 day, 169 additions and 27 deletions in 7 files</sub>
@@ -1190,7 +1194,7 @@
 
 * **[ftsui](https://github.com/ftsui)** &mdash; Request GLES version 2 interface.
     <sub>[#44504](https://github.com/flutter/engine/pull/44504) merged on August 9, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/44504) over 22 hours, 2 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Caroline Liu](https://github.com/caroqliu)** &mdash; Remove GFX and Scenic dependencies from Fuchsia integration tests
     <sub>[#44498](https://github.com/flutter/engine/pull/44498) merged on August 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44498) over 21 hours, 36 additions and 47 deletions in 15 files</sub>
