@@ -59,9 +59,6 @@
 * **[gmilou](https://github.com/gmilou)** &mdash; Add an example showing how to use a MatrixTransition.<br />
     <sub>[#132874](https://github.com/flutter/flutter/pull/132874) opened on on August 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/132874) 90 additions and 1 deletion in 3 files</sub><br />
 
-* **[kamilkarp](https://github.com/kamilkarp)** &mdash; Add ability to customize arrow icon in SubmenuButton<br />
-    <sub>[#132899](https://github.com/flutter/flutter/pull/132899) opened on on August 19, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/132899) 78 additions and 1 deletion in 2 files</sub><br />
-
 * **[vivek kumar dixit](https://github.com/vivekdixit3911)** &mdash; assets/AssetManifest.bin is been added kindly look to it if correctly…<br />
     <sub>[#132901](https://github.com/flutter/flutter/pull/132901) opened on on August 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132901) 4 additions and 4 deletions in 1 file</sub><br />
 
