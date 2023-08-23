@@ -86,3 +86,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; l10n-related documentation improvements<br />
     <sub>[#133114](https://github.com/flutter/flutter/pull/133114) opened on on August 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133114) 17 additions and 19 deletions in 6 files</sub><br />
 
+* **[Jonas Uekötter](https://github.com/ueman)** &mdash; Make platform documentation easier to find<br />
+    <sub>[#133115](https://github.com/flutter/flutter/pull/133115) opened on on August 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133115) 2 additions and 0 deletions in 1 file</sub><br />
+
