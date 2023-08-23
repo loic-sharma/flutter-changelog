@@ -78,7 +78,7 @@
     <sub>[#133084](https://github.com/flutter/flutter/pull/133084) opened on on August 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133084) 6 additions and 3 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix legacy version file not being ensured<br />
-    <sub>[#133097](https://github.com/flutter/flutter/pull/133097) opened on on August 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133097) 60 additions and 5 deletions in 2 files</sub><br />
+    <sub>[#133097](https://github.com/flutter/flutter/pull/133097) opened on on August 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133097) 60 additions and 5 deletions in 2 files</sub><br />
 
 * **[YeLinAung](https://github.com/b14cknc0d3)** &mdash; added '.fvm/flutter_sdk ' in .gitignore.tmp<br />
     <sub>[#133107](https://github.com/flutter/flutter/pull/133107) opened on on August 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133107) 3 additions and 0 deletions in 1 file</sub><br />
