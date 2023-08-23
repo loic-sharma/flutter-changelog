@@ -80,3 +80,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add `--experimental-wasm-type-reflection` and support newer emscripten builds.<br />
     <sub>[#133084](https://github.com/flutter/flutter/pull/133084) opened on on August 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133084) 6 additions and 3 deletions in 2 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix legacy version file not being ensured<br />
+    <sub>[#133097](https://github.com/flutter/flutter/pull/133097) opened on on August 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133097) 60 additions and 5 deletions in 2 files</sub><br />
+
