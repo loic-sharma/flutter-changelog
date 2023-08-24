@@ -71,9 +71,6 @@
 * **[YeLinAung](https://github.com/b14cknc0d3)** &mdash; added '.fvm/flutter_sdk ' in .gitignore.tmp<br />
     <sub>[#133107](https://github.com/flutter/flutter/pull/133107) opened on on August 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133107) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[Jonas Uekötter](https://github.com/ueman)** &mdash; Make platform documentation easier to find<br />
-    <sub>[#133115](https://github.com/flutter/flutter/pull/133115) opened on on August 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133115) 2 additions and 0 deletions in 1 file</sub><br />
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `PopupMenuItem` with a `ListTile` doesn't use the correct style.<br />
     <sub>[#133141](https://github.com/flutter/flutter/pull/133141) opened on on August 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133141) 168 additions and 11 deletions in 2 files</sub><br />
 
