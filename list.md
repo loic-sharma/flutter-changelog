@@ -13,7 +13,7 @@
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update default menu text styles for Material 3
     <sub>[#131930](https://github.com/flutter/flutter/pull/131930) merged on August 22, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/131930) over 2 weeks, 159 additions and 28 deletions in 8 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub>
     <sub><details><summary>5 images...</summary>![dropdown_input](https://github.com/flutter/flutter/assets/48603081/301f8243-155a-4b8f-84a8-5e6b7bebb3bc)![dropdown_item](https://github.com/flutter/flutter/assets/48603081/6b5be81a-72fc-4705-a577-074c7a4cad8f)![Screenshot 2023-08-04 at 16 48 28](https://github.com/flutter/flutter/assets/48603081/bcd9da98-e74d-491e-ae64-6268ae0b3893)![Screenshot 2023-08-04 at 16 50 19](https://github.com/flutter/flutter/assets/48603081/9592ca43-2854-45b5-8648-203ab65d9745)![Screenshot 2023-08-04 at 14 34 28](https://github.com/flutter/flutter/assets/48603081/e87e1073-05f8-4dc7-a435-d864e9cce6ab)</details></sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix visual overflow for SliverMainAxisGroup
@@ -641,7 +641,7 @@
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Read `--dart-define` in `RendererBinding.initInstances()`
     <sub>[#132408](https://github.com/flutter/flutter/pull/132408) merged on August 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/132408) over 4 hours, 6 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Lau Ching Jun](https://github.com/chingjun)</sub>
+    <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun), [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable Xcode Debug tests
     <sub>[#132398](https://github.com/flutter/flutter/pull/132398) merged on August 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132398) over 42 minutes, 0 additions and 20 deletions in 1 file</sub>
@@ -822,7 +822,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix a clang-tidy error seen in the latest toolchain roll
     <sub>[#45039](https://github.com/flutter/engine/pull/45039) merged on August 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45039) over 35 minutes, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] combine uniform metadata and buffer slots.
     <sub>[#45021](https://github.com/flutter/engine/pull/45021) merged on August 23, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/45021) over 1 hour, 29 additions and 26 deletions in 8 files</sub>
@@ -910,7 +910,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "[Impeller] Add debug captures and inspector."
     <sub>[#45062](https://github.com/flutter/engine/pull/45062) merged on August 24, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/45062) over 33 minutes, 55 additions and 995 deletions in 21 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from ab417bc74bb1 to 87a5a26b25fc (4 revisions)
     <sub>[#45043](https://github.com/flutter/engine/pull/45043) merged on August 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45043) over 32 minutes, 4 additions and 4 deletions in 2 files</sub>
@@ -1390,7 +1390,7 @@
 
 * **[Raul Vilar](https://github.com/raulsvilar)** &mdash; [camera_android]: Fixes crash when record video on Android versions lower than 12
     <sub>[#4635](https://github.com/flutter/packages/pull/4635) merged on August 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4635) over 2 weeks, 5 additions and 5 deletions in 3 files</sub>
-    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Jason C.H](https://github.com/ctrysbita)** &mdash; [flutter_adaptive_scaffold] Fix top padding for NavigationBar
     <sub>[#4661](https://github.com/flutter/packages/pull/4661) merged on August 22, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4661) over 2 weeks, 20 additions and 10 deletions in 5 files</sub>
