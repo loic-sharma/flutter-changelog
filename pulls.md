@@ -78,7 +78,7 @@
     <sub>[#133143](https://github.com/flutter/flutter/pull/133143) opened on on August 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133143) 122 additions and 114 deletions in 4 files</sub><br />
 
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; `InputDecorationTheme.isCollapsed` doesn't work if `InputDecoration.isCollapsed` is not provided.<br />
-    <sub>[#133189](https://github.com/flutter/flutter/pull/133189) opened on on August 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133189) 25 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#133189](https://github.com/flutter/flutter/pull/133189) opened on on August 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133189) 25 additions and 1 deletion in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Fix mac tool_integration_tests with Xcode 15<br />
     <sub>[#133217](https://github.com/flutter/flutter/pull/133217) opened on on August 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133217) 24 additions and 1 deletion in 1 file</sub><br />
