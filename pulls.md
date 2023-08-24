@@ -83,6 +83,3 @@
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny fix Flutter seems not to agree what is the estimated size of `ui.Image` (reland 2)<br />
     <sub>[#133223](https://github.com/flutter/flutter/pull/133223) opened on on August 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133223) 9 additions and 9 deletions in 4 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Use a fake stopwatch to remove flakiness.<br />
-    <sub>[#133229](https://github.com/flutter/flutter/pull/133229) opened on on August 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133229) 1 addition and 0 deletions in 1 file</sub><br />
-
