@@ -362,7 +362,7 @@
 
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; fixed documentation error input decorator<br />
     <sub>[#132124](https://github.com/flutter/flutter/pull/132124) merged on August 16, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/132124) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SelectionArea on iOS should toggle the context menu when tapping on the previous selection<br />
     <sub>[#132851](https://github.com/flutter/flutter/pull/132851) merged on August 18, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/132851) over 7 hours, 86 additions and 1 deletion in 2 files</sub><br />
@@ -637,7 +637,7 @@
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Read `--dart-define` in `RendererBinding.initInstances()`<br />
     <sub>[#132408](https://github.com/flutter/flutter/pull/132408) merged on August 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/132408) over 4 hours, 6 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun), [Ian Hickson](https://github.com/Hixie)</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable Xcode Debug tests<br />
     <sub>[#132398](https://github.com/flutter/flutter/pull/132398) merged on August 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132398) over 42 minutes, 0 additions and 20 deletions in 1 file</sub><br />
@@ -685,7 +685,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reland "[web] Migrate framework to fully use package:web (#128901)"<br />
     <sub>[#132092](https://github.com/flutter/flutter/pull/132092) merged on August 9, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/132092) over 1 day, 50 additions and 464 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs), [joshualitt](https://github.com/joshualitt)</sub><br />
+    <sub>Reviewed by: [joshualitt](https://github.com/joshualitt), [Srujan Gaddam](https://github.com/srujzs)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Fix `PopupMenuItem` & `CheckedPopupMenuItem` has redundant `ListTile` padding and update default horizontal padding for Material 3"<br />
     <sub>[#132457](https://github.com/flutter/flutter/pull/132457) merged on August 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132457) over 6 hours, 11 additions and 197 deletions in 3 files</sub><br />
@@ -1231,7 +1231,7 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [shell] Add references to VsyncWaiter docs<br />
     <sub>[#44607](https://github.com/flutter/engine/pull/44607) merged on August 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44607) over 37 minutes, 3 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Allow macOS plugins to register as app delegates<br />
     <sub>[#44587](https://github.com/flutter/engine/pull/44587) merged on August 11, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/44587) over 1 day, 169 additions and 27 deletions in 7 files</sub><br />
@@ -1311,7 +1311,7 @@
 
 * **[ftsui](https://github.com/ftsui)** &mdash; Request GLES version 2 interface.<br />
     <sub>[#44504](https://github.com/flutter/engine/pull/44504) merged on August 9, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/44504) over 22 hours, 2 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken)</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Caroline Liu](https://github.com/caroqliu)** &mdash; Remove GFX and Scenic dependencies from Fuchsia integration tests<br />
     <sub>[#44498](https://github.com/flutter/engine/pull/44498) merged on August 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44498) over 21 hours, 36 additions and 47 deletions in 15 files</sub><br />
@@ -1347,7 +1347,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Android a11y bridge sets importantness"<br />
     <sub>[#44569](https://github.com/flutter/engine/pull/44569) merged on August 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44569) over 23 minutes, 1 addition and 157 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reland "Android a11y bridge sets importantness"<br />
     <sub>[#44589](https://github.com/flutter/engine/pull/44589) merged on August 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44589) over 3 hours, 165 additions and 1 deletion in 2 files</sub><br />
