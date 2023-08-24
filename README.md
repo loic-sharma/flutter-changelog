@@ -774,7 +774,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Fix stencil buffer format selection on Vulkan backend, add support for D24UnormS8Uint<br />
     <sub>[#45025](https://github.com/flutter/engine/pull/45025) merged on August 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/45025) over 4 hours, 44 additions and 1 deletion in 6 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll clang with fix for ABI change<br />
     <sub>[#44711](https://github.com/flutter/engine/pull/44711) merged on August 23, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/44711) over 1 week, 58 additions and 3 deletions in 5 files</sub><br />
@@ -814,7 +814,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix a clang-tidy error seen in the latest toolchain roll<br />
     <sub>[#45039](https://github.com/flutter/engine/pull/45039) merged on August 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45039) over 35 minutes, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] combine uniform metadata and buffer slots.<br />
     <sub>[#45021](https://github.com/flutter/engine/pull/45021) merged on August 23, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/45021) over 1 hour, 29 additions and 26 deletions in 8 files</sub><br />
@@ -1231,7 +1231,7 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [shell] Add references to VsyncWaiter docs<br />
     <sub>[#44607](https://github.com/flutter/engine/pull/44607) merged on August 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44607) over 37 minutes, 3 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Allow macOS plugins to register as app delegates<br />
     <sub>[#44587](https://github.com/flutter/engine/pull/44587) merged on August 11, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/44587) over 1 day, 169 additions and 27 deletions in 7 files</sub><br />
@@ -1311,7 +1311,7 @@
 
 * **[ftsui](https://github.com/ftsui)** &mdash; Request GLES version 2 interface.<br />
     <sub>[#44504](https://github.com/flutter/engine/pull/44504) merged on August 9, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/44504) over 22 hours, 2 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Caroline Liu](https://github.com/caroqliu)** &mdash; Remove GFX and Scenic dependencies from Fuchsia integration tests<br />
     <sub>[#44498](https://github.com/flutter/engine/pull/44498) merged on August 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/44498) over 21 hours, 36 additions and 47 deletions in 15 files</sub><br />
@@ -1347,7 +1347,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Android a11y bridge sets importantness"<br />
     <sub>[#44569](https://github.com/flutter/engine/pull/44569) merged on August 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/44569) over 23 minutes, 1 addition and 157 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reland "Android a11y bridge sets importantness"<br />
     <sub>[#44589](https://github.com/flutter/engine/pull/44589) merged on August 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/44589) over 3 hours, 165 additions and 1 deletion in 2 files</sub><br />
@@ -1390,7 +1390,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump io.mockk:mockk from 1.13.5 to 1.13.7 in /packages/pigeon/platform_tests/test_plugin/android<br />
     <sub>[#4736](https://github.com/flutter/packages/pull/4736) merged on August 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4736) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=io.mockk:mockk&package-manager=gradle&previous-version=1.13.5&new-version=1.13.7)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Support web (as JS)<br />
@@ -1412,7 +1412,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [platform] Import the `platform` package<br />
     <sub>[#4613](https://github.com/flutter/packages/pull/4613) merged on August 16, 2023 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/4613) over 2 weeks, 815 additions and 1 deletion in 15 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Wrap classes to implement resolution configuration for video capture<br />
     <sub>[#4620](https://github.com/flutter/packages/pull/4620) merged on August 15, 2023 &mdash; **Extra large:** [20 comments](https://github.com/flutter/packages/pull/4620) over 2 weeks, 2105 additions and 46 deletions in 22 files</sub><br />
