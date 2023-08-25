@@ -54,7 +54,7 @@
     <sub>[#133284](https://github.com/flutter/flutter/pull/133284) opened on on August 24, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/133284) 601 additions and 215 deletions in 58 files</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; ShortcutManager should dispatch creation in constructor.<br />
-    <sub>[#133356](https://github.com/flutter/flutter/pull/133356) opened on on August 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133356) 6 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#133356](https://github.com/flutter/flutter/pull/133356) opened on on August 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133356) 22 additions and 7 deletions in 2 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Dispose AnimationSheetRecorder to avoid leaks<br />
     <sub>[#133365](https://github.com/flutter/flutter/pull/133365) opened on on August 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133365) 64 additions and 49 deletions in 4 files</sub><br />
