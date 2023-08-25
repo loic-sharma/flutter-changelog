@@ -29,9 +29,6 @@
 * **[Aiko Ramalho](https://github.com/AikoRamalho)** &mdash; Removing deprecated JFrog's java jdk and replace it with Adoptium's.<br />
     <sub>[#132472](https://github.com/flutter/flutter/pull/132472) opened on on August 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132472) 0 additions and 0 deletions in 0 files</sub><br />
 
-* **[MFW](https://github.com/mafanwei)** &mdash; Add 'outerStrokeWidth' to allow user change radio outer stroke width<br />
-    <sub>[#132478](https://github.com/flutter/flutter/pull/132478) opened on on August 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132478) 19 additions and 2 deletions in 1 file</sub><br />
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Test Engine PR "Roll clang with fix for ABI change"<br />
     <sub>[#132581](https://github.com/flutter/flutter/pull/132581) opened on on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132581) 2 additions and 1 deletion in 2 files</sub><br />
 
@@ -53,9 +50,6 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Test builds on all macs.<br />
     <sub>[#132863](https://github.com/flutter/flutter/pull/132863) opened on on August 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132863) 2 additions and 1 deletion in 2 files</sub><br />
 
-* **[Hasan M. Hallak](https://github.com/hasanmhallak)** &mdash; add forceErrorText to FormField & TextFormField.<br />
-    <sub>[#132903](https://github.com/flutter/flutter/pull/132903) opened on on August 19, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/132903) 198 additions and 5 deletions in 3 files</sub><br />
-
 * **[Burak İmdat](https://github.com/burakJs)** &mdash; Add viewSearchOnChanged to SearchAnchor<br />
     <sub>[#132924](https://github.com/flutter/flutter/pull/132924) opened on on August 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/132924) 16 additions and 2 deletions in 1 file</sub><br />
 
@@ -70,4 +64,7 @@
 
 * **[Sahil Kumar](https://github.com/xsahil03x)** &mdash; feat: CupertinoThemeExtension<br />
     <sub>[#133284](https://github.com/flutter/flutter/pull/133284) opened on on August 24, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/133284) 601 additions and 215 deletions in 58 files</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; _SelectableFragment should dispatch creation in constructor.<br />
+    <sub>[#133351](https://github.com/flutter/flutter/pull/133351) opened on on August 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133351) 3 additions and 0 deletions in 1 file</sub><br />
 
