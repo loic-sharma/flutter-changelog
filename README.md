@@ -170,7 +170,7 @@
 
 * **[Angelo Silvestre](https://github.com/angelosilvestre)** &mdash; Add deleteBackwardByDecomposingPreviousCharacter mapping for tests<br />
     <sub>[#132919](https://github.com/flutter/flutter/pull/132919) merged on August 21, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/132919) over 23 hours, 24 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[gallery] roll gallery to  ecfb9e5352bd12032301b12b30d5853d83d89bda"<br />
     <sub>[#133095](https://github.com/flutter/flutter/pull/133095) merged on August 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133095) over 50 seconds, 1 addition and 1 deletion in 1 file</sub><br />
