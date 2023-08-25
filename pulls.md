@@ -78,5 +78,5 @@
     <sub>[#133223](https://github.com/flutter/flutter/pull/133223) opened on on August 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133223) 9 additions and 9 deletions in 4 files</sub><br />
 
 * **[Sahil Kumar](https://github.com/xsahil03x)** &mdash; feat: CupertinoThemeExtension<br />
-    <sub>[#133284](https://github.com/flutter/flutter/pull/133284) opened on on August 24, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/133284) 600 additions and 215 deletions in 58 files</sub><br />
+    <sub>[#133284](https://github.com/flutter/flutter/pull/133284) opened on on August 24, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/133284) 601 additions and 215 deletions in 58 files</sub><br />
 
