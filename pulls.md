@@ -56,12 +56,12 @@
 * **[YeLinAung](https://github.com/b14cknc0d3)** &mdash; added '.fvm/flutter_sdk ' in .gitignore.tmp<br />
     <sub>[#133107](https://github.com/flutter/flutter/pull/133107) opened on on August 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133107) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny fix Flutter seems not to agree what is the estimated size of `ui.Image` (reland 2)<br />
-    <sub>[#133223](https://github.com/flutter/flutter/pull/133223) opened on on August 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133223) 9 additions and 9 deletions in 4 files</sub><br />
-
 * **[Sahil Kumar](https://github.com/xsahil03x)** &mdash; feat: CupertinoThemeExtension<br />
     <sub>[#133284](https://github.com/flutter/flutter/pull/133284) opened on on August 24, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/133284) 601 additions and 215 deletions in 58 files</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; _SelectableFragment should dispatch creation in constructor.<br />
     <sub>[#133351](https://github.com/flutter/flutter/pull/133351) opened on on August 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133351) 3 additions and 0 deletions in 1 file</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Dispose AnimationSheetRecorder to avoid leaks<br />
+    <sub>[#133365](https://github.com/flutter/flutter/pull/133365) opened on on August 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133365) 64 additions and 49 deletions in 4 files</sub><br />
 
