@@ -23,9 +23,6 @@
 * **[Mikhail](https://github.com/mishapark)** &mdash; WIP Fix/bottom navigation bar splash radius<br />
     <sub>[#132396](https://github.com/flutter/flutter/pull/132396) opened on on August 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132396) 9 additions and 1 deletion in 1 file</sub><br />
 
-* **[ganluo960214](https://github.com/ganluo960214)** &mdash; Update dropdown_menu to fix on android switch system language TextEdi…<br />
-    <sub>[#132444](https://github.com/flutter/flutter/pull/132444) opened on on August 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132444) 19 additions and 15 deletions in 1 file</sub><br />
-
 * **[Aiko Ramalho](https://github.com/AikoRamalho)** &mdash; Removing deprecated JFrog's java jdk and replace it with Adoptium's.<br />
     <sub>[#132472](https://github.com/flutter/flutter/pull/132472) opened on on August 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132472) 0 additions and 0 deletions in 0 files</sub><br />
 
@@ -66,5 +63,5 @@
     <sub>[#133284](https://github.com/flutter/flutter/pull/133284) opened on on August 24, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/133284) 601 additions and 215 deletions in 58 files</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; _SelectableFragment should dispatch creation in constructor.<br />
-    <sub>[#133351](https://github.com/flutter/flutter/pull/133351) opened on on August 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133351) 3 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#133351](https://github.com/flutter/flutter/pull/133351) opened on on August 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133351) 3 additions and 0 deletions in 1 file</sub><br />
 
