@@ -781,7 +781,7 @@
     <sub><details><summary>1 image...</summary>![unnamed](https://github.com/flutter/engine/assets/30870216/2136dda0-6747-43a7-9a94-a0223c55b704)</details></sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add debug captures and inspector.<br />
-    <sub>[#43764](https://github.com/flutter/engine/pull/43764) merged on August 24, 2023 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/43764) over 1 month, 995 additions and 55 deletions in 21 files</sub><br />
+    <sub>[#43764](https://github.com/flutter/engine/pull/43764) merged on August 24, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/43764) over 1 month, 995 additions and 55 deletions in 21 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Flutter GPU: Add HostBuffer.<br />
@@ -878,7 +878,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart SDK to 3.2.0-97.0.dev<br />
     <sub>[#45072](https://github.com/flutter/engine/pull/45072) merged on August 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45072) over 32 minutes, 4 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Siva](https://github.com/a-siva), [Jim Graham](https://github.com/flar)</sub><br />
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Siva](https://github.com/a-siva)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix a clang-tidy error seen in the latest toolchain roll<br />
     <sub>[#45039](https://github.com/flutter/engine/pull/45039) merged on August 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45039) over 35 minutes, 1 addition and 1 deletion in 1 file</sub><br />
