@@ -17,7 +17,7 @@
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update default menu text styles for Material 3<br />
     <sub>[#131930](https://github.com/flutter/flutter/pull/131930) merged on August 22, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/131930) over 2 weeks, 159 additions and 28 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>5 images...</summary>![dropdown_input](https://github.com/flutter/flutter/assets/48603081/301f8243-155a-4b8f-84a8-5e6b7bebb3bc)![dropdown_item](https://github.com/flutter/flutter/assets/48603081/6b5be81a-72fc-4705-a577-074c7a4cad8f)![Screenshot 2023-08-04 at 16 48 28](https://github.com/flutter/flutter/assets/48603081/bcd9da98-e74d-491e-ae64-6268ae0b3893)![Screenshot 2023-08-04 at 16 50 19](https://github.com/flutter/flutter/assets/48603081/9592ca43-2854-45b5-8648-203ab65d9745)![Screenshot 2023-08-04 at 14 34 28](https://github.com/flutter/flutter/assets/48603081/e87e1073-05f8-4dc7-a435-d864e9cce6ab)</details></sub>
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; When resized network image has error, all future unrelated images using the same url will fail, even if the network becomes OK<br />
@@ -180,7 +180,7 @@
 
 * **[Angelo Silvestre](https://github.com/angelosilvestre)** &mdash; Add deleteBackwardByDecomposingPreviousCharacter mapping for tests<br />
     <sub>[#132919](https://github.com/flutter/flutter/pull/132919) merged on August 21, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/132919) over 23 hours, 24 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Dispose overlay entries<br />
     <sub>[#132826](https://github.com/flutter/flutter/pull/132826) merged on August 25, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/132826) over 1 week, 23 additions and 16 deletions in 8 files</sub><br />
@@ -456,7 +456,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Reorganize and clarify API doc generator"<br />
     <sub>[#132613](https://github.com/flutter/flutter/pull/132613) merged on August 16, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/132613) over 2 minutes, 938 additions and 1384 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Reland: "Reorganize and clarify API doc generator" (#132353)<br />
     <sub>[#132710](https://github.com/flutter/flutter/pull/132710) merged on August 17, 2023 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/132710) over 1 day, 1441 additions and 938 deletions in 8 files</sub><br />
@@ -518,7 +518,7 @@
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Handle hasStrings on web<br />
     <sub>[#132093](https://github.com/flutter/flutter/pull/132093) merged on August 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132093) over 1 day, 83 additions and 7 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Yegor](https://github.com/yjbanov)</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
     <sub><details><summary>3 images...</summary><img width="200" src="https://github.com/flutter/flutter/assets/389558/990f99cb-bc38-40f1-9e88-8839bc342da5" /><img width="284" alt="Screenshot 2023-08-07 at 2 39 03 PM" src="https://github.com/flutter/flutter/assets/389558/f632be25-28b1-4e2e-98f7-3bb443f077df"><img width="200" src="https://github.com/flutter/flutter/assets/389558/5abdb160-1b13-4f1a-87e1-4653ca19d73e" /></details></sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Move mock canvas to flutter_test<br />
@@ -667,7 +667,7 @@
 
 * **[Mingyu](https://github.com/liumcse)** &mdash; Slider should check `mounted` before start interaction<br />
     <sub>[#132010](https://github.com/flutter/flutter/pull/132010) merged on August 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132010) over 1 day, 27 additions and 19 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Kate Lovett](https://github.com/Piinks)</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add drawVertices and drawAtlas benchmarks.<br />
     <sub>[#132080](https://github.com/flutter/flutter/pull/132080) merged on August 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132080) over 5 hours, 283 additions and 1 deletion in 6 files</sub><br />
@@ -940,7 +940,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix a clang-tidy error seen in the latest toolchain roll<br />
     <sub>[#45039](https://github.com/flutter/engine/pull/45039) merged on August 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45039) over 35 minutes, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix validation warning on iOS/macOS when compiling external texture shader.<br />
     <sub>[#45080](https://github.com/flutter/engine/pull/45080) merged on August 25, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/45080) over 18 hours, 29 additions and 7 deletions in 4 files</sub><br />
