@@ -74,6 +74,3 @@
 * **[Sahil Kumar](https://github.com/xsahil03x)** &mdash; feat: CupertinoThemeExtension<br />
     <sub>[#133284](https://github.com/flutter/flutter/pull/133284) opened on on August 24, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/133284) 601 additions and 215 deletions in 58 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Fix locking to work with flutter and dart running simultaneously<br />
-    <sub>[#133350](https://github.com/flutter/flutter/pull/133350) opened on on August 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133350) 21 additions and 3 deletions in 3 files</sub><br />
-
