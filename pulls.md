@@ -68,9 +68,6 @@
 * **[YeLinAung](https://github.com/b14cknc0d3)** &mdash; added '.fvm/flutter_sdk ' in .gitignore.tmp<br />
     <sub>[#133107](https://github.com/flutter/flutter/pull/133107) opened on on August 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133107) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ryotaro Onoue](https://github.com/YumNumm)** &mdash; Fixes an overflow issue in `RadioListTile` sample code<br />
-    <sub>[#133143](https://github.com/flutter/flutter/pull/133143) opened on on August 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133143) 122 additions and 114 deletions in 4 files</sub><br />
-
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny fix Flutter seems not to agree what is the estimated size of `ui.Image` (reland 2)<br />
     <sub>[#133223](https://github.com/flutter/flutter/pull/133223) opened on on August 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133223) 9 additions and 9 deletions in 4 files</sub><br />
 
