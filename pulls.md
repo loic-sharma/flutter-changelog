@@ -29,9 +29,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Test Engine PR "Roll clang with fix for ABI change"<br />
     <sub>[#132581](https://github.com/flutter/flutter/pull/132581) opened on on August 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132581) 2 additions and 1 deletion in 2 files</sub><br />
 
-* **[Aakash Pamnani](https://github.com/aakash-pamnani)** &mdash; Fixed : Empty Rows shown at last page in Paginated data table<br />
-    <sub>[#132646](https://github.com/flutter/flutter/pull/132646) opened on on August 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132646) 4 additions and 9 deletions in 1 file</sub><br />
-
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [do not merge] google testing test pr<br />
     <sub>[#132693](https://github.com/flutter/flutter/pull/132693) opened on on August 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132693) 2 additions and 0 deletions in 1 file</sub><br />
 
@@ -56,9 +53,9 @@
 * **[Sahil Kumar](https://github.com/xsahil03x)** &mdash; feat: CupertinoThemeExtension<br />
     <sub>[#133284](https://github.com/flutter/flutter/pull/133284) opened on on August 24, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/133284) 601 additions and 215 deletions in 58 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; _SelectableFragment should dispatch creation in constructor.<br />
-    <sub>[#133351](https://github.com/flutter/flutter/pull/133351) opened on on August 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133351) 3 additions and 0 deletions in 1 file</sub><br />
-
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Dispose AnimationSheetRecorder to avoid leaks<br />
     <sub>[#133365](https://github.com/flutter/flutter/pull/133365) opened on on August 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133365) 64 additions and 49 deletions in 4 files</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Small cleanup for a test.<br />
+    <sub>[#133367](https://github.com/flutter/flutter/pull/133367) opened on on August 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133367) 3 additions and 6 deletions in 1 file</sub><br />
 
