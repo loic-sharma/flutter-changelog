@@ -822,7 +822,7 @@
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] DlAiksCanvas as a DlCanvas wrapper for impeller::Canvas<br />
-    <sub>[#45131](https://github.com/flutter/engine/pull/45131) merged on August 26, 2023 &mdash; **Extra large:** [12 comments](https://github.com/flutter/engine/pull/45131) over 7 hours, 2611 additions and 420 deletions in 85 files</sub><br />
+    <sub>[#45131](https://github.com/flutter/engine/pull/45131) merged on August 26, 2023 &mdash; **Extra large:** [13 comments](https://github.com/flutter/engine/pull/45131) over 7 hours, 2611 additions and 420 deletions in 85 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Added recycled command buffers.<br />
