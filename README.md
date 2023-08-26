@@ -12,7 +12,7 @@
     <sub><details><summary>2 images...</summary>![Screenshot 2023-08-15 at 18 11 34](https://github.com/flutter/flutter/assets/48603081/4b798998-8549-43aa-b564-933ea14f494c)![Screenshot 2023-08-15 at 18 11 45](https://github.com/flutter/flutter/assets/48603081/b085a33a-db7d-40d4-8a12-ee37197b5bd4)</details></sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix visual overflow for SliverMainAxisGroup<br />
-    <sub>[#132989](https://github.com/flutter/flutter/pull/132989) merged on August 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132989) over 5 hours, 5 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#132989](https://github.com/flutter/flutter/pull/132989) merged on August 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132989) over 5 hours, 5 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update default menu text styles for Material 3<br />
