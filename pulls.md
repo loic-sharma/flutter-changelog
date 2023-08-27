@@ -68,3 +68,6 @@
 * **[Shreyash Kashyap](https://github.com/SYK-08)** &mdash; Update README.md<br />
     <sub>[#133411](https://github.com/flutter/flutter/pull/133411) opened on on August 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133411) 4 additions and 4 deletions in 1 file</sub><br />
 
+* **[lucifer10042003](https://github.com/lucifer10042003)** &mdash; Update 1_activation.yml<br />
+    <sub>[#133413](https://github.com/flutter/flutter/pull/133413) opened on on August 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133413) 1 addition and 1 deletion in 1 file</sub><br />
+
