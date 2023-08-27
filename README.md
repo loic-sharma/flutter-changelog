@@ -43,7 +43,7 @@
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove `ImageProvider.load`, `DecoderCallback` and `PaintingBinding.instantiateImageCodec`<br />
-    <sub>[#132679](https://github.com/flutter/flutter/pull/132679) merged on August 24, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/132679) over 1 week, 75 additions and 345 deletions in 18 files</sub><br />
+    <sub>[#132679](https://github.com/flutter/flutter/pull/132679) merged on August 24, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/132679) over 1 week, 75 additions and 345 deletions in 18 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add android analyzer commands for applinks<br />
