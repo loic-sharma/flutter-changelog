@@ -50,9 +50,6 @@
 * **[YeLinAung](https://github.com/b14cknc0d3)** &mdash; added '.fvm/flutter_sdk ' in .gitignore.tmp<br />
     <sub>[#133107](https://github.com/flutter/flutter/pull/133107) opened on on August 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133107) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[Sahil Kumar](https://github.com/xsahil03x)** &mdash; feat: CupertinoThemeExtension<br />
-    <sub>[#133284](https://github.com/flutter/flutter/pull/133284) opened on on August 24, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/133284) 601 additions and 215 deletions in 58 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix TypeError when a FileSystemException happens during flutter doctor<br />
     <sub>[#133373](https://github.com/flutter/flutter/pull/133373) opened on on August 26, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/133373) 62 additions and 12 deletions in 6 files</sub><br />
 
@@ -76,7 +73,4 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; No longer include `.packages` in created `.gitignore` files<br />
     <sub>[#133484](https://github.com/flutter/flutter/pull/133484) opened on on August 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133484) 0 additions and 4 deletions in 4 files</sub><br />
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; ShortcutManager should dispatch creation in constructor.<br />
-    <sub>[#133487](https://github.com/flutter/flutter/pull/133487) opened on on August 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133487) 22 additions and 7 deletions in 2 files</sub><br />
 
