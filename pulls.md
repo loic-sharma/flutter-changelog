@@ -75,7 +75,7 @@
     <sub>[#133484](https://github.com/flutter/flutter/pull/133484) opened on on August 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133484) 0 additions and 4 deletions in 4 files</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; FocusNode and FocusManager should dispatch creation in constructor.<br />
-    <sub>[#133490](https://github.com/flutter/flutter/pull/133490) opened on on August 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133490) 76 additions and 17 deletions in 4 files</sub><br />
+    <sub>[#133490](https://github.com/flutter/flutter/pull/133490) opened on on August 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133490) 76 additions and 17 deletions in 4 files</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Added DropdownMenuEntry.labelWidget<br />
     <sub>[#133491](https://github.com/flutter/flutter/pull/133491) opened on on August 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133491) 253 additions and 2 deletions in 4 files</sub><br />
@@ -84,5 +84,5 @@
     <sub>[#133492](https://github.com/flutter/flutter/pull/133492) opened on on August 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133492) 21 additions and 1 deletion in 3 files</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Use flutter pub get instead of dart pub get in create_api_docs.dart<br />
-    <sub>[#133493](https://github.com/flutter/flutter/pull/133493) opened on on August 28, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/133493) 161 additions and 155 deletions in 4 files</sub><br />
+    <sub>[#133493](https://github.com/flutter/flutter/pull/133493) opened on on August 28, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/133493) 159 additions and 157 deletions in 3 files</sub><br />
 
