@@ -77,3 +77,6 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; No longer include `.packages` in created `.gitignore` files<br />
     <sub>[#133484](https://github.com/flutter/flutter/pull/133484) opened on on August 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133484) 0 additions and 4 deletions in 4 files</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; ShortcutManager should dispatch creation in constructor.<br />
+    <sub>[#133487](https://github.com/flutter/flutter/pull/133487) opened on on August 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133487) 22 additions and 7 deletions in 2 files</sub><br />
+
