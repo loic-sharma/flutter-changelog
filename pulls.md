@@ -75,5 +75,5 @@
     <sub>[#133422](https://github.com/flutter/flutter/pull/133422) opened on on August 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133422) 1 addition and 2 deletions in 1 file</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; add benchmark for scrolling very long pictures<br />
-    <sub>[#133434](https://github.com/flutter/flutter/pull/133434) opened on on August 28, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/133434) 343 additions and 0 deletions in 9 files</sub><br />
+    <sub>[#133434](https://github.com/flutter/flutter/pull/133434) opened on on August 28, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/133434) 342 additions and 0 deletions in 9 files</sub><br />
 
