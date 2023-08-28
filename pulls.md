@@ -66,7 +66,7 @@
     <sub>[#133413](https://github.com/flutter/flutter/pull/133413) opened on on August 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133413) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Burak İmdat](https://github.com/burakJs)** &mdash; Fix `subtitleTextStyle.color` isn't applied to the `ListTile.subtitle` in Material 2<br />
-    <sub>[#133422](https://github.com/flutter/flutter/pull/133422) opened on on August 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133422) 1 addition and 2 deletions in 1 file</sub><br />
+    <sub>[#133422](https://github.com/flutter/flutter/pull/133422) opened on on August 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133422) 2 additions and 3 deletions in 2 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; add benchmark for scrolling very long pictures<br />
     <sub>[#133434](https://github.com/flutter/flutter/pull/133434) opened on on August 28, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/133434) 343 additions and 0 deletions in 9 files</sub><br />
