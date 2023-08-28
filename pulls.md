@@ -75,7 +75,7 @@
     <sub>[#133484](https://github.com/flutter/flutter/pull/133484) opened on on August 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133484) 0 additions and 4 deletions in 4 files</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; FocusNode and FocusManager should dispatch creation in constructor.<br />
-    <sub>[#133490](https://github.com/flutter/flutter/pull/133490) opened on on August 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133490) 76 additions and 17 deletions in 4 files</sub><br />
+    <sub>[#133490](https://github.com/flutter/flutter/pull/133490) opened on on August 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133490) 76 additions and 17 deletions in 4 files</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Added DropdownMenuEntry.labelWidget<br />
     <sub>[#133491](https://github.com/flutter/flutter/pull/133491) opened on on August 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133491) 255 additions and 2 deletions in 4 files</sub><br />
