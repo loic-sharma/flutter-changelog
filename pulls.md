@@ -74,3 +74,9 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; No longer include `.packages` in created `.gitignore` files<br />
     <sub>[#133484](https://github.com/flutter/flutter/pull/133484) opened on on August 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133484) 0 additions and 4 deletions in 4 files</sub><br />
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Added DropdownMenuEntry.labelWidget<br />
+    <sub>[#133491](https://github.com/flutter/flutter/pull/133491) opened on on August 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133491) 253 additions and 2 deletions in 4 files</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; PlatformRouteInformationProvider should dispatch creation in constructor.<br />
+    <sub>[#133492](https://github.com/flutter/flutter/pull/133492) opened on on August 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133492) 21 additions and 1 deletion in 3 files</sub><br />
+
