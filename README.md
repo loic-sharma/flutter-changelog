@@ -505,9 +505,18 @@
 
 ## flutter/engine
 
+### August 26, 2023 to September 1, 2023
+
+1 commits.
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from ab417bc74bb1 to 5d3ab5db5037 (17 revisions)<br />
+    <sub>[#45165](https://github.com/flutter/engine/pull/45165) merged on August 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45165) over 29 minutes, 4 additions and 4 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 ### August 19, 2023 to August 25, 2023
 
-84 commits.
+<details>
+<summary>84 commits...</summary>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; i82973 scroll mouse wheel support<br />
     <sub>[#44724](https://github.com/flutter/engine/pull/44724) merged on August 22, 2023 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/44724) over 1 week, 554 additions and 25 deletions in 4 files</sub><br />
@@ -847,6 +856,8 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Reland: [Rasterizer] Make resubmit information temporary<br />
     <sub>[#45037](https://github.com/flutter/engine/pull/45037) merged on August 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45037) over 21 hours, 46 additions and 31 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+</details>
 
 ### August 12, 2023 to August 18, 2023
 
