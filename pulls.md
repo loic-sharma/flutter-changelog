@@ -83,6 +83,3 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; PlatformRouteInformationProvider should dispatch creation in constructor.<br />
     <sub>[#133492](https://github.com/flutter/flutter/pull/133492) opened on on August 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133492) 21 additions and 1 deletion in 3 files</sub><br />
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Roll engine version to 5aad24.<br />
-    <sub>[#133500](https://github.com/flutter/flutter/pull/133500) opened on on August 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133500) 1 addition and 1 deletion in 1 file</sub><br />
-
