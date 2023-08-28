@@ -72,5 +72,5 @@
     <sub>[#133434](https://github.com/flutter/flutter/pull/133434) opened on on August 28, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/133434) 343 additions and 0 deletions in 9 files</sub><br />
 
 * **[Gildásio Filho](https://github.com/gildaswise)** &mdash; Update findChildIndexCallback comment<br />
-    <sub>[#133469](https://github.com/flutter/flutter/pull/133469) opened on on August 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133469) 6 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#133469](https://github.com/flutter/flutter/pull/133469) opened on on August 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133469) 10 additions and 2 deletions in 2 files</sub><br />
 
