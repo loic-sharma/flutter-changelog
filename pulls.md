@@ -63,7 +63,7 @@
     <sub>[#133413](https://github.com/flutter/flutter/pull/133413) opened on on August 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133413) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Burak İmdat](https://github.com/burakJs)** &mdash; Fix `subtitleTextStyle.color` isn't applied to the `ListTile.subtitle` in Material 2<br />
-    <sub>[#133422](https://github.com/flutter/flutter/pull/133422) opened on on August 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133422) 3 additions and 4 deletions in 2 files</sub><br />
+    <sub>[#133422](https://github.com/flutter/flutter/pull/133422) opened on on August 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/133422) 3 additions and 4 deletions in 2 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; add benchmark for scrolling very long pictures<br />
     <sub>[#133434](https://github.com/flutter/flutter/pull/133434) opened on on August 28, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/133434) 343 additions and 0 deletions in 9 files</sub><br />
@@ -74,9 +74,15 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; No longer include `.packages` in created `.gitignore` files<br />
     <sub>[#133484](https://github.com/flutter/flutter/pull/133484) opened on on August 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133484) 0 additions and 4 deletions in 4 files</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; FocusNode and FocusManager should dispatch creation in constructor.<br />
+    <sub>[#133490](https://github.com/flutter/flutter/pull/133490) opened on on August 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133490) 76 additions and 17 deletions in 4 files</sub><br />
+
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Added DropdownMenuEntry.labelWidget<br />
     <sub>[#133491](https://github.com/flutter/flutter/pull/133491) opened on on August 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133491) 253 additions and 2 deletions in 4 files</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; PlatformRouteInformationProvider should dispatch creation in constructor.<br />
-    <sub>[#133492](https://github.com/flutter/flutter/pull/133492) opened on on August 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133492) 21 additions and 1 deletion in 3 files</sub><br />
+    <sub>[#133492](https://github.com/flutter/flutter/pull/133492) opened on on August 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133492) 21 additions and 1 deletion in 3 files</sub><br />
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Use flutter pub get instead of dart pub get in create_api_docs.dart<br />
+    <sub>[#133493](https://github.com/flutter/flutter/pull/133493) opened on on August 28, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/133493) 161 additions and 155 deletions in 4 files</sub><br />
 
