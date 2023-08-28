@@ -63,7 +63,7 @@
     <sub>[#133373](https://github.com/flutter/flutter/pull/133373) opened on on August 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133373) 60 additions and 6 deletions in 2 files</sub><br />
 
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; [WIP] Size CupertinoTextSelectionToolbar to children<br />
-    <sub>[#133386](https://github.com/flutter/flutter/pull/133386) opened on on August 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133386) 67 additions and 78 deletions in 1 file</sub><br />
+    <sub>[#133386](https://github.com/flutter/flutter/pull/133386) opened on on August 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133386) 74 additions and 85 deletions in 3 files</sub><br />
 
 * **[Shreyash Kashyap](https://github.com/SYK-08)** &mdash; Update README.md<br />
     <sub>[#133411](https://github.com/flutter/flutter/pull/133411) opened on on August 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133411) 4 additions and 4 deletions in 1 file</sub><br />
