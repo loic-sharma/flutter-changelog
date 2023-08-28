@@ -60,7 +60,7 @@
     <sub>[#133365](https://github.com/flutter/flutter/pull/133365) opened on on August 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133365) 94 additions and 48 deletions in 4 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix TypeError when a FileSystemException happens during flutter doctor<br />
-    <sub>[#133373](https://github.com/flutter/flutter/pull/133373) opened on on August 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133373) 60 additions and 6 deletions in 2 files</sub><br />
+    <sub>[#133373](https://github.com/flutter/flutter/pull/133373) opened on on August 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133373) 60 additions and 6 deletions in 2 files</sub><br />
 
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; [WIP] Size CupertinoTextSelectionToolbar to children<br />
     <sub>[#133386](https://github.com/flutter/flutter/pull/133386) opened on on August 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133386) 67 additions and 78 deletions in 1 file</sub><br />
