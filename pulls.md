@@ -71,3 +71,6 @@
 * **[lucifer10042003](https://github.com/lucifer10042003)** &mdash; Update 1_activation.yml<br />
     <sub>[#133413](https://github.com/flutter/flutter/pull/133413) opened on on August 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133413) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Burak İmdat](https://github.com/burakJs)** &mdash; Fix SubTitleTextStyle For ListTile<br />
+    <sub>[#133422](https://github.com/flutter/flutter/pull/133422) opened on on August 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133422) 1 addition and 2 deletions in 1 file</sub><br />
+
