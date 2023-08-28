@@ -56,9 +56,6 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; FocusNode and FocusManager should dispatch creation in constructor.<br />
     <sub>[#133352](https://github.com/flutter/flutter/pull/133352) opened on on August 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133352) 76 additions and 17 deletions in 4 files</sub><br />
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Dispose AnimationSheetRecorder to avoid leaks<br />
-    <sub>[#133365](https://github.com/flutter/flutter/pull/133365) opened on on August 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133365) 94 additions and 48 deletions in 4 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix TypeError when a FileSystemException happens during flutter doctor<br />
     <sub>[#133373](https://github.com/flutter/flutter/pull/133373) opened on on August 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133373) 60 additions and 6 deletions in 2 files</sub><br />
 
