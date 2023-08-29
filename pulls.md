@@ -83,3 +83,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix MaterialState.pressed is missing when pressing button with keyboard<br />
     <sub>[#133558](https://github.com/flutter/flutter/pull/133558) opened on on August 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133558) 52 additions and 2 deletions in 2 files</sub><br />
 
+* **[Altynbek Aidarbekov](https://github.com/altynbek132)** &mdash; make PageView example scrollable on desktops and other platforms<br />
+    <sub>[#133560](https://github.com/flutter/flutter/pull/133560) opened on on August 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133560) 9 additions and 0 deletions in 1 file</sub><br />
+
