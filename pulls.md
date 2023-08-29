@@ -89,3 +89,9 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated DropdownMenu example and added a test<br />
     <sub>[#133592](https://github.com/flutter/flutter/pull/133592) opened on on August 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133592) 112 additions and 44 deletions in 2 files</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix one notDisposed leak and mark another.<br />
+    <sub>[#133595](https://github.com/flutter/flutter/pull/133595) opened on on August 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133595) 15 additions and 2 deletions in 2 files</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Cover more tests with leak tracking.<br />
+    <sub>[#133596](https://github.com/flutter/flutter/pull/133596) opened on on August 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133596) 6 additions and 6 deletions in 1 file</sub><br />
+
