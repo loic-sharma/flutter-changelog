@@ -83,3 +83,9 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Allow multiple ParentDataWidgets to write to ParentData<br />
     <sub>[#133581](https://github.com/flutter/flutter/pull/133581) opened on on August 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133581) 220 additions and 31 deletions in 4 files</sub><br />
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated the first DropdownMenu example and created a test<br />
+    <sub>[#133587](https://github.com/flutter/flutter/pull/133587) opened on on August 29, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/133587) 319 additions and 46 deletions in 5 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Ignore macOS Cocoapods linting failure on DT_TOOLCHAIN_DIR error<br />
+    <sub>[#133588](https://github.com/flutter/flutter/pull/133588) opened on on August 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133588) 24 additions and 4 deletions in 2 files</sub><br />
+
