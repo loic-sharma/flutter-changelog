@@ -80,3 +80,6 @@
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; `RefreshIndicator.noSpinner` implementation<br />
     <sub>[#133507](https://github.com/flutter/flutter/pull/133507) opened on on August 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133507) 99 additions and 3 deletions in 2 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix MaterialState.pressed is missing when pressing button with keyboard<br />
+    <sub>[#133558](https://github.com/flutter/flutter/pull/133558) opened on on August 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133558) 52 additions and 2 deletions in 2 files</sub><br />
+
