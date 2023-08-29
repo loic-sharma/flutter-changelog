@@ -4,7 +4,7 @@
 
 ### August 26, 2023 to September 1, 2023
 
-20 commits.
+21 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add FAB Additional Color Mappings example
     <sub>[#133453](https://github.com/flutter/flutter/pull/133453) merged on August 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133453) over 1 day, 153 additions and 5 deletions in 5 files</sub>
@@ -15,6 +15,10 @@
     <sub>[#133271](https://github.com/flutter/flutter/pull/133271) merged on August 28, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/133271) over 4 days, 74 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
     <sub><details><summary>2 images...</summary><img width="341" alt="Screenshot 2023-08-24 at 1 17 25 PM" src="https://github.com/flutter/flutter/assets/948037/30ea0ef8-b41a-4e1f-93a3-50fcd87ab2bf"><img width="341" alt="Screenshot 2023-08-24 at 1 15 35 PM" src="https://github.com/flutter/flutter/assets/948037/5f59481c-aa5d-4850-aa4b-daa678e54044"></details></sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Migrate remaining web-only API usages to `dart:ui_web`
+    <sub>[#132248](https://github.com/flutter/flutter/pull/132248) merged on August 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132248) over 2 weeks, 8 additions and 10 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Remove `ImageProvider.load`, `DecoderCallback` and `PaintingB…
     <sub>[#133482](https://github.com/flutter/flutter/pull/133482) merged on August 28, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/133482) over 4 hours, 345 additions and 75 deletions in 18 files</sub>
@@ -227,7 +231,7 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Fix locking to work with flutter and dart running simultaneously
     <sub>[#133350](https://github.com/flutter/flutter/pull/133350) merged on August 25, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/133350) over 55 minutes, 21 additions and 3 deletions in 3 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Always require `--local-engine-host` if `--local-engine`
     <sub>[#133003](https://github.com/flutter/flutter/pull/133003) merged on August 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133003) over 2 hours, 20 additions and 83 deletions in 4 files</sub>
@@ -961,11 +965,11 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "[Impeller] Add debug captures and inspector."
     <sub>[#45062](https://github.com/flutter/engine/pull/45062) merged on August 24, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/45062) over 33 minutes, 55 additions and 995 deletions in 21 files</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland debug captures and inspector.
     <sub>[#45094](https://github.com/flutter/engine/pull/45094) merged on August 25, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/45094) over 19 hours, 1014 additions and 58 deletions in 22 files</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 87a5a26b25fc to bcad589d5d81 (4 revisions)
     <sub>[#45065](https://github.com/flutter/engine/pull/45065) merged on August 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45065) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
@@ -1265,7 +1269,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.9.0 to 1.9.10 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#4798](https://github.com/flutter/packages/pull/4798) merged on August 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4798) over 9 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.9.0&new-version=1.9.10)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Implement /* block comments */ in the text format
@@ -1283,7 +1287,7 @@
 
 * **[Raul Vilar](https://github.com/raulsvilar)** &mdash; [camera_android]: Fixes crash when record video on Android versions lower than 12
     <sub>[#4635](https://github.com/flutter/packages/pull/4635) merged on August 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4635) over 2 weeks, 5 additions and 5 deletions in 3 files</sub>
-    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Jason C.H](https://github.com/ctrysbita)** &mdash; [flutter_adaptive_scaffold] Fix top padding for NavigationBar
     <sub>[#4661](https://github.com/flutter/packages/pull/4661) merged on August 22, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4661) over 2 weeks, 20 additions and 10 deletions in 5 files</sub>
@@ -1303,7 +1307,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump io.mockk:mockk from 1.13.5 to 1.13.7 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#4736](https://github.com/flutter/packages/pull/4736) merged on August 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4736) over 4 days, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=io.mockk:mockk&package-manager=gradle&previous-version=1.13.5&new-version=1.13.7)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Support web (as JS)
@@ -1335,7 +1339,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [platform] Import the `platform` package
     <sub>[#4613](https://github.com/flutter/packages/pull/4613) merged on August 16, 2023 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/4613) over 2 weeks, 815 additions and 1 deletion in 15 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Wrap classes to implement resolution configuration for video capture
     <sub>[#4620](https://github.com/flutter/packages/pull/4620) merged on August 15, 2023 &mdash; **Extra large:** [20 comments](https://github.com/flutter/packages/pull/4620) over 2 weeks, 2105 additions and 46 deletions in 22 files</sub>
