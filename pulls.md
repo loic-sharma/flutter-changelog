@@ -80,6 +80,3 @@
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; `RefreshIndicator.noSpinner` implementation<br />
     <sub>[#133507](https://github.com/flutter/flutter/pull/133507) opened on on August 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133507) 99 additions and 3 deletions in 2 files</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; add missing forwards of local-engine-host in benchmark runners<br />
-    <sub>[#133517](https://github.com/flutter/flutter/pull/133517) opened on on August 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133517) 2 additions and 0 deletions in 1 file</sub><br />
-
