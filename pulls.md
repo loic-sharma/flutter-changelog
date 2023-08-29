@@ -87,5 +87,5 @@
     <sub>[#133588](https://github.com/flutter/flutter/pull/133588) opened on on August 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133588) 24 additions and 4 deletions in 2 files</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated DropdownMenu example and added a test<br />
-    <sub>[#133592](https://github.com/flutter/flutter/pull/133592) opened on on August 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133592) 112 additions and 44 deletions in 2 files</sub><br />
+    <sub>[#133592](https://github.com/flutter/flutter/pull/133592) opened on on August 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133592) 112 additions and 45 deletions in 3 files</sub><br />
 
