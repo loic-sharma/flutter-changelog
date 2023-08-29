@@ -80,6 +80,6 @@
 * **[Altynbek Aidarbekov](https://github.com/altynbek132)** &mdash; make PageView example scrollable on desktops and other platforms<br />
     <sub>[#133560](https://github.com/flutter/flutter/pull/133560) opened on on August 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133560) 9 additions and 0 deletions in 1 file</sub><br />
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Remove cirrus tests from the flutter framework.<br />
-    <sub>[#133575](https://github.com/flutter/flutter/pull/133575) opened on on August 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133575) 0 additions and 158 deletions in 1 file</sub><br />
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Allow multiple ParentDataWidgets to write to ParentData<br />
+    <sub>[#133581](https://github.com/flutter/flutter/pull/133581) opened on on August 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133581) 220 additions and 31 deletions in 4 files</sub><br />
 
