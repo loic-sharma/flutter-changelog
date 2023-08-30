@@ -35,9 +35,6 @@
 * **[Burak İmdat](https://github.com/burakJs)** &mdash; Add viewSearchOnChanged to SearchAnchor<br />
     <sub>[#132924](https://github.com/flutter/flutter/pull/132924) opened on on August 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/132924) 16 additions and 2 deletions in 1 file</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; [CP] Fix visual overflow for SliverMainAxisGroup (#132989)<br />
-    <sub>[#133057](https://github.com/flutter/flutter/pull/133057) opened on on August 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133057) 5 additions and 0 deletions in 2 files</sub><br />
-
 * **[YeLinAung](https://github.com/b14cknc0d3)** &mdash; added '.fvm/flutter_sdk ' in .gitignore.tmp<br />
     <sub>[#133107](https://github.com/flutter/flutter/pull/133107) opened on on August 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133107) 3 additions and 0 deletions in 1 file</sub><br />
 
