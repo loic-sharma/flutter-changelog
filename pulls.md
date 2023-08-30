@@ -65,9 +65,6 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; add benchmark for scrolling very long pictures<br />
     <sub>[#133434](https://github.com/flutter/flutter/pull/133434) opened on on August 28, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/133434) 343 additions and 0 deletions in 9 files</sub><br />
 
-* **[Gildásio Filho](https://github.com/gildaswise)** &mdash; Update findChildIndexCallback comment<br />
-    <sub>[#133469](https://github.com/flutter/flutter/pull/133469) opened on on August 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133469) 10 additions and 2 deletions in 2 files</sub><br />
-
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; `RefreshIndicator.noSpinner` implementation<br />
     <sub>[#133507](https://github.com/flutter/flutter/pull/133507) opened on on August 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133507) 99 additions and 3 deletions in 2 files</sub><br />
 
