@@ -86,3 +86,9 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in RenderAnimatedSize<br />
     <sub>[#133653](https://github.com/flutter/flutter/pull/133653) opened on on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133653) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Expose barrierDismissible in PageRoute constructor<br />
+    <sub>[#133659](https://github.com/flutter/flutter/pull/133659) opened on on August 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133659) 55 additions and 2 deletions in 4 files</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in DropdownButton<br />
+    <sub>[#133660](https://github.com/flutter/flutter/pull/133660) opened on on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133660) 45 additions and 10 deletions in 1 file</sub><br />
+
