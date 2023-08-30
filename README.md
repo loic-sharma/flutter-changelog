@@ -24,6 +24,10 @@
     <sub>[#133491](https://github.com/flutter/flutter/pull/133491) merged on August 29, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/133491) over 1 day, 259 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Michel Feinstein](https://github.com/feinstein), [Greg Spencer](https://github.com/gspencergoog), [Navaron Bracke](https://github.com/navaronbracke), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
+* **[Salmanul Farisi.M.](https://github.com/salmanulfarisi)** &mdash; added option to change color of heading row(flutter#132428)<br />
+    <sub>[#132728](https://github.com/flutter/flutter/pull/132728) merged on August 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/132728) over 1 week, 35 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Hans Muller](https://github.com/HansMuller), [chunhtai](https://github.com/chunhtai)</sub><br />
+
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Use a fake stopwatch to remove flakiness.<br />
     <sub>[#133229](https://github.com/flutter/flutter/pull/133229) merged on August 29, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/133229) over 5 days, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
@@ -31,10 +35,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Remove `ImageProvider.load`, `DecoderCallback` and `PaintingB…<br />
     <sub>[#133482](https://github.com/flutter/flutter/pull/133482) merged on August 28, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/133482) over 4 hours, 345 additions and 75 deletions in 18 files</sub><br />
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
-
-* **[Salmanul Farisi.M.](https://github.com/salmanulfarisi)** &mdash; added option to change color of heading row(flutter#132428)<br />
-    <sub>[#132728](https://github.com/flutter/flutter/pull/132728) merged on August 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/132728) over 1 week, 35 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Hans Muller](https://github.com/HansMuller), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add doxygen doc generation.<br />
     <sub>[#131356](https://github.com/flutter/flutter/pull/131356) merged on August 29, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/131356) over 1 month, 135 additions and 36 deletions in 9 files</sub><br />
