@@ -80,3 +80,6 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leak in _DraggableScrollableSheetState.<br />
     <sub>[#133693](https://github.com/flutter/flutter/pull/133693) opened on on August 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133693) 6 additions and 5 deletions in 2 files</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix clipBehavior ignored in Scrollable of SingleChildScrollView<br />
+    <sub>[#133696](https://github.com/flutter/flutter/pull/133696) opened on on August 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133696) 29 additions and 2 deletions in 2 files</sub><br />
+
