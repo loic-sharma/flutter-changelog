@@ -4,7 +4,7 @@
 
 ### August 26, 2023 to September 1, 2023
 
-28 commits.
+29 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add FAB Additional Color Mappings example<br />
     <sub>[#133453](https://github.com/flutter/flutter/pull/133453) merged on August 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133453) over 1 day, 153 additions and 5 deletions in 5 files</sub><br />
@@ -95,6 +95,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; PlatformRouteInformationProvider  should dispatch creation in constructor.<br />
     <sub>[#133353](https://github.com/flutter/flutter/pull/133353) merged on August 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133353) over 2 days, 21 additions and 1 deletion in 3 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Remove cirrus tests from the flutter framework.<br />
+    <sub>[#133575](https://github.com/flutter/flutter/pull/133575) merged on August 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133575) over 10 hours, 0 additions and 158 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Fix `Chip.shape`'s side is not used when provided in Material 3"<br />
     <sub>[#133615](https://github.com/flutter/flutter/pull/133615) merged on August 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133615) over 2 hours, 8 additions and 127 deletions in 4 files</sub><br />
