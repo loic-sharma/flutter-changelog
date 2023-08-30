@@ -601,7 +601,7 @@
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [Reland] #131609<br />
     <sub>[#132555](https://github.com/flutter/flutter/pull/132555) merged on August 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132555) over 16 hours, 197 additions and 11 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Revert "[Windows] Allow overwriting the cache's Dart SDK archive license file"<br />
     <sub>[#132773](https://github.com/flutter/flutter/pull/132773) merged on August 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132773) over 1 minute, 3 additions and 119 deletions in 2 files</sub><br />
@@ -620,7 +620,7 @@
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Read `--dart-define` in `RendererBinding.initInstances()`<br />
     <sub>[#132408](https://github.com/flutter/flutter/pull/132408) merged on August 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/132408) over 4 hours, 6 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun), [Ian Hickson](https://github.com/Hixie)</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Fix `PopupMenuItem` & `CheckedPopupMenuItem` has redundant `ListTile` padding and update default horizontal padding for Material 3"<br />
     <sub>[#132457](https://github.com/flutter/flutter/pull/132457) merged on August 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132457) over 6 hours, 11 additions and 197 deletions in 3 files</sub><br />
@@ -823,7 +823,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Fix stencil buffer format selection on Vulkan backend, add support for D24UnormS8Uint<br />
     <sub>[#45025](https://github.com/flutter/engine/pull/45025) merged on August 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/45025) over 4 hours, 44 additions and 1 deletion in 6 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix mask blurs and the Gaussian blur coverage hint.<br />
     <sub>[#45079](https://github.com/flutter/engine/pull/45079) merged on August 25, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/45079) over 1 day, 123 additions and 43 deletions in 10 files</sub><br />
@@ -935,7 +935,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix a clang-tidy error seen in the latest toolchain roll<br />
     <sub>[#45039](https://github.com/flutter/engine/pull/45039) merged on August 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45039) over 35 minutes, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove --enable-software-rendering from iOS scenario tests<br />
     <sub>[#45093](https://github.com/flutter/engine/pull/45093) merged on August 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45093) over 17 hours, 50 additions and 10 deletions in 8 files</sub><br />
