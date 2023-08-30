@@ -74,3 +74,6 @@
 * **[Altynbek Aidarbekov](https://github.com/altynbek132)** &mdash; K all draggable scroll behavior in examples<br />
     <sub>[#133674](https://github.com/flutter/flutter/pull/133674) opened on on August 30, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/133674) 511 additions and 115 deletions in 394 files</sub><br />
 
+* **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Deprecates onWillAccept and onAccept callbacks in DragTarget.<br />
+    <sub>[#133691](https://github.com/flutter/flutter/pull/133691) opened on on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133691) 100 additions and 0 deletions in 4 files</sub><br />
+
