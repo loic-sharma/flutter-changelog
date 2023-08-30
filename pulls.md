@@ -78,7 +78,7 @@
     <sub>[#133588](https://github.com/flutter/flutter/pull/133588) opened on on August 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133588) 24 additions and 4 deletions in 2 files</sub><br />
 
 * **[Mark O'Sullivan](https://github.com/MarkOSullivan94)** &mdash; Fixed PaginatedDataTable not using dataRowMinHeight and dataRowMaxHeight from Theme<br />
-    <sub>[#133634](https://github.com/flutter/flutter/pull/133634) opened on on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133634) 4 additions and 4 deletions in 1 file</sub><br />
+    <sub>[#133634](https://github.com/flutter/flutter/pull/133634) opened on on August 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133634) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[NikhilKR25](https://github.com/NikhilKR25)** &mdash; Add Comments and Documentation to Test Execution and Server Code<br />
     <sub>[#133649](https://github.com/flutter/flutter/pull/133649) opened on on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133649) 13 additions and 2 deletions in 1 file</sub><br />
