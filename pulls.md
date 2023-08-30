@@ -74,9 +74,6 @@
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; `RefreshIndicator.noSpinner` implementation<br />
     <sub>[#133507](https://github.com/flutter/flutter/pull/133507) opened on on August 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133507) 99 additions and 3 deletions in 2 files</sub><br />
 
-* **[Altynbek Aidarbekov](https://github.com/altynbek132)** &mdash; make PageView example scrollable on desktops and other platforms<br />
-    <sub>[#133560](https://github.com/flutter/flutter/pull/133560) opened on on August 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133560) 9 additions and 0 deletions in 1 file</sub><br />
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Allow multiple ParentDataWidgets to write to ParentData<br />
     <sub>[#133581](https://github.com/flutter/flutter/pull/133581) opened on on August 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133581) 220 additions and 31 deletions in 4 files</sub><br />
 
@@ -94,4 +91,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in DropdownButton<br />
     <sub>[#133660](https://github.com/flutter/flutter/pull/133660) opened on on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133660) 45 additions and 10 deletions in 1 file</sub><br />
+
+* **[Altynbek Aidarbekov](https://github.com/altynbek132)** &mdash; K all draggable scroll behavior in examples<br />
+    <sub>[#133674](https://github.com/flutter/flutter/pull/133674) opened on on August 30, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/133674) 511 additions and 115 deletions in 394 files</sub><br />
 
