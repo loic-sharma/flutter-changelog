@@ -83,3 +83,6 @@
 * **[NikhilKR25](https://github.com/NikhilKR25)** &mdash; Add Comments and Documentation to Test Execution and Server Code<br />
     <sub>[#133649](https://github.com/flutter/flutter/pull/133649) opened on on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133649) 13 additions and 2 deletions in 1 file</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in RenderAnimatedSize<br />
+    <sub>[#133653](https://github.com/flutter/flutter/pull/133653) opened on on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133653) 2 additions and 0 deletions in 1 file</sub><br />
+
