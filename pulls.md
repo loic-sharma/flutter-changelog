@@ -77,3 +77,6 @@
 * **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Deprecates onWillAccept and onAccept callbacks in DragTarget.<br />
     <sub>[#133691](https://github.com/flutter/flutter/pull/133691) opened on on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133691) 100 additions and 0 deletions in 4 files</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Removes ios universal link vmservices and let xcodeproject to dump js…<br />
+    <sub>[#133709](https://github.com/flutter/flutter/pull/133709) opened on on August 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133709) 40 additions and 165 deletions in 7 files</sub><br />
+
