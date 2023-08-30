@@ -41,9 +41,6 @@
 * **[YeLinAung](https://github.com/b14cknc0d3)** &mdash; added '.fvm/flutter_sdk ' in .gitignore.tmp<br />
     <sub>[#133107](https://github.com/flutter/flutter/pull/133107) opened on on August 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133107) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Remove deprecated TestWindow.platformBrightnessTestValue/TestWindow.clearPlatformBrightnessTestValue<br />
-    <sub>[#133178](https://github.com/flutter/flutter/pull/133178) opened on on August 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133178) 1 addition and 19 deletions in 2 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix TypeError when a FileSystemException happens during flutter doctor<br />
     <sub>[#133373](https://github.com/flutter/flutter/pull/133373) opened on on August 26, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/133373) 62 additions and 12 deletions in 6 files</sub><br />
 
