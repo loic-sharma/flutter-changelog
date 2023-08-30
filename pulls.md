@@ -2,9 +2,6 @@
 
 ## flutter/flutter
 
-* **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Added hoverColor property to CheckboxListTile widget<br />
-    <sub>[#116026](https://github.com/flutter/flutter/pull/116026) opened on on November 25, 2022 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/116026) 23 additions and 1 deletion in 3 files</sub><br />
-
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Added hoverColor property on ExpansionTile widget<br />
     <sub>[#116030](https://github.com/flutter/flutter/pull/116030) opened on on November 25, 2022 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/116030) 31 additions and 0 deletions in 3 files</sub><br />
 
