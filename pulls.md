@@ -80,6 +80,9 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Ignore macOS Cocoapods linting failure on DT_TOOLCHAIN_DIR error<br />
     <sub>[#133588](https://github.com/flutter/flutter/pull/133588) opened on on August 29, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/133588) 37 additions and 16 deletions in 2 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] use ImageFilter for stretch overscroll.<br />
+    <sub>[#133613](https://github.com/flutter/flutter/pull/133613) opened on on August 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133613) 1 addition and 1 deletion in 1 file</sub><br />
+
 * **[Mark O'Sullivan](https://github.com/MarkOSullivan94)** &mdash; Fixed `PaginatedDataTable` not using `dataRowMinHeight` and `dataRowMaxHeight` from Theme<br />
     <sub>[#133634](https://github.com/flutter/flutter/pull/133634) opened on on August 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133634) 4 additions and 4 deletions in 1 file</sub><br />
 
