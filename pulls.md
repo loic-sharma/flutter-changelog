@@ -71,9 +71,6 @@
 * **[NikhilKR25](https://github.com/NikhilKR25)** &mdash; Add Comments and Documentation to Test Execution and Server Code<br />
     <sub>[#133649](https://github.com/flutter/flutter/pull/133649) opened on on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133649) 13 additions and 2 deletions in 1 file</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in DropdownButton<br />
-    <sub>[#133660](https://github.com/flutter/flutter/pull/133660) opened on on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133660) 45 additions and 10 deletions in 1 file</sub><br />
-
 * **[Altynbek Aidarbekov](https://github.com/altynbek132)** &mdash; K all draggable scroll behavior in examples<br />
     <sub>[#133674](https://github.com/flutter/flutter/pull/133674) opened on on August 30, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/133674) 511 additions and 115 deletions in 394 files</sub><br />
 
