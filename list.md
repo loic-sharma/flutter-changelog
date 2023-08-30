@@ -4,7 +4,7 @@
 
 ### August 26, 2023 to September 1, 2023
 
-29 commits.
+30 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add FAB Additional Color Mappings example
     <sub>[#133453](https://github.com/flutter/flutter/pull/133453) merged on August 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133453) over 1 day, 153 additions and 5 deletions in 5 files</sub>
@@ -19,6 +19,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Migrate remaining web-only API usages to `dart:ui_web`
     <sub>[#132248](https://github.com/flutter/flutter/pull/132248) merged on August 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132248) over 2 weeks, 8 additions and 10 deletions in 2 files</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update SelectableRegion test for M3
+    <sub>[#129627](https://github.com/flutter/flutter/pull/129627) merged on August 30, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/129627) over 2 months, 9 additions and 5 deletions in 2 files</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Added DropdownMenuEntry.labelWidget
     <sub>[#133491](https://github.com/flutter/flutter/pull/133491) merged on August 29, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/133491) over 1 day, 259 additions and 2 deletions in 4 files</sub>
