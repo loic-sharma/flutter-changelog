@@ -86,6 +86,3 @@
 * **[rmri](https://github.com/intonarumori)** &mdash; Fixes the issue of not being able to stop scrolling by dragging the content again<br />
     <sub>[#133750](https://github.com/flutter/flutter/pull/133750) opened on on August 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133750) 109 additions and 94 deletions in 1 file</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; ScrollController creation dispatching for memory leaks tracking<br />
-    <sub>[#133759](https://github.com/flutter/flutter/pull/133759) opened on on August 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133759) 217 additions and 59 deletions in 9 files</sub><br />
-
