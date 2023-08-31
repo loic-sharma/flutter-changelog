@@ -80,12 +80,6 @@
 * **[awholegnuworld](https://github.com/awholegnuworld)** &mdash; Spawing subshell unnecessarily <br />
     <sub>[#133710](https://github.com/flutter/flutter/pull/133710) opened on on August 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133710) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; _ResetNotifier  should communicate creation in constructor.<br />
-    <sub>[#133716](https://github.com/flutter/flutter/pull/133716) opened on on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133716) 5 additions and 0 deletions in 1 file</sub><br />
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; _FocusTraversalGroupNode should communicate creation in constructor.<br />
-    <sub>[#133717](https://github.com/flutter/flutter/pull/133717) opened on on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133717) 5 additions and 1 deletion in 1 file</sub><br />
-
 * **[Yash Kite](https://github.com/yashkite)** &mdash; Added explanatory comments to clarify code functionality<br />
     <sub>[#133749](https://github.com/flutter/flutter/pull/133749) opened on on August 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133749) 40 additions and 7 deletions in 2 files</sub><br />
 
