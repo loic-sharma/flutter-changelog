@@ -81,7 +81,7 @@
     <sub>[#133750](https://github.com/flutter/flutter/pull/133750) opened on on August 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133750) 109 additions and 94 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover some test/widgets tests with leak tracking<br />
-    <sub>[#133803](https://github.com/flutter/flutter/pull/133803) opened on on August 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133803) 145 additions and 118 deletions in 12 files</sub><br />
+    <sub>[#133803](https://github.com/flutter/flutter/pull/133803) opened on on August 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133803) 145 additions and 118 deletions in 12 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Reland leak fix for EditableTextState<br />
     <sub>[#133806](https://github.com/flutter/flutter/pull/133806) opened on on August 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133806) 7 additions and 27 deletions in 2 files</sub><br />
