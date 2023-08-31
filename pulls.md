@@ -69,7 +69,7 @@
     <sub>[#133691](https://github.com/flutter/flutter/pull/133691) opened on on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133691) 100 additions and 0 deletions in 4 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Removes ios universal link vmservices and let xcodeproject to dump js…<br />
-    <sub>[#133709](https://github.com/flutter/flutter/pull/133709) opened on on August 30, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/133709) 40 additions and 165 deletions in 7 files</sub><br />
+    <sub>[#133709](https://github.com/flutter/flutter/pull/133709) opened on on August 30, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/133709) 40 additions and 171 deletions in 8 files</sub><br />
 
 * **[awholegnuworld](https://github.com/awholegnuworld)** &mdash; Spawing subshell unnecessarily <br />
     <sub>[#133710](https://github.com/flutter/flutter/pull/133710) opened on on August 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133710) 2 additions and 2 deletions in 1 file</sub><br />
