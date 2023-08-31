@@ -81,5 +81,5 @@
     <sub>[#133750](https://github.com/flutter/flutter/pull/133750) opened on on August 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133750) 109 additions and 94 deletions in 1 file</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; give --task-args option in `test_runner` a help description<br />
-    <sub>[#133791](https://github.com/flutter/flutter/pull/133791) opened on on August 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133791) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#133791](https://github.com/flutter/flutter/pull/133791) opened on on August 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133791) 1 addition and 1 deletion in 1 file</sub><br />
 
