@@ -80,6 +80,3 @@
 * **[rmri](https://github.com/intonarumori)** &mdash; Fixes the issue of not being able to stop scrolling by dragging the content again<br />
     <sub>[#133750](https://github.com/flutter/flutter/pull/133750) opened on on August 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133750) 109 additions and 94 deletions in 1 file</sub><br />
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Roll engine to b93c76ab9.<br />
-    <sub>[#133798](https://github.com/flutter/flutter/pull/133798) opened on on August 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133798) 1 addition and 1 deletion in 1 file</sub><br />
-
