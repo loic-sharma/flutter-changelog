@@ -60,7 +60,7 @@
     <sub>[#133581](https://github.com/flutter/flutter/pull/133581) opened on on August 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133581) 220 additions and 31 deletions in 4 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Ignore macOS Cocoapods linting failure on DT_TOOLCHAIN_DIR error<br />
-    <sub>[#133588](https://github.com/flutter/flutter/pull/133588) opened on on August 29, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/133588) 37 additions and 16 deletions in 2 files</sub><br />
+    <sub>[#133588](https://github.com/flutter/flutter/pull/133588) opened on on August 29, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/133588) 37 additions and 16 deletions in 2 files</sub><br />
 
 * **[Mark O'Sullivan](https://github.com/MarkOSullivan94)** &mdash; Fixed `PaginatedDataTable` not using `dataRowMinHeight` and `dataRowMaxHeight` from Theme<br />
     <sub>[#133634](https://github.com/flutter/flutter/pull/133634) opened on on August 30, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/133634) 38 additions and 5 deletions in 2 files</sub><br />
