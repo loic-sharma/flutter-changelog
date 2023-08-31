@@ -80,6 +80,3 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change android_virtual_device to version 34<br />
     <sub>[#133809](https://github.com/flutter/flutter/pull/133809) opened on on August 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133809) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [CP] Fix flutter upgrade failing with "Unknown Flutter tag" to 3.14<br />
-    <sub>[#133821](https://github.com/flutter/flutter/pull/133821) opened on on August 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133821) 45 additions and 11 deletions in 3 files</sub><br />
-
