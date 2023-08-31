@@ -12,7 +12,7 @@
     <sub>[#132273](https://github.com/flutter/flutter/pull/132273) opened on on August 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132273) 46 additions and 12 deletions in 4 files</sub><br />
 
 * **[Mikhail](https://github.com/mishapark)** &mdash; WIP Fix/bottom navigation bar splash radius<br />
-    <sub>[#132396](https://github.com/flutter/flutter/pull/132396) opened on on August 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132396) 9 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#132396](https://github.com/flutter/flutter/pull/132396) opened on on August 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132396) 9 additions and 1 deletion in 1 file</sub><br />
 
 * **[Aiko Ramalho](https://github.com/AikoRamalho)** &mdash; Removing deprecated JFrog's java jdk and replace it with Adoptium's.<br />
     <sub>[#132472](https://github.com/flutter/flutter/pull/132472) opened on on August 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132472) 0 additions and 0 deletions in 0 files</sub><br />
