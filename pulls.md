@@ -51,7 +51,7 @@
     <sub>[#133413](https://github.com/flutter/flutter/pull/133413) opened on on August 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133413) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Burak İmdat](https://github.com/burakJs)** &mdash; Fix `subtitleTextStyle.color` isn't applied to the `ListTile.subtitle` in Material 2<br />
-    <sub>[#133422](https://github.com/flutter/flutter/pull/133422) opened on on August 28, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/133422) 3 additions and 4 deletions in 2 files</sub><br />
+    <sub>[#133422](https://github.com/flutter/flutter/pull/133422) opened on on August 28, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/133422) 3 additions and 4 deletions in 2 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; add benchmark for scrolling very long pictures<br />
     <sub>[#133434](https://github.com/flutter/flutter/pull/133434) opened on on August 28, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/133434) 343 additions and 0 deletions in 9 files</sub><br />
@@ -66,7 +66,7 @@
     <sub>[#133588](https://github.com/flutter/flutter/pull/133588) opened on on August 29, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/133588) 37 additions and 16 deletions in 2 files</sub><br />
 
 * **[Mark O'Sullivan](https://github.com/MarkOSullivan94)** &mdash; Fixed `PaginatedDataTable` not using `dataRowMinHeight` and `dataRowMaxHeight` from Theme<br />
-    <sub>[#133634](https://github.com/flutter/flutter/pull/133634) opened on on August 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133634) 5 additions and 5 deletions in 1 file</sub><br />
+    <sub>[#133634](https://github.com/flutter/flutter/pull/133634) opened on on August 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/133634) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[NikhilKR25](https://github.com/NikhilKR25)** &mdash; Add Comments and Documentation to Test Execution and Server Code<br />
     <sub>[#133649](https://github.com/flutter/flutter/pull/133649) opened on on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133649) 13 additions and 2 deletions in 1 file</sub><br />
@@ -82,4 +82,7 @@
 
 * **[awholegnuworld](https://github.com/awholegnuworld)** &mdash; Spawing subshell unnecessarily <br />
     <sub>[#133710](https://github.com/flutter/flutter/pull/133710) opened on on August 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133710) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Yash Kite](https://github.com/yashkite)** &mdash; Added explanatory comments to clarify code functionality<br />
+    <sub>[#133749](https://github.com/flutter/flutter/pull/133749) opened on on August 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133749) 40 additions and 7 deletions in 2 files</sub><br />
 
