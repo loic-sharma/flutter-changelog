@@ -42,7 +42,7 @@
     <sub>[#133373](https://github.com/flutter/flutter/pull/133373) opened on on August 26, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/133373) 61 additions and 10 deletions in 6 files</sub><br />
 
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Size CupertinoTextSelectionToolbar to children<br />
-    <sub>[#133386](https://github.com/flutter/flutter/pull/133386) opened on on August 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133386) 74 additions and 85 deletions in 3 files</sub><br />
+    <sub>[#133386](https://github.com/flutter/flutter/pull/133386) opened on on August 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133386) 76 additions and 88 deletions in 4 files</sub><br />
 
 * **[Shreyash Kashyap](https://github.com/SYK-08)** &mdash; Update README.md<br />
     <sub>[#133411](https://github.com/flutter/flutter/pull/133411) opened on on August 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133411) 4 additions and 4 deletions in 1 file</sub><br />
@@ -90,5 +90,5 @@
     <sub>[#133750](https://github.com/flutter/flutter/pull/133750) opened on on August 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133750) 109 additions and 94 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; ScrollController creation dispatching for memory leaks tracking<br />
-    <sub>[#133759](https://github.com/flutter/flutter/pull/133759) opened on on August 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133759) 217 additions and 59 deletions in 9 files</sub><br />
+    <sub>[#133759](https://github.com/flutter/flutter/pull/133759) opened on on August 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133759) 217 additions and 59 deletions in 9 files</sub><br />
 
