@@ -60,7 +60,7 @@
     <sub>[#133581](https://github.com/flutter/flutter/pull/133581) opened on on August 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133581) 220 additions and 31 deletions in 4 files</sub><br />
 
 * **[Mark O'Sullivan](https://github.com/MarkOSullivan94)** &mdash; Fixed `PaginatedDataTable` not using `dataRowMinHeight` and `dataRowMaxHeight` from Theme<br />
-    <sub>[#133634](https://github.com/flutter/flutter/pull/133634) opened on on August 30, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/133634) 38 additions and 5 deletions in 2 files</sub><br />
+    <sub>[#133634](https://github.com/flutter/flutter/pull/133634) opened on on August 30, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/133634) 38 additions and 5 deletions in 2 files</sub><br />
 
 * **[NikhilKR25](https://github.com/NikhilKR25)** &mdash; Add Comments and Documentation to Test Execution and Server Code<br />
     <sub>[#133649](https://github.com/flutter/flutter/pull/133649) opened on on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133649) 13 additions and 2 deletions in 1 file</sub><br />
@@ -72,7 +72,7 @@
     <sub>[#133691](https://github.com/flutter/flutter/pull/133691) opened on on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133691) 100 additions and 0 deletions in 4 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Removes ios universal link vmservices and let xcodeproject to dump js…<br />
-    <sub>[#133709](https://github.com/flutter/flutter/pull/133709) opened on on August 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133709) 40 additions and 165 deletions in 7 files</sub><br />
+    <sub>[#133709](https://github.com/flutter/flutter/pull/133709) opened on on August 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133709) 40 additions and 165 deletions in 7 files</sub><br />
 
 * **[awholegnuworld](https://github.com/awholegnuworld)** &mdash; Spawing subshell unnecessarily <br />
     <sub>[#133710](https://github.com/flutter/flutter/pull/133710) opened on on August 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133710) 2 additions and 2 deletions in 1 file</sub><br />
