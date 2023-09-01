@@ -80,6 +80,3 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark leak in _DayPickerState.<br />
     <sub>[#133863](https://github.com/flutter/flutter/pull/133863) opened on on September 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133863) 8 additions and 2 deletions in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run Mac_arm64_ios run_debug_test_macos in presubmit<br />
-    <sub>[#133869](https://github.com/flutter/flutter/pull/133869) opened on on September 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133869) 0 additions and 1 deletion in 1 file</sub><br />
-
