@@ -69,5 +69,5 @@
     <sub>[#133750](https://github.com/flutter/flutter/pull/133750) opened on on August 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133750) 109 additions and 94 deletions in 1 file</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Day picker should not create MaterialStatesController on every build<br />
-    <sub>[#133884](https://github.com/flutter/flutter/pull/133884) opened on on September 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133884) 14 additions and 3 deletions in 2 files</sub><br />
+    <sub>[#133884](https://github.com/flutter/flutter/pull/133884) opened on on September 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133884) 18 additions and 3 deletions in 2 files</sub><br />
 
