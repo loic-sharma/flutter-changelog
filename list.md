@@ -64,6 +64,10 @@
     <sub>[#131377](https://github.com/flutter/flutter/pull/131377) merged on August 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/131377) over 1 month, 5 additions and 13 deletions in 2 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix MaterialState.pressed is missing when pressing button with keyboard
+    <sub>[#133558](https://github.com/flutter/flutter/pull/133558) merged on September 1, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/133558) over 2 days, 62 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Ignore macOS Cocoapods linting failure on DT_TOOLCHAIN_DIR error
     <sub>[#133588](https://github.com/flutter/flutter/pull/133588) merged on August 31, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/133588) over 1 day, 37 additions and 16 deletions in 2 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
@@ -84,33 +88,29 @@
     <sub>[#133229](https://github.com/flutter/flutter/pull/133229) merged on August 29, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/133229) over 5 days, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Jim Graham](https://github.com/flar)** &mdash; Add benchmark for scrolling very long pictures
-    <sub>[#133434](https://github.com/flutter/flutter/pull/133434) merged on August 31, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/133434) over 3 days, 343 additions and 0 deletions in 9 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix sample code crash, add test
+    <sub>[#133812](https://github.com/flutter/flutter/pull/133812) merged on August 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133812) over 41 minutes, 35 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix clipBehavior ignored in Scrollable of SingleChildScrollView
     <sub>[#133696](https://github.com/flutter/flutter/pull/133696) merged on August 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133696) over 1 day, 19 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix sample code crash, add test
-    <sub>[#133812](https://github.com/flutter/flutter/pull/133812) merged on August 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133812) over 41 minutes, 35 additions and 2 deletions in 3 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix MaterialState.pressed is missing when pressing button with keyboard
-    <sub>[#133558](https://github.com/flutter/flutter/pull/133558) merged on September 1, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/133558) over 2 days, 62 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+* **[Jim Graham](https://github.com/flar)** &mdash; Add benchmark for scrolling very long pictures
+    <sub>[#133434](https://github.com/flutter/flutter/pull/133434) merged on August 31, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/133434) over 3 days, 343 additions and 0 deletions in 9 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run Mac_arm64_ios run_debug_test_macos in presubmit
     <sub>[#133788](https://github.com/flutter/flutter/pull/133788) merged on August 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133788) over 1 hour, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog)</sub>
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Expose barrierDismissible in PageRoute constructor
-    <sub>[#133659](https://github.com/flutter/flutter/pull/133659) merged on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133659) over 6 hours, 55 additions and 2 deletions in 4 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add more documentation for SystemChannels.keyboard getKeyboardState
     <sub>[#133663](https://github.com/flutter/flutter/pull/133663) merged on September 1, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133663) over 1 day, 8 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Expose barrierDismissible in PageRoute constructor
+    <sub>[#133659](https://github.com/flutter/flutter/pull/133659) merged on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133659) over 6 hours, 55 additions and 2 deletions in 4 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Make Route dispatching memory events.
     <sub>[#133721](https://github.com/flutter/flutter/pull/133721) merged on August 31, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/133721) over 23 hours, 52 additions and 2 deletions in 3 files</sub>
