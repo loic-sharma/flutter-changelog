@@ -57,11 +57,8 @@
     <sub>[#133649](https://github.com/flutter/flutter/pull/133649) opened on on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133649) 13 additions and 2 deletions in 1 file</sub><br />
 
 * **[awholegnuworld](https://github.com/awholegnuworld)** &mdash; Spawing subshell unnecessarily <br />
-    <sub>[#133710](https://github.com/flutter/flutter/pull/133710) opened on on August 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133710) 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#133710](https://github.com/flutter/flutter/pull/133710) opened on on August 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/133710) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Day picker should not create MaterialStatesController on every build<br />
     <sub>[#133884](https://github.com/flutter/flutter/pull/133884) opened on on September 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133884) 18 additions and 3 deletions in 2 files</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "fix install checks in flavors devicelab tests"<br />
-    <sub>[#133894](https://github.com/flutter/flutter/pull/133894) opened on on September 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133894) 65 additions and 81 deletions in 3 files</sub><br />
 
