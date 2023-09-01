@@ -60,7 +60,7 @@
     <sub>[#133691](https://github.com/flutter/flutter/pull/133691) opened on on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133691) 106 additions and 6 deletions in 6 files</sub><br />
 
 * **[awholegnuworld](https://github.com/awholegnuworld)** &mdash; Spawing subshell unnecessarily <br />
-    <sub>[#133710](https://github.com/flutter/flutter/pull/133710) opened on on August 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133710) 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#133710](https://github.com/flutter/flutter/pull/133710) opened on on August 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133710) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Yash Kite](https://github.com/yashkite)** &mdash; Added explanatory comments to clarify code functionality<br />
     <sub>[#133749](https://github.com/flutter/flutter/pull/133749) opened on on August 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133749) 40 additions and 7 deletions in 2 files</sub><br />
