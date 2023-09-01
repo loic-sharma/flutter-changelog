@@ -77,6 +77,3 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean fixed TODOs.<br />
     <sub>[#133859](https://github.com/flutter/flutter/pull/133859) opened on on September 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133859) 5 additions and 20 deletions in 2 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark leak in _DayPickerState.<br />
-    <sub>[#133863](https://github.com/flutter/flutter/pull/133863) opened on on September 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133863) 8 additions and 2 deletions in 1 file</sub><br />
-
