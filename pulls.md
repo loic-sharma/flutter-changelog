@@ -71,6 +71,3 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Reland leak fix for EditableTextState<br />
     <sub>[#133806](https://github.com/flutter/flutter/pull/133806) opened on on August 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133806) 7 additions and 27 deletions in 2 files</sub><br />
 
-* **[Arshad Ansari](https://github.com/arsd-ansari)** &mdash; minor doc update<br />
-    <sub>[#133841](https://github.com/flutter/flutter/pull/133841) opened on on September 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133841) 2 additions and 2 deletions in 1 file</sub><br />
-
