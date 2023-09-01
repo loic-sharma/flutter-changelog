@@ -421,7 +421,7 @@
     <sub>[#131098](https://github.com/flutter/flutter/pull/131098) merged on August 23, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/131098) over 1 month, 4 additions and 229 deletions in 3 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[gmilou](https://github.com/gmilou)** &mdash; Add an example showing how to use a MatrixTransition.
+* **[Emil Valkov](https://github.com/gmilou)** &mdash; Add an example showing how to use a MatrixTransition.
     <sub>[#132874](https://github.com/flutter/flutter/pull/132874) merged on August 25, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/132874) over 6 days, 139 additions and 1 deletion in 3 files</sub>
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Kate Lovett](https://github.com/Piinks)</sub>
 
@@ -603,7 +603,7 @@
     <sub>[#131805](https://github.com/flutter/flutter/pull/131805) merged on August 18, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/131805) over 2 weeks, 161 additions and 427 deletions in 12 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[gmilou](https://github.com/gmilou)** &mdash; Add a new MatrixTransition and refactor ScaleTransition and RotationT…
+* **[Emil Valkov](https://github.com/gmilou)** &mdash; Add a new MatrixTransition and refactor ScaleTransition and RotationT…
     <sub>[#131084](https://github.com/flutter/flutter/pull/131084) merged on August 18, 2023 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/131084) over 3 weeks, 215 additions and 88 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub>
 
