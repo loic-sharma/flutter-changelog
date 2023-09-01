@@ -308,7 +308,7 @@
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update default menu text styles for Material 3
     <sub>[#131930](https://github.com/flutter/flutter/pull/131930) merged on August 22, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/131930) over 2 weeks, 159 additions and 28 deletions in 8 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>5 images...</summary>![dropdown_input](https://github.com/flutter/flutter/assets/48603081/301f8243-155a-4b8f-84a8-5e6b7bebb3bc)![dropdown_item](https://github.com/flutter/flutter/assets/48603081/6b5be81a-72fc-4705-a577-074c7a4cad8f)![Screenshot 2023-08-04 at 16 48 28](https://github.com/flutter/flutter/assets/48603081/bcd9da98-e74d-491e-ae64-6268ae0b3893)![Screenshot 2023-08-04 at 16 50 19](https://github.com/flutter/flutter/assets/48603081/9592ca43-2854-45b5-8648-203ab65d9745)![Screenshot 2023-08-04 at 14 34 28](https://github.com/flutter/flutter/assets/48603081/e87e1073-05f8-4dc7-a435-d864e9cce6ab)</details></sub>
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; When resized network image has error, all future unrelated images using the same url will fail, even if the network becomes OK
@@ -737,7 +737,7 @@
 
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; fixed documentation error input decorator
     <sub>[#132124](https://github.com/flutter/flutter/pull/132124) merged on August 16, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/132124) over 1 week, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Justin McCandless](https://github.com/justinmc)</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SelectionArea on iOS should toggle the context menu when tapping on the previous selection
     <sub>[#132851](https://github.com/flutter/flutter/pull/132851) merged on August 18, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/132851) over 7 hours, 86 additions and 1 deletion in 2 files</sub>
@@ -769,7 +769,7 @@
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [Reland] #131609
     <sub>[#132555](https://github.com/flutter/flutter/pull/132555) merged on August 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132555) over 16 hours, 197 additions and 11 deletions in 3 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Casey Hillers](https://github.com/CaseyHillers)</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Revert "[Windows] Allow overwriting the cache's Dart SDK archive license file"
     <sub>[#132773](https://github.com/flutter/flutter/pull/132773) merged on August 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132773) over 1 minute, 3 additions and 119 deletions in 2 files</sub>
@@ -1097,7 +1097,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Fix stencil buffer format selection on Vulkan backend, add support for D24UnormS8Uint
     <sub>[#45025](https://github.com/flutter/engine/pull/45025) merged on August 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/45025) over 4 hours, 44 additions and 1 deletion in 6 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix mask blurs and the Gaussian blur coverage hint.
     <sub>[#45079](https://github.com/flutter/engine/pull/45079) merged on August 25, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/45079) over 1 day, 123 additions and 43 deletions in 10 files</sub>
@@ -1209,7 +1209,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix a clang-tidy error seen in the latest toolchain roll
     <sub>[#45039](https://github.com/flutter/engine/pull/45039) merged on August 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45039) over 35 minutes, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove --enable-software-rendering from iOS scenario tests
     <sub>[#45093](https://github.com/flutter/engine/pull/45093) merged on August 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45093) over 17 hours, 50 additions and 10 deletions in 8 files</sub>
@@ -1628,7 +1628,7 @@
 
 * **[Anuj](https://github.com/AnujPandey007)** &mdash; Fixed AlertDialog Height of example in image_picker
     <sub>[#4800](https://github.com/flutter/packages/pull/4800) merged on August 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4800) over 1 day, 1 addition and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [stuartmorgan](https://github.com/stuartmorgan)</sub>
     <sub><details><summary>2 images...</summary>![Issue](https://github.com/flutter/packages/assets/61612013/e7994142-fa16-4934-8d6d-29ee825a7853)![Fixed](https://github.com/flutter/packages/assets/61612013/812078ba-8eec-48d7-aac7-0c7381ae0473)</details></sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix repaint boundary override in builder delegate
@@ -1641,11 +1641,11 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [in_app_purchase] Minor lint cleanup
     <sub>[#4818](https://github.com/flutter/packages/pull/4818) merged on August 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4818) over 54 minutes, 22 additions and 29 deletions in 13 files</sub>
-    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Gray Mackall](https://github.com/gmackall)</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Chris Yang](https://github.com/cyanglaz)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.9.0 to 1.9.10 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#4798](https://github.com/flutter/packages/pull/4798) merged on August 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4798) over 9 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.9.0&new-version=1.9.10)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Convert version presubmit check to LUCI
@@ -1679,7 +1679,7 @@
 
 * **[Raul Vilar](https://github.com/raulsvilar)** &mdash; [camera_android]: Fixes crash when record video on Android versions lower than 12
     <sub>[#4635](https://github.com/flutter/packages/pull/4635) merged on August 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/4635) over 2 weeks, 5 additions and 5 deletions in 3 files</sub>
-    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Jason C.H](https://github.com/ctrysbita)** &mdash; [flutter_adaptive_scaffold] Fix top padding for NavigationBar
     <sub>[#4661](https://github.com/flutter/packages/pull/4661) merged on August 22, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4661) over 2 weeks, 20 additions and 10 deletions in 5 files</sub>
