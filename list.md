@@ -246,7 +246,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Remove cirrus tests from the flutter framework.
     <sub>[#133575](https://github.com/flutter/flutter/pull/133575) merged on August 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133575) over 10 hours, 0 additions and 158 deletions in 1 file</sub>
-    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [keyonghan](https://github.com/keyonghan)</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Ricardo Amador](https://github.com/ricardoamador)</sub>
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Fix `Chip.shape`'s side is not used when provided in Material 3"
     <sub>[#133615](https://github.com/flutter/flutter/pull/133615) merged on August 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133615) over 2 hours, 8 additions and 127 deletions in 4 files</sub>
@@ -737,7 +737,7 @@
 
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; fixed documentation error input decorator
     <sub>[#132124](https://github.com/flutter/flutter/pull/132124) merged on August 16, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/132124) over 1 week, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SelectionArea on iOS should toggle the context menu when tapping on the previous selection
     <sub>[#132851](https://github.com/flutter/flutter/pull/132851) merged on August 18, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/132851) over 7 hours, 86 additions and 1 deletion in 2 files</sub>
@@ -761,7 +761,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Reorganize and clarify API doc generator"
     <sub>[#132613](https://github.com/flutter/flutter/pull/132613) merged on August 16, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/132613) over 2 minutes, 938 additions and 1384 deletions in 8 files</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Reland: "Reorganize and clarify API doc generator" (#132353)
     <sub>[#132710](https://github.com/flutter/flutter/pull/132710) merged on August 17, 2023 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/132710) over 1 day, 1441 additions and 938 deletions in 8 files</sub>
@@ -788,7 +788,7 @@
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Read `--dart-define` in `RendererBinding.initInstances()`
     <sub>[#132408](https://github.com/flutter/flutter/pull/132408) merged on August 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/132408) over 4 hours, 6 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Lau Ching Jun](https://github.com/chingjun)</sub>
+    <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun), [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Fix `PopupMenuItem` & `CheckedPopupMenuItem` has redundant `ListTile` padding and update default horizontal padding for Material 3"
     <sub>[#132457](https://github.com/flutter/flutter/pull/132457) merged on August 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132457) over 6 hours, 11 additions and 197 deletions in 3 files</sub>
@@ -800,7 +800,7 @@
 
 ### August 26, 2023 to September 1, 2023
 
-50 commits.
+51 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a `DlStopwatchVisualizer` and conditionally use it for Impeller
     <sub>[#45259](https://github.com/flutter/engine/pull/45259) merged on August 30, 2023 &mdash; **Medium:** [17 comments](https://github.com/flutter/engine/pull/45259) over 22 hours, 317 additions and 8 deletions in 10 files</sub>
@@ -859,22 +859,6 @@
     <sub>[#45191](https://github.com/flutter/engine/pull/45191) merged on August 30, 2023 &mdash; **Medium:** [25 comments](https://github.com/flutter/engine/pull/45191) over 1 day, 266 additions and 166 deletions in 15 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] copy data out of DlVertices.
-    <sub>[#45355](https://github.com/flutter/engine/pull/45355) merged on August 31, 2023 &mdash; **Large:** [6 comments](https://github.com/flutter/engine/pull/45355) over 52 minutes, 383 additions and 383 deletions in 5 files</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Sync presentation when rendering into FlutterImageView.
-    <sub>[#44881](https://github.com/flutter/engine/pull/44881) merged on August 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/44881) over 1 week, 119 additions and 41 deletions in 12 files</sub>
-    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Explain how to update the embedder/fixtures golden outputs.
-    <sub>[#45184](https://github.com/flutter/engine/pull/45184) merged on August 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45184) over 44 minutes, 83 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; A minimal `engine_tools_lib` to use for local-repo Dart tooling
-    <sub>[#45154](https://github.com/flutter/engine/pull/45154) merged on August 29, 2023 &mdash; **Large:** [9 comments](https://github.com/flutter/engine/pull/45154) over 1 day, 564 additions and 0 deletions in 6 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert dl split
     <sub>[#45326](https://github.com/flutter/engine/pull/45326) merged on August 31, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/45326) over 1 hour, 4019 additions and 6440 deletions in 134 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams), [Jim Graham](https://github.com/flar)</sub>
@@ -883,17 +867,33 @@
     <sub>[#45243](https://github.com/flutter/engine/pull/45243) merged on August 31, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/45243) over 1 day, 453 additions and 0 deletions in 7 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Explain how to update the embedder/fixtures golden outputs.
+    <sub>[#45184](https://github.com/flutter/engine/pull/45184) merged on August 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45184) over 44 minutes, 83 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Sync presentation when rendering into FlutterImageView.
+    <sub>[#44881](https://github.com/flutter/engine/pull/44881) merged on August 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/44881) over 1 week, 119 additions and 41 deletions in 12 files</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; A minimal `engine_tools_lib` to use for local-repo Dart tooling
+    <sub>[#45154](https://github.com/flutter/engine/pull/45154) merged on August 29, 2023 &mdash; **Large:** [9 comments](https://github.com/flutter/engine/pull/45154) over 1 day, 564 additions and 0 deletions in 6 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `runIfNot: ...` to avoid running Fuchsia try-jobs for some changes.
     <sub>[#45134](https://github.com/flutter/engine/pull/45134) merged on August 29, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/45134) over 3 days, 38 additions and 6 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add GetDefaultDepthStencil to capabilities.
-    <sub>[#45240](https://github.com/flutter/engine/pull/45240) merged on August 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45240) over 2 hours, 94 additions and 24 deletions in 9 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] copy data out of DlVertices.
+    <sub>[#45355](https://github.com/flutter/engine/pull/45355) merged on August 31, 2023 &mdash; **Large:** [6 comments](https://github.com/flutter/engine/pull/45355) over 52 minutes, 383 additions and 383 deletions in 5 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Add callback to Embedder API to respond to new channel listeners, and use for Windows lifecycle
     <sub>[#44827](https://github.com/flutter/engine/pull/44827) merged on August 29, 2023 &mdash; **Small:** [36 comments](https://github.com/flutter/engine/pull/44827) over 1 week, 269 additions and 24 deletions in 31 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add GetDefaultDepthStencil to capabilities.
+    <sub>[#45240](https://github.com/flutter/engine/pull/45240) merged on August 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45240) over 2 hours, 94 additions and 24 deletions in 9 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix scene view canvas/platform view placement.
     <sub>[#45199](https://github.com/flutter/engine/pull/45199) merged on August 29, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/45199) over 59 minutes, 312 additions and 184 deletions in 4 files</sub>
@@ -935,21 +935,25 @@
     <sub>[#45203](https://github.com/flutter/engine/pull/45203) merged on August 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45203) over 13 hours, 119 additions and 57 deletions in 6 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `instrumentation` to `stopwatch`
-    <sub>[#45196](https://github.com/flutter/engine/pull/45196) merged on August 29, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/45196) over 33 minutes, 15 additions and 17 deletions in 9 files</sub>
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
 * **[Wu Zhong](https://github.com/zhongwuzw)** &mdash; [iOS] Don't call App lifecycle resumed when device is locked
     <sub>[#44947](https://github.com/flutter/engine/pull/44947) merged on August 29, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/44947) over 6 days, 47 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Make devicePixelRatio ready for multi-view
-    <sub>[#44783](https://github.com/flutter/engine/pull/44783) merged on August 29, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/44783) over 1 week, 152 additions and 98 deletions in 17 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `instrumentation` to `stopwatch`
+    <sub>[#45196](https://github.com/flutter/engine/pull/45196) merged on August 29, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/45196) over 33 minutes, 15 additions and 17 deletions in 9 files</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Bump impeller-cmake-example to head
+    <sub>[#45359](https://github.com/flutter/engine/pull/45359) merged on September 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45359) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Document the capabilities.
     <sub>[#45253](https://github.com/flutter/engine/pull/45253) merged on August 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/45253) over 48 minutes, 113 additions and 49 deletions in 16 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Make devicePixelRatio ready for multi-view
+    <sub>[#44783](https://github.com/flutter/engine/pull/44783) merged on August 29, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/44783) over 1 week, 152 additions and 98 deletions in 17 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "ios: remove shared_application and support app extension build"
     <sub>[#45250](https://github.com/flutter/engine/pull/45250) merged on August 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45250) over 51 minutes, 53 additions and 169 deletions in 12 files</sub>
