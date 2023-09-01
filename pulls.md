@@ -56,14 +56,8 @@
 * **[NikhilKR25](https://github.com/NikhilKR25)** &mdash; Add Comments and Documentation to Test Execution and Server Code<br />
     <sub>[#133649](https://github.com/flutter/flutter/pull/133649) opened on on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133649) 13 additions and 2 deletions in 1 file</sub><br />
 
-* **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Deprecates onWillAccept and onAccept callbacks in DragTarget.<br />
-    <sub>[#133691](https://github.com/flutter/flutter/pull/133691) opened on on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133691) 106 additions and 6 deletions in 6 files</sub><br />
-
 * **[awholegnuworld](https://github.com/awholegnuworld)** &mdash; Spawing subshell unnecessarily <br />
     <sub>[#133710](https://github.com/flutter/flutter/pull/133710) opened on on August 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133710) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[Yash Kite](https://github.com/yashkite)** &mdash; Added explanatory comments to clarify code functionality<br />
-    <sub>[#133749](https://github.com/flutter/flutter/pull/133749) opened on on August 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133749) 40 additions and 7 deletions in 2 files</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Day picker should not create MaterialStatesController on every build<br />
     <sub>[#133884](https://github.com/flutter/flutter/pull/133884) opened on on September 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133884) 18 additions and 3 deletions in 2 files</sub><br />
