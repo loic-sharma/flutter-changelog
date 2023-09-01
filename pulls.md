@@ -74,6 +74,3 @@
 * **[Arshad Ansari](https://github.com/arsd-ansari)** &mdash; minor doc update<br />
     <sub>[#133841](https://github.com/flutter/flutter/pull/133841) opened on on September 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133841) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean fixed TODOs.<br />
-    <sub>[#133859](https://github.com/flutter/flutter/pull/133859) opened on on September 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133859) 6 additions and 21 deletions in 2 files</sub><br />
-
