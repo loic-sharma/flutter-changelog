@@ -80,3 +80,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change android_virtual_device to version 34<br />
     <sub>[#133809](https://github.com/flutter/flutter/pull/133809) opened on on August 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133809) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Arshad Ansari](https://github.com/arsd-ansari)** &mdash; minor doc update<br />
+    <sub>[#133841](https://github.com/flutter/flutter/pull/133841) opened on on September 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133841) 2 additions and 2 deletions in 1 file</sub><br />
+
