@@ -65,9 +65,6 @@
 * **[Yash Kite](https://github.com/yashkite)** &mdash; Added explanatory comments to clarify code functionality<br />
     <sub>[#133749](https://github.com/flutter/flutter/pull/133749) opened on on August 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133749) 40 additions and 7 deletions in 2 files</sub><br />
 
-* **[rmri](https://github.com/intonarumori)** &mdash; Fixes the issue of not being able to stop scrolling by dragging the content again<br />
-    <sub>[#133750](https://github.com/flutter/flutter/pull/133750) opened on on August 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133750) 109 additions and 94 deletions in 1 file</sub><br />
-
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Day picker should not create MaterialStatesController on every build<br />
     <sub>[#133884](https://github.com/flutter/flutter/pull/133884) opened on on September 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133884) 18 additions and 3 deletions in 2 files</sub><br />
 
