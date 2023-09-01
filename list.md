@@ -410,7 +410,7 @@
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[gmilou](https://github.com/gmilou)** &mdash; Add an example showing how to use a MatrixTransition.
-    <sub>[#132874](https://github.com/flutter/flutter/pull/132874) merged on August 25, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/132874) over 6 days, 139 additions and 1 deletion in 3 files</sub>
+    <sub>[#132874](https://github.com/flutter/flutter/pull/132874) merged on August 25, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/132874) over 6 days, 139 additions and 1 deletion in 3 files</sub>
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash;  Update `ExpansionPanel` example for the updated `expansionCallback` callback
