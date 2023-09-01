@@ -48,7 +48,7 @@
     <sub>[#133413](https://github.com/flutter/flutter/pull/133413) opened on on August 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133413) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Burak İmdat](https://github.com/burakJs)** &mdash; Fix `subtitleTextStyle.color` isn't applied to the `ListTile.subtitle` in Material 2<br />
-    <sub>[#133422](https://github.com/flutter/flutter/pull/133422) opened on on August 28, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/133422) 207 additions and 28 deletions in 2 files</sub><br />
+    <sub>[#133422](https://github.com/flutter/flutter/pull/133422) opened on on August 28, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/133422) 207 additions and 28 deletions in 2 files</sub><br />
 
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; `RefreshIndicator.noSpinner` implementation<br />
     <sub>[#133507](https://github.com/flutter/flutter/pull/133507) opened on on August 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133507) 99 additions and 3 deletions in 2 files</sub><br />
