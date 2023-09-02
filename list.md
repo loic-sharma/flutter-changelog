@@ -128,6 +128,10 @@
     <sub>[#133869](https://github.com/flutter/flutter/pull/133869) merged on September 1, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133869) over 46 minutes, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] use ImageFilter for stretch overscroll.
+    <sub>[#133613](https://github.com/flutter/flutter/pull/133613) merged on August 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133613) over 1 day, 26 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows Arm64] Add first device lab test
     <sub>[#133895](https://github.com/flutter/flutter/pull/133895) merged on September 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133895) over 45 minutes, 23 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
@@ -151,10 +155,6 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add doxygen doc generation.
     <sub>[#131356](https://github.com/flutter/flutter/pull/131356) merged on August 29, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/131356) over 1 month, 135 additions and 36 deletions in 9 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] use ImageFilter for stretch overscroll.
-    <sub>[#133613](https://github.com/flutter/flutter/pull/133613) merged on August 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133613) over 1 day, 26 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] print out the unzipping method used by update_dart_sdk.ps1
     <sub>[#133364](https://github.com/flutter/flutter/pull/133364) merged on August 31, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/133364) over 5 days, 6 additions and 2 deletions in 2 files</sub>
