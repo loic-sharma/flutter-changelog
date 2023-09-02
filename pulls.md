@@ -68,3 +68,6 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; RestorationManager should dispatch creation in constructor.<br />
     <sub>[#133911](https://github.com/flutter/flutter/pull/133911) opened on on September 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133911) 16 additions and 2 deletions in 3 files</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; RenderParagraph should dispose instances of SelectableFragments.<br />
+    <sub>[#133915](https://github.com/flutter/flutter/pull/133915) opened on on September 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133915) 6 additions and 1 deletion in 2 files</sub><br />
+
