@@ -8,7 +8,7 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix flutter upgrade not finding git tags<br />
     <sub>[#133778](https://github.com/flutter/flutter/pull/133778) merged on August 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133778) over 5 hours, 45 additions and 11 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Introduce architecture subdirectory for Windows build (#129805, #116196)<br />
     <sub>[#131843](https://github.com/flutter/flutter/pull/131843) merged on August 31, 2023 &mdash; **Large:** [73 comments](https://github.com/flutter/flutter/pull/131843) over 4 weeks, 563 additions and 40 deletions in 23 files</sub><br />
@@ -330,7 +330,7 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Run Mac_arm64_ios run_debug_test_macos in presubmit"<br />
     <sub>[#133808](https://github.com/flutter/flutter/pull/133808) merged on August 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133808) over 6 minutes, 1 addition and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Revert "Fixing memory leak in EditableTextState"<br />
     <sub>[#133804](https://github.com/flutter/flutter/pull/133804) merged on August 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133804) over 2 minutes, 13 additions and 5 deletions in 2 files</sub><br />
@@ -797,7 +797,7 @@
 
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; fixed documentation error input decorator<br />
     <sub>[#132124](https://github.com/flutter/flutter/pull/132124) merged on August 16, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/132124) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SelectionArea on iOS should toggle the context menu when tapping on the previous selection<br />
     <sub>[#132851](https://github.com/flutter/flutter/pull/132851) merged on August 18, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/132851) over 7 hours, 86 additions and 1 deletion in 2 files</sub><br />
@@ -821,7 +821,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Reorganize and clarify API doc generator"<br />
     <sub>[#132613](https://github.com/flutter/flutter/pull/132613) merged on August 16, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/132613) over 2 minutes, 938 additions and 1384 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [keyonghan](https://github.com/keyonghan)</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Reland: "Reorganize and clarify API doc generator" (#132353)<br />
     <sub>[#132710](https://github.com/flutter/flutter/pull/132710) merged on August 17, 2023 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/132710) over 1 day, 1441 additions and 938 deletions in 8 files</sub><br />
