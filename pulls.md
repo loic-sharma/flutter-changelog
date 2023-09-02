@@ -65,3 +65,6 @@
 * **[Sanket Salve](https://github.com/SanketRSalve)** &mdash; Memory Leak: RenderAnimatedSize doesn't dispose AnimationController and CurvedAnimation #133903<br />
     <sub>[#133905](https://github.com/flutter/flutter/pull/133905) opened on on September 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133905) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; RestorationManager should dispatch creation in consteructor.<br />
+    <sub>[#133911](https://github.com/flutter/flutter/pull/133911) opened on on September 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133911) 8 additions and 0 deletions in 2 files</sub><br />
+
