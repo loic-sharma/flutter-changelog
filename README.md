@@ -981,7 +981,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] turned on validations for all debug builds<br />
-    <sub>[#45350](https://github.com/flutter/engine/pull/45350) merged on September 1, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/45350) over 1 day, 26 additions and 8 deletions in 5 files</sub><br />
+    <sub>[#45350](https://github.com/flutter/engine/pull/45350) merged on September 1, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/45350) over 1 day, 26 additions and 8 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Reland DlAiksCanvas<br />
