@@ -71,3 +71,6 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; RenderParagraph should dispose instances of SelectableFragments.<br />
     <sub>[#133915](https://github.com/flutter/flutter/pull/133915) opened on on September 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133915) 6 additions and 1 deletion in 2 files</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix for new analyzer lint<br />
+    <sub>[#133923](https://github.com/flutter/flutter/pull/133923) opened on on September 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133923) 1 addition and 1 deletion in 1 file</sub><br />
+
