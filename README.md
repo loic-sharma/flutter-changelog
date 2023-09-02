@@ -73,7 +73,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; fix install checks in flavors devicelab tests<br />
-    <sub>[#133719](https://github.com/flutter/flutter/pull/133719) merged on September 1, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/133719) over 1 day, 81 additions and 65 deletions in 3 files</sub><br />
+    <sub>[#133719](https://github.com/flutter/flutter/pull/133719) merged on September 1, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/133719) over 1 day, 81 additions and 65 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Mark O'Sullivan](https://github.com/MarkOSullivan94)** &mdash; Fixed `PaginatedDataTable` not using `dataRowMinHeight` and `dataRowMaxHeight` from Theme<br />
