@@ -74,3 +74,6 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark leak: PaintingContext creates level that is never disposed.<br />
     <sub>[#133940](https://github.com/flutter/flutter/pull/133940) opened on on September 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133940) 10 additions and 2 deletions in 1 file</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; SearchDelegate sould dispose resources.<br />
+    <sub>[#133948](https://github.com/flutter/flutter/pull/133948) opened on on September 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133948) 13 additions and 1 deletion in 2 files</sub><br />
+
