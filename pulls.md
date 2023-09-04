@@ -87,5 +87,5 @@
     <sub>[#133999](https://github.com/flutter/flutter/pull/133999) opened on on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133999) 21 additions and 0 deletions in 2 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [CheckedPopupMenuItem] onTap & textStyle props<br />
-    <sub>[#134000](https://github.com/flutter/flutter/pull/134000) opened on on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134000) 115 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#134000](https://github.com/flutter/flutter/pull/134000) opened on on September 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134000) 115 additions and 0 deletions in 2 files</sub><br />
 
