@@ -75,5 +75,5 @@
     <sub>[#133967](https://github.com/flutter/flutter/pull/133967) opened on on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133967) 176 additions and 3 deletions in 4 files</sub><br />
 
 * **[XuanTung95](https://github.com/XuanTung95)** &mdash; Add callback for external view synchronization<br />
-    <sub>[#133991](https://github.com/flutter/flutter/pull/133991) opened on on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133991) 59 additions and 0 deletions in 3 files</sub><br />
+    <sub>[#133991](https://github.com/flutter/flutter/pull/133991) opened on on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133991) 62 additions and 0 deletions in 3 files</sub><br />
 
