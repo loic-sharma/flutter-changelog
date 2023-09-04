@@ -71,3 +71,6 @@
 * **[bryanoli](https://github.com/bryanoli)** &mdash; Scaffold can accept a materialBuilder <br />
     <sub>[#133965](https://github.com/flutter/flutter/pull/133965) opened on on September 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133965) 95 additions and 28 deletions in 3 files</sub><br />
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SelectionArea long press behavior should match native<br />
+    <sub>[#133967](https://github.com/flutter/flutter/pull/133967) opened on on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133967) 168 additions and 3 deletions in 3 files</sub><br />
+
