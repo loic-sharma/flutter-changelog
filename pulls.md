@@ -65,9 +65,6 @@
 * **[Sanket Salve](https://github.com/SanketRSalve)** &mdash; Memory Leak: RenderAnimatedSize doesn't dispose AnimationController and CurvedAnimation #133903<br />
     <sub>[#133905](https://github.com/flutter/flutter/pull/133905) opened on on September 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133905) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; RestorationManager should dispatch creation in constructor.<br />
-    <sub>[#133911](https://github.com/flutter/flutter/pull/133911) opened on on September 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133911) 16 additions and 2 deletions in 3 files</sub><br />
-
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark leak: PaintingContext creates level that is never disposed.<br />
     <sub>[#133940](https://github.com/flutter/flutter/pull/133940) opened on on September 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133940) 10 additions and 2 deletions in 1 file</sub><br />
 
