@@ -47,7 +47,7 @@
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Chris Yang](https://github.com/cyanglaz)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `cancelButtonStyle` & `confirmButtonStyle` to the `DatePickerThemeData`<br />
-    <sub>[#132847](https://github.com/flutter/flutter/pull/132847) merged on August 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132847) over 1 week, 85 additions and 12 deletions in 4 files</sub><br />
+    <sub>[#132847](https://github.com/flutter/flutter/pull/132847) merged on August 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/132847) over 1 week, 85 additions and 12 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2023-08-18 at 16 42 00](https://github.com/flutter/flutter/assets/48603081/4ec01e93-c661-491d-9253-d687da8b76f3)</details></sub>
 
