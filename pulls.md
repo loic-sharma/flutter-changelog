@@ -68,6 +68,9 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark leak: PaintingContext creates level that is never disposed.<br />
     <sub>[#133940](https://github.com/flutter/flutter/pull/133940) opened on on September 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133940) 10 additions and 2 deletions in 1 file</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Cover more tests with leak tracking.<br />
+    <sub>[#133958](https://github.com/flutter/flutter/pull/133958) opened on on September 4, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/133958) 1961 additions and 1636 deletions in 57 files</sub><br />
+
 * **[bryanoli](https://github.com/bryanoli)** &mdash; Scaffold can accept a materialBuilder <br />
     <sub>[#133965](https://github.com/flutter/flutter/pull/133965) opened on on September 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133965) 95 additions and 28 deletions in 3 files</sub><br />
 
@@ -84,5 +87,5 @@
     <sub>[#133996](https://github.com/flutter/flutter/pull/133996) opened on on September 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133996) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [CheckedPopupMenuItem] onTap & textStyle props<br />
-    <sub>[#134000](https://github.com/flutter/flutter/pull/134000) opened on on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134000) 109 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#134000](https://github.com/flutter/flutter/pull/134000) opened on on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134000) 115 additions and 0 deletions in 2 files</sub><br />
 
