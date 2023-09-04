@@ -83,3 +83,6 @@
 * **[Shourov Roy](https://github.com/ShourovRoy)** &mdash; Update editable_text.dart<br />
     <sub>[#133996](https://github.com/flutter/flutter/pull/133996) opened on on September 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133996) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Tirth](https://github.com/piedcipher)** &mdash; [CheckedPopupMenuItem] onTap & textStyle props<br />
+    <sub>[#134000](https://github.com/flutter/flutter/pull/134000) opened on on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134000) 109 additions and 0 deletions in 2 files</sub><br />
+
