@@ -57,7 +57,7 @@
     <sub>[#133649](https://github.com/flutter/flutter/pull/133649) opened on on August 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133649) 13 additions and 2 deletions in 1 file</sub><br />
 
 * **[awholegnuworld](https://github.com/awholegnuworld)** &mdash; Spawing subshell unnecessarily <br />
-    <sub>[#133710](https://github.com/flutter/flutter/pull/133710) opened on on August 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/133710) 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#133710](https://github.com/flutter/flutter/pull/133710) opened on on August 30, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/133710) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] reduce ink sparkle uniform count.<br />
     <sub>[#133897](https://github.com/flutter/flutter/pull/133897) opened on on September 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133897) 42 additions and 49 deletions in 2 files</sub><br />
