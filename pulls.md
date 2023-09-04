@@ -74,6 +74,9 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SelectionArea long press behavior should match native<br />
     <sub>[#133967](https://github.com/flutter/flutter/pull/133967) opened on on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133967) 176 additions and 3 deletions in 4 files</sub><br />
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField and TextFormField can use a MaterialStatesController<br />
+    <sub>[#133977](https://github.com/flutter/flutter/pull/133977) opened on on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133977) 173 additions and 0 deletions in 3 files</sub><br />
+
 * **[XuanTung95](https://github.com/XuanTung95)** &mdash; Add callback for external view synchronization<br />
     <sub>[#133991](https://github.com/flutter/flutter/pull/133991) opened on on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133991) 62 additions and 0 deletions in 3 files</sub><br />
 
