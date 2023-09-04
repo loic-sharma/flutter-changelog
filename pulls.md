@@ -68,3 +68,6 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark leak: PaintingContext creates level that is never disposed.<br />
     <sub>[#133940](https://github.com/flutter/flutter/pull/133940) opened on on September 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133940) 10 additions and 2 deletions in 1 file</sub><br />
 
+* **[bryanoli](https://github.com/bryanoli)** &mdash; Scaffold can accept a materialBuilder <br />
+    <sub>[#133965](https://github.com/flutter/flutter/pull/133965) opened on on September 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133965) 95 additions and 28 deletions in 3 files</sub><br />
+
