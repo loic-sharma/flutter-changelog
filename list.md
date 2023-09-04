@@ -551,7 +551,7 @@
 
 * **[Angelo Silvestre](https://github.com/angelosilvestre)** &mdash; Add deleteBackwardByDecomposingPreviousCharacter mapping for tests
     <sub>[#132919](https://github.com/flutter/flutter/pull/132919) merged on August 21, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/132919) over 23 hours, 24 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Justin McCandless](https://github.com/justinmc)</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove unnecessary lint ignore
     <sub>[#133164](https://github.com/flutter/flutter/pull/133164) merged on August 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133164) over 49 minutes, 0 additions and 4 deletions in 1 file</sub>
@@ -777,7 +777,7 @@
 
 * **[Hossein Yousefi](https://github.com/HosseinYousefi)** &mdash; Update comment const_finder.dart
     <sub>[#45180](https://github.com/flutter/engine/pull/45180) merged on August 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/45180) over 3 days, 1 addition and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Link __availability_version_check
     <sub>[#45333](https://github.com/flutter/engine/pull/45333) merged on August 31, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/45333) over 1 hour, 27 additions and 1 deletion in 2 files</sub>
