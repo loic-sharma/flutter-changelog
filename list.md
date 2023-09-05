@@ -4,11 +4,19 @@
 
 ### September 2, 2023 to September 8, 2023
 
-6 commits.
+8 commits.
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix TypeError when a FileSystemException happens during flutter doctor
     <sub>[#133373](https://github.com/flutter/flutter/pull/133373) merged on September 5, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/133373) over 1 week, 61 additions and 10 deletions in 6 files</sub>
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; _MaterialAppState should dispose MaterialHeroController.
+    <sub>[#133951](https://github.com/flutter/flutter/pull/133951) merged on September 5, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/133951) over 1 day, 93 additions and 61 deletions in 5 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; RenderParagraph should dispose instances of SelectableFragments.
+    <sub>[#133915](https://github.com/flutter/flutter/pull/133915) merged on September 5, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/133915) over 3 days, 2 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; _SearchBarState should dispose FocusNode, if it created it.
     <sub>[#133947](https://github.com/flutter/flutter/pull/133947) merged on September 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133947) over 2 days, 5 additions and 1 deletion in 2 files</sub>
