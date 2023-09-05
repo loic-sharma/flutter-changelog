@@ -594,11 +594,15 @@
 
 ### September 2, 2023 to September 8, 2023
 
-3 commits.
+4 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix building on Pango 1.49.4
     <sub>[#45098](https://github.com/flutter/engine/pull/45098) merged on September 4, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/45098) over 1 week, 4 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from ab9bbb9b11b3 to e691a4edb19a (1 revision)
+    <sub>[#45437](https://github.com/flutter/engine/pull/45437) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45437) over 34 minutes, 2 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 1fb536394148 to ab9bbb9b11b3 (1 revision)
     <sub>[#45426](https://github.com/flutter/engine/pull/45426) merged on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45426) over 30 minutes, 1 addition and 1 deletion in 1 file</sub>
