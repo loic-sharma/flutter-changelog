@@ -4,11 +4,15 @@
 
 ### September 2, 2023 to September 8, 2023
 
-8 commits.
+10 commits.
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix TypeError when a FileSystemException happens during flutter doctor<br />
     <sub>[#133373](https://github.com/flutter/flutter/pull/133373) merged on September 5, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/133373) over 1 week, 61 additions and 10 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Cover more tests with leak tracking.<br />
+    <sub>[#133958](https://github.com/flutter/flutter/pull/133958) merged on September 5, 2023 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/133958) over 1 day, 1989 additions and 1649 deletions in 58 files</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; _MaterialAppState should dispose MaterialHeroController.<br />
     <sub>[#133951](https://github.com/flutter/flutter/pull/133951) merged on September 5, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/133951) over 1 day, 93 additions and 61 deletions in 5 files</sub><br />
@@ -29,6 +33,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; SegmentedButton should not create new MaterialStatesController in every build.<br />
     <sub>[#133949](https://github.com/flutter/flutter/pull/133949) merged on September 5, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/133949) over 1 day, 40 additions and 24 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Dispose AnimationSheetRecorder to avoid leaks<br />
+    <sub>[#133365](https://github.com/flutter/flutter/pull/133365) merged on September 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/133365) over 1 week, 94 additions and 48 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix links in top level README<br />
     <sub>[#133893](https://github.com/flutter/flutter/pull/133893) merged on September 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133893) over 3 days, 9 additions and 8 deletions in 1 file</sub><br />
