@@ -8,7 +8,7 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix flutter upgrade not finding git tags<br />
     <sub>[#133778](https://github.com/flutter/flutter/pull/133778) merged on August 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133778) over 5 hours, 45 additions and 11 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
 
 * **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Introduce architecture subdirectory for Windows build (#129805, #116196)<br />
     <sub>[#131843](https://github.com/flutter/flutter/pull/131843) merged on August 31, 2023 &mdash; **Large:** [73 comments](https://github.com/flutter/flutter/pull/131843) over 4 weeks, 563 additions and 40 deletions in 23 files</sub><br />
@@ -338,7 +338,7 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Run Mac_arm64_ios run_debug_test_macos in presubmit"<br />
     <sub>[#133808](https://github.com/flutter/flutter/pull/133808) merged on August 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133808) over 6 minutes, 1 addition and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Revert "Fixing memory leak in EditableTextState"<br />
     <sub>[#133804](https://github.com/flutter/flutter/pull/133804) merged on August 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133804) over 2 minutes, 13 additions and 5 deletions in 2 files</sub><br />
@@ -376,7 +376,7 @@
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update default menu text styles for Material 3<br />
     <sub>[#131930](https://github.com/flutter/flutter/pull/131930) merged on August 22, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/131930) over 2 weeks, 159 additions and 28 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>5 images...</summary>![dropdown_input](https://github.com/flutter/flutter/assets/48603081/301f8243-155a-4b8f-84a8-5e6b7bebb3bc)![dropdown_item](https://github.com/flutter/flutter/assets/48603081/6b5be81a-72fc-4705-a577-074c7a4cad8f)![Screenshot 2023-08-04 at 16 48 28](https://github.com/flutter/flutter/assets/48603081/bcd9da98-e74d-491e-ae64-6268ae0b3893)![Screenshot 2023-08-04 at 16 50 19](https://github.com/flutter/flutter/assets/48603081/9592ca43-2854-45b5-8648-203ab65d9745)![Screenshot 2023-08-04 at 14 34 28](https://github.com/flutter/flutter/assets/48603081/e87e1073-05f8-4dc7-a435-d864e9cce6ab)</details></sub>
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; When resized network image has error, all future unrelated images using the same url will fail, even if the network becomes OK<br />
@@ -499,7 +499,7 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Fix locking to work with flutter and dart running simultaneously<br />
     <sub>[#133350](https://github.com/flutter/flutter/pull/133350) merged on August 25, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/133350) over 55 minutes, 21 additions and 3 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Always require `--local-engine-host` if `--local-engine`<br />
     <sub>[#133003](https://github.com/flutter/flutter/pull/133003) merged on August 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133003) over 2 hours, 20 additions and 83 deletions in 4 files</sub><br />
@@ -793,7 +793,7 @@
 
 * **[Hossein Yousefi](https://github.com/HosseinYousefi)** &mdash; Update comment const_finder.dart<br />
     <sub>[#45180](https://github.com/flutter/engine/pull/45180) merged on August 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/45180) over 3 days, 1 addition and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Link __availability_version_check<br />
     <sub>[#45333](https://github.com/flutter/engine/pull/45333) merged on August 31, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/45333) over 1 hour, 27 additions and 1 deletion in 2 files</sub><br />
@@ -845,7 +845,7 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add an API in `ui_web` to create a `ui.Image` from an `ImageBitmap`<br />
     <sub>[#45256](https://github.com/flutter/engine/pull/45256) merged on August 30, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/45256) over 20 hours, 220 additions and 70 deletions in 19 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Dan Field](https://github.com/dnfield)</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Replace an unnecessary util function with PostSync<br />
     <sub>[#45190](https://github.com/flutter/engine/pull/45190) merged on August 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45190) over 2 days, 7 additions and 17 deletions in 1 file</sub><br />
@@ -909,7 +909,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Reland "Build iOS unittest target in unopt builds" (#44356)""<br />
     <sub>[#45346](https://github.com/flutter/engine/pull/45346) merged on August 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/45346) over 19 minutes, 1 addition and 5 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chris Yang](https://github.com/cyanglaz)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Revert "Roll Dart SDK from 0cea73a8d3c3 to 96d3a79547fc"<br />
     <sub>[#45285](https://github.com/flutter/engine/pull/45285) merged on August 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/45285) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
@@ -1211,11 +1211,11 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "[Impeller] Add debug captures and inspector."<br />
     <sub>[#45062](https://github.com/flutter/engine/pull/45062) merged on August 24, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/45062) over 33 minutes, 55 additions and 995 deletions in 21 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland debug captures and inspector.<br />
     <sub>[#45094](https://github.com/flutter/engine/pull/45094) merged on August 25, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/45094) over 19 hours, 1014 additions and 58 deletions in 22 files</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 87a5a26b25fc to bcad589d5d81 (4 revisions)<br />
     <sub>[#45065](https://github.com/flutter/engine/pull/45065) merged on August 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45065) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
@@ -1336,7 +1336,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.9.0 to 1.9.10 in /packages/pigeon/platform_tests/test_plugin/android<br />
     <sub>[#4798](https://github.com/flutter/packages/pull/4798) merged on August 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4798) over 9 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.9.0&new-version=1.9.10)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Convert version presubmit check to LUCI<br />
@@ -1390,7 +1390,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump io.mockk:mockk from 1.13.5 to 1.13.7 in /packages/pigeon/platform_tests/test_plugin/android<br />
     <sub>[#4736](https://github.com/flutter/packages/pull/4736) merged on August 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/4736) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=io.mockk:mockk&package-manager=gradle&previous-version=1.13.5&new-version=1.13.7)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Support web (as JS)<br />
