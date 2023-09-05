@@ -653,11 +653,15 @@
 
 ### September 2, 2023 to September 8, 2023
 
-12 commits.
+13 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Adds a Dart library for loading and parsing build configs<br />
     <sub>[#45390](https://github.com/flutter/engine/pull/45390) merged on September 5, 2023 &mdash; **Extra large:** [24 comments](https://github.com/flutter/engine/pull/45390) over 3 days, 1633 additions and 1 deletion in 13 files</sub><br />
     <sub>Reviewed by: [Ann Marie Mossman](https://github.com/mossmana), [Christopher Fujino](https://github.com/christopherfujino), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Chris Yang](https://github.com/cyanglaz)** &mdash; Fix iOS unittests leak in shared.invoke method channel that causes crash<br />
+    <sub>[#45416](https://github.com/flutter/engine/pull/45416) merged on September 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/45416) over 3 days, 4 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] compute path bounds once, use Skia computed bounds where possible.<br />
     <sub>[#45456](https://github.com/flutter/engine/pull/45456) merged on September 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/45456) over 39 minutes, 62 additions and 2 deletions in 6 files</sub><br />
@@ -1178,7 +1182,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart SDK to 3.2.0-97.0.dev<br />
     <sub>[#45072](https://github.com/flutter/engine/pull/45072) merged on August 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45072) over 32 minutes, 4 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Siva](https://github.com/a-siva)</sub><br />
+    <sub>Reviewed by: [Siva](https://github.com/a-siva), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Document rendering backend selection on Android.<br />
     <sub>[#44933](https://github.com/flutter/engine/pull/44933) merged on August 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/44933) over 1 hour, 62 additions and 6 deletions in 2 files</sub><br />
@@ -1286,7 +1290,7 @@
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert "Split DisplayListBuilder into DlCanvas optimizer and DlOp recorder classes"<br />
     <sub>[#44968](https://github.com/flutter/engine/pull/44968) merged on August 22, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/44968) over 33 minutes, 3556 additions and 3726 deletions in 61 files</sub><br />
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "[Impeller] Add debug captures and inspector."<br />
     <sub>[#45062](https://github.com/flutter/engine/pull/45062) merged on August 24, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/45062) over 33 minutes, 55 additions and 995 deletions in 21 files</sub><br />
