@@ -4,7 +4,7 @@
 
 ### September 2, 2023 to September 8, 2023
 
-12 commits.
+13 commits.
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix TypeError when a FileSystemException happens during flutter doctor<br />
     <sub>[#133373](https://github.com/flutter/flutter/pull/133373) merged on September 5, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/133373) over 1 week, 61 additions and 10 deletions in 6 files</sub><br />
@@ -33,6 +33,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; SegmentedButton should not create new MaterialStatesController in every build.<br />
     <sub>[#133949](https://github.com/flutter/flutter/pull/133949) merged on September 5, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/133949) over 1 day, 40 additions and 24 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Retry connecting to device in CI after lost connection<br />
+    <sub>[#133769](https://github.com/flutter/flutter/pull/133769) merged on September 5, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/133769) over 5 days, 175 additions and 31 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Dispose AnimationSheetRecorder to avoid leaks<br />
     <sub>[#133365](https://github.com/flutter/flutter/pull/133365) merged on September 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/133365) over 1 week, 94 additions and 48 deletions in 4 files</sub><br />
