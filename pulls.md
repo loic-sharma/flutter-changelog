@@ -38,9 +38,6 @@
 * **[YeLinAung](https://github.com/b14cknc0d3)** &mdash; added '.fvm/flutter_sdk ' in .gitignore.tmp<br />
     <sub>[#133107](https://github.com/flutter/flutter/pull/133107) opened on on August 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133107) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix TypeError when a FileSystemException happens during flutter doctor<br />
-    <sub>[#133373](https://github.com/flutter/flutter/pull/133373) opened on on August 26, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/133373) 61 additions and 10 deletions in 6 files</sub><br />
-
 * **[Shreyash Kashyap](https://github.com/SYK-08)** &mdash; Update README.md<br />
     <sub>[#133411](https://github.com/flutter/flutter/pull/133411) opened on on August 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133411) 4 additions and 4 deletions in 1 file</sub><br />
 
