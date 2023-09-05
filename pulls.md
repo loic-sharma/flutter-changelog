@@ -80,9 +80,6 @@
 * **[Shourov Roy](https://github.com/ShourovRoy)** &mdash; Update editable_text.dart<br />
     <sub>[#133996](https://github.com/flutter/flutter/pull/133996) opened on on September 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133996) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; TestWidgetsFlutterBinding should dispose old RestorationManager on reset.<br />
-    <sub>[#133999](https://github.com/flutter/flutter/pull/133999) opened on on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133999) 21 additions and 0 deletions in 2 files</sub><br />
-
 * **[Tirth](https://github.com/piedcipher)** &mdash; [CheckedPopupMenuItem] onTap prop<br />
     <sub>[#134000](https://github.com/flutter/flutter/pull/134000) opened on on September 4, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/134000) 44 additions and 0 deletions in 2 files</sub><br />
 
