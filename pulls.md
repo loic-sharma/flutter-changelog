@@ -72,7 +72,7 @@
     <sub>[#133991](https://github.com/flutter/flutter/pull/133991) opened on on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133991) 62 additions and 0 deletions in 3 files</sub><br />
 
 * **[Shourov Roy](https://github.com/ShourovRoy)** &mdash; Update editable_text.dart<br />
-    <sub>[#133996](https://github.com/flutter/flutter/pull/133996) opened on on September 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133996) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#133996](https://github.com/flutter/flutter/pull/133996) opened on on September 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133996) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; InputDecoration.error should activate error state<br />
     <sub>[#134001](https://github.com/flutter/flutter/pull/134001) opened on on September 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134001) 143 additions and 8 deletions in 4 files</sub><br />
