@@ -87,11 +87,8 @@
     <sub>[#134033](https://github.com/flutter/flutter/pull/134033) opened on on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134033) 191 additions and 81 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix "FormatException: Invalid date format" during version freshness check<br />
-    <sub>[#134088](https://github.com/flutter/flutter/pull/134088) opened on on September 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134088) 46 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#134088](https://github.com/flutter/flutter/pull/134088) opened on on September 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134088) 46 additions and 0 deletions in 2 files</sub><br />
 
 * **[Konstantin Dovnar](https://github.com/Vorkytaka)** &mdash; Add `tg` locale support<br />
     <sub>[#134133](https://github.com/flutter/flutter/pull/134133) opened on on September 6, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/134133) 894 additions and 0 deletions in 6 files</sub><br />
-
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `DataTable`'s `headingTextStyle` & `dataTextStyle` are not merged with default text style<br />
-    <sub>[#134138](https://github.com/flutter/flutter/pull/134138) opened on on September 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134138) 46 additions and 4 deletions in 2 files</sub><br />
 
