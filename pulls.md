@@ -56,9 +56,6 @@
 * **[awholegnuworld](https://github.com/awholegnuworld)** &mdash; Spawing subshell unnecessarily <br />
     <sub>[#133710](https://github.com/flutter/flutter/pull/133710) opened on on August 30, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/133710) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] reduce ink sparkle uniform count.<br />
-    <sub>[#133897](https://github.com/flutter/flutter/pull/133897) opened on on September 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133897) 42 additions and 49 deletions in 2 files</sub><br />
-
 * **[Sanket Salve](https://github.com/SanketRSalve)** &mdash; Memory Leak: RenderAnimatedSize doesn't dispose AnimationController and CurvedAnimation #133903<br />
     <sub>[#133905](https://github.com/flutter/flutter/pull/133905) opened on on September 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133905) 1 addition and 0 deletions in 1 file</sub><br />
 
