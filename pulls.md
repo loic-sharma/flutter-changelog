@@ -89,3 +89,6 @@
 * **[Konstantin Dovnar](https://github.com/Vorkytaka)** &mdash; Add `tg` locale support<br />
     <sub>[#134133](https://github.com/flutter/flutter/pull/134133) opened on on September 6, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/134133) 894 additions and 0 deletions in 6 files</sub><br />
 
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [release cherrypick] Remove cirrus tests from the flutter framework<br />
+    <sub>[#134157](https://github.com/flutter/flutter/pull/134157) opened on on September 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134157) 0 additions and 158 deletions in 1 file</sub><br />
+
