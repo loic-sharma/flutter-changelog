@@ -52,7 +52,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "CupertinoAlertDialog should not create ScrollController on every build, if null values are passed in constructor."<br />
     <sub>[#134071](https://github.com/flutter/flutter/pull/134071) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134071) over 3 minutes, 17 additions and 33 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "_SearchBarState should dispose FocusNode, if it created it."<br />
     <sub>[#134072](https://github.com/flutter/flutter/pull/134072) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134072) over 2 minutes, 1 addition and 5 deletions in 2 files</sub><br />
@@ -610,7 +610,7 @@
 
 * **[Angelo Silvestre](https://github.com/angelosilvestre)** &mdash; Add deleteBackwardByDecomposingPreviousCharacter mapping for tests<br />
     <sub>[#132919](https://github.com/flutter/flutter/pull/132919) merged on August 21, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/132919) over 23 hours, 24 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove unnecessary lint ignore<br />
     <sub>[#133164](https://github.com/flutter/flutter/pull/133164) merged on August 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133164) over 49 minutes, 0 additions and 4 deletions in 1 file</sub><br />
@@ -653,7 +653,7 @@
 
 ### September 2, 2023 to September 8, 2023
 
-18 commits.
+19 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Adds a Dart library for loading and parsing build configs<br />
     <sub>[#45390](https://github.com/flutter/engine/pull/45390) merged on September 5, 2023 &mdash; **Extra large:** [24 comments](https://github.com/flutter/engine/pull/45390) over 3 days, 1633 additions and 1 deletion in 13 files</sub><br />
@@ -686,6 +686,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix building on Pango 1.49.4<br />
     <sub>[#45098](https://github.com/flutter/engine/pull/45098) merged on September 4, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/45098) over 1 week, 4 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from d664543f3e6d to 5116f54eca4f (1 revision)<br />
+    <sub>[#45487](https://github.com/flutter/engine/pull/45487) merged on September 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45487) over 31 minutes, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 0ff71d5ecd25 to d664543f3e6d (1 revision)<br />
     <sub>[#45477](https://github.com/flutter/engine/pull/45477) merged on September 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45477) over 31 minutes, 2 additions and 2 deletions in 2 files</sub><br />
