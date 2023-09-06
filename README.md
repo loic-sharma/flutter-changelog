@@ -653,7 +653,7 @@
 
 ### September 2, 2023 to September 8, 2023
 
-15 commits.
+16 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Adds a Dart library for loading and parsing build configs<br />
     <sub>[#45390](https://github.com/flutter/engine/pull/45390) merged on September 5, 2023 &mdash; **Extra large:** [24 comments](https://github.com/flutter/engine/pull/45390) over 3 days, 1633 additions and 1 deletion in 13 files</sub><br />
@@ -667,12 +667,16 @@
     <sub>[#45416](https://github.com/flutter/engine/pull/45416) merged on September 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/45416) over 3 days, 4 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
+* **[Jia Hao](https://github.com/jiahaog)** &mdash; Add import for `<unordered_map>` to fix the g3 build<br />
+    <sub>[#45471](https://github.com/flutter/engine/pull/45471) merged on September 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45471) over 48 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Adds a comment on clang_arm64_apilevel26 toolchain usage<br />
     <sub>[#45467](https://github.com/flutter/engine/pull/45467) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45467) over 31 minutes, 5 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] compute path bounds once, use Skia computed bounds where possible.<br />
-    <sub>[#45456](https://github.com/flutter/engine/pull/45456) merged on September 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/45456) over 39 minutes, 62 additions and 2 deletions in 6 files</sub><br />
+    <sub>[#45456](https://github.com/flutter/engine/pull/45456) merged on September 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/45456) over 39 minutes, 62 additions and 2 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix building on Pango 1.49.4<br />
