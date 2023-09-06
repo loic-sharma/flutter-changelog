@@ -65,7 +65,7 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix flutter upgrade not finding git tags<br />
     <sub>[#133778](https://github.com/flutter/flutter/pull/133778) merged on August 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133778) over 5 hours, 45 additions and 11 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Introduce architecture subdirectory for Windows build (#129805, #116196)<br />
     <sub>[#131843](https://github.com/flutter/flutter/pull/131843) merged on August 31, 2023 &mdash; **Large:** [73 comments](https://github.com/flutter/flutter/pull/131843) over 4 weeks, 563 additions and 40 deletions in 23 files</sub><br />
@@ -363,7 +363,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Remove cirrus tests from the flutter framework.<br />
     <sub>[#133575](https://github.com/flutter/flutter/pull/133575) merged on August 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133575) over 10 hours, 0 additions and 158 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Fix `Chip.shape`'s side is not used when provided in Material 3"<br />
     <sub>[#133615](https://github.com/flutter/flutter/pull/133615) merged on August 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133615) over 2 hours, 8 additions and 127 deletions in 4 files</sub><br />
@@ -653,7 +653,7 @@
 
 ### September 2, 2023 to September 8, 2023
 
-19 commits.
+20 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Adds a Dart library for loading and parsing build configs<br />
     <sub>[#45390](https://github.com/flutter/engine/pull/45390) merged on September 5, 2023 &mdash; **Extra large:** [24 comments](https://github.com/flutter/engine/pull/45390) over 3 days, 1633 additions and 1 deletion in 13 files</sub><br />
@@ -686,6 +686,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix building on Pango 1.49.4<br />
     <sub>[#45098](https://github.com/flutter/engine/pull/45098) merged on September 4, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/45098) over 1 week, 4 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 5116f54eca4f to 55d3636b66e0 (1 revision)<br />
+    <sub>[#45488](https://github.com/flutter/engine/pull/45488) merged on September 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45488) over 35 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from d664543f3e6d to 5116f54eca4f (1 revision)<br />
     <sub>[#45487](https://github.com/flutter/engine/pull/45487) merged on September 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45487) over 31 minutes, 2 additions and 2 deletions in 2 files</sub><br />
