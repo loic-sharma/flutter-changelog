@@ -68,9 +68,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SelectionArea long press behavior should match native<br />
     <sub>[#133967](https://github.com/flutter/flutter/pull/133967) opened on on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133967) 176 additions and 3 deletions in 4 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TabBar` doesn't use `labelStyle` & `unselectedLabelStyle` color<br />
-    <sub>[#133989](https://github.com/flutter/flutter/pull/133989) opened on on September 4, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/133989) 315 additions and 19 deletions in 3 files</sub><br />
-
 * **[XuanTung95](https://github.com/XuanTung95)** &mdash; Add callback for external view synchronization<br />
     <sub>[#133991](https://github.com/flutter/flutter/pull/133991) opened on on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133991) 62 additions and 0 deletions in 3 files</sub><br />
 
@@ -85,7 +82,4 @@
 
 * **[Konstantin Dovnar](https://github.com/Vorkytaka)** &mdash; Add `tg` locale support<br />
     <sub>[#134133](https://github.com/flutter/flutter/pull/134133) opened on on September 6, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/134133) 894 additions and 0 deletions in 6 files</sub><br />
-
-* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [release cherrypick] Remove cirrus tests from the flutter framework<br />
-    <sub>[#134157](https://github.com/flutter/flutter/pull/134157) opened on on September 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134157) 0 additions and 158 deletions in 1 file</sub><br />
 
