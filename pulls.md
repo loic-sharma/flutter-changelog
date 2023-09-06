@@ -83,9 +83,3 @@
 * **[Konstantin Dovnar](https://github.com/Vorkytaka)** &mdash; Add `tg` locale support<br />
     <sub>[#134133](https://github.com/flutter/flutter/pull/134133) opened on on September 6, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/134133) 894 additions and 0 deletions in 6 files</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; fix `--exit` flag in dev/devicelab/bin/run.dart<br />
-    <sub>[#134162](https://github.com/flutter/flutter/pull/134162) opened on on September 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134162) 9 additions and 7 deletions in 2 files</sub><br />
-
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add --exit flag to dev/devicelab/bin/test_runner.dart<br />
-    <sub>[#134165](https://github.com/flutter/flutter/pull/134165) opened on on September 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134165) 7 additions and 0 deletions in 1 file</sub><br />
-
