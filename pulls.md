@@ -81,7 +81,7 @@
     <sub>[#133996](https://github.com/flutter/flutter/pull/133996) opened on on September 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133996) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; InputDecoration.error should activate error state<br />
-    <sub>[#134001](https://github.com/flutter/flutter/pull/134001) opened on on September 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134001) 143 additions and 8 deletions in 4 files</sub><br />
+    <sub>[#134001](https://github.com/flutter/flutter/pull/134001) opened on on September 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134001) 143 additions and 8 deletions in 4 files</sub><br />
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Migrate the "Missing frames / speed related performance issues" issue template to use Github forms<br />
     <sub>[#134033](https://github.com/flutter/flutter/pull/134033) opened on on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134033) 191 additions and 81 deletions in 2 files</sub><br />
