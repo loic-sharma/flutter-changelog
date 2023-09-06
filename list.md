@@ -653,11 +653,15 @@
 
 ### September 2, 2023 to September 8, 2023
 
-16 commits.
+17 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Adds a Dart library for loading and parsing build configs
     <sub>[#45390](https://github.com/flutter/engine/pull/45390) merged on September 5, 2023 &mdash; **Extra large:** [24 comments](https://github.com/flutter/engine/pull/45390) over 3 days, 1633 additions and 1 deletion in 13 files</sub>
     <sub>Reviewed by: [Ann Marie Mossman](https://github.com/mossmana), [Christopher Fujino](https://github.com/christopherfujino), [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] construct text frames on UI thread.
+    <sub>[#45418](https://github.com/flutter/engine/pull/45418) merged on September 6, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/45418) over 2 days, 408 additions and 122 deletions in 41 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [iOS ] Fix errors in unittest and scenario tests running against iOS 17 simulators (details in the description)
     <sub>[#45391](https://github.com/flutter/engine/pull/45391) merged on September 5, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/45391) over 4 days, 11 additions and 4 deletions in 2 files</sub>
