@@ -89,3 +89,6 @@
 * **[huycozy](https://github.com/huycozy)** &mdash; Migrate the "Missing frames / speed related performance issues" issue template to use Github forms<br />
     <sub>[#134033](https://github.com/flutter/flutter/pull/134033) opened on on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134033) 191 additions and 81 deletions in 2 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix "FormatException: Invalid date format" during version freshness check<br />
+    <sub>[#134088](https://github.com/flutter/flutter/pull/134088) opened on on September 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134088) 46 additions and 0 deletions in 2 files</sub><br />
+
