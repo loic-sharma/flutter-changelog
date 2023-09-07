@@ -80,6 +80,9 @@
 * **[huycozy](https://github.com/huycozy)** &mdash; Migrate the "Missing frames / speed related performance issues" issue template to use Github forms<br />
     <sub>[#134033](https://github.com/flutter/flutter/pull/134033) opened on on September 5, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/134033) 191 additions and 81 deletions in 2 files</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; _SearchBarState should dispose FocusNode, if it created it.<br />
+    <sub>[#134076](https://github.com/flutter/flutter/pull/134076) opened on on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134076) 5 additions and 1 deletion in 2 files</sub><br />
+
 * **[Konstantin Dovnar](https://github.com/Vorkytaka)** &mdash; Add `tg` locale support<br />
     <sub>[#134133](https://github.com/flutter/flutter/pull/134133) opened on on September 6, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/134133) 894 additions and 0 deletions in 6 files</sub><br />
 
