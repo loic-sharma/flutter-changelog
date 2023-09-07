@@ -476,7 +476,7 @@
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update default menu text styles for Material 3<br />
     <sub>[#131930](https://github.com/flutter/flutter/pull/131930) merged on August 22, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/131930) over 2 weeks, 159 additions and 28 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
     <sub><details><summary>5 images...</summary>![dropdown_input](https://github.com/flutter/flutter/assets/48603081/301f8243-155a-4b8f-84a8-5e6b7bebb3bc)![dropdown_item](https://github.com/flutter/flutter/assets/48603081/6b5be81a-72fc-4705-a577-074c7a4cad8f)![Screenshot 2023-08-04 at 16 48 28](https://github.com/flutter/flutter/assets/48603081/bcd9da98-e74d-491e-ae64-6268ae0b3893)![Screenshot 2023-08-04 at 16 50 19](https://github.com/flutter/flutter/assets/48603081/9592ca43-2854-45b5-8648-203ab65d9745)![Screenshot 2023-08-04 at 14 34 28](https://github.com/flutter/flutter/assets/48603081/e87e1073-05f8-4dc7-a435-d864e9cce6ab)</details></sub>
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; When resized network image has error, all future unrelated images using the same url will fail, even if the network becomes OK<br />
@@ -1054,7 +1054,7 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add an API in `ui_web` to create a `ui.Image` from an `ImageBitmap`<br />
     <sub>[#45256](https://github.com/flutter/engine/pull/45256) merged on August 30, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/45256) over 20 hours, 220 additions and 70 deletions in 19 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Dan Field](https://github.com/dnfield)</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Replace an unnecessary util function with PostSync<br />
     <sub>[#45190](https://github.com/flutter/engine/pull/45190) merged on August 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45190) over 2 days, 7 additions and 17 deletions in 1 file</sub><br />
