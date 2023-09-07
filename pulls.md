@@ -90,5 +90,5 @@
     <sub>[#134235](https://github.com/flutter/flutter/pull/134235) opened on on September 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134235) 25 additions and 0 deletions in 1 file</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Update links to iOS embedder docs to point to new Doxygen docs<br />
-    <sub>[#134246](https://github.com/flutter/flutter/pull/134246) opened on on September 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134246) 8 additions and 8 deletions in 5 files</sub><br />
+    <sub>[#134246](https://github.com/flutter/flutter/pull/134246) opened on on September 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134246) 9 additions and 9 deletions in 5 files</sub><br />
 
