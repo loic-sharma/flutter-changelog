@@ -87,5 +87,5 @@
     <sub>[#134212](https://github.com/flutter/flutter/pull/134212) opened on on September 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134212) 71 additions and 46 deletions in 2 files</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Create template for umbrella issues<br />
-    <sub>[#134235](https://github.com/flutter/flutter/pull/134235) opened on on September 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134235) 25 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#134235](https://github.com/flutter/flutter/pull/134235) opened on on September 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134235) 25 additions and 0 deletions in 1 file</sub><br />
 
