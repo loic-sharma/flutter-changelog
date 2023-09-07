@@ -83,3 +83,6 @@
 * **[Konstantin Dovnar](https://github.com/Vorkytaka)** &mdash; Add `tg` locale support<br />
     <sub>[#134133](https://github.com/flutter/flutter/pull/134133) opened on on September 6, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/134133) 894 additions and 0 deletions in 6 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in _DraggableScrollableSheetState<br />
+    <sub>[#134212](https://github.com/flutter/flutter/pull/134212) opened on on September 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134212) 71 additions and 46 deletions in 2 files</sub><br />
+
