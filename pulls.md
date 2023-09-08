@@ -56,23 +56,11 @@
 * **[awholegnuworld](https://github.com/awholegnuworld)** &mdash; Spawing subshell unnecessarily <br />
     <sub>[#133710](https://github.com/flutter/flutter/pull/133710) opened on on August 30, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/133710) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Sanket Salve](https://github.com/SanketRSalve)** &mdash; Memory Leak: RenderAnimatedSize doesn't dispose AnimationController and CurvedAnimation #133903<br />
-    <sub>[#133905](https://github.com/flutter/flutter/pull/133905) opened on on September 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133905) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark leak: PaintingContext creates level that is never disposed.<br />
     <sub>[#133940](https://github.com/flutter/flutter/pull/133940) opened on on September 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133940) 10 additions and 2 deletions in 1 file</sub><br />
 
-* **[bryanoli](https://github.com/bryanoli)** &mdash; Scaffold can accept a materialBuilder <br />
-    <sub>[#133965](https://github.com/flutter/flutter/pull/133965) opened on on September 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133965) 95 additions and 28 deletions in 3 files</sub><br />
-
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SelectionArea long press behavior should match native<br />
     <sub>[#133967](https://github.com/flutter/flutter/pull/133967) opened on on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133967) 176 additions and 3 deletions in 4 files</sub><br />
-
-* **[XuanTung95](https://github.com/XuanTung95)** &mdash; Add callback for external view synchronization<br />
-    <sub>[#133991](https://github.com/flutter/flutter/pull/133991) opened on on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133991) 62 additions and 0 deletions in 3 files</sub><br />
-
-* **[Shourov Roy](https://github.com/ShourovRoy)** &mdash; Update editable_text.dart<br />
-    <sub>[#133996](https://github.com/flutter/flutter/pull/133996) opened on on September 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133996) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; InputDecoration.error should activate error state<br />
     <sub>[#134001](https://github.com/flutter/flutter/pull/134001) opened on on September 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134001) 143 additions and 8 deletions in 4 files</sub><br />
