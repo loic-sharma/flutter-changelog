@@ -74,9 +74,6 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Create template for umbrella issues<br />
     <sub>[#134235](https://github.com/flutter/flutter/pull/134235) opened on on September 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134235) 25 additions and 0 deletions in 1 file</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove TextPainter migration flag from the framework<br />
-    <sub>[#134274](https://github.com/flutter/flutter/pull/134274) opened on on September 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134274) 6 additions and 24 deletions in 2 files</sub><br />
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Form fields onChange callback should be called on reset<br />
     <sub>[#134295](https://github.com/flutter/flutter/pull/134295) opened on on September 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134295) 148 additions and 20 deletions in 6 files</sub><br />
 
