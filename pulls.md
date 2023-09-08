@@ -93,5 +93,5 @@
     <sub>[#134274](https://github.com/flutter/flutter/pull/134274) opened on on September 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134274) 6 additions and 24 deletions in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Form fields onChange callback should be called on reset<br />
-    <sub>[#134295](https://github.com/flutter/flutter/pull/134295) opened on on September 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134295) 146 additions and 11 deletions in 6 files</sub><br />
+    <sub>[#134295](https://github.com/flutter/flutter/pull/134295) opened on on September 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134295) 148 additions and 20 deletions in 6 files</sub><br />
 
