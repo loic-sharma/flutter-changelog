@@ -777,7 +777,7 @@
 
 ### September 2, 2023 to September 8, 2023
 
-46 commits.
+47 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Enforce the rule of calling `FlutterView.Render`<br />
     <sub>[#45300](https://github.com/flutter/engine/pull/45300) merged on September 6, 2023 &mdash; **Medium:** [22 comments](https://github.com/flutter/engine/pull/45300) over 6 days, 351 additions and 14 deletions in 6 files</sub><br />
@@ -800,13 +800,13 @@
     <sub>[#45416](https://github.com/flutter/engine/pull/45416) merged on September 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/45416) over 3 days, 4 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Document and slightly refactor `ResourceManagerVK` & friends.<br />
-    <sub>[#45474](https://github.com/flutter/engine/pull/45474) merged on September 7, 2023 &mdash; **Small:** [24 comments](https://github.com/flutter/engine/pull/45474) over 1 day, 159 additions and 31 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [iOS ] Fix errors in unittest and scenario tests running against iOS 17 simulators (details in the description)<br />
     <sub>[#45391](https://github.com/flutter/engine/pull/45391) merged on September 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/45391) over 4 days, 11 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Document and slightly refactor `ResourceManagerVK` & friends.<br />
+    <sub>[#45474](https://github.com/flutter/engine/pull/45474) merged on September 7, 2023 &mdash; **Small:** [24 comments](https://github.com/flutter/engine/pull/45474) over 1 day, 159 additions and 31 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Aiks image filters; allow setting effect transforms after FilterContents instantiation.<br />
     <sub>[#45530](https://github.com/flutter/engine/pull/45530) merged on September 8, 2023 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/45530) over 22 hours, 687 additions and 267 deletions in 23 files</sub><br />
@@ -824,8 +824,20 @@
     <sub>[#45531](https://github.com/flutter/engine/pull/45531) merged on September 7, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/45531) over 9 hours, 241 additions and 224 deletions in 8 files</sub><br />
     <sub>Reviewed by: [David Worsham](https://github.com/arbreng)</sub><br />
 
-* **[Jia Hao](https://github.com/jiahaog)** &mdash; Add import for `<unordered_map>` to fix the g3 build<br />
-    <sub>[#45471](https://github.com/flutter/engine/pull/45471) merged on September 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/45471) over 48 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] compute path bounds once, use Skia computed bounds where possible.<br />
+    <sub>[#45456](https://github.com/flutter/engine/pull/45456) merged on September 5, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/45456) over 39 minutes, 62 additions and 2 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot<br />
+    <sub>[#45480](https://github.com/flutter/engine/pull/45480) merged on September 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45480) over 12 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll clang to 576b184d6e3b633f51b908b61ebd281d2ecbf66f<br />
+    <sub>[#45499](https://github.com/flutter/engine/pull/45499) merged on September 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45499) over 2 hours, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll Fuchsia with license script fix<br />
+    <sub>[#45498](https://github.com/flutter/engine/pull/45498) merged on September 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/45498) over 3 hours, 26 additions and 3 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Remove android API 26 bump for validation layers<br />
@@ -836,21 +848,13 @@
     <sub>[#45467](https://github.com/flutter/engine/pull/45467) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45467) over 31 minutes, 5 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll Fuchsia with license script fix<br />
-    <sub>[#45498](https://github.com/flutter/engine/pull/45498) merged on September 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/45498) over 3 hours, 26 additions and 3 deletions in 5 files</sub><br />
+* **[Jia Hao](https://github.com/jiahaog)** &mdash; Add import for `<unordered_map>` to fix the g3 build<br />
+    <sub>[#45471](https://github.com/flutter/engine/pull/45471) merged on September 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/45471) over 48 minutes, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll clang to 576b184d6e3b633f51b908b61ebd281d2ecbf66f<br />
-    <sub>[#45499](https://github.com/flutter/engine/pull/45499) merged on September 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45499) over 2 hours, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] compute path bounds once, use Skia computed bounds where possible.<br />
-    <sub>[#45456](https://github.com/flutter/engine/pull/45456) merged on September 5, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/45456) over 39 minutes, 62 additions and 2 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot<br />
-    <sub>[#45480](https://github.com/flutter/engine/pull/45480) merged on September 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45480) over 12 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Update deps on DDC build targets<br />
+    <sub>[#45404](https://github.com/flutter/engine/pull/45404) merged on September 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45404) over 4 days, 4 additions and 4 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Reverts part of "fix auto-correction highlight on top left corner (Again)" <br />
     <sub>[#45523](https://github.com/flutter/engine/pull/45523) merged on September 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/45523) over 19 hours, 3 additions and 46 deletions in 2 files</sub><br />
@@ -868,9 +872,9 @@
     <sub>[#45524](https://github.com/flutter/engine/pull/45524) merged on September 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45524) over 2 hours, 33 additions and 39 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Update deps on DDC build targets<br />
-    <sub>[#45404](https://github.com/flutter/engine/pull/45404) merged on September 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45404) over 4 days, 4 additions and 4 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+* **[William Hesse](https://github.com/whesse)** &mdash; Add dart2wasm dependency to flutter_frontend_server<br />
+    <sub>[#45570](https://github.com/flutter/engine/pull/45570) merged on September 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45570) over 2 hours, 4 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix building on Pango 1.49.4<br />
     <sub>[#45098](https://github.com/flutter/engine/pull/45098) merged on September 4, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/45098) over 1 week, 4 additions and 0 deletions in 1 file</sub><br />
@@ -880,8 +884,8 @@
     <sub>[#45525](https://github.com/flutter/engine/pull/45525) merged on September 7, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/45525) over 34 minutes, 14 additions and 351 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
-* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from dcd62fc41c3b to 0ff71d5ecd25 (2 revisions)<br />
-    <sub>[#45462](https://github.com/flutter/engine/pull/45462) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45462) over 35 minutes, 2 additions and 2 deletions in 2 files</sub><br />
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 17c4741d70dd to 9666d4d5f7c8 (1 revision)<br />
+    <sub>[#45453](https://github.com/flutter/engine/pull/45453) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45453) over 29 minutes, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from e72efa276c45 to 17c4741d70dd (1 revision)<br />
@@ -892,16 +896,12 @@
     <sub>[#45443](https://github.com/flutter/engine/pull/45443) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45443) over 33 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from e691a4edb19a to b62216047112 (1 revision)<br />
-    <sub>[#45441](https://github.com/flutter/engine/pull/45441) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45441) over 32 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 1fb536394148 to ab9bbb9b11b3 (1 revision)<br />
+    <sub>[#45426](https://github.com/flutter/engine/pull/45426) merged on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45426) over 30 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from ebf1e7163216 to 1fb536394148 (1 revision)<br />
     <sub>[#45424](https://github.com/flutter/engine/pull/45424) merged on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45424) over 31 minutes, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
-
-* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 5116f54eca4f to 55d3636b66e0 (1 revision)<br />
-    <sub>[#45488](https://github.com/flutter/engine/pull/45488) merged on September 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45488) over 35 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from d664543f3e6d to 5116f54eca4f (1 revision)<br />
@@ -912,8 +912,8 @@
     <sub>[#45477](https://github.com/flutter/engine/pull/45477) merged on September 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45477) over 31 minutes, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 99d39241ad4d to e60556f75b68 (1 revision)<br />
-    <sub>[#45569](https://github.com/flutter/engine/pull/45569) merged on September 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45569) over 30 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from ab9bbb9b11b3 to e691a4edb19a (1 revision)<br />
+    <sub>[#45437](https://github.com/flutter/engine/pull/45437) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45437) over 34 minutes, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from a412b149d5b1 to 99d39241ad4d (1 revision)<br />
@@ -936,8 +936,8 @@
     <sub>[#45546](https://github.com/flutter/engine/pull/45546) merged on September 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45546) over 36 minutes, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 17c4741d70dd to 9666d4d5f7c8 (1 revision)<br />
-    <sub>[#45453](https://github.com/flutter/engine/pull/45453) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45453) over 29 minutes, 2 additions and 2 deletions in 2 files</sub><br />
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from dcd62fc41c3b to 0ff71d5ecd25 (2 revisions)<br />
+    <sub>[#45462](https://github.com/flutter/engine/pull/45462) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45462) over 35 minutes, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 00daa451320c to 60b56591dee5 (1 revision)<br />
@@ -952,16 +952,20 @@
     <sub>[#45503](https://github.com/flutter/engine/pull/45503) merged on September 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45503) over 50 minutes, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from ab9bbb9b11b3 to e691a4edb19a (1 revision)<br />
-    <sub>[#45437](https://github.com/flutter/engine/pull/45437) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45437) over 34 minutes, 2 additions and 2 deletions in 2 files</sub><br />
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from e691a4edb19a to b62216047112 (1 revision)<br />
+    <sub>[#45441](https://github.com/flutter/engine/pull/45441) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45441) over 32 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 55d3636b66e0 to 1b8ab5382ff6 (1 revision)<br />
     <sub>[#45494](https://github.com/flutter/engine/pull/45494) merged on September 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45494) over 39 minutes, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 1fb536394148 to ab9bbb9b11b3 (1 revision)<br />
-    <sub>[#45426](https://github.com/flutter/engine/pull/45426) merged on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45426) over 30 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 99d39241ad4d to e60556f75b68 (1 revision)<br />
+    <sub>[#45569](https://github.com/flutter/engine/pull/45569) merged on September 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45569) over 30 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll ANGLE from 5116f54eca4f to 55d3636b66e0 (1 revision)<br />
+    <sub>[#45488](https://github.com/flutter/engine/pull/45488) merged on September 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45488) over 35 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### August 26, 2023 to September 1, 2023
