@@ -77,3 +77,6 @@
 * **[bryanoli](https://github.com/bryanoli)** &mdash; SearchBar should listen to changes to the SearchController and update suggestions on change<br />
     <sub>[#134337](https://github.com/flutter/flutter/pull/134337) opened on on September 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134337) 97 additions and 0 deletions in 2 files</sub><br />
 
+* **[K9i - Kota Hayashi](https://github.com/K9i-0)** &mdash; Applied the logo to the Discord badge.<br />
+    <sub>[#134339](https://github.com/flutter/flutter/pull/134339) opened on on September 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134339) 1 addition and 1 deletion in 1 file</sub><br />
+
