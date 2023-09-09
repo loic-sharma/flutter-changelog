@@ -80,6 +80,9 @@
 * **[K9i - Kota Hayashi](https://github.com/K9i-0)** &mdash; Applied the logo to the Discord badge.<br />
     <sub>[#134339](https://github.com/flutter/flutter/pull/134339) opened on on September 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134339) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Akito Nishiyama](https://github.com/Anishishi)** &mdash; 🎨: fix cupertionActionSheet design<br />
+    <sub>[#134345](https://github.com/flutter/flutter/pull/134345) opened on on September 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134345) 10 additions and 11 deletions in 1 file</sub><br />
+
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; 🎨 : Introduced Adaptive alert action for adaptive dialog.<br />
     <sub>[#134348](https://github.com/flutter/flutter/pull/134348) opened on on September 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134348) 121 additions and 0 deletions in 2 files</sub><br />
 
