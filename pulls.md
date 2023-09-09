@@ -74,3 +74,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Form fields onChange callback should be called on reset<br />
     <sub>[#134295](https://github.com/flutter/flutter/pull/134295) opened on on September 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134295) 148 additions and 20 deletions in 6 files</sub><br />
 
+* **[bryanoli](https://github.com/bryanoli)** &mdash; SearchBar should listen to changes to the SearchController and update suggestions on change<br />
+    <sub>[#134337](https://github.com/flutter/flutter/pull/134337) opened on on September 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134337) 97 additions and 0 deletions in 2 files</sub><br />
+
