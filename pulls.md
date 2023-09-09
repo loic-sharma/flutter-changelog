@@ -86,3 +86,6 @@
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; 🎨 : Introduced Adaptive alert action for adaptive dialog.<br />
     <sub>[#134348](https://github.com/flutter/flutter/pull/134348) opened on on September 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134348) 121 additions and 0 deletions in 2 files</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; fix:: solve problem of onTapOutside executing without the focus<br />
+    <sub>[#134354](https://github.com/flutter/flutter/pull/134354) opened on on September 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134354) 21 additions and 1 deletion in 1 file</sub><br />
+
