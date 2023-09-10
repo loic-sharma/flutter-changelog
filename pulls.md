@@ -83,3 +83,6 @@
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; 🎨 : Introduced Adaptive alert action for adaptive dialog.<br />
     <sub>[#134348](https://github.com/flutter/flutter/pull/134348) opened on on September 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134348) 121 additions and 0 deletions in 2 files</sub><br />
 
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Mark leak in hardware_keyboard_test.dart<br />
+    <sub>[#134380](https://github.com/flutter/flutter/pull/134380) opened on on September 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134380) 8 additions and 4 deletions in 1 file</sub><br />
+
