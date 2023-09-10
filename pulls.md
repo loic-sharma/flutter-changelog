@@ -86,3 +86,6 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Mark leak in hardware_keyboard_test.dart<br />
     <sub>[#134380](https://github.com/flutter/flutter/pull/134380) opened on on September 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134380) 8 additions and 4 deletions in 1 file</sub><br />
 
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Cover some Services tests with leak tracing<br />
+    <sub>[#134381](https://github.com/flutter/flutter/pull/134381) opened on on September 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134381) 6 additions and 4 deletions in 2 files</sub><br />
+
