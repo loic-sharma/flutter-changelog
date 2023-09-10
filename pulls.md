@@ -86,6 +86,3 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Cover some Services tests with leak tracing<br />
     <sub>[#134381](https://github.com/flutter/flutter/pull/134381) opened on on September 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134381) 6 additions and 4 deletions in 2 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking<br />
-    <sub>[#134387](https://github.com/flutter/flutter/pull/134387) opened on on September 10, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/134387) 2180 additions and 771 deletions in 7 files</sub><br />
-
