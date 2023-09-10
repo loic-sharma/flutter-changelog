@@ -29,9 +29,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update the Dart SDK lower bound in dev/tracing_tests<br />
     <sub>[#132752](https://github.com/flutter/flutter/pull/132752) opened on on August 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132752) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Test builds on all macs.<br />
-    <sub>[#132863](https://github.com/flutter/flutter/pull/132863) opened on on August 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132863) 2 additions and 1 deletion in 2 files</sub><br />
-
 * **[Burak İmdat](https://github.com/burakJs)** &mdash; Add viewSearchOnChanged to SearchAnchor<br />
     <sub>[#132924](https://github.com/flutter/flutter/pull/132924) opened on on August 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/132924) 16 additions and 2 deletions in 1 file</sub><br />
 
@@ -83,9 +80,12 @@
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; 🎨 : Introduced Adaptive alert action for adaptive dialog.<br />
     <sub>[#134348](https://github.com/flutter/flutter/pull/134348) opened on on September 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134348) 121 additions and 0 deletions in 2 files</sub><br />
 
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Mark leak in hardware_keyboard_test.dart<br />
-    <sub>[#134380](https://github.com/flutter/flutter/pull/134380) opened on on September 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134380) 8 additions and 4 deletions in 1 file</sub><br />
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Fix leak in hardware_keyboard_test.dart<br />
+    <sub>[#134380](https://github.com/flutter/flutter/pull/134380) opened on on September 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134380) 68 additions and 44 deletions in 4 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Cover some Services tests with leak tracing<br />
     <sub>[#134381](https://github.com/flutter/flutter/pull/134381) opened on on September 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134381) 6 additions and 4 deletions in 2 files</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking<br />
+    <sub>[#134387](https://github.com/flutter/flutter/pull/134387) opened on on September 10, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/134387) 2180 additions and 771 deletions in 7 files</sub><br />
 
