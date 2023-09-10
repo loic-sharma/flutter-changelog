@@ -4,7 +4,7 @@
 
 ### September 2, 2023 to September 8, 2023
 
-53 commits.
+54 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [integration_test] Allow capture of screenshots for `FlutterFragmentActivity`s<br />
     <sub>[#132406](https://github.com/flutter/flutter/pull/132406) merged on September 7, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/132406) over 3 weeks, 95 additions and 9 deletions in 7 files</sub><br />
@@ -14,6 +14,10 @@
     <sub>[#133989](https://github.com/flutter/flutter/pull/133989) merged on September 7, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/133989) over 2 days, 315 additions and 19 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/flutter/assets/48603081/4138f928-aa63-40bc-9d4e-4d2aeefe72c1)![image](https://github.com/flutter/flutter/assets/48603081/2ce552c5-3972-4b5d-9492-eb487764e58f)</details></sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets support for MacOS and iOS<br />
+    <sub>[#130494](https://github.com/flutter/flutter/pull/130494) merged on September 10, 2023 &mdash; **Extra large:** [156 comments](https://github.com/flutter/flutter/pull/130494) over 1 month, 4134 additions and 414 deletions in 74 files</sub><br />
+    <sub>Reviewed by: [Devon Carew](https://github.com/devoncarew), [Zachary Anderson](https://github.com/zanderso), [stuartmorgan](https://github.com/stuartmorgan), [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `DataTable`'s `headingTextStyle` & `dataTextStyle` are not merged with default text style<br />
     <sub>[#134138](https://github.com/flutter/flutter/pull/134138) merged on September 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134138) over 18 hours, 46 additions and 4 deletions in 2 files</sub><br />
@@ -69,17 +73,21 @@
     <sub>[#134000](https://github.com/flutter/flutter/pull/134000) merged on September 6, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/134000) over 1 day, 46 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; fix `--exit` flag in dev/devicelab/bin/run.dart<br />
-    <sub>[#134162](https://github.com/flutter/flutter/pull/134162) merged on September 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134162) over 23 hours, 9 additions and 7 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover some test/widgets tests with leak tracking<br />
     <sub>[#133803](https://github.com/flutter/flutter/pull/133803) merged on September 7, 2023 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/133803) over 6 days, 733 additions and 566 deletions in 60 files</sub><br />
     <sub>Reviewed by: </sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; fix `--exit` flag in dev/devicelab/bin/run.dart<br />
+    <sub>[#134162](https://github.com/flutter/flutter/pull/134162) merged on September 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134162) over 23 hours, 9 additions and 7 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows Arm64] Remove device_type property<br />
     <sub>[#134181](https://github.com/flutter/flutter/pull/134181) merged on September 7, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/134181) over 20 hours, 0 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ricardo Amador](https://github.com/ricardoamador), [AmrSaaad](https://github.com/AmrSaaad), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in _DraggableScrollableSheetState<br />
+    <sub>[#134212](https://github.com/flutter/flutter/pull/134212) merged on September 8, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/134212) over 1 day, 72 additions and 52 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Matheus Kirchesch](https://github.com/matheus-kirchesch-btor)** &mdash; Fixed [NavigationRailDestination]'s label opacity while disabled not being coherent with the icon<br />
     <sub>[#132345](https://github.com/flutter/flutter/pull/132345) merged on September 7, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/132345) over 3 weeks, 44 additions and 1 deletion in 2 files</sub><br />
@@ -88,10 +96,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `CupertinoTextField` at least as tall as its first line of placeholder<br />
     <sub>[#134198](https://github.com/flutter/flutter/pull/134198) merged on September 8, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/134198) over 1 day, 161 additions and 96 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in _DraggableScrollableSheetState<br />
-    <sub>[#134212](https://github.com/flutter/flutter/pull/134212) merged on September 8, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/134212) over 1 day, 72 additions and 52 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Reland "Fix `Chip.shape`'s side is not used when provided in Material 3"<br />
     <sub>[#133856](https://github.com/flutter/flutter/pull/133856) merged on September 7, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/133856) over 5 days, 148 additions and 3 deletions in 3 files</sub><br />
@@ -110,24 +114,24 @@
     <sub>[#134219](https://github.com/flutter/flutter/pull/134219) merged on September 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134219) over 17 hours, 4 additions and 4 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; EditableTextState should dispose cursorVisibilityNotifier.<br />
-    <sub>[#133858](https://github.com/flutter/flutter/pull/133858) merged on September 8, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/133858) over 6 days, 2 additions and 8 deletions in 1 file</sub><br />
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean the fixed TODOs.<br />
+    <sub>[#133859](https://github.com/flutter/flutter/pull/133859) merged on September 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133859) over 5 days, 2 additions and 10 deletions in 1 file</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows Arm64] Also use Windows 11 for Devicelab tests<br />
-    <sub>[#134082](https://github.com/flutter/flutter/pull/134082) merged on September 6, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/134082) over 19 hours, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; _DropdownMenuState should dispose TextEditingController.<br />
-    <sub>[#133914](https://github.com/flutter/flutter/pull/133914) merged on September 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133914) over 3 days, 4 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix not disposed items in Cupertino app and route.<br />
     <sub>[#134085](https://github.com/flutter/flutter/pull/134085) merged on September 6, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/134085) over 15 hours, 21 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; DraggableScrollableActuator should dispose notifier.<br />
-    <sub>[#133917](https://github.com/flutter/flutter/pull/133917) merged on September 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133917) over 4 days, 18 additions and 6 deletions in 2 files</sub><br />
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; _DropdownMenuState should dispose TextEditingController.<br />
+    <sub>[#133914](https://github.com/flutter/flutter/pull/133914) merged on September 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133914) over 3 days, 4 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; SearchDelegate should dispose resources.<br />
+    <sub>[#133948](https://github.com/flutter/flutter/pull/133948) merged on September 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133948) over 3 days, 13 additions and 4 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; EditableTextState should dispose cursorVisibilityNotifier.<br />
+    <sub>[#133858](https://github.com/flutter/flutter/pull/133858) merged on September 8, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/133858) over 6 days, 2 additions and 8 deletions in 1 file</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; _MaterialAppState should dispose MaterialHeroController.<br />
@@ -138,49 +142,45 @@
     <sub>[#133915](https://github.com/flutter/flutter/pull/133915) merged on September 5, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/133915) over 3 days, 2 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; _SearchBarState should dispose FocusNode, if it created it.<br />
-    <sub>[#133947](https://github.com/flutter/flutter/pull/133947) merged on September 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133947) over 2 days, 5 additions and 1 deletion in 2 files</sub><br />
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; CupertinoAlertDialog should not create ScrollController on every build, if null values are passed in constructor.<br />
+    <sub>[#133918](https://github.com/flutter/flutter/pull/133918) merged on September 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133918) over 3 days, 33 additions and 17 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; SegmentedButton should not create new MaterialStatesController in every build.<br />
+    <sub>[#133949](https://github.com/flutter/flutter/pull/133949) merged on September 5, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/133949) over 1 day, 40 additions and 24 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; MinimumTextContrastGuideline should dispose image.<br />
     <sub>[#133861](https://github.com/flutter/flutter/pull/133861) merged on September 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133861) over 5 days, 5 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; SegmentedButton should not create new MaterialStatesController in every build.<br />
-    <sub>[#133949](https://github.com/flutter/flutter/pull/133949) merged on September 5, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/133949) over 1 day, 40 additions and 24 deletions in 2 files</sub><br />
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; DraggableScrollableActuator should dispose notifier.<br />
+    <sub>[#133917](https://github.com/flutter/flutter/pull/133917) merged on September 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133917) over 4 days, 18 additions and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; CupertinoAlertDialog should not create ScrollController on every build, if null values are passed in constructor.<br />
     <sub>[#134075](https://github.com/flutter/flutter/pull/134075) merged on September 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134075) over 2 days, 33 additions and 17 deletions in 2 files</sub><br />
     <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; TestWidgetsFlutterBinding should dispose old RestorationManager on reset.<br />
-    <sub>[#133999](https://github.com/flutter/flutter/pull/133999) merged on September 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133999) over 3 days, 21 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [chunhtai](https://github.com/chunhtai)</sub><br />
-
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; _SearchBarState should dispose FocusNode, if it created it.<br />
     <sub>[#134076](https://github.com/flutter/flutter/pull/134076) merged on September 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134076) over 2 days, 5 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Gaël](https://github.com/Logharaa), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows Arm64] Also use Windows 11 for Devicelab tests<br />
+    <sub>[#134082](https://github.com/flutter/flutter/pull/134082) merged on September 6, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/134082) over 19 hours, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; DropdownRoutePage should dispose the created ScrollController.<br />
     <sub>[#133941](https://github.com/flutter/flutter/pull/133941) merged on September 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133941) over 4 days, 44 additions and 21 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; CupertinoAlertDialog should not create ScrollController on every build, if null values are passed in constructor.<br />
-    <sub>[#133918](https://github.com/flutter/flutter/pull/133918) merged on September 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133918) over 3 days, 33 additions and 17 deletions in 2 files</sub><br />
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; _SearchBarState should dispose FocusNode, if it created it.<br />
+    <sub>[#133947](https://github.com/flutter/flutter/pull/133947) merged on September 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133947) over 2 days, 5 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; SearchDelegate should dispose resources.<br />
-    <sub>[#133948](https://github.com/flutter/flutter/pull/133948) merged on September 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133948) over 3 days, 13 additions and 4 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean the fixed TODOs.<br />
-    <sub>[#133859](https://github.com/flutter/flutter/pull/133859) merged on September 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133859) over 5 days, 2 additions and 10 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
-
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SelectableRegion onSelectionChange should be called when the selection changes<br />
-    <sub>[#134215](https://github.com/flutter/flutter/pull/134215) merged on September 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134215) over 2 days, 256 additions and 9 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; TestWidgetsFlutterBinding should dispose old RestorationManager on reset.<br />
+    <sub>[#133999](https://github.com/flutter/flutter/pull/133999) merged on September 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133999) over 3 days, 21 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove TextPainter migration flag from the framework<br />
     <sub>[#134274](https://github.com/flutter/flutter/pull/134274) merged on September 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134274) over 15 hours, 6 additions and 24 deletions in 2 files</sub><br />
@@ -190,6 +190,10 @@
     <sub>[#134001](https://github.com/flutter/flutter/pull/134001) merged on September 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134001) over 4 days, 143 additions and 8 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Update links to iOS embedder docs to point to new Doxygen docs<br />
+    <sub>[#134246](https://github.com/flutter/flutter/pull/134246) merged on September 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134246) over 19 hours, 9 additions and 9 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Retry connecting to device in CI after lost connection<br />
     <sub>[#133769](https://github.com/flutter/flutter/pull/133769) merged on September 5, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/133769) over 5 days, 175 additions and 31 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
@@ -198,9 +202,9 @@
     <sub>[#133365](https://github.com/flutter/flutter/pull/133365) merged on September 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/133365) over 1 week, 94 additions and 48 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Update links to iOS embedder docs to point to new Doxygen docs<br />
-    <sub>[#134246](https://github.com/flutter/flutter/pull/134246) merged on September 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134246) over 19 hours, 9 additions and 9 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SelectableRegion onSelectionChange should be called when the selection changes<br />
+    <sub>[#134215](https://github.com/flutter/flutter/pull/134215) merged on September 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134215) over 2 days, 256 additions and 9 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix links in top level README<br />
     <sub>[#133893](https://github.com/flutter/flutter/pull/133893) merged on September 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133893) over 3 days, 9 additions and 8 deletions in 1 file</sub><br />
