@@ -6,13 +6,13 @@
 
 54 commits.
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; [integration_test] Allow capture of screenshots for `FlutterFragmentActivity`s<br />
-    <sub>[#132406](https://github.com/flutter/flutter/pull/132406) merged on September 7, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/132406) over 3 weeks, 95 additions and 9 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Reid Baker](https://github.com/reidbaker)</sub><br />
-
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets support for MacOS and iOS<br />
     <sub>[#130494](https://github.com/flutter/flutter/pull/130494) merged on September 10, 2023 &mdash; **Extra large:** [156 comments](https://github.com/flutter/flutter/pull/130494) over 1 month, 4134 additions and 414 deletions in 74 files</sub><br />
     <sub>Reviewed by: [Devon Carew](https://github.com/devoncarew), [Zachary Anderson](https://github.com/zanderso), [stuartmorgan](https://github.com/stuartmorgan), [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [integration_test] Allow capture of screenshots for `FlutterFragmentActivity`s<br />
+    <sub>[#132406](https://github.com/flutter/flutter/pull/132406) merged on September 7, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/132406) over 3 weeks, 95 additions and 9 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TabBar` doesn't use `labelStyle` & `unselectedLabelStyle` color<br />
     <sub>[#133989](https://github.com/flutter/flutter/pull/133989) merged on September 7, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/133989) over 2 days, 315 additions and 19 deletions in 3 files</sub><br />
