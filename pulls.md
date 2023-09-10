@@ -80,6 +80,9 @@
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; 🎨 : Introduced Adaptive alert action for adaptive dialog.<br />
     <sub>[#134348](https://github.com/flutter/flutter/pull/134348) opened on on September 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134348) 121 additions and 0 deletions in 2 files</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Cover more tests with leak tracking.<br />
+    <sub>[#134363](https://github.com/flutter/flutter/pull/134363) opened on on September 10, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/134363) 349 additions and 325 deletions in 37 files</sub><br />
+
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Fix leak in hardware_keyboard_test.dart<br />
     <sub>[#134380](https://github.com/flutter/flutter/pull/134380) opened on on September 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134380) 68 additions and 44 deletions in 4 files</sub><br />
 
