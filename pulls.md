@@ -89,3 +89,6 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Cover some Services tests with leak tracing<br />
     <sub>[#134381](https://github.com/flutter/flutter/pull/134381) opened on on September 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134381) 6 additions and 4 deletions in 2 files</sub><br />
 
+* **[Viachaslau Lyskouski](https://github.com/lyskouski)** &mdash; Handle debug state to avoid freezes on assertion (#134408)<br />
+    <sub>[#134409](https://github.com/flutter/flutter/pull/134409) opened on on September 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134409) 9 additions and 8 deletions in 1 file</sub><br />
+
