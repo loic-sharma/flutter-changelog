@@ -90,5 +90,5 @@
     <sub>[#134381](https://github.com/flutter/flutter/pull/134381) opened on on September 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134381) 6 additions and 4 deletions in 2 files</sub><br />
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Deprecate M2 curves<br />
-    <sub>[#134417](https://github.com/flutter/flutter/pull/134417) opened on on September 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134417) 23 additions and 21 deletions in 4 files</sub><br />
+    <sub>[#134417](https://github.com/flutter/flutter/pull/134417) opened on on September 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134417) 32 additions and 21 deletions in 4 files</sub><br />
 
