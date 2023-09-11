@@ -27,7 +27,7 @@
     <sub>[#132747](https://github.com/flutter/flutter/pull/132747) opened on on August 17, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/132747) 39 additions and 45 deletions in 1 file</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update the Dart SDK lower bound in dev/tracing_tests<br />
-    <sub>[#132752](https://github.com/flutter/flutter/pull/132752) opened on on August 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/132752) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#132752](https://github.com/flutter/flutter/pull/132752) opened on on August 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132752) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Burak İmdat](https://github.com/burakJs)** &mdash; Add viewSearchOnChanged to SearchAnchor<br />
     <sub>[#132924](https://github.com/flutter/flutter/pull/132924) opened on on August 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/132924) 16 additions and 2 deletions in 1 file</sub><br />
@@ -70,9 +70,6 @@
 
 * **[bryanoli](https://github.com/bryanoli)** &mdash; SearchBar should listen to changes to the SearchController and update suggestions on change<br />
     <sub>[#134337](https://github.com/flutter/flutter/pull/134337) opened on on September 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134337) 97 additions and 0 deletions in 2 files</sub><br />
-
-* **[K9i - Kota Hayashi](https://github.com/K9i-0)** &mdash; Applied the logo to the Discord badge.<br />
-    <sub>[#134339](https://github.com/flutter/flutter/pull/134339) opened on on September 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134339) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Akito Nishiyama](https://github.com/Anishishi)** &mdash; 🎨: fix cupertionActionSheet design<br />
     <sub>[#134345](https://github.com/flutter/flutter/pull/134345) opened on on September 9, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/134345) 346 additions and 190 deletions in 2 files</sub><br />
