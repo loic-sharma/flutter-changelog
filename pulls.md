@@ -80,3 +80,9 @@
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Deprecate M2 curves<br />
     <sub>[#134417](https://github.com/flutter/flutter/pull/134417) opened on on September 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134417) 32 additions and 21 deletions in 4 files</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable private field promotion for framework<br />
+    <sub>[#134473](https://github.com/flutter/flutter/pull/134473) opened on on September 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134473) 47 additions and 47 deletions in 21 files</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable private field promotion for other packages<br />
+    <sub>[#134475](https://github.com/flutter/flutter/pull/134475) opened on on September 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134475) 11 additions and 11 deletions in 11 files</sub><br />
+
