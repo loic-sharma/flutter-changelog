@@ -81,5 +81,5 @@
     <sub>[#134417](https://github.com/flutter/flutter/pull/134417) opened on on September 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134417) 32 additions and 21 deletions in 4 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover focus tests with leak tracking<br />
-    <sub>[#134457](https://github.com/flutter/flutter/pull/134457) opened on on September 11, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/134457) 501 additions and 151 deletions in 3 files</sub><br />
+    <sub>[#134457](https://github.com/flutter/flutter/pull/134457) opened on on September 11, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/134457) 501 additions and 151 deletions in 3 files</sub><br />
 
