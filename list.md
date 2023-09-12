@@ -253,7 +253,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "_SearchBarState should dispose FocusNode, if it created it."
     <sub>[#134072](https://github.com/flutter/flutter/pull/134072) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134072) over 2 minutes, 1 addition and 5 deletions in 2 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [yusuf-goog](https://github.com/yusuf-goog)</sub>
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 </details>
 
@@ -264,7 +264,7 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix flutter upgrade not finding git tags
     <sub>[#133778](https://github.com/flutter/flutter/pull/133778) merged on August 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133778) over 5 hours, 45 additions and 11 deletions in 3 files</sub>
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Casey Hillers](https://github.com/CaseyHillers)</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Introduce architecture subdirectory for Windows build (#129805, #116196)
     <sub>[#131843](https://github.com/flutter/flutter/pull/131843) merged on August 31, 2023 &mdash; **Large:** [73 comments](https://github.com/flutter/flutter/pull/131843) over 4 weeks, 563 additions and 40 deletions in 23 files</sub>
@@ -633,11 +633,15 @@
 
 ### September 9, 2023 to September 15, 2023
 
-7 commits.
+8 commits.
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Merge `Window` into `FlutterWindow`
     <sub>[#45542](https://github.com/flutter/engine/pull/45542) merged on September 11, 2023 &mdash; **Extra large:** [19 comments](https://github.com/flutter/engine/pull/45542) over 4 days, 990 additions and 1159 deletions in 11 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll libwebp to 1.3.1
+    <sub>[#45675](https://github.com/flutter/engine/pull/45675) merged on September 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45675) over 2 hours, 110 additions and 7 deletions in 3 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Pipe VMA asserts to FML.
     <sub>[#45661](https://github.com/flutter/engine/pull/45661) merged on September 11, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/45661) over 2 hours, 8 additions and 0 deletions in 2 files</sub>

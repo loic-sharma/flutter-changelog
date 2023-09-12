@@ -81,7 +81,7 @@
     <sub>[#134417](https://github.com/flutter/flutter/pull/134417) opened on on September 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134417) 32 additions and 21 deletions in 4 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable private field promotion for framework<br />
-    <sub>[#134473](https://github.com/flutter/flutter/pull/134473) opened on on September 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134473) 47 additions and 47 deletions in 21 files</sub><br />
+    <sub>[#134473](https://github.com/flutter/flutter/pull/134473) opened on on September 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134473) 47 additions and 47 deletions in 21 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable private field promotion for other packages<br />
     <sub>[#134475](https://github.com/flutter/flutter/pull/134475) opened on on September 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134475) 13 additions and 13 deletions in 12 files</sub><br />
