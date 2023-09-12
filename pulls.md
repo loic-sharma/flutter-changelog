@@ -56,9 +56,6 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Create template for umbrella issues<br />
     <sub>[#134235](https://github.com/flutter/flutter/pull/134235) opened on on September 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134235) 25 additions and 0 deletions in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Form fields onChange callback should be called on reset<br />
-    <sub>[#134295](https://github.com/flutter/flutter/pull/134295) opened on on September 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134295) 176 additions and 19 deletions in 6 files</sub><br />
-
 * **[Bryan Olivares](https://github.com/bryanoli)** &mdash; SearchBar should listen to changes to the SearchController and update suggestions on change<br />
     <sub>[#134337](https://github.com/flutter/flutter/pull/134337) opened on on September 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134337) 97 additions and 0 deletions in 2 files</sub><br />
 
@@ -85,4 +82,7 @@
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; [draft] Update  BottomSheetTest <br />
     <sub>[#134562](https://github.com/flutter/flutter/pull/134562) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134562) 2 additions and 8 deletions in 1 file</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking<br />
+    <sub>[#134576](https://github.com/flutter/flutter/pull/134576) opened on on September 12, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/134576) 333 additions and 273 deletions in 21 files</sub><br />
 
