@@ -71,14 +71,8 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable private field promotion for framework<br />
     <sub>[#134473](https://github.com/flutter/flutter/pull/134473) opened on on September 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134473) 47 additions and 47 deletions in 21 files</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix SliverList example descriptions<br />
-    <sub>[#134483](https://github.com/flutter/flutter/pull/134483) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134483) 7 additions and 6 deletions in 1 file</sub><br />
-
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 Setup color tween for `RefreshIndicator` in a better way<br />
     <sub>[#134492](https://github.com/flutter/flutter/pull/134492) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134492) 90 additions and 19 deletions in 2 files</sub><br />
-
-* **[chrisdlangham](https://github.com/chrisdlangham)** &mdash; removed unused variable in the example code of semantic event<br />
-    <sub>[#134551](https://github.com/flutter/flutter/pull/134551) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134551) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking<br />
     <sub>[#134576](https://github.com/flutter/flutter/pull/134576) opened on on September 12, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/134576) 333 additions and 273 deletions in 21 files</sub><br />
