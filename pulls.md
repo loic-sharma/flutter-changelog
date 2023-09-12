@@ -98,3 +98,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Set the CONFIGURATION_BUILD_DIR in generated xcconfig when debugging core device<br />
     <sub>[#134493](https://github.com/flutter/flutter/pull/134493) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134493) 169 additions and 44 deletions in 10 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Don't uninstall before retrying to connect during app launch<br />
+    <sub>[#134542](https://github.com/flutter/flutter/pull/134542) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134542) 9 additions and 1 deletion in 2 files</sub><br />
+
