@@ -21,7 +21,7 @@
     <sub>[#132693](https://github.com/flutter/flutter/pull/132693) opened on on August 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132693) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Tibor Szuntheimer](https://github.com/Producer86)** &mdash; doc: Update Overlay example.<br />
-    <sub>[#132747](https://github.com/flutter/flutter/pull/132747) opened on on August 17, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/132747) 39 additions and 45 deletions in 1 file</sub><br />
+    <sub>[#132747](https://github.com/flutter/flutter/pull/132747) opened on on August 17, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/132747) 39 additions and 45 deletions in 1 file</sub><br />
 
 * **[Burak İmdat](https://github.com/burakJs)** &mdash; Add viewSearchOnChanged to SearchAnchor<br />
     <sub>[#132924](https://github.com/flutter/flutter/pull/132924) opened on on August 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/132924) 16 additions and 2 deletions in 1 file</sub><br />
