@@ -63,7 +63,7 @@
     <sub>[#134473](https://github.com/flutter/flutter/pull/134473) opened on on September 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134473) 47 additions and 47 deletions in 21 files</sub><br />
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 Setup color tween for `RefreshIndicator` in a better way<br />
-    <sub>[#134492](https://github.com/flutter/flutter/pull/134492) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134492) 90 additions and 19 deletions in 2 files</sub><br />
+    <sub>[#134492](https://github.com/flutter/flutter/pull/134492) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134492) 89 additions and 19 deletions in 2 files</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Roll engine to 17a711a7765a198264b20d8c4983f2f6f1271271<br />
     <sub>[#134584](https://github.com/flutter/flutter/pull/134584) opened on on September 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134584) 1 addition and 1 deletion in 1 file</sub><br />
