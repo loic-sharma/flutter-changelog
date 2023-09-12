@@ -65,9 +65,6 @@
 * **[Bryan Olivares](https://github.com/bryanoli)** &mdash; SearchBar should listen to changes to the SearchController and update suggestions on change<br />
     <sub>[#134337](https://github.com/flutter/flutter/pull/134337) opened on on September 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134337) 97 additions and 0 deletions in 2 files</sub><br />
 
-* **[Akito Nishiyama](https://github.com/Anishishi)** &mdash; 🎨: fix cupertionActionSheet design<br />
-    <sub>[#134345](https://github.com/flutter/flutter/pull/134345) opened on on September 9, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/134345) 346 additions and 190 deletions in 2 files</sub><br />
-
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; 🎨 : Introduced Adaptive alert action for adaptive dialog.<br />
     <sub>[#134348](https://github.com/flutter/flutter/pull/134348) opened on on September 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134348) 121 additions and 0 deletions in 2 files</sub><br />
 
