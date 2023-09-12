@@ -51,7 +51,7 @@
     <sub>[#133967](https://github.com/flutter/flutter/pull/133967) opened on on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133967) 176 additions and 3 deletions in 4 files</sub><br />
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Migrate the "Missing frames / speed related performance issues" issue template to use Github forms<br />
-    <sub>[#134033](https://github.com/flutter/flutter/pull/134033) opened on on September 5, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/134033) 171 additions and 81 deletions in 2 files</sub><br />
+    <sub>[#134033](https://github.com/flutter/flutter/pull/134033) opened on on September 5, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/134033) 171 additions and 81 deletions in 2 files</sub><br />
 
 * **[Konstantin Dovnar](https://github.com/Vorkytaka)** &mdash; Add `tg` locale support<br />
     <sub>[#134133](https://github.com/flutter/flutter/pull/134133) opened on on September 6, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/134133) 894 additions and 0 deletions in 6 files</sub><br />
@@ -66,7 +66,7 @@
     <sub>[#134337](https://github.com/flutter/flutter/pull/134337) opened on on September 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134337) 97 additions and 0 deletions in 2 files</sub><br />
 
 * **[Akito Nishiyama](https://github.com/Anishishi)** &mdash; 🎨: fix cupertionActionSheet design<br />
-    <sub>[#134345](https://github.com/flutter/flutter/pull/134345) opened on on September 9, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/134345) 346 additions and 190 deletions in 2 files</sub><br />
+    <sub>[#134345](https://github.com/flutter/flutter/pull/134345) opened on on September 9, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/134345) 346 additions and 190 deletions in 2 files</sub><br />
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; 🎨 : Introduced Adaptive alert action for adaptive dialog.<br />
     <sub>[#134348](https://github.com/flutter/flutter/pull/134348) opened on on September 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134348) 121 additions and 0 deletions in 2 files</sub><br />
