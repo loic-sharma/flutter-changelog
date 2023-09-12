@@ -95,6 +95,6 @@
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 Setup color tween for `RefreshIndicator` in a better way<br />
     <sub>[#134492](https://github.com/flutter/flutter/pull/134492) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134492) 90 additions and 19 deletions in 2 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Set the CONFIGURATION in generated xcconfig when debugging core device<br />
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Set the CONFIGURATION_BUILD_DIR in generated xcconfig when debugging core device<br />
     <sub>[#134493](https://github.com/flutter/flutter/pull/134493) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134493) 168 additions and 44 deletions in 9 files</sub><br />
 
