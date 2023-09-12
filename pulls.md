@@ -80,9 +80,6 @@
 * **[chrisdlangham](https://github.com/chrisdlangham)** &mdash; removed unused variable in the example code of semantic event<br />
     <sub>[#134551](https://github.com/flutter/flutter/pull/134551) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134551) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[hangyu](https://github.com/hangyujin)** &mdash; Update  BottomSheetTest <br />
-    <sub>[#134562](https://github.com/flutter/flutter/pull/134562) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134562) 2 additions and 8 deletions in 1 file</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking<br />
     <sub>[#134576](https://github.com/flutter/flutter/pull/134576) opened on on September 12, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/134576) 333 additions and 273 deletions in 21 files</sub><br />
 
