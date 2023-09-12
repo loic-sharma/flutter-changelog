@@ -47,9 +47,6 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark leak: PaintingContext creates level that is never disposed.<br />
     <sub>[#133940](https://github.com/flutter/flutter/pull/133940) opened on on September 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133940) 10 additions and 2 deletions in 1 file</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SelectionArea long press behavior should match native<br />
-    <sub>[#133967](https://github.com/flutter/flutter/pull/133967) opened on on September 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133967) 176 additions and 3 deletions in 4 files</sub><br />
-
 * **[huycozy](https://github.com/huycozy)** &mdash; Migrate the "Missing frames / speed related performance issues" issue template to use Github forms<br />
     <sub>[#134033](https://github.com/flutter/flutter/pull/134033) opened on on September 5, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/134033) 171 additions and 81 deletions in 2 files</sub><br />
 
@@ -88,4 +85,7 @@
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; [draft] Update  BottomSheetTest <br />
     <sub>[#134562](https://github.com/flutter/flutter/pull/134562) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134562) 2 additions and 8 deletions in 1 file</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Makes scheme and target optional parameter when getting universal lin…<br />
+    <sub>[#134571](https://github.com/flutter/flutter/pull/134571) opened on on September 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134571) 87 additions and 21 deletions in 5 files</sub><br />
 
