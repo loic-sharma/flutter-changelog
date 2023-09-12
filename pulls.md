@@ -86,6 +86,3 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; [draft] Update  BottomSheetTest <br />
     <sub>[#134562](https://github.com/flutter/flutter/pull/134562) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134562) 2 additions and 8 deletions in 1 file</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Makes scheme and target optional parameter when getting universal lin…<br />
-    <sub>[#134571](https://github.com/flutter/flutter/pull/134571) opened on on September 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134571) 87 additions and 21 deletions in 5 files</sub><br />
-
