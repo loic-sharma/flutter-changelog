@@ -28,7 +28,7 @@
 
 * **[Kohei Seino](https://github.com/kseino)** &mdash; ScaleGestureRecognizer: make pointerCount public<br />
     <sub>[#127310](https://github.com/flutter/flutter/pull/127310) merged on September 12, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/127310) over 3 months, 15 additions and 9 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark leak: instances of OpacityLayer, created by _RenderChip, should be disposed.<br />
     <sub>[#134395](https://github.com/flutter/flutter/pull/134395) merged on September 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134395) over 14 hours, 7 additions and 2 deletions in 1 file</sub><br />
@@ -253,11 +253,11 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "CupertinoAlertDialog should not create ScrollController on every build, if null values are passed in constructor."<br />
     <sub>[#134071](https://github.com/flutter/flutter/pull/134071) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134071) over 3 minutes, 17 additions and 33 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "_SearchBarState should dispose FocusNode, if it created it."<br />
     <sub>[#134072](https://github.com/flutter/flutter/pull/134072) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134072) over 2 minutes, 1 addition and 5 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 </details>
 
@@ -566,7 +566,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Remove cirrus tests from the flutter framework.<br />
     <sub>[#133575](https://github.com/flutter/flutter/pull/133575) merged on August 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133575) over 10 hours, 0 additions and 158 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [keyonghan](https://github.com/keyonghan)</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Fix `Chip.shape`'s side is not used when provided in Material 3"<br />
     <sub>[#133615](https://github.com/flutter/flutter/pull/133615) merged on August 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133615) over 2 hours, 8 additions and 127 deletions in 4 files</sub><br />
@@ -1046,37 +1046,41 @@
     <sub>[#44705](https://github.com/flutter/engine/pull/44705) merged on September 1, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/44705) over 2 weeks, 22 additions and 17 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Update vsync on raster thread<br />
-    <sub>[#45310](https://github.com/flutter/engine/pull/45310) merged on September 1, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/45310) over 1 day, 22 additions and 2 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot<br />
-    <sub>[#45329](https://github.com/flutter/engine/pull/45329) merged on August 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45329) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [keyonghan](https://github.com/keyonghan)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Better demonstrate blur and draw picture?<br />
-    <sub>[#45388](https://github.com/flutter/engine/pull/45388) merged on September 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/45388) over 7 hours, 5 additions and 3 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Increase maximum length of function names from 30 to 60.<br />
-    <sub>[#45296](https://github.com/flutter/engine/pull/45296) merged on August 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45296) over 37 minutes, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot<br />
-    <sub>[#45249](https://github.com/flutter/engine/pull/45249) merged on August 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45249) over 59 minutes, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add an API in `ui_web` to create a `ui.Image` from an `ImageBitmap`<br />
+    <sub>[#45256](https://github.com/flutter/engine/pull/45256) merged on August 30, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/45256) over 20 hours, 220 additions and 70 deletions in 19 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Clean up engine repo Dart code<br />
     <sub>[#45203](https://github.com/flutter/engine/pull/45203) merged on August 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45203) over 13 hours, 119 additions and 57 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `instrumentation` to `stopwatch`<br />
-    <sub>[#45196](https://github.com/flutter/engine/pull/45196) merged on August 29, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/45196) over 33 minutes, 15 additions and 17 deletions in 9 files</sub><br />
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot<br />
+    <sub>[#45329](https://github.com/flutter/engine/pull/45329) merged on August 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45329) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [keyonghan](https://github.com/keyonghan)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Make paths externally immutable, update all tests to use PathBuilder to create Path.<br />
+    <sub>[#45393](https://github.com/flutter/engine/pull/45393) merged on September 2, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/45393) over 5 hours, 97 additions and 56 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Increase maximum length of function names from 30 to 60.<br />
+    <sub>[#45296](https://github.com/flutter/engine/pull/45296) merged on August 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45296) over 37 minutes, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Adds an --rbe option to tools/gn that works on Linux hosts<br />
+    <sub>[#45271](https://github.com/flutter/engine/pull/45271) merged on August 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/45271) over 1 day, 126 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Wu Zhong](https://github.com/zhongwuzw)** &mdash; [iOS] Don't call App lifecycle resumed when device is locked<br />
     <sub>[#44947](https://github.com/flutter/engine/pull/44947) merged on August 29, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/44947) over 6 days, 47 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `instrumentation` to `stopwatch`<br />
+    <sub>[#45196](https://github.com/flutter/engine/pull/45196) merged on August 29, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/45196) over 33 minutes, 15 additions and 17 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot<br />
+    <sub>[#45249](https://github.com/flutter/engine/pull/45249) merged on August 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45249) over 59 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Avoid saying exactly who can give test exemptions<br />
     <sub>[#45343](https://github.com/flutter/engine/pull/45343) merged on August 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45343) over 1 hour, 2 additions and 1 deletion in 1 file</sub><br />
@@ -1090,21 +1094,17 @@
     <sub>[#45333](https://github.com/flutter/engine/pull/45333) merged on August 31, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/45333) over 1 hour, 27 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Adds an --rbe option to tools/gn that works on Linux hosts<br />
-    <sub>[#45271](https://github.com/flutter/engine/pull/45271) merged on August 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/45271) over 1 day, 126 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Update vsync on raster thread<br />
+    <sub>[#45310](https://github.com/flutter/engine/pull/45310) merged on September 1, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/45310) over 1 day, 22 additions and 2 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Better demonstrate blur and draw picture?<br />
+    <sub>[#45388](https://github.com/flutter/engine/pull/45388) merged on September 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/45388) over 7 hours, 5 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use correct blend mode for performance overlay<br />
     <sub>[#45365](https://github.com/flutter/engine/pull/45365) merged on September 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45365) over 31 minutes, 5 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Make paths externally immutable, update all tests to use PathBuilder to create Path.<br />
-    <sub>[#45393](https://github.com/flutter/engine/pull/45393) merged on September 2, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/45393) over 5 hours, 97 additions and 56 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove unused HasThreadingRestrictions capability.<br />
-    <sub>[#45242](https://github.com/flutter/engine/pull/45242) merged on August 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45242) over 39 minutes, 2 additions and 33 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Bump impeller-cmake-example to head<br />
     <sub>[#45359](https://github.com/flutter/engine/pull/45359) merged on September 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45359) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1134,9 +1134,9 @@
     <sub>[#45356](https://github.com/flutter/engine/pull/45356) merged on September 2, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/45356) over 1 day, 0 additions and 9 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add an API in `ui_web` to create a `ui.Image` from an `ImageBitmap`<br />
-    <sub>[#45256](https://github.com/flutter/engine/pull/45256) merged on August 30, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/45256) over 20 hours, 220 additions and 70 deletions in 19 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Dan Field](https://github.com/dnfield)</sub><br />
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove unused HasThreadingRestrictions capability.<br />
+    <sub>[#45242](https://github.com/flutter/engine/pull/45242) merged on August 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45242) over 39 minutes, 2 additions and 33 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Replace an unnecessary util function with PostSync<br />
     <sub>[#45190](https://github.com/flutter/engine/pull/45190) merged on August 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45190) over 2 days, 7 additions and 17 deletions in 1 file</sub><br />
