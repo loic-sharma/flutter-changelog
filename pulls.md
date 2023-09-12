@@ -83,3 +83,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking<br />
     <sub>[#134576](https://github.com/flutter/flutter/pull/134576) opened on on September 12, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/134576) 333 additions and 273 deletions in 21 files</sub><br />
 
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Roll engine to 17a711a7765a198264b20d8c4983f2f6f1271271<br />
+    <sub>[#134584](https://github.com/flutter/flutter/pull/134584) opened on on September 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134584) 1 addition and 1 deletion in 1 file</sub><br />
+
