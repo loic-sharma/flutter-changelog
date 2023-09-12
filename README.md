@@ -4,7 +4,7 @@
 
 ### September 9, 2023 to September 15, 2023
 
-11 commits.
+13 commits.
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; [New feature] Allowing the `ListView` slivers to have different extents while still having scrolling performance<br />
     <sub>[#131393](https://github.com/flutter/flutter/pull/131393) merged on September 12, 2023 &mdash; **Large:** [36 comments](https://github.com/flutter/flutter/pull/131393) over 1 month, 614 additions and 73 deletions in 8 files</sub><br />
@@ -33,6 +33,14 @@
 * **[Kohei Seino](https://github.com/kseino)** &mdash; ScaleGestureRecognizer: make pointerCount public<br />
     <sub>[#127310](https://github.com/flutter/flutter/pull/127310) merged on September 12, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/127310) over 3 months, 15 additions and 9 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry Linux web tests 1 time on roll presubmit<br />
+    <sub>[#134552](https://github.com/flutter/flutter/pull/134552) merged on September 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/134552) over 1 hour, 44 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable private field promotion for dev<br />
+    <sub>[#134480](https://github.com/flutter/flutter/pull/134480) merged on September 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134480) over 18 hours, 52 additions and 54 deletions in 50 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove chip tooltip deprecations<br />
     <sub>[#134486](https://github.com/flutter/flutter/pull/134486) merged on September 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134486) over 16 hours, 2 additions and 75 deletions in 3 files</sub><br />
@@ -1080,7 +1088,7 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add an API in `ui_web` to create a `ui.Image` from an `ImageBitmap`<br />
     <sub>[#45256](https://github.com/flutter/engine/pull/45256) merged on August 30, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/45256) over 20 hours, 220 additions and 70 deletions in 19 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Dan Field](https://github.com/dnfield)</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Clean up engine repo Dart code<br />
     <sub>[#45203](https://github.com/flutter/engine/pull/45203) merged on August 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45203) over 13 hours, 119 additions and 57 deletions in 6 files</sub><br />
@@ -1276,7 +1284,7 @@
 
 ### September 9, 2023 to September 15, 2023
 
-6 commits.
+7 commits.
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; [flutter_markdown] Fix changelog regarding minimum supported SDK version<br />
     <sub>[#4851](https://github.com/flutter/packages/pull/4851) merged on September 12, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/4851) over 6 days, 5 additions and 2 deletions in 2 files</sub><br />
@@ -1294,6 +1302,10 @@
 * **[chrisdlangham](https://github.com/chrisdlangham)** &mdash; [url_launcher] migrating iOS tests from objc to swift<br />
     <sub>[#4758](https://github.com/flutter/packages/pull/4758) merged on September 11, 2023 &mdash; **Medium:** [20 comments](https://github.com/flutter/packages/pull/4758) over 2 weeks, 221 additions and 216 deletions in 6 files</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implement `startVideoCapturing` and `onVideoRecordedEvent`<br />
+    <sub>[#4815](https://github.com/flutter/packages/pull/4815) merged on September 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4815) over 1 week, 90 additions and 14 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Add a package inclusion filter<br />
     <sub>[#4904](https://github.com/flutter/packages/pull/4904) merged on September 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4904) over 18 hours, 76 additions and 11 deletions in 2 files</sub><br />
@@ -1373,7 +1385,7 @@
 
 * **[Anuj](https://github.com/AnujPandey007)** &mdash; Fixed AlertDialog Height of example in image_picker<br />
     <sub>[#4800](https://github.com/flutter/packages/pull/4800) merged on August 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4800) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
     <sub><details><summary>2 images...</summary>![Issue](https://github.com/flutter/packages/assets/61612013/e7994142-fa16-4934-8d6d-29ee825a7853)![Fixed](https://github.com/flutter/packages/assets/61612013/812078ba-8eec-48d7-aac7-0c7381ae0473)</details></sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix repaint boundary override in builder delegate<br />
@@ -1394,7 +1406,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.9.0 to 1.9.10 in /packages/pigeon/platform_tests/test_plugin/android<br />
     <sub>[#4798](https://github.com/flutter/packages/pull/4798) merged on August 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4798) over 9 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.9.0&new-version=1.9.10)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Convert version presubmit check to LUCI<br />
