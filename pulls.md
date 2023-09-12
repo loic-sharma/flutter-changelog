@@ -95,3 +95,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix SliverList example descriptions<br />
     <sub>[#134483](https://github.com/flutter/flutter/pull/134483) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134483) 7 additions and 6 deletions in 1 file</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Set the CONFIGURATION in generated xcconfig when debugging core device<br />
+    <sub>[#134493](https://github.com/flutter/flutter/pull/134493) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134493) 168 additions and 44 deletions in 9 files</sub><br />
+
