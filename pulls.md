@@ -101,3 +101,9 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Don't uninstall before retrying to connect during app launch<br />
     <sub>[#134542](https://github.com/flutter/flutter/pull/134542) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134542) 9 additions and 1 deletion in 2 files</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Revert "Adds a parent scope TraversalEdgeBehavior and fixes modal rou…<br />
+    <sub>[#134550](https://github.com/flutter/flutter/pull/134550) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134550) 35 additions and 254 deletions in 8 files</sub><br />
+
+* **[chrisdlangham](https://github.com/chrisdlangham)** &mdash; removed unused variable in the example code of semantic event<br />
+    <sub>[#134551](https://github.com/flutter/flutter/pull/134551) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134551) 0 additions and 1 deletion in 1 file</sub><br />
+
