@@ -92,3 +92,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable private field promotion for dev<br />
     <sub>[#134480](https://github.com/flutter/flutter/pull/134480) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134480) 52 additions and 54 deletions in 50 files</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix SliverList example descriptions<br />
+    <sub>[#134483](https://github.com/flutter/flutter/pull/134483) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134483) 7 additions and 6 deletions in 1 file</sub><br />
+
