@@ -52,7 +52,7 @@
 
 * **[Kohei Seino](https://github.com/kseino)** &mdash; ScaleGestureRecognizer: make pointerCount public
     <sub>[#127310](https://github.com/flutter/flutter/pull/127310) merged on September 12, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/127310) over 3 months, 15 additions and 9 deletions in 2 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; _YearPicker should dispose ScrollController and MaterialSatesController.
     <sub>[#134393](https://github.com/flutter/flutter/pull/134393) merged on September 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134393) over 1 day, 15 additions and 7 deletions in 3 files</sub>
@@ -1228,7 +1228,7 @@
 
 * **[Hossein Yousefi](https://github.com/HosseinYousefi)** &mdash; Update comment const_finder.dart
     <sub>[#45180](https://github.com/flutter/engine/pull/45180) merged on August 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/45180) over 3 days, 1 addition and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Link __availability_version_check
     <sub>[#45333](https://github.com/flutter/engine/pull/45333) merged on August 31, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/45333) over 1 hour, 27 additions and 1 deletion in 2 files</sub>
