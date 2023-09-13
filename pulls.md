@@ -53,9 +53,6 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Create template for umbrella issues<br />
     <sub>[#134235](https://github.com/flutter/flutter/pull/134235) opened on on September 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134235) 25 additions and 0 deletions in 1 file</sub><br />
 
-* **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; 🎨 : Introduced Adaptive alert action for adaptive dialog.<br />
-    <sub>[#134348](https://github.com/flutter/flutter/pull/134348) opened on on September 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134348) 121 additions and 0 deletions in 2 files</sub><br />
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable private field promotion for framework<br />
     <sub>[#134473](https://github.com/flutter/flutter/pull/134473) opened on on September 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134473) 47 additions and 47 deletions in 21 files</sub><br />
 
