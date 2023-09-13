@@ -59,9 +59,6 @@
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 Setup color tween for `RefreshIndicator` in a better way<br />
     <sub>[#134492](https://github.com/flutter/flutter/pull/134492) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134492) 89 additions and 19 deletions in 2 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Run ShutdownHooks when handling signals<br />
-    <sub>[#134590](https://github.com/flutter/flutter/pull/134590) opened on on September 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134590) 129 additions and 85 deletions in 4 files</sub><br />
-
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Giving the Container class a `const` constructor<br />
     <sub>[#134605](https://github.com/flutter/flutter/pull/134605) opened on on September 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134605) 92 additions and 79 deletions in 1 file</sub><br />
 
