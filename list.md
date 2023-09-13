@@ -10,6 +10,10 @@
     <sub>[#131393](https://github.com/flutter/flutter/pull/131393) merged on September 12, 2023 &mdash; **Large:** [36 comments](https://github.com/flutter/flutter/pull/131393) over 1 month, 614 additions and 73 deletions in 8 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix SliverList example descriptions
+    <sub>[#134483](https://github.com/flutter/flutter/pull/134483) merged on September 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134483) over 21 hours, 7 additions and 6 deletions in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking
     <sub>[#134387](https://github.com/flutter/flutter/pull/134387) merged on September 13, 2023 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/134387) over 2 days, 1209 additions and 1070 deletions in 15 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [chunhtai](https://github.com/chunhtai)</sub>
@@ -21,10 +25,6 @@
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Clean up analytics opt in/out flags
     <sub>[#132588](https://github.com/flutter/flutter/pull/132588) merged on September 12, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/132588) over 4 weeks, 33 additions and 29 deletions in 5 files</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix SliverList example descriptions
-    <sub>[#134483](https://github.com/flutter/flutter/pull/134483) merged on September 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134483) over 21 hours, 7 additions and 6 deletions in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Chinmay Kabi](https://github.com/Chinmay-KB)** &mdash; Fix DataTable example not being scrollable
     <sub>[#131556](https://github.com/flutter/flutter/pull/131556) merged on September 11, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/131556) over 1 month, 33 additions and 4 deletions in 4 files</sub>
