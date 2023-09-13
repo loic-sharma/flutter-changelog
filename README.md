@@ -4,7 +4,7 @@
 
 ### September 9, 2023 to September 15, 2023
 
-30 commits.
+31 commits.
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; [New feature] Allowing the `ListView` slivers to have different extents while still having scrolling performance<br />
     <sub>[#131393](https://github.com/flutter/flutter/pull/131393) merged on September 12, 2023 &mdash; **Large:** [36 comments](https://github.com/flutter/flutter/pull/131393) over 1 month, 614 additions and 73 deletions in 8 files</sub><br />
@@ -25,6 +25,10 @@
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Clean up analytics opt in/out flags<br />
     <sub>[#132588](https://github.com/flutter/flutter/pull/132588) merged on September 12, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/132588) over 4 weeks, 33 additions and 29 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Set the CONFIGURATION_BUILD_DIR in generated xcconfig when debugging core device<br />
+    <sub>[#134493](https://github.com/flutter/flutter/pull/134493) merged on September 13, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/134493) over 1 day, 170 additions and 44 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Chinmay Kabi](https://github.com/Chinmay-KB)** &mdash; Fix DataTable example not being scrollable<br />
     <sub>[#131556](https://github.com/flutter/flutter/pull/131556) merged on September 11, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/131556) over 1 month, 33 additions and 4 deletions in 4 files</sub><br />
@@ -56,7 +60,7 @@
 
 * **[Kohei Seino](https://github.com/kseino)** &mdash; ScaleGestureRecognizer: make pointerCount public<br />
     <sub>[#127310](https://github.com/flutter/flutter/pull/127310) merged on September 12, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/127310) over 3 months, 15 additions and 9 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Bump gradle heap size limit in *everywhere*<br />
     <sub>[#134665](https://github.com/flutter/flutter/pull/134665) merged on September 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134665) over 1 hour, 40 additions and 40 deletions in 38 files</sub><br />
@@ -658,7 +662,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Remove cirrus tests from the flutter framework.<br />
     <sub>[#133575](https://github.com/flutter/flutter/pull/133575) merged on August 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133575) over 10 hours, 0 additions and 158 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Fix `Chip.shape`'s side is not used when provided in Material 3"<br />
     <sub>[#133615](https://github.com/flutter/flutter/pull/133615) merged on August 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133615) over 2 hours, 8 additions and 127 deletions in 4 files</sub><br />
@@ -1530,7 +1534,7 @@
 
 * **[Anuj](https://github.com/AnujPandey007)** &mdash; Fixed AlertDialog Height of example in image_picker<br />
     <sub>[#4800](https://github.com/flutter/packages/pull/4800) merged on August 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4800) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
     <sub><details><summary>2 images...</summary>![Issue](https://github.com/flutter/packages/assets/61612013/e7994142-fa16-4934-8d6d-29ee825a7853)![Fixed](https://github.com/flutter/packages/assets/61612013/812078ba-8eec-48d7-aac7-0c7381ae0473)</details></sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix repaint boundary override in builder delegate<br />
@@ -1547,7 +1551,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [in_app_purchase] Minor lint cleanup<br />
     <sub>[#4818](https://github.com/flutter/packages/pull/4818) merged on August 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4818) over 54 minutes, 22 additions and 29 deletions in 13 files</sub><br />
-    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Chris Yang](https://github.com/cyanglaz)</sub><br />
+    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.9.0 to 1.9.10 in /packages/pigeon/platform_tests/test_plugin/android<br />
     <sub>[#4798](https://github.com/flutter/packages/pull/4798) merged on August 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4798) over 9 hours, 1 addition and 1 deletion in 1 file</sub><br />
