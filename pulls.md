@@ -68,6 +68,3 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `SizeTransition.crossAxisSizeFactor` <br />
     <sub>[#134659](https://github.com/flutter/flutter/pull/134659) opened on on September 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134659) 15 additions and 2 deletions in 2 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #4<br />
-    <sub>[#134663](https://github.com/flutter/flutter/pull/134663) opened on on September 13, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/134663) 301 additions and 246 deletions in 31 files</sub><br />
-
