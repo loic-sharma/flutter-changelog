@@ -66,5 +66,5 @@
     <sub>[#134659](https://github.com/flutter/flutter/pull/134659) opened on on September 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134659) 15 additions and 2 deletions in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade AGP version in tracing_tests<br />
-    <sub>[#134671](https://github.com/flutter/flutter/pull/134671) opened on on September 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134671) 3 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#134671](https://github.com/flutter/flutter/pull/134671) opened on on September 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134671) 3 additions and 2 deletions in 2 files</sub><br />
 

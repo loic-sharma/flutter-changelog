@@ -72,7 +72,7 @@
 
 * **[Kohei Seino](https://github.com/kseino)** &mdash; ScaleGestureRecognizer: make pointerCount public
     <sub>[#127310](https://github.com/flutter/flutter/pull/127310) merged on September 12, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/127310) over 3 months, 15 additions and 9 deletions in 2 files</sub>
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Bump gradle heap size limit in *everywhere*
     <sub>[#134665](https://github.com/flutter/flutter/pull/134665) merged on September 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134665) over 1 hour, 40 additions and 40 deletions in 38 files</sub>
@@ -361,7 +361,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "CupertinoAlertDialog should not create ScrollController on every build, if null values are passed in constructor."
     <sub>[#134071](https://github.com/flutter/flutter/pull/134071) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134071) over 3 minutes, 17 additions and 33 deletions in 2 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [yusuf-goog](https://github.com/yusuf-goog)</sub>
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "_SearchBarState should dispose FocusNode, if it created it."
     <sub>[#134072](https://github.com/flutter/flutter/pull/134072) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134072) over 2 minutes, 1 addition and 5 deletions in 2 files</sub>
@@ -745,7 +745,7 @@
 
 ### September 9, 2023 to September 15, 2023
 
-35 commits.
+36 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [Impeller] Fixes stroke path geometry that can draw outside of path if the path ends at sharp turn.
     <sub>[#45252](https://github.com/flutter/engine/pull/45252) merged on September 13, 2023 &mdash; **Small:** [43 comments](https://github.com/flutter/engine/pull/45252) over 2 weeks, 151 additions and 13 deletions in 6 files</sub>
@@ -796,6 +796,10 @@
     <sub>[#44806](https://github.com/flutter/engine/pull/44806) merged on September 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/44806) over 3 weeks, 42 additions and 14 deletions in 3 files</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Hassan](https://github.com/htoor3)</sub>
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Use DOM to render paragraphs with letter spacing
+    <sub>[#45651](https://github.com/flutter/engine/pull/45651) merged on September 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/45651) over 2 days, 29 additions and 18 deletions in 3 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix swapchain recreation for non-polling cases.
     <sub>[#45740](https://github.com/flutter/engine/pull/45740) merged on September 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/45740) over 38 minutes, 19 additions and 13 deletions in 2 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -828,13 +832,13 @@
     <sub>[#45661](https://github.com/flutter/engine/pull/45661) merged on September 11, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/45661) over 2 hours, 8 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Update dependabot.yml
-    <sub>[#45788](https://github.com/flutter/engine/pull/45788) merged on September 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45788) over 36 minutes, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Drew Roen](https://github.com/drewroengoogle)</sub>
-
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove some of our hacks around JSPromise now that we have better APIs.
     <sub>[#45591](https://github.com/flutter/engine/pull/45591) merged on September 11, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/45591) over 2 days, 78 additions and 97 deletions in 7 files</sub>
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Srujan Gaddam](https://github.com/srujzs)</sub>
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Update dependabot.yml
+    <sub>[#45788](https://github.com/flutter/engine/pull/45788) merged on September 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45788) over 36 minutes, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Drew Roen](https://github.com/drewroengoogle)</sub>
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Use safer GrDirectContext APIs
     <sub>[#45644](https://github.com/flutter/engine/pull/45644) merged on September 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45644) over 40 minutes, 19 additions and 9 deletions in 7 files</sub>
@@ -860,13 +864,13 @@
     <sub>[#45754](https://github.com/flutter/engine/pull/45754) merged on September 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45754) over 16 hours, 6 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Revert "Use a single OffscreenCanvas for rendering in CanvasKit"
-    <sub>[#45744](https://github.com/flutter/engine/pull/45744) merged on September 12, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/45744) over 1 minute, 856 additions and 820 deletions in 21 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Lazily allocate RasterCacheItems only when caching is enabled"
     <sub>[#45734](https://github.com/flutter/engine/pull/45734) merged on September 12, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/45734) over 2 hours, 200 additions and 567 deletions in 22 files</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Jim Graham](https://github.com/flar)</sub>
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Revert "Use a single OffscreenCanvas for rendering in CanvasKit"
+    <sub>[#45744](https://github.com/flutter/engine/pull/45744) merged on September 12, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/45744) over 1 minute, 856 additions and 820 deletions in 21 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 43d4b1373788 to 1ee7ef8bbc65 (6 revisions)
     <sub>[#45726](https://github.com/flutter/engine/pull/45726) merged on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45726) over 40 minutes, 24 additions and 29 deletions in 3 files</sub>
@@ -1261,7 +1265,7 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add an API in `ui_web` to create a `ui.Image` from an `ImageBitmap`
     <sub>[#45256](https://github.com/flutter/engine/pull/45256) merged on August 30, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/45256) over 20 hours, 220 additions and 70 deletions in 19 files</sub>
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Yegor](https://github.com/yjbanov)</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Clean up engine repo Dart code
     <sub>[#45203](https://github.com/flutter/engine/pull/45203) merged on August 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45203) over 13 hours, 119 additions and 57 deletions in 6 files</sub>
@@ -1301,7 +1305,7 @@
 
 * **[Hossein Yousefi](https://github.com/HosseinYousefi)** &mdash; Update comment const_finder.dart
     <sub>[#45180](https://github.com/flutter/engine/pull/45180) merged on August 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/45180) over 3 days, 1 addition and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Link __availability_version_check
     <sub>[#45333](https://github.com/flutter/engine/pull/45333) merged on August 31, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/45333) over 1 hour, 27 additions and 1 deletion in 2 files</sub>
@@ -1583,7 +1587,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [in_app_purchase] Minor lint cleanup
     <sub>[#4818](https://github.com/flutter/packages/pull/4818) merged on August 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4818) over 54 minutes, 22 additions and 29 deletions in 13 files</sub>
-    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Chris Yang](https://github.com/cyanglaz)</sub>
+    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.9.0 to 1.9.10 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#4798](https://github.com/flutter/packages/pull/4798) merged on August 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4798) over 9 hours, 1 addition and 1 deletion in 1 file</sub>
