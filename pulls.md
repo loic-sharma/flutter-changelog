@@ -56,9 +56,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable private field promotion for framework<br />
     <sub>[#134473](https://github.com/flutter/flutter/pull/134473) opened on on September 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134473) 47 additions and 47 deletions in 21 files</sub><br />
 
-* **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 Setup color tween for `RefreshIndicator` in a better way<br />
-    <sub>[#134492](https://github.com/flutter/flutter/pull/134492) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134492) 89 additions and 19 deletions in 2 files</sub><br />
-
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Giving the Container class a `const` constructor<br />
     <sub>[#134605](https://github.com/flutter/flutter/pull/134605) opened on on September 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134605) 92 additions and 79 deletions in 1 file</sub><br />
 
