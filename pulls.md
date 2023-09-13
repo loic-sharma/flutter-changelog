@@ -65,6 +65,3 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Run ShutdownHooks when handling signals<br />
     <sub>[#134590](https://github.com/flutter/flutter/pull/134590) opened on on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134590) 129 additions and 85 deletions in 4 files</sub><br />
 
-* **[hangyu](https://github.com/hangyujin)** &mdash; Dispose routes in navigator when throwing exception<br />
-    <sub>[#134596](https://github.com/flutter/flutter/pull/134596) opened on on September 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134596) 4 additions and 9 deletions in 2 files</sub><br />
-
