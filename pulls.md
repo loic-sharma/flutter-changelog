@@ -65,6 +65,3 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade AGP version in tracing_tests<br />
     <sub>[#134671](https://github.com/flutter/flutter/pull/134671) opened on on September 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134671) 3 additions and 2 deletions in 2 files</sub><br />
 
-* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] roll engine version in Flutter 3.15 candidate.1<br />
-    <sub>[#134710](https://github.com/flutter/flutter/pull/134710) opened on on September 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134710) 1 addition and 1 deletion in 1 file</sub><br />
-
