@@ -68,6 +68,3 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Allows page removal that contains Localhistoryentry<br />
     <sub>[#134757](https://github.com/flutter/flutter/pull/134757) opened on on September 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134757) 102 additions and 8 deletions in 3 files</sub><br />
 
-* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [flutter_releases] Flutter beta 3.15.0-15.1.pre Framework Cherrypicks<br />
-    <sub>[#134758](https://github.com/flutter/flutter/pull/134758) opened on on September 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134758) 2 additions and 1 deletion in 2 files</sub><br />
-
