@@ -65,9 +65,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade AGP version in tracing_tests<br />
     <sub>[#134671](https://github.com/flutter/flutter/pull/134671) opened on on September 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134671) 3 additions and 2 deletions in 2 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Allows page removal that contains Localhistoryentry<br />
-    <sub>[#134757](https://github.com/flutter/flutter/pull/134757) opened on on September 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134757) 102 additions and 8 deletions in 3 files</sub><br />
-
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update CI to Chrome 117.<br />
     <sub>[#134761](https://github.com/flutter/flutter/pull/134761) opened on on September 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134761) 74 additions and 74 deletions in 1 file</sub><br />
 
