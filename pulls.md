@@ -65,6 +65,3 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade AGP version in tracing_tests<br />
     <sub>[#134671](https://github.com/flutter/flutter/pull/134671) opened on on September 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134671) 3 additions and 2 deletions in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix NavigationRail hover misplaced when using large icons<br />
-    <sub>[#134719](https://github.com/flutter/flutter/pull/134719) opened on on September 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134719) 147 additions and 7 deletions in 2 files</sub><br />
-
