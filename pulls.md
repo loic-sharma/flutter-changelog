@@ -68,6 +68,3 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in ListWheelScrollView<br />
     <sub>[#134732](https://github.com/flutter/flutter/pull/134732) opened on on September 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134732) 100 additions and 24 deletions in 2 files</sub><br />
 
-* **[keyonghan](https://github.com/keyonghan)** &mdash; Test auto rerun<br />
-    <sub>[#134744](https://github.com/flutter/flutter/pull/134744) opened on on September 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134744) 2 additions and 0 deletions in 2 files</sub><br />
-
