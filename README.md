@@ -373,7 +373,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "CupertinoAlertDialog should not create ScrollController on every build, if null values are passed in constructor."<br />
     <sub>[#134071](https://github.com/flutter/flutter/pull/134071) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134071) over 3 minutes, 17 additions and 33 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "_SearchBarState should dispose FocusNode, if it created it."<br />
     <sub>[#134072](https://github.com/flutter/flutter/pull/134072) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134072) over 2 minutes, 1 addition and 5 deletions in 2 files</sub><br />
@@ -718,7 +718,7 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Run Mac_arm64_ios run_debug_test_macos in presubmit"<br />
     <sub>[#133808](https://github.com/flutter/flutter/pull/133808) merged on August 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133808) over 6 minutes, 1 addition and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Revert "Fixing memory leak in EditableTextState"<br />
     <sub>[#133804](https://github.com/flutter/flutter/pull/133804) merged on August 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133804) over 2 minutes, 13 additions and 5 deletions in 2 files</sub><br />
@@ -1321,7 +1321,7 @@
 
 * **[Hossein Yousefi](https://github.com/HosseinYousefi)** &mdash; Update comment const_finder.dart<br />
     <sub>[#45180](https://github.com/flutter/engine/pull/45180) merged on August 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/45180) over 3 days, 1 addition and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Link __availability_version_check<br />
     <sub>[#45333](https://github.com/flutter/engine/pull/45333) merged on August 31, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/45333) over 1 hour, 27 additions and 1 deletion in 2 files</sub><br />
@@ -1603,7 +1603,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [in_app_purchase] Minor lint cleanup<br />
     <sub>[#4818](https://github.com/flutter/packages/pull/4818) merged on August 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4818) over 54 minutes, 22 additions and 29 deletions in 13 files</sub><br />
-    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Chris Yang](https://github.com/cyanglaz)</sub><br />
+    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.9.0 to 1.9.10 in /packages/pigeon/platform_tests/test_plugin/android<br />
     <sub>[#4798](https://github.com/flutter/packages/pull/4798) merged on August 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4798) over 9 hours, 1 addition and 1 deletion in 1 file</sub><br />
