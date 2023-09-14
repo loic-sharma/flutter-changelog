@@ -50,9 +50,6 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Create template for umbrella issues<br />
     <sub>[#134235](https://github.com/flutter/flutter/pull/134235) opened on on September 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134235) 25 additions and 0 deletions in 1 file</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable private field promotion for framework<br />
-    <sub>[#134473](https://github.com/flutter/flutter/pull/134473) opened on on September 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134473) 47 additions and 47 deletions in 21 files</sub><br />
-
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Giving the Container class a `const` constructor<br />
     <sub>[#134605](https://github.com/flutter/flutter/pull/134605) opened on on September 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134605) 92 additions and 79 deletions in 1 file</sub><br />
 
