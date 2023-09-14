@@ -38,9 +38,6 @@
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; `RefreshIndicator.noSpinner` implementation<br />
     <sub>[#133507](https://github.com/flutter/flutter/pull/133507) opened on on August 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133507) 99 additions and 3 deletions in 2 files</sub><br />
 
-* **[awholegnuworld](https://github.com/awholegnuworld)** &mdash; Spawing subshell unnecessarily <br />
-    <sub>[#133710](https://github.com/flutter/flutter/pull/133710) opened on on August 30, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/133710) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark leak: PaintingContext creates layer that is never disposed.<br />
     <sub>[#133940](https://github.com/flutter/flutter/pull/133940) opened on on September 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133940) 10 additions and 2 deletions in 1 file</sub><br />
 
