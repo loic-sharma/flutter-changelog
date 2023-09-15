@@ -68,3 +68,6 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; CupertinoActionSheet should dispose created ScrollController's<br />
     <sub>[#134799](https://github.com/flutter/flutter/pull/134799) opened on on September 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134799) 38 additions and 21 deletions in 2 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Set the CONFIGURATION_BUILD_DIR in generated xcconfig when debugging …<br />
+    <sub>[#134824](https://github.com/flutter/flutter/pull/134824) opened on on September 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134824) 170 additions and 44 deletions in 10 files</sub><br />
+
