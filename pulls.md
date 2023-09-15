@@ -77,3 +77,6 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; cover more tests with leak tracking<br />
     <sub>[#134837](https://github.com/flutter/flutter/pull/134837) opened on on September 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134837) 7 additions and 6 deletions in 1 file</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; AnimationController should dispatch creation in constructor.<br />
+    <sub>[#134839](https://github.com/flutter/flutter/pull/134839) opened on on September 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134839) 106 additions and 26 deletions in 18 files</sub><br />
+
