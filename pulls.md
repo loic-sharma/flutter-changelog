@@ -47,6 +47,9 @@
 * **[Konstantin Dovnar](https://github.com/Vorkytaka)** &mdash; Add `tg` locale support<br />
     <sub>[#134133](https://github.com/flutter/flutter/pull/134133) opened on on September 6, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/134133) 894 additions and 0 deletions in 6 files</sub><br />
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets support for Windows<br />
+    <sub>[#134203](https://github.com/flutter/flutter/pull/134203) opened on on September 7, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/134203) 1653 additions and 129 deletions in 20 files</sub><br />
+
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Create template for umbrella issues<br />
     <sub>[#134235](https://github.com/flutter/flutter/pull/134235) opened on on September 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134235) 25 additions and 0 deletions in 1 file</sub><br />
 
@@ -64,7 +67,4 @@
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; bottom_sheet: Clarify doc about behavior when useSafeArea is false<br />
     <sub>[#134793](https://github.com/flutter/flutter/pull/134793) opened on on September 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134793) 7 additions and 2 deletions in 1 file</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP 3.14] Set the CONFIGURATION_BUILD_DIR in generated xcconfig when debugging core device<br />
-    <sub>[#134826](https://github.com/flutter/flutter/pull/134826) opened on on September 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134826) 170 additions and 44 deletions in 10 files</sub><br />
 
