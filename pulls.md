@@ -50,20 +50,11 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Create template for umbrella issues<br />
     <sub>[#134235](https://github.com/flutter/flutter/pull/134235) opened on on September 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134235) 25 additions and 0 deletions in 1 file</sub><br />
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Giving the Container class a `const` constructor<br />
-    <sub>[#134605](https://github.com/flutter/flutter/pull/134605) opened on on September 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134605) 92 additions and 79 deletions in 1 file</sub><br />
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `SizeTransition.crossAxisSizeFactor` <br />
-    <sub>[#134659](https://github.com/flutter/flutter/pull/134659) opened on on September 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134659) 15 additions and 2 deletions in 2 files</sub><br />
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade AGP version in tracing_tests<br />
     <sub>[#134671](https://github.com/flutter/flutter/pull/134671) opened on on September 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134671) 3 additions and 2 deletions in 2 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update CI to Chrome 117.<br />
     <sub>[#134761](https://github.com/flutter/flutter/pull/134761) opened on on September 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134761) 74 additions and 74 deletions in 1 file</sub><br />
-
-* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; bottom_sheet: Clarify doc about behavior when useSafeArea is false<br />
-    <sub>[#134793](https://github.com/flutter/flutter/pull/134793) opened on on September 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134793) 7 additions and 2 deletions in 1 file</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Mark ReastaurationManager not disposed<br />
     <sub>[#134832](https://github.com/flutter/flutter/pull/134832) opened on on September 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134832) 38 additions and 13 deletions in 1 file</sub><br />
@@ -76,9 +67,6 @@
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; cover more tests with leak tracking<br />
     <sub>[#134837](https://github.com/flutter/flutter/pull/134837) opened on on September 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134837) 7 additions and 6 deletions in 1 file</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; AnimationController should dispatch creation in constructor.<br />
-    <sub>[#134839](https://github.com/flutter/flutter/pull/134839) opened on on September 15, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134839) 106 additions and 26 deletions in 18 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Refactor Goldens for web<br />
     <sub>[#134840](https://github.com/flutter/flutter/pull/134840) opened on on September 15, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/134840) 620 additions and 362 deletions in 12 files</sub><br />
