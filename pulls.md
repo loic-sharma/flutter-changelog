@@ -68,6 +68,3 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; CupertinoActionSheet should dispose created ScrollController's<br />
     <sub>[#134799](https://github.com/flutter/flutter/pull/134799) opened on on September 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134799) 38 additions and 21 deletions in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix navigation rail hover misplaced when direction is RTL and extended is true<br />
-    <sub>[#134815](https://github.com/flutter/flutter/pull/134815) opened on on September 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134815) 113 additions and 3 deletions in 2 files</sub><br />
-
