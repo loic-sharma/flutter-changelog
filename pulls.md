@@ -71,3 +71,6 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; update restauration_test.dart<br />
     <sub>[#134832](https://github.com/flutter/flutter/pull/134832) opened on on September 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134832) 38 additions and 13 deletions in 1 file</sub><br />
 
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; cover more tests with leak tests<br />
+    <sub>[#134833](https://github.com/flutter/flutter/pull/134833) opened on on September 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134833) 2 additions and 1 deletion in 1 file</sub><br />
+
