@@ -78,7 +78,7 @@
     <sub>[#134837](https://github.com/flutter/flutter/pull/134837) opened on on September 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134837) 7 additions and 6 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; AnimationController should dispatch creation in constructor.<br />
-    <sub>[#134839](https://github.com/flutter/flutter/pull/134839) opened on on September 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134839) 106 additions and 26 deletions in 18 files</sub><br />
+    <sub>[#134839](https://github.com/flutter/flutter/pull/134839) opened on on September 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134839) 106 additions and 26 deletions in 18 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Refactor Goldens for web<br />
     <sub>[#134840](https://github.com/flutter/flutter/pull/134840) opened on on September 15, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/134840) 620 additions and 362 deletions in 12 files</sub><br />
