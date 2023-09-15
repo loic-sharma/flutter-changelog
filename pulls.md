@@ -65,3 +65,6 @@
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; bottom_sheet: Clarify doc about behavior when useSafeArea is false<br />
     <sub>[#134793](https://github.com/flutter/flutter/pull/134793) opened on on September 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134793) 7 additions and 2 deletions in 1 file</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; CupertinoActionSheet should dispose created ScrollController's<br />
+    <sub>[#134799](https://github.com/flutter/flutter/pull/134799) opened on on September 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134799) 36 additions and 20 deletions in 1 file</sub><br />
+
