@@ -80,3 +80,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #5<br />
     <sub>[#134869](https://github.com/flutter/flutter/pull/134869) opened on on September 16, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/134869) 263 additions and 227 deletions in 18 files</sub><br />
 
+* **[tauu](https://github.com/tauu)** &mdash; [web] fix: do not call onSubmitted of TextField when switching browser tabs on mobile web<br />
+    <sub>[#134870](https://github.com/flutter/flutter/pull/134870) opened on on September 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134870) 7 additions and 17 deletions in 2 files</sub><br />
+
