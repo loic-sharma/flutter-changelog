@@ -45,7 +45,7 @@
     <sub>[#134133](https://github.com/flutter/flutter/pull/134133) opened on on September 6, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/134133) 894 additions and 0 deletions in 6 files</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets support for Windows<br />
-    <sub>[#134203](https://github.com/flutter/flutter/pull/134203) opened on on September 7, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/134203) 1653 additions and 129 deletions in 20 files</sub><br />
+    <sub>[#134203](https://github.com/flutter/flutter/pull/134203) opened on on September 7, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/134203) 1653 additions and 129 deletions in 20 files</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Create template for umbrella issues<br />
     <sub>[#134235](https://github.com/flutter/flutter/pull/134235) opened on on September 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134235) 25 additions and 0 deletions in 1 file</sub><br />
