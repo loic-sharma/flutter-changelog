@@ -87,5 +87,5 @@
     <sub>[#134884](https://github.com/flutter/flutter/pull/134884) opened on on September 16, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/134884) 366 additions and 203 deletions in 20 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in CupertinoActionSheet<br />
-    <sub>[#134885](https://github.com/flutter/flutter/pull/134885) opened on on September 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134885) 73 additions and 51 deletions in 2 files</sub><br />
+    <sub>[#134885](https://github.com/flutter/flutter/pull/134885) opened on on September 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134885) 73 additions and 51 deletions in 2 files</sub><br />
 
