@@ -75,5 +75,5 @@
     <sub>[#134863](https://github.com/flutter/flutter/pull/134863) opened on on September 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134863) 162 additions and 56 deletions in 1 file</sub><br />
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; [WIP][Performance] Introduce a caching mechanism to ListView to reduce unnecessary layout during scrolling<br />
-    <sub>[#134864](https://github.com/flutter/flutter/pull/134864) opened on on September 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134864) 117 additions and 14 deletions in 2 files</sub><br />
+    <sub>[#134864](https://github.com/flutter/flutter/pull/134864) opened on on September 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134864) 117 additions and 14 deletions in 2 files</sub><br />
 
