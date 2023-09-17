@@ -206,7 +206,7 @@
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in CupertinoActionSheet<br />
-    <sub>[#134885](https://github.com/flutter/flutter/pull/134885) merged on September 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134885) over 1 hour, 73 additions and 51 deletions in 2 files</sub><br />
+    <sub>[#134885](https://github.com/flutter/flutter/pull/134885) merged on September 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134885) over 1 hour, 73 additions and 51 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix navigation rail hover misplaced when direction is RTL and extended is true<br />
