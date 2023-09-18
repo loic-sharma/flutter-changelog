@@ -72,14 +72,14 @@
     <sub>[#134864](https://github.com/flutter/flutter/pull/134864) opened on on September 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134864) 243 additions and 17 deletions in 4 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #5<br />
-    <sub>[#134869](https://github.com/flutter/flutter/pull/134869) opened on on September 16, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/134869) 263 additions and 227 deletions in 18 files</sub><br />
+    <sub>[#134869](https://github.com/flutter/flutter/pull/134869) opened on on September 16, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/134869) 263 additions and 227 deletions in 18 files</sub><br />
 
 * **[tauu](https://github.com/tauu)** &mdash; [web] fix: do not call onSubmitted of TextField when switching browser tabs on mobile web<br />
     <sub>[#134870](https://github.com/flutter/flutter/pull/134870) opened on on September 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134870) 7 additions and 17 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #6<br />
-    <sub>[#134884](https://github.com/flutter/flutter/pull/134884) opened on on September 16, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/134884) 366 additions and 203 deletions in 20 files</sub><br />
+    <sub>[#134884](https://github.com/flutter/flutter/pull/134884) opened on on September 16, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/134884) 366 additions and 203 deletions in 20 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in _DarwinViewState.<br />
-    <sub>[#134938](https://github.com/flutter/flutter/pull/134938) opened on on September 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134938) 108 additions and 104 deletions in 2 files</sub><br />
+    <sub>[#134938](https://github.com/flutter/flutter/pull/134938) opened on on September 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134938) 108 additions and 104 deletions in 2 files</sub><br />
 
