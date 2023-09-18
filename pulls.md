@@ -71,7 +71,7 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Refactor Goldens for web<br />
     <sub>[#134840](https://github.com/flutter/flutter/pull/134840) opened on on September 15, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/134840) 620 additions and 362 deletions in 12 files</sub><br />
 
-* **[xubaolin](https://github.com/xu-baolin)** &mdash; [WIP][Performance] Introduce a caching mechanism to ListView to reduce unnecessary layout during scrolling<br />
+* **[xubaolin](https://github.com/xu-baolin)** &mdash; [New feature][Performance] Introduce a caching mechanism to ListView to reduce unnecessary layout during scrolling<br />
     <sub>[#134864](https://github.com/flutter/flutter/pull/134864) opened on on September 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134864) 243 additions and 17 deletions in 4 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #5<br />
