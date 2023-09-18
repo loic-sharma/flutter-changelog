@@ -83,3 +83,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in _DarwinViewState.<br />
     <sub>[#134938](https://github.com/flutter/flutter/pull/134938) opened on on September 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134938) 108 additions and 104 deletions in 2 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #7<br />
+    <sub>[#134943](https://github.com/flutter/flutter/pull/134943) opened on on September 18, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/134943) 409 additions and 263 deletions in 29 files</sub><br />
+
