@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### September 16, 2023 to September 22, 2023
+
+1 commits.
+
+* **[huycozy](https://github.com/huycozy)** &mdash; Improve DropdownMenu sample code for requestFocusOnTap on mobile platforms<br />
+    <sub>[#134867](https://github.com/flutter/flutter/pull/134867) merged on September 18, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/134867) over 1 day, 28 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
 ### September 9, 2023 to September 15, 2023
 
-60 commits.
+<details>
+<summary>60 commits...</summary>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; LinkedText (Linkify)<br />
     <sub>[#125927](https://github.com/flutter/flutter/pull/125927) merged on September 14, 2023 &mdash; **Extra large:** [132 comments](https://github.com/flutter/flutter/pull/125927) over 4 months, 2520 additions and 0 deletions in 18 files</sub><br />
@@ -59,7 +68,7 @@
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] provide serviceWorkerVersion to the getNewServiceWorker function<br />
     <sub>[#131240](https://github.com/flutter/flutter/pull/131240) merged on September 14, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/131240) over 1 month, 182 additions and 2 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; Fix null check crash by ReorderableList<br />
     <sub>[#132153](https://github.com/flutter/flutter/pull/132153) merged on September 13, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/132153) over 1 month, 64 additions and 0 deletions in 2 files</sub><br />
@@ -103,7 +112,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in ListWheelScrollView<br />
     <sub>[#134732](https://github.com/flutter/flutter/pull/134732) merged on September 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/134732) over 13 hours, 100 additions and 24 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Kate Lovett](https://github.com/Piinks)</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #3<br />
     <sub>[#134576](https://github.com/flutter/flutter/pull/134576) merged on September 14, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/134576) over 1 day, 333 additions and 273 deletions in 21 files</sub><br />
@@ -135,7 +144,7 @@
 
 * **[Kohei Seino](https://github.com/kseino)** &mdash; ScaleGestureRecognizer: make pointerCount public<br />
     <sub>[#127310](https://github.com/flutter/flutter/pull/127310) merged on September 12, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/127310) over 3 months, 15 additions and 9 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add disposal mechanism for created Layers to TestRecordingPaintingContext.<br />
     <sub>[#134768](https://github.com/flutter/flutter/pull/134768) merged on September 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/134768) over 1 day, 15 additions and 1 deletion in 1 file</sub><br />
@@ -248,6 +257,8 @@
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Revert "Retry Linux web tests 1 time on roll presubmit"<br />
     <sub>[#134586](https://github.com/flutter/flutter/pull/134586) merged on September 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134586) over 1 minute, 0 additions and 44 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### September 2, 2023 to September 8, 2023
 
@@ -468,11 +479,11 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "CupertinoAlertDialog should not create ScrollController on every build, if null values are passed in constructor."<br />
     <sub>[#134071](https://github.com/flutter/flutter/pull/134071) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134071) over 3 minutes, 17 additions and 33 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "_SearchBarState should dispose FocusNode, if it created it."<br />
     <sub>[#134072](https://github.com/flutter/flutter/pull/134072) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134072) over 2 minutes, 1 addition and 5 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
 
 </details>
 
