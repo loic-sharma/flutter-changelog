@@ -36,7 +36,7 @@
     <sub>[#133413](https://github.com/flutter/flutter/pull/133413) opened on on August 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133413) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; `RefreshIndicator.noSpinner` implementation<br />
-    <sub>[#133507](https://github.com/flutter/flutter/pull/133507) opened on on August 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/133507) 99 additions and 3 deletions in 2 files</sub><br />
+    <sub>[#133507](https://github.com/flutter/flutter/pull/133507) opened on on August 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133507) 99 additions and 3 deletions in 2 files</sub><br />
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Migrate the "Missing frames / speed related performance issues" issue template to use Github forms<br />
     <sub>[#134033](https://github.com/flutter/flutter/pull/134033) opened on on September 5, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/134033) 172 additions and 81 deletions in 2 files</sub><br />
