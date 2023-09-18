@@ -72,7 +72,7 @@
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] provide serviceWorkerVersion to the getNewServiceWorker function
     <sub>[#131240](https://github.com/flutter/flutter/pull/131240) merged on September 14, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/131240) over 1 month, 182 additions and 2 deletions in 4 files</sub>
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Yegor](https://github.com/yjbanov)</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; Fix null check crash by ReorderableList
     <sub>[#132153](https://github.com/flutter/flutter/pull/132153) merged on September 13, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/132153) over 1 month, 64 additions and 0 deletions in 2 files</sub>
@@ -483,7 +483,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "CupertinoAlertDialog should not create ScrollController on every build, if null values are passed in constructor."
     <sub>[#134071](https://github.com/flutter/flutter/pull/134071) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134071) over 3 minutes, 17 additions and 33 deletions in 2 files</sub>
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [yusuf-goog](https://github.com/yusuf-goog)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "_SearchBarState should dispose FocusNode, if it created it."
     <sub>[#134072](https://github.com/flutter/flutter/pull/134072) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134072) over 2 minutes, 1 addition and 5 deletions in 2 files</sub>
@@ -568,6 +568,10 @@
     <sub>[#45399](https://github.com/flutter/engine/pull/45399) merged on September 13, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/engine/pull/45399) over 1 week, 328 additions and 184 deletions in 6 files</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a single MacOS+Vulkan+SwiftShader CI test
+    <sub>[#45918](https://github.com/flutter/engine/pull/45918) merged on September 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45918) over 35 minutes, 30 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Release a texture during Playground teardown
     <sub>[#45832](https://github.com/flutter/engine/pull/45832) merged on September 14, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/45832) over 1 hour, 55 additions and 0 deletions in 5 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -603,10 +607,6 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove dependency on //flutter/vulkan and use a single proc table.
     <sub>[#45741](https://github.com/flutter/engine/pull/45741) merged on September 13, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/45741) over 17 hours, 38 additions and 62 deletions in 4 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a single MacOS+Vulkan+SwiftShader CI test
-    <sub>[#45918](https://github.com/flutter/engine/pull/45918) merged on September 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45918) over 35 minutes, 30 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Web] Properly report inverted selection
     <sub>[#44806](https://github.com/flutter/engine/pull/44806) merged on September 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/44806) over 3 weeks, 42 additions and 14 deletions in 3 files</sub>
