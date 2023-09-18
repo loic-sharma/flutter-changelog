@@ -83,6 +83,3 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #6<br />
     <sub>[#134884](https://github.com/flutter/flutter/pull/134884) opened on on September 16, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/134884) 366 additions and 203 deletions in 20 files</sub><br />
 
-* **[Jia Hao](https://github.com/jiahaog)** &mdash; Let `debugProfilePlatformChannels` work in release mode<br />
-    <sub>[#134922](https://github.com/flutter/flutter/pull/134922) opened on on September 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134922) 8 additions and 10 deletions in 2 files</sub><br />
-
