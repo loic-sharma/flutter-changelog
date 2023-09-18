@@ -74,3 +74,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #7<br />
     <sub>[#134943](https://github.com/flutter/flutter/pull/134943) opened on on September 18, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/134943) 409 additions and 263 deletions in 29 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use platform dill from the engine when compiling with dart2wasm.<br />
+    <sub>[#134970](https://github.com/flutter/flutter/pull/134970) opened on on September 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134970) 4 additions and 17 deletions in 2 files</sub><br />
+
