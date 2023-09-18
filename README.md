@@ -4,7 +4,7 @@
 
 ### September 16, 2023 to September 22, 2023
 
-4 commits.
+5 commits.
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets support for Linux<br />
     <sub>[#134031](https://github.com/flutter/flutter/pull/134031) merged on September 18, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/134031) over 1 week, 919 additions and 21 deletions in 12 files</sub><br />
@@ -13,6 +13,10 @@
 * **[huycozy](https://github.com/huycozy)** &mdash; Improve DropdownMenu sample code for requestFocusOnTap on mobile platforms<br />
     <sub>[#134867](https://github.com/flutter/flutter/pull/134867) merged on September 18, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/134867) over 1 day, 28 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "LinkedText (Linkify)"<br />
+    <sub>[#134955](https://github.com/flutter/flutter/pull/134955) merged on September 18, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/134955) over 2 hours, 0 additions and 2520 deletions in 18 files</sub><br />
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Migrate the "Missing frames / speed related performance issues" issue template to use Github forms<br />
     <sub>[#134033](https://github.com/flutter/flutter/pull/134033) merged on September 18, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/134033) over 1 week, 172 additions and 81 deletions in 2 files</sub><br />
@@ -491,11 +495,11 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "CupertinoAlertDialog should not create ScrollController on every build, if null values are passed in constructor."<br />
     <sub>[#134071](https://github.com/flutter/flutter/pull/134071) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134071) over 3 minutes, 17 additions and 33 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "_SearchBarState should dispose FocusNode, if it created it."<br />
     <sub>[#134072](https://github.com/flutter/flutter/pull/134072) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134072) over 2 minutes, 1 addition and 5 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 </details>
 
