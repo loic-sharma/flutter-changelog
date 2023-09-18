@@ -76,7 +76,7 @@
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] provide serviceWorkerVersion to the getNewServiceWorker function
     <sub>[#131240](https://github.com/flutter/flutter/pull/131240) merged on September 14, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/131240) over 1 month, 182 additions and 2 deletions in 4 files</sub>
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Yegor](https://github.com/yjbanov)</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; Fix null check crash by ReorderableList
     <sub>[#132153](https://github.com/flutter/flutter/pull/132153) merged on September 13, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/132153) over 1 month, 64 additions and 0 deletions in 2 files</sub>
@@ -120,7 +120,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in ListWheelScrollView
     <sub>[#134732](https://github.com/flutter/flutter/pull/134732) merged on September 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/134732) over 13 hours, 100 additions and 24 deletions in 2 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Polina Cherkasova](https://github.com/polina-c)</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #3
     <sub>[#134576](https://github.com/flutter/flutter/pull/134576) merged on September 14, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/134576) over 1 day, 333 additions and 273 deletions in 21 files</sub>
@@ -1149,7 +1149,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Manual Roll of Flutter from 4e7a07af882c to 61b890bfcbc1  
     <sub>[#4919](https://github.com/flutter/packages/pull/4919) merged on September 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4919) over 22 hours, 2 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [David Iglesias](https://github.com/ditman)</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; go_router_builder: support the latest pkg:analyzer
     <sub>[#4921](https://github.com/flutter/packages/pull/4921) merged on September 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4921) over 1 hour, 6 additions and 2 deletions in 2 files</sub>
