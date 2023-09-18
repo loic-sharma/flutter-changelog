@@ -4,7 +4,7 @@
 
 ### September 16, 2023 to September 22, 2023
 
-3 commits.
+4 commits.
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets support for Linux
     <sub>[#134031](https://github.com/flutter/flutter/pull/134031) merged on September 18, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/134031) over 1 week, 919 additions and 21 deletions in 12 files</sub>
@@ -17,6 +17,10 @@
 * **[huycozy](https://github.com/huycozy)** &mdash; Migrate the "Missing frames / speed related performance issues" issue template to use Github forms
     <sub>[#134033](https://github.com/flutter/flutter/pull/134033) merged on September 18, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/134033) over 1 week, 172 additions and 81 deletions in 2 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in _DarwinViewState.
+    <sub>[#134938](https://github.com/flutter/flutter/pull/134938) merged on September 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134938) over 4 hours, 108 additions and 104 deletions in 2 files</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 ### September 9, 2023 to September 15, 2023
 
@@ -76,7 +80,7 @@
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] provide serviceWorkerVersion to the getNewServiceWorker function
     <sub>[#131240](https://github.com/flutter/flutter/pull/131240) merged on September 14, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/131240) over 1 month, 182 additions and 2 deletions in 4 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; Fix null check crash by ReorderableList
     <sub>[#132153](https://github.com/flutter/flutter/pull/132153) merged on September 13, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/132153) over 1 month, 64 additions and 0 deletions in 2 files</sub>
@@ -1123,7 +1127,7 @@
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; [camera_android] Removes usage of `_ambiguate` method in example
     <sub>[#4924](https://github.com/flutter/packages/pull/4924) merged on September 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4924) over 4 days, 8 additions and 10 deletions in 3 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 ### September 9, 2023 to September 15, 2023
 
