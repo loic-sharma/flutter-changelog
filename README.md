@@ -76,7 +76,7 @@
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] provide serviceWorkerVersion to the getNewServiceWorker function<br />
     <sub>[#131240](https://github.com/flutter/flutter/pull/131240) merged on September 14, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/131240) over 1 month, 182 additions and 2 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; Fix null check crash by ReorderableList<br />
     <sub>[#132153](https://github.com/flutter/flutter/pull/132153) merged on September 13, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/132153) over 1 month, 64 additions and 0 deletions in 2 files</sub><br />
@@ -120,7 +120,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in ListWheelScrollView<br />
     <sub>[#134732](https://github.com/flutter/flutter/pull/134732) merged on September 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/134732) over 13 hours, 100 additions and 24 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #3<br />
     <sub>[#134576](https://github.com/flutter/flutter/pull/134576) merged on September 14, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/134576) over 1 day, 333 additions and 273 deletions in 21 files</sub><br />
@@ -1103,11 +1103,15 @@
 
 ### September 16, 2023 to September 22, 2023
 
-4 commits.
+5 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Convert iOS to Pigeon<br />
     <sub>[#4941](https://github.com/flutter/packages/pull/4941) merged on September 18, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/4941) over 5 hours, 1592 additions and 629 deletions in 16 files</sub><br />
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [video_player] isCompleted event.<br />
+    <sub>[#4923](https://github.com/flutter/packages/pull/4923) merged on September 18, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/4923) over 4 days, 125 additions and 5 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Fix an issue in the documentation that used `state.queryParameters` instead of `state.uri.queryParameters`<br />
     <sub>[#4881](https://github.com/flutter/packages/pull/4881) merged on September 18, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/4881) over 1 week, 7 additions and 3 deletions in 3 files</sub><br />
