@@ -74,6 +74,3 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #7<br />
     <sub>[#134943](https://github.com/flutter/flutter/pull/134943) opened on on September 18, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/134943) 409 additions and 263 deletions in 29 files</sub><br />
 
-* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll cp] roll engine version: cp Revert "[Impeller] construct text frames on UI thread."<br />
-    <sub>[#134950](https://github.com/flutter/flutter/pull/134950) opened on on September 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134950) 1 addition and 1 deletion in 1 file</sub><br />
-

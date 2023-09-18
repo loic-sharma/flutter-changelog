@@ -156,7 +156,7 @@
 
 * **[Kohei Seino](https://github.com/kseino)** &mdash; ScaleGestureRecognizer: make pointerCount public<br />
     <sub>[#127310](https://github.com/flutter/flutter/pull/127310) merged on September 12, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/127310) over 3 months, 15 additions and 9 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add disposal mechanism for created Layers to TestRecordingPaintingContext.<br />
     <sub>[#134768](https://github.com/flutter/flutter/pull/134768) merged on September 16, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/134768) over 1 day, 15 additions and 1 deletion in 1 file</sub><br />
@@ -495,7 +495,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "_SearchBarState should dispose FocusNode, if it created it."<br />
     <sub>[#134072](https://github.com/flutter/flutter/pull/134072) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134072) over 2 minutes, 1 addition and 5 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
 
 </details>
 
@@ -530,7 +530,7 @@
 
 ### September 16, 2023 to September 22, 2023
 
-5 commits.
+7 commits.
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [ios] use python script to generate extension safe frameworks and code sign them<br />
     <sub>[#45781](https://github.com/flutter/engine/pull/45781) merged on September 18, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/45781) over 4 days, 53 additions and 65 deletions in 2 files</sub><br />
@@ -544,6 +544,14 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] ScreenOrientation singleton<br />
     <sub>[#45304](https://github.com/flutter/engine/pull/45304) merged on September 18, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/45304) over 2 weeks, 81 additions and 80 deletions in 4 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Disable HardwareBuffer backed Platform Views temporarily<br />
+    <sub>[#45986](https://github.com/flutter/engine/pull/45986) merged on September 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45986) over 2 hours, 3 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Tighten up ImageReaderPlatformViewRenderTarget code<br />
+    <sub>[#45889](https://github.com/flutter/engine/pull/45889) merged on September 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45889) over 3 days, 28 additions and 6 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Bump impeller-cmake to HEAD.<br />
     <sub>[#45953](https://github.com/flutter/engine/pull/45953) merged on September 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45953) over 14 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1107,7 +1115,11 @@
 
 ### September 16, 2023 to September 22, 2023
 
-5 commits.
+6 commits.
+
+* **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] ignore audio samples until first video sample<br />
+    <sub>[#4587](https://github.com/flutter/packages/pull/4587) merged on September 18, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/4587) over 1 month, 93 additions and 1 deletion in 6 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Convert iOS to Pigeon<br />
     <sub>[#4941](https://github.com/flutter/packages/pull/4941) merged on September 18, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/4941) over 5 hours, 1592 additions and 629 deletions in 16 files</sub><br />
@@ -1127,7 +1139,7 @@
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; [camera_android] Removes usage of `_ambiguate` method in example<br />
     <sub>[#4924](https://github.com/flutter/packages/pull/4924) merged on September 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4924) over 4 days, 8 additions and 10 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 ### September 9, 2023 to September 15, 2023
 
