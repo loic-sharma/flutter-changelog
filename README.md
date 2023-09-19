@@ -32,7 +32,7 @@
 
 * **[Vasiliy Ditsyak](https://github.com/vasilich6107)** &mdash; Access to fragment in router state on page refresh<br />
     <sub>[#131123](https://github.com/flutter/flutter/pull/131123) merged on September 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/131123) over 1 month, 32 additions and 3 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Bring native_assets ios tests out of staging<br />
     <sub>[#135015](https://github.com/flutter/flutter/pull/135015) merged on September 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135015) over 4 hours, 0 additions and 2 deletions in 1 file</sub><br />
@@ -180,7 +180,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in ListWheelScrollView<br />
     <sub>[#134732](https://github.com/flutter/flutter/pull/134732) merged on September 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/134732) over 13 hours, 100 additions and 24 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #3<br />
     <sub>[#134576](https://github.com/flutter/flutter/pull/134576) merged on September 14, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/134576) over 1 day, 333 additions and 273 deletions in 21 files</sub><br />
@@ -586,7 +586,7 @@
 
 ### September 16, 2023 to September 22, 2023
 
-21 commits.
+23 commits.
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [ios] use python script to generate extension safe frameworks and code sign them<br />
     <sub>[#45781](https://github.com/flutter/engine/pull/45781) merged on September 18, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/45781) over 4 days, 53 additions and 65 deletions in 2 files</sub><br />
@@ -601,6 +601,10 @@
     <sub>[#44848](https://github.com/flutter/engine/pull/44848) merged on September 19, 2023 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/44848) over 1 month, 117 additions and 7 deletions in 3 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
+* **[Chris Yang](https://github.com/cyanglaz)** &mdash; [ios]Adjust golden test threshold for TwoPlatformViewsWithOtherBackDropFilterTests based on current macOS version<br />
+    <sub>[#45891](https://github.com/flutter/engine/pull/45891) merged on September 19, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/45891) over 4 days, 19 additions and 12 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Provide a default `--target-variant` for `clang_tidy`.<br />
     <sub>[#45909](https://github.com/flutter/engine/pull/45909) merged on September 18, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/45909) over 2 days, 356 additions and 123 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
@@ -612,6 +616,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] ScreenOrientation singleton<br />
     <sub>[#45304](https://github.com/flutter/engine/pull/45304) merged on September 18, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/45304) over 2 weeks, 81 additions and 80 deletions in 4 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add TODO(name) to comply with Clang Tidy.<br />
+    <sub>[#46057](https://github.com/flutter/engine/pull/46057) merged on September 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/46057) over 2 hours, 3 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Deprecate `fml::LOG_X` in favor of `kLogX`.<br />
     <sub>[#46052](https://github.com/flutter/engine/pull/46052) merged on September 19, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/46052) over 47 minutes, 28 additions and 10 deletions in 1 file</sub><br />
