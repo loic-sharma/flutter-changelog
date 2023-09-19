@@ -78,17 +78,8 @@
     <sub>[#135007](https://github.com/flutter/flutter/pull/135007) opened on on September 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135007) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Leak track more tests.<br />
-    <sub>[#135044](https://github.com/flutter/flutter/pull/135044) opened on on September 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135044) 0 additions and 0 deletions in 0 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #8<br />
-    <sub>[#135045](https://github.com/flutter/flutter/pull/135045) opened on on September 19, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135045) 863 additions and 419 deletions in 21 files</sub><br />
+    <sub>[#135044](https://github.com/flutter/flutter/pull/135044) opened on on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135044) 0 additions and 0 deletions in 0 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in _SelectableTextState<br />
     <sub>[#135049](https://github.com/flutter/flutter/pull/135049) opened on on September 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135049) 137 additions and 124 deletions in 2 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #9<br />
-    <sub>[#135054](https://github.com/flutter/flutter/pull/135054) opened on on September 19, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135054) 366 additions and 230 deletions in 41 files</sub><br />
-
-* **[Casey Rogers](https://github.com/caseycrogers)** &mdash; made top level if checks gaurd clauses<br />
-    <sub>[#135070](https://github.com/flutter/flutter/pull/135070) opened on on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135070) 35 additions and 32 deletions in 1 file</sub><br />
 
