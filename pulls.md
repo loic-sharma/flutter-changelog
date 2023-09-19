@@ -71,9 +71,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #7<br />
     <sub>[#134943](https://github.com/flutter/flutter/pull/134943) opened on on September 18, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/134943) 409 additions and 263 deletions in 29 files</sub><br />
 
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Remove 'must not be null' comments from painting and rendering libraries.<br />
-    <sub>[#134993](https://github.com/flutter/flutter/pull/134993) opened on on September 19, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/134993) 252 additions and 698 deletions in 130 files</sub><br />
-
 * **[patrickkenya](https://github.com/patrickkenya)** &mdash; Update CODEOWNERS<br />
     <sub>[#135006](https://github.com/flutter/flutter/pull/135006) opened on on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135006) 8 additions and 8 deletions in 1 file</sub><br />
 
@@ -81,8 +78,11 @@
     <sub>[#135007](https://github.com/flutter/flutter/pull/135007) opened on on September 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135007) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable strict-inference<br />
-    <sub>[#135043](https://github.com/flutter/flutter/pull/135043) opened on on September 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135043) 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>[#135043](https://github.com/flutter/flutter/pull/135043) opened on on September 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135043) 48 additions and 44 deletions in 23 files</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Leak track more tests.<br />
     <sub>[#135044](https://github.com/flutter/flutter/pull/135044) opened on on September 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135044) 0 additions and 0 deletions in 0 files</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #8<br />
+    <sub>[#135045](https://github.com/flutter/flutter/pull/135045) opened on on September 19, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135045) 863 additions and 419 deletions in 21 files</sub><br />
 
