@@ -86,3 +86,6 @@
 * **[patrickkenya](https://github.com/patrickkenya)** &mdash; Update build.gradle<br />
     <sub>[#135007](https://github.com/flutter/flutter/pull/135007) opened on on September 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135007) 4 additions and 4 deletions in 1 file</sub><br />
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Bring native_assets ios tests out of staging<br />
+    <sub>[#135015](https://github.com/flutter/flutter/pull/135015) opened on on September 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135015) 0 additions and 2 deletions in 1 file</sub><br />
+
