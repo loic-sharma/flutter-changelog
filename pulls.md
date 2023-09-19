@@ -47,15 +47,12 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade AGP version in tracing_tests<br />
     <sub>[#134671](https://github.com/flutter/flutter/pull/134671) opened on on September 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134671) 3 additions and 2 deletions in 2 files</sub><br />
 
-* **[patrickkenya](https://github.com/patrickkenya)** &mdash; Update CODEOWNERS<br />
-    <sub>[#135006](https://github.com/flutter/flutter/pull/135006) opened on on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135006) 8 additions and 8 deletions in 1 file</sub><br />
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Leak track more tests.<br />
-    <sub>[#135044](https://github.com/flutter/flutter/pull/135044) opened on on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135044) 0 additions and 0 deletions in 0 files</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in _SelectableTextState<br />
     <sub>[#135049](https://github.com/flutter/flutter/pull/135049) opened on on September 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135049) 137 additions and 124 deletions in 2 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Avoid quitting and relaunching the browser on each file.<br />
     <sub>[#135074](https://github.com/flutter/flutter/pull/135074) opened on on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135074) 9 additions and 7 deletions in 1 file</sub><br />
+
+* **[hangyu](https://github.com/hangyujin)** &mdash; [draft] Fix111370<br />
+    <sub>[#135076](https://github.com/flutter/flutter/pull/135076) opened on on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135076) 6 additions and 0 deletions in 1 file</sub><br />
 
