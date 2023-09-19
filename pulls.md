@@ -47,9 +47,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade AGP version in tracing_tests<br />
     <sub>[#134671](https://github.com/flutter/flutter/pull/134671) opened on on September 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134671) 3 additions and 2 deletions in 2 files</sub><br />
 
-* **[tauu](https://github.com/tauu)** &mdash; [web] fix: do not call onSubmitted of TextField when switching browser tabs on mobile web<br />
-    <sub>[#134870](https://github.com/flutter/flutter/pull/134870) opened on on September 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134870) 7 additions and 17 deletions in 2 files</sub><br />
-
 * **[patrickkenya](https://github.com/patrickkenya)** &mdash; Update CODEOWNERS<br />
     <sub>[#135006](https://github.com/flutter/flutter/pull/135006) opened on on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135006) 8 additions and 8 deletions in 1 file</sub><br />
 
