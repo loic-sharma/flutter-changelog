@@ -59,3 +59,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in _SelectableTextState<br />
     <sub>[#135049](https://github.com/flutter/flutter/pull/135049) opened on on September 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135049) 137 additions and 124 deletions in 2 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Avoid quitting and relaunching the browser on each file.<br />
+    <sub>[#135074](https://github.com/flutter/flutter/pull/135074) opened on on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135074) 9 additions and 7 deletions in 1 file</sub><br />
+
