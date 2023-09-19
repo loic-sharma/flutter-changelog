@@ -77,9 +77,6 @@
 * **[patrickkenya](https://github.com/patrickkenya)** &mdash; Update build.gradle<br />
     <sub>[#135007](https://github.com/flutter/flutter/pull/135007) opened on on September 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135007) 4 additions and 4 deletions in 1 file</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable strict-inference<br />
-    <sub>[#135043](https://github.com/flutter/flutter/pull/135043) opened on on September 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135043) 59 additions and 51 deletions in 24 files</sub><br />
-
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Leak track more tests.<br />
     <sub>[#135044](https://github.com/flutter/flutter/pull/135044) opened on on September 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135044) 0 additions and 0 deletions in 0 files</sub><br />
 
