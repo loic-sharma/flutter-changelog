@@ -89,3 +89,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #9<br />
     <sub>[#135054](https://github.com/flutter/flutter/pull/135054) opened on on September 19, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135054) 366 additions and 230 deletions in 41 files</sub><br />
 
+* **[Casey Rogers](https://github.com/caseycrogers)** &mdash; made top level if checks gaurd clauses<br />
+    <sub>[#135070](https://github.com/flutter/flutter/pull/135070) opened on on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135070) 35 additions and 32 deletions in 1 file</sub><br />
+
