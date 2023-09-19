@@ -83,3 +83,6 @@
 * **[patrickkenya](https://github.com/patrickkenya)** &mdash; Update CODEOWNERS<br />
     <sub>[#135006](https://github.com/flutter/flutter/pull/135006) opened on on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135006) 8 additions and 8 deletions in 1 file</sub><br />
 
+* **[patrickkenya](https://github.com/patrickkenya)** &mdash; Update build.gradle<br />
+    <sub>[#135007](https://github.com/flutter/flutter/pull/135007) opened on on September 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135007) 4 additions and 4 deletions in 1 file</sub><br />
+
