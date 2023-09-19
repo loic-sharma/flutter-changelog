@@ -4,7 +4,7 @@
 
 ### September 16, 2023 to September 22, 2023
 
-17 commits.
+18 commits.
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets support for Linux
     <sub>[#134031](https://github.com/flutter/flutter/pull/134031) merged on September 18, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/134031) over 1 week, 919 additions and 21 deletions in 12 files</sub>
@@ -49,6 +49,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Cover more tests with leak tracking.
     <sub>[#134805](https://github.com/flutter/flutter/pull/134805) merged on September 18, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/134805) over 3 days, 215 additions and 146 deletions in 10 files</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Remove 'must be non-null' and 'must not be null' comments from non-framework libraries
+    <sub>[#134994](https://github.com/flutter/flutter/pull/134994) merged on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134994) over 16 hours, 7 additions and 60 deletions in 12 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update CI to Chrome 117.
     <sub>[#134761](https://github.com/flutter/flutter/pull/134761) merged on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134761) over 4 days, 74 additions and 74 deletions in 1 file</sub>
@@ -1255,7 +1259,7 @@
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; [camera_android] Removes usage of `_ambiguate` method in example
     <sub>[#4924](https://github.com/flutter/packages/pull/4924) merged on September 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4924) over 4 days, 8 additions and 10 deletions in 3 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 ### September 9, 2023 to September 15, 2023
 
