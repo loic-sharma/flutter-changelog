@@ -32,7 +32,7 @@
 
 * **[Vasiliy Ditsyak](https://github.com/vasilich6107)** &mdash; Access to fragment in router state on page refresh<br />
     <sub>[#131123](https://github.com/flutter/flutter/pull/131123) merged on September 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/131123) over 1 month, 32 additions and 3 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Resolve breaking change of adding a method to ChangeNotifier.<br />
     <sub>[#134953](https://github.com/flutter/flutter/pull/134953) merged on September 18, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/134953) over 5 hours, 30 additions and 34 deletions in 19 files</sub><br />
@@ -120,7 +120,7 @@
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] provide serviceWorkerVersion to the getNewServiceWorker function<br />
     <sub>[#131240](https://github.com/flutter/flutter/pull/131240) merged on September 14, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/131240) over 1 month, 182 additions and 2 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; Fix null check crash by ReorderableList<br />
     <sub>[#132153](https://github.com/flutter/flutter/pull/132153) merged on September 13, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/132153) over 1 month, 64 additions and 0 deletions in 2 files</sub><br />
@@ -531,7 +531,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "CupertinoAlertDialog should not create ScrollController on every build, if null values are passed in constructor."<br />
     <sub>[#134071](https://github.com/flutter/flutter/pull/134071) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134071) over 3 minutes, 17 additions and 33 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "_SearchBarState should dispose FocusNode, if it created it."<br />
     <sub>[#134072](https://github.com/flutter/flutter/pull/134072) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134072) over 2 minutes, 1 addition and 5 deletions in 2 files</sub><br />
@@ -570,7 +570,7 @@
 
 ### September 16, 2023 to September 22, 2023
 
-12 commits.
+13 commits.
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [ios] use python script to generate extension safe frameworks and code sign them<br />
     <sub>[#45781](https://github.com/flutter/engine/pull/45781) merged on September 18, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/45781) over 4 days, 53 additions and 65 deletions in 2 files</sub><br />
@@ -588,6 +588,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] ScreenOrientation singleton<br />
     <sub>[#45304](https://github.com/flutter/engine/pull/45304) merged on September 18, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/45304) over 2 weeks, 81 additions and 80 deletions in 4 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Hold the CommandPoolVK at a higher scope.<br />
+    <sub>[#46013](https://github.com/flutter/engine/pull/46013) merged on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46013) over 1 hour, 23 additions and 20 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Respect max supported texture size when allocating glyph atlas texture.<br />
     <sub>[#45992](https://github.com/flutter/engine/pull/45992) merged on September 18, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/45992) over 2 hours, 11 additions and 6 deletions in 1 file</sub><br />
@@ -1198,7 +1202,7 @@
     <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Fix an issue in the documentation that used `state.queryParameters` instead of `state.uri.queryParameters`<br />
-    <sub>[#4881](https://github.com/flutter/packages/pull/4881) merged on September 18, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/4881) over 1 week, 7 additions and 3 deletions in 3 files</sub><br />
+    <sub>[#4881](https://github.com/flutter/packages/pull/4881) merged on September 18, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4881) over 1 week, 7 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Fix unknown extensions on macOS<br />
