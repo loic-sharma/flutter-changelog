@@ -47,35 +47,11 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade AGP version in tracing_tests<br />
     <sub>[#134671](https://github.com/flutter/flutter/pull/134671) opened on on September 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134671) 3 additions and 2 deletions in 2 files</sub><br />
 
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Mark ReastaurationManager not disposed<br />
-    <sub>[#134832](https://github.com/flutter/flutter/pull/134832) opened on on September 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134832) 38 additions and 13 deletions in 1 file</sub><br />
-
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; cover more tests with leak tracing<br />
-    <sub>[#134833](https://github.com/flutter/flutter/pull/134833) opened on on September 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134833) 2 additions and 1 deletion in 1 file</sub><br />
-
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; cover more tests with leak tracing<br />
-    <sub>[#134834](https://github.com/flutter/flutter/pull/134834) opened on on September 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134834) 17 additions and 12 deletions in 5 files</sub><br />
-
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; cover more tests with leak tracking<br />
-    <sub>[#134837](https://github.com/flutter/flutter/pull/134837) opened on on September 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134837) 7 additions and 6 deletions in 1 file</sub><br />
-
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Refactor Goldens for web<br />
-    <sub>[#134840](https://github.com/flutter/flutter/pull/134840) opened on on September 15, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/134840) 620 additions and 362 deletions in 12 files</sub><br />
-
-* **[xubaolin](https://github.com/xu-baolin)** &mdash; [New feature][Performance] Introduce a caching mechanism to ListView to reduce unnecessary layout during scrolling<br />
-    <sub>[#134864](https://github.com/flutter/flutter/pull/134864) opened on on September 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134864) 243 additions and 17 deletions in 4 files</sub><br />
-
 * **[tauu](https://github.com/tauu)** &mdash; [web] fix: do not call onSubmitted of TextField when switching browser tabs on mobile web<br />
     <sub>[#134870](https://github.com/flutter/flutter/pull/134870) opened on on September 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134870) 7 additions and 17 deletions in 2 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #7<br />
-    <sub>[#134943](https://github.com/flutter/flutter/pull/134943) opened on on September 18, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/134943) 409 additions and 263 deletions in 29 files</sub><br />
-
 * **[patrickkenya](https://github.com/patrickkenya)** &mdash; Update CODEOWNERS<br />
     <sub>[#135006](https://github.com/flutter/flutter/pull/135006) opened on on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135006) 8 additions and 8 deletions in 1 file</sub><br />
-
-* **[patrickkenya](https://github.com/patrickkenya)** &mdash; Update build.gradle<br />
-    <sub>[#135007](https://github.com/flutter/flutter/pull/135007) opened on on September 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135007) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Leak track more tests.<br />
     <sub>[#135044](https://github.com/flutter/flutter/pull/135044) opened on on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135044) 0 additions and 0 deletions in 0 files</sub><br />
