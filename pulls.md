@@ -80,3 +80,6 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Remove 'must not be null' comments from painting and rendering libraries.<br />
     <sub>[#134993](https://github.com/flutter/flutter/pull/134993) opened on on September 19, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/134993) 191 additions and 682 deletions in 117 files</sub><br />
 
+* **[patrickkenya](https://github.com/patrickkenya)** &mdash; Update CODEOWNERS<br />
+    <sub>[#135006](https://github.com/flutter/flutter/pull/135006) opened on on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135006) 8 additions and 8 deletions in 1 file</sub><br />
+
