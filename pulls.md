@@ -86,3 +86,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #8<br />
     <sub>[#135045](https://github.com/flutter/flutter/pull/135045) opened on on September 19, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135045) 863 additions and 419 deletions in 21 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in _SelectableTextState<br />
+    <sub>[#135049](https://github.com/flutter/flutter/pull/135049) opened on on September 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135049) 137 additions and 124 deletions in 2 files</sub><br />
+
