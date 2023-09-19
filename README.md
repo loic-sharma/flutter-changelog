@@ -32,7 +32,7 @@
 
 * **[Vasiliy Ditsyak](https://github.com/vasilich6107)** &mdash; Access to fragment in router state on page refresh<br />
     <sub>[#131123](https://github.com/flutter/flutter/pull/131123) merged on September 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/131123) over 1 month, 32 additions and 3 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Resolve breaking change of adding a method to ChangeNotifier.<br />
     <sub>[#134953](https://github.com/flutter/flutter/pull/134953) merged on September 18, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/134953) over 5 hours, 30 additions and 34 deletions in 19 files</sub><br />
@@ -168,7 +168,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in ListWheelScrollView<br />
     <sub>[#134732](https://github.com/flutter/flutter/pull/134732) merged on September 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/134732) over 13 hours, 100 additions and 24 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Kate Lovett](https://github.com/Piinks)</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #3<br />
     <sub>[#134576](https://github.com/flutter/flutter/pull/134576) merged on September 14, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/134576) over 1 day, 333 additions and 273 deletions in 21 files</sub><br />
@@ -539,7 +539,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "_SearchBarState should dispose FocusNode, if it created it."<br />
     <sub>[#134072](https://github.com/flutter/flutter/pull/134072) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134072) over 2 minutes, 1 addition and 5 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
 
 </details>
 
@@ -574,7 +574,7 @@
 
 ### September 16, 2023 to September 22, 2023
 
-15 commits.
+16 commits.
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [ios] use python script to generate extension safe frameworks and code sign them<br />
     <sub>[#45781](https://github.com/flutter/engine/pull/45781) merged on September 18, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/45781) over 4 days, 53 additions and 65 deletions in 2 files</sub><br />
@@ -584,6 +584,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] Add support for setting thread affinity based on core speed.<br />
     <sub>[#45673](https://github.com/flutter/engine/pull/45673) merged on September 19, 2023 &mdash; **Medium:** [31 comments](https://github.com/flutter/engine/pull/45673) over 1 week, 335 additions and 0 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [macOS,iOS] Expose channel buffers 'resize' and 'overflow' control co…<br />
+    <sub>[#44848](https://github.com/flutter/engine/pull/44848) merged on September 19, 2023 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/44848) over 1 month, 117 additions and 7 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Provide a default `--target-variant` for `clang_tidy`.<br />
     <sub>[#45909](https://github.com/flutter/engine/pull/45909) merged on September 18, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/45909) over 2 days, 356 additions and 123 deletions in 8 files</sub><br />
@@ -1227,7 +1231,7 @@
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; [camera_android] Removes usage of `_ambiguate` method in example<br />
     <sub>[#4924](https://github.com/flutter/packages/pull/4924) merged on September 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4924) over 4 days, 8 additions and 10 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 ### September 9, 2023 to September 15, 2023
 
@@ -1270,7 +1274,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Manual Roll of Flutter from 4e7a07af882c to 61b890bfcbc1  <br />
     <sub>[#4919](https://github.com/flutter/packages/pull/4919) merged on September 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4919) over 22 hours, 2 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [David Iglesias](https://github.com/ditman)</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; go_router_builder: support the latest pkg:analyzer<br />
     <sub>[#4921](https://github.com/flutter/packages/pull/4921) merged on September 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4921) over 1 hour, 6 additions and 2 deletions in 2 files</sub><br />
