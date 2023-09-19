@@ -76,7 +76,7 @@
 <summary>60 commits...</summary>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; LinkedText (Linkify)<br />
-    <sub>[#125927](https://github.com/flutter/flutter/pull/125927) merged on September 14, 2023 &mdash; **Extra large:** [135 comments](https://github.com/flutter/flutter/pull/125927) over 4 months, 2520 additions and 0 deletions in 18 files</sub><br />
+    <sub>[#125927](https://github.com/flutter/flutter/pull/125927) merged on September 14, 2023 &mdash; **Extra large:** [136 comments](https://github.com/flutter/flutter/pull/125927) over 4 months, 2520 additions and 0 deletions in 18 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [hahai96](https://github.com/hahai96), [Benjamin](https://github.com/Reprevise), [chunhtai](https://github.com/chunhtai)</sub><br />
     <sub><details><summary>4 images...</summary>![Screenshot from 2023-05-03 17-16-36](https://user-images.githubusercontent.com/389558/236078014-f6f30f4d-bed0-43fb-962d-e6115e2de8e0.png)![Screenshot from 2023-05-03 17-10-26](https://user-images.githubusercontent.com/389558/236077060-d2413fa7-491b-450c-9572-fe1bb20072b9.png)![Screenshot from 2023-05-03 17-03-16](https://user-images.githubusercontent.com/389558/236077189-39bd137e-f214-48f0-bf2a-e245727a5c35.png)![Screenshot from 2023-05-24 10-14-12](https://github.com/flutter/flutter/assets/389558/6ad330a5-54b8-40ad-a9f2-7a9855649739)</details></sub>
 
@@ -172,7 +172,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in ListWheelScrollView<br />
     <sub>[#134732](https://github.com/flutter/flutter/pull/134732) merged on September 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/134732) over 13 hours, 100 additions and 24 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Kate Lovett](https://github.com/Piinks)</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #3<br />
     <sub>[#134576](https://github.com/flutter/flutter/pull/134576) merged on September 14, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/134576) over 1 day, 333 additions and 273 deletions in 21 files</sub><br />
@@ -539,7 +539,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "CupertinoAlertDialog should not create ScrollController on every build, if null values are passed in constructor."<br />
     <sub>[#134071](https://github.com/flutter/flutter/pull/134071) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134071) over 3 minutes, 17 additions and 33 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "_SearchBarState should dispose FocusNode, if it created it."<br />
     <sub>[#134072](https://github.com/flutter/flutter/pull/134072) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134072) over 2 minutes, 1 addition and 5 deletions in 2 files</sub><br />
@@ -1286,7 +1286,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Manual Roll of Flutter from 4e7a07af882c to 61b890bfcbc1  <br />
     <sub>[#4919](https://github.com/flutter/packages/pull/4919) merged on September 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4919) over 22 hours, 2 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Reid Baker](https://github.com/reidbaker)</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; go_router_builder: support the latest pkg:analyzer<br />
     <sub>[#4921](https://github.com/flutter/packages/pull/4921) merged on September 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4921) over 1 hour, 6 additions and 2 deletions in 2 files</sub><br />
