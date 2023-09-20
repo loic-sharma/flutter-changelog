@@ -62,3 +62,6 @@
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; Fix the character field of RawKeyEvent is always null on iOS<br />
     <sub>[#135100](https://github.com/flutter/flutter/pull/135100) opened on on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135100) 6 additions and 2 deletions in 2 files</sub><br />
 
+* **[xiao xiao](https://github.com/xiaoxiaowesley)** &mdash; Add switchTheme property in CupertinoThemeData <br />
+    <sub>[#135120](https://github.com/flutter/flutter/pull/135120) opened on on September 20, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/135120) 419 additions and 9 deletions in 7 files</sub><br />
+
