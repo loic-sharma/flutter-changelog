@@ -56,7 +56,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry Linux web tests 1 time on roll presubmit
     <sub>[#135073](https://github.com/flutter/flutter/pull/135073) merged on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135073) over 48 minutes, 44 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [godofredoc](https://github.com/godofredoc)</sub>
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Specify suggested format in doc comment.
     <sub>[#134887](https://github.com/flutter/flutter/pull/134887) merged on September 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134887) over 2 days, 3 additions and 0 deletions in 1 file</sub>
@@ -168,7 +168,7 @@
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] provide serviceWorkerVersion to the getNewServiceWorker function
     <sub>[#131240](https://github.com/flutter/flutter/pull/131240) merged on September 14, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/131240) over 1 month, 182 additions and 2 deletions in 4 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; Fix null check crash by ReorderableList
     <sub>[#132153](https://github.com/flutter/flutter/pull/132153) merged on September 13, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/132153) over 1 month, 64 additions and 0 deletions in 2 files</sub>
@@ -244,7 +244,7 @@
 
 * **[Kohei Seino](https://github.com/kseino)** &mdash; ScaleGestureRecognizer: make pointerCount public
     <sub>[#127310](https://github.com/flutter/flutter/pull/127310) merged on September 12, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/127310) over 3 months, 15 additions and 9 deletions in 2 files</sub>
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add disposal mechanism for created Layers to TestRecordingPaintingContext.
     <sub>[#134768](https://github.com/flutter/flutter/pull/134768) merged on September 16, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/134768) over 1 day, 15 additions and 1 deletion in 1 file</sub>
