@@ -44,9 +44,6 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Create template for umbrella issues<br />
     <sub>[#134235](https://github.com/flutter/flutter/pull/134235) opened on on September 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134235) 25 additions and 0 deletions in 1 file</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade AGP version in tracing_tests<br />
-    <sub>[#134671](https://github.com/flutter/flutter/pull/134671) opened on on September 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134671) 3 additions and 2 deletions in 2 files</sub><br />
-
 * **[hangyu](https://github.com/hangyujin)** &mdash; [draft] Fix111370<br />
     <sub>[#135076](https://github.com/flutter/flutter/pull/135076) opened on on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135076) 6 additions and 0 deletions in 1 file</sub><br />
 
@@ -67,12 +64,6 @@
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Migrate the "Non-speed related performance issues" issue template to Github forms<br />
     <sub>[#135130](https://github.com/flutter/flutter/pull/135130) opened on on September 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135130) 170 additions and 67 deletions in 2 files</sub><br />
-
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Cover some cupertino tests with leak tracing<br />
-    <sub>[#135149](https://github.com/flutter/flutter/pull/135149) opened on on September 20, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135149) 297 additions and 261 deletions in 24 files</sub><br />
-
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Cover cupertino/form_section_test with leak tracing<br />
-    <sub>[#135158](https://github.com/flutter/flutter/pull/135158) opened on on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135158) 11 additions and 9 deletions in 2 files</sub><br />
 
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; remove field override, assign to super field instead<br />
     <sub>[#135165](https://github.com/flutter/flutter/pull/135165) opened on on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135165) 4 additions and 7 deletions in 1 file</sub><br />
