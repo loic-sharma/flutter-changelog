@@ -48,7 +48,7 @@
     <sub>[#134671](https://github.com/flutter/flutter/pull/134671) opened on on September 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134671) 3 additions and 2 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in _SelectableTextState<br />
-    <sub>[#135049](https://github.com/flutter/flutter/pull/135049) opened on on September 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135049) 137 additions and 124 deletions in 2 files</sub><br />
+    <sub>[#135049](https://github.com/flutter/flutter/pull/135049) opened on on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135049) 137 additions and 124 deletions in 2 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; [draft] Fix111370<br />
     <sub>[#135076](https://github.com/flutter/flutter/pull/135076) opened on on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135076) 6 additions and 0 deletions in 1 file</sub><br />
@@ -72,5 +72,11 @@
     <sub>[#135130](https://github.com/flutter/flutter/pull/135130) opened on on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135130) 170 additions and 67 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #10<br />
-    <sub>[#135143](https://github.com/flutter/flutter/pull/135143) opened on on September 20, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135143) 506 additions and 294 deletions in 33 files</sub><br />
+    <sub>[#135143](https://github.com/flutter/flutter/pull/135143) opened on on September 20, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/135143) 506 additions and 294 deletions in 33 files</sub><br />
+
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Cover some cupertino tests with leak tracing<br />
+    <sub>[#135149](https://github.com/flutter/flutter/pull/135149) opened on on September 20, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135149) 297 additions and 261 deletions in 24 files</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in _MatchesReferenceImage<br />
+    <sub>[#135150](https://github.com/flutter/flutter/pull/135150) opened on on September 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135150) 125 additions and 34 deletions in 3 files</sub><br />
 
