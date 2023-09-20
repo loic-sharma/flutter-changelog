@@ -88,7 +88,7 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade AGP version in tracing_tests<br />
     <sub>[#134671](https://github.com/flutter/flutter/pull/134671) merged on September 20, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/134671) over 1 week, 3 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable strict-inference<br />
     <sub>[#135043](https://github.com/flutter/flutter/pull/135043) merged on September 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135043) over 1 day, 63 additions and 55 deletions in 27 files</sub><br />
@@ -216,7 +216,7 @@
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] provide serviceWorkerVersion to the getNewServiceWorker function<br />
     <sub>[#131240](https://github.com/flutter/flutter/pull/131240) merged on September 14, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/131240) over 1 month, 182 additions and 2 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; Fix null check crash by ReorderableList<br />
     <sub>[#132153](https://github.com/flutter/flutter/pull/132153) merged on September 13, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/132153) over 1 month, 64 additions and 0 deletions in 2 files</sub><br />
@@ -1506,7 +1506,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Manual Roll of Flutter from 4e7a07af882c to 61b890bfcbc1  <br />
     <sub>[#4919](https://github.com/flutter/packages/pull/4919) merged on September 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4919) over 22 hours, 2 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Reid Baker](https://github.com/reidbaker)</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; go_router_builder: support the latest pkg:analyzer<br />
     <sub>[#4921](https://github.com/flutter/packages/pull/4921) merged on September 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4921) over 1 hour, 6 additions and 2 deletions in 2 files</sub><br />
