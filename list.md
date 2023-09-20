@@ -52,11 +52,11 @@
 
 * **[Vasiliy Ditsyak](https://github.com/vasilich6107)** &mdash; Access to fragment in router state on page refresh
     <sub>[#131123](https://github.com/flutter/flutter/pull/131123) merged on September 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/131123) over 1 month, 32 additions and 3 deletions in 3 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Mouad Debbar](https://github.com/mdebbar)</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry Linux web tests 1 time on roll presubmit
     <sub>[#135073](https://github.com/flutter/flutter/pull/135073) merged on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135073) over 48 minutes, 44 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [godofredoc](https://github.com/godofredoc)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Specify suggested format in doc comment.
     <sub>[#134887](https://github.com/flutter/flutter/pull/134887) merged on September 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134887) over 2 days, 3 additions and 0 deletions in 1 file</sub>
@@ -583,7 +583,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "_SearchBarState should dispose FocusNode, if it created it."
     <sub>[#134072](https://github.com/flutter/flutter/pull/134072) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134072) over 2 minutes, 1 addition and 5 deletions in 2 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [yusuf-goog](https://github.com/yusuf-goog)</sub>
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 </details>
 
