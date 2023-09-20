@@ -71,3 +71,6 @@
 * **[huycozy](https://github.com/huycozy)** &mdash; Migrate the "Non-speed related performance issues" issue template to Github forms<br />
     <sub>[#135130](https://github.com/flutter/flutter/pull/135130) opened on on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135130) 170 additions and 67 deletions in 2 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #10<br />
+    <sub>[#135143](https://github.com/flutter/flutter/pull/135143) opened on on September 20, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135143) 506 additions and 294 deletions in 33 files</sub><br />
+
