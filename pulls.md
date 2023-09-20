@@ -68,3 +68,6 @@
 * **[smtp10185](https://github.com/smtp10185)** &mdash; Make SafeArea usage optional in NavigationBar<br />
     <sub>[#135129](https://github.com/flutter/flutter/pull/135129) opened on on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135129) 77 additions and 11 deletions in 2 files</sub><br />
 
+* **[huycozy](https://github.com/huycozy)** &mdash; Migrate the "Non-speed related performance issues" issue template to Github forms<br />
+    <sub>[#135130](https://github.com/flutter/flutter/pull/135130) opened on on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135130) 170 additions and 67 deletions in 2 files</sub><br />
+
