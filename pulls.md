@@ -80,3 +80,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in _MatchesReferenceImage<br />
     <sub>[#135150](https://github.com/flutter/flutter/pull/135150) opened on on September 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135150) 125 additions and 34 deletions in 3 files</sub><br />
 
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Cover cupertino/form_section_test with leak tracing<br />
+    <sub>[#135158](https://github.com/flutter/flutter/pull/135158) opened on on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135158) 11 additions and 9 deletions in 2 files</sub><br />
+
