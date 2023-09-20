@@ -68,14 +68,8 @@
 * **[huycozy](https://github.com/huycozy)** &mdash; Migrate the "Non-speed related performance issues" issue template to Github forms<br />
     <sub>[#135130](https://github.com/flutter/flutter/pull/135130) opened on on September 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135130) 170 additions and 67 deletions in 2 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #10<br />
-    <sub>[#135143](https://github.com/flutter/flutter/pull/135143) opened on on September 20, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/135143) 506 additions and 294 deletions in 33 files</sub><br />
-
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Cover some cupertino tests with leak tracing<br />
     <sub>[#135149](https://github.com/flutter/flutter/pull/135149) opened on on September 20, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135149) 297 additions and 261 deletions in 24 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in _MatchesReferenceImage<br />
-    <sub>[#135150](https://github.com/flutter/flutter/pull/135150) opened on on September 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135150) 125 additions and 34 deletions in 3 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Cover cupertino/form_section_test with leak tracing<br />
     <sub>[#135158](https://github.com/flutter/flutter/pull/135158) opened on on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135158) 11 additions and 9 deletions in 2 files</sub><br />
