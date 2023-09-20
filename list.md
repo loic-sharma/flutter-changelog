@@ -4,7 +4,7 @@
 
 ### September 16, 2023 to September 22, 2023
 
-25 commits.
+26 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Unpin url launcher (remake)
     <sub>[#134958](https://github.com/flutter/flutter/pull/134958) merged on September 20, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/134958) over 1 day, 329 additions and 330 deletions in 74 files</sub>
@@ -17,6 +17,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets support for Linux
     <sub>[#134031](https://github.com/flutter/flutter/pull/134031) merged on September 18, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/134031) over 1 week, 919 additions and 21 deletions in 12 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Remove 'must be non-null' and 'must not be null' comments from material.
+    <sub>[#134991](https://github.com/flutter/flutter/pull/134991) merged on September 20, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/134991) over 1 day, 127 additions and 376 deletions in 93 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Improve DropdownMenu sample code for requestFocusOnTap on mobile platforms
     <sub>[#134867](https://github.com/flutter/flutter/pull/134867) merged on September 18, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/134867) over 1 day, 28 additions and 0 deletions in 2 files</sub>
@@ -240,7 +244,7 @@
 
 * **[Kohei Seino](https://github.com/kseino)** &mdash; ScaleGestureRecognizer: make pointerCount public
     <sub>[#127310](https://github.com/flutter/flutter/pull/127310) merged on September 12, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/127310) over 3 months, 15 additions and 9 deletions in 2 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add disposal mechanism for created Layers to TestRecordingPaintingContext.
     <sub>[#134768](https://github.com/flutter/flutter/pull/134768) merged on September 16, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/134768) over 1 day, 15 additions and 1 deletion in 1 file</sub>
