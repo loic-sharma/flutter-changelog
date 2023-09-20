@@ -11,7 +11,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Unpin url launcher (remake)
-    <sub>[#134958](https://github.com/flutter/flutter/pull/134958) merged on September 20, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/134958) over 1 day, 329 additions and 330 deletions in 74 files</sub>
+    <sub>[#134958](https://github.com/flutter/flutter/pull/134958) merged on September 20, 2023 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/134958) over 1 day, 329 additions and 330 deletions in 74 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Encode AssetManifest.bin as JSON and use that on the web.
@@ -72,7 +72,7 @@
 
 * **[Vasiliy Ditsyak](https://github.com/vasilich6107)** &mdash; Access to fragment in router state on page refresh
     <sub>[#131123](https://github.com/flutter/flutter/pull/131123) merged on September 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/131123) over 1 month, 32 additions and 3 deletions in 3 files</sub>
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry Linux web tests 1 time on roll presubmit
     <sub>[#135073](https://github.com/flutter/flutter/pull/135073) merged on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135073) over 48 minutes, 44 additions and 0 deletions in 1 file</sub>
@@ -1395,7 +1395,7 @@
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; [camera_android] Removes usage of `_ambiguate` method in example
     <sub>[#4924](https://github.com/flutter/packages/pull/4924) merged on September 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4924) over 4 days, 8 additions and 10 deletions in 3 files</sub>
-    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub>
 
 ### September 9, 2023 to September 15, 2023
 

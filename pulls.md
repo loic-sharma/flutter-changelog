@@ -47,9 +47,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade AGP version in tracing_tests<br />
     <sub>[#134671](https://github.com/flutter/flutter/pull/134671) opened on on September 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134671) 3 additions and 2 deletions in 2 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in _SelectableTextState<br />
-    <sub>[#135049](https://github.com/flutter/flutter/pull/135049) opened on on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135049) 137 additions and 124 deletions in 2 files</sub><br />
-
 * **[hangyu](https://github.com/hangyujin)** &mdash; [draft] Fix111370<br />
     <sub>[#135076](https://github.com/flutter/flutter/pull/135076) opened on on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135076) 6 additions and 0 deletions in 1 file</sub><br />
 
