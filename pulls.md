@@ -65,3 +65,6 @@
 * **[xiao xiao](https://github.com/xiaoxiaowesley)** &mdash; Add switchTheme property in CupertinoThemeData <br />
     <sub>[#135120](https://github.com/flutter/flutter/pull/135120) opened on on September 20, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/135120) 419 additions and 9 deletions in 7 files</sub><br />
 
+* **[smtp10185](https://github.com/smtp10185)** &mdash; Make SafeArea usage optional in NavigationBar<br />
+    <sub>[#135129](https://github.com/flutter/flutter/pull/135129) opened on on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135129) 77 additions and 11 deletions in 2 files</sub><br />
+
