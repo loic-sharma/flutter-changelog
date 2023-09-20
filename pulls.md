@@ -57,7 +57,7 @@
     <sub>[#135077](https://github.com/flutter/flutter/pull/135077) opened on on September 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135077) 7 additions and 2 deletions in 1 file</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Reland "Native assets support for Linux"<br />
-    <sub>[#135097](https://github.com/flutter/flutter/pull/135097) opened on on September 20, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135097) 919 additions and 21 deletions in 12 files</sub><br />
+    <sub>[#135097](https://github.com/flutter/flutter/pull/135097) opened on on September 20, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135097) 929 additions and 22 deletions in 12 files</sub><br />
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; Fix the character field of RawKeyEvent is always null on iOS<br />
     <sub>[#135100](https://github.com/flutter/flutter/pull/135100) opened on on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135100) 6 additions and 2 deletions in 2 files</sub><br />
