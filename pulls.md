@@ -57,7 +57,7 @@
     <sub>[#135129](https://github.com/flutter/flutter/pull/135129) opened on on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135129) 77 additions and 11 deletions in 2 files</sub><br />
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Migrate the "Non-speed related performance issues" issue template to Github forms<br />
-    <sub>[#135130](https://github.com/flutter/flutter/pull/135130) opened on on September 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135130) 170 additions and 67 deletions in 2 files</sub><br />
+    <sub>[#135130](https://github.com/flutter/flutter/pull/135130) opened on on September 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135130) 170 additions and 67 deletions in 2 files</sub><br />
 
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; remove field override, assign to super field instead<br />
     <sub>[#135165](https://github.com/flutter/flutter/pull/135165) opened on on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135165) 4 additions and 7 deletions in 1 file</sub><br />
