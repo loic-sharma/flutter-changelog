@@ -54,7 +54,7 @@
     <sub>[#135100](https://github.com/flutter/flutter/pull/135100) opened on on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135100) 6 additions and 2 deletions in 2 files</sub><br />
 
 * **[xiao xiao](https://github.com/xiaoxiaowesley)** &mdash; Add switchTheme property in CupertinoThemeData <br />
-    <sub>[#135120](https://github.com/flutter/flutter/pull/135120) opened on on September 20, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/135120) 424 additions and 9 deletions in 8 files</sub><br />
+    <sub>[#135120](https://github.com/flutter/flutter/pull/135120) opened on on September 20, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/135120) 423 additions and 9 deletions in 8 files</sub><br />
 
 * **[smtp10185](https://github.com/smtp10185)** &mdash; Make SafeArea usage optional in NavigationBar<br />
     <sub>[#135129](https://github.com/flutter/flutter/pull/135129) opened on on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135129) 77 additions and 11 deletions in 2 files</sub><br />
@@ -64,7 +64,4 @@
 
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; remove field override, assign to super field instead<br />
     <sub>[#135165](https://github.com/flutter/flutter/pull/135165) opened on on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135165) 4 additions and 7 deletions in 1 file</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Send analytics on 'build ios' and 'build ipa' for plist impeller value<br />
-    <sub>[#135193](https://github.com/flutter/flutter/pull/135193) opened on on September 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135193) 148 additions and 1 deletion in 4 files</sub><br />
 
