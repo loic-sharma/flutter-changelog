@@ -74,3 +74,6 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Use Layer.toImage for golden tests on CanvasKit<br />
     <sub>[#135249](https://github.com/flutter/flutter/pull/135249) opened on on September 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135249) 163 additions and 48 deletions in 5 files</sub><br />
 
+* **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; implement visitChildren method on _RenderLayoutBuilder<br />
+    <sub>[#135253](https://github.com/flutter/flutter/pull/135253) opened on on September 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135253) 30 additions and 0 deletions in 2 files</sub><br />
+
