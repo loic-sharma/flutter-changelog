@@ -65,3 +65,6 @@
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; remove field override, assign to super field instead<br />
     <sub>[#135165](https://github.com/flutter/flutter/pull/135165) opened on on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135165) 4 additions and 7 deletions in 1 file</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Send analytics on 'build ios' and 'build ipa' for plist impeller value<br />
+    <sub>[#135193](https://github.com/flutter/flutter/pull/135193) opened on on September 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135193) 146 additions and 0 deletions in 3 files</sub><br />
+
