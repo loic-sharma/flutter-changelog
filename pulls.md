@@ -62,3 +62,6 @@
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; remove field override, assign to super field instead<br />
     <sub>[#135165](https://github.com/flutter/flutter/pull/135165) opened on on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135165) 4 additions and 7 deletions in 1 file</sub><br />
 
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Cover some cupertino tests with leak tracking<br />
+    <sub>[#135230](https://github.com/flutter/flutter/pull/135230) opened on on September 21, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/135230) 263 additions and 200 deletions in 8 files</sub><br />
+
