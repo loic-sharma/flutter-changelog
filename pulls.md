@@ -59,6 +59,9 @@
 * **[huycozy](https://github.com/huycozy)** &mdash; Migrate the "Non-speed related performance issues" issue template to Github forms<br />
     <sub>[#135130](https://github.com/flutter/flutter/pull/135130) opened on on September 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135130) 170 additions and 67 deletions in 2 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Update generate_gradle_lockfiles script to represent newer templates, and run it on dev/<br />
+    <sub>[#135175](https://github.com/flutter/flutter/pull/135175) opened on on September 20, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/135175) 1149 additions and 701 deletions in 48 files</sub><br />
+
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Cover some cupertino tests with leak tracking<br />
     <sub>[#135230](https://github.com/flutter/flutter/pull/135230) opened on on September 21, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/135230) 263 additions and 200 deletions in 8 files</sub><br />
 
