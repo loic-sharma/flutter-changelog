@@ -69,5 +69,8 @@
     <sub>[#135231](https://github.com/flutter/flutter/pull/135231) opened on on September 21, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/135231) 410 additions and 247 deletions in 20 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in NestedScrollViewState.<br />
-    <sub>[#135248](https://github.com/flutter/flutter/pull/135248) opened on on September 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135248) 77 additions and 52 deletions in 2 files</sub><br />
+    <sub>[#135248](https://github.com/flutter/flutter/pull/135248) opened on on September 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135248) 77 additions and 52 deletions in 2 files</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Use Layer.toImage for golden tests on CanvasKit<br />
+    <sub>[#135249](https://github.com/flutter/flutter/pull/135249) opened on on September 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135249) 163 additions and 48 deletions in 5 files</sub><br />
 
