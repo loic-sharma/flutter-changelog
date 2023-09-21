@@ -62,6 +62,3 @@
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; remove field override, assign to super field instead<br />
     <sub>[#135165](https://github.com/flutter/flutter/pull/135165) opened on on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135165) 4 additions and 7 deletions in 1 file</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add  RestorationManager disposals in test/services/restoration_test.dart.<br />
-    <sub>[#135218](https://github.com/flutter/flutter/pull/135218) opened on on September 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135218) 17 additions and 11 deletions in 2 files</sub><br />
-
