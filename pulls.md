@@ -65,9 +65,6 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Cover some cupertino tests with leak tracking<br />
     <sub>[#135230](https://github.com/flutter/flutter/pull/135230) opened on on September 21, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/135230) 263 additions and 200 deletions in 8 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in NestedScrollViewState.<br />
-    <sub>[#135248](https://github.com/flutter/flutter/pull/135248) opened on on September 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135248) 77 additions and 52 deletions in 2 files</sub><br />
-
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; implement visitChildren method on _RenderLayoutBuilder<br />
     <sub>[#135253](https://github.com/flutter/flutter/pull/135253) opened on on September 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135253) 30 additions and 0 deletions in 2 files</sub><br />
 
