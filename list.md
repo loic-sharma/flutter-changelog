@@ -4,7 +4,7 @@
 
 ### September 16, 2023 to September 22, 2023
 
-48 commits.
+49 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Add Java/AGP/Gradle incompatibility warning to `flutter create`
     <sub>[#131444](https://github.com/flutter/flutter/pull/131444) merged on September 20, 2023 &mdash; **Large:** [60 comments](https://github.com/flutter/flutter/pull/131444) over 1 month, 1204 additions and 139 deletions in 13 files</sub>
@@ -38,9 +38,9 @@
     <sub>[#134867](https://github.com/flutter/flutter/pull/134867) merged on September 18, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/134867) over 1 day, 28 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #6
-    <sub>[#134884](https://github.com/flutter/flutter/pull/134884) merged on September 18, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/134884) over 2 days, 366 additions and 203 deletions in 20 files</sub>
-    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Native assets support for Linux"
+    <sub>[#135069](https://github.com/flutter/flutter/pull/135069) merged on September 20, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135069) over 2 hours, 21 additions and 919 deletions in 12 files</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #10
     <sub>[#135143](https://github.com/flutter/flutter/pull/135143) merged on September 20, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/135143) over 4 hours, 506 additions and 294 deletions in 33 files</sub>
@@ -70,9 +70,9 @@
     <sub>[#134955](https://github.com/flutter/flutter/pull/134955) merged on September 18, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/134955) over 2 hours, 0 additions and 2520 deletions in 18 files</sub>
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] Revert "Native assets support for Linux"
-    <sub>[#135069](https://github.com/flutter/flutter/pull/135069) merged on September 20, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135069) over 2 hours, 21 additions and 919 deletions in 12 files</sub>
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #6
+    <sub>[#134884](https://github.com/flutter/flutter/pull/134884) merged on September 18, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/134884) over 2 days, 366 additions and 203 deletions in 20 files</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in _SelectableTextState
     <sub>[#135049](https://github.com/flutter/flutter/pull/135049) merged on September 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135049) over 1 day, 137 additions and 124 deletions in 2 files</sub>
@@ -116,7 +116,7 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade AGP version in tracing_tests
     <sub>[#134671](https://github.com/flutter/flutter/pull/134671) merged on September 20, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/134671) over 1 week, 3 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [John McCutchan](https://github.com/johnmccutchan)</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Bring native_assets ios tests out of staging
     <sub>[#135015](https://github.com/flutter/flutter/pull/135015) merged on September 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135015) over 4 hours, 0 additions and 2 deletions in 1 file</sub>
@@ -126,25 +126,29 @@
     <sub>[#135043](https://github.com/flutter/flutter/pull/135043) merged on September 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135043) over 1 day, 63 additions and 55 deletions in 27 files</sub>
     <sub>Reviewed by: [Devon Carew](https://github.com/devoncarew), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable private field promotion for framework
+    <sub>[#134473](https://github.com/flutter/flutter/pull/134473) merged on September 18, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/134473) over 6 days, 47 additions and 47 deletions in 21 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Cover more tests with leak tracking.
     <sub>[#134805](https://github.com/flutter/flutter/pull/134805) merged on September 18, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/134805) over 3 days, 215 additions and 146 deletions in 10 files</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry Linux web tests 1 time on roll presubmit
-    <sub>[#135073](https://github.com/flutter/flutter/pull/135073) merged on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135073) over 48 minutes, 44 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Resolve breaking change of adding a method to ChangeNotifier.
     <sub>[#134953](https://github.com/flutter/flutter/pull/134953) merged on September 18, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/134953) over 5 hours, 30 additions and 34 deletions in 19 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry Linux web tests 1 time on roll presubmit
+    <sub>[#135073](https://github.com/flutter/flutter/pull/135073) merged on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135073) over 48 minutes, 44 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Specify suggested format in doc comment.
     <sub>[#134887](https://github.com/flutter/flutter/pull/134887) merged on September 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134887) over 2 days, 3 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable private field promotion for framework
-    <sub>[#134473](https://github.com/flutter/flutter/pull/134473) merged on September 18, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/134473) over 6 days, 47 additions and 47 deletions in 21 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Mark ReastaurationManager not disposed
+    <sub>[#134832](https://github.com/flutter/flutter/pull/134832) merged on September 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134832) over 5 days, 6 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; cover more tests with leak tracing
     <sub>[#134834](https://github.com/flutter/flutter/pull/134834) merged on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134834) over 5 days, 17 additions and 12 deletions in 5 files</sub>
@@ -182,12 +186,12 @@
     <sub>[#134761](https://github.com/flutter/flutter/pull/134761) merged on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134761) over 4 days, 74 additions and 74 deletions in 1 file</sub>
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Cover some cupertino tests with leak tracing
-    <sub>[#135149](https://github.com/flutter/flutter/pull/135149) merged on September 21, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/135149) over 21 hours, 291 additions and 261 deletions in 23 files</sub>
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add  RestorationManager disposals in test/services/restoration_test.dart.
+    <sub>[#135218](https://github.com/flutter/flutter/pull/135218) merged on September 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/135218) over 4 hours, 14 additions and 11 deletions in 1 file</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Mark ReastaurationManager not disposed
-    <sub>[#134832](https://github.com/flutter/flutter/pull/134832) merged on September 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134832) over 5 days, 6 additions and 2 deletions in 1 file</sub>
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Cover some cupertino tests with leak tracing
+    <sub>[#135149](https://github.com/flutter/flutter/pull/135149) merged on September 21, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/135149) over 21 hours, 291 additions and 261 deletions in 23 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Reland Resolve breaking change of adding a method to ChangeNotifier.
@@ -256,7 +260,7 @@
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] provide serviceWorkerVersion to the getNewServiceWorker function
     <sub>[#131240](https://github.com/flutter/flutter/pull/131240) merged on September 14, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/131240) over 1 month, 182 additions and 2 deletions in 4 files</sub>
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Yegor](https://github.com/yjbanov)</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; Fix null check crash by ReorderableList
     <sub>[#132153](https://github.com/flutter/flutter/pull/132153) merged on September 13, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/132153) over 1 month, 64 additions and 0 deletions in 2 files</sub>
@@ -332,7 +336,7 @@
 
 * **[Kohei Seino](https://github.com/kseino)** &mdash; ScaleGestureRecognizer: make pointerCount public
     <sub>[#127310](https://github.com/flutter/flutter/pull/127310) merged on September 12, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/127310) over 3 months, 15 additions and 9 deletions in 2 files</sub>
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add disposal mechanism for created Layers to TestRecordingPaintingContext.
     <sub>[#134768](https://github.com/flutter/flutter/pull/134768) merged on September 16, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/134768) over 1 day, 15 additions and 1 deletion in 1 file</sub>
