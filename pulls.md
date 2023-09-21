@@ -66,8 +66,8 @@
     <sub>[#135230](https://github.com/flutter/flutter/pull/135230) opened on on September 21, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/135230) 263 additions and 200 deletions in 8 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #11<br />
-    <sub>[#135231](https://github.com/flutter/flutter/pull/135231) opened on on September 21, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135231) 410 additions and 247 deletions in 20 files</sub><br />
+    <sub>[#135231](https://github.com/flutter/flutter/pull/135231) opened on on September 21, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/135231) 410 additions and 247 deletions in 20 files</sub><br />
 
-* **[Hassan](https://github.com/htoor3)** &mdash; [web] Fix page up/down, home, end shortcut behavior on web<br />
-    <sub>[#135247](https://github.com/flutter/flutter/pull/135247) opened on on September 21, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135247) 560 additions and 10 deletions in 2 files</sub><br />
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in NestedScrollViewState<br />
+    <sub>[#135248](https://github.com/flutter/flutter/pull/135248) opened on on September 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135248) 77 additions and 52 deletions in 2 files</sub><br />
 
