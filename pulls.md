@@ -62,6 +62,3 @@
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; remove field override, assign to super field instead<br />
     <sub>[#135165](https://github.com/flutter/flutter/pull/135165) opened on on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135165) 4 additions and 7 deletions in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add a parameter to configure InputDecorator hint fade animations duration<br />
-    <sub>[#135211](https://github.com/flutter/flutter/pull/135211) opened on on September 21, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/135211) 287 additions and 43 deletions in 2 files</sub><br />
-
