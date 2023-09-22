@@ -77,6 +77,3 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; leak track tab_scaffold_test.dart<br />
     <sub>[#135309](https://github.com/flutter/flutter/pull/135309) opened on on September 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135309) 53 additions and 28 deletions in 1 file</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Stop reporting new_gen_gc_count to SkiaPerf<br />
-    <sub>[#135324](https://github.com/flutter/flutter/pull/135324) opened on on September 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135324) 0 additions and 1 deletion in 1 file</sub><br />
-
