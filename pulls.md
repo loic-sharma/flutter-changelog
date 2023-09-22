@@ -71,3 +71,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try flutter/engine#46130<br />
     <sub>[#135254](https://github.com/flutter/flutter/pull/135254) opened on on September 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135254) 3 additions and 2 deletions in 3 files</sub><br />
 
+* **[Callum Moffat](https://github.com/moffatman)** &mdash; Add "Frame Request Pending" lag to collected metrics<br />
+    <sub>[#135279](https://github.com/flutter/flutter/pull/135279) opened on on September 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135279) 117 additions and 6 deletions in 3 files</sub><br />
+
