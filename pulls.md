@@ -74,3 +74,6 @@
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Add "Frame Request Pending" lag to collected metrics<br />
     <sub>[#135279](https://github.com/flutter/flutter/pull/135279) opened on on September 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135279) 117 additions and 6 deletions in 3 files</sub><br />
 
+* **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; [documentation] remove repeated "For example," in RenderSliverEdgeInsetsPadding documentation<br />
+    <sub>[#135297](https://github.com/flutter/flutter/pull/135297) opened on on September 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135297) 1 addition and 1 deletion in 1 file</sub><br />
+
