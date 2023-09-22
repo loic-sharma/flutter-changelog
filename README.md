@@ -845,7 +845,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Apply the entity transformation when rendering FramebufferBlendContents<br />
     <sub>[#46106](https://github.com/flutter/engine/pull/46106) merged on September 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/46106) over 4 hours, 19 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Clang tidy-ify `DlColor` and friends.<br />
     <sub>[#46122](https://github.com/flutter/engine/pull/46122) merged on September 20, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/46122) over 41 minutes, 196 additions and 163 deletions in 36 files</sub><br />
@@ -969,7 +969,7 @@
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Re-enable HardwareBuffer backed Platform Views on Android >= 29<br />
     <sub>[#46071](https://github.com/flutter/engine/pull/46071) merged on September 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/46071) over 2 days, 5 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Add package:tar to DEPS<br />
     <sub>[#46140](https://github.com/flutter/engine/pull/46140) merged on September 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/46140) over 35 minutes, 5 additions and 1 deletion in 1 file</sub><br />
@@ -1678,7 +1678,7 @@
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; [camera_android] Removes usage of `_ambiguate` method in example<br />
     <sub>[#4924](https://github.com/flutter/packages/pull/4924) merged on September 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4924) over 4 days, 8 additions and 10 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Flutter (stable) from 367f9ea16bfa to 12fccda59847 (2 revisions)<br />
     <sub>[#4976](https://github.com/flutter/packages/pull/4976) merged on September 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4976) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
