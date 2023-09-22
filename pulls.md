@@ -77,3 +77,6 @@
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; [documentation] remove repeated "For example," in RenderSliverEdgeInsetsPadding documentation<br />
     <sub>[#135297](https://github.com/flutter/flutter/pull/135297) opened on on September 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135297) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; leak track tab_scaffold_test.dart<br />
+    <sub>[#135309](https://github.com/flutter/flutter/pull/135309) opened on on September 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135309) 53 additions and 28 deletions in 1 file</sub><br />
+
