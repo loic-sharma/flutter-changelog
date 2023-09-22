@@ -152,7 +152,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry Linux web tests 1 time on roll presubmit
     <sub>[#135073](https://github.com/flutter/flutter/pull/135073) merged on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135073) over 48 minutes, 44 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [godofredoc](https://github.com/godofredoc)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Cover more tests with leak tracking.
     <sub>[#134805](https://github.com/flutter/flutter/pull/134805) merged on September 18, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/134805) over 3 days, 215 additions and 146 deletions in 10 files</sub>
@@ -344,7 +344,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in ListWheelScrollView
     <sub>[#134732](https://github.com/flutter/flutter/pull/134732) merged on September 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/134732) over 13 hours, 100 additions and 24 deletions in 2 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Polina Cherkasova](https://github.com/polina-c)</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #3
     <sub>[#134576](https://github.com/flutter/flutter/pull/134576) merged on September 14, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/134576) over 1 day, 333 additions and 273 deletions in 21 files</sub>
@@ -811,7 +811,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Apply the entity transformation when rendering FramebufferBlendContents
     <sub>[#46106](https://github.com/flutter/engine/pull/46106) merged on September 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/46106) over 4 hours, 19 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Clang tidy-ify `DlColor` and friends.
     <sub>[#46122](https://github.com/flutter/engine/pull/46122) merged on September 20, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/46122) over 41 minutes, 196 additions and 163 deletions in 36 files</sub>
@@ -927,7 +927,7 @@
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Re-enable HardwareBuffer backed Platform Views on Android >= 29
     <sub>[#46071](https://github.com/flutter/engine/pull/46071) merged on September 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/46071) over 2 days, 5 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Tighten up ImageReaderPlatformViewRenderTarget code
     <sub>[#45889](https://github.com/flutter/engine/pull/45889) merged on September 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/45889) over 3 days, 28 additions and 6 deletions in 3 files</sub>
@@ -967,7 +967,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Remove linux fuchsia from recipes cq.
     <sub>[#46153](https://github.com/flutter/engine/pull/46153) merged on September 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46153) over 35 minutes, 0 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Ricardo Amador](https://github.com/ricardoamador)</sub>
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [yusuf-goog](https://github.com/yusuf-goog)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Use magic envs to pass commit and temp folder.
     <sub>[#46015](https://github.com/flutter/engine/pull/46015) merged on September 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/46015) over 1 day, 25 additions and 8 deletions in 2 files</sub>
