@@ -86,3 +86,6 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Leak track cupertino widgets<br />
     <sub>[#135353](https://github.com/flutter/flutter/pull/135353) opened on on September 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135353) 63 additions and 55 deletions in 2 files</sub><br />
 
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test cupertino date picker<br />
+    <sub>[#135355](https://github.com/flutter/flutter/pull/135355) opened on on September 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135355) 83 additions and 64 deletions in 3 files</sub><br />
+
