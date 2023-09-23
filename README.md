@@ -206,7 +206,7 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade AGP version in tracing_tests<br />
     <sub>[#134671](https://github.com/flutter/flutter/pull/134671) merged on September 20, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/134671) over 1 week, 3 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Camille Simon](https://github.com/camsim99)</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry Linux web tests 1 time on roll presubmit<br />
     <sub>[#135073](https://github.com/flutter/flutter/pull/135073) merged on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135073) over 48 minutes, 44 additions and 0 deletions in 1 file</sub><br />
