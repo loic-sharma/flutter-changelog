@@ -92,3 +92,6 @@
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Horizontal Stepper Overflows Title<br />
     <sub>[#135357](https://github.com/flutter/flutter/pull/135357) opened on on September 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135357) 87 additions and 11 deletions in 2 files</sub><br />
 
+* **[Casey Rogers](https://github.com/caseycrogers)** &mdash; Add `progress`, `sizeToprogress` and `progressToSize` to `DraggableScrollableSheet`<br />
+    <sub>[#135366](https://github.com/flutter/flutter/pull/135366) opened on on September 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135366) 99 additions and 7 deletions in 2 files</sub><br />
+
