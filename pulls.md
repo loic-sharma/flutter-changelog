@@ -77,3 +77,6 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; leak track tab_scaffold_test.dart<br />
     <sub>[#135309](https://github.com/flutter/flutter/pull/135309) opened on on September 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135309) 53 additions and 28 deletions in 1 file</sub><br />
 
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Chore/gradle remove redundant apply<br />
+    <sub>[#135348](https://github.com/flutter/flutter/pull/135348) opened on on September 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135348) 1 addition and 15 deletions in 4 files</sub><br />
+
