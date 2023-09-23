@@ -237,7 +237,7 @@
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in _MatchesReferenceImage<br />
-    <sub>[#135150](https://github.com/flutter/flutter/pull/135150) merged on September 22, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/135150) over 2 days, 161 additions and 35 deletions in 3 files</sub><br />
+    <sub>[#135150](https://github.com/flutter/flutter/pull/135150) merged on September 22, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/135150) over 2 days, 161 additions and 35 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
