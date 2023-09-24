@@ -301,7 +301,7 @@
     <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_android flutter_gallery__start_up_delayed to be flaky<br />
-    <sub>[#134632](https://github.com/flutter/flutter/pull/134632) merged on September 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134632) over 1 week, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>[#134632](https://github.com/flutter/flutter/pull/134632) merged on September 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134632) over 1 week, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_android opacity_peephole_grid_of_alpha_savelayers_perf__e2e_summary to be flaky<br />
