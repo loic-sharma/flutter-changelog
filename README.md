@@ -297,7 +297,7 @@
     <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_android platform_channels_benchmarks to be flaky<br />
-    <sub>[#135106](https://github.com/flutter/flutter/pull/135106) merged on September 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135106) over 3 days, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>[#135106](https://github.com/flutter/flutter/pull/135106) merged on September 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135106) over 3 days, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_android flutter_gallery__start_up_delayed to be flaky<br />
@@ -305,7 +305,7 @@
     <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_android opacity_peephole_grid_of_alpha_savelayers_perf__e2e_summary to be flaky<br />
-    <sub>[#135119](https://github.com/flutter/flutter/pull/135119) merged on September 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135119) over 3 days, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>[#135119](https://github.com/flutter/flutter/pull/135119) merged on September 23, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135119) over 3 days, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Reland Resolve breaking change of adding a method to ChangeNotifier.<br />
