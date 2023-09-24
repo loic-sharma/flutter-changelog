@@ -98,3 +98,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #12.<br />
     <sub>[#135385](https://github.com/flutter/flutter/pull/135385) opened on on September 24, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135385) 420 additions and 246 deletions in 9 files</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix failing test at master.<br />
+    <sub>[#135394](https://github.com/flutter/flutter/pull/135394) opened on on September 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135394) 3 additions and 0 deletions in 1 file</sub><br />
+
