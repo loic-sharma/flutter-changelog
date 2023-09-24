@@ -146,7 +146,7 @@
 
 * **[Vasiliy Ditsyak](https://github.com/vasilich6107)** &mdash; Access to fragment in router state on page refresh<br />
     <sub>[#131123](https://github.com/flutter/flutter/pull/131123) merged on September 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/131123) over 1 month, 32 additions and 3 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS,macOS] Clean up obsolete PlatformView warning<br />
     <sub>[#135040](https://github.com/flutter/flutter/pull/135040) merged on September 23, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/135040) over 3 days, 5 additions and 5 deletions in 1 file</sub><br />
@@ -202,7 +202,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry Linux web tests 1 time on roll presubmit<br />
     <sub>[#135073](https://github.com/flutter/flutter/pull/135073) merged on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135073) over 48 minutes, 44 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [godofredoc](https://github.com/godofredoc)</sub><br />
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Cover more tests with leak tracking.<br />
     <sub>[#134805](https://github.com/flutter/flutter/pull/134805) merged on September 18, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/134805) over 3 days, 215 additions and 146 deletions in 10 files</sub><br />
@@ -374,7 +374,7 @@
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] provide serviceWorkerVersion to the getNewServiceWorker function<br />
     <sub>[#131240](https://github.com/flutter/flutter/pull/131240) merged on September 14, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/131240) over 1 month, 182 additions and 2 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Yegor](https://github.com/yjbanov)</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; Fix null check crash by ReorderableList<br />
     <sub>[#132153](https://github.com/flutter/flutter/pull/132153) merged on September 13, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/132153) over 1 month, 64 additions and 0 deletions in 2 files</sub><br />
@@ -789,7 +789,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "_SearchBarState should dispose FocusNode, if it created it."<br />
     <sub>[#134072](https://github.com/flutter/flutter/pull/134072) merged on September 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/134072) over 2 minutes, 1 addition and 5 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
 
 </details>
 
@@ -1078,7 +1078,7 @@
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Re-enable HardwareBuffer backed Platform Views on Android >= 29<br />
     <sub>[#46071](https://github.com/flutter/engine/pull/46071) merged on September 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/46071) over 2 days, 5 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Apply the right tag for linux fuchsia cipd packages.<br />
     <sub>[#46123](https://github.com/flutter/engine/pull/46123) merged on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/46123) over 32 minutes, 2 additions and 2 deletions in 1 file</sub><br />
@@ -1743,7 +1743,7 @@
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; [camera_android] Removes usage of `_ambiguate` method in example<br />
     <sub>[#4924](https://github.com/flutter/packages/pull/4924) merged on September 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4924) over 4 days, 8 additions and 10 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Flutter (stable) from 367f9ea16bfa to 12fccda59847 (2 revisions)<br />
     <sub>[#4976](https://github.com/flutter/packages/pull/4976) merged on September 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4976) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
