@@ -104,3 +104,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; ViewportOffset should dispatch creation in constructor.<br />
     <sub>[#135420](https://github.com/flutter/flutter/pull/135420) opened on on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135420) 54 additions and 15 deletions in 2 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; DraggableScrollableController should dispatch creation in constructor.<br />
+    <sub>[#135423](https://github.com/flutter/flutter/pull/135423) opened on on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135423) 19 additions and 0 deletions in 3 files</sub><br />
+
