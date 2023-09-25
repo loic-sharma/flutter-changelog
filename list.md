@@ -12,7 +12,7 @@
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a basic golden test for `CupertinoTextSelectionToolbar`
     <sub>[#135267](https://github.com/flutter/flutter/pull/135267) merged on September 25, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/135267) over 3 days, 52 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Tomasz Gucio](https://github.com/tgucio), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Tomasz Gucio](https://github.com/tgucio)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Revert "Marks Linux_samsung_a02 new_gallery__transition_perf to be unflaky"
     <sub>[#135399](https://github.com/flutter/flutter/pull/135399) merged on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135399) over 16 minutes, 1 addition and 0 deletions in 1 file</sub>
