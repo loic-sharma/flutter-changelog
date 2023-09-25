@@ -104,9 +104,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; DraggableScrollableController should dispatch creation in constructor.<br />
     <sub>[#135423](https://github.com/flutter/flutter/pull/135423) opened on on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135423) 19 additions and 0 deletions in 3 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Wait for CONFIGURATION_BUILD_DIR to update when debugging with Xcode<br />
-    <sub>[#135444](https://github.com/flutter/flutter/pull/135444) opened on on September 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135444) 214 additions and 39 deletions in 7 files</sub><br />
-
 * **[Hassan](https://github.com/htoor3)** &mdash; [web] Fix `page up` `page down` `home` `end` shortcut behavior on web<br />
     <sub>[#135454](https://github.com/flutter/flutter/pull/135454) opened on on September 25, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135454) 544 additions and 10 deletions in 2 files</sub><br />
 
