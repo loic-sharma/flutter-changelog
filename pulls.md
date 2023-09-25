@@ -113,3 +113,6 @@
 * **[Ryoichi Izumita](https://github.com/rizumita)** &mdash; Spell check<br />
     <sub>[#135460](https://github.com/flutter/flutter/pull/135460) opened on on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135460) 90 additions and 23 deletions in 2 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] remove VmService screenshot for native devices.<br />
+    <sub>[#135462](https://github.com/flutter/flutter/pull/135462) opened on on September 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135462) 5 additions and 5 deletions in 1 file</sub><br />
+
