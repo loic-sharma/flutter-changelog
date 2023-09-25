@@ -108,5 +108,8 @@
     <sub>[#135423](https://github.com/flutter/flutter/pull/135423) opened on on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135423) 19 additions and 0 deletions in 3 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Wait for CONFIGURATION_BUILD_DIR to update when debugging with Xcode<br />
-    <sub>[#135444](https://github.com/flutter/flutter/pull/135444) opened on on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135444) 211 additions and 39 deletions in 7 files</sub><br />
+    <sub>[#135444](https://github.com/flutter/flutter/pull/135444) opened on on September 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135444) 211 additions and 39 deletions in 7 files</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS,iOS] CocoaPods recommended version: 1.13.0<br />
+    <sub>[#135447](https://github.com/flutter/flutter/pull/135447) opened on on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135447) 17 additions and 17 deletions in 4 files</sub><br />
 
