@@ -4,11 +4,15 @@
 
 ### September 23, 2023 to September 29, 2023
 
-2 commits.
+3 commits.
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix failing test at master.
     <sub>[#135394](https://github.com/flutter/flutter/pull/135394) merged on September 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135394) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a basic golden test for `CupertinoTextSelectionToolbar`
+    <sub>[#135267](https://github.com/flutter/flutter/pull/135267) merged on September 25, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/135267) over 3 days, 52 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Tomasz Gucio](https://github.com/tgucio)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Revert "Marks Linux_samsung_a02 new_gallery__transition_perf to be unflaky"
     <sub>[#135399](https://github.com/flutter/flutter/pull/135399) merged on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135399) over 16 minutes, 1 addition and 0 deletions in 1 file</sub>
