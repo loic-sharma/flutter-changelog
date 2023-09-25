@@ -616,7 +616,7 @@
 
 ### September 23, 2023 to September 29, 2023
 
-5 commits.
+6 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; In run_tests.py, separate Dart package unit tests from other tests<br />
     <sub>[#46232](https://github.com/flutter/engine/pull/46232) merged on September 25, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/46232) over 1 day, 186 additions and 306 deletions in 14 files</sub><br />
@@ -625,6 +625,10 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add description to assert in `history.dart`<br />
     <sub>[#46072](https://github.com/flutter/engine/pull/46072) merged on September 25, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/46072) over 5 days, 6 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Switch goma to reclient for Linux clang_tidy targets"<br />
+    <sub>[#46267](https://github.com/flutter/engine/pull/46267) merged on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/46267) over 34 seconds, 4 additions and 12 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Switch goma to reclient for Linux clang_tidy targets<br />
     <sub>[#45898](https://github.com/flutter/engine/pull/45898) merged on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45898) over 1 week, 12 additions and 4 deletions in 2 files</sub><br />
@@ -711,7 +715,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Apply the entity transformation when rendering FramebufferBlendContents<br />
     <sub>[#46106](https://github.com/flutter/engine/pull/46106) merged on September 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/46106) over 4 hours, 19 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Clang tidy-ify `DlColor` and friends.<br />
     <sub>[#46122](https://github.com/flutter/engine/pull/46122) merged on September 20, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/46122) over 41 minutes, 196 additions and 163 deletions in 36 files</sub><br />
@@ -851,7 +855,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Remove linux fuchsia from recipes cq.<br />
     <sub>[#46153](https://github.com/flutter/engine/pull/46153) merged on September 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46153) over 35 minutes, 0 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Add more missing Skia #includes<br />
     <sub>[#46034](https://github.com/flutter/engine/pull/46034) merged on September 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/46034) over 1 hour, 2 additions and 0 deletions in 2 files</sub><br />
@@ -895,7 +899,7 @@
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Re-enable HardwareBuffer backed Platform Views on Android >= 29<br />
     <sub>[#46071](https://github.com/flutter/engine/pull/46071) merged on September 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/46071) over 2 days, 5 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Apply the right tag for linux fuchsia cipd packages.<br />
     <sub>[#46123](https://github.com/flutter/engine/pull/46123) merged on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/46123) over 32 minutes, 2 additions and 2 deletions in 1 file</sub><br />

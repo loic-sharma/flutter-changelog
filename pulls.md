@@ -65,9 +65,6 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Cover some cupertino tests with leak tracking<br />
     <sub>[#135230](https://github.com/flutter/flutter/pull/135230) opened on on September 21, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/135230) 263 additions and 200 deletions in 8 files</sub><br />
 
-* **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; implement visitChildren method on _RenderLayoutBuilder<br />
-    <sub>[#135253](https://github.com/flutter/flutter/pull/135253) opened on on September 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135253) 30 additions and 0 deletions in 2 files</sub><br />
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try flutter/engine#46130<br />
     <sub>[#135254](https://github.com/flutter/flutter/pull/135254) opened on on September 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135254) 3 additions and 2 deletions in 3 files</sub><br />
 
@@ -109,4 +106,10 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Wait for CONFIGURATION_BUILD_DIR to update when debugging with Xcode<br />
     <sub>[#135444](https://github.com/flutter/flutter/pull/135444) opened on on September 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135444) 214 additions and 39 deletions in 7 files</sub><br />
+
+* **[Hassan](https://github.com/htoor3)** &mdash; [web] Fix `page up` `page down` `home` `end` shortcut behavior on web<br />
+    <sub>[#135454](https://github.com/flutter/flutter/pull/135454) opened on on September 25, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135454) 544 additions and 10 deletions in 2 files</sub><br />
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#135455](https://github.com/flutter/flutter/pull/135455) opened on on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135455) 2 additions and 2 deletions in 1 file</sub><br />
 
