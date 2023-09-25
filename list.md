@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### September 23, 2023 to September 29, 2023
+
+1 commits.
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix failing test at master.
+    <sub>[#135394](https://github.com/flutter/flutter/pull/135394) merged on September 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135394) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
 ### September 16, 2023 to September 22, 2023
 
-77 commits.
+<details>
+<summary>77 commits...</summary>
 
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Size CupertinoTextSelectionToolbar to children
     <sub>[#133386](https://github.com/flutter/flutter/pull/133386) merged on September 22, 2023 &mdash; **Medium:** [45 comments](https://github.com/flutter/flutter/pull/133386) over 3 weeks, 253 additions and 215 deletions in 4 files</sub>
@@ -316,6 +325,8 @@
     <sub>[#134978](https://github.com/flutter/flutter/pull/134978) merged on September 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134978) over 32 seconds, 34 additions and 30 deletions in 19 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
+</details>
+
 ### September 9, 2023 to September 15, 2023
 
 <details>
@@ -587,9 +598,18 @@
 
 ## flutter/engine
 
+### September 23, 2023 to September 29, 2023
+
+1 commits.
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; In run_tests.py, separate Dart package unit tests from other tests
+    <sub>[#46232](https://github.com/flutter/engine/pull/46232) merged on September 25, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/46232) over 1 day, 186 additions and 306 deletions in 14 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 ### September 16, 2023 to September 22, 2023
 
-73 commits.
+<details>
+<summary>73 commits...</summary>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [ios] use python script to generate extension safe frameworks and code sign them
     <sub>[#45781](https://github.com/flutter/engine/pull/45781) merged on September 18, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/45781) over 4 days, 53 additions and 65 deletions in 2 files</sub>
@@ -884,6 +904,8 @@
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "[Impeller] fail if software backend is chosen and Impeller is enabled on iOS"
     <sub>[#46217](https://github.com/flutter/engine/pull/46217) merged on September 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/46217) over 3 hours, 71 additions and 208 deletions in 4 files</sub>
     <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+</details>
 
 ### September 9, 2023 to September 15, 2023
 
@@ -1239,7 +1261,7 @@
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; [camera_android] Removes usage of `_ambiguate` method in example
     <sub>[#4924](https://github.com/flutter/packages/pull/4924) merged on September 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4924) over 4 days, 8 additions and 10 deletions in 3 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Flutter (stable) from 367f9ea16bfa to 12fccda59847 (2 revisions)
     <sub>[#4976](https://github.com/flutter/packages/pull/4976) merged on September 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4976) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
