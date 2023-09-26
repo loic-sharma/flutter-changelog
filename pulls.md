@@ -116,6 +116,3 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] remove VmService screenshot for native devices.<br />
     <sub>[#135462](https://github.com/flutter/flutter/pull/135462) opened on on September 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135462) 9 additions and 133 deletions in 5 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] fix tests with no native assets running native asset build<br />
-    <sub>[#135474](https://github.com/flutter/flutter/pull/135474) opened on on September 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135474) 48 additions and 28 deletions in 5 files</sub><br />
-
