@@ -95,9 +95,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #12.<br />
     <sub>[#135385](https://github.com/flutter/flutter/pull/135385) opened on on September 24, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135385) 447 additions and 273 deletions in 9 files</sub><br />
 
-* **[bodqhrohro](https://github.com/bodqhrohro)** &mdash; [linux] Use $CC/$CXX environment variables (#104989)<br />
-    <sub>[#135416](https://github.com/flutter/flutter/pull/135416) opened on on September 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135416) 6 additions and 4 deletions in 1 file</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; ViewportOffset should dispatch creation in constructor.<br />
     <sub>[#135420](https://github.com/flutter/flutter/pull/135420) opened on on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135420) 54 additions and 15 deletions in 2 files</sub><br />
 
