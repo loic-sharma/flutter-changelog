@@ -32,7 +32,7 @@
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a basic golden test for `CupertinoTextSelectionToolbar`<br />
     <sub>[#135267](https://github.com/flutter/flutter/pull/135267) merged on September 25, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/135267) over 3 days, 52 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Tomasz Gucio](https://github.com/tgucio)</sub><br />
+    <sub>Reviewed by: [Tomasz Gucio](https://github.com/tgucio), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Marks Linux_pixel_7pro hello_world_impeller to be unflaky"<br />
     <sub>[#135388](https://github.com/flutter/flutter/pull/135388) merged on September 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135388) over 21 hours, 1 addition and 0 deletions in 1 file</sub><br />
@@ -243,7 +243,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry Linux web tests 1 time on roll presubmit<br />
     <sub>[#135073](https://github.com/flutter/flutter/pull/135073) merged on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135073) over 48 minutes, 44 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [godofredoc](https://github.com/godofredoc)</sub><br />
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Cover more tests with leak tracking.<br />
     <sub>[#134805](https://github.com/flutter/flutter/pull/134805) merged on September 18, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/134805) over 3 days, 215 additions and 146 deletions in 10 files</sub><br />
@@ -267,7 +267,7 @@
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#135315](https://github.com/flutter/flutter/pull/135315) merged on September 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135315) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Remove 'must be non-null' and 'must not be null' comments from non-framework libraries<br />
     <sub>[#134994](https://github.com/flutter/flutter/pull/134994) merged on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134994) over 16 hours, 7 additions and 60 deletions in 12 files</sub><br />
@@ -461,7 +461,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in ListWheelScrollView<br />
     <sub>[#134732](https://github.com/flutter/flutter/pull/134732) merged on September 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/134732) over 13 hours, 100 additions and 24 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Kate Lovett](https://github.com/Piinks)</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #3<br />
     <sub>[#134576](https://github.com/flutter/flutter/pull/134576) merged on September 14, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/134576) over 1 day, 333 additions and 273 deletions in 21 files</sub><br />
