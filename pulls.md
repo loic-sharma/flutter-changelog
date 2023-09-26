@@ -44,12 +44,6 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Create template for umbrella issues<br />
     <sub>[#134235](https://github.com/flutter/flutter/pull/134235) opened on on September 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134235) 25 additions and 0 deletions in 1 file</sub><br />
 
-* **[victorgalo](https://github.com/victorgalo)** &mdash; Skip test temporarily until headingLevel is added in engine (issue 41…<br />
-    <sub>[#135077](https://github.com/flutter/flutter/pull/135077) opened on on September 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135077) 7 additions and 2 deletions in 1 file</sub><br />
-
-* **[林洵锋](https://github.com/LinXunFeng)** &mdash; Fix the character field of RawKeyEvent is always null on iOS<br />
-    <sub>[#135100](https://github.com/flutter/flutter/pull/135100) opened on on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135100) 6 additions and 2 deletions in 2 files</sub><br />
-
 * **[xiao xiao](https://github.com/xiaoxiaowesley)** &mdash; Add switchTheme property in CupertinoThemeData <br />
     <sub>[#135120](https://github.com/flutter/flutter/pull/135120) opened on on September 20, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/135120) 422 additions and 9 deletions in 8 files</sub><br />
 
@@ -67,9 +61,6 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try flutter/engine#46130<br />
     <sub>[#135254](https://github.com/flutter/flutter/pull/135254) opened on on September 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135254) 3 additions and 2 deletions in 3 files</sub><br />
-
-* **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; [documentation] remove repeated "For example," in RenderSliverEdgeInsetsPadding documentation<br />
-    <sub>[#135297](https://github.com/flutter/flutter/pull/135297) opened on on September 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135297) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; leak track tab_scaffold_test.dart<br />
     <sub>[#135309](https://github.com/flutter/flutter/pull/135309) opened on on September 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135309) 53 additions and 28 deletions in 1 file</sub><br />
@@ -89,15 +80,6 @@
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Fix Horizontal Stepper Overflows Title issue<br />
     <sub>[#135357](https://github.com/flutter/flutter/pull/135357) opened on on September 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135357) 87 additions and 11 deletions in 2 files</sub><br />
 
-* **[Casey Rogers](https://github.com/caseycrogers)** &mdash; Add `progress`, `sizeToprogress` and `progressToSize` to `DraggableScrollableSheet`<br />
-    <sub>[#135366](https://github.com/flutter/flutter/pull/135366) opened on on September 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135366) 99 additions and 7 deletions in 2 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #12.<br />
-    <sub>[#135385](https://github.com/flutter/flutter/pull/135385) opened on on September 24, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135385) 447 additions and 273 deletions in 9 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; ViewportOffset should dispatch creation in constructor.<br />
-    <sub>[#135420](https://github.com/flutter/flutter/pull/135420) opened on on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135420) 54 additions and 15 deletions in 2 files</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; DraggableScrollableController should dispatch creation in constructor.<br />
     <sub>[#135423](https://github.com/flutter/flutter/pull/135423) opened on on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135423) 19 additions and 0 deletions in 3 files</sub><br />
 
@@ -106,9 +88,6 @@
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#135455](https://github.com/flutter/flutter/pull/135455) opened on on September 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135455) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[Ryoichi Izumita](https://github.com/rizumita)** &mdash; Spell check<br />
-    <sub>[#135460](https://github.com/flutter/flutter/pull/135460) opened on on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135460) 90 additions and 23 deletions in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] remove VmService screenshot for native devices.<br />
     <sub>[#135462](https://github.com/flutter/flutter/pull/135462) opened on on September 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135462) 9 additions and 133 deletions in 5 files</sub><br />
