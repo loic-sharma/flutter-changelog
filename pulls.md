@@ -92,3 +92,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] remove VmService screenshot for native devices.<br />
     <sub>[#135462](https://github.com/flutter/flutter/pull/135462) opened on on September 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135462) 9 additions and 133 deletions in 5 files</sub><br />
 
+* **[SharbelOkzan](https://github.com/SharbelOkzan)** &mdash; Introduce new Form validation method <br />
+    <sub>[#135578](https://github.com/flutter/flutter/pull/135578) opened on on September 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135578) 164 additions and 3 deletions in 2 files</sub><br />
+
