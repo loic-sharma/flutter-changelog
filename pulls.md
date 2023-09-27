@@ -95,3 +95,6 @@
 * **[SharbelOkzan](https://github.com/SharbelOkzan)** &mdash; Introduce new Form validation method <br />
     <sub>[#135578](https://github.com/flutter/flutter/pull/135578) opened on on September 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135578) 163 additions and 3 deletions in 2 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TabBarView.viewportFraction change is ignored<br />
+    <sub>[#135590](https://github.com/flutter/flutter/pull/135590) opened on on September 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135590) 56 additions and 0 deletions in 2 files</sub><br />
+
