@@ -51,7 +51,7 @@
     <sub>[#135129](https://github.com/flutter/flutter/pull/135129) opened on on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135129) 77 additions and 11 deletions in 2 files</sub><br />
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Migrate the "Non-speed related performance issues" issue template to Github forms<br />
-    <sub>[#135130](https://github.com/flutter/flutter/pull/135130) opened on on September 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135130) 170 additions and 67 deletions in 2 files</sub><br />
+    <sub>[#135130](https://github.com/flutter/flutter/pull/135130) opened on on September 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/135130) 114 additions and 67 deletions in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Update generate_gradle_lockfiles script to represent newer templates, and run it on dev/<br />
     <sub>[#135175](https://github.com/flutter/flutter/pull/135175) opened on on September 20, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/135175) 1149 additions and 701 deletions in 48 files</sub><br />
