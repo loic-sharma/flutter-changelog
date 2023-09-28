@@ -80,9 +80,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; DraggableScrollableController should dispatch creation in constructor.<br />
     <sub>[#135423](https://github.com/flutter/flutter/pull/135423) opened on on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135423) 19 additions and 0 deletions in 3 files</sub><br />
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#135455](https://github.com/flutter/flutter/pull/135455) opened on on September 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135455) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[SharbelOkzan](https://github.com/SharbelOkzan)** &mdash; Introduce new Form validation method <br />
     <sub>[#135578](https://github.com/flutter/flutter/pull/135578) opened on on September 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135578) 163 additions and 3 deletions in 2 files</sub><br />
 
