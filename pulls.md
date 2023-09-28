@@ -89,3 +89,6 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Use Layer.toImage for CanvasKit golden tests<br />
     <sub>[#135711](https://github.com/flutter/flutter/pull/135711) opened on on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135711) 171 additions and 54 deletions in 5 files</sub><br />
 
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add support for `setup` steps in flutter customer tests<br />
+    <sub>[#135726](https://github.com/flutter/flutter/pull/135726) opened on on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135726) 126 additions and 46 deletions in 3 files</sub><br />
+
