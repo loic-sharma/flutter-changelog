@@ -75,7 +75,7 @@
     <sub>[#135355](https://github.com/flutter/flutter/pull/135355) opened on on September 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135355) 83 additions and 64 deletions in 3 files</sub><br />
 
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Fix Horizontal Stepper Overflows Title issue<br />
-    <sub>[#135357](https://github.com/flutter/flutter/pull/135357) opened on on September 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135357) 87 additions and 11 deletions in 2 files</sub><br />
+    <sub>[#135357](https://github.com/flutter/flutter/pull/135357) opened on on September 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135357) 87 additions and 11 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; DraggableScrollableController should dispatch creation in constructor.<br />
     <sub>[#135423](https://github.com/flutter/flutter/pull/135423) opened on on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135423) 19 additions and 0 deletions in 3 files</sub><br />
