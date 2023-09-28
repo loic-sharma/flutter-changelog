@@ -92,3 +92,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Expose onAttach and onDetach in ScrollController subclasses<br />
     <sub>[#135721](https://github.com/flutter/flutter/pull/135721) opened on on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135721) 111 additions and 0 deletions in 6 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update the wasm bootstrap to allow access to the emscripten wrapper to skwasm.<br />
+    <sub>[#135723](https://github.com/flutter/flutter/pull/135723) opened on on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135723) 3 additions and 2 deletions in 2 files</sub><br />
+
