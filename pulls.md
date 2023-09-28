@@ -95,3 +95,6 @@
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Adding test file to validate revert<br />
     <sub>[#135686](https://github.com/flutter/flutter/pull/135686) opened on on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135686) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Update localizations.<br />
+    <sub>[#135691](https://github.com/flutter/flutter/pull/135691) opened on on September 28, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/135691) 1201 additions and 968 deletions in 220 files</sub><br />
+
