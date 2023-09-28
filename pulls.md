@@ -83,11 +83,11 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#135455](https://github.com/flutter/flutter/pull/135455) opened on on September 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135455) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Yegor](https://github.com/yjbanov)** &mdash; [tool] fallback to sigkill when closing Chromium<br />
+    <sub>[#135521](https://github.com/flutter/flutter/pull/135521) opened on on September 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135521) 208 additions and 22 deletions in 6 files</sub><br />
+
 * **[SharbelOkzan](https://github.com/SharbelOkzan)** &mdash; Introduce new Form validation method <br />
     <sub>[#135578](https://github.com/flutter/flutter/pull/135578) opened on on September 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135578) 163 additions and 3 deletions in 2 files</sub><br />
-
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Flutter preview device<br />
-    <sub>[#135639](https://github.com/flutter/flutter/pull/135639) opened on on September 28, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/135639) 1430 additions and 651 deletions in 24 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix flutter test on folder containing no tests<br />
     <sub>[#135653](https://github.com/flutter/flutter/pull/135653) opened on on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135653) 25 additions and 5 deletions in 3 files</sub><br />
