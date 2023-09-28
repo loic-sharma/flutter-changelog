@@ -89,3 +89,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Flutter preview device<br />
     <sub>[#135639](https://github.com/flutter/flutter/pull/135639) opened on on September 28, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/135639) 1430 additions and 651 deletions in 24 files</sub><br />
 
+* **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; Implement `iconType` property for `NavigationRail`<br />
+    <sub>[#135658](https://github.com/flutter/flutter/pull/135658) opened on on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135658) 151 additions and 23 deletions in 2 files</sub><br />
+
