@@ -81,7 +81,7 @@
     <sub>[#135423](https://github.com/flutter/flutter/pull/135423) opened on on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135423) 19 additions and 0 deletions in 3 files</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#135455](https://github.com/flutter/flutter/pull/135455) opened on on September 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135455) 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#135455](https://github.com/flutter/flutter/pull/135455) opened on on September 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135455) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [tool] fallback to sigkill when closing Chromium<br />
     <sub>[#135521](https://github.com/flutter/flutter/pull/135521) opened on on September 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135521) 208 additions and 22 deletions in 6 files</sub><br />
