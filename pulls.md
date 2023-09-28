@@ -86,3 +86,6 @@
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; Implement `iconType` property for `NavigationRail`<br />
     <sub>[#135658](https://github.com/flutter/flutter/pull/135658) opened on on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135658) 151 additions and 23 deletions in 2 files</sub><br />
 
+* **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Provide parameter to Icon and IconThemeData for they to consider the context's text scaler<br />
+    <sub>[#135708](https://github.com/flutter/flutter/pull/135708) opened on on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135708) 165 additions and 3 deletions in 4 files</sub><br />
+
