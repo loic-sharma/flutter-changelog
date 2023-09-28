@@ -92,3 +92,6 @@
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; Implement `iconType` property for `NavigationRail`<br />
     <sub>[#135658](https://github.com/flutter/flutter/pull/135658) opened on on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135658) 151 additions and 23 deletions in 2 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `RangeSlider` throws an exception in a `ListView`<br />
+    <sub>[#135667](https://github.com/flutter/flutter/pull/135667) opened on on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135667) 33 additions and 3 deletions in 2 files</sub><br />
+
