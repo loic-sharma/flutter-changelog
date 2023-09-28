@@ -84,13 +84,10 @@
     <sub>[#135455](https://github.com/flutter/flutter/pull/135455) opened on on September 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135455) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [tool] fallback to sigkill when closing Chromium<br />
-    <sub>[#135521](https://github.com/flutter/flutter/pull/135521) opened on on September 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135521) 208 additions and 22 deletions in 6 files</sub><br />
+    <sub>[#135521](https://github.com/flutter/flutter/pull/135521) opened on on September 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135521) 212 additions and 26 deletions in 7 files</sub><br />
 
 * **[SharbelOkzan](https://github.com/SharbelOkzan)** &mdash; Introduce new Form validation method <br />
     <sub>[#135578](https://github.com/flutter/flutter/pull/135578) opened on on September 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135578) 163 additions and 3 deletions in 2 files</sub><br />
-
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix flutter test on folder containing no tests<br />
-    <sub>[#135653](https://github.com/flutter/flutter/pull/135653) opened on on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135653) 25 additions and 5 deletions in 3 files</sub><br />
 
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; Implement `iconType` property for `NavigationRail`<br />
     <sub>[#135658](https://github.com/flutter/flutter/pull/135658) opened on on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135658) 151 additions and 23 deletions in 2 files</sub><br />
