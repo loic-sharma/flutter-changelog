@@ -86,3 +86,6 @@
 * **[SharbelOkzan](https://github.com/SharbelOkzan)** &mdash; Introduce new Form validation method <br />
     <sub>[#135578](https://github.com/flutter/flutter/pull/135578) opened on on September 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135578) 163 additions and 3 deletions in 2 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Flutter preview device<br />
+    <sub>[#135639](https://github.com/flutter/flutter/pull/135639) opened on on September 28, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/135639) 1529 additions and 658 deletions in 31 files</sub><br />
+
