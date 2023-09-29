@@ -1349,7 +1349,7 @@
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Incorporate filters in subpass coverage.
-    <sub>[#45778](https://github.com/flutter/engine/pull/45778) merged on September 14, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/45778) over 23 hours, 163 additions and 14 deletions in 20 files</sub>
+    <sub>[#45778](https://github.com/flutter/engine/pull/45778) merged on September 14, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/45778) over 23 hours, 163 additions and 14 deletions in 20 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jim Graham](https://github.com/flar), [Jonah Williams](https://github.com/jonahwilliams)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot 2023-09-13 at 10 46 13 AM](https://github.com/flutter/engine/assets/919017/40a99d1c-f3d1-40d0-a62f-efdec5649664)![Screenshot 2023-09-13 at 10 48 38 AM](https://github.com/flutter/engine/assets/919017/66f85723-c7bf-4ddb-b593-9756e2bbe99b)</details></sub>
 
