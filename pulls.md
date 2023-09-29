@@ -86,3 +86,6 @@
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Update dialog tests for Material3<br />
     <sub>[#135775](https://github.com/flutter/flutter/pull/135775) opened on on September 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135775) 37 additions and 12 deletions in 1 file</sub><br />
 
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Seperate localization tests for Material2 and Material3<br />
+    <sub>[#135779](https://github.com/flutter/flutter/pull/135779) opened on on September 29, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135779) 530 additions and 45 deletions in 4 files</sub><br />
+
