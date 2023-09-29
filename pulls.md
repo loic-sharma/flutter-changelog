@@ -83,3 +83,6 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add support for `setup` steps in flutter customer tests<br />
     <sub>[#135726](https://github.com/flutter/flutter/pull/135726) opened on on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135726) 129 additions and 46 deletions in 3 files</sub><br />
 
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Update dialog tests for Material3<br />
+    <sub>[#135775](https://github.com/flutter/flutter/pull/135775) opened on on September 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135775) 37 additions and 12 deletions in 1 file</sub><br />
+
