@@ -74,12 +74,6 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test cupertino date picker<br />
     <sub>[#135355](https://github.com/flutter/flutter/pull/135355) opened on on September 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135355) 83 additions and 64 deletions in 3 files</sub><br />
 
-* **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Fix Horizontal Stepper Overflows Title issue<br />
-    <sub>[#135357](https://github.com/flutter/flutter/pull/135357) opened on on September 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135357) 87 additions and 11 deletions in 2 files</sub><br />
-
-* **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; Implement `iconType` property for `NavigationRail`<br />
-    <sub>[#135658](https://github.com/flutter/flutter/pull/135658) opened on on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135658) 151 additions and 23 deletions in 2 files</sub><br />
-
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Provide parameter to Icon and IconThemeData for they to consider the context's text scaler<br />
     <sub>[#135708](https://github.com/flutter/flutter/pull/135708) opened on on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135708) 165 additions and 3 deletions in 4 files</sub><br />
 
