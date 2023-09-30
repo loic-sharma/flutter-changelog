@@ -1635,7 +1635,7 @@
 
 ### September 23, 2023 to September 29, 2023
 
-22 commits.
+23 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Endorse macOS
     <sub>[#5021](https://github.com/flutter/packages/pull/5021) merged on September 28, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/5021) over 9 hours, 1469 additions and 31 deletions in 32 files</sub>
@@ -1672,6 +1672,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [camera_android] Set buildconfig to true for compatibility with AGP 8.0+
     <sub>[#4951](https://github.com/flutter/packages/pull/4951) merged on September 25, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4951) over 5 days, 11 additions and 4 deletions in 5 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Add a method for getting the user agent
+    <sub>[#4472](https://github.com/flutter/packages/pull/4472) merged on September 30, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/4472) over 2 months, 104 additions and 26 deletions in 11 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Remove `@throw` from iOS implementation
     <sub>[#5034](https://github.com/flutter/packages/pull/5034) merged on September 29, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/5034) over 2 hours, 106 additions and 94 deletions in 8 files</sub>
