@@ -408,7 +408,7 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade AGP version in tracing_tests
     <sub>[#134671](https://github.com/flutter/flutter/pull/134671) merged on September 20, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/134671) over 1 week, 3 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [John McCutchan](https://github.com/johnmccutchan)</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Bring native_assets ios tests out of staging
     <sub>[#135015](https://github.com/flutter/flutter/pull/135015) merged on September 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135015) over 4 hours, 0 additions and 2 deletions in 1 file</sub>
@@ -416,7 +416,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry Linux web tests 1 time on roll presubmit
     <sub>[#135073](https://github.com/flutter/flutter/pull/135073) merged on September 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135073) over 48 minutes, 44 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [godofredoc](https://github.com/godofredoc)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Cover more tests with leak tracking.
     <sub>[#134805](https://github.com/flutter/flutter/pull/134805) merged on September 18, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/134805) over 3 days, 215 additions and 146 deletions in 10 files</sub>
@@ -634,7 +634,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in ListWheelScrollView
     <sub>[#134732](https://github.com/flutter/flutter/pull/134732) merged on September 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/134732) over 13 hours, 100 additions and 24 deletions in 2 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Polina Cherkasova](https://github.com/polina-c)</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #3
     <sub>[#134576](https://github.com/flutter/flutter/pull/134576) merged on September 14, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/134576) over 1 day, 333 additions and 273 deletions in 21 files</sub>
@@ -666,7 +666,7 @@
 
 * **[Kohei Seino](https://github.com/kseino)** &mdash; ScaleGestureRecognizer: make pointerCount public
     <sub>[#127310](https://github.com/flutter/flutter/pull/127310) merged on September 12, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/127310) over 3 months, 15 additions and 9 deletions in 2 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add disposal mechanism for created Layers to TestRecordingPaintingContext.
     <sub>[#134768](https://github.com/flutter/flutter/pull/134768) merged on September 16, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/134768) over 1 day, 15 additions and 1 deletion in 1 file</sub>
@@ -805,7 +805,7 @@
 
 ### September 23, 2023 to September 29, 2023
 
-63 commits.
+64 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Android] Fix enableSuggestions set to false not honored
     <sub>[#46037](https://github.com/flutter/engine/pull/46037) merged on September 26, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/46037) over 1 week, 41 additions and 1 deletion in 2 files</sub>
@@ -857,6 +857,10 @@
     <sub>[#46264](https://github.com/flutter/engine/pull/46264) merged on September 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46264) over 2 hours, 25 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Make some Open GL errors non-fatal, check in debug mode (not unopt).
+    <sub>[#46434](https://github.com/flutter/engine/pull/46434) merged on September 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/46434) over 13 hours, 29 additions and 12 deletions in 4 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Apply the transform to PointFieldGeometry coverage
     <sub>[#46428](https://github.com/flutter/engine/pull/46428) merged on September 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46428) over 1 hour, 11 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -881,21 +885,21 @@
     <sub>[#46391](https://github.com/flutter/engine/pull/46391) merged on September 29, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/46391) over 18 hours, 133 additions and 41 deletions in 7 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Dan Field](https://github.com/dnfield)</sub>
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve logic to update swap intervals
-    <sub>[#46172](https://github.com/flutter/engine/pull/46172) merged on September 27, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/46172) over 5 days, 64 additions and 14 deletions in 6 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Destroy all per-thread command pools tied to a context before deleting the context
+    <sub>[#46286](https://github.com/flutter/engine/pull/46286) merged on September 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46286) over 1 day, 118 additions and 19 deletions in 4 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Clean up the docstring for ColorFilter.matrix
-    <sub>[#46298](https://github.com/flutter/engine/pull/46298) merged on September 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46298) over 37 minutes, 3 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Chris Yang](https://github.com/cyanglaz)** &mdash; Reland "[ios] Fix app extension not able to find assets from…
-    <sub>[#46329](https://github.com/flutter/engine/pull/46329) merged on September 28, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/46329) over 5 hours, 1177 additions and 17 deletions in 32 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removed unnecessary dynamic dispatch
+    <sub>[#46369](https://github.com/flutter/engine/pull/46369) merged on September 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/46369) over 4 hours, 7 additions and 8 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert stencil config changes.
     <sub>[#46386](https://github.com/flutter/engine/pull/46386) merged on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46386) over 37 minutes, 9 additions and 31 deletions in 3 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve logic to update swap intervals
+    <sub>[#46172](https://github.com/flutter/engine/pull/46172) merged on September 27, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/46172) over 5 days, 64 additions and 14 deletions in 6 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add initial support for 4x MSAA in OpenGLES backend.
     <sub>[#46381](https://github.com/flutter/engine/pull/46381) merged on September 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/46381) over 41 minutes, 48 additions and 13 deletions in 5 files</sub>
@@ -917,37 +921,37 @@
     <sub>[#46307](https://github.com/flutter/engine/pull/46307) merged on September 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/46307) over 15 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] FlutterTextInputPlugin should clip to bounds
-    <sub>[#46142](https://github.com/flutter/engine/pull/46142) merged on September 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/46142) over 1 week, 8 additions and 1 deletion in 3 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Remove opacity layer dcheck.
     <sub>[#46160](https://github.com/flutter/engine/pull/46160) merged on September 28, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/46160) over 1 week, 0 additions and 10 deletions in 2 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] performKeyEquivalent cleanup
-    <sub>[#45946](https://github.com/flutter/engine/pull/45946) merged on September 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/45946) over 1 week, 14 additions and 44 deletions in 2 files</sub>
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Chris Bracken](https://github.com/cbracken)</sub>
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] FlutterTextInputPlugin should clip to bounds
+    <sub>[#46142](https://github.com/flutter/engine/pull/46142) merged on September 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/46142) over 1 week, 8 additions and 1 deletion in 3 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Do not double-apply ImageFilter transform to children
-    <sub>[#46336](https://github.com/flutter/engine/pull/46336) merged on September 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/46336) over 1 hour, 16 additions and 5 deletions in 2 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Clean up the docstring for ColorFilter.matrix
+    <sub>[#46298](https://github.com/flutter/engine/pull/46298) merged on September 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46298) over 37 minutes, 3 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Redo simplify invert colors.
     <sub>[#46416](https://github.com/flutter/engine/pull/46416) merged on September 29, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/46416) over 2 hours, 133 additions and 39 deletions in 7 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub>
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Do not double-apply ImageFilter transform to children
+    <sub>[#46336](https://github.com/flutter/engine/pull/46336) merged on September 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/46336) over 1 hour, 16 additions and 5 deletions in 2 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Dont blow away coverage hint on advanced blends.
     <sub>[#46219](https://github.com/flutter/engine/pull/46219) merged on September 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/46219) over 3 days, 104 additions and 5 deletions in 4 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removed unnecessary dynamic dispatch
-    <sub>[#46369](https://github.com/flutter/engine/pull/46369) merged on September 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/46369) over 4 hours, 7 additions and 8 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] performKeyEquivalent cleanup
+    <sub>[#45946](https://github.com/flutter/engine/pull/45946) merged on September 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/45946) over 1 week, 14 additions and 44 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Bruno Leroux](https://github.com/bleroux)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Destroy all per-thread command pools tied to a context before deleting the context
-    <sub>[#46286](https://github.com/flutter/engine/pull/46286) merged on September 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46286) over 1 day, 118 additions and 19 deletions in 4 files</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Chris Yang](https://github.com/cyanglaz)** &mdash; Reland "[ios] Fix app extension not able to find assets from…
+    <sub>[#46329](https://github.com/flutter/engine/pull/46329) merged on September 28, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/46329) over 5 hours, 1177 additions and 17 deletions in 32 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Engine] use QoS classes in iOS engine.
     <sub>[#46265](https://github.com/flutter/engine/pull/46265) merged on September 25, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/46265) over 41 minutes, 3 additions and 0 deletions in 1 file</sub>
@@ -961,45 +965,41 @@
     <sub>[#46292](https://github.com/flutter/engine/pull/46292) merged on September 26, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/46292) over 11 hours, 10 additions and 8 deletions in 1 file</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add package:tar to DEPS to fix broken 3H configurations
-    <sub>[#46273](https://github.com/flutter/engine/pull/46273) merged on September 25, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/46273) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub>
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] simplify invert colors flag by supporting composed color filters."
+    <sub>[#46414](https://github.com/flutter/engine/pull/46414) merged on September 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/46414) over 59 seconds, 41 additions and 133 deletions in 7 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
-* **[keyonghan](https://github.com/keyonghan)** &mdash; Switch goma to reclient for Linux clang_tidy targets
-    <sub>[#45898](https://github.com/flutter/engine/pull/45898) merged on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45898) over 1 week, 12 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
-* **[keyonghan](https://github.com/keyonghan)** &mdash; Switch goma to reclient for Linux host engine targets
-    <sub>[#45884](https://github.com/flutter/engine/pull/45884) merged on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45884) over 1 week, 33 additions and 11 deletions in 3 files</sub>
+* **[keyonghan](https://github.com/keyonghan)** &mdash; Switch goma to reclient for Linux fuchsia/unopt/android_aot
+    <sub>[#45899](https://github.com/flutter/engine/pull/45899) merged on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45899) over 1 week, 42 additions and 14 deletions in 3 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Switch goma to reclient for Linux clang_tidy targets"
     <sub>[#46267](https://github.com/flutter/engine/pull/46267) merged on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/46267) over 34 seconds, 4 additions and 12 deletions in 2 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
-* **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Update to use GrDirectContexts::MakeGL
-    <sub>[#46308](https://github.com/flutter/engine/pull/46308) merged on September 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46308) over 14 hours, 8 additions and 4 deletions in 4 files</sub>
-    <sub>Reviewed by: [Brian Osman](https://github.com/brianosman)</sub>
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Remove fuchsia from recipes cq.
+    <sub>[#46324](https://github.com/flutter/engine/pull/46324) merged on September 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46324) over 43 minutes, 0 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Drew Roen](https://github.com/drewroengoogle)</sub>
 
-* **[keyonghan](https://github.com/keyonghan)** &mdash; Switch goma to reclient for Linux fuchsia/unopt/android_aot
-    <sub>[#45899](https://github.com/flutter/engine/pull/45899) merged on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45899) over 1 week, 42 additions and 14 deletions in 3 files</sub>
+* **[keyonghan](https://github.com/keyonghan)** &mdash; Switch goma to reclient for Linux clang_tidy targets
+    <sub>[#45898](https://github.com/flutter/engine/pull/45898) merged on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45898) over 1 week, 12 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Prepare fuchsia script to coexist with v1 and v2 of fuchsia builders.
-    <sub>[#46126](https://github.com/flutter/engine/pull/46126) merged on September 26, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/46126) over 5 days, 25 additions and 3 deletions in 5 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Bump impeller-cmake to head
+    <sub>[#46385](https://github.com/flutter/engine/pull/46385) merged on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/46385) over 46 minutes, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Dart SDK from 7c3588c05f87 to 86c577329bf7 (8 revisions)"
     <sub>[#46345](https://github.com/flutter/engine/pull/46345) merged on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/46345) over 1 minute, 7 additions and 9 deletions in 2 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Add an AndroidManifest.xml flag to disable ImageReader backed Platform Views
+    <sub>[#46430](https://github.com/flutter/engine/pull/46430) merged on September 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46430) over 34 minutes, 78 additions and 0 deletions in 10 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Restore goma from rbe before 3.16 branching
     <sub>[#46272](https://github.com/flutter/engine/pull/46272) merged on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/46272) over 1 hour, 29 additions and 87 deletions in 6 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Remove fuchsia from recipes cq.
-    <sub>[#46324](https://github.com/flutter/engine/pull/46324) merged on September 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46324) over 43 minutes, 0 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Drew Roen](https://github.com/drewroengoogle)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Rollback Dart SDK to 3.2.0-119.
     <sub>[#46339](https://github.com/flutter/engine/pull/46339) merged on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46339) over 1 hour, 7 additions and 7 deletions in 2 files</sub>
@@ -1009,17 +1009,17 @@
     <sub>[#46334](https://github.com/flutter/engine/pull/46334) merged on September 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46334) over 1 hour, 13 additions and 151 deletions in 6 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] simplify invert colors flag by supporting composed color filters."
-    <sub>[#46414](https://github.com/flutter/engine/pull/46414) merged on September 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/46414) over 59 seconds, 41 additions and 133 deletions in 7 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add package:tar to DEPS to fix broken 3H configurations
+    <sub>[#46273](https://github.com/flutter/engine/pull/46273) merged on September 25, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/46273) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub>
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Bump impeller-cmake to head
-    <sub>[#46385](https://github.com/flutter/engine/pull/46385) merged on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/46385) over 46 minutes, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Ian McKellar](https://github.com/ianloic)** &mdash; fuchsia: Update FIDL for unknown interactions
+    <sub>[#45773](https://github.com/flutter/engine/pull/45773) merged on September 25, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/45773) over 1 week, 2 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Add an AndroidManifest.xml flag to disable ImageReader backed Platform Views
-    <sub>[#46430](https://github.com/flutter/engine/pull/46430) merged on September 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46430) over 34 minutes, 78 additions and 0 deletions in 10 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Update to use GrDirectContexts::MakeGL
+    <sub>[#46308](https://github.com/flutter/engine/pull/46308) merged on September 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46308) over 14 hours, 8 additions and 4 deletions in 4 files</sub>
+    <sub>Reviewed by: [Brian Osman](https://github.com/brianosman)</sub>
 
 * **[Joel Winarske](https://github.com/jwinarske)** &mdash; [Impeller] Fix OpenGLES EGL_BAD_ACCESS due to context being current on multiple threads.
     <sub>[#46287](https://github.com/flutter/engine/pull/46287) merged on September 28, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/46287) over 2 days, 1 addition and 1 deletion in 1 file</sub>
@@ -1033,9 +1033,17 @@
     <sub>[#46425](https://github.com/flutter/engine/pull/46425) merged on September 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46425) over 34 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
-* **[Ian McKellar](https://github.com/ianloic)** &mdash; fuchsia: Update FIDL for unknown interactions
-    <sub>[#45773](https://github.com/flutter/engine/pull/45773) merged on September 25, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/45773) over 1 week, 2 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Prepare fuchsia script to coexist with v1 and v2 of fuchsia builders.
+    <sub>[#46126](https://github.com/flutter/engine/pull/46126) merged on September 26, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/46126) over 5 days, 25 additions and 3 deletions in 5 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[keyonghan](https://github.com/keyonghan)** &mdash; Switch goma to reclient for Linux host engine targets
+    <sub>[#45884](https://github.com/flutter/engine/pull/45884) merged on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/45884) over 1 week, 33 additions and 11 deletions in 3 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from e042e83c85a5 to 955a3a964621 (2 revisions)
+    <sub>[#46412](https://github.com/flutter/engine/pull/46412) merged on September 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/46412) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 077d768accfa to e042e83c85a5 (3 revisions)
     <sub>[#46409](https://github.com/flutter/engine/pull/46409) merged on September 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/46409) over 34 minutes, 2 additions and 2 deletions in 2 files</sub>
@@ -1043,10 +1051,6 @@
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 7c3588c05f87 to 077d768accfa (11 revisions)
     <sub>[#46366](https://github.com/flutter/engine/pull/46366) merged on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/46366) over 52 minutes, 9 additions and 7 deletions in 2 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-
-* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from e042e83c85a5 to 955a3a964621 (2 revisions)
-    <sub>[#46412](https://github.com/flutter/engine/pull/46412) merged on September 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/46412) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reland: [macOS] performKeyEquivalent cleanup
@@ -1134,7 +1138,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Apply the entity transformation when rendering FramebufferBlendContents
     <sub>[#46106](https://github.com/flutter/engine/pull/46106) merged on September 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/46106) over 4 hours, 19 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Clang tidy-ify `DlColor` and friends.
     <sub>[#46122](https://github.com/flutter/engine/pull/46122) merged on September 20, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/46122) over 41 minutes, 196 additions and 163 deletions in 36 files</sub>
@@ -1274,7 +1278,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Remove linux fuchsia from recipes cq.
     <sub>[#46153](https://github.com/flutter/engine/pull/46153) merged on September 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46153) over 35 minutes, 0 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Ricardo Amador](https://github.com/ricardoamador)</sub>
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [yusuf-goog](https://github.com/yusuf-goog)</sub>
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Add more missing Skia #includes
     <sub>[#46034](https://github.com/flutter/engine/pull/46034) merged on September 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/46034) over 1 hour, 2 additions and 0 deletions in 2 files</sub>
@@ -1318,7 +1322,7 @@
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Re-enable HardwareBuffer backed Platform Views on Android >= 29
     <sub>[#46071](https://github.com/flutter/engine/pull/46071) merged on September 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/46071) over 2 days, 5 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Apply the right tag for linux fuchsia cipd packages.
     <sub>[#46123](https://github.com/flutter/engine/pull/46123) merged on September 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/46123) over 32 minutes, 2 additions and 2 deletions in 1 file</sub>
@@ -1862,7 +1866,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Manual Roll of Flutter from 4e7a07af882c to 61b890bfcbc1  
     <sub>[#4919](https://github.com/flutter/packages/pull/4919) merged on September 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4919) over 22 hours, 2 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [David Iglesias](https://github.com/ditman)</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; go_router_builder: support the latest pkg:analyzer
     <sub>[#4921](https://github.com/flutter/packages/pull/4921) merged on September 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/4921) over 1 hour, 6 additions and 2 deletions in 2 files</sub>
