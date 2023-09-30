@@ -887,7 +887,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Clean up the docstring for ColorFilter.matrix
     <sub>[#46298](https://github.com/flutter/engine/pull/46298) merged on September 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46298) over 37 minutes, 3 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; Reland "[ios] Fix app extension not able to find assets from…
     <sub>[#46329](https://github.com/flutter/engine/pull/46329) merged on September 28, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/46329) over 5 hours, 1177 additions and 17 deletions in 32 files</sub>
@@ -927,7 +927,7 @@
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] performKeyEquivalent cleanup
     <sub>[#45946](https://github.com/flutter/engine/pull/45946) merged on September 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/45946) over 1 week, 14 additions and 44 deletions in 2 files</sub>
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Do not double-apply ImageFilter transform to children
     <sub>[#46336](https://github.com/flutter/engine/pull/46336) merged on September 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/46336) over 1 hour, 16 additions and 5 deletions in 2 files</sub>
