@@ -4,7 +4,7 @@
 
 ### September 23, 2023 to September 29, 2023
 
-52 commits.
+54 commits.
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets support for Windows
     <sub>[#134203](https://github.com/flutter/flutter/pull/134203) merged on September 27, 2023 &mdash; **Extra large:** [50 comments](https://github.com/flutter/flutter/pull/134203) over 2 weeks, 1208 additions and 343 deletions in 20 files</sub>
@@ -18,14 +18,14 @@
     <sub>[#133581](https://github.com/flutter/flutter/pull/133581) merged on September 26, 2023 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/133581) over 4 weeks, 424 additions and 45 deletions in 4 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Support ensureVisible/showOnScreen/showInViewport for 2D Scrolling
-    <sub>[#135182](https://github.com/flutter/flutter/pull/135182) merged on September 27, 2023 &mdash; **Large:** [61 comments](https://github.com/flutter/flutter/pull/135182) over 6 days, 1026 additions and 58 deletions in 9 files</sub>
-    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [chunhtai](https://github.com/chunhtai)</sub>
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `SearchAnchor`'s search view isn't updated when the theme changes & widgets inside the search view do not inherit local themes
     <sub>[#132749](https://github.com/flutter/flutter/pull/132749) merged on September 27, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/132749) over 1 month, 168 additions and 53 deletions in 3 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
     <sub><details><summary>4 images...</summary>![search_view drawio (1)](https://github.com/flutter/flutter/assets/48603081/b5317fb1-ee73-461c-a119-f2a1e29f5909)![search_view drawio](https://github.com/flutter/flutter/assets/48603081/4e48c0cb-a558-4de6-9865-5f51981a343f)![Screenshot 2023-08-17 at 15 54 02](https://github.com/flutter/flutter/assets/48603081/dec18ba3-9f01-4706-987a-eb2fd4afb180)![Screenshot 2023-08-17 at 15 55 15](https://github.com/flutter/flutter/assets/48603081/13f2797a-7f70-43b5-bc56-7971cf76a61d)</details></sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Support ensureVisible/showOnScreen/showInViewport for 2D Scrolling
+    <sub>[#135182](https://github.com/flutter/flutter/pull/135182) merged on September 27, 2023 &mdash; **Large:** [61 comments](https://github.com/flutter/flutter/pull/135182) over 6 days, 1026 additions and 58 deletions in 9 files</sub>
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Wait for CONFIGURATION_BUILD_DIR to update when debugging with Xcode
     <sub>[#135444](https://github.com/flutter/flutter/pull/135444) merged on September 26, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/135444) over 1 day, 215 additions and 33 deletions in 6 files</sub>
@@ -71,10 +71,6 @@
     <sub>[#135207](https://github.com/flutter/flutter/pull/135207) merged on September 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/135207) over 1 week, 89 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Update localizations.
-    <sub>[#135691](https://github.com/flutter/flutter/pull/135691) merged on September 29, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/135691) over 9 hours, 1202 additions and 969 deletions in 221 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/widgets tests with leak tracking #12.
     <sub>[#135385](https://github.com/flutter/flutter/pull/135385) merged on September 30, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/135385) over 5 days, 456 additions and 283 deletions in 9 files</sub>
     <sub>Reviewed by: </sub>
@@ -83,13 +79,17 @@
     <sub>[#132714](https://github.com/flutter/flutter/pull/132714) merged on September 25, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/132714) over 1 month, 69 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Kate Lovett](https://github.com/Piinks), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TabBarView.viewportFraction change is ignored
+    <sub>[#135590](https://github.com/flutter/flutter/pull/135590) merged on September 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135590) over 1 day, 55 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[Chip Weinberger](https://github.com/chipweinberger)** &mdash; [Velocity Tracker] Fix: Issue 97761: Flutter Scrolling does not match iOS; inadvertent scrolling when user lifts up finger
     <sub>[#132291](https://github.com/flutter/flutter/pull/132291) merged on September 25, 2023 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/132291) over 1 month, 56 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Chris Bracken](https://github.com/cbracken), [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TabBarView.viewportFraction change is ignored
-    <sub>[#135590](https://github.com/flutter/flutter/pull/135590) merged on September 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135590) over 1 day, 55 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Update localizations.
+    <sub>[#135691](https://github.com/flutter/flutter/pull/135691) merged on September 29, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/135691) over 9 hours, 1202 additions and 969 deletions in 221 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
 
 * **[Matheus Kirchesch](https://github.com/matheus-kirchesch-btor)** &mdash; Added option to disable [NavigationDestination]s ([NavigationBar] destination widget)
     <sub>[#132361](https://github.com/flutter/flutter/pull/132361) merged on September 28, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/132361) over 1 month, 83 additions and 12 deletions in 2 files</sub>
@@ -143,6 +143,14 @@
     <sub>[#135453](https://github.com/flutter/flutter/pull/135453) merged on September 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135453) over 1 hour, 12 additions and 12 deletions in 3 files</sub>
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a basic golden test for `CupertinoTextSelectionToolbar`
+    <sub>[#135267](https://github.com/flutter/flutter/pull/135267) merged on September 25, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/135267) over 3 days, 52 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Tomasz Gucio](https://github.com/tgucio)</sub>
+
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; leak track page_test.dart
+    <sub>[#135352](https://github.com/flutter/flutter/pull/135352) merged on October 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135352) over 1 week, 17 additions and 10 deletions in 1 file</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
+
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update the wasm bootstrap to allow access to the emscripten wrapper to skwasm.
     <sub>[#135723](https://github.com/flutter/flutter/pull/135723) merged on September 29, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135723) over 18 hours, 2 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
@@ -155,10 +163,6 @@
     <sub>[#135725](https://github.com/flutter/flutter/pull/135725) merged on September 29, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/135725) over 1 hour, 2 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; ViewportOffset should dispatch creation in constructor.
-    <sub>[#135420](https://github.com/flutter/flutter/pull/135420) merged on September 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135420) over 4 days, 54 additions and 15 deletions in 2 files</sub>
-    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
-
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
     <sub>[#135455](https://github.com/flutter/flutter/pull/135455) merged on September 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135455) over 3 days, 2 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
@@ -167,13 +171,17 @@
     <sub>[#135692](https://github.com/flutter/flutter/pull/135692) merged on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135692) over 1 minute, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use platform dill from the engine when compiling with dart2wasm.
+    <sub>[#134970](https://github.com/flutter/flutter/pull/134970) merged on September 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134970) over 1 week, 4 additions and 21 deletions in 2 files</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
+
 * **[tauu](https://github.com/tauu)** &mdash; [web] fix: do not call onSubmitted of TextField when switching browser tabs on mobile web
     <sub>[#134870](https://github.com/flutter/flutter/pull/134870) merged on September 28, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/134870) over 1 week, 7 additions and 17 deletions in 2 files</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
-* **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Temporarily disable NexusLowRes, version=29
-    <sub>[#135785](https://github.com/flutter/flutter/pull/135785) merged on September 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135785) over 1 hour, 9 additions and 6 deletions in 1 file</sub>
-    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub>
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Leak track cupertino widgets
+    <sub>[#135353](https://github.com/flutter/flutter/pull/135353) merged on October 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135353) over 1 week, 63 additions and 55 deletions in 2 files</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Upload generated frame-request-pending stats
     <sub>[#135645](https://github.com/flutter/flutter/pull/135645) merged on September 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135645) over 9 hours, 9 additions and 0 deletions in 2 files</sub>
@@ -183,29 +191,29 @@
     <sub>[#135070](https://github.com/flutter/flutter/pull/135070) merged on September 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/135070) over 1 week, 35 additions and 32 deletions in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Config changes for linux coverage.
-    <sub>[#135604](https://github.com/flutter/flutter/pull/135604) merged on September 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135604) over 1 hour, 4 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [keyonghan](https://github.com/keyonghan)</sub>
+* **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Temporarily disable NexusLowRes, version=29
+    <sub>[#135785](https://github.com/flutter/flutter/pull/135785) merged on September 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135785) over 1 hour, 9 additions and 6 deletions in 1 file</sub>
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; DraggableScrollableController should dispatch creation in constructor.
     <sub>[#135423](https://github.com/flutter/flutter/pull/135423) merged on September 30, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/135423) over 4 days, 19 additions and 0 deletions in 3 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use platform dill from the engine when compiling with dart2wasm.
-    <sub>[#134970](https://github.com/flutter/flutter/pull/134970) merged on September 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/134970) over 1 week, 4 additions and 21 deletions in 2 files</sub>
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; ViewportOffset should dispatch creation in constructor.
+    <sub>[#135420](https://github.com/flutter/flutter/pull/135420) merged on September 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135420) over 4 days, 54 additions and 15 deletions in 2 files</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a basic golden test for `CupertinoTextSelectionToolbar`
-    <sub>[#135267](https://github.com/flutter/flutter/pull/135267) merged on September 25, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/135267) over 3 days, 52 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Tomasz Gucio](https://github.com/tgucio)</sub>
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Marks Linux_pixel_7pro hello_world_impeller to be unflaky"
-    <sub>[#135388](https://github.com/flutter/flutter/pull/135388) merged on September 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135388) over 21 hours, 1 addition and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub>
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Config changes for linux coverage.
+    <sub>[#135604](https://github.com/flutter/flutter/pull/135604) merged on September 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135604) over 1 hour, 4 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Upload generated frame-request-pending stats"
     <sub>[#135672](https://github.com/flutter/flutter/pull/135672) merged on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135672) over 4 minutes, 0 additions and 9 deletions in 2 files</sub>
     <sub>Reviewed by: [Callum Moffat](https://github.com/moffatman)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Marks Linux_pixel_7pro hello_world_impeller to be unflaky"
+    <sub>[#135388](https://github.com/flutter/flutter/pull/135388) merged on September 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135388) over 21 hours, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Revert "Switch flutter_tools to run frontend server from AOT snapshot"
     <sub>[#135537](https://github.com/flutter/flutter/pull/135537) merged on September 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135537) over 1 hour, 46 additions and 70 deletions in 8 files</sub>
