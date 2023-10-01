@@ -101,6 +101,3 @@
 * **[Maximilian Fischer](https://github.com/fischerscode)** &mdash; Include size factors when computing the intrinsic size of a `RenderPositionedBox`<br />
     <sub>[#135823](https://github.com/flutter/flutter/pull/135823) opened on on October 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135823) 32 additions and 0 deletions in 2 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leaks in WidgetInspector and WidgetInspectorService.<br />
-    <sub>[#135828](https://github.com/flutter/flutter/pull/135828) opened on on October 1, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/135828) 304 additions and 205 deletions in 2 files</sub><br />
-
