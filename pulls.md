@@ -98,3 +98,6 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test cupertino text field<br />
     <sub>[#135804](https://github.com/flutter/flutter/pull/135804) opened on on September 30, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135804) 371 additions and 196 deletions in 1 file</sub><br />
 
+* **[Maximilian Fischer](https://github.com/fischerscode)** &mdash; Include size factors when computing the intrinsic size of a `RenderPositionedBox`<br />
+    <sub>[#135823](https://github.com/flutter/flutter/pull/135823) opened on on October 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135823) 32 additions and 0 deletions in 2 files</sub><br />
+
