@@ -951,7 +951,7 @@
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] performKeyEquivalent cleanup
     <sub>[#45946](https://github.com/flutter/engine/pull/45946) merged on September 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/45946) over 1 week, 14 additions and 44 deletions in 2 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Bruno Leroux](https://github.com/bleroux)</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add initial support for 4x MSAA in OpenGLES backend.
     <sub>[#46381](https://github.com/flutter/engine/pull/46381) merged on September 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/46381) over 41 minutes, 48 additions and 13 deletions in 5 files</sub>
@@ -1655,11 +1655,15 @@
 
 ### September 23, 2023 to September 29, 2023
 
-23 commits.
+24 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Endorse macOS
     <sub>[#5021](https://github.com/flutter/packages/pull/5021) merged on September 28, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/5021) over 9 hours, 1469 additions and 31 deletions in 32 files</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Maurits van Beusekom](https://github.com/mvanbeusekom)** &mdash; [webview_flutter] Adds app facing implementation to override console log
+    <sub>[#4705](https://github.com/flutter/packages/pull/4705) merged on October 1, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/4705) over 1 month, 91 additions and 4 deletions in 6 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Braden Bagby](https://github.com/BradenBagby)** &mdash; [camera] Dispose resources correctly on setDescription
     <sub>[#4003](https://github.com/flutter/packages/pull/4003) merged on September 29, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/packages/pull/4003) over 4 months, 61 additions and 7 deletions in 4 files</sub>
