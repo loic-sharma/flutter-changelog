@@ -2,9 +2,22 @@
 
 ## flutter/flutter
 
+### September 30, 2023 to October 6, 2023
+
+2 commits.
+
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test cover cupertino text field for memory leaks.
+    <sub>[#135804](https://github.com/flutter/flutter/pull/135804) merged on October 2, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/135804) over 1 day, 371 additions and 196 deletions in 1 file</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leaks in WidgetInspector and WidgetInspectorService.
+    <sub>[#135828](https://github.com/flutter/flutter/pull/135828) merged on October 2, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135828) over 13 hours, 305 additions and 205 deletions in 2 files</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
+
 ### September 23, 2023 to September 29, 2023
 
-54 commits.
+<details>
+<summary>54 commits...</summary>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets support for Windows
     <sub>[#134203](https://github.com/flutter/flutter/pull/134203) merged on September 27, 2023 &mdash; **Extra large:** [50 comments](https://github.com/flutter/flutter/pull/134203) over 2 weeks, 1208 additions and 343 deletions in 20 files</sub>
@@ -222,6 +235,8 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Revert "Marks Linux_samsung_a02 new_gallery__transition_perf to be unflaky"
     <sub>[#135399](https://github.com/flutter/flutter/pull/135399) merged on September 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135399) over 16 minutes, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### September 16, 2023 to September 22, 2023
 
