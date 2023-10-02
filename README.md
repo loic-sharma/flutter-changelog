@@ -4,7 +4,7 @@
 
 ### September 30, 2023 to October 6, 2023
 
-2 commits.
+3 commits.
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test cover cupertino text field for memory leaks.<br />
     <sub>[#135804](https://github.com/flutter/flutter/pull/135804) merged on October 2, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/135804) over 1 day, 371 additions and 196 deletions in 1 file</sub><br />
@@ -13,6 +13,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leaks in WidgetInspector and WidgetInspectorService.<br />
     <sub>[#135828](https://github.com/flutter/flutter/pull/135828) merged on October 2, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135828) over 13 hours, 305 additions and 205 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Update dialog tests for Material3<br />
+    <sub>[#135775](https://github.com/flutter/flutter/pull/135775) merged on October 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135775) over 2 days, 37 additions and 12 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 ### September 23, 2023 to September 29, 2023
 
@@ -729,7 +733,7 @@
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] performKeyEquivalent cleanup<br />
     <sub>[#45946](https://github.com/flutter/engine/pull/45946) merged on September 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/45946) over 1 week, 14 additions and 44 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Chris Bracken](https://github.com/cbracken)</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add initial support for 4x MSAA in OpenGLES backend.<br />
     <sub>[#46381](https://github.com/flutter/engine/pull/46381) merged on September 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/46381) over 41 minutes, 48 additions and 13 deletions in 5 files</sub><br />
