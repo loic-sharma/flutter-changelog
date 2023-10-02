@@ -4,7 +4,7 @@
 
 ### September 30, 2023 to October 6, 2023
 
-3 commits.
+4 commits.
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test cover cupertino text field for memory leaks.
     <sub>[#135804](https://github.com/flutter/flutter/pull/135804) merged on October 2, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/135804) over 1 day, 371 additions and 196 deletions in 1 file</sub>
@@ -17,6 +17,10 @@
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Update dialog tests for Material3
     <sub>[#135775](https://github.com/flutter/flutter/pull/135775) merged on October 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135775) over 2 days, 37 additions and 12 deletions in 1 file</sub>
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix a couple of CupertinoTextField tests to avoid leak-tracking test failures.
+    <sub>[#135851](https://github.com/flutter/flutter/pull/135851) merged on October 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135851) over 8 hours, 24 additions and 8 deletions in 1 file</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 ### September 23, 2023 to September 29, 2023
 
