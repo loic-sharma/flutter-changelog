@@ -50,14 +50,8 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Update generate_gradle_lockfiles script to represent newer templates, and run it on dev/<br />
     <sub>[#135175](https://github.com/flutter/flutter/pull/135175) opened on on September 20, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/135175) 1149 additions and 701 deletions in 48 files</sub><br />
 
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Cover some cupertino tests with leak tracking<br />
-    <sub>[#135230](https://github.com/flutter/flutter/pull/135230) opened on on September 21, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/135230) 263 additions and 200 deletions in 8 files</sub><br />
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try flutter/engine#46130<br />
     <sub>[#135254](https://github.com/flutter/flutter/pull/135254) opened on on September 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135254) 3 additions and 2 deletions in 3 files</sub><br />
-
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; leak track tab_scaffold_test.dart<br />
-    <sub>[#135309](https://github.com/flutter/flutter/pull/135309) opened on on September 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135309) 53 additions and 28 deletions in 1 file</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Chore/gradle remove redundant apply<br />
     <sub>[#135348](https://github.com/flutter/flutter/pull/135348) opened on on September 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135348) 1 addition and 15 deletions in 4 files</sub><br />
@@ -84,5 +78,5 @@
     <sub>[#135836](https://github.com/flutter/flutter/pull/135836) opened on on October 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135836) 2 additions and 1 deletion in 2 files</sub><br />
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; Tooltip docs: Recommend setting preferBelow to false in theme<br />
-    <sub>[#135879](https://github.com/flutter/flutter/pull/135879) opened on on October 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135879) 24 additions and 1 deletion in 5 files</sub><br />
+    <sub>[#135879](https://github.com/flutter/flutter/pull/135879) opened on on October 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135879) 24 additions and 1 deletion in 5 files</sub><br />
 
