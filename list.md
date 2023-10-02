@@ -1177,7 +1177,12 @@
 
 ### September 30, 2023 to October 6, 2023
 
-1 commits.
+2 commits.
+
+* **[Dawid Wenderski](https://github.com/dawidope)** &mdash; [flutter_markdown] Code decoration
+    <sub>[#5060](https://github.com/flutter/packages/pull/5060) merged on October 2, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/5060) over 4 hours, 8 additions and 3 deletions in 3 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Brett Morgan](https://github.com/domesticmouse)</sub>
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/packages/assets/1847552/3203ecaf-23d3-44bd-ad73-f1369aa38020)</details></sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Exposes missing `JavaScriptLogLevel` from platform interface
     <sub>[#5061](https://github.com/flutter/packages/pull/5061) merged on October 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5061) over 48 minutes, 11 additions and 2 deletions in 4 files</sub>
