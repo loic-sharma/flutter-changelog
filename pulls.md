@@ -92,3 +92,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; DNS: Try 'Remove the frontend server wrapper'<br />
     <sub>[#135836](https://github.com/flutter/flutter/pull/135836) opened on on October 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135836) 2 additions and 1 deletion in 2 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix a couple of CupertinoTextField tests to avoid leak-tracking test failures.<br />
+    <sub>[#135851](https://github.com/flutter/flutter/pull/135851) opened on on October 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135851) 24 additions and 8 deletions in 1 file</sub><br />
+
