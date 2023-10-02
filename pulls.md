@@ -84,7 +84,7 @@
     <sub>[#135782](https://github.com/flutter/flutter/pull/135782) opened on on September 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135782) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Added `animationDuration` parameter to `showMenu` and `PopupMenuButton`.<br />
-    <sub>[#135797](https://github.com/flutter/flutter/pull/135797) opened on on September 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135797) 127 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#135797](https://github.com/flutter/flutter/pull/135797) opened on on September 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135797) 127 additions and 1 deletion in 2 files</sub><br />
 
 * **[Maximilian Fischer](https://github.com/fischerscode)** &mdash; Include size factors when computing the intrinsic size of a `RenderPositionedBox`<br />
     <sub>[#135823](https://github.com/flutter/flutter/pull/135823) opened on on October 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135823) 32 additions and 0 deletions in 2 files</sub><br />
