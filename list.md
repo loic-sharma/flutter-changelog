@@ -1177,7 +1177,7 @@
     <sub>Reviewed by: [jellynoone](https://github.com/jellynoone), [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Add macOS support
-    <sub>[#4982](https://github.com/flutter/packages/pull/4982) merged on September 28, 2023 &mdash; **Extra large:** [9 comments](https://github.com/flutter/packages/pull/4982) over 5 days, 1864 additions and 152 deletions in 44 files</sub>
+    <sub>[#4982](https://github.com/flutter/packages/pull/4982) merged on September 28, 2023 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/4982) over 5 days, 1864 additions and 152 deletions in 44 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; [GoRouter] option to override initial route set by platform 
