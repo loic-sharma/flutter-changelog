@@ -1175,9 +1175,18 @@
 
 ## flutter/packages
 
+### September 30, 2023 to October 6, 2023
+
+1 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Exposes missing `JavaScriptLogLevel` from platform interface<br />
+    <sub>[#5061](https://github.com/flutter/packages/pull/5061) merged on October 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5061) over 48 minutes, 11 additions and 2 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 ### September 23, 2023 to September 29, 2023
 
-24 commits.
+<details>
+<summary>24 commits...</summary>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Endorse macOS<br />
     <sub>[#5021](https://github.com/flutter/packages/pull/5021) merged on September 28, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/5021) over 9 hours, 1469 additions and 31 deletions in 32 files</sub><br />
@@ -1274,6 +1283,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 12fccda59847 to ead455963c12 (1 revision)<br />
     <sub>[#5022](https://github.com/flutter/packages/pull/5022) merged on September 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5022) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### September 16, 2023 to September 22, 2023
 
