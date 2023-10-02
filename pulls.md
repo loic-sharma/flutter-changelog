@@ -95,3 +95,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; DNS: Try 'Remove the frontend server wrapper'<br />
     <sub>[#135836](https://github.com/flutter/flutter/pull/135836) opened on on October 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135836) 2 additions and 1 deletion in 2 files</sub><br />
 
+* **[NoFenix](https://github.com/NoFenix)** &mdash; new<br />
+    <sub>[#135845](https://github.com/flutter/flutter/pull/135845) opened on on October 2, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/135845) 4585 additions and 1 deletion in 121 files</sub><br />
+
