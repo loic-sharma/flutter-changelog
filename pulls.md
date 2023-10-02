@@ -17,9 +17,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Test Engine PR "Roll clang with fix for ABI change"<br />
     <sub>[#132581](https://github.com/flutter/flutter/pull/132581) opened on on August 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132581) 2 additions and 1 deletion in 2 files</sub><br />
 
-* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [do not merge] google testing test pr<br />
-    <sub>[#132693](https://github.com/flutter/flutter/pull/132693) opened on on August 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132693) 2 additions and 0 deletions in 1 file</sub><br />
-
 * **[Tibor Szuntheimer](https://github.com/Producer86)** &mdash; doc: Update Overlay example.<br />
     <sub>[#132747](https://github.com/flutter/flutter/pull/132747) opened on on August 17, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/132747) 39 additions and 45 deletions in 1 file</sub><br />
 
