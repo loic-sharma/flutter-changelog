@@ -81,7 +81,7 @@
     <sub>[#135879](https://github.com/flutter/flutter/pull/135879) opened on on October 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135879) 24 additions and 1 deletion in 5 files</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny improve code style by using records instead of lists<br />
-    <sub>[#135886](https://github.com/flutter/flutter/pull/135886) opened on on October 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135886) 18 additions and 17 deletions in 1 file</sub><br />
+    <sub>[#135886](https://github.com/flutter/flutter/pull/135886) opened on on October 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135886) 18 additions and 17 deletions in 1 file</sub><br />
 
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Replace dead link in `CupertinoPicker` documentation<br />
     <sub>[#135897](https://github.com/flutter/flutter/pull/135897) opened on on October 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135897) 1 addition and 1 deletion in 1 file</sub><br />
