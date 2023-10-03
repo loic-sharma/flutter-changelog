@@ -593,7 +593,7 @@
 2 commits.
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Restrict ImageReader backed Platform Views to Android 33+
-    <sub>[#46478](https://github.com/flutter/engine/pull/46478) merged on October 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/46478) over 3 hours, 35 additions and 30 deletions in 3 files</sub>
+    <sub>[#46478](https://github.com/flutter/engine/pull/46478) merged on October 3, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/46478) over 3 hours, 35 additions and 30 deletions in 3 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Linux] Rename 'set_allow_channel_overflow' to 'set_warns_on_channel_…
