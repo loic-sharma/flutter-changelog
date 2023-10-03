@@ -89,6 +89,6 @@
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Simplify assertion in `AsyncSnapshot`<br />
     <sub>[#135899](https://github.com/flutter/flutter/pull/135899) opened on on October 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135899) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Lê Hậu](https://github.com/howljs)** &mdash; DropdownMenu throws an assert error if keyboard is closed while menu is open #135865<br />
-    <sub>[#135900](https://github.com/flutter/flutter/pull/135900) opened on on October 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135900) 4 additions and 2 deletions in 1 file</sub><br />
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `CircleAvatar` & `DataTable` tests for Material 3<br />
+    <sub>[#135901](https://github.com/flutter/flutter/pull/135901) opened on on October 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135901) 51 additions and 4 deletions in 2 files</sub><br />
 
