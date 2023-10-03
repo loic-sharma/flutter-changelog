@@ -90,5 +90,5 @@
     <sub>[#135910](https://github.com/flutter/flutter/pull/135910) opened on on October 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135910) 224 additions and 3 deletions in 2 files</sub><br />
 
 * **[yakagami](https://github.com/yakagami)** &mdash; add sourceTimeStamp to ScaleUpdateDetails<br />
-    <sub>[#135936](https://github.com/flutter/flutter/pull/135936) opened on on October 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135936) 10 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#135936](https://github.com/flutter/flutter/pull/135936) opened on on October 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135936) 10 additions and 1 deletion in 1 file</sub><br />
 
