@@ -89,3 +89,6 @@
 * **[huycozy](https://github.com/huycozy)** &mdash; Fix PageView API doc sample fails on Desktop and Web<br />
     <sub>[#135910](https://github.com/flutter/flutter/pull/135910) opened on on October 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135910) 224 additions and 3 deletions in 2 files</sub><br />
 
+* **[yakagami](https://github.com/yakagami)** &mdash; add sourceTimeStamp to ScaleUpdateDetails<br />
+    <sub>[#135926](https://github.com/flutter/flutter/pull/135926) opened on on October 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135926) 8 additions and 0 deletions in 1 file</sub><br />
+
