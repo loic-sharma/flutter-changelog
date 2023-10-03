@@ -590,7 +590,11 @@
 
 ### September 30, 2023 to October 6, 2023
 
-1 commits.
+2 commits.
+
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Restrict ImageReader backed Platform Views to Android 33+<br />
+    <sub>[#46478](https://github.com/flutter/engine/pull/46478) merged on October 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/46478) over 3 hours, 35 additions and 30 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Linux] Rename 'set_allow_channel_overflow' to 'set_warns_on_channel_…<br />
     <sub>[#46360](https://github.com/flutter/engine/pull/46360) merged on October 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46360) over 3 days, 43 additions and 43 deletions in 6 files</sub><br />
