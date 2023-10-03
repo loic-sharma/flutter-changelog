@@ -72,7 +72,7 @@
     <sub>[#135823](https://github.com/flutter/flutter/pull/135823) opened on on October 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135823) 32 additions and 0 deletions in 2 files</sub><br />
 
 * **[6cessfuldev](https://github.com/6cessfuldev)** &mdash; feat: Tabs animate with params set in _changeIndex<br />
-    <sub>[#135832](https://github.com/flutter/flutter/pull/135832) opened on on October 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135832) 36 additions and 6 deletions in 2 files</sub><br />
+    <sub>[#135832](https://github.com/flutter/flutter/pull/135832) opened on on October 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135832) 122 additions and 6 deletions in 3 files</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; DNS: Try 'Remove the frontend server wrapper'<br />
     <sub>[#135836](https://github.com/flutter/flutter/pull/135836) opened on on October 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135836) 2 additions and 1 deletion in 2 files</sub><br />
