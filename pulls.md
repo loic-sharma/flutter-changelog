@@ -86,3 +86,9 @@
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Replace dead link in `CupertinoPicker` documentation<br />
     <sub>[#135897](https://github.com/flutter/flutter/pull/135897) opened on on October 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135897) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Simplify assertion in `AsyncSnapshot`<br />
+    <sub>[#135899](https://github.com/flutter/flutter/pull/135899) opened on on October 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135899) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Lê Hậu](https://github.com/howljs)** &mdash; DropdownMenu throws an assert error if keyboard is closed while menu is open #135865<br />
+    <sub>[#135900](https://github.com/flutter/flutter/pull/135900) opened on on October 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135900) 4 additions and 2 deletions in 1 file</sub><br />
+
