@@ -78,5 +78,5 @@
     <sub>[#135836](https://github.com/flutter/flutter/pull/135836) opened on on October 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135836) 2 additions and 1 deletion in 2 files</sub><br />
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; Tooltip docs: Recommend setting preferBelow to false in theme<br />
-    <sub>[#135879](https://github.com/flutter/flutter/pull/135879) opened on on October 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135879) 24 additions and 1 deletion in 5 files</sub><br />
+    <sub>[#135879](https://github.com/flutter/flutter/pull/135879) opened on on October 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135879) 24 additions and 1 deletion in 5 files</sub><br />
 
