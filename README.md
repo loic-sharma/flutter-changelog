@@ -606,12 +606,17 @@
 
 ### September 30, 2023 to October 6, 2023
 
-7 commits.
+8 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Invoke `glDebugMessageControl` before `glPushDebugGroup`<br />
     <sub>[#46392](https://github.com/flutter/engine/pull/46392) merged on October 3, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/46392) over 4 days, 30 additions and 12 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
     <sub><details><summary>1 image...</summary>![flutter_01](https://github.com/flutter/engine/assets/168174/23642582-ce4c-47dc-8edf-7e6cfd12a074)</details></sub>
+
+* **[Jia Hao](https://github.com/jiahaog)** &mdash; [Impeller] Don't define `CanvasRecorder` if `IMPELLER_TRACE_CANVAS` is not set.<br />
+    <sub>[#46476](https://github.com/flutter/engine/pull/46476) merged on October 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46476) over 1 day, 4 additions and 6 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+    <sub><details><summary>1 image...</summary>![The relevant section of the spec](https://github.com/flutter/engine/assets/7111741/4503efcd-9479-4c7a-b4a1-7302dea1653b)</details></sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix framebuffer blend UVs.<br />
     <sub>[#46489](https://github.com/flutter/engine/pull/46489) merged on October 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/46489) over 13 hours, 28 additions and 13 deletions in 2 files</sub><br />
@@ -1120,7 +1125,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Remove linux fuchsia from recipes cq.<br />
     <sub>[#46153](https://github.com/flutter/engine/pull/46153) merged on September 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46153) over 35 minutes, 0 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog), [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Add more missing Skia #includes<br />
     <sub>[#46034](https://github.com/flutter/engine/pull/46034) merged on September 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/46034) over 1 hour, 2 additions and 0 deletions in 2 files</sub><br />

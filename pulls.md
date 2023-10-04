@@ -92,3 +92,6 @@
 * **[yakagami](https://github.com/yakagami)** &mdash; add sourceTimeStamp to ScaleUpdateDetails<br />
     <sub>[#135936](https://github.com/flutter/flutter/pull/135936) opened on on October 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135936) 10 additions and 1 deletion in 1 file</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Call `markNeedsPaint` when adding overlayChild to `Overlay`<br />
+    <sub>[#135941](https://github.com/flutter/flutter/pull/135941) opened on on October 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135941) 98 additions and 51 deletions in 4 files</sub><br />
+
