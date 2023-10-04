@@ -610,7 +610,7 @@
 
 ### September 30, 2023 to October 6, 2023
 
-8 commits.
+9 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Invoke `glDebugMessageControl` before `glPushDebugGroup`
     <sub>[#46392](https://github.com/flutter/engine/pull/46392) merged on October 3, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/46392) over 4 days, 30 additions and 12 deletions in 8 files</sub>
@@ -634,6 +634,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Opt out `flutter/third_party/**` from clang-tidy checks explicitly.
     <sub>[#46514](https://github.com/flutter/engine/pull/46514) merged on October 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46514) over 2 hours, 5 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Clarify coverage space.
+    <sub>[#46524](https://github.com/flutter/engine/pull/46524) merged on October 4, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/46524) over 8 hours, 14 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Stencil -> Clip
     <sub>[#46519](https://github.com/flutter/engine/pull/46519) merged on October 3, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/46519) over 1 hour, 224 additions and 229 deletions in 34 files</sub>
