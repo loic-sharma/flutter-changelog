@@ -752,7 +752,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Clean up the docstring for ColorFilter.matrix<br />
     <sub>[#46298](https://github.com/flutter/engine/pull/46298) merged on September 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46298) over 37 minutes, 3 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert stencil config changes.<br />
     <sub>[#46386](https://github.com/flutter/engine/pull/46386) merged on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46386) over 37 minutes, 9 additions and 31 deletions in 3 files</sub><br />
@@ -1466,7 +1466,7 @@
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; [camera_android] Removes usage of `_ambiguate` method in example<br />
     <sub>[#4924](https://github.com/flutter/packages/pull/4924) merged on September 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4924) over 4 days, 8 additions and 10 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Flutter (stable) from 367f9ea16bfa to 12fccda59847 (2 revisions)<br />
     <sub>[#4976](https://github.com/flutter/packages/pull/4976) merged on September 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4976) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
