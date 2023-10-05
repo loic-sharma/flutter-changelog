@@ -81,7 +81,7 @@
     <sub>[#135879](https://github.com/flutter/flutter/pull/135879) opened on on October 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135879) 24 additions and 1 deletion in 5 files</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny improve code style by using records instead of lists<br />
-    <sub>[#135886](https://github.com/flutter/flutter/pull/135886) opened on on October 3, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/135886) 20 additions and 19 deletions in 1 file</sub><br />
+    <sub>[#135886](https://github.com/flutter/flutter/pull/135886) opened on on October 3, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/135886) 20 additions and 19 deletions in 1 file</sub><br />
 
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Simplify assertion in `AsyncSnapshot`<br />
     <sub>[#135899](https://github.com/flutter/flutter/pull/135899) opened on on October 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135899) 1 addition and 1 deletion in 1 file</sub><br />
