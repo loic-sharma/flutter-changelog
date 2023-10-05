@@ -89,6 +89,3 @@
 * **[Arash](https://github.com/838)** &mdash; [Feat] Stroke color for Slider value indicator<br />
     <sub>[#135986](https://github.com/flutter/flutter/pull/135986) opened on on October 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135986) 14 additions and 0 deletions in 2 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leaks in DateRangePickerDialog.<br />
-    <sub>[#136034](https://github.com/flutter/flutter/pull/136034) opened on on October 5, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/136034) 311 additions and 205 deletions in 3 files</sub><br />
-
