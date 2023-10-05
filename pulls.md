@@ -81,7 +81,7 @@
     <sub>[#135886](https://github.com/flutter/flutter/pull/135886) opened on on October 3, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/135886) 20 additions and 19 deletions in 1 file</sub><br />
 
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Simplify assertion in `AsyncSnapshot`<br />
-    <sub>[#135899](https://github.com/flutter/flutter/pull/135899) opened on on October 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135899) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#135899](https://github.com/flutter/flutter/pull/135899) opened on on October 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135899) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[yakagami](https://github.com/yakagami)** &mdash; add sourceTimeStamp to ScaleUpdateDetails<br />
     <sub>[#135936](https://github.com/flutter/flutter/pull/135936) opened on on October 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135936) 41 additions and 9 deletions in 2 files</sub><br />
