@@ -18,6 +18,10 @@
     <sub>[#135828](https://github.com/flutter/flutter/pull/135828) merged on October 2, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135828) over 13 hours, 305 additions and 205 deletions in 2 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny improve code style by using records instead of lists
+    <sub>[#135886](https://github.com/flutter/flutter/pull/135886) merged on October 6, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/135886) over 3 days, 20 additions and 19 deletions in 1 file</sub>
+    <sub>Reviewed by: [Tomasz Gucio](https://github.com/tgucio)</sub>
+
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Bump dart-lang/native deps
     <sub>[#135905](https://github.com/flutter/flutter/pull/135905) merged on October 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135905) over 12 hours, 5 additions and 5 deletions in 2 files</sub>
     <sub>Reviewed by: [Hossein Yousefi](https://github.com/HosseinYousefi)</sub>
@@ -29,10 +33,6 @@
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Update dialog tests for Material3
     <sub>[#135775](https://github.com/flutter/flutter/pull/135775) merged on October 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135775) over 2 days, 37 additions and 12 deletions in 1 file</sub>
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
-
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny improve code style by using records instead of lists
-    <sub>[#135886](https://github.com/flutter/flutter/pull/135886) merged on October 6, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/135886) over 3 days, 20 additions and 19 deletions in 1 file</sub>
-    <sub>Reviewed by: [Tomasz Gucio](https://github.com/tgucio)</sub>
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Upload frame_request_pending_latency [attempt #2]
     <sub>[#135890](https://github.com/flutter/flutter/pull/135890) merged on October 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135890) over 2 days, 9 additions and 0 deletions in 2 files</sub>
@@ -431,7 +431,7 @@
 
 * **[Vasiliy Ditsyak](https://github.com/vasilich6107)** &mdash; Access to fragment in router state on page refresh
     <sub>[#131123](https://github.com/flutter/flutter/pull/131123) merged on September 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/131123) over 1 month, 32 additions and 3 deletions in 3 files</sub>
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable strict-inference
     <sub>[#135043](https://github.com/flutter/flutter/pull/135043) merged on September 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135043) over 1 day, 63 additions and 55 deletions in 27 files</sub>
