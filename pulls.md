@@ -86,6 +86,3 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; clean up `--dart-define-from-file` option tests<br />
     <sub>[#135980](https://github.com/flutter/flutter/pull/135980) opened on on October 4, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135980) 369 additions and 390 deletions in 4 files</sub><br />
 
-* **[Arash](https://github.com/838)** &mdash; [Feat] Stroke color for Slider value indicator<br />
-    <sub>[#135986](https://github.com/flutter/flutter/pull/135986) opened on on October 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135986) 57 additions and 0 deletions in 2 files</sub><br />
-
