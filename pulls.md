@@ -86,3 +86,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; clean up `--dart-define-from-file` option tests<br />
     <sub>[#135980](https://github.com/flutter/flutter/pull/135980) opened on on October 4, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135980) 369 additions and 390 deletions in 4 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update BottomSheet test for M3 + fix an issue in elevation resolution<br />
+    <sub>[#136071](https://github.com/flutter/flutter/pull/136071) opened on on October 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136071) 205 additions and 48 deletions in 3 files</sub><br />
+
