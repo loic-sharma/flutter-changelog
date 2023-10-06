@@ -92,3 +92,6 @@
 * **[rekire](https://github.com/rekire)** &mdash; Update German translations<br />
     <sub>[#136091](https://github.com/flutter/flutter/pull/136091) opened on on October 6, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/136091) 102 additions and 227 deletions in 5 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/material tests with leak tracking.<br />
+    <sub>[#136093](https://github.com/flutter/flutter/pull/136093) opened on on October 6, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/136093) 400 additions and 248 deletions in 12 files</sub><br />
+
