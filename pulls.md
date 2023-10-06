@@ -68,9 +68,6 @@
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; Tooltip docs: Recommend setting preferBelow to false in theme<br />
     <sub>[#135879](https://github.com/flutter/flutter/pull/135879) opened on on October 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135879) 25 additions and 2 deletions in 5 files</sub><br />
 
-* **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Simplify assertion in `AsyncSnapshot`<br />
-    <sub>[#135899](https://github.com/flutter/flutter/pull/135899) opened on on October 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135899) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[yakagami](https://github.com/yakagami)** &mdash; add sourceTimeStamp to ScaleUpdateDetails<br />
     <sub>[#135936](https://github.com/flutter/flutter/pull/135936) opened on on October 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135936) 41 additions and 9 deletions in 2 files</sub><br />
 
