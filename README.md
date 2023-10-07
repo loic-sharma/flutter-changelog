@@ -646,7 +646,7 @@
 
 ### September 30, 2023 to October 6, 2023
 
-18 commits.
+19 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Invoke `glDebugMessageControl` before `glPushDebugGroup`<br />
     <sub>[#46392](https://github.com/flutter/engine/pull/46392) merged on October 3, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/46392) over 4 days, 30 additions and 12 deletions in 8 files</sub><br />
@@ -683,6 +683,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Clarify coverage space.<br />
     <sub>[#46524](https://github.com/flutter/engine/pull/46524) merged on October 4, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/46524) over 8 hours, 14 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Add IMPELLER_DEBUG around group.<br />
+    <sub>[#46642](https://github.com/flutter/engine/pull/46642) merged on October 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/46642) over 14 hours, 4 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; [fuchsia] Remove hardcoded fuchsia-imported packages 2.12 sdk version<br />
     <sub>[#46629](https://github.com/flutter/engine/pull/46629) merged on October 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/46629) over 42 minutes, 12 additions and 13 deletions in 1 file</sub><br />
