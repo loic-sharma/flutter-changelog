@@ -89,6 +89,3 @@
 * **[lirantzairi](https://github.com/lirantzairi)** &mdash; TextField - allow to customize cursor color in error state<br />
     <sub>[#136121](https://github.com/flutter/flutter/pull/136121) opened on on October 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136121) 63 additions and 20 deletions in 3 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaks in the test.<br />
-    <sub>[#136134](https://github.com/flutter/flutter/pull/136134) opened on on October 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136134) 6 additions and 1 deletion in 1 file</sub><br />
-
