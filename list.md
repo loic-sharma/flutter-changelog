@@ -4,7 +4,7 @@
 
 ### September 30, 2023 to October 6, 2023
 
-20 commits.
+21 commits.
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; RenderEditable should dispose created layers.
     <sub>[#135942](https://github.com/flutter/flutter/pull/135942) merged on October 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135942) over 2 days, 16 additions and 67 deletions in 3 files</sub>
@@ -21,6 +21,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leaks in WidgetInspector and WidgetInspectorService.
     <sub>[#135828](https://github.com/flutter/flutter/pull/135828) merged on October 2, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135828) over 13 hours, 305 additions and 205 deletions in 2 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Allow leaks around tap down/up, while flackiness is not fixed.
+    <sub>[#136133](https://github.com/flutter/flutter/pull/136133) merged on October 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136133) over 56 minutes, 5 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Simplify assertion in `AsyncSnapshot`
     <sub>[#135899](https://github.com/flutter/flutter/pull/135899) merged on October 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/135899) over 3 days, 1 addition and 1 deletion in 1 file</sub>
