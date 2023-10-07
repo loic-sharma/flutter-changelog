@@ -4,7 +4,7 @@
 
 ### September 30, 2023 to October 6, 2023
 
-19 commits.
+20 commits.
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; RenderEditable should dispose created layers.
     <sub>[#135942](https://github.com/flutter/flutter/pull/135942) merged on October 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135942) over 2 days, 16 additions and 67 deletions in 3 files</sub>
@@ -25,6 +25,10 @@
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Simplify assertion in `AsyncSnapshot`
     <sub>[#135899](https://github.com/flutter/flutter/pull/135899) merged on October 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/135899) over 3 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; bottom_sheet: Clarify doc about behavior when useSafeArea is false
+    <sub>[#134793](https://github.com/flutter/flutter/pull/134793) merged on October 7, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/134793) over 3 weeks, 12 additions and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny improve code style by using records instead of lists
     <sub>[#135886](https://github.com/flutter/flutter/pull/135886) merged on October 6, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/135886) over 3 days, 20 additions and 19 deletions in 1 file</sub>
