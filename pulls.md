@@ -83,3 +83,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/material tests with leak tracking.<br />
     <sub>[#136093](https://github.com/flutter/flutter/pull/136093) opened on on October 6, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/136093) 400 additions and 248 deletions in 12 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; SearchAnchor should dispose created FocusNode and SearchController.<br />
+    <sub>[#136120](https://github.com/flutter/flutter/pull/136120) opened on on October 7, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/136120) 243 additions and 75 deletions in 2 files</sub><br />
+
