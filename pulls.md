@@ -84,7 +84,7 @@
     <sub>[#136093](https://github.com/flutter/flutter/pull/136093) opened on on October 6, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/136093) 400 additions and 248 deletions in 12 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; SearchAnchor should dispose created FocusNode and SearchController.<br />
-    <sub>[#136120](https://github.com/flutter/flutter/pull/136120) opened on on October 7, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/136120) 243 additions and 75 deletions in 2 files</sub><br />
+    <sub>[#136120](https://github.com/flutter/flutter/pull/136120) opened on on October 7, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/136120) 243 additions and 75 deletions in 2 files</sub><br />
 
 * **[lirantzairi](https://github.com/lirantzairi)** &mdash; TextField - allow to customize cursor color in error state<br />
     <sub>[#136121](https://github.com/flutter/flutter/pull/136121) opened on on October 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136121) 63 additions and 20 deletions in 3 files</sub><br />
