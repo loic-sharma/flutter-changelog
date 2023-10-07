@@ -4,7 +4,7 @@
 
 ### September 30, 2023 to October 6, 2023
 
-18 commits.
+19 commits.
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; RenderEditable should dispose created layers.<br />
     <sub>[#135942](https://github.com/flutter/flutter/pull/135942) merged on October 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135942) over 2 days, 16 additions and 67 deletions in 3 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leaks in WidgetInspector and WidgetInspectorService.<br />
     <sub>[#135828](https://github.com/flutter/flutter/pull/135828) merged on October 2, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135828) over 13 hours, 305 additions and 205 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+
+* **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Simplify assertion in `AsyncSnapshot`<br />
+    <sub>[#135899](https://github.com/flutter/flutter/pull/135899) merged on October 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/135899) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny improve code style by using records instead of lists<br />
     <sub>[#135886](https://github.com/flutter/flutter/pull/135886) merged on October 6, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/135886) over 3 days, 20 additions and 19 deletions in 1 file</sub><br />
