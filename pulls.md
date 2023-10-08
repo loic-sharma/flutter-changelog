@@ -98,3 +98,6 @@
 * **[droidbg](https://github.com/droidbg)** &mdash; [leak-tracking] Add leak tracking in test/painting #1<br />
     <sub>[#136167](https://github.com/flutter/flutter/pull/136167) opened on on October 8, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/136167) 279 additions and 120 deletions in 5 files</sub><br />
 
+* **[droidbg](https://github.com/droidbg)** &mdash; [leak-tracking] Add leak tracking in test/painting #2<br />
+    <sub>[#136169](https://github.com/flutter/flutter/pull/136169) opened on on October 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136169) 31 additions and 29 deletions in 2 files</sub><br />
+
