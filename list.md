@@ -717,9 +717,18 @@
 
 ## flutter/packages
 
+### October 7, 2023 to October 13, 2023
+
+1 commits.
+
+* **[Nate Bosch](https://github.com/natebosch)** &mdash; Add a `skip` to an empty test group
+    <sub>[#5080](https://github.com/flutter/packages/pull/5080) merged on October 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5080) over 3 days, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
+
 ### September 30, 2023 to October 6, 2023
 
-9 commits.
+<details>
+<summary>9 commits...</summary>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] FlutterApi error handling
     <sub>[#5008](https://github.com/flutter/packages/pull/5008) merged on October 4, 2023 &mdash; **Extra large:** [24 comments](https://github.com/flutter/packages/pull/5008) over 1 week, 4865 additions and 1719 deletions in 80 files</sub>
@@ -757,6 +766,8 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Exposes missing `JavaScriptLogLevel` from platform interface
     <sub>[#5061](https://github.com/flutter/packages/pull/5061) merged on October 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5061) over 48 minutes, 11 additions and 2 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+</details>
 
 ### September 23, 2023 to September 29, 2023
 
