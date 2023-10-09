@@ -93,7 +93,7 @@
     <sub>[#136165](https://github.com/flutter/flutter/pull/136165) opened on on October 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136165) 72 additions and 0 deletions in 2 files</sub><br />
 
 * **[droidbg](https://github.com/droidbg)** &mdash; [leak-tracking] Cover testwidgets with leak tracking in test/gestures<br />
-    <sub>[#136166](https://github.com/flutter/flutter/pull/136166) opened on on October 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136166) 173 additions and 70 deletions in 2 files</sub><br />
+    <sub>[#136166](https://github.com/flutter/flutter/pull/136166) opened on on October 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136166) 21 additions and 8 deletions in 2 files</sub><br />
 
 * **[droidbg](https://github.com/droidbg)** &mdash; [leak-tracking] Add leak tracking in test/painting #1<br />
     <sub>[#136167](https://github.com/flutter/flutter/pull/136167) opened on on October 8, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/136167) 279 additions and 120 deletions in 5 files</sub><br />
