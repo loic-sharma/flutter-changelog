@@ -90,7 +90,7 @@
     <sub>[#136121](https://github.com/flutter/flutter/pull/136121) opened on on October 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136121) 63 additions and 20 deletions in 3 files</sub><br />
 
 * **[Veli Bacik](https://github.com/VB10)** &mdash; implemented leadingWidth and automaticallyImplyLeading options <br />
-    <sub>[#136165](https://github.com/flutter/flutter/pull/136165) opened on on October 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136165) 72 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#136165](https://github.com/flutter/flutter/pull/136165) opened on on October 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136165) 72 additions and 0 deletions in 2 files</sub><br />
 
 * **[droidbg](https://github.com/droidbg)** &mdash; [leak-tracking] Cover testwidgets with leak tracking in test/gestures<br />
     <sub>[#136166](https://github.com/flutter/flutter/pull/136166) opened on on October 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136166) 173 additions and 70 deletions in 2 files</sub><br />
