@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### October 7, 2023 to October 13, 2023
+
+1 commits.
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update BottomSheet test for M3 + fix an issue in elevation resolution<br />
+    <sub>[#136071](https://github.com/flutter/flutter/pull/136071) merged on October 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136071) over 2 days, 205 additions and 48 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+
 ### September 30, 2023 to October 6, 2023
 
-21 commits.
+<details>
+<summary>21 commits...</summary>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; RenderEditable should dispose created layers.<br />
     <sub>[#135942](https://github.com/flutter/flutter/pull/135942) merged on October 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135942) over 2 days, 16 additions and 67 deletions in 3 files</sub><br />
@@ -89,6 +98,8 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Marks Linux_samsung_a02 new_gallery__transition_perf to be unflaky"<br />
     <sub>[#136097](https://github.com/flutter/flutter/pull/136097) merged on October 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136097) over 54 seconds, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+</details>
 
 ### September 23, 2023 to September 29, 2023
 
