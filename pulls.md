@@ -110,3 +110,6 @@
 * **[ShaunByrne-UniSA](https://github.com/ShaunByrne-UniSA)** &mdash; Grey out non-selectable days in CupertinoDatePicker<br />
     <sub>[#136181](https://github.com/flutter/flutter/pull/136181) opened on on October 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136181) 164 additions and 1 deletion in 2 files</sub><br />
 
+* **[komorebi](https://github.com/windy-Dandelion)** &mdash; fixed #120557 TextField's autofillHints can be nullable, but an empty list is given in the constructor<br />
+    <sub>[#136189](https://github.com/flutter/flutter/pull/136189) opened on on October 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136189) 1 addition and 1 deletion in 1 file</sub><br />
+
