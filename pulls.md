@@ -17,9 +17,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Test Engine PR "Roll clang with fix for ABI change"<br />
     <sub>[#132581](https://github.com/flutter/flutter/pull/132581) opened on on August 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132581) 2 additions and 1 deletion in 2 files</sub><br />
 
-* **[Tibor Szuntheimer](https://github.com/Producer86)** &mdash; doc: Update Overlay example.<br />
-    <sub>[#132747](https://github.com/flutter/flutter/pull/132747) opened on on August 17, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/132747) 39 additions and 45 deletions in 1 file</sub><br />
-
 * **[Burak İmdat](https://github.com/burakJs)** &mdash; Add viewSearchOnChanged to SearchAnchor<br />
     <sub>[#132924](https://github.com/flutter/flutter/pull/132924) opened on on August 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/132924) 16 additions and 2 deletions in 1 file</sub><br />
 
