@@ -105,7 +105,7 @@
 
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Replace dead link in `CupertinoPicker` documentation
     <sub>[#135897](https://github.com/flutter/flutter/pull/135897) merged on October 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135897) over 11 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove unused InlineSpan methods
     <sub>[#135882](https://github.com/flutter/flutter/pull/135882) merged on October 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135882) over 16 hours, 0 additions and 33 deletions in 2 files</sub>
@@ -337,7 +337,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Config changes for linux coverage.
     <sub>[#135604](https://github.com/flutter/flutter/pull/135604) merged on September 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135604) over 1 hour, 4 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Ricardo Amador](https://github.com/ricardoamador)</sub>
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Upload generated frame-request-pending stats"
     <sub>[#135672](https://github.com/flutter/flutter/pull/135672) merged on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135672) over 4 minutes, 0 additions and 9 deletions in 2 files</sub>
@@ -392,7 +392,7 @@
 
 ### October 7, 2023 to October 13, 2023
 
-2 commits.
+3 commits.
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Optionally support SamplerAddressMode::kDecal on the OpenGLES backend
     <sub>[#46650](https://github.com/flutter/engine/pull/46650) merged on October 9, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/46650) over 2 days, 306 additions and 254 deletions in 17 files</sub>
@@ -401,6 +401,10 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Run DisplayList render tests.
     <sub>[#46422](https://github.com/flutter/engine/pull/46422) merged on October 9, 2023 &mdash; **Extra large:** [10 comments](https://github.com/flutter/engine/pull/46422) over 1 week, 1310 additions and 874 deletions in 14 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Remove obsolete tests that were time sensitive.
+    <sub>[#46686](https://github.com/flutter/engine/pull/46686) merged on October 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/46686) over 55 minutes, 1 addition and 170 deletions in 5 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 ### September 30, 2023 to October 6, 2023
 
@@ -638,7 +642,7 @@
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] performKeyEquivalent cleanup
     <sub>[#45946](https://github.com/flutter/engine/pull/45946) merged on September 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/45946) over 1 week, 14 additions and 44 deletions in 2 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Bruno Leroux](https://github.com/bleroux)</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add initial support for 4x MSAA in OpenGLES backend.
     <sub>[#46381](https://github.com/flutter/engine/pull/46381) merged on September 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/46381) over 41 minutes, 48 additions and 13 deletions in 5 files</sub>
