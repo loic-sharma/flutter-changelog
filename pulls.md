@@ -53,6 +53,9 @@
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Provide parameter to Icon and IconThemeData for they to consider the context's text scaler<br />
     <sub>[#135708](https://github.com/flutter/flutter/pull/135708) opened on on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135708) 165 additions and 3 deletions in 4 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Update Java/AGP/Gradle warning compatible Java range<br />
+    <sub>[#135710](https://github.com/flutter/flutter/pull/135710) opened on on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135710) 1 addition and 1 deletion in 1 file</sub><br />
+
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Use Layer.toImage for CanvasKit golden tests<br />
     <sub>[#135711](https://github.com/flutter/flutter/pull/135711) opened on on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135711) 171 additions and 54 deletions in 5 files</sub><br />
 
@@ -96,7 +99,7 @@
     <sub>[#136166](https://github.com/flutter/flutter/pull/136166) opened on on October 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136166) 12 additions and 5 deletions in 2 files</sub><br />
 
 * **[droidbg](https://github.com/droidbg)** &mdash; [leak-tracking] Add leak tracking in test/painting #1<br />
-    <sub>[#136167](https://github.com/flutter/flutter/pull/136167) opened on on October 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136167) 20 additions and 15 deletions in 5 files</sub><br />
+    <sub>[#136167](https://github.com/flutter/flutter/pull/136167) opened on on October 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136167) 20 additions and 15 deletions in 5 files</sub><br />
 
 * **[Abhi](https://github.com/gitabhisingh)** &mdash; [136172] Added rowsPerPageTitle to customize rows per page text <br />
     <sub>[#136173](https://github.com/flutter/flutter/pull/136173) opened on on October 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136173) 6 additions and 1 deletion in 1 file</sub><br />
