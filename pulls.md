@@ -104,3 +104,6 @@
 * **[droidbg](https://github.com/droidbg)** &mdash; [leak-tracking] Add more leak tracking in test/painting #3<br />
     <sub>[#136170](https://github.com/flutter/flutter/pull/136170) opened on on October 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136170) 28 additions and 24 deletions in 4 files</sub><br />
 
+* **[Abhi](https://github.com/gitabhisingh)** &mdash; [136172] Added rowsPerPageTitle to customize rows per page text <br />
+    <sub>[#136173](https://github.com/flutter/flutter/pull/136173) opened on on October 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136173) 6 additions and 1 deletion in 1 file</sub><br />
+
