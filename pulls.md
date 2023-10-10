@@ -98,3 +98,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove long-skipped test<br />
     <sub>[#136295](https://github.com/flutter/flutter/pull/136295) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136295) 0 additions and 4 deletions in 1 file</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Stop recommending android sdk root<br />
+    <sub>[#136296](https://github.com/flutter/flutter/pull/136296) opened on on October 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136296) 19 additions and 19 deletions in 9 files</sub><br />
+
