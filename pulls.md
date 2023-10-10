@@ -107,6 +107,3 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Switch to Chrome for Testing instead of vanilla Chromium.<br />
     <sub>[#136214](https://github.com/flutter/flutter/pull/136214) opened on on October 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136214) 75 additions and 75 deletions in 1 file</sub><br />
 
-* **[xubaolin](https://github.com/xu-baolin)** &mdash; [SingleChildScrollView] Correct the offset pixels if it is out of range during layout<br />
-    <sub>[#136239](https://github.com/flutter/flutter/pull/136239) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136239) 53 additions and 16 deletions in 4 files</sub><br />
-
