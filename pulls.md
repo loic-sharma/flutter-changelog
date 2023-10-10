@@ -98,3 +98,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; TimePickerDialog should dispose created ChangeNotifiers.<br />
     <sub>[#136261](https://github.com/flutter/flutter/pull/136261) opened on on October 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136261) 95 additions and 73 deletions in 2 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; _RenderSnapshotWidget should dispose created OffsetLayer.<br />
+    <sub>[#136267](https://github.com/flutter/flutter/pull/136267) opened on on October 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136267) 4 additions and 13 deletions in 2 files</sub><br />
+
