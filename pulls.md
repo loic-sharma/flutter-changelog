@@ -69,7 +69,7 @@
     <sub>[#135879](https://github.com/flutter/flutter/pull/135879) opened on on October 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135879) 25 additions and 2 deletions in 5 files</sub><br />
 
 * **[yakagami](https://github.com/yakagami)** &mdash; add sourceTimeStamp to ScaleUpdateDetails<br />
-    <sub>[#135936](https://github.com/flutter/flutter/pull/135936) opened on on October 3, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135936) 41 additions and 9 deletions in 2 files</sub><br />
+    <sub>[#135936](https://github.com/flutter/flutter/pull/135936) opened on on October 3, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/135936) 41 additions and 9 deletions in 2 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update asset manifest file name referenced in `WebServiceWorker`<br />
     <sub>[#135954](https://github.com/flutter/flutter/pull/135954) opened on on October 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135954) 2 additions and 2 deletions in 2 files</sub><br />
@@ -94,9 +94,6 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Switch to Chrome for Testing instead of vanilla Chromium.<br />
     <sub>[#136214](https://github.com/flutter/flutter/pull/136214) opened on on October 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136214) 75 additions and 75 deletions in 1 file</sub><br />
-
-* **[droidbg](https://github.com/droidbg)** &mdash; [leak-tracking] Add leak tracking in test/rendering - 1<br />
-    <sub>[#136275](https://github.com/flutter/flutter/pull/136275) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136275) 17 additions and 14 deletions in 5 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] catch StdinException when setting terminal to SingleCharMode<br />
     <sub>[#136283](https://github.com/flutter/flutter/pull/136283) opened on on October 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136283) 60 additions and 9 deletions in 3 files</sub><br />
