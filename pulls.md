@@ -95,11 +95,11 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Switch to Chrome for Testing instead of vanilla Chromium.<br />
     <sub>[#136214](https://github.com/flutter/flutter/pull/136214) opened on on October 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136214) 75 additions and 75 deletions in 1 file</sub><br />
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add `Card.filled` and `Card.outlined` factory methods<br />
+    <sub>[#136229](https://github.com/flutter/flutter/pull/136229) opened on on October 9, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/136229) 364 additions and 112 deletions in 11 files</sub><br />
+
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] allow tool integration tests to quit on SIGINT<br />
     <sub>[#136271](https://github.com/flutter/flutter/pull/136271) opened on on October 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136271) 2 additions and 3 deletions in 1 file</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix typo in function name<br />
-    <sub>[#136273](https://github.com/flutter/flutter/pull/136273) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136273) 6 additions and 6 deletions in 5 files</sub><br />
 
 * **[droidbg](https://github.com/droidbg)** &mdash; [leak-tracking] Add leak tracking in test/rendering - 1<br />
     <sub>[#136275](https://github.com/flutter/flutter/pull/136275) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136275) 17 additions and 14 deletions in 5 files</sub><br />
