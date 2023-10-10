@@ -32,7 +32,7 @@
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Seperate localization tests for Material2 and Material3<br />
     <sub>[#135779](https://github.com/flutter/flutter/pull/135779) merged on October 10, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135779) over 1 week, 529 additions and 45 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; TestClipPaintingContext should dispose ContainerLayer<br />
     <sub>[#135949](https://github.com/flutter/flutter/pull/135949) merged on October 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135949) over 6 days, 16 additions and 23 deletions in 3 files</sub><br />
@@ -133,7 +133,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add first Arm64 plugin tests<br />
     <sub>[#135512](https://github.com/flutter/flutter/pull/135512) merged on October 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135512) over 1 week, 38 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Bump dart-lang/native deps<br />
     <sub>[#135905](https://github.com/flutter/flutter/pull/135905) merged on October 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135905) over 12 hours, 5 additions and 5 deletions in 2 files</sub><br />
@@ -671,7 +671,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Clean up the docstring for ColorFilter.matrix<br />
     <sub>[#46298](https://github.com/flutter/engine/pull/46298) merged on September 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46298) over 37 minutes, 3 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert stencil config changes.<br />
     <sub>[#46386](https://github.com/flutter/engine/pull/46386) merged on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46386) over 37 minutes, 9 additions and 31 deletions in 3 files</sub><br />
@@ -870,7 +870,7 @@
 
 ### October 7, 2023 to October 13, 2023
 
-9 commits.
+11 commits.
 
 * **[chrisdlangham](https://github.com/chrisdlangham)** &mdash; [platform] Example app for platform<br />
     <sub>[#4834](https://github.com/flutter/packages/pull/4834) merged on October 9, 2023 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/4834) over 1 month, 4215 additions and 1 deletion in 114 files</sub><br />
@@ -904,6 +904,14 @@
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Add a `skip` to an empty test group<br />
     <sub>[#5080](https://github.com/flutter/packages/pull/5080) merged on October 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5080) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub><br />
+
+* **[Eliseu Codinhoto](https://github.com/zeucxb)** &mdash; Update repo README issues link<br />
+    <sub>[#5106](https://github.com/flutter/packages/pull/5106) merged on October 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5106) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Joachim Nohl](https://github.com/nohli)** &mdash; [flutter_markdown] Fix typo in readme<br />
+    <sub>[#5096](https://github.com/flutter/packages/pull/5096) merged on October 10, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/5096) over 1 day, 7 additions and 3 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Hrishikesh Kadam](https://github.com/hrishikesh-kadam)** &mdash; [go_router] Fixes missing state.extra in onException()<br />
     <sub>[#5077](https://github.com/flutter/packages/pull/5077) merged on October 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5077) over 4 days, 30 additions and 3 deletions in 4 files</sub><br />

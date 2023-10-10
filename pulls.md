@@ -101,3 +101,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Stop recommending android sdk root<br />
     <sub>[#136296](https://github.com/flutter/flutter/pull/136296) opened on on October 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136296) 19 additions and 19 deletions in 9 files</sub><br />
 
+* **[Aran Donohue](https://github.com/aran)** &mdash; Support --web-header option for flutter run<br />
+    <sub>[#136297](https://github.com/flutter/flutter/pull/136297) opened on on October 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136297) 47 additions and 0 deletions in 5 files</sub><br />
+
