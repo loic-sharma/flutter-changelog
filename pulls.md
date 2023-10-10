@@ -45,7 +45,7 @@
     <sub>[#135348](https://github.com/flutter/flutter/pull/135348) opened on on September 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135348) 1 addition and 15 deletions in 4 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Flutter preview device<br />
-    <sub>[#135639](https://github.com/flutter/flutter/pull/135639) opened on on September 28, 2023 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/135639) 1452 additions and 651 deletions in 24 files</sub><br />
+    <sub>[#135639](https://github.com/flutter/flutter/pull/135639) opened on on September 28, 2023 &mdash; **Extra large:** [16 comments](https://github.com/flutter/flutter/pull/135639) 1460 additions and 655 deletions in 24 files</sub><br />
 
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Provide parameter to Icon and IconThemeData for they to consider the context's text scaler<br />
     <sub>[#135708](https://github.com/flutter/flutter/pull/135708) opened on on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135708) 165 additions and 3 deletions in 4 files</sub><br />
