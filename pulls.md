@@ -99,7 +99,7 @@
     <sub>[#136275](https://github.com/flutter/flutter/pull/136275) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136275) 17 additions and 14 deletions in 5 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] catch StdinException when setting terminal to SingleCharMode<br />
-    <sub>[#136283](https://github.com/flutter/flutter/pull/136283) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136283) 60 additions and 9 deletions in 3 files</sub><br />
+    <sub>[#136283](https://github.com/flutter/flutter/pull/136283) opened on on October 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136283) 60 additions and 9 deletions in 3 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; feat:: add new option to trigger onTapOutside<br />
     <sub>[#136291](https://github.com/flutter/flutter/pull/136291) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136291) 95 additions and 2 deletions in 5 files</sub><br />
