@@ -96,5 +96,5 @@
     <sub>[#136214](https://github.com/flutter/flutter/pull/136214) opened on on October 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136214) 75 additions and 75 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; TimePickerDialog should dispose created ChangeNotifiers.<br />
-    <sub>[#136261](https://github.com/flutter/flutter/pull/136261) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136261) 95 additions and 73 deletions in 2 files</sub><br />
+    <sub>[#136261](https://github.com/flutter/flutter/pull/136261) opened on on October 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136261) 95 additions and 73 deletions in 2 files</sub><br />
 
