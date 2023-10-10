@@ -23,9 +23,6 @@
 * **[YeLinAung](https://github.com/b14cknc0d3)** &mdash; added '.fvm/flutter_sdk ' in .gitignore.tmp<br />
     <sub>[#133107](https://github.com/flutter/flutter/pull/133107) opened on on August 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133107) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] restore old zoom page transition for benchmarking.<br />
-    <sub>[#133346](https://github.com/flutter/flutter/pull/133346) opened on on August 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/133346) 234 additions and 0 deletions in 4 files</sub><br />
-
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; [feat] `RefreshIndicator.noSpinner` implementation<br />
     <sub>[#133507](https://github.com/flutter/flutter/pull/133507) opened on on August 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133507) 94 additions and 3 deletions in 2 files</sub><br />
 
@@ -98,9 +95,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Switch to Chrome for Testing instead of vanilla Chromium.<br />
     <sub>[#136214](https://github.com/flutter/flutter/pull/136214) opened on on October 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136214) 75 additions and 75 deletions in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Delete simulator after plugin_test_ios<br />
-    <sub>[#136265](https://github.com/flutter/flutter/pull/136265) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136265) 17 additions and 11 deletions in 1 file</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] allow tool integration tests to quit on SIGINT<br />
-    <sub>[#136271](https://github.com/flutter/flutter/pull/136271) opened on on October 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136271) 2 additions and 3 deletions in 1 file</sub><br />
+    <sub>[#136271](https://github.com/flutter/flutter/pull/136271) opened on on October 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136271) 2 additions and 3 deletions in 1 file</sub><br />
 

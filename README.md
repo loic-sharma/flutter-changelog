@@ -4,7 +4,7 @@
 
 ### October 7, 2023 to October 13, 2023
 
-14 commits.
+15 commits.
 
 * **[Hassan](https://github.com/htoor3)** &mdash; [web] Fix `page up` `page down` `home` `end` shortcut behavior on web<br />
     <sub>[#135454](https://github.com/flutter/flutter/pull/135454) merged on October 9, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/135454) over 1 week, 544 additions and 10 deletions in 2 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; TestClipPaintingContext should dispose ContainerLayer<br />
     <sub>[#135949](https://github.com/flutter/flutter/pull/135949) merged on October 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135949) over 6 days, 16 additions and 23 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Delete simulator after plugin_test_ios<br />
+    <sub>[#136265](https://github.com/flutter/flutter/pull/136265) merged on October 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136265) over 1 hour, 17 additions and 11 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/material tests with leak tracking.<br />
     <sub>[#136093](https://github.com/flutter/flutter/pull/136093) merged on October 10, 2023 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/136093) over 3 days, 396 additions and 248 deletions in 12 files</sub><br />
