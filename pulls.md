@@ -98,3 +98,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Delete simulator after plugin_test_ios<br />
     <sub>[#136265](https://github.com/flutter/flutter/pull/136265) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136265) 17 additions and 11 deletions in 1 file</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] allow tool integration tests to quit on SIGINT<br />
+    <sub>[#136271](https://github.com/flutter/flutter/pull/136271) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136271) 2 additions and 3 deletions in 1 file</sub><br />
+
