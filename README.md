@@ -24,7 +24,7 @@
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Seperate localization tests for Material2 and Material3<br />
     <sub>[#135779](https://github.com/flutter/flutter/pull/135779) merged on October 10, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135779) over 1 week, 529 additions and 45 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; TestClipPaintingContext should dispose ContainerLayer<br />
     <sub>[#135949](https://github.com/flutter/flutter/pull/135949) merged on October 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135949) over 6 days, 16 additions and 23 deletions in 3 files</sub><br />
@@ -313,7 +313,7 @@
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a basic golden test for `CupertinoTextSelectionToolbar`<br />
     <sub>[#135267](https://github.com/flutter/flutter/pull/135267) merged on September 25, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/135267) over 3 days, 52 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Tomasz Gucio](https://github.com/tgucio)</sub><br />
+    <sub>Reviewed by: [Tomasz Gucio](https://github.com/tgucio), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; leak track page_test.dart<br />
     <sub>[#135352](https://github.com/flutter/flutter/pull/135352) merged on October 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135352) over 1 week, 17 additions and 10 deletions in 1 file</sub><br />
@@ -850,7 +850,7 @@
 
 ### October 7, 2023 to October 13, 2023
 
-8 commits.
+9 commits.
 
 * **[chrisdlangham](https://github.com/chrisdlangham)** &mdash; [platform] Example app for platform<br />
     <sub>[#4834](https://github.com/flutter/packages/pull/4834) merged on October 9, 2023 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/4834) over 1 month, 4215 additions and 1 deletion in 114 files</sub><br />
@@ -860,6 +860,10 @@
     <sub>[#5085](https://github.com/flutter/packages/pull/5085) merged on October 10, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/5085) over 3 days, 235 additions and 13 deletions in 8 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
     <sub><details><summary>1 image...</summary><img width="388" alt="Screenshot 2023-10-06 at 3 36 46 PM" src="https://github.com/flutter/packages/assets/3756895/d9e78c99-bb1d-4f47-a0d4-2f699fa9f743"></details></sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implements torch mode<br />
+    <sub>[#4903](https://github.com/flutter/packages/pull/4903) merged on October 10, 2023 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/4903) over 4 weeks, 1337 additions and 305 deletions in 26 files</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [process] Import the `process` package<br />
     <sub>[#5095](https://github.com/flutter/packages/pull/5095) merged on October 9, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/5095) over 3 hours, 1686 additions and 2 deletions in 19 files</sub><br />
