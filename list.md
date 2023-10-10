@@ -785,11 +785,16 @@
 
 ### October 7, 2023 to October 13, 2023
 
-4 commits.
+5 commits.
 
 * **[chrisdlangham](https://github.com/chrisdlangham)** &mdash; [platform] Example app for platform
     <sub>[#4834](https://github.com/flutter/packages/pull/4834) merged on October 9, 2023 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/4834) over 1 month, 4215 additions and 1 deletion in 114 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Chris Yang](https://github.com/cyanglaz)** &mdash; [google_map_flutter_ios] fix `didBeginDraggingMarker` typo
+    <sub>[#5085](https://github.com/flutter/packages/pull/5085) merged on October 10, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/5085) over 3 days, 235 additions and 13 deletions in 8 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+    <sub><details><summary>1 image...</summary><img width="388" alt="Screenshot 2023-10-06 at 3 36 46 PM" src="https://github.com/flutter/packages/assets/3756895/d9e78c99-bb1d-4f47-a0d4-2f699fa9f743"></details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [process] Import the `process` package
     <sub>[#5095](https://github.com/flutter/packages/pull/5095) merged on October 9, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/5095) over 3 hours, 1686 additions and 2 deletions in 19 files</sub>
