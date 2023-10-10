@@ -77,14 +77,8 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; clean up `--dart-define-from-file` option tests<br />
     <sub>[#135980](https://github.com/flutter/flutter/pull/135980) opened on on October 4, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135980) 369 additions and 390 deletions in 4 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; RenderAnnotatedRegion should dispose created layers.<br />
-    <sub>[#136086](https://github.com/flutter/flutter/pull/136086) opened on on October 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136086) 12 additions and 12 deletions in 2 files</sub><br />
-
 * **[rekire](https://github.com/rekire)** &mdash; Update German translations<br />
     <sub>[#136091](https://github.com/flutter/flutter/pull/136091) opened on on October 6, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/136091) 102 additions and 227 deletions in 5 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover more test/material tests with leak tracking.<br />
-    <sub>[#136093](https://github.com/flutter/flutter/pull/136093) opened on on October 6, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/136093) 400 additions and 248 deletions in 12 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; SearchAnchor should dispose created FocusNode and SearchController.<br />
     <sub>[#136120](https://github.com/flutter/flutter/pull/136120) opened on on October 7, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/136120) 243 additions and 75 deletions in 2 files</sub><br />
