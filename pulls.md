@@ -98,3 +98,9 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] allow tool integration tests to quit on SIGINT<br />
     <sub>[#136271](https://github.com/flutter/flutter/pull/136271) opened on on October 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136271) 2 additions and 3 deletions in 1 file</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix typo in function name<br />
+    <sub>[#136273](https://github.com/flutter/flutter/pull/136273) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136273) 6 additions and 6 deletions in 5 files</sub><br />
+
+* **[droidbg](https://github.com/droidbg)** &mdash; [leak-tracking] Add leak tracking in test/rendering - 1<br />
+    <sub>[#136275](https://github.com/flutter/flutter/pull/136275) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136275) 17 additions and 14 deletions in 5 files</sub><br />
+
