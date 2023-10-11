@@ -104,3 +104,6 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Change some usage of RawKeyEvent to KeyEvent in preparation for deprecation<br />
     <sub>[#136420](https://github.com/flutter/flutter/pull/136420) opened on on October 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136420) 106 additions and 163 deletions in 7 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] handle ERROR_INVALID_FUNCTION when trying to symlink across drives<br />
+    <sub>[#136424](https://github.com/flutter/flutter/pull/136424) opened on on October 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136424) 26 additions and 0 deletions in 2 files</sub><br />
+
