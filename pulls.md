@@ -78,7 +78,7 @@
     <sub>[#136165](https://github.com/flutter/flutter/pull/136165) opened on on October 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136165) 72 additions and 0 deletions in 2 files</sub><br />
 
 * **[Abhi](https://github.com/gitabhisingh)** &mdash; [136172] Added rowsPerPageTitle to customize rows per page text <br />
-    <sub>[#136173](https://github.com/flutter/flutter/pull/136173) opened on on October 9, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/136173) 39 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#136173](https://github.com/flutter/flutter/pull/136173) opened on on October 9, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/136173) 71 additions and 1 deletion in 2 files</sub><br />
 
 * **[ShaunByrne-UniSA](https://github.com/ShaunByrne-UniSA)** &mdash; Grey out non-selectable days in CupertinoDatePicker<br />
     <sub>[#136181](https://github.com/flutter/flutter/pull/136181) opened on on October 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136181) 164 additions and 1 deletion in 2 files</sub><br />
@@ -90,7 +90,7 @@
     <sub>[#136291](https://github.com/flutter/flutter/pull/136291) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136291) 94 additions and 1 deletion in 5 files</sub><br />
 
 * **[Aran Donohue](https://github.com/aran)** &mdash; Support --web-header option for flutter run<br />
-    <sub>[#136297](https://github.com/flutter/flutter/pull/136297) opened on on October 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136297) 107 additions and 0 deletions in 6 files</sub><br />
+    <sub>[#136297](https://github.com/flutter/flutter/pull/136297) opened on on October 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136297) 107 additions and 0 deletions in 6 files</sub><br />
 
 * **[droidbg](https://github.com/droidbg)** &mdash; [leak-tracking] Add leak tracking in test/rendering -3<br />
     <sub>[#136308](https://github.com/flutter/flutter/pull/136308) opened on on October 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136308) 125 additions and 62 deletions in 1 file</sub><br />
