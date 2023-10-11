@@ -4,7 +4,7 @@
 
 ### October 7, 2023 to October 13, 2023
 
-25 commits.
+26 commits.
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix flakiness: finalize dropped gestures in tests to release resources, and update doc-comment.
     <sub>[#136136](https://github.com/flutter/flutter/pull/136136) merged on October 11, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/136136) over 3 days, 313 additions and 105 deletions in 24 files</sub>
@@ -40,7 +40,7 @@
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Seperate localization tests for Material2 and Material3
     <sub>[#135779](https://github.com/flutter/flutter/pull/135779) merged on October 10, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135779) over 1 week, 529 additions and 45 deletions in 4 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; TestClipPaintingContext should dispose ContainerLayer
     <sub>[#135949](https://github.com/flutter/flutter/pull/135949) merged on October 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135949) over 6 days, 16 additions and 23 deletions in 3 files</sub>
@@ -69,6 +69,10 @@
 * **[huycozy](https://github.com/huycozy)** &mdash; Migrate the "Non-speed related performance issues" issue template to Github forms
     <sub>[#135130](https://github.com/flutter/flutter/pull/135130) merged on October 10, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/135130) over 2 weeks, 114 additions and 67 deletions in 2 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `FlexibleSpaceBar` does compositing with near zero opacity.
+    <sub>[#136255](https://github.com/flutter/flutter/pull/136255) merged on October 11, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/136255) over 16 hours, 41 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Relaxed a test on `Paint.toString()` to ignore `dither: ...`.
     <sub>[#136302](https://github.com/flutter/flutter/pull/136302) merged on October 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136302) over 46 minutes, 8 additions and 16 deletions in 1 file</sub>
@@ -169,7 +173,7 @@
 
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Replace dead link in `CupertinoPicker` documentation
     <sub>[#135897](https://github.com/flutter/flutter/pull/135897) merged on October 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135897) over 11 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove unused InlineSpan methods
     <sub>[#135882](https://github.com/flutter/flutter/pull/135882) merged on October 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135882) over 16 hours, 0 additions and 33 deletions in 2 files</sub>
@@ -401,7 +405,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Config changes for linux coverage.
     <sub>[#135604](https://github.com/flutter/flutter/pull/135604) merged on September 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135604) over 1 hour, 4 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [keyonghan](https://github.com/keyonghan)</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Ricardo Amador](https://github.com/ricardoamador)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Upload generated frame-request-pending stats"
     <sub>[#135672](https://github.com/flutter/flutter/pull/135672) merged on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135672) over 4 minutes, 0 additions and 9 deletions in 2 files</sub>
