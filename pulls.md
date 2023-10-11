@@ -84,7 +84,7 @@
     <sub>[#136181](https://github.com/flutter/flutter/pull/136181) opened on on October 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136181) 164 additions and 1 deletion in 2 files</sub><br />
 
 * **[komorebi](https://github.com/windy-Dandelion)** &mdash; fixed #120557 TextField's autofillHints can be nullable, but an empty list is given in the constructor<br />
-    <sub>[#136189](https://github.com/flutter/flutter/pull/136189) opened on on October 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136189) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#136189](https://github.com/flutter/flutter/pull/136189) opened on on October 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136189) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; feat:: add new option to trigger onTapOutside<br />
     <sub>[#136291](https://github.com/flutter/flutter/pull/136291) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136291) 94 additions and 1 deletion in 5 files</sub><br />
@@ -106,7 +106,4 @@
 
 * **[Rudra](https://github.com/Rudra-Ji)** &mdash; [dev][tools] : fix typo<br />
     <sub>[#136360](https://github.com/flutter/flutter/pull/136360) opened on on October 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136360) 201 additions and 90 deletions in 1 file</sub><br />
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix some deprecation details<br />
-    <sub>[#136385](https://github.com/flutter/flutter/pull/136385) opened on on October 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136385) 5 additions and 3 deletions in 2 files</sub><br />
 
