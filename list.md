@@ -477,7 +477,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Don't cull readbacks outside the damage rect.
     <sub>[#46705](https://github.com/flutter/engine/pull/46705) merged on October 10, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/46705) over 10 hours, 51 additions and 14 deletions in 4 files</sub>
-    <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [gaaclarke](https://github.com/gaaclarke)</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Matej Knopp](https://github.com/knopp)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; use TextFrame calls for Impeller in rendertests
     <sub>[#46696](https://github.com/flutter/engine/pull/46696) merged on October 10, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/46696) over 16 hours, 92 additions and 29 deletions in 4 files</sub>
@@ -759,7 +759,7 @@
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] performKeyEquivalent cleanup
     <sub>[#45946](https://github.com/flutter/engine/pull/45946) merged on September 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/45946) over 1 week, 14 additions and 44 deletions in 2 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Bruno Leroux](https://github.com/bleroux)</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add initial support for 4x MSAA in OpenGLES backend.
     <sub>[#46381](https://github.com/flutter/engine/pull/46381) merged on September 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/46381) over 41 minutes, 48 additions and 13 deletions in 5 files</sub>
