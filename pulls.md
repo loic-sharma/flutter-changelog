@@ -39,7 +39,7 @@
     <sub>[#135175](https://github.com/flutter/flutter/pull/135175) opened on on September 20, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/135175) 1149 additions and 701 deletions in 48 files</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try flutter/engine#46130<br />
-    <sub>[#135254](https://github.com/flutter/flutter/pull/135254) opened on on September 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135254) 3 additions and 2 deletions in 3 files</sub><br />
+    <sub>[#135254](https://github.com/flutter/flutter/pull/135254) opened on on September 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135254) 3 additions and 2 deletions in 3 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Chore/gradle remove redundant apply<br />
     <sub>[#135348](https://github.com/flutter/flutter/pull/135348) opened on on September 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135348) 1 addition and 15 deletions in 4 files</sub><br />
@@ -80,7 +80,7 @@
 * **[Abhi](https://github.com/gitabhisingh)** &mdash; [136172] Added rowsPerPageTitle to customize rows per page text <br />
     <sub>[#136173](https://github.com/flutter/flutter/pull/136173) opened on on October 9, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/136173) 71 additions and 1 deletion in 2 files</sub><br />
 
-* **[ShaunByrne-UniSA](https://github.com/ShaunByrne-UniSA)** &mdash; Grey out non-selectable days in CupertinoDatePicker<br />
+* **[Shaun Byrne](https://github.com/ShaunByrne-UniSA)** &mdash; Grey out non-selectable days in CupertinoDatePicker<br />
     <sub>[#136181](https://github.com/flutter/flutter/pull/136181) opened on on October 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136181) 164 additions and 1 deletion in 2 files</sub><br />
 
 * **[komorebi](https://github.com/windy-Dandelion)** &mdash; fixed #120557 TextField's autofillHints can be nullable, but an empty list is given in the constructor<br />
