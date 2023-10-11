@@ -86,7 +86,7 @@
 * **[komorebi](https://github.com/windy-Dandelion)** &mdash; fixed #120557 TextField's autofillHints can be nullable, but an empty list is given in the constructor<br />
     <sub>[#136189](https://github.com/flutter/flutter/pull/136189) opened on on October 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136189) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; feat:: add new option to trigger onTapOutside<br />
+* **[Mairramer](https://github.com/Mairramer)** &mdash; feat:: add the possibility of execute onTapOutside only if has focus<br />
     <sub>[#136291](https://github.com/flutter/flutter/pull/136291) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136291) 94 additions and 1 deletion in 5 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Stop recommending android sdk root<br />
