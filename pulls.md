@@ -113,3 +113,6 @@
 * **[droidbg](https://github.com/droidbg)** &mdash; [leak-tracking] Add leak tracking in test/rendering -2<br />
     <sub>[#136310](https://github.com/flutter/flutter/pull/136310) opened on on October 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136310) 19 additions and 24 deletions in 4 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `NavigationRail`'s indicator inkwell doesn't support transparent color.<br />
+    <sub>[#136359](https://github.com/flutter/flutter/pull/136359) opened on on October 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136359) 66 additions and 2 deletions in 2 files</sub><br />
+
