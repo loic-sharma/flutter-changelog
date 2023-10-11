@@ -4,7 +4,11 @@
 
 ### October 7, 2023 to October 13, 2023
 
-22 commits.
+24 commits.
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `SizeTransition.fixedCrossAxisSizeFactor` 
+    <sub>[#134659](https://github.com/flutter/flutter/pull/134659) merged on October 11, 2023 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/134659) over 3 weeks, 140 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Hassan](https://github.com/htoor3)** &mdash; [web] Fix `page up` `page down` `home` `end` shortcut behavior on web
     <sub>[#135454](https://github.com/flutter/flutter/pull/135454) merged on October 9, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/135454) over 1 week, 544 additions and 10 deletions in 2 files</sub>
@@ -61,6 +65,10 @@
 * **[huycozy](https://github.com/huycozy)** &mdash; Migrate the "Non-speed related performance issues" issue template to Github forms
     <sub>[#135130](https://github.com/flutter/flutter/pull/135130) merged on October 10, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/135130) over 2 weeks, 114 additions and 67 deletions in 2 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Relaxed a test on `Paint.toString()` to ignore `dither: ...`.
+    <sub>[#136302](https://github.com/flutter/flutter/pull/136302) merged on October 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136302) over 46 minutes, 8 additions and 16 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `CircleAvatar` & `DataTable` tests for Material 3
     <sub>[#135901](https://github.com/flutter/flutter/pull/135901) merged on October 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135901) over 5 days, 52 additions and 5 deletions in 2 files</sub>
@@ -444,7 +452,7 @@
 
 ### October 7, 2023 to October 13, 2023
 
-12 commits.
+13 commits.
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Optionally support SamplerAddressMode::kDecal on the OpenGLES backend
     <sub>[#46650](https://github.com/flutter/engine/pull/46650) merged on October 9, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/46650) over 2 days, 306 additions and 254 deletions in 17 files</sub>
@@ -486,6 +494,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Remove obsolete tests that were time sensitive.
     <sub>[#46686](https://github.com/flutter/engine/pull/46686) merged on October 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/46686) over 55 minutes, 1 addition and 170 deletions in 5 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Guard calls to extension proc DebugMessageControlKHR.
+    <sub>[#46747](https://github.com/flutter/engine/pull/46747) merged on October 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46747) over 34 minutes, 8 additions and 6 deletions in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Fix high FPS screen flicker of Platform Views when using ImageReaderPlatformViewRenderTarget
     <sub>[#46724](https://github.com/flutter/engine/pull/46724) merged on October 10, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/engine/pull/46724) over 2 hours, 273 additions and 178 deletions in 10 files</sub>
