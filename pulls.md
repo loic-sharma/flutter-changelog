@@ -104,3 +104,6 @@
 * **[Rudra](https://github.com/Rudra-Ji)** &mdash; [dev][tools] : fix typo<br />
     <sub>[#136360](https://github.com/flutter/flutter/pull/136360) opened on on October 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136360) 201 additions and 90 deletions in 1 file</sub><br />
 
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Change some usage of RawKeyEvent to KeyEvent in preparation for deprecation<br />
+    <sub>[#136420](https://github.com/flutter/flutter/pull/136420) opened on on October 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136420) 106 additions and 163 deletions in 7 files</sub><br />
+
