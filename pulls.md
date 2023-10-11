@@ -69,7 +69,7 @@
     <sub>[#135936](https://github.com/flutter/flutter/pull/135936) opened on on October 3, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/135936) 53 additions and 15 deletions in 2 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update asset manifest file name referenced in `WebServiceWorker`<br />
-    <sub>[#135954](https://github.com/flutter/flutter/pull/135954) opened on on October 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135954) 3 additions and 3 deletions in 2 files</sub><br />
+    <sub>[#135954](https://github.com/flutter/flutter/pull/135954) opened on on October 4, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/135954) 3 additions and 3 deletions in 2 files</sub><br />
 
 * **[rekire](https://github.com/rekire)** &mdash; Update German translations<br />
     <sub>[#136091](https://github.com/flutter/flutter/pull/136091) opened on on October 6, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/136091) 102 additions and 227 deletions in 5 files</sub><br />
