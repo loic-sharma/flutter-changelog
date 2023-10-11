@@ -699,7 +699,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Clean up the docstring for ColorFilter.matrix
     <sub>[#46298](https://github.com/flutter/engine/pull/46298) merged on September 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46298) over 37 minutes, 3 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Matan Lurey](https://github.com/matanlurey)</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert stencil config changes.
     <sub>[#46386](https://github.com/flutter/engine/pull/46386) merged on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46386) over 37 minutes, 9 additions and 31 deletions in 3 files</sub>
@@ -917,6 +917,10 @@
     <sub>[#5095](https://github.com/flutter/packages/pull/5095) merged on October 9, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/5095) over 3 hours, 1686 additions and 2 deletions in 19 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix paint bug when rows/columns are pinned and axes are reversed
+    <sub>[#5038](https://github.com/flutter/packages/pull/5038) merged on October 10, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/5038) over 1 week, 108 additions and 27 deletions in 7 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
 * **[Nikolas Rimikis](https://github.com/Leptopoda)** &mdash; [shared_preferences] fix documentation wording
     <sub>[#4986](https://github.com/flutter/packages/pull/4986) merged on October 10, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/4986) over 2 weeks, 6 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
@@ -924,10 +928,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on either macOS 12 or macOS 13
     <sub>[#5089](https://github.com/flutter/packages/pull/5089) merged on October 10, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/5089) over 1 day, 80 additions and 5 deletions in 5 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix paint bug when rows/columns are pinned and axes are reversed
-    <sub>[#5038](https://github.com/flutter/packages/pull/5038) merged on October 10, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/5038) over 1 week, 108 additions and 27 deletions in 7 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Add a `skip` to an empty test group
     <sub>[#5080](https://github.com/flutter/packages/pull/5080) merged on October 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5080) over 3 days, 1 addition and 1 deletion in 1 file</sub>
