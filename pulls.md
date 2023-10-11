@@ -84,7 +84,7 @@
     <sub>[#136165](https://github.com/flutter/flutter/pull/136165) opened on on October 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136165) 72 additions and 0 deletions in 2 files</sub><br />
 
 * **[Abhi](https://github.com/gitabhisingh)** &mdash; [136172] Added rowsPerPageTitle to customize rows per page text <br />
-    <sub>[#136173](https://github.com/flutter/flutter/pull/136173) opened on on October 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136173) 6 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#136173](https://github.com/flutter/flutter/pull/136173) opened on on October 9, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/136173) 6 additions and 1 deletion in 1 file</sub><br />
 
 * **[ShaunByrne-UniSA](https://github.com/ShaunByrne-UniSA)** &mdash; Grey out non-selectable days in CupertinoDatePicker<br />
     <sub>[#136181](https://github.com/flutter/flutter/pull/136181) opened on on October 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136181) 164 additions and 1 deletion in 2 files</sub><br />
@@ -115,4 +115,7 @@
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `NavigationRail`'s indicator inkwell doesn't support transparent color.<br />
     <sub>[#136359](https://github.com/flutter/flutter/pull/136359) opened on on October 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136359) 66 additions and 2 deletions in 2 files</sub><br />
+
+* **[Rudra](https://github.com/Rudra-Ji)** &mdash; [dev][tools] : fix typo<br />
+    <sub>[#136360](https://github.com/flutter/flutter/pull/136360) opened on on October 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136360) 201 additions and 90 deletions in 1 file</sub><br />
 
