@@ -72,7 +72,7 @@
     <sub>[#136091](https://github.com/flutter/flutter/pull/136091) opened on on October 6, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/136091) 102 additions and 227 deletions in 5 files</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions throughout the repo.<br />
-    <sub>[#136140](https://github.com/flutter/flutter/pull/136140) opened on on October 7, 2023 &mdash; **Extra large:** [25 comments](https://github.com/flutter/flutter/pull/136140) 1679 additions and 2711 deletions in 170 files</sub><br />
+    <sub>[#136140](https://github.com/flutter/flutter/pull/136140) opened on on October 7, 2023 &mdash; **Extra large:** [26 comments](https://github.com/flutter/flutter/pull/136140) 1679 additions and 2711 deletions in 170 files</sub><br />
 
 * **[Veli Bacik](https://github.com/VB10)** &mdash; implemented leadingWidth and automaticallyImplyLeading options <br />
     <sub>[#136165](https://github.com/flutter/flutter/pull/136165) opened on on October 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136165) 72 additions and 0 deletions in 2 files</sub><br />
