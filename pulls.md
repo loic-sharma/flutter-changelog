@@ -89,9 +89,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; feat:: add the possibility of execute onTapOutside only if has focus<br />
     <sub>[#136291](https://github.com/flutter/flutter/pull/136291) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136291) 94 additions and 1 deletion in 5 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Stop recommending android sdk root<br />
-    <sub>[#136296](https://github.com/flutter/flutter/pull/136296) opened on on October 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136296) 19 additions and 19 deletions in 9 files</sub><br />
-
 * **[Aran Donohue](https://github.com/aran)** &mdash; Support --web-header option for flutter run<br />
     <sub>[#136297](https://github.com/flutter/flutter/pull/136297) opened on on October 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136297) 107 additions and 0 deletions in 6 files</sub><br />
 
