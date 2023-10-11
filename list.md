@@ -4,7 +4,11 @@
 
 ### October 7, 2023 to October 13, 2023
 
-24 commits.
+25 commits.
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix flakiness: finalize dropped gestures in tests to release resources, and update doc-comment.
+    <sub>[#136136](https://github.com/flutter/flutter/pull/136136) merged on October 11, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/136136) over 3 days, 313 additions and 105 deletions in 24 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `SizeTransition.fixedCrossAxisSizeFactor` 
     <sub>[#134659](https://github.com/flutter/flutter/pull/134659) merged on October 11, 2023 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/134659) over 3 weeks, 140 additions and 3 deletions in 2 files</sub>
@@ -452,7 +456,7 @@
 
 ### October 7, 2023 to October 13, 2023
 
-13 commits.
+15 commits.
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Optionally support SamplerAddressMode::kDecal on the OpenGLES backend
     <sub>[#46650](https://github.com/flutter/engine/pull/46650) merged on October 9, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/46650) over 2 days, 306 additions and 254 deletions in 17 files</sub>
@@ -462,6 +466,10 @@
     <sub>[#46585](https://github.com/flutter/engine/pull/46585) merged on October 10, 2023 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/46585) over 5 days, 94 additions and 1241 deletions in 15 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Dan Field](https://github.com/dnfield)</sub>
     <sub><details><summary>1 image...</summary>![d3c](https://github.com/flutter/engine/assets/8975114/d2392dc8-e1b1-4084-ac5d-c5744c651a39)</details></sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Move //third_party/glfw to //flutter/third_party/glfw
+    <sub>[#46733](https://github.com/flutter/engine/pull/46733) merged on October 11, 2023 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/46733) over 5 hours, 664 additions and 664 deletions in 13 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Run DisplayList render tests.
     <sub>[#46422](https://github.com/flutter/engine/pull/46422) merged on October 9, 2023 &mdash; **Extra large:** [10 comments](https://github.com/flutter/engine/pull/46422) over 1 week, 1310 additions and 874 deletions in 14 files</sub>
@@ -473,6 +481,10 @@
 
 * **[Jim Graham](https://github.com/flar)** &mdash; use TextFrame calls for Impeller in rendertests
     <sub>[#46696](https://github.com/flutter/engine/pull/46696) merged on October 10, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/46696) over 16 hours, 92 additions and 29 deletions in 4 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove support for `Paint.enableDithering=false` in `dart:ui`.
+    <sub>[#46745](https://github.com/flutter/engine/pull/46745) merged on October 11, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/46745) over 1 hour, 7 additions and 51 deletions in 4 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] log specific framebuffer incomplete error.

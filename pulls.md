@@ -66,7 +66,7 @@
     <sub>[#135879](https://github.com/flutter/flutter/pull/135879) opened on on October 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135879) 25 additions and 2 deletions in 5 files</sub><br />
 
 * **[yakagami](https://github.com/yakagami)** &mdash; add sourceTimeStamp to ScaleUpdateDetails<br />
-    <sub>[#135936](https://github.com/flutter/flutter/pull/135936) opened on on October 3, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/135936) 43 additions and 9 deletions in 2 files</sub><br />
+    <sub>[#135936](https://github.com/flutter/flutter/pull/135936) opened on on October 3, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/135936) 42 additions and 9 deletions in 2 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update asset manifest file name referenced in `WebServiceWorker`<br />
     <sub>[#135954](https://github.com/flutter/flutter/pull/135954) opened on on October 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135954) 2 additions and 2 deletions in 2 files</sub><br />
@@ -78,7 +78,7 @@
     <sub>[#136091](https://github.com/flutter/flutter/pull/136091) opened on on October 6, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/136091) 102 additions and 227 deletions in 5 files</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions throughout the repo.<br />
-    <sub>[#136140](https://github.com/flutter/flutter/pull/136140) opened on on October 7, 2023 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/136140) 1659 additions and 2677 deletions in 170 files</sub><br />
+    <sub>[#136140](https://github.com/flutter/flutter/pull/136140) opened on on October 7, 2023 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/136140) 1676 additions and 2711 deletions in 170 files</sub><br />
 
 * **[Veli Bacik](https://github.com/VB10)** &mdash; implemented leadingWidth and automaticallyImplyLeading options <br />
     <sub>[#136165](https://github.com/flutter/flutter/pull/136165) opened on on October 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136165) 72 additions and 0 deletions in 2 files</sub><br />
