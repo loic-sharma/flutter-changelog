@@ -40,7 +40,7 @@
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Seperate localization tests for Material2 and Material3
     <sub>[#135779](https://github.com/flutter/flutter/pull/135779) merged on October 10, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135779) over 1 week, 529 additions and 45 deletions in 4 files</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; TestClipPaintingContext should dispose ContainerLayer
     <sub>[#135949](https://github.com/flutter/flutter/pull/135949) merged on October 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135949) over 6 days, 16 additions and 23 deletions in 3 files</sub>
@@ -149,7 +149,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add first Arm64 plugin tests
     <sub>[#135512](https://github.com/flutter/flutter/pull/135512) merged on October 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135512) over 1 week, 38 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Bump dart-lang/native deps
     <sub>[#135905](https://github.com/flutter/flutter/pull/135905) merged on October 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135905) over 12 hours, 5 additions and 5 deletions in 2 files</sub>
@@ -485,7 +485,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Don't cull readbacks outside the damage rect.
     <sub>[#46705](https://github.com/flutter/engine/pull/46705) merged on October 10, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/46705) over 10 hours, 51 additions and 14 deletions in 4 files</sub>
-    <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [gaaclarke](https://github.com/gaaclarke)</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Matej Knopp](https://github.com/knopp)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; use TextFrame calls for Impeller in rendertests
     <sub>[#46696](https://github.com/flutter/engine/pull/46696) merged on October 10, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/46696) over 16 hours, 92 additions and 29 deletions in 4 files</sub>
