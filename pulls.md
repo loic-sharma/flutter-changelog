@@ -72,7 +72,7 @@
     <sub>[#135954](https://github.com/flutter/flutter/pull/135954) opened on on October 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135954) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; clean up `--dart-define-from-file` option tests<br />
-    <sub>[#135980](https://github.com/flutter/flutter/pull/135980) opened on on October 4, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135980) 369 additions and 390 deletions in 4 files</sub><br />
+    <sub>[#135980](https://github.com/flutter/flutter/pull/135980) opened on on October 4, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135980) 366 additions and 390 deletions in 4 files</sub><br />
 
 * **[rekire](https://github.com/rekire)** &mdash; Update German translations<br />
     <sub>[#136091](https://github.com/flutter/flutter/pull/136091) opened on on October 6, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/136091) 102 additions and 227 deletions in 5 files</sub><br />
