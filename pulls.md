@@ -63,7 +63,7 @@
     <sub>[#135836](https://github.com/flutter/flutter/pull/135836) opened on on October 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135836) 2 additions and 1 deletion in 2 files</sub><br />
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; Tooltip docs: Recommend setting preferBelow to false in theme<br />
-    <sub>[#135879](https://github.com/flutter/flutter/pull/135879) opened on on October 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135879) 25 additions and 2 deletions in 5 files</sub><br />
+    <sub>[#135879](https://github.com/flutter/flutter/pull/135879) opened on on October 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/135879) 26 additions and 3 deletions in 5 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update asset manifest file name referenced in `WebServiceWorker`<br />
     <sub>[#135954](https://github.com/flutter/flutter/pull/135954) opened on on October 4, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/135954) 10 additions and 10 deletions in 3 files</sub><br />
@@ -105,5 +105,5 @@
     <sub>[#136359](https://github.com/flutter/flutter/pull/136359) opened on on October 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136359) 66 additions and 2 deletions in 2 files</sub><br />
 
 * **[Rudra](https://github.com/Rudra-Ji)** &mdash; [dev][tools] : fix typo<br />
-    <sub>[#136360](https://github.com/flutter/flutter/pull/136360) opened on on October 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136360) 201 additions and 90 deletions in 1 file</sub><br />
+    <sub>[#136360](https://github.com/flutter/flutter/pull/136360) opened on on October 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136360) 201 additions and 90 deletions in 1 file</sub><br />
 
