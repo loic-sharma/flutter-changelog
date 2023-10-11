@@ -71,9 +71,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update asset manifest file name referenced in `WebServiceWorker`<br />
     <sub>[#135954](https://github.com/flutter/flutter/pull/135954) opened on on October 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135954) 2 additions and 2 deletions in 2 files</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; clean up `--dart-define-from-file` option tests<br />
-    <sub>[#135980](https://github.com/flutter/flutter/pull/135980) opened on on October 4, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/135980) 366 additions and 390 deletions in 4 files</sub><br />
-
 * **[rekire](https://github.com/rekire)** &mdash; Update German translations<br />
     <sub>[#136091](https://github.com/flutter/flutter/pull/136091) opened on on October 6, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/136091) 102 additions and 227 deletions in 5 files</sub><br />
 
@@ -97,9 +94,6 @@
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; feat:: add new option to trigger onTapOutside<br />
     <sub>[#136291](https://github.com/flutter/flutter/pull/136291) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136291) 94 additions and 1 deletion in 5 files</sub><br />
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove long-skipped test<br />
-    <sub>[#136295](https://github.com/flutter/flutter/pull/136295) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136295) 0 additions and 4 deletions in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Stop recommending android sdk root<br />
     <sub>[#136296](https://github.com/flutter/flutter/pull/136296) opened on on October 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136296) 19 additions and 19 deletions in 9 files</sub><br />
