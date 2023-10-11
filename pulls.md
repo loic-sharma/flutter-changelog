@@ -50,9 +50,6 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Use Layer.toImage for CanvasKit golden tests<br />
     <sub>[#135711](https://github.com/flutter/flutter/pull/135711) opened on on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135711) 171 additions and 54 deletions in 5 files</sub><br />
 
-* **[hangyu](https://github.com/hangyujin)** &mdash; Record focus in route entry to move a11y focus to the last focused item <br />
-    <sub>[#135771](https://github.com/flutter/flutter/pull/135771) opened on on September 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135771) 79 additions and 1 deletion in 3 files</sub><br />
-
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#135782](https://github.com/flutter/flutter/pull/135782) opened on on September 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135782) 2 additions and 2 deletions in 1 file</sub><br />
 
