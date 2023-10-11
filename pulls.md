@@ -96,7 +96,7 @@
     <sub>[#136214](https://github.com/flutter/flutter/pull/136214) opened on on October 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136214) 75 additions and 75 deletions in 1 file</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; feat:: add new option to trigger onTapOutside<br />
-    <sub>[#136291](https://github.com/flutter/flutter/pull/136291) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136291) 95 additions and 2 deletions in 5 files</sub><br />
+    <sub>[#136291](https://github.com/flutter/flutter/pull/136291) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136291) 95 additions and 1 deletion in 5 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove long-skipped test<br />
     <sub>[#136295](https://github.com/flutter/flutter/pull/136295) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136295) 0 additions and 4 deletions in 1 file</sub><br />
