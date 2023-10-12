@@ -83,7 +83,7 @@
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Seperate localization tests for Material2 and Material3<br />
     <sub>[#135779](https://github.com/flutter/flutter/pull/135779) merged on October 10, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135779) over 1 week, 529 additions and 45 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; extend timeout from default 30 min to 1 hour for windows build tests<br />
     <sub>[#136300](https://github.com/flutter/flutter/pull/136300) merged on October 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136300) over 18 hours, 6 additions and 1 deletion in 1 file</sub><br />
@@ -272,7 +272,7 @@
 
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Replace dead link in `CupertinoPicker` documentation<br />
     <sub>[#135897](https://github.com/flutter/flutter/pull/135897) merged on October 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135897) over 11 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove unused InlineSpan methods<br />
     <sub>[#135882](https://github.com/flutter/flutter/pull/135882) merged on October 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135882) over 16 hours, 0 additions and 33 deletions in 2 files</sub><br />
@@ -280,7 +280,7 @@
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; Fix the character field of RawKeyEvent is always null on iOS<br />
     <sub>[#135100](https://github.com/flutter/flutter/pull/135100) merged on October 3, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/135100) over 1 week, 6 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Cover some cupertino tests with leak tracking<br />
     <sub>[#135230](https://github.com/flutter/flutter/pull/135230) merged on October 2, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/135230) over 1 week, 263 additions and 200 deletions in 8 files</sub><br />
@@ -444,7 +444,7 @@
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a basic golden test for `CupertinoTextSelectionToolbar`<br />
     <sub>[#135267](https://github.com/flutter/flutter/pull/135267) merged on September 25, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/135267) over 3 days, 52 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Tomasz Gucio](https://github.com/tgucio), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Tomasz Gucio](https://github.com/tgucio)</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; leak track page_test.dart<br />
     <sub>[#135352](https://github.com/flutter/flutter/pull/135352) merged on October 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135352) over 1 week, 17 additions and 10 deletions in 1 file</sub><br />
@@ -504,7 +504,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Config changes for linux coverage.<br />
     <sub>[#135604](https://github.com/flutter/flutter/pull/135604) merged on September 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135604) over 1 hour, 4 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [keyonghan](https://github.com/keyonghan)</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Upload generated frame-request-pending stats"<br />
     <sub>[#135672](https://github.com/flutter/flutter/pull/135672) merged on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135672) over 4 minutes, 0 additions and 9 deletions in 2 files</sub><br />
@@ -567,7 +567,7 @@
 
 * **[Daniel Chevalier](https://github.com/CoderDake)** &mdash; [web] Adds Noto Music fallback font<br />
     <sub>[#46720](https://github.com/flutter/engine/pull/46720) merged on October 11, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/46720) over 1 day, 1324 additions and 1333 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
     <sub><details><summary>1 image...</summary>![](https://media.giphy.com/media/3ohzAv6kdQ4tukSNK8/giphy-downsized.gif)</details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Implement framebuffer fetch support for OpenGLES.<br />
@@ -684,7 +684,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Use x86 machines for ios builds.<br />
-    <sub>[#46726](https://github.com/flutter/engine/pull/46726) merged on October 10, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/46726) over 1 hour, 20 additions and 12 deletions in 1 file</sub><br />
+    <sub>[#46726](https://github.com/flutter/engine/pull/46726) merged on October 10, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/46726) over 1 hour, 20 additions and 12 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Xilai Zhang](https://github.com/XilaiZhang)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Revert "[Android] Add support for text processing actions (#44579)"<br />
