@@ -42,7 +42,7 @@
     <sub>[#135348](https://github.com/flutter/flutter/pull/135348) opened on on September 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135348) 1 addition and 15 deletions in 4 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Flutter preview device<br />
-    <sub>[#135639](https://github.com/flutter/flutter/pull/135639) opened on on September 28, 2023 &mdash; **Extra large:** [35 comments](https://github.com/flutter/flutter/pull/135639) 1455 additions and 653 deletions in 24 files</sub><br />
+    <sub>[#135639](https://github.com/flutter/flutter/pull/135639) opened on on September 28, 2023 &mdash; **Extra large:** [36 comments](https://github.com/flutter/flutter/pull/135639) 1455 additions and 653 deletions in 24 files</sub><br />
 
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Provide parameter to Icon and IconThemeData for they to consider the context's text scaler<br />
     <sub>[#135708](https://github.com/flutter/flutter/pull/135708) opened on on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135708) 165 additions and 3 deletions in 4 files</sub><br />
@@ -106,4 +106,7 @@
 
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; Added timeline events for post frame callbacks<br />
     <sub>[#136435](https://github.com/flutter/flutter/pull/136435) opened on on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136435) 38 additions and 2 deletions in 2 files</sub><br />
+
+* **[huycozy](https://github.com/huycozy)** &mdash; Update DraggableScrollableSheet docs to reflect API change<br />
+    <sub>[#136471](https://github.com/flutter/flutter/pull/136471) opened on on October 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136471) 7 additions and 0 deletions in 1 file</sub><br />
 
