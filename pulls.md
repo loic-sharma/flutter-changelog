@@ -110,9 +110,3 @@
 * **[Toktar](https://github.com/Toktarla)** &mdash; adding html file<br />
     <sub>[#136477](https://github.com/flutter/flutter/pull/136477) opened on on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136477) 112 additions and 0 deletions in 1 file</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix prefer_mixin TODOs<br />
-    <sub>[#136480](https://github.com/flutter/flutter/pull/136480) opened on on October 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136480) 8 additions and 13 deletions in 2 files</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix doc TODO<br />
-    <sub>[#136485](https://github.com/flutter/flutter/pull/136485) opened on on October 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136485) 1 addition and 2 deletions in 1 file</sub><br />
-
