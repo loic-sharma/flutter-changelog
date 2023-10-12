@@ -101,9 +101,6 @@
 * **[Rudra](https://github.com/Rudra-Ji)** &mdash; [dev][tools] : fix typo<br />
     <sub>[#136360](https://github.com/flutter/flutter/pull/136360) opened on on October 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136360) 201 additions and 90 deletions in 1 file</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] handle ERROR_INVALID_FUNCTION when trying to symlink across drives<br />
-    <sub>[#136424](https://github.com/flutter/flutter/pull/136424) opened on on October 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136424) 26 additions and 0 deletions in 2 files</sub><br />
-
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; Add docs to SchedulerBinding<br />
     <sub>[#136433](https://github.com/flutter/flutter/pull/136433) opened on on October 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136433) 20 additions and 0 deletions in 1 file</sub><br />
 
