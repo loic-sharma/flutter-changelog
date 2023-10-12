@@ -107,3 +107,6 @@
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; Add docs to SchedulerBinding<br />
     <sub>[#136433](https://github.com/flutter/flutter/pull/136433) opened on on October 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136433) 20 additions and 0 deletions in 1 file</sub><br />
 
+* **[Todd Volkert](https://github.com/tvolkert)** &mdash; Added timeline events for post frame callbacks<br />
+    <sub>[#136435](https://github.com/flutter/flutter/pull/136435) opened on on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136435) 38 additions and 2 deletions in 2 files</sub><br />
+
