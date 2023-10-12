@@ -1025,7 +1025,7 @@
 
 ### October 7, 2023 to October 13, 2023
 
-13 commits.
+14 commits.
 
 * **[chrisdlangham](https://github.com/chrisdlangham)** &mdash; [platform] Example app for platform
     <sub>[#4834](https://github.com/flutter/packages/pull/4834) merged on October 9, 2023 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/4834) over 1 month, 4215 additions and 1 deletion in 114 files</sub>
@@ -1059,6 +1059,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on either macOS 12 or macOS 13
     <sub>[#5089](https://github.com/flutter/packages/pull/5089) merged on October 10, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/5089) over 1 day, 80 additions and 5 deletions in 5 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [shared_preferences] update file version constraints
+    <sub>[#5121](https://github.com/flutter/packages/pull/5121) merged on October 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5121) over 4 hours, 12 additions and 4 deletions in 4 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Add a `skip` to an empty test group
     <sub>[#5080](https://github.com/flutter/packages/pull/5080) merged on October 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5080) over 3 days, 1 addition and 1 deletion in 1 file</sub>
