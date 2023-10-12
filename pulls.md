@@ -110,6 +110,3 @@
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; Added timeline events for post frame callbacks<br />
     <sub>[#136435](https://github.com/flutter/flutter/pull/136435) opened on on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136435) 38 additions and 2 deletions in 2 files</sub><br />
 
-* **[mohammedamine](https://github.com/mohammedaminekhadir)** &mdash; Update flutter_view_layout.xml<br />
-    <sub>[#136445](https://github.com/flutter/flutter/pull/136445) opened on on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136445) 1 addition and 1 deletion in 1 file</sub><br />
-
