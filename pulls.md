@@ -104,3 +104,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] handle ERROR_INVALID_FUNCTION when trying to symlink across drives<br />
     <sub>[#136424](https://github.com/flutter/flutter/pull/136424) opened on on October 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136424) 26 additions and 0 deletions in 2 files</sub><br />
 
+* **[Todd Volkert](https://github.com/tvolkert)** &mdash; Make constraints a covariant argument in RenderBox.computeDryLayout()<br />
+    <sub>[#136432](https://github.com/flutter/flutter/pull/136432) opened on on October 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136432) 110 additions and 38 deletions in 22 files</sub><br />
+
