@@ -80,9 +80,6 @@
 * **[komorebi](https://github.com/windy-Dandelion)** &mdash; fixed #120557 TextField's autofillHints can be nullable, but an empty list is given in the constructor<br />
     <sub>[#136189](https://github.com/flutter/flutter/pull/136189) opened on on October 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136189) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; feat:: add the possibility of execute onTapOutside only if has focus<br />
-    <sub>[#136291](https://github.com/flutter/flutter/pull/136291) opened on on October 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136291) 94 additions and 1 deletion in 5 files</sub><br />
-
 * **[Aran Donohue](https://github.com/aran)** &mdash; Support --web-header option for flutter run<br />
     <sub>[#136297](https://github.com/flutter/flutter/pull/136297) opened on on October 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136297) 107 additions and 0 deletions in 6 files</sub><br />
 
@@ -100,9 +97,6 @@
 
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; Add docs to SchedulerBinding<br />
     <sub>[#136433](https://github.com/flutter/flutter/pull/136433) opened on on October 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136433) 20 additions and 0 deletions in 1 file</sub><br />
-
-* **[Todd Volkert](https://github.com/tvolkert)** &mdash; Added timeline events for post frame callbacks<br />
-    <sub>[#136435](https://github.com/flutter/flutter/pull/136435) opened on on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136435) 38 additions and 2 deletions in 2 files</sub><br />
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Update DraggableScrollableSheet docs to reflect API change<br />
     <sub>[#136471](https://github.com/flutter/flutter/pull/136471) opened on on October 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136471) 7 additions and 0 deletions in 1 file</sub><br />
