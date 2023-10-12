@@ -219,7 +219,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add first Arm64 plugin tests
     <sub>[#135512](https://github.com/flutter/flutter/pull/135512) merged on October 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135512) over 1 week, 38 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Bump dart-lang/native deps
     <sub>[#135905](https://github.com/flutter/flutter/pull/135905) merged on October 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135905) over 12 hours, 5 additions and 5 deletions in 2 files</sub>
@@ -243,7 +243,7 @@
 
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Replace dead link in `CupertinoPicker` documentation
     <sub>[#135897](https://github.com/flutter/flutter/pull/135897) merged on October 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135897) over 11 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno Leroux](https://github.com/bleroux)</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove unused InlineSpan methods
     <sub>[#135882](https://github.com/flutter/flutter/pull/135882) merged on October 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135882) over 16 hours, 0 additions and 33 deletions in 2 files</sub>
@@ -475,7 +475,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Config changes for linux coverage.
     <sub>[#135604](https://github.com/flutter/flutter/pull/135604) merged on September 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135604) over 1 hour, 4 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Ricardo Amador](https://github.com/ricardoamador)</sub>
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Upload generated frame-request-pending stats"
     <sub>[#135672](https://github.com/flutter/flutter/pull/135672) merged on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135672) over 4 minutes, 0 additions and 9 deletions in 2 files</sub>
@@ -1025,7 +1025,7 @@
 
 ### October 7, 2023 to October 13, 2023
 
-12 commits.
+13 commits.
 
 * **[chrisdlangham](https://github.com/chrisdlangham)** &mdash; [platform] Example app for platform
     <sub>[#4834](https://github.com/flutter/packages/pull/4834) merged on October 9, 2023 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/4834) over 1 month, 4215 additions and 1 deletion in 114 files</sub>
@@ -1047,6 +1047,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix paint bug when rows/columns are pinned and axes are reversed
     <sub>[#5038](https://github.com/flutter/packages/pull/5038) merged on October 10, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/5038) over 1 week, 108 additions and 27 deletions in 7 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Andrea Cioni](https://github.com/andreacioni)** &mdash; [cross_file] Improved documentation about ignored parameters in IO module.
+    <sub>[#4416](https://github.com/flutter/packages/pull/4416) merged on October 12, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/packages/pull/4416) over 3 months, 17 additions and 1 deletion in 4 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Nikolas Rimikis](https://github.com/Leptopoda)** &mdash; [shared_preferences] fix documentation wording
     <sub>[#4986](https://github.com/flutter/packages/pull/4986) merged on October 10, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/4986) over 2 weeks, 6 additions and 2 deletions in 3 files</sub>
