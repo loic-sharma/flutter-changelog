@@ -38,9 +38,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try flutter/engine#46130<br />
     <sub>[#135254](https://github.com/flutter/flutter/pull/135254) opened on on September 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135254) 3 additions and 2 deletions in 3 files</sub><br />
 
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Chore/gradle remove redundant apply<br />
-    <sub>[#135348](https://github.com/flutter/flutter/pull/135348) opened on on September 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135348) 1 addition and 15 deletions in 4 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Flutter preview device<br />
     <sub>[#135639](https://github.com/flutter/flutter/pull/135639) opened on on September 28, 2023 &mdash; **Extra large:** [36 comments](https://github.com/flutter/flutter/pull/135639) 1455 additions and 653 deletions in 24 files</sub><br />
 
@@ -109,4 +106,7 @@
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Update DraggableScrollableSheet docs to reflect API change<br />
     <sub>[#136471](https://github.com/flutter/flutter/pull/136471) opened on on October 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136471) 7 additions and 0 deletions in 1 file</sub><br />
+
+* **[Toktar](https://github.com/Toktarla)** &mdash; adding html file<br />
+    <sub>[#136477](https://github.com/flutter/flutter/pull/136477) opened on on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136477) 112 additions and 0 deletions in 1 file</sub><br />
 
