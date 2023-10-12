@@ -139,7 +139,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows Arm64] Add the 'platform_channel_sample_test_windows' Devicelab test<br />
     <sub>[#136401](https://github.com/flutter/flutter/pull/136401) merged on October 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136401) over 3 hours, 14 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add `profilePlatformChannels` service extension<br />
     <sub>[#136051](https://github.com/flutter/flutter/pull/136051) merged on October 11, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/136051) over 5 days, 83 additions and 4 deletions in 5 files</sub><br />
@@ -444,7 +444,7 @@
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a basic golden test for `CupertinoTextSelectionToolbar`<br />
     <sub>[#135267](https://github.com/flutter/flutter/pull/135267) merged on September 25, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/135267) over 3 days, 52 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Tomasz Gucio](https://github.com/tgucio)</sub><br />
+    <sub>Reviewed by: [Tomasz Gucio](https://github.com/tgucio), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; leak track page_test.dart<br />
     <sub>[#135352](https://github.com/flutter/flutter/pull/135352) merged on October 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135352) over 1 week, 17 additions and 10 deletions in 1 file</sub><br />
@@ -504,7 +504,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Config changes for linux coverage.<br />
     <sub>[#135604](https://github.com/flutter/flutter/pull/135604) merged on September 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135604) over 1 hour, 4 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [keyonghan](https://github.com/keyonghan)</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Upload generated frame-request-pending stats"<br />
     <sub>[#135672](https://github.com/flutter/flutter/pull/135672) merged on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135672) over 4 minutes, 0 additions and 9 deletions in 2 files</sub><br />
@@ -863,7 +863,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Clean up the docstring for ColorFilter.matrix<br />
     <sub>[#46298](https://github.com/flutter/engine/pull/46298) merged on September 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46298) over 37 minutes, 3 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert stencil config changes.<br />
     <sub>[#46386](https://github.com/flutter/engine/pull/46386) merged on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46386) over 37 minutes, 9 additions and 31 deletions in 3 files</sub><br />
@@ -1062,7 +1062,7 @@
 
 ### October 7, 2023 to October 13, 2023
 
-15 commits.
+16 commits.
 
 * **[chrisdlangham](https://github.com/chrisdlangham)** &mdash; [platform] Example app for platform<br />
     <sub>[#4834](https://github.com/flutter/packages/pull/4834) merged on October 9, 2023 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/4834) over 1 month, 4215 additions and 1 deletion in 114 files</sub><br />
@@ -1124,6 +1124,10 @@
 * **[Hrishikesh Kadam](https://github.com/hrishikesh-kadam)** &mdash; [go_router] Fixes missing state.extra in onException()<br />
     <sub>[#5077](https://github.com/flutter/packages/pull/5077) merged on October 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5077) over 4 days, 30 additions and 3 deletions in 4 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from ead455963c12 to 2f708eb8396e (1 revision)<br />
+    <sub>[#5134](https://github.com/flutter/packages/pull/5134) merged on October 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5134) over 43 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### September 30, 2023 to October 6, 2023
 
