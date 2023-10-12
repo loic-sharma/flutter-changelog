@@ -110,6 +110,3 @@
 * **[Toktar](https://github.com/Toktarla)** &mdash; adding html file<br />
     <sub>[#136477](https://github.com/flutter/flutter/pull/136477) opened on on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136477) 112 additions and 0 deletions in 1 file</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove elevation/thickness from semantics<br />
-    <sub>[#136488](https://github.com/flutter/flutter/pull/136488) opened on on October 12, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/136488) 3 additions and 571 deletions in 10 files</sub><br />
-
