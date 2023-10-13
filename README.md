@@ -53,13 +53,13 @@
     <sub>[#136280](https://github.com/flutter/flutter/pull/136280) merged on October 10, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/136280) over 4 hours, 340 additions and 4 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] handle ERROR_INVALID_FUNCTION when trying to symlink across drives<br />
-    <sub>[#136424](https://github.com/flutter/flutter/pull/136424) merged on October 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136424) over 17 hours, 26 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
-
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; [SingleChildScrollView] Correct the offset pixels if it is out of range during layout<br />
     <sub>[#136239](https://github.com/flutter/flutter/pull/136239) merged on October 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136239) over 2 days, 53 additions and 16 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] handle ERROR_INVALID_FUNCTION when trying to symlink across drives<br />
+    <sub>[#136424](https://github.com/flutter/flutter/pull/136424) merged on October 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136424) over 17 hours, 26 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `flutter drive` instructions in `Macrobenchmark` README<br />
     <sub>[#135990](https://github.com/flutter/flutter/pull/135990) merged on October 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135990) over 4 days, 2 additions and 2 deletions in 1 file</sub><br />
@@ -685,7 +685,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Temporarily remove the runs of the engine Dart tests with Impeller enabled<br />
     <sub>[#46854](https://github.com/flutter/engine/pull/46854) merged on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/46854) over 2 hours, 16 additions and 48 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Rename HardwareBufferExternalTexture* to ImageExternalTexture*<br />
     <sub>[#46786](https://github.com/flutter/engine/pull/46786) merged on October 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/46786) over 1 hour, 98 additions and 102 deletions in 10 files</sub><br />
