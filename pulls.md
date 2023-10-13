@@ -95,9 +95,6 @@
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; Add docs to SchedulerBinding<br />
     <sub>[#136433](https://github.com/flutter/flutter/pull/136433) opened on on October 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136433) 20 additions and 0 deletions in 1 file</sub><br />
 
-* **[huycozy](https://github.com/huycozy)** &mdash; Update DraggableScrollableSheet docs to reflect API change<br />
-    <sub>[#136471](https://github.com/flutter/flutter/pull/136471) opened on on October 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136471) 7 additions and 0 deletions in 1 file</sub><br />
-
 * **[Toktar](https://github.com/Toktarla)** &mdash; adding html file<br />
     <sub>[#136477](https://github.com/flutter/flutter/pull/136477) opened on on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136477) 112 additions and 0 deletions in 1 file</sub><br />
 
