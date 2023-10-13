@@ -74,3 +74,6 @@
 * **[Toktar](https://github.com/Toktarla)** &mdash; adding html file<br />
     <sub>[#136477](https://github.com/flutter/flutter/pull/136477) opened on on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136477) 112 additions and 0 deletions in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Upload GPU frame times for Impeller on Android/iOS.<br />
+    <sub>[#136565](https://github.com/flutter/flutter/pull/136565) opened on on October 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136565) 22 additions and 0 deletions in 1 file</sub><br />
+
