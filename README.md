@@ -95,7 +95,7 @@
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Seperate localization tests for Material2 and Material3<br />
     <sub>[#135779](https://github.com/flutter/flutter/pull/135779) merged on October 10, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135779) over 1 week, 529 additions and 45 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; SearchAnchor should dispose created FocusNode and SearchController.<br />
     <sub>[#136120](https://github.com/flutter/flutter/pull/136120) merged on October 13, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/136120) over 5 days, 245 additions and 82 deletions in 2 files</sub><br />
@@ -187,7 +187,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows Arm64] Add the 'platform_channel_sample_test_windows' Devicelab test<br />
     <sub>[#136401](https://github.com/flutter/flutter/pull/136401) merged on October 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136401) over 3 hours, 14 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Switch to Chrome for Testing instead of vanilla Chromium.<br />
     <sub>[#136214](https://github.com/flutter/flutter/pull/136214) merged on October 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136214) over 2 days, 74 additions and 74 deletions in 1 file</sub><br />
@@ -276,7 +276,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add first Arm64 plugin tests<br />
     <sub>[#135512](https://github.com/flutter/flutter/pull/135512) merged on October 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135512) over 1 week, 38 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Bump dart-lang/native deps<br />
     <sub>[#135905](https://github.com/flutter/flutter/pull/135905) merged on October 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135905) over 12 hours, 5 additions and 5 deletions in 2 files</sub><br />
@@ -288,7 +288,7 @@
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; Fix the character field of RawKeyEvent is always null on iOS<br />
     <sub>[#135100](https://github.com/flutter/flutter/pull/135100) merged on October 3, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/135100) over 1 week, 6 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Update dialog tests for Material3<br />
     <sub>[#135775](https://github.com/flutter/flutter/pull/135775) merged on October 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135775) over 2 days, 37 additions and 12 deletions in 1 file</sub><br />
@@ -472,7 +472,7 @@
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a basic golden test for `CupertinoTextSelectionToolbar`<br />
     <sub>[#135267](https://github.com/flutter/flutter/pull/135267) merged on September 25, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/135267) over 3 days, 52 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Tomasz Gucio](https://github.com/tgucio)</sub><br />
+    <sub>Reviewed by: [Tomasz Gucio](https://github.com/tgucio), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; leak track page_test.dart<br />
     <sub>[#135352](https://github.com/flutter/flutter/pull/135352) merged on October 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135352) over 1 week, 17 additions and 10 deletions in 1 file</sub><br />
@@ -971,7 +971,7 @@
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] performKeyEquivalent cleanup<br />
     <sub>[#45946](https://github.com/flutter/engine/pull/45946) merged on September 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/45946) over 1 week, 14 additions and 44 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Bruno Leroux](https://github.com/bleroux)</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add initial support for 4x MSAA in OpenGLES backend.<br />
     <sub>[#46381](https://github.com/flutter/engine/pull/46381) merged on September 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/46381) over 41 minutes, 48 additions and 13 deletions in 5 files</sub><br />
