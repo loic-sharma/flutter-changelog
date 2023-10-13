@@ -95,7 +95,7 @@
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Seperate localization tests for Material2 and Material3
     <sub>[#135779](https://github.com/flutter/flutter/pull/135779) merged on October 10, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135779) over 1 week, 529 additions and 45 deletions in 4 files</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; SearchAnchor should dispose created FocusNode and SearchController.
     <sub>[#136120](https://github.com/flutter/flutter/pull/136120) merged on October 13, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/136120) over 5 days, 245 additions and 82 deletions in 2 files</sub>
@@ -345,6 +345,10 @@
     <sub>[#133581](https://github.com/flutter/flutter/pull/133581) merged on September 26, 2023 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/133581) over 4 weeks, 424 additions and 45 deletions in 4 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Wait for CONFIGURATION_BUILD_DIR to update when debugging with Xcode
+    <sub>[#135444](https://github.com/flutter/flutter/pull/135444) merged on September 26, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/135444) over 1 day, 215 additions and 33 deletions in 6 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `SearchAnchor`'s search view isn't updated when the theme changes & widgets inside the search view do not inherit local themes
     <sub>[#132749](https://github.com/flutter/flutter/pull/132749) merged on September 27, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/132749) over 1 month, 168 additions and 53 deletions in 3 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
@@ -353,10 +357,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Support ensureVisible/showOnScreen/showInViewport for 2D Scrolling
     <sub>[#135182](https://github.com/flutter/flutter/pull/135182) merged on September 27, 2023 &mdash; **Large:** [61 comments](https://github.com/flutter/flutter/pull/135182) over 6 days, 1026 additions and 58 deletions in 9 files</sub>
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Wait for CONFIGURATION_BUILD_DIR to update when debugging with Xcode
-    <sub>[#135444](https://github.com/flutter/flutter/pull/135444) merged on September 26, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/135444) over 1 day, 215 additions and 33 deletions in 6 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Add API to read flavor from framework at run time
     <sub>[#134179](https://github.com/flutter/flutter/pull/134179) merged on September 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134179) over 3 weeks, 109 additions and 3 deletions in 5 files</sub>
@@ -504,7 +504,7 @@
 
 * **[tauu](https://github.com/tauu)** &mdash; [web] fix: do not call onSubmitted of TextField when switching browser tabs on mobile web
     <sub>[#134870](https://github.com/flutter/flutter/pull/134870) merged on September 28, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/134870) over 1 week, 7 additions and 17 deletions in 2 files</sub>
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Leak track cupertino widgets
     <sub>[#135353](https://github.com/flutter/flutter/pull/135353) merged on October 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135353) over 1 week, 63 additions and 55 deletions in 2 files</sub>
@@ -532,7 +532,7 @@
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Config changes for linux coverage.
     <sub>[#135604](https://github.com/flutter/flutter/pull/135604) merged on September 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135604) over 1 hour, 4 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Ricardo Amador](https://github.com/ricardoamador)</sub>
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Upload generated frame-request-pending stats"
     <sub>[#135672](https://github.com/flutter/flutter/pull/135672) merged on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135672) over 4 minutes, 0 additions and 9 deletions in 2 files</sub>
@@ -911,7 +911,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Clean up the docstring for ColorFilter.matrix
     <sub>[#46298](https://github.com/flutter/engine/pull/46298) merged on September 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46298) over 37 minutes, 3 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert stencil config changes.
     <sub>[#46386](https://github.com/flutter/engine/pull/46386) merged on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46386) over 37 minutes, 9 additions and 31 deletions in 3 files</sub>
@@ -971,7 +971,7 @@
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] performKeyEquivalent cleanup
     <sub>[#45946](https://github.com/flutter/engine/pull/45946) merged on September 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/45946) over 1 week, 14 additions and 44 deletions in 2 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Bruno Leroux](https://github.com/bleroux)</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add initial support for 4x MSAA in OpenGLES backend.
     <sub>[#46381](https://github.com/flutter/engine/pull/46381) merged on September 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/46381) over 41 minutes, 48 additions and 13 deletions in 5 files</sub>
