@@ -101,6 +101,3 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove bringup from tests and move some back to presubmit. Reorganize TESTOWNERS.<br />
     <sub>[#136498](https://github.com/flutter/flutter/pull/136498) opened on on October 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136498) 12 additions and 14 deletions in 2 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark leak in NativeCodec.getNextFrame.<br />
-    <sub>[#136514](https://github.com/flutter/flutter/pull/136514) opened on on October 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136514) 2 additions and 2 deletions in 1 file</sub><br />
-
