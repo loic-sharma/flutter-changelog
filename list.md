@@ -595,7 +595,7 @@
 
 * **[Daniel Chevalier](https://github.com/CoderDake)** &mdash; [web] Adds Noto Music fallback font
     <sub>[#46720](https://github.com/flutter/engine/pull/46720) merged on October 11, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/46720) over 1 day, 1324 additions and 1333 deletions in 4 files</sub>
-    <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [Mouad Debbar](https://github.com/mdebbar)</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
     <sub><details><summary>1 image...</summary>![](https://media.giphy.com/media/3ohzAv6kdQ4tukSNK8/giphy-downsized.gif)</details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Implement framebuffer fetch support for OpenGLES.
@@ -645,7 +645,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Temporarily remove the runs of the engine Dart tests with Impeller enabled
     <sub>[#46854](https://github.com/flutter/engine/pull/46854) merged on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/46854) over 2 hours, 16 additions and 48 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix some image_external_texture entries in the license golden file
     <sub>[#46790](https://github.com/flutter/engine/pull/46790) merged on October 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46790) over 25 minutes, 6 additions and 8 deletions in 1 file</sub>
@@ -753,7 +753,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix framebuffer blend UVs.
     <sub>[#46489](https://github.com/flutter/engine/pull/46489) merged on October 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/46489) over 13 hours, 28 additions and 13 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
     <sub><details><summary>2 images...</summary><img width="679" alt="Screenshot 2023-10-02 at 9 57 10 PM" src="https://github.com/flutter/engine/assets/919017/b1b5125f-681e-4f7c-925d-d286f55c2780"><img width="679" alt="Screenshot 2023-10-02 at 10 05 14 PM" src="https://github.com/flutter/engine/assets/919017/f55d2e8f-9730-47ce-ba0b-96581ab6e28b"></details></sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Implement a `MockGLES`, that provides trampolines for `ProcGLESTable`
@@ -907,7 +907,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Clean up the docstring for ColorFilter.matrix
     <sub>[#46298](https://github.com/flutter/engine/pull/46298) merged on September 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46298) over 37 minutes, 3 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Matan Lurey](https://github.com/matanlurey)</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert stencil config changes.
     <sub>[#46386](https://github.com/flutter/engine/pull/46386) merged on September 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46386) over 37 minutes, 9 additions and 31 deletions in 3 files</sub>
