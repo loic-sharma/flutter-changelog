@@ -104,3 +104,6 @@
 * **[Toktar](https://github.com/Toktarla)** &mdash; adding html file<br />
     <sub>[#136477](https://github.com/flutter/flutter/pull/136477) opened on on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136477) 112 additions and 0 deletions in 1 file</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark leak in NativeCodec.getNextFrame.<br />
+    <sub>[#136514](https://github.com/flutter/flutter/pull/136514) opened on on October 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136514) 2 additions and 2 deletions in 1 file</sub><br />
+
