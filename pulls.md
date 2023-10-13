@@ -92,6 +92,6 @@
 * **[Toktar](https://github.com/Toktarla)** &mdash; adding html file<br />
     <sub>[#136477](https://github.com/flutter/flutter/pull/136477) opened on on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136477) 112 additions and 0 deletions in 1 file</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; _RouterState should dispose created _RestorableRouteInformation.<br />
-    <sub>[#136556](https://github.com/flutter/flutter/pull/136556) opened on on October 13, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/136556) 420 additions and 372 deletions in 7 files</sub><br />
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix SelectableText keyboard shortcuts on macOS<br />
+    <sub>[#136559](https://github.com/flutter/flutter/pull/136559) opened on on October 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136559) 74 additions and 21 deletions in 3 files</sub><br />
 
