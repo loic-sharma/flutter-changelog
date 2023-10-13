@@ -93,5 +93,5 @@
     <sub>[#136477](https://github.com/flutter/flutter/pull/136477) opened on on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136477) 112 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; _RouterState should dispose created _RestorableRouteInformation.<br />
-    <sub>[#136556](https://github.com/flutter/flutter/pull/136556) opened on on October 13, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/136556) 420 additions and 372 deletions in 7 files</sub><br />
+    <sub>[#136556](https://github.com/flutter/flutter/pull/136556) opened on on October 13, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/136556) 420 additions and 372 deletions in 7 files</sub><br />
 
