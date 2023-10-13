@@ -80,9 +80,6 @@
 * **[komorebi](https://github.com/windy-Dandelion)** &mdash; fixed #120557 TextField's autofillHints can be nullable, but an empty list is given in the constructor<br />
     <sub>[#136189](https://github.com/flutter/flutter/pull/136189) opened on on October 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136189) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Aran Donohue](https://github.com/aran)** &mdash; Support --web-header option for flutter run<br />
-    <sub>[#136297](https://github.com/flutter/flutter/pull/136297) opened on on October 10, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/136297) 107 additions and 0 deletions in 6 files</sub><br />
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `NavigationRail`'s indicator inkwell doesn't support transparent color.<br />
     <sub>[#136359](https://github.com/flutter/flutter/pull/136359) opened on on October 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136359) 66 additions and 2 deletions in 2 files</sub><br />
 
