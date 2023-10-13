@@ -50,14 +50,8 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#135782](https://github.com/flutter/flutter/pull/135782) opened on on September 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135782) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[6cessfuldev](https://github.com/6cessfuldev)** &mdash; feat: Tabs animate with params set in _changeIndex<br />
-    <sub>[#135832](https://github.com/flutter/flutter/pull/135832) opened on on October 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135832) 122 additions and 6 deletions in 3 files</sub><br />
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; DNS: Try 'Remove the frontend server wrapper'<br />
     <sub>[#135836](https://github.com/flutter/flutter/pull/135836) opened on on October 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135836) 2 additions and 1 deletion in 2 files</sub><br />
-
-* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; Tooltip docs: Recommend setting preferBelow to false in theme<br />
-    <sub>[#135879](https://github.com/flutter/flutter/pull/135879) opened on on October 2, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/135879) 26 additions and 3 deletions in 5 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update asset manifest file name referenced in `WebServiceWorker`<br />
     <sub>[#135954](https://github.com/flutter/flutter/pull/135954) opened on on October 4, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/135954) 10 additions and 10 deletions in 3 files</sub><br />
