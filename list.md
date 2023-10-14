@@ -386,13 +386,13 @@
     <sub>[#132682](https://github.com/flutter/flutter/pull/132682) merged on September 28, 2023 &mdash; **Medium:** [34 comments](https://github.com/flutter/flutter/pull/132682) over 1 month, 375 additions and 99 deletions in 7 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Allow multiple ParentDataWidgets to write to ParentData
-    <sub>[#133581](https://github.com/flutter/flutter/pull/133581) merged on September 26, 2023 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/133581) over 4 weeks, 424 additions and 45 deletions in 4 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Wait for CONFIGURATION_BUILD_DIR to update when debugging with Xcode
     <sub>[#135444](https://github.com/flutter/flutter/pull/135444) merged on September 26, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/135444) over 1 day, 215 additions and 33 deletions in 6 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Allow multiple ParentDataWidgets to write to ParentData
+    <sub>[#133581](https://github.com/flutter/flutter/pull/133581) merged on September 26, 2023 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/133581) over 4 weeks, 424 additions and 45 deletions in 4 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `SearchAnchor`'s search view isn't updated when the theme changes & widgets inside the search view do not inherit local themes
     <sub>[#132749](https://github.com/flutter/flutter/pull/132749) merged on September 27, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/132749) over 1 month, 168 additions and 53 deletions in 3 files</sub>
