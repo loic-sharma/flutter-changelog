@@ -77,6 +77,9 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Upload GPU frame times for Impeller on Android/iOS.<br />
     <sub>[#136565](https://github.com/flutter/flutter/pull/136565) opened on on October 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136565) 22 additions and 0 deletions in 1 file</sub><br />
 
+* **[droidbg](https://github.com/droidbg)** &mdash; Test cover cupertino for memory leaks and fix Opacity Layer not disposed.<br />
+    <sub>[#136576](https://github.com/flutter/flutter/pull/136576) opened on on October 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136576) 49 additions and 41 deletions in 3 files</sub><br />
+
 * **[droidbg](https://github.com/droidbg)** &mdash; Test cover cupertino for memory leaks tracking -2 <br />
     <sub>[#136577](https://github.com/flutter/flutter/pull/136577) opened on on October 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136577) 28 additions and 17 deletions in 3 files</sub><br />
 
