@@ -21,13 +21,13 @@
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2023-10-11 at 1 54 30 PM](https://github.com/flutter/flutter/assets/36861262/dbe02312-1a80-4532-9bad-a8f162a6a942) | ![Screenshot 2023-10-11 at 1 54 52 PM](https://github.com/flutter/flutter/assets/36861262/68211de0-f04f-4b1a-b554-baf6a8e2f947)</details></sub>
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix flakiness: finalize dropped gestures in tests to release resources, and update doc-comment.<br />
-    <sub>[#136136](https://github.com/flutter/flutter/pull/136136) merged on October 11, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/136136) over 3 days, 313 additions and 105 deletions in 24 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `SizeTransition.fixedCrossAxisSizeFactor` <br />
     <sub>[#134659](https://github.com/flutter/flutter/pull/134659) merged on October 11, 2023 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/134659) over 3 weeks, 140 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix flakiness: finalize dropped gestures in tests to release resources, and update doc-comment.<br />
+    <sub>[#136136](https://github.com/flutter/flutter/pull/136136) merged on October 11, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/136136) over 3 days, 313 additions and 105 deletions in 24 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Maximilian Fischer](https://github.com/fischerscode)** &mdash; Include size factors when computing the intrinsic size of a `RenderPositionedBox`<br />
     <sub>[#135823](https://github.com/flutter/flutter/pull/135823) merged on October 11, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/135823) over 1 week, 32 additions and 0 deletions in 2 files</sub><br />
