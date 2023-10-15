@@ -80,3 +80,6 @@
 * **[droidbg](https://github.com/droidbg)** &mdash; Test cover cupertino for memory leaks tracking -2 <br />
     <sub>[#136577](https://github.com/flutter/flutter/pull/136577) opened on on October 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136577) 28 additions and 17 deletions in 3 files</sub><br />
 
+* **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] cache the base URL as root index.html<br />
+    <sub>[#136594](https://github.com/flutter/flutter/pull/136594) opened on on October 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136594) 12 additions and 4 deletions in 2 files</sub><br />
+
