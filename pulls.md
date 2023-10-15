@@ -84,5 +84,5 @@
     <sub>[#136594](https://github.com/flutter/flutter/pull/136594) opened on on October 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136594) 12 additions and 4 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; _DefaultTabControllerState should dispose all created TabContoller instances.<br />
-    <sub>[#136608](https://github.com/flutter/flutter/pull/136608) opened on on October 15, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/136608) 164 additions and 153 deletions in 2 files</sub><br />
+    <sub>[#136608](https://github.com/flutter/flutter/pull/136608) opened on on October 15, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/136608) 164 additions and 153 deletions in 2 files</sub><br />
 
