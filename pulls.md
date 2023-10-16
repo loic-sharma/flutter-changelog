@@ -39,7 +39,7 @@
     <sub>[#135254](https://github.com/flutter/flutter/pull/135254) opened on on September 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135254) 3 additions and 2 deletions in 3 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Flutter preview device<br />
-    <sub>[#135639](https://github.com/flutter/flutter/pull/135639) opened on on September 28, 2023 &mdash; **Extra large:** [36 comments](https://github.com/flutter/flutter/pull/135639) 1465 additions and 656 deletions in 24 files</sub><br />
+    <sub>[#135639](https://github.com/flutter/flutter/pull/135639) opened on on September 28, 2023 &mdash; **Extra large:** [38 comments](https://github.com/flutter/flutter/pull/135639) 1465 additions and 656 deletions in 24 files</sub><br />
 
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Provide parameter to Icon and IconThemeData for they to consider the context's text scaler<br />
     <sub>[#135708](https://github.com/flutter/flutter/pull/135708) opened on on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135708) 165 additions and 3 deletions in 4 files</sub><br />
@@ -79,9 +79,6 @@
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add delete button support to `FilterChip`<br />
     <sub>[#136645](https://github.com/flutter/flutter/pull/136645) opened on on October 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136645) 220 additions and 0 deletions in 2 files</sub><br />
-
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] ensure processUtils reports exit code in ProcessExceptions<br />
-    <sub>[#136672](https://github.com/flutter/flutter/pull/136672) opened on on October 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136672) 7 additions and 4 deletions in 2 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Add `InputDatePickerFormField.focusNode` prop<br />
     <sub>[#136673](https://github.com/flutter/flutter/pull/136673) opened on on October 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136673) 21 additions and 0 deletions in 2 files</sub><br />
