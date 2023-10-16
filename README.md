@@ -418,9 +418,18 @@
 
 ## flutter/engine
 
+### October 14, 2023 to October 20, 2023
+
+1 commits.
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Revert "Reland: Enforce the rule of calling FlutterView.Render (#45300)"<br />
+    <sub>[#46919](https://github.com/flutter/engine/pull/46919) merged on October 16, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/46919) over 2 days, 23 additions and 370 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [xster](https://github.com/xster)</sub><br />
+
 ### October 7, 2023 to October 13, 2023
 
-49 commits.
+<details>
+<summary>49 commits...</summary>
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; [Impeller] Optionally support SamplerAddressMode::kDecal on the OpenGLES backend<br />
     <sub>[#46650](https://github.com/flutter/engine/pull/46650) merged on October 9, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/46650) over 2 days, 306 additions and 254 deletions in 17 files</sub><br />
@@ -620,6 +629,8 @@
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from c8143a7c026f to 5844b34768ce (1 revision)<br />
     <sub>[#46909](https://github.com/flutter/engine/pull/46909) merged on October 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46909) over 36 minutes, 30 additions and 30 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### September 30, 2023 to October 6, 2023
 
