@@ -68,9 +68,6 @@
 * **[Rudra](https://github.com/Rudra-Ji)** &mdash; [dev][tools] : fix typo<br />
     <sub>[#136360](https://github.com/flutter/flutter/pull/136360) opened on on October 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136360) 201 additions and 90 deletions in 1 file</sub><br />
 
-* **[Todd Volkert](https://github.com/tvolkert)** &mdash; Add docs to SchedulerBinding<br />
-    <sub>[#136433](https://github.com/flutter/flutter/pull/136433) opened on on October 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136433) 20 additions and 0 deletions in 1 file</sub><br />
-
 * **[Toktar](https://github.com/Toktarla)** &mdash; adding html file<br />
     <sub>[#136477](https://github.com/flutter/flutter/pull/136477) opened on on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136477) 112 additions and 0 deletions in 1 file</sub><br />
 
