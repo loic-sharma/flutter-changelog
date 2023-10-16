@@ -84,5 +84,5 @@
     <sub>[#136645](https://github.com/flutter/flutter/pull/136645) opened on on October 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136645) 220 additions and 0 deletions in 2 files</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Do not hold on to stale canvas reference in _RenderSegmentedButton<br />
-    <sub>[#136658](https://github.com/flutter/flutter/pull/136658) opened on on October 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136658) 38 additions and 9 deletions in 2 files</sub><br />
+    <sub>[#136658](https://github.com/flutter/flutter/pull/136658) opened on on October 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136658) 39 additions and 9 deletions in 2 files</sub><br />
 
