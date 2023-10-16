@@ -4,11 +4,15 @@
 
 ### October 14, 2023 to October 20, 2023
 
-3 commits.
+4 commits.
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix prefer_mixin TODOs
     <sub>[#136480](https://github.com/flutter/flutter/pull/136480) merged on October 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/136480) over 3 days, 8 additions and 13 deletions in 2 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; update analytics in generate api docs site to use new UA4
+    <sub>[#136497](https://github.com/flutter/flutter/pull/136497) merged on October 16, 2023 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/136497) over 3 days, 287 additions and 35 deletions in 6 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `NavigationRail`'s indicator inkwell doesn't support transparent color.
     <sub>[#136359](https://github.com/flutter/flutter/pull/136359) merged on October 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136359) over 4 days, 66 additions and 2 deletions in 2 files</sub>
@@ -117,7 +121,7 @@
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Seperate localization tests for Material2 and Material3
     <sub>[#135779](https://github.com/flutter/flutter/pull/135779) merged on October 10, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135779) over 1 week, 529 additions and 45 deletions in 4 files</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove loading indicator in -d web-server builds
     <sub>[#136482](https://github.com/flutter/flutter/pull/136482) merged on October 12, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/136482) over 3 hours, 75 additions and 43 deletions in 3 files</sub>
@@ -221,7 +225,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows Arm64] Add the 'platform_channel_sample_test_windows' Devicelab test
     <sub>[#136401](https://github.com/flutter/flutter/pull/136401) merged on October 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136401) over 3 hours, 14 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix some deprecation details
     <sub>[#136385](https://github.com/flutter/flutter/pull/136385) merged on October 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136385) over 2 hours, 5 additions and 3 deletions in 2 files</sub>
@@ -352,7 +356,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add first Arm64 plugin tests
     <sub>[#135512](https://github.com/flutter/flutter/pull/135512) merged on October 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135512) over 1 week, 38 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Bump dart-lang/native deps
     <sub>[#135905](https://github.com/flutter/flutter/pull/135905) merged on October 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135905) over 12 hours, 5 additions and 5 deletions in 2 files</sub>
@@ -482,7 +486,7 @@
 
 * **[Erik German](https://github.com/eriko13)** &mdash; fixed AutofillHints.middleName tanslation for web.
     <sub>[#46429](https://github.com/flutter/engine/pull/46429) merged on October 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/46429) over 1 week, 7 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Hassan Toor](https://github.com/htoor3), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Hassan Toor](https://github.com/htoor3)</sub>
     <sub><details><summary>1 image...</summary><img width="1440" alt="Screenshot 2023-09-30 at 1 18 03 p m" src="https://github.com/flutter/engine/assets/36830415/f6643b71-3944-42da-a9b4-47e1cebb290e"></details></sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] flutter_tester --enable-impeller
@@ -788,7 +792,7 @@
 1 commits.
 
 * **[Nitin-Poojary](https://github.com/Nitin-Poojary)** &mdash; [flutter_image] added example app
-    <sub>[#4353](https://github.com/flutter/packages/pull/4353) merged on October 16, 2023 &mdash; **Extra large:** [62 comments](https://github.com/flutter/packages/pull/4353) over 3 months, 4488 additions and 2 deletions in 125 files</sub>
+    <sub>[#4353](https://github.com/flutter/packages/pull/4353) merged on October 16, 2023 &mdash; **Extra large:** [63 comments](https://github.com/flutter/packages/pull/4353) over 3 months, 4488 additions and 2 deletions in 125 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 ### October 7, 2023 to October 13, 2023
