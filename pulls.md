@@ -83,3 +83,6 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Removed TBD translations for optional remainingTextFieldCharacterCounZero message<br />
     <sub>[#136684](https://github.com/flutter/flutter/pull/136684) opened on on October 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136684) 45 additions and 109 deletions in 69 files</sub><br />
 
+* **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Reenable nexus lowres 29<br />
+    <sub>[#136686](https://github.com/flutter/flutter/pull/136686) opened on on October 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136686) 9 additions and 12 deletions in 1 file</sub><br />
+
