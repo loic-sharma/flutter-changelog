@@ -77,6 +77,3 @@
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] cache the base URL as root index.html<br />
     <sub>[#136594](https://github.com/flutter/flutter/pull/136594) opened on on October 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136594) 12 additions and 4 deletions in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update BottomNavigationBar tests for M3<br />
-    <sub>[#136624](https://github.com/flutter/flutter/pull/136624) opened on on October 16, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/136624) 642 additions and 23 deletions in 2 files</sub><br />
-
