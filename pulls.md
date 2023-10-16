@@ -77,9 +77,6 @@
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] cache the base URL as root index.html<br />
     <sub>[#136594](https://github.com/flutter/flutter/pull/136594) opened on on October 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136594) 12 additions and 4 deletions in 2 files</sub><br />
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Don't build native assets in `flutter build bundle`<br />
-    <sub>[#136641](https://github.com/flutter/flutter/pull/136641) opened on on October 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136641) 153 additions and 124 deletions in 4 files</sub><br />
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add delete button support to `FilterChip`<br />
     <sub>[#136645](https://github.com/flutter/flutter/pull/136645) opened on on October 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136645) 220 additions and 0 deletions in 2 files</sub><br />
 
