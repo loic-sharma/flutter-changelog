@@ -73,7 +73,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; _RouterState should dispose created _RestorableRouteInformation.
     <sub>[#136556](https://github.com/flutter/flutter/pull/136556) merged on October 14, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/136556) over 7 hours, 420 additions and 372 deletions in 7 files</sub>
-    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [chunhtai](https://github.com/chunhtai)</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Allow latest pkg:material_color_utilities
     <sub>[#132445](https://github.com/flutter/flutter/pull/132445) merged on October 11, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/132445) over 1 month, 472 additions and 471 deletions in 71 files</sub>
@@ -133,7 +133,7 @@
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Seperate localization tests for Material2 and Material3
     <sub>[#135779](https://github.com/flutter/flutter/pull/135779) merged on October 10, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135779) over 1 week, 529 additions and 45 deletions in 4 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove loading indicator in -d web-server builds
     <sub>[#136482](https://github.com/flutter/flutter/pull/136482) merged on October 12, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/136482) over 3 hours, 75 additions and 43 deletions in 3 files</sub>
@@ -508,7 +508,7 @@
 
 * **[Daniel Chevalier](https://github.com/CoderDake)** &mdash; [web] Adds Noto Music fallback font
     <sub>[#46720](https://github.com/flutter/engine/pull/46720) merged on October 11, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/46720) over 1 day, 1324 additions and 1333 deletions in 4 files</sub>
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+    <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [Mouad Debbar](https://github.com/mdebbar)</sub>
     <sub><details><summary>1 image...</summary>![](https://media.giphy.com/media/3ohzAv6kdQ4tukSNK8/giphy-downsized.gif)</details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Implement framebuffer fetch support for OpenGLES.
