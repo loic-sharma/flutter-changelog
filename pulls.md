@@ -86,6 +86,6 @@
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; Introduce multi-touch drag strategies for `DragGestureRecognizer`<br />
     <sub>[#136708](https://github.com/flutter/flutter/pull/136708) opened on on October 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136708) 76 additions and 4 deletions in 5 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Skip bonjour settings for disabled port publication<br />
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [Reland] Skip injecting Bonjour settings when port publication is disabled<br />
     <sub>[#136751](https://github.com/flutter/flutter/pull/136751) opened on on October 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136751) 108 additions and 1 deletion in 7 files</sub><br />
 
