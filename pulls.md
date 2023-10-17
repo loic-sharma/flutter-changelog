@@ -80,6 +80,3 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; give `throwsToolExit` a more useful description<br />
     <sub>[#136694](https://github.com/flutter/flutter/pull/136694) opened on on October 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136694) 18 additions and 10 deletions in 4 files</sub><br />
 
-* **[xubaolin](https://github.com/xu-baolin)** &mdash; Introduce multi-touch drag strategies for `DragGestureRecognizer`<br />
-    <sub>[#136708](https://github.com/flutter/flutter/pull/136708) opened on on October 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136708) 76 additions and 4 deletions in 5 files</sub><br />
-
