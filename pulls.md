@@ -80,3 +80,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; give `throwsToolExit` a more useful description<br />
     <sub>[#136694](https://github.com/flutter/flutter/pull/136694) opened on on October 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136694) 18 additions and 10 deletions in 4 files</sub><br />
 
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add code for updating focusedChild when removing grandchildren from scope<br />
+    <sub>[#136771](https://github.com/flutter/flutter/pull/136771) opened on on October 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136771) 49 additions and 1 deletion in 2 files</sub><br />
+
