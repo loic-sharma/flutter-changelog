@@ -89,3 +89,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; GoldenFileComparators should dispose created Image objects. <br />
     <sub>[#136716](https://github.com/flutter/flutter/pull/136716) opened on on October 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136716) 53 additions and 6 deletions in 5 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Slider` `onChanged` callback order & never calls `onChangeStart` on  `SliderInteraction.slideOnly` allowed interaction<br />
+    <sub>[#136720](https://github.com/flutter/flutter/pull/136720) opened on on October 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136720) 80 additions and 5 deletions in 2 files</sub><br />
+
