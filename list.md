@@ -518,7 +518,7 @@
 
 * **[Erik German](https://github.com/eriko13)** &mdash; fixed AutofillHints.middleName tanslation for web.
     <sub>[#46429](https://github.com/flutter/engine/pull/46429) merged on October 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/46429) over 1 week, 7 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Hassan Toor](https://github.com/htoor3), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Hassan Toor](https://github.com/htoor3)</sub>
     <sub><details><summary>1 image...</summary><img width="1440" alt="Screenshot 2023-09-30 at 1 18 03 p m" src="https://github.com/flutter/engine/assets/36830415/f6643b71-3944-42da-a9b4-47e1cebb290e"></details></sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] flutter_tester --enable-impeller
@@ -821,7 +821,7 @@
 
 ### October 14, 2023 to October 20, 2023
 
-2 commits.
+3 commits.
 
 * **[Nitin-Poojary](https://github.com/Nitin-Poojary)** &mdash; [flutter_image] added example app
     <sub>[#4353](https://github.com/flutter/packages/pull/4353) merged on October 16, 2023 &mdash; **Extra large:** [63 comments](https://github.com/flutter/packages/pull/4353) over 3 months, 4488 additions and 2 deletions in 125 files</sub>
@@ -829,6 +829,10 @@
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [quick_actions] Convert android to pigeon
     <sub>[#5099](https://github.com/flutter/packages/pull/5099) merged on October 17, 2023 &mdash; **Large:** [34 comments](https://github.com/flutter/packages/pull/5099) over 6 days, 910 additions and 401 deletions in 12 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [gis_web] Adds FedCM toggle.
+    <sub>[#5123](https://github.com/flutter/packages/pull/5123) merged on October 17, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/5123) over 5 days, 85 additions and 2 deletions in 5 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 ### October 7, 2023 to October 13, 2023
