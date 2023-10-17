@@ -39,7 +39,7 @@
     <sub>[#135254](https://github.com/flutter/flutter/pull/135254) opened on on September 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135254) 3 additions and 2 deletions in 3 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Flutter preview device<br />
-    <sub>[#135639](https://github.com/flutter/flutter/pull/135639) opened on on September 28, 2023 &mdash; **Extra large:** [43 comments](https://github.com/flutter/flutter/pull/135639) 1465 additions and 656 deletions in 24 files</sub><br />
+    <sub>[#135639](https://github.com/flutter/flutter/pull/135639) opened on on September 28, 2023 &mdash; **Extra large:** [44 comments](https://github.com/flutter/flutter/pull/135639) 1465 additions and 656 deletions in 24 files</sub><br />
 
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Provide parameter to Icon and IconThemeData for they to consider the context's text scaler<br />
     <sub>[#135708](https://github.com/flutter/flutter/pull/135708) opened on on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135708) 165 additions and 3 deletions in 4 files</sub><br />
@@ -77,6 +77,9 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Add `InputDatePickerFormField.focusNode` prop<br />
     <sub>[#136673](https://github.com/flutter/flutter/pull/136673) opened on on October 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136673) 21 additions and 0 deletions in 2 files</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; have `throwsToolExit` provide more useful descriptions<br />
+    <sub>[#136694](https://github.com/flutter/flutter/pull/136694) opened on on October 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136694) 18 additions and 10 deletions in 4 files</sub><br />
+
 * **[dhiyanesh-cyber](https://github.com/dhiyanesh-cyber)** &mdash; Update main.dart<br />
     <sub>[#136702](https://github.com/flutter/flutter/pull/136702) opened on on October 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136702) 2 additions and 2 deletions in 1 file</sub><br />
 
@@ -86,6 +89,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add Android 14 physical devices to firebase tests<br />
     <sub>[#136736](https://github.com/flutter/flutter/pull/136736) opened on on October 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136736) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Skip injecting Bonjour settings when port publication is disabled"<br />
-    <sub>[#136749](https://github.com/flutter/flutter/pull/136749) opened on on October 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136749) 1 addition and 108 deletions in 7 files</sub><br />
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Skip bonjour settings for disabled port publication<br />
+    <sub>[#136751](https://github.com/flutter/flutter/pull/136751) opened on on October 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136751) 108 additions and 1 deletion in 7 files</sub><br />
 
