@@ -86,3 +86,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add Android 14 physical devices to firebase tests<br />
     <sub>[#136736](https://github.com/flutter/flutter/pull/136736) opened on on October 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136736) 3 additions and 0 deletions in 1 file</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; update analytics in generate api docs site to use new UA4 (#136497)<br />
+    <sub>[#136742](https://github.com/flutter/flutter/pull/136742) opened on on October 17, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/136742) 287 additions and 35 deletions in 6 files</sub><br />
+
