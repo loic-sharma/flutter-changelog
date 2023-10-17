@@ -83,6 +83,3 @@
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; Introduce multi-touch drag strategies for `DragGestureRecognizer`<br />
     <sub>[#136708](https://github.com/flutter/flutter/pull/136708) opened on on October 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136708) 76 additions and 4 deletions in 5 files</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; [CP][Android] Update Java/AGP/Gradle warning compatible Java range<br />
-    <sub>[#136766](https://github.com/flutter/flutter/pull/136766) opened on on October 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136766) 1 addition and 1 deletion in 1 file</sub><br />
-
