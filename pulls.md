@@ -89,6 +89,3 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [Reland] Skip injecting Bonjour settings when port publication is disabled<br />
     <sub>[#136751](https://github.com/flutter/flutter/pull/136751) opened on on October 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136751) 108 additions and 1 deletion in 7 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Provide more information in 'unsupported class file' gradle error<br />
-    <sub>[#136756](https://github.com/flutter/flutter/pull/136756) opened on on October 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136756) 14 additions and 2 deletions in 1 file</sub><br />
-
