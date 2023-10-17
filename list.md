@@ -108,7 +108,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; [SingleChildScrollView] Correct the offset pixels if it is out of range during layout
-    <sub>[#136239](https://github.com/flutter/flutter/pull/136239) merged on October 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136239) over 2 days, 53 additions and 16 deletions in 4 files</sub>
+    <sub>[#136239](https://github.com/flutter/flutter/pull/136239) merged on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136239) over 2 days, 53 additions and 16 deletions in 4 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] handle ERROR_INVALID_FUNCTION when trying to symlink across drives
