@@ -77,7 +77,7 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Add `InputDatePickerFormField.focusNode` prop<br />
     <sub>[#136673](https://github.com/flutter/flutter/pull/136673) opened on on October 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136673) 21 additions and 0 deletions in 2 files</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; have `throwsToolExit` provide more useful descriptions<br />
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; give `throwsToolExit` a more useful description<br />
     <sub>[#136694](https://github.com/flutter/flutter/pull/136694) opened on on October 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136694) 18 additions and 10 deletions in 4 files</sub><br />
 
 * **[dhiyanesh-cyber](https://github.com/dhiyanesh-cyber)** &mdash; Update main.dart<br />
@@ -88,4 +88,7 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [Reland] Skip injecting Bonjour settings when port publication is disabled<br />
     <sub>[#136751](https://github.com/flutter/flutter/pull/136751) opened on on October 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136751) 108 additions and 1 deletion in 7 files</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Provide more information in 'unsupported class file' gradle error<br />
+    <sub>[#136756](https://github.com/flutter/flutter/pull/136756) opened on on October 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136756) 14 additions and 2 deletions in 1 file</sub><br />
 
