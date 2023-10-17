@@ -86,9 +86,6 @@
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; Introduce multi-touch drag strategies for `DragGestureRecognizer`<br />
     <sub>[#136708](https://github.com/flutter/flutter/pull/136708) opened on on October 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136708) 76 additions and 4 deletions in 5 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add Android 14 physical devices to firebase tests<br />
-    <sub>[#136736](https://github.com/flutter/flutter/pull/136736) opened on on October 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136736) 3 additions and 0 deletions in 1 file</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Skip bonjour settings for disabled port publication<br />
     <sub>[#136751](https://github.com/flutter/flutter/pull/136751) opened on on October 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136751) 108 additions and 1 deletion in 7 files</sub><br />
 
