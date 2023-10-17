@@ -87,5 +87,5 @@
     <sub>[#136708](https://github.com/flutter/flutter/pull/136708) opened on on October 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136708) 76 additions and 4 deletions in 5 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; GoldenFileComparators should dispose created Image objects. <br />
-    <sub>[#136716](https://github.com/flutter/flutter/pull/136716) opened on on October 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136716) 53 additions and 6 deletions in 5 files</sub><br />
+    <sub>[#136716](https://github.com/flutter/flutter/pull/136716) opened on on October 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136716) 53 additions and 6 deletions in 5 files</sub><br />
 
