@@ -154,7 +154,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; _RouterState should dispose created _RestorableRouteInformation.
     <sub>[#136556](https://github.com/flutter/flutter/pull/136556) merged on October 14, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/136556) over 7 hours, 420 additions and 372 deletions in 7 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Polina Cherkasova](https://github.com/polina-c)</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Allow latest pkg:material_color_utilities
     <sub>[#132445](https://github.com/flutter/flutter/pull/132445) merged on October 11, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/132445) over 1 month, 472 additions and 471 deletions in 71 files</sub>
@@ -461,7 +461,7 @@
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; Fix the character field of RawKeyEvent is always null on iOS
     <sub>[#135100](https://github.com/flutter/flutter/pull/135100) merged on October 3, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/135100) over 1 week, 6 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Update dialog tests for Material3
     <sub>[#135775](https://github.com/flutter/flutter/pull/135775) merged on October 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135775) over 2 days, 37 additions and 12 deletions in 1 file</sub>
@@ -624,7 +624,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Avoid a deadlock in the flutter_tester process when deleting the Impeller Vulkan context during shutdown
     <sub>[#46860](https://github.com/flutter/engine/pull/46860) merged on October 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46860) over 3 days, 72 additions and 64 deletions in 2 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Only run web mac tests on macOS 12
     <sub>[#46965](https://github.com/flutter/engine/pull/46965) merged on October 17, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/46965) over 18 hours, 15 additions and 10 deletions in 2 files</sub>
@@ -882,7 +882,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix framebuffer blend UVs.
     <sub>[#46489](https://github.com/flutter/engine/pull/46489) merged on October 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/46489) over 13 hours, 28 additions and 13 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Jonah Williams](https://github.com/jonahwilliams)</sub>
     <sub><details><summary>2 images...</summary><img width="679" alt="Screenshot 2023-10-02 at 9 57 10 PM" src="https://github.com/flutter/engine/assets/919017/b1b5125f-681e-4f7c-925d-d286f55c2780"><img width="679" alt="Screenshot 2023-10-02 at 10 05 14 PM" src="https://github.com/flutter/engine/assets/919017/f55d2e8f-9730-47ce-ba0b-96581ab6e28b"></details></sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Implement a `MockGLES`, that provides trampolines for `ProcGLESTable`
