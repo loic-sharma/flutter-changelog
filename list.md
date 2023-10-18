@@ -511,7 +511,7 @@
 
 ### October 14, 2023 to October 20, 2023
 
-25 commits.
+26 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Rework Vulkan GPUTracker to decorate existing cmd buffers.
     <sub>[#46963](https://github.com/flutter/engine/pull/46963) merged on October 17, 2023 &mdash; **Medium:** [25 comments](https://github.com/flutter/engine/pull/46963) over 1 day, 380 additions and 119 deletions in 9 files</sub>
@@ -528,6 +528,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Move the secondary build tree into the engine.
     <sub>[#46989](https://github.com/flutter/engine/pull/46989) merged on October 17, 2023 &mdash; **Extra large:** [6 comments](https://github.com/flutter/engine/pull/46989) over 12 hours, 4440 additions and 3 deletions in 50 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Fix tests failing on Sonoma
+    <sub>[#46461](https://github.com/flutter/engine/pull/46461) merged on October 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/46461) over 2 weeks, 46 additions and 5 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] GPUTracer for Metal.
     <sub>[#46846](https://github.com/flutter/engine/pull/46846) merged on October 16, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/46846) over 4 days, 146 additions and 1 deletion in 8 files</sub>
