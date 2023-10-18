@@ -77,3 +77,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; give `throwsToolExit` a more useful description<br />
     <sub>[#136694](https://github.com/flutter/flutter/pull/136694) opened on on October 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136694) 18 additions and 10 deletions in 4 files</sub><br />
 
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Null-assert the value given to a Completer expecting a non-null value<br />
+    <sub>[#136776](https://github.com/flutter/flutter/pull/136776) opened on on October 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136776) 1 addition and 1 deletion in 1 file</sub><br />
+
