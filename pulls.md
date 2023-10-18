@@ -83,3 +83,6 @@
 * **[Anindya Chatterjee](https://github.com/anidotnet)** &mdash; Enable TapRegion to detect all mouse button click<br />
     <sub>[#136799](https://github.com/flutter/flutter/pull/136799) opened on on October 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136799) 180 additions and 6 deletions in 2 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `OutlinedButton` tests for Material 3<br />
+    <sub>[#136809](https://github.com/flutter/flutter/pull/136809) opened on on October 18, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/136809) 680 additions and 157 deletions in 1 file</sub><br />
+
