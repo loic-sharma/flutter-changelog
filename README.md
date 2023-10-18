@@ -4,7 +4,7 @@
 
 ### October 14, 2023 to October 20, 2023
 
-24 commits.
+25 commits.
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Adds API for performing semantics actions in tests<br />
     <sub>[#132598](https://github.com/flutter/flutter/pull/132598) merged on October 18, 2023 &mdash; **Large:** [65 comments](https://github.com/flutter/flutter/pull/132598) over 2 months, 1039 additions and 24 deletions in 5 files</sub><br />
@@ -54,6 +54,10 @@
 * **[Dan Field](https://github.com/dnfield)** &mdash; Do not hold on to stale canvas reference in _RenderSegmentedButton<br />
     <sub>[#136658](https://github.com/flutter/flutter/pull/136658) merged on October 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/136658) over 3 hours, 39 additions and 9 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Slider` `onChanged` callback order & never calls `onChangeStart` on  `SliderInteraction.slideOnly` allowed interaction<br />
+    <sub>[#136720](https://github.com/flutter/flutter/pull/136720) merged on October 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/136720) over 1 day, 80 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Don't build native assets in `flutter build bundle`<br />
     <sub>[#136641](https://github.com/flutter/flutter/pull/136641) merged on October 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136641) over 1 day, 163 additions and 127 deletions in 7 files</sub><br />
@@ -202,7 +206,7 @@
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Seperate localization tests for Material2 and Material3<br />
     <sub>[#135779](https://github.com/flutter/flutter/pull/135779) merged on October 10, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135779) over 1 week, 529 additions and 45 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove loading indicator in -d web-server builds<br />
     <sub>[#136482](https://github.com/flutter/flutter/pull/136482) merged on October 12, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/136482) over 3 hours, 75 additions and 43 deletions in 3 files</sub><br />
@@ -306,7 +310,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows Arm64] Add the 'platform_channel_sample_test_windows' Devicelab test<br />
     <sub>[#136401](https://github.com/flutter/flutter/pull/136401) merged on October 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136401) over 3 hours, 14 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix some deprecation details<br />
     <sub>[#136385](https://github.com/flutter/flutter/pull/136385) merged on October 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136385) over 2 hours, 5 additions and 3 deletions in 2 files</sub><br />
@@ -465,7 +469,7 @@
 
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Replace dead link in `CupertinoPicker` documentation<br />
     <sub>[#135897](https://github.com/flutter/flutter/pull/135897) merged on October 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135897) over 11 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno Leroux](https://github.com/bleroux)</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove unused InlineSpan methods<br />
     <sub>[#135882](https://github.com/flutter/flutter/pull/135882) merged on October 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135882) over 16 hours, 0 additions and 33 deletions in 2 files</sub><br />
