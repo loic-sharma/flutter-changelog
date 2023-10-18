@@ -84,10 +84,10 @@
     <sub>[#136828](https://github.com/flutter/flutter/pull/136828) opened on on October 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136828) 52 additions and 0 deletions in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmark linux_android platform_channels_benchmarks as flaky<br />
-    <sub>[#136838](https://github.com/flutter/flutter/pull/136838) opened on on October 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136838) 0 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#136838](https://github.com/flutter/flutter/pull/136838) opened on on October 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136838) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump flutter_lints to 3.0<br />
-    <sub>[#136841](https://github.com/flutter/flutter/pull/136841) opened on on October 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136841) 7 additions and 7 deletions in 6 files</sub><br />
+    <sub>[#136841](https://github.com/flutter/flutter/pull/136841) opened on on October 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136841) 7 additions and 7 deletions in 6 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [Reland] Skip injecting Bonjour settings when port publication is disabled<br />
     <sub>[#136842](https://github.com/flutter/flutter/pull/136842) opened on on October 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136842) 142 additions and 1 deletion in 8 files</sub><br />
