@@ -89,3 +89,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump flutter_lints to 3.0<br />
     <sub>[#136841](https://github.com/flutter/flutter/pull/136841) opened on on October 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136841) 7 additions and 7 deletions in 6 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [Reland] Skip injecting Bonjour settings when port publication is disabled<br />
+    <sub>[#136842](https://github.com/flutter/flutter/pull/136842) opened on on October 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136842) 142 additions and 1 deletion in 8 files</sub><br />
+
