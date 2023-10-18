@@ -38,9 +38,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try flutter/engine#46130<br />
     <sub>[#135254](https://github.com/flutter/flutter/pull/135254) opened on on September 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135254) 3 additions and 2 deletions in 3 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Flutter preview device<br />
-    <sub>[#135639](https://github.com/flutter/flutter/pull/135639) opened on on September 28, 2023 &mdash; **Extra large:** [46 comments](https://github.com/flutter/flutter/pull/135639) 1465 additions and 656 deletions in 24 files</sub><br />
-
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Provide parameter to Icon and IconThemeData for they to consider the context's text scaler<br />
     <sub>[#135708](https://github.com/flutter/flutter/pull/135708) opened on on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135708) 165 additions and 3 deletions in 4 files</sub><br />
 
@@ -72,7 +69,7 @@
     <sub>[#136477](https://github.com/flutter/flutter/pull/136477) opened on on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136477) 112 additions and 0 deletions in 1 file</sub><br />
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] cache the base URL as root index.html<br />
-    <sub>[#136594](https://github.com/flutter/flutter/pull/136594) opened on on October 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136594) 12 additions and 4 deletions in 2 files</sub><br />
+    <sub>[#136594](https://github.com/flutter/flutter/pull/136594) opened on on October 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136594) 12 additions and 4 deletions in 2 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Add `InputDatePickerFormField.focusNode` prop<br />
     <sub>[#136673](https://github.com/flutter/flutter/pull/136673) opened on on October 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136673) 21 additions and 0 deletions in 2 files</sub><br />
