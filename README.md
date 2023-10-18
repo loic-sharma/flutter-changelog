@@ -440,7 +440,7 @@
 
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Replace dead link in `CupertinoPicker` documentation<br />
     <sub>[#135897](https://github.com/flutter/flutter/pull/135897) merged on October 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135897) over 11 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove unused InlineSpan methods<br />
     <sub>[#135882](https://github.com/flutter/flutter/pull/135882) merged on October 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135882) over 16 hours, 0 additions and 33 deletions in 2 files</sub><br />
@@ -499,7 +499,7 @@
 
 ### October 14, 2023 to October 20, 2023
 
-23 commits.
+24 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Rework Vulkan GPUTracker to decorate existing cmd buffers.<br />
     <sub>[#46963](https://github.com/flutter/engine/pull/46963) merged on October 17, 2023 &mdash; **Medium:** [25 comments](https://github.com/flutter/engine/pull/46963) over 1 day, 380 additions and 119 deletions in 9 files</sub><br />
@@ -524,6 +524,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Include symbol maps in CanvasKit and Skwasm builds.<br />
     <sub>[#46973](https://github.com/flutter/engine/pull/46973) merged on October 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/46973) over 17 hours, 7 additions and 1 deletion in 3 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable threading test that fails on CI<br />
+    <sub>[#47034](https://github.com/flutter/engine/pull/47034) merged on October 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/47034) over 22 minutes, 0 additions and 28 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Move imgui from buildroot to flutter third_party<br />
     <sub>[#47031](https://github.com/flutter/engine/pull/47031) merged on October 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/47031) over 55 minutes, 7 additions and 7 deletions in 7 files</sub><br />
