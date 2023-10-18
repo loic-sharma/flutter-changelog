@@ -83,9 +83,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Null-assert the value given to a Completer expecting a non-null value<br />
     <sub>[#136776](https://github.com/flutter/flutter/pull/136776) opened on on October 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136776) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Anindya Chatterjee](https://github.com/anidotnet)** &mdash; Enable TapRegion to detect all mouse button click<br />
-    <sub>[#136799](https://github.com/flutter/flutter/pull/136799) opened on on October 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136799) 180 additions and 6 deletions in 2 files</sub><br />
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `OutlinedButton` tests for Material 3<br />
     <sub>[#136809](https://github.com/flutter/flutter/pull/136809) opened on on October 18, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/136809) 685 additions and 157 deletions in 1 file</sub><br />
 
