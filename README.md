@@ -530,7 +530,7 @@
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Fix tests failing on Sonoma<br />
-    <sub>[#46461](https://github.com/flutter/engine/pull/46461) merged on October 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/46461) over 2 weeks, 46 additions and 5 deletions in 2 files</sub><br />
+    <sub>[#46461](https://github.com/flutter/engine/pull/46461) merged on October 18, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/46461) over 2 weeks, 46 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] GPUTracer for Metal.<br />
