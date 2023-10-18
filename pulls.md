@@ -80,3 +80,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Null-assert the value given to a Completer expecting a non-null value<br />
     <sub>[#136776](https://github.com/flutter/flutter/pull/136776) opened on on October 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136776) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement GApplication:shutdown so a Flutter developer knows where to put code that should occur on application shutdown.<br />
+    <sub>[#136780](https://github.com/flutter/flutter/pull/136780) opened on on October 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136780) 8 additions and 0 deletions in 1 file</sub><br />
+
