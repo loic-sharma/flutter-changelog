@@ -41,9 +41,6 @@
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Provide parameter to Icon and IconThemeData for they to consider the context's text scaler<br />
     <sub>[#135708](https://github.com/flutter/flutter/pull/135708) opened on on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135708) 165 additions and 3 deletions in 4 files</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Use Layer.toImage for CanvasKit golden tests<br />
-    <sub>[#135711](https://github.com/flutter/flutter/pull/135711) opened on on September 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135711) 171 additions and 54 deletions in 5 files</sub><br />
-
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#135782](https://github.com/flutter/flutter/pull/135782) opened on on September 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135782) 2 additions and 2 deletions in 1 file</sub><br />
 
@@ -85,4 +82,7 @@
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `OutlinedButton` tests for Material 3<br />
     <sub>[#136809](https://github.com/flutter/flutter/pull/136809) opened on on October 18, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/136809) 685 additions and 157 deletions in 1 file</sub><br />
+
+* **[yim](https://github.com/yiiim)** &mdash; fix SliverReorderableLists item wrong offset<br />
+    <sub>[#136828](https://github.com/flutter/flutter/pull/136828) opened on on October 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136828) 52 additions and 0 deletions in 2 files</sub><br />
 
