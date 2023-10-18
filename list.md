@@ -4,7 +4,7 @@
 
 ### October 14, 2023 to October 20, 2023
 
-22 commits.
+23 commits.
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Adds API for performing semantics actions in tests
     <sub>[#132598](https://github.com/flutter/flutter/pull/132598) merged on October 18, 2023 &mdash; **Large:** [65 comments](https://github.com/flutter/flutter/pull/132598) over 2 months, 1039 additions and 24 deletions in 5 files</sub>
@@ -13,6 +13,11 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Flutter preview device
     <sub>[#135639](https://github.com/flutter/flutter/pull/135639) merged on October 18, 2023 &mdash; **Extra large:** [46 comments](https://github.com/flutter/flutter/pull/135639) over 2 weeks, 1465 additions and 656 deletions in 24 files</sub>
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Elias Yishak](https://github.com/eliasyishak)</sub>
+
+* **[Aakash Pamnani](https://github.com/aakash-pamnani)** &mdash; Fixed : Empty Rows shown at last page in Paginated data table
+    <sub>[#132646](https://github.com/flutter/flutter/pull/132646) merged on October 18, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/132646) over 2 months, 97 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Chris Bracken](https://github.com/cbracken), [Kate Lovett](https://github.com/Piinks)</sub>
+    <sub><details><summary>2 images...</summary>![Before](https://github.com/flutter/flutter/assets/76067278/1f1e364c-df38-462f-b9fb-868554ce04a5)![After](https://github.com/flutter/flutter/assets/76067278/80648a25-e9e6-4873-805f-b18c7c6a00af)</details></sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; clean up `--dart-define-from-file` option tests
     <sub>[#135980](https://github.com/flutter/flutter/pull/135980) merged on October 17, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135980) over 1 week, 371 additions and 390 deletions in 4 files</sub>
@@ -297,7 +302,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows Arm64] Add the 'platform_channel_sample_test_windows' Devicelab test
     <sub>[#136401](https://github.com/flutter/flutter/pull/136401) merged on October 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136401) over 3 hours, 14 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix some deprecation details
     <sub>[#136385](https://github.com/flutter/flutter/pull/136385) merged on October 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136385) over 2 hours, 5 additions and 3 deletions in 2 files</sub>
@@ -636,7 +641,7 @@
 
 * **[Daniel Chevalier](https://github.com/CoderDake)** &mdash; [web] Adds Noto Music fallback font
     <sub>[#46720](https://github.com/flutter/engine/pull/46720) merged on October 11, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/46720) over 1 day, 1324 additions and 1333 deletions in 4 files</sub>
-    <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [Mouad Debbar](https://github.com/mdebbar)</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
     <sub><details><summary>1 image...</summary>![](https://media.giphy.com/media/3ohzAv6kdQ4tukSNK8/giphy-downsized.gif)</details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Implement framebuffer fetch support for OpenGLES.
@@ -671,7 +676,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Don't cull readbacks outside the damage rect.
     <sub>[#46705](https://github.com/flutter/engine/pull/46705) merged on October 10, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/46705) over 10 hours, 51 additions and 14 deletions in 4 files</sub>
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Matej Knopp](https://github.com/knopp)</sub>
+    <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Ann Marie Mossman](https://github.com/mossmana)** &mdash; Replace deprecated [UIScreen mainScreen] in FlutterView.mm
     <sub>[#46802](https://github.com/flutter/engine/pull/46802) merged on October 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46802) over 1 day, 16 additions and 1 deletion in 3 files</sub>
@@ -767,7 +772,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Temporarily remove the runs of the engine Dart tests with Impeller enabled
     <sub>[#46854](https://github.com/flutter/engine/pull/46854) merged on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/46854) over 2 hours, 16 additions and 48 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Guard calls to extension proc DebugMessageControlKHR.
     <sub>[#46747](https://github.com/flutter/engine/pull/46747) merged on October 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46747) over 34 minutes, 8 additions and 6 deletions in 1 file</sub>
