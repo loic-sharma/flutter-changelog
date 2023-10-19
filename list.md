@@ -218,7 +218,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; _RouterState should dispose created _RestorableRouteInformation.
     <sub>[#136556](https://github.com/flutter/flutter/pull/136556) merged on October 14, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/136556) over 7 hours, 420 additions and 372 deletions in 7 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Polina Cherkasova](https://github.com/polina-c)</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Allow latest pkg:material_color_utilities
     <sub>[#132445](https://github.com/flutter/flutter/pull/132445) merged on October 11, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/132445) over 1 month, 472 additions and 471 deletions in 71 files</sub>
@@ -1090,7 +1090,7 @@
 
 ### October 14, 2023 to October 20, 2023
 
-8 commits.
+9 commits.
 
 * **[Nitin-Poojary](https://github.com/Nitin-Poojary)** &mdash; [flutter_image] added example app
     <sub>[#4353](https://github.com/flutter/packages/pull/4353) merged on October 16, 2023 &mdash; **Extra large:** [63 comments](https://github.com/flutter/packages/pull/4353) over 3 months, 4488 additions and 2 deletions in 125 files</sub>
@@ -1111,6 +1111,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [gis_web] Adds FedCM toggle.
     <sub>[#5123](https://github.com/flutter/packages/pull/5123) merged on October 17, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/5123) over 5 days, 85 additions and 2 deletions in 5 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add emulator tests on older Android version
+    <sub>[#4616](https://github.com/flutter/packages/pull/4616) merged on October 19, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4616) over 2 months, 101 additions and 0 deletions in 3 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; [flutter_lints] rev flutter_lints to 3.0; increase dep on package:lints
     <sub>[#5177](https://github.com/flutter/packages/pull/5177) merged on October 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5177) over 1 hour, 21 additions and 3 deletions in 2 files</sub>
