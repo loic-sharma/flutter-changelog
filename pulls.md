@@ -80,9 +80,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; fix SliverReorderableLists item wrong offset<br />
     <sub>[#136828](https://github.com/flutter/flutter/pull/136828) opened on on October 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136828) 52 additions and 0 deletions in 2 files</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; do not include entries from `--dart-define-from-file` files in the gradle config or environment during build<br />
-    <sub>[#136865](https://github.com/flutter/flutter/pull/136865) opened on on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136865) 3 additions and 108 deletions in 4 files</sub><br />
-
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; Reland"[SingleChildScrollView] Correct the offset pixels if it is out of range during layout"<br />
     <sub>[#136871](https://github.com/flutter/flutter/pull/136871) opened on on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136871) 53 additions and 16 deletions in 4 files</sub><br />
 
