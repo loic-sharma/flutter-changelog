@@ -77,9 +77,6 @@
 * **[Kayla Brady](https://github.com/KaylaBrady)** &mdash; Nav bar acccessibility: Mark nav items as buttons<br />
     <sub>[#136764](https://github.com/flutter/flutter/pull/136764) opened on on October 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136764) 17 additions and 1 deletion in 6 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `OutlinedButton` tests for Material 3<br />
-    <sub>[#136809](https://github.com/flutter/flutter/pull/136809) opened on on October 18, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/136809) 685 additions and 157 deletions in 1 file</sub><br />
-
 * **[yim](https://github.com/yiiim)** &mdash; fix SliverReorderableLists item wrong offset<br />
     <sub>[#136828](https://github.com/flutter/flutter/pull/136828) opened on on October 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136828) 52 additions and 0 deletions in 2 files</sub><br />
 
