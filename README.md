@@ -4,7 +4,7 @@
 
 ### October 14, 2023 to October 20, 2023
 
-35 commits.
+36 commits.
 
 * **[pdblasi-google](https://github.com/pdblasi-google)** &mdash; Adds API for performing semantics actions in tests<br />
     <sub>[#132598](https://github.com/flutter/flutter/pull/132598) merged on October 18, 2023 &mdash; **Large:** [65 comments](https://github.com/flutter/flutter/pull/132598) over 2 months, 1039 additions and 24 deletions in 5 files</sub><br />
@@ -39,21 +39,21 @@
     <sub>[#133469](https://github.com/flutter/flutter/pull/133469) merged on October 18, 2023 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/133469) over 1 month, 255 additions and 155 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Use Layer.toImage for golden tests on CanvasKit<br />
-    <sub>[#135249](https://github.com/flutter/flutter/pull/135249) merged on October 18, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/135249) over 3 weeks, 172 additions and 54 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Yegor](https://github.com/yjbanov)</sub><br />
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix prefer_mixin TODOs<br />
     <sub>[#136480](https://github.com/flutter/flutter/pull/136480) merged on October 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/136480) over 3 days, 8 additions and 13 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Use Layer.toImage for golden tests on CanvasKit<br />
+    <sub>[#135249](https://github.com/flutter/flutter/pull/135249) merged on October 18, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/135249) over 3 weeks, 172 additions and 54 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Add code for updating `focusedChild` when removing grandchildren from scope"<br />
+    <sub>[#136862](https://github.com/flutter/flutter/pull/136862) merged on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136862) over 1 minute, 1 addition and 47 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 * **[Aran Donohue](https://github.com/aran)** &mdash; Support --web-header option for flutter run<br />
     <sub>[#136297](https://github.com/flutter/flutter/pull/136297) merged on October 17, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/136297) over 6 days, 199 additions and 0 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
-
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add code for updating `focusedChild` when removing grandchildren from scope<br />
-    <sub>[#136771](https://github.com/flutter/flutter/pull/136771) merged on October 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136771) over 1 day, 47 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes ability to call nextFocus() on a node to focus its descendant<br />
     <sub>[#136773](https://github.com/flutter/flutter/pull/136773) merged on October 18, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/136773) over 19 hours, 122 additions and 6 deletions in 2 files</sub><br />
@@ -66,6 +66,10 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Removed TBD translations for optional remainingTextFieldCharacterCounZero message<br />
     <sub>[#136684](https://github.com/flutter/flutter/pull/136684) merged on October 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136684) over 18 hours, 45 additions and 109 deletions in 69 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add code for updating `focusedChild` when removing grandchildren from scope<br />
+    <sub>[#136771](https://github.com/flutter/flutter/pull/136771) merged on October 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136771) over 1 day, 47 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Do not hold on to stale canvas reference in _RenderSegmentedButton<br />
     <sub>[#136658](https://github.com/flutter/flutter/pull/136658) merged on October 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/136658) over 3 hours, 39 additions and 9 deletions in 2 files</sub><br />
@@ -99,10 +103,6 @@
     <sub>[#136359](https://github.com/flutter/flutter/pull/136359) merged on October 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136359) over 4 days, 66 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Null-assert the value given to a Completer expecting a non-null value<br />
-    <sub>[#136776](https://github.com/flutter/flutter/pull/136776) merged on October 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136776) over 21 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement GApplication:shutdown so a Flutter developer knows where to put code that should occur on application shutdown.<br />
     <sub>[#136780](https://github.com/flutter/flutter/pull/136780) merged on October 18, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/136780) over 14 hours, 8 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
@@ -127,13 +127,17 @@
     <sub>[#136433](https://github.com/flutter/flutter/pull/136433) merged on October 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136433) over 4 days, 20 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Use Layer.toImage for golden tests on CanvasKit"<br />
+    <sub>[#136860](https://github.com/flutter/flutter/pull/136860) merged on October 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136860) over 1 minute, 54 additions and 172 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 * **[Binni Goel](https://github.com/droidbg)** &mdash; Cupertino search field test leak tracking and Fix. RestorableTextEditingController not disposed. <br />
     <sub>[#136615](https://github.com/flutter/flutter/pull/136615) merged on October 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136615) over 14 hours, 54 additions and 30 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Use Layer.toImage for golden tests on CanvasKit"<br />
-    <sub>[#136860](https://github.com/flutter/flutter/pull/136860) merged on October 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136860) over 1 minute, 54 additions and 172 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Null-assert the value given to a Completer expecting a non-null value<br />
+    <sub>[#136776](https://github.com/flutter/flutter/pull/136776) merged on October 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136776) over 21 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert "[SingleChildScrollView] Correct the offset pixels if it is out of range during layout"<br />
     <sub>[#136744](https://github.com/flutter/flutter/pull/136744) merged on October 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136744) over 35 minutes, 16 additions and 53 deletions in 4 files</sub><br />
