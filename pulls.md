@@ -80,9 +80,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; fix SliverReorderableLists item wrong offset<br />
     <sub>[#136828](https://github.com/flutter/flutter/pull/136828) opened on on October 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136828) 52 additions and 0 deletions in 2 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmark linux_android platform_channels_benchmarks as flaky<br />
-    <sub>[#136838](https://github.com/flutter/flutter/pull/136838) opened on on October 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136838) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [Reland] Skip injecting Bonjour settings when port publication is disabled<br />
     <sub>[#136842](https://github.com/flutter/flutter/pull/136842) opened on on October 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136842) 142 additions and 1 deletion in 8 files</sub><br />
 
