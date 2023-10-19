@@ -84,5 +84,5 @@
     <sub>[#136920](https://github.com/flutter/flutter/pull/136920) opened on on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136920) 110 additions and 10 deletions in 4 files</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate arm64 builds to ruby dep.<br />
-    <sub>[#136929](https://github.com/flutter/flutter/pull/136929) opened on on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136929) 12 additions and 12 deletions in 1 file</sub><br />
+    <sub>[#136929](https://github.com/flutter/flutter/pull/136929) opened on on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136929) 11 additions and 10 deletions in 1 file</sub><br />
 
