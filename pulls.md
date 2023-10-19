@@ -89,3 +89,12 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] move build_preview_test from commands/permeable to integration shard<br />
     <sub>[#136912](https://github.com/flutter/flutter/pull/136912) opened on on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136912) 55 additions and 68 deletions in 3 files</sub><br />
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Reland "Use Layer.toImage for golden tests on CanvasKit"<br />
+    <sub>[#136918](https://github.com/flutter/flutter/pull/136918) opened on on October 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136918) 172 additions and 54 deletions in 5 files</sub><br />
+
+* **[Ricky Souza de Oliveira](https://github.com/HeroRickyGAMES)** &mdash;  Removing the bug of 'package:flutter/src/rendering/mouse_tracker.dart ': Failed assertion: line 205 pos 12: '!_debugDuringDeviceUpdate': is not true.<br />
+    <sub>[#136919](https://github.com/flutter/flutter/pull/136919) opened on on October 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136919) 7 additions and 5 deletions in 1 file</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix SelectionArea select-word edge cases<br />
+    <sub>[#136920](https://github.com/flutter/flutter/pull/136920) opened on on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136920) 110 additions and 10 deletions in 4 files</sub><br />
+
