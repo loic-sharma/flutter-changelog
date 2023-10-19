@@ -92,3 +92,6 @@
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; Reland"[SingleChildScrollView] Correct the offset pixels if it is out of range during layout"<br />
     <sub>[#136871](https://github.com/flutter/flutter/pull/136871) opened on on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136871) 53 additions and 16 deletions in 4 files</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Reland "Fixes ability to call nextFocus() on a node to focus its desc…<br />
+    <sub>[#136898](https://github.com/flutter/flutter/pull/136898) opened on on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136898) 122 additions and 6 deletions in 2 files</sub><br />
+
