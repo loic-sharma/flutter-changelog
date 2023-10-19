@@ -169,7 +169,7 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert "[Velocity Tracker] Fix: Issue 97761: Flutter Scrolling does not match iOS; inadvertent scrolling when user lifts up finger"<br />
     <sub>[#136905](https://github.com/flutter/flutter/pull/136905) merged on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136905) over 4 hours, 1 addition and 56 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Yegor](https://github.com/yjbanov)</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert "[SingleChildScrollView] Correct the offset pixels if it is out of range during layout"<br />
     <sub>[#136744](https://github.com/flutter/flutter/pull/136744) merged on October 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136744) over 35 minutes, 16 additions and 53 deletions in 4 files</sub><br />
