@@ -20,9 +20,6 @@
 * **[Burak İmdat](https://github.com/burakJs)** &mdash; Add viewSearchOnChanged to SearchAnchor<br />
     <sub>[#132924](https://github.com/flutter/flutter/pull/132924) opened on on August 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/132924) 16 additions and 2 deletions in 1 file</sub><br />
 
-* **[YeLinAung](https://github.com/b14cknc0d3)** &mdash; added '.fvm/flutter_sdk ' in .gitignore.tmp<br />
-    <sub>[#133107](https://github.com/flutter/flutter/pull/133107) opened on on August 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/133107) 3 additions and 0 deletions in 1 file</sub><br />
-
 * **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; [feat] `RefreshIndicator.noSpinner` implementation<br />
     <sub>[#133507](https://github.com/flutter/flutter/pull/133507) opened on on August 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133507) 94 additions and 3 deletions in 2 files</sub><br />
 
@@ -41,9 +38,6 @@
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Provide parameter to Icon and IconThemeData for they to consider the context's text scaler<br />
     <sub>[#135708](https://github.com/flutter/flutter/pull/135708) opened on on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135708) 165 additions and 3 deletions in 4 files</sub><br />
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#135782](https://github.com/flutter/flutter/pull/135782) opened on on September 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135782) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; DNS: Try 'Remove the frontend server wrapper'<br />
     <sub>[#135836](https://github.com/flutter/flutter/pull/135836) opened on on October 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135836) 2 additions and 1 deletion in 2 files</sub><br />
 
@@ -52,9 +46,6 @@
 
 * **[rekire](https://github.com/rekire)** &mdash; Update German translations<br />
     <sub>[#136091](https://github.com/flutter/flutter/pull/136091) opened on on October 6, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/136091) 102 additions and 227 deletions in 5 files</sub><br />
-
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions throughout the repo.<br />
-    <sub>[#136140](https://github.com/flutter/flutter/pull/136140) opened on on October 7, 2023 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/136140) 1678 additions and 2711 deletions in 170 files</sub><br />
 
 * **[Shaun Byrne](https://github.com/ShaunByrne-UniSA)** &mdash; Grey out non-selectable days in CupertinoDatePicker<br />
     <sub>[#136181](https://github.com/flutter/flutter/pull/136181) opened on on October 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136181) 164 additions and 1 deletion in 2 files</sub><br />
