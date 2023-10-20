@@ -93,5 +93,5 @@
     <sub>[#136975](https://github.com/flutter/flutter/pull/136975) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136975) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Ensure Xcode project is setup to start debugger<br />
-    <sub>[#136977](https://github.com/flutter/flutter/pull/136977) opened on on October 20, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/136977) 384 additions and 9 deletions in 10 files</sub><br />
+    <sub>[#136977](https://github.com/flutter/flutter/pull/136977) opened on on October 20, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/136977) 385 additions and 9 deletions in 11 files</sub><br />
 
