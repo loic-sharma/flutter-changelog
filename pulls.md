@@ -78,7 +78,7 @@
     <sub>[#136919](https://github.com/flutter/flutter/pull/136919) opened on on October 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136919) 7 additions and 5 deletions in 1 file</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix SelectionArea select-word edge cases<br />
-    <sub>[#136920](https://github.com/flutter/flutter/pull/136920) opened on on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136920) 162 additions and 19 deletions in 6 files</sub><br />
+    <sub>[#136920](https://github.com/flutter/flutter/pull/136920) opened on on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136920) 251 additions and 19 deletions in 6 files</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate arm64 builds to ruby dep.<br />
     <sub>[#136929](https://github.com/flutter/flutter/pull/136929) opened on on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136929) 44 additions and 43 deletions in 1 file</sub><br />
@@ -92,6 +92,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update dartdoc_options.yaml<br />
     <sub>[#136975](https://github.com/flutter/flutter/pull/136975) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136975) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Ensure Xcode project is setup to start debugger<br />
-    <sub>[#136977](https://github.com/flutter/flutter/pull/136977) opened on on October 20, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/136977) 385 additions and 9 deletions in 11 files</sub><br />
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; RenderEditable WidgetSpan intrinsics<br />
+    <sub>[#136979](https://github.com/flutter/flutter/pull/136979) opened on on October 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136979) 28 additions and 3 deletions in 2 files</sub><br />
 
