@@ -92,7 +92,7 @@
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; RenderEditable WidgetSpan intrinsics<br />
-    <sub>[#136979](https://github.com/flutter/flutter/pull/136979) merged on October 20, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/136979) over 1 hour, 35 additions and 3 deletions in 2 files</sub><br />
+    <sub>[#136979](https://github.com/flutter/flutter/pull/136979) merged on October 20, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/136979) over 1 hour, 35 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [docs] Expand categories for automated release notes<br />
@@ -189,7 +189,7 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert "[Velocity Tracker] Fix: Issue 97761: Flutter Scrolling does not match iOS; inadvertent scrolling when user lifts up finger"<br />
     <sub>[#136905](https://github.com/flutter/flutter/pull/136905) merged on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136905) over 4 hours, 1 addition and 56 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Yegor](https://github.com/yjbanov)</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert "[SingleChildScrollView] Correct the offset pixels if it is out of range during layout"<br />
     <sub>[#136744](https://github.com/flutter/flutter/pull/136744) merged on October 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136744) over 35 minutes, 16 additions and 53 deletions in 4 files</sub><br />
@@ -310,7 +310,7 @@
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Seperate localization tests for Material2 and Material3<br />
     <sub>[#135779](https://github.com/flutter/flutter/pull/135779) merged on October 10, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135779) over 1 week, 529 additions and 45 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove loading indicator in -d web-server builds<br />
     <sub>[#136482](https://github.com/flutter/flutter/pull/136482) merged on October 12, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/136482) over 3 hours, 75 additions and 43 deletions in 3 files</sub><br />
@@ -414,7 +414,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows Arm64] Add the 'platform_channel_sample_test_windows' Devicelab test<br />
     <sub>[#136401](https://github.com/flutter/flutter/pull/136401) merged on October 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136401) over 3 hours, 14 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix some deprecation details<br />
     <sub>[#136385](https://github.com/flutter/flutter/pull/136385) merged on October 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136385) over 2 hours, 5 additions and 3 deletions in 2 files</sub><br />
@@ -557,7 +557,7 @@
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; Fix the character field of RawKeyEvent is always null on iOS<br />
     <sub>[#135100](https://github.com/flutter/flutter/pull/135100) merged on October 3, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/135100) over 1 week, 6 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chris Bracken](https://github.com/cbracken)</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Update dialog tests for Material3<br />
     <sub>[#135775](https://github.com/flutter/flutter/pull/135775) merged on October 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135775) over 2 days, 37 additions and 12 deletions in 1 file</sub><br />
@@ -1192,7 +1192,7 @@
 
 ### October 14, 2023 to October 20, 2023
 
-14 commits.
+15 commits.
 
 * **[Nitin-Poojary](https://github.com/Nitin-Poojary)** &mdash; [flutter_image] added example app<br />
     <sub>[#4353](https://github.com/flutter/packages/pull/4353) merged on October 16, 2023 &mdash; **Extra large:** [63 comments](https://github.com/flutter/packages/pull/4353) over 3 months, 4488 additions and 2 deletions in 125 files</sub><br />
@@ -1209,6 +1209,11 @@
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [quick_actions] Convert android to pigeon<br />
     <sub>[#5099](https://github.com/flutter/packages/pull/5099) merged on October 17, 2023 &mdash; **Large:** [34 comments](https://github.com/flutter/packages/pull/5099) over 6 days, 910 additions and 401 deletions in 12 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump org.json:json from 20230618 to 20231013 in /packages/in_app_purchase/in_app_purchase_android/android<br />
+    <sub>[#5150](https://github.com/flutter/packages/pull/5150) merged on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5150) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.json:json&package-manager=gradle&previous-version=20230618&new-version=20231013)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [image_picker_ios] Update UITests for Xcode 15/iOS 17<br />
     <sub>[#5176](https://github.com/flutter/packages/pull/5176) merged on October 19, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5176) over 1 day, 91 additions and 12 deletions in 2 files</sub><br />
