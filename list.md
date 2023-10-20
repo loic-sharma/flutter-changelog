@@ -169,7 +169,7 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert "[Velocity Tracker] Fix: Issue 97761: Flutter Scrolling does not match iOS; inadvertent scrolling when user lifts up finger"
     <sub>[#136905](https://github.com/flutter/flutter/pull/136905) merged on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136905) over 4 hours, 1 addition and 56 deletions in 2 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert "[SingleChildScrollView] Correct the offset pixels if it is out of range during layout"
     <sub>[#136744](https://github.com/flutter/flutter/pull/136744) merged on October 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136744) over 35 minutes, 16 additions and 53 deletions in 4 files</sub>
@@ -394,7 +394,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows Arm64] Add the 'platform_channel_sample_test_windows' Devicelab test
     <sub>[#136401](https://github.com/flutter/flutter/pull/136401) merged on October 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136401) over 3 hours, 14 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix some deprecation details
     <sub>[#136385](https://github.com/flutter/flutter/pull/136385) merged on October 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136385) over 2 hours, 5 additions and 3 deletions in 2 files</sub>
@@ -553,7 +553,7 @@
 
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Replace dead link in `CupertinoPicker` documentation
     <sub>[#135897](https://github.com/flutter/flutter/pull/135897) merged on October 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135897) over 11 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove unused InlineSpan methods
     <sub>[#135882](https://github.com/flutter/flutter/pull/135882) merged on October 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/135882) over 16 hours, 0 additions and 33 deletions in 2 files</sub>
