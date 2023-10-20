@@ -71,9 +71,6 @@
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; Reland"[SingleChildScrollView] Correct the offset pixels if it is out of range during layout"<br />
     <sub>[#136871](https://github.com/flutter/flutter/pull/136871) opened on on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136871) 53 additions and 16 deletions in 4 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Reland "Fixes ability to call nextFocus() on a node to focus its desc…<br />
-    <sub>[#136898](https://github.com/flutter/flutter/pull/136898) opened on on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136898) 122 additions and 6 deletions in 2 files</sub><br />
-
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Reland "Use Layer.toImage for golden tests on CanvasKit"<br />
     <sub>[#136918](https://github.com/flutter/flutter/pull/136918) opened on on October 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136918) 172 additions and 54 deletions in 5 files</sub><br />
 
@@ -90,5 +87,5 @@
     <sub>[#136962](https://github.com/flutter/flutter/pull/136962) opened on on October 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136962) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [docs] Expand categories for automated release notes<br />
-    <sub>[#136967](https://github.com/flutter/flutter/pull/136967) opened on on October 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136967) 49 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#136967](https://github.com/flutter/flutter/pull/136967) opened on on October 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136967) 49 additions and 2 deletions in 1 file</sub><br />
 
