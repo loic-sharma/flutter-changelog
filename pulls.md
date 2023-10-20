@@ -59,20 +59,8 @@
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] cache the base URL as root index.html<br />
     <sub>[#136594](https://github.com/flutter/flutter/pull/136594) opened on on October 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136594) 12 additions and 4 deletions in 2 files</sub><br />
 
-* **[Tirth](https://github.com/piedcipher)** &mdash; Add `InputDatePickerFormField.focusNode` prop<br />
-    <sub>[#136673](https://github.com/flutter/flutter/pull/136673) opened on on October 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136673) 21 additions and 0 deletions in 2 files</sub><br />
-
 * **[Kayla Brady](https://github.com/KaylaBrady)** &mdash; Nav bar acccessibility: Mark nav items as buttons<br />
     <sub>[#136764](https://github.com/flutter/flutter/pull/136764) opened on on October 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136764) 17 additions and 1 deletion in 6 files</sub><br />
-
-* **[yim](https://github.com/yiiim)** &mdash; fix SliverReorderableLists item wrong offset<br />
-    <sub>[#136828](https://github.com/flutter/flutter/pull/136828) opened on on October 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136828) 52 additions and 0 deletions in 2 files</sub><br />
-
-* **[xubaolin](https://github.com/xu-baolin)** &mdash; Reland"[SingleChildScrollView] Correct the offset pixels if it is out of range during layout"<br />
-    <sub>[#136871](https://github.com/flutter/flutter/pull/136871) opened on on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136871) 53 additions and 16 deletions in 4 files</sub><br />
-
-* **[Ricky Souza de Oliveira](https://github.com/HeroRickyGAMES)** &mdash;  Removing the bug of 'package:flutter/src/rendering/mouse_tracker.dart ': Failed assertion: line 205 pos 12: '!_debugDuringDeviceUpdate': is not true.<br />
-    <sub>[#136919](https://github.com/flutter/flutter/pull/136919) opened on on October 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136919) 7 additions and 5 deletions in 1 file</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate arm64 builds to ruby dep.<br />
     <sub>[#136929](https://github.com/flutter/flutter/pull/136929) opened on on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136929) 44 additions and 43 deletions in 1 file</sub><br />
