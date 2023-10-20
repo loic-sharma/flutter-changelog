@@ -89,6 +89,6 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [docs] Expand categories for automated release notes<br />
     <sub>[#136967](https://github.com/flutter/flutter/pull/136967) opened on on October 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136967) 49 additions and 2 deletions in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add OpenGL GPU tracing to devicelab tests.<br />
-    <sub>[#136974](https://github.com/flutter/flutter/pull/136974) opened on on October 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136974) 25 additions and 18 deletions in 1 file</sub><br />
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update dartdoc_options.yaml<br />
+    <sub>[#136975](https://github.com/flutter/flutter/pull/136975) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136975) 1 addition and 1 deletion in 1 file</sub><br />
 
