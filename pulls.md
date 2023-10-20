@@ -80,6 +80,9 @@
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Bump cupertino_icons to 1.0.6<br />
     <sub>[#136962](https://github.com/flutter/flutter/pull/136962) opened on on October 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136962) 2 additions and 2 deletions in 2 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tool] change print when selecting developer identity for code signing<br />
+    <sub>[#136978](https://github.com/flutter/flutter/pull/136978) opened on on October 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136978) 4 additions and 4 deletions in 2 files</sub><br />
+
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Improves output file path passing in Android analyze<br />
-    <sub>[#136981](https://github.com/flutter/flutter/pull/136981) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136981) 22 additions and 12 deletions in 5 files</sub><br />
+    <sub>[#136981](https://github.com/flutter/flutter/pull/136981) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136981) 28 additions and 16 deletions in 7 files</sub><br />
 
