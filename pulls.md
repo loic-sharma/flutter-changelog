@@ -89,3 +89,6 @@
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Bump cupertino_icons to 1.0.6<br />
     <sub>[#136962](https://github.com/flutter/flutter/pull/136962) opened on on October 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136962) 2 additions and 2 deletions in 2 files</sub><br />
 
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [docs] Expand categories for automated release notes<br />
+    <sub>[#136967](https://github.com/flutter/flutter/pull/136967) opened on on October 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136967) 49 additions and 2 deletions in 1 file</sub><br />
+
