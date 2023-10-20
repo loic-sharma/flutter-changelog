@@ -74,6 +74,3 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Improves output file path logic in Android analyze<br />
     <sub>[#136981](https://github.com/flutter/flutter/pull/136981) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136981) 28 additions and 16 deletions in 7 files</sub><br />
 
-* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter release]workflow to cherry pick to beta branch<br />
-    <sub>[#136989](https://github.com/flutter/flutter/pull/136989) opened on on October 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136989) 124 additions and 0 deletions in 1 file</sub><br />
-
