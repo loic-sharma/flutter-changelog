@@ -72,5 +72,5 @@
     <sub>[#136978](https://github.com/flutter/flutter/pull/136978) opened on on October 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136978) 4 additions and 4 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Improves output file path logic in Android analyze<br />
-    <sub>[#136981](https://github.com/flutter/flutter/pull/136981) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136981) 28 additions and 16 deletions in 7 files</sub><br />
+    <sub>[#136981](https://github.com/flutter/flutter/pull/136981) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136981) 32 additions and 20 deletions in 8 files</sub><br />
 
