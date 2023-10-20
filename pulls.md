@@ -87,7 +87,7 @@
     <sub>[#136967](https://github.com/flutter/flutter/pull/136967) opened on on October 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136967) 49 additions and 2 deletions in 1 file</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update dartdoc_options.yaml<br />
-    <sub>[#136975](https://github.com/flutter/flutter/pull/136975) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136975) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#136975](https://github.com/flutter/flutter/pull/136975) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136975) 4 additions and 3 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Improves output file path passing in Android analyze<br />
     <sub>[#136981](https://github.com/flutter/flutter/pull/136981) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136981) 22 additions and 12 deletions in 5 files</sub><br />
