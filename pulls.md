@@ -71,6 +71,9 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tool] change print when selecting developer identity for code signing<br />
     <sub>[#136978](https://github.com/flutter/flutter/pull/136978) opened on on October 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136978) 4 additions and 4 deletions in 2 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Improves output file path passing in Android analyze<br />
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Improves output file path logic in Android analyze<br />
     <sub>[#136981](https://github.com/flutter/flutter/pull/136981) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136981) 28 additions and 16 deletions in 7 files</sub><br />
+
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter release]workflow to cherry pick to beta branch<br />
+    <sub>[#136989](https://github.com/flutter/flutter/pull/136989) opened on on October 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136989) 124 additions and 0 deletions in 1 file</sub><br />
 
