@@ -81,7 +81,7 @@
     <sub>[#136919](https://github.com/flutter/flutter/pull/136919) opened on on October 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136919) 7 additions and 5 deletions in 1 file</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix SelectionArea select-word edge cases<br />
-    <sub>[#136920](https://github.com/flutter/flutter/pull/136920) opened on on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136920) 110 additions and 10 deletions in 4 files</sub><br />
+    <sub>[#136920](https://github.com/flutter/flutter/pull/136920) opened on on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136920) 162 additions and 19 deletions in 6 files</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate arm64 builds to ruby dep.<br />
     <sub>[#136929](https://github.com/flutter/flutter/pull/136929) opened on on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136929) 44 additions and 43 deletions in 1 file</sub><br />
