@@ -71,9 +71,6 @@
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; Reland"[SingleChildScrollView] Correct the offset pixels if it is out of range during layout"<br />
     <sub>[#136871](https://github.com/flutter/flutter/pull/136871) opened on on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136871) 53 additions and 16 deletions in 4 files</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Reland "Use Layer.toImage for golden tests on CanvasKit"<br />
-    <sub>[#136918](https://github.com/flutter/flutter/pull/136918) opened on on October 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136918) 172 additions and 54 deletions in 5 files</sub><br />
-
 * **[Ricky Souza de Oliveira](https://github.com/HeroRickyGAMES)** &mdash;  Removing the bug of 'package:flutter/src/rendering/mouse_tracker.dart ': Failed assertion: line 205 pos 12: '!_debugDuringDeviceUpdate': is not true.<br />
     <sub>[#136919](https://github.com/flutter/flutter/pull/136919) opened on on October 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136919) 7 additions and 5 deletions in 1 file</sub><br />
 
@@ -91,7 +88,4 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update dartdoc_options.yaml<br />
     <sub>[#136975](https://github.com/flutter/flutter/pull/136975) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136975) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; RenderEditable WidgetSpan intrinsics<br />
-    <sub>[#136979](https://github.com/flutter/flutter/pull/136979) opened on on October 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136979) 28 additions and 3 deletions in 2 files</sub><br />
 
