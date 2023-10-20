@@ -290,7 +290,7 @@
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Seperate localization tests for Material2 and Material3<br />
     <sub>[#135779](https://github.com/flutter/flutter/pull/135779) merged on October 10, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135779) over 1 week, 529 additions and 45 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove loading indicator in -d web-server builds<br />
     <sub>[#136482](https://github.com/flutter/flutter/pull/136482) merged on October 12, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/136482) over 3 hours, 75 additions and 43 deletions in 3 files</sub><br />
@@ -1118,7 +1118,7 @@
 
 ### October 14, 2023 to October 20, 2023
 
-10 commits.
+11 commits.
 
 * **[Nitin-Poojary](https://github.com/Nitin-Poojary)** &mdash; [flutter_image] added example app<br />
     <sub>[#4353](https://github.com/flutter/packages/pull/4353) merged on October 16, 2023 &mdash; **Extra large:** [63 comments](https://github.com/flutter/packages/pull/4353) over 3 months, 4488 additions and 2 deletions in 125 files</sub><br />
@@ -1147,6 +1147,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add emulator tests on older Android version<br />
     <sub>[#4616](https://github.com/flutter/packages/pull/4616) merged on October 19, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/4616) over 2 months, 101 additions and 0 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [ci] Finalize migration to x64 specific Windows platform<br />
+    <sub>[#5174](https://github.com/flutter/packages/pull/5174) merged on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5174) over 1 day, 0 additions and 140 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; [flutter_lints] rev flutter_lints to 3.0; increase dep on package:lints<br />
     <sub>[#5177](https://github.com/flutter/packages/pull/5177) merged on October 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5177) over 1 hour, 21 additions and 3 deletions in 2 files</sub><br />
