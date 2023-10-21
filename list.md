@@ -108,7 +108,7 @@
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump dartdoc to 7.0.1 and clean-up
-    <sub>[#136975](https://github.com/flutter/flutter/pull/136975) merged on October 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136975) over 4 hours, 13 additions and 9 deletions in 3 files</sub>
+    <sub>[#136975](https://github.com/flutter/flutter/pull/136975) merged on October 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136975) over 4 hours, 13 additions and 9 deletions in 3 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Default `NativeAssets` Darwin and IOS target archs if missing
