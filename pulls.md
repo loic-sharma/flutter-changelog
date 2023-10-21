@@ -84,8 +84,8 @@
     <sub>[#137001](https://github.com/flutter/flutter/pull/137001) opened on on October 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137001) 17 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover last test/material tests with leak tracking.<br />
-    <sub>[#137004](https://github.com/flutter/flutter/pull/137004) opened on on October 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137004) 78 additions and 45 deletions in 3 files</sub><br />
+    <sub>[#137004](https://github.com/flutter/flutter/pull/137004) opened on on October 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137004) 78 additions and 45 deletions in 3 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover text_selection tests with leak tracking.<br />
-    <sub>[#137009](https://github.com/flutter/flutter/pull/137009) opened on on October 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137009) 134 additions and 58 deletions in 3 files</sub><br />
+    <sub>[#137009](https://github.com/flutter/flutter/pull/137009) opened on on October 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137009) 134 additions and 58 deletions in 3 files</sub><br />
 
