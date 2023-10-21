@@ -41,9 +41,6 @@
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Provide parameter to Icon and IconThemeData for they to consider the context's text scaler<br />
     <sub>[#135708](https://github.com/flutter/flutter/pull/135708) opened on on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135708) 165 additions and 3 deletions in 4 files</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; DNS: Try 'Remove the frontend server wrapper'<br />
-    <sub>[#135836](https://github.com/flutter/flutter/pull/135836) opened on on October 1, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135836) 2 additions and 1 deletion in 2 files</sub><br />
-
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update asset manifest file name referenced in `WebServiceWorker`<br />
     <sub>[#135954](https://github.com/flutter/flutter/pull/135954) opened on on October 4, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/135954) 10 additions and 10 deletions in 3 files</sub><br />
 
