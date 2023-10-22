@@ -86,3 +86,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover text_selection tests with leak tracking.<br />
     <sub>[#137009](https://github.com/flutter/flutter/pull/137009) opened on on October 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137009) 134 additions and 58 deletions in 3 files</sub><br />
 
+* **[Jasper van Riet](https://github.com/JaspervanRiet)** &mdash; Remove duplicate padding on CupertinoFormSection<br />
+    <sub>[#137039](https://github.com/flutter/flutter/pull/137039) opened on on October 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137039) 95 additions and 14 deletions in 3 files</sub><br />
+
