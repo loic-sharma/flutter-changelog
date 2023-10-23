@@ -77,9 +77,6 @@
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; Fixes vscode path installed via snap<br />
     <sub>[#136997](https://github.com/flutter/flutter/pull/136997) opened on on October 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136997) 3 additions and 3 deletions in 2 files</sub><br />
 
-* **[sooxt98](https://github.com/sooxt98)** &mdash; `DropdownMenuEntry` can be horizontally expanded to its parent size<br />
-    <sub>[#137001](https://github.com/flutter/flutter/pull/137001) opened on on October 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137001) 17 additions and 0 deletions in 1 file</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover last test/material tests with leak tracking.<br />
     <sub>[#137004](https://github.com/flutter/flutter/pull/137004) opened on on October 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137004) 78 additions and 45 deletions in 3 files</sub><br />
 
