@@ -72,7 +72,7 @@
     <sub>[#136978](https://github.com/flutter/flutter/pull/136978) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136978) 4 additions and 4 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Improves output file path logic in Android analyze<br />
-    <sub>[#136981](https://github.com/flutter/flutter/pull/136981) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136981) 39 additions and 23 deletions in 9 files</sub><br />
+    <sub>[#136981](https://github.com/flutter/flutter/pull/136981) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136981) 37 additions and 22 deletions in 9 files</sub><br />
 
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; Fixes vscode path installed via snap<br />
     <sub>[#136997](https://github.com/flutter/flutter/pull/136997) opened on on October 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136997) 3 additions and 3 deletions in 2 files</sub><br />
@@ -91,4 +91,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Dartdoc warning test<br />
     <sub>[#137077](https://github.com/flutter/flutter/pull/137077) opened on on October 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137077) 16 additions and 3 deletions in 2 files</sub><br />
+
+* **[Ross Llewallyn](https://github.com/EnduringBeta)** &mdash; CustomPainterSemantics doc typo<br />
+    <sub>[#137081](https://github.com/flutter/flutter/pull/137081) opened on on October 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137081) 1 addition and 1 deletion in 1 file</sub><br />
 
