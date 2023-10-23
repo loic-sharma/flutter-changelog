@@ -243,7 +243,7 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert "[Velocity Tracker] Fix: Issue 97761: Flutter Scrolling does not match iOS; inadvertent scrolling when user lifts up finger"<br />
     <sub>[#136905](https://github.com/flutter/flutter/pull/136905) merged on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136905) over 4 hours, 1 addition and 56 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Yegor](https://github.com/yjbanov)</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Reland "Use Layer.toImage for golden tests on CanvasKit"<br />
     <sub>[#136918](https://github.com/flutter/flutter/pull/136918) merged on October 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136918) over 1 day, 172 additions and 54 deletions in 5 files</sub><br />
@@ -310,7 +310,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; _RouterState should dispose created _RestorableRouteInformation.<br />
     <sub>[#136556](https://github.com/flutter/flutter/pull/136556) merged on October 14, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/136556) over 7 hours, 420 additions and 372 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Allow latest pkg:material_color_utilities<br />
     <sub>[#132445](https://github.com/flutter/flutter/pull/132445) merged on October 11, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/132445) over 1 month, 472 additions and 471 deletions in 71 files</sub><br />
@@ -854,7 +854,7 @@
 
 * **[Erik German](https://github.com/eriko13)** &mdash; fixed AutofillHints.middleName tanslation for web.<br />
     <sub>[#46429](https://github.com/flutter/engine/pull/46429) merged on October 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/46429) over 1 week, 7 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Hassan Toor](https://github.com/htoor3)</sub><br />
+    <sub>Reviewed by: [Hassan Toor](https://github.com/htoor3), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
     <sub><details><summary>1 image...</summary><img width="1440" alt="Screenshot 2023-09-30 at 1 18 03 p m" src="https://github.com/flutter/engine/assets/36830415/f6643b71-3944-42da-a9b4-47e1cebb290e"></details></sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] flutter_tester --enable-impeller<br />
@@ -1054,11 +1054,16 @@
 
 ### October 21, 2023 to October 27, 2023
 
-2 commits.
+3 commits.
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] CameraPlatform.createCameraWithSettings<br />
     <sub>[#3615](https://github.com/flutter/packages/pull/3615) merged on October 23, 2023 &mdash; **Medium:** [48 comments](https://github.com/flutter/packages/pull/3615) over 6 months, 471 additions and 20 deletions in 10 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [local_auth]: Bump androidx.fragment:fragment from 1.6.0 to 1.6.1 in /packages/local_auth/local_auth_android/android<br />
+    <sub>[#4600](https://github.com/flutter/packages/pull/4600) merged on October 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/4600) over 2 months, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.fragment:fragment&package-manager=gradle&previous-version=1.6.0&new-version=1.6.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Add optional swift-format support<br />
     <sub>[#5204](https://github.com/flutter/packages/pull/5204) merged on October 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5204) over 2 hours, 97 additions and 6 deletions in 2 files</sub><br />
