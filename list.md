@@ -154,8 +154,8 @@
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump dartdoc to 7.0.1 and clean-up
-    <sub>[#136975](https://github.com/flutter/flutter/pull/136975) merged on October 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136975) over 4 hours, 13 additions and 9 deletions in 3 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>[#136975](https://github.com/flutter/flutter/pull/136975) merged on October 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/136975) over 4 hours, 13 additions and 9 deletions in 3 files</sub>
+    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add OpenGL GPU tracing to devicelab tests.
     <sub>[#136974](https://github.com/flutter/flutter/pull/136974) merged on October 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/136974) over 2 hours, 25 additions and 18 deletions in 1 file</sub>
@@ -382,7 +382,7 @@
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Seperate localization tests for Material2 and Material3
     <sub>[#135779](https://github.com/flutter/flutter/pull/135779) merged on October 10, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135779) over 1 week, 529 additions and 45 deletions in 4 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove loading indicator in -d web-server builds
     <sub>[#136482](https://github.com/flutter/flutter/pull/136482) merged on October 12, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/136482) over 3 hours, 75 additions and 43 deletions in 3 files</sub>
@@ -486,7 +486,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows Arm64] Add the 'platform_channel_sample_test_windows' Devicelab test
     <sub>[#136401](https://github.com/flutter/flutter/pull/136401) merged on October 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136401) over 3 hours, 14 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix some deprecation details
     <sub>[#136385](https://github.com/flutter/flutter/pull/136385) merged on October 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136385) over 2 hours, 5 additions and 3 deletions in 2 files</sub>
