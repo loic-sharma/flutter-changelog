@@ -4,7 +4,7 @@
 
 ### October 21, 2023 to October 27, 2023
 
-5 commits.
+7 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add delete button support to `FilterChip`<br />
     <sub>[#136645](https://github.com/flutter/flutter/pull/136645) merged on October 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136645) over 1 week, 221 additions and 0 deletions in 2 files</sub><br />
@@ -18,6 +18,14 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ColorScheme.fromSwatch` docs for Material 3<br />
     <sub>[#136816](https://github.com/flutter/flutter/pull/136816) merged on October 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136816) over 5 days, 9 additions and 4 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix TextStyle terminology<br />
+    <sub>[#137000](https://github.com/flutter/flutter/pull/137000) merged on October 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137000) over 2 days, 4 additions and 4 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Add `InputDatePickerFormField.focusNode` prop<br />
+    <sub>[#136673](https://github.com/flutter/flutter/pull/136673) merged on October 23, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/136673) over 6 days, 22 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#137067](https://github.com/flutter/flutter/pull/137067) merged on October 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137067) over 41 minutes, 2 additions and 2 deletions in 1 file</sub><br />
@@ -302,7 +310,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; _RouterState should dispose created _RestorableRouteInformation.<br />
     <sub>[#136556](https://github.com/flutter/flutter/pull/136556) merged on October 14, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/136556) over 7 hours, 420 additions and 372 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [chunhtai](https://github.com/chunhtai)</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Allow latest pkg:material_color_utilities<br />
     <sub>[#132445](https://github.com/flutter/flutter/pull/132445) merged on October 11, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/132445) over 1 month, 472 additions and 471 deletions in 71 files</sub><br />
@@ -836,7 +844,7 @@
 
 * **[Daniel Chevalier](https://github.com/CoderDake)** &mdash; [web] Adds Noto Music fallback font<br />
     <sub>[#46720](https://github.com/flutter/engine/pull/46720) merged on October 11, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/46720) over 1 day, 1324 additions and 1333 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+    <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
     <sub><details><summary>1 image...</summary>![](https://media.giphy.com/media/3ohzAv6kdQ4tukSNK8/giphy-downsized.gif)</details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Implement framebuffer fetch support for OpenGLES.<br />
@@ -871,7 +879,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Don't cull readbacks outside the damage rect.<br />
     <sub>[#46705](https://github.com/flutter/engine/pull/46705) merged on October 10, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/46705) over 10 hours, 51 additions and 14 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Matej Knopp](https://github.com/knopp)</sub><br />
 
 * **[Ann Marie Mossman](https://github.com/mossmana)** &mdash; Replace deprecated [UIScreen mainScreen] in FlutterView.mm<br />
     <sub>[#46802](https://github.com/flutter/engine/pull/46802) merged on October 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46802) over 1 day, 16 additions and 1 deletion in 3 files</sub><br />
@@ -967,7 +975,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Temporarily remove the runs of the engine Dart tests with Impeller enabled<br />
     <sub>[#46854](https://github.com/flutter/engine/pull/46854) merged on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/46854) over 2 hours, 16 additions and 48 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Guard calls to extension proc DebugMessageControlKHR.<br />
     <sub>[#46747](https://github.com/flutter/engine/pull/46747) merged on October 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46747) over 34 minutes, 8 additions and 6 deletions in 1 file</sub><br />
