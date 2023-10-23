@@ -382,7 +382,7 @@
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Seperate localization tests for Material2 and Material3
     <sub>[#135779](https://github.com/flutter/flutter/pull/135779) merged on October 10, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135779) over 1 week, 529 additions and 45 deletions in 4 files</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove loading indicator in -d web-server builds
     <sub>[#136482](https://github.com/flutter/flutter/pull/136482) merged on October 12, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/136482) over 3 hours, 75 additions and 43 deletions in 3 files</sub>
@@ -601,7 +601,11 @@
 
 ### October 21, 2023 to October 27, 2023
 
-5 commits.
+6 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Added tests to assert empty saveLayer behaviors.
+    <sub>[#47138](https://github.com/flutter/engine/pull/47138) merged on October 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/47138) over 3 days, 20 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Vk query cleanups.
     <sub>[#47208](https://github.com/flutter/engine/pull/47208) merged on October 23, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/47208) over 19 hours, 176 additions and 91 deletions in 6 files</sub>
