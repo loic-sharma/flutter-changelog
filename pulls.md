@@ -89,3 +89,6 @@
 * **[Regis Imuduhe Safari](https://github.com/RegisSaffi)** &mdash; Add support for Kinyarwanda (rw) Language locale<br />
     <sub>[#137061](https://github.com/flutter/flutter/pull/137061) opened on on October 23, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/137061) 1946 additions and 124 deletions in 8 files</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Dartdoc warning test<br />
+    <sub>[#137077](https://github.com/flutter/flutter/pull/137077) opened on on October 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137077) 3 additions and 3 deletions in 1 file</sub><br />
+
