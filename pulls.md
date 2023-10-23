@@ -62,9 +62,6 @@
 * **[Kayla Brady](https://github.com/KaylaBrady)** &mdash; Nav bar acccessibility: Mark nav items as buttons<br />
     <sub>[#136764](https://github.com/flutter/flutter/pull/136764) opened on on October 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136764) 17 additions and 1 deletion in 6 files</sub><br />
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate arm64 builds to ruby dep.<br />
-    <sub>[#136929](https://github.com/flutter/flutter/pull/136929) opened on on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136929) 44 additions and 43 deletions in 1 file</sub><br />
-
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Bump cupertino_icons to 1.0.6<br />
     <sub>[#136962](https://github.com/flutter/flutter/pull/136962) opened on on October 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136962) 2 additions and 2 deletions in 2 files</sub><br />
 
@@ -72,7 +69,7 @@
     <sub>[#136978](https://github.com/flutter/flutter/pull/136978) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136978) 4 additions and 4 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Improves output file path logic in Android analyze<br />
-    <sub>[#136981](https://github.com/flutter/flutter/pull/136981) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136981) 37 additions and 22 deletions in 9 files</sub><br />
+    <sub>[#136981](https://github.com/flutter/flutter/pull/136981) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136981) 44 additions and 22 deletions in 9 files</sub><br />
 
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; Fixes vscode path installed via snap<br />
     <sub>[#136997](https://github.com/flutter/flutter/pull/136997) opened on on October 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136997) 3 additions and 3 deletions in 2 files</sub><br />
@@ -83,12 +80,9 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover text_selection tests with leak tracking.<br />
     <sub>[#137009](https://github.com/flutter/flutter/pull/137009) opened on on October 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137009) 134 additions and 58 deletions in 3 files</sub><br />
 
-* **[Jasper van Riet](https://github.com/JaspervanRiet)** &mdash; Remove duplicate padding on CupertinoFormSection<br />
-    <sub>[#137039](https://github.com/flutter/flutter/pull/137039) opened on on October 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137039) 95 additions and 14 deletions in 3 files</sub><br />
-
 * **[Regis Imuduhe Safari](https://github.com/RegisSaffi)** &mdash; Add support for Kinyarwanda (rw) Language locale<br />
     <sub>[#137061](https://github.com/flutter/flutter/pull/137061) opened on on October 23, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/137061) 1946 additions and 124 deletions in 8 files</sub><br />
 
-* **[Ross Llewallyn](https://github.com/EnduringBeta)** &mdash; CustomPainterSemantics doc typo<br />
-    <sub>[#137081](https://github.com/flutter/flutter/pull/137081) opened on on October 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137081) 1 addition and 1 deletion in 1 file</sub><br />
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#137087](https://github.com/flutter/flutter/pull/137087) opened on on October 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137087) 2 additions and 2 deletions in 1 file</sub><br />
 
