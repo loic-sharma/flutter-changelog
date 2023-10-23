@@ -72,7 +72,7 @@
     <sub>[#136978](https://github.com/flutter/flutter/pull/136978) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136978) 4 additions and 4 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Improves output file path logic in Android analyze<br />
-    <sub>[#136981](https://github.com/flutter/flutter/pull/136981) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136981) 34 additions and 21 deletions in 9 files</sub><br />
+    <sub>[#136981](https://github.com/flutter/flutter/pull/136981) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136981) 36 additions and 22 deletions in 9 files</sub><br />
 
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; Fixes vscode path installed via snap<br />
     <sub>[#136997](https://github.com/flutter/flutter/pull/136997) opened on on October 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136997) 3 additions and 3 deletions in 2 files</sub><br />
@@ -88,4 +88,7 @@
 
 * **[Regis Imuduhe Safari](https://github.com/RegisSaffi)** &mdash; Add support for Kinyarwanda (rw) Language locale<br />
     <sub>[#137061](https://github.com/flutter/flutter/pull/137061) opened on on October 23, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/137061) 1946 additions and 124 deletions in 8 files</sub><br />
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#137067](https://github.com/flutter/flutter/pull/137067) opened on on October 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137067) 2 additions and 2 deletions in 1 file</sub><br />
 
