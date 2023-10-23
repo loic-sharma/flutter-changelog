@@ -89,3 +89,6 @@
 * **[Jasper van Riet](https://github.com/JaspervanRiet)** &mdash; Remove duplicate padding on CupertinoFormSection<br />
     <sub>[#137039](https://github.com/flutter/flutter/pull/137039) opened on on October 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137039) 95 additions and 14 deletions in 3 files</sub><br />
 
+* **[Regis Imuduhe Safari](https://github.com/RegisSaffi)** &mdash; Add support for Kinyarwanda (rw) Language locale<br />
+    <sub>[#137061](https://github.com/flutter/flutter/pull/137061) opened on on October 23, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/137061) 1946 additions and 124 deletions in 8 files</sub><br />
+
