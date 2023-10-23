@@ -78,7 +78,7 @@
     <sub>[#137061](https://github.com/flutter/flutter/pull/137061) opened on on October 23, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/137061) 1946 additions and 124 deletions in 8 files</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#137096](https://github.com/flutter/flutter/pull/137096) opened on on October 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137096) 4 additions and 58 deletions in 2 files</sub><br />
+    <sub>[#137096](https://github.com/flutter/flutter/pull/137096) opened on on October 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137096) 4 additions and 58 deletions in 2 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Cherry-pick package:web update to version 0.3.0 from 0.2.1-beta<br />
     <sub>[#137098](https://github.com/flutter/flutter/pull/137098) opened on on October 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137098) 60 additions and 60 deletions in 60 files</sub><br />
