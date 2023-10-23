@@ -374,7 +374,7 @@
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Seperate localization tests for Material2 and Material3
     <sub>[#135779](https://github.com/flutter/flutter/pull/135779) merged on October 10, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135779) over 1 week, 529 additions and 45 deletions in 4 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove loading indicator in -d web-server builds
     <sub>[#136482](https://github.com/flutter/flutter/pull/136482) merged on October 12, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/136482) over 3 hours, 75 additions and 43 deletions in 3 files</sub>
@@ -478,7 +478,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows Arm64] Add the 'platform_channel_sample_test_windows' Devicelab test
     <sub>[#136401](https://github.com/flutter/flutter/pull/136401) merged on October 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136401) over 3 hours, 14 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix some deprecation details
     <sub>[#136385](https://github.com/flutter/flutter/pull/136385) merged on October 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136385) over 2 hours, 5 additions and 3 deletions in 2 files</sub>
@@ -593,7 +593,11 @@
 
 ### October 21, 2023 to October 27, 2023
 
-3 commits.
+4 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Vk query cleanups.
+    <sub>[#47208](https://github.com/flutter/engine/pull/47208) merged on October 23, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/47208) over 19 hours, 176 additions and 91 deletions in 6 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Update to the latest package:test
     <sub>[#46592](https://github.com/flutter/engine/pull/46592) merged on October 23, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/46592) over 2 weeks, 51 additions and 27 deletions in 6 files</sub>
