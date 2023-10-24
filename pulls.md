@@ -84,5 +84,8 @@
     <sub>[#137098](https://github.com/flutter/flutter/pull/137098) opened on on October 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137098) 60 additions and 60 deletions in 60 files</sub><br />
 
 * **[Gustl22](https://github.com/Gustl22)** &mdash; Reland: "Fix how Gradle resolves Android plugin"<br />
-    <sub>[#137115](https://github.com/flutter/flutter/pull/137115) opened on on October 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137115) 177 additions and 33 deletions in 3 files</sub><br />
+    <sub>[#137115](https://github.com/flutter/flutter/pull/137115) opened on on October 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137115) 177 additions and 33 deletions in 3 files</sub><br />
+
+* **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; Adding vscode-insiders path installed though snap<br />
+    <sub>[#137117](https://github.com/flutter/flutter/pull/137117) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137117) 7 additions and 1 deletion in 2 files</sub><br />
 
