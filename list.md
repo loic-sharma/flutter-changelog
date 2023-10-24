@@ -1152,6 +1152,10 @@
     <sub>[#5180](https://github.com/flutter/packages/pull/5180) merged on October 23, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/5180) over 4 days, 226 additions and 29 deletions in 5 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Add an `inAppBrowserView` mode
+    <sub>[#5205](https://github.com/flutter/packages/pull/5205) merged on October 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5205) over 9 hours, 91 additions and 3 deletions in 5 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change firebase device tests from Android api 30 to 33
     <sub>[#5185](https://github.com/flutter/packages/pull/5185) merged on October 23, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5185) over 4 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
@@ -1159,10 +1163,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [ci] Remove device_type property from Windows Arm64 properties
     <sub>[#5193](https://github.com/flutter/packages/pull/5193) merged on October 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5193) over 2 days, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
-
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Add an `inAppBrowserView` mode
-    <sub>[#5205](https://github.com/flutter/packages/pull/5205) merged on October 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5205) over 9 hours, 91 additions and 3 deletions in 5 files</sub>
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Add optional swift-format support
     <sub>[#5204](https://github.com/flutter/packages/pull/5204) merged on October 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5204) over 2 hours, 97 additions and 6 deletions in 2 files</sub>
