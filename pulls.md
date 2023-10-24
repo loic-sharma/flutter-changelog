@@ -89,3 +89,6 @@
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; Added vscode-insiders path installed via snap<br />
     <sub>[#137117](https://github.com/flutter/flutter/pull/137117) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137117) 7 additions and 1 deletion in 2 files</sub><br />
 
+* **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; Added support for vscode and vscode-insiders installed via Flatpak<br />
+    <sub>[#137123](https://github.com/flutter/flutter/pull/137123) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137123) 42 additions and 5 deletions in 2 files</sub><br />
+
