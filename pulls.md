@@ -83,9 +83,6 @@
 * **[Binni Goel](https://github.com/droidbg)** &mdash; fix. typos in comments<br />
     <sub>[#137178](https://github.com/flutter/flutter/pull/137178) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137178) 7 additions and 7 deletions in 5 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix Gradle lockfiles.<br />
-    <sub>[#137190](https://github.com/flutter/flutter/pull/137190) opened on on October 24, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/137190) 1996 additions and 1448 deletions in 75 files</sub><br />
-
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Cherry-pick package:web update to version 0.3.0 from 0.2.1-beta<br />
     <sub>[#137195](https://github.com/flutter/flutter/pull/137195) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137195) 119 additions and 119 deletions in 60 files</sub><br />
 
