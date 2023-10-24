@@ -98,3 +98,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add ProcessTextService<br />
     <sub>[#137145](https://github.com/flutter/flutter/pull/137145) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137145) 244 additions and 0 deletions in 4 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ColorScheme.light`, `ColorScheme.dark`, `ColorScheme.highContrastLight`, & `ColorScheme.highContrastDark`  constructors docs for Material 3<br />
+    <sub>[#137149](https://github.com/flutter/flutter/pull/137149) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137149) 32 additions and 8 deletions in 1 file</sub><br />
+
