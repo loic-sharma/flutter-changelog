@@ -74,12 +74,6 @@
 * **[Regis Imuduhe Safari](https://github.com/RegisSaffi)** &mdash; Add support for Kinyarwanda (rw) Language locale<br />
     <sub>[#137061](https://github.com/flutter/flutter/pull/137061) opened on on October 23, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/137061) 1946 additions and 124 deletions in 8 files</sub><br />
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#137096](https://github.com/flutter/flutter/pull/137096) opened on on October 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137096) 4 additions and 58 deletions in 2 files</sub><br />
-
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Cherry-pick package:web update to version 0.3.0 from 0.2.1-beta<br />
-    <sub>[#137098](https://github.com/flutter/flutter/pull/137098) opened on on October 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137098) 60 additions and 60 deletions in 60 files</sub><br />
-
 * **[Gustl22](https://github.com/Gustl22)** &mdash; Reland: "Fix how Gradle resolves Android plugin"<br />
     <sub>[#137115](https://github.com/flutter/flutter/pull/137115) opened on on October 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137115) 179 additions and 35 deletions in 3 files</sub><br />
 
@@ -94,4 +88,7 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove `bringup: true` from realm_checker and remove the redundant tool test.<br />
     <sub>[#137186](https://github.com/flutter/flutter/pull/137186) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137186) 0 additions and 10 deletions in 2 files</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Gradle<br />
+    <sub>[#137190](https://github.com/flutter/flutter/pull/137190) opened on on October 24, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/137190) 2006 additions and 1458 deletions in 81 files</sub><br />
 
