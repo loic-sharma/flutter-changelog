@@ -92,6 +92,3 @@
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; Added support for vscode and vscode-insiders installed via Flatpak<br />
     <sub>[#137123](https://github.com/flutter/flutter/pull/137123) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137123) 42 additions and 5 deletions in 2 files</sub><br />
 
-* **[cui fliter](https://github.com/cuishuang)** &mdash; fix some typos<br />
-    <sub>[#137144](https://github.com/flutter/flutter/pull/137144) opened on on October 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137144) 5 additions and 5 deletions in 5 files</sub><br />
-
