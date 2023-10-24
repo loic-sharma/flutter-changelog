@@ -621,7 +621,7 @@
 
 ### October 21, 2023 to October 27, 2023
 
-11 commits.
+13 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Rename blobcat to shader_archive(r).<br />
     <sub>[#47247](https://github.com/flutter/engine/pull/47247) merged on October 24, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/47247) over 51 minutes, 307 additions and 286 deletions in 20 files</sub><br />
@@ -641,6 +641,14 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Disable raster stats service protocol.<br />
     <sub>[#47206](https://github.com/flutter/engine/pull/47206) merged on October 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/47206) over 1 day, 50 additions and 0 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Update fml::ThreadPriority enum to match style guide.<br />
+    <sub>[#47255](https://github.com/flutter/engine/pull/47255) merged on October 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/47255) over 49 minutes, 40 additions and 40 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Adjustments to SubmitKHR and queries.<br />
+    <sub>[#47249](https://github.com/flutter/engine/pull/47249) merged on October 24, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/47249) over 1 hour, 32 additions and 3 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Update shader pipeline image with a chart.<br />
