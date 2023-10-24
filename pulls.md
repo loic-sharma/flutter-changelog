@@ -83,3 +83,6 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Cherry-pick package:web update to version 0.3.0 from 0.2.1-beta<br />
     <sub>[#137098](https://github.com/flutter/flutter/pull/137098) opened on on October 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137098) 60 additions and 60 deletions in 60 files</sub><br />
 
+* **[Gustl22](https://github.com/Gustl22)** &mdash; Reland: "Fix how Gradle resolves Android plugin"<br />
+    <sub>[#137115](https://github.com/flutter/flutter/pull/137115) opened on on October 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137115) 177 additions and 33 deletions in 3 files</sub><br />
+
