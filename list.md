@@ -4,7 +4,7 @@
 
 ### October 21, 2023 to October 27, 2023
 
-18 commits.
+19 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add delete button support to `FilterChip`
     <sub>[#136645](https://github.com/flutter/flutter/pull/136645) merged on October 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136645) over 1 week, 221 additions and 0 deletions in 2 files</sub>
@@ -14,6 +14,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `OverlayPortal.overlayChild` contributes semantics to `OverlayPortal` instead of `Overlay`
     <sub>[#134921](https://github.com/flutter/flutter/pull/134921) merged on October 23, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/134921) over 1 month, 544 additions and 141 deletions in 6 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Refactor macOS build/codesize analysis
+    <sub>[#137164](https://github.com/flutter/flutter/pull/137164) merged on October 24, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/137164) over 2 hours, 51 additions and 40 deletions in 1 file</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade packages in flutter and flutter_test.
     <sub>[#137106](https://github.com/flutter/flutter/pull/137106) merged on October 23, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/137106) over 43 minutes, 4 additions and 58 deletions in 2 files</sub>
@@ -633,12 +637,21 @@
 
 ### October 21, 2023 to October 27, 2023
 
-15 commits.
+17 commits.
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [Impeller] Curve components in stroke path use start directions as their initial offsets
+    <sub>[#46203](https://github.com/flutter/engine/pull/46203) merged on October 24, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/46203) over 1 month, 237 additions and 32 deletions in 7 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub><details><summary>3 images...</summary>![image](https://github.com/flutter/engine/assets/47866232/21df1ff5-95c5-4f2d-a5ae-97e06b6ee3b4)![image](https://github.com/flutter/engine/assets/47866232/bbd1204d-cb92-4d6b-9c83-c8c76db4c946)![image](https://github.com/flutter/engine/assets/47866232/6f01f06f-d737-47bf-a4a7-bd0096308849)</details></sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Enable MSAA for OpenGLES: Take 2.
     <sub>[#47030](https://github.com/flutter/engine/pull/47030) merged on October 24, 2023 &mdash; **Small:** [26 comments](https://github.com/flutter/engine/pull/47030) over 6 days, 98 additions and 95 deletions in 6 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
     <sub><details><summary>5 images...</summary><img width="590" alt="Screenshot 2023-10-17 at 3 21 44 PM" src="https://github.com/flutter/engine/assets/168174/ce9fa65c-9a2b-4b82-9f67-af5373d119c1"><img width="336" alt="Screenshot 2023-10-17 at 3 21 51 PM" src="https://github.com/flutter/engine/assets/168174/8016029a-ec6d-4c18-b200-50c6485656fa">![flutter_05](https://github.com/flutter/engine/assets/168174/36f41602-511c-4b62-95d6-e09b56f89566)![Disabled](https://github.com/flutter/engine/assets/168174/0b00e278-fb8f-468d-b5ae-896341789d3f)![Enabled](https://github.com/flutter/engine/assets/168174/045d056a-2a23-4a27-be9a-b8fbc3e60fb8)</details></sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Allocate exact descriptor count, populate in one go.
+    <sub>[#47200](https://github.com/flutter/engine/pull/47200) merged on October 24, 2023 &mdash; **Large:** [16 comments](https://github.com/flutter/engine/pull/47200) over 2 days, 396 additions and 411 deletions in 13 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Rename blobcat to shader_archive(r).
     <sub>[#47247](https://github.com/flutter/engine/pull/47247) merged on October 24, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/47247) over 51 minutes, 307 additions and 286 deletions in 20 files</sub>
@@ -991,7 +1004,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Don't cull readbacks outside the damage rect.
     <sub>[#46705](https://github.com/flutter/engine/pull/46705) merged on October 10, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/46705) over 10 hours, 51 additions and 14 deletions in 4 files</sub>
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Matej Knopp](https://github.com/knopp)</sub>
+    <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Ann Marie Mossman](https://github.com/mossmana)** &mdash; Replace deprecated [UIScreen mainScreen] in FlutterView.mm
     <sub>[#46802](https://github.com/flutter/engine/pull/46802) merged on October 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46802) over 1 day, 16 additions and 1 deletion in 3 files</sub>
