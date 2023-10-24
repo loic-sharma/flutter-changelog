@@ -84,5 +84,5 @@
     <sub>[#137178](https://github.com/flutter/flutter/pull/137178) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137178) 7 additions and 7 deletions in 5 files</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix Gradle.<br />
-    <sub>[#137190](https://github.com/flutter/flutter/pull/137190) opened on on October 24, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/137190) 1999 additions and 1451 deletions in 75 files</sub><br />
+    <sub>[#137190](https://github.com/flutter/flutter/pull/137190) opened on on October 24, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/137190) 1996 additions and 1448 deletions in 75 files</sub><br />
 
