@@ -621,7 +621,11 @@
 
 ### October 21, 2023 to October 27, 2023
 
-9 commits.
+10 commits.
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Rename blobcat to shader_archive(r).
+    <sub>[#47247](https://github.com/flutter/engine/pull/47247) merged on October 24, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/47247) over 51 minutes, 307 additions and 286 deletions in 20 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Added tests to assert empty saveLayer behaviors.
     <sub>[#47138](https://github.com/flutter/engine/pull/47138) merged on October 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/47138) over 3 days, 20 additions and 0 deletions in 1 file</sub>
