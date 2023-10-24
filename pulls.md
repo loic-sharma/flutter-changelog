@@ -89,9 +89,6 @@
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; Added support for vscode and vscode-insiders installed via Flatpak<br />
     <sub>[#137123](https://github.com/flutter/flutter/pull/137123) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137123) 42 additions and 5 deletions in 2 files</sub><br />
 
-* **[Tirth](https://github.com/piedcipher)** &mdash; Fix Typos<br />
-    <sub>[#137173](https://github.com/flutter/flutter/pull/137173) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137173) 2 additions and 2 deletions in 2 files</sub><br />
-
 * **[Binni Goel](https://github.com/droidbg)** &mdash; fix. typos in comments<br />
     <sub>[#137178](https://github.com/flutter/flutter/pull/137178) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137178) 7 additions and 7 deletions in 5 files</sub><br />
 
