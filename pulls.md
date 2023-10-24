@@ -92,3 +92,6 @@
 * **[Binni Goel](https://github.com/droidbg)** &mdash; fix. typos in comments<br />
     <sub>[#137178](https://github.com/flutter/flutter/pull/137178) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137178) 7 additions and 7 deletions in 5 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove `bringup: true` from realm_checker and remove the redundant tool test.<br />
+    <sub>[#137186](https://github.com/flutter/flutter/pull/137186) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137186) 0 additions and 10 deletions in 2 files</sub><br />
+
