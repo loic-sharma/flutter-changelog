@@ -32,9 +32,6 @@
 * **[xiao xiao](https://github.com/xiaoxiaowesley)** &mdash; Add switchTheme property in CupertinoThemeData <br />
     <sub>[#135120](https://github.com/flutter/flutter/pull/135120) opened on on September 20, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/135120) 422 additions and 9 deletions in 8 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Update generate_gradle_lockfiles script to represent newer templates, and run it on dev/<br />
-    <sub>[#135175](https://github.com/flutter/flutter/pull/135175) opened on on September 20, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/135175) 1149 additions and 701 deletions in 48 files</sub><br />
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try flutter/engine#46130<br />
     <sub>[#135254](https://github.com/flutter/flutter/pull/135254) opened on on September 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135254) 3 additions and 2 deletions in 3 files</sub><br />
 
@@ -86,6 +83,6 @@
 * **[Binni Goel](https://github.com/droidbg)** &mdash; fix. typos in comments<br />
     <sub>[#137178](https://github.com/flutter/flutter/pull/137178) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137178) 7 additions and 7 deletions in 5 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Gradle<br />
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix Gradle.<br />
     <sub>[#137190](https://github.com/flutter/flutter/pull/137190) opened on on October 24, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/137190) 1999 additions and 1451 deletions in 75 files</sub><br />
 
