@@ -95,3 +95,6 @@
 * **[cui fliter](https://github.com/cuishuang)** &mdash; fix some typos<br />
     <sub>[#137144](https://github.com/flutter/flutter/pull/137144) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137144) 5 additions and 5 deletions in 5 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add ProcessTextService<br />
+    <sub>[#137145](https://github.com/flutter/flutter/pull/137145) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137145) 244 additions and 0 deletions in 4 files</sub><br />
+
