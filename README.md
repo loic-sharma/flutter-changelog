@@ -271,7 +271,7 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert "[Velocity Tracker] Fix: Issue 97761: Flutter Scrolling does not match iOS; inadvertent scrolling when user lifts up finger"<br />
     <sub>[#136905](https://github.com/flutter/flutter/pull/136905) merged on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136905) over 4 hours, 1 addition and 56 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Yegor](https://github.com/yjbanov)</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Reland "Use Layer.toImage for golden tests on CanvasKit"<br />
     <sub>[#136918](https://github.com/flutter/flutter/pull/136918) merged on October 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136918) over 1 day, 172 additions and 54 deletions in 5 files</sub><br />
@@ -1125,7 +1125,7 @@
 
 ### October 21, 2023 to October 27, 2023
 
-6 commits.
+7 commits.
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] CameraPlatform.createCameraWithSettings<br />
     <sub>[#3615](https://github.com/flutter/packages/pull/3615) merged on October 23, 2023 &mdash; **Medium:** [48 comments](https://github.com/flutter/packages/pull/3615) over 6 months, 471 additions and 20 deletions in 10 files</sub><br />
@@ -1139,6 +1139,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [url_launcher_web] Disallows launching "javascript:" URLs.<br />
     <sub>[#5180](https://github.com/flutter/packages/pull/5180) merged on October 23, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/5180) over 4 days, 226 additions and 29 deletions in 5 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Change firebase device tests from Android api 30 to 33<br />
+    <sub>[#5185](https://github.com/flutter/packages/pull/5185) merged on October 23, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5185) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [ci] Remove device_type property from Windows Arm64 properties<br />
     <sub>[#5193](https://github.com/flutter/packages/pull/5193) merged on October 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5193) over 2 days, 0 additions and 1 deletion in 1 file</sub><br />
