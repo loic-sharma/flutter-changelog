@@ -87,5 +87,5 @@
     <sub>[#137190](https://github.com/flutter/flutter/pull/137190) opened on on October 24, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/137190) 1996 additions and 1448 deletions in 75 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Cherry-pick package:web update to version 0.3.0 from 0.2.1-beta<br />
-    <sub>[#137195](https://github.com/flutter/flutter/pull/137195) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137195) 118 additions and 118 deletions in 59 files</sub><br />
+    <sub>[#137195](https://github.com/flutter/flutter/pull/137195) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137195) 119 additions and 119 deletions in 60 files</sub><br />
 
