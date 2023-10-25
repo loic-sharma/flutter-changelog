@@ -1247,7 +1247,7 @@
 
 ### October 21, 2023 to October 27, 2023
 
-17 commits.
+18 commits.
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] CameraPlatform.createCameraWithSettings<br />
     <sub>[#3615](https://github.com/flutter/packages/pull/3615) merged on October 23, 2023 &mdash; **Medium:** [48 comments](https://github.com/flutter/packages/pull/3615) over 6 months, 471 additions and 20 deletions in 10 files</sub><br />
@@ -1296,6 +1296,10 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [ci] Remove device_type property from Windows Arm64 properties<br />
     <sub>[#5193](https://github.com/flutter/packages/pull/5193) merged on October 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5193) over 2 days, 0 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [file_selector_android] Run tests on AVDs running Android 34<br />
+    <sub>[#5218](https://github.com/flutter/packages/pull/5218) merged on October 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5218) over 22 hours, 0 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Replace gems dependency with ruby.<br />
