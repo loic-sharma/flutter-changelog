@@ -4,7 +4,7 @@
 
 ### October 21, 2023 to October 27, 2023
 
-26 commits.
+27 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add delete button support to `FilterChip`
     <sub>[#136645](https://github.com/flutter/flutter/pull/136645) merged on October 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136645) over 1 week, 221 additions and 0 deletions in 2 files</sub>
@@ -14,6 +14,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `OverlayPortal.overlayChild` contributes semantics to `OverlayPortal` instead of `Overlay`
     <sub>[#134921](https://github.com/flutter/flutter/pull/134921) merged on October 23, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/134921) over 1 month, 544 additions and 141 deletions in 6 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Let `OverflowBox` be shrink-wrappable
+    <sub>[#129095](https://github.com/flutter/flutter/pull/129095) merged on October 25, 2023 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/129095) over 4 months, 142 additions and 4 deletions in 4 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[lirantzairi](https://github.com/lirantzairi)** &mdash; TextField - allow to customize cursor color in error state
     <sub>[#136121](https://github.com/flutter/flutter/pull/136121) merged on October 24, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/136121) over 2 weeks, 67 additions and 19 deletions in 3 files</sub>
@@ -390,7 +394,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; _RouterState should dispose created _RestorableRouteInformation.
     <sub>[#136556](https://github.com/flutter/flutter/pull/136556) merged on October 14, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/136556) over 7 hours, 420 additions and 372 deletions in 7 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Polina Cherkasova](https://github.com/polina-c)</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Bryan Olivares](https://github.com/bryanoli)** &mdash; SearchBar should listen to changes to the SearchController and update suggestions on change
     <sub>[#134337](https://github.com/flutter/flutter/pull/134337) merged on October 12, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134337) over 1 month, 97 additions and 1 deletion in 2 files</sub>
@@ -446,7 +450,7 @@
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Seperate localization tests for Material2 and Material3
     <sub>[#135779](https://github.com/flutter/flutter/pull/135779) merged on October 10, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135779) over 1 week, 529 additions and 45 deletions in 4 files</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove loading indicator in -d web-server builds
     <sub>[#136482](https://github.com/flutter/flutter/pull/136482) merged on October 12, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/136482) over 3 hours, 75 additions and 43 deletions in 3 files</sub>

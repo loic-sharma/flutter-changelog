@@ -83,3 +83,6 @@
 * **[Binni Goel](https://github.com/droidbg)** &mdash; fix. typos in comments<br />
     <sub>[#137178](https://github.com/flutter/flutter/pull/137178) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137178) 7 additions and 7 deletions in 5 files</sub><br />
 
+* **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] fix service worker caching for custom base href<br />
+    <sub>[#137202](https://github.com/flutter/flutter/pull/137202) opened on on October 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137202) 157 additions and 22 deletions in 3 files</sub><br />
+
