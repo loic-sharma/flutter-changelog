@@ -698,7 +698,7 @@
 
 ### October 21, 2023 to October 27, 2023
 
-27 commits.
+28 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [Impeller] Curve components in stroke path use start directions as their initial offsets<br />
     <sub>[#46203](https://github.com/flutter/engine/pull/46203) merged on October 24, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/46203) over 1 month, 237 additions and 32 deletions in 7 files</sub><br />
@@ -741,6 +741,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Disable raster stats service protocol.<br />
     <sub>[#47206](https://github.com/flutter/engine/pull/47206) merged on October 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/47206) over 1 day, 50 additions and 0 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Introduce FlutterWindowsViewController<br />
+    <sub>[#47242](https://github.com/flutter/engine/pull/47242) merged on October 25, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/engine/pull/47242) over 1 day, 178 additions and 126 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Cleanup Dart package dependencies a bit<br />
     <sub>[#47306](https://github.com/flutter/engine/pull/47306) merged on October 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/47306) over 3 hours, 13 additions and 21 deletions in 15 files</sub><br />
