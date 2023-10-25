@@ -89,3 +89,9 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Fix Typos<br />
     <sub>[#137292](https://github.com/flutter/flutter/pull/137292) opened on on October 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137292) 5 additions and 5 deletions in 4 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run test with older version of Xcode<br />
+    <sub>[#137293](https://github.com/flutter/flutter/pull/137293) opened on on October 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137293) 4 additions and 0 deletions in 1 file</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Avoid passing a nullable value to potentially non-nullable parameters<br />
+    <sub>[#137295](https://github.com/flutter/flutter/pull/137295) opened on on October 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137295) 4 additions and 4 deletions in 2 files</sub><br />
+
