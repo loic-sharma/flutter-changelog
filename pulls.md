@@ -86,3 +86,6 @@
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] fix service worker caching for custom base href<br />
     <sub>[#137202](https://github.com/flutter/flutter/pull/137202) opened on on October 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137202) 157 additions and 22 deletions in 3 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Revert "Update `OutlinedButton` tests for Material 3 (#136809)"<br />
+    <sub>[#137242](https://github.com/flutter/flutter/pull/137242) opened on on October 25, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/137242) 156 additions and 688 deletions in 1 file</sub><br />
+
