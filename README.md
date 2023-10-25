@@ -53,7 +53,7 @@
 
 * **[cui fliter](https://github.com/cuishuang)** &mdash; fix some typos<br />
     <sub>[#137144](https://github.com/flutter/flutter/pull/137144) merged on October 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137144) over 3 hours, 5 additions and 5 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno Leroux](https://github.com/bleroux)</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Use `coverage.collect`'s `coverableLineCache` param to speed up coverage"<br />
     <sub>[#137121](https://github.com/flutter/flutter/pull/137121) merged on October 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137121) over 55 seconds, 7 additions and 197 deletions in 2 files</sub><br />
@@ -374,7 +374,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; _RouterState should dispose created _RestorableRouteInformation.<br />
     <sub>[#136556](https://github.com/flutter/flutter/pull/136556) merged on October 14, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/136556) over 7 hours, 420 additions and 372 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [chunhtai](https://github.com/chunhtai)</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Bryan Olivares](https://github.com/bryanoli)** &mdash; SearchBar should listen to changes to the SearchController and update suggestions on change<br />
     <sub>[#134337](https://github.com/flutter/flutter/pull/134337) merged on October 12, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134337) over 1 month, 97 additions and 1 deletion in 2 files</sub><br />
@@ -534,7 +534,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows Arm64] Add the 'platform_channel_sample_test_windows' Devicelab test<br />
     <sub>[#136401](https://github.com/flutter/flutter/pull/136401) merged on October 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136401) over 3 hours, 14 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix some deprecation details<br />
     <sub>[#136385](https://github.com/flutter/flutter/pull/136385) merged on October 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136385) over 2 hours, 5 additions and 3 deletions in 2 files</sub><br />
@@ -1215,7 +1215,7 @@
 
 ### October 21, 2023 to October 27, 2023
 
-13 commits.
+14 commits.
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] CameraPlatform.createCameraWithSettings<br />
     <sub>[#3615](https://github.com/flutter/packages/pull/3615) merged on October 23, 2023 &mdash; **Medium:** [48 comments](https://github.com/flutter/packages/pull/3615) over 6 months, 471 additions and 20 deletions in 10 files</sub><br />
@@ -1249,6 +1249,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Add an `inAppBrowserView` mode<br />
     <sub>[#5205](https://github.com/flutter/packages/pull/5205) merged on October 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5205) over 9 hours, 91 additions and 3 deletions in 5 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [ci] Disable Windows Arm64 stable CI<br />
+    <sub>[#5217](https://github.com/flutter/packages/pull/5217) merged on October 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5217) over 6 hours, 0 additions and 14 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change firebase device tests from Android api 30 to 33<br />
     <sub>[#5185](https://github.com/flutter/packages/pull/5185) merged on October 23, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5185) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
