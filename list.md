@@ -347,7 +347,7 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert "[Velocity Tracker] Fix: Issue 97761: Flutter Scrolling does not match iOS; inadvertent scrolling when user lifts up finger"
     <sub>[#136905](https://github.com/flutter/flutter/pull/136905) merged on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136905) over 4 hours, 1 addition and 56 deletions in 2 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Reland "Use Layer.toImage for golden tests on CanvasKit"
     <sub>[#136918](https://github.com/flutter/flutter/pull/136918) merged on October 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136918) over 1 day, 172 additions and 54 deletions in 5 files</sub>
@@ -693,7 +693,7 @@
 
 ### October 21, 2023 to October 27, 2023
 
-23 commits.
+24 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [Impeller] Curve components in stroke path use start directions as their initial offsets
     <sub>[#46203](https://github.com/flutter/engine/pull/46203) merged on October 24, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/46203) over 1 month, 237 additions and 32 deletions in 7 files</sub>
@@ -731,6 +731,10 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Disable raster stats service protocol.
     <sub>[#47206](https://github.com/flutter/engine/pull/47206) merged on October 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/47206) over 1 day, 50 additions and 0 deletions in 3 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds lint for checking argument commments
+    <sub>[#47305](https://github.com/flutter/engine/pull/47305) merged on October 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/47305) over 33 minutes, 49 additions and 37 deletions in 8 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Update shader compilation pipeline documentation to detail multi-arch archives.
