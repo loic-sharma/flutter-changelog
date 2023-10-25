@@ -4,7 +4,7 @@
 
 ### October 21, 2023 to October 27, 2023
 
-33 commits.
+34 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add delete button support to `FilterChip`<br />
     <sub>[#136645](https://github.com/flutter/flutter/pull/136645) merged on October 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136645) over 1 week, 221 additions and 0 deletions in 2 files</sub><br />
@@ -22,6 +22,11 @@
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Let `OverflowBox` be shrink-wrappable<br />
     <sub>[#129095](https://github.com/flutter/flutter/pull/129095) merged on October 25, 2023 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/129095) over 4 months, 142 additions and 4 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix structure of pkg:integration_test<br />
+    <sub>[#137283](https://github.com/flutter/flutter/pull/137283) merged on October 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137283) over 1 hour, 20 additions and 13 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/1227763/41511efe-4eb8-487a-9758-ccde1720e05a)</details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `OutlinedButton` tests for Material 3<br />
     <sub>[#136809](https://github.com/flutter/flutter/pull/136809) merged on October 25, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/136809) over 6 days, 688 additions and 156 deletions in 1 file</sub><br />
@@ -47,10 +52,6 @@
     <sub>[#136851](https://github.com/flutter/flutter/pull/136851) merged on October 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136851) over 4 days, 197 additions and 7 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Refactor macOS build/codesize analysis<br />
-    <sub>[#137164](https://github.com/flutter/flutter/pull/137164) merged on October 24, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/137164) over 2 hours, 51 additions and 40 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
-
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade packages in flutter and flutter_test.<br />
     <sub>[#137106](https://github.com/flutter/flutter/pull/137106) merged on October 23, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137106) over 43 minutes, 4 additions and 58 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -62,6 +63,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ColorScheme.fromSwatch` docs for Material 3<br />
     <sub>[#136816](https://github.com/flutter/flutter/pull/136816) merged on October 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136816) over 5 days, 9 additions and 4 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Refactor macOS build/codesize analysis<br />
+    <sub>[#137164](https://github.com/flutter/flutter/pull/137164) merged on October 24, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/137164) over 2 hours, 51 additions and 40 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Remove gem and docker files.<br />
     <sub>[#137200](https://github.com/flutter/flutter/pull/137200) merged on October 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137200) over 14 hours, 0 additions and 265 deletions in 7 files</sub><br />
@@ -91,10 +96,6 @@
     <sub>[#137121](https://github.com/flutter/flutter/pull/137121) merged on October 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137121) over 55 seconds, 7 additions and 197 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover last test/material tests with leak tracking.<br />
-    <sub>[#137004](https://github.com/flutter/flutter/pull/137004) merged on October 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137004) over 2 days, 84 additions and 48 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
-
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#137087](https://github.com/flutter/flutter/pull/137087) merged on October 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137087) over 45 minutes, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
@@ -118,6 +119,10 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#137067](https://github.com/flutter/flutter/pull/137067) merged on October 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137067) over 41 minutes, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover last test/material tests with leak tracking.<br />
+    <sub>[#137004](https://github.com/flutter/flutter/pull/137004) merged on October 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137004) over 2 days, 84 additions and 48 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Revert "Update `OutlinedButton` tests for Material 3 (#136809)"<br />
     <sub>[#137242](https://github.com/flutter/flutter/pull/137242) merged on October 25, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/137242) over 10 minutes, 156 additions and 688 deletions in 1 file</sub><br />
@@ -418,7 +423,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; _RouterState should dispose created _RestorableRouteInformation.<br />
     <sub>[#136556](https://github.com/flutter/flutter/pull/136556) merged on October 14, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/136556) over 7 hours, 420 additions and 372 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Bryan Olivares](https://github.com/bryanoli)** &mdash; SearchBar should listen to changes to the SearchController and update suggestions on change<br />
     <sub>[#134337](https://github.com/flutter/flutter/pull/134337) merged on October 12, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/134337) over 1 month, 97 additions and 1 deletion in 2 files</sub><br />
@@ -1275,7 +1280,7 @@
 
 ### October 21, 2023 to October 27, 2023
 
-19 commits.
+20 commits.
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] CameraPlatform.createCameraWithSettings<br />
     <sub>[#3615](https://github.com/flutter/packages/pull/3615) merged on October 23, 2023 &mdash; **Medium:** [48 comments](https://github.com/flutter/packages/pull/3615) over 6 months, 471 additions and 20 deletions in 10 files</sub><br />
@@ -1289,6 +1294,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [url_launcher_web] Disallows launching "javascript:" URLs.<br />
     <sub>[#5180](https://github.com/flutter/packages/pull/5180) merged on October 23, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/5180) over 4 days, 226 additions and 29 deletions in 5 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Fix launch mode types in new APIs<br />
+    <sub>[#5232](https://github.com/flutter/packages/pull/5232) merged on October 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5232) over 38 minutes, 30 additions and 21 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Enable legacy Android emulator tests<br />
     <sub>[#5190](https://github.com/flutter/packages/pull/5190) merged on October 25, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/5190) over 4 days, 0 additions and 6 deletions in 1 file</sub><br />
