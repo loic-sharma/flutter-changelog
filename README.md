@@ -693,7 +693,7 @@
 
 ### October 21, 2023 to October 27, 2023
 
-24 commits.
+25 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [Impeller] Curve components in stroke path use start directions as their initial offsets<br />
     <sub>[#46203](https://github.com/flutter/engine/pull/46203) merged on October 24, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/46203) over 1 month, 237 additions and 32 deletions in 7 files</sub><br />
@@ -708,6 +708,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Allocate exact descriptor count, populate in one go.<br />
     <sub>[#47200](https://github.com/flutter/engine/pull/47200) merged on October 24, 2023 &mdash; **Large:** [16 comments](https://github.com/flutter/engine/pull/47200) over 2 days, 396 additions and 411 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove use of FML_DISALLOW_<FOO> macros in Impeller.<br />
+    <sub>[#47307](https://github.com/flutter/engine/pull/47307) merged on October 25, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/47307) over 46 minutes, 772 additions and 243 deletions in 212 files</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add support for multi-rendering-backend fat shader archives.<br />
     <sub>[#47278](https://github.com/flutter/engine/pull/47278) merged on October 24, 2023 &mdash; **Medium:** [8 comments](https://github.com/flutter/engine/pull/47278) over 2 hours, 360 additions and 19 deletions in 13 files</sub><br />
