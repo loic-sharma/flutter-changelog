@@ -1271,7 +1271,7 @@
 
 ### October 21, 2023 to October 27, 2023
 
-18 commits.
+19 commits.
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] CameraPlatform.createCameraWithSettings<br />
     <sub>[#3615](https://github.com/flutter/packages/pull/3615) merged on October 23, 2023 &mdash; **Medium:** [48 comments](https://github.com/flutter/packages/pull/3615) over 6 months, 471 additions and 20 deletions in 10 files</sub><br />
@@ -1301,6 +1301,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Add an `inAppBrowserView` mode in implementations<br />
     <sub>[#5211](https://github.com/flutter/packages/pull/5211) merged on October 24, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/5211) over 2 hours, 987 additions and 157 deletions in 36 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implement `setZoomLevel`<br />
+    <sub>[#4950](https://github.com/flutter/packages/pull/4950) merged on October 25, 2023 &mdash; **Medium:** [8 comments](https://github.com/flutter/packages/pull/4950) over 1 month, 287 additions and 18 deletions in 16 files</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update annotations deps to 1.7<br />
     <sub>[#4935](https://github.com/flutter/packages/pull/4935) merged on October 24, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/4935) over 1 month, 48 additions and 16 deletions in 24 files</sub><br />
