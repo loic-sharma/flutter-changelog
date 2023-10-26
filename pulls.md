@@ -114,5 +114,5 @@
     <sub>[#137348](https://github.com/flutter/flutter/pull/137348) opened on on October 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137348) 61 additions and 2 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Avoid passing a nullable value to potentially non-nullable parameters<br />
-    <sub>[#137359](https://github.com/flutter/flutter/pull/137359) opened on on October 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137359) 4 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#137359](https://github.com/flutter/flutter/pull/137359) opened on on October 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137359) 5 additions and 1 deletion in 2 files</sub><br />
 
