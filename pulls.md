@@ -92,6 +92,9 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Avoid passing a nullable value to potentially non-nullable parameters<br />
     <sub>[#137295](https://github.com/flutter/flutter/pull/137295) opened on on October 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137295) 14 additions and 12 deletions in 4 files</sub><br />
 
+* **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; [WIP] Allow namespaces when generating localizations<br />
+    <sub>[#137307](https://github.com/flutter/flutter/pull/137307) opened on on October 26, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/137307) 207 additions and 177 deletions in 6 files</sub><br />
+
 * **[shirne](https://github.com/shirne)** &mdash; Fix l10n gen file's problems<br />
     <sub>[#137312](https://github.com/flutter/flutter/pull/137312) opened on on October 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137312) 9 additions and 2 deletions in 2 files</sub><br />
 
