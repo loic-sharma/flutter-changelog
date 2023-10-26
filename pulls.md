@@ -80,6 +80,9 @@
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; Added support for vscode and vscode-insiders installed via Flatpak<br />
     <sub>[#137123](https://github.com/flutter/flutter/pull/137123) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137123) 42 additions and 5 deletions in 2 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Support Android 34<br />
+    <sub>[#137191](https://github.com/flutter/flutter/pull/137191) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137191) 78 additions and 78 deletions in 60 files</sub><br />
+
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] fix service worker caching for custom base href<br />
     <sub>[#137202](https://github.com/flutter/flutter/pull/137202) opened on on October 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137202) 157 additions and 22 deletions in 3 files</sub><br />
 
