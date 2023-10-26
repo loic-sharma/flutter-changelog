@@ -104,6 +104,6 @@
 * **[Rohith Gilla](https://github.com/Rohithgilla12)** &mdash; chore: Add default variant to the iOS `archs`<br />
     <sub>[#137332](https://github.com/flutter/flutter/pull/137332) opened on on October 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137332) 1 addition and 4 deletions in 1 file</sub><br />
 
-* **[Tirth](https://github.com/piedcipher)** &mdash; Adds `TextButton.icon.isIconFirst` property<br />
+* **[Tirth](https://github.com/piedcipher)** &mdash; Adds `isIconFirst` property to `TextButton.icon` factory/widget<br />
     <sub>[#137348](https://github.com/flutter/flutter/pull/137348) opened on on October 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137348) 61 additions and 2 deletions in 2 files</sub><br />
 
