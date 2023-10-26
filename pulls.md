@@ -30,7 +30,7 @@
     <sub>[#134133](https://github.com/flutter/flutter/pull/134133) opened on on September 6, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/134133) 894 additions and 0 deletions in 6 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; AnimationController should dispatch creation in constructor.<br />
-    <sub>[#134839](https://github.com/flutter/flutter/pull/134839) opened on on September 15, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/134839) 120 additions and 19 deletions in 18 files</sub><br />
+    <sub>[#134839](https://github.com/flutter/flutter/pull/134839) opened on on September 15, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/134839) 120 additions and 19 deletions in 18 files</sub><br />
 
 * **[xiao xiao](https://github.com/xiaoxiaowesley)** &mdash; Add switchTheme property in CupertinoThemeData <br />
     <sub>[#135120](https://github.com/flutter/flutter/pull/135120) opened on on September 20, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/135120) 422 additions and 9 deletions in 8 files</sub><br />
@@ -118,7 +118,4 @@
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Avoid passing a nullable value to potentially non-nullable parameters<br />
     <sub>[#137359](https://github.com/flutter/flutter/pull/137359) opened on on October 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137359) 5 additions and 1 deletion in 2 files</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Declare dependency on copyFlutterAssetsTask in bundleAarTask<br />
-    <sub>[#137370](https://github.com/flutter/flutter/pull/137370) opened on on October 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137370) 9 additions and 2 deletions in 1 file</sub><br />
 
