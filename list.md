@@ -702,7 +702,7 @@
 
 ### October 21, 2023 to October 27, 2023
 
-29 commits.
+30 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [Impeller] Curve components in stroke path use start directions as their initial offsets
     <sub>[#46203](https://github.com/flutter/engine/pull/46203) merged on October 24, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/46203) over 1 month, 237 additions and 32 deletions in 7 files</sub>
@@ -749,6 +749,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Cache location in metadata.
     <sub>[#46640](https://github.com/flutter/engine/pull/46640) merged on October 25, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/46640) over 2 weeks, 105 additions and 60 deletions in 5 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert Dart SDK to 360370ff93b053253343832432f8329a11372ffc
+    <sub>[#47326](https://github.com/flutter/engine/pull/47326) merged on October 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/47326) over 1 hour, 7 additions and 7 deletions in 2 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Introduce FlutterWindowsViewController
     <sub>[#47242](https://github.com/flutter/engine/pull/47242) merged on October 25, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/engine/pull/47242) over 1 day, 178 additions and 126 deletions in 13 files</sub>
