@@ -93,7 +93,7 @@
     <sub>[#137295](https://github.com/flutter/flutter/pull/137295) opened on on October 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137295) 13 additions and 11 deletions in 3 files</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Instrument more disposables.<br />
-    <sub>[#137309](https://github.com/flutter/flutter/pull/137309) opened on on October 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137309) 56 additions and 2 deletions in 3 files</sub><br />
+    <sub>[#137309](https://github.com/flutter/flutter/pull/137309) opened on on October 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137309) 56 additions and 2 deletions in 3 files</sub><br />
 
 * **[shirne](https://github.com/shirne)** &mdash; Fix l10n gen file's problems<br />
     <sub>[#137312](https://github.com/flutter/flutter/pull/137312) opened on on October 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137312) 9 additions and 2 deletions in 2 files</sub><br />
