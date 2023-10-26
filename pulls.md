@@ -98,3 +98,6 @@
 * **[shirne](https://github.com/shirne)** &mdash; Fix l10n gen file's problems<br />
     <sub>[#137312](https://github.com/flutter/flutter/pull/137312) opened on on October 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137312) 9 additions and 2 deletions in 2 files</sub><br />
 
+* **[Greg Price](https://github.com/gnprice)** &mdash; Revise tooltip theme docs, including more cross-references<br />
+    <sub>[#137316](https://github.com/flutter/flutter/pull/137316) opened on on October 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137316) 27 additions and 16 deletions in 1 file</sub><br />
+
