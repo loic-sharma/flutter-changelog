@@ -107,3 +107,6 @@
 * **[Binni Goel](https://github.com/droidbg)** &mdash; Fix. typos<br />
     <sub>[#137325](https://github.com/flutter/flutter/pull/137325) opened on on October 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137325) 6 additions and 6 deletions in 4 files</sub><br />
 
+* **[Rohith Gilla](https://github.com/Rohithgilla12)** &mdash; chore: Add default variant to the iOS `archs`<br />
+    <sub>[#137332](https://github.com/flutter/flutter/pull/137332) opened on on October 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137332) 1 addition and 4 deletions in 1 file</sub><br />
+
