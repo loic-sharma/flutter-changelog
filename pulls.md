@@ -116,3 +116,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Avoid passing a nullable value to potentially non-nullable parameters<br />
     <sub>[#137359](https://github.com/flutter/flutter/pull/137359) opened on on October 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137359) 5 additions and 1 deletion in 2 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on either macOS 12 or 13<br />
+    <sub>[#137365](https://github.com/flutter/flutter/pull/137365) opened on on October 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137365) 10 additions and 10 deletions in 1 file</sub><br />
+
