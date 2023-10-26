@@ -116,3 +116,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Avoid passing a nullable value to potentially non-nullable parameters<br />
     <sub>[#137359](https://github.com/flutter/flutter/pull/137359) opened on on October 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137359) 5 additions and 1 deletion in 2 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Declare dependency on copyFlutterAssetsTask in bundleAarTask<br />
+    <sub>[#137370](https://github.com/flutter/flutter/pull/137370) opened on on October 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137370) 9 additions and 2 deletions in 1 file</sub><br />
+
