@@ -104,3 +104,6 @@
 * **[Greg Price](https://github.com/gnprice)** &mdash; Document where `Curves` curves correspond to CSS easing functions<br />
     <sub>[#137318](https://github.com/flutter/flutter/pull/137318) opened on on October 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137318) 8 additions and 0 deletions in 1 file</sub><br />
 
+* **[Binni Goel](https://github.com/droidbg)** &mdash; Fix. typos<br />
+    <sub>[#137325](https://github.com/flutter/flutter/pull/137325) opened on on October 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137325) 6 additions and 6 deletions in 4 files</sub><br />
+
