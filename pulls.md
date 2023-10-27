@@ -119,3 +119,6 @@
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; added SegmentedButton.stylefrom to SegmentedButton<br />
     <sub>[#137430](https://github.com/flutter/flutter/pull/137430) opened on on October 27, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/137430) 661 additions and 58 deletions in 2 files</sub><br />
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Ensure `flutter build apk --release` optimizes+shrinks platform code"<br />
+    <sub>[#137433](https://github.com/flutter/flutter/pull/137433) opened on on October 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137433) 1 addition and 1 deletion in 1 file</sub><br />
+
