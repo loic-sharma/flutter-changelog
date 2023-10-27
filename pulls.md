@@ -113,7 +113,7 @@
 * **[Mohammad Bagher Fakouri](https://github.com/mbfakourii)** &mdash; Add `SingleChildScrollView` for `NavigationRail`<br />
     <sub>[#137415](https://github.com/flutter/flutter/pull/137415) opened on on October 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137415) 34 additions and 32 deletions in 1 file</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Instrumented TextPainter for leak tracking<br />
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; TextPainter should dispatch creation and disposal events.<br />
     <sub>[#137416](https://github.com/flutter/flutter/pull/137416) opened on on October 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137416) 76 additions and 24 deletions in 7 files</sub><br />
 
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; added SegmentedButton.stylefrom to SegmentedButton<br />
