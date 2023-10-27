@@ -117,5 +117,5 @@
     <sub>[#137416](https://github.com/flutter/flutter/pull/137416) opened on on October 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137416) 76 additions and 24 deletions in 7 files</sub><br />
 
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; added SegmentedButton.stylefrom to SegmentedButton<br />
-    <sub>[#137430](https://github.com/flutter/flutter/pull/137430) opened on on October 27, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/137430) 853 additions and 158 deletions in 2 files</sub><br />
+    <sub>[#137430](https://github.com/flutter/flutter/pull/137430) opened on on October 27, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/137430) 858 additions and 158 deletions in 2 files</sub><br />
 
