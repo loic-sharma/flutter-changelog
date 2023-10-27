@@ -38,9 +38,6 @@
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Provide parameter to Icon and IconThemeData for they to consider the context's text scaler<br />
     <sub>[#135708](https://github.com/flutter/flutter/pull/135708) opened on on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135708) 165 additions and 3 deletions in 4 files</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update asset manifest file name referenced in `WebServiceWorker`<br />
-    <sub>[#135954](https://github.com/flutter/flutter/pull/135954) opened on on October 4, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/135954) 10 additions and 10 deletions in 3 files</sub><br />
-
 * **[rekire](https://github.com/rekire)** &mdash; Update German translations<br />
     <sub>[#136091](https://github.com/flutter/flutter/pull/136091) opened on on October 6, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/136091) 102 additions and 227 deletions in 5 files</sub><br />
 
@@ -66,7 +63,7 @@
     <sub>[#136978](https://github.com/flutter/flutter/pull/136978) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136978) 4 additions and 4 deletions in 2 files</sub><br />
 
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; Fixes vscode path installed via snap<br />
-    <sub>[#136997](https://github.com/flutter/flutter/pull/136997) opened on on October 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136997) 3 additions and 3 deletions in 2 files</sub><br />
+    <sub>[#136997](https://github.com/flutter/flutter/pull/136997) opened on on October 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136997) 3 additions and 3 deletions in 2 files</sub><br />
 
 * **[Regis Imuduhe Safari](https://github.com/RegisSaffi)** &mdash; Add support for Kinyarwanda (rw) Language locale<br />
     <sub>[#137061](https://github.com/flutter/flutter/pull/137061) opened on on October 23, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/137061) 1946 additions and 124 deletions in 8 files</sub><br />
