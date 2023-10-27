@@ -117,5 +117,5 @@
     <sub>[#137415](https://github.com/flutter/flutter/pull/137415) opened on on October 27, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/137415) 237 additions and 134 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Instrumented TextPainter for leak tracking<br />
-    <sub>[#137416](https://github.com/flutter/flutter/pull/137416) opened on on October 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137416) 76 additions and 24 deletions in 7 files</sub><br />
+    <sub>[#137416](https://github.com/flutter/flutter/pull/137416) opened on on October 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137416) 76 additions and 24 deletions in 7 files</sub><br />
 
