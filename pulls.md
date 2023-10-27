@@ -108,7 +108,7 @@
     <sub>[#137359](https://github.com/flutter/flutter/pull/137359) opened on on October 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137359) 5 additions and 1 deletion in 2 files</sub><br />
 
 * **[Gianluca Bettega](https://github.com/Macacoazul01)** &mdash; Expose 'enable' property to allow the user to disable the SearchBar<br />
-    <sub>[#137388](https://github.com/flutter/flutter/pull/137388) opened on on October 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137388) 51 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#137388](https://github.com/flutter/flutter/pull/137388) opened on on October 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137388) 52 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mohammad Bagher Fakouri](https://github.com/mbfakourii)** &mdash; Add `SingleChildScrollView` for `NavigationRail`<br />
     <sub>[#137415](https://github.com/flutter/flutter/pull/137415) opened on on October 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137415) 34 additions and 32 deletions in 1 file</sub><br />
@@ -118,4 +118,7 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds `useRootNavigator` property to `PopupMenuButton` widget.<br />
     <sub>[#137453](https://github.com/flutter/flutter/pull/137453) opened on on October 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137453) 93 additions and 0 deletions in 2 files</sub><br />
+
+* **[Todd Volkert](https://github.com/tvolkert)** &mdash; Document the scale argument to NetworkImage<br />
+    <sub>[#137456](https://github.com/flutter/flutter/pull/137456) opened on on October 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137456) 3 additions and 0 deletions in 1 file</sub><br />
 
