@@ -131,3 +131,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Instrument RestorationBucket, _RouteEntry and DisposableBuildContext for leak tracking.<br />
     <sub>[#137477](https://github.com/flutter/flutter/pull/137477) opened on on October 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137477) 166 additions and 4 deletions in 10 files</sub><br />
 
+* **[Binni Goel](https://github.com/droidbg)** &mdash; Fix. typos <br />
+    <sub>[#137479](https://github.com/flutter/flutter/pull/137479) opened on on October 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137479) 3 additions and 3 deletions in 3 files</sub><br />
+
