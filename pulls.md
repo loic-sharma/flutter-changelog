@@ -125,3 +125,6 @@
 * **[Binni Goel](https://github.com/droidbg)** &mdash; Fix. typos<br />
     <sub>[#137465](https://github.com/flutter/flutter/pull/137465) opened on on October 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137465) 6 additions and 6 deletions in 3 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; BannerPainter should dispatch creation and disposal events. <br />
+    <sub>[#137472](https://github.com/flutter/flutter/pull/137472) opened on on October 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137472) 33 additions and 1 deletion in 2 files</sub><br />
+
