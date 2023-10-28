@@ -133,11 +133,11 @@
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Instrument RestorationBucket, _RouteEntry and DisposableBuildContext for leak tracking.<br />
-    <sub>[#137477](https://github.com/flutter/flutter/pull/137477) merged on October 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137477) over 5 hours, 166 additions and 4 deletions in 10 files</sub><br />
+    <sub>[#137477](https://github.com/flutter/flutter/pull/137477) merged on October 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137477) over 5 hours, 166 additions and 4 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; BannerPainter should dispatch creation and disposal events. <br />
-    <sub>[#137472](https://github.com/flutter/flutter/pull/137472) merged on October 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137472) over 9 hours, 33 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#137472](https://github.com/flutter/flutter/pull/137472) merged on October 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137472) over 9 hours, 33 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; TextPainter should dispatch creation and disposal events.<br />
