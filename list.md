@@ -66,7 +66,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Instrument more disposables.
     <sub>[#137309](https://github.com/flutter/flutter/pull/137309) merged on October 28, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/137309) over 2 days, 44 additions and 3 deletions in 4 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+    <sub>Reviewed by: [Binni Goel](https://github.com/droidbg), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Ensure `flutter build apk --release` optimizes+shrinks platform code
     <sub>[#136880](https://github.com/flutter/flutter/pull/136880) merged on October 27, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/136880) over 1 week, 1 addition and 1 deletion in 1 file</sub>
