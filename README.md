@@ -88,13 +88,17 @@
     <sub>[#137433](https://github.com/flutter/flutter/pull/137433) merged on October 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137433) over 1 minute, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; give `throwsToolExit` a more useful description<br />
-    <sub>[#136694](https://github.com/flutter/flutter/pull/136694) merged on October 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136694) over 1 week, 11 additions and 10 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
 * **[Liam Appelbe](https://github.com/liamappelbe)** &mdash; Use `coverage.collect`'s `coverableLineCache` param to speed up coverage<br />
     <sub>[#136851](https://github.com/flutter/flutter/pull/136851) merged on October 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136851) over 4 days, 197 additions and 7 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add `isLogicalKeyPressed` to `KeyEvent`<br />
+    <sub>[#136856](https://github.com/flutter/flutter/pull/136856) merged on October 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/136856) over 1 week, 82 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; give `throwsToolExit` a more useful description<br />
+    <sub>[#136694](https://github.com/flutter/flutter/pull/136694) merged on October 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136694) over 1 week, 11 additions and 10 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `SemanticsNode.isMergedIntoParent` Readonly<br />
     <sub>[#137304](https://github.com/flutter/flutter/pull/137304) merged on October 27, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/137304) over 1 day, 270 additions and 71 deletions in 5 files</sub><br />
@@ -131,10 +135,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; TextPainter should dispatch creation and disposal events.<br />
     <sub>[#137416](https://github.com/flutter/flutter/pull/137416) merged on October 28, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137416) over 14 hours, 80 additions and 25 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
-
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add `isLogicalKeyPressed` to `KeyEvent`<br />
-    <sub>[#136856](https://github.com/flutter/flutter/pull/136856) merged on October 27, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/136856) over 1 week, 82 additions and 2 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on either macOS 12 or 13<br />
     <sub>[#137365](https://github.com/flutter/flutter/pull/137365) merged on October 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137365) over 19 hours, 10 additions and 10 deletions in 1 file</sub><br />
