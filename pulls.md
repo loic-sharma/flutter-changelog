@@ -134,3 +134,6 @@
 * **[Binni Goel](https://github.com/droidbg)** &mdash; Fix. typos <br />
     <sub>[#137479](https://github.com/flutter/flutter/pull/137479) opened on on October 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137479) 3 additions and 3 deletions in 3 files</sub><br />
 
+* **[Hrishikesh Kadam](https://github.com/hrishikesh-kadam)** &mdash; Fix minor typo in doc of window.dart<br />
+    <sub>[#137483](https://github.com/flutter/flutter/pull/137483) opened on on October 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137483) 1 addition and 1 deletion in 1 file</sub><br />
+
