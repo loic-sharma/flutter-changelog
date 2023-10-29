@@ -154,7 +154,7 @@
 
 * **[cui fliter](https://github.com/cuishuang)** &mdash; fix some typos
     <sub>[#137144](https://github.com/flutter/flutter/pull/137144) merged on October 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137144) over 3 hours, 5 additions and 5 deletions in 5 files</sub>
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
     <sub>[#137087](https://github.com/flutter/flutter/pull/137087) merged on October 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137087) over 45 minutes, 2 additions and 2 deletions in 1 file</sub>
@@ -222,7 +222,7 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Fix Typos
     <sub>[#137292](https://github.com/flutter/flutter/pull/137292) merged on October 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137292) over 1 day, 5 additions and 5 deletions in 4 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Revert "Update `OutlinedButton` tests for Material 3 (#136809)"
     <sub>[#137242](https://github.com/flutter/flutter/pull/137242) merged on October 25, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/137242) over 10 minutes, 156 additions and 688 deletions in 1 file</sub>
@@ -464,7 +464,7 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert "[Velocity Tracker] Fix: Issue 97761: Flutter Scrolling does not match iOS; inadvertent scrolling when user lifts up finger"
     <sub>[#136905](https://github.com/flutter/flutter/pull/136905) merged on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136905) over 4 hours, 1 addition and 56 deletions in 2 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Yegor](https://github.com/yjbanov)</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Reland "Use Layer.toImage for golden tests on CanvasKit"
     <sub>[#136918](https://github.com/flutter/flutter/pull/136918) merged on October 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136918) over 1 day, 172 additions and 54 deletions in 5 files</sub>
@@ -591,7 +591,7 @@
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Seperate localization tests for Material2 and Material3
     <sub>[#135779](https://github.com/flutter/flutter/pull/135779) merged on October 10, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/135779) over 1 week, 529 additions and 45 deletions in 4 files</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove loading indicator in -d web-server builds
     <sub>[#136482](https://github.com/flutter/flutter/pull/136482) merged on October 12, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/136482) over 3 hours, 75 additions and 43 deletions in 3 files</sub>
