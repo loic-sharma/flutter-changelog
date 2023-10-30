@@ -50,9 +50,6 @@
 * **[Toktar](https://github.com/Toktarla)** &mdash; adding html file<br />
     <sub>[#136477](https://github.com/flutter/flutter/pull/136477) opened on on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136477) 112 additions and 0 deletions in 1 file</sub><br />
 
-* **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] cache the base URL as root index.html<br />
-    <sub>[#136594](https://github.com/flutter/flutter/pull/136594) opened on on October 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136594) 12 additions and 4 deletions in 2 files</sub><br />
-
 * **[Kayla Brady](https://github.com/KaylaBrady)** &mdash; Nav bar acccessibility: Mark nav items as buttons<br />
     <sub>[#136764](https://github.com/flutter/flutter/pull/136764) opened on on October 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136764) 17 additions and 1 deletion in 6 files</sub><br />
 
