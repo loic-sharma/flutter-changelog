@@ -531,11 +531,15 @@
 
 ### October 28, 2023 to November 3, 2023
 
-1 commits.
+2 commits.
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Remove call to SkTypeface::MakeDefault<br />
     <sub>[#47344](https://github.com/flutter/engine/pull/47344) merged on October 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/47344) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Roll Dart SDK from 5a666e8d8259 to 38e8459ca2aa (4 revisions)"<br />
+    <sub>[#47459](https://github.com/flutter/engine/pull/47459) merged on October 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/47459) over 26 minutes, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 ### October 21, 2023 to October 27, 2023
 
