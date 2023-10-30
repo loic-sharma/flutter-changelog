@@ -186,7 +186,7 @@
 
 * **[Binni Goel](https://github.com/droidbg)** &mdash; Fix. typos<br />
     <sub>[#137325](https://github.com/flutter/flutter/pull/137325) merged on October 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137325) over 17 hours, 6 additions and 6 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Chris Bracken](https://github.com/cbracken)</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Fix Typos<br />
     <sub>[#137173](https://github.com/flutter/flutter/pull/137173) merged on October 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137173) over 4 hours, 2 additions and 2 deletions in 2 files</sub><br />
@@ -529,9 +529,18 @@
 
 ## flutter/engine
 
+### October 28, 2023 to November 3, 2023
+
+1 commits.
+
+* **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Remove call to SkTypeface::MakeDefault<br />
+    <sub>[#47344](https://github.com/flutter/engine/pull/47344) merged on October 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/47344) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
 ### October 21, 2023 to October 27, 2023
 
-59 commits.
+<details>
+<summary>59 commits...</summary>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [Impeller] Curve components in stroke path use start directions as their initial offsets<br />
     <sub>[#46203](https://github.com/flutter/engine/pull/46203) merged on October 24, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/46203) over 1 month, 237 additions and 32 deletions in 7 files</sub><br />
@@ -772,6 +781,8 @@
     <sub>[#47234](https://github.com/flutter/engine/pull/47234) merged on October 23, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/47234) over 34 minutes, 742 additions and 193 deletions in 28 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
+</details>
+
 ### October 14, 2023 to October 20, 2023
 
 <details>
@@ -929,7 +940,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Avoid a deadlock in the flutter_tester process when deleting the Impeller Vulkan context during shutdown<br />
     <sub>[#46860](https://github.com/flutter/engine/pull/46860) merged on October 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46860) over 3 days, 72 additions and 64 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift some engine DEPS from github to mirrors<br />
     <sub>[#46633](https://github.com/flutter/engine/pull/46633) merged on October 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/46633) over 1 week, 9 additions and 15 deletions in 1 file</sub><br />
