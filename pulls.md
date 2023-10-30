@@ -110,15 +110,6 @@
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; Document the scale argument to NetworkImage<br />
     <sub>[#137456](https://github.com/flutter/flutter/pull/137456) opened on on October 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137456) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[Binni Goel](https://github.com/droidbg)** &mdash; Fix. typos<br />
-    <sub>[#137465](https://github.com/flutter/flutter/pull/137465) opened on on October 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137465) 6 additions and 6 deletions in 3 files</sub><br />
-
-* **[Binni Goel](https://github.com/droidbg)** &mdash; Fix. typos <br />
-    <sub>[#137479](https://github.com/flutter/flutter/pull/137479) opened on on October 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137479) 3 additions and 3 deletions in 3 files</sub><br />
-
-* **[Hrishikesh Kadam](https://github.com/hrishikesh-kadam)** &mdash; Fix minor typo in doc of window.dart<br />
-    <sub>[#137483](https://github.com/flutter/flutter/pull/137483) opened on on October 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137483) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Abhi](https://github.com/gitabhisingh)** &mdash; Feature 136172 paginated data table footer position<br />
     <sub>[#137507](https://github.com/flutter/flutter/pull/137507) opened on on October 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137507) 14 additions and 6 deletions in 2 files</sub><br />
 
