@@ -134,3 +134,6 @@
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; added SegmentedButton.stylefrom to SegmentedButton<br />
     <sub>[#137542](https://github.com/flutter/flutter/pull/137542) opened on on October 30, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/137542) 523 additions and 0 deletions in 2 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `framework_test.dart` to remove `ButtonBar` usage and remove references from other clases<br />
+    <sub>[#137550](https://github.com/flutter/flutter/pull/137550) opened on on October 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137550) 27 additions and 27 deletions in 3 files</sub><br />
+
