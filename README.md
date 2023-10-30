@@ -73,7 +73,7 @@
     <sub>Reviewed by: [Binni Goel](https://github.com/droidbg), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Ensure `flutter build apk --release` optimizes+shrinks platform code<br />
-    <sub>[#136880](https://github.com/flutter/flutter/pull/136880) merged on October 27, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/136880) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#136880](https://github.com/flutter/flutter/pull/136880) merged on October 27, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/136880) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; fix SliverReorderableLists item wrong offset<br />
@@ -194,7 +194,7 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Fix Typos<br />
     <sub>[#137292](https://github.com/flutter/flutter/pull/137292) merged on October 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137292) over 1 day, 5 additions and 5 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [ci_yaml] Remove back_fill=false on roller<br />
     <sub>[#137076](https://github.com/flutter/flutter/pull/137076) merged on October 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137076) over 2 hours, 0 additions and 1 deletion in 1 file</sub><br />
