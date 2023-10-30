@@ -122,3 +122,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Added EdgeInsetsDirectional.copyWith<br />
     <sub>[#137559](https://github.com/flutter/flutter/pull/137559) opened on on October 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137559) 22 additions and 0 deletions in 2 files</sub><br />
 
+* **[Andrea Cioni](https://github.com/andreacioni)** &mdash; Allow SnackBar to be placed below FAB<br />
+    <sub>[#137583](https://github.com/flutter/flutter/pull/137583) opened on on October 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137583) 203 additions and 31 deletions in 4 files</sub><br />
+
