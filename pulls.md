@@ -117,7 +117,7 @@
     <sub>[#137430](https://github.com/flutter/flutter/pull/137430) opened on on October 27, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/137430) 858 additions and 158 deletions in 2 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds `useRootNavigator` property to `PopupMenuButton` widget.<br />
-    <sub>[#137453](https://github.com/flutter/flutter/pull/137453) opened on on October 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137453) 93 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#137453](https://github.com/flutter/flutter/pull/137453) opened on on October 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137453) 93 additions and 0 deletions in 2 files</sub><br />
 
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; Document the scale argument to NetworkImage<br />
     <sub>[#137456](https://github.com/flutter/flutter/pull/137456) opened on on October 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137456) 3 additions and 0 deletions in 1 file</sub><br />
