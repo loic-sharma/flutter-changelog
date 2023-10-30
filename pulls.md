@@ -134,3 +134,6 @@
 * **[Abhi](https://github.com/gitabhisingh)** &mdash; Feature 136172 paginated data table footer position<br />
     <sub>[#137507](https://github.com/flutter/flutter/pull/137507) opened on on October 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137507) 14 additions and 6 deletions in 2 files</sub><br />
 
+* **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Added Features requested in #137530<br />
+    <sub>[#137532](https://github.com/flutter/flutter/pull/137532) opened on on October 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137532) 107 additions and 27 deletions in 2 files</sub><br />
+
