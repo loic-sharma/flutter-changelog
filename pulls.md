@@ -110,9 +110,6 @@
 * **[Mohammad Bagher Fakouri](https://github.com/mbfakourii)** &mdash; Add `SingleChildScrollView` for `NavigationRail`<br />
     <sub>[#137415](https://github.com/flutter/flutter/pull/137415) opened on on October 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137415) 34 additions and 32 deletions in 1 file</sub><br />
 
-* **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; added SegmentedButton.stylefrom to SegmentedButton<br />
-    <sub>[#137430](https://github.com/flutter/flutter/pull/137430) opened on on October 27, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/137430) 1018 additions and 1781 deletions in 88 files</sub><br />
-
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds `useRootNavigator` property to `PopupMenuButton` widget.<br />
     <sub>[#137453](https://github.com/flutter/flutter/pull/137453) opened on on October 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137453) 93 additions and 0 deletions in 2 files</sub><br />
 
