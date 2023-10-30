@@ -107,9 +107,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds `useRootNavigator` property to `PopupMenuButton` widget.<br />
     <sub>[#137453](https://github.com/flutter/flutter/pull/137453) opened on on October 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137453) 93 additions and 0 deletions in 2 files</sub><br />
 
-* **[Todd Volkert](https://github.com/tvolkert)** &mdash; Document the scale argument to NetworkImage<br />
-    <sub>[#137456](https://github.com/flutter/flutter/pull/137456) opened on on October 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137456) 3 additions and 0 deletions in 1 file</sub><br />
-
 * **[Abhi](https://github.com/gitabhisingh)** &mdash; Feature 136172 paginated data table footer position<br />
     <sub>[#137507](https://github.com/flutter/flutter/pull/137507) opened on on October 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137507) 14 additions and 6 deletions in 2 files</sub><br />
 
