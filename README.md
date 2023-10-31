@@ -8,7 +8,7 @@
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] cache the base URL as root index.html<br />
     <sub>[#136594](https://github.com/flutter/flutter/pull/136594) merged on October 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/136594) over 2 weeks, 12 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Fix formatting<br />
     <sub>[#137613](https://github.com/flutter/flutter/pull/137613) merged on October 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137613) over 41 minutes, 6 additions and 6 deletions in 3 files</sub><br />
@@ -219,7 +219,7 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Fix Typos<br />
     <sub>[#137292](https://github.com/flutter/flutter/pull/137292) merged on October 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137292) over 1 day, 5 additions and 5 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Chris Bracken](https://github.com/cbracken)</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [ci_yaml] Remove back_fill=false on roller<br />
     <sub>[#137076](https://github.com/flutter/flutter/pull/137076) merged on October 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137076) over 2 hours, 0 additions and 1 deletion in 1 file</sub><br />
@@ -1102,7 +1102,7 @@
 
 ### October 28, 2023 to November 3, 2023
 
-6 commits.
+7 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [in_app_purchase_android] Add missing response code to BillingResponse enum<br />
     <sub>[#5120](https://github.com/flutter/packages/pull/5120) merged on October 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5120) over 2 weeks, 11 additions and 1 deletion in 5 files</sub><br />
@@ -1115,6 +1115,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Prevent multiple active calls on iOS<br />
     <sub>[#5272](https://github.com/flutter/packages/pull/5272) merged on October 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5272) over 18 hours, 98 additions and 20 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Update iOS to Pigeon 13<br />
+    <sub>[#5266](https://github.com/flutter/packages/pull/5266) merged on October 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5266) over 22 hours, 172 additions and 95 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Bump play-service-maps dependency from version 18.1.0 to 18.2.0<br />
     <sub>[#5243](https://github.com/flutter/packages/pull/5243) merged on October 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5243) over 3 days, 10 additions and 6 deletions in 5 files</sub><br />

@@ -126,5 +126,5 @@
     <sub>[#137583](https://github.com/flutter/flutter/pull/137583) opened on on October 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137583) 203 additions and 35 deletions in 4 files</sub><br />
 
 * **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Enable support for windows-arm64<br />
-    <sub>[#137618](https://github.com/flutter/flutter/pull/137618) opened on on October 31, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/137618) 393 additions and 109 deletions in 36 files</sub><br />
+    <sub>[#137618](https://github.com/flutter/flutter/pull/137618) opened on on October 31, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/137618) 394 additions and 110 deletions in 37 files</sub><br />
 
