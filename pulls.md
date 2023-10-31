@@ -44,9 +44,6 @@
 * **[Shaun Byrne](https://github.com/ShaunByrne-UniSA)** &mdash; Grey out non-selectable days in CupertinoDatePicker<br />
     <sub>[#136181](https://github.com/flutter/flutter/pull/136181) opened on on October 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136181) 164 additions and 1 deletion in 2 files</sub><br />
 
-* **[Rudra](https://github.com/Rudra-Ji)** &mdash; [dev][tools] : fix typo<br />
-    <sub>[#136360](https://github.com/flutter/flutter/pull/136360) opened on on October 11, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/136360) 209 additions and 98 deletions in 8 files</sub><br />
-
 * **[Toktar](https://github.com/Toktarla)** &mdash; adding html file<br />
     <sub>[#136477](https://github.com/flutter/flutter/pull/136477) opened on on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136477) 112 additions and 0 deletions in 1 file</sub><br />
 
@@ -121,10 +118,4 @@
 
 * **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Enable support for windows-arm64<br />
     <sub>[#137618](https://github.com/flutter/flutter/pull/137618) opened on on October 31, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/137618) 394 additions and 110 deletions in 37 files</sub><br />
-
-* **[Dall127](https://github.com/Dall127)** &mdash; Change _SelectableFragment to a public naming scheme, SelectableFragment.<br />
-    <sub>[#137641](https://github.com/flutter/flutter/pull/137641) opened on on October 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137641) 19 additions and 12 deletions in 1 file</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; PerformanceModeRequestHandle should dispatch creation and disposal events.<br />
-    <sub>[#137642](https://github.com/flutter/flutter/pull/137642) opened on on October 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137642) 27 additions and 1 deletion in 2 files</sub><br />
 
