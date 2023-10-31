@@ -8,7 +8,7 @@
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] cache the base URL as root index.html
     <sub>[#136594](https://github.com/flutter/flutter/pull/136594) merged on October 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/136594) over 2 weeks, 12 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] ensure processUtils reports exit code in ProcessExceptions
     <sub>[#136672](https://github.com/flutter/flutter/pull/136672) merged on October 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136672) over 1 week, 9 additions and 6 deletions in 3 files</sub>
