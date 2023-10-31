@@ -131,3 +131,6 @@
 * **[Dall127](https://github.com/Dall127)** &mdash; Change _SelectableFragment to a public naming scheme, SelectableFragment.<br />
     <sub>[#137641](https://github.com/flutter/flutter/pull/137641) opened on on October 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137641) 19 additions and 12 deletions in 1 file</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; PerformanceModeRequestHandle should dispatch creation and disposal events.<br />
+    <sub>[#137642](https://github.com/flutter/flutter/pull/137642) opened on on October 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137642) 23 additions and 1 deletion in 2 files</sub><br />
+
