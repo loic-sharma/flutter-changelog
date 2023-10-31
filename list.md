@@ -504,7 +504,7 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert "[Velocity Tracker] Fix: Issue 97761: Flutter Scrolling does not match iOS; inadvertent scrolling when user lifts up finger"
     <sub>[#136905](https://github.com/flutter/flutter/pull/136905) merged on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136905) over 4 hours, 1 addition and 56 deletions in 2 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Yegor](https://github.com/yjbanov)</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Reland "Use Layer.toImage for golden tests on CanvasKit"
     <sub>[#136918](https://github.com/flutter/flutter/pull/136918) merged on October 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136918) over 1 day, 172 additions and 54 deletions in 5 files</sub>
@@ -1158,8 +1158,8 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Update iOS/macOS to Pigeon 13
-    <sub>[#5270](https://github.com/flutter/packages/pull/5270) merged on October 31, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/packages/pull/5270) over 1 day, 210 additions and 130 deletions in 9 files</sub>
-    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+    <sub>[#5270](https://github.com/flutter/packages/pull/5270) merged on October 31, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/5270) over 1 day, 210 additions and 130 deletions in 9 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Update iOS to Pigeon 13
     <sub>[#5266](https://github.com/flutter/packages/pull/5266) merged on October 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5266) over 22 hours, 172 additions and 95 deletions in 9 files</sub>
