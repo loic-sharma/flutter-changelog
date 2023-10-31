@@ -116,3 +116,6 @@
 * **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Enable support for windows-arm64<br />
     <sub>[#137618](https://github.com/flutter/flutter/pull/137618) opened on on October 31, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/137618) 394 additions and 110 deletions in 37 files</sub><br />
 
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#137650](https://github.com/flutter/flutter/pull/137650) opened on on October 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137650) 2 additions and 2 deletions in 1 file</sub><br />
+
