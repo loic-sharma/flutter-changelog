@@ -125,3 +125,6 @@
 * **[Andrea Cioni](https://github.com/andreacioni)** &mdash; Allow SnackBar to be placed below FAB<br />
     <sub>[#137583](https://github.com/flutter/flutter/pull/137583) opened on on October 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137583) 203 additions and 35 deletions in 4 files</sub><br />
 
+* **[sanni prasad](https://github.com/prasadsunny1)** &mdash; Make Image sizes to double instead of int<br />
+    <sub>[#137604](https://github.com/flutter/flutter/pull/137604) opened on on October 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137604) 51 additions and 51 deletions in 11 files</sub><br />
+
