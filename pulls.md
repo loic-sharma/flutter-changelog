@@ -128,3 +128,6 @@
 * **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Enable support for windows-arm64<br />
     <sub>[#137618](https://github.com/flutter/flutter/pull/137618) opened on on October 31, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/137618) 394 additions and 110 deletions in 37 files</sub><br />
 
+* **[Dall127](https://github.com/Dall127)** &mdash; Change _SelectableFragment to a public naming scheme, SelectableFragment.<br />
+    <sub>[#137641](https://github.com/flutter/flutter/pull/137641) opened on on October 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137641) 19 additions and 12 deletions in 1 file</sub><br />
+
