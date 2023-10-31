@@ -156,7 +156,7 @@
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix dislocated doc and comment on ThemeData localize cache<br />
     <sub>[#137315](https://github.com/flutter/flutter/pull/137315) merged on October 26, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/137315) over 16 hours, 7 additions and 7 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Refactor macOS build/codesize analysis<br />
     <sub>[#137164](https://github.com/flutter/flutter/pull/137164) merged on October 24, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/137164) over 2 hours, 51 additions and 40 deletions in 1 file</sub><br />
@@ -575,11 +575,15 @@
 
 ### October 28, 2023 to November 3, 2023
 
-15 commits.
+17 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Move flutter.js into the engine.<br />
     <sub>[#47240](https://github.com/flutter/engine/pull/47240) merged on October 31, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/47240) over 1 week, 392 additions and 37 deletions in 4 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Surgically remove `.*dither.*` from the Engine<br />
+    <sub>[#46750](https://github.com/flutter/engine/pull/46750) merged on October 31, 2023 &mdash; **Medium:** [16 comments](https://github.com/flutter/engine/pull/46750) over 2 weeks, 128 additions and 248 deletions in 28 files</sub><br />
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not return a null Contents if a Paint's blur filter yields an empty coverage rect<br />
     <sub>[#47496](https://github.com/flutter/engine/pull/47496) merged on October 31, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/47496) over 18 hours, 27 additions and 1 deletion in 2 files</sub><br />
@@ -592,6 +596,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Migrate inja, sqlite, libtess2 to //flutter/third_party.<br />
     <sub>[#47408](https://github.com/flutter/engine/pull/47408) merged on October 30, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/47408) over 2 days, 360 additions and 358 deletions in 12 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow 3D scenes to render when MSAA is not supported.<br />
+    <sub>[#47217](https://github.com/flutter/engine/pull/47217) merged on October 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/47217) over 1 week, 38 additions and 17 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] OpenGLES MSAA Render Buffers (i.e. for stencils)<br />
     <sub>[#47495](https://github.com/flutter/engine/pull/47495) merged on October 31, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/47495) over 18 hours, 39 additions and 27 deletions in 4 files</sub><br />
@@ -1187,7 +1195,7 @@
 
 * **[Tatsuya Fujisaki](https://github.com/tatsuyafujisaki)** &mdash; [flutter_lints] Replace "flutter pub add --dev" with "dev:"<br />
     <sub>[#5260](https://github.com/flutter/packages/pull/5260) merged on October 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5260) over 13 hours, 6 additions and 2 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Craig Labenz](https://github.com/craiglabenz)</sub><br />
+    <sub>Reviewed by: [Craig Labenz](https://github.com/craiglabenz), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 ### October 21, 2023 to October 27, 2023
 
