@@ -495,7 +495,7 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert "[Velocity Tracker] Fix: Issue 97761: Flutter Scrolling does not match iOS; inadvertent scrolling when user lifts up finger"
     <sub>[#136905](https://github.com/flutter/flutter/pull/136905) merged on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136905) over 4 hours, 1 addition and 56 deletions in 2 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Reland "Use Layer.toImage for golden tests on CanvasKit"
     <sub>[#136918](https://github.com/flutter/flutter/pull/136918) merged on October 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136918) over 1 day, 172 additions and 54 deletions in 5 files</sub>
@@ -558,7 +558,7 @@
 
 ### October 28, 2023 to November 3, 2023
 
-10 commits.
+11 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Switch from `glBlitFramebuffer` to implicit MSAA resolution.
     <sub>[#47282](https://github.com/flutter/engine/pull/47282) merged on October 30, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/47282) over 5 days, 66 additions and 64 deletions in 8 files</sub>
@@ -587,6 +587,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] Stop moving NDK folder inside Android SDK
     <sub>[#47454](https://github.com/flutter/engine/pull/47454) merged on October 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/47454) over 7 hours, 0 additions and 7 deletions in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [godofredoc](https://github.com/godofredoc)</sub>
+
+* **[Khalid Abdullah](https://github.com/khalid586)** &mdash; [Typo fixed] in DEPS
+    <sub>[#47440](https://github.com/flutter/engine/pull/47440) merged on October 31, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/47440) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Remove call to SkTypeface::MakeDefault
     <sub>[#47344](https://github.com/flutter/engine/pull/47344) merged on October 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/47344) over 3 days, 1 addition and 1 deletion in 1 file</sub>
