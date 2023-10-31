@@ -125,3 +125,6 @@
 * **[Andrea Cioni](https://github.com/andreacioni)** &mdash; Allow SnackBar to be placed below FAB<br />
     <sub>[#137583](https://github.com/flutter/flutter/pull/137583) opened on on October 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137583) 203 additions and 35 deletions in 4 files</sub><br />
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Fix formatting<br />
+    <sub>[#137613](https://github.com/flutter/flutter/pull/137613) opened on on October 31, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137613) 6 additions and 6 deletions in 3 files</sub><br />
+
