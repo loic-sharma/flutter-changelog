@@ -110,9 +110,6 @@
 * **[Andrea Cioni](https://github.com/andreacioni)** &mdash; Allow SnackBar to be placed below FAB<br />
     <sub>[#137583](https://github.com/flutter/flutter/pull/137583) opened on on October 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137583) 203 additions and 35 deletions in 4 files</sub><br />
 
-* **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Enable support for windows-arm64<br />
-    <sub>[#137618](https://github.com/flutter/flutter/pull/137618) opened on on October 31, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/137618) 394 additions and 110 deletions in 37 files</sub><br />
-
 * **[Tirth](https://github.com/piedcipher)** &mdash; Added `transitionDuration` property to `PopupMenuButton` and `PopupMenuThemeData`<br />
     <sub>[#137706](https://github.com/flutter/flutter/pull/137706) opened on on November 1, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137706) 119 additions and 1 deletion in 3 files</sub><br />
 
