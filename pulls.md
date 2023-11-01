@@ -116,3 +116,6 @@
 * **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Enable support for windows-arm64<br />
     <sub>[#137618](https://github.com/flutter/flutter/pull/137618) opened on on October 31, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/137618) 394 additions and 110 deletions in 37 files</sub><br />
 
+* **[sanni prasad](https://github.com/prasadsunny1)** &mdash; Add support for color and color blendmode in FadeInImage<br />
+    <sub>[#137681](https://github.com/flutter/flutter/pull/137681) opened on on November 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137681) 28 additions and 0 deletions in 1 file</sub><br />
+
