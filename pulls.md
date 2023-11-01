@@ -114,7 +114,7 @@
     <sub>[#137618](https://github.com/flutter/flutter/pull/137618) opened on on October 31, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/137618) 394 additions and 110 deletions in 37 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Added `transitionDuration` property to `PopupMenuButton` and `PopupMenuThemeData`<br />
-    <sub>[#137706](https://github.com/flutter/flutter/pull/137706) opened on on November 1, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137706) 46 additions and 1 deletion in 3 files</sub><br />
+    <sub>[#137706](https://github.com/flutter/flutter/pull/137706) opened on on November 1, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137706) 119 additions and 1 deletion in 3 files</sub><br />
 
 * **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Change cast in json parsing<br />
     <sub>[#137708](https://github.com/flutter/flutter/pull/137708) opened on on November 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137708) 1 addition and 1 deletion in 1 file</sub><br />
