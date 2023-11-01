@@ -125,3 +125,6 @@
 * **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Change cast in json parsing<br />
     <sub>[#137708](https://github.com/flutter/flutter/pull/137708) opened on on November 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137708) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [flutter_releases] Flutter beta 3.16.0-0.4.pre Framework Cherrypicks<br />
+    <sub>[#137709](https://github.com/flutter/flutter/pull/137709) opened on on November 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137709) 1 addition and 1 deletion in 1 file</sub><br />
+
