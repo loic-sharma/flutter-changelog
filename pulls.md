@@ -105,7 +105,7 @@
     <sub>[#137706](https://github.com/flutter/flutter/pull/137706) opened on on November 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137706) 119 additions and 1 deletion in 3 files</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated the nested navigation NavigationBar example<br />
-    <sub>[#137788](https://github.com/flutter/flutter/pull/137788) opened on on November 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137788) 87 additions and 48 deletions in 2 files</sub><br />
+    <sub>[#137788](https://github.com/flutter/flutter/pull/137788) opened on on November 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137788) 86 additions and 47 deletions in 2 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove generic type from BottomSheet<br />
     <sub>[#137791](https://github.com/flutter/flutter/pull/137791) opened on on November 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137791) 65 additions and 65 deletions in 19 files</sub><br />
