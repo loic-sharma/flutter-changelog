@@ -81,7 +81,7 @@
     <sub>[#137316](https://github.com/flutter/flutter/pull/137316) opened on on October 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137316) 27 additions and 16 deletions in 1 file</sub><br />
 
 * **[Rohith Gilla](https://github.com/Rohithgilla12)** &mdash; chore: Add default variant to the iOS `archs`<br />
-    <sub>[#137332](https://github.com/flutter/flutter/pull/137332) opened on on October 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137332) 1 addition and 4 deletions in 1 file</sub><br />
+    <sub>[#137332](https://github.com/flutter/flutter/pull/137332) opened on on October 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137332) 1 addition and 4 deletions in 1 file</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds `isIconFirst` property to `TextButton.icon` factory/widget<br />
     <sub>[#137348](https://github.com/flutter/flutter/pull/137348) opened on on October 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137348) 61 additions and 2 deletions in 2 files</sub><br />
@@ -109,4 +109,10 @@
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated the nested navigation NavigationBar example<br />
     <sub>[#137788](https://github.com/flutter/flutter/pull/137788) opened on on November 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137788) 96 additions and 54 deletions in 2 files</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove generic type from BottomSheet<br />
+    <sub>[#137791](https://github.com/flutter/flutter/pull/137791) opened on on November 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137791) 51 additions and 51 deletions in 8 files</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Refactors page API<br />
+    <sub>[#137792](https://github.com/flutter/flutter/pull/137792) opened on on November 2, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/137792) 284 additions and 70 deletions in 5 files</sub><br />
 
