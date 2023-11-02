@@ -68,9 +68,6 @@
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] fix service worker caching for custom base href<br />
     <sub>[#137202](https://github.com/flutter/flutter/pull/137202) opened on on October 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137202) 157 additions and 22 deletions in 3 files</sub><br />
 
-* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Refactor to use Apple system fonts<br />
-    <sub>[#137275](https://github.com/flutter/flutter/pull/137275) opened on on October 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137275) 89 additions and 82 deletions in 13 files</sub><br />
-
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; [WIP] Allow namespaces when generating localizations<br />
     <sub>[#137307](https://github.com/flutter/flutter/pull/137307) opened on on October 26, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/137307) 207 additions and 177 deletions in 6 files</sub><br />
 
