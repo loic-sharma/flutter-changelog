@@ -69,7 +69,7 @@
     <sub>[#137202](https://github.com/flutter/flutter/pull/137202) opened on on October 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137202) 157 additions and 22 deletions in 3 files</sub><br />
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Refactor to use Apple system fonts<br />
-    <sub>[#137275](https://github.com/flutter/flutter/pull/137275) opened on on October 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137275) 89 additions and 82 deletions in 13 files</sub><br />
+    <sub>[#137275](https://github.com/flutter/flutter/pull/137275) opened on on October 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137275) 89 additions and 82 deletions in 13 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Avoid passing a nullable value to potentially non-nullable parameters<br />
     <sub>[#137295](https://github.com/flutter/flutter/pull/137295) opened on on October 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137295) 14 additions and 12 deletions in 4 files</sub><br />
