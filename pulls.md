@@ -6,7 +6,7 @@
     <sub>[#116030](https://github.com/flutter/flutter/pull/116030) opened on on November 25, 2022 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/116030) 31 additions and 0 deletions in 3 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] do not try to build tool from dart.sh<br />
-    <sub>[#129186](https://github.com/flutter/flutter/pull/129186) opened on on June 20, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/129186) 70 additions and 2 deletions in 3 files</sub><br />
+    <sub>[#129186](https://github.com/flutter/flutter/pull/129186) opened on on June 20, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/129186) 71 additions and 2 deletions in 3 files</sub><br />
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [flutter_tools] build ios-frameworks: option to exclude plugin frameworks from the build<br />
     <sub>[#129739](https://github.com/flutter/flutter/pull/129739) opened on on June 28, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/129739) 61 additions and 2 deletions in 2 files</sub><br />
@@ -111,8 +111,11 @@
     <sub>[#137788](https://github.com/flutter/flutter/pull/137788) opened on on November 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137788) 96 additions and 54 deletions in 2 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove generic type from BottomSheet<br />
-    <sub>[#137791](https://github.com/flutter/flutter/pull/137791) opened on on November 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137791) 51 additions and 51 deletions in 8 files</sub><br />
+    <sub>[#137791](https://github.com/flutter/flutter/pull/137791) opened on on November 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137791) 64 additions and 64 deletions in 18 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactors page API<br />
-    <sub>[#137792](https://github.com/flutter/flutter/pull/137792) opened on on November 2, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/137792) 284 additions and 70 deletions in 5 files</sub><br />
+    <sub>[#137792](https://github.com/flutter/flutter/pull/137792) opened on on November 2, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/137792) 289 additions and 72 deletions in 5 files</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; InkFeature should dispatch creation and disposal events.<br />
+    <sub>[#137793](https://github.com/flutter/flutter/pull/137793) opened on on November 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137793) 52 additions and 1 deletion in 2 files</sub><br />
 
