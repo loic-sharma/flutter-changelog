@@ -635,7 +635,7 @@
 
 ### October 28, 2023 to November 3, 2023
 
-27 commits.
+28 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Move flutter.js into the engine.
     <sub>[#47240](https://github.com/flutter/engine/pull/47240) merged on October 31, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/47240) over 1 week, 392 additions and 37 deletions in 4 files</sub>
@@ -676,6 +676,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] OpenGLES MSAA Render Buffers (i.e. for stencils)
     <sub>[#47495](https://github.com/flutter/engine/pull/47495) merged on October 31, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/47495) over 18 hours, 39 additions and 27 deletions in 4 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Change FTL test to high capacity device
+    <sub>[#47579](https://github.com/flutter/engine/pull/47579) merged on November 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/47579) over 44 minutes, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Consolidate all the copies of the OpenFixtureAsSkData testing helper function
     <sub>[#47491](https://github.com/flutter/engine/pull/47491) merged on November 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/47491) over 1 day, 57 additions and 134 deletions in 9 files</sub>
@@ -1148,7 +1152,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Avoid a deadlock in the flutter_tester process when deleting the Impeller Vulkan context during shutdown
     <sub>[#46860](https://github.com/flutter/engine/pull/46860) merged on October 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46860) over 3 days, 72 additions and 64 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift some engine DEPS from github to mirrors
     <sub>[#46633](https://github.com/flutter/engine/pull/46633) merged on October 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/46633) over 1 week, 9 additions and 15 deletions in 1 file</sub>
