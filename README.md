@@ -21,7 +21,7 @@
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] cache the base URL as root index.html<br />
     <sub>[#136594](https://github.com/flutter/flutter/pull/136594) merged on October 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/136594) over 2 weeks, 12 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Move dependency on leak_tracker from dependencies to dev_dependencies in flutter_test.<br />
     <sub>[#137633](https://github.com/flutter/flutter/pull/137633) merged on October 31, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/137633) over 3 hours, 246 additions and 493 deletions in 60 files</sub><br />
@@ -580,7 +580,7 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert "[Velocity Tracker] Fix: Issue 97761: Flutter Scrolling does not match iOS; inadvertent scrolling when user lifts up finger"<br />
     <sub>[#136905](https://github.com/flutter/flutter/pull/136905) merged on October 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136905) over 4 hours, 1 addition and 56 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Chris Bracken](https://github.com/cbracken)</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Reland "Use Layer.toImage for golden tests on CanvasKit"<br />
     <sub>[#136918](https://github.com/flutter/flutter/pull/136918) merged on October 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136918) over 1 day, 172 additions and 54 deletions in 5 files</sub><br />
@@ -643,7 +643,7 @@
 
 ### October 28, 2023 to November 3, 2023
 
-31 commits.
+32 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Move flutter.js into the engine.<br />
     <sub>[#47240](https://github.com/flutter/engine/pull/47240) merged on October 31, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/47240) over 1 week, 392 additions and 37 deletions in 4 files</sub><br />
@@ -660,6 +660,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Expose more methods on `ui.Paragraph`: lines<br />
     <sub>[#46125](https://github.com/flutter/engine/pull/46125) merged on November 2, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/engine/pull/46125) over 1 month, 372 additions and 25 deletions in 17 files</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Add some important comments to some of the FilteContents methods<br />
+    <sub>[#47567](https://github.com/flutter/engine/pull/47567) merged on November 2, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/47567) over 9 hours, 41 additions and 10 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] stencil buffer record/replay instead of MSAA storage.<br />
     <sub>[#47397](https://github.com/flutter/engine/pull/47397) merged on November 1, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/47397) over 4 days, 80 additions and 43 deletions in 4 files</sub><br />
