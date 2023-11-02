@@ -113,6 +113,3 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate api docs from master to main.<br />
     <sub>[#137726](https://github.com/flutter/flutter/pull/137726) opened on on November 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137726) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [github] Remove assignees in CP requests<br />
-    <sub>[#137729](https://github.com/flutter/flutter/pull/137729) opened on on November 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137729) 0 additions and 3 deletions in 1 file</sub><br />
-
