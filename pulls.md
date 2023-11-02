@@ -72,7 +72,7 @@
     <sub>[#137275](https://github.com/flutter/flutter/pull/137275) opened on on October 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137275) 89 additions and 82 deletions in 13 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Avoid passing a nullable value to potentially non-nullable parameters<br />
-    <sub>[#137295](https://github.com/flutter/flutter/pull/137295) opened on on October 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137295) 14 additions and 12 deletions in 4 files</sub><br />
+    <sub>[#137295](https://github.com/flutter/flutter/pull/137295) opened on on October 25, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137295) 14 additions and 12 deletions in 4 files</sub><br />
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; [WIP] Allow namespaces when generating localizations<br />
     <sub>[#137307](https://github.com/flutter/flutter/pull/137307) opened on on October 26, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/137307) 207 additions and 177 deletions in 6 files</sub><br />
@@ -88,9 +88,6 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds `isIconFirst` property to `TextButton.icon` factory/widget<br />
     <sub>[#137348](https://github.com/flutter/flutter/pull/137348) opened on on October 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137348) 61 additions and 2 deletions in 2 files</sub><br />
-
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Avoid passing a nullable value to potentially non-nullable parameters<br />
-    <sub>[#137359](https://github.com/flutter/flutter/pull/137359) opened on on October 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137359) 5 additions and 1 deletion in 2 files</sub><br />
 
 * **[Mohammad Bagher Fakouri](https://github.com/mbfakourii)** &mdash; Add `SingleChildScrollView` for `NavigationRail`<br />
     <sub>[#137415](https://github.com/flutter/flutter/pull/137415) opened on on October 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137415) 34 additions and 32 deletions in 1 file</sub><br />
