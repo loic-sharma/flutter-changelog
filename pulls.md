@@ -51,7 +51,7 @@
     <sub>[#136764](https://github.com/flutter/flutter/pull/136764) opened on on October 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136764) 17 additions and 1 deletion in 6 files</sub><br />
 
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Bump cupertino_icons to 1.0.6<br />
-    <sub>[#136962](https://github.com/flutter/flutter/pull/136962) opened on on October 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136962) 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#136962](https://github.com/flutter/flutter/pull/136962) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136962) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Regis Imuduhe Safari](https://github.com/RegisSaffi)** &mdash; Add support for Kinyarwanda (rw) Language locale<br />
     <sub>[#137061](https://github.com/flutter/flutter/pull/137061) opened on on October 23, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/137061) 1946 additions and 124 deletions in 8 files</sub><br />
@@ -60,22 +60,22 @@
     <sub>[#137115](https://github.com/flutter/flutter/pull/137115) opened on on October 24, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/137115) 495 additions and 49 deletions in 6 files</sub><br />
 
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; Added vscode-insiders path installed via snap<br />
-    <sub>[#137117](https://github.com/flutter/flutter/pull/137117) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137117) 7 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#137117](https://github.com/flutter/flutter/pull/137117) opened on on October 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137117) 7 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; Added support for vscode and vscode-insiders installed via Flatpak<br />
     <sub>[#137123](https://github.com/flutter/flutter/pull/137123) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137123) 42 additions and 5 deletions in 2 files</sub><br />
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] fix service worker caching for custom base href<br />
-    <sub>[#137202](https://github.com/flutter/flutter/pull/137202) opened on on October 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137202) 157 additions and 22 deletions in 3 files</sub><br />
+    <sub>[#137202](https://github.com/flutter/flutter/pull/137202) opened on on October 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137202) 157 additions and 22 deletions in 3 files</sub><br />
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Refactor to use Apple system fonts<br />
     <sub>[#137275](https://github.com/flutter/flutter/pull/137275) opened on on October 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137275) 89 additions and 82 deletions in 13 files</sub><br />
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; [WIP] Allow namespaces when generating localizations<br />
-    <sub>[#137307](https://github.com/flutter/flutter/pull/137307) opened on on October 26, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/137307) 207 additions and 177 deletions in 6 files</sub><br />
+    <sub>[#137307](https://github.com/flutter/flutter/pull/137307) opened on on October 26, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/137307) 207 additions and 177 deletions in 6 files</sub><br />
 
 * **[shirne](https://github.com/shirne)** &mdash; Fix l10n gen file's problems<br />
-    <sub>[#137312](https://github.com/flutter/flutter/pull/137312) opened on on October 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137312) 9 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#137312](https://github.com/flutter/flutter/pull/137312) opened on on October 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137312) 9 additions and 2 deletions in 2 files</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Revise tooltip theme docs, including more cross-references<br />
     <sub>[#137316](https://github.com/flutter/flutter/pull/137316) opened on on October 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137316) 27 additions and 16 deletions in 1 file</sub><br />
