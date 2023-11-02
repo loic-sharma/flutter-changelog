@@ -60,7 +60,7 @@
     <sub>[#137115](https://github.com/flutter/flutter/pull/137115) opened on on October 24, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/137115) 495 additions and 49 deletions in 6 files</sub><br />
 
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; Added vscode-insiders path installed via snap<br />
-    <sub>[#137117](https://github.com/flutter/flutter/pull/137117) opened on on October 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137117) 7 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#137117](https://github.com/flutter/flutter/pull/137117) opened on on October 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137117) 7 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; Added support for vscode and vscode-insiders installed via Flatpak<br />
     <sub>[#137123](https://github.com/flutter/flutter/pull/137123) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137123) 42 additions and 5 deletions in 2 files</sub><br />
@@ -108,14 +108,8 @@
     <sub>[#137706](https://github.com/flutter/flutter/pull/137706) opened on on November 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137706) 119 additions and 1 deletion in 3 files</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated the nested navigation NavigationBar example<br />
-    <sub>[#137788](https://github.com/flutter/flutter/pull/137788) opened on on November 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137788) 96 additions and 54 deletions in 2 files</sub><br />
+    <sub>[#137788](https://github.com/flutter/flutter/pull/137788) opened on on November 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137788) 87 additions and 48 deletions in 2 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove generic type from BottomSheet<br />
     <sub>[#137791](https://github.com/flutter/flutter/pull/137791) opened on on November 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137791) 65 additions and 65 deletions in 19 files</sub><br />
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Refactors page API<br />
-    <sub>[#137792](https://github.com/flutter/flutter/pull/137792) opened on on November 2, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/137792) 292 additions and 79 deletions in 7 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; InkFeature should dispatch creation and disposal events.<br />
-    <sub>[#137793](https://github.com/flutter/flutter/pull/137793) opened on on November 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137793) 52 additions and 1 deletion in 2 files</sub><br />
 
