@@ -110,3 +110,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Added `transitionDuration` property to `PopupMenuButton` and `PopupMenuThemeData`<br />
     <sub>[#137706](https://github.com/flutter/flutter/pull/137706) opened on on November 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137706) 119 additions and 1 deletion in 3 files</sub><br />
 
+* **[yusuf-goog](https://github.com/yusuf-goog)** &mdash; Bumping version tag of provisioning profile cipd package. (#137710)<br />
+    <sub>[#137779](https://github.com/flutter/flutter/pull/137779) opened on on November 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137779) 10 additions and 10 deletions in 1 file</sub><br />
+
