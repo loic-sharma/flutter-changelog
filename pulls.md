@@ -68,6 +68,9 @@
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] fix service worker caching for custom base href<br />
     <sub>[#137202](https://github.com/flutter/flutter/pull/137202) opened on on October 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137202) 157 additions and 22 deletions in 3 files</sub><br />
 
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Refactor to use Apple system fonts<br />
+    <sub>[#137275](https://github.com/flutter/flutter/pull/137275) opened on on October 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137275) 89 additions and 82 deletions in 13 files</sub><br />
+
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Avoid passing a nullable value to potentially non-nullable parameters<br />
     <sub>[#137295](https://github.com/flutter/flutter/pull/137295) opened on on October 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137295) 14 additions and 12 deletions in 4 files</sub><br />
 
@@ -109,7 +112,4 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Added `transitionDuration` property to `PopupMenuButton` and `PopupMenuThemeData`<br />
     <sub>[#137706](https://github.com/flutter/flutter/pull/137706) opened on on November 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137706) 119 additions and 1 deletion in 3 files</sub><br />
-
-* **[yusuf-goog](https://github.com/yusuf-goog)** &mdash; Bumping version tag of provisioning profile cipd package. (#137710)<br />
-    <sub>[#137779](https://github.com/flutter/flutter/pull/137779) opened on on November 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137779) 10 additions and 10 deletions in 1 file</sub><br />
 
