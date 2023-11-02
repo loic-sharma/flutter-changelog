@@ -84,7 +84,7 @@
     <sub>[#137332](https://github.com/flutter/flutter/pull/137332) opened on on October 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137332) 1 addition and 4 deletions in 1 file</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds `isIconFirst` property to `TextButton.icon` factory/widget<br />
-    <sub>[#137348](https://github.com/flutter/flutter/pull/137348) opened on on October 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137348) 61 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#137348](https://github.com/flutter/flutter/pull/137348) opened on on October 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137348) 61 additions and 2 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Avoid passing a nullable value to potentially non-nullable parameters<br />
     <sub>[#137359](https://github.com/flutter/flutter/pull/137359) opened on on October 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137359) 5 additions and 1 deletion in 2 files</sub><br />
