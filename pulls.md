@@ -113,3 +113,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Added `transitionDuration` property to `PopupMenuButton` and `PopupMenuThemeData`<br />
     <sub>[#137706](https://github.com/flutter/flutter/pull/137706) opened on on November 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137706) 119 additions and 1 deletion in 3 files</sub><br />
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated the nested navigation NavigationBar example<br />
+    <sub>[#137788](https://github.com/flutter/flutter/pull/137788) opened on on November 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137788) 96 additions and 54 deletions in 2 files</sub><br />
+
