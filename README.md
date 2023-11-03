@@ -30,7 +30,7 @@
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] cache the base URL as root index.html<br />
     <sub>[#136594](https://github.com/flutter/flutter/pull/136594) merged on October 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/136594) over 2 weeks, 12 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Protect flutter analyze --suggestions  from erroring on missing AGP value. <br />
     <sub>[#137719](https://github.com/flutter/flutter/pull/137719) merged on November 2, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/137719) over 1 day, 144 additions and 18 deletions in 6 files</sub><br />
@@ -844,7 +844,7 @@
 
 * **[Alexander Thomas](https://github.com/athomas)** &mdash; Add a temporary fallback to move run_binary_file_analysis.py<br />
     <sub>[#47598](https://github.com/flutter/engine/pull/47598) merged on November 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/47598) over 6 hours, 6 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on either macOS 12 or 13<br />
     <sub>[#47606](https://github.com/flutter/engine/pull/47606) merged on November 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/47606) over 2 hours, 42 additions and 42 deletions in 8 files</sub><br />
@@ -1293,7 +1293,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Avoid a deadlock in the flutter_tester process when deleting the Impeller Vulkan context during shutdown<br />
     <sub>[#46860](https://github.com/flutter/engine/pull/46860) merged on October 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/46860) over 3 days, 72 additions and 64 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift some engine DEPS from github to mirrors<br />
     <sub>[#46633](https://github.com/flutter/engine/pull/46633) merged on October 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/46633) over 1 week, 9 additions and 15 deletions in 1 file</sub><br />
@@ -1608,7 +1608,7 @@
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Nitin-Poojary](https://github.com/Nitin-Poojary)** &mdash; [flutter_image] added example app<br />
-    <sub>[#4353](https://github.com/flutter/packages/pull/4353) merged on October 16, 2023 &mdash; **Extra large:** [63 comments](https://github.com/flutter/packages/pull/4353) over 3 months, 4488 additions and 2 deletions in 125 files</sub><br />
+    <sub>[#4353](https://github.com/flutter/packages/pull/4353) merged on October 16, 2023 &mdash; **Extra large:** [64 comments](https://github.com/flutter/packages/pull/4353) over 3 months, 4488 additions and 2 deletions in 125 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [quick_actions] convert to pigeon<br />
