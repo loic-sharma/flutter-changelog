@@ -86,3 +86,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Ticker should dispatch creation and disposal events.<br />
     <sub>[#137844](https://github.com/flutter/flutter/pull/137844) opened on on November 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137844) 26 additions and 0 deletions in 2 files</sub><br />
 
+* **[Albert Wolszon](https://github.com/Albert221)** &mdash; Constrain dimensions passed down within RenderConstrainedBox<br />
+    <sub>[#137874](https://github.com/flutter/flutter/pull/137874) opened on on November 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137874) 123 additions and 4 deletions in 3 files</sub><br />
+
