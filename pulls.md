@@ -77,23 +77,8 @@
 * **[Rohith Gilla](https://github.com/Rohithgilla12)** &mdash; chore: Add default variant to the iOS `archs`<br />
     <sub>[#137332](https://github.com/flutter/flutter/pull/137332) opened on on October 26, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/137332) 1 addition and 4 deletions in 1 file</sub><br />
 
-* **[Mohammad Bagher Fakouri](https://github.com/mbfakourii)** &mdash; Add `SingleChildScrollView` for `NavigationRail`<br />
-    <sub>[#137415](https://github.com/flutter/flutter/pull/137415) opened on on October 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137415) 34 additions and 32 deletions in 1 file</sub><br />
-
-* **[Tirth](https://github.com/piedcipher)** &mdash; Adds `useRootNavigator` property to `PopupMenuButton` widget.<br />
-    <sub>[#137453](https://github.com/flutter/flutter/pull/137453) opened on on October 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137453) 93 additions and 0 deletions in 2 files</sub><br />
-
-* **[Abhi](https://github.com/gitabhisingh)** &mdash; Feature 136172 paginated data table footer position<br />
-    <sub>[#137507](https://github.com/flutter/flutter/pull/137507) opened on on October 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137507) 14 additions and 6 deletions in 2 files</sub><br />
-
-* **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Added Features requested in #137530<br />
-    <sub>[#137532](https://github.com/flutter/flutter/pull/137532) opened on on October 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137532) 107 additions and 27 deletions in 2 files</sub><br />
-
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; added SegmentedButton.stylefrom to SegmentedButton<br />
     <sub>[#137542](https://github.com/flutter/flutter/pull/137542) opened on on October 30, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/137542) 523 additions and 0 deletions in 2 files</sub><br />
-
-* **[Andrea Cioni](https://github.com/andreacioni)** &mdash; Allow SnackBar to be placed below FAB<br />
-    <sub>[#137583](https://github.com/flutter/flutter/pull/137583) opened on on October 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137583) 203 additions and 35 deletions in 4 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix tool exit message shown when user provides a non-list to "assets" for a deferred component<br />
     <sub>[#137837](https://github.com/flutter/flutter/pull/137837) opened on on November 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137837) 2 additions and 2 deletions in 2 files</sub><br />
