@@ -71,14 +71,8 @@
 * **[shirne](https://github.com/shirne)** &mdash; Fix l10n gen file's problems<br />
     <sub>[#137312](https://github.com/flutter/flutter/pull/137312) opened on on October 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137312) 9 additions and 2 deletions in 2 files</sub><br />
 
-* **[Greg Price](https://github.com/gnprice)** &mdash; Revise tooltip theme docs, including more cross-references<br />
-    <sub>[#137316](https://github.com/flutter/flutter/pull/137316) opened on on October 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137316) 27 additions and 16 deletions in 1 file</sub><br />
-
 * **[Rohith Gilla](https://github.com/Rohithgilla12)** &mdash; chore: Add default variant to the iOS `archs`<br />
     <sub>[#137332](https://github.com/flutter/flutter/pull/137332) opened on on October 26, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/137332) 1 addition and 4 deletions in 1 file</sub><br />
-
-* **[Tirth](https://github.com/piedcipher)** &mdash; Adds `isIconFirst` property to `TextButton.icon` factory/widget<br />
-    <sub>[#137348](https://github.com/flutter/flutter/pull/137348) opened on on October 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137348) 61 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mohammad Bagher Fakouri](https://github.com/mbfakourii)** &mdash; Add `SingleChildScrollView` for `NavigationRail`<br />
     <sub>[#137415](https://github.com/flutter/flutter/pull/137415) opened on on October 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137415) 34 additions and 32 deletions in 1 file</sub><br />
@@ -100,9 +94,6 @@
 
 * **[sanni prasad](https://github.com/prasadsunny1)** &mdash; Add support for color and color blendmode in FadeInImage<br />
     <sub>[#137681](https://github.com/flutter/flutter/pull/137681) opened on on November 1, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/137681) 51 additions and 0 deletions in 2 files</sub><br />
-
-* **[Tirth](https://github.com/piedcipher)** &mdash; Added `transitionDuration` property to `PopupMenuButton` and `PopupMenuThemeData`<br />
-    <sub>[#137706](https://github.com/flutter/flutter/pull/137706) opened on on November 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137706) 119 additions and 1 deletion in 3 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix tool exit message shown when user provides a non-list to "assets" for a deferred component<br />
     <sub>[#137837](https://github.com/flutter/flutter/pull/137837) opened on on November 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137837) 2 additions and 2 deletions in 2 files</sub><br />
