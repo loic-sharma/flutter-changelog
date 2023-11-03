@@ -95,9 +95,6 @@
 * **[Andrea Cioni](https://github.com/andreacioni)** &mdash; Allow SnackBar to be placed below FAB<br />
     <sub>[#137583](https://github.com/flutter/flutter/pull/137583) opened on on October 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137583) 203 additions and 35 deletions in 4 files</sub><br />
 
-* **[sanni prasad](https://github.com/prasadsunny1)** &mdash; Add support for color and color blendmode in FadeInImage<br />
-    <sub>[#137681](https://github.com/flutter/flutter/pull/137681) opened on on November 1, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/137681) 51 additions and 0 deletions in 2 files</sub><br />
-
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix tool exit message shown when user provides a non-list to "assets" for a deferred component<br />
     <sub>[#137837](https://github.com/flutter/flutter/pull/137837) opened on on November 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137837) 2 additions and 2 deletions in 2 files</sub><br />
 
