@@ -119,3 +119,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; AppLifecycleListener should dispatch creation and disposal events.<br />
     <sub>[#137840](https://github.com/flutter/flutter/pull/137840) opened on on November 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137840) 27 additions and 2 deletions in 2 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Ticker should dispatch creation and disposal events.<br />
+    <sub>[#137844](https://github.com/flutter/flutter/pull/137844) opened on on November 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137844) 26 additions and 0 deletions in 2 files</sub><br />
+
