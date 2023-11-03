@@ -104,17 +104,8 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Added `transitionDuration` property to `PopupMenuButton` and `PopupMenuThemeData`<br />
     <sub>[#137706](https://github.com/flutter/flutter/pull/137706) opened on on November 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137706) 119 additions and 1 deletion in 3 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; InkFeature should dispatch creation and disposal events.<br />
-    <sub>[#137793](https://github.com/flutter/flutter/pull/137793) opened on on November 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137793) 53 additions and 1 deletion in 2 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; HeroController should dispatch creation and disposal events.<br />
-    <sub>[#137835](https://github.com/flutter/flutter/pull/137835) opened on on November 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137835) 52 additions and 3 deletions in 5 files</sub><br />
-
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix tool exit message shown when user provides a non-list to "assets" for a deferred component<br />
     <sub>[#137837](https://github.com/flutter/flutter/pull/137837) opened on on November 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137837) 2 additions and 2 deletions in 2 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; AppLifecycleListener should dispatch creation and disposal events.<br />
-    <sub>[#137840](https://github.com/flutter/flutter/pull/137840) opened on on November 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137840) 27 additions and 2 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Ticker should dispatch creation and disposal events.<br />
     <sub>[#137844](https://github.com/flutter/flutter/pull/137844) opened on on November 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137844) 26 additions and 0 deletions in 2 files</sub><br />
