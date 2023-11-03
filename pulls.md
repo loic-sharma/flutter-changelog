@@ -53,6 +53,9 @@
 * **[Regis Imuduhe Safari](https://github.com/RegisSaffi)** &mdash; Add support for Kinyarwanda (rw) Language locale<br />
     <sub>[#137061](https://github.com/flutter/flutter/pull/137061) opened on on October 23, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/137061) 1946 additions and 124 deletions in 8 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Consume flutter.js from the engine artifacts.<br />
+    <sub>[#137113](https://github.com/flutter/flutter/pull/137113) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137113) 32 additions and 72 deletions in 7 files</sub><br />
+
 * **[Gustl22](https://github.com/Gustl22)** &mdash; Reland: "Fix how Gradle resolves Android plugin"<br />
     <sub>[#137115](https://github.com/flutter/flutter/pull/137115) opened on on October 24, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/137115) 495 additions and 49 deletions in 6 files</sub><br />
 
