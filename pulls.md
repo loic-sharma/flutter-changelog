@@ -114,7 +114,7 @@
     <sub>[#137835](https://github.com/flutter/flutter/pull/137835) opened on on November 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137835) 52 additions and 3 deletions in 5 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix tool exit message shown when user provides a non-list to "assets" for a deferred component<br />
-    <sub>[#137837](https://github.com/flutter/flutter/pull/137837) opened on on November 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137837) 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#137837](https://github.com/flutter/flutter/pull/137837) opened on on November 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137837) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; AppLifecycleListener should dispatch creation and disposal events.<br />
     <sub>[#137840](https://github.com/flutter/flutter/pull/137840) opened on on November 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137840) 27 additions and 2 deletions in 2 files</sub><br />
