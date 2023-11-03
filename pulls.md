@@ -110,3 +110,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; InkFeature should dispatch creation and disposal events.<br />
     <sub>[#137793](https://github.com/flutter/flutter/pull/137793) opened on on November 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137793) 53 additions and 1 deletion in 2 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; HeroController should dispatch creation and disposal events.<br />
+    <sub>[#137835](https://github.com/flutter/flutter/pull/137835) opened on on November 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137835) 52 additions and 3 deletions in 5 files</sub><br />
+
