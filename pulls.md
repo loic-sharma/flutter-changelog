@@ -107,3 +107,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove generic type from BottomSheet<br />
     <sub>[#137791](https://github.com/flutter/flutter/pull/137791) opened on on November 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137791) 65 additions and 69 deletions in 19 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; InkFeature should dispatch creation and disposal events.<br />
+    <sub>[#137793](https://github.com/flutter/flutter/pull/137793) opened on on November 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137793) 53 additions and 1 deletion in 2 files</sub><br />
+
