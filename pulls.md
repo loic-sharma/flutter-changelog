@@ -99,7 +99,7 @@
     <sub>[#137583](https://github.com/flutter/flutter/pull/137583) opened on on October 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137583) 203 additions and 35 deletions in 4 files</sub><br />
 
 * **[sanni prasad](https://github.com/prasadsunny1)** &mdash; Add support for color and color blendmode in FadeInImage<br />
-    <sub>[#137681](https://github.com/flutter/flutter/pull/137681) opened on on November 1, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137681) 51 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#137681](https://github.com/flutter/flutter/pull/137681) opened on on November 1, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/137681) 51 additions and 0 deletions in 2 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Added `transitionDuration` property to `PopupMenuButton` and `PopupMenuThemeData`<br />
     <sub>[#137706](https://github.com/flutter/flutter/pull/137706) opened on on November 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137706) 119 additions and 1 deletion in 3 files</sub><br />
