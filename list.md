@@ -22,7 +22,7 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Provide more information in 'unsupported class file' gradle error
     <sub>[#136756](https://github.com/flutter/flutter/pull/136756) merged on November 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136756) over 2 weeks, 18 additions and 3 deletions in 2 files</sub>
-    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Reid Baker](https://github.com/reidbaker)</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Elias Yishak](https://github.com/eliasyishak)</sub>
 
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Unified analytics events migration for `BuildEvent`
     <sub>[#137562](https://github.com/flutter/flutter/pull/137562) merged on November 1, 2023 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/137562) over 2 days, 313 additions and 33 deletions in 18 files</sub>
@@ -30,7 +30,7 @@
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] cache the base URL as root index.html
     <sub>[#136594](https://github.com/flutter/flutter/pull/136594) merged on October 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/136594) over 2 weeks, 12 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Protect flutter analyze --suggestions  from erroring on missing AGP value. 
     <sub>[#137719](https://github.com/flutter/flutter/pull/137719) merged on November 2, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/137719) over 1 day, 144 additions and 18 deletions in 6 files</sub>
@@ -50,7 +50,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Move dependency on leak_tracker from dependencies to dev_dependencies in flutter_test.
     <sub>[#137633](https://github.com/flutter/flutter/pull/137633) merged on October 31, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/137633) over 3 hours, 246 additions and 493 deletions in 60 files</sub>
-    <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; Tooltip docs: Recommend setting preferBelow to false in theme
     <sub>[#135879](https://github.com/flutter/flutter/pull/135879) merged on November 3, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/135879) over 1 month, 31 additions and 7 deletions in 6 files</sub>
@@ -66,7 +66,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `IconButton.iconSize` documentation
     <sub>[#137741](https://github.com/flutter/flutter/pull/137741) merged on November 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137741) over 16 hours, 3 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Avoid passing a nullable value to potentially non-nullable parameters
     <sub>[#137359](https://github.com/flutter/flutter/pull/137359) merged on November 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137359) over 1 week, 5 additions and 1 deletion in 2 files</sub>
@@ -142,7 +142,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update Carousel tokens to v0.202
     <sub>[#137728](https://github.com/flutter/flutter/pull/137728) merged on November 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137728) over 2 hours, 27 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; InkFeature should dispatch creation and disposal events.
     <sub>[#137793](https://github.com/flutter/flutter/pull/137793) merged on November 3, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/137793) over 22 hours, 53 additions and 1 deletion in 2 files</sub>
@@ -166,7 +166,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Support Android 34
     <sub>[#137191](https://github.com/flutter/flutter/pull/137191) merged on November 2, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137191) over 1 week, 78 additions and 78 deletions in 60 files</sub>
-    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Binni Goel](https://github.com/droidbg)** &mdash; Instrument ImageStreamCompleterHandle for LeakTracking
     <sub>[#137482](https://github.com/flutter/flutter/pull/137482) merged on November 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137482) over 4 days, 33 additions and 0 deletions in 2 files</sub>
@@ -202,7 +202,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Roll Flutter Engine from 39be0fc34503 to ec3e988099be (2 revisions)"
     <sub>[#137647](https://github.com/flutter/flutter/pull/137647) merged on October 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137647) over 24 minutes, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Dan Field](https://github.com/dnfield)</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 ### October 21, 2023 to October 27, 2023
 
@@ -1452,11 +1452,16 @@
 
 ### October 28, 2023 to November 3, 2023
 
-22 commits.
+23 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Adds an ability to add a custom codec for serializing/des…
     <sub>[#5288](https://github.com/flutter/packages/pull/5288) merged on November 3, 2023 &mdash; **Medium:** [19 comments](https://github.com/flutter/packages/pull/5288) over 2 days, 404 additions and 21 deletions in 14 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Add borderRadius support to TableSpanDecoration
+    <sub>[#5184](https://github.com/flutter/packages/pull/5184) merged on November 3, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/5184) over 2 weeks, 55 additions and 22 deletions in 5 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub><details><summary>2 images...</summary>![Screenshot 2023-10-19 at 3 01 17 PM](https://github.com/flutter/packages/assets/16964204/b185ce08-9be0-4771-83df-d79df66774b6)![tableSpanDecoration defaultMainAxis](https://github.com/flutter/packages/assets/16964204/3c88f947-233c-4502-a413-3bb601935911)</details></sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [in_app_purchase_android] Add missing response code to BillingResponse enum
     <sub>[#5120](https://github.com/flutter/packages/pull/5120) merged on October 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5120) over 2 weeks, 11 additions and 1 deletion in 5 files</sub>
