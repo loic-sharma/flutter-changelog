@@ -72,7 +72,7 @@
     <sub>[#137307](https://github.com/flutter/flutter/pull/137307) opened on on October 26, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/137307) 207 additions and 177 deletions in 6 files</sub><br />
 
 * **[shirne](https://github.com/shirne)** &mdash; Fix l10n gen file's problems<br />
-    <sub>[#137312](https://github.com/flutter/flutter/pull/137312) opened on on October 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137312) 9 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#137312](https://github.com/flutter/flutter/pull/137312) opened on on October 26, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/137312) 183 additions and 124 deletions in 4 files</sub><br />
 
 * **[Rohith Gilla](https://github.com/Rohithgilla12)** &mdash; chore: Add default variant to the iOS `archs`<br />
     <sub>[#137332](https://github.com/flutter/flutter/pull/137332) opened on on October 26, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/137332) 1 addition and 4 deletions in 1 file</sub><br />
