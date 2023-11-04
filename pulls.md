@@ -89,3 +89,6 @@
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Constrain dimensions passed down in intrinsic protocol within RenderConstrainedBox<br />
     <sub>[#137874](https://github.com/flutter/flutter/pull/137874) opened on on November 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137874) 123 additions and 4 deletions in 3 files</sub><br />
 
+* **[Ross Llewallyn](https://github.com/EnduringBeta)** &mdash; Docs typo: comprised -> composed<br />
+    <sub>[#137896](https://github.com/flutter/flutter/pull/137896) opened on on November 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137896) 1 addition and 1 deletion in 1 file</sub><br />
+
