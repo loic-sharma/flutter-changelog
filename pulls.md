@@ -92,3 +92,6 @@
 * **[Ross Llewallyn](https://github.com/EnduringBeta)** &mdash; Docs typo: comprised -> composed<br />
     <sub>[#137896](https://github.com/flutter/flutter/pull/137896) opened on on November 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137896) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [benchmarks] disable partial repaint in iOS macrobenchmarks.<br />
+    <sub>[#137902](https://github.com/flutter/flutter/pull/137902) opened on on November 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137902) 2 additions and 0 deletions in 1 file</sub><br />
+
