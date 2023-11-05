@@ -405,7 +405,7 @@
 
 * **[cui fliter](https://github.com/cuishuang)** &mdash; fix some typos<br />
     <sub>[#137144](https://github.com/flutter/flutter/pull/137144) merged on October 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137144) over 3 hours, 5 additions and 5 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Binni Goel](https://github.com/droidbg)** &mdash; Fix. typos<br />
     <sub>[#137325](https://github.com/flutter/flutter/pull/137325) merged on October 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137325) over 17 hours, 6 additions and 6 deletions in 4 files</sub><br />
@@ -1577,7 +1577,7 @@
 
 * **[Tatsuya Fujisaki](https://github.com/tatsuyafujisaki)** &mdash; [flutter_lints] Replace "flutter pub add --dev" with "dev:"<br />
     <sub>[#5260](https://github.com/flutter/packages/pull/5260) merged on October 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5260) over 13 hours, 6 additions and 2 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Craig Labenz](https://github.com/craiglabenz), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Craig Labenz](https://github.com/craiglabenz)</sub><br />
 
 ### October 21, 2023 to October 27, 2023
 
