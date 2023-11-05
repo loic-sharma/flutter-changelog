@@ -98,3 +98,6 @@
 * **[Fedor Blagodyr](https://github.com/feduke-nukem)** &mdash; Fix sliver persistent header expand animation<br />
     <sub>[#137913](https://github.com/flutter/flutter/pull/137913) opened on on November 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137913) 3 additions and 1 deletion in 1 file</sub><br />
 
+* **[Vinay Baise](https://github.com/vinaykumarrock986612)** &mdash; Custom string for TextOverflow.ellipsis #26748<br />
+    <sub>[#137915](https://github.com/flutter/flutter/pull/137915) opened on on November 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137915) 26 additions and 1 deletion in 3 files</sub><br />
+
