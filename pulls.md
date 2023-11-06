@@ -101,9 +101,3 @@
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Test roll<br />
     <sub>[#137954](https://github.com/flutter/flutter/pull/137954) opened on on November 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137954) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; SemanticsHandle should dispatch creation and disposal events.<br />
-    <sub>[#137960](https://github.com/flutter/flutter/pull/137960) opened on on November 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137960) 43 additions and 1 deletion in 3 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; ScrollActivity should dispatch creation and disposal events.<br />
-    <sub>[#137961](https://github.com/flutter/flutter/pull/137961) opened on on November 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137961) 57 additions and 1 deletion in 2 files</sub><br />
-
