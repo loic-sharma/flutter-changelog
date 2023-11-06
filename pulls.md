@@ -80,9 +80,6 @@
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; added SegmentedButton.stylefrom to SegmentedButton<br />
     <sub>[#137542](https://github.com/flutter/flutter/pull/137542) opened on on October 30, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/137542) 523 additions and 0 deletions in 2 files</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix tool exit message shown when user provides a non-list to "assets" for a deferred component<br />
-    <sub>[#137837](https://github.com/flutter/flutter/pull/137837) opened on on November 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137837) 2 additions and 2 deletions in 2 files</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Ticker should dispatch creation and disposal events.<br />
     <sub>[#137844](https://github.com/flutter/flutter/pull/137844) opened on on November 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137844) 26 additions and 0 deletions in 2 files</sub><br />
 
