@@ -98,3 +98,9 @@
 * **[Vinay Baise](https://github.com/vinaykumarrock986612)** &mdash; Custom string for TextOverflow.ellipsis #26748<br />
     <sub>[#137915](https://github.com/flutter/flutter/pull/137915) opened on on November 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137915) 26 additions and 1 deletion in 3 files</sub><br />
 
+* **[Ricky Souza de Oliveira](https://github.com/HeroRickyGAMES)** &mdash; Removing the bug of 'package:flutter/src/rendering/mouse_tracker.dart ': Failed assertion: line 205 pos 12: '!_debugDuringDeviceUpdate': is not true. in desktop platforms<br />
+    <sub>[#137938](https://github.com/flutter/flutter/pull/137938) opened on on November 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137938) 3 additions and 1 deletion in 1 file</sub><br />
+
+* **[Ricky Souza de Oliveira](https://github.com/HeroRickyGAMES)** &mdash; Removing the bug of 'package:flutter/src/rendering/mouse_tracker.dart ': Failed assertion: line 205 pos 12: '!_debugDuringDeviceUpdate': is not true. in desktop platforms<br />
+    <sub>[#137939](https://github.com/flutter/flutter/pull/137939) opened on on November 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137939) 1 addition and 1 deletion in 1 file</sub><br />
+
