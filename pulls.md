@@ -80,9 +80,6 @@
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; added SegmentedButton.stylefrom to SegmentedButton<br />
     <sub>[#137542](https://github.com/flutter/flutter/pull/137542) opened on on October 30, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/137542) 523 additions and 0 deletions in 2 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix text selection in `SearchAnchor`<br />
-    <sub>[#137636](https://github.com/flutter/flutter/pull/137636) opened on on October 31, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/137636) 522 additions and 224 deletions in 4 files</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Ticker should dispatch creation and disposal events.<br />
     <sub>[#137844](https://github.com/flutter/flutter/pull/137844) opened on on November 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137844) 26 additions and 0 deletions in 2 files</sub><br />
 
@@ -103,4 +100,7 @@
 
 * **[Ricky Souza de Oliveira](https://github.com/HeroRickyGAMES)** &mdash; Removing the bug of 'package:flutter/src/rendering/mouse_tracker.dart ': Failed assertion: line 205 pos 12: '!_debugDuringDeviceUpdate': is not true. in desktop platforms<br />
     <sub>[#137939](https://github.com/flutter/flutter/pull/137939) opened on on November 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137939) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Test roll<br />
+    <sub>[#137954](https://github.com/flutter/flutter/pull/137954) opened on on November 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137954) 1 addition and 1 deletion in 1 file</sub><br />
 
