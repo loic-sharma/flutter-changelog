@@ -104,6 +104,3 @@
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Test roll<br />
     <sub>[#137954](https://github.com/flutter/flutter/pull/137954) opened on on November 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137954) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; Added an AnimationController API doc example<br />
-    <sub>[#137975](https://github.com/flutter/flutter/pull/137975) opened on on November 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137975) 233 additions and 0 deletions in 3 files</sub><br />
-
