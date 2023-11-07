@@ -101,9 +101,6 @@
 * **[Ricky Souza de Oliveira](https://github.com/HeroRickyGAMES)** &mdash; Removing the bug of 'package:flutter/src/rendering/mouse_tracker.dart ': Failed assertion: line 205 pos 12: '!_debugDuringDeviceUpdate': is not true. in desktop platforms<br />
     <sub>[#137939](https://github.com/flutter/flutter/pull/137939) opened on on November 6, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/137939) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Test roll<br />
-    <sub>[#137954](https://github.com/flutter/flutter/pull/137954) opened on on November 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137954) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [release cp] Reland "Fixes ability to call nextFocus() on a node to focus its desc…<br />
     <sub>[#138014](https://github.com/flutter/flutter/pull/138014) opened on on November 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138014) 134 additions and 7 deletions in 2 files</sub><br />
 
