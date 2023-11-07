@@ -105,5 +105,5 @@
     <sub>[#138025](https://github.com/flutter/flutter/pull/138025) opened on on November 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138025) 150 additions and 30 deletions in 2 files</sub><br />
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Use merge-base in find_commit.dart<br />
-    <sub>[#138033](https://github.com/flutter/flutter/pull/138033) opened on on November 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138033) 11 additions and 15 deletions in 1 file</sub><br />
+    <sub>[#138033](https://github.com/flutter/flutter/pull/138033) opened on on November 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138033) 18 additions and 36 deletions in 1 file</sub><br />
 
