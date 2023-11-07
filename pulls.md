@@ -101,3 +101,6 @@
 * **[Dall127](https://github.com/Dall127)** &mdash; Allow TextSelection to be returned from SelectableRegion<br />
     <sub>[#138041](https://github.com/flutter/flutter/pull/138041) opened on on November 7, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/138041) 2852 additions and 1380 deletions in 9 files</sub><br />
 
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; Roll engine to ab14aba1d5564df418f0e87f6772916c80a9a00a<br />
+    <sub>[#138044](https://github.com/flutter/flutter/pull/138044) opened on on November 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138044) 1 addition and 1 deletion in 1 file</sub><br />
+
