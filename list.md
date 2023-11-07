@@ -4,7 +4,7 @@
 
 ### November 4, 2023 to November 10, 2023
 
-16 commits.
+17 commits.
 
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Migration for `HotEvent` for Flutter hot runner
     <sub>[#137717](https://github.com/flutter/flutter/pull/137717) merged on November 6, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/137717) over 5 days, 394 additions and 17 deletions in 16 files</sub>
@@ -50,6 +50,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [benchmarks] disable partial repaint for multiple backdrop blur iOS macrobenchmarks.
     <sub>[#137902](https://github.com/flutter/flutter/pull/137902) merged on November 6, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/137902) over 2 days, 86 additions and 8 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Added an AnimationController API doc example
+    <sub>[#137975](https://github.com/flutter/flutter/pull/137975) merged on November 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/137975) over 19 hours, 262 additions and 0 deletions in 3 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; SemanticsHandle should dispatch creation and disposal events.
     <sub>[#137960](https://github.com/flutter/flutter/pull/137960) merged on November 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137960) over 1 hour, 43 additions and 1 deletion in 3 files</sub>
@@ -124,7 +128,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Move dependency on leak_tracker from dependencies to dev_dependencies in flutter_test.
     <sub>[#137633](https://github.com/flutter/flutter/pull/137633) merged on October 31, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/137633) over 3 hours, 246 additions and 493 deletions in 60 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ben Konyi](https://github.com/bkonyi)</sub>
+    <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused generic type from BottomSheet
     <sub>[#137791](https://github.com/flutter/flutter/pull/137791) merged on November 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137791) over 1 day, 65 additions and 69 deletions in 19 files</sub>
@@ -264,7 +268,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update Carousel tokens to v0.202
     <sub>[#137728](https://github.com/flutter/flutter/pull/137728) merged on November 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137728) over 2 hours, 27 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks)</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Update `framework_test.dart` to remove `ButtonBar` usage and remove references from other clases"
     <sub>[#137731](https://github.com/flutter/flutter/pull/137731) merged on November 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137731) over 1 minute, 27 additions and 27 deletions in 3 files</sub>
@@ -409,7 +413,7 @@
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix dislocated doc and comment on ThemeData localize cache
     <sub>[#137315](https://github.com/flutter/flutter/pull/137315) merged on October 26, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/137315) over 16 hours, 7 additions and 7 deletions in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Refactor macOS build/codesize analysis
     <sub>[#137164](https://github.com/flutter/flutter/pull/137164) merged on October 24, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/137164) over 2 hours, 51 additions and 40 deletions in 1 file</sub>
@@ -481,7 +485,7 @@
 
 * **[Binni Goel](https://github.com/droidbg)** &mdash; Fix. typos
     <sub>[#137325](https://github.com/flutter/flutter/pull/137325) merged on October 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137325) over 17 hours, 6 additions and 6 deletions in 4 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Fix Typos
     <sub>[#137173](https://github.com/flutter/flutter/pull/137173) merged on October 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137173) over 4 hours, 2 additions and 2 deletions in 2 files</sub>
@@ -1250,7 +1254,7 @@
 
 * **[Tatsuya Fujisaki](https://github.com/tatsuyafujisaki)** &mdash; [flutter_lints] Replace "flutter pub add --dev" with "dev:"
     <sub>[#5260](https://github.com/flutter/packages/pull/5260) merged on October 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5260) over 13 hours, 6 additions and 2 deletions in 3 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Craig Labenz](https://github.com/craiglabenz)</sub>
+    <sub>Reviewed by: [Craig Labenz](https://github.com/craiglabenz), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 </details>
 
