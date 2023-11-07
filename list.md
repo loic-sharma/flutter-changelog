@@ -4,7 +4,7 @@
 
 ### November 4, 2023 to November 10, 2023
 
-19 commits.
+20 commits.
 
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Migration for `HotEvent` for Flutter hot runner
     <sub>[#137717](https://github.com/flutter/flutter/pull/137717) merged on November 6, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/137717) over 5 days, 394 additions and 17 deletions in 16 files</sub>
@@ -18,6 +18,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update BottomNavigationBar tests for M3
     <sub>[#136624](https://github.com/flutter/flutter/pull/136624) merged on November 6, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/136624) over 3 weeks, 642 additions and 23 deletions in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Hans Muller](https://github.com/HansMuller)</sub>
+
+* **[Greg Price](https://github.com/gnprice)** &mdash; Document where `Curves` curves correspond to CSS easing functions
+    <sub>[#137318](https://github.com/flutter/flutter/pull/137318) merged on November 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137318) over 1 week, 8 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Provide a helpful error message when `ColorScheme.brightness` doesn't match `ThemeData.brightness`
     <sub>[#137611](https://github.com/flutter/flutter/pull/137611) merged on November 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137611) over 6 days, 102 additions and 1 deletion in 2 files</sub>
@@ -304,7 +308,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Roll Flutter Engine from 39be0fc34503 to ec3e988099be (2 revisions)"
     <sub>[#137647](https://github.com/flutter/flutter/pull/137647) merged on October 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137647) over 24 minutes, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Dan Field](https://github.com/dnfield)</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 </details>
 
@@ -489,7 +493,7 @@
 
 * **[cui fliter](https://github.com/cuishuang)** &mdash; fix some typos
     <sub>[#137144](https://github.com/flutter/flutter/pull/137144) merged on October 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137144) over 3 hours, 5 additions and 5 deletions in 5 files</sub>
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[Binni Goel](https://github.com/droidbg)** &mdash; Fix. typos
     <sub>[#137325](https://github.com/flutter/flutter/pull/137325) merged on October 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137325) over 17 hours, 6 additions and 6 deletions in 4 files</sub>
@@ -1270,7 +1274,7 @@
 
 * **[Tatsuya Fujisaki](https://github.com/tatsuyafujisaki)** &mdash; [flutter_lints] Replace "flutter pub add --dev" with "dev:"
     <sub>[#5260](https://github.com/flutter/packages/pull/5260) merged on October 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5260) over 13 hours, 6 additions and 2 deletions in 3 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Craig Labenz](https://github.com/craiglabenz)</sub>
+    <sub>Reviewed by: [Craig Labenz](https://github.com/craiglabenz), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 </details>
 
