@@ -105,5 +105,5 @@
     <sub>[#137954](https://github.com/flutter/flutter/pull/137954) opened on on November 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137954) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland update bottom navigation bar test for m3<br />
-    <sub>[#137998](https://github.com/flutter/flutter/pull/137998) opened on on November 7, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/137998) 646 additions and 23 deletions in 2 files</sub><br />
+    <sub>[#137998](https://github.com/flutter/flutter/pull/137998) opened on on November 7, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/137998) 646 additions and 23 deletions in 2 files</sub><br />
 
