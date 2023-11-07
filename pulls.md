@@ -51,7 +51,7 @@
     <sub>[#136936](https://github.com/flutter/flutter/pull/136936) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136936) 76 additions and 9 deletions in 7 files</sub><br />
 
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Bump cupertino_icons to 1.0.6<br />
-    <sub>[#136962](https://github.com/flutter/flutter/pull/136962) opened on on October 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136962) 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#136962](https://github.com/flutter/flutter/pull/136962) opened on on October 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136962) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Regis Imuduhe Safari](https://github.com/RegisSaffi)** &mdash; Add support for Kinyarwanda (rw) Language locale<br />
     <sub>[#137061](https://github.com/flutter/flutter/pull/137061) opened on on October 23, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/137061) 1946 additions and 124 deletions in 8 files</sub><br />
