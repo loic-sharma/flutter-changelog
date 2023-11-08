@@ -107,3 +107,6 @@
 * **[neko-andrew](https://github.com/neko-andrew)** &mdash; Fix intrinsic width of input decorator<br />
     <sub>[#138074](https://github.com/flutter/flutter/pull/138074) opened on on November 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138074) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Fix `FlutterTestRunner.java` deprecations<br />
+    <sub>[#138093](https://github.com/flutter/flutter/pull/138093) opened on on November 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138093) 5 additions and 2 deletions in 1 file</sub><br />
+
