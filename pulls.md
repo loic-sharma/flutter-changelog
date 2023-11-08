@@ -104,6 +104,3 @@
 * **[Dall127](https://github.com/Dall127)** &mdash; Allow TextSelection to be returned from SelectableRegion<br />
     <sub>[#138041](https://github.com/flutter/flutter/pull/138041) opened on on November 7, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/138041) 2852 additions and 1380 deletions in 9 files</sub><br />
 
-* **[Matheus Kirchesch](https://github.com/matheus-kirchesch-btor)** &mdash; [ExpansionTile] expansion animation parameters<br />
-    <sub>[#138050](https://github.com/flutter/flutter/pull/138050) opened on on November 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138050) 50 additions and 2 deletions in 2 files</sub><br />
-
