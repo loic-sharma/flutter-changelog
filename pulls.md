@@ -105,5 +105,5 @@
     <sub>[#138041](https://github.com/flutter/flutter/pull/138041) opened on on November 7, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/138041) 2852 additions and 1380 deletions in 9 files</sub><br />
 
 * **[neko-andrew](https://github.com/neko-andrew)** &mdash; Fix intrinsic width of input decorator<br />
-    <sub>[#138074](https://github.com/flutter/flutter/pull/138074) opened on on November 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138074) 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#138074](https://github.com/flutter/flutter/pull/138074) opened on on November 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138074) 2 additions and 2 deletions in 1 file</sub><br />
 
