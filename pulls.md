@@ -105,5 +105,8 @@
     <sub>[#138041](https://github.com/flutter/flutter/pull/138041) opened on on November 7, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/138041) 2852 additions and 1380 deletions in 9 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix local engine preview device<br />
-    <sub>[#138046](https://github.com/flutter/flutter/pull/138046) opened on on November 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138046) 14 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#138046](https://github.com/flutter/flutter/pull/138046) opened on on November 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138046) 14 additions and 1 deletion in 2 files</sub><br />
+
+* **[Matheus Kirchesch](https://github.com/matheus-kirchesch-btor)** &mdash; [ExpansionTile] expansion animation parameters<br />
+    <sub>[#138050](https://github.com/flutter/flutter/pull/138050) opened on on November 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138050) 50 additions and 2 deletions in 2 files</sub><br />
 
