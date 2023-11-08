@@ -113,6 +113,3 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Give an actionable error message when a Pod requires a higher minimum OS version<br />
     <sub>[#138097](https://github.com/flutter/flutter/pull/138097) opened on on November 8, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/138097) 613 additions and 2 deletions in 2 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use specific version of mac_toolchain<br />
-    <sub>[#138115](https://github.com/flutter/flutter/pull/138115) opened on on November 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138115) 44 additions and 11 deletions in 1 file</sub><br />
-
