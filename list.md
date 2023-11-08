@@ -148,7 +148,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Move dependency on leak_tracker from dependencies to dev_dependencies in flutter_test.
     <sub>[#137633](https://github.com/flutter/flutter/pull/137633) merged on October 31, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/137633) over 3 hours, 246 additions and 493 deletions in 60 files</sub>
-    <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused generic type from BottomSheet
     <sub>[#137791](https://github.com/flutter/flutter/pull/137791) merged on November 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137791) over 1 day, 65 additions and 69 deletions in 19 files</sub>
@@ -501,11 +501,11 @@
 
 * **[cui fliter](https://github.com/cuishuang)** &mdash; fix some typos
     <sub>[#137144](https://github.com/flutter/flutter/pull/137144) merged on October 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137144) over 3 hours, 5 additions and 5 deletions in 5 files</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno Leroux](https://github.com/bleroux)</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Binni Goel](https://github.com/droidbg)** &mdash; Fix. typos
     <sub>[#137325](https://github.com/flutter/flutter/pull/137325) merged on October 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137325) over 17 hours, 6 additions and 6 deletions in 4 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Fix Typos
     <sub>[#137173](https://github.com/flutter/flutter/pull/137173) merged on October 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137173) over 4 hours, 2 additions and 2 deletions in 2 files</sub>
@@ -513,7 +513,7 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Fix Typos
     <sub>[#137292](https://github.com/flutter/flutter/pull/137292) merged on October 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137292) over 1 day, 5 additions and 5 deletions in 4 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Chris Bracken](https://github.com/cbracken)</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [ci_yaml] Remove back_fill=false on roller
     <sub>[#137076](https://github.com/flutter/flutter/pull/137076) merged on October 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137076) over 2 hours, 0 additions and 1 deletion in 1 file</sub>
@@ -600,7 +600,7 @@
 
 ### November 4, 2023 to November 10, 2023
 
-24 commits.
+25 commits.
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; [ios] making objective-C smart pointers support ARC
     <sub>[#47612](https://github.com/flutter/engine/pull/47612) merged on November 7, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/47612) over 5 days, 638 additions and 145 deletions in 18 files</sub>
@@ -637,6 +637,10 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add `KeyEventDeviceType` to `KeyData`
     <sub>[#47315](https://github.com/flutter/engine/pull/47315) merged on November 6, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/47315) over 1 week, 991 additions and 281 deletions in 17 files</sub>
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Add Rect::GetNormalizingTransform to handle UV coordinate conversion
+    <sub>[#47775](https://github.com/flutter/engine/pull/47775) merged on November 8, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/47775) over 3 hours, 225 additions and 26 deletions in 6 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Fix narrowing conversion lint
     <sub>[#47740](https://github.com/flutter/engine/pull/47740) merged on November 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/47740) over 19 hours, 6 additions and 6 deletions in 1 file</sub>
