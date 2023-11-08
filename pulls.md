@@ -110,3 +110,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Fix `FlutterTestRunner.java` deprecations<br />
     <sub>[#138093](https://github.com/flutter/flutter/pull/138093) opened on on November 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138093) 5 additions and 2 deletions in 1 file</sub><br />
 
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Give an actionable error message when a Pod requires a higher minimum OS version<br />
+    <sub>[#138097](https://github.com/flutter/flutter/pull/138097) opened on on November 8, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/138097) 613 additions and 2 deletions in 2 files</sub><br />
+
