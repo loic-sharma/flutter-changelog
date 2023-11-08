@@ -102,7 +102,7 @@
     <sub>[#138025](https://github.com/flutter/flutter/pull/138025) opened on on November 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138025) 150 additions and 30 deletions in 2 files</sub><br />
 
 * **[Nate Bosch](https://github.com/natebosch)** &mdash; Use merge-base in find_commit.dart<br />
-    <sub>[#138033](https://github.com/flutter/flutter/pull/138033) opened on on November 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138033) 18 additions and 36 deletions in 1 file</sub><br />
+    <sub>[#138033](https://github.com/flutter/flutter/pull/138033) opened on on November 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138033) 20 additions and 36 deletions in 1 file</sub><br />
 
 * **[Dall127](https://github.com/Dall127)** &mdash; Allow TextSelection to be returned from SelectableRegion<br />
     <sub>[#138041](https://github.com/flutter/flutter/pull/138041) opened on on November 7, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/138041) 2852 additions and 1380 deletions in 9 files</sub><br />
