@@ -107,3 +107,6 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Give an actionable error message when a Pod requires a higher minimum OS version<br />
     <sub>[#138097](https://github.com/flutter/flutter/pull/138097) opened on on November 8, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/138097) 613 additions and 2 deletions in 2 files</sub><br />
 
+* **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Enable `flutter screenshot` outside Flutter project directory<br />
+    <sub>[#138160](https://github.com/flutter/flutter/pull/138160) opened on on November 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138160) 77 additions and 0 deletions in 2 files</sub><br />
+
