@@ -47,9 +47,6 @@
 * **[Toktar](https://github.com/Toktarla)** &mdash; adding html file<br />
     <sub>[#136477](https://github.com/flutter/flutter/pull/136477) opened on on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136477) 112 additions and 0 deletions in 1 file</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix SelectableText keyboard shortcuts on macOS<br />
-    <sub>[#136559](https://github.com/flutter/flutter/pull/136559) opened on on October 13, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/136559) 855 additions and 32 deletions in 4 files</sub><br />
-
 * **[Kayla Brady](https://github.com/KaylaBrady)** &mdash; Nav bar acccessibility: Mark nav items as buttons<br />
     <sub>[#136764](https://github.com/flutter/flutter/pull/136764) opened on on October 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136764) 17 additions and 1 deletion in 6 files</sub><br />
 
@@ -93,7 +90,7 @@
     <sub>[#137939](https://github.com/flutter/flutter/pull/137939) opened on on November 6, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/137939) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Support Android 34 (take 2)<br />
-    <sub>[#137967](https://github.com/flutter/flutter/pull/137967) opened on on November 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137967) 86 additions and 78 deletions in 61 files</sub><br />
+    <sub>[#137967](https://github.com/flutter/flutter/pull/137967) opened on on November 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/137967) 86 additions and 78 deletions in 61 files</sub><br />
 
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Test roll<br />
     <sub>[#138017](https://github.com/flutter/flutter/pull/138017) opened on on November 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138017) 1 addition and 1 deletion in 1 file</sub><br />
