@@ -113,3 +113,6 @@
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Enable `flutter screenshot` outside Flutter project directory<br />
     <sub>[#138160](https://github.com/flutter/flutter/pull/138160) opened on on November 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138160) 77 additions and 0 deletions in 2 files</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [CP] prevent tool crash when `IntelliJValidatorOnMac` encounters an installation with a missing `CFBundleIdentifier`<br />
+    <sub>[#138176](https://github.com/flutter/flutter/pull/138176) opened on on November 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138176) 68 additions and 3 deletions in 3 files</sub><br />
+
