@@ -47,6 +47,9 @@
 * **[Toktar](https://github.com/Toktarla)** &mdash; adding html file<br />
     <sub>[#136477](https://github.com/flutter/flutter/pull/136477) opened on on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136477) 112 additions and 0 deletions in 1 file</sub><br />
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix SelectableText keyboard shortcuts on macOS<br />
+    <sub>[#136559](https://github.com/flutter/flutter/pull/136559) opened on on October 13, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/136559) 855 additions and 32 deletions in 4 files</sub><br />
+
 * **[Kayla Brady](https://github.com/KaylaBrady)** &mdash; Nav bar acccessibility: Mark nav items as buttons<br />
     <sub>[#136764](https://github.com/flutter/flutter/pull/136764) opened on on October 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136764) 17 additions and 1 deletion in 6 files</sub><br />
 
@@ -112,7 +115,4 @@
 
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Enable `flutter screenshot` outside Flutter project directory<br />
     <sub>[#138160](https://github.com/flutter/flutter/pull/138160) opened on on November 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138160) 77 additions and 0 deletions in 2 files</sub><br />
-
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [CP] prevent tool crash when `IntelliJValidatorOnMac` encounters an installation with a missing `CFBundleIdentifier`<br />
-    <sub>[#138176](https://github.com/flutter/flutter/pull/138176) opened on on November 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138176) 68 additions and 3 deletions in 3 files</sub><br />
 
