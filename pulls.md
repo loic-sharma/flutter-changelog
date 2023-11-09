@@ -108,5 +108,5 @@
     <sub>[#138097](https://github.com/flutter/flutter/pull/138097) opened on on November 8, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/138097) 613 additions and 2 deletions in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Improved Java version parsing<br />
-    <sub>[#138155](https://github.com/flutter/flutter/pull/138155) opened on on November 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138155) 31 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#138155](https://github.com/flutter/flutter/pull/138155) opened on on November 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138155) 31 additions and 0 deletions in 2 files</sub><br />
 
