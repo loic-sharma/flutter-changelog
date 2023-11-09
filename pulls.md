@@ -96,7 +96,7 @@
     <sub>[#137939](https://github.com/flutter/flutter/pull/137939) opened on on November 6, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/137939) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Support Android 34 (take 2)<br />
-    <sub>[#137967](https://github.com/flutter/flutter/pull/137967) opened on on November 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137967) 86 additions and 78 deletions in 61 files</sub><br />
+    <sub>[#137967](https://github.com/flutter/flutter/pull/137967) opened on on November 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137967) 86 additions and 78 deletions in 61 files</sub><br />
 
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Test roll<br />
     <sub>[#138017](https://github.com/flutter/flutter/pull/138017) opened on on November 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138017) 1 addition and 1 deletion in 1 file</sub><br />
@@ -105,7 +105,7 @@
     <sub>[#138025](https://github.com/flutter/flutter/pull/138025) opened on on November 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138025) 150 additions and 30 deletions in 2 files</sub><br />
 
 * **[Dall127](https://github.com/Dall127)** &mdash; Allow TextSelection to be returned from SelectableRegion<br />
-    <sub>[#138041](https://github.com/flutter/flutter/pull/138041) opened on on November 7, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/138041) 2852 additions and 1380 deletions in 9 files</sub><br />
+    <sub>[#138041](https://github.com/flutter/flutter/pull/138041) opened on on November 7, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/138041) 3054 additions and 1388 deletions in 10 files</sub><br />
 
 * **[neko-andrew](https://github.com/neko-andrew)** &mdash; Fix intrinsic width of input decorator<br />
     <sub>[#138074](https://github.com/flutter/flutter/pull/138074) opened on on November 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138074) 2 additions and 2 deletions in 1 file</sub><br />
@@ -117,5 +117,5 @@
     <sub>[#138160](https://github.com/flutter/flutter/pull/138160) opened on on November 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138160) 77 additions and 0 deletions in 2 files</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] update Android SDK to 34<br />
-    <sub>[#138183](https://github.com/flutter/flutter/pull/138183) opened on on November 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138183) 101 additions and 101 deletions in 1 file</sub><br />
+    <sub>[#138183](https://github.com/flutter/flutter/pull/138183) opened on on November 9, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/138183) 167 additions and 167 deletions in 1 file</sub><br />
 
