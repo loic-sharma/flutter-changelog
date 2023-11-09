@@ -83,9 +83,6 @@
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; added SegmentedButton.stylefrom to SegmentedButton<br />
     <sub>[#137542](https://github.com/flutter/flutter/pull/137542) opened on on October 30, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/137542) 523 additions and 0 deletions in 2 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add parameter for leak tracking to testWidgets.<br />
-    <sub>[#137655](https://github.com/flutter/flutter/pull/137655) opened on on November 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137655) 9 additions and 0 deletions in 1 file</sub><br />
-
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Constrain dimensions passed down in intrinsic protocol within RenderConstrainedBox<br />
     <sub>[#137874](https://github.com/flutter/flutter/pull/137874) opened on on November 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137874) 123 additions and 4 deletions in 3 files</sub><br />
 
@@ -111,7 +108,7 @@
     <sub>[#138041](https://github.com/flutter/flutter/pull/138041) opened on on November 7, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/138041) 2852 additions and 1380 deletions in 9 files</sub><br />
 
 * **[neko-andrew](https://github.com/neko-andrew)** &mdash; Fix intrinsic width of input decorator<br />
-    <sub>[#138074](https://github.com/flutter/flutter/pull/138074) opened on on November 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138074) 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#138074](https://github.com/flutter/flutter/pull/138074) opened on on November 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138074) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Give an actionable error message when a Pod requires a higher minimum OS version<br />
     <sub>[#138097](https://github.com/flutter/flutter/pull/138097) opened on on November 8, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/138097) 613 additions and 2 deletions in 2 files</sub><br />
