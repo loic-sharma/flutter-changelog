@@ -78,7 +78,7 @@
     <sub>[#137312](https://github.com/flutter/flutter/pull/137312) opened on on October 26, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/137312) 80 additions and 12 deletions in 4 files</sub><br />
 
 * **[Rohith Gilla](https://github.com/Rohithgilla12)** &mdash; chore: Add default variant to the iOS `archs`<br />
-    <sub>[#137332](https://github.com/flutter/flutter/pull/137332) opened on on October 26, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/137332) 5 additions and 4 deletions in 2 files</sub><br />
+    <sub>[#137332](https://github.com/flutter/flutter/pull/137332) opened on on October 26, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/137332) 9 additions and 4 deletions in 2 files</sub><br />
 
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; added SegmentedButton.stylefrom to SegmentedButton<br />
     <sub>[#137542](https://github.com/flutter/flutter/pull/137542) opened on on October 30, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/137542) 523 additions and 0 deletions in 2 files</sub><br />
