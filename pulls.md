@@ -95,9 +95,6 @@
 * **[Maximilian Fischer](https://github.com/fischerscode)** &mdash; Move expansion state of `ExpansionTile` to `ExpansionTileController`<br />
     <sub>[#138025](https://github.com/flutter/flutter/pull/138025) opened on on November 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138025) 150 additions and 30 deletions in 2 files</sub><br />
 
-* **[neko-andrew](https://github.com/neko-andrew)** &mdash; Fix intrinsic width of input decorator<br />
-    <sub>[#138074](https://github.com/flutter/flutter/pull/138074) opened on on November 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138074) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Give an actionable error message when a Pod requires a higher minimum OS version<br />
     <sub>[#138097](https://github.com/flutter/flutter/pull/138097) opened on on November 8, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/138097) 613 additions and 2 deletions in 2 files</sub><br />
 
