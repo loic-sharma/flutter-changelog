@@ -107,3 +107,6 @@
 * **[Ellet](https://github.com/freshtechtips)** &mdash; Update scrollbar.dart to use CupertinoScrollbar on Apple platforms<br />
     <sub>[#138189](https://github.com/flutter/flutter/pull/138189) opened on on November 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138189) 78 additions and 49 deletions in 1 file</sub><br />
 
+* **[Luccas Clezar](https://github.com/luccasclezar)** &mdash; Fix CupertinoTextSelectionToolbar clipping<br />
+    <sub>[#138195](https://github.com/flutter/flutter/pull/138195) opened on on November 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138195) 2 additions and 6 deletions in 1 file</sub><br />
+
