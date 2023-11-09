@@ -89,9 +89,6 @@
 * **[Ricky Souza de Oliveira](https://github.com/HeroRickyGAMES)** &mdash; Removing the bug of 'package:flutter/src/rendering/mouse_tracker.dart ': Failed assertion: line 205 pos 12: '!_debugDuringDeviceUpdate': is not true. in desktop platforms<br />
     <sub>[#137939](https://github.com/flutter/flutter/pull/137939) opened on on November 6, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/137939) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Support Android 34 (take 2)<br />
-    <sub>[#137967](https://github.com/flutter/flutter/pull/137967) opened on on November 6, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/137967) 86 additions and 78 deletions in 61 files</sub><br />
-
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Test roll<br />
     <sub>[#138017](https://github.com/flutter/flutter/pull/138017) opened on on November 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138017) 1 addition and 1 deletion in 1 file</sub><br />
 
