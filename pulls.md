@@ -116,3 +116,6 @@
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Enable `flutter screenshot` outside Flutter project directory<br />
     <sub>[#138160](https://github.com/flutter/flutter/pull/138160) opened on on November 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138160) 77 additions and 0 deletions in 2 files</sub><br />
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] update Android SDK to 34<br />
+    <sub>[#138183](https://github.com/flutter/flutter/pull/138183) opened on on November 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138183) 101 additions and 101 deletions in 1 file</sub><br />
+
