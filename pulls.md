@@ -6,7 +6,7 @@
     <sub>[#116030](https://github.com/flutter/flutter/pull/116030) opened on on November 25, 2022 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/116030) 31 additions and 0 deletions in 3 files</sub><br />
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [flutter_tools] build ios-frameworks: option to exclude plugin frameworks from the build<br />
-    <sub>[#129739](https://github.com/flutter/flutter/pull/129739) opened on on June 28, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/129739) 61 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#129739](https://github.com/flutter/flutter/pull/129739) opened on on June 28, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/129739) 61 additions and 2 deletions in 2 files</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Reland: Replace TextField.canRequestFocus with TextField.focusNode.canRequestFocus<br />
     <sub>[#132273](https://github.com/flutter/flutter/pull/132273) opened on on August 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/132273) 46 additions and 12 deletions in 4 files</sub><br />
@@ -65,9 +65,6 @@
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; Added vscode-insiders path installed via snap<br />
     <sub>[#137117](https://github.com/flutter/flutter/pull/137117) opened on on October 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137117) 7 additions and 1 deletion in 2 files</sub><br />
 
-* **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; Added support for vscode and vscode-insiders installed via Flatpak<br />
-    <sub>[#137123](https://github.com/flutter/flutter/pull/137123) opened on on October 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137123) 42 additions and 5 deletions in 2 files</sub><br />
-
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] fix service worker caching for custom base href<br />
     <sub>[#137202](https://github.com/flutter/flutter/pull/137202) opened on on October 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137202) 157 additions and 22 deletions in 3 files</sub><br />
 
@@ -104,9 +101,6 @@
 * **[Maximilian Fischer](https://github.com/fischerscode)** &mdash; Move expansion state of `ExpansionTile` to `ExpansionTileController`<br />
     <sub>[#138025](https://github.com/flutter/flutter/pull/138025) opened on on November 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138025) 150 additions and 30 deletions in 2 files</sub><br />
 
-* **[Dall127](https://github.com/Dall127)** &mdash; Allow TextSelection to be returned from SelectableRegion<br />
-    <sub>[#138041](https://github.com/flutter/flutter/pull/138041) opened on on November 7, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/138041) 3054 additions and 1388 deletions in 10 files</sub><br />
-
 * **[neko-andrew](https://github.com/neko-andrew)** &mdash; Fix intrinsic width of input decorator<br />
     <sub>[#138074](https://github.com/flutter/flutter/pull/138074) opened on on November 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138074) 2 additions and 2 deletions in 1 file</sub><br />
 
@@ -118,4 +112,7 @@
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] update Android SDK to 34<br />
     <sub>[#138183](https://github.com/flutter/flutter/pull/138183) opened on on November 9, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/138183) 167 additions and 167 deletions in 1 file</sub><br />
+
+* **[Jasper van Riet](https://github.com/JaspervanRiet)** &mdash; Write tests for API examples of BottomNavigationBar and IconButton<br />
+    <sub>[#138188](https://github.com/flutter/flutter/pull/138188) opened on on November 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138188) 136 additions and 4 deletions in 5 files</sub><br />
 
