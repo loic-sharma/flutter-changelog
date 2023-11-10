@@ -110,3 +110,6 @@
 * **[Peter Abraham](https://github.com/peterabrahamdev)** &mdash; Fixing typo<br />
     <sub>[#138253](https://github.com/flutter/flutter/pull/138253) opened on on November 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138253) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Only run tests on macOS 12<br />
+    <sub>[#138260](https://github.com/flutter/flutter/pull/138260) opened on on November 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138260) 10 additions and 10 deletions in 1 file</sub><br />
+
