@@ -78,7 +78,7 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds `useRootNavigator` property to `PopupMenuButton` widget.
     <sub>[#137453](https://github.com/flutter/flutter/pull/137453) merged on November 10, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137453) over 1 week, 95 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Cover text_selection tests with leak tracking.
     <sub>[#137009](https://github.com/flutter/flutter/pull/137009) merged on November 6, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/137009) over 2 weeks, 141 additions and 58 deletions in 3 files</sub>
@@ -121,7 +121,7 @@
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; GestureRecognizer should dispatch creation and disposal events.
-    <sub>[#138223](https://github.com/flutter/flutter/pull/138223) merged on November 10, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/138223) over 7 hours, 245 additions and 56 deletions in 17 files</sub>
+    <sub>[#138223](https://github.com/flutter/flutter/pull/138223) merged on November 10, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/138223) over 7 hours, 245 additions and 56 deletions in 17 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Fix #128925 by properly setting the Android Event Source
@@ -413,7 +413,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Support Android 34
     <sub>[#137191](https://github.com/flutter/flutter/pull/137191) merged on November 2, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137191) over 1 week, 78 additions and 78 deletions in 60 files</sub>
-    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Binni Goel](https://github.com/droidbg)** &mdash; Instrument ImageStreamCompleterHandle for LeakTracking
     <sub>[#137482](https://github.com/flutter/flutter/pull/137482) merged on November 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137482) over 4 days, 33 additions and 0 deletions in 2 files</sub>
@@ -542,7 +542,7 @@
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix dislocated doc and comment on ThemeData localize cache
     <sub>[#137315](https://github.com/flutter/flutter/pull/137315) merged on October 26, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/137315) over 16 hours, 7 additions and 7 deletions in 1 file</sub>
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Refactor macOS build/codesize analysis
     <sub>[#137164](https://github.com/flutter/flutter/pull/137164) merged on October 24, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/137164) over 2 hours, 51 additions and 40 deletions in 1 file</sub>
@@ -622,7 +622,7 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Fix Typos
     <sub>[#137292](https://github.com/flutter/flutter/pull/137292) merged on October 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137292) over 1 day, 5 additions and 5 deletions in 4 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [ci_yaml] Remove back_fill=false on roller
     <sub>[#137076](https://github.com/flutter/flutter/pull/137076) merged on October 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137076) over 2 hours, 0 additions and 1 deletion in 1 file</sub>
@@ -901,7 +901,7 @@
 
 * **[Alexander Thomas](https://github.com/athomas)** &mdash; Remove references to the runtime/third_party directory in the Dart SDK
     <sub>[#47853](https://github.com/flutter/engine/pull/47853) merged on November 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/47853) over 13 hours, 1 addition and 9 deletions in 3 files</sub>
-    <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Alexander Aprelev](https://github.com/aam)</sub>
 
 * **[utzcoz](https://github.com/utzcoz)** &mdash; Bump minSdk to 19 for Android tests
     <sub>[#47686](https://github.com/flutter/engine/pull/47686) merged on November 10, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/47686) over 6 days, 88 additions and 212 deletions in 18 files</sub>
@@ -945,7 +945,7 @@
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Reland "[Impeller] add support for Skia concept of RRect::isSimple needed for DL dispatching"
     <sub>[#47824](https://github.com/flutter/engine/pull/47824) merged on November 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/47824) over 44 minutes, 143 additions and 62 deletions in 11 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Reland "Remove Fuchsia Mac SDK from DEPS"
     <sub>[#47823](https://github.com/flutter/engine/pull/47823) merged on November 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/47823) over 18 hours, 0 additions and 10 deletions in 1 file</sub>
