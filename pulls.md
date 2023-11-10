@@ -107,6 +107,3 @@
 * **[Luccas Clezar](https://github.com/luccasclezar)** &mdash; Fix CupertinoTextSelectionToolbar clipping<br />
     <sub>[#138195](https://github.com/flutter/flutter/pull/138195) opened on on November 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138195) 2 additions and 6 deletions in 1 file</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; GestureRecognizer should dispatch creation and disposal events.<br />
-    <sub>[#138223](https://github.com/flutter/flutter/pull/138223) opened on on November 10, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/138223) 245 additions and 56 deletions in 17 files</sub><br />
-
