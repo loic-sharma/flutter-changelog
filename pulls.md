@@ -98,9 +98,6 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Give an actionable error message when a Pod requires a higher minimum OS version<br />
     <sub>[#138097](https://github.com/flutter/flutter/pull/138097) opened on on November 8, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/138097) 613 additions and 2 deletions in 2 files</sub><br />
 
-* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Update analytics constructor to include `FLUTTER_HOST`<br />
-    <sub>[#138107](https://github.com/flutter/flutter/pull/138107) opened on on November 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138107) 27 additions and 1 deletion in 4 files</sub><br />
-
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] update Android SDK to 34<br />
     <sub>[#138183](https://github.com/flutter/flutter/pull/138183) opened on on November 9, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/138183) 167 additions and 167 deletions in 1 file</sub><br />
 
