@@ -75,7 +75,7 @@
     <sub>[#137332](https://github.com/flutter/flutter/pull/137332) opened on on October 26, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/137332) 9 additions and 4 deletions in 2 files</sub><br />
 
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; added SegmentedButton.stylefrom to SegmentedButton<br />
-    <sub>[#137542](https://github.com/flutter/flutter/pull/137542) opened on on October 30, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/137542) 508 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#137542](https://github.com/flutter/flutter/pull/137542) opened on on October 30, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/137542) 508 additions and 0 deletions in 2 files</sub><br />
 
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Constrain dimensions passed down in intrinsic protocol within RenderConstrainedBox<br />
     <sub>[#137874](https://github.com/flutter/flutter/pull/137874) opened on on November 3, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137874) 123 additions and 4 deletions in 3 files</sub><br />
