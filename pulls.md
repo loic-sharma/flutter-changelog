@@ -110,3 +110,6 @@
 * **[Luccas Clezar](https://github.com/luccasclezar)** &mdash; Fix CupertinoTextSelectionToolbar clipping<br />
     <sub>[#138195](https://github.com/flutter/flutter/pull/138195) opened on on November 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138195) 2 additions and 6 deletions in 1 file</sub><br />
 
+* **[Peter Abraham](https://github.com/peterabrahamdev)** &mdash; Fix: removed empty commented lines<br />
+    <sub>[#138220](https://github.com/flutter/flutter/pull/138220) opened on on November 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138220) 2 additions and 2 deletions in 1 file</sub><br />
+
