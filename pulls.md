@@ -116,6 +116,3 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; GestureRecognizer should dispatch creation and disposal events.<br />
     <sub>[#138223](https://github.com/flutter/flutter/pull/138223) opened on on November 10, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/138223) 245 additions and 56 deletions in 17 files</sub><br />
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Prepare the analyze_once test for removal of analysis_options_user support<br />
-    <sub>[#138229](https://github.com/flutter/flutter/pull/138229) opened on on November 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138229) 4 additions and 10 deletions in 1 file</sub><br />
-
