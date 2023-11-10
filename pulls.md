@@ -74,9 +74,6 @@
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; added SegmentedButton.stylefrom to SegmentedButton<br />
     <sub>[#137542](https://github.com/flutter/flutter/pull/137542) opened on on October 30, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/137542) 508 additions and 0 deletions in 2 files</sub><br />
 
-* **[Ross Llewallyn](https://github.com/EnduringBeta)** &mdash; Docs typo: comprised -> composed<br />
-    <sub>[#137896](https://github.com/flutter/flutter/pull/137896) opened on on November 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137896) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Ricky Souza de Oliveira](https://github.com/HeroRickyGAMES)** &mdash; Removing the bug of 'package:flutter/src/rendering/mouse_tracker.dart ': Failed assertion: line 205 pos 12: '!_debugDuringDeviceUpdate': is not true. in desktop platforms<br />
     <sub>[#137939](https://github.com/flutter/flutter/pull/137939) opened on on November 6, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/137939) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -100,7 +97,4 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Only run tests on macOS 12<br />
     <sub>[#138260](https://github.com/flutter/flutter/pull/138260) opened on on November 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138260) 6 additions and 6 deletions in 1 file</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Finally remove analysis_options_user.yaml<br />
-    <sub>[#138261](https://github.com/flutter/flutter/pull/138261) opened on on November 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138261) 1 addition and 209 deletions in 2 files</sub><br />
 
