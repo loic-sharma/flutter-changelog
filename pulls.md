@@ -35,9 +35,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try flutter/engine#46130<br />
     <sub>[#135254](https://github.com/flutter/flutter/pull/135254) opened on on September 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135254) 3 additions and 2 deletions in 3 files</sub><br />
 
-* **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Provide parameter to Icon and IconThemeData for they to consider the context's text scaler<br />
-    <sub>[#135708](https://github.com/flutter/flutter/pull/135708) opened on on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135708) 165 additions and 3 deletions in 4 files</sub><br />
-
 * **[rekire](https://github.com/rekire)** &mdash; Update German translations<br />
     <sub>[#136091](https://github.com/flutter/flutter/pull/136091) opened on on October 6, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/136091) 102 additions and 227 deletions in 5 files</sub><br />
 
@@ -109,9 +106,6 @@
 
 * **[Luccas Clezar](https://github.com/luccasclezar)** &mdash; Fix CupertinoTextSelectionToolbar clipping<br />
     <sub>[#138195](https://github.com/flutter/flutter/pull/138195) opened on on November 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138195) 2 additions and 6 deletions in 1 file</sub><br />
-
-* **[Peter Abraham](https://github.com/peterabrahamdev)** &mdash; Fix: removed empty commented lines<br />
-    <sub>[#138220](https://github.com/flutter/flutter/pull/138220) opened on on November 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138220) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; GestureRecognizer should dispatch creation and disposal events.<br />
     <sub>[#138223](https://github.com/flutter/flutter/pull/138223) opened on on November 10, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/138223) 245 additions and 56 deletions in 17 files</sub><br />
