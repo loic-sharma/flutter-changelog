@@ -1615,7 +1615,7 @@
 
 * **[Tatsuya Fujisaki](https://github.com/tatsuyafujisaki)** &mdash; [flutter_lints] Replace "flutter pub add --dev" with "dev:"<br />
     <sub>[#5260](https://github.com/flutter/packages/pull/5260) merged on October 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5260) over 13 hours, 6 additions and 2 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Craig Labenz](https://github.com/craiglabenz)</sub><br />
+    <sub>Reviewed by: [Craig Labenz](https://github.com/craiglabenz), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 </details>
 
