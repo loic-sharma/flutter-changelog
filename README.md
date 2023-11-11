@@ -968,7 +968,7 @@
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Bump minSdk to 19 for Android tests"<br />
-    <sub>[#47935](https://github.com/flutter/engine/pull/47935) merged on November 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/47935) over 29 seconds, 212 additions and 88 deletions in 18 files</sub><br />
+    <sub>[#47935](https://github.com/flutter/engine/pull/47935) merged on November 10, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/47935) over 29 seconds, 212 additions and 88 deletions in 18 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use specific version of mac_toolchain<br />
