@@ -69,7 +69,7 @@
     <sub>[#137332](https://github.com/flutter/flutter/pull/137332) opened on on October 26, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/137332) 9 additions and 4 deletions in 2 files</sub><br />
 
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; added SegmentedButton.stylefrom to SegmentedButton<br />
-    <sub>[#137542](https://github.com/flutter/flutter/pull/137542) opened on on October 30, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/137542) 508 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#137542](https://github.com/flutter/flutter/pull/137542) opened on on October 30, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/137542) 501 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ricky Souza de Oliveira](https://github.com/HeroRickyGAMES)** &mdash; Removing the bug of 'package:flutter/src/rendering/mouse_tracker.dart ': Failed assertion: line 205 pos 12: '!_debugDuringDeviceUpdate': is not true. in desktop platforms<br />
     <sub>[#137939](https://github.com/flutter/flutter/pull/137939) opened on on November 6, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/137939) 1 addition and 1 deletion in 1 file</sub><br />
