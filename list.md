@@ -630,7 +630,7 @@
 
 * **[cui fliter](https://github.com/cuishuang)** &mdash; fix some typos
     <sub>[#137144](https://github.com/flutter/flutter/pull/137144) merged on October 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137144) over 3 hours, 5 additions and 5 deletions in 5 files</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno Leroux](https://github.com/bleroux)</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Binni Goel](https://github.com/droidbg)** &mdash; Fix. typos
     <sub>[#137325](https://github.com/flutter/flutter/pull/137325) merged on October 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137325) over 17 hours, 6 additions and 6 deletions in 4 files</sub>
