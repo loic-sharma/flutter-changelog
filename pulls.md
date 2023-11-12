@@ -96,7 +96,7 @@
     <sub>[#138283](https://github.com/flutter/flutter/pull/138283) opened on on November 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138283) 93 additions and 134 deletions in 47 files</sub><br />
 
 * **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Add mhbdev to AUTHORS<br />
-    <sub>[#138311](https://github.com/flutter/flutter/pull/138311) opened on on November 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138311) 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>[#138311](https://github.com/flutter/flutter/pull/138311) opened on on November 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138311) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField context menu should fade on scroll on mobile devices<br />
     <sub>[#138313](https://github.com/flutter/flutter/pull/138313) opened on on November 12, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/138313) 336 additions and 75 deletions in 3 files</sub><br />
