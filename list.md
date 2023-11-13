@@ -82,7 +82,7 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds `useRootNavigator` property to `PopupMenuButton` widget.
     <sub>[#137453](https://github.com/flutter/flutter/pull/137453) merged on November 10, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137453) over 1 week, 95 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix tool exit message shown when user provides a non-list to "assets" for a deferred component
     <sub>[#137837](https://github.com/flutter/flutter/pull/137837) merged on November 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137837) over 2 days, 2 additions and 2 deletions in 2 files</sub>
@@ -277,7 +277,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Move dependency on leak_tracker from dependencies to dev_dependencies in flutter_test.
     <sub>[#137633](https://github.com/flutter/flutter/pull/137633) merged on October 31, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/137633) over 3 hours, 246 additions and 493 deletions in 60 files</sub>
-    <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused generic type from BottomSheet
     <sub>[#137791](https://github.com/flutter/flutter/pull/137791) merged on November 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137791) over 1 day, 65 additions and 69 deletions in 19 files</sub>
@@ -1128,7 +1128,7 @@
 
 * **[Tatsuya Fujisaki](https://github.com/tatsuyafujisaki)** &mdash; [flutter_lints] Replace "flutter pub add --dev" with "dev:"
     <sub>[#5260](https://github.com/flutter/packages/pull/5260) merged on October 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5260) over 13 hours, 6 additions and 2 deletions in 3 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Craig Labenz](https://github.com/craiglabenz)</sub>
+    <sub>Reviewed by: [Craig Labenz](https://github.com/craiglabenz), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 </details>
 
