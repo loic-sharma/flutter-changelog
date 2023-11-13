@@ -92,9 +92,6 @@
 * **[Peter Abraham](https://github.com/peterabrahamdev)** &mdash; Fixing typo<br />
     <sub>[#138253](https://github.com/flutter/flutter/pull/138253) opened on on November 10, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138253) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak tracker.<br />
-    <sub>[#138283](https://github.com/flutter/flutter/pull/138283) opened on on November 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138283) 93 additions and 134 deletions in 47 files</sub><br />
-
 * **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Add mhbdev to AUTHORS<br />
     <sub>[#138311](https://github.com/flutter/flutter/pull/138311) opened on on November 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138311) 1 addition and 0 deletions in 1 file</sub><br />
 
