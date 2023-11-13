@@ -92,9 +92,6 @@
 * **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Add mhbdev to AUTHORS<br />
     <sub>[#138311](https://github.com/flutter/flutter/pull/138311) opened on on November 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138311) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField context menu should fade on scroll on mobile devices<br />
-    <sub>[#138313](https://github.com/flutter/flutter/pull/138313) opened on on November 12, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/138313) 342 additions and 82 deletions in 4 files</sub><br />
-
 * **[Igor Hnízdo](https://github.com/Michal-MK)** &mdash; `NestedScrollView`'s outer scrollable jumping with `BouncingScrollPhysics` due to `double` precision errors<br />
     <sub>[#138319](https://github.com/flutter/flutter/pull/138319) opened on on November 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138319) 50 additions and 2 deletions in 2 files</sub><br />
 
