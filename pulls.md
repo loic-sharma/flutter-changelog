@@ -95,3 +95,6 @@
 * **[Jasper van Riet](https://github.com/JaspervanRiet)** &mdash; Introduce `exitDuration` to Tooltip for mouse pointer devices<br />
     <sub>[#138321](https://github.com/flutter/flutter/pull/138321) opened on on November 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138321) 213 additions and 9 deletions in 4 files</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Run all tests in examples/<br />
+    <sub>[#138374](https://github.com/flutter/flutter/pull/138374) opened on on November 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138374) 6 additions and 3 deletions in 1 file</sub><br />
+
