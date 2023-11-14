@@ -4,7 +4,7 @@
 
 ### November 11, 2023 to November 17, 2023
 
-5 commits.
+6 commits.
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Update DraggableScrollableSheet docs to reflect API change<br />
     <sub>[#136471](https://github.com/flutter/flutter/pull/136471) merged on November 13, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/136471) over 1 month, 217 additions and 30 deletions in 3 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak tracker.<br />
     <sub>[#138283](https://github.com/flutter/flutter/pull/138283) merged on November 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138283) over 2 days, 95 additions and 136 deletions in 48 files</sub><br />
     <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Peter Abraham](https://github.com/peterabrahamdev)** &mdash; Fixing typo<br />
+    <sub>[#138253](https://github.com/flutter/flutter/pull/138253) merged on November 14, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138253) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Clean up synonyms, key code generation.<br />
     <sub>[#138192](https://github.com/flutter/flutter/pull/138192) merged on November 13, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/138192) over 3 days, 106 additions and 71 deletions in 7 files</sub><br />
@@ -280,7 +284,7 @@
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] cache the base URL as root index.html<br />
     <sub>[#136594](https://github.com/flutter/flutter/pull/136594) merged on October 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/136594) over 2 weeks, 12 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Alex Isaienko](https://github.com/s0nerik)** &mdash; InheritedElement.removeDependent()<br />
     <sub>[#129210](https://github.com/flutter/flutter/pull/129210) merged on November 3, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/129210) over 4 months, 86 additions and 2 deletions in 2 files</sub><br />
@@ -304,7 +308,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Move dependency on leak_tracker from dependencies to dev_dependencies in flutter_test.<br />
     <sub>[#137633](https://github.com/flutter/flutter/pull/137633) merged on October 31, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/137633) over 3 hours, 246 additions and 493 deletions in 60 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+    <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused generic type from BottomSheet<br />
     <sub>[#137791](https://github.com/flutter/flutter/pull/137791) merged on November 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137791) over 1 day, 65 additions and 69 deletions in 19 files</sub><br />
@@ -460,7 +464,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Support Android 34<br />
     <sub>[#137191](https://github.com/flutter/flutter/pull/137191) merged on November 2, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137191) over 1 week, 78 additions and 78 deletions in 60 files</sub><br />
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Binni Goel](https://github.com/droidbg)** &mdash; Instrument ImageStreamCompleterHandle for LeakTracking<br />
     <sub>[#137482](https://github.com/flutter/flutter/pull/137482) merged on November 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137482) over 4 days, 33 additions and 0 deletions in 2 files</sub><br />
@@ -507,7 +511,7 @@
 
 ### November 11, 2023 to November 17, 2023
 
-9 commits.
+11 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup touch and mouse event adapters<br />
     <sub>[#43697](https://github.com/flutter/engine/pull/43697) merged on November 13, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/43697) over 4 months, 157 additions and 1170 deletions in 4 files</sub><br />
@@ -516,6 +520,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] request frame rate once per frame.<br />
     <sub>[#47954](https://github.com/flutter/engine/pull/47954) merged on November 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/47954) over 2 days, 24 additions and 11 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `display_list/...` compatible with `.clang_tidy`.<br />
+    <sub>[#47993](https://github.com/flutter/engine/pull/47993) merged on November 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/47993) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `fml/...` compatible with `.clang_tidy`.<br />
     <sub>[#47992](https://github.com/flutter/engine/pull/47992) merged on November 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/47992) over 41 minutes, 11 additions and 12 deletions in 7 files</sub><br />
@@ -540,6 +548,10 @@
 * **[Hassan Toor](https://github.com/htoor3)** &mdash; [web] - fix Safari textfield selection bug<br />
     <sub>[#47917](https://github.com/flutter/engine/pull/47917) merged on November 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/47917) over 3 days, 48 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 370145bbbd4f to 6219f11bf0fb (7 revisions)<br />
+    <sub>[#47998](https://github.com/flutter/engine/pull/47998) merged on November 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/47998) over 1 hour, 11 additions and 11 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Revert "[deps] Stop moving NDK folder inside Android SDK (#47454)"<br />
     <sub>[#47905](https://github.com/flutter/engine/pull/47905) merged on November 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/47905) over 3 days, 11 additions and 0 deletions in 1 file</sub><br />
