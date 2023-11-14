@@ -96,5 +96,8 @@
     <sub>[#138376](https://github.com/flutter/flutter/pull/138376) opened on on November 13, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/138376) 295 additions and 32 deletions in 3 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Pin package:web 0.4.0<br />
-    <sub>[#138428](https://github.com/flutter/flutter/pull/138428) opened on on November 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138428) 118 additions and 118 deletions in 59 files</sub><br />
+    <sub>[#138428](https://github.com/flutter/flutter/pull/138428) opened on on November 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138428) 124 additions and 124 deletions in 63 files</sub><br />
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#138432](https://github.com/flutter/flutter/pull/138432) opened on on November 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138432) 118 additions and 118 deletions in 59 files</sub><br />
 
