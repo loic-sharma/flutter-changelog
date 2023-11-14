@@ -511,11 +511,15 @@
 
 ### November 11, 2023 to November 17, 2023
 
-11 commits.
+12 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup touch and mouse event adapters
     <sub>[#43697](https://github.com/flutter/engine/pull/43697) merged on November 13, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/43697) over 4 months, 157 additions and 1170 deletions in 4 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move Skia to //flutter/third_party/skia
+    <sub>[#47913](https://github.com/flutter/engine/pull/47913) merged on November 14, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/47913) over 3 days, 7370 additions and 7340 deletions in 20 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] request frame rate once per frame.
     <sub>[#47954](https://github.com/flutter/engine/pull/47954) merged on November 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/47954) over 2 days, 24 additions and 11 deletions in 5 files</sub>
