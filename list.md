@@ -280,7 +280,7 @@
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] cache the base URL as root index.html
     <sub>[#136594](https://github.com/flutter/flutter/pull/136594) merged on October 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/136594) over 2 weeks, 12 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Alex Isaienko](https://github.com/s0nerik)** &mdash; InheritedElement.removeDependent()
     <sub>[#129210](https://github.com/flutter/flutter/pull/129210) merged on November 3, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/129210) over 4 months, 86 additions and 2 deletions in 2 files</sub>
@@ -507,7 +507,7 @@
 
 ### November 11, 2023 to November 17, 2023
 
-8 commits.
+9 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup touch and mouse event adapters
     <sub>[#43697](https://github.com/flutter/engine/pull/43697) merged on November 13, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/43697) over 4 months, 157 additions and 1170 deletions in 4 files</sub>
@@ -528,6 +528,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Add convex tess benchmark.
     <sub>[#47956](https://github.com/flutter/engine/pull/47956) merged on November 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/47956) over 2 days, 28 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Make `fml/...` compatible with `.clang_tidy`."
+    <sub>[#48004](https://github.com/flutter/engine/pull/48004) merged on November 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48004) over 53 seconds, 12 additions and 11 deletions in 7 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Fix fuchsia upload symbols.
     <sub>[#47938](https://github.com/flutter/engine/pull/47938) merged on November 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/47938) over 2 days, 15 additions and 2 deletions in 1 file</sub>
