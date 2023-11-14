@@ -101,6 +101,3 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#138432](https://github.com/flutter/flutter/pull/138432) opened on on November 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138432) 118 additions and 118 deletions in 59 files</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix 2D tap to stop scrolling<br />
-    <sub>[#138442](https://github.com/flutter/flutter/pull/138442) opened on on November 14, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/138442) 361 additions and 129 deletions in 2 files</sub><br />
-
