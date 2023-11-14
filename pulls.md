@@ -95,3 +95,6 @@
 * **[Jasper van Riet](https://github.com/JaspervanRiet)** &mdash; Introduce `exitDuration` to Tooltip for mouse pointer devices<br />
     <sub>[#138321](https://github.com/flutter/flutter/pull/138321) opened on on November 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138321) 213 additions and 9 deletions in 4 files</sub><br />
 
+* **[Paul](https://github.com/PAException)** &mdash; Added optional AnimatedInsertedItemBuilder to AnimatedScrollView.insert/insertAll<br />
+    <sub>[#138376](https://github.com/flutter/flutter/pull/138376) opened on on November 13, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/138376) 295 additions and 32 deletions in 3 files</sub><br />
+
