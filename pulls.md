@@ -95,3 +95,6 @@
 * **[Paul](https://github.com/PAException)** &mdash; Added optional AnimatedInsertedItemBuilder to AnimatedScrollView.insert/insertAll<br />
     <sub>[#138376](https://github.com/flutter/flutter/pull/138376) opened on on November 13, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/138376) 295 additions and 32 deletions in 3 files</sub><br />
 
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Pin package:web 0.4.0<br />
+    <sub>[#138428](https://github.com/flutter/flutter/pull/138428) opened on on November 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138428) 118 additions and 118 deletions in 59 files</sub><br />
+
