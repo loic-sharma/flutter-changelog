@@ -104,3 +104,6 @@
 * **[Sebastian](https://github.com/ignatz)** &mdash; Improve UI-thread animation performance on busy screens (1x - 100x depending on your use-case)<br />
     <sub>[#138481](https://github.com/flutter/flutter/pull/138481) opened on on November 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138481) 19 additions and 5 deletions in 3 files</sub><br />
 
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] skip flaky overflow_clipbehavior_none.cupertino.0.png golden check<br />
+    <sub>[#138498](https://github.com/flutter/flutter/pull/138498) opened on on November 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138498) 7 additions and 4 deletions in 1 file</sub><br />
+
