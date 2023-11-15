@@ -300,7 +300,7 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Provide more information in 'unsupported class file' gradle error
     <sub>[#136756](https://github.com/flutter/flutter/pull/136756) merged on November 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136756) over 2 weeks, 18 additions and 3 deletions in 2 files</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Elias Yishak](https://github.com/eliasyishak)</sub>
+    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Unified analytics events migration for `BuildEvent`
     <sub>[#137562](https://github.com/flutter/flutter/pull/137562) merged on November 1, 2023 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/137562) over 2 days, 313 additions and 33 deletions in 18 files</sub>
@@ -308,7 +308,7 @@
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] cache the base URL as root index.html
     <sub>[#136594](https://github.com/flutter/flutter/pull/136594) merged on October 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/136594) over 2 weeks, 12 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Alex Isaienko](https://github.com/s0nerik)** &mdash; InheritedElement.removeDependent()
     <sub>[#129210](https://github.com/flutter/flutter/pull/129210) merged on November 3, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/129210) over 4 months, 86 additions and 2 deletions in 2 files</sub>
@@ -332,7 +332,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Move dependency on leak_tracker from dependencies to dev_dependencies in flutter_test.
     <sub>[#137633](https://github.com/flutter/flutter/pull/137633) merged on October 31, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/137633) over 3 hours, 246 additions and 493 deletions in 60 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ben Konyi](https://github.com/bkonyi)</sub>
+    <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused generic type from BottomSheet
     <sub>[#137791](https://github.com/flutter/flutter/pull/137791) merged on November 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137791) over 1 day, 65 additions and 69 deletions in 19 files</sub>
@@ -700,7 +700,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Remove global state in keyboard tests
     <sub>[#47829](https://github.com/flutter/engine/pull/47829) merged on November 9, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/47829) over 2 hours, 490 additions and 469 deletions in 1 file</sub>
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Tong Mu](https://github.com/dkwingsmt)</sub>
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Create a global Vulkan instance in PlaygroundImplVK to prevent SwiftShader from being unloaded after a test completes
     <sub>[#47781](https://github.com/flutter/engine/pull/47781) merged on November 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/47781) over 19 hours, 39 additions and 0 deletions in 2 files</sub>
@@ -772,7 +772,7 @@
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Include updated locations for dart third_party components into license ignore-list.
     <sub>[#47770](https://github.com/flutter/engine/pull/47770) merged on November 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/47770) over 2 hours, 7 additions and 3 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Reduce warnings produced by unit tests
     <sub>[#47724](https://github.com/flutter/engine/pull/47724) merged on November 7, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/47724) over 21 hours, 76 additions and 76 deletions in 5 files</sub>
@@ -832,7 +832,7 @@
 
 * **[Alexander Thomas](https://github.com/athomas)** &mdash; Remove references to the runtime/third_party directory in the Dart SDK
     <sub>[#47853](https://github.com/flutter/engine/pull/47853) merged on November 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/47853) over 13 hours, 1 addition and 9 deletions in 3 files</sub>
-    <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Alexander Aprelev](https://github.com/aam)</sub>
 
 * **[utzcoz](https://github.com/utzcoz)** &mdash; Bump minSdk to 19 for Android tests
     <sub>[#47686](https://github.com/flutter/engine/pull/47686) merged on November 10, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/47686) over 6 days, 88 additions and 212 deletions in 18 files</sub>
@@ -884,7 +884,7 @@
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Reland "[Impeller] add support for Skia concept of RRect::isSimple needed for DL dispatching"
     <sub>[#47824](https://github.com/flutter/engine/pull/47824) merged on November 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/47824) over 44 minutes, 143 additions and 62 deletions in 11 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Reland "Remove Fuchsia Mac SDK from DEPS"
     <sub>[#47823](https://github.com/flutter/engine/pull/47823) merged on November 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/47823) over 18 hours, 0 additions and 10 deletions in 1 file</sub>
