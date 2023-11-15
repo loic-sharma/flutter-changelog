@@ -4,7 +4,7 @@
 
 ### November 11, 2023 to November 17, 2023
 
-14 commits.
+15 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix 2D tap to stop scrolling
     <sub>[#138442](https://github.com/flutter/flutter/pull/138442) merged on November 15, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/138442) over 19 hours, 367 additions and 137 deletions in 2 files</sub>
@@ -57,6 +57,10 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Clean up synonyms, key code generation.
     <sub>[#138192](https://github.com/flutter/flutter/pull/138192) merged on November 13, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/138192) over 3 days, 106 additions and 71 deletions in 7 files</sub>
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Reland VelocityTracker update (#132291)
+    <sub>[#137381](https://github.com/flutter/flutter/pull/137381) merged on November 15, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137381) over 2 weeks, 140 additions and 43 deletions in 7 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Reland "Update `framework_test.dart` to remove `ButtonBar` usage and remove references from other clases (#137550)
     <sub>[#137753](https://github.com/flutter/flutter/pull/137753) merged on November 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137753) over 1 week, 27 additions and 27 deletions in 3 files</sub>
