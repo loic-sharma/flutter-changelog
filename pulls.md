@@ -92,12 +92,12 @@
 * **[Paul](https://github.com/PAException)** &mdash; Added hover and splash color to NavigationRailDestination<br />
     <sub>[#138453](https://github.com/flutter/flutter/pull/138453) opened on on November 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138453) 81 additions and 2 deletions in 2 files</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Changes the regular cursor to a floating cursor when a long press occurs.<br />
-    <sub>[#138479](https://github.com/flutter/flutter/pull/138479) opened on on November 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138479) 191 additions and 49 deletions in 9 files</sub><br />
-
 * **[Sebastian](https://github.com/ignatz)** &mdash; Improve UI-thread animation performance on busy screens (1x - 100x depending on your use-case)<br />
     <sub>[#138481](https://github.com/flutter/flutter/pull/138481) opened on on November 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138481) 19 additions and 5 deletions in 3 files</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Remove deprecated `PlatformMenuBar.body`<br />
     <sub>[#138509](https://github.com/flutter/flutter/pull/138509) opened on on November 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138509) 29 additions and 17 deletions in 4 files</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Dispose gesture recognizers.<br />
+    <sub>[#138513](https://github.com/flutter/flutter/pull/138513) opened on on November 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138513) 10 additions and 0 deletions in 1 file</sub><br />
 
