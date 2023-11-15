@@ -99,5 +99,5 @@
     <sub>[#138509](https://github.com/flutter/flutter/pull/138509) opened on on November 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138509) 29 additions and 17 deletions in 4 files</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Dispose gesture recognizers.<br />
-    <sub>[#138513](https://github.com/flutter/flutter/pull/138513) opened on on November 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138513) 10 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#138513](https://github.com/flutter/flutter/pull/138513) opened on on November 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138513) 10 additions and 0 deletions in 1 file</sub><br />
 
