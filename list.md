@@ -4,7 +4,7 @@
 
 ### November 11, 2023 to November 17, 2023
 
-15 commits.
+16 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix 2D tap to stop scrolling
     <sub>[#138442](https://github.com/flutter/flutter/pull/138442) merged on November 15, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/138442) over 19 hours, 367 additions and 137 deletions in 2 files</sub>
@@ -29,6 +29,10 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add a DevTools section to CONTRIBUTING.md
     <sub>[#137193](https://github.com/flutter/flutter/pull/137193) merged on November 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137193) over 2 weeks, 11 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] skip flaky overflow_clipbehavior_none.cupertino.0.png golden check
+    <sub>[#138498](https://github.com/flutter/flutter/pull/138498) merged on November 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138498) over 2 hours, 7 additions and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Unified analytics migration for `CodeSizeAnalysis`
     <sub>[#138351](https://github.com/flutter/flutter/pull/138351) merged on November 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138351) over 1 day, 20 additions and 0 deletions in 8 files</sub>
@@ -147,7 +151,7 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds `useRootNavigator` property to `PopupMenuButton` widget.
     <sub>[#137453](https://github.com/flutter/flutter/pull/137453) merged on November 10, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137453) over 1 week, 95 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix tool exit message shown when user provides a non-list to "assets" for a deferred component
     <sub>[#137837](https://github.com/flutter/flutter/pull/137837) merged on November 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137837) over 2 days, 2 additions and 2 deletions in 2 files</sub>
@@ -320,7 +324,7 @@
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] cache the base URL as root index.html
     <sub>[#136594](https://github.com/flutter/flutter/pull/136594) merged on October 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/136594) over 2 weeks, 12 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Alex Isaienko](https://github.com/s0nerik)** &mdash; InheritedElement.removeDependent()
     <sub>[#129210](https://github.com/flutter/flutter/pull/129210) merged on November 3, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/129210) over 4 months, 86 additions and 2 deletions in 2 files</sub>
@@ -372,7 +376,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `IconButton.iconSize` documentation
     <sub>[#137741](https://github.com/flutter/flutter/pull/137741) merged on November 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137741) over 16 hours, 3 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Binni Goel](https://github.com/droidbg)** &mdash; [leak-tracking] Add more leak tracking in test/painting #3
     <sub>[#136170](https://github.com/flutter/flutter/pull/136170) merged on November 3, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/136170) over 3 weeks, 28 additions and 24 deletions in 4 files</sub>
@@ -512,7 +516,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Roll Flutter Engine from 39be0fc34503 to ec3e988099be (2 revisions)"
     <sub>[#137647](https://github.com/flutter/flutter/pull/137647) merged on October 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137647) over 24 minutes, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Dan Field](https://github.com/dnfield)</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 </details>
 
