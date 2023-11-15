@@ -98,3 +98,6 @@
 * **[Paul](https://github.com/PAException)** &mdash; Added hover and splash color to NavigationRailDestination<br />
     <sub>[#138453](https://github.com/flutter/flutter/pull/138453) opened on on November 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138453) 81 additions and 2 deletions in 2 files</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; Changes the regular cursor to a floating cursor when a long press occurs.<br />
+    <sub>[#138479](https://github.com/flutter/flutter/pull/138479) opened on on November 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138479) 191 additions and 49 deletions in 9 files</sub><br />
+
