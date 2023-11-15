@@ -135,7 +135,7 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds `useRootNavigator` property to `PopupMenuButton` widget.
     <sub>[#137453](https://github.com/flutter/flutter/pull/137453) merged on November 10, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137453) over 1 week, 95 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix tool exit message shown when user provides a non-list to "assets" for a deferred component
     <sub>[#137837](https://github.com/flutter/flutter/pull/137837) merged on November 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137837) over 2 days, 2 additions and 2 deletions in 2 files</sub>
@@ -300,7 +300,7 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Provide more information in 'unsupported class file' gradle error
     <sub>[#136756](https://github.com/flutter/flutter/pull/136756) merged on November 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136756) over 2 weeks, 18 additions and 3 deletions in 2 files</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Elias Yishak](https://github.com/eliasyishak)</sub>
+    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Unified analytics events migration for `BuildEvent`
     <sub>[#137562](https://github.com/flutter/flutter/pull/137562) merged on November 1, 2023 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/137562) over 2 days, 313 additions and 33 deletions in 18 files</sub>
@@ -360,7 +360,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `IconButton.iconSize` documentation
     <sub>[#137741](https://github.com/flutter/flutter/pull/137741) merged on November 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137741) over 16 hours, 3 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Binni Goel](https://github.com/droidbg)** &mdash; [leak-tracking] Add more leak tracking in test/painting #3
     <sub>[#136170](https://github.com/flutter/flutter/pull/136170) merged on November 3, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/136170) over 3 weeks, 28 additions and 24 deletions in 4 files</sub>
@@ -500,7 +500,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Roll Flutter Engine from 39be0fc34503 to ec3e988099be (2 revisions)"
     <sub>[#137647](https://github.com/flutter/flutter/pull/137647) merged on October 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137647) over 24 minutes, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Dan Field](https://github.com/dnfield)</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 </details>
 
@@ -535,7 +535,7 @@
 
 ### November 11, 2023 to November 17, 2023
 
-21 commits.
+22 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup touch and mouse event adapters
     <sub>[#43697](https://github.com/flutter/engine/pull/43697) merged on November 13, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/43697) over 4 months, 157 additions and 1170 deletions in 4 files</sub>
@@ -560,6 +560,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Simplify convex tessellation
     <sub>[#47957](https://github.com/flutter/engine/pull/47957) merged on November 15, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/47957) over 3 days, 70 additions and 54 deletions in 6 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Clean up allocations in key responder tests
+    <sub>[#48048](https://github.com/flutter/engine/pull/48048) merged on November 15, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/engine/pull/48048) over 1 hour, 158 additions and 165 deletions in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Greg Spencer](https://github.com/gspencergoog), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] JSConfig: Add multiViewEnabled value.
     <sub>[#47939](https://github.com/flutter/engine/pull/47939) merged on November 15, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/47939) over 4 days, 98 additions and 60 deletions in 3 files</sub>
