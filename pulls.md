@@ -107,3 +107,6 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] skip flaky overflow_clipbehavior_none.cupertino.0.png golden check<br />
     <sub>[#138498](https://github.com/flutter/flutter/pull/138498) opened on on November 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138498) 7 additions and 4 deletions in 1 file</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Analyze against using Stopwatches in the framework<br />
+    <sub>[#138507](https://github.com/flutter/flutter/pull/138507) opened on on November 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138507) 119 additions and 6 deletions in 10 files</sub><br />
+
