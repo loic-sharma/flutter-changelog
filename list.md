@@ -4,7 +4,7 @@
 
 ### November 11, 2023 to November 17, 2023
 
-11 commits.
+12 commits.
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Update DraggableScrollableSheet docs to reflect API change
     <sub>[#136471](https://github.com/flutter/flutter/pull/136471) merged on November 13, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/136471) over 1 month, 217 additions and 30 deletions in 3 files</sub>
@@ -37,6 +37,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak tracker.
     <sub>[#138283](https://github.com/flutter/flutter/pull/138283) merged on November 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138283) over 2 days, 95 additions and 136 deletions in 48 files</sub>
     <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[xubaolin](https://github.com/xu-baolin)** &mdash; Reland [SingleChildScrollView] Correct the offset pixels if it is out of range during layout
+    <sub>[#136871](https://github.com/flutter/flutter/pull/136871) merged on November 15, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/136871) over 3 weeks, 53 additions and 16 deletions in 4 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Peter Abraham](https://github.com/peterabrahamdev)** &mdash; Fixing typo
     <sub>[#138253](https://github.com/flutter/flutter/pull/138253) merged on November 14, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138253) over 3 days, 1 addition and 1 deletion in 1 file</sub>
@@ -304,7 +308,7 @@
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] cache the base URL as root index.html
     <sub>[#136594](https://github.com/flutter/flutter/pull/136594) merged on October 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/136594) over 2 weeks, 12 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Alex Isaienko](https://github.com/s0nerik)** &mdash; InheritedElement.removeDependent()
     <sub>[#129210](https://github.com/flutter/flutter/pull/129210) merged on November 3, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/129210) over 4 months, 86 additions and 2 deletions in 2 files</sub>
@@ -356,7 +360,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `IconButton.iconSize` documentation
     <sub>[#137741](https://github.com/flutter/flutter/pull/137741) merged on November 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137741) over 16 hours, 3 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Binni Goel](https://github.com/droidbg)** &mdash; [leak-tracking] Add more leak tracking in test/painting #3
     <sub>[#136170](https://github.com/flutter/flutter/pull/136170) merged on November 3, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/136170) over 3 weeks, 28 additions and 24 deletions in 4 files</sub>
@@ -496,7 +500,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Roll Flutter Engine from 39be0fc34503 to ec3e988099be (2 revisions)"
     <sub>[#137647](https://github.com/flutter/flutter/pull/137647) merged on October 31, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137647) over 24 minutes, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Dan Field](https://github.com/dnfield)</sub>
 
 </details>
 
@@ -607,7 +611,7 @@
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Revert "Add an AndroidManifest.xml flag to disable ImageReader backend Platform Views (#46430)"
     <sub>[#48024](https://github.com/flutter/engine/pull/48024) merged on November 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48024) over 1 hour, 2 additions and 76 deletions in 10 files</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 ### November 4, 2023 to November 10, 2023
 
@@ -1156,7 +1160,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.9.10 to 1.9.20 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#5334](https://github.com/flutter/packages/pull/5334) merged on November 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5334) over 10 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.9.10&new-version=1.9.20)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Keith Rozett](https://github.com/krozett)** &mdash; [flutter_markdown] Strip leading whitespace from list items
