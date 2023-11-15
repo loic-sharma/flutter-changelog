@@ -59,7 +59,7 @@
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Reland VelocityTracker update (#132291)
-    <sub>[#137381](https://github.com/flutter/flutter/pull/137381) merged on November 15, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137381) over 2 weeks, 140 additions and 43 deletions in 7 files</sub>
+    <sub>[#137381](https://github.com/flutter/flutter/pull/137381) merged on November 15, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/137381) over 2 weeks, 140 additions and 43 deletions in 7 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Reland "Update `framework_test.dart` to remove `ButtonBar` usage and remove references from other clases (#137550)
@@ -147,7 +147,7 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds `useRootNavigator` property to `PopupMenuButton` widget.
     <sub>[#137453](https://github.com/flutter/flutter/pull/137453) merged on November 10, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137453) over 1 week, 95 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [chunhtai](https://github.com/chunhtai)</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix tool exit message shown when user provides a non-list to "assets" for a deferred component
     <sub>[#137837](https://github.com/flutter/flutter/pull/137837) merged on November 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137837) over 2 days, 2 additions and 2 deletions in 2 files</sub>
@@ -312,7 +312,7 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Provide more information in 'unsupported class file' gradle error
     <sub>[#136756](https://github.com/flutter/flutter/pull/136756) merged on November 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136756) over 2 weeks, 18 additions and 3 deletions in 2 files</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Elias Yishak](https://github.com/eliasyishak)</sub>
+    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Unified analytics events migration for `BuildEvent`
     <sub>[#137562](https://github.com/flutter/flutter/pull/137562) merged on November 1, 2023 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/137562) over 2 days, 313 additions and 33 deletions in 18 files</sub>
@@ -320,7 +320,7 @@
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] cache the base URL as root index.html
     <sub>[#136594](https://github.com/flutter/flutter/pull/136594) merged on October 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/136594) over 2 weeks, 12 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Alex Isaienko](https://github.com/s0nerik)** &mdash; InheritedElement.removeDependent()
     <sub>[#129210](https://github.com/flutter/flutter/pull/129210) merged on November 3, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/129210) over 4 months, 86 additions and 2 deletions in 2 files</sub>
@@ -500,7 +500,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Support Android 34
     <sub>[#137191](https://github.com/flutter/flutter/pull/137191) merged on November 2, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137191) over 1 week, 78 additions and 78 deletions in 60 files</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Binni Goel](https://github.com/droidbg)** &mdash; Instrument ImageStreamCompleterHandle for LeakTracking
     <sub>[#137482](https://github.com/flutter/flutter/pull/137482) merged on November 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137482) over 4 days, 33 additions and 0 deletions in 2 files</sub>
@@ -547,11 +547,15 @@
 
 ### November 11, 2023 to November 17, 2023
 
-28 commits.
+29 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup touch and mouse event adapters
     <sub>[#43697](https://github.com/flutter/engine/pull/43697) merged on November 13, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/43697) over 4 months, 157 additions and 1170 deletions in 4 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]fix ios 16 auto correction highlight showing on top left corner
+    <sub>[#47279](https://github.com/flutter/engine/pull/47279) merged on November 15, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/47279) over 3 weeks, 69 additions and 28 deletions in 2 files</sub>
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Explicit initialization of the implicit view
     <sub>[#47921](https://github.com/flutter/engine/pull/47921) merged on November 14, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/engine/pull/47921) over 3 days, 366 additions and 298 deletions in 41 files</sub>

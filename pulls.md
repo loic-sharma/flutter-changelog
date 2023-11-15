@@ -80,9 +80,6 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] update Android SDK to 34<br />
     <sub>[#138183](https://github.com/flutter/flutter/pull/138183) opened on on November 9, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/138183) 167 additions and 167 deletions in 1 file</sub><br />
 
-* **[Luccas Clezar](https://github.com/luccasclezar)** &mdash; Fix CupertinoTextSelectionToolbar clipping<br />
-    <sub>[#138195](https://github.com/flutter/flutter/pull/138195) opened on on November 9, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138195) 2 additions and 6 deletions in 1 file</sub><br />
-
 * **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Add mhbdev to AUTHORS<br />
     <sub>[#138311](https://github.com/flutter/flutter/pull/138311) opened on on November 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138311) 1 addition and 0 deletions in 1 file</sub><br />
 
