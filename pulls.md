@@ -102,5 +102,5 @@
     <sub>[#138479](https://github.com/flutter/flutter/pull/138479) opened on on November 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138479) 191 additions and 49 deletions in 9 files</sub><br />
 
 * **[Sebastian](https://github.com/ignatz)** &mdash; Significantly improve UI-thread animation performance on busy screens (1x - 100x and more depending on your use-case)<br />
-    <sub>[#138481](https://github.com/flutter/flutter/pull/138481) opened on on November 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138481) 19 additions and 5 deletions in 3 files</sub><br />
+    <sub>[#138481](https://github.com/flutter/flutter/pull/138481) opened on on November 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138481) 19 additions and 5 deletions in 3 files</sub><br />
 
