@@ -93,7 +93,7 @@
     <sub>[#138517](https://github.com/flutter/flutter/pull/138517) opened on on November 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138517) 82 additions and 13 deletions in 4 files</sub><br />
 
 * **[Fernando Trigoso](https://github.com/fertrig)** &mdash; Don't build native assets in `flutter build bundle` (#136641)<br />
-    <sub>[#138518](https://github.com/flutter/flutter/pull/138518) opened on on November 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138518) 163 additions and 127 deletions in 7 files</sub><br />
+    <sub>[#138518](https://github.com/flutter/flutter/pull/138518) opened on on November 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138518) 163 additions and 127 deletions in 7 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Added keyboardType & textInputAction props to SearchBar, SearchAnchor & SearchAnchor.bar<br />
     <sub>[#138553](https://github.com/flutter/flutter/pull/138553) opened on on November 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138553) 224 additions and 2 deletions in 2 files</sub><br />
@@ -106,7 +106,4 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Prepare for dynamically sized views<br />
     <sub>[#138565](https://github.com/flutter/flutter/pull/138565) opened on on November 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138565) 6 additions and 4 deletions in 3 files</sub><br />
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Turn off leak tracker to make found leaks not blocking.<br />
-    <sub>[#138567](https://github.com/flutter/flutter/pull/138567) opened on on November 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138567) 1 addition and 1 deletion in 1 file</sub><br />
 
