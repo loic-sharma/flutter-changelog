@@ -54,7 +54,7 @@
     <sub>[#137202](https://github.com/flutter/flutter/pull/137202) opened on on October 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137202) 157 additions and 22 deletions in 3 files</sub><br />
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; [WIP] Allow namespaces when generating localizations<br />
-    <sub>[#137307](https://github.com/flutter/flutter/pull/137307) opened on on October 26, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/137307) 207 additions and 177 deletions in 6 files</sub><br />
+    <sub>[#137307](https://github.com/flutter/flutter/pull/137307) opened on on October 26, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/137307) 207 additions and 177 deletions in 6 files</sub><br />
 
 * **[shirne](https://github.com/shirne)** &mdash; Fix l10n gen file's problems<br />
     <sub>[#137312](https://github.com/flutter/flutter/pull/137312) opened on on October 26, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/137312) 80 additions and 12 deletions in 4 files</sub><br />
