@@ -107,6 +107,3 @@
 * **[huycozy](https://github.com/huycozy)** &mdash; Adding `two_dimensional_scrollables` to the first-party package issue template<br />
     <sub>[#138540](https://github.com/flutter/flutter/pull/138540) opened on on November 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138540) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Activate InkSparkle on CanvasKit<br />
-    <sub>[#138545](https://github.com/flutter/flutter/pull/138545) opened on on November 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138545) 20 additions and 19 deletions in 7 files</sub><br />
-
