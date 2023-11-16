@@ -104,3 +104,6 @@
 * **[Fernando Trigoso](https://github.com/fertrig)** &mdash; Don't build native assets in `flutter build bundle` (#136641)<br />
     <sub>[#138518](https://github.com/flutter/flutter/pull/138518) opened on on November 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138518) 163 additions and 127 deletions in 7 files</sub><br />
 
+* **[huycozy](https://github.com/huycozy)** &mdash; Adding `two_dimensional_scrollables` to the first-party package issue template<br />
+    <sub>[#138540](https://github.com/flutter/flutter/pull/138540) opened on on November 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138540) 1 addition and 0 deletions in 1 file</sub><br />
+
