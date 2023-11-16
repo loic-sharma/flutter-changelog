@@ -98,3 +98,6 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Remove deprecated `PlatformMenuBar.body`<br />
     <sub>[#138509](https://github.com/flutter/flutter/pull/138509) opened on on November 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138509) 29 additions and 17 deletions in 4 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix bad state future already completed in flutter logs<br />
+    <sub>[#138517](https://github.com/flutter/flutter/pull/138517) opened on on November 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138517) 75 additions and 5 deletions in 4 files</sub><br />
+
