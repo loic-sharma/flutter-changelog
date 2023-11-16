@@ -107,3 +107,6 @@
 * **[huycozy](https://github.com/huycozy)** &mdash; Adding new packages to the first-party package issue template<br />
     <sub>[#138540](https://github.com/flutter/flutter/pull/138540) opened on on November 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138540) 3 additions and 0 deletions in 1 file</sub><br />
 
+* **[Tirth](https://github.com/piedcipher)** &mdash; Added keyboardType & textInputAction props to SearchBar, SearchAnchor & SearchAnchor.bar<br />
+    <sub>[#138553](https://github.com/flutter/flutter/pull/138553) opened on on November 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138553) 224 additions and 2 deletions in 2 files</sub><br />
+
