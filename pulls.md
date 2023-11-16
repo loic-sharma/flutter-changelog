@@ -60,7 +60,7 @@
     <sub>[#137312](https://github.com/flutter/flutter/pull/137312) opened on on October 26, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/137312) 80 additions and 12 deletions in 4 files</sub><br />
 
 * **[Rohith Gilla](https://github.com/Rohithgilla12)** &mdash; chore: Add default variant to the iOS `archs`<br />
-    <sub>[#137332](https://github.com/flutter/flutter/pull/137332) opened on on October 26, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/137332) 9 additions and 4 deletions in 2 files</sub><br />
+    <sub>[#137332](https://github.com/flutter/flutter/pull/137332) opened on on October 26, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/137332) 9 additions and 4 deletions in 2 files</sub><br />
 
 * **[Ricky Souza de Oliveira](https://github.com/HeroRickyGAMES)** &mdash; Removing the bug of 'package:flutter/src/rendering/mouse_tracker.dart ': Failed assertion: line 205 pos 12: '!_debugDuringDeviceUpdate': is not true. in desktop platforms<br />
     <sub>[#137939](https://github.com/flutter/flutter/pull/137939) opened on on November 6, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/137939) 1 addition and 1 deletion in 1 file</sub><br />
