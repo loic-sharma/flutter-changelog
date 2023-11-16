@@ -81,7 +81,7 @@
     <sub>[#138321](https://github.com/flutter/flutter/pull/138321) opened on on November 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138321) 213 additions and 9 deletions in 4 files</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#138449](https://github.com/flutter/flutter/pull/138449) opened on on November 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138449) 118 additions and 118 deletions in 59 files</sub><br />
+    <sub>[#138449](https://github.com/flutter/flutter/pull/138449) opened on on November 14, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/138449) 118 additions and 118 deletions in 59 files</sub><br />
 
 * **[Paul](https://github.com/PAException)** &mdash; Added hover and splash color to NavigationRailDestination<br />
     <sub>[#138453](https://github.com/flutter/flutter/pull/138453) opened on on November 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138453) 81 additions and 2 deletions in 2 files</sub><br />
@@ -93,7 +93,7 @@
     <sub>[#138517](https://github.com/flutter/flutter/pull/138517) opened on on November 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138517) 82 additions and 13 deletions in 4 files</sub><br />
 
 * **[Fernando Trigoso](https://github.com/fertrig)** &mdash; Don't build native assets in `flutter build bundle` (#136641)<br />
-    <sub>[#138518](https://github.com/flutter/flutter/pull/138518) opened on on November 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138518) 163 additions and 127 deletions in 7 files</sub><br />
+    <sub>[#138518](https://github.com/flutter/flutter/pull/138518) opened on on November 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138518) 163 additions and 127 deletions in 7 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Added keyboardType & textInputAction props to SearchBar, SearchAnchor & SearchAnchor.bar<br />
     <sub>[#138553](https://github.com/flutter/flutter/pull/138553) opened on on November 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138553) 224 additions and 2 deletions in 2 files</sub><br />
