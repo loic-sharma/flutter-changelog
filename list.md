@@ -216,7 +216,7 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds `useRootNavigator` property to `PopupMenuButton` widget.
     <sub>[#137453](https://github.com/flutter/flutter/pull/137453) merged on November 10, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137453) over 1 week, 95 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [chunhtai](https://github.com/chunhtai)</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix tool exit message shown when user provides a non-list to "assets" for a deferred component
     <sub>[#137837](https://github.com/flutter/flutter/pull/137837) merged on November 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137837) over 2 days, 2 additions and 2 deletions in 2 files</sub>
@@ -413,7 +413,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Move dependency on leak_tracker from dependencies to dev_dependencies in flutter_test.
     <sub>[#137633](https://github.com/flutter/flutter/pull/137633) merged on October 31, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/137633) over 3 hours, 246 additions and 493 deletions in 60 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ben Konyi](https://github.com/bkonyi)</sub>
+    <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused generic type from BottomSheet
     <sub>[#137791](https://github.com/flutter/flutter/pull/137791) merged on November 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137791) over 1 day, 65 additions and 69 deletions in 19 files</sub>
@@ -569,7 +569,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Support Android 34
     <sub>[#137191](https://github.com/flutter/flutter/pull/137191) merged on November 2, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137191) over 1 week, 78 additions and 78 deletions in 60 files</sub>
-    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Binni Goel](https://github.com/droidbg)** &mdash; Instrument ImageStreamCompleterHandle for LeakTracking
     <sub>[#137482](https://github.com/flutter/flutter/pull/137482) merged on November 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137482) over 4 days, 33 additions and 0 deletions in 2 files</sub>
@@ -1296,7 +1296,7 @@
 
 * **[Alexander Thomas](https://github.com/athomas)** &mdash; Add a temporary fallback to move run_binary_file_analysis.py
     <sub>[#47598](https://github.com/flutter/engine/pull/47598) merged on November 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/47598) over 6 hours, 6 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Jason Simmons](https://github.com/jason-simmons)</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on either macOS 12 or 13
     <sub>[#47606](https://github.com/flutter/engine/pull/47606) merged on November 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/47606) over 2 hours, 42 additions and 42 deletions in 8 files</sub>
@@ -1371,7 +1371,7 @@
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Flutter (stable) from d211f4286035 to db7ef5bf9f59 (1539 revisions)
     <sub>[#5409](https://github.com/flutter/packages/pull/5409) merged on November 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5409) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Chris Yang](https://github.com/cyanglaz)</sub>
+    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### November 4, 2023 to November 10, 2023
 
@@ -1522,7 +1522,7 @@
 
 * **[Tatsuya Fujisaki](https://github.com/tatsuyafujisaki)** &mdash; [flutter_lints] Replace "flutter pub add --dev" with "dev:"
     <sub>[#5260](https://github.com/flutter/packages/pull/5260) merged on October 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5260) over 13 hours, 6 additions and 2 deletions in 3 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Craig Labenz](https://github.com/craiglabenz)</sub>
+    <sub>Reviewed by: [Craig Labenz](https://github.com/craiglabenz), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 </details>
 
