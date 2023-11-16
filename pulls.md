@@ -56,9 +56,6 @@
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; [WIP] Allow namespaces when generating localizations<br />
     <sub>[#137307](https://github.com/flutter/flutter/pull/137307) opened on on October 26, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/137307) 207 additions and 177 deletions in 6 files</sub><br />
 
-* **[shirne](https://github.com/shirne)** &mdash; Fix l10n gen file's problems<br />
-    <sub>[#137312](https://github.com/flutter/flutter/pull/137312) opened on on October 26, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/137312) 80 additions and 12 deletions in 4 files</sub><br />
-
 * **[Rohith Gilla](https://github.com/Rohithgilla12)** &mdash; chore: Add default variant to the iOS `archs`<br />
     <sub>[#137332](https://github.com/flutter/flutter/pull/137332) opened on on October 26, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/137332) 9 additions and 4 deletions in 2 files</sub><br />
 
@@ -84,7 +81,7 @@
     <sub>[#138321](https://github.com/flutter/flutter/pull/138321) opened on on November 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138321) 213 additions and 9 deletions in 4 files</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#138449](https://github.com/flutter/flutter/pull/138449) opened on on November 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138449) 118 additions and 118 deletions in 59 files</sub><br />
+    <sub>[#138449](https://github.com/flutter/flutter/pull/138449) opened on on November 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138449) 118 additions and 118 deletions in 59 files</sub><br />
 
 * **[Paul](https://github.com/PAException)** &mdash; Added hover and splash color to NavigationRailDestination<br />
     <sub>[#138453](https://github.com/flutter/flutter/pull/138453) opened on on November 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138453) 81 additions and 2 deletions in 2 files</sub><br />
