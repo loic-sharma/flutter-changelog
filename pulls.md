@@ -47,9 +47,6 @@
 * **[Kayla Brady](https://github.com/KaylaBrady)** &mdash; Nav bar acccessibility: Mark nav items as buttons<br />
     <sub>[#136764](https://github.com/flutter/flutter/pull/136764) opened on on October 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136764) 17 additions and 1 deletion in 6 files</sub><br />
 
-* **[lsaudon](https://github.com/lsaudon)** &mdash; Bump cupertino_icons to 1.0.6<br />
-    <sub>[#136962](https://github.com/flutter/flutter/pull/136962) opened on on October 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136962) 2 additions and 2 deletions in 2 files</sub><br />
-
 * **[Regis Imuduhe Safari](https://github.com/RegisSaffi)** &mdash; Add support for Kinyarwanda (rw) Language locale<br />
     <sub>[#137061](https://github.com/flutter/flutter/pull/137061) opened on on October 23, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/137061) 1946 additions and 124 deletions in 8 files</sub><br />
 
@@ -112,4 +109,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Prepare for dynamically sized views<br />
     <sub>[#138565](https://github.com/flutter/flutter/pull/138565) opened on on November 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138565) 6 additions and 4 deletions in 3 files</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Turn off leak tracker to make found leaks not blocking.<br />
+    <sub>[#138567](https://github.com/flutter/flutter/pull/138567) opened on on November 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138567) 1 addition and 1 deletion in 1 file</sub><br />
 
