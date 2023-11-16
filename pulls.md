@@ -92,7 +92,7 @@
 * **[Paul](https://github.com/PAException)** &mdash; Added hover and splash color to NavigationRailDestination<br />
     <sub>[#138453](https://github.com/flutter/flutter/pull/138453) opened on on November 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138453) 81 additions and 2 deletions in 2 files</sub><br />
 
-* **[Sebastian](https://github.com/ignatz)** &mdash; Improve UI-thread animation performance on busy screens (1x - 100x depending on your use-case)<br />
+* **[Sebastian](https://github.com/ignatz)** &mdash; Improve UI-thread animation performance on busy screens (~10x reduction depending on your use-case)<br />
     <sub>[#138481](https://github.com/flutter/flutter/pull/138481) opened on on November 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138481) 19 additions and 5 deletions in 3 files</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Remove deprecated `PlatformMenuBar.body`<br />
