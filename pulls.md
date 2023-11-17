@@ -104,6 +104,3 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Prepare for dynamically sized views<br />
     <sub>[#138565](https://github.com/flutter/flutter/pull/138565) opened on on November 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138565) 6 additions and 4 deletions in 3 files</sub><br />
 
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update links and surrounding text for new `main-api` docs<br />
-    <sub>[#138602](https://github.com/flutter/flutter/pull/138602) opened on on November 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138602) 16 additions and 16 deletions in 7 files</sub><br />
-
