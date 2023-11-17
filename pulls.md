@@ -87,7 +87,7 @@
     <sub>[#138481](https://github.com/flutter/flutter/pull/138481) opened on on November 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138481) 19 additions and 5 deletions in 3 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix bad state future already completed in flutter logs<br />
-    <sub>[#138517](https://github.com/flutter/flutter/pull/138517) opened on on November 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138517) 82 additions and 13 deletions in 4 files</sub><br />
+    <sub>[#138517](https://github.com/flutter/flutter/pull/138517) opened on on November 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138517) 82 additions and 13 deletions in 4 files</sub><br />
 
 * **[Fernando Trigoso](https://github.com/fertrig)** &mdash; Don't build native assets in `flutter build bundle` (#136641)<br />
     <sub>[#138518](https://github.com/flutter/flutter/pull/138518) opened on on November 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138518) 163 additions and 127 deletions in 7 files</sub><br />
