@@ -429,7 +429,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Move dependency on leak_tracker from dependencies to dev_dependencies in flutter_test.
     <sub>[#137633](https://github.com/flutter/flutter/pull/137633) merged on October 31, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/137633) over 3 hours, 246 additions and 493 deletions in 60 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ben Konyi](https://github.com/bkonyi)</sub>
+    <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused generic type from BottomSheet
     <sub>[#137791](https://github.com/flutter/flutter/pull/137791) merged on November 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137791) over 1 day, 65 additions and 69 deletions in 19 files</sub>
@@ -585,7 +585,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Support Android 34
     <sub>[#137191](https://github.com/flutter/flutter/pull/137191) merged on November 2, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137191) over 1 week, 78 additions and 78 deletions in 60 files</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Binni Goel](https://github.com/droidbg)** &mdash; Instrument ImageStreamCompleterHandle for LeakTracking
     <sub>[#137482](https://github.com/flutter/flutter/pull/137482) merged on November 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137482) over 4 days, 33 additions and 0 deletions in 2 files</sub>
@@ -768,7 +768,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In the scenario game loop test, cancel the results writer task if the activity has been destroyed
     <sub>[#48051](https://github.com/flutter/engine/pull/48051) merged on November 15, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/48051) over 15 hours, 19 additions and 11 deletions in 1 file</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Reverts Dart to 3.3.0-135.0.dev
     <sub>[#48070](https://github.com/flutter/engine/pull/48070) merged on November 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/48070) over 28 minutes, 2 additions and 2 deletions in 2 files</sub>
@@ -1085,7 +1085,7 @@
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Include updated locations for dart third_party components into license ignore-list.
     <sub>[#47770](https://github.com/flutter/engine/pull/47770) merged on November 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/47770) over 2 hours, 7 additions and 3 deletions in 2 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jason Simmons](https://github.com/jason-simmons)</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Reduce warnings produced by unit tests
     <sub>[#47724](https://github.com/flutter/engine/pull/47724) merged on November 7, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/47724) over 21 hours, 76 additions and 76 deletions in 5 files</sub>
@@ -1447,11 +1447,15 @@
 
 ### November 11, 2023 to November 17, 2023
 
-11 commits.
+12 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Improve macOS frame management
     <sub>[#5078](https://github.com/flutter/packages/pull/5078) merged on November 16, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/5078) over 1 month, 546 additions and 165 deletions in 11 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] isEnum, isClass, fix swift casting, default values, optional method arguments, named method arguments
+    <sub>[#5355](https://github.com/flutter/packages/pull/5355) merged on November 17, 2023 &mdash; **Extra large:** [35 comments](https://github.com/flutter/packages/pull/5355) over 1 week, 5379 additions and 3270 deletions in 56 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Add Kotlin autoformatting
     <sub>[#5374](https://github.com/flutter/packages/pull/5374) merged on November 13, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/5374) over 22 hours, 1819 additions and 1263 deletions in 31 files</sub>
@@ -1521,7 +1525,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.9.10 to 1.9.20 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#5334](https://github.com/flutter/packages/pull/5334) merged on November 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5334) over 10 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.9.10&new-version=1.9.20)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Keith Rozett](https://github.com/krozett)** &mdash; [flutter_markdown] Strip leading whitespace from list items
