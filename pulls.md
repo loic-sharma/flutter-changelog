@@ -57,7 +57,7 @@
     <sub>[#137307](https://github.com/flutter/flutter/pull/137307) opened on on October 26, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/137307) 207 additions and 177 deletions in 6 files</sub><br />
 
 * **[Rohith Gilla](https://github.com/Rohithgilla12)** &mdash; chore: Add default variant to the iOS `archs`<br />
-    <sub>[#137332](https://github.com/flutter/flutter/pull/137332) opened on on October 26, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/137332) 9 additions and 4 deletions in 2 files</sub><br />
+    <sub>[#137332](https://github.com/flutter/flutter/pull/137332) opened on on October 26, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/137332) 9 additions and 4 deletions in 2 files</sub><br />
 
 * **[Ricky Souza de Oliveira](https://github.com/HeroRickyGAMES)** &mdash; Removing the bug of 'package:flutter/src/rendering/mouse_tracker.dart ': Failed assertion: line 205 pos 12: '!_debugDuringDeviceUpdate': is not true. in desktop platforms<br />
     <sub>[#137939](https://github.com/flutter/flutter/pull/137939) opened on on November 6, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/137939) 1 addition and 1 deletion in 1 file</sub><br />
@@ -76,9 +76,6 @@
 
 * **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Add mhbdev to AUTHORS<br />
     <sub>[#138311](https://github.com/flutter/flutter/pull/138311) opened on on November 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138311) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[Jasper van Riet](https://github.com/JaspervanRiet)** &mdash; Introduce `exitDuration` to Tooltip for mouse pointer devices<br />
-    <sub>[#138321](https://github.com/flutter/flutter/pull/138321) opened on on November 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138321) 213 additions and 9 deletions in 4 files</sub><br />
 
 * **[Paul](https://github.com/PAException)** &mdash; Added hover and splash color to NavigationRailDestination<br />
     <sub>[#138453](https://github.com/flutter/flutter/pull/138453) opened on on November 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138453) 81 additions and 2 deletions in 2 files</sub><br />

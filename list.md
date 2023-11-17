@@ -405,7 +405,7 @@
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] cache the base URL as root index.html
     <sub>[#136594](https://github.com/flutter/flutter/pull/136594) merged on October 30, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/136594) over 2 weeks, 12 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Alex Isaienko](https://github.com/s0nerik)** &mdash; InheritedElement.removeDependent()
     <sub>[#129210](https://github.com/flutter/flutter/pull/129210) merged on November 3, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/129210) over 4 months, 86 additions and 2 deletions in 2 files</sub>
@@ -429,7 +429,7 @@
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Move dependency on leak_tracker from dependencies to dev_dependencies in flutter_test.
     <sub>[#137633](https://github.com/flutter/flutter/pull/137633) merged on October 31, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/137633) over 3 hours, 246 additions and 493 deletions in 60 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ben Konyi](https://github.com/bkonyi)</sub>
+    <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused generic type from BottomSheet
     <sub>[#137791](https://github.com/flutter/flutter/pull/137791) merged on November 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137791) over 1 day, 65 additions and 69 deletions in 19 files</sub>
@@ -457,7 +457,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `IconButton.iconSize` documentation
     <sub>[#137741](https://github.com/flutter/flutter/pull/137741) merged on November 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137741) over 16 hours, 3 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Binni Goel](https://github.com/droidbg)** &mdash; [leak-tracking] Add more leak tracking in test/painting #3
     <sub>[#136170](https://github.com/flutter/flutter/pull/136170) merged on November 3, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/136170) over 3 weeks, 28 additions and 24 deletions in 4 files</sub>
@@ -569,7 +569,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update Carousel tokens to v0.202
     <sub>[#137728](https://github.com/flutter/flutter/pull/137728) merged on November 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137728) over 2 hours, 27 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks)</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Update `framework_test.dart` to remove `ButtonBar` usage and remove references from other clases"
     <sub>[#137731](https://github.com/flutter/flutter/pull/137731) merged on November 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137731) over 1 minute, 27 additions and 27 deletions in 3 files</sub>
@@ -585,7 +585,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Support Android 34
     <sub>[#137191](https://github.com/flutter/flutter/pull/137191) merged on November 2, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137191) over 1 week, 78 additions and 78 deletions in 60 files</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Binni Goel](https://github.com/droidbg)** &mdash; Instrument ImageStreamCompleterHandle for LeakTracking
     <sub>[#137482](https://github.com/flutter/flutter/pull/137482) merged on November 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137482) over 4 days, 33 additions and 0 deletions in 2 files</sub>
@@ -760,7 +760,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Unify around "transform"
     <sub>[#48184](https://github.com/flutter/engine/pull/48184) merged on November 17, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/48184) over 32 minutes, 289 additions and 295 deletions in 57 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Reverts Dart to 3.3.0-135.0.dev
     <sub>[#48070](https://github.com/flutter/engine/pull/48070) merged on November 15, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/48070) over 28 minutes, 2 additions and 2 deletions in 2 files</sub>
@@ -852,7 +852,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In the scenario game loop test, cancel the results writer task if the activity has been destroyed
     <sub>[#48051](https://github.com/flutter/engine/pull/48051) merged on November 15, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/48051) over 15 hours, 19 additions and 11 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Reid Baker](https://github.com/reidbaker)</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Update keycode output
     <sub>[#47988](https://github.com/flutter/engine/pull/47988) merged on November 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/47988) over 1 day, 136 additions and 49 deletions in 8 files</sub>
@@ -924,7 +924,7 @@
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Revert "Add an AndroidManifest.xml flag to disable ImageReader backend Platform Views (#46430)"
     <sub>[#48024](https://github.com/flutter/engine/pull/48024) merged on November 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48024) over 1 hour, 2 additions and 76 deletions in 10 files</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 ### November 4, 2023 to November 10, 2023
 
@@ -1384,7 +1384,7 @@
 
 * **[Alexander Thomas](https://github.com/athomas)** &mdash; Add a temporary fallback to move run_binary_file_analysis.py
     <sub>[#47598](https://github.com/flutter/engine/pull/47598) merged on November 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/47598) over 6 hours, 6 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Jason Simmons](https://github.com/jason-simmons)</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on either macOS 12 or 13
     <sub>[#47606](https://github.com/flutter/engine/pull/47606) merged on November 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/47606) over 2 hours, 42 additions and 42 deletions in 8 files</sub>
@@ -1479,7 +1479,7 @@
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Flutter (stable) from d211f4286035 to db7ef5bf9f59 (1539 revisions)
     <sub>[#5409](https://github.com/flutter/packages/pull/5409) merged on November 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5409) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Chris Yang](https://github.com/cyanglaz)</sub>
+    <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### November 4, 2023 to November 10, 2023
 
@@ -1509,7 +1509,7 @@
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.9.10 to 1.9.20 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#5334](https://github.com/flutter/packages/pull/5334) merged on November 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5334) over 10 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.9.10&new-version=1.9.20)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Keith Rozett](https://github.com/krozett)** &mdash; [flutter_markdown] Strip leading whitespace from list items
