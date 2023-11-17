@@ -220,7 +220,7 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds `useRootNavigator` property to `PopupMenuButton` widget.
     <sub>[#137453](https://github.com/flutter/flutter/pull/137453) merged on November 10, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137453) over 1 week, 95 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix tool exit message shown when user provides a non-list to "assets" for a deferred component
     <sub>[#137837](https://github.com/flutter/flutter/pull/137837) merged on November 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137837) over 2 days, 2 additions and 2 deletions in 2 files</sub>
@@ -385,7 +385,7 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Provide more information in 'unsupported class file' gradle error
     <sub>[#136756](https://github.com/flutter/flutter/pull/136756) merged on November 2, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136756) over 2 weeks, 18 additions and 3 deletions in 2 files</sub>
-    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Reid Baker](https://github.com/reidbaker)</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Elias Yishak](https://github.com/eliasyishak)</sub>
 
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Unified analytics events migration for `BuildEvent`
     <sub>[#137562](https://github.com/flutter/flutter/pull/137562) merged on November 1, 2023 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/137562) over 2 days, 313 additions and 33 deletions in 18 files</sub>
@@ -445,7 +445,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `IconButton.iconSize` documentation
     <sub>[#137741](https://github.com/flutter/flutter/pull/137741) merged on November 2, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137741) over 16 hours, 3 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Binni Goel](https://github.com/droidbg)** &mdash; [leak-tracking] Add more leak tracking in test/painting #3
     <sub>[#136170](https://github.com/flutter/flutter/pull/136170) merged on November 3, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/136170) over 3 weeks, 28 additions and 24 deletions in 4 files</sub>
@@ -784,7 +784,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In the scenario game loop test, cancel the results writer task if the activity has been destroyed
     <sub>[#48051](https://github.com/flutter/engine/pull/48051) merged on November 15, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/48051) over 15 hours, 19 additions and 11 deletions in 1 file</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `flow/...` compatible with `.clang_tidy`.
     <sub>[#48148](https://github.com/flutter/engine/pull/48148) merged on November 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48148) over 2 hours, 26 additions and 33 deletions in 14 files</sub>
@@ -864,7 +864,7 @@
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Revert "Add an AndroidManifest.xml flag to disable ImageReader backend Platform Views (#46430)"
     <sub>[#48024](https://github.com/flutter/engine/pull/48024) merged on November 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48024) over 1 hour, 2 additions and 76 deletions in 10 files</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 ### November 4, 2023 to November 10, 2023
 
@@ -1073,7 +1073,7 @@
 
 * **[Alexander Thomas](https://github.com/athomas)** &mdash; Remove references to the runtime/third_party directory in the Dart SDK
     <sub>[#47853](https://github.com/flutter/engine/pull/47853) merged on November 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/47853) over 13 hours, 1 addition and 9 deletions in 3 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Alexander Aprelev](https://github.com/aam)</sub>
+    <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[utzcoz](https://github.com/utzcoz)** &mdash; Bump minSdk to 19 for Android tests
     <sub>[#47686](https://github.com/flutter/engine/pull/47686) merged on November 10, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/47686) over 6 days, 88 additions and 212 deletions in 18 files</sub>
