@@ -101,3 +101,6 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate customer_testing to sharded tests.<br />
     <sub>[#138659](https://github.com/flutter/flutter/pull/138659) opened on on November 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138659) 58 additions and 26 deletions in 6 files</sub><br />
 
+* **[TabooSun](https://github.com/TabooSun)** &mdash; Gen l10n add named argument option<br />
+    <sub>[#138663](https://github.com/flutter/flutter/pull/138663) opened on on November 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138663) 94 additions and 9 deletions in 6 files</sub><br />
+
