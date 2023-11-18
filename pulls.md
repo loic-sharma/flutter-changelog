@@ -104,6 +104,6 @@
 * **[TabooSun](https://github.com/TabooSun)** &mdash; Gen l10n add named argument option<br />
     <sub>[#138663](https://github.com/flutter/flutter/pull/138663) opened on on November 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138663) 94 additions and 9 deletions in 6 files</sub><br />
 
-* **[Tirth](https://github.com/piedcipher)** &mdash; Adds `includeSeperatorForLastItem` argument for `ListView.separated` factory<br />
+* **[Tirth](https://github.com/piedcipher)** &mdash; Adds `includeSeparatorForLastItem` argument for `ListView.separated` factory<br />
     <sub>[#138672](https://github.com/flutter/flutter/pull/138672) opened on on November 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138672) 35 additions and 2 deletions in 2 files</sub><br />
 
