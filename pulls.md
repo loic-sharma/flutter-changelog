@@ -98,3 +98,6 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add command line parameter that turns on leak tracking.<br />
     <sub>[#138653](https://github.com/flutter/flutter/pull/138653) opened on on November 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138653) 19 additions and 3 deletions in 1 file</sub><br />
 
+* **[Dall127](https://github.com/Dall127)** &mdash; Add ability to return TextSelection from SelectableRegion<br />
+    <sub>[#138654](https://github.com/flutter/flutter/pull/138654) opened on on November 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138654) 251 additions and 4 deletions in 6 files</sub><br />
+
