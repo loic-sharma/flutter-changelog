@@ -89,9 +89,6 @@
 * **[raphire08](https://github.com/raphire08)** &mdash; refactored cli tool ipa method name to support --export-options-plist<br />
     <sub>[#138555](https://github.com/flutter/flutter/pull/138555) opened on on November 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138555) 73 additions and 2 deletions in 2 files</sub><br />
 
-* **[John Ryan](https://github.com/johnpryan)** &mdash; Update release.yml<br />
-    <sub>[#138561](https://github.com/flutter/flutter/pull/138561) opened on on November 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138561) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Prepare for dynamically sized views<br />
     <sub>[#138565](https://github.com/flutter/flutter/pull/138565) opened on on November 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138565) 6 additions and 4 deletions in 3 files</sub><br />
 

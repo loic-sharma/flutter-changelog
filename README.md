@@ -4,7 +4,7 @@
 
 ### November 11, 2023 to November 17, 2023
 
-36 commits.
+37 commits.
 
 * **[Arpit Gandhi](https://github.com/arpitgandhi9)** &mdash; #60704: Pass cert for TLS localhost connection<br />
     <sub>[#106635](https://github.com/flutter/flutter/pull/106635) merged on November 16, 2023 &mdash; **Small:** [47 comments](https://github.com/flutter/flutter/pull/106635) over 16 months, 155 additions and 6 deletions in 9 files</sub><br />
@@ -55,16 +55,16 @@
     <sub>[#136854](https://github.com/flutter/flutter/pull/136854) merged on November 15, 2023 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/136854) over 3 weeks, 215 additions and 113 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Reduce animations further when --no-cli-animations is set.<br />
-    <sub>[#133598](https://github.com/flutter/flutter/pull/133598) merged on November 16, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/133598) over 2 months, 48 additions and 12 deletions in 9 files</sub><br />
+* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Catch error for missing directory in `FontConfigManager`<br />
+    <sub>[#138496](https://github.com/flutter/flutter/pull/138496) merged on November 15, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/138496) over 5 hours, 17 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add a DevTools section to CONTRIBUTING.md<br />
     <sub>[#137193](https://github.com/flutter/flutter/pull/137193) merged on November 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137193) over 2 weeks, 11 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Catch error for missing directory in `FontConfigManager`<br />
-    <sub>[#138496](https://github.com/flutter/flutter/pull/138496) merged on November 15, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/138496) over 5 hours, 17 additions and 1 deletion in 2 files</sub><br />
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Reduce animations further when --no-cli-animations is set.<br />
+    <sub>[#133598](https://github.com/flutter/flutter/pull/133598) merged on November 16, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/133598) over 2 months, 48 additions and 12 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Improves output file path logic in Android analyze<br />
@@ -99,9 +99,17 @@
     <sub>[#138235](https://github.com/flutter/flutter/pull/138235) merged on November 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/138235) over 6 days, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] skip flaky overflow_clipbehavior_none.cupertino.0.png golden check<br />
+    <sub>[#138498](https://github.com/flutter/flutter/pull/138498) merged on November 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138498) over 2 hours, 7 additions and 4 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak tracker.<br />
     <sub>[#138283](https://github.com/flutter/flutter/pull/138283) merged on November 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138283) over 2 days, 95 additions and 136 deletions in 48 files</sub><br />
     <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[huycozy](https://github.com/huycozy)** &mdash; Adding new packages to the first-party package issue template<br />
+    <sub>[#138540](https://github.com/flutter/flutter/pull/138540) merged on November 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138540) over 6 hours, 3 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Unified analytics migration for `CodeSizeAnalysis`<br />
     <sub>[#138351](https://github.com/flutter/flutter/pull/138351) merged on November 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138351) over 1 day, 20 additions and 0 deletions in 8 files</sub><br />
@@ -111,14 +119,6 @@
     <sub>[#138374](https://github.com/flutter/flutter/pull/138374) merged on November 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138374) over 19 hours, 6 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
-* **[huycozy](https://github.com/huycozy)** &mdash; Adding new packages to the first-party package issue template<br />
-    <sub>[#138540](https://github.com/flutter/flutter/pull/138540) merged on November 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138540) over 6 hours, 3 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
-
-* **[Yegor](https://github.com/yjbanov)** &mdash; [web] skip flaky overflow_clipbehavior_none.cupertino.0.png golden check<br />
-    <sub>[#138498](https://github.com/flutter/flutter/pull/138498) merged on November 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138498) over 2 hours, 7 additions and 4 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
-
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; Reland [SingleChildScrollView] Correct the offset pixels if it is out of range during layout<br />
     <sub>[#136871](https://github.com/flutter/flutter/pull/136871) merged on November 15, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/136871) over 3 weeks, 53 additions and 16 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
@@ -126,6 +126,10 @@
 * **[Peter Abraham](https://github.com/peterabrahamdev)** &mdash; Fixing typo<br />
     <sub>[#138253](https://github.com/flutter/flutter/pull/138253) merged on November 14, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138253) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Update release.yml<br />
+    <sub>[#138561](https://github.com/flutter/flutter/pull/138561) merged on November 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138561) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Pin package:web 0.4.0<br />
     <sub>[#138428](https://github.com/flutter/flutter/pull/138428) merged on November 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138428) over 1 day, 126 additions and 124 deletions in 63 files</sub><br />
@@ -1459,7 +1463,7 @@
 
 ### November 11, 2023 to November 17, 2023
 
-14 commits.
+15 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Improve macOS frame management<br />
     <sub>[#5078](https://github.com/flutter/packages/pull/5078) merged on November 16, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/5078) over 1 month, 546 additions and 165 deletions in 11 files</sub><br />
@@ -1492,6 +1496,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [plugin_platform_interface] Switch mixin to `mixin class`<br />
     <sub>[#5420](https://github.com/flutter/packages/pull/5420) merged on November 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5420) over 2 hours, 9 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [shared_preferences_web] migrate to pkg:web<br />
+    <sub>[#5414](https://github.com/flutter/packages/pull/5414) merged on November 18, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5414) over 1 day, 41 additions and 14 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [go_router] Fixes use of `Iterable`<br />
     <sub>[#5421](https://github.com/flutter/packages/pull/5421) merged on November 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5421) over 1 hour, 12 additions and 7 deletions in 4 files</sub><br />
