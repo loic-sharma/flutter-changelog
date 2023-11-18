@@ -1459,7 +1459,7 @@
 
 ### November 11, 2023 to November 17, 2023
 
-13 commits.
+14 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Improve macOS frame management<br />
     <sub>[#5078](https://github.com/flutter/packages/pull/5078) merged on November 16, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/5078) over 1 month, 546 additions and 165 deletions in 11 files</sub><br />
@@ -1472,6 +1472,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Add Kotlin autoformatting<br />
     <sub>[#5374](https://github.com/flutter/packages/pull/5374) merged on November 13, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/5374) over 22 hours, 1819 additions and 1263 deletions in 31 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Roll minimum allowable Flutter to 3.10<br />
+    <sub>[#5425](https://github.com/flutter/packages/pull/5425) merged on November 18, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/5425) over 4 hours, 693 additions and 323 deletions in 269 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [chunhtai](https://github.com/chunhtai), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Adds `analyzer` 6.x compatibility<br />
     <sub>[#5418](https://github.com/flutter/packages/pull/5418) merged on November 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5418) over 4 hours, 7 additions and 3 deletions in 3 files</sub><br />
