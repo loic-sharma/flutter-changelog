@@ -55,16 +55,12 @@
     <sub>[#136854](https://github.com/flutter/flutter/pull/136854) merged on November 15, 2023 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/136854) over 3 weeks, 215 additions and 113 deletions in 3 files</sub>
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Catch error for missing directory in `FontConfigManager`
-    <sub>[#138496](https://github.com/flutter/flutter/pull/138496) merged on November 15, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/138496) over 5 hours, 17 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add a DevTools section to CONTRIBUTING.md
     <sub>[#137193](https://github.com/flutter/flutter/pull/137193) merged on November 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137193) over 2 weeks, 11 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Reduce animations further when --no-cli-animations is set.
-    <sub>[#133598](https://github.com/flutter/flutter/pull/133598) merged on November 16, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/133598) over 2 months, 48 additions and 12 deletions in 9 files</sub>
+* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Catch error for missing directory in `FontConfigManager`
+    <sub>[#138496](https://github.com/flutter/flutter/pull/138496) merged on November 15, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/138496) over 5 hours, 17 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Improves output file path logic in Android analyze
@@ -78,6 +74,10 @@
 * **[Fedor Blagodyr](https://github.com/feduke-nukem)** &mdash; Fix sliver persistent header expand animation
     <sub>[#137913](https://github.com/flutter/flutter/pull/137913) merged on November 16, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/137913) over 1 week, 41 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Reduce animations further when --no-cli-animations is set.
+    <sub>[#133598](https://github.com/flutter/flutter/pull/133598) merged on November 16, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/133598) over 2 months, 48 additions and 12 deletions in 9 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [flutter_tools] - Add `queries` section to Android manifest file
     <sub>[#137207](https://github.com/flutter/flutter/pull/137207) merged on November 16, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/137207) over 3 weeks, 300 additions and 1 deletion in 26 files</sub>
