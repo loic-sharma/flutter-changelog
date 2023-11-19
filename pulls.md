@@ -69,7 +69,7 @@
     <sub>[#138025](https://github.com/flutter/flutter/pull/138025) opened on on November 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138025) 150 additions and 30 deletions in 2 files</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Give an actionable error message when a Pod requires a higher minimum OS version<br />
-    <sub>[#138097](https://github.com/flutter/flutter/pull/138097) opened on on November 8, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/138097) 615 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#138097](https://github.com/flutter/flutter/pull/138097) opened on on November 8, 2023 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/138097) 615 additions and 2 deletions in 2 files</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] update Android SDK to 34<br />
     <sub>[#138183](https://github.com/flutter/flutter/pull/138183) opened on on November 9, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/138183) 167 additions and 167 deletions in 1 file</sub><br />
