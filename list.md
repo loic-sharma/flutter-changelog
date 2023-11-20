@@ -1062,11 +1062,15 @@
 
 ### November 18, 2023 to November 24, 2023
 
-1 commits.
+2 commits.
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [webview_flutter] Support for handling basic authentication requests (Platform Interface)
     <sub>[#5362](https://github.com/flutter/packages/pull/5362) merged on November 20, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/5362) over 1 week, 134 additions and 4 deletions in 9 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Update CODEOWNERS
+    <sub>[#5452](https://github.com/flutter/packages/pull/5452) merged on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5452) over 1 hour, 4 additions and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 ### November 11, 2023 to November 17, 2023
 

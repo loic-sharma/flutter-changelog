@@ -105,8 +105,8 @@
     <sub>[#138757](https://github.com/flutter/flutter/pull/138757) opened on on November 20, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138757) 11 additions and 2 deletions in 2 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; In `flutter doctor -v`, when JRE is too out-of-date to run `sdkmanager`, print a helpful error message<br />
-    <sub>[#138762](https://github.com/flutter/flutter/pull/138762) opened on on November 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138762) 78 additions and 14 deletions in 3 files</sub><br />
+    <sub>[#138762](https://github.com/flutter/flutter/pull/138762) opened on on November 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138762) 77 additions and 14 deletions in 3 files</sub><br />
 
 * **[Jacob Pritchett](https://github.com/JacobSyndeo)** &mdash; Implement Specific Fixes for Multi-Touch Scrolling Across Platforms<br />
-    <sub>[#138763](https://github.com/flutter/flutter/pull/138763) opened on on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138763) 191 additions and 9 deletions in 4 files</sub><br />
+    <sub>[#138763](https://github.com/flutter/flutter/pull/138763) opened on on November 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138763) 191 additions and 9 deletions in 4 files</sub><br />
 
