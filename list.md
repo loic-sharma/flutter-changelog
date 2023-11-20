@@ -1008,9 +1008,18 @@
 
 ## flutter/packages
 
+### November 18, 2023 to November 24, 2023
+
+1 commits.
+
+* **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [webview_flutter] Support for handling basic authentication requests (Platform Interface)
+    <sub>[#5362](https://github.com/flutter/packages/pull/5362) merged on November 20, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/5362) over 1 week, 134 additions and 4 deletions in 9 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
 ### November 11, 2023 to November 17, 2023
 
-15 commits.
+<details>
+<summary>15 commits...</summary>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Improve macOS frame management
     <sub>[#5078](https://github.com/flutter/packages/pull/5078) merged on November 16, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/5078) over 1 month, 546 additions and 165 deletions in 11 files</sub>
@@ -1071,6 +1080,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Flutter (stable) from d211f4286035 to db7ef5bf9f59 (1539 revisions)
     <sub>[#5409](https://github.com/flutter/packages/pull/5409) merged on November 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5409) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Chris Yang](https://github.com/cyanglaz), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### November 4, 2023 to November 10, 2023
 
