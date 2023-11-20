@@ -395,11 +395,15 @@
 
 ### November 18, 2023 to November 24, 2023
 
-2 commits.
+3 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Moves expat, ocmock, libjpeg-turbo, libwebp, and wuffs to //flutter/third_party
     <sub>[#48193](https://github.com/flutter/engine/pull/48193) merged on November 20, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/48193) over 2 days, 3482 additions and 3382 deletions in 22 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Dan Field](https://github.com/dnfield)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] EngineFlutterView.dispose()
+    <sub>[#48183](https://github.com/flutter/engine/pull/48183) merged on November 20, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/48183) over 3 days, 112 additions and 21 deletions in 7 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Replace calls to SkFontMgr::RefDefault
     <sub>[#48179](https://github.com/flutter/engine/pull/48179) merged on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48179) over 2 days, 18 additions and 9 deletions in 7 files</sub>
