@@ -4,7 +4,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-3 commits.
+4 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix file deletion crash in BuildIOSArchiveCommand.runCommand
     <sub>[#138734](https://github.com/flutter/flutter/pull/138734) merged on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138734) over 1 hour, 42 additions and 1 deletion in 2 files</sub>
@@ -13,6 +13,10 @@
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; test owners: cyanglaz -> vashworth
     <sub>[#138726](https://github.com/flutter/flutter/pull/138726) merged on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138726) over 5 hours, 24 additions and 24 deletions in 1 file</sub>
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [Reland] Introduce `AnimationStyle`
+    <sub>[#138721](https://github.com/flutter/flutter/pull/138721) merged on November 20, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/138721) over 9 hours, 826 additions and 37 deletions in 13 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland update bottom navigation bar test for m3
     <sub>[#137998](https://github.com/flutter/flutter/pull/137998) merged on November 20, 2023 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/137998) over 1 week, 646 additions and 23 deletions in 2 files</sub>
