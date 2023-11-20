@@ -122,3 +122,6 @@
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; test owners: cyanglaz -> vashworth<br />
     <sub>[#138726](https://github.com/flutter/flutter/pull/138726) opened on on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138726) 24 additions and 24 deletions in 1 file</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix file deletion crash in BuildIOSArchiveCommand.runCommand<br />
+    <sub>[#138734](https://github.com/flutter/flutter/pull/138734) opened on on November 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138734) 42 additions and 1 deletion in 2 files</sub><br />
+
