@@ -104,9 +104,3 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds `includeSeparatorForLastItem` argument for `ListView.separated` factory<br />
     <sub>[#138672](https://github.com/flutter/flutter/pull/138672) opened on on November 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138672) 35 additions and 2 deletions in 2 files</sub><br />
 
-* **[heywopeky](https://github.com/heywopeky)** &mdash; Texting app<br />
-    <sub>[#138714](https://github.com/flutter/flutter/pull/138714) opened on on November 20, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/138714) 575 additions and 169 deletions in 74 files</sub><br />
-
-* **[heywopeky](https://github.com/heywopeky)** &mdash; Texting<br />
-    <sub>[#138715](https://github.com/flutter/flutter/pull/138715) opened on on November 20, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/138715) 575 additions and 169 deletions in 74 files</sub><br />
-
