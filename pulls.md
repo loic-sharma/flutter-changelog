@@ -104,3 +104,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds `includeSeparatorForLastItem` argument for `ListView.separated` factory<br />
     <sub>[#138672](https://github.com/flutter/flutter/pull/138672) opened on on November 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138672) 35 additions and 2 deletions in 2 files</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix turbulence seed for all tests with ink sparkles<br />
+    <sub>[#138757](https://github.com/flutter/flutter/pull/138757) opened on on November 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138757) 11 additions and 2 deletions in 2 files</sub><br />
+
