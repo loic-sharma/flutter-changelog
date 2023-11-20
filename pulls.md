@@ -105,5 +105,8 @@
     <sub>[#138672](https://github.com/flutter/flutter/pull/138672) opened on on November 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138672) 35 additions and 2 deletions in 2 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix turbulence seed for all tests with ink sparkles<br />
-    <sub>[#138757](https://github.com/flutter/flutter/pull/138757) opened on on November 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138757) 11 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#138757](https://github.com/flutter/flutter/pull/138757) opened on on November 20, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138757) 11 additions and 2 deletions in 2 files</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Bump dartdoc to 7.0.2<br />
+    <sub>[#138760](https://github.com/flutter/flutter/pull/138760) opened on on November 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138760) 1 addition and 1 deletion in 1 file</sub><br />
 
