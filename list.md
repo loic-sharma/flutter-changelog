@@ -406,7 +406,12 @@
 
 ### November 18, 2023 to November 24, 2023
 
-4 commits.
+5 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Write a text-decoration test at the `dart:ui` layer
+    <sub>[#48101](https://github.com/flutter/engine/pull/48101) merged on November 20, 2023 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/48101) over 4 days, 51 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/engine/assets/168174/3deeab8d-409d-4b2e-8bdf-1cae272636f8)</details></sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Moves expat, ocmock, libjpeg-turbo, libwebp, and wuffs to //flutter/third_party
     <sub>[#48193](https://github.com/flutter/engine/pull/48193) merged on November 20, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/48193) over 2 days, 3482 additions and 3382 deletions in 22 files</sub>
