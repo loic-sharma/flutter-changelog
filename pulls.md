@@ -110,6 +110,3 @@
 * **[heywopeky](https://github.com/heywopeky)** &mdash; Texting<br />
     <sub>[#138715](https://github.com/flutter/flutter/pull/138715) opened on on November 20, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/138715) 575 additions and 169 deletions in 74 files</sub><br />
 
-* **[Chris Yang](https://github.com/cyanglaz)** &mdash; test owners: cyanglaz -> vashworth<br />
-    <sub>[#138726](https://github.com/flutter/flutter/pull/138726) opened on on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138726) 24 additions and 24 deletions in 1 file</sub><br />
-

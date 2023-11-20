@@ -4,11 +4,15 @@
 
 ### November 18, 2023 to November 24, 2023
 
-1 commits.
+2 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix file deletion crash in BuildIOSArchiveCommand.runCommand
     <sub>[#138734](https://github.com/flutter/flutter/pull/138734) merged on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138734) over 1 hour, 42 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Chris Yang](https://github.com/cyanglaz)** &mdash; test owners: cyanglaz -> vashworth
+    <sub>[#138726](https://github.com/flutter/flutter/pull/138726) merged on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138726) over 5 hours, 24 additions and 24 deletions in 1 file</sub>
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 ### November 11, 2023 to November 17, 2023
 
