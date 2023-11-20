@@ -92,6 +92,9 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Prepare for dynamically sized views<br />
     <sub>[#138565](https://github.com/flutter/flutter/pull/138565) opened on on November 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138565) 6 additions and 4 deletions in 3 files</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; [Not for merge] Monitor memory leaks in Flutter Framework.<br />
+    <sub>[#138581](https://github.com/flutter/flutter/pull/138581) opened on on November 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138581) 1 addition and 0 deletions in 1 file</sub><br />
+
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add command line parameter that turns on leak tracking.<br />
     <sub>[#138653](https://github.com/flutter/flutter/pull/138653) opened on on November 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138653) 19 additions and 3 deletions in 1 file</sub><br />
 
