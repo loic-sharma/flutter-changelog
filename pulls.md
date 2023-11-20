@@ -83,9 +83,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix bad state future already completed in flutter logs<br />
     <sub>[#138517](https://github.com/flutter/flutter/pull/138517) opened on on November 16, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/138517) 82 additions and 13 deletions in 4 files</sub><br />
 
-* **[Fernando Trigoso](https://github.com/fertrig)** &mdash; Don't build native assets in `flutter build bundle` (#136641)<br />
-    <sub>[#138518](https://github.com/flutter/flutter/pull/138518) opened on on November 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138518) 163 additions and 127 deletions in 7 files</sub><br />
-
 * **[raphire08](https://github.com/raphire08)** &mdash; refactored cli tool ipa method name to support --export-options-plist<br />
     <sub>[#138555](https://github.com/flutter/flutter/pull/138555) opened on on November 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138555) 73 additions and 2 deletions in 2 files</sub><br />
 
@@ -115,7 +112,4 @@
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; test owners: cyanglaz -> vashworth<br />
     <sub>[#138726](https://github.com/flutter/flutter/pull/138726) opened on on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138726) 24 additions and 24 deletions in 1 file</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix file deletion crash in BuildIOSArchiveCommand.runCommand<br />
-    <sub>[#138734](https://github.com/flutter/flutter/pull/138734) opened on on November 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138734) 42 additions and 1 deletion in 2 files</sub><br />
 
