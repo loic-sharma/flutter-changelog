@@ -393,9 +393,18 @@
 
 ## flutter/engine
 
+### November 18, 2023 to November 24, 2023
+
+1 commits.
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Moves expat, ocmock, libjpeg-turbo, libwebp, and wuffs to //flutter/third_party
+    <sub>[#48193](https://github.com/flutter/engine/pull/48193) merged on November 20, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/48193) over 2 days, 3482 additions and 3382 deletions in 22 files</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
+
 ### November 11, 2023 to November 17, 2023
 
-79 commits.
+<details>
+<summary>79 commits...</summary>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Implements gaussian blur that scales down before applying the blur
     <sub>[#47576](https://github.com/flutter/engine/pull/47576) merged on November 16, 2023 &mdash; **Large:** [45 comments](https://github.com/flutter/engine/pull/47576) over 2 weeks, 658 additions and 15 deletions in 16 files</sub>
@@ -712,6 +721,8 @@
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Revert "Add an AndroidManifest.xml flag to disable ImageReader backend Platform Views (#46430)"
     <sub>[#48024](https://github.com/flutter/engine/pull/48024) merged on November 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48024) over 1 hour, 2 additions and 76 deletions in 10 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+</details>
 
 ### November 4, 2023 to November 10, 2023
 
