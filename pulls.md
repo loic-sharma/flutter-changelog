@@ -110,3 +110,6 @@
 * **[Jacob Pritchett](https://github.com/JacobSyndeo)** &mdash; Implement Specific Fixes for Multi-Touch Scrolling Across Platforms<br />
     <sub>[#138763](https://github.com/flutter/flutter/pull/138763) opened on on November 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138763) 191 additions and 9 deletions in 4 files</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add dartdoc warnings<br />
+    <sub>[#138766](https://github.com/flutter/flutter/pull/138766) opened on on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138766) 2 additions and 0 deletions in 1 file</sub><br />
+

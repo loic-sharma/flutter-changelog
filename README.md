@@ -4,7 +4,11 @@
 
 ### November 18, 2023 to November 24, 2023
 
-4 commits.
+6 commits.
+
+* **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Added Features requested in #137530<br />
+    <sub>[#137532](https://github.com/flutter/flutter/pull/137532) merged on November 20, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/137532) over 3 weeks, 55 additions and 0 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix file deletion crash in BuildIOSArchiveCommand.runCommand<br />
     <sub>[#138734](https://github.com/flutter/flutter/pull/138734) merged on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138734) over 1 hour, 42 additions and 1 deletion in 2 files</sub><br />
@@ -13,6 +17,10 @@
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; test owners: cyanglaz -> vashworth<br />
     <sub>[#138726](https://github.com/flutter/flutter/pull/138726) merged on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138726) over 5 hours, 24 additions and 24 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Bump dartdoc to 7.0.2<br />
+    <sub>[#138760](https://github.com/flutter/flutter/pull/138760) merged on November 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/138760) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [Reland] Introduce `AnimationStyle`<br />
     <sub>[#138721](https://github.com/flutter/flutter/pull/138721) merged on November 20, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/138721) over 9 hours, 826 additions and 37 deletions in 13 files</sub><br />
