@@ -406,11 +406,15 @@
 
 ### November 18, 2023 to November 24, 2023
 
-3 commits.
+4 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Moves expat, ocmock, libjpeg-turbo, libwebp, and wuffs to //flutter/third_party
     <sub>[#48193](https://github.com/flutter/engine/pull/48193) merged on November 20, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/48193) over 2 days, 3482 additions and 3382 deletions in 22 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Dan Field](https://github.com/dnfield)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Protect sdk upload script from missing ndk, add documentation for checking write access, improve comments to add context
+    <sub>[#47989](https://github.com/flutter/engine/pull/47989) merged on November 20, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/47989) over 6 days, 23 additions and 9 deletions in 1 file</sub>
+    <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] EngineFlutterView.dispose()
     <sub>[#48183](https://github.com/flutter/engine/pull/48183) merged on November 20, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/48183) over 3 days, 112 additions and 21 deletions in 7 files</sub>
