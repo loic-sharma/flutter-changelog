@@ -107,3 +107,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds `includeSeparatorForLastItem` argument for `ListView.separated` factory<br />
     <sub>[#138672](https://github.com/flutter/flutter/pull/138672) opened on on November 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138672) 35 additions and 2 deletions in 2 files</sub><br />
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add `undoStackModifier` to `UndoHistory`<br />
+    <sub>[#138674](https://github.com/flutter/flutter/pull/138674) opened on on November 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138674) 35 additions and 20 deletions in 3 files</sub><br />
+
