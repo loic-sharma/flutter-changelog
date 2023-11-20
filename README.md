@@ -4,7 +4,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-2 commits.
+3 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix file deletion crash in BuildIOSArchiveCommand.runCommand<br />
     <sub>[#138734](https://github.com/flutter/flutter/pull/138734) merged on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138734) over 1 hour, 42 additions and 1 deletion in 2 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; test owners: cyanglaz -> vashworth<br />
     <sub>[#138726](https://github.com/flutter/flutter/pull/138726) merged on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138726) over 5 hours, 24 additions and 24 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland update bottom navigation bar test for m3<br />
+    <sub>[#137998](https://github.com/flutter/flutter/pull/137998) merged on November 20, 2023 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/137998) over 1 week, 646 additions and 23 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 ### November 11, 2023 to November 17, 2023
 
@@ -410,7 +414,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-7 commits.
+8 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Write a text-decoration test at the `dart:ui` layer<br />
     <sub>[#48101](https://github.com/flutter/engine/pull/48101) merged on November 20, 2023 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/48101) over 4 days, 51 additions and 2 deletions in 2 files</sub><br />
@@ -420,6 +424,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Moves expat, ocmock, libjpeg-turbo, libwebp, and wuffs to //flutter/third_party<br />
     <sub>[#48193](https://github.com/flutter/engine/pull/48193) merged on November 20, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/48193) over 2 days, 3482 additions and 3382 deletions in 22 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Dan Field](https://github.com/dnfield)</sub><br />
+
+* **[sunhongjie](https://github.com/hongeSunCoder)** &mdash; Fix embedder glfw examples cmake subdirectory path error<br />
+    <sub>[#48013](https://github.com/flutter/engine/pull/48013) merged on November 20, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/48013) over 6 days, 5 additions and 5 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Protect sdk upload script from missing ndk, add documentation for checking write access, improve comments to add context<br />
     <sub>[#47989](https://github.com/flutter/engine/pull/47989) merged on November 20, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/47989) over 6 days, 23 additions and 9 deletions in 1 file</sub><br />
