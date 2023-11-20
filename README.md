@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### November 18, 2023 to November 24, 2023
+
+1 commits.
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix file deletion crash in BuildIOSArchiveCommand.runCommand<br />
+    <sub>[#138734](https://github.com/flutter/flutter/pull/138734) merged on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138734) over 1 hour, 42 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
 ### November 11, 2023 to November 17, 2023
 
-37 commits.
+<details>
+<summary>37 commits...</summary>
 
 * **[Arpit Gandhi](https://github.com/arpitgandhi9)** &mdash; #60704: Pass cert for TLS localhost connection<br />
     <sub>[#106635](https://github.com/flutter/flutter/pull/106635) merged on November 16, 2023 &mdash; **Small:** [47 comments](https://github.com/flutter/flutter/pull/106635) over 16 months, 155 additions and 6 deletions in 9 files</sub><br />
@@ -154,6 +163,8 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Reland "Update `framework_test.dart` to remove `ButtonBar` usage and remove references from other clases (#137550)<br />
     <sub>[#137753](https://github.com/flutter/flutter/pull/137753) merged on November 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137753) over 1 week, 27 additions and 27 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+</details>
 
 ### November 4, 2023 to November 10, 2023
 
