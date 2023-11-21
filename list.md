@@ -4,7 +4,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-8 commits.
+9 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chips with Tooltip throw an assertion when enabling or disabling
     <sub>[#138799](https://github.com/flutter/flutter/pull/138799) merged on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138799) over 4 hours, 68 additions and 6 deletions in 2 files</sub>
@@ -25,6 +25,10 @@
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; test owners: cyanglaz -> vashworth
     <sub>[#138726](https://github.com/flutter/flutter/pull/138726) merged on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138726) over 5 hours, 24 additions and 24 deletions in 1 file</sub>
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Add mhbdev to AUTHORS
+    <sub>[#138311](https://github.com/flutter/flutter/pull/138311) merged on November 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138311) over 1 week, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Bump dartdoc to 7.0.2
     <sub>[#138760](https://github.com/flutter/flutter/pull/138760) merged on November 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/138760) over 1 hour, 1 addition and 1 deletion in 1 file</sub>

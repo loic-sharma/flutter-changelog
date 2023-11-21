@@ -41,9 +41,6 @@
 * **[Shaun Byrne](https://github.com/ShaunByrne-UniSA)** &mdash; Grey out non-selectable days in CupertinoDatePicker<br />
     <sub>[#136181](https://github.com/flutter/flutter/pull/136181) opened on on October 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136181) 164 additions and 1 deletion in 2 files</sub><br />
 
-* **[Toktar](https://github.com/Toktarla)** &mdash; adding html file<br />
-    <sub>[#136477](https://github.com/flutter/flutter/pull/136477) opened on on October 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136477) 112 additions and 0 deletions in 1 file</sub><br />
-
 * **[Kayla Brady](https://github.com/KaylaBrady)** &mdash; Nav bar acccessibility: Mark nav items as buttons<br />
     <sub>[#136764](https://github.com/flutter/flutter/pull/136764) opened on on October 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136764) 17 additions and 1 deletion in 6 files</sub><br />
 
