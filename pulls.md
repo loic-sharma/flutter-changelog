@@ -90,7 +90,7 @@
     <sub>[#138757](https://github.com/flutter/flutter/pull/138757) opened on on November 20, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/138757) 11 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ricky Souza de Oliveira](https://github.com/HeroRickyGAMES)** &mdash; This is a test implementation of the bug fix package:flutter/src/rendering/mouse_tracker.dart ': Failed assertion: line 205 pos 12: '!_debugDuringDeviceUpdate': is not true.<br />
-    <sub>[#138811](https://github.com/flutter/flutter/pull/138811) opened on on November 21, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/138811) 434 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#138811](https://github.com/flutter/flutter/pull/138811) opened on on November 21, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/138811) 434 additions and 0 deletions in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Edge case on flutter/flutter/issues/135402 with test<br />
     <sub>[#138814](https://github.com/flutter/flutter/pull/138814) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138814) 11 additions and 2 deletions in 2 files</sub><br />

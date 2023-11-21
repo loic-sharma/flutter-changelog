@@ -4,7 +4,11 @@
 
 ### November 18, 2023 to November 24, 2023
 
-11 commits.
+12 commits.
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; In `flutter doctor -v`, when JRE is too out-of-date to run `sdkmanager`, print a helpful error message<br />
+    <sub>[#138762](https://github.com/flutter/flutter/pull/138762) merged on November 21, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/138762) over 1 day, 76 additions and 14 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chips with Tooltip throw an assertion when enabling or disabling<br />
     <sub>[#138799](https://github.com/flutter/flutter/pull/138799) merged on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138799) over 4 hours, 68 additions and 6 deletions in 2 files</sub><br />
@@ -462,7 +466,7 @@
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Ensure that overlay surfaces are constructed with wide gamut settings.<br />
-    <sub>[#48190](https://github.com/flutter/engine/pull/48190) merged on November 21, 2023 &mdash; **Small:** [41 comments](https://github.com/flutter/engine/pull/48190) over 3 days, 154 additions and 22 deletions in 11 files</sub><br />
+    <sub>[#48190](https://github.com/flutter/engine/pull/48190) merged on November 21, 2023 &mdash; **Small:** [42 comments](https://github.com/flutter/engine/pull/48190) over 3 days, 154 additions and 22 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[YaTang](https://github.com/designDo)** &mdash; [PlatformView][Android]VirtualDisplay resize on Android31 and above<br />
