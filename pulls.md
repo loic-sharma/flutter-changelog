@@ -107,9 +107,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; MultiDragPointerState should dispatch creation and disposal events.<br />
     <sub>[#138807](https://github.com/flutter/flutter/pull/138807) opened on on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138807) 47 additions and 1 deletion in 2 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix M3 Tabs Specs links<br />
-    <sub>[#138808](https://github.com/flutter/flutter/pull/138808) opened on on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138808) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; SnapshotPainter should dispatch creation and disposal events.<br />
     <sub>[#138810](https://github.com/flutter/flutter/pull/138810) opened on on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138810) 19 additions and 1 deletion in 2 files</sub><br />
 

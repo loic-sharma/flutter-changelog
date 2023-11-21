@@ -4,7 +4,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-9 commits.
+10 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chips with Tooltip throw an assertion when enabling or disabling
     <sub>[#138799](https://github.com/flutter/flutter/pull/138799) merged on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138799) over 4 hours, 68 additions and 6 deletions in 2 files</sub>
@@ -17,6 +17,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix file deletion crash in BuildIOSArchiveCommand.runCommand
     <sub>[#138734](https://github.com/flutter/flutter/pull/138734) merged on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138734) over 1 hour, 42 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix M3 Tabs Specs links
+    <sub>[#138808](https://github.com/flutter/flutter/pull/138808) merged on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138808) over 7 hours, 2 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add dartdoc warnings
     <sub>[#138766](https://github.com/flutter/flutter/pull/138766) merged on November 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138766) over 1 hour, 2 additions and 0 deletions in 1 file</sub>
