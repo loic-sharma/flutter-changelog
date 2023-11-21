@@ -4,7 +4,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-6 commits.
+7 commits.
 
 * **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Added Features requested in #137530<br />
     <sub>[#137532](https://github.com/flutter/flutter/pull/137532) merged on November 20, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/137532) over 3 weeks, 55 additions and 0 deletions in 3 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix file deletion crash in BuildIOSArchiveCommand.runCommand<br />
     <sub>[#138734](https://github.com/flutter/flutter/pull/138734) merged on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138734) over 1 hour, 42 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add dartdoc warnings<br />
+    <sub>[#138766](https://github.com/flutter/flutter/pull/138766) merged on November 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138766) over 1 hour, 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
 
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; test owners: cyanglaz -> vashworth<br />
     <sub>[#138726](https://github.com/flutter/flutter/pull/138726) merged on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138726) over 5 hours, 24 additions and 24 deletions in 1 file</sub><br />
