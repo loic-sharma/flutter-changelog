@@ -122,3 +122,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; SnapshotPainter should dispatch creation and disposal events.<br />
     <sub>[#138810](https://github.com/flutter/flutter/pull/138810) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138810) 19 additions and 1 deletion in 2 files</sub><br />
 
+* **[Ricky Souza de Oliveira](https://github.com/HeroRickyGAMES)** &mdash; This is a test implementation of the bug fix package:flutter/src/rendering/mouse_tracker.dart ': Failed assertion: line 205 pos 12: '!_debugDuringDeviceUpdate': is not true.<br />
+    <sub>[#138811](https://github.com/flutter/flutter/pull/138811) opened on on November 21, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/138811) 434 additions and 0 deletions in 1 file</sub><br />
+
