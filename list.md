@@ -442,7 +442,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-20 commits.
+21 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Write a text-decoration test at the `dart:ui` layer
     <sub>[#48101](https://github.com/flutter/engine/pull/48101) merged on November 20, 2023 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/48101) over 4 days, 51 additions and 2 deletions in 2 files</sub>
@@ -452,6 +452,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Add add/removeView JS methods.
     <sub>[#48106](https://github.com/flutter/engine/pull/48106) merged on November 21, 2023 &mdash; **Medium:** [44 comments](https://github.com/flutter/engine/pull/48106) over 5 days, 295 additions and 24 deletions in 11 files</sub>
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Switched to static linked libc++ in vulkan validation layers.
+    <sub>[#48290](https://github.com/flutter/engine/pull/48290) merged on November 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/48290) over 1 hour, 4 additions and 8 deletions in 2 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Ensure that overlay surfaces are constructed with wide gamut settings.
     <sub>[#48190](https://github.com/flutter/engine/pull/48190) merged on November 21, 2023 &mdash; **Small:** [40 comments](https://github.com/flutter/engine/pull/48190) over 3 days, 154 additions and 22 deletions in 11 files</sub>
