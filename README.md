@@ -430,12 +430,16 @@
 
 ### November 18, 2023 to November 24, 2023
 
-10 commits.
+11 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Write a text-decoration test at the `dart:ui` layer<br />
     <sub>[#48101](https://github.com/flutter/engine/pull/48101) merged on November 20, 2023 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/48101) over 4 days, 51 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/engine/assets/168174/3deeab8d-409d-4b2e-8bdf-1cae272636f8)</details></sub>
+
+* **[YaTang](https://github.com/designDo)** &mdash; [PlatformView][Android]VirtualDisplay resize on Android31 and above<br />
+    <sub>[#47946](https://github.com/flutter/engine/pull/47946) merged on November 21, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/47946) over 1 week, 20 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Moves expat, ocmock, libjpeg-turbo, libwebp, and wuffs to //flutter/third_party<br />
     <sub>[#48193](https://github.com/flutter/engine/pull/48193) merged on November 20, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/48193) over 2 days, 3482 additions and 3382 deletions in 22 files</sub><br />
