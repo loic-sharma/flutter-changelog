@@ -430,12 +430,16 @@
 
 ### November 18, 2023 to November 24, 2023
 
-11 commits.
+12 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Write a text-decoration test at the `dart:ui` layer
     <sub>[#48101](https://github.com/flutter/engine/pull/48101) merged on November 20, 2023 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/48101) over 4 days, 51 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/engine/assets/168174/3deeab8d-409d-4b2e-8bdf-1cae272636f8)</details></sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Add add/removeView JS methods.
+    <sub>[#48106](https://github.com/flutter/engine/pull/48106) merged on November 21, 2023 &mdash; **Medium:** [44 comments](https://github.com/flutter/engine/pull/48106) over 5 days, 295 additions and 24 deletions in 11 files</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[YaTang](https://github.com/designDo)** &mdash; [PlatformView][Android]VirtualDisplay resize on Android31 and above
     <sub>[#47946](https://github.com/flutter/engine/pull/47946) merged on November 21, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/47946) over 1 week, 20 additions and 0 deletions in 1 file</sub>
