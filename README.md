@@ -438,7 +438,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-14 commits.
+15 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Write a text-decoration test at the `dart:ui` layer<br />
     <sub>[#48101](https://github.com/flutter/engine/pull/48101) merged on November 20, 2023 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/48101) over 4 days, 51 additions and 2 deletions in 2 files</sub><br />
@@ -464,6 +464,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Protect sdk upload script from missing ndk, add documentation for checking write access, improve comments to add context<br />
     <sub>[#47989](https://github.com/flutter/engine/pull/47989) merged on November 20, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/47989) over 6 days, 23 additions and 9 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] preallocate command buffer to next power of two of entity list.<br />
+    <sub>[#48185](https://github.com/flutter/engine/pull/48185) merged on November 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48185) over 3 days, 43 additions and 7 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements gaussian "blur halo"<br />
     <sub>[#48149](https://github.com/flutter/engine/pull/48149) merged on November 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48149) over 4 days, 54 additions and 63 deletions in 2 files</sub><br />
