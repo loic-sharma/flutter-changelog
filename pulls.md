@@ -122,9 +122,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Edge case on flutter/flutter/issues/135402 with test<br />
     <sub>[#138814](https://github.com/flutter/flutter/pull/138814) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138814) 11 additions and 2 deletions in 2 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP] Fix file deletion crash in BuildIOSArchiveCommand.runCommand<br />
-    <sub>[#138823](https://github.com/flutter/flutter/pull/138823) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138823) 42 additions and 1 deletion in 2 files</sub><br />
-
 * **[Casey Rogers](https://github.com/caseycrogers)** &mdash; Make OverlayPortalController listenable<br />
     <sub>[#138829](https://github.com/flutter/flutter/pull/138829) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138829) 71 additions and 1 deletion in 2 files</sub><br />
 
