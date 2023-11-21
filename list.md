@@ -438,7 +438,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-19 commits.
+20 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Write a text-decoration test at the `dart:ui` layer
     <sub>[#48101](https://github.com/flutter/engine/pull/48101) merged on November 20, 2023 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/48101) over 4 days, 51 additions and 2 deletions in 2 files</sub>
@@ -468,6 +468,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Protect sdk upload script from missing ndk, add documentation for checking write access, improve comments to add context
     <sub>[#47989](https://github.com/flutter/engine/pull/47989) merged on November 20, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/47989) over 6 days, 23 additions and 9 deletions in 1 file</sub>
     <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [John McCutchan](https://github.com/johnmccutchan)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Yet more compliance with `.clang_tidy`, stragglers edition.
+    <sub>[#48291](https://github.com/flutter/engine/pull/48291) merged on November 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48291) over 32 minutes, 50 additions and 24 deletions in 13 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `{shell|lib/ui}/...` compatible with `.clang_tidy`.
     <sub>[#48242](https://github.com/flutter/engine/pull/48242) merged on November 21, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/48242) over 23 hours, 167 additions and 146 deletions in 22 files</sub>
