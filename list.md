@@ -438,7 +438,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-15 commits.
+16 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Write a text-decoration test at the `dart:ui` layer
     <sub>[#48101](https://github.com/flutter/engine/pull/48101) merged on November 20, 2023 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/48101) over 4 days, 51 additions and 2 deletions in 2 files</sub>
@@ -464,6 +464,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Protect sdk upload script from missing ndk, add documentation for checking write access, improve comments to add context
     <sub>[#47989](https://github.com/flutter/engine/pull/47989) merged on November 20, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/47989) over 6 days, 23 additions and 9 deletions in 1 file</sub>
     <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [John McCutchan](https://github.com/johnmccutchan)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `{flow|fml|impeller}/...` compatible with `.clang_tidy`.
+    <sub>[#48241](https://github.com/flutter/engine/pull/48241) merged on November 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48241) over 21 hours, 12 additions and 9 deletions in 5 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] preallocate command buffer to next power of two of entity list.
     <sub>[#48185](https://github.com/flutter/engine/pull/48185) merged on November 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48185) over 3 days, 43 additions and 7 deletions in 6 files</sub>
