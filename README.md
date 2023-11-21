@@ -1114,7 +1114,11 @@
 
 ### November 18, 2023 to November 24, 2023
 
-2 commits.
+3 commits.
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [url_launcher_web] migrate to pkg:web<br />
+    <sub>[#5451](https://github.com/flutter/packages/pull/5451) merged on November 21, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/5451) over 23 hours, 59 additions and 1549 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [webview_flutter] Support for handling basic authentication requests (Platform Interface)<br />
     <sub>[#5362](https://github.com/flutter/packages/pull/5362) merged on November 20, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/5362) over 1 week, 134 additions and 4 deletions in 9 files</sub><br />
