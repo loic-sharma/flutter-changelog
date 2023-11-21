@@ -74,9 +74,6 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] update Android SDK to 34<br />
     <sub>[#138183](https://github.com/flutter/flutter/pull/138183) opened on on November 9, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/138183) 167 additions and 167 deletions in 1 file</sub><br />
 
-* **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Add mhbdev to AUTHORS<br />
-    <sub>[#138311](https://github.com/flutter/flutter/pull/138311) opened on on November 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138311) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[Paul](https://github.com/PAException)** &mdash; Added hover and splash color to NavigationRailDestination<br />
     <sub>[#138453](https://github.com/flutter/flutter/pull/138453) opened on on November 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138453) 81 additions and 2 deletions in 2 files</sub><br />
 
