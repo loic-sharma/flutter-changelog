@@ -125,6 +125,3 @@
 * **[miguelmato](https://github.com/miguelmato)** &mdash; fix bottom_sheet closing with upwards motion<br />
     <sub>[#138841](https://github.com/flutter/flutter/pull/138841) opened on on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138841) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Reland VelocityTracker update (again)<br />
-    <sub>[#138843](https://github.com/flutter/flutter/pull/138843) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138843) 141 additions and 43 deletions in 7 files</sub><br />
-

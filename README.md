@@ -438,7 +438,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-18 commits.
+19 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Write a text-decoration test at the `dart:ui` layer<br />
     <sub>[#48101](https://github.com/flutter/engine/pull/48101) merged on November 20, 2023 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/48101) over 4 days, 51 additions and 2 deletions in 2 files</sub><br />
@@ -504,6 +504,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `vulkan/...` compatible with `.clang_tidy`.<br />
     <sub>[#48240](https://github.com/flutter/engine/pull/48240) merged on November 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48240) over 37 minutes, 5 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update skia build file to account for new skcms changes.<br />
+    <sub>[#48286](https://github.com/flutter/engine/pull/48286) merged on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48286) over 44 minutes, 86 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] EngineFlutterView.dispose()<br />
     <sub>[#48183](https://github.com/flutter/engine/pull/48183) merged on November 20, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/48183) over 3 days, 112 additions and 21 deletions in 7 files</sub><br />
