@@ -438,7 +438,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-16 commits.
+18 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Write a text-decoration test at the `dart:ui` layer
     <sub>[#48101](https://github.com/flutter/engine/pull/48101) merged on November 20, 2023 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/48101) over 4 days, 51 additions and 2 deletions in 2 files</sub>
@@ -448,6 +448,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Add add/removeView JS methods.
     <sub>[#48106](https://github.com/flutter/engine/pull/48106) merged on November 21, 2023 &mdash; **Medium:** [44 comments](https://github.com/flutter/engine/pull/48106) over 5 days, 295 additions and 24 deletions in 11 files</sub>
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Ensure that overlay surfaces are constructed with wide gamut settings.
+    <sub>[#48190](https://github.com/flutter/engine/pull/48190) merged on November 21, 2023 &mdash; **Small:** [39 comments](https://github.com/flutter/engine/pull/48190) over 3 days, 154 additions and 22 deletions in 11 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[YaTang](https://github.com/designDo)** &mdash; [PlatformView][Android]VirtualDisplay resize on Android31 and above
     <sub>[#47946](https://github.com/flutter/engine/pull/47946) merged on November 21, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/47946) over 1 week, 20 additions and 0 deletions in 1 file</sub>
@@ -464,6 +468,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Protect sdk upload script from missing ndk, add documentation for checking write access, improve comments to add context
     <sub>[#47989](https://github.com/flutter/engine/pull/47989) merged on November 20, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/47989) over 6 days, 23 additions and 9 deletions in 1 file</sub>
     <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [John McCutchan](https://github.com/johnmccutchan)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `{shell|lib/ui}/...` compatible with `.clang_tidy`.
+    <sub>[#48242](https://github.com/flutter/engine/pull/48242) merged on November 21, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/48242) over 23 hours, 167 additions and 146 deletions in 22 files</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `{flow|fml|impeller}/...` compatible with `.clang_tidy`.
     <sub>[#48241](https://github.com/flutter/engine/pull/48241) merged on November 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48241) over 21 hours, 12 additions and 9 deletions in 5 files</sub>
