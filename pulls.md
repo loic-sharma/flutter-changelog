@@ -110,3 +110,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; ScrollDragController should dispatch creation and disposal events.<br />
     <sub>[#138800](https://github.com/flutter/flutter/pull/138800) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138800) 29 additions and 1 deletion in 2 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; SelectionOverlay and TextSelectionOverlay should dispatch creation and disposal events.<br />
+    <sub>[#138804](https://github.com/flutter/flutter/pull/138804) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138804) 108 additions and 1 deletion in 2 files</sub><br />
+
