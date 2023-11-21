@@ -108,20 +108,23 @@
     <sub>[#138763](https://github.com/flutter/flutter/pull/138763) opened on on November 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/138763) 191 additions and 9 deletions in 4 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; ScrollDragController should dispatch creation and disposal events.<br />
-    <sub>[#138800](https://github.com/flutter/flutter/pull/138800) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138800) 29 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#138800](https://github.com/flutter/flutter/pull/138800) opened on on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138800) 29 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; SelectionOverlay and TextSelectionOverlay should dispatch creation and disposal events.<br />
-    <sub>[#138804](https://github.com/flutter/flutter/pull/138804) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138804) 108 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#138804](https://github.com/flutter/flutter/pull/138804) opened on on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138804) 108 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; MultiDragPointerState should dispatch creation and disposal events.<br />
-    <sub>[#138807](https://github.com/flutter/flutter/pull/138807) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138807) 47 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#138807](https://github.com/flutter/flutter/pull/138807) opened on on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138807) 47 additions and 1 deletion in 2 files</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix M3 Tabs Specs links<br />
     <sub>[#138808](https://github.com/flutter/flutter/pull/138808) opened on on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138808) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; SnapshotPainter should dispatch creation and disposal events.<br />
-    <sub>[#138810](https://github.com/flutter/flutter/pull/138810) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138810) 19 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#138810](https://github.com/flutter/flutter/pull/138810) opened on on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138810) 19 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ricky Souza de Oliveira](https://github.com/HeroRickyGAMES)** &mdash; This is a test implementation of the bug fix package:flutter/src/rendering/mouse_tracker.dart ': Failed assertion: line 205 pos 12: '!_debugDuringDeviceUpdate': is not true.<br />
     <sub>[#138811](https://github.com/flutter/flutter/pull/138811) opened on on November 21, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/138811) 434 additions and 0 deletions in 1 file</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Edge case on flutter/flutter/issues/135402 with test<br />
+    <sub>[#138814](https://github.com/flutter/flutter/pull/138814) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138814) 11 additions and 2 deletions in 2 files</sub><br />
 
