@@ -31,7 +31,7 @@
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland update bottom navigation bar test for m3
-    <sub>[#137998](https://github.com/flutter/flutter/pull/137998) merged on November 20, 2023 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/137998) over 1 week, 646 additions and 23 deletions in 2 files</sub>
+    <sub>[#137998](https://github.com/flutter/flutter/pull/137998) merged on November 20, 2023 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/137998) over 1 week, 646 additions and 23 deletions in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 ### November 11, 2023 to November 17, 2023
