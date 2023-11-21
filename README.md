@@ -430,7 +430,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-12 commits.
+13 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Write a text-decoration test at the `dart:ui` layer<br />
     <sub>[#48101](https://github.com/flutter/engine/pull/48101) merged on November 20, 2023 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/48101) over 4 days, 51 additions and 2 deletions in 2 files</sub><br />
@@ -456,6 +456,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Protect sdk upload script from missing ndk, add documentation for checking write access, improve comments to add context<br />
     <sub>[#47989](https://github.com/flutter/engine/pull/47989) merged on November 20, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/47989) over 6 days, 23 additions and 9 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart SDK to 3.3.0-152.0.dev<br />
+    <sub>[#48272](https://github.com/flutter/engine/pull/48272) merged on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48272) over 20 minutes, 2 additions and 4 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Try replacing `*desc` with value/is_valid checks.<br />
     <sub>[#48194](https://github.com/flutter/engine/pull/48194) merged on November 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48194) over 2 days, 34 additions and 4 deletions in 2 files</sub><br />
