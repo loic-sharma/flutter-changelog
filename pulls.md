@@ -125,3 +125,6 @@
 * **[Casey Rogers](https://github.com/caseycrogers)** &mdash; Make OverlayPortalController listenable<br />
     <sub>[#138829](https://github.com/flutter/flutter/pull/138829) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138829) 71 additions and 1 deletion in 2 files</sub><br />
 
+* **[miguelmato](https://github.com/miguelmato)** &mdash; fix bottom_sheet closing with upwards motion<br />
+    <sub>[#138841](https://github.com/flutter/flutter/pull/138841) opened on on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138841) 1 addition and 1 deletion in 1 file</sub><br />
+
