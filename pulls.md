@@ -128,3 +128,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Edge case on flutter/flutter/issues/135402 with test<br />
     <sub>[#138814](https://github.com/flutter/flutter/pull/138814) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138814) 11 additions and 2 deletions in 2 files</sub><br />
 
+* **[Fernando Trigoso](https://github.com/fertrig)** &mdash; Do not build native assets when building a bundle on darwin<br />
+    <sub>[#138816](https://github.com/flutter/flutter/pull/138816) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138816) 14 additions and 1 deletion in 3 files</sub><br />
+
