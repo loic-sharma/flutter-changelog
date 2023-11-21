@@ -4,7 +4,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-10 commits.
+11 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chips with Tooltip throw an assertion when enabling or disabling<br />
     <sub>[#138799](https://github.com/flutter/flutter/pull/138799) merged on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138799) over 4 hours, 68 additions and 6 deletions in 2 files</sub><br />
@@ -45,6 +45,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland update bottom navigation bar test for m3<br />
     <sub>[#137998](https://github.com/flutter/flutter/pull/137998) merged on November 20, 2023 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/137998) over 1 week, 646 additions and 23 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Reland VelocityTracker update (again)<br />
+    <sub>[#138843](https://github.com/flutter/flutter/pull/138843) merged on November 21, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/138843) over 1 hour, 141 additions and 43 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 ### November 11, 2023 to November 17, 2023
 
