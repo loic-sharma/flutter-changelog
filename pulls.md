@@ -107,3 +107,6 @@
 * **[Jacob Pritchett](https://github.com/JacobSyndeo)** &mdash; Implement Specific Fixes for Multi-Touch Scrolling Across Platforms<br />
     <sub>[#138763](https://github.com/flutter/flutter/pull/138763) opened on on November 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/138763) 191 additions and 9 deletions in 4 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; ScrollDragController should dispatch creation and disposal events.<br />
+    <sub>[#138800](https://github.com/flutter/flutter/pull/138800) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138800) 29 additions and 1 deletion in 2 files</sub><br />
+
