@@ -83,41 +83,17 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; [Not for merge] Monitor memory leaks in Flutter Framework.<br />
     <sub>[#138581](https://github.com/flutter/flutter/pull/138581) opened on on November 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138581) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Dall127](https://github.com/Dall127)** &mdash; Add ability to return TextSelection from SelectableRegion<br />
-    <sub>[#138654](https://github.com/flutter/flutter/pull/138654) opened on on November 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138654) 251 additions and 4 deletions in 6 files</sub><br />
-
 * **[TabooSun](https://github.com/TabooSun)** &mdash; Gen l10n add named argument option<br />
     <sub>[#138663](https://github.com/flutter/flutter/pull/138663) opened on on November 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138663) 94 additions and 9 deletions in 6 files</sub><br />
 
-* **[Tirth](https://github.com/piedcipher)** &mdash; Adds `includeSeparatorForLastItem` argument for `ListView.separated` factory<br />
-    <sub>[#138672](https://github.com/flutter/flutter/pull/138672) opened on on November 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138672) 35 additions and 2 deletions in 2 files</sub><br />
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix turbulence seed for all tests with ink sparkles<br />
     <sub>[#138757](https://github.com/flutter/flutter/pull/138757) opened on on November 20, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/138757) 11 additions and 2 deletions in 2 files</sub><br />
-
-* **[Jacob Pritchett](https://github.com/JacobSyndeo)** &mdash; Implement Specific Fixes for Multi-Touch Scrolling Across Platforms<br />
-    <sub>[#138763](https://github.com/flutter/flutter/pull/138763) opened on on November 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/138763) 191 additions and 9 deletions in 4 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; ScrollDragController should dispatch creation and disposal events.<br />
-    <sub>[#138800](https://github.com/flutter/flutter/pull/138800) opened on on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138800) 29 additions and 1 deletion in 2 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; SelectionOverlay and TextSelectionOverlay should dispatch creation and disposal events.<br />
-    <sub>[#138804](https://github.com/flutter/flutter/pull/138804) opened on on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138804) 108 additions and 1 deletion in 2 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; MultiDragPointerState should dispatch creation and disposal events.<br />
-    <sub>[#138807](https://github.com/flutter/flutter/pull/138807) opened on on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138807) 47 additions and 1 deletion in 2 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; SnapshotPainter should dispatch creation and disposal events.<br />
-    <sub>[#138810](https://github.com/flutter/flutter/pull/138810) opened on on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138810) 19 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ricky Souza de Oliveira](https://github.com/HeroRickyGAMES)** &mdash; This is a test implementation of the bug fix package:flutter/src/rendering/mouse_tracker.dart ': Failed assertion: line 205 pos 12: '!_debugDuringDeviceUpdate': is not true.<br />
     <sub>[#138811](https://github.com/flutter/flutter/pull/138811) opened on on November 21, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/138811) 434 additions and 0 deletions in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Edge case on flutter/flutter/issues/135402 with test<br />
     <sub>[#138814](https://github.com/flutter/flutter/pull/138814) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138814) 11 additions and 2 deletions in 2 files</sub><br />
-
-* **[Casey Rogers](https://github.com/caseycrogers)** &mdash; Make OverlayPortalController listenable<br />
-    <sub>[#138829](https://github.com/flutter/flutter/pull/138829) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138829) 71 additions and 1 deletion in 2 files</sub><br />
 
 * **[miguelmato](https://github.com/miguelmato)** &mdash; fix bottom_sheet closing with upwards motion<br />
     <sub>[#138841](https://github.com/flutter/flutter/pull/138841) opened on on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138841) 1 addition and 1 deletion in 1 file</sub><br />
