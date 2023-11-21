@@ -131,3 +131,6 @@
 * **[Fernando Trigoso](https://github.com/fertrig)** &mdash; Do not build native assets when building a bundle on darwin<br />
     <sub>[#138816](https://github.com/flutter/flutter/pull/138816) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138816) 14 additions and 1 deletion in 3 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP] Fix file deletion crash in BuildIOSArchiveCommand.runCommand<br />
+    <sub>[#138823](https://github.com/flutter/flutter/pull/138823) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138823) 42 additions and 1 deletion in 2 files</sub><br />
+
