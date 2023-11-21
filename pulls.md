@@ -113,3 +113,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; SelectionOverlay and TextSelectionOverlay should dispatch creation and disposal events.<br />
     <sub>[#138804](https://github.com/flutter/flutter/pull/138804) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138804) 108 additions and 1 deletion in 2 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; MultiDragPointerState should dispatch creation and disposal events.<br />
+    <sub>[#138807](https://github.com/flutter/flutter/pull/138807) opened on on November 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138807) 47 additions and 1 deletion in 2 files</sub><br />
+
