@@ -105,5 +105,5 @@
     <sub>[#138757](https://github.com/flutter/flutter/pull/138757) opened on on November 20, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138757) 11 additions and 2 deletions in 2 files</sub><br />
 
 * **[Jacob Pritchett](https://github.com/JacobSyndeo)** &mdash; Implement Specific Fixes for Multi-Touch Scrolling Across Platforms<br />
-    <sub>[#138763](https://github.com/flutter/flutter/pull/138763) opened on on November 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138763) 191 additions and 9 deletions in 4 files</sub><br />
+    <sub>[#138763](https://github.com/flutter/flutter/pull/138763) opened on on November 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138763) 191 additions and 9 deletions in 4 files</sub><br />
 
