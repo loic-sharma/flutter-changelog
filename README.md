@@ -426,7 +426,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-9 commits.
+10 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Write a text-decoration test at the `dart:ui` layer<br />
     <sub>[#48101](https://github.com/flutter/engine/pull/48101) merged on November 20, 2023 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/48101) over 4 days, 51 additions and 2 deletions in 2 files</sub><br />
@@ -444,6 +444,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Protect sdk upload script from missing ndk, add documentation for checking write access, improve comments to add context<br />
     <sub>[#47989](https://github.com/flutter/engine/pull/47989) merged on November 20, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/47989) over 6 days, 23 additions and 9 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Try replacing `*desc` with value/is_valid checks.<br />
+    <sub>[#48194](https://github.com/flutter/engine/pull/48194) merged on November 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48194) over 2 days, 34 additions and 4 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `runtime/...` and `shell/common/...` compatible with `.clang-tidy`.<br />
     <sub>[#48158](https://github.com/flutter/engine/pull/48158) merged on November 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48158) over 3 days, 31 additions and 17 deletions in 13 files</sub><br />
