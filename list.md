@@ -4,7 +4,11 @@
 
 ### November 18, 2023 to November 24, 2023
 
-7 commits.
+8 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chips with Tooltip throw an assertion when enabling or disabling
+    <sub>[#138799](https://github.com/flutter/flutter/pull/138799) merged on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138799) over 4 hours, 68 additions and 6 deletions in 2 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Added Features requested in #137530
     <sub>[#137532](https://github.com/flutter/flutter/pull/137532) merged on November 20, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/137532) over 3 weeks, 55 additions and 0 deletions in 3 files</sub>
