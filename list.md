@@ -4,7 +4,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-14 commits.
+15 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; In `flutter doctor -v`, when JRE is too out-of-date to run `sdkmanager`, print a helpful error message
     <sub>[#138762](https://github.com/flutter/flutter/pull/138762) merged on November 21, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/138762) over 1 day, 76 additions and 14 deletions in 3 files</sub>
@@ -37,6 +37,10 @@
 * **[Chris Yang](https://github.com/cyanglaz)** &mdash; test owners: cyanglaz -> vashworth
     <sub>[#138726](https://github.com/flutter/flutter/pull/138726) merged on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138726) over 5 hours, 24 additions and 24 deletions in 1 file</sub>
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update the default outline color for `OutlinedButton`
+    <sub>[#138768](https://github.com/flutter/flutter/pull/138768) merged on November 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138768) over 1 day, 36 additions and 7 deletions in 4 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Add mhbdev to AUTHORS
     <sub>[#138311](https://github.com/flutter/flutter/pull/138311) merged on November 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138311) over 1 week, 1 addition and 0 deletions in 1 file</sub>
