@@ -4,7 +4,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-16 commits.
+17 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; In `flutter doctor -v`, when JRE is too out-of-date to run `sdkmanager`, print a helpful error message<br />
     <sub>[#138762](https://github.com/flutter/flutter/pull/138762) merged on November 21, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/138762) over 1 day, 76 additions and 14 deletions in 3 files</sub><br />
@@ -24,6 +24,10 @@
 
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Add `commandHasTerminal` parameter + apple usage event + `sendException` events for `package:unified_analytics`<br />
     <sub>[#138806](https://github.com/flutter/flutter/pull/138806) merged on November 22, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/138806) over 21 hours, 298 additions and 14 deletions in 32 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix team-infra label in dependabot<br />
+    <sub>[#138917](https://github.com/flutter/flutter/pull/138917) merged on November 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138917) over 49 minutes, 3 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; make FakeView not send Scene and semantics to the engine<br />
