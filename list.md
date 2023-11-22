@@ -4,7 +4,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-13 commits.
+14 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; In `flutter doctor -v`, when JRE is too out-of-date to run `sdkmanager`, print a helpful error message
     <sub>[#138762](https://github.com/flutter/flutter/pull/138762) merged on November 21, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/138762) over 1 day, 76 additions and 14 deletions in 3 files</sub>
@@ -20,6 +20,10 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix file deletion crash in BuildIOSArchiveCommand.runCommand
     <sub>[#138734](https://github.com/flutter/flutter/pull/138734) merged on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138734) over 1 hour, 42 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Add `commandHasTerminal` parameter + apple usage event + `sendException` events for `package:unified_analytics`
+    <sub>[#138806](https://github.com/flutter/flutter/pull/138806) merged on November 22, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/138806) over 21 hours, 298 additions and 14 deletions in 32 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix M3 Tabs Specs links
