@@ -466,7 +466,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-34 commits.
+35 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Write a text-decoration test at the `dart:ui` layer
     <sub>[#48101](https://github.com/flutter/engine/pull/48101) merged on November 20, 2023 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/48101) over 4 days, 51 additions and 2 deletions in 2 files</sub>
@@ -529,10 +529,6 @@
     <sub>[#48327](https://github.com/flutter/engine/pull/48327) merged on November 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48327) over 1 hour, 0 additions and 264 deletions in 10 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] pass const ref to binding helpers.
-    <sub>[#48318](https://github.com/flutter/engine/pull/48318) merged on November 22, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/48318) over 2 hours, 7 additions and 7 deletions in 2 files</sub>
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Finish making `shell/platform/linux/...` compatible with `.clang-tidy`.
     <sub>[#48297](https://github.com/flutter/engine/pull/48297) merged on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48297) over 38 minutes, 2 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -561,9 +557,13 @@
     <sub>[#48185](https://github.com/flutter/engine/pull/48185) merged on November 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48185) over 3 days, 43 additions and 7 deletions in 6 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart SDK to 3.3.0-152.0.dev
-    <sub>[#48272](https://github.com/flutter/engine/pull/48272) merged on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48272) over 20 minutes, 2 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `vulkan/...` compatible with `.clang_tidy`.
+    <sub>[#48240](https://github.com/flutter/engine/pull/48240) merged on November 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48240) over 37 minutes, 5 additions and 5 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] pass const ref to binding helpers.
+    <sub>[#48318](https://github.com/flutter/engine/pull/48318) merged on November 22, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/48318) over 2 hours, 7 additions and 7 deletions in 2 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Try replacing `*desc` with value/is_valid checks.
     <sub>[#48194](https://github.com/flutter/engine/pull/48194) merged on November 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48194) over 2 days, 34 additions and 4 deletions in 2 files</sub>
@@ -577,13 +577,17 @@
     <sub>[#48239](https://github.com/flutter/engine/pull/48239) merged on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48239) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `vulkan/...` compatible with `.clang_tidy`.
-    <sub>[#48240](https://github.com/flutter/engine/pull/48240) merged on November 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48240) over 37 minutes, 5 additions and 5 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart SDK to 3.3.0-152.0.dev
+    <sub>[#48272](https://github.com/flutter/engine/pull/48272) merged on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48272) over 20 minutes, 2 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements gaussian "blur halo"
     <sub>[#48149](https://github.com/flutter/engine/pull/48149) merged on November 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48149) over 4 days, 54 additions and 63 deletions in 2 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] pass const ref to binding helpers."
+    <sub>[#48330](https://github.com/flutter/engine/pull/48330) merged on November 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48330) over 48 seconds, 7 additions and 7 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update skia build file to account for new skcms changes.
     <sub>[#48286](https://github.com/flutter/engine/pull/48286) merged on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48286) over 44 minutes, 86 additions and 2 deletions in 1 file</sub>
@@ -597,9 +601,9 @@
     <sub>[#48179](https://github.com/flutter/engine/pull/48179) merged on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48179) over 2 days, 18 additions and 9 deletions in 7 files</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] pass const ref to binding helpers."
-    <sub>[#48330](https://github.com/flutter/engine/pull/48330) merged on November 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48330) over 48 seconds, 7 additions and 7 deletions in 2 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Hook the new JS API to the FlutterViewManager
+    <sub>[#48283](https://github.com/flutter/engine/pull/48283) merged on November 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48283) over 1 day, 150 additions and 110 deletions in 9 files</sub>
+    <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from f1fd14505782 to df958dc1ca7b (6 revisions)
     <sub>[#48316](https://github.com/flutter/engine/pull/48316) merged on November 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48316) over 41 minutes, 6 additions and 3 deletions in 3 files</sub>
