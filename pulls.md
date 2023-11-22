@@ -113,3 +113,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [l10n] Update Material shareButtonLabel<br />
     <sub>[#138899](https://github.com/flutter/flutter/pull/138899) opened on on November 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138899) 34 additions and 4 deletions in 4 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to customize `NavigationBar` indicator overlay and fix indicator shape for the overlay<br />
+    <sub>[#138901](https://github.com/flutter/flutter/pull/138901) opened on on November 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138901) 200 additions and 28 deletions in 4 files</sub><br />
+
