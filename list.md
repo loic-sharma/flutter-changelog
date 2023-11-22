@@ -458,7 +458,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-26 commits.
+27 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Write a text-decoration test at the `dart:ui` layer
     <sub>[#48101](https://github.com/flutter/engine/pull/48101) merged on November 20, 2023 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/48101) over 4 days, 51 additions and 2 deletions in 2 files</sub>
@@ -566,6 +566,10 @@
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Replace calls to SkFontMgr::RefDefault
     <sub>[#48179](https://github.com/flutter/engine/pull/48179) merged on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48179) over 2 days, 18 additions and 9 deletions in 7 files</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from f1fd14505782 to df958dc1ca7b (6 revisions)
+    <sub>[#48316](https://github.com/flutter/engine/pull/48316) merged on November 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48316) over 41 minutes, 6 additions and 3 deletions in 3 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### November 11, 2023 to November 17, 2023
 
