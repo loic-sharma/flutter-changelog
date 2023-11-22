@@ -110,3 +110,6 @@
 * **[Maram-g-abbas](https://github.com/Maram-g-abbas)** &mdash; fixing dateTime navigator null exception on canle dialog<br />
     <sub>[#138888](https://github.com/flutter/flutter/pull/138888) opened on on November 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138888) 4 additions and 1 deletion in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [l10n] Update Material shareButtonLabel<br />
+    <sub>[#138899](https://github.com/flutter/flutter/pull/138899) opened on on November 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138899) 34 additions and 4 deletions in 4 files</sub><br />
+
