@@ -458,7 +458,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-31 commits.
+32 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Write a text-decoration test at the `dart:ui` layer
     <sub>[#48101](https://github.com/flutter/engine/pull/48101) merged on November 20, 2023 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/48101) over 4 days, 51 additions and 2 deletions in 2 files</sub>
@@ -513,7 +513,7 @@
     <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] pass const ref to binding helpers.
-    <sub>[#48318](https://github.com/flutter/engine/pull/48318) merged on November 22, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/48318) over 2 hours, 7 additions and 7 deletions in 2 files</sub>
+    <sub>[#48318](https://github.com/flutter/engine/pull/48318) merged on November 22, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/48318) over 2 hours, 7 additions and 7 deletions in 2 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Finish making `shell/platform/linux/...` compatible with `.clang-tidy`.
@@ -567,6 +567,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `vulkan/...` compatible with `.clang_tidy`.
     <sub>[#48240](https://github.com/flutter/engine/pull/48240) merged on November 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48240) over 37 minutes, 5 additions and 5 deletions in 2 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] pass const ref to binding helpers."
+    <sub>[#48330](https://github.com/flutter/engine/pull/48330) merged on November 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48330) over 48 seconds, 7 additions and 7 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update skia build file to account for new skcms changes.
     <sub>[#48286](https://github.com/flutter/engine/pull/48286) merged on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48286) over 44 minutes, 86 additions and 2 deletions in 1 file</sub>
