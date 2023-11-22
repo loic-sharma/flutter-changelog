@@ -466,7 +466,7 @@
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Ensure that overlay surfaces are constructed with wide gamut settings.<br />
-    <sub>[#48190](https://github.com/flutter/engine/pull/48190) merged on November 21, 2023 &mdash; **Small:** [46 comments](https://github.com/flutter/engine/pull/48190) over 3 days, 154 additions and 22 deletions in 11 files</sub><br />
+    <sub>[#48190](https://github.com/flutter/engine/pull/48190) merged on November 21, 2023 &mdash; **Small:** [47 comments](https://github.com/flutter/engine/pull/48190) over 3 days, 154 additions and 22 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Dont copy the paint until we're sure that the RRect blur optimization will apply.<br />
