@@ -1208,7 +1208,7 @@
 4 commits.
 
 * **[Michael McGuiness](https://github.com/mike-v2)** &mdash; [cross_file] adopt code excerpts in README
-    <sub>[#5347](https://github.com/flutter/packages/pull/5347) merged on November 22, 2023 &mdash; **Small:** [26 comments](https://github.com/flutter/packages/pull/5347) over 2 weeks, 73 additions and 8 deletions in 8 files</sub>
+    <sub>[#5347](https://github.com/flutter/packages/pull/5347) merged on November 22, 2023 &mdash; **Small:** [27 comments](https://github.com/flutter/packages/pull/5347) over 2 weeks, 73 additions and 8 deletions in 8 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [url_launcher_web] migrate to pkg:web
