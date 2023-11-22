@@ -309,9 +309,13 @@
     <sub>[#137009](https://github.com/flutter/flutter/pull/137009) merged on November 6, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/137009) over 2 weeks, 141 additions and 58 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [benchmarks] disable partial repaint for multiple backdrop blur iOS macrobenchmarks.<br />
-    <sub>[#137902](https://github.com/flutter/flutter/pull/137902) merged on November 6, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/137902) over 2 days, 86 additions and 8 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Tool exit on build failure<br />
+    <sub>[#137995](https://github.com/flutter/flutter/pull/137995) merged on November 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137995) over 4 hours, 269 additions and 11 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove physicalGeometry<br />
+    <sub>[#138103](https://github.com/flutter/flutter/pull/138103) merged on November 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138103) over 2 hours, 4 additions and 127 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Suppress Xcode 15 createItemModels warning<br />
     <sub>[#138243](https://github.com/flutter/flutter/pull/138243) merged on November 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138243) over 3 hours, 28 additions and 1 deletion in 2 files</sub><br />
@@ -329,17 +333,13 @@
     <sub>[#138107](https://github.com/flutter/flutter/pull/138107) merged on November 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138107) over 1 day, 27 additions and 1 deletion in 4 files</sub><br />
     <sub>Reviewed by: [Leigha Jarett](https://github.com/leighajarett)</sub><br />
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Tool exit on build failure<br />
-    <sub>[#137995](https://github.com/flutter/flutter/pull/137995) merged on November 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137995) over 4 hours, 269 additions and 11 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
-
 * **[Dan Field](https://github.com/dnfield)** &mdash; Drop unnecessary URI encoding of websocket url in listener<br />
     <sub>[#137969](https://github.com/flutter/flutter/pull/137969) merged on November 10, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/137969) over 3 days, 1 addition and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove physicalGeometry<br />
-    <sub>[#138103](https://github.com/flutter/flutter/pull/138103) merged on November 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138103) over 2 hours, 4 additions and 127 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [benchmarks] disable partial repaint for multiple backdrop blur iOS macrobenchmarks.<br />
+    <sub>[#137902](https://github.com/flutter/flutter/pull/137902) merged on November 6, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/137902) over 2 days, 86 additions and 8 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Improved Java version parsing<br />
     <sub>[#138155](https://github.com/flutter/flutter/pull/138155) merged on November 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138155) over 1 hour, 31 additions and 0 deletions in 2 files</sub><br />
