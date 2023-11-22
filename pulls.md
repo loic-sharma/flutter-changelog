@@ -96,7 +96,7 @@
     <sub>[#138841](https://github.com/flutter/flutter/pull/138841) opened on on November 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138841) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Add feature guard to native assets build system target<br />
-    <sub>[#138854](https://github.com/flutter/flutter/pull/138854) opened on on November 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138854) 78 additions and 18 deletions in 4 files</sub><br />
+    <sub>[#138854](https://github.com/flutter/flutter/pull/138854) opened on on November 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138854) 86 additions and 26 deletions in 4 files</sub><br />
 
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; corrected SliverGridDelegateWithMaxCrossAxisExtent and SliverGridDelegateWithFixedCrossAxisCount mainAxisExtent value<br />
     <sub>[#138879](https://github.com/flutter/flutter/pull/138879) opened on on November 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138879) 66 additions and 2 deletions in 2 files</sub><br />
