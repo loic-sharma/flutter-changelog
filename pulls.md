@@ -99,5 +99,5 @@
     <sub>[#138841](https://github.com/flutter/flutter/pull/138841) opened on on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138841) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Add feature guard to native assets build system target<br />
-    <sub>[#138854](https://github.com/flutter/flutter/pull/138854) opened on on November 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138854) 77 additions and 18 deletions in 3 files</sub><br />
+    <sub>[#138854](https://github.com/flutter/flutter/pull/138854) opened on on November 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138854) 77 additions and 18 deletions in 3 files</sub><br />
 
