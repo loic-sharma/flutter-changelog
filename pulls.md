@@ -101,6 +101,3 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Add feature guard to native assets build system target<br />
     <sub>[#138854](https://github.com/flutter/flutter/pull/138854) opened on on November 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138854) 78 additions and 18 deletions in 4 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert "Reland VelocityTracker update (again)"<br />
-    <sub>[#138863](https://github.com/flutter/flutter/pull/138863) opened on on November 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138863) 43 additions and 141 deletions in 7 files</sub><br />
-

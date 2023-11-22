@@ -4,7 +4,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-12 commits.
+13 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; In `flutter doctor -v`, when JRE is too out-of-date to run `sdkmanager`, print a helpful error message<br />
     <sub>[#138762](https://github.com/flutter/flutter/pull/138762) merged on November 21, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/138762) over 1 day, 76 additions and 14 deletions in 3 files</sub><br />
@@ -53,6 +53,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Reland VelocityTracker update (again)<br />
     <sub>[#138843](https://github.com/flutter/flutter/pull/138843) merged on November 21, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/138843) over 1 hour, 141 additions and 43 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert "Reland VelocityTracker update (again)"<br />
+    <sub>[#138863](https://github.com/flutter/flutter/pull/138863) merged on November 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138863) over 54 minutes, 43 additions and 141 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 ### November 11, 2023 to November 17, 2023
 
@@ -450,7 +454,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-25 commits.
+26 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Write a text-decoration test at the `dart:ui` layer<br />
     <sub>[#48101](https://github.com/flutter/engine/pull/48101) merged on November 20, 2023 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/48101) over 4 days, 51 additions and 2 deletions in 2 files</sub><br />
@@ -468,6 +472,11 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Ensure that overlay surfaces are constructed with wide gamut settings.<br />
     <sub>[#48190](https://github.com/flutter/engine/pull/48190) merged on November 21, 2023 &mdash; **Small:** [47 comments](https://github.com/flutter/engine/pull/48190) over 3 days, 154 additions and 22 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make host buffer state internally ref counted.<br />
+    <sub>[#48303](https://github.com/flutter/engine/pull/48303) merged on November 22, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/48303) over 1 hour, 113 additions and 47 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Dan Field](https://github.com/dnfield)</sub><br />
+    <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/engine/assets/8975114/d6cd69c7-de1d-4b05-bd76-1d9a3353e350)![image](https://github.com/flutter/engine/assets/8975114/e624dd94-9718-404a-a0f8-b359df9f0109)</details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Dont copy the paint until we're sure that the RRect blur optimization will apply.<br />
     <sub>[#48298](https://github.com/flutter/engine/pull/48298) merged on November 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48298) over 1 hour, 6 additions and 6 deletions in 1 file</sub><br />
