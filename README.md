@@ -458,7 +458,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-27 commits.
+28 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Write a text-decoration test at the `dart:ui` layer<br />
     <sub>[#48101](https://github.com/flutter/engine/pull/48101) merged on November 20, 2023 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/48101) over 4 days, 51 additions and 2 deletions in 2 files</sub><br />
@@ -486,6 +486,10 @@
     <sub>[#48298](https://github.com/flutter/engine/pull/48298) merged on November 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48298) over 1 hour, 6 additions and 6 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/engine/assets/8975114/b5884e02-25ed-4e53-a6e0-d8d5a6a9a79a)![image](https://github.com/flutter/engine/assets/8975114/ac5981bb-40c6-4a38-b24c-46b7ad5399a4)</details></sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Expose a few more glyph apis from `ui.Paragraph`<br />
+    <sub>[#47698](https://github.com/flutter/engine/pull/47698) merged on November 22, 2023 &mdash; **Large:** [19 comments](https://github.com/flutter/engine/pull/47698) over 2 weeks, 824 additions and 7 deletions in 21 files</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Jason Simmons](https://github.com/jason-simmons), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[YaTang](https://github.com/designDo)** &mdash; [PlatformView][Android]VirtualDisplay resize on Android31 and above<br />
     <sub>[#47946](https://github.com/flutter/engine/pull/47946) merged on November 21, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/47946) over 1 week, 20 additions and 0 deletions in 1 file</sub><br />
