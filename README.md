@@ -458,7 +458,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-29 commits.
+30 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Impeller] Write a text-decoration test at the `dart:ui` layer<br />
     <sub>[#48101](https://github.com/flutter/engine/pull/48101) merged on November 20, 2023 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/48101) over 4 days, 51 additions and 2 deletions in 2 files</sub><br />
@@ -476,6 +476,11 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Ensure that overlay surfaces are constructed with wide gamut settings.<br />
     <sub>[#48190](https://github.com/flutter/engine/pull/48190) merged on November 21, 2023 &mdash; **Small:** [47 comments](https://github.com/flutter/engine/pull/48190) over 3 days, 154 additions and 22 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] cache render target properties on Render Pass.<br />
+    <sub>[#48323](https://github.com/flutter/engine/pull/48323) merged on November 22, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/48323) over 1 hour, 61 additions and 6 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+    <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/engine/assets/8975114/cf02778c-22da-4849-a98a-75bac7536284)![image](https://github.com/flutter/engine/assets/8975114/13b58267-a25a-483d-a632-55f505070996)</details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make host buffer state internally ref counted.<br />
     <sub>[#48303](https://github.com/flutter/engine/pull/48303) merged on November 22, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/48303) over 1 hour, 113 additions and 47 deletions in 5 files</sub><br />
