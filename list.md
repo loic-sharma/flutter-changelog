@@ -301,13 +301,17 @@
     <sub>[#138095](https://github.com/flutter/flutter/pull/138095) merged on November 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138095) over 10 hours, 68 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] toolexit when using plugins with preview device
-    <sub>[#136936](https://github.com/flutter/flutter/pull/136936) merged on November 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136936) over 2 weeks, 76 additions and 9 deletions in 7 files</sub>
-    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak)</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Suppress Xcode 15 createItemModels warning
+    <sub>[#138243](https://github.com/flutter/flutter/pull/138243) merged on November 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138243) over 3 hours, 28 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] disable flutter build AAR for plugins
     <sub>[#137878](https://github.com/flutter/flutter/pull/137878) merged on November 8, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/137878) over 4 days, 152 additions and 23 deletions in 5 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] toolexit when using plugins with preview device
+    <sub>[#136936](https://github.com/flutter/flutter/pull/136936) merged on November 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136936) over 2 weeks, 76 additions and 9 deletions in 7 files</sub>
+    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds `useRootNavigator` property to `PopupMenuButton` widget.
     <sub>[#137453](https://github.com/flutter/flutter/pull/137453) merged on November 10, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/137453) over 1 week, 95 additions and 0 deletions in 2 files</sub>
@@ -329,37 +333,33 @@
     <sub>[#137995](https://github.com/flutter/flutter/pull/137995) merged on November 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137995) over 4 hours, 269 additions and 11 deletions in 7 files</sub>
     <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
+* **[Dan Field](https://github.com/dnfield)** &mdash; Drop unnecessary URI encoding of websocket url in listener
+    <sub>[#137969](https://github.com/flutter/flutter/pull/137969) merged on November 10, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/137969) over 3 days, 1 addition and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Improved Java version parsing
+    <sub>[#138155](https://github.com/flutter/flutter/pull/138155) merged on November 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138155) over 1 hour, 31 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove physicalGeometry
     <sub>[#138103](https://github.com/flutter/flutter/pull/138103) merged on November 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138103) over 2 hours, 4 additions and 127 deletions in 2 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Suppress Xcode 15 createItemModels warning
-    <sub>[#138243](https://github.com/flutter/flutter/pull/138243) merged on November 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138243) over 3 hours, 28 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [yaakovschectman](https://github.com/yaakovschectman)</sub>
-
-* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; `CommandResultEvent` migrated
-    <sub>[#138165](https://github.com/flutter/flutter/pull/138165) merged on November 10, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/138165) over 1 day, 76 additions and 10 deletions in 4 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move Skia new_gallery_transition_perf on a02 from staging to prod
     <sub>[#138013](https://github.com/flutter/flutter/pull/138013) merged on November 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138013) over 40 minutes, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog)</sub>
 
-* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Update analytics constructor to include `FLUTTER_HOST`
-    <sub>[#138107](https://github.com/flutter/flutter/pull/138107) merged on November 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138107) over 1 day, 27 additions and 1 deletion in 4 files</sub>
-    <sub>Reviewed by: [Leigha Jarett](https://github.com/leighajarett)</sub>
-
-* **[Dan Field](https://github.com/dnfield)** &mdash; Drop unnecessary URI encoding of websocket url in listener
-    <sub>[#137969](https://github.com/flutter/flutter/pull/137969) merged on November 10, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/137969) over 3 days, 1 addition and 2 deletions in 1 file</sub>
+* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; `CommandResultEvent` migrated
+    <sub>[#138165](https://github.com/flutter/flutter/pull/138165) merged on November 10, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/138165) over 1 day, 76 additions and 10 deletions in 4 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [benchmarks] disable partial repaint for multiple backdrop blur iOS macrobenchmarks.
     <sub>[#137902](https://github.com/flutter/flutter/pull/137902) merged on November 6, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/137902) over 2 days, 86 additions and 8 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Improved Java version parsing
-    <sub>[#138155](https://github.com/flutter/flutter/pull/138155) merged on November 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138155) over 1 hour, 31 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Update analytics constructor to include `FLUTTER_HOST`
+    <sub>[#138107](https://github.com/flutter/flutter/pull/138107) merged on November 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138107) over 1 day, 27 additions and 1 deletion in 4 files</sub>
+    <sub>Reviewed by: [Leigha Jarett](https://github.com/leighajarett)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Only run tests on macOS 12
     <sub>[#138260](https://github.com/flutter/flutter/pull/138260) merged on November 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138260) over 1 hour, 6 additions and 6 deletions in 1 file</sub>
