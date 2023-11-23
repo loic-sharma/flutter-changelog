@@ -4,7 +4,7 @@
 
 ### November 18, 2023 to November 24, 2023
 
-17 commits.
+18 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; In `flutter doctor -v`, when JRE is too out-of-date to run `sdkmanager`, print a helpful error message<br />
     <sub>[#138762](https://github.com/flutter/flutter/pull/138762) merged on November 21, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/138762) over 1 day, 76 additions and 14 deletions in 3 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chips with Tooltip throw an assertion when enabling or disabling<br />
     <sub>[#138799](https://github.com/flutter/flutter/pull/138799) merged on November 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138799) over 4 hours, 68 additions and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Fix SliverGrid garbage collection issue<br />
+    <sub>[#138915](https://github.com/flutter/flutter/pull/138915) merged on November 23, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/138915) over 22 hours, 138 additions and 7 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Mahdi Bagheri](https://github.com/mhbdev)** &mdash; Added Features requested in #137530<br />
     <sub>[#137532](https://github.com/flutter/flutter/pull/137532) merged on November 20, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/137532) over 3 weeks, 55 additions and 0 deletions in 3 files</sub><br />
