@@ -99,7 +99,7 @@
     <sub>[#138879](https://github.com/flutter/flutter/pull/138879) opened on on November 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138879) 66 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Animate TextStyle.fontVariations<br />
-    <sub>[#138881](https://github.com/flutter/flutter/pull/138881) opened on on November 22, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/138881) 189 additions and 117 deletions in 57 files</sub><br />
+    <sub>[#138881](https://github.com/flutter/flutter/pull/138881) opened on on November 22, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/138881) 189 additions and 117 deletions in 57 files</sub><br />
 
 * **[Maram-g-abbas](https://github.com/Maram-g-abbas)** &mdash; fixing dateTime navigator null exception on canle dialog<br />
     <sub>[#138888](https://github.com/flutter/flutter/pull/138888) opened on on November 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138888) 4 additions and 1 deletion in 1 file</sub><br />
