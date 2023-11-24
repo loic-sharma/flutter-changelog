@@ -113,3 +113,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Added some documentation for OverlayPortal<br />
     <sub>[#138934](https://github.com/flutter/flutter/pull/138934) opened on on November 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138934) 3 additions and 1 deletion in 1 file</sub><br />
 
+* **[Gregor Zurowski](https://github.com/gzurowski)** &mdash; Fix comment<br />
+    <sub>[#138973](https://github.com/flutter/flutter/pull/138973) opened on on November 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138973) 1 addition and 1 deletion in 1 file</sub><br />
+
