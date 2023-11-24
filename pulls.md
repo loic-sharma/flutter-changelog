@@ -116,6 +116,6 @@
 * **[Gregor Zurowski](https://github.com/gzurowski)** &mdash; Fix comment<br />
     <sub>[#138973](https://github.com/flutter/flutter/pull/138973) opened on on November 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138973) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Examples of Snackbar.0 & ElevatedButton.0<br />
-    <sub>[#138987](https://github.com/flutter/flutter/pull/138987) opened on on November 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138987) 45 additions and 2 deletions in 3 files</sub><br />
+* **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Examples of Snackbar.0, ElevatedButton.0 & Stepper.0<br />
+    <sub>[#138987](https://github.com/flutter/flutter/pull/138987) opened on on November 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138987) 115 additions and 3 deletions in 4 files</sub><br />
 
