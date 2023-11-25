@@ -119,3 +119,6 @@
 * **[Khokan20](https://github.com/Khokan20)** &mdash; Features/ui_screenwidth<br />
     <sub>[#138997](https://github.com/flutter/flutter/pull/138997) opened on on November 25, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/138997) 561 additions and 552 deletions in 21 files</sub><br />
 
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Update Android app project template to apply Kotlin Gradle plugin declaratively<br />
+    <sub>[#139006](https://github.com/flutter/flutter/pull/139006) opened on on November 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139006) 2 additions and 32 deletions in 4 files</sub><br />
+
