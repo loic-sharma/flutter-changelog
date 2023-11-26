@@ -123,5 +123,8 @@
     <sub>[#139006](https://github.com/flutter/flutter/pull/139006) opened on on November 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139006) 2 additions and 28 deletions in 4 files</sub><br />
 
 * **[Luke Hutchison](https://github.com/lukehutch)** &mdash; Fix refresh cancelation<br />
-    <sub>[#139015](https://github.com/flutter/flutter/pull/139015) opened on on November 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139015) 10 additions and 12 deletions in 1 file</sub><br />
+    <sub>[#139015](https://github.com/flutter/flutter/pull/139015) opened on on November 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139015) 10 additions and 12 deletions in 1 file</sub><br />
+
+* **[Luke Hutchison](https://github.com/lukehutch)** &mdash; Add armedColor to RefreshIndicator<br />
+    <sub>[#139016](https://github.com/flutter/flutter/pull/139016) opened on on November 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139016) 15 additions and 2 deletions in 1 file</sub><br />
 
