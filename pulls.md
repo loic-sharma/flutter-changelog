@@ -125,3 +125,6 @@
 * **[Luke Hutchison](https://github.com/lukehutch)** &mdash; Fix refresh cancelation<br />
     <sub>[#139015](https://github.com/flutter/flutter/pull/139015) opened on on November 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139015) 10 additions and 12 deletions in 1 file</sub><br />
 
+* **[hgraceb](https://github.com/hgraceb)** &mdash; Optimize the display of the Overlay on the Slider<br />
+    <sub>[#139021](https://github.com/flutter/flutter/pull/139021) opened on on November 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139021) 113 additions and 3 deletions in 2 files</sub><br />
+
