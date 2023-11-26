@@ -122,3 +122,6 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Update Android app project template to apply Kotlin Gradle plugin declaratively<br />
     <sub>[#139006](https://github.com/flutter/flutter/pull/139006) opened on on November 25, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139006) 2 additions and 28 deletions in 4 files</sub><br />
 
+* **[Luke Hutchison](https://github.com/lukehutch)** &mdash; Fix refresh cancelation<br />
+    <sub>[#139015](https://github.com/flutter/flutter/pull/139015) opened on on November 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139015) 10 additions and 12 deletions in 1 file</sub><br />
+
