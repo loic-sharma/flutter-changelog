@@ -128,3 +128,6 @@
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Optimize the display of the Overlay on the Slider<br />
     <sub>[#139021](https://github.com/flutter/flutter/pull/139021) opened on on November 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139021) 113 additions and 3 deletions in 2 files</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Add type validation to non-template .arb file parsing logic<br />
+    <sub>[#139035](https://github.com/flutter/flutter/pull/139035) opened on on November 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139035) 56 additions and 1 deletion in 2 files</sub><br />
+
