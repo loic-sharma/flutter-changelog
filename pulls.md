@@ -125,9 +125,6 @@
 * **[LowLevelSubmarine](https://github.com/LowLevelSubmarine)** &mdash; fix: ZoomPageTransitionsBuilder always has black outlines during transitions<br />
     <sub>[#139078](https://github.com/flutter/flutter/pull/139078) opened on on November 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139078) 10 additions and 1 deletion in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Renable macOS 13 tests<br />
-    <sub>[#139083](https://github.com/flutter/flutter/pull/139083) opened on on November 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139083) 6 additions and 6 deletions in 1 file</sub><br />
-
 * **[Jim Kalafut](https://github.com/kalafut)** &mdash; Fix header formatting typo in PopupMenuButton docs<br />
     <sub>[#139084](https://github.com/flutter/flutter/pull/139084) opened on on November 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139084) 1 addition and 1 deletion in 1 file</sub><br />
 
