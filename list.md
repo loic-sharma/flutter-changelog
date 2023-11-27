@@ -257,7 +257,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-4 commits.
+5 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reduce number of surfaces required when presenting platform views
     <sub>[#43301](https://github.com/flutter/engine/pull/43301) merged on November 27, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/43301) over 5 months, 381 additions and 226 deletions in 12 files</sub>
@@ -274,6 +274,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] OES extension does not apply to regular textures for decal support
     <sub>[#48388](https://github.com/flutter/engine/pull/48388) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48388) over 5 hours, 11 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from f1fd14505782 to c9bdb5884670 (10 revisions)
+    <sub>[#48402](https://github.com/flutter/engine/pull/48402) merged on November 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48402) over 47 minutes, 8 additions and 3 deletions in 3 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### November 18, 2023 to November 24, 2023
 
