@@ -128,3 +128,6 @@
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Optimize the display of the Overlay on the Slider<br />
     <sub>[#139021](https://github.com/flutter/flutter/pull/139021) opened on on November 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139021) 113 additions and 3 deletions in 2 files</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; in `flutter run`, throw tool exit when `--flavor` is provided but is not supported on the target device<br />
+    <sub>[#139045](https://github.com/flutter/flutter/pull/139045) opened on on November 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139045) 50 additions and 0 deletions in 2 files</sub><br />
+
