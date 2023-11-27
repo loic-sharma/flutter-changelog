@@ -741,9 +741,18 @@
 
 ## flutter/packages
 
+### November 25, 2023 to December 1, 2023
+
+1 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Adds proxy class for testing detached/mock objects and method calls
+    <sub>[#5423](https://github.com/flutter/packages/pull/5423) merged on November 27, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/5423) over 1 week, 1014 additions and 550 deletions in 6 files</sub>
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
 ### November 18, 2023 to November 24, 2023
 
-4 commits.
+<details>
+<summary>4 commits...</summary>
 
 * **[Michael McGuiness](https://github.com/mike-v2)** &mdash; [cross_file] adopt code excerpts in README
     <sub>[#5347](https://github.com/flutter/packages/pull/5347) merged on November 22, 2023 &mdash; **Small:** [27 comments](https://github.com/flutter/packages/pull/5347) over 2 weeks, 73 additions and 8 deletions in 8 files</sub>
@@ -760,6 +769,8 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Update CODEOWNERS
     <sub>[#5452](https://github.com/flutter/packages/pull/5452) merged on November 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5452) over 1 hour, 4 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+</details>
 
 ### November 11, 2023 to November 17, 2023
 
