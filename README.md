@@ -766,11 +766,15 @@
 
 ### November 25, 2023 to December 1, 2023
 
-1 commits.
+2 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Adds proxy class for testing detached/mock objects and method calls<br />
     <sub>[#5423](https://github.com/flutter/packages/pull/5423) merged on November 27, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/5423) over 1 week, 1014 additions and 550 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [quick_actions_android] Run tests on AVDs running Android 34 <br />
+    <sub>[#5220](https://github.com/flutter/packages/pull/5220) merged on November 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5220) over 1 month, 0 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 ### November 18, 2023 to November 24, 2023
 

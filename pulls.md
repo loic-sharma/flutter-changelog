@@ -87,7 +87,7 @@
     <sub>[#138811](https://github.com/flutter/flutter/pull/138811) opened on on November 21, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/138811) 434 additions and 0 deletions in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Edge case on flutter/flutter/issues/135402 with test<br />
-    <sub>[#138814](https://github.com/flutter/flutter/pull/138814) opened on on November 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138814) 11 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#138814](https://github.com/flutter/flutter/pull/138814) opened on on November 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138814) 12 additions and 3 deletions in 2 files</sub><br />
 
 * **[miguelmato](https://github.com/miguelmato)** &mdash; fix bottom_sheet closing with upwards motion<br />
     <sub>[#138841](https://github.com/flutter/flutter/pull/138841) opened on on November 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138841) 1 addition and 1 deletion in 1 file</sub><br />
