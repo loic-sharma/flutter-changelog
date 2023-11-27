@@ -4,7 +4,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-4 commits.
+5 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Give an actionable error message when a Pod requires a higher minimum OS version<br />
     <sub>[#138097](https://github.com/flutter/flutter/pull/138097) merged on November 27, 2023 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/138097) over 2 weeks, 615 additions and 2 deletions in 2 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Jasper van Riet](https://github.com/JaspervanRiet)** &mdash; Write tests for API examples of BottomNavigationBar and IconButton<br />
     <sub>[#138188](https://github.com/flutter/flutter/pull/138188) merged on November 27, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/138188) over 2 weeks, 135 additions and 4 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Prepare for dynamically sized views - pt. 2<br />
+    <sub>[#139079](https://github.com/flutter/flutter/pull/139079) merged on November 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139079) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Prepare for dynamically sized views<br />
     <sub>[#138565](https://github.com/flutter/flutter/pull/138565) merged on November 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138565) over 1 week, 6 additions and 4 deletions in 3 files</sub><br />
