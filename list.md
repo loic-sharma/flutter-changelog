@@ -20,7 +20,7 @@
     <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Wide gamut and platform view integration test.
-    <sub>[#138837](https://github.com/flutter/flutter/pull/138837) merged on November 27, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/138837) over 6 days, 123 additions and 0 deletions in 4 files</sub>
+    <sub>[#138837](https://github.com/flutter/flutter/pull/138837) merged on November 27, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/138837) over 6 days, 123 additions and 0 deletions in 4 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jasper van Riet](https://github.com/JaspervanRiet)** &mdash; Write tests for API examples of BottomNavigationBar and IconButton
