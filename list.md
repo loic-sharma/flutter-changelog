@@ -4,7 +4,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-11 commits.
+12 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to customize `NavigationBar` indicator overlay and fix indicator shape for the overlay
     <sub>[#138901](https://github.com/flutter/flutter/pull/138901) merged on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/138901) over 5 days, 229 additions and 28 deletions in 4 files</sub>
@@ -26,6 +26,10 @@
 * **[Jasper van Riet](https://github.com/JaspervanRiet)** &mdash; Write tests for API examples of BottomNavigationBar and IconButton
     <sub>[#138188](https://github.com/flutter/flutter/pull/138188) merged on November 27, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/138188) over 2 weeks, 135 additions and 4 deletions in 5 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Kallen Tu](https://github.com/kallentu)** &mdash; Bump DartDoc to 8.0.0
+    <sub>[#139088](https://github.com/flutter/flutter/pull/139088) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139088) over 3 hours, 1 addition and 3 deletions in 3 files</sub>
+    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Update Android app project template to apply Kotlin Gradle plugin declaratively
     <sub>[#139006](https://github.com/flutter/flutter/pull/139006) merged on November 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139006) over 1 day, 2 additions and 28 deletions in 4 files</sub>
