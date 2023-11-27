@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### November 25, 2023 to December 1, 2023
+
+1 commits.
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Edge case on flutter/flutter/issues/135402 with test<br />
+    <sub>[#138814](https://github.com/flutter/flutter/pull/138814) merged on November 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138814) over 5 days, 12 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
 ### November 18, 2023 to November 24, 2023
 
-19 commits.
+<details>
+<summary>19 commits...</summary>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; In `flutter doctor -v`, when JRE is too out-of-date to run `sdkmanager`, print a helpful error message<br />
     <sub>[#138762](https://github.com/flutter/flutter/pull/138762) merged on November 21, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/138762) over 1 day, 76 additions and 14 deletions in 3 files</sub><br />
@@ -81,6 +90,8 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert "Reland VelocityTracker update (again)"<br />
     <sub>[#138863](https://github.com/flutter/flutter/pull/138863) merged on November 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138863) over 54 minutes, 43 additions and 141 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+</details>
 
 ### November 11, 2023 to November 17, 2023
 
