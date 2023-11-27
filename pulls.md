@@ -134,3 +134,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implement `switch` expressions in `dev/`<br />
     <sub>[#139048](https://github.com/flutter/flutter/pull/139048) opened on on November 27, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/139048) 117 additions and 197 deletions in 15 files</sub><br />
 
+* **[Shanmugam](https://github.com/shanmugam28)** &mdash; Support for dismissDirection property in SnackBarTheme<br />
+    <sub>[#139068](https://github.com/flutter/flutter/pull/139068) opened on on November 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139068) 122 additions and 9 deletions in 4 files</sub><br />
+
