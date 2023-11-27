@@ -380,7 +380,7 @@
     <sub><details><summary>1 image...</summary>![Simulator Screenshot - iPad Air (5th generation) - 2023-11-21 at 03 33 37](https://github.com/flutter/engine/assets/36148254/15e10e43-816b-43b1-a5ab-75c8add90899)</details></sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Switched to static linked libc++ in vulkan validation layers.<br />
-    <sub>[#48290](https://github.com/flutter/engine/pull/48290) merged on November 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/48290) over 1 hour, 4 additions and 8 deletions in 2 files</sub><br />
+    <sub>[#48290](https://github.com/flutter/engine/pull/48290) merged on November 21, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48290) over 1 hour, 4 additions and 8 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Add add/removeView JS methods.<br />
