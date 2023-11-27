@@ -4,7 +4,12 @@
 
 ### November 25, 2023 to December 1, 2023
 
-7 commits.
+8 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to customize `NavigationBar` indicator overlay and fix indicator shape for the overlay<br />
+    <sub>[#138901](https://github.com/flutter/flutter/pull/138901) merged on November 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138901) over 5 days, 229 additions and 28 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub><details><summary>5 images...</summary>![Screenshot 2023-11-22 at 18 22 48](https://github.com/flutter/flutter/assets/48603081/06f54335-71ee-4882-afb0-53b614933c38)![Screenshot 2023-11-22 at 15 29 52](https://github.com/flutter/flutter/assets/48603081/913e0f77-48f4-4c6e-87f3-52c81b78f3d9)![Screenshot 2023-11-22 at 18 22 08](https://github.com/flutter/flutter/assets/48603081/28badae4-a7c7-4bf0-8bcc-278a1f84729d)![Screenshot 2023-11-22 at 18 22 25](https://github.com/flutter/flutter/assets/48603081/674b48b1-f66a-4d91-9f10-ad307416ac32)![Screenshot 2023-11-22 at 15 30 36](https://github.com/flutter/flutter/assets/48603081/ae9a3627-787e-45ac-9319-2ea8ea1e6ae6)</details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Give an actionable error message when a Pod requires a higher minimum OS version<br />
     <sub>[#138097](https://github.com/flutter/flutter/pull/138097) merged on November 27, 2023 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/138097) over 2 weeks, 615 additions and 2 deletions in 2 files</sub><br />
@@ -277,11 +282,15 @@
 
 ### November 25, 2023 to December 1, 2023
 
-10 commits.
+11 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reduce number of surfaces required when presenting platform views<br />
     <sub>[#43301](https://github.com/flutter/engine/pull/43301) merged on November 27, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/43301) over 5 months, 381 additions and 226 deletions in 12 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Enable multiview rendering<br />
+    <sub>[#48301](https://github.com/flutter/engine/pull/48301) merged on November 27, 2023 &mdash; **Large:** [26 comments](https://github.com/flutter/engine/pull/48301) over 5 days, 335 additions and 271 deletions in 21 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Texture binding, index binding, attachments, depth state.<br />
     <sub>[#48386](https://github.com/flutter/engine/pull/48386) merged on November 27, 2023 &mdash; **Large:** [15 comments](https://github.com/flutter/engine/pull/48386) over 10 hours, 1177 additions and 133 deletions in 19 files</sub><br />

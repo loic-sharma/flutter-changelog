@@ -131,3 +131,9 @@
 * **[Jim Kalafut](https://github.com/kalafut)** &mdash; Fix header formatting typo in PopupMenuButton docs<br />
     <sub>[#139084](https://github.com/flutter/flutter/pull/139084) opened on on November 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139084) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] fix instructions to disable CLI animations<br />
+    <sub>[#139094](https://github.com/flutter/flutter/pull/139094) opened on on November 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139094) 12 additions and 2 deletions in 3 files</sub><br />
+
+* **[Fré Dumazy](https://github.com/dumazy)** &mdash; Improve documentation of CardTheme.shape<br />
+    <sub>[#139096](https://github.com/flutter/flutter/pull/139096) opened on on November 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139096) 1 addition and 1 deletion in 1 file</sub><br />
+
