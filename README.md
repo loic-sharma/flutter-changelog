@@ -4,11 +4,15 @@
 
 ### November 25, 2023 to December 1, 2023
 
-2 commits.
+3 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Give an actionable error message when a Pod requires a higher minimum OS version<br />
     <sub>[#138097](https://github.com/flutter/flutter/pull/138097) merged on November 27, 2023 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/138097) over 2 weeks, 615 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Jasper van Riet](https://github.com/JaspervanRiet)** &mdash; Write tests for API examples of BottomNavigationBar and IconButton<br />
+    <sub>[#138188](https://github.com/flutter/flutter/pull/138188) merged on November 27, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/138188) over 2 weeks, 135 additions and 4 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Edge case on flutter/flutter/issues/135402 with test<br />
     <sub>[#138814](https://github.com/flutter/flutter/pull/138814) merged on November 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138814) over 5 days, 12 additions and 3 deletions in 2 files</sub><br />
@@ -257,7 +261,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-5 commits.
+6 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reduce number of surfaces required when presenting platform views<br />
     <sub>[#43301](https://github.com/flutter/engine/pull/43301) merged on November 27, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/43301) over 5 months, 381 additions and 226 deletions in 12 files</sub><br />
@@ -266,6 +270,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Texture binding, index binding, attachments, depth state.<br />
     <sub>[#48386](https://github.com/flutter/engine/pull/48386) merged on November 27, 2023 &mdash; **Large:** [15 comments](https://github.com/flutter/engine/pull/48386) over 10 hours, 1177 additions and 133 deletions in 19 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert non-zero tessellation optimization.<br />
+    <sub>[#48234](https://github.com/flutter/engine/pull/48234) merged on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/48234) over 6 days, 66 additions and 152 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use spec constant for decal support in morph filter.<br />
     <sub>[#48288](https://github.com/flutter/engine/pull/48288) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48288) over 5 days, 28 additions and 17 deletions in 5 files</sub><br />
