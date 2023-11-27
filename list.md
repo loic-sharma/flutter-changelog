@@ -294,7 +294,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-13 commits.
+15 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reduce number of surfaces required when presenting platform views
     <sub>[#43301](https://github.com/flutter/engine/pull/43301) merged on November 27, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/43301) over 5 months, 381 additions and 226 deletions in 12 files</sub>
@@ -314,6 +314,14 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] updated gaussian blur tests to use device private textures
     <sub>[#48417](https://github.com/flutter/engine/pull/48417) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48417) over 1 hour, 8 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `HeaderFilterRegex` once and for all.
+    <sub>[#48145](https://github.com/flutter/engine/pull/48145) merged on November 27, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/48145) over 1 week, 250 additions and 141 deletions in 33 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; SurfaceFrame root DisplayLists will no longer prepare an RTree
+    <sub>[#48422](https://github.com/flutter/engine/pull/48422) merged on November 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48422) over 1 hour, 41 additions and 20 deletions in 5 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Roll shaderc to google/shaderc@37e25539ce199ecaf19fb7f7d27818716d36686d
