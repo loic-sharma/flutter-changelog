@@ -294,11 +294,15 @@
 
 ### November 25, 2023 to December 1, 2023
 
-12 commits.
+13 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reduce number of surfaces required when presenting platform views
     <sub>[#43301](https://github.com/flutter/engine/pull/43301) merged on November 27, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/43301) over 5 months, 381 additions and 226 deletions in 12 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Dynamic view sizing [dart:ui]
+    <sub>[#48090](https://github.com/flutter/engine/pull/48090) merged on November 27, 2023 &mdash; **Medium:** [34 comments](https://github.com/flutter/engine/pull/48090) over 1 week, 336 additions and 19 deletions in 11 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Tong Mu](https://github.com/dkwingsmt), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Enable multiview rendering
     <sub>[#48301](https://github.com/flutter/engine/pull/48301) merged on November 27, 2023 &mdash; **Large:** [26 comments](https://github.com/flutter/engine/pull/48301) over 5 days, 335 additions and 271 deletions in 21 files</sub>
