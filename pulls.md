@@ -131,6 +131,3 @@
 * **[Jim Kalafut](https://github.com/kalafut)** &mdash; Fix header formatting typo in PopupMenuButton docs<br />
     <sub>[#139084](https://github.com/flutter/flutter/pull/139084) opened on on November 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139084) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run platform_channels_benchmarks on Pixel 7 Pro<br />
-    <sub>[#139092](https://github.com/flutter/flutter/pull/139092) opened on on November 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139092) 10 additions and 0 deletions in 1 file</sub><br />
-
