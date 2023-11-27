@@ -240,9 +240,22 @@
 
 ## flutter/engine
 
+### November 25, 2023 to December 1, 2023
+
+2 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use spec constant for decal support in morph filter.
+    <sub>[#48288](https://github.com/flutter/engine/pull/48288) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48288) over 5 days, 28 additions and 17 deletions in 5 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] OES extension does not apply to regular textures for decal support
+    <sub>[#48388](https://github.com/flutter/engine/pull/48388) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48388) over 5 hours, 11 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
 ### November 18, 2023 to November 24, 2023
 
-37 commits.
+<details>
+<summary>37 commits...</summary>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Raster encoding. First triangle!
     <sub>[#48314](https://github.com/flutter/engine/pull/48314) merged on November 25, 2023 &mdash; **Extra large:** [20 comments](https://github.com/flutter/engine/pull/48314) over 2 days, 2237 additions and 55 deletions in 47 files</sub>
@@ -396,6 +409,8 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert "Manual roll Dart SDK from f1fd14505782 to df958dc1ca7b (6 revisions)"
     <sub>[#48325](https://github.com/flutter/engine/pull/48325) merged on November 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48325) over 42 minutes, 3 additions and 6 deletions in 3 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+</details>
 
 ### November 11, 2023 to November 17, 2023
 
