@@ -4,10 +4,10 @@
 
 ### November 25, 2023 to December 1, 2023
 
-10 commits.
+11 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to customize `NavigationBar` indicator overlay and fix indicator shape for the overlay<br />
-    <sub>[#138901](https://github.com/flutter/flutter/pull/138901) merged on November 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138901) over 5 days, 229 additions and 28 deletions in 4 files</sub><br />
+    <sub>[#138901](https://github.com/flutter/flutter/pull/138901) merged on November 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138901) over 5 days, 229 additions and 28 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>5 images...</summary>![Screenshot 2023-11-22 at 18 22 48](https://github.com/flutter/flutter/assets/48603081/06f54335-71ee-4882-afb0-53b614933c38)![Screenshot 2023-11-22 at 15 29 52](https://github.com/flutter/flutter/assets/48603081/913e0f77-48f4-4c6e-87f3-52c81b78f3d9)![Screenshot 2023-11-22 at 18 22 08](https://github.com/flutter/flutter/assets/48603081/28badae4-a7c7-4bf0-8bcc-278a1f84729d)![Screenshot 2023-11-22 at 18 22 25](https://github.com/flutter/flutter/assets/48603081/674b48b1-f66a-4d91-9f10-ad307416ac32)![Screenshot 2023-11-22 at 15 30 36](https://github.com/flutter/flutter/assets/48603081/ae9a3627-787e-45ac-9319-2ea8ea1e6ae6)</details></sub>
 
@@ -42,6 +42,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Edge case on flutter/flutter/issues/135402 with test<br />
     <sub>[#138814](https://github.com/flutter/flutter/pull/138814) merged on November 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138814) over 5 days, 12 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Wide gamut and platform view integration test."<br />
+    <sub>[#139100](https://github.com/flutter/flutter/pull/139100) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139100) over 37 seconds, 0 additions and 123 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Add type validation to non-template .arb file parsing logic<br />
     <sub>[#139035](https://github.com/flutter/flutter/pull/139035) merged on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139035) over 18 hours, 37 additions and 1 deletion in 2 files</sub><br />
