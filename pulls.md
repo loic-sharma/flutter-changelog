@@ -105,7 +105,7 @@
     <sub>[#138934](https://github.com/flutter/flutter/pull/138934) opened on on November 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138934) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Gregor Zurowski](https://github.com/gzurowski)** &mdash; Fix comment<br />
-    <sub>[#138973](https://github.com/flutter/flutter/pull/138973) opened on on November 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138973) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#138973](https://github.com/flutter/flutter/pull/138973) opened on on November 24, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138973) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Examples of `snack_bar.0`, `elevated_button.0`, `stepper.0`, `radio.0`, `filled_button.0`, `outlined_button.0` & `card.0`<br />
     <sub>[#138987](https://github.com/flutter/flutter/pull/138987) opened on on November 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138987) 215 additions and 7 deletions in 8 files</sub><br />
@@ -127,9 +127,6 @@
 
 * **[Jim Kalafut](https://github.com/kalafut)** &mdash; Fix header formatting typo in PopupMenuButton docs<br />
     <sub>[#139084](https://github.com/flutter/flutter/pull/139084) opened on on November 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139084) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] fix instructions to disable CLI animations<br />
-    <sub>[#139094](https://github.com/flutter/flutter/pull/139094) opened on on November 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139094) 12 additions and 2 deletions in 3 files</sub><br />
 
 * **[Fré Dumazy](https://github.com/dumazy)** &mdash; Improve documentation of CardTheme.shape<br />
     <sub>[#139096](https://github.com/flutter/flutter/pull/139096) opened on on November 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139096) 1 addition and 1 deletion in 1 file</sub><br />
