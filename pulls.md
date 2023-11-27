@@ -108,7 +108,7 @@
     <sub>[#138973](https://github.com/flutter/flutter/pull/138973) opened on on November 24, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138973) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Examples of `snack_bar.0`, `elevated_button.0`, `stepper.0`, `radio.0`, `filled_button.0`, `outlined_button.0` & `card.0`<br />
-    <sub>[#138987](https://github.com/flutter/flutter/pull/138987) opened on on November 24, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138987) 215 additions and 7 deletions in 8 files</sub><br />
+    <sub>[#138987](https://github.com/flutter/flutter/pull/138987) opened on on November 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138987) 215 additions and 7 deletions in 8 files</sub><br />
 
 * **[Khokan20](https://github.com/Khokan20)** &mdash; Features/ui_screenwidth<br />
     <sub>[#138997](https://github.com/flutter/flutter/pull/138997) opened on on November 25, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/138997) 561 additions and 552 deletions in 21 files</sub><br />
