@@ -322,7 +322,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-17 commits.
+18 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reduce number of surfaces required when presenting platform views
     <sub>[#43301](https://github.com/flutter/engine/pull/43301) merged on November 27, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/43301) over 5 months, 381 additions and 226 deletions in 12 files</sub>
@@ -379,6 +379,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] OES extension does not apply to regular textures for decal support
     <sub>[#48388](https://github.com/flutter/engine/pull/48388) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48388) over 5 hours, 11 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Replace all calls to SkTypeface::Make with SkFontMgr ones
+    <sub>[#48319](https://github.com/flutter/engine/pull/48319) merged on November 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48319) over 5 days, 57 additions and 15 deletions in 15 files</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; [ios] Send " did gain focus" message from engine to framework 
     <sub>[#48252](https://github.com/flutter/engine/pull/48252) merged on November 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48252) over 6 days, 56 additions and 0 deletions in 2 files</sub>
