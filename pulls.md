@@ -132,7 +132,7 @@
     <sub>[#139084](https://github.com/flutter/flutter/pull/139084) opened on on November 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139084) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Fré Dumazy](https://github.com/dumazy)** &mdash; Improve documentation of CardTheme.shape<br />
-    <sub>[#139096](https://github.com/flutter/flutter/pull/139096) opened on on November 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139096) 2 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#139096](https://github.com/flutter/flutter/pull/139096) opened on on November 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139096) 4 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Simplify devicelab logic and fix tests<br />
     <sub>[#139122](https://github.com/flutter/flutter/pull/139122) opened on on November 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139122) 54 additions and 51 deletions in 4 files</sub><br />
