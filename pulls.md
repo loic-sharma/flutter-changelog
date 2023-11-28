@@ -86,17 +86,8 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Add feature guard to native assets build system target<br />
     <sub>[#138854](https://github.com/flutter/flutter/pull/138854) opened on on November 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138854) 86 additions and 26 deletions in 4 files</sub><br />
 
-* **[flyboy](https://github.com/hello-coder-xu)** &mdash; corrected SliverGridDelegateWithMaxCrossAxisExtent and SliverGridDelegateWithFixedCrossAxisCount mainAxisExtent value<br />
-    <sub>[#138879](https://github.com/flutter/flutter/pull/138879) opened on on November 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138879) 66 additions and 2 deletions in 2 files</sub><br />
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Animate TextStyle.fontVariations<br />
-    <sub>[#138881](https://github.com/flutter/flutter/pull/138881) opened on on November 22, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/138881) 189 additions and 117 deletions in 57 files</sub><br />
-
 * **[Fernando Rosentalski](https://github.com/talski)** &mdash; Fix InputDecorationTheme copyWith fallback<br />
     <sub>[#138914](https://github.com/flutter/flutter/pull/138914) opened on on November 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138914) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Examples of `snack_bar.0`, `elevated_button.0`, `stepper.0`, `radio.0`, `filled_button.0`, `outlined_button.0` & `card.0`<br />
-    <sub>[#138987](https://github.com/flutter/flutter/pull/138987) opened on on November 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138987) 215 additions and 7 deletions in 8 files</sub><br />
 
 * **[Luke Hutchison](https://github.com/lukehutch)** &mdash; Fix refresh cancelation<br />
     <sub>[#139015](https://github.com/flutter/flutter/pull/139015) opened on on November 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139015) 10 additions and 12 deletions in 1 file</sub><br />

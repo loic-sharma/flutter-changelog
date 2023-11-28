@@ -4,7 +4,12 @@
 
 ### November 25, 2023 to December 1, 2023
 
-23 commits.
+24 commits.
+
+* **[Gabriel Tavares](https://github.com/gbtb16)** &mdash; feature(table-widget): Added intrinsicHeight to TableCellVerticalAlignment enum.
+    <sub>[#130264](https://github.com/flutter/flutter/pull/130264) merged on November 28, 2023 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/130264) over 4 months, 78 additions and 1 deletion in 3 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Kate Lovett](https://github.com/Piinks)</sub>
+    <sub><details><summary>3 images...</summary>![image](https://github.com/flutter/flutter/assets/69699209/0fc9c168-5638-494b-aa0c-c579d0494c5e)![image](https://github.com/flutter/flutter/assets/69699209/488b258a-3d25-4655-a9a0-381680468dec)![image](https://github.com/flutter/flutter/assets/69699209/51dce88d-f0f5-4644-942a-11ad218ffca0)</details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to customize `NavigationBar` indicator overlay and fix indicator shape for the overlay
     <sub>[#138901](https://github.com/flutter/flutter/pull/138901) merged on November 27, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138901) over 5 days, 229 additions and 28 deletions in 4 files</sub>
