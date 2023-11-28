@@ -342,7 +342,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-24 commits.
+25 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reduce number of surfaces required when presenting platform views
     <sub>[#43301](https://github.com/flutter/engine/pull/43301) merged on November 27, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/43301) over 5 months, 381 additions and 226 deletions in 12 files</sub>
@@ -379,6 +379,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements incorporating the gaussian blur snapshot transform
     <sub>[#48426](https://github.com/flutter/engine/pull/48426) merged on November 28, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/48426) over 19 hours, 186 additions and 10 deletions in 3 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Fix CanonicalizeURL for file schema
+    <sub>[#48466](https://github.com/flutter/engine/pull/48466) merged on November 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48466) over 4 hours, 52 additions and 27 deletions in 8 files</sub>
+    <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove use of variable length arrays
     <sub>[#48232](https://github.com/flutter/engine/pull/48232) merged on November 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48232) over 1 week, 24 additions and 24 deletions in 6 files</sub>
@@ -946,11 +950,16 @@
 
 ### November 25, 2023 to December 1, 2023
 
-5 commits.
+7 commits.
 
 * **[Luong The Vinh](https://github.com/TheVinhLuong)** &mdash; [webview_flutter] Add listener for content offset (Platform Interface)
     <sub>[#5427](https://github.com/flutter/packages/pull/5427) merged on November 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5427) over 1 week, 31 additions and 1 deletion in 5 files</sub>
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.9.20 to 1.9.21 in /packages/pigeon/platform_tests/test_plugin/android
+    <sub>[#5483](https://github.com/flutter/packages/pull/5483) merged on November 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5483) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.9.20&new-version=1.9.21)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Nitin-Poojary](https://github.com/Nitin-Poojary)** &mdash; [flutter image] Changed image link to use image within package
     <sub>[#5326](https://github.com/flutter/packages/pull/5326) merged on November 28, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/5326) over 3 weeks, 7 additions and 6 deletions in 3 files</sub>
@@ -967,6 +976,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [quick_actions_android] Run tests on AVDs running Android 34 
     <sub>[#5220](https://github.com/flutter/packages/pull/5220) merged on November 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5220) over 1 month, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw, flutter_markdown] Prepare for removing dart:ui imports.
+    <sub>[#5471](https://github.com/flutter/packages/pull/5471) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5471) over 4 days, 5 additions and 0 deletions in 5 files</sub>
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
 
 ### November 18, 2023 to November 24, 2023
 
