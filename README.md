@@ -4,7 +4,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-16 commits.
+17 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to customize `NavigationBar` indicator overlay and fix indicator shape for the overlay<br />
     <sub>[#138901](https://github.com/flutter/flutter/pull/138901) merged on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/138901) over 5 days, 229 additions and 28 deletions in 4 files</sub><br />
@@ -14,6 +14,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Give an actionable error message when a Pod requires a higher minimum OS version<br />
     <sub>[#138097](https://github.com/flutter/flutter/pull/138097) merged on November 27, 2023 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/138097) over 2 weeks, 615 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[neko-andrew](https://github.com/neko-andrew)** &mdash; Fix intrinsic width of input decorator<br />
+    <sub>[#138074](https://github.com/flutter/flutter/pull/138074) merged on November 28, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/138074) over 2 weeks, 63 additions and 14 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] fix instructions to disable CLI animations<br />
     <sub>[#139094](https://github.com/flutter/flutter/pull/139094) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139094) over 1 hour, 12 additions and 2 deletions in 3 files</sub><br />
