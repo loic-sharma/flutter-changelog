@@ -338,7 +338,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-22 commits.
+23 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reduce number of surfaces required when presenting platform views
     <sub>[#43301](https://github.com/flutter/engine/pull/43301) merged on November 27, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/43301) over 5 months, 381 additions and 226 deletions in 12 files</sub>
@@ -367,6 +367,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] updated gaussian blur tests to use device private textures
     <sub>[#48417](https://github.com/flutter/engine/pull/48417) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48417) over 1 hour, 8 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Skip unexpected events in MultiPlatformViewBackgroundForegroundScenario
+    <sub>[#48456](https://github.com/flutter/engine/pull/48456) merged on November 28, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/48456) over 3 hours, 8 additions and 6 deletions in 1 file</sub>
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements incorporating the gaussian blur snapshot transform
     <sub>[#48426](https://github.com/flutter/engine/pull/48426) merged on November 28, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/48426) over 19 hours, 186 additions and 10 deletions in 3 files</sub>
