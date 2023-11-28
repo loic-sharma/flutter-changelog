@@ -4,7 +4,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-18 commits.
+19 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to customize `NavigationBar` indicator overlay and fix indicator shape for the overlay<br />
     <sub>[#138901](https://github.com/flutter/flutter/pull/138901) merged on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/138901) over 5 days, 229 additions and 28 deletions in 4 files</sub><br />
@@ -62,6 +62,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Edge case on flutter/flutter/issues/135402 with test<br />
     <sub>[#138814](https://github.com/flutter/flutter/pull/138814) merged on November 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138814) over 5 days, 12 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Renable macOS 13 tests<br />
+    <sub>[#139083](https://github.com/flutter/flutter/pull/139083) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139083) over 20 hours, 6 additions and 6 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix textScalerOf and maybeTextScalerOf documentations<br />
     <sub>[#139123](https://github.com/flutter/flutter/pull/139123) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139123) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
