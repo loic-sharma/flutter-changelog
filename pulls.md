@@ -78,7 +78,7 @@
     <sub>[#138663](https://github.com/flutter/flutter/pull/138663) opened on on November 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138663) 94 additions and 9 deletions in 6 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix turbulence seed for all tests with ink sparkles<br />
-    <sub>[#138757](https://github.com/flutter/flutter/pull/138757) opened on on November 20, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/138757) 11 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#138757](https://github.com/flutter/flutter/pull/138757) opened on on November 20, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/138757) 11 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ricky Souza de Oliveira](https://github.com/HeroRickyGAMES)** &mdash; This is a test implementation of the bug fix package:flutter/src/rendering/mouse_tracker.dart ': Failed assertion: line 205 pos 12: '!_debugDuringDeviceUpdate': is not true.<br />
     <sub>[#138811](https://github.com/flutter/flutter/pull/138811) opened on on November 21, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/138811) 434 additions and 0 deletions in 1 file</sub><br />
