@@ -131,9 +131,6 @@
 * **[Fré Dumazy](https://github.com/dumazy)** &mdash; Improve documentation of CardTheme.shape<br />
     <sub>[#139096](https://github.com/flutter/flutter/pull/139096) opened on on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139096) 4 additions and 2 deletions in 2 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Simplify devicelab logic and fix tests<br />
-    <sub>[#139122](https://github.com/flutter/flutter/pull/139122) opened on on November 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139122) 54 additions and 51 deletions in 4 files</sub><br />
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `Tooltip` tests for Material 3<br />
     <sub>[#139145](https://github.com/flutter/flutter/pull/139145) opened on on November 28, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/139145) 468 additions and 11 deletions in 2 files</sub><br />
 
