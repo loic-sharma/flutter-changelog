@@ -338,7 +338,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-20 commits.
+21 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reduce number of surfaces required when presenting platform views
     <sub>[#43301](https://github.com/flutter/engine/pull/43301) merged on November 27, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/43301) over 5 months, 381 additions and 226 deletions in 12 files</sub>
@@ -371,6 +371,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements incorporating the gaussian blur snapshot transform
     <sub>[#48426](https://github.com/flutter/engine/pull/48426) merged on November 28, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/48426) over 19 hours, 186 additions and 10 deletions in 3 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] match sigma scaling to Skia scaling.
+    <sub>[#48434](https://github.com/flutter/engine/pull/48434) merged on November 28, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48434) over 16 hours, 28 additions and 11 deletions in 3 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Add benchmarks that measure the time it takes to record canvas operations.
     <sub>[#48374](https://github.com/flutter/engine/pull/48374) merged on November 28, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/48374) over 2 days, 84 additions and 0 deletions in 9 files</sub>
