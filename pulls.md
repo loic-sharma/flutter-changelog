@@ -116,3 +116,6 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `Tooltip` tests for Material 3<br />
     <sub>[#139145](https://github.com/flutter/flutter/pull/139145) opened on on November 28, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/139145) 468 additions and 11 deletions in 2 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; CP bump DDS to fix DAP threadID integer parsing bug<br />
+    <sub>[#139158](https://github.com/flutter/flutter/pull/139158) opened on on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139158) 2 additions and 2 deletions in 1 file</sub><br />
+
