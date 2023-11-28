@@ -77,9 +77,6 @@
 * **[TabooSun](https://github.com/TabooSun)** &mdash; Gen l10n add named argument option<br />
     <sub>[#138663](https://github.com/flutter/flutter/pull/138663) opened on on November 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138663) 94 additions and 9 deletions in 6 files</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix turbulence seed for all tests with ink sparkles<br />
-    <sub>[#138757](https://github.com/flutter/flutter/pull/138757) opened on on November 20, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/138757) 11 additions and 2 deletions in 2 files</sub><br />
-
 * **[Ricky Souza de Oliveira](https://github.com/HeroRickyGAMES)** &mdash; This is a test implementation of the bug fix package:flutter/src/rendering/mouse_tracker.dart ': Failed assertion: line 205 pos 12: '!_debugDuringDeviceUpdate': is not true.<br />
     <sub>[#138811](https://github.com/flutter/flutter/pull/138811) opened on on November 21, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/138811) 434 additions and 0 deletions in 1 file</sub><br />
 
@@ -96,22 +93,10 @@
     <sub>[#138881](https://github.com/flutter/flutter/pull/138881) opened on on November 22, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/138881) 189 additions and 117 deletions in 57 files</sub><br />
 
 * **[Fernando Rosentalski](https://github.com/talski)** &mdash; Fix InputDecorationTheme copyWith fallback<br />
-    <sub>[#138914](https://github.com/flutter/flutter/pull/138914) opened on on November 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138914) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[yim](https://github.com/yiiim)** &mdash; Added some documentation for OverlayPortal<br />
-    <sub>[#138934](https://github.com/flutter/flutter/pull/138934) opened on on November 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138934) 3 additions and 1 deletion in 1 file</sub><br />
-
-* **[Gregor Zurowski](https://github.com/gzurowski)** &mdash; Fix comment<br />
-    <sub>[#138973](https://github.com/flutter/flutter/pull/138973) opened on on November 24, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/138973) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#138914](https://github.com/flutter/flutter/pull/138914) opened on on November 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138914) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Examples of `snack_bar.0`, `elevated_button.0`, `stepper.0`, `radio.0`, `filled_button.0`, `outlined_button.0` & `card.0`<br />
     <sub>[#138987](https://github.com/flutter/flutter/pull/138987) opened on on November 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138987) 215 additions and 7 deletions in 8 files</sub><br />
-
-* **[Khokan20](https://github.com/Khokan20)** &mdash; Features/ui_screenwidth<br />
-    <sub>[#138997](https://github.com/flutter/flutter/pull/138997) opened on on November 25, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/138997) 561 additions and 552 deletions in 21 files</sub><br />
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update `ButtonStyleButton.scaledPadding` documentation. Migrate callers in flutter/flutter<br />
-    <sub>[#139014](https://github.com/flutter/flutter/pull/139014) opened on on November 26, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/139014) 256 additions and 96 deletions in 10 files</sub><br />
 
 * **[Luke Hutchison](https://github.com/lukehutch)** &mdash; Fix refresh cancelation<br />
     <sub>[#139015](https://github.com/flutter/flutter/pull/139015) opened on on November 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139015) 10 additions and 12 deletions in 1 file</sub><br />
@@ -124,9 +109,6 @@
 
 * **[LowLevelSubmarine](https://github.com/LowLevelSubmarine)** &mdash; fix: ZoomPageTransitionsBuilder always has black outlines during transitions<br />
     <sub>[#139078](https://github.com/flutter/flutter/pull/139078) opened on on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139078) 10 additions and 1 deletion in 1 file</sub><br />
-
-* **[Jim Kalafut](https://github.com/kalafut)** &mdash; Fix header formatting typo in PopupMenuButton docs<br />
-    <sub>[#139084](https://github.com/flutter/flutter/pull/139084) opened on on November 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139084) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Fré Dumazy](https://github.com/dumazy)** &mdash; Improve documentation of CardTheme.shape<br />
     <sub>[#139096](https://github.com/flutter/flutter/pull/139096) opened on on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139096) 4 additions and 2 deletions in 2 files</sub><br />
