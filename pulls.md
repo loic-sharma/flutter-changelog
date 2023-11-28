@@ -113,6 +113,9 @@
 * **[Khokan20](https://github.com/Khokan20)** &mdash; Features/ui_screenwidth<br />
     <sub>[#138997](https://github.com/flutter/flutter/pull/138997) opened on on November 25, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/138997) 561 additions and 552 deletions in 21 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update `ButtonStyleButton.scaledPadding` documentation. Migrate callers in flutter/flutter<br />
+    <sub>[#139014](https://github.com/flutter/flutter/pull/139014) opened on on November 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139014) 124 additions and 91 deletions in 5 files</sub><br />
+
 * **[Luke Hutchison](https://github.com/lukehutch)** &mdash; Fix refresh cancelation<br />
     <sub>[#139015](https://github.com/flutter/flutter/pull/139015) opened on on November 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139015) 10 additions and 12 deletions in 1 file</sub><br />
 
