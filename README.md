@@ -7,7 +7,7 @@
 22 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to customize `NavigationBar` indicator overlay and fix indicator shape for the overlay<br />
-    <sub>[#138901](https://github.com/flutter/flutter/pull/138901) merged on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/138901) over 5 days, 229 additions and 28 deletions in 4 files</sub><br />
+    <sub>[#138901](https://github.com/flutter/flutter/pull/138901) merged on November 27, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138901) over 5 days, 229 additions and 28 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>5 images...</summary>![Screenshot 2023-11-22 at 18 22 48](https://github.com/flutter/flutter/assets/48603081/06f54335-71ee-4882-afb0-53b614933c38)![Screenshot 2023-11-22 at 15 29 52](https://github.com/flutter/flutter/assets/48603081/913e0f77-48f4-4c6e-87f3-52c81b78f3d9)![Screenshot 2023-11-22 at 18 22 08](https://github.com/flutter/flutter/assets/48603081/28badae4-a7c7-4bf0-8bcc-278a1f84729d)![Screenshot 2023-11-22 at 18 22 25](https://github.com/flutter/flutter/assets/48603081/674b48b1-f66a-4d91-9f10-ad307416ac32)![Screenshot 2023-11-22 at 15 30 36](https://github.com/flutter/flutter/assets/48603081/ae9a3627-787e-45ac-9319-2ea8ea1e6ae6)</details></sub>
 
@@ -338,7 +338,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-21 commits.
+22 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reduce number of surfaces required when presenting platform views<br />
     <sub>[#43301](https://github.com/flutter/engine/pull/43301) merged on November 27, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/43301) over 5 months, 381 additions and 226 deletions in 12 files</sub><br />
@@ -371,6 +371,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements incorporating the gaussian blur snapshot transform<br />
     <sub>[#48426](https://github.com/flutter/engine/pull/48426) merged on November 28, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/48426) over 19 hours, 186 additions and 10 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Skip mask blur with 0 sigma.<br />
+    <sub>[#48457](https://github.com/flutter/engine/pull/48457) merged on November 28, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/48457) over 2 hours, 26 additions and 1 deletion in 3 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] match sigma scaling to Skia scaling.<br />
     <sub>[#48434](https://github.com/flutter/engine/pull/48434) merged on November 28, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48434) over 16 hours, 28 additions and 11 deletions in 3 files</sub><br />
