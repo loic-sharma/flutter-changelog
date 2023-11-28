@@ -4,7 +4,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-22 commits.
+23 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to customize `NavigationBar` indicator overlay and fix indicator shape for the overlay
     <sub>[#138901](https://github.com/flutter/flutter/pull/138901) merged on November 27, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138901) over 5 days, 229 additions and 28 deletions in 4 files</sub>
@@ -22,6 +22,10 @@
 * **[neko-andrew](https://github.com/neko-andrew)** &mdash; Fix intrinsic width of input decorator
     <sub>[#138074](https://github.com/flutter/flutter/pull/138074) merged on November 28, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/138074) over 2 weeks, 63 additions and 14 deletions in 2 files</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Ensure Icon vertically centers its icon glyph.
+    <sub>[#138937](https://github.com/flutter/flutter/pull/138937) merged on November 28, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138937) over 5 days, 38 additions and 17 deletions in 2 files</sub>
+    <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] fix instructions to disable CLI animations
     <sub>[#139094](https://github.com/flutter/flutter/pull/139094) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139094) over 1 hour, 12 additions and 2 deletions in 3 files</sub>
@@ -338,7 +342,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-23 commits.
+24 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reduce number of surfaces required when presenting platform views
     <sub>[#43301](https://github.com/flutter/engine/pull/43301) merged on November 27, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/43301) over 5 months, 381 additions and 226 deletions in 12 files</sub>
@@ -375,6 +379,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements incorporating the gaussian blur snapshot transform
     <sub>[#48426](https://github.com/flutter/engine/pull/48426) merged on November 28, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/48426) over 19 hours, 186 additions and 10 deletions in 3 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove use of variable length arrays
+    <sub>[#48232](https://github.com/flutter/engine/pull/48232) merged on November 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48232) over 1 week, 24 additions and 24 deletions in 6 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Skip mask blur with 0 sigma.
     <sub>[#48457](https://github.com/flutter/engine/pull/48457) merged on November 28, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/48457) over 2 hours, 26 additions and 1 deletion in 3 files</sub>
