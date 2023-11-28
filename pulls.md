@@ -137,6 +137,3 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Simplify devicelab logic and fix tests<br />
     <sub>[#139122](https://github.com/flutter/flutter/pull/139122) opened on on November 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139122) 54 additions and 51 deletions in 4 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix textScalerOf and maybeTextScalerOf documentations<br />
-    <sub>[#139123](https://github.com/flutter/flutter/pull/139123) opened on on November 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139123) 2 additions and 2 deletions in 1 file</sub><br />
-
