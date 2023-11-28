@@ -334,11 +334,15 @@
 
 ### November 25, 2023 to December 1, 2023
 
-18 commits.
+19 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reduce number of surfaces required when presenting platform views
     <sub>[#43301](https://github.com/flutter/engine/pull/43301) merged on November 27, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/43301) over 5 months, 381 additions and 226 deletions in 12 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Recycle descriptor sets.
+    <sub>[#48343](https://github.com/flutter/engine/pull/48343) merged on November 28, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/48343) over 4 days, 412 additions and 52 deletions in 11 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Dynamic view sizing [dart:ui]
     <sub>[#48090](https://github.com/flutter/engine/pull/48090) merged on November 27, 2023 &mdash; **Medium:** [34 comments](https://github.com/flutter/engine/pull/48090) over 1 week, 336 additions and 19 deletions in 11 files</sub>
