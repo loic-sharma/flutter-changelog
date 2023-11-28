@@ -310,7 +310,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-16 commits.
+17 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reduce number of surfaces required when presenting platform views
     <sub>[#43301](https://github.com/flutter/engine/pull/43301) merged on November 27, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/43301) over 5 months, 381 additions and 226 deletions in 12 files</sub>
@@ -335,6 +335,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] updated gaussian blur tests to use device private textures
     <sub>[#48417](https://github.com/flutter/engine/pull/48417) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48417) over 1 hour, 8 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Add benchmarks that measure the time it takes to record canvas operations.
+    <sub>[#48374](https://github.com/flutter/engine/pull/48374) merged on November 28, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/48374) over 2 days, 84 additions and 0 deletions in 9 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `HeaderFilterRegex` once and for all.
     <sub>[#48145](https://github.com/flutter/engine/pull/48145) merged on November 27, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/48145) over 1 week, 250 additions and 141 deletions in 33 files</sub>
