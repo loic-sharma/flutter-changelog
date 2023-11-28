@@ -119,3 +119,9 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; CP bump DDS to fix DAP threadID integer parsing bug<br />
     <sub>[#139158](https://github.com/flutter/flutter/pull/139158) opened on on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139158) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Move analysis test to shard tests.<br />
+    <sub>[#139161](https://github.com/flutter/flutter/pull/139161) opened on on November 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139161) 18 additions and 6 deletions in 3 files</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [CP] Add ability to customize `NavigationBar` indicator overlay and fix in…<br />
+    <sub>[#139162](https://github.com/flutter/flutter/pull/139162) opened on on November 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139162) 229 additions and 28 deletions in 4 files</sub><br />
+
