@@ -419,6 +419,10 @@
     <sub>[#48190](https://github.com/flutter/engine/pull/48190) merged on November 21, 2023 &mdash; **Small:** [47 comments](https://github.com/flutter/engine/pull/48190) over 3 days, 154 additions and 22 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
+* **[林洵锋](https://github.com/LinXunFeng)** &mdash; Fix not being able to hide iOS status bar via setEnabledSystemUIMode<br />
+    <sub>[#48271](https://github.com/flutter/engine/pull/48271) merged on November 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48271) over 1 day, 91 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] cache render target properties on Render Pass.<br />
     <sub>[#48323](https://github.com/flutter/engine/pull/48323) merged on November 22, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/48323) over 1 hour, 61 additions and 6 deletions in 4 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
@@ -433,10 +437,6 @@
     <sub>[#48298](https://github.com/flutter/engine/pull/48298) merged on November 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48298) over 1 hour, 6 additions and 6 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/engine/assets/8975114/b5884e02-25ed-4e53-a6e0-d8d5a6a9a79a)![image](https://github.com/flutter/engine/assets/8975114/ac5981bb-40c6-4a38-b24c-46b7ad5399a4)</details></sub>
-
-* **[林洵锋](https://github.com/LinXunFeng)** &mdash; Fix not being able to hide iOS status bar via setEnabledSystemUIMode<br />
-    <sub>[#48271](https://github.com/flutter/engine/pull/48271) merged on November 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48271) over 1 day, 91 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Expose a few more glyph apis from `ui.Paragraph`<br />
     <sub>[#47698](https://github.com/flutter/engine/pull/47698) merged on November 22, 2023 &mdash; **Large:** [19 comments](https://github.com/flutter/engine/pull/47698) over 2 weeks, 824 additions and 7 deletions in 21 files</sub><br />
