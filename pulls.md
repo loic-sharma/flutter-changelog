@@ -119,9 +119,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; CP bump DDS to fix DAP threadID integer parsing bug<br />
     <sub>[#139158](https://github.com/flutter/flutter/pull/139158) opened on on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139158) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Move analysis test to shard tests.<br />
-    <sub>[#139161](https://github.com/flutter/flutter/pull/139161) opened on on November 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139161) 21 additions and 10 deletions in 3 files</sub><br />
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update VelocityTracker (4)<br />
     <sub>[#139166](https://github.com/flutter/flutter/pull/139166) opened on on November 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139166) 178 additions and 65 deletions in 9 files</sub><br />
 
