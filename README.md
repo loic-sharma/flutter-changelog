@@ -4,7 +4,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-15 commits.
+16 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to customize `NavigationBar` indicator overlay and fix indicator shape for the overlay<br />
     <sub>[#138901](https://github.com/flutter/flutter/pull/138901) merged on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/138901) over 5 days, 229 additions and 28 deletions in 4 files</sub><br />
@@ -34,6 +34,10 @@
 * **[Jasper van Riet](https://github.com/JaspervanRiet)** &mdash; Write tests for API examples of BottomNavigationBar and IconButton<br />
     <sub>[#138188](https://github.com/flutter/flutter/pull/138188) merged on November 27, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/138188) over 2 weeks, 135 additions and 4 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run platform_channels_benchmarks on Pixel 7 Pro<br />
+    <sub>[#139092](https://github.com/flutter/flutter/pull/139092) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139092) over 7 hours, 10 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub><br />
 
 * **[Kallen Tu](https://github.com/kallentu)** &mdash; Bump DartDoc to 8.0.0<br />
     <sub>[#139088](https://github.com/flutter/flutter/pull/139088) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139088) over 3 hours, 1 addition and 3 deletions in 3 files</sub><br />
