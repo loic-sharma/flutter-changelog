@@ -110,11 +110,8 @@
 * **[Dylan Pfab](https://github.com/DYLERN)** &mdash; Added flag to disable build name validation on ios<br />
     <sub>[#139227](https://github.com/flutter/flutter/pull/139227) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139227) 100 additions and 0 deletions in 5 files</sub><br />
 
-* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Wrap CupertinoApp with non-Material3 theme<br />
-    <sub>[#139253](https://github.com/flutter/flutter/pull/139253) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139253) 19 additions and 2 deletions in 3 files</sub><br />
-
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Remove deprecated `TextTheme` members<br />
-    <sub>[#139255](https://github.com/flutter/flutter/pull/139255) opened on on November 29, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/139255) 58 additions and 302 deletions in 6 files</sub><br />
+    <sub>[#139255](https://github.com/flutter/flutter/pull/139255) opened on on November 29, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/139255) 71 additions and 315 deletions in 7 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Examples of `cupertino_text_field.0`, `data_table.0`, `icon_button.2` & `ink_well.0`<br />
     <sub>[#139258](https://github.com/flutter/flutter/pull/139258) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139258) 92 additions and 4 deletions in 5 files</sub><br />
