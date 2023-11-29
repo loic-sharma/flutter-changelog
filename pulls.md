@@ -113,3 +113,6 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `DatePicker` Dialog content not visible on lower text scale<br />
     <sub>[#139236](https://github.com/flutter/flutter/pull/139236) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139236) 54 additions and 15 deletions in 2 files</sub><br />
 
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Wrap CupertinoApp with non-Material3 theme<br />
+    <sub>[#139253](https://github.com/flutter/flutter/pull/139253) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139253) 32 additions and 10 deletions in 2 files</sub><br />
+
