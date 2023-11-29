@@ -95,9 +95,6 @@
 * **[LowLevelSubmarine](https://github.com/LowLevelSubmarine)** &mdash; fix: ZoomPageTransitionsBuilder always has black outlines during transitions<br />
     <sub>[#139078](https://github.com/flutter/flutter/pull/139078) opened on on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139078) 10 additions and 1 deletion in 1 file</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Remove deprecated `ThemeData.selectedRowColor`<br />
-    <sub>[#139080](https://github.com/flutter/flutter/pull/139080) opened on on November 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139080) 0 additions and 36 deletions in 2 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Retry on transient Skia failure.<br />
     <sub>[#139182](https://github.com/flutter/flutter/pull/139182) opened on on November 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139182) 204 additions and 34 deletions in 3 files</sub><br />
 
@@ -111,7 +108,7 @@
     <sub>[#139227](https://github.com/flutter/flutter/pull/139227) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139227) 100 additions and 0 deletions in 5 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Remove deprecated `TextTheme` members<br />
-    <sub>[#139255](https://github.com/flutter/flutter/pull/139255) opened on on November 29, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/139255) 71 additions and 315 deletions in 7 files</sub><br />
+    <sub>[#139255](https://github.com/flutter/flutter/pull/139255) opened on on November 29, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/139255) 75 additions and 331 deletions in 8 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Examples of `cupertino_text_field.0`, `data_table.0`, `icon_button.2` & `ink_well.0`<br />
     <sub>[#139258](https://github.com/flutter/flutter/pull/139258) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139258) 92 additions and 4 deletions in 5 files</sub><br />
