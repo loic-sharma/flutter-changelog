@@ -113,3 +113,6 @@
 * **[Dylan Pfab](https://github.com/DYLERN)** &mdash; Added flag to disable build name validation on ios<br />
     <sub>[#139227](https://github.com/flutter/flutter/pull/139227) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139227) 100 additions and 0 deletions in 5 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `DatePicker` Dialog content not visible on lower text scale<br />
+    <sub>[#139236](https://github.com/flutter/flutter/pull/139236) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139236) 49 additions and 15 deletions in 2 files</sub><br />
+
