@@ -4,7 +4,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-38 commits.
+39 commits.
 
 * **[Gabriel Tavares](https://github.com/gbtb16)** &mdash; feature(table-widget): Added intrinsicHeight to TableCellVerticalAlignment enum.
     <sub>[#130264](https://github.com/flutter/flutter/pull/130264) merged on November 28, 2023 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/130264) over 4 months, 78 additions and 1 deletion in 3 files</sub>
@@ -15,6 +15,11 @@
     <sub>[#136165](https://github.com/flutter/flutter/pull/136165) merged on November 29, 2023 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/136165) over 1 month, 53 additions and 8 deletions in 3 files</sub>
     <sub>Reviewed by: [mysCod3r](https://github.com/mysCod3r), [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
     <sub><details><summary>3 images...</summary>![Screenshot 2023-10-09 at 01 32 33](https://github.com/flutter/flutter/assets/17102578/cb90423c-8d8d-40d5-afd0-5aab23b9930b)![Screenshot 2023-10-09 at 01 33 01](https://github.com/flutter/flutter/assets/17102578/3ba84243-42b8-4e02-b064-70618e21a305)![Screenshot 2023-10-09 at 01 32 49](https://github.com/flutter/flutter/assets/17102578/4f311d74-f6a8-4f32-9974-109bd7f55812)</details></sub>
+
+* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Migration for the `sendTiming` events for `package:unified_analytics`
+    <sub>[#138896](https://github.com/flutter/flutter/pull/138896) merged on November 29, 2023 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/138896) over 1 week, 806 additions and 274 deletions in 27 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub><details><summary>1 image...</summary><img width="278" alt="image" src="https://github.com/flutter/flutter/assets/42216813/cee7b9be-48d6-48e5-8c39-de28d0a1f0de"></details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Give an actionable error message when a Pod requires a higher minimum OS version
     <sub>[#138097](https://github.com/flutter/flutter/pull/138097) merged on November 27, 2023 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/138097) over 2 weeks, 615 additions and 2 deletions in 2 files</sub>
@@ -113,10 +118,6 @@
     <sub>[#138565](https://github.com/flutter/flutter/pull/138565) merged on November 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138565) over 1 week, 6 additions and 4 deletions in 3 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
-* **[Jim Kalafut](https://github.com/kalafut)** &mdash; Fix header formatting typo in PopupMenuButton docs
-    <sub>[#139084](https://github.com/flutter/flutter/pull/139084) merged on November 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139084) over 22 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Renable macOS 13 tests
     <sub>[#139083](https://github.com/flutter/flutter/pull/139083) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139083) over 20 hours, 6 additions and 6 deletions in 1 file</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
@@ -152,6 +153,10 @@
 * **[Gregor Zurowski](https://github.com/gzurowski)** &mdash; Fix comment
     <sub>[#138973](https://github.com/flutter/flutter/pull/138973) merged on November 28, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/138973) over 4 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Bartek Pacia](https://github.com/bartekpacia)</sub>
+
+* **[Jim Kalafut](https://github.com/kalafut)** &mdash; Fix header formatting typo in PopupMenuButton docs
+    <sub>[#139084](https://github.com/flutter/flutter/pull/139084) merged on November 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139084) over 22 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Reland Add platform view wide gamut test
     <sub>[#139101](https://github.com/flutter/flutter/pull/139101) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139101) over 3 hours, 117 additions and 0 deletions in 3 files</sub>
