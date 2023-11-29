@@ -125,7 +125,7 @@
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Reland Add platform view wide gamut test"
-    <sub>[#139189](https://github.com/flutter/flutter/pull/139189) merged on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139189) over 1 minute, 0 additions and 117 deletions in 3 files</sub>
+    <sub>[#139189](https://github.com/flutter/flutter/pull/139189) merged on November 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139189) over 1 minute, 0 additions and 117 deletions in 3 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### November 18, 2023 to November 24, 2023
@@ -371,7 +371,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-25 commits.
+27 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reduce number of surfaces required when presenting platform views
     <sub>[#43301](https://github.com/flutter/engine/pull/43301) merged on November 27, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/43301) over 5 months, 381 additions and 226 deletions in 12 files</sub>
@@ -393,6 +393,10 @@
     <sub>[#48386](https://github.com/flutter/engine/pull/48386) merged on November 27, 2023 &mdash; **Large:** [15 comments](https://github.com/flutter/engine/pull/48386) over 10 hours, 1177 additions and 133 deletions in 19 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix the application not disposing by breaking circular references on quit
+    <sub>[#47684](https://github.com/flutter/engine/pull/47684) merged on November 29, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/47684) over 3 weeks, 111 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fall back to `drawImage` for browsers that don't support `createImageBitmap`
     <sub>[#48336](https://github.com/flutter/engine/pull/48336) merged on November 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48336) over 4 days, 170 additions and 19 deletions in 4 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
@@ -408,6 +412,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements incorporating the gaussian blur snapshot transform
     <sub>[#48426](https://github.com/flutter/engine/pull/48426) merged on November 28, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/48426) over 19 hours, 186 additions and 10 deletions in 3 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix descriptor pool recycler test flake.
+    <sub>[#48479](https://github.com/flutter/engine/pull/48479) merged on November 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48479) over 47 minutes, 78 additions and 9 deletions in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Fix CanonicalizeURL for file schema
     <sub>[#48466](https://github.com/flutter/engine/pull/48466) merged on November 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48466) over 4 hours, 52 additions and 27 deletions in 8 files</sub>
