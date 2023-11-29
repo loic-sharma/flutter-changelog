@@ -96,7 +96,7 @@
     <sub>[#139078](https://github.com/flutter/flutter/pull/139078) opened on on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139078) 10 additions and 1 deletion in 1 file</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Retry on transient Skia failure.<br />
-    <sub>[#139182](https://github.com/flutter/flutter/pull/139182) opened on on November 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139182) 196 additions and 34 deletions in 3 files</sub><br />
+    <sub>[#139182](https://github.com/flutter/flutter/pull/139182) opened on on November 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139182) 204 additions and 34 deletions in 3 files</sub><br />
 
 * **[Non Vachara](https://github.com/nonvachara-paloit)** &mdash; Add send_text_input_action case to deserialization_factory to allow sendTextInputAction usages through flutter_driver.<br />
     <sub>[#139197](https://github.com/flutter/flutter/pull/139197) opened on on November 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139197) 42 additions and 3 deletions in 2 files</sub><br />

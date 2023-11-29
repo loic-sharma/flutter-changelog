@@ -4,7 +4,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-42 commits.
+43 commits.
 
 * **[Gabriel Tavares](https://github.com/gbtb16)** &mdash; feature(table-widget): Added intrinsicHeight to TableCellVerticalAlignment enum.<br />
     <sub>[#130264](https://github.com/flutter/flutter/pull/130264) merged on November 28, 2023 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/130264) over 4 months, 78 additions and 1 deletion in 3 files</sub><br />
@@ -54,25 +54,25 @@
     <sub>[#138507](https://github.com/flutter/flutter/pull/138507) merged on November 29, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/138507) over 1 week, 124 additions and 6 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Ensure Icon vertically centers its icon glyph.<br />
-    <sub>[#138937](https://github.com/flutter/flutter/pull/138937) merged on November 28, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138937) over 5 days, 38 additions and 17 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub><br />
-
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField and TextFormField can use a MaterialStatesController<br />
     <sub>[#133977](https://github.com/flutter/flutter/pull/133977) merged on November 29, 2023 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/133977) over 2 months, 222 additions and 14 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Ensure Icon vertically centers its icon glyph.<br />
+    <sub>[#138937](https://github.com/flutter/flutter/pull/138937) merged on November 28, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138937) over 5 days, 38 additions and 17 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] fix instructions to disable CLI animations<br />
     <sub>[#139094](https://github.com/flutter/flutter/pull/139094) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139094) over 1 hour, 12 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak)</sub><br />
 
-* **[hangyu](https://github.com/hangyujin)** &mdash; Record focus in route entry to move a11y focus to the last focused item <br />
-    <sub>[#135771](https://github.com/flutter/flutter/pull/135771) merged on November 27, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/135771) over 1 month, 141 additions and 0 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update `ButtonStyleButton.scaledPadding` documentation. Migrate callers in flutter/flutter<br />
     <sub>[#139014](https://github.com/flutter/flutter/pull/139014) merged on November 29, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/139014) over 3 days, 256 additions and 96 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[hangyu](https://github.com/hangyujin)** &mdash; Record focus in route entry to move a11y focus to the last focused item <br />
+    <sub>[#135771](https://github.com/flutter/flutter/pull/135771) merged on November 27, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/135771) over 1 month, 141 additions and 0 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Wide gamut and platform view integration test.<br />
     <sub>[#138837](https://github.com/flutter/flutter/pull/138837) merged on November 27, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/138837) over 6 days, 123 additions and 0 deletions in 4 files</sub><br />
@@ -98,6 +98,10 @@
     <sub>[#138757](https://github.com/flutter/flutter/pull/138757) merged on November 28, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/138757) over 1 week, 11 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Dynamic view sizing<br />
+    <sub>[#138648](https://github.com/flutter/flutter/pull/138648) merged on November 29, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/138648) over 1 week, 291 additions and 43 deletions in 16 files</sub><br />
+    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Kenzie Davisson](https://github.com/kenzieschmoll), [David Iglesias](https://github.com/ditman), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run platform_channels_benchmarks on Pixel 7 Pro<br />
     <sub>[#139092](https://github.com/flutter/flutter/pull/139092) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139092) over 7 hours, 10 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub><br />
@@ -121,10 +125,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Edge case on flutter/flutter/issues/135402 with test<br />
     <sub>[#138814](https://github.com/flutter/flutter/pull/138814) merged on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/138814) over 5 days, 12 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Renable macOS 13 tests<br />
-    <sub>[#139083](https://github.com/flutter/flutter/pull/139083) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139083) over 20 hours, 6 additions and 6 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix textScalerOf and maybeTextScalerOf documentations<br />
     <sub>[#139123](https://github.com/flutter/flutter/pull/139123) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139123) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
@@ -169,6 +169,10 @@
 * **[Jim Kalafut](https://github.com/kalafut)** &mdash; Fix header formatting typo in PopupMenuButton docs<br />
     <sub>[#139084](https://github.com/flutter/flutter/pull/139084) merged on November 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139084) over 22 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Renable macOS 13 tests<br />
+    <sub>[#139083](https://github.com/flutter/flutter/pull/139083) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139083) over 20 hours, 6 additions and 6 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Reland Add platform view wide gamut test<br />
     <sub>[#139101](https://github.com/flutter/flutter/pull/139101) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139101) over 3 hours, 117 additions and 0 deletions in 3 files</sub><br />
