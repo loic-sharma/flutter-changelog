@@ -37,6 +37,10 @@
     <sub>[#138074](https://github.com/flutter/flutter/pull/138074) merged on November 28, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/138074) over 2 weeks, 63 additions and 14 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Simplify devicelab logic and fix tests<br />
+    <sub>[#139122](https://github.com/flutter/flutter/pull/139122) merged on November 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/139122) over 1 day, 59 additions and 61 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField and TextFormField can use a MaterialStatesController<br />
     <sub>[#133977](https://github.com/flutter/flutter/pull/133977) merged on November 29, 2023 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/133977) over 2 months, 222 additions and 14 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
@@ -49,17 +53,13 @@
     <sub>[#139094](https://github.com/flutter/flutter/pull/139094) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139094) over 1 hour, 12 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak)</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update `ButtonStyleButton.scaledPadding` documentation. Migrate callers in flutter/flutter<br />
-    <sub>[#139014](https://github.com/flutter/flutter/pull/139014) merged on November 29, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/139014) over 3 days, 256 additions and 96 deletions in 10 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
-
 * **[hangyu](https://github.com/hangyujin)** &mdash; Record focus in route entry to move a11y focus to the last focused item <br />
     <sub>[#135771](https://github.com/flutter/flutter/pull/135771) merged on November 27, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/135771) over 1 month, 141 additions and 0 deletions in 3 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Simplify devicelab logic and fix tests<br />
-    <sub>[#139122](https://github.com/flutter/flutter/pull/139122) merged on November 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/139122) over 1 day, 59 additions and 61 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update `ButtonStyleButton.scaledPadding` documentation. Migrate callers in flutter/flutter<br />
+    <sub>[#139014](https://github.com/flutter/flutter/pull/139014) merged on November 29, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/139014) over 3 days, 256 additions and 96 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Wide gamut and platform view integration test.<br />
     <sub>[#138837](https://github.com/flutter/flutter/pull/138837) merged on November 27, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/138837) over 6 days, 123 additions and 0 deletions in 4 files</sub><br />
