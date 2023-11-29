@@ -25,6 +25,10 @@
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>5 images...</summary>![Screenshot 2023-11-22 at 18 22 48](https://github.com/flutter/flutter/assets/48603081/06f54335-71ee-4882-afb0-53b614933c38)![Screenshot 2023-11-22 at 15 29 52](https://github.com/flutter/flutter/assets/48603081/913e0f77-48f4-4c6e-87f3-52c81b78f3d9)![Screenshot 2023-11-22 at 18 22 08](https://github.com/flutter/flutter/assets/48603081/28badae4-a7c7-4bf0-8bcc-278a1f84729d)![Screenshot 2023-11-22 at 18 22 25](https://github.com/flutter/flutter/assets/48603081/674b48b1-f66a-4d91-9f10-ad307416ac32)![Screenshot 2023-11-22 at 15 30 36](https://github.com/flutter/flutter/assets/48603081/ae9a3627-787e-45ac-9319-2ea8ea1e6ae6)</details></sub>
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Simplify devicelab logic and fix tests<br />
+    <sub>[#139122](https://github.com/flutter/flutter/pull/139122) merged on November 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/139122) over 1 day, 59 additions and 61 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
 * **[Tirth](https://github.com/piedcipher)** &mdash; Added keyboardType & textInputAction props to SearchBar, SearchAnchor & SearchAnchor.bar<br />
     <sub>[#138553](https://github.com/flutter/flutter/pull/138553) merged on November 28, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/138553) over 1 week, 230 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Hans Muller](https://github.com/HansMuller)</sub><br />
@@ -32,10 +36,6 @@
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Provide parameter to Icon and IconThemeData for they to consider the context's text scaler<br />
     <sub>[#135708](https://github.com/flutter/flutter/pull/135708) merged on November 29, 2023 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/135708) over 2 months, 178 additions and 19 deletions in 9 files</sub><br />
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Simplify devicelab logic and fix tests<br />
-    <sub>[#139122](https://github.com/flutter/flutter/pull/139122) merged on November 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/139122) over 1 day, 59 additions and 61 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[neko-andrew](https://github.com/neko-andrew)** &mdash; Fix intrinsic width of input decorator<br />
     <sub>[#138074](https://github.com/flutter/flutter/pull/138074) merged on November 28, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/138074) over 2 weeks, 63 additions and 14 deletions in 2 files</sub><br />
