@@ -4,7 +4,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-31 commits.
+32 commits.
 
 * **[Gabriel Tavares](https://github.com/gbtb16)** &mdash; feature(table-widget): Added intrinsicHeight to TableCellVerticalAlignment enum.<br />
     <sub>[#130264](https://github.com/flutter/flutter/pull/130264) merged on November 28, 2023 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/130264) over 4 months, 78 additions and 1 deletion in 3 files</sub><br />
@@ -23,6 +23,10 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Added keyboardType & textInputAction props to SearchBar, SearchAnchor & SearchAnchor.bar<br />
     <sub>[#138553](https://github.com/flutter/flutter/pull/138553) merged on November 28, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/138553) over 1 week, 230 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Hans Muller](https://github.com/HansMuller)</sub><br />
+
+* **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Provide parameter to Icon and IconThemeData for they to consider the context's text scaler<br />
+    <sub>[#135708](https://github.com/flutter/flutter/pull/135708) merged on November 29, 2023 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/135708) over 2 months, 178 additions and 19 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[neko-andrew](https://github.com/neko-andrew)** &mdash; Fix intrinsic width of input decorator<br />
     <sub>[#138074](https://github.com/flutter/flutter/pull/138074) merged on November 28, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/138074) over 2 weeks, 63 additions and 14 deletions in 2 files</sub><br />
