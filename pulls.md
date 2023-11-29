@@ -116,3 +116,9 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Remove deprecated `TextTheme` members<br />
     <sub>[#139255](https://github.com/flutter/flutter/pull/139255) opened on on November 29, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/139255) 46 additions and 290 deletions in 2 files</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove WidgetInspectorService setPubRootDirectories deprecations<br />
+    <sub>[#139257](https://github.com/flutter/flutter/pull/139257) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139257) 75 additions and 37 deletions in 10 files</sub><br />
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Examples of `cupertino_text_field.0`, `data_table.0`, `icon_button.2` & `ink_well.0`<br />
+    <sub>[#139258](https://github.com/flutter/flutter/pull/139258) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139258) 92 additions and 4 deletions in 5 files</sub><br />
+
