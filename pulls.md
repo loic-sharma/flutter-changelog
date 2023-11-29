@@ -114,7 +114,7 @@
     <sub>[#139253](https://github.com/flutter/flutter/pull/139253) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139253) 19 additions and 2 deletions in 3 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Remove deprecated `TextTheme` members<br />
-    <sub>[#139255](https://github.com/flutter/flutter/pull/139255) opened on on November 29, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/139255) 46 additions and 290 deletions in 2 files</sub><br />
+    <sub>[#139255](https://github.com/flutter/flutter/pull/139255) opened on on November 29, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/139255) 50 additions and 294 deletions in 3 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Examples of `cupertino_text_field.0`, `data_table.0`, `icon_button.2` & `ink_well.0`<br />
     <sub>[#139258](https://github.com/flutter/flutter/pull/139258) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139258) 92 additions and 4 deletions in 5 files</sub><br />
