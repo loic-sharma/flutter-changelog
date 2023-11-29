@@ -4,7 +4,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-32 commits.
+33 commits.
 
 * **[Gabriel Tavares](https://github.com/gbtb16)** &mdash; feature(table-widget): Added intrinsicHeight to TableCellVerticalAlignment enum.<br />
     <sub>[#130264](https://github.com/flutter/flutter/pull/130264) merged on November 28, 2023 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/130264) over 4 months, 78 additions and 1 deletion in 3 files</sub><br />
@@ -31,6 +31,10 @@
 * **[neko-andrew](https://github.com/neko-andrew)** &mdash; Fix intrinsic width of input decorator<br />
     <sub>[#138074](https://github.com/flutter/flutter/pull/138074) merged on November 28, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/138074) over 2 weeks, 63 additions and 14 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField and TextFormField can use a MaterialStatesController<br />
+    <sub>[#133977](https://github.com/flutter/flutter/pull/133977) merged on November 29, 2023 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/133977) over 2 months, 222 additions and 14 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Ensure Icon vertically centers its icon glyph.<br />
     <sub>[#138937](https://github.com/flutter/flutter/pull/138937) merged on November 28, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138937) over 5 days, 38 additions and 17 deletions in 2 files</sub><br />
