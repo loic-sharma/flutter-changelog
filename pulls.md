@@ -107,9 +107,6 @@
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Improve slider's value indicator display test<br />
     <sub>[#139198](https://github.com/flutter/flutter/pull/139198) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139198) 9 additions and 6 deletions in 1 file</sub><br />
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate fuchsia_precache to shard tests.<br />
-    <sub>[#139202](https://github.com/flutter/flutter/pull/139202) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139202) 37 additions and 2 deletions in 2 files</sub><br />
-
 * **[Dylan Pfab](https://github.com/DYLERN)** &mdash; Added flag to disable build name validation on ios<br />
     <sub>[#139227](https://github.com/flutter/flutter/pull/139227) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139227) 100 additions and 0 deletions in 5 files</sub><br />
 

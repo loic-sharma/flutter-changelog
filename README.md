@@ -404,7 +404,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-29 commits.
+30 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reduce number of surfaces required when presenting platform views<br />
     <sub>[#43301](https://github.com/flutter/engine/pull/43301) merged on November 27, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/43301) over 5 months, 381 additions and 226 deletions in 12 files</sub><br />
@@ -441,6 +441,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Skip unexpected events in MultiPlatformViewBackgroundForegroundScenario<br />
     <sub>[#48456](https://github.com/flutter/engine/pull/48456) merged on November 28, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/48456) over 3 hours, 8 additions and 6 deletions in 1 file</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix new lint from android 14 upgrade, and remove it from the baseline<br />
+    <sub>[#47817](https://github.com/flutter/engine/pull/47817) merged on November 29, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/47817) over 2 weeks, 42 additions and 14 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements incorporating the gaussian blur snapshot transform<br />
     <sub>[#48426](https://github.com/flutter/engine/pull/48426) merged on November 28, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/48426) over 19 hours, 186 additions and 10 deletions in 3 files</sub><br />
