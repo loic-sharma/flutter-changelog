@@ -105,8 +105,11 @@
     <sub>[#139145](https://github.com/flutter/flutter/pull/139145) opened on on November 28, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/139145) 468 additions and 11 deletions in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Retry on transient Skia failure.<br />
-    <sub>[#139182](https://github.com/flutter/flutter/pull/139182) opened on on November 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139182) 197 additions and 35 deletions in 3 files</sub><br />
+    <sub>[#139182](https://github.com/flutter/flutter/pull/139182) opened on on November 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139182) 196 additions and 34 deletions in 3 files</sub><br />
 
 * **[Non Vachara](https://github.com/nonvachara-paloit)** &mdash; Add send_text_input_action case to deserialization_factory to allow sendTextInputAction usages through flutter_driver.<br />
     <sub>[#139197](https://github.com/flutter/flutter/pull/139197) opened on on November 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139197) 42 additions and 3 deletions in 2 files</sub><br />
+
+* **[hgraceb](https://github.com/hgraceb)** &mdash; Improve slider's value indicator display test<br />
+    <sub>[#139198](https://github.com/flutter/flutter/pull/139198) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139198) 9 additions and 6 deletions in 1 file</sub><br />
 
