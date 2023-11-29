@@ -44,6 +44,10 @@
     <sub>[#138837](https://github.com/flutter/flutter/pull/138837) merged on November 27, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/138837) over 6 days, 123 additions and 0 deletions in 4 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
+* **[yim](https://github.com/yiiim)** &mdash; Added some documentation for OverlayPortal
+    <sub>[#138934](https://github.com/flutter/flutter/pull/138934) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138934) over 5 days, 3 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate customer_testing to sharded tests.
     <sub>[#138659](https://github.com/flutter/flutter/pull/138659) merged on November 28, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/138659) over 1 week, 66 additions and 28 deletions in 7 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
@@ -95,10 +99,6 @@
 * **[Gregor Zurowski](https://github.com/gzurowski)** &mdash; Fix comment
     <sub>[#138973](https://github.com/flutter/flutter/pull/138973) merged on November 28, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/138973) over 4 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Bartek Pacia](https://github.com/bartekpacia)</sub>
-
-* **[yim](https://github.com/yiiim)** &mdash; Added some documentation for OverlayPortal
-    <sub>[#138934](https://github.com/flutter/flutter/pull/138934) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138934) over 5 days, 3 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Jim Kalafut](https://github.com/kalafut)** &mdash; Fix header formatting typo in PopupMenuButton docs
     <sub>[#139084](https://github.com/flutter/flutter/pull/139084) merged on November 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139084) over 22 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -470,7 +470,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Joel Winarske](https://github.com/jwinarske)** &mdash; binary_messenger missing cstdint
-    <sub>[#48481](https://github.com/flutter/engine/pull/48481) merged on November 29, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/48481) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
+    <sub>[#48481](https://github.com/flutter/engine/pull/48481) merged on November 29, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/48481) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Replace all calls to SkTypeface::Make with SkFontMgr ones
