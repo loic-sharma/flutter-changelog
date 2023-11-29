@@ -4,7 +4,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-34 commits.
+35 commits.
 
 * **[Gabriel Tavares](https://github.com/gbtb16)** &mdash; feature(table-widget): Added intrinsicHeight to TableCellVerticalAlignment enum.<br />
     <sub>[#130264](https://github.com/flutter/flutter/pull/130264) merged on November 28, 2023 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/130264) over 4 months, 78 additions and 1 deletion in 3 files</sub><br />
@@ -16,14 +16,14 @@
     <sub>Reviewed by: [mysCod3r](https://github.com/mysCod3r), [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
     <sub><details><summary>3 images...</summary>![Screenshot 2023-10-09 at 01 32 33](https://github.com/flutter/flutter/assets/17102578/cb90423c-8d8d-40d5-afd0-5aab23b9930b)![Screenshot 2023-10-09 at 01 33 01](https://github.com/flutter/flutter/assets/17102578/3ba84243-42b8-4e02-b064-70618e21a305)![Screenshot 2023-10-09 at 01 32 49](https://github.com/flutter/flutter/assets/17102578/4f311d74-f6a8-4f32-9974-109bd7f55812)</details></sub>
 
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Give an actionable error message when a Pod requires a higher minimum OS version<br />
+    <sub>[#138097](https://github.com/flutter/flutter/pull/138097) merged on November 27, 2023 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/138097) over 2 weeks, 615 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to customize `NavigationBar` indicator overlay and fix indicator shape for the overlay<br />
     <sub>[#138901](https://github.com/flutter/flutter/pull/138901) merged on November 27, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138901) over 5 days, 229 additions and 28 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>5 images...</summary>![Screenshot 2023-11-22 at 18 22 48](https://github.com/flutter/flutter/assets/48603081/06f54335-71ee-4882-afb0-53b614933c38)![Screenshot 2023-11-22 at 15 29 52](https://github.com/flutter/flutter/assets/48603081/913e0f77-48f4-4c6e-87f3-52c81b78f3d9)![Screenshot 2023-11-22 at 18 22 08](https://github.com/flutter/flutter/assets/48603081/28badae4-a7c7-4bf0-8bcc-278a1f84729d)![Screenshot 2023-11-22 at 18 22 25](https://github.com/flutter/flutter/assets/48603081/674b48b1-f66a-4d91-9f10-ad307416ac32)![Screenshot 2023-11-22 at 15 30 36](https://github.com/flutter/flutter/assets/48603081/ae9a3627-787e-45ac-9319-2ea8ea1e6ae6)</details></sub>
-
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Give an actionable error message when a Pod requires a higher minimum OS version<br />
-    <sub>[#138097](https://github.com/flutter/flutter/pull/138097) merged on November 27, 2023 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/138097) over 2 weeks, 615 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Added keyboardType & textInputAction props to SearchBar, SearchAnchor & SearchAnchor.bar<br />
     <sub>[#138553](https://github.com/flutter/flutter/pull/138553) merged on November 28, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/138553) over 1 week, 230 additions and 2 deletions in 3 files</sub><br />
@@ -49,13 +49,17 @@
     <sub>[#139094](https://github.com/flutter/flutter/pull/139094) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139094) over 1 hour, 12 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak)</sub><br />
 
-* **[hangyu](https://github.com/hangyujin)** &mdash; Record focus in route entry to move a11y focus to the last focused item <br />
-    <sub>[#135771](https://github.com/flutter/flutter/pull/135771) merged on November 27, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/135771) over 1 month, 141 additions and 0 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update `ButtonStyleButton.scaledPadding` documentation. Migrate callers in flutter/flutter<br />
     <sub>[#139014](https://github.com/flutter/flutter/pull/139014) merged on November 29, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/139014) over 3 days, 256 additions and 96 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Simplify devicelab logic and fix tests<br />
+    <sub>[#139122](https://github.com/flutter/flutter/pull/139122) merged on November 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/139122) over 1 day, 59 additions and 61 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[hangyu](https://github.com/hangyujin)** &mdash; Record focus in route entry to move a11y focus to the last focused item <br />
+    <sub>[#135771](https://github.com/flutter/flutter/pull/135771) merged on November 27, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/135771) over 1 month, 141 additions and 0 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Wide gamut and platform view integration test.<br />
     <sub>[#138837](https://github.com/flutter/flutter/pull/138837) merged on November 27, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/138837) over 6 days, 123 additions and 0 deletions in 4 files</sub><br />
@@ -101,10 +105,6 @@
     <sub>[#138565](https://github.com/flutter/flutter/pull/138565) merged on November 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138565) over 1 week, 6 additions and 4 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
-* **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Examples of `snack_bar.0`, `elevated_button.0`, `stepper.0`, `radio.0`, `filled_button.0`, `outlined_button.0` & `card.0`<br />
-    <sub>[#138987](https://github.com/flutter/flutter/pull/138987) merged on November 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138987) over 4 days, 215 additions and 7 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
-
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implement `switch` expressions in `dev/`<br />
     <sub>[#139048](https://github.com/flutter/flutter/pull/139048) merged on November 28, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/139048) over 1 day, 117 additions and 197 deletions in 15 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
@@ -136,6 +136,10 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Move analysis test to shard tests.<br />
     <sub>[#139161](https://github.com/flutter/flutter/pull/139161) merged on November 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139161) over 4 hours, 21 additions and 10 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Examples of `snack_bar.0`, `elevated_button.0`, `stepper.0`, `radio.0`, `filled_button.0`, `outlined_button.0` & `card.0`<br />
+    <sub>[#138987](https://github.com/flutter/flutter/pull/138987) merged on November 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138987) over 4 days, 215 additions and 7 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Reland Add platform view wide gamut test<br />
     <sub>[#139101](https://github.com/flutter/flutter/pull/139101) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139101) over 3 hours, 117 additions and 0 deletions in 3 files</sub><br />
