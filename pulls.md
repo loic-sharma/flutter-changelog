@@ -36,7 +36,7 @@
     <sub>[#136181](https://github.com/flutter/flutter/pull/136181) opened on on October 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136181) 164 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kayla Brady](https://github.com/KaylaBrady)** &mdash; Nav bar acccessibility: Mark nav items as buttons<br />
-    <sub>[#136764](https://github.com/flutter/flutter/pull/136764) opened on on October 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/136764) 17 additions and 1 deletion in 6 files</sub><br />
+    <sub>[#136764](https://github.com/flutter/flutter/pull/136764) opened on on October 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/136764) 17 additions and 1 deletion in 6 files</sub><br />
 
 * **[Regis Imuduhe Safari](https://github.com/RegisSaffi)** &mdash; Add support for Kinyarwanda (rw) Language locale<br />
     <sub>[#137061](https://github.com/flutter/flutter/pull/137061) opened on on October 23, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/137061) 1946 additions and 124 deletions in 8 files</sub><br />
@@ -118,4 +118,7 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Check that CI is testing flutter with a space in the SDK directory.<br />
     <sub>[#139265](https://github.com/flutter/flutter/pull/139265) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139265) 4 additions and 8 deletions in 1 file</sub><br />
+
+* **[Josh Burton](https://github.com/josh-burton)** &mdash; Fix DropdownMenu throwing TextEditingController disposed error on select (#139266)<br />
+    <sub>[#139268](https://github.com/flutter/flutter/pull/139268) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139268) 62 additions and 8 deletions in 2 files</sub><br />
 
