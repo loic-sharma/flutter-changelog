@@ -114,5 +114,5 @@
     <sub>[#139202](https://github.com/flutter/flutter/pull/139202) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139202) 37 additions and 2 deletions in 2 files</sub><br />
 
 * **[Dylan Pfab](https://github.com/DYLERN)** &mdash; Added flag to disable build name validation on ios<br />
-    <sub>[#139227](https://github.com/flutter/flutter/pull/139227) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139227) 96 additions and 0 deletions in 5 files</sub><br />
+    <sub>[#139227](https://github.com/flutter/flutter/pull/139227) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139227) 100 additions and 0 deletions in 5 files</sub><br />
 
