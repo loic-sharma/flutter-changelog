@@ -99,7 +99,7 @@
     <sub>[#139078](https://github.com/flutter/flutter/pull/139078) opened on on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139078) 10 additions and 1 deletion in 1 file</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `Tooltip` tests for Material 3<br />
-    <sub>[#139145](https://github.com/flutter/flutter/pull/139145) opened on on November 28, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/139145) 468 additions and 11 deletions in 2 files</sub><br />
+    <sub>[#139145](https://github.com/flutter/flutter/pull/139145) opened on on November 28, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/139145) 471 additions and 12 deletions in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Retry on transient Skia failure.<br />
     <sub>[#139182](https://github.com/flutter/flutter/pull/139182) opened on on November 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139182) 196 additions and 34 deletions in 3 files</sub><br />
