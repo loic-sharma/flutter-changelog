@@ -4,7 +4,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-27 commits.
+29 commits.
 
 * **[Gabriel Tavares](https://github.com/gbtb16)** &mdash; feature(table-widget): Added intrinsicHeight to TableCellVerticalAlignment enum.<br />
     <sub>[#130264](https://github.com/flutter/flutter/pull/130264) merged on November 28, 2023 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/130264) over 4 months, 78 additions and 1 deletion in 3 files</sub><br />
@@ -79,6 +79,14 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Edge case on flutter/flutter/issues/135402 with test<br />
     <sub>[#138814](https://github.com/flutter/flutter/pull/138814) merged on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/138814) over 5 days, 12 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Move analysis test to shard tests.<br />
+    <sub>[#139161](https://github.com/flutter/flutter/pull/139161) merged on November 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139161) over 4 hours, 21 additions and 10 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Examples of `snack_bar.0`, `elevated_button.0`, `stepper.0`, `radio.0`, `filled_button.0`, `outlined_button.0` & `card.0`<br />
+    <sub>[#138987](https://github.com/flutter/flutter/pull/138987) merged on November 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138987) over 4 days, 215 additions and 7 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implement `switch` expressions in `dev/`<br />
     <sub>[#139048](https://github.com/flutter/flutter/pull/139048) merged on November 28, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/139048) over 1 day, 117 additions and 197 deletions in 15 files</sub><br />

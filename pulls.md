@@ -14,9 +14,6 @@
 * **[Mikhail](https://github.com/mishapark)** &mdash; WIP Fix/bottom navigation bar splash radius<br />
     <sub>[#132396](https://github.com/flutter/flutter/pull/132396) opened on on August 11, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/132396) 9 additions and 1 deletion in 1 file</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Test Engine PR "Roll clang with fix for ABI change"<br />
-    <sub>[#132581](https://github.com/flutter/flutter/pull/132581) opened on on August 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132581) 2 additions and 1 deletion in 2 files</sub><br />
-
 * **[Burak İmdat](https://github.com/burakJs)** &mdash; Add viewSearchOnChanged to SearchAnchor<br />
     <sub>[#132924](https://github.com/flutter/flutter/pull/132924) opened on on August 21, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/132924) 16 additions and 2 deletions in 1 file</sub><br />
 
@@ -106,4 +103,7 @@
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `Tooltip` tests for Material 3<br />
     <sub>[#139145](https://github.com/flutter/flutter/pull/139145) opened on on November 28, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/139145) 468 additions and 11 deletions in 2 files</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Retry on transient Skia failure.<br />
+    <sub>[#139182](https://github.com/flutter/flutter/pull/139182) opened on on November 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139182) 64 additions and 31 deletions in 1 file</sub><br />
 
