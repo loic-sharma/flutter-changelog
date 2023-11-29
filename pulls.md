@@ -116,3 +116,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Examples of `cupertino_text_field.0`, `data_table.0`, `icon_button.2` & `ink_well.0`<br />
     <sub>[#139258](https://github.com/flutter/flutter/pull/139258) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139258) 92 additions and 4 deletions in 5 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Check that CI is testing flutter with a space in the SDK directory.<br />
+    <sub>[#139265](https://github.com/flutter/flutter/pull/139265) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139265) 4 additions and 8 deletions in 1 file</sub><br />
+
