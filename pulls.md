@@ -90,7 +90,7 @@
     <sub>[#139015](https://github.com/flutter/flutter/pull/139015) opened on on November 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139015) 10 additions and 12 deletions in 1 file</sub><br />
 
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Optimize the display of the Overlay on the Slider<br />
-    <sub>[#139021](https://github.com/flutter/flutter/pull/139021) opened on on November 26, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139021) 113 additions and 3 deletions in 2 files</sub><br />
+    <sub>[#139021](https://github.com/flutter/flutter/pull/139021) opened on on November 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139021) 113 additions and 3 deletions in 2 files</sub><br />
 
 * **[Shanmugam](https://github.com/shanmugam28)** &mdash; Support for dismissDirection property in SnackBarTheme<br />
     <sub>[#139068](https://github.com/flutter/flutter/pull/139068) opened on on November 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139068) 122 additions and 9 deletions in 4 files</sub><br />
