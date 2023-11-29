@@ -404,7 +404,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-30 commits.
+31 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reduce number of surfaces required when presenting platform views
     <sub>[#43301](https://github.com/flutter/engine/pull/43301) merged on November 27, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/43301) over 5 months, 381 additions and 226 deletions in 12 files</sub>
@@ -429,6 +429,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix the application not disposing by breaking circular references on quit
     <sub>[#47684](https://github.com/flutter/engine/pull/47684) merged on November 29, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/47684) over 3 weeks, 111 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix order of operations in SkSL generated texture lookup.
+    <sub>[#48488](https://github.com/flutter/engine/pull/48488) merged on November 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48488) over 12 hours, 75 additions and 9 deletions in 6 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fall back to `drawImage` for browsers that don't support `createImageBitmap`
     <sub>[#48336](https://github.com/flutter/engine/pull/48336) merged on November 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48336) over 4 days, 170 additions and 19 deletions in 4 files</sub>
