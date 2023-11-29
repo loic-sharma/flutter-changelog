@@ -371,7 +371,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-28 commits.
+29 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reduce number of surfaces required when presenting platform views
     <sub>[#43301](https://github.com/flutter/engine/pull/43301) merged on November 27, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/43301) over 5 months, 381 additions and 226 deletions in 12 files</sub>
@@ -465,8 +465,12 @@
     <sub>[#48388](https://github.com/flutter/engine/pull/48388) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48388) over 5 hours, 11 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "binary_messenger missing cstdint"
+    <sub>[#48483](https://github.com/flutter/engine/pull/48483) merged on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48483) over 55 seconds, 0 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 * **[Joel Winarske](https://github.com/jwinarske)** &mdash; binary_messenger missing cstdint
-    <sub>[#48481](https://github.com/flutter/engine/pull/48481) merged on November 29, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/48481) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
+    <sub>[#48481](https://github.com/flutter/engine/pull/48481) merged on November 29, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/48481) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Replace all calls to SkTypeface::Make with SkFontMgr ones
