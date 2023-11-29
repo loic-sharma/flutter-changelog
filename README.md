@@ -430,7 +430,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-33 commits.
+34 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reduce number of surfaces required when presenting platform views<br />
     <sub>[#43301](https://github.com/flutter/engine/pull/43301) merged on November 27, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/43301) over 5 months, 381 additions and 226 deletions in 12 files</sub><br />
@@ -516,9 +516,9 @@
     <sub>[#48422](https://github.com/flutter/engine/pull/48422) merged on November 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48422) over 1 hour, 41 additions and 20 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Dan Field](https://github.com/dnfield)** &mdash; Roll shaderc to google/shaderc@37e25539ce199ecaf19fb7f7d27818716d36686d<br />
-    <sub>[#48415](https://github.com/flutter/engine/pull/48415) merged on November 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48415) over 2 hours, 12 additions and 9 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] OES extension does not apply to regular textures for decal support<br />
+    <sub>[#48388](https://github.com/flutter/engine/pull/48388) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48388) over 5 hours, 11 additions and 4 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add explainer for Android CPU profiling.<br />
     <sub>[#48407](https://github.com/flutter/engine/pull/48407) merged on November 27, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/48407) over 4 hours, 52 additions and 0 deletions in 5 files</sub><br />
@@ -532,9 +532,9 @@
     <sub>[#48288](https://github.com/flutter/engine/pull/48288) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48288) over 5 days, 28 additions and 17 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] OES extension does not apply to regular textures for decal support<br />
-    <sub>[#48388](https://github.com/flutter/engine/pull/48388) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48388) over 5 hours, 11 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+* **[Dan Field](https://github.com/dnfield)** &mdash; Roll shaderc to google/shaderc@37e25539ce199ecaf19fb7f7d27818716d36686d<br />
+    <sub>[#48415](https://github.com/flutter/engine/pull/48415) merged on November 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48415) over 2 hours, 12 additions and 9 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jonny Wang](https://github.com/jrwang)** &mdash; [fuchsia] Update Fuchsia API level to 15<br />
     <sub>[#48233](https://github.com/flutter/engine/pull/48233) merged on November 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48233) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
@@ -555,6 +555,10 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; [ios] Send " did gain focus" message from engine to framework <br />
     <sub>[#48252](https://github.com/flutter/engine/pull/48252) merged on November 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48252) over 6 days, 56 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] No implicit view in multi-view mode<br />
+    <sub>[#48505](https://github.com/flutter/engine/pull/48505) merged on November 29, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/48505) over 3 hours, 79 additions and 50 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from c9bdb5884670 to ef97fe2415fd (6 revisions)<br />
     <sub>[#48414](https://github.com/flutter/engine/pull/48414) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48414) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
