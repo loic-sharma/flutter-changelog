@@ -119,3 +119,6 @@
 * **[Josh Burton](https://github.com/josh-burton)** &mdash; Fix DropdownMenu throwing TextEditingController disposed error on select (#139266)<br />
     <sub>[#139268](https://github.com/flutter/flutter/pull/139268) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139268) 62 additions and 8 deletions in 2 files</sub><br />
 
+* **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; [flutter_releases] Flutter stable 3.16.2 Framework Cherrypicks<br />
+    <sub>[#139273](https://github.com/flutter/flutter/pull/139273) opened on on November 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139273) 1 addition and 1 deletion in 1 file</sub><br />
+
