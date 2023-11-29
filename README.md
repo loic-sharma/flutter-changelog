@@ -1040,11 +1040,15 @@
 
 ### November 25, 2023 to December 1, 2023
 
-7 commits.
+8 commits.
 
 * **[Luong The Vinh](https://github.com/TheVinhLuong)** &mdash; [webview_flutter] Add listener for content offset (Platform Interface)<br />
     <sub>[#5427](https://github.com/flutter/packages/pull/5427) merged on November 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5427) over 1 week, 31 additions and 1 deletion in 5 files</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Fix Google Maps rendering issues in TLHC mode when using LATEST renderer<br />
+    <sub>[#5408](https://github.com/flutter/packages/pull/5408) merged on November 29, 2023 &mdash; **Small:** [40 comments](https://github.com/flutter/packages/pull/5408) over 1 week, 99 additions and 167 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.9.20 to 1.9.21 in /packages/pigeon/platform_tests/test_plugin/android<br />
     <sub>[#5483](https://github.com/flutter/packages/pull/5483) merged on November 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5483) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
