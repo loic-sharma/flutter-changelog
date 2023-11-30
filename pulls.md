@@ -125,3 +125,6 @@
 * **[Arjun Vinod](https://github.com/arjn-26)** &mdash; Image<br />
     <sub>[#139285](https://github.com/flutter/flutter/pull/139285) opened on on November 30, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/139285) 741 additions and 182 deletions in 82 files</sub><br />
 
+* **[Jakub Safrata](https://github.com/safrataxyz)** &mdash; TabPageSelector wrapped by GestureDetector which navigates to view<br />
+    <sub>[#139297](https://github.com/flutter/flutter/pull/139297) opened on on November 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139297) 19 additions and 5 deletions in 1 file</sub><br />
+
