@@ -1141,7 +1141,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-13 commits.
+14 commits.
 
 * **[TPF](https://github.com/T-P-F)** &mdash; [google_sign_in] Add server auth code retrieval to gis_client
     <sub>[#5358](https://github.com/flutter/packages/pull/5358) merged on November 30, 2023 &mdash; **Medium:** [10 comments](https://github.com/flutter/packages/pull/5358) over 3 weeks, 419 additions and 3 deletions in 10 files</sub>
@@ -1179,6 +1179,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Adds proxy class for testing detached/mock objects and method calls
     <sub>[#5423](https://github.com/flutter/packages/pull/5423) merged on November 27, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/5423) over 1 week, 1014 additions and 550 deletions in 6 files</sub>
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [cross_file] Migrate to pkg:web, bump min SDK to Dart 3.2
+    <sub>[#5520](https://github.com/flutter/packages/pull/5520) merged on November 30, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/5520) over 1 day, 66 additions and 44 deletions in 8 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Srujan Gaddam](https://github.com/srujzs)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [quick_actions_android] Run tests on AVDs running Android 34 
     <sub>[#5220](https://github.com/flutter/packages/pull/5220) merged on November 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5220) over 1 month, 0 additions and 1 deletion in 1 file</sub>
