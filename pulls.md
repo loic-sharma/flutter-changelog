@@ -122,3 +122,6 @@
 * **[Hammad Parveez](https://github.com/hammadparveez)** &mdash; docs: Add useMaterial3 flag to AppBar background<br />
     <sub>[#139330](https://github.com/flutter/flutter/pull/139330) opened on on November 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139330) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Use ImageFilter.compose on all platforms now that it is supported<br />
+    <sub>[#139332](https://github.com/flutter/flutter/pull/139332) opened on on November 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139332) 1 addition and 8 deletions in 1 file</sub><br />
+
