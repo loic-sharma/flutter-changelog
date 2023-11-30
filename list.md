@@ -1100,7 +1100,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-9 commits.
+10 commits.
 
 * **[Luong The Vinh](https://github.com/TheVinhLuong)** &mdash; [webview_flutter] Add listener for content offset (Platform Interface)
     <sub>[#5427](https://github.com/flutter/packages/pull/5427) merged on November 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5427) over 1 week, 31 additions and 1 deletion in 5 files</sub>
@@ -1124,7 +1124,7 @@
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [pointer_interceptor] Add platform interface
-    <sub>[#5499](https://github.com/flutter/packages/pull/5499) merged on November 30, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/5499) over 1 day, 199 additions and 0 deletions in 10 files</sub>
+    <sub>[#5499](https://github.com/flutter/packages/pull/5499) merged on November 30, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/packages/pull/5499) over 1 day, 199 additions and 0 deletions in 10 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; camera_android: Camera.java pausePreview null check
@@ -1134,6 +1134,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [quick_actions_android] Run tests on AVDs running Android 34 
     <sub>[#5220](https://github.com/flutter/packages/pull/5220) merged on November 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5220) over 1 month, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[pointer_interceptor] Add platform interface"
+    <sub>[#5524](https://github.com/flutter/packages/pull/5524) merged on November 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5524) over 1 minute, 0 additions and 199 deletions in 10 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw, flutter_markdown] Prepare for removing dart:ui imports.
     <sub>[#5471](https://github.com/flutter/packages/pull/5471) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5471) over 4 days, 5 additions and 0 deletions in 5 files</sub>
