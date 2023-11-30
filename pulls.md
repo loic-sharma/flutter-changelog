@@ -69,7 +69,7 @@
     <sub>[#138555](https://github.com/flutter/flutter/pull/138555) opened on on November 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138555) 73 additions and 2 deletions in 2 files</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; [Not for merge] Monitor memory leaks in Flutter Framework.<br />
-    <sub>[#138581](https://github.com/flutter/flutter/pull/138581) opened on on November 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138581) 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>[#138581](https://github.com/flutter/flutter/pull/138581) opened on on November 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138581) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[TabooSun](https://github.com/TabooSun)** &mdash; Gen l10n add named argument option<br />
     <sub>[#138663](https://github.com/flutter/flutter/pull/138663) opened on on November 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138663) 94 additions and 9 deletions in 6 files</sub><br />
