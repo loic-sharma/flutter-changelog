@@ -7,7 +7,7 @@
 54 commits.
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; Introduce multi-touch drag strategies for `DragGestureRecognizer`<br />
-    <sub>[#136708](https://github.com/flutter/flutter/pull/136708) merged on November 30, 2023 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/136708) over 1 month, 258 additions and 6 deletions in 6 files</sub><br />
+    <sub>[#136708](https://github.com/flutter/flutter/pull/136708) merged on November 30, 2023 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/136708) over 1 month, 258 additions and 6 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Gabriel Tavares](https://github.com/gbtb16)** &mdash; feature(table-widget): Added intrinsicHeight to TableCellVerticalAlignment enum.<br />
