@@ -26,7 +26,7 @@
     <sub><details><summary>2 images...</summary><img src="https://github.com/flutter/flutter/assets/48603081/8bd458de-cfd2-44f0-a0dd-a8298938c61f" /><img src="https://github.com/flutter/flutter/assets/48603081/afca0684-b061-416b-b029-5316588c6888" /></details></sub>
 
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Migration for the `sendTiming` events for `package:unified_analytics`<br />
-    <sub>[#138896](https://github.com/flutter/flutter/pull/138896) merged on November 29, 2023 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/138896) over 1 week, 806 additions and 274 deletions in 27 files</sub><br />
+    <sub>[#138896](https://github.com/flutter/flutter/pull/138896) merged on November 29, 2023 &mdash; **Large:** [31 comments](https://github.com/flutter/flutter/pull/138896) over 1 week, 806 additions and 274 deletions in 27 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
     <sub><details><summary>1 image...</summary><img width="278" alt="image" src="https://github.com/flutter/flutter/assets/42216813/cee7b9be-48d6-48e5-8c39-de28d0a1f0de"></details></sub>
 
