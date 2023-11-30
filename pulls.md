@@ -114,7 +114,7 @@
     <sub>[#139297](https://github.com/flutter/flutter/pull/139297) opened on on November 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139297) 19 additions and 5 deletions in 1 file</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate verify_codesigned.<br />
-    <sub>[#139328](https://github.com/flutter/flutter/pull/139328) opened on on November 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139328) 26 additions and 6 deletions in 2 files</sub><br />
+    <sub>[#139328](https://github.com/flutter/flutter/pull/139328) opened on on November 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139328) 27 additions and 6 deletions in 2 files</sub><br />
 
 * **[Hammad Parveez](https://github.com/hammadparveez)** &mdash; docs: Add useMaterial3 flag to AppBar background<br />
     <sub>[#139330](https://github.com/flutter/flutter/pull/139330) opened on on November 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139330) 1 addition and 1 deletion in 1 file</sub><br />
