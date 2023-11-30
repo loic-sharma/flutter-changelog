@@ -464,7 +464,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-37 commits.
+38 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reduce number of surfaces required when presenting platform views
     <sub>[#43301](https://github.com/flutter/engine/pull/43301) merged on November 27, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/43301) over 5 months, 381 additions and 226 deletions in 12 files</sub>
@@ -494,6 +494,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix the application not disposing by breaking circular references on quit
     <sub>[#47684](https://github.com/flutter/engine/pull/47684) merged on November 29, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/47684) over 3 weeks, 111 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Revert to `drawImage` rendering on Chrome 110 or earlier
+    <sub>[#48515](https://github.com/flutter/engine/pull/48515) merged on November 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48515) over 20 hours, 16 additions and 18 deletions in 3 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Disable createImageBitmap support on Chrome 110 or older on Windows.
     <sub>[#48475](https://github.com/flutter/engine/pull/48475) merged on November 29, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48475) over 19 hours, 56 additions and 6 deletions in 3 files</sub>
@@ -555,25 +559,25 @@
     <sub>[#48422](https://github.com/flutter/engine/pull/48422) merged on November 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48422) over 1 hour, 41 additions and 20 deletions in 5 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Dan Field](https://github.com/dnfield)** &mdash; Roll shaderc to google/shaderc@37e25539ce199ecaf19fb7f7d27818716d36686d
-    <sub>[#48415](https://github.com/flutter/engine/pull/48415) merged on November 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48415) over 2 hours, 12 additions and 9 deletions in 3 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use spec constant for decal support in morph filter.
-    <sub>[#48288](https://github.com/flutter/engine/pull/48288) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48288) over 5 days, 28 additions and 17 deletions in 5 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert non-zero tessellation optimization.
+    <sub>[#48234](https://github.com/flutter/engine/pull/48234) merged on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/48234) over 6 days, 66 additions and 152 deletions in 3 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] OES extension does not apply to regular textures for decal support
     <sub>[#48388](https://github.com/flutter/engine/pull/48388) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48388) over 5 hours, 11 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
+* **[Dan Field](https://github.com/dnfield)** &mdash; Roll shaderc to google/shaderc@37e25539ce199ecaf19fb7f7d27818716d36686d
+    <sub>[#48415](https://github.com/flutter/engine/pull/48415) merged on November 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48415) over 2 hours, 12 additions and 9 deletions in 3 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Zachary Anderson](https://github.com/zanderso)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add explainer for Android CPU profiling.
     <sub>[#48407](https://github.com/flutter/engine/pull/48407) merged on November 27, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/48407) over 4 hours, 52 additions and 0 deletions in 5 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [gaaclarke](https://github.com/gaaclarke)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert non-zero tessellation optimization.
-    <sub>[#48234](https://github.com/flutter/engine/pull/48234) merged on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/48234) over 6 days, 66 additions and 152 deletions in 3 files</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use spec constant for decal support in morph filter.
+    <sub>[#48288](https://github.com/flutter/engine/pull/48288) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48288) over 5 days, 28 additions and 17 deletions in 5 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "binary_messenger missing cstdint"
     <sub>[#48483](https://github.com/flutter/engine/pull/48483) merged on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48483) over 55 seconds, 0 additions and 1 deletion in 1 file</sub>
@@ -1121,11 +1125,15 @@
 
 ### November 25, 2023 to December 1, 2023
 
-12 commits.
+13 commits.
 
 * **[TPF](https://github.com/T-P-F)** &mdash; [google_sign_in] Add server auth code retrieval to gis_client
     <sub>[#5358](https://github.com/flutter/packages/pull/5358) merged on November 30, 2023 &mdash; **Medium:** [10 comments](https://github.com/flutter/packages/pull/5358) over 3 weeks, 419 additions and 3 deletions in 10 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Add support for version 8 of the iOS SDK
+    <sub>[#5528](https://github.com/flutter/packages/pull/5528) merged on November 30, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/5528) over 2 hours, 1676 additions and 213 deletions in 56 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Luong The Vinh](https://github.com/TheVinhLuong)** &mdash; [webview_flutter] Add listener for content offset (Platform Interface)
     <sub>[#5427](https://github.com/flutter/packages/pull/5427) merged on November 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5427) over 1 week, 31 additions and 1 deletion in 5 files</sub>
