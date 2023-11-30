@@ -1131,6 +1131,10 @@
     <sub>[#5326](https://github.com/flutter/packages/pull/5326) merged on November 28, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/5326) over 3 weeks, 7 additions and 6 deletions in 3 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
+* **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; camera_android: Camera.java pausePreview null check
+    <sub>[#5265](https://github.com/flutter/packages/pull/5265) merged on November 28, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/5265) over 4 weeks, 24 additions and 4 deletions in 4 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub>
+
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Adds proxy class for testing detached/mock objects and method calls
     <sub>[#5423](https://github.com/flutter/packages/pull/5423) merged on November 27, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/5423) over 1 week, 1014 additions and 550 deletions in 6 files</sub>
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
@@ -1138,10 +1142,6 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [pointer_interceptor] Add platform interface
     <sub>[#5499](https://github.com/flutter/packages/pull/5499) merged on November 30, 2023 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/5499) over 1 day, 199 additions and 0 deletions in 10 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub>
-
-* **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; camera_android: Camera.java pausePreview null check
-    <sub>[#5265](https://github.com/flutter/packages/pull/5265) merged on November 28, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/5265) over 4 weeks, 24 additions and 4 deletions in 4 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [quick_actions_android] Run tests on AVDs running Android 34 
     <sub>[#5220](https://github.com/flutter/packages/pull/5220) merged on November 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5220) over 1 month, 0 additions and 1 deletion in 1 file</sub>
