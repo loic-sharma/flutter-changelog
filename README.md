@@ -69,6 +69,10 @@
     <sub>[#138074](https://github.com/flutter/flutter/pull/138074) merged on November 28, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/138074) over 2 weeks, 63 additions and 14 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField and TextFormField can use a MaterialStatesController<br />
+    <sub>[#133977](https://github.com/flutter/flutter/pull/133977) merged on November 29, 2023 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/133977) over 2 months, 222 additions and 14 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Analyze against using Stopwatches in the framework<br />
     <sub>[#138507](https://github.com/flutter/flutter/pull/138507) merged on November 29, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/138507) over 1 week, 124 additions and 6 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
@@ -76,10 +80,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Ensure Icon vertically centers its icon glyph.<br />
     <sub>[#138937](https://github.com/flutter/flutter/pull/138937) merged on November 28, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138937) over 5 days, 38 additions and 17 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub><br />
-
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField and TextFormField can use a MaterialStatesController<br />
-    <sub>[#133977](https://github.com/flutter/flutter/pull/133977) merged on November 29, 2023 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/133977) over 2 months, 222 additions and 14 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] fix instructions to disable CLI animations<br />
     <sub>[#139094](https://github.com/flutter/flutter/pull/139094) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139094) over 1 hour, 12 additions and 2 deletions in 3 files</sub><br />
