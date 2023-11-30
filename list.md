@@ -1108,7 +1108,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-11 commits.
+12 commits.
 
 * **[TPF](https://github.com/T-P-F)** &mdash; [google_sign_in] Add server auth code retrieval to gis_client
     <sub>[#5358](https://github.com/flutter/packages/pull/5358) merged on November 30, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/packages/pull/5358) over 3 weeks, 419 additions and 3 deletions in 10 files</sub>
@@ -1146,6 +1146,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [quick_actions_android] Run tests on AVDs running Android 34 
     <sub>[#5220](https://github.com/flutter/packages/pull/5220) merged on November 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5220) over 1 month, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pointer_interceptor] Re-land: Add platform interface
+    <sub>[#5525](https://github.com/flutter/packages/pull/5525) merged on November 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5525) over 4 hours, 199 additions and 0 deletions in 10 files</sub>
+    <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[pointer_interceptor] Add platform interface"
     <sub>[#5524](https://github.com/flutter/packages/pull/5524) merged on November 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5524) over 1 minute, 0 additions and 199 deletions in 10 files</sub>
