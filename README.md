@@ -4,7 +4,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-52 commits.
+53 commits.
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; Introduce multi-touch drag strategies for `DragGestureRecognizer`<br />
     <sub>[#136708](https://github.com/flutter/flutter/pull/136708) merged on November 30, 2023 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/136708) over 1 month, 258 additions and 6 deletions in 6 files</sub><br />
@@ -145,25 +145,25 @@
     <sub>[#139079](https://github.com/flutter/flutter/pull/139079) merged on November 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139079) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Edge case on flutter/flutter/issues/135402 with test<br />
-    <sub>[#138814](https://github.com/flutter/flutter/pull/138814) merged on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/138814) over 5 days, 12 additions and 3 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Prepare for dynamically sized views<br />
     <sub>[#138565](https://github.com/flutter/flutter/pull/138565) merged on November 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138565) over 1 week, 6 additions and 4 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix textScalerOf and maybeTextScalerOf documentations<br />
-    <sub>[#139123](https://github.com/flutter/flutter/pull/139123) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139123) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Edge case on flutter/flutter/issues/135402 with test<br />
+    <sub>[#138814](https://github.com/flutter/flutter/pull/138814) merged on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/138814) over 5 days, 12 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Roll dependencies<br />
+    <sub>[#139203](https://github.com/flutter/flutter/pull/139203) merged on November 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139203) over 13 hours, 40 additions and 63 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Remove deprecated `PlatformMenuBar.body`<br />
     <sub>[#138509](https://github.com/flutter/flutter/pull/138509) merged on November 29, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/138509) over 1 week, 41 additions and 17 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Roll dependencies<br />
-    <sub>[#139203](https://github.com/flutter/flutter/pull/139203) merged on November 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139203) over 13 hours, 40 additions and 63 deletions in 11 files</sub><br />
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix textScalerOf and maybeTextScalerOf documentations<br />
+    <sub>[#139123](https://github.com/flutter/flutter/pull/139123) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139123) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Fré Dumazy](https://github.com/dumazy)** &mdash; Improve documentation of CardTheme.shape<br />
     <sub>[#139096](https://github.com/flutter/flutter/pull/139096) merged on November 29, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139096) over 1 day, 4 additions and 2 deletions in 2 files</sub><br />
@@ -208,6 +208,10 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Use the correct recipe on fuchsia_precache.<br />
     <sub>[#139279](https://github.com/flutter/flutter/pull/139279) merged on November 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139279) over 5 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Xilai Zhang](https://github.com/XilaiZhang), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate docs_test to shard.<br />
+    <sub>[#139282](https://github.com/flutter/flutter/pull/139282) merged on November 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139282) over 16 hours, 23 additions and 6 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate fuchsia_precache to shard tests.<br />
     <sub>[#139202](https://github.com/flutter/flutter/pull/139202) merged on November 30, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/139202) over 17 hours, 27 additions and 2 deletions in 2 files</sub><br />
@@ -471,7 +475,7 @@
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Add direct tesselation of circles for DrawCircle and Round end caps<br />
-    <sub>[#48103](https://github.com/flutter/engine/pull/48103) merged on November 30, 2023 &mdash; **Large:** [42 comments](https://github.com/flutter/engine/pull/48103) over 2 weeks, 1018 additions and 91 deletions in 22 files</sub><br />
+    <sub>[#48103](https://github.com/flutter/engine/pull/48103) merged on November 30, 2023 &mdash; **Large:** [43 comments](https://github.com/flutter/engine/pull/48103) over 2 weeks, 1018 additions and 91 deletions in 22 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Started expanding the blur clip region<br />
