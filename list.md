@@ -4,7 +4,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-49 commits.
+50 commits.
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; Introduce multi-touch drag strategies for `DragGestureRecognizer`
     <sub>[#136708](https://github.com/flutter/flutter/pull/136708) merged on November 30, 2023 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/136708) over 1 month, 258 additions and 6 deletions in 6 files</sub>
@@ -85,13 +85,13 @@
     <sub>[#139094](https://github.com/flutter/flutter/pull/139094) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139094) over 1 hour, 12 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak)</sub>
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update `ButtonStyleButton.scaledPadding` documentation. Migrate callers in flutter/flutter
-    <sub>[#139014](https://github.com/flutter/flutter/pull/139014) merged on November 29, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/139014) over 3 days, 256 additions and 96 deletions in 10 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub>
-
 * **[hangyu](https://github.com/hangyujin)** &mdash; Record focus in route entry to move a11y focus to the last focused item 
     <sub>[#135771](https://github.com/flutter/flutter/pull/135771) merged on November 27, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/135771) over 1 month, 141 additions and 0 deletions in 3 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update `ButtonStyleButton.scaledPadding` documentation. Migrate callers in flutter/flutter
+    <sub>[#139014](https://github.com/flutter/flutter/pull/139014) merged on November 29, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/139014) over 3 days, 256 additions and 96 deletions in 10 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Wide gamut and platform view integration test.
     <sub>[#138837](https://github.com/flutter/flutter/pull/138837) merged on November 27, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/138837) over 6 days, 123 additions and 0 deletions in 4 files</sub>
@@ -117,6 +117,10 @@
     <sub>[#138757](https://github.com/flutter/flutter/pull/138757) merged on November 28, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/138757) over 1 week, 11 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move Impeller tests on Pixel 7 Pro from staging to prod
+    <sub>[#139280](https://github.com/flutter/flutter/pull/139280) merged on November 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139280) over 11 hours, 12 additions and 41 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Dynamic view sizing
     <sub>[#138648](https://github.com/flutter/flutter/pull/138648) merged on November 29, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/138648) over 1 week, 291 additions and 43 deletions in 16 files</sub>
     <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Kenzie Davisson](https://github.com/kenzieschmoll), [David Iglesias](https://github.com/ditman), [Greg Spencer](https://github.com/gspencergoog)</sub>
@@ -137,33 +141,29 @@
     <sub>[#139079](https://github.com/flutter/flutter/pull/139079) merged on November 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139079) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Prepare for dynamically sized views
-    <sub>[#138565](https://github.com/flutter/flutter/pull/138565) merged on November 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138565) over 1 week, 6 additions and 4 deletions in 3 files</sub>
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Edge case on flutter/flutter/issues/135402 with test
     <sub>[#138814](https://github.com/flutter/flutter/pull/138814) merged on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/138814) over 5 days, 12 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Remove deprecated `PlatformMenuBar.body`
-    <sub>[#138509](https://github.com/flutter/flutter/pull/138509) merged on November 29, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/138509) over 1 week, 41 additions and 17 deletions in 8 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Prepare for dynamically sized views
+    <sub>[#138565](https://github.com/flutter/flutter/pull/138565) merged on November 27, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138565) over 1 week, 6 additions and 4 deletions in 3 files</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Fré Dumazy](https://github.com/dumazy)** &mdash; Improve documentation of CardTheme.shape
     <sub>[#139096](https://github.com/flutter/flutter/pull/139096) merged on November 29, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139096) over 1 day, 4 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate fuchsia_precache to shard tests.
-    <sub>[#139202](https://github.com/flutter/flutter/pull/139202) merged on November 30, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/139202) over 17 hours, 27 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Roll dependencies
+    <sub>[#139203](https://github.com/flutter/flutter/pull/139203) merged on November 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139203) over 13 hours, 40 additions and 63 deletions in 11 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Move analysis test to shard tests.
     <sub>[#139161](https://github.com/flutter/flutter/pull/139161) merged on November 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139161) over 4 hours, 21 additions and 10 deletions in 3 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Wide gamut and platform view integration test."
-    <sub>[#139100](https://github.com/flutter/flutter/pull/139100) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139100) over 37 seconds, 0 additions and 123 deletions in 4 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Use the correct recipe on fuchsia_precache.
+    <sub>[#139279](https://github.com/flutter/flutter/pull/139279) merged on November 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139279) over 5 minutes, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Xilai Zhang](https://github.com/XilaiZhang), [yusuf-goog](https://github.com/yusuf-goog)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Examples of `snack_bar.0`, `elevated_button.0`, `stepper.0`, `radio.0`, `filled_button.0`, `outlined_button.0` & `card.0`
     <sub>[#138987](https://github.com/flutter/flutter/pull/138987) merged on November 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138987) over 4 days, 215 additions and 7 deletions in 8 files</sub>
@@ -177,17 +177,17 @@
     <sub>[#138973](https://github.com/flutter/flutter/pull/138973) merged on November 28, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/138973) over 4 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Add type validation to non-template .arb file parsing logic
-    <sub>[#139035](https://github.com/flutter/flutter/pull/139035) merged on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139035) over 18 hours, 37 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Wide gamut and platform view integration test."
+    <sub>[#139100](https://github.com/flutter/flutter/pull/139100) merged on November 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139100) over 37 seconds, 0 additions and 123 deletions in 4 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Jim Kalafut](https://github.com/kalafut)** &mdash; Fix header formatting typo in PopupMenuButton docs
     <sub>[#139084](https://github.com/flutter/flutter/pull/139084) merged on November 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139084) over 22 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Use the correct recipe on fuchsia_precache.
-    <sub>[#139279](https://github.com/flutter/flutter/pull/139279) merged on November 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139279) over 5 minutes, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Xilai Zhang](https://github.com/XilaiZhang), [yusuf-goog](https://github.com/yusuf-goog)</sub>
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Add type validation to non-template .arb file parsing logic
+    <sub>[#139035](https://github.com/flutter/flutter/pull/139035) merged on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139035) over 18 hours, 37 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Renable macOS 13 tests
     <sub>[#139083](https://github.com/flutter/flutter/pull/139083) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139083) over 20 hours, 6 additions and 6 deletions in 1 file</sub>
@@ -197,9 +197,13 @@
     <sub>[#139123](https://github.com/flutter/flutter/pull/139123) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139123) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Roll dependencies
-    <sub>[#139203](https://github.com/flutter/flutter/pull/139203) merged on November 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139203) over 13 hours, 40 additions and 63 deletions in 11 files</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate fuchsia_precache to shard tests.
+    <sub>[#139202](https://github.com/flutter/flutter/pull/139202) merged on November 30, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/139202) over 17 hours, 27 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Remove deprecated `PlatformMenuBar.body`
+    <sub>[#138509](https://github.com/flutter/flutter/pull/138509) merged on November 29, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/138509) over 1 week, 41 additions and 17 deletions in 8 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Reland Add platform view wide gamut test
     <sub>[#139101](https://github.com/flutter/flutter/pull/139101) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139101) over 3 hours, 117 additions and 0 deletions in 3 files</sub>
@@ -1124,7 +1128,7 @@
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [pointer_interceptor] Add platform interface
-    <sub>[#5499](https://github.com/flutter/packages/pull/5499) merged on November 30, 2023 &mdash; **Small:** [19 comments](https://github.com/flutter/packages/pull/5499) over 1 day, 199 additions and 0 deletions in 10 files</sub>
+    <sub>[#5499](https://github.com/flutter/packages/pull/5499) merged on November 30, 2023 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/5499) over 1 day, 199 additions and 0 deletions in 10 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; camera_android: Camera.java pausePreview null check
