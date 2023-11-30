@@ -40,7 +40,7 @@
     <sub><details><summary>5 images...</summary>![Screenshot 2023-11-22 at 18 22 48](https://github.com/flutter/flutter/assets/48603081/06f54335-71ee-4882-afb0-53b614933c38)![Screenshot 2023-11-22 at 15 29 52](https://github.com/flutter/flutter/assets/48603081/913e0f77-48f4-4c6e-87f3-52c81b78f3d9)![Screenshot 2023-11-22 at 18 22 08](https://github.com/flutter/flutter/assets/48603081/28badae4-a7c7-4bf0-8bcc-278a1f84729d)![Screenshot 2023-11-22 at 18 22 25](https://github.com/flutter/flutter/assets/48603081/674b48b1-f66a-4d91-9f10-ad307416ac32)![Screenshot 2023-11-22 at 15 30 36](https://github.com/flutter/flutter/assets/48603081/ae9a3627-787e-45ac-9319-2ea8ea1e6ae6)</details></sub>
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Refactor to use Apple system fonts<br />
-    <sub>[#137275](https://github.com/flutter/flutter/pull/137275) merged on November 29, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/137275) over 1 month, 99 additions and 82 deletions in 13 files</sub><br />
+    <sub>[#137275](https://github.com/flutter/flutter/pull/137275) merged on November 29, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/137275) over 1 month, 99 additions and 82 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
     <sub><details><summary>2 images...</summary><img width="466" alt="Screenshot 2023-11-02 at 11 45 12 AM" src="https://github.com/flutter/flutter/assets/58190796/627ed8ac-d848-4f71-aa62-a467b8aac62d"><img width="383" alt="Screenshot 2023-11-02 at 11 46 25 AM" src="https://github.com/flutter/flutter/assets/58190796/9a502021-7d2b-4e14-98f1-86971b3830a5"></details></sub>
 
