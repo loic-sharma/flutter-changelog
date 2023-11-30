@@ -1104,7 +1104,11 @@
 
 ### November 25, 2023 to December 1, 2023
 
-10 commits.
+11 commits.
+
+* **[TPF](https://github.com/T-P-F)** &mdash; [google_sign_in] Add server auth code retrieval to gis_client<br />
+    <sub>[#5358](https://github.com/flutter/packages/pull/5358) merged on November 30, 2023 &mdash; **Medium:** [8 comments](https://github.com/flutter/packages/pull/5358) over 3 weeks, 419 additions and 3 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Luong The Vinh](https://github.com/TheVinhLuong)** &mdash; [webview_flutter] Add listener for content offset (Platform Interface)<br />
     <sub>[#5427](https://github.com/flutter/packages/pull/5427) merged on November 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5427) over 1 week, 31 additions and 1 deletion in 5 files</sub><br />
