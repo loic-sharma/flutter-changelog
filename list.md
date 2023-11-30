@@ -1124,7 +1124,7 @@
 12 commits.
 
 * **[TPF](https://github.com/T-P-F)** &mdash; [google_sign_in] Add server auth code retrieval to gis_client
-    <sub>[#5358](https://github.com/flutter/packages/pull/5358) merged on November 30, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/packages/pull/5358) over 3 weeks, 419 additions and 3 deletions in 10 files</sub>
+    <sub>[#5358](https://github.com/flutter/packages/pull/5358) merged on November 30, 2023 &mdash; **Medium:** [10 comments](https://github.com/flutter/packages/pull/5358) over 3 weeks, 419 additions and 3 deletions in 10 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Luong The Vinh](https://github.com/TheVinhLuong)** &mdash; [webview_flutter] Add listener for content offset (Platform Interface)
@@ -1134,6 +1134,10 @@
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Fix Google Maps rendering issues in TLHC mode when using LATEST renderer
     <sub>[#5408](https://github.com/flutter/packages/pull/5408) merged on November 29, 2023 &mdash; **Small:** [40 comments](https://github.com/flutter/packages/pull/5408) over 1 week, 99 additions and 167 deletions in 8 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [pointer_interceptor] Add platform interface
+    <sub>[#5499](https://github.com/flutter/packages/pull/5499) merged on November 30, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/5499) over 1 day, 199 additions and 0 deletions in 10 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.9.20 to 1.9.21 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#5483](https://github.com/flutter/packages/pull/5483) merged on November 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5483) over 1 day, 1 addition and 1 deletion in 1 file</sub>
@@ -1151,10 +1155,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Adds proxy class for testing detached/mock objects and method calls
     <sub>[#5423](https://github.com/flutter/packages/pull/5423) merged on November 27, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/5423) over 1 week, 1014 additions and 550 deletions in 6 files</sub>
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
-
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [pointer_interceptor] Add platform interface
-    <sub>[#5499](https://github.com/flutter/packages/pull/5499) merged on November 30, 2023 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/5499) over 1 day, 199 additions and 0 deletions in 10 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [quick_actions_android] Run tests on AVDs running Android 34 
     <sub>[#5220](https://github.com/flutter/packages/pull/5220) merged on November 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5220) over 1 month, 0 additions and 1 deletion in 1 file</sub>
