@@ -125,3 +125,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; fix reorderable_list drop animation<br />
     <sub>[#139362](https://github.com/flutter/flutter/pull/139362) opened on on December 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139362) 101 additions and 34 deletions in 2 files</sub><br />
 
+* **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Document difference between softWrap and maxLine<br />
+    <sub>[#139363](https://github.com/flutter/flutter/pull/139363) opened on on December 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139363) 39 additions and 7 deletions in 1 file</sub><br />
+
