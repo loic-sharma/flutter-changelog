@@ -39,7 +39,7 @@
     <sub>[#137061](https://github.com/flutter/flutter/pull/137061) opened on on October 23, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/137061) 1946 additions and 124 deletions in 8 files</sub><br />
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] fix service worker caching for custom base href<br />
-    <sub>[#137202](https://github.com/flutter/flutter/pull/137202) opened on on October 25, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/137202) 157 additions and 22 deletions in 3 files</sub><br />
+    <sub>[#137202](https://github.com/flutter/flutter/pull/137202) opened on on October 25, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/137202) 157 additions and 22 deletions in 3 files</sub><br />
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; [WIP] Allow namespaces when generating localizations<br />
     <sub>[#137307](https://github.com/flutter/flutter/pull/137307) opened on on October 26, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/137307) 207 additions and 177 deletions in 6 files</sub><br />
@@ -111,7 +111,7 @@
     <sub>[#139328](https://github.com/flutter/flutter/pull/139328) opened on on November 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139328) 27 additions and 6 deletions in 2 files</sub><br />
 
 * **[Hammad Parveez](https://github.com/hammadparveez)** &mdash; docs: Add useMaterial3 flag to AppBar background<br />
-    <sub>[#139330](https://github.com/flutter/flutter/pull/139330) opened on on November 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139330) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#139330](https://github.com/flutter/flutter/pull/139330) opened on on November 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139330) 7 additions and 4 deletions in 1 file</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Use ImageFilter.compose on all platforms now that it is supported<br />
     <sub>[#139332](https://github.com/flutter/flutter/pull/139332) opened on on November 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139332) 1 addition and 8 deletions in 1 file</sub><br />
