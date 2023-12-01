@@ -77,20 +77,8 @@
 * **[Fernando Rosentalski](https://github.com/talski)** &mdash; Fix InputDecorationTheme copyWith fallback<br />
     <sub>[#138914](https://github.com/flutter/flutter/pull/138914) opened on on November 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138914) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Luke Hutchison](https://github.com/lukehutch)** &mdash; Fix refresh cancelation<br />
-    <sub>[#139015](https://github.com/flutter/flutter/pull/139015) opened on on November 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139015) 10 additions and 12 deletions in 1 file</sub><br />
-
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Optimize the display of the Overlay on the Slider<br />
     <sub>[#139021](https://github.com/flutter/flutter/pull/139021) opened on on November 26, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/139021) 95 additions and 3 deletions in 2 files</sub><br />
-
-* **[LowLevelSubmarine](https://github.com/LowLevelSubmarine)** &mdash; fix: ZoomPageTransitionsBuilder always has black outlines during transitions<br />
-    <sub>[#139078](https://github.com/flutter/flutter/pull/139078) opened on on November 27, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139078) 10 additions and 1 deletion in 1 file</sub><br />
-
-* **[Non Vachara](https://github.com/nonvachara-paloit)** &mdash; Add send_text_input_action case to deserialization_factory to allow sendTextInputAction usages through flutter_driver.<br />
-    <sub>[#139197](https://github.com/flutter/flutter/pull/139197) opened on on November 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139197) 42 additions and 3 deletions in 2 files</sub><br />
-
-* **[hgraceb](https://github.com/hgraceb)** &mdash; Improve slider's value indicator display test<br />
-    <sub>[#139198](https://github.com/flutter/flutter/pull/139198) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139198) 9 additions and 6 deletions in 1 file</sub><br />
 
 * **[Dylan Pfab](https://github.com/DYLERN)** &mdash; Added flag to disable build name validation on ios<br />
     <sub>[#139227](https://github.com/flutter/flutter/pull/139227) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139227) 100 additions and 0 deletions in 5 files</sub><br />
@@ -104,14 +92,11 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate verify_codesigned.<br />
     <sub>[#139328](https://github.com/flutter/flutter/pull/139328) opened on on November 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139328) 27 additions and 6 deletions in 2 files</sub><br />
 
-* **[Hammad Parveez](https://github.com/hammadparveez)** &mdash; docs: Add useMaterial3 flag to AppBar background<br />
-    <sub>[#139330](https://github.com/flutter/flutter/pull/139330) opened on on November 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139330) 7 additions and 4 deletions in 1 file</sub><br />
-
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Use ImageFilter.compose on all platforms now that it is supported<br />
     <sub>[#139332](https://github.com/flutter/flutter/pull/139332) opened on on November 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139332) 1 addition and 8 deletions in 1 file</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [WIP] Opt-in for smooth pointer scrolling<br />
-    <sub>[#139392](https://github.com/flutter/flutter/pull/139392) opened on on December 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139392) 187 additions and 19 deletions in 6 files</sub><br />
+    <sub>[#139392](https://github.com/flutter/flutter/pull/139392) opened on on December 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139392) 186 additions and 20 deletions in 6 files</sub><br />
 
 * **[FernTheDev](https://github.com/Fernthedev)** &mdash;  feat: Add autofocus for `MenuItemButton`<br />
     <sub>[#139396](https://github.com/flutter/flutter/pull/139396) opened on on December 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139396) 5 additions and 0 deletions in 1 file</sub><br />
