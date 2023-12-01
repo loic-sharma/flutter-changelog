@@ -1165,7 +1165,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-15 commits.
+16 commits.
 
 * **[TPF](https://github.com/T-P-F)** &mdash; [google_sign_in] Add server auth code retrieval to gis_client<br />
     <sub>[#5358](https://github.com/flutter/packages/pull/5358) merged on November 30, 2023 &mdash; **Medium:** [10 comments](https://github.com/flutter/packages/pull/5358) over 3 weeks, 419 additions and 3 deletions in 10 files</sub><br />
@@ -1211,6 +1211,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [quick_actions_android] Run tests on AVDs running Android 34 <br />
     <sub>[#5220](https://github.com/flutter/packages/pull/5220) merged on November 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5220) over 1 month, 0 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Reenable macOS 13 tests<br />
+    <sub>[#5494](https://github.com/flutter/packages/pull/5494) merged on December 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5494) over 3 days, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Michael McGuiness](https://github.com/mike-v2)** &mdash; [flutter_image] Adopt code excerpts in README<br />
     <sub>[#5498](https://github.com/flutter/packages/pull/5498) merged on December 1, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5498) over 3 days, 45 additions and 5 deletions in 6 files</sub><br />
