@@ -125,3 +125,6 @@
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Document difference between softWrap and maxLine<br />
     <sub>[#139363](https://github.com/flutter/flutter/pull/139363) opened on on December 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139363) 39 additions and 7 deletions in 1 file</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Empty commit to disable non-hermetic macos_ui test<br />
+    <sub>[#139380](https://github.com/flutter/flutter/pull/139380) opened on on December 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139380) 0 additions and 0 deletions in 0 files</sub><br />
+
