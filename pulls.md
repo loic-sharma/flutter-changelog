@@ -122,3 +122,6 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Use ImageFilter.compose on all platforms now that it is supported<br />
     <sub>[#139332](https://github.com/flutter/flutter/pull/139332) opened on on November 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139332) 1 addition and 8 deletions in 1 file</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; fix reorderable_list drop animation<br />
+    <sub>[#139362](https://github.com/flutter/flutter/pull/139362) opened on on December 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139362) 101 additions and 34 deletions in 2 files</sub><br />
+
