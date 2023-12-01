@@ -101,9 +101,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Check that CI is testing flutter with a space in the SDK directory.<br />
     <sub>[#139265](https://github.com/flutter/flutter/pull/139265) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139265) 4 additions and 8 deletions in 1 file</sub><br />
 
-* **[Jakub Safrata](https://github.com/safrataxyz)** &mdash; TabPageSelector wrapped by GestureDetector which navigates to view<br />
-    <sub>[#139297](https://github.com/flutter/flutter/pull/139297) opened on on November 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139297) 19 additions and 5 deletions in 1 file</sub><br />
-
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate verify_codesigned.<br />
     <sub>[#139328](https://github.com/flutter/flutter/pull/139328) opened on on November 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139328) 27 additions and 6 deletions in 2 files</sub><br />
 
@@ -113,12 +110,9 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Use ImageFilter.compose on all platforms now that it is supported<br />
     <sub>[#139332](https://github.com/flutter/flutter/pull/139332) opened on on November 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139332) 1 addition and 8 deletions in 1 file</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; fix reorderable_list drop animation<br />
-    <sub>[#139362](https://github.com/flutter/flutter/pull/139362) opened on on December 1, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139362) 101 additions and 34 deletions in 2 files</sub><br />
-
-* **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Document difference between softWrap and maxLine<br />
-    <sub>[#139363](https://github.com/flutter/flutter/pull/139363) opened on on December 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139363) 39 additions and 7 deletions in 1 file</sub><br />
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [WIP] Opt-in for smooth pointer scrolling<br />
     <sub>[#139392](https://github.com/flutter/flutter/pull/139392) opened on on December 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139392) 187 additions and 19 deletions in 6 files</sub><br />
+
+* **[FernTheDev](https://github.com/Fernthedev)** &mdash;  feat: Add autofocus for `MenuItemButton`<br />
+    <sub>[#139396](https://github.com/flutter/flutter/pull/139396) opened on on December 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139396) 5 additions and 0 deletions in 1 file</sub><br />
 
