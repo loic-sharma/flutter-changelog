@@ -30,6 +30,11 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
     <sub><details><summary>1 image...</summary><img width="278" alt="image" src="https://github.com/flutter/flutter/assets/42216813/cee7b9be-48d6-48e5-8c39-de28d0a1f0de"></details></sub>
 
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Refactor to use Apple system fonts<br />
+    <sub>[#137275](https://github.com/flutter/flutter/pull/137275) merged on November 29, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/137275) over 1 month, 99 additions and 82 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub><details><summary>2 images...</summary><img width="466" alt="Screenshot 2023-11-02 at 11 45 12 AM" src="https://github.com/flutter/flutter/assets/58190796/627ed8ac-d848-4f71-aa62-a467b8aac62d"><img width="383" alt="Screenshot 2023-11-02 at 11 46 25 AM" src="https://github.com/flutter/flutter/assets/58190796/9a502021-7d2b-4e14-98f1-86971b3830a5"></details></sub>
+
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Give an actionable error message when a Pod requires a higher minimum OS version<br />
     <sub>[#138097](https://github.com/flutter/flutter/pull/138097) merged on November 27, 2023 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/138097) over 2 weeks, 615 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
@@ -38,11 +43,6 @@
     <sub>[#138901](https://github.com/flutter/flutter/pull/138901) merged on November 27, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138901) over 5 days, 229 additions and 28 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>5 images...</summary>![Screenshot 2023-11-22 at 18 22 48](https://github.com/flutter/flutter/assets/48603081/06f54335-71ee-4882-afb0-53b614933c38)![Screenshot 2023-11-22 at 15 29 52](https://github.com/flutter/flutter/assets/48603081/913e0f77-48f4-4c6e-87f3-52c81b78f3d9)![Screenshot 2023-11-22 at 18 22 08](https://github.com/flutter/flutter/assets/48603081/28badae4-a7c7-4bf0-8bcc-278a1f84729d)![Screenshot 2023-11-22 at 18 22 25](https://github.com/flutter/flutter/assets/48603081/674b48b1-f66a-4d91-9f10-ad307416ac32)![Screenshot 2023-11-22 at 15 30 36](https://github.com/flutter/flutter/assets/48603081/ae9a3627-787e-45ac-9319-2ea8ea1e6ae6)</details></sub>
-
-* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Refactor to use Apple system fonts<br />
-    <sub>[#137275](https://github.com/flutter/flutter/pull/137275) merged on November 29, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/137275) over 1 month, 99 additions and 82 deletions in 13 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-    <sub><details><summary>2 images...</summary><img width="466" alt="Screenshot 2023-11-02 at 11 45 12 AM" src="https://github.com/flutter/flutter/assets/58190796/627ed8ac-d848-4f71-aa62-a467b8aac62d"><img width="383" alt="Screenshot 2023-11-02 at 11 46 25 AM" src="https://github.com/flutter/flutter/assets/58190796/9a502021-7d2b-4e14-98f1-86971b3830a5"></details></sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Migration for the `sendTiming` events for `package:unified_analytics`"<br />
     <sub>[#139278](https://github.com/flutter/flutter/pull/139278) merged on November 30, 2023 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/139278) over 1 minute, 274 additions and 806 deletions in 27 files</sub><br />
