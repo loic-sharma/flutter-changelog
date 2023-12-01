@@ -107,9 +107,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Check that CI is testing flutter with a space in the SDK directory.<br />
     <sub>[#139265](https://github.com/flutter/flutter/pull/139265) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139265) 4 additions and 8 deletions in 1 file</sub><br />
 
-* **[Josh Burton](https://github.com/josh-burton)** &mdash; Fix DropdownMenu throwing TextEditingController disposed error on select (#139266)<br />
-    <sub>[#139268](https://github.com/flutter/flutter/pull/139268) opened on on November 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139268) 113 additions and 8 deletions in 2 files</sub><br />
-
 * **[Jakub Safrata](https://github.com/safrataxyz)** &mdash; TabPageSelector wrapped by GestureDetector which navigates to view<br />
     <sub>[#139297](https://github.com/flutter/flutter/pull/139297) opened on on November 30, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139297) 19 additions and 5 deletions in 1 file</sub><br />
 
