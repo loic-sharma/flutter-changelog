@@ -119,3 +119,6 @@
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Document difference between softWrap and maxLine<br />
     <sub>[#139363](https://github.com/flutter/flutter/pull/139363) opened on on December 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139363) 39 additions and 7 deletions in 1 file</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [WIP] Opt-in for smooth pointer scrolling<br />
+    <sub>[#139392](https://github.com/flutter/flutter/pull/139392) opened on on December 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139392) 187 additions and 19 deletions in 6 files</sub><br />
+
