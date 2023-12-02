@@ -1194,7 +1194,7 @@
 
 ### November 25, 2023 to December 1, 2023
 
-16 commits.
+17 commits.
 
 * **[TPF](https://github.com/T-P-F)** &mdash; [google_sign_in] Add server auth code retrieval to gis_client<br />
     <sub>[#5358](https://github.com/flutter/packages/pull/5358) merged on November 30, 2023 &mdash; **Medium:** [10 comments](https://github.com/flutter/packages/pull/5358) over 3 weeks, 419 additions and 3 deletions in 10 files</sub><br />
@@ -1211,6 +1211,10 @@
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Fix Google Maps rendering issues in TLHC mode when using LATEST renderer<br />
     <sub>[#5408](https://github.com/flutter/packages/pull/5408) merged on November 29, 2023 &mdash; **Small:** [40 comments](https://github.com/flutter/packages/pull/5408) over 1 week, 99 additions and 167 deletions in 8 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [gsi_web] Do not initialize CodeClient if scopes are empty.<br />
+    <sub>[#5537](https://github.com/flutter/packages/pull/5537) merged on December 2, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/5537) over 5 hours, 24 additions and 11 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [pointer_interceptor] Add platform interface<br />
     <sub>[#5499](https://github.com/flutter/packages/pull/5499) merged on November 30, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/5499) over 1 day, 199 additions and 0 deletions in 10 files</sub><br />
