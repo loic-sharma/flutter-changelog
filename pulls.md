@@ -98,3 +98,6 @@
 * **[FernTheDev](https://github.com/Fernthedev)** &mdash;  feat: Add autofocus for `MenuItemButton`<br />
     <sub>[#139396](https://github.com/flutter/flutter/pull/139396) opened on on December 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139396) 5 additions and 0 deletions in 1 file</sub><br />
 
+* **[Nico](https://github.com/Rodsevich)** &mdash; Export _NavigationDestinationInfo as public API<br />
+    <sub>[#139429](https://github.com/flutter/flutter/pull/139429) opened on on December 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139429) 26 additions and 26 deletions in 1 file</sub><br />
+
