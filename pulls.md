@@ -101,3 +101,6 @@
 * **[Nico](https://github.com/Rodsevich)** &mdash; Export _NavigationDestinationInfo as public API<br />
     <sub>[#139429](https://github.com/flutter/flutter/pull/139429) opened on on December 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139429) 26 additions and 26 deletions in 1 file</sub><br />
 
+* **[David Miguel Lozano](https://github.com/davidmigloz)** &mdash; Add MaterialStateOutlinedBorder.resolveWith<br />
+    <sub>[#139431](https://github.com/flutter/flutter/pull/139431) opened on on December 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139431) 95 additions and 22 deletions in 2 files</sub><br />
+
