@@ -86,9 +86,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Remove deprecated `TextTheme` members<br />
     <sub>[#139255](https://github.com/flutter/flutter/pull/139255) opened on on November 29, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/139255) 76 additions and 332 deletions in 9 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Check that CI is testing flutter with a space in the SDK directory.<br />
-    <sub>[#139265](https://github.com/flutter/flutter/pull/139265) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139265) 4 additions and 8 deletions in 1 file</sub><br />
-
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate verify_codesigned.<br />
     <sub>[#139328](https://github.com/flutter/flutter/pull/139328) opened on on November 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139328) 27 additions and 6 deletions in 2 files</sub><br />
 
