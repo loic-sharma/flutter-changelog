@@ -143,8 +143,8 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Dynamic view sizing<br />
-    <sub>[#138648](https://github.com/flutter/flutter/pull/138648) merged on November 29, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/138648) over 1 week, 291 additions and 43 deletions in 16 files</sub><br />
-    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Kenzie Davisson](https://github.com/kenzieschmoll), [David Iglesias](https://github.com/ditman), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+    <sub>[#138648](https://github.com/flutter/flutter/pull/138648) merged on November 29, 2023 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/138648) over 1 week, 291 additions and 43 deletions in 16 files</sub><br />
+    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Gustl22](https://github.com/Gustl22), [Kenzie Davisson](https://github.com/kenzieschmoll), [David Iglesias](https://github.com/ditman), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run platform_channels_benchmarks on Pixel 7 Pro<br />
     <sub>[#139092](https://github.com/flutter/flutter/pull/139092) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139092) over 7 hours, 10 additions and 0 deletions in 1 file</sub><br />
