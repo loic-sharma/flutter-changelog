@@ -110,3 +110,6 @@
 * **[Md Waliul Islam Alif](https://github.com/meetalif)** &mdash; Update banner.dart<br />
     <sub>[#139450](https://github.com/flutter/flutter/pull/139450) opened on on December 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139450) 29 additions and 6 deletions in 1 file</sub><br />
 
+* **[jarrodcolburn](https://github.com/jarrodcolburn)** &mdash; update: avd error msg<br />
+    <sub>[#139452](https://github.com/flutter/flutter/pull/139452) opened on on December 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139452) 1 addition and 1 deletion in 1 file</sub><br />
+
