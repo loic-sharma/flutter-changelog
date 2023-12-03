@@ -113,3 +113,6 @@
 * **[jarrodcolburn](https://github.com/jarrodcolburn)** &mdash; update: avd error msg<br />
     <sub>[#139452](https://github.com/flutter/flutter/pull/139452) opened on on December 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139452) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[bp3030](https://github.com/bp3030)** &mdash; Update daemon.dart<br />
+    <sub>[#139454](https://github.com/flutter/flutter/pull/139454) opened on on December 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139454) 1 addition and 1 deletion in 1 file</sub><br />
+
