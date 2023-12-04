@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### December 2, 2023 to December 8, 2023
+
+1 commits.
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Remove InkSparkle.constantTurbulenceSeedSplashFactory usage
+    <sub>[#139481](https://github.com/flutter/flutter/pull/139481) merged on December 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139481) over 2 hours, 1 addition and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
 ### November 25, 2023 to December 1, 2023
 
-59 commits.
+<details>
+<summary>59 commits...</summary>
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; Introduce multi-touch drag strategies for `DragGestureRecognizer`
     <sub>[#136708](https://github.com/flutter/flutter/pull/136708) merged on November 30, 2023 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/136708) over 1 month, 258 additions and 6 deletions in 6 files</sub>
@@ -249,6 +258,8 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Reland Add platform view wide gamut test"
     <sub>[#139189](https://github.com/flutter/flutter/pull/139189) merged on November 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139189) over 1 minute, 0 additions and 117 deletions in 3 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### November 18, 2023 to November 24, 2023
 
