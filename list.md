@@ -743,9 +743,18 @@
 
 ## flutter/packages
 
+### December 2, 2023 to December 8, 2023
+
+1 commits.
+
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add an optional parameter `initialPage` to `serveWebBenchmark`
+    <sub>[#5538](https://github.com/flutter/packages/pull/5538) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5538) over 2 days, 94 additions and 33 deletions in 6 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
 ### November 25, 2023 to December 1, 2023
 
-17 commits.
+<details>
+<summary>17 commits...</summary>
 
 * **[TPF](https://github.com/T-P-F)** &mdash; [google_sign_in] Add server auth code retrieval to gis_client
     <sub>[#5358](https://github.com/flutter/packages/pull/5358) merged on November 30, 2023 &mdash; **Medium:** [10 comments](https://github.com/flutter/packages/pull/5358) over 3 weeks, 419 additions and 3 deletions in 10 files</sub>
@@ -815,6 +824,8 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw, flutter_markdown] Prepare for removing dart:ui imports.
     <sub>[#5471](https://github.com/flutter/packages/pull/5471) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5471) over 4 days, 5 additions and 0 deletions in 5 files</sub>
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
+
+</details>
 
 ### November 18, 2023 to November 24, 2023
 
