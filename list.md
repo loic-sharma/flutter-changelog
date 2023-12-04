@@ -111,25 +111,29 @@
     <sub>[#135771](https://github.com/flutter/flutter/pull/135771) merged on November 27, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/135771) over 1 month, 141 additions and 0 deletions in 3 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Dynamic view sizing
+    <sub>[#138648](https://github.com/flutter/flutter/pull/138648) merged on November 29, 2023 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/138648) over 1 week, 291 additions and 43 deletions in 16 files</sub>
+    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Gustl22](https://github.com/Gustl22), [Kenzie Davisson](https://github.com/kenzieschmoll), [David Iglesias](https://github.com/ditman), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Wide gamut and platform view integration test.
     <sub>[#138837](https://github.com/flutter/flutter/pull/138837) merged on November 27, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/138837) over 6 days, 123 additions and 0 deletions in 4 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update VelocityTracker (4)
-    <sub>[#139166](https://github.com/flutter/flutter/pull/139166) merged on November 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139166) over 19 hours, 178 additions and 65 deletions in 9 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; Added vscode-insiders path installed via snap
-    <sub>[#137117](https://github.com/flutter/flutter/pull/137117) merged on December 1, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/137117) over 1 month, 7 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add `undoStackModifier` to `UndoHistory`
     <sub>[#138674](https://github.com/flutter/flutter/pull/138674) merged on November 30, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/138674) over 1 week, 44 additions and 20 deletions in 3 files</sub>
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
+* **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; Added vscode-insiders path installed via snap
+    <sub>[#137117](https://github.com/flutter/flutter/pull/137117) merged on December 1, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/137117) over 1 month, 7 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 * **[Jasper van Riet](https://github.com/JaspervanRiet)** &mdash; Write tests for API examples of BottomNavigationBar and IconButton
     <sub>[#138188](https://github.com/flutter/flutter/pull/138188) merged on November 27, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/138188) over 2 weeks, 135 additions and 4 deletions in 5 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update VelocityTracker (4)
+    <sub>[#139166](https://github.com/flutter/flutter/pull/139166) merged on November 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139166) over 19 hours, 178 additions and 65 deletions in 9 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[yim](https://github.com/yiiim)** &mdash; Added some documentation for OverlayPortal
     <sub>[#138934](https://github.com/flutter/flutter/pull/138934) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138934) over 5 days, 3 additions and 1 deletion in 1 file</sub>
@@ -150,10 +154,6 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Update Android app project template to apply Kotlin Gradle plugin declaratively
     <sub>[#139006](https://github.com/flutter/flutter/pull/139006) merged on November 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139006) over 1 day, 2 additions and 28 deletions in 4 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Dynamic view sizing
-    <sub>[#138648](https://github.com/flutter/flutter/pull/138648) merged on November 29, 2023 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/138648) over 1 week, 291 additions and 43 deletions in 16 files</sub>
-    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Gustl22](https://github.com/Gustl22), [Kenzie Davisson](https://github.com/kenzieschmoll), [David Iglesias](https://github.com/ditman), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run platform_channels_benchmarks on Pixel 7 Pro
     <sub>[#139092](https://github.com/flutter/flutter/pull/139092) merged on November 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139092) over 7 hours, 10 additions and 0 deletions in 1 file</sub>
