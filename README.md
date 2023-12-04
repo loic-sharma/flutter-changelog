@@ -4,7 +4,12 @@
 
 ### December 2, 2023 to December 8, 2023
 
-4 commits.
+5 commits.
+
+* **[hgraceb](https://github.com/hgraceb)** &mdash; Optimize the display of the Overlay on the Slider<br />
+    <sub>[#139021](https://github.com/flutter/flutter/pull/139021) merged on December 4, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/139021) over 1 week, 95 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+    <sub><details><summary>2 images...</summary>![slider3](https://github.com/flutter/flutter/assets/38378650/815e12a4-ccaf-4b99-8480-6cbdc97a91bd)![slider4](https://github.com/flutter/flutter/assets/38378650/473eca22-0308-4964-8368-b0c158ae30eb)</details></sub>
 
 * **[Anindya Chatterjee](https://github.com/anidotnet)** &mdash; Enable TapRegion to detect all mouse button click<br />
     <sub>[#136799](https://github.com/flutter/flutter/pull/136799) merged on December 4, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/136799) over 1 month, 575 additions and 1 deletion in 2 files</sub><br />

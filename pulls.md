@@ -113,3 +113,6 @@
 * **[Joel Godfrey](https://github.com/BaccanoMob)** &mdash; Allowing CheckboxListTile, RadioListTile, SwitchListTile to have only one focus on Tab<br />
     <sub>[#139472](https://github.com/flutter/flutter/pull/139472) opened on on December 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139472) 24 additions and 6 deletions in 3 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; increase sharding of windows build tests<br />
+    <sub>[#139503](https://github.com/flutter/flutter/pull/139503) opened on on December 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139503) 37 additions and 12 deletions in 1 file</sub><br />
+
