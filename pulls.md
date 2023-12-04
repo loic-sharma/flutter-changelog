@@ -113,3 +113,6 @@
 * **[bp3030](https://github.com/bp3030)** &mdash; Update daemon.dart<br />
     <sub>[#139454](https://github.com/flutter/flutter/pull/139454) opened on on December 3, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139454) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Joel Godfrey](https://github.com/BaccanoMob)** &mdash; Allowing CheckboxListTile, RadioListTile, SwitchListTile to have only one focus on Tab<br />
+    <sub>[#139472](https://github.com/flutter/flutter/pull/139472) opened on on December 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139472) 24 additions and 6 deletions in 3 files</sub><br />
+
