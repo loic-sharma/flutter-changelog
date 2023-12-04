@@ -4,7 +4,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-8 commits.
+9 commits.
 
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Optimize the display of the Overlay on the Slider<br />
     <sub>[#139021](https://github.com/flutter/flutter/pull/139021) merged on December 4, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/139021) over 1 week, 95 additions and 3 deletions in 2 files</sub><br />
@@ -31,6 +31,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Add Impeller complex layout impeller benchmarks.<br />
     <sub>[#139490](https://github.com/flutter/flutter/pull/139490) merged on December 4, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139490) over 1 hour, 56 additions and 0 deletions in 5 files</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Update sync-labels to use boolean<br />
+    <sub>[#139516](https://github.com/flutter/flutter/pull/139516) merged on December 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139516) over 34 minutes, 0 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Convert some usage of `RawKeyEvent`, et al to `KeyEvent`<br />
     <sub>[#139329](https://github.com/flutter/flutter/pull/139329) merged on December 4, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/139329) over 3 days, 173 additions and 169 deletions in 5 files</sub><br />
