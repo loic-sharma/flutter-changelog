@@ -371,7 +371,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-3 commits.
+5 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add support for exposing accessibility identifier as resource-id on Android<br />
     <sub>[#47961](https://github.com/flutter/engine/pull/47961) merged on December 4, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/47961) over 3 weeks, 531 additions and 3 deletions in 12 files</sub><br />
@@ -380,6 +380,14 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Multiview ExternalViewEmbedder<br />
     <sub>[#46169](https://github.com/flutter/engine/pull/46169) merged on December 4, 2023 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/46169) over 2 months, 380 additions and 172 deletions in 21 files</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Remove some trivial forward declares from Impeller<br />
+    <sub>[#48635](https://github.com/flutter/engine/pull/48635) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48635) over 1 hour, 11 additions and 18 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Decouple the GL context from the view<br />
+    <sub>[#48636](https://github.com/flutter/engine/pull/48636) merged on December 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48636) over 1 hour, 12 additions and 23 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Only run firebase tests on HEAD<br />
     <sub>[#48548](https://github.com/flutter/engine/pull/48548) merged on December 4, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48548) over 3 days, 4 additions and 1 deletion in 2 files</sub><br />
@@ -776,11 +784,15 @@
 
 ### December 2, 2023 to December 8, 2023
 
-2 commits.
+3 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update mockito to 5.4.3<br />
     <sub>[#5530](https://github.com/flutter/packages/pull/5530) merged on December 4, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/5530) over 3 days, 1624 additions and 452 deletions in 117 files</sub><br />
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [ci] Add Windows Arm64 stable build-only test<br />
+    <sub>[#5533](https://github.com/flutter/packages/pull/5533) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5533) over 3 days, 13 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add an optional parameter `initialPage` to `serveWebBenchmark`<br />
     <sub>[#5538](https://github.com/flutter/packages/pull/5538) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5538) over 2 days, 94 additions and 33 deletions in 6 files</sub><br />
