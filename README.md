@@ -33,7 +33,7 @@
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Update sync-labels to use boolean<br />
-    <sub>[#139516](https://github.com/flutter/flutter/pull/139516) merged on December 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139516) over 34 minutes, 0 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#139516](https://github.com/flutter/flutter/pull/139516) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139516) over 34 minutes, 0 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Convert some usage of `RawKeyEvent`, et al to `KeyEvent`<br />
