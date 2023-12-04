@@ -357,9 +357,18 @@
 
 ## flutter/engine
 
+### December 2, 2023 to December 8, 2023
+
+1 commits.
+
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Only run firebase tests on HEAD
+    <sub>[#48548](https://github.com/flutter/engine/pull/48548) merged on December 4, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48548) over 3 days, 4 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
+
 ### November 25, 2023 to December 1, 2023
 
-50 commits.
+<details>
+<summary>50 commits...</summary>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reduce number of surfaces required when presenting platform views
     <sub>[#43301](https://github.com/flutter/engine/pull/43301) merged on November 27, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/43301) over 5 months, 381 additions and 226 deletions in 12 files</sub>
@@ -561,6 +570,8 @@
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from f1fd14505782 to c9bdb5884670 (10 revisions)
     <sub>[#48402](https://github.com/flutter/engine/pull/48402) merged on November 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48402) over 47 minutes, 8 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### November 18, 2023 to November 24, 2023
 
