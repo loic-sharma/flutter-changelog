@@ -119,3 +119,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add 'Share' button to the selection toolbar on Android<br />
     <sub>[#139479](https://github.com/flutter/flutter/pull/139479) opened on on December 4, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/139479) 724 additions and 492 deletions in 10 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Remove InkSparkle.constantTurbulenceSeedSplashFactory usage<br />
+    <sub>[#139481](https://github.com/flutter/flutter/pull/139481) opened on on December 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139481) 1 addition and 4 deletions in 1 file</sub><br />
+
