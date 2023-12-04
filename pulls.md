@@ -116,3 +116,6 @@
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Add `enabled` property to `ExpansionTile`<br />
     <sub>[#139519](https://github.com/flutter/flutter/pull/139519) opened on on December 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139519) 43 additions and 0 deletions in 2 files</sub><br />
 
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [beta-cherrypick] cherrypicks commit 7d9010c3578338bc850d66c315bd6086f3d3dc9a from PR<br />
+    <sub>[#139523](https://github.com/flutter/flutter/pull/139523) opened on on December 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139523) 40 additions and 1 deletion in 2 files</sub><br />
+
