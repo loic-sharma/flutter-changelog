@@ -446,7 +446,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-19 commits.
+20 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add support for exposing accessibility identifier as resource-id on Android<br />
     <sub>[#47961](https://github.com/flutter/engine/pull/47961) merged on December 4, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/47961) over 3 weeks, 531 additions and 3 deletions in 12 files</sub><br />
@@ -480,6 +480,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Move BufferView/Texture/Sampler when binding.<br />
     <sub>[#48628](https://github.com/flutter/engine/pull/48628) merged on December 4, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/48628) over 7 hours, 34 additions and 34 deletions in 5 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Avoid non-const sizes in VLAs.<br />
+    <sub>[#48693](https://github.com/flutter/engine/pull/48693) merged on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48693) over 1 hour, 3 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Prefer moving vertex buffer, place on command instead of binding object.<br />
     <sub>[#48630](https://github.com/flutter/engine/pull/48630) merged on December 5, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/48630) over 1 day, 125 additions and 179 deletions in 35 files</sub><br />
