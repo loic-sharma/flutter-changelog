@@ -450,7 +450,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-20 commits.
+22 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add support for exposing accessibility identifier as resource-id on Android
     <sub>[#47961](https://github.com/flutter/engine/pull/47961) merged on December 4, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/47961) over 3 weeks, 531 additions and 3 deletions in 12 files</sub>
@@ -485,6 +485,10 @@
     <sub>[#48628](https://github.com/flutter/engine/pull/48628) merged on December 4, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/48628) over 7 hours, 34 additions and 34 deletions in 5 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
+* **[Dan Field](https://github.com/dnfield)** &mdash; Roll abseil to d07bb1bc8e59b37204d457ee365b52b0d11feec0
+    <sub>[#48700](https://github.com/flutter/engine/pull/48700) merged on December 5, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/48700) over 1 hour, 274 additions and 42 deletions in 3 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Zachary Anderson](https://github.com/zanderso)</sub>
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Avoid non-const sizes in VLAs.
     <sub>[#48693](https://github.com/flutter/engine/pull/48693) merged on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48693) over 1 hour, 3 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
@@ -516,6 +520,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Decouple the GL context from the view
     <sub>[#48636](https://github.com/flutter/engine/pull/48636) merged on December 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48636) over 1 hour, 12 additions and 23 deletions in 3 files</sub>
     <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub>
+
+* **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Fix labeler not actually doing any labeling
+    <sub>[#48701](https://github.com/flutter/engine/pull/48701) merged on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48701) over 43 minutes, 36 additions and 26 deletions in 1 file</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 * **[Jonny Wang](https://github.com/jrwang)** &mdash; A11y enabled state
     <sub>[#48653](https://github.com/flutter/engine/pull/48653) merged on December 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48653) over 15 hours, 38 additions and 0 deletions in 2 files</sub>

@@ -44,9 +44,6 @@
 * **[Rohith Gilla](https://github.com/Rohithgilla12)** &mdash; chore: Add default variant to the iOS `archs`<br />
     <sub>[#137332](https://github.com/flutter/flutter/pull/137332) opened on on October 26, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/137332) 9 additions and 4 deletions in 2 files</sub><br />
 
-* **[Ricky Souza de Oliveira](https://github.com/HeroRickyGAMES)** &mdash; Removing the bug of 'package:flutter/src/rendering/mouse_tracker.dart ': Failed assertion: line 205 pos 12: '!_debugDuringDeviceUpdate': is not true. in desktop platforms<br />
-    <sub>[#137939](https://github.com/flutter/flutter/pull/137939) opened on on November 6, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/137939) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Test roll<br />
     <sub>[#138017](https://github.com/flutter/flutter/pull/138017) opened on on November 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138017) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -67,9 +64,6 @@
 
 * **[TabooSun](https://github.com/TabooSun)** &mdash; Gen l10n add named argument option<br />
     <sub>[#138663](https://github.com/flutter/flutter/pull/138663) opened on on November 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138663) 94 additions and 9 deletions in 6 files</sub><br />
-
-* **[Ricky Souza de Oliveira](https://github.com/HeroRickyGAMES)** &mdash; This is a test implementation of the bug fix package:flutter/src/rendering/mouse_tracker.dart ': Failed assertion: line 205 pos 12: '!_debugDuringDeviceUpdate': is not true.<br />
-    <sub>[#138811](https://github.com/flutter/flutter/pull/138811) opened on on November 21, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/138811) 434 additions and 0 deletions in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Add feature guard to native assets build system target<br />
     <sub>[#138854](https://github.com/flutter/flutter/pull/138854) opened on on November 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138854) 86 additions and 26 deletions in 4 files</sub><br />
