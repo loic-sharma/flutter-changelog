@@ -107,9 +107,6 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update labeler.yml<br />
     <sub>[#139529](https://github.com/flutter/flutter/pull/139529) opened on on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139529) 3 additions and 92 deletions in 1 file</sub><br />
 
-* **[hangyu](https://github.com/hangyujin)** &mdash; [draft] handle the case when _CupertinoBackGestureDetector is disposed during the drag. <br />
-    <sub>[#139585](https://github.com/flutter/flutter/pull/139585) opened on on December 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139585) 13 additions and 0 deletions in 2 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; re-enable windows build_tests<br />
     <sub>[#139599](https://github.com/flutter/flutter/pull/139599) opened on on December 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139599) 0 additions and 7 deletions in 1 file</sub><br />
 
