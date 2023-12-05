@@ -4,7 +4,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-21 commits.
+22 commits.
 
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Optimize the display of the Overlay on the Slider<br />
     <sub>[#139021](https://github.com/flutter/flutter/pull/139021) merged on December 4, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/139021) over 1 week, 95 additions and 3 deletions in 2 files</sub><br />
@@ -68,6 +68,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Add Impeller complex layout impeller benchmarks.<br />
     <sub>[#139490](https://github.com/flutter/flutter/pull/139490) merged on December 4, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139490) over 1 hour, 56 additions and 0 deletions in 5 files</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#139510](https://github.com/flutter/flutter/pull/139510) merged on December 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139510) over 22 hours, 22 additions and 23 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Move docs to use their own recipe.<br />
     <sub>[#139521](https://github.com/flutter/flutter/pull/139521) merged on December 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139521) over 18 hours, 3 additions and 3 deletions in 1 file</sub><br />
