@@ -4,7 +4,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-10 commits.
+11 commits.
 
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Optimize the display of the Overlay on the Slider<br />
     <sub>[#139021](https://github.com/flutter/flutter/pull/139021) merged on December 4, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/139021) over 1 week, 95 additions and 3 deletions in 2 files</sub><br />
@@ -23,6 +23,10 @@
     <sub>[#139299](https://github.com/flutter/flutter/pull/139299) merged on December 4, 2023 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/139299) over 4 days, 806 additions and 274 deletions in 27 files</sub><br />
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
     <sub><details><summary>1 image...</summary><img width="278" alt="image" src="https://github.com/flutter/flutter/assets/42216813/cee7b9be-48d6-48e5-8c39-de28d0a1f0de"></details></sub>
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix `DropdownMenu` throwing `TextEditingController` disposed error on select<br />
+    <sub>[#139385](https://github.com/flutter/flutter/pull/139385) merged on December 5, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/139385) over 3 days, 175 additions and 53 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; Added support for vscode and vscode-insiders installed via Flatpak<br />
     <sub>[#137123](https://github.com/flutter/flutter/pull/137123) merged on December 4, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/137123) over 1 month, 44 additions and 6 deletions in 2 files</sub><br />
