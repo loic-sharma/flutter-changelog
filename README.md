@@ -418,7 +418,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-10 commits.
+11 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add support for exposing accessibility identifier as resource-id on Android<br />
     <sub>[#47961](https://github.com/flutter/engine/pull/47961) merged on December 4, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/47961) over 3 weeks, 531 additions and 3 deletions in 12 files</sub><br />
@@ -444,6 +444,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Move BufferView/Texture/Sampler when binding.<br />
     <sub>[#48628](https://github.com/flutter/engine/pull/48628) merged on December 4, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/48628) over 7 hours, 34 additions and 34 deletions in 5 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Document what some of this shader metadata is.<br />
+    <sub>[#48647](https://github.com/flutter/engine/pull/48647) merged on December 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/48647) over 16 hours, 24 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Add `flutter` prefix to import<br />
     <sub>[#48617](https://github.com/flutter/engine/pull/48617) merged on December 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48617) over 19 hours, 1 addition and 1 deletion in 1 file</sub><br />
