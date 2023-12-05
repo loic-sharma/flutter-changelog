@@ -120,5 +120,5 @@
     <sub>[#139529](https://github.com/flutter/flutter/pull/139529) opened on on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139529) 3 additions and 92 deletions in 1 file</sub><br />
 
 * **[Luke Hutchison](https://github.com/lukehutch)** &mdash; Fix refresh cancelation<br />
-    <sub>[#139535](https://github.com/flutter/flutter/pull/139535) opened on on December 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139535) 10 additions and 11 deletions in 1 file</sub><br />
+    <sub>[#139535](https://github.com/flutter/flutter/pull/139535) opened on on December 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139535) 10 additions and 11 deletions in 1 file</sub><br />
 
