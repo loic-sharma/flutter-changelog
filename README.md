@@ -29,6 +29,14 @@
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
     <sub><details><summary>1 image...</summary><img width="278" alt="image" src="https://github.com/flutter/flutter/assets/42216813/cee7b9be-48d6-48e5-8c39-de28d0a1f0de"></details></sub>
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Update sync-labels to use boolean"<br />
+    <sub>[#139533](https://github.com/flutter/flutter/pull/139533) merged on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139533) over 58 seconds, 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Update sync-labels to use boolean<br />
+    <sub>[#139516](https://github.com/flutter/flutter/pull/139516) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139516) over 34 minutes, 0 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
+
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix `DropdownMenu` throwing `TextEditingController` disposed error on select<br />
     <sub>[#139385](https://github.com/flutter/flutter/pull/139385) merged on December 5, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/139385) over 3 days, 175 additions and 53 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
@@ -44,14 +52,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Add Impeller complex layout impeller benchmarks.<br />
     <sub>[#139490](https://github.com/flutter/flutter/pull/139490) merged on December 4, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139490) over 1 hour, 56 additions and 0 deletions in 5 files</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Update sync-labels to use boolean"<br />
-    <sub>[#139533](https://github.com/flutter/flutter/pull/139533) merged on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139533) over 58 seconds, 2 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
-
-* **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Update sync-labels to use boolean<br />
-    <sub>[#139516](https://github.com/flutter/flutter/pull/139516) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139516) over 34 minutes, 0 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Send an event when proxied DDS creates a connection.<br />
     <sub>[#139530](https://github.com/flutter/flutter/pull/139530) merged on December 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139530) over 5 hours, 10 additions and 0 deletions in 2 files</sub><br />
