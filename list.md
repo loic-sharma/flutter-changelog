@@ -4,7 +4,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-19 commits.
+20 commits.
 
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Optimize the display of the Overlay on the Slider
     <sub>[#139021](https://github.com/flutter/flutter/pull/139021) merged on December 4, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/139021) over 1 week, 95 additions and 3 deletions in 2 files</sub>
@@ -19,6 +19,10 @@
 * **[Anindya Chatterjee](https://github.com/anidotnet)** &mdash; Enable TapRegion to detect all mouse button click
     <sub>[#136799](https://github.com/flutter/flutter/pull/136799) merged on December 4, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/136799) over 1 month, 575 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Update generate_gradle_lockfiles script to represent newer templates, and run it on dev/
+    <sub>[#135175](https://github.com/flutter/flutter/pull/135175) merged on December 5, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/135175) over 2 months, 1149 additions and 701 deletions in 48 files</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [flutter_tools] build ios-frameworks: option to exclude plugin frameworks from the build
     <sub>[#129739](https://github.com/flutter/flutter/pull/129739) merged on December 4, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/129739) over 5 months, 94 additions and 2 deletions in 3 files</sub>
@@ -434,7 +438,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-16 commits.
+17 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add support for exposing accessibility identifier as resource-id on Android
     <sub>[#47961](https://github.com/flutter/engine/pull/47961) merged on December 4, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/47961) over 3 weeks, 531 additions and 3 deletions in 12 files</sub>
@@ -468,6 +472,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Move BufferView/Texture/Sampler when binding.
     <sub>[#48628](https://github.com/flutter/engine/pull/48628) merged on December 4, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/48628) over 7 hours, 34 additions and 34 deletions in 5 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] started taking into account integer gaps in blur sigma, turned on linear filter
+    <sub>[#48651](https://github.com/flutter/engine/pull/48651) merged on December 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48651) over 16 hours, 10 additions and 7 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Delete tessellation control/eval shader support.
     <sub>[#48649](https://github.com/flutter/engine/pull/48649) merged on December 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48649) over 17 hours, 5 additions and 146 deletions in 21 files</sub>
