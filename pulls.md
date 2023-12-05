@@ -122,3 +122,9 @@
 * **[Luke Hutchison](https://github.com/lukehutch)** &mdash; Fix refresh cancelation<br />
     <sub>[#139535](https://github.com/flutter/flutter/pull/139535) opened on on December 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139535) 10 additions and 11 deletions in 1 file</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Make tests more resilient to Skia gold failures and refactor flutter_goldens for extensive technical debt removal<br />
+    <sub>[#139549](https://github.com/flutter/flutter/pull/139549) opened on on December 5, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/139549) 1603 additions and 1301 deletions in 8 files</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove stray print<br />
+    <sub>[#139550](https://github.com/flutter/flutter/pull/139550) opened on on December 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139550) 0 additions and 3 deletions in 1 file</sub><br />
+
