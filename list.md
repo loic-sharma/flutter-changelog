@@ -4,12 +4,17 @@
 
 ### December 2, 2023 to December 8, 2023
 
-11 commits.
+13 commits.
 
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Optimize the display of the Overlay on the Slider
     <sub>[#139021](https://github.com/flutter/flutter/pull/139021) merged on December 4, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/139021) over 1 week, 95 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub>
     <sub><details><summary>2 images...</summary>![slider3](https://github.com/flutter/flutter/assets/38378650/815e12a4-ccaf-4b99-8480-6cbdc97a91bd)![slider4](https://github.com/flutter/flutter/assets/38378650/473eca22-0308-4964-8368-b0c158ae30eb)</details></sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Bump actions/labeler from 4.3.0 to 5.0.0"
+    <sub>[#139534](https://github.com/flutter/flutter/pull/139534) merged on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139534) over 1 minute, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=actions/labeler&package-manager=github_actions&previous-version=4.3.0&new-version=5.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Anindya Chatterjee](https://github.com/anidotnet)** &mdash; Enable TapRegion to detect all mouse button click
     <sub>[#136799](https://github.com/flutter/flutter/pull/136799) merged on December 4, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/136799) over 1 month, 575 additions and 1 deletion in 2 files</sub>
@@ -39,6 +44,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Add Impeller complex layout impeller benchmarks.
     <sub>[#139490](https://github.com/flutter/flutter/pull/139490) merged on December 4, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139490) over 1 hour, 56 additions and 0 deletions in 5 files</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Update sync-labels to use boolean"
+    <sub>[#139533](https://github.com/flutter/flutter/pull/139533) merged on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139533) over 58 seconds, 2 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Update sync-labels to use boolean
     <sub>[#139516](https://github.com/flutter/flutter/pull/139516) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139516) over 34 minutes, 0 additions and 2 deletions in 1 file</sub>
