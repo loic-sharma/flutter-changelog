@@ -4,7 +4,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-14 commits.
+15 commits.
 
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Optimize the display of the Overlay on the Slider
     <sub>[#139021](https://github.com/flutter/flutter/pull/139021) merged on December 4, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/139021) over 1 week, 95 additions and 3 deletions in 2 files</sub>
@@ -52,6 +52,10 @@
 * **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Update sync-labels to use boolean
     <sub>[#139516](https://github.com/flutter/flutter/pull/139516) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139516) over 34 minutes, 0 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
+
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Send an event when proxied DDS creates a connection.
+    <sub>[#139530](https://github.com/flutter/flutter/pull/139530) merged on December 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139530) over 5 hours, 10 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Make `handleJsonEvent` public so that it can be overridden internally.
     <sub>[#139531](https://github.com/flutter/flutter/pull/139531) merged on December 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139531) over 5 hours, 2 additions and 2 deletions in 1 file</sub>
