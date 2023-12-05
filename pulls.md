@@ -122,3 +122,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; [draft] handle the case when _CupertinoBackGestureDetector is disposed during the drag. <br />
     <sub>[#139585](https://github.com/flutter/flutter/pull/139585) opened on on December 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139585) 13 additions and 0 deletions in 2 files</sub><br />
 
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [beta-cherrypick] cherrypicks commit 7d9010c3578338bc850d66c315bd6086f3d3dc9a from PR<br />
+    <sub>[#139594](https://github.com/flutter/flutter/pull/139594) opened on on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139594) 40 additions and 1 deletion in 2 files</sub><br />
+
