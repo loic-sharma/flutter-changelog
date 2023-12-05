@@ -418,7 +418,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-11 commits.
+12 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add support for exposing accessibility identifier as resource-id on Android<br />
     <sub>[#47961](https://github.com/flutter/engine/pull/47961) merged on December 4, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/47961) over 3 weeks, 531 additions and 3 deletions in 12 files</sub><br />
@@ -432,6 +432,10 @@
     <sub>[#48676](https://github.com/flutter/engine/pull/48676) merged on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48676) over 1 minute, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=actions/labeler&package-manager=github_actions&previous-version=4.3.0&new-version=5.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Render emoji shadows with correct colors.<br />
+    <sub>[#48593](https://github.com/flutter/engine/pull/48593) merged on December 5, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/48593) over 3 days, 83 additions and 45 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove duplicate entity test suite instantiations.<br />
     <sub>[#48654](https://github.com/flutter/engine/pull/48654) merged on December 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48654) over 42 minutes, 10 additions and 11 deletions in 4 files</sub><br />
