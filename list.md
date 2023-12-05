@@ -438,7 +438,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-17 commits.
+18 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add support for exposing accessibility identifier as resource-id on Android
     <sub>[#47961](https://github.com/flutter/engine/pull/47961) merged on December 4, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/47961) over 3 weeks, 531 additions and 3 deletions in 12 files</sub>
@@ -496,6 +496,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Decouple the GL context from the view
     <sub>[#48636](https://github.com/flutter/engine/pull/48636) merged on December 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48636) over 1 hour, 12 additions and 23 deletions in 3 files</sub>
     <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub>
+
+* **[Jonny Wang](https://github.com/jrwang)** &mdash; A11y enabled state
+    <sub>[#48653](https://github.com/flutter/engine/pull/48653) merged on December 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48653) over 15 hours, 38 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Andrew Wilson](https://github.com/apwilson)</sub>
 
 * **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Update labeler to 5.0.0, fix yaml format for labeler 5.0.0
     <sub>[#48682](https://github.com/flutter/engine/pull/48682) merged on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48682) over 54 minutes, 27 additions and 17 deletions in 2 files</sub>
