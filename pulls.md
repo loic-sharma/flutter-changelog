@@ -119,6 +119,3 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update labeler.yml<br />
     <sub>[#139529](https://github.com/flutter/flutter/pull/139529) opened on on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139529) 3 additions and 92 deletions in 1 file</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Make tests more resilient to Skia gold failures and refactor flutter_goldens for extensive technical debt removal<br />
-    <sub>[#139549](https://github.com/flutter/flutter/pull/139549) opened on on December 5, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/139549) 1603 additions and 1301 deletions in 8 files</sub><br />
-
