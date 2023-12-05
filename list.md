@@ -904,7 +904,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-3 commits.
+4 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update mockito to 5.4.3
     <sub>[#5530](https://github.com/flutter/packages/pull/5530) merged on December 4, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/5530) over 3 days, 1624 additions and 452 deletions in 117 files</sub>
@@ -917,6 +917,10 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add an optional parameter `initialPage` to `serveWebBenchmark`
     <sub>[#5538](https://github.com/flutter/packages/pull/5538) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5538) over 2 days, 94 additions and 33 deletions in 6 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [file_selector] Remove deprecated `primary` and `onPrimary` references from `ElevatedButton.styleFrom`
+    <sub>[#5566](https://github.com/flutter/packages/pull/5566) merged on December 5, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/5566) over 20 hours, 4 additions and 8 deletions in 2 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 ### November 25, 2023 to December 1, 2023
 
