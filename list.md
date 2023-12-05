@@ -422,7 +422,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-13 commits.
+14 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add support for exposing accessibility identifier as resource-id on Android
     <sub>[#47961](https://github.com/flutter/engine/pull/47961) merged on December 4, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/47961) over 3 weeks, 531 additions and 3 deletions in 12 files</sub>
@@ -452,6 +452,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Move BufferView/Texture/Sampler when binding.
     <sub>[#48628](https://github.com/flutter/engine/pull/48628) merged on December 4, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/48628) over 7 hours, 34 additions and 34 deletions in 5 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Delete tessellation control/eval shader support.
+    <sub>[#48649](https://github.com/flutter/engine/pull/48649) merged on December 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48649) over 17 hours, 5 additions and 146 deletions in 21 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Document what some of this shader metadata is.
     <sub>[#48647](https://github.com/flutter/engine/pull/48647) merged on December 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/48647) over 16 hours, 24 additions and 0 deletions in 1 file</sub>
