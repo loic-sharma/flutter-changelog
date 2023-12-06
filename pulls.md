@@ -122,3 +122,6 @@
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [github] Remove commit hash from CP issue template<br />
     <sub>[#139676](https://github.com/flutter/flutter/pull/139676) opened on on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139676) 1 addition and 8 deletions in 1 file</sub><br />
 
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [ci.yaml] Add runif filters and stricter timeout to packaging_test<br />
+    <sub>[#139694](https://github.com/flutter/flutter/pull/139694) opened on on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139694) 12 additions and 12 deletions in 1 file</sub><br />
+
