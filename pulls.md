@@ -122,3 +122,6 @@
 * **[AdamMusa](https://github.com/AdamMusa)** &mdash; Update badge.dart<br />
     <sub>[#139653](https://github.com/flutter/flutter/pull/139653) opened on on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139653) 12 additions and 0 deletions in 1 file</sub><br />
 
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [github] Remove commit hash from CP issue template<br />
+    <sub>[#139676](https://github.com/flutter/flutter/pull/139676) opened on on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139676) 1 addition and 8 deletions in 1 file</sub><br />
+
