@@ -120,5 +120,5 @@
     <sub>[#139676](https://github.com/flutter/flutter/pull/139676) opened on on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139676) 1 addition and 8 deletions in 1 file</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Move package:web dependency to dev dependency<br />
-    <sub>[#139696](https://github.com/flutter/flutter/pull/139696) opened on on December 6, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/139696) 250 additions and 111 deletions in 58 files</sub><br />
+    <sub>[#139696](https://github.com/flutter/flutter/pull/139696) opened on on December 6, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/139696) 252 additions and 111 deletions in 58 files</sub><br />
 
