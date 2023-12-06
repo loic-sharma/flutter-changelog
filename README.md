@@ -454,7 +454,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-23 commits.
+25 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add support for exposing accessibility identifier as resource-id on Android<br />
     <sub>[#47961](https://github.com/flutter/engine/pull/47961) merged on December 4, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/47961) over 3 weeks, 531 additions and 3 deletions in 12 files</sub><br />
@@ -463,6 +463,10 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Multiview ExternalViewEmbedder<br />
     <sub>[#46169](https://github.com/flutter/engine/pull/46169) merged on December 4, 2023 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/46169) over 2 months, 380 additions and 172 deletions in 21 files</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Vulkan framebuffer fetch via VK_ARM_RASTERIZATION_ORDER_ATTACHMENT_ACCESS<br />
+    <sub>[#48458](https://github.com/flutter/engine/pull/48458) merged on December 6, 2023 &mdash; **Medium:** [29 comments](https://github.com/flutter/engine/pull/48458) over 1 week, 343 additions and 79 deletions in 31 files</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Bump actions/labeler from 4.3.0 to 5.0.0"<br />
     <sub>[#48676](https://github.com/flutter/engine/pull/48676) merged on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48676) over 1 minute, 1 addition and 1 deletion in 1 file</sub><br />
@@ -528,6 +532,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Decouple the GL context from the view<br />
     <sub>[#48636](https://github.com/flutter/engine/pull/48636) merged on December 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48636) over 1 hour, 12 additions and 23 deletions in 3 files</sub><br />
     <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Remove fuchsia v1 builder.<br />
+    <sub>[#48703](https://github.com/flutter/engine/pull/48703) merged on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48703) over 1 hour, 0 additions and 19 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Fix labeler not actually doing any labeling<br />
     <sub>[#48701](https://github.com/flutter/engine/pull/48701) merged on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48701) over 43 minutes, 36 additions and 26 deletions in 1 file</sub><br />
