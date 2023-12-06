@@ -4,7 +4,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-28 commits.
+29 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `DatePicker` Dialog content not visible on lower text scale<br />
     <sub>[#139236](https://github.com/flutter/flutter/pull/139236) merged on December 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139236) over 6 days, 54 additions and 13 deletions in 2 files</sub><br />
@@ -81,6 +81,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Add Impeller complex layout impeller benchmarks.<br />
     <sub>[#139490](https://github.com/flutter/flutter/pull/139490) merged on December 4, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139490) over 1 hour, 56 additions and 0 deletions in 5 files</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Roll dependencies<br />
+    <sub>[#139606](https://github.com/flutter/flutter/pull/139606) merged on December 6, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/139606) over 20 hours, 127 additions and 127 deletions in 63 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add linked dart doc for Display on media query.<br />
     <sub>[#139587](https://github.com/flutter/flutter/pull/139587) merged on December 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139587) over 3 hours, 2 additions and 1 deletion in 1 file</sub><br />
@@ -986,7 +990,11 @@
 
 ### December 2, 2023 to December 8, 2023
 
-9 commits.
+10 commits.
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [pointer_interceptor] Add ios implementation and move web implementation to federated structure<br />
+    <sub>[#5500](https://github.com/flutter/packages/pull/5500) merged on December 6, 2023 &mdash; **Extra large:** [41 comments](https://github.com/flutter/packages/pull/5500) over 1 week, 4048 additions and 269 deletions in 130 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Add macOS support<br />
     <sub>[#4962](https://github.com/flutter/packages/pull/4962) merged on December 6, 2023 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/4962) over 2 months, 1931 additions and 273 deletions in 47 files</sub><br />
