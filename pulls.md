@@ -113,3 +113,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Be less verbose in CI for customer_testing, and revert old timeout hack<br />
     <sub>[#139611](https://github.com/flutter/flutter/pull/139611) opened on on December 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139611) 11 additions and 2 deletions in 2 files</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; have Java.version return null if java binary cannot be run<br />
+    <sub>[#139614](https://github.com/flutter/flutter/pull/139614) opened on on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139614) 23 additions and 1 deletion in 2 files</sub><br />
+
