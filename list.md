@@ -994,7 +994,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-11 commits.
+12 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [pointer_interceptor] Add ios implementation and move web implementation to federated structure
     <sub>[#5500](https://github.com/flutter/packages/pull/5500) merged on December 6, 2023 &mdash; **Extra large:** [44 comments](https://github.com/flutter/packages/pull/5500) over 1 week, 4048 additions and 269 deletions in 130 files</sub>
@@ -1016,6 +1016,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update mockito to 5.4.3
     <sub>[#5530](https://github.com/flutter/packages/pull/5530) merged on December 4, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/5530) over 3 days, 1624 additions and 452 deletions in 117 files</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Migrate Material curves to new names
+    <sub>[#4898](https://github.com/flutter/packages/pull/4898) merged on December 6, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4898) over 2 months, 18 additions and 17 deletions in 4 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw,flutter_markdown] Apparently you need a comma to end an //ignore
     <sub>[#5582](https://github.com/flutter/packages/pull/5582) merged on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5582) over 15 hours, 3 additions and 3 deletions in 3 files</sub>
