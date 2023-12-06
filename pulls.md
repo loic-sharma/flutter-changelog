@@ -116,6 +116,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; have Java.version return null if java binary cannot be run<br />
     <sub>[#139614](https://github.com/flutter/flutter/pull/139614) opened on on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139614) 23 additions and 1 deletion in 2 files</sub><br />
 
-* **[Jack Gibbons](https://github.com/Gibbo97)** &mdash; Add key BottomNavigationBarItem<br />
+* **[Jack Gibbons](https://github.com/Gibbo97)** &mdash; Add key to BottomNavigationBarItem<br />
     <sub>[#139617](https://github.com/flutter/flutter/pull/139617) opened on on December 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139617) 36 additions and 0 deletions in 3 files</sub><br />
 
