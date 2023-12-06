@@ -107,9 +107,6 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update labeler.yml<br />
     <sub>[#139529](https://github.com/flutter/flutter/pull/139529) opened on on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139529) 3 additions and 92 deletions in 1 file</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; re-enable windows build_tests<br />
-    <sub>[#139599](https://github.com/flutter/flutter/pull/139599) opened on on December 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139599) 0 additions and 7 deletions in 1 file</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Be less verbose in CI for customer_testing, and revert old timeout hack<br />
     <sub>[#139611](https://github.com/flutter/flutter/pull/139611) opened on on December 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139611) 11 additions and 2 deletions in 2 files</sub><br />
 
