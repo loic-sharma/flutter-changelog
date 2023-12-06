@@ -4,7 +4,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-30 commits.
+31 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `DatePicker` Dialog content not visible on lower text scale
     <sub>[#139236](https://github.com/flutter/flutter/pull/139236) merged on December 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139236) over 6 days, 54 additions and 13 deletions in 2 files</sub>
@@ -86,6 +86,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Add Impeller complex layout impeller benchmarks.
     <sub>[#139490](https://github.com/flutter/flutter/pull/139490) merged on December 4, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139490) over 1 hour, 56 additions and 0 deletions in 5 files</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [ci.yaml] Add runif filters and stricter timeout to packaging_test
+    <sub>[#139694](https://github.com/flutter/flutter/pull/139694) merged on December 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139694) over 47 minutes, 12 additions and 12 deletions in 1 file</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Roll dependencies
     <sub>[#139606](https://github.com/flutter/flutter/pull/139606) merged on December 6, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/139606) over 20 hours, 127 additions and 127 deletions in 63 files</sub>
@@ -480,7 +484,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-31 commits.
+32 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add support for exposing accessibility identifier as resource-id on Android
     <sub>[#47961](https://github.com/flutter/engine/pull/47961) merged on December 4, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/47961) over 3 weeks, 531 additions and 3 deletions in 12 files</sub>
@@ -579,6 +583,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Decouple the GL context from the view
     <sub>[#48636](https://github.com/flutter/engine/pull/48636) merged on December 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48636) over 1 hour, 12 additions and 23 deletions in 3 files</sub>
     <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub>
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Remove obsolete properties.
+    <sub>[#48753](https://github.com/flutter/engine/pull/48753) merged on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48753) over 1 hour, 0 additions and 33 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Replace use of Fontmgr::RefDefault with explicit creation calls
     <sub>[#48571](https://github.com/flutter/engine/pull/48571) merged on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48571) over 5 days, 132 additions and 140 deletions in 17 files</sub>
