@@ -978,7 +978,11 @@
 
 ### December 2, 2023 to December 8, 2023
 
-6 commits.
+7 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Add macOS support
+    <sub>[#4962](https://github.com/flutter/packages/pull/4962) merged on December 6, 2023 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/4962) over 2 months, 1931 additions and 273 deletions in 47 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Bump actions/labeler from 4.3.0 to 5.0.0"
     <sub>[#5579](https://github.com/flutter/packages/pull/5579) merged on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5579) over 50 seconds, 1 addition and 1 deletion in 1 file</sub>
