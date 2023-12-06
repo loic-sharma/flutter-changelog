@@ -4,7 +4,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-26 commits.
+27 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `DatePicker` Dialog content not visible on lower text scale
     <sub>[#139236](https://github.com/flutter/flutter/pull/139236) merged on December 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139236) over 6 days, 54 additions and 13 deletions in 2 files</sub>
@@ -15,6 +15,10 @@
     <sub>[#139021](https://github.com/flutter/flutter/pull/139021) merged on December 4, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/139021) over 1 week, 95 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub>
     <sub><details><summary>2 images...</summary>![slider3](https://github.com/flutter/flutter/assets/38378650/815e12a4-ccaf-4b99-8480-6cbdc97a91bd)![slider4](https://github.com/flutter/flutter/assets/38378650/473eca22-0308-4964-8368-b0c158ae30eb)</details></sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `AnimationStyle` to `ExpansionTile`
+    <sub>[#139664](https://github.com/flutter/flutter/pull/139664) merged on December 6, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/139664) over 43 minutes, 418 additions and 15 deletions in 6 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Bump actions/labeler from 4.3.0 to 5.0.0"
     <sub>[#139534](https://github.com/flutter/flutter/pull/139534) merged on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139534) over 1 minute, 1 addition and 1 deletion in 1 file</sub>
