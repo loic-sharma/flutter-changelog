@@ -475,7 +475,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-30 commits.
+31 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add support for exposing accessibility identifier as resource-id on Android<br />
     <sub>[#47961](https://github.com/flutter/engine/pull/47961) merged on December 4, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/47961) over 3 weeks, 531 additions and 3 deletions in 12 files</sub><br />
@@ -506,6 +506,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Render emoji shadows with correct colors.<br />
     <sub>[#48593](https://github.com/flutter/engine/pull/48593) merged on December 5, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/48593) over 3 days, 83 additions and 45 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Store Buffer/Texture bindings in vector instead of map.<br />
+    <sub>[#48719](https://github.com/flutter/engine/pull/48719) merged on December 6, 2023 &mdash; **Small:** [26 comments](https://github.com/flutter/engine/pull/48719) over 12 hours, 88 additions and 99 deletions in 27 files</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Set swap interval on raster thread after startup<br />
     <sub>[#47787](https://github.com/flutter/engine/pull/47787) merged on December 6, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/47787) over 4 weeks, 162 additions and 59 deletions in 10 files</sub><br />
