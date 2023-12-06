@@ -986,7 +986,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-8 commits.
+9 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Add macOS support<br />
     <sub>[#4962](https://github.com/flutter/packages/pull/4962) merged on December 6, 2023 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/4962) over 2 months, 1931 additions and 273 deletions in 47 files</sub><br />
@@ -1016,6 +1016,10 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add an optional parameter `initialPage` to `serveWebBenchmark`<br />
     <sub>[#5538](https://github.com/flutter/packages/pull/5538) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5538) over 2 days, 94 additions and 33 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Use dart:io output inheritance for tooling<br />
+    <sub>[#5536](https://github.com/flutter/packages/pull/5536) merged on December 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5536) over 5 days, 5 additions and 12 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [file_selector] Remove deprecated `primary` and `onPrimary` references from `ElevatedButton.styleFrom`<br />
     <sub>[#5566](https://github.com/flutter/packages/pull/5566) merged on December 5, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/5566) over 20 hours, 4 additions and 8 deletions in 2 files</sub><br />
