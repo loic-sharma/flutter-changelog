@@ -119,3 +119,6 @@
 * **[Jack Gibbons](https://github.com/Gibbo97)** &mdash; Add key to BottomNavigationBarItem<br />
     <sub>[#139617](https://github.com/flutter/flutter/pull/139617) opened on on December 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139617) 36 additions and 0 deletions in 3 files</sub><br />
 
+* **[AdamMusa](https://github.com/AdamMusa)** &mdash; Update badge.dart<br />
+    <sub>[#139653](https://github.com/flutter/flutter/pull/139653) opened on on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139653) 12 additions and 0 deletions in 1 file</sub><br />
+
