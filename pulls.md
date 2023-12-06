@@ -84,7 +84,7 @@
     <sub>[#139332](https://github.com/flutter/flutter/pull/139332) opened on on November 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139332) 1 addition and 8 deletions in 1 file</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [WIP] Opt-in for smooth pointer scrolling<br />
-    <sub>[#139392](https://github.com/flutter/flutter/pull/139392) opened on on December 1, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139392) 186 additions and 20 deletions in 6 files</sub><br />
+    <sub>[#139392](https://github.com/flutter/flutter/pull/139392) opened on on December 1, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139392) 186 additions and 20 deletions in 6 files</sub><br />
 
 * **[FernTheDev](https://github.com/Fernthedev)** &mdash;  feat: Add autofocus for `MenuItemButton`<br />
     <sub>[#139396](https://github.com/flutter/flutter/pull/139396) opened on on December 1, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139396) 5 additions and 0 deletions in 1 file</sub><br />
