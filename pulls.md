@@ -77,6 +77,9 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Remove deprecated `TextTheme` members<br />
     <sub>[#139255](https://github.com/flutter/flutter/pull/139255) opened on on November 29, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/139255) 76 additions and 332 deletions in 9 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Bump template & integration test Gradle version to 7.6.4<br />
+    <sub>[#139276](https://github.com/flutter/flutter/pull/139276) opened on on November 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139276) 37 additions and 37 deletions in 35 files</sub><br />
+
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate verify_codesigned.<br />
     <sub>[#139328](https://github.com/flutter/flutter/pull/139328) opened on on November 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139328) 27 additions and 6 deletions in 2 files</sub><br />
 
