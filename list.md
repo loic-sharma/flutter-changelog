@@ -467,7 +467,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-25 commits.
+27 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add support for exposing accessibility identifier as resource-id on Android
     <sub>[#47961](https://github.com/flutter/engine/pull/47961) merged on December 4, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/47961) over 3 weeks, 531 additions and 3 deletions in 12 files</sub>
@@ -476,6 +476,11 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Multiview ExternalViewEmbedder
     <sub>[#46169](https://github.com/flutter/engine/pull/46169) merged on December 4, 2023 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/46169) over 2 months, 380 additions and 172 deletions in 21 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable entity culling by default.
+    <sub>[#48717](https://github.com/flutter/engine/pull/48717) merged on December 6, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/48717) over 12 hours, 25 additions and 9 deletions in 6 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [gaaclarke](https://github.com/gaaclarke)</sub>
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/engine/assets/8975114/ef85629c-48a8-457f-8385-0c8136404571)</details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Vulkan framebuffer fetch via VK_ARM_RASTERIZATION_ORDER_ATTACHMENT_ACCESS
     <sub>[#48458](https://github.com/flutter/engine/pull/48458) merged on December 6, 2023 &mdash; **Medium:** [29 comments](https://github.com/flutter/engine/pull/48458) over 1 week, 343 additions and 79 deletions in 31 files</sub>
@@ -545,6 +550,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Decouple the GL context from the view
     <sub>[#48636](https://github.com/flutter/engine/pull/48636) merged on December 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48636) over 1 hour, 12 additions and 23 deletions in 3 files</sub>
     <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub>
+
+* **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Replace use of Fontmgr::RefDefault with explicit creation calls
+    <sub>[#48571](https://github.com/flutter/engine/pull/48571) merged on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48571) over 5 days, 132 additions and 140 deletions in 17 files</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Remove fuchsia v1 builder.
     <sub>[#48703](https://github.com/flutter/engine/pull/48703) merged on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48703) over 1 hour, 0 additions and 19 deletions in 1 file</sub>
