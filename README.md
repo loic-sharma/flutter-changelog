@@ -471,7 +471,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-28 commits.
+30 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add support for exposing accessibility identifier as resource-id on Android<br />
     <sub>[#47961](https://github.com/flutter/engine/pull/47961) merged on December 4, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/47961) over 3 weeks, 531 additions and 3 deletions in 12 files</sub><br />
@@ -503,6 +503,10 @@
     <sub>[#48593](https://github.com/flutter/engine/pull/48593) merged on December 5, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/48593) over 3 days, 83 additions and 45 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Set swap interval on raster thread after startup<br />
+    <sub>[#47787](https://github.com/flutter/engine/pull/47787) merged on December 6, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/47787) over 4 weeks, 162 additions and 59 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Chris Bracken](https://github.com/cbracken)</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Declare specialization constants as floats.<br />
     <sub>[#48644](https://github.com/flutter/engine/pull/48644) merged on December 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48644) over 1 day, 72 additions and 71 deletions in 17 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -518,6 +522,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Move BufferView/Texture/Sampler when binding.<br />
     <sub>[#48628](https://github.com/flutter/engine/pull/48628) merged on December 4, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/48628) over 7 hours, 34 additions and 34 deletions in 5 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Provide the clear color to an advanced blend if it was optimized out<br />
+    <sub>[#48646](https://github.com/flutter/engine/pull/48646) merged on December 6, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/48646) over 1 day, 36 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Refactor the GLES proc table<br />
     <sub>[#48688](https://github.com/flutter/engine/pull/48688) merged on December 6, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/48688) over 23 hours, 289 additions and 159 deletions in 16 files</sub><br />
@@ -978,7 +986,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-7 commits.
+8 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Add macOS support<br />
     <sub>[#4962](https://github.com/flutter/packages/pull/4962) merged on December 6, 2023 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/4962) over 2 months, 1931 additions and 273 deletions in 47 files</sub><br />
@@ -996,6 +1004,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw,flutter_markdown] Apparently you need a comma to end an //ignore<br />
     <sub>[#5582](https://github.com/flutter/packages/pull/5582) merged on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5582) over 15 hours, 3 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub><br />
+
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Fix benchmark reload bug and migrate away from deprecated `js_util` APIs<br />
+    <sub>[#5577](https://github.com/flutter/packages/pull/5577) merged on December 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5577) over 1 day, 44 additions and 23 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [ci] Add Windows Arm64 stable build-only test<br />
     <sub>[#5533](https://github.com/flutter/packages/pull/5533) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5533) over 3 days, 13 additions and 0 deletions in 1 file</sub><br />
