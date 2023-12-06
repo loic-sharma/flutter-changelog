@@ -4,7 +4,12 @@
 
 ### December 2, 2023 to December 8, 2023
 
-24 commits.
+25 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `DatePicker` Dialog content not visible on lower text scale
+    <sub>[#139236](https://github.com/flutter/flutter/pull/139236) merged on December 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139236) over 6 days, 54 additions and 13 deletions in 2 files</sub>
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+    <sub><details><summary>6 images...</summary><img src="https://github.com/flutter/flutter/assets/48603081/9f301c5d-3acd-4a9f-8fb7-aa7b2e9553a2"><img src="https://github.com/flutter/flutter/assets/48603081/0496cf1a-5086-4cb1-ad3f-256f34346920"><img src="https://github.com/flutter/flutter/assets/48603081/2d1e1892-435a-4938-a7fc-2ffa4684828b"><img src="https://github.com/flutter/flutter/assets/48603081/8fb922b7-0f2c-4f08-a091-b359a01e3600"><img src="https://github.com/flutter/flutter/assets/48603081/59933cbf-49ef-46fb-98b5-217db2cc0ee7"><img src="https://github.com/flutter/flutter/assets/48603081/fd2501cb-511c-4b57-a4eb-f583af60aed7"></details></sub>
 
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Optimize the display of the Overlay on the Slider
     <sub>[#139021](https://github.com/flutter/flutter/pull/139021) merged on December 4, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/139021) over 1 week, 95 additions and 3 deletions in 2 files</sub>
