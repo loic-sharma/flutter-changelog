@@ -1100,7 +1100,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-22 commits.
+23 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [gis_web] Migrate to package:web.<br />
     <sub>[#5581](https://github.com/flutter/packages/pull/5581) merged on December 7, 2023 &mdash; **Large:** [23 comments](https://github.com/flutter/packages/pull/5581) over 1 day, 784 additions and 518 deletions in 21 files</sub><br />
@@ -1142,6 +1142,10 @@
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Migrate Material curves to new names<br />
     <sub>[#4898](https://github.com/flutter/packages/pull/4898) merged on December 6, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/4898) over 2 months, 18 additions and 17 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Claire Davis](https://github.com/ClaireDavis)** &mdash; [go_router_builder] add support to `go_router_builder` for initializing a `ShellRoute` with `observers`<br />
+    <sub>[#5563](https://github.com/flutter/packages/pull/5563) merged on December 7, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/5563) over 3 days, 279 additions and 5 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web_benchmarks] migrate to pkg:web<br />
     <sub>[#5592](https://github.com/flutter/packages/pull/5592) merged on December 7, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/5592) over 5 hours, 64 additions and 54 deletions in 6 files</sub><br />
