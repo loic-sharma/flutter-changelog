@@ -1051,7 +1051,7 @@
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Migrate Material curves to new names
-    <sub>[#4898](https://github.com/flutter/packages/pull/4898) merged on December 6, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/4898) over 2 months, 18 additions and 17 deletions in 4 files</sub>
+    <sub>[#4898](https://github.com/flutter/packages/pull/4898) merged on December 6, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/4898) over 2 months, 18 additions and 17 deletions in 4 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web_benchmarks] migrate to pkg:web
