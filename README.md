@@ -492,7 +492,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-32 commits.
+33 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add support for exposing accessibility identifier as resource-id on Android<br />
     <sub>[#47961](https://github.com/flutter/engine/pull/47961) merged on December 4, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/47961) over 3 weeks, 531 additions and 3 deletions in 12 files</sub><br />
@@ -623,6 +623,10 @@
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Only run firebase tests on HEAD<br />
     <sub>[#48548](https://github.com/flutter/engine/pull/48548) merged on December 4, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48548) over 3 days, 4 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Replace use of Fontmgr::RefDefault with explicit creation calls"<br />
+    <sub>[#48755](https://github.com/flutter/engine/pull/48755) merged on December 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48755) over 2 hours, 140 additions and 132 deletions in 17 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 ### November 25, 2023 to December 1, 2023
 
@@ -1015,7 +1019,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-14 commits.
+15 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [pointer_interceptor] Add ios implementation and move web implementation to federated structure<br />
     <sub>[#5500](https://github.com/flutter/packages/pull/5500) merged on December 6, 2023 &mdash; **Extra large:** [44 comments](https://github.com/flutter/packages/pull/5500) over 1 week, 4048 additions and 269 deletions in 130 files</sub><br />
@@ -1041,6 +1045,10 @@
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Migrate Material curves to new names<br />
     <sub>[#4898](https://github.com/flutter/packages/pull/4898) merged on December 6, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/4898) over 2 months, 18 additions and 17 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web_benchmarks] migrate to pkg:web<br />
+    <sub>[#5592](https://github.com/flutter/packages/pull/5592) merged on December 7, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/5592) over 5 hours, 64 additions and 54 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw,flutter_markdown] Apparently you need a comma to end an //ignore<br />
     <sub>[#5582](https://github.com/flutter/packages/pull/5582) merged on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5582) over 15 hours, 3 additions and 3 deletions in 3 files</sub><br />
