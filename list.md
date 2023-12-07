@@ -4,7 +4,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-37 commits.
+38 commits.
 
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Migrate command usage values
     <sub>[#139383](https://github.com/flutter/flutter/pull/139383) merged on December 7, 2023 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/139383) over 5 days, 478 additions and 45 deletions in 19 files</sub>
@@ -51,26 +51,26 @@
     <sub>[#129739](https://github.com/flutter/flutter/pull/129739) merged on December 4, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/129739) over 5 months, 94 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub>
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `Tooltip` tests for Material 3
+    <sub>[#139145](https://github.com/flutter/flutter/pull/139145) merged on December 6, 2023 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/139145) over 1 week, 711 additions and 307 deletions in 2 files</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[Elias Yishak](https://github.com/eliasyishak)** &mdash; [Reland] Migration for the `sendTiming` events for `package:unified_analytics`
     <sub>[#139299](https://github.com/flutter/flutter/pull/139299) merged on December 4, 2023 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/139299) over 4 days, 806 additions and 274 deletions in 27 files</sub>
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
     <sub><details><summary>1 image...</summary><img width="278" alt="image" src="https://github.com/flutter/flutter/assets/42216813/cee7b9be-48d6-48e5-8c39-de28d0a1f0de"></details></sub>
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `Tooltip` tests for Material 3
-    <sub>[#139145](https://github.com/flutter/flutter/pull/139145) merged on December 6, 2023 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/139145) over 1 week, 711 additions and 307 deletions in 2 files</sub>
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
-
-* **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Update sync-labels to use boolean
-    <sub>[#139516](https://github.com/flutter/flutter/pull/139516) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139516) over 34 minutes, 0 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Update sync-labels to use boolean"
+    <sub>[#139533](https://github.com/flutter/flutter/pull/139533) merged on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139533) over 58 seconds, 2 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Update labeler version, fix yaml to work with v5
     <sub>[#139564](https://github.com/flutter/flutter/pull/139564) merged on December 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139564) over 1 hour, 75 additions and 54 deletions in 2 files</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Update sync-labels to use boolean"
-    <sub>[#139533](https://github.com/flutter/flutter/pull/139533) merged on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139533) over 58 seconds, 2 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+* **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Update sync-labels to use boolean
+    <sub>[#139516](https://github.com/flutter/flutter/pull/139516) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139516) over 34 minutes, 0 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Implement `SubmenuButton.onFocusChange`
     <sub>[#139678](https://github.com/flutter/flutter/pull/139678) merged on December 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139678) over 21 hours, 38 additions and 0 deletions in 2 files</sub>
@@ -104,13 +104,13 @@
     <sub>[#139260](https://github.com/flutter/flutter/pull/139260) merged on December 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139260) over 5 days, 19 additions and 7 deletions in 4 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Add Impeller complex layout impeller benchmarks.
-    <sub>[#139490](https://github.com/flutter/flutter/pull/139490) merged on December 4, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139490) over 1 hour, 56 additions and 0 deletions in 5 files</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Zachary Anderson](https://github.com/zanderso)</sub>
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; increase sharding of windows build tests
     <sub>[#139503](https://github.com/flutter/flutter/pull/139503) merged on December 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139503) over 2 hours, 37 additions and 12 deletions in 1 file</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Add Impeller complex layout impeller benchmarks.
+    <sub>[#139490](https://github.com/flutter/flutter/pull/139490) merged on December 4, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139490) over 1 hour, 56 additions and 0 deletions in 5 files</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Fix labeler not actually doing any labeling
     <sub>[#139596](https://github.com/flutter/flutter/pull/139596) merged on December 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139596) over 28 minutes, 94 additions and 73 deletions in 1 file</sub>
@@ -139,6 +139,10 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Convert some usage of `RawKeyEvent`, et al to `KeyEvent`
     <sub>[#139329](https://github.com/flutter/flutter/pull/139329) merged on December 4, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/139329) over 3 days, 173 additions and 169 deletions in 5 files</sub>
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
+    <sub>[#139739](https://github.com/flutter/flutter/pull/139739) merged on December 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139739) over 37 minutes, 4 additions and 15 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [ci.yaml] Add runif filters and stricter timeout to packaging_test
     <sub>[#139694](https://github.com/flutter/flutter/pull/139694) merged on December 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139694) over 47 minutes, 12 additions and 12 deletions in 1 file</sub>

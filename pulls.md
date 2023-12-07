@@ -125,3 +125,6 @@
 * **[Suman Ghimire](https://github.com/sumanghimire00)** &mdash; To do app<br />
     <sub>[#139715](https://github.com/flutter/flutter/pull/139715) opened on on December 7, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/139715) 2100 additions and 169 deletions in 76 files</sub><br />
 
+* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; [CP] Catch error for missing directory in `FontConfigManager` (#138496)<br />
+    <sub>[#139743](https://github.com/flutter/flutter/pull/139743) opened on on December 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139743) 17 additions and 1 deletion in 2 files</sub><br />
+
