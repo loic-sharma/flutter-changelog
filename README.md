@@ -406,7 +406,7 @@
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Jim Kalafut](https://github.com/kalafut)** &mdash; Fix header formatting typo in PopupMenuButton docs<br />
-    <sub>[#139084](https://github.com/flutter/flutter/pull/139084) merged on November 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139084) over 22 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#139084](https://github.com/flutter/flutter/pull/139084) merged on November 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139084) over 22 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Reland Add platform view wide gamut test<br />
