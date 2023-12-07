@@ -625,7 +625,7 @@
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Replace use of Fontmgr::RefDefault with explicit creation calls"
-    <sub>[#48755](https://github.com/flutter/engine/pull/48755) merged on December 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48755) over 2 hours, 140 additions and 132 deletions in 17 files</sub>
+    <sub>[#48755](https://github.com/flutter/engine/pull/48755) merged on December 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48755) over 2 hours, 140 additions and 132 deletions in 17 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 ### November 25, 2023 to December 1, 2023
