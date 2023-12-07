@@ -1022,8 +1022,8 @@
 18 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [gis_web] Migrate to package:web.
-    <sub>[#5581](https://github.com/flutter/packages/pull/5581) merged on December 7, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/5581) over 1 day, 784 additions and 518 deletions in 21 files</sub>
-    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Srujan Gaddam](https://github.com/srujzs)</sub>
+    <sub>[#5581](https://github.com/flutter/packages/pull/5581) merged on December 7, 2023 &mdash; **Large:** [21 comments](https://github.com/flutter/packages/pull/5581) over 1 day, 784 additions and 518 deletions in 21 files</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Sigurd Meldgaard](https://github.com/sigurdm), [Srujan Gaddam](https://github.com/srujzs)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [pointer_interceptor] Add ios implementation and move web implementation to federated structure
     <sub>[#5500](https://github.com/flutter/packages/pull/5500) merged on December 6, 2023 &mdash; **Extra large:** [44 comments](https://github.com/flutter/packages/pull/5500) over 1 week, 4048 additions and 269 deletions in 130 files</sub>
@@ -1083,7 +1083,7 @@
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [animations] Bump minimum Flutter version
-    <sub>[#5596](https://github.com/flutter/packages/pull/5596) merged on December 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5596) over 15 minutes, 1 addition and 1 deletion in 1 file</sub>
+    <sub>[#5596](https://github.com/flutter/packages/pull/5596) merged on December 6, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/5596) over 15 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Use dart:io output inheritance for tooling
