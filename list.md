@@ -1019,7 +1019,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-15 commits.
+16 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [pointer_interceptor] Add ios implementation and move web implementation to federated structure
     <sub>[#5500](https://github.com/flutter/packages/pull/5500) merged on December 6, 2023 &mdash; **Extra large:** [44 comments](https://github.com/flutter/packages/pull/5500) over 1 week, 4048 additions and 269 deletions in 130 files</sub>
@@ -1033,6 +1033,10 @@
     <sub>[#5579](https://github.com/flutter/packages/pull/5579) merged on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5579) over 50 seconds, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=actions/labeler&package-manager=github_actions&previous-version=4.3.0&new-version=5.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Unfork publish: for macOS
+    <sub>[#5578](https://github.com/flutter/packages/pull/5578) merged on December 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5578) over 1 day, 23 additions and 10 deletions in 5 files</sub>
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[pointer_interceptor] Add ios implementation and move web implementation to federated structure"
     <sub>[#5591](https://github.com/flutter/packages/pull/5591) merged on December 6, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/packages/pull/5591) over 56 seconds, 269 additions and 4048 deletions in 130 files</sub>
