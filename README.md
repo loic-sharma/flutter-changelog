@@ -1052,7 +1052,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-20 commits.
+21 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [gis_web] Migrate to package:web.<br />
     <sub>[#5581](https://github.com/flutter/packages/pull/5581) merged on December 7, 2023 &mdash; **Large:** [23 comments](https://github.com/flutter/packages/pull/5581) over 1 day, 784 additions and 518 deletions in 21 files</sub><br />
@@ -1070,6 +1070,10 @@
     <sub>[#5579](https://github.com/flutter/packages/pull/5579) merged on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5579) over 50 seconds, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=actions/labeler&package-manager=github_actions&previous-version=4.3.0&new-version=5.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Expose addAutomaticKeepAlives in Table delegates<br />
+    <sub>[#5597](https://github.com/flutter/packages/pull/5597) merged on December 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5597) over 18 hours, 31 additions and 6 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Pointer interceptor implementations<br />
     <sub>[#5594](https://github.com/flutter/packages/pull/5594) merged on December 7, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/5594) over 21 hours, 4048 additions and 269 deletions in 130 files</sub><br />
