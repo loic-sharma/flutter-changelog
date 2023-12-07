@@ -1015,7 +1015,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-12 commits.
+13 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [pointer_interceptor] Add ios implementation and move web implementation to federated structure<br />
     <sub>[#5500](https://github.com/flutter/packages/pull/5500) merged on December 6, 2023 &mdash; **Extra large:** [44 comments](https://github.com/flutter/packages/pull/5500) over 1 week, 4048 additions and 269 deletions in 130 files</sub><br />
@@ -1057,6 +1057,10 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add an optional parameter `initialPage` to `serveWebBenchmark`<br />
     <sub>[#5538](https://github.com/flutter/packages/pull/5538) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5538) over 2 days, 94 additions and 33 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [animations] Bump minimum Flutter version<br />
+    <sub>[#5596](https://github.com/flutter/packages/pull/5596) merged on December 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5596) over 15 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Use dart:io output inheritance for tooling<br />
     <sub>[#5536](https://github.com/flutter/packages/pull/5536) merged on December 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5536) over 5 days, 5 additions and 12 deletions in 2 files</sub><br />
