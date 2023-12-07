@@ -1100,7 +1100,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-21 commits.
+22 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [gis_web] Migrate to package:web.
     <sub>[#5581](https://github.com/flutter/packages/pull/5581) merged on December 7, 2023 &mdash; **Large:** [23 comments](https://github.com/flutter/packages/pull/5581) over 1 day, 784 additions and 518 deletions in 21 files</sub>
@@ -1166,6 +1166,10 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add an optional parameter `initialPage` to `serveWebBenchmark`
     <sub>[#5538](https://github.com/flutter/packages/pull/5538) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5538) over 2 days, 94 additions and 33 deletions in 6 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Marin Mikaël](https://github.com/MarinMikael)** &mdash; [go_router] Fix(docs): Typo in Update navigation.md
+    <sub>[#5545](https://github.com/flutter/packages/pull/5545) merged on December 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5545) over 4 days, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Drop quiver usage in several packages
     <sub>[#5595](https://github.com/flutter/packages/pull/5595) merged on December 7, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/5595) over 7 hours, 9 additions and 12 deletions in 7 files</sub>
