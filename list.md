@@ -1051,8 +1051,8 @@
 18 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [gis_web] Migrate to package:web.
-    <sub>[#5581](https://github.com/flutter/packages/pull/5581) merged on December 7, 2023 &mdash; **Large:** [21 comments](https://github.com/flutter/packages/pull/5581) over 1 day, 784 additions and 518 deletions in 21 files</sub>
-    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Sigurd Meldgaard](https://github.com/sigurdm), [Srujan Gaddam](https://github.com/srujzs)</sub>
+    <sub>[#5581](https://github.com/flutter/packages/pull/5581) merged on December 7, 2023 &mdash; **Large:** [22 comments](https://github.com/flutter/packages/pull/5581) over 1 day, 784 additions and 518 deletions in 21 files</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [sigmundch](https://github.com/sigmundch), [Sigurd Meldgaard](https://github.com/sigurdm), [Srujan Gaddam](https://github.com/srujzs)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [pointer_interceptor] Add ios implementation and move web implementation to federated structure
     <sub>[#5500](https://github.com/flutter/packages/pull/5500) merged on December 6, 2023 &mdash; **Extra large:** [44 comments](https://github.com/flutter/packages/pull/5500) over 1 week, 4048 additions and 269 deletions in 130 files</sub>
