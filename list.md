@@ -1052,7 +1052,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-18 commits.
+20 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [gis_web] Migrate to package:web.
     <sub>[#5581](https://github.com/flutter/packages/pull/5581) merged on December 7, 2023 &mdash; **Large:** [22 comments](https://github.com/flutter/packages/pull/5581) over 1 day, 784 additions and 518 deletions in 21 files</sub>
@@ -1070,6 +1070,10 @@
     <sub>[#5579](https://github.com/flutter/packages/pull/5579) merged on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5579) over 50 seconds, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=actions/labeler&package-manager=github_actions&previous-version=4.3.0&new-version=5.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Pointer interceptor implementations
+    <sub>[#5594](https://github.com/flutter/packages/pull/5594) merged on December 7, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/5594) over 21 hours, 4048 additions and 269 deletions in 130 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Unfork publish: for macOS
     <sub>[#5578](https://github.com/flutter/packages/pull/5578) merged on December 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5578) over 1 day, 23 additions and 10 deletions in 5 files</sub>
@@ -1094,6 +1098,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw,flutter_markdown] Apparently you need a comma to end an //ignore
     <sub>[#5582](https://github.com/flutter/packages/pull/5582) merged on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5582) over 15 hours, 3 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
+
+* **[Christian Padilla](https://github.com/ChristianEdwardPadilla)** &mdash; [pigeon] Fix pigeon issue_tracker link
+    <sub>[#5505](https://github.com/flutter/packages/pull/5505) merged on December 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5505) over 1 week, 5 additions and 4 deletions in 3 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Fix benchmark reload bug and migrate away from deprecated `js_util` APIs
     <sub>[#5577](https://github.com/flutter/packages/pull/5577) merged on December 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5577) over 1 day, 44 additions and 23 deletions in 8 files</sub>
