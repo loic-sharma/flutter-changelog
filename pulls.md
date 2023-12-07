@@ -62,6 +62,9 @@
 * **[TabooSun](https://github.com/TabooSun)** &mdash; Gen l10n add named argument option<br />
     <sub>[#138663](https://github.com/flutter/flutter/pull/138663) opened on on November 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138663) 94 additions and 9 deletions in 6 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; ScrollDragController should dispatch creation and disposal events.<br />
+    <sub>[#138800](https://github.com/flutter/flutter/pull/138800) opened on on November 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138800) 29 additions and 1 deletion in 2 files</sub><br />
+
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Add feature guard to native assets build system target<br />
     <sub>[#138854](https://github.com/flutter/flutter/pull/138854) opened on on November 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138854) 86 additions and 26 deletions in 4 files</sub><br />
 
