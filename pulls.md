@@ -111,5 +111,5 @@
     <sub>[#139715](https://github.com/flutter/flutter/pull/139715) opened on on December 7, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/139715) 2100 additions and 169 deletions in 76 files</sub><br />
 
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; fix-selection-area-throw-on-scroll<br />
-    <sub>[#139812](https://github.com/flutter/flutter/pull/139812) opened on on December 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139812) 15 additions and 12 deletions in 1 file</sub><br />
+    <sub>[#139812](https://github.com/flutter/flutter/pull/139812) opened on on December 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139812) 15 additions and 12 deletions in 1 file</sub><br />
 
