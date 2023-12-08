@@ -72,7 +72,7 @@
     <sub>[#139255](https://github.com/flutter/flutter/pull/139255) opened on on November 29, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/139255) 76 additions and 332 deletions in 9 files</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate verify_codesigned.<br />
-    <sub>[#139328](https://github.com/flutter/flutter/pull/139328) opened on on November 30, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139328) 27 additions and 6 deletions in 2 files</sub><br />
+    <sub>[#139328](https://github.com/flutter/flutter/pull/139328) opened on on November 30, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/139328) 314 additions and 6 deletions in 2 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Use ImageFilter.compose on all platforms now that it is supported<br />
     <sub>[#139332](https://github.com/flutter/flutter/pull/139332) opened on on November 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139332) 1 addition and 8 deletions in 1 file</sub><br />
