@@ -4,7 +4,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-48 commits.
+49 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Support conditional bundling of assets based on `--flavor`
     <sub>[#132985](https://github.com/flutter/flutter/pull/132985) merged on December 7, 2023 &mdash; **Large:** [69 comments](https://github.com/flutter/flutter/pull/132985) over 3 months, 874 additions and 215 deletions in 30 files</sub>
@@ -76,21 +76,21 @@
     <sub>[#139516](https://github.com/flutter/flutter/pull/139516) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139516) over 34 minutes, 0 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix `DropdownMenu` throwing `TextEditingController` disposed error on select
-    <sub>[#139385](https://github.com/flutter/flutter/pull/139385) merged on December 5, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/139385) over 3 days, 175 additions and 53 deletions in 2 files</sub>
-    <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Qun Cheng](https://github.com/QuncCccccc)</sub>
-
 * **[Shanmugam](https://github.com/shanmugam28)** &mdash; Support for dismissDirection property in SnackBarTheme
     <sub>[#139068](https://github.com/flutter/flutter/pull/139068) merged on December 5, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/139068) over 1 week, 123 additions and 9 deletions in 4 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Implement `SubmenuButton.onFocusChange`
+    <sub>[#139678](https://github.com/flutter/flutter/pull/139678) merged on December 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139678) over 21 hours, 38 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Jasper van Riet](https://github.com/JaspervanRiet)** &mdash; Introduce `exitDuration` to Tooltip for mouse pointer devices
     <sub>[#138321](https://github.com/flutter/flutter/pull/138321) merged on December 7, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/138321) over 3 weeks, 225 additions and 18 deletions in 5 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Implement `SubmenuButton.onFocusChange`
-    <sub>[#139678](https://github.com/flutter/flutter/pull/139678) merged on December 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139678) over 21 hours, 38 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix `DropdownMenu` throwing `TextEditingController` disposed error on select
+    <sub>[#139385](https://github.com/flutter/flutter/pull/139385) merged on December 5, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/139385) over 3 days, 175 additions and 53 deletions in 2 files</sub>
+    <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; have Java.version return null if `java --version` fails or cannot be run
     <sub>[#139614](https://github.com/flutter/flutter/pull/139614) merged on December 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139614) over 21 hours, 23 additions and 1 deletion in 2 files</sub>
@@ -120,6 +120,10 @@
     <sub>[#139267](https://github.com/flutter/flutter/pull/139267) merged on December 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139267) over 1 week, 10 additions and 45 deletions in 4 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
+* **[Kallen Tu](https://github.com/kallentu)** &mdash; Bump Dartdoc to 8.0.2
+    <sub>[#139780](https://github.com/flutter/flutter/pull/139780) merged on December 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139780) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Don't send images to Gold on release branches
     <sub>[#139706](https://github.com/flutter/flutter/pull/139706) merged on December 7, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/139706) over 19 hours, 147 additions and 7 deletions in 2 files</sub>
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
@@ -139,10 +143,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; increase sharding of windows build tests
     <sub>[#139503](https://github.com/flutter/flutter/pull/139503) merged on December 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139503) over 2 hours, 37 additions and 12 deletions in 1 file</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
-
-* **[hangyu](https://github.com/hangyujin)** &mdash; Add background color to NavigationDrawerDestination
-    <sub>[#139154](https://github.com/flutter/flutter/pull/139154) merged on December 7, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/139154) over 1 week, 53 additions and 9 deletions in 2 files</sub>
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Bump template & integration test Gradle version to 7.6.4
     <sub>[#139276](https://github.com/flutter/flutter/pull/139276) merged on December 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139276) over 1 week, 37 additions and 37 deletions in 35 files</sub>
@@ -195,6 +195,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove stray print
     <sub>[#139550](https://github.com/flutter/flutter/pull/139550) merged on December 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139550) over 8 hours, 0 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[hangyu](https://github.com/hangyujin)** &mdash; Add background color to NavigationDrawerDestination
+    <sub>[#139154](https://github.com/flutter/flutter/pull/139154) merged on December 7, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/139154) over 1 week, 53 additions and 9 deletions in 2 files</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Remove InkSparkle.constantTurbulenceSeedSplashFactory usage
     <sub>[#139481](https://github.com/flutter/flutter/pull/139481) merged on December 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139481) over 2 hours, 1 addition and 4 deletions in 1 file</sub>
@@ -1109,7 +1113,11 @@
 
 ### December 2, 2023 to December 8, 2023
 
-23 commits.
+25 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Endorse macOS implementation
+    <sub>[#5600](https://github.com/flutter/packages/pull/5600) merged on December 8, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/5600) over 12 hours, 1356 additions and 10 deletions in 30 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [gis_web] Migrate to package:web.
     <sub>[#5581](https://github.com/flutter/packages/pull/5581) merged on December 7, 2023 &mdash; **Large:** [23 comments](https://github.com/flutter/packages/pull/5581) over 1 day, 784 additions and 518 deletions in 21 files</sub>
@@ -1163,6 +1171,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw,flutter_markdown] Apparently you need a comma to end an //ignore
     <sub>[#5582](https://github.com/flutter/packages/pull/5582) merged on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5582) over 15 hours, 3 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
+
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add the ability to run web_benchmarks with Wasm
+    <sub>[#5611](https://github.com/flutter/packages/pull/5611) merged on December 8, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5611) over 5 hours, 86 additions and 11 deletions in 7 files</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Christian Padilla](https://github.com/ChristianEdwardPadilla)** &mdash; [pigeon] Fix pigeon issue_tracker link
     <sub>[#5505](https://github.com/flutter/packages/pull/5505) merged on December 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5505) over 1 week, 5 additions and 4 deletions in 3 files</sub>
