@@ -1129,7 +1129,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-26 commits.
+27 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Endorse macOS implementation<br />
     <sub>[#5600](https://github.com/flutter/packages/pull/5600) merged on December 8, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/5600) over 12 hours, 1356 additions and 10 deletions in 30 files</sub><br />
@@ -1151,6 +1151,10 @@
     <sub>[#5579](https://github.com/flutter/packages/pull/5579) merged on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5579) over 50 seconds, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=actions/labeler&package-manager=github_actions&previous-version=4.3.0&new-version=5.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; [url_launcher] Adds documentation that a launch needs to be triggered  by a user action<br />
+    <sub>[#5143](https://github.com/flutter/packages/pull/5143) merged on December 8, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/5143) over 1 month, 42 additions and 2 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Expose addAutomaticKeepAlives in Table delegates<br />
     <sub>[#5597](https://github.com/flutter/packages/pull/5597) merged on December 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5597) over 18 hours, 31 additions and 6 deletions in 5 files</sub><br />
