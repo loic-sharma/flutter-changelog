@@ -110,6 +110,3 @@
 * **[Suman Ghimire](https://github.com/sumanghimire00)** &mdash; To do app<br />
     <sub>[#139715](https://github.com/flutter/flutter/pull/139715) opened on on December 7, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/139715) 2100 additions and 169 deletions in 76 files</sub><br />
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#139811](https://github.com/flutter/flutter/pull/139811) opened on on December 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139811) 3 additions and 3 deletions in 1 file</sub><br />
-

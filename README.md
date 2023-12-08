@@ -4,7 +4,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-53 commits.
+54 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Support conditional bundling of assets based on `--flavor`<br />
     <sub>[#132985](https://github.com/flutter/flutter/pull/132985) merged on December 7, 2023 &mdash; **Large:** [71 comments](https://github.com/flutter/flutter/pull/132985) over 3 months, 874 additions and 215 deletions in 30 files</sub><br />
@@ -88,10 +88,6 @@
     <sub>[#139564](https://github.com/flutter/flutter/pull/139564) merged on December 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139564) over 1 hour, 75 additions and 54 deletions in 2 files</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
-* **[Jasper van Riet](https://github.com/JaspervanRiet)** &mdash; Introduce `exitDuration` to Tooltip for mouse pointer devices<br />
-    <sub>[#138321](https://github.com/flutter/flutter/pull/138321) merged on December 7, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/138321) over 3 weeks, 225 additions and 18 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
-
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Implement `SubmenuButton.onFocusChange`<br />
     <sub>[#139678](https://github.com/flutter/flutter/pull/139678) merged on December 7, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139678) over 21 hours, 38 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
@@ -100,13 +96,17 @@
     <sub>[#139385](https://github.com/flutter/flutter/pull/139385) merged on December 5, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/139385) over 3 days, 175 additions and 53 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
-* **[Shanmugam](https://github.com/shanmugam28)** &mdash; Support for dismissDirection property in SnackBarTheme<br />
-    <sub>[#139068](https://github.com/flutter/flutter/pull/139068) merged on December 5, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/139068) over 1 week, 123 additions and 9 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; If one method of finding Dart VM fails for CoreDevice, wait for the other method<br />
     <sub>[#139754](https://github.com/flutter/flutter/pull/139754) merged on December 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139754) over 20 hours, 79 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Jasper van Riet](https://github.com/JaspervanRiet)** &mdash; Introduce `exitDuration` to Tooltip for mouse pointer devices<br />
+    <sub>[#138321](https://github.com/flutter/flutter/pull/138321) merged on December 7, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/138321) over 3 weeks, 225 additions and 18 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Shanmugam](https://github.com/shanmugam28)** &mdash; Support for dismissDirection property in SnackBarTheme<br />
+    <sub>[#139068](https://github.com/flutter/flutter/pull/139068) merged on December 5, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/139068) over 1 week, 123 additions and 9 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; have Java.version return null if `java --version` fails or cannot be run<br />
     <sub>[#139614](https://github.com/flutter/flutter/pull/139614) merged on December 6, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139614) over 21 hours, 23 additions and 1 deletion in 2 files</sub><br />
@@ -144,28 +144,28 @@
     <sub>[#139706](https://github.com/flutter/flutter/pull/139706) merged on December 7, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/139706) over 19 hours, 147 additions and 7 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Add Impeller complex layout impeller benchmarks.<br />
-    <sub>[#139490](https://github.com/flutter/flutter/pull/139490) merged on December 4, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139490) over 1 hour, 56 additions and 0 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Removed deprecated NavigatorState.focusScopeNode<br />
-    <sub>[#139260](https://github.com/flutter/flutter/pull/139260) merged on December 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139260) over 5 days, 19 additions and 7 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Reset deprecation period for setPubRootDirectories<br />
     <sub>[#139592](https://github.com/flutter/flutter/pull/139592) merged on December 7, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/139592) over 1 day, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Add Impeller complex layout impeller benchmarks.<br />
+    <sub>[#139490](https://github.com/flutter/flutter/pull/139490) merged on December 4, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139490) over 1 hour, 56 additions and 0 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; increase sharding of windows build tests<br />
     <sub>[#139503](https://github.com/flutter/flutter/pull/139503) merged on December 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139503) over 2 hours, 37 additions and 12 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Removed deprecated NavigatorState.focusScopeNode<br />
+    <sub>[#139260](https://github.com/flutter/flutter/pull/139260) merged on December 5, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139260) over 5 days, 19 additions and 7 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [github] Remove commit hash from CP issue template<br />
+    <sub>[#139676](https://github.com/flutter/flutter/pull/139676) merged on December 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139676) over 22 hours, 1 addition and 8 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub><br />
+
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Send an event when proxied DDS creates a connection.<br />
     <sub>[#139530](https://github.com/flutter/flutter/pull/139530) merged on December 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139530) over 5 hours, 10 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
-* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Make `handleJsonEvent` public so that it can be overridden internally.<br />
-    <sub>[#139531](https://github.com/flutter/flutter/pull/139531) merged on December 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139531) over 5 hours, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
@@ -178,6 +178,10 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Roll dependencies<br />
     <sub>[#139606](https://github.com/flutter/flutter/pull/139606) merged on December 6, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/139606) over 20 hours, 127 additions and 127 deletions in 63 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Make `handleJsonEvent` public so that it can be overridden internally.<br />
+    <sub>[#139531](https://github.com/flutter/flutter/pull/139531) merged on December 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139531) over 5 hours, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add linked dart doc for Display on media query.<br />
@@ -196,6 +200,10 @@
     <sub>[#139329](https://github.com/flutter/flutter/pull/139329) merged on December 4, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/139329) over 3 days, 173 additions and 169 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#139811](https://github.com/flutter/flutter/pull/139811) merged on December 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139811) over 43 minutes, 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 * **[hangyu](https://github.com/hangyujin)** &mdash; Add background color to NavigationDrawerDestination<br />
     <sub>[#139154](https://github.com/flutter/flutter/pull/139154) merged on December 7, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/139154) over 1 week, 53 additions and 9 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
@@ -211,10 +219,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove stray print<br />
     <sub>[#139550](https://github.com/flutter/flutter/pull/139550) merged on December 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139550) over 8 hours, 0 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
-
-* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [github] Remove commit hash from CP issue template<br />
-    <sub>[#139676](https://github.com/flutter/flutter/pull/139676) merged on December 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139676) over 22 hours, 1 addition and 8 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Remove InkSparkle.constantTurbulenceSeedSplashFactory usage<br />
     <sub>[#139481](https://github.com/flutter/flutter/pull/139481) merged on December 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139481) over 2 hours, 1 addition and 4 deletions in 1 file</sub><br />
