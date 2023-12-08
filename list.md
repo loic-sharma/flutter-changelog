@@ -1117,7 +1117,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-25 commits.
+26 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Endorse macOS implementation
     <sub>[#5600](https://github.com/flutter/packages/pull/5600) merged on December 8, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/5600) over 12 hours, 1356 additions and 10 deletions in 30 files</sub>
@@ -1175,6 +1175,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw,flutter_markdown] Apparently you need a comma to end an //ignore
     <sub>[#5582](https://github.com/flutter/packages/pull/5582) merged on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5582) over 15 hours, 3 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [gis_web] Correct pub.dev changelog entry.
+    <sub>[#5613](https://github.com/flutter/packages/pull/5613) merged on December 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5613) over 4 hours, 10 additions and 6 deletions in 3 files</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo)</sub>
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add the ability to run web_benchmarks with Wasm
     <sub>[#5611](https://github.com/flutter/packages/pull/5611) merged on December 8, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5611) over 5 hours, 86 additions and 11 deletions in 7 files</sub>
