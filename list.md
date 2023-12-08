@@ -1149,7 +1149,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-29 commits.
+30 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Endorse macOS implementation
     <sub>[#5600](https://github.com/flutter/packages/pull/5600) merged on December 8, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/5600) over 12 hours, 1356 additions and 10 deletions in 30 files</sub>
@@ -1179,6 +1179,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Expose addAutomaticKeepAlives in Table delegates
     <sub>[#5597](https://github.com/flutter/packages/pull/5597) merged on December 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5597) over 18 hours, 31 additions and 6 deletions in 5 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [path_provider_android] Disable `getExternalStorageDirectories (type: ...)` test
+    <sub>[#5619](https://github.com/flutter/packages/pull/5619) merged on December 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5619) over 1 hour, 3 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Pointer interceptor implementations
     <sub>[#5594](https://github.com/flutter/packages/pull/5594) merged on December 7, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/5594) over 21 hours, 4048 additions and 269 deletions in 130 files</sub>
