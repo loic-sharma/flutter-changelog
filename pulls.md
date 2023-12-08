@@ -95,12 +95,3 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Be less verbose in CI for customer_testing, and revert old timeout hack<br />
     <sub>[#139611](https://github.com/flutter/flutter/pull/139611) opened on on December 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139611) 11 additions and 2 deletions in 2 files</sub><br />
 
-* **[Jack Gibbons](https://github.com/Gibbo97)** &mdash; Add key to BottomNavigationBarItem<br />
-    <sub>[#139617](https://github.com/flutter/flutter/pull/139617) opened on on December 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139617) 36 additions and 0 deletions in 3 files</sub><br />
-
-* **[Suman Ghimire](https://github.com/sumanghimire00)** &mdash; To do app<br />
-    <sub>[#139715](https://github.com/flutter/flutter/pull/139715) opened on on December 7, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/139715) 2100 additions and 169 deletions in 76 files</sub><br />
-
-* **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; fix-selection-area-throw-on-scroll<br />
-    <sub>[#139812](https://github.com/flutter/flutter/pull/139812) opened on on December 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139812) 15 additions and 12 deletions in 1 file</sub><br />
-
