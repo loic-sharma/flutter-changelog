@@ -83,9 +83,6 @@
 * **[Nico](https://github.com/Rodsevich)** &mdash; Export _NavigationDestinationInfo as public API<br />
     <sub>[#139429](https://github.com/flutter/flutter/pull/139429) opened on on December 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139429) 26 additions and 26 deletions in 1 file</sub><br />
 
-* **[David Miguel Lozano](https://github.com/davidmigloz)** &mdash; Add MaterialStateOutlinedBorder.resolveWith<br />
-    <sub>[#139431](https://github.com/flutter/flutter/pull/139431) opened on on December 2, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139431) 95 additions and 22 deletions in 2 files</sub><br />
-
 * **[jarrodcolburn](https://github.com/jarrodcolburn)** &mdash; update: avd error msg<br />
     <sub>[#139452](https://github.com/flutter/flutter/pull/139452) opened on on December 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139452) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -103,9 +100,6 @@
 
 * **[Jack Gibbons](https://github.com/Gibbo97)** &mdash; Add key to BottomNavigationBarItem<br />
     <sub>[#139617](https://github.com/flutter/flutter/pull/139617) opened on on December 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139617) 36 additions and 0 deletions in 3 files</sub><br />
-
-* **[AdamMusa](https://github.com/AdamMusa)** &mdash; Update badge.dart<br />
-    <sub>[#139653](https://github.com/flutter/flutter/pull/139653) opened on on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139653) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[Suman Ghimire](https://github.com/sumanghimire00)** &mdash; To do app<br />
     <sub>[#139715](https://github.com/flutter/flutter/pull/139715) opened on on December 7, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/139715) 2100 additions and 169 deletions in 76 files</sub><br />
