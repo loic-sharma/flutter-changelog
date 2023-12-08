@@ -557,7 +557,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-40 commits.
+41 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements new blur tile mode
     <sub>[#48805](https://github.com/flutter/engine/pull/48805) merged on December 8, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/48805) over 1 hour, 106 additions and 30 deletions in 5 files</sub>
@@ -606,10 +606,6 @@
     <sub>[#48644](https://github.com/flutter/engine/pull/48644) merged on December 5, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48644) over 1 day, 72 additions and 71 deletions in 17 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Move BufferView/Texture/Sampler when binding.
-    <sub>[#48628](https://github.com/flutter/engine/pull/48628) merged on December 4, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/48628) over 7 hours, 34 additions and 34 deletions in 5 files</sub>
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
-
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove duplicate entity test suite instantiations.
     <sub>[#48654](https://github.com/flutter/engine/pull/48654) merged on December 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48654) over 42 minutes, 10 additions and 11 deletions in 4 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
@@ -618,13 +614,13 @@
     <sub>[#48616](https://github.com/flutter/engine/pull/48616) merged on December 5, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/48616) over 1 day, 130 additions and 73 deletions in 23 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a note that rolling clang_version manually is dangerous.
-    <sub>[#48808](https://github.com/flutter/engine/pull/48808) merged on December 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48808) over 25 minutes, 7 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Move BufferView/Texture/Sampler when binding.
+    <sub>[#48628](https://github.com/flutter/engine/pull/48628) merged on December 4, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/48628) over 7 hours, 34 additions and 34 deletions in 5 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Refactor the GLES proc table
-    <sub>[#48688](https://github.com/flutter/engine/pull/48688) merged on December 6, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/48688) over 23 hours, 289 additions and 159 deletions in 16 files</sub>
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Provide the clear color to an advanced blend if it was optimized out
+    <sub>[#48646](https://github.com/flutter/engine/pull/48646) merged on December 6, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/48646) over 1 day, 36 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Roll abseil to d07bb1bc8e59b37204d457ee365b52b0d11feec0
     <sub>[#48700](https://github.com/flutter/engine/pull/48700) merged on December 5, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/48700) over 1 hour, 274 additions and 42 deletions in 3 files</sub>
@@ -650,13 +646,25 @@
     <sub>[#48647](https://github.com/flutter/engine/pull/48647) merged on December 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/48647) over 16 hours, 24 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a note that rolling clang_version manually is dangerous.
+    <sub>[#48808](https://github.com/flutter/engine/pull/48808) merged on December 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48808) over 25 minutes, 7 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert Dart SDK back to be8a95b6717d
     <sub>[#48799](https://github.com/flutter/engine/pull/48799) merged on December 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48799) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
+* **[Jia Hao](https://github.com/jiahaog)** &mdash; Add `flutter` prefix to import
+    <sub>[#48617](https://github.com/flutter/engine/pull/48617) merged on December 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48617) over 19 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
+
 * **[Dan Field](https://github.com/dnfield)** &mdash; Remove some trivial forward declares from Impeller
     <sub>[#48635](https://github.com/flutter/engine/pull/48635) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48635) over 1 hour, 11 additions and 18 deletions in 8 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Refactor the GLES proc table
+    <sub>[#48688](https://github.com/flutter/engine/pull/48688) merged on December 6, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/48688) over 23 hours, 289 additions and 159 deletions in 16 files</sub>
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Update clang revision from 00396e6a1a0b7 to b3a9e8f7c0afb00.
     <sub>[#48705](https://github.com/flutter/engine/pull/48705) merged on December 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48705) over 1 day, 1 addition and 1 deletion in 1 file</sub>
@@ -665,18 +673,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Decouple the GL context from the view
     <sub>[#48636](https://github.com/flutter/engine/pull/48636) merged on December 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48636) over 1 hour, 12 additions and 23 deletions in 3 files</sub>
     <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub>
-
-* **[Jia Hao](https://github.com/jiahaog)** &mdash; Add `flutter` prefix to import
-    <sub>[#48617](https://github.com/flutter/engine/pull/48617) merged on December 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48617) over 19 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Provide the clear color to an advanced blend if it was optimized out
-    <sub>[#48646](https://github.com/flutter/engine/pull/48646) merged on December 6, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/48646) over 1 day, 36 additions and 2 deletions in 3 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Jonny Wang](https://github.com/jrwang)** &mdash; A11y enabled state
-    <sub>[#48653](https://github.com/flutter/engine/pull/48653) merged on December 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48653) over 15 hours, 38 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Andrew Wilson](https://github.com/apwilson)</sub>
 
 * **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Update labeler to 5.0.0, fix yaml format for labeler 5.0.0
     <sub>[#48682](https://github.com/flutter/engine/pull/48682) merged on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48682) over 54 minutes, 27 additions and 17 deletions in 2 files</sub>
@@ -710,9 +706,17 @@
     <sub>[#48701](https://github.com/flutter/engine/pull/48701) merged on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48701) over 43 minutes, 36 additions and 26 deletions in 1 file</sub>
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
+* **[Jonny Wang](https://github.com/jrwang)** &mdash; A11y enabled state
+    <sub>[#48653](https://github.com/flutter/engine/pull/48653) merged on December 5, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48653) over 15 hours, 38 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Andrew Wilson](https://github.com/apwilson)</sub>
+
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Only run firebase tests on HEAD
     <sub>[#48548](https://github.com/flutter/engine/pull/48548) merged on December 4, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48548) over 3 days, 4 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Roll Clang from 00396e6a1a0b to 725656bdd885
+    <sub>[#48817](https://github.com/flutter/engine/pull/48817) merged on December 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48817) over 38 minutes, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reland "Replace use of Fontmgr::RefDefault with explicit creation calls"
     <sub>[#48764](https://github.com/flutter/engine/pull/48764) merged on December 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48764) over 13 hours, 140 additions and 129 deletions in 17 files</sub>
