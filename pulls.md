@@ -77,17 +77,11 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [WIP] Opt-in for smooth pointer scrolling<br />
     <sub>[#139392](https://github.com/flutter/flutter/pull/139392) opened on on December 1, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139392) 186 additions and 20 deletions in 6 files</sub><br />
 
-* **[Nico](https://github.com/Rodsevich)** &mdash; Export _NavigationDestinationInfo as public API<br />
-    <sub>[#139429](https://github.com/flutter/flutter/pull/139429) opened on on December 2, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139429) 26 additions and 26 deletions in 1 file</sub><br />
-
 * **[jarrodcolburn](https://github.com/jarrodcolburn)** &mdash; update: avd error msg<br />
     <sub>[#139452](https://github.com/flutter/flutter/pull/139452) opened on on December 3, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139452) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Joel Godfrey](https://github.com/BaccanoMob)** &mdash; Allowing CheckboxListTile, RadioListTile, SwitchListTile to have only one focus on Tab<br />
-    <sub>[#139472](https://github.com/flutter/flutter/pull/139472) opened on on December 4, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139472) 24 additions and 6 deletions in 3 files</sub><br />
-
-* **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Add `enabled` property to `ExpansionTile`<br />
-    <sub>[#139519](https://github.com/flutter/flutter/pull/139519) opened on on December 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139519) 43 additions and 0 deletions in 2 files</sub><br />
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Overlay supports unconstraind environments<br />
+    <sub>[#139513](https://github.com/flutter/flutter/pull/139513) opened on on December 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139513) 268 additions and 24 deletions in 4 files</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update labeler.yml<br />
     <sub>[#139529](https://github.com/flutter/flutter/pull/139529) opened on on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139529) 3 additions and 92 deletions in 1 file</sub><br />
