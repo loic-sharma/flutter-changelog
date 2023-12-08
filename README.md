@@ -577,7 +577,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-45 commits.
+46 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements new blur tile mode<br />
     <sub>[#48805](https://github.com/flutter/engine/pull/48805) merged on December 8, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/48805) over 1 hour, 106 additions and 30 deletions in 5 files</sub><br />
@@ -617,6 +617,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Render emoji shadows with correct colors.<br />
     <sub>[#48593](https://github.com/flutter/engine/pull/48593) merged on December 5, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/48593) over 3 days, 83 additions and 45 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont allocate capture strings in release mode.<br />
+    <sub>[#48760](https://github.com/flutter/engine/pull/48760) merged on December 8, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/48760) over 1 day, 14 additions and 13 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Brandon DeRosier](https://github.com/bdero), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Store Buffer/Texture bindings in vector instead of map.<br />
     <sub>[#48719](https://github.com/flutter/engine/pull/48719) merged on December 6, 2023 &mdash; **Small:** [26 comments](https://github.com/flutter/engine/pull/48719) over 12 hours, 88 additions and 99 deletions in 27 files</sub><br />
@@ -662,45 +666,45 @@
     <sub>[#48649](https://github.com/flutter/engine/pull/48649) merged on December 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48649) over 17 hours, 5 additions and 146 deletions in 21 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a note that rolling clang_version manually is dangerous.<br />
-    <sub>[#48808](https://github.com/flutter/engine/pull/48808) merged on December 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48808) over 25 minutes, 7 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run full clang_tidy in presubmit<br />
+    <sub>[#48831](https://github.com/flutter/engine/pull/48831) merged on December 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48831) over 2 hours, 0 additions and 248 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Document what some of this shader metadata is.<br />
     <sub>[#48647](https://github.com/flutter/engine/pull/48647) merged on December 5, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/48647) over 16 hours, 24 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert Dart SDK back to be8a95b6717d<br />
+    <sub>[#48799](https://github.com/flutter/engine/pull/48799) merged on December 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48799) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Update clang revision from 00396e6a1a0b7 to b3a9e8f7c0afb00.<br />
     <sub>[#48705](https://github.com/flutter/engine/pull/48705) merged on December 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48705) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run full clang_tidy in presubmit<br />
-    <sub>[#48831](https://github.com/flutter/engine/pull/48831) merged on December 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48831) over 2 hours, 0 additions and 248 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Provide the clear color to an advanced blend if it was optimized out<br />
-    <sub>[#48646](https://github.com/flutter/engine/pull/48646) merged on December 6, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/48646) over 1 day, 36 additions and 2 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a note that rolling clang_version manually is dangerous.<br />
+    <sub>[#48808](https://github.com/flutter/engine/pull/48808) merged on December 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48808) over 25 minutes, 7 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Add `flutter` prefix to import<br />
     <sub>[#48617](https://github.com/flutter/engine/pull/48617) merged on December 4, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48617) over 19 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
 
+* **[Dan Field](https://github.com/dnfield)** &mdash; Remove some trivial forward declares from Impeller<br />
+    <sub>[#48635](https://github.com/flutter/engine/pull/48635) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48635) over 1 hour, 11 additions and 18 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Refactor the GLES proc table<br />
     <sub>[#48688](https://github.com/flutter/engine/pull/48688) merged on December 6, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/48688) over 23 hours, 289 additions and 159 deletions in 16 files</sub><br />
     <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Provide the clear color to an advanced blend if it was optimized out<br />
+    <sub>[#48646](https://github.com/flutter/engine/pull/48646) merged on December 6, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/48646) over 1 day, 36 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Decouple the GL context from the view<br />
     <sub>[#48636](https://github.com/flutter/engine/pull/48636) merged on December 4, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48636) over 1 hour, 12 additions and 23 deletions in 3 files</sub><br />
     <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert Dart SDK back to be8a95b6717d<br />
-    <sub>[#48799](https://github.com/flutter/engine/pull/48799) merged on December 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48799) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[Dan Field](https://github.com/dnfield)** &mdash; Remove some trivial forward declares from Impeller<br />
-    <sub>[#48635](https://github.com/flutter/engine/pull/48635) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48635) over 1 hour, 11 additions and 18 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Roll abseil to d07bb1bc8e59b37204d457ee365b52b0d11feec0<br />
     <sub>[#48700](https://github.com/flutter/engine/pull/48700) merged on December 5, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/48700) over 1 hour, 274 additions and 42 deletions in 3 files</sub><br />
@@ -714,13 +718,13 @@
     <sub>[#48753](https://github.com/flutter/engine/pull/48753) merged on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48753) over 1 hour, 0 additions and 33 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
+* **[Jesse Seales](https://github.com/sealesj)** &mdash; Use flutter mirrors for non-Google github origin deps<br />
+    <sub>[#48642](https://github.com/flutter/engine/pull/48642) merged on December 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48642) over 19 hours, 5 additions and 5 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
 * **[Kevin Lubick](https://github.com/kjlubick)** &mdash; Replace use of Fontmgr::RefDefault with explicit creation calls<br />
     <sub>[#48571](https://github.com/flutter/engine/pull/48571) merged on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48571) over 5 days, 132 additions and 140 deletions in 17 files</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Clang from 00396e6a1a0b to 725656bdd885"<br />
-    <sub>[#48832](https://github.com/flutter/engine/pull/48832) merged on December 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48832) over 55 seconds, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Remove fuchsia v1 builder.<br />
     <sub>[#48703](https://github.com/flutter/engine/pull/48703) merged on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48703) over 1 hour, 0 additions and 19 deletions in 1 file</sub><br />
@@ -738,9 +742,9 @@
     <sub>[#48682](https://github.com/flutter/engine/pull/48682) merged on December 5, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48682) over 54 minutes, 27 additions and 17 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
 
-* **[Jesse Seales](https://github.com/sealesj)** &mdash; Use flutter mirrors for non-Google github origin deps<br />
-    <sub>[#48642](https://github.com/flutter/engine/pull/48642) merged on December 5, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48642) over 19 hours, 5 additions and 5 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Clang from 00396e6a1a0b to 725656bdd885"<br />
+    <sub>[#48832](https://github.com/flutter/engine/pull/48832) merged on December 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48832) over 55 seconds, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Retry when safaridriver fails<br />
     <sub>[#48791](https://github.com/flutter/engine/pull/48791) merged on December 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48791) over 3 hours, 56 additions and 3 deletions in 2 files</sub><br />
