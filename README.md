@@ -1149,7 +1149,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-30 commits.
+31 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Endorse macOS implementation<br />
     <sub>[#5600](https://github.com/flutter/packages/pull/5600) merged on December 8, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/5600) over 12 hours, 1356 additions and 10 deletions in 30 files</sub><br />
@@ -1215,6 +1215,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw,flutter_markdown] Apparently you need a comma to end an //ignore<br />
     <sub>[#5582](https://github.com/flutter/packages/pull/5582) merged on December 6, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5582) over 15 hours, 3 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub><br />
+
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add `parse` constructors for the `BenchmarkResults` and `BenchmarkScore` classes<br />
+    <sub>[#5614](https://github.com/flutter/packages/pull/5614) merged on December 8, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/5614) over 17 hours, 89 additions and 15 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [gis_web] Correct pub.dev changelog entry.<br />
     <sub>[#5613](https://github.com/flutter/packages/pull/5613) merged on December 8, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5613) over 4 hours, 10 additions and 6 deletions in 3 files</sub><br />
