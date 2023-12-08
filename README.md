@@ -1145,7 +1145,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-28 commits.
+29 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Endorse macOS implementation<br />
     <sub>[#5600](https://github.com/flutter/packages/pull/5600) merged on December 8, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/5600) over 12 hours, 1356 additions and 10 deletions in 30 files</sub><br />
@@ -1231,6 +1231,10 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add an optional parameter `initialPage` to `serveWebBenchmark`<br />
     <sub>[#5538](https://github.com/flutter/packages/pull/5538) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5538) over 2 days, 94 additions and 33 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Fix indentation in labeler.yml<br />
+    <sub>[#5625](https://github.com/flutter/packages/pull/5625) merged on December 8, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5625) over 1 minute, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Drew Roen](https://github.com/drewroengoogle)** &mdash; Update labeler to 5.0.0, fix yml format<br />
     <sub>[#5580](https://github.com/flutter/packages/pull/5580) merged on December 8, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5580) over 2 days, 150 additions and 56 deletions in 2 files</sub><br />
