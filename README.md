@@ -1128,7 +1128,7 @@
 26 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Endorse macOS implementation<br />
-    <sub>[#5600](https://github.com/flutter/packages/pull/5600) merged on December 8, 2023 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/5600) over 12 hours, 1356 additions and 10 deletions in 30 files</sub><br />
+    <sub>[#5600](https://github.com/flutter/packages/pull/5600) merged on December 8, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/5600) over 12 hours, 1356 additions and 10 deletions in 30 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [gis_web] Migrate to package:web.<br />
