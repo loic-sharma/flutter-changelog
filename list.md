@@ -1230,7 +1230,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Use ^ for Dart SDK
-    <sub>[#5623](https://github.com/flutter/packages/pull/5623) merged on December 9, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5623) over 11 hours, 27 additions and 42 deletions in 2 files</sub>
+    <sub>[#5623](https://github.com/flutter/packages/pull/5623) merged on December 9, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/5623) over 11 hours, 27 additions and 42 deletions in 2 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[pointer_interceptor] Add ios implementation and move web implementation to federated structure"
