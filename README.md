@@ -1182,7 +1182,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-32 commits.
+33 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Endorse macOS implementation<br />
     <sub>[#5600](https://github.com/flutter/packages/pull/5600) merged on December 8, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/5600) over 12 hours, 1356 additions and 10 deletions in 30 files</sub><br />
@@ -1208,6 +1208,10 @@
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; [url_launcher] Adds documentation that a launch needs to be triggered  by a user action<br />
     <sub>[#5143](https://github.com/flutter/packages/pull/5143) merged on December 8, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/5143) over 1 month, 42 additions and 2 deletions in 7 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [google_sign_in_web] Migrate to pkg:web.<br />
+    <sub>[#5612](https://github.com/flutter/packages/pull/5612) merged on December 9, 2023 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/5612) over 1 day, 125 additions and 389 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Expose addAutomaticKeepAlives in Table delegates<br />
     <sub>[#5597](https://github.com/flutter/packages/pull/5597) merged on December 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5597) over 18 hours, 31 additions and 6 deletions in 5 files</sub><br />
