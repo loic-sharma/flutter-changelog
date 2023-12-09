@@ -1182,7 +1182,7 @@
 
 ### December 2, 2023 to December 8, 2023
 
-33 commits.
+34 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Endorse macOS implementation<br />
     <sub>[#5600](https://github.com/flutter/packages/pull/5600) merged on December 8, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/5600) over 12 hours, 1356 additions and 10 deletions in 30 files</sub><br />
@@ -1217,6 +1217,10 @@
     <sub>[#5597](https://github.com/flutter/packages/pull/5597) merged on December 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5597) over 18 hours, 31 additions and 6 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Unfork publish: for macOS<br />
+    <sub>[#5578](https://github.com/flutter/packages/pull/5578) merged on December 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5578) over 1 day, 23 additions and 10 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [path_provider_android] Disable `getExternalStorageDirectories (type: ...)` test<br />
     <sub>[#5619](https://github.com/flutter/packages/pull/5619) merged on December 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5619) over 1 hour, 3 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
@@ -1225,9 +1229,9 @@
     <sub>[#5594](https://github.com/flutter/packages/pull/5594) merged on December 7, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/5594) over 21 hours, 4048 additions and 269 deletions in 130 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Unfork publish: for macOS<br />
-    <sub>[#5578](https://github.com/flutter/packages/pull/5578) merged on December 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5578) over 1 day, 23 additions and 10 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Use ^ for Dart SDK<br />
+    <sub>[#5623](https://github.com/flutter/packages/pull/5623) merged on December 9, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5623) over 11 hours, 27 additions and 42 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[pointer_interceptor] Add ios implementation and move web implementation to federated structure"<br />
     <sub>[#5591](https://github.com/flutter/packages/pull/5591) merged on December 6, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/packages/pull/5591) over 56 seconds, 269 additions and 4048 deletions in 130 files</sub><br />
@@ -1265,9 +1269,9 @@
     <sub>[#5611](https://github.com/flutter/packages/pull/5611) merged on December 8, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5611) over 5 hours, 86 additions and 11 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
-* **[Christian Padilla](https://github.com/ChristianEdwardPadilla)** &mdash; [pigeon] Fix pigeon issue_tracker link<br />
-    <sub>[#5505](https://github.com/flutter/packages/pull/5505) merged on December 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5505) over 1 week, 5 additions and 4 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add an optional parameter `initialPage` to `serveWebBenchmark`<br />
+    <sub>[#5538](https://github.com/flutter/packages/pull/5538) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5538) over 2 days, 94 additions and 33 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Fix benchmark reload bug and migrate away from deprecated `js_util` APIs<br />
     <sub>[#5577](https://github.com/flutter/packages/pull/5577) merged on December 6, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5577) over 1 day, 44 additions and 23 deletions in 8 files</sub><br />
@@ -1277,13 +1281,9 @@
     <sub>[#5533](https://github.com/flutter/packages/pull/5533) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5533) over 3 days, 13 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
-* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add an optional parameter `initialPage` to `serveWebBenchmark`<br />
-    <sub>[#5538](https://github.com/flutter/packages/pull/5538) merged on December 4, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5538) over 2 days, 94 additions and 33 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
-
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Disable failing iOS tests<br />
-    <sub>[#5629](https://github.com/flutter/packages/pull/5629) merged on December 8, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/5629) over 50 minutes, 29 additions and 10 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Camille Simon](https://github.com/camsim99)</sub><br />
+* **[Christian Padilla](https://github.com/ChristianEdwardPadilla)** &mdash; [pigeon] Fix pigeon issue_tracker link<br />
+    <sub>[#5505](https://github.com/flutter/packages/pull/5505) merged on December 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5505) over 1 week, 5 additions and 4 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Fix indentation in labeler.yml<br />
     <sub>[#5625](https://github.com/flutter/packages/pull/5625) merged on December 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5625) over 1 minute, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1316,6 +1316,10 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [file_selector] Remove deprecated `primary` and `onPrimary` references from `ElevatedButton.styleFrom`<br />
     <sub>[#5566](https://github.com/flutter/packages/pull/5566) merged on December 5, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/5566) over 20 hours, 4 additions and 8 deletions in 2 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Disable failing iOS tests<br />
+    <sub>[#5629](https://github.com/flutter/packages/pull/5629) merged on December 8, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/5629) over 50 minutes, 29 additions and 10 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 ### November 25, 2023 to December 1, 2023
 
