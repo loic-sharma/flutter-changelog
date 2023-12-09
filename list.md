@@ -601,7 +601,7 @@
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Directly tessellate filled ellipses
-    <sub>[#48770](https://github.com/flutter/engine/pull/48770) merged on December 8, 2023 &mdash; **Extra large:** [27 comments](https://github.com/flutter/engine/pull/48770) over 1 day, 1410 additions and 901 deletions in 28 files</sub>
+    <sub>[#48770](https://github.com/flutter/engine/pull/48770) merged on December 8, 2023 &mdash; **Extra large:** [28 comments](https://github.com/flutter/engine/pull/48770) over 1 day, 1410 additions and 901 deletions in 28 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable entity culling by default.
