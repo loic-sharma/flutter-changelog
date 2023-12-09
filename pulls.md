@@ -86,6 +86,3 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Be less verbose in CI for customer_testing, and revert old timeout hack<br />
     <sub>[#139611](https://github.com/flutter/flutter/pull/139611) opened on on December 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139611) 11 additions and 2 deletions in 2 files</sub><br />
 
-* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [beta-cherrypick] cherrypicks commit 126606f9f30fb589835797b205c38244d71efd53 from PR<br />
-    <sub>[#139843](https://github.com/flutter/flutter/pull/139843) opened on on December 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139843) 1 addition and 8 deletions in 1 file</sub><br />
-
