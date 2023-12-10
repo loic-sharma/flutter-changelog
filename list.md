@@ -1209,13 +1209,13 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=actions/labeler&package-manager=github_actions&previous-version=4.3.0&new-version=5.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
+* **[David Iglesias](https://github.com/ditman)** &mdash; [google_sign_in_web] Migrate to pkg:web.
+    <sub>[#5612](https://github.com/flutter/packages/pull/5612) merged on December 9, 2023 &mdash; **Large:** [11 comments](https://github.com/flutter/packages/pull/5612) over 1 day, 125 additions and 389 deletions in 13 files</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo)</sub>
+
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; [url_launcher] Adds documentation that a launch needs to be triggered  by a user action
     <sub>[#5143](https://github.com/flutter/packages/pull/5143) merged on December 8, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/5143) over 1 month, 42 additions and 2 deletions in 7 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub>
-
-* **[David Iglesias](https://github.com/ditman)** &mdash; [google_sign_in_web] Migrate to pkg:web.
-    <sub>[#5612](https://github.com/flutter/packages/pull/5612) merged on December 9, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/5612) over 1 day, 125 additions and 389 deletions in 13 files</sub>
-    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Expose addAutomaticKeepAlives in Table delegates
     <sub>[#5597](https://github.com/flutter/packages/pull/5597) merged on December 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5597) over 18 hours, 31 additions and 6 deletions in 5 files</sub>
