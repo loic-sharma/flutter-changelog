@@ -92,3 +92,6 @@
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; Fixed: DropdownMenu throws exception when it is in any scrollable list view and scrolls quickly #139871<br />
     <sub>[#139872](https://github.com/flutter/flutter/pull/139872) opened on on December 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139872) 2 additions and 1 deletion in 2 files</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Implement `switch` expressions in `examples/` and `animation/`<br />
+    <sub>[#139882](https://github.com/flutter/flutter/pull/139882) opened on on December 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139882) 33 additions and 50 deletions in 6 files</sub><br />
+
