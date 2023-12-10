@@ -1214,7 +1214,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_sign_in_web] Migrate to pkg:web.<br />
-    <sub>[#5612](https://github.com/flutter/packages/pull/5612) merged on December 9, 2023 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/5612) over 1 day, 125 additions and 389 deletions in 13 files</sub><br />
+    <sub>[#5612](https://github.com/flutter/packages/pull/5612) merged on December 9, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/5612) over 1 day, 125 additions and 389 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Expose addAutomaticKeepAlives in Table delegates<br />
