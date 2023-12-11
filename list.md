@@ -546,7 +546,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-11 commits.
+12 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix _availability_version_check for iOS 11 and 12
     <sub>[#48624](https://github.com/flutter/engine/pull/48624) merged on December 11, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/48624) over 1 week, 260 additions and 5 deletions in 10 files</sub>
@@ -559,6 +559,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix css changes with macOS 13 and Safari
     <sub>[#48807](https://github.com/flutter/engine/pull/48807) merged on December 11, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48807) over 3 days, 16 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `third_party/yapf` to `flutter/third_party/yapf`.
+    <sub>[#48847](https://github.com/flutter/engine/pull/48847) merged on December 11, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/48847) over 3 days, 6 additions and 6 deletions in 6 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; SemanticsUpdateBuilder migration: introduce `identifier`
     <sub>[#48882](https://github.com/flutter/engine/pull/48882) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48882) over 4 hours, 15 additions and 12 deletions in 6 files</sub>
