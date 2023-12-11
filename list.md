@@ -512,9 +512,18 @@
 
 ## flutter/engine
 
+### December 9, 2023 to December 15, 2023
+
+1 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] made the blur entity test able to use the new blur
+    <sub>[#48881](https://github.com/flutter/engine/pull/48881) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48881) over 36 minutes, 23 additions and 11 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 ### December 2, 2023 to December 8, 2023
 
-50 commits.
+<details>
+<summary>50 commits...</summary>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements new blur tile mode
     <sub>[#48805](https://github.com/flutter/engine/pull/48805) merged on December 8, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/48805) over 1 hour, 106 additions and 30 deletions in 5 files</sub>
@@ -719,6 +728,8 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Replace use of Fontmgr::RefDefault with explicit creation calls"
     <sub>[#48755](https://github.com/flutter/engine/pull/48755) merged on December 7, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48755) over 2 hours, 140 additions and 132 deletions in 17 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+</details>
 
 ### November 25, 2023 to December 1, 2023
 
