@@ -95,3 +95,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implement `switch` expressions in `examples/` and `animation/`<br />
     <sub>[#139882](https://github.com/flutter/flutter/pull/139882) opened on on December 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139882) 33 additions and 50 deletions in 6 files</sub><br />
 
+* **[Tirth](https://github.com/piedcipher)** &mdash; [Docs] Added missing `CupertinoApp.showSemanticsDebugger`<br />
+    <sub>[#139913](https://github.com/flutter/flutter/pull/139913) opened on on December 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139913) 1 addition and 1 deletion in 1 file</sub><br />
+

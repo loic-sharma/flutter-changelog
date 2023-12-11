@@ -922,9 +922,22 @@
 
 ## flutter/packages
 
+### December 9, 2023 to December 15, 2023
+
+2 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Manually roll Flutter (stable) from db7ef5bf9f59 to b0366e0a3f08 (8 revisions)
+    <sub>[#5632](https://github.com/flutter/packages/pull/5632) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5632) over 2 days, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Manually roll Flutter from f35d049e0d8e to c642f4e012f4 (92 revisions)
+    <sub>[#5631](https://github.com/flutter/packages/pull/5631) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5631) over 2 days, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+
 ### December 2, 2023 to December 8, 2023
 
-35 commits.
+<details>
+<summary>35 commits...</summary>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Endorse macOS implementation
     <sub>[#5600](https://github.com/flutter/packages/pull/5600) merged on December 8, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/5600) over 12 hours, 1356 additions and 10 deletions in 30 files</sub>
@@ -1066,6 +1079,8 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Disable failing iOS tests
     <sub>[#5629](https://github.com/flutter/packages/pull/5629) merged on December 8, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/5629) over 50 minutes, 29 additions and 10 deletions in 2 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Camille Simon](https://github.com/camsim99)</sub>
+
+</details>
 
 ### November 25, 2023 to December 1, 2023
 
