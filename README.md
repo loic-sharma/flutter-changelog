@@ -4,7 +4,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-10 commits.
+11 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add accessibility identifier to `SemanticsProperties`<br />
     <sub>[#138331](https://github.com/flutter/flutter/pull/138331) merged on December 11, 2023 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/138331) over 4 weeks, 93 additions and 12 deletions in 9 files</sub><br />
@@ -25,6 +25,10 @@
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Add `enabled` property to `ExpansionTile`<br />
     <sub>[#139519](https://github.com/flutter/flutter/pull/139519) merged on December 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139519) over 6 days, 43 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Tim Maffett](https://github.com/timmaffett)** &mdash; fix typo of 'not' instead of 'now' for `useInheritedMediaQuery` <br />
+    <sub>[#139940](https://github.com/flutter/flutter/pull/139940) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139940) over 47 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implement `switch` expressions in `examples/` and `animation/`<br />
     <sub>[#139882](https://github.com/flutter/flutter/pull/139882) merged on December 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139882) over 1 day, 33 additions and 50 deletions in 6 files</sub><br />
