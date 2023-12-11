@@ -48,7 +48,7 @@
     <sub>[#138025](https://github.com/flutter/flutter/pull/138025) opened on on November 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138025) 150 additions and 30 deletions in 2 files</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] update Android SDK to 34<br />
-    <sub>[#138183](https://github.com/flutter/flutter/pull/138183) opened on on November 9, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/138183) 167 additions and 167 deletions in 1 file</sub><br />
+    <sub>[#138183](https://github.com/flutter/flutter/pull/138183) opened on on November 9, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/138183) 167 additions and 167 deletions in 1 file</sub><br />
 
 * **[Ann Marie Mossman](https://github.com/mossmana)** &mdash; Handle KEYCODE_DPAD_CENTER and KEYCODE_ENTER<br />
     <sub>[#138240](https://github.com/flutter/flutter/pull/138240) opened on on November 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138240) 6 additions and 0 deletions in 2 files</sub><br />
@@ -100,4 +100,7 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [Docs] Added missing `CupertinoApp.showSemanticsDebugger`<br />
     <sub>[#139913](https://github.com/flutter/flutter/pull/139913) opened on on December 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139913) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Renamed `appbar` to `app_bar` directory in API Examples Tests<br />
+    <sub>[#139922](https://github.com/flutter/flutter/pull/139922) opened on on December 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139922) 0 additions and 6 deletions in 7 files</sub><br />
 
