@@ -962,7 +962,11 @@
 
 ### December 9, 2023 to December 15, 2023
 
-2 commits.
+3 commits.
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [pointer_interceptor] Fully publish pointer_interceptor package
+    <sub>[#5640](https://github.com/flutter/packages/pull/5640) merged on December 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5640) over 10 hours, 9 additions and 12 deletions in 3 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Manually roll Flutter (stable) from db7ef5bf9f59 to b0366e0a3f08 (8 revisions)
     <sub>[#5632](https://github.com/flutter/packages/pull/5632) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5632) over 2 days, 1 addition and 1 deletion in 1 file</sub>
