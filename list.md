@@ -4,7 +4,11 @@
 
 ### December 9, 2023 to December 15, 2023
 
-2 commits.
+3 commits.
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add accessibility identifier to `SemanticsProperties`
+    <sub>[#138331](https://github.com/flutter/flutter/pull/138331) merged on December 11, 2023 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/138331) over 4 weeks, 93 additions and 12 deletions in 9 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Add `enabled` property to `ExpansionTile`
     <sub>[#139519](https://github.com/flutter/flutter/pull/139519) merged on December 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139519) over 6 days, 43 additions and 0 deletions in 2 files</sub>
