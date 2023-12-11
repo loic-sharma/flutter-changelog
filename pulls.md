@@ -68,9 +68,6 @@
 * **[Fernando Rosentalski](https://github.com/talski)** &mdash; Fix InputDecorationTheme copyWith fallback<br />
     <sub>[#138914](https://github.com/flutter/flutter/pull/138914) opened on on November 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138914) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Dylan Pfab](https://github.com/DYLERN)** &mdash; Added flag to disable build name validation on ios<br />
-    <sub>[#139227](https://github.com/flutter/flutter/pull/139227) opened on on November 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139227) 100 additions and 0 deletions in 5 files</sub><br />
-
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Remove deprecated `TextTheme` members<br />
     <sub>[#139255](https://github.com/flutter/flutter/pull/139255) opened on on November 29, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/139255) 76 additions and 332 deletions in 9 files</sub><br />
 
