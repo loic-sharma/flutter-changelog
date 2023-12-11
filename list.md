@@ -4,7 +4,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-7 commits.
+8 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add accessibility identifier to `SemanticsProperties`
     <sub>[#138331](https://github.com/flutter/flutter/pull/138331) merged on December 11, 2023 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/138331) over 4 weeks, 93 additions and 12 deletions in 9 files</sub>
@@ -13,6 +13,10 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix SelectionArea select-word edge cases
     <sub>[#136920](https://github.com/flutter/flutter/pull/136920) merged on December 11, 2023 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/136920) over 1 month, 369 additions and 58 deletions in 8 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Deprecate `RawKeyEvent`, `RawKeyboard`, et al.
+    <sub>[#136677](https://github.com/flutter/flutter/pull/136677) merged on December 11, 2023 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/136677) over 1 month, 785 additions and 196 deletions in 33 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Handle the case when _CupertinoBackGestureDetector is disposed during the drag. 
     <sub>[#139585](https://github.com/flutter/flutter/pull/139585) merged on December 11, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139585) over 5 days, 106 additions and 0 deletions in 2 files</sub>

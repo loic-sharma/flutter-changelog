@@ -101,3 +101,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Renamed `appbar` to `app_bar` directory in API Examples Tests<br />
     <sub>[#139922](https://github.com/flutter/flutter/pull/139922) opened on on December 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139922) 0 additions and 6 deletions in 7 files</sub><br />
 
+* **[Tim Maffett](https://github.com/timmaffett)** &mdash; fix typo of 'not' instead of 'now' for `useInheritedMediaQuery` <br />
+    <sub>[#139940](https://github.com/flutter/flutter/pull/139940) opened on on December 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139940) 1 addition and 1 deletion in 1 file</sub><br />
+
