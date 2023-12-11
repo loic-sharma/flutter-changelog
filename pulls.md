@@ -86,9 +86,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Be less verbose in CI for customer_testing, and revert old timeout hack<br />
     <sub>[#139611](https://github.com/flutter/flutter/pull/139611) opened on on December 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139611) 11 additions and 2 deletions in 2 files</sub><br />
 
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix dayPeriodColor handling of non-MaterialStateColors<br />
-    <sub>[#139845](https://github.com/flutter/flutter/pull/139845) opened on on December 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139845) 56 additions and 6 deletions in 2 files</sub><br />
-
 * **[Fedor Blagodyr](https://github.com/feduke-nukem)** &mdash; Added onEnd callback into AnimatedSize<br />
     <sub>[#139859](https://github.com/flutter/flutter/pull/139859) opened on on December 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139859) 103 additions and 2 deletions in 3 files</sub><br />
 
