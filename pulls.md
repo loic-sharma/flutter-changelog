@@ -95,6 +95,3 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implement `switch` expressions in `examples/` and `animation/`<br />
     <sub>[#139882](https://github.com/flutter/flutter/pull/139882) opened on on December 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139882) 33 additions and 50 deletions in 6 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add hook tearDownLibrary.<br />
-    <sub>[#139887](https://github.com/flutter/flutter/pull/139887) opened on on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139887) 4 additions and 0 deletions in 1 file</sub><br />
-
