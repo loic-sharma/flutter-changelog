@@ -4,7 +4,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-18 commits.
+19 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add accessibility identifier to `SemanticsProperties`
     <sub>[#138331](https://github.com/flutter/flutter/pull/138331) merged on December 11, 2023 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/138331) over 4 weeks, 93 additions and 12 deletions in 9 files</sub>
@@ -27,7 +27,7 @@
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix dayPeriodColor handling of non-MaterialStateColors
-    <sub>[#139845](https://github.com/flutter/flutter/pull/139845) merged on December 12, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139845) over 3 days, 56 additions and 6 deletions in 2 files</sub>
+    <sub>[#139845](https://github.com/flutter/flutter/pull/139845) merged on December 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139845) over 3 days, 56 additions and 6 deletions in 2 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Handle the case when _CupertinoBackGestureDetector is disposed during the drag. 
@@ -45,6 +45,10 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; make the tar c command in prepare_package.dart verbose
     <sub>[#139687](https://github.com/flutter/flutter/pull/139687) merged on December 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139687) over 5 days, 6 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; [Docs] Added missing `CupertinoApp.showSemanticsDebugger`
+    <sub>[#139913](https://github.com/flutter/flutter/pull/139913) merged on December 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/139913) over 1 day, 2 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
     <sub>[#139969](https://github.com/flutter/flutter/pull/139969) merged on December 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139969) over 45 minutes, 2 additions and 2 deletions in 1 file</sub>
@@ -1062,7 +1066,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-6 commits.
+7 commits.
 
 * **[Nathan Kolbas](https://github.com/NathanKolbas)** &mdash; [pigeon] Fix Kotlin generator to use provided errorClassName
     <sub>[#5480](https://github.com/flutter/packages/pull/5480) merged on December 12, 2023 &mdash; **Medium:** [15 comments](https://github.com/flutter/packages/pull/5480) over 2 weeks, 255 additions and 58 deletions in 8 files</sub>
@@ -1075,6 +1079,10 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; [web_benchmarks] Add support for analyzing benchmark results
     <sub>[#5630](https://github.com/flutter/packages/pull/5630) merged on December 12, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/5630) over 3 days, 566 additions and 12 deletions in 8 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Elliott Brooks](https://github.com/elliette)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update examples using video_player
+    <sub>[#5653](https://github.com/flutter/packages/pull/5653) merged on December 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5653) over 1 hour, 31 additions and 38 deletions in 20 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [pointer_interceptor] Fully publish pointer_interceptor package
     <sub>[#5640](https://github.com/flutter/packages/pull/5640) merged on December 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5640) over 10 hours, 9 additions and 12 deletions in 3 files</sub>
