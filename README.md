@@ -633,7 +633,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Add target to have linux_android_emulator_tests run on AVDs with Android 33 & 34<br />
-    <sub>[#48811](https://github.com/flutter/engine/pull/48811) merged on December 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48811) over 3 days, 125 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#48811](https://github.com/flutter/engine/pull/48811) merged on December 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48811) over 3 days, 125 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [ci.yaml] Add DEPS to emulator tests runIf<br />
