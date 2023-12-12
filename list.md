@@ -1114,33 +1114,33 @@
     <sub>[#5597](https://github.com/flutter/packages/pull/5597) merged on December 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5597) over 18 hours, 31 additions and 6 deletions in 5 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[pointer_interceptor] Add ios implementation and move web implementation to federated structure"
-    <sub>[#5591](https://github.com/flutter/packages/pull/5591) merged on December 6, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/packages/pull/5591) over 56 seconds, 269 additions and 4048 deletions in 130 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Migrate Material curves to new names
+    <sub>[#4898](https://github.com/flutter/packages/pull/4898) merged on December 6, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/4898) over 2 months, 18 additions and 17 deletions in 4 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Unfork publish: for macOS
+    <sub>[#5578](https://github.com/flutter/packages/pull/5578) merged on December 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5578) over 1 day, 23 additions and 10 deletions in 5 files</sub>
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [path_provider_android] Disable `getExternalStorageDirectories (type: ...)` test
     <sub>[#5619](https://github.com/flutter/packages/pull/5619) merged on December 8, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5619) over 1 hour, 3 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
-
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Pointer interceptor implementations
-    <sub>[#5594](https://github.com/flutter/packages/pull/5594) merged on December 7, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/5594) over 21 hours, 4048 additions and 269 deletions in 130 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Use ^ for Dart SDK
     <sub>[#5623](https://github.com/flutter/packages/pull/5623) merged on December 9, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/5623) over 11 hours, 27 additions and 42 deletions in 2 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Unfork publish: for macOS
-    <sub>[#5578](https://github.com/flutter/packages/pull/5578) merged on December 7, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5578) over 1 day, 23 additions and 10 deletions in 5 files</sub>
-    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Pointer interceptor implementations
+    <sub>[#5594](https://github.com/flutter/packages/pull/5594) merged on December 7, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/5594) over 21 hours, 4048 additions and 269 deletions in 130 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[pointer_interceptor] Add ios implementation and move web implementation to federated structure"
+    <sub>[#5591](https://github.com/flutter/packages/pull/5591) merged on December 6, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/packages/pull/5591) over 56 seconds, 269 additions and 4048 deletions in 130 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update mockito to 5.4.3
     <sub>[#5530](https://github.com/flutter/packages/pull/5530) merged on December 4, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/5530) over 3 days, 1624 additions and 452 deletions in 117 files</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
-
-* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Migrate Material curves to new names
-    <sub>[#4898](https://github.com/flutter/packages/pull/4898) merged on December 6, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/4898) over 2 months, 18 additions and 17 deletions in 4 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Claire Davis](https://github.com/ClaireDavis)** &mdash; [go_router_builder] add support to `go_router_builder` for initializing a `ShellRoute` with `observers`
     <sub>[#5563](https://github.com/flutter/packages/pull/5563) merged on December 7, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/5563) over 3 days, 279 additions and 5 deletions in 5 files</sub>
