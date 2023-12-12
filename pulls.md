@@ -95,3 +95,6 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Use `SemanticsUpdateBuilder` again, remove all references to temporary `SemanticsUpdateBuilderNew`<br />
     <sub>[#139942](https://github.com/flutter/flutter/pull/139942) opened on on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139942) 11 additions and 19 deletions in 4 files</sub><br />
 
+* **[hhh](https://github.com/huanghui1998hhh)** &mdash; expose didExceedMaxLines from RenderParagraph<br />
+    <sub>[#139962](https://github.com/flutter/flutter/pull/139962) opened on on December 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139962) 10 additions and 0 deletions in 1 file</sub><br />
+
