@@ -4,7 +4,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-13 commits.
+14 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add accessibility identifier to `SemanticsProperties`<br />
     <sub>[#138331](https://github.com/flutter/flutter/pull/138331) merged on December 11, 2023 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/138331) over 4 weeks, 93 additions and 12 deletions in 9 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix SelectionArea select-word edge cases<br />
     <sub>[#136920](https://github.com/flutter/flutter/pull/136920) merged on December 11, 2023 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/136920) over 1 month, 369 additions and 58 deletions in 8 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] catch SocketException writing to ios-deploy stdin<br />
+    <sub>[#139784](https://github.com/flutter/flutter/pull/139784) merged on December 12, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/139784) over 3 days, 139 additions and 20 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Deprecate `RawKeyEvent`, `RawKeyboard`, et al.<br />
     <sub>[#136677](https://github.com/flutter/flutter/pull/136677) merged on December 11, 2023 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/136677) over 1 month, 785 additions and 196 deletions in 33 files</sub><br />
@@ -1042,7 +1046,11 @@
 
 ### December 9, 2023 to December 15, 2023
 
-3 commits.
+4 commits.
+
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; [web_benchmarks] Add support for analyzing benchmark results<br />
+    <sub>[#5630](https://github.com/flutter/packages/pull/5630) merged on December 12, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/5630) over 3 days, 566 additions and 12 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Elliott Brooks](https://github.com/elliette)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [pointer_interceptor] Fully publish pointer_interceptor package<br />
     <sub>[#5640](https://github.com/flutter/packages/pull/5640) merged on December 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5640) over 10 hours, 9 additions and 12 deletions in 3 files</sub><br />
