@@ -48,7 +48,7 @@
     <sub>[#138025](https://github.com/flutter/flutter/pull/138025) opened on on November 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138025) 150 additions and 30 deletions in 2 files</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] update Android SDK to 34<br />
-    <sub>[#138183](https://github.com/flutter/flutter/pull/138183) opened on on November 9, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/138183) 167 additions and 167 deletions in 1 file</sub><br />
+    <sub>[#138183](https://github.com/flutter/flutter/pull/138183) opened on on November 9, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/138183) 168 additions and 168 deletions in 2 files</sub><br />
 
 * **[Ann Marie Mossman](https://github.com/mossmana)** &mdash; Handle KEYCODE_DPAD_CENTER and KEYCODE_ENTER<br />
     <sub>[#138240](https://github.com/flutter/flutter/pull/138240) opened on on November 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138240) 6 additions and 0 deletions in 2 files</sub><br />
