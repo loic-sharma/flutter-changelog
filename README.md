@@ -1062,11 +1062,15 @@
 
 ### December 9, 2023 to December 15, 2023
 
-5 commits.
+6 commits.
 
 * **[Nathan Kolbas](https://github.com/NathanKolbas)** &mdash; [pigeon] Fix Kotlin generator to use provided errorClassName<br />
     <sub>[#5480](https://github.com/flutter/packages/pull/5480) merged on December 12, 2023 &mdash; **Medium:** [15 comments](https://github.com/flutter/packages/pull/5480) over 2 weeks, 255 additions and 58 deletions in 8 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [tools] Validate pubspec topic format<br />
+    <sub>[#5565](https://github.com/flutter/packages/pull/5565) merged on December 12, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/5565) over 1 week, 282 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; [web_benchmarks] Add support for analyzing benchmark results<br />
     <sub>[#5630](https://github.com/flutter/packages/pull/5630) merged on December 12, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/5630) over 3 days, 566 additions and 12 deletions in 8 files</sub><br />
