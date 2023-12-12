@@ -63,7 +63,7 @@
     <sub>[#138581](https://github.com/flutter/flutter/pull/138581) opened on on November 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138581) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Add feature guard to native assets build system target<br />
-    <sub>[#138854](https://github.com/flutter/flutter/pull/138854) opened on on November 22, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138854) 86 additions and 26 deletions in 4 files</sub><br />
+    <sub>[#138854](https://github.com/flutter/flutter/pull/138854) opened on on November 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138854) 86 additions and 26 deletions in 4 files</sub><br />
 
 * **[Fernando Rosentalski](https://github.com/talski)** &mdash; Fix InputDecorationTheme copyWith fallback<br />
     <sub>[#138914](https://github.com/flutter/flutter/pull/138914) opened on on November 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138914) 1 addition and 1 deletion in 1 file</sub><br />
