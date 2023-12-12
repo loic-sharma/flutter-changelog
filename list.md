@@ -1074,7 +1074,11 @@
 
 ### December 9, 2023 to December 15, 2023
 
-7 commits.
+8 commits.
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] updates to resize logic.
+    <sub>[#5527](https://github.com/flutter/packages/pull/5527) merged on December 12, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/5527) over 1 week, 259 additions and 52 deletions in 13 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Nathan Kolbas](https://github.com/NathanKolbas)** &mdash; [pigeon] Fix Kotlin generator to use provided errorClassName
     <sub>[#5480](https://github.com/flutter/packages/pull/5480) merged on December 12, 2023 &mdash; **Medium:** [15 comments](https://github.com/flutter/packages/pull/5480) over 2 weeks, 255 additions and 58 deletions in 8 files</sub>
