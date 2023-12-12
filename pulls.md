@@ -98,3 +98,6 @@
 * **[hhh](https://github.com/huanghui1998hhh)** &mdash; expose didExceedMaxLines from RenderParagraph<br />
     <sub>[#139962](https://github.com/flutter/flutter/pull/139962) opened on on December 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139962) 10 additions and 0 deletions in 1 file</sub><br />
 
+* **[lsaudon](https://github.com/lsaudon)** &mdash; Add Lucas Saudon to AUTHORS<br />
+    <sub>[#139965](https://github.com/flutter/flutter/pull/139965) opened on on December 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139965) 1 addition and 0 deletions in 1 file</sub><br />
+
