@@ -1098,7 +1098,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-9 commits.
+10 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] updates to resize logic.<br />
     <sub>[#5527](https://github.com/flutter/packages/pull/5527) merged on December 12, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/5527) over 1 week, 259 additions and 52 deletions in 13 files</sub><br />
@@ -1107,6 +1107,11 @@
 * **[Nathan Kolbas](https://github.com/NathanKolbas)** &mdash; [pigeon] Fix Kotlin generator to use provided errorClassName<br />
     <sub>[#5480](https://github.com/flutter/packages/pull/5480) merged on December 12, 2023 &mdash; **Medium:** [15 comments](https://github.com/flutter/packages/pull/5480) over 2 weeks, 255 additions and 58 deletions in 8 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [local_auth]: Bump androidx.fragment:fragment from 1.6.1 to 1.6.2 in /packages/local_auth/local_auth_android/android<br />
+    <sub>[#5332](https://github.com/flutter/packages/pull/5332) merged on December 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5332) over 1 month, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.fragment:fragment&package-manager=gradle&previous-version=1.6.1&new-version=1.6.2)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [tools] Validate pubspec topic format<br />
     <sub>[#5565](https://github.com/flutter/packages/pull/5565) merged on December 12, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/5565) over 1 week, 282 additions and 1 deletion in 2 files</sub><br />
