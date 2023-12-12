@@ -100,7 +100,7 @@
 <summary>57 commits...</summary>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Support conditional bundling of assets based on `--flavor`
-    <sub>[#132985](https://github.com/flutter/flutter/pull/132985) merged on December 7, 2023 &mdash; **Large:** [74 comments](https://github.com/flutter/flutter/pull/132985) over 3 months, 874 additions and 215 deletions in 30 files</sub>
+    <sub>[#132985](https://github.com/flutter/flutter/pull/132985) merged on December 7, 2023 &mdash; **Large:** [75 comments](https://github.com/flutter/flutter/pull/132985) over 3 months, 874 additions and 215 deletions in 30 files</sub>
     <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Christopher Fujino](https://github.com/christopherfujino), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Support conditional bundling of assets based on `--flavor`"
