@@ -48,7 +48,7 @@
     <sub>[#138025](https://github.com/flutter/flutter/pull/138025) opened on on November 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138025) 150 additions and 30 deletions in 2 files</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] update Android SDK to 34<br />
-    <sub>[#138183](https://github.com/flutter/flutter/pull/138183) opened on on November 9, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/138183) 168 additions and 168 deletions in 2 files</sub><br />
+    <sub>[#138183](https://github.com/flutter/flutter/pull/138183) opened on on November 9, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/138183) 171 additions and 170 deletions in 3 files</sub><br />
 
 * **[Ann Marie Mossman](https://github.com/mossmana)** &mdash; Handle KEYCODE_DPAD_CENTER and KEYCODE_ENTER<br />
     <sub>[#138240](https://github.com/flutter/flutter/pull/138240) opened on on November 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138240) 6 additions and 0 deletions in 2 files</sub><br />
@@ -88,9 +88,6 @@
 
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; Fixed: DropdownMenu throws exception when it is in any scrollable list view and scrolls quickly #139871<br />
     <sub>[#139872](https://github.com/flutter/flutter/pull/139872) opened on on December 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139872) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[hhh](https://github.com/huanghui1998hhh)** &mdash; expose didExceedMaxLines from RenderParagraph<br />
-    <sub>[#139962](https://github.com/flutter/flutter/pull/139962) opened on on December 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139962) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Add Lucas Saudon to AUTHORS<br />
     <sub>[#139965](https://github.com/flutter/flutter/pull/139965) opened on on December 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139965) 1 addition and 0 deletions in 1 file</sub><br />
