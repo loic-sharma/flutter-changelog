@@ -4,7 +4,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-12 commits.
+13 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add accessibility identifier to `SemanticsProperties`
     <sub>[#138331](https://github.com/flutter/flutter/pull/138331) merged on December 11, 2023 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/138331) over 4 weeks, 93 additions and 12 deletions in 9 files</sub>
@@ -29,6 +29,10 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; make the tar c command in prepare_package.dart verbose
     <sub>[#139687](https://github.com/flutter/flutter/pull/139687) merged on December 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139687) over 5 days, 6 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
+
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [ci.yaml] Add missing ci.yaml to runIf of android hot reload tests
+    <sub>[#139932](https://github.com/flutter/flutter/pull/139932) merged on December 11, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139932) over 4 hours, 6 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; fix typo of 'not' instead of 'now' for `useInheritedMediaQuery` 
     <sub>[#139940](https://github.com/flutter/flutter/pull/139940) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139940) over 47 minutes, 1 addition and 1 deletion in 1 file</sub>
@@ -550,7 +554,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-12 commits.
+13 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix _availability_version_check for iOS 11 and 12
     <sub>[#48624](https://github.com/flutter/engine/pull/48624) merged on December 11, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/48624) over 1 week, 260 additions and 5 deletions in 10 files</sub>
@@ -563,6 +567,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix css changes with macOS 13 and Safari
     <sub>[#48807](https://github.com/flutter/engine/pull/48807) merged on December 11, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48807) over 3 days, 16 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] recycle glyph atlas texture more aggressively.
+    <sub>[#48888](https://github.com/flutter/engine/pull/48888) merged on December 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48888) over 3 hours, 50 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `third_party/yapf` to `flutter/third_party/yapf`.
     <sub>[#48847](https://github.com/flutter/engine/pull/48847) merged on December 11, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/48847) over 3 days, 6 additions and 6 deletions in 6 files</sub>
