@@ -19,7 +19,7 @@
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Deprecate `RawKeyEvent`, `RawKeyboard`, et al.<br />
-    <sub>[#136677](https://github.com/flutter/flutter/pull/136677) merged on December 11, 2023 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/136677) over 1 month, 785 additions and 196 deletions in 33 files</sub><br />
+    <sub>[#136677](https://github.com/flutter/flutter/pull/136677) merged on December 11, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/136677) over 1 month, 785 additions and 196 deletions in 33 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] Automate Flutter Chery Picks<br />
