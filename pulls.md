@@ -48,7 +48,7 @@
     <sub>[#138025](https://github.com/flutter/flutter/pull/138025) opened on on November 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138025) 150 additions and 30 deletions in 2 files</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] update Android SDK to 34<br />
-    <sub>[#138183](https://github.com/flutter/flutter/pull/138183) opened on on November 9, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/138183) 171 additions and 170 deletions in 3 files</sub><br />
+    <sub>[#138183](https://github.com/flutter/flutter/pull/138183) opened on on November 9, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/138183) 172 additions and 171 deletions in 4 files</sub><br />
 
 * **[Ann Marie Mossman](https://github.com/mossmana)** &mdash; Handle KEYCODE_DPAD_CENTER and KEYCODE_ENTER<br />
     <sub>[#138240](https://github.com/flutter/flutter/pull/138240) opened on on November 10, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138240) 6 additions and 0 deletions in 2 files</sub><br />
@@ -91,7 +91,4 @@
 
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Add Lucas Saudon to AUTHORS<br />
     <sub>[#139965](https://github.com/flutter/flutter/pull/139965) opened on on December 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139965) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; [CP] `beta` 138434 flutter tools pathnotfoundexception<br />
-    <sub>[#140005](https://github.com/flutter/flutter/pull/140005) opened on on December 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140005) 17 additions and 1 deletion in 2 files</sub><br />
 
