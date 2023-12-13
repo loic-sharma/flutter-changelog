@@ -594,7 +594,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-22 commits.
+23 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix _availability_version_check for iOS 11 and 12<br />
     <sub>[#48624](https://github.com/flutter/engine/pull/48624) merged on December 11, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/48624) over 1 week, 260 additions and 5 deletions in 10 files</sub><br />
@@ -619,6 +619,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix css changes with macOS 13 and Safari<br />
     <sub>[#48807](https://github.com/flutter/engine/pull/48807) merged on December 11, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48807) over 3 days, 16 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Refactor surface manager mocking<br />
+    <sub>[#48953](https://github.com/flutter/engine/pull/48953) merged on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48953) over 18 hours, 55 additions and 35 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Workarounds for clang-tidy warnings in the next roll of Clang<br />
     <sub>[#48963](https://github.com/flutter/engine/pull/48963) merged on December 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48963) over 45 minutes, 61 additions and 4 deletions in 2 files</sub><br />
@@ -1118,7 +1122,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-13 commits.
+14 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] updates to resize logic.<br />
     <sub>[#5527](https://github.com/flutter/packages/pull/5527) merged on December 12, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/5527) over 1 week, 259 additions and 52 deletions in 13 files</sub><br />
@@ -1127,6 +1131,10 @@
 * **[Nathan Kolbas](https://github.com/NathanKolbas)** &mdash; [pigeon] Fix Kotlin generator to use provided errorClassName<br />
     <sub>[#5480](https://github.com/flutter/packages/pull/5480) merged on December 12, 2023 &mdash; **Medium:** [15 comments](https://github.com/flutter/packages/pull/5480) over 2 weeks, 255 additions and 58 deletions in 8 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [webview_flutter] Support for handling basic authentication requests (Android)<br />
+    <sub>[#5454](https://github.com/flutter/packages/pull/5454) merged on December 13, 2023 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/5454) over 3 weeks, 1185 additions and 362 deletions in 26 files</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [local_auth]: Bump androidx.fragment:fragment from 1.6.1 to 1.6.2 in /packages/local_auth/local_auth_android/android<br />
     <sub>[#5332](https://github.com/flutter/packages/pull/5332) merged on December 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5332) over 1 month, 6 additions and 2 deletions in 3 files</sub><br />
