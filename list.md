@@ -1118,7 +1118,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-12 commits.
+13 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] updates to resize logic.
     <sub>[#5527](https://github.com/flutter/packages/pull/5527) merged on December 12, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/5527) over 1 week, 259 additions and 52 deletions in 13 files</sub>
@@ -1148,6 +1148,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Simplify Linux implementation
     <sub>[#5376](https://github.com/flutter/packages/pull/5376) merged on December 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5376) over 1 month, 44 additions and 122 deletions in 6 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera, camera_android] Re-enable passing integration tests
+    <sub>[#5658](https://github.com/flutter/packages/pull/5658) merged on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5658) over 19 hours, 43 additions and 51 deletions in 2 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Adds @CanIgnoreReturnValue annotation
     <sub>[#5601](https://github.com/flutter/packages/pull/5601) merged on December 12, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/5601) over 5 days, 86 additions and 2 deletions in 7 files</sub>
