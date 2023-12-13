@@ -1154,7 +1154,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-18 commits.
+19 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] updates to resize logic.
     <sub>[#5527](https://github.com/flutter/packages/pull/5527) merged on December 12, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/5527) over 1 week, 259 additions and 52 deletions in 13 files</sub>
@@ -1196,6 +1196,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Simplify Linux implementation
     <sub>[#5376](https://github.com/flutter/packages/pull/5376) merged on December 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5376) over 1 month, 44 additions and 122 deletions in 6 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [path_provider] De-flake getExternalStorageDirectories test
+    <sub>[#5628](https://github.com/flutter/packages/pull/5628) merged on December 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/5628) over 5 days, 12 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_sign_in_web] Stop relying on framework internals.
     <sub>[#5660](https://github.com/flutter/packages/pull/5660) merged on December 13, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5660) over 18 hours, 47 additions and 51 deletions in 5 files</sub>
