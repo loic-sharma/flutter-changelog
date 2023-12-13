@@ -594,7 +594,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-23 commits.
+24 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix _availability_version_check for iOS 11 and 12
     <sub>[#48624](https://github.com/flutter/engine/pull/48624) merged on December 11, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/48624) over 1 week, 260 additions and 5 deletions in 10 files</sub>
@@ -668,8 +668,12 @@
     <sub>[#48881](https://github.com/flutter/engine/pull/48881) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48881) over 36 minutes, 23 additions and 11 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a constructor for `GlyphInfo`.
+    <sub>[#48971](https://github.com/flutter/engine/pull/48971) merged on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48971) over 12 hours, 29 additions and 7 deletions in 2 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Re-land "Add target to have linux_android_emulator_tests run on AVDs with Android 33 & 34"
-    <sub>[#48936](https://github.com/flutter/engine/pull/48936) merged on December 13, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48936) over 6 hours, 81 additions and 0 deletions in 2 files</sub>
+    <sub>[#48936](https://github.com/flutter/engine/pull/48936) merged on December 13, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/48936) over 6 hours, 81 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Handle resizes at the view level
