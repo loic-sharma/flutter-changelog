@@ -590,7 +590,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-20 commits.
+21 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix _availability_version_check for iOS 11 and 12<br />
     <sub>[#48624](https://github.com/flutter/engine/pull/48624) merged on December 11, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/48624) over 1 week, 260 additions and 5 deletions in 10 files</sub><br />
@@ -599,6 +599,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] PointerBinding per view<br />
     <sub>[#48248](https://github.com/flutter/engine/pull/48248) merged on December 11, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/48248) over 2 weeks, 349 additions and 287 deletions in 17 files</sub><br />
     <sub>Reviewed by: [Juanjo Tugores](https://github.com/tugorez), [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate `impeller/**.h` to header guards.<br />
+    <sub>[#48962](https://github.com/flutter/engine/pull/48962) merged on December 13, 2023 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/48962) over 30 minutes, 1384 additions and 347 deletions in 346 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web:multiview] Make CanvasKitRenderer listen for view creation/disposal events<br />
     <sub>[#48812](https://github.com/flutter/engine/pull/48812) merged on December 13, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/48812) over 5 days, 170 additions and 57 deletions in 10 files</sub><br />
