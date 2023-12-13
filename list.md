@@ -1134,7 +1134,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-15 commits.
+16 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] updates to resize logic.
     <sub>[#5527](https://github.com/flutter/packages/pull/5527) merged on December 12, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/5527) over 1 week, 259 additions and 52 deletions in 13 files</sub>
@@ -1160,6 +1160,10 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; [web_benchmarks] Add support for analyzing benchmark results
     <sub>[#5630](https://github.com/flutter/packages/pull/5630) merged on December 12, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/5630) over 3 days, 566 additions and 12 deletions in 8 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Elliott Brooks](https://github.com/elliette)</sub>
+
+* **[Michael McGuiness](https://github.com/mike-v2)** &mdash; [google_sign_in] Adopt code excerpts in README
+    <sub>[#5521](https://github.com/flutter/packages/pull/5521) merged on December 13, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/5521) over 1 week, 35 additions and 17 deletions in 5 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Michael McGuiness](https://github.com/mike-v2)** &mdash; [css_colors] Adopt code excerpts in README
     <sub>[#5478](https://github.com/flutter/packages/pull/5478) merged on December 13, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/5478) over 2 weeks, 27 additions and 11 deletions in 5 files</sub>
