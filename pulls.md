@@ -11,9 +11,6 @@
 * **[Burak İmdat](https://github.com/burakJs)** &mdash; Add viewSearchOnChanged to SearchAnchor<br />
     <sub>[#132924](https://github.com/flutter/flutter/pull/132924) opened on on August 21, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/132924) 16 additions and 2 deletions in 1 file</sub><br />
 
-* **[Delwin Mathew](https://github.com/opxdelwin)** &mdash; [feat] `RefreshIndicator.noSpinner` implementation<br />
-    <sub>[#133507](https://github.com/flutter/flutter/pull/133507) opened on on August 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/133507) 94 additions and 3 deletions in 2 files</sub><br />
-
 * **[Konstantin Dovnar](https://github.com/Vorkytaka)** &mdash; Add `tg` locale support<br />
     <sub>[#134133](https://github.com/flutter/flutter/pull/134133) opened on on September 6, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/134133) 894 additions and 0 deletions in 6 files</sub><br />
 
