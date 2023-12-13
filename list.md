@@ -594,7 +594,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-24 commits.
+26 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix _availability_version_check for iOS 11 and 12
     <sub>[#48624](https://github.com/flutter/engine/pull/48624) merged on December 11, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/48624) over 1 week, 260 additions and 5 deletions in 10 files</sub>
@@ -619,6 +619,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix css changes with macOS 13 and Safari
     <sub>[#48807](https://github.com/flutter/engine/pull/48807) merged on December 11, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48807) over 3 days, 16 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use direct tessellation geometry for simple clip shapes
+    <sub>[#48959](https://github.com/flutter/engine/pull/48959) merged on December 13, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/48959) over 17 hours, 118 additions and 17 deletions in 4 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Refactor surface manager mocking
     <sub>[#48953](https://github.com/flutter/engine/pull/48953) merged on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48953) over 18 hours, 55 additions and 35 deletions in 5 files</sub>
@@ -668,12 +672,16 @@
     <sub>[#48881](https://github.com/flutter/engine/pull/48881) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48881) over 36 minutes, 23 additions and 11 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Android] Re-land "Add target to have linux_android_emulator_tests run on AVDs with Android 33 & 34""
+    <sub>[#48988](https://github.com/flutter/engine/pull/48988) merged on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48988) over 50 seconds, 0 additions and 81 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a constructor for `GlyphInfo`.
     <sub>[#48971](https://github.com/flutter/engine/pull/48971) merged on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48971) over 12 hours, 29 additions and 7 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Re-land "Add target to have linux_android_emulator_tests run on AVDs with Android 33 & 34"
-    <sub>[#48936](https://github.com/flutter/engine/pull/48936) merged on December 13, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/48936) over 6 hours, 81 additions and 0 deletions in 2 files</sub>
+    <sub>[#48936](https://github.com/flutter/engine/pull/48936) merged on December 13, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/48936) over 6 hours, 81 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Handle resizes at the view level
@@ -1126,7 +1134,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-14 commits.
+15 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] updates to resize logic.
     <sub>[#5527](https://github.com/flutter/packages/pull/5527) merged on December 12, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/5527) over 1 week, 259 additions and 52 deletions in 13 files</sub>
@@ -1152,6 +1160,10 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; [web_benchmarks] Add support for analyzing benchmark results
     <sub>[#5630](https://github.com/flutter/packages/pull/5630) merged on December 12, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/5630) over 3 days, 566 additions and 12 deletions in 8 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Elliott Brooks](https://github.com/elliette)</sub>
+
+* **[Michael McGuiness](https://github.com/mike-v2)** &mdash; [css_colors] Adopt code excerpts in README
+    <sub>[#5478](https://github.com/flutter/packages/pull/5478) merged on December 13, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/5478) over 2 weeks, 27 additions and 11 deletions in 5 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Return false on Windows when there is no handler
     <sub>[#5359](https://github.com/flutter/packages/pull/5359) merged on December 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5359) over 1 month, 97 additions and 37 deletions in 11 files</sub>
