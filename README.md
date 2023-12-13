@@ -594,7 +594,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-27 commits.
+29 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix _availability_version_check for iOS 11 and 12<br />
     <sub>[#48624](https://github.com/flutter/engine/pull/48624) merged on December 11, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/48624) over 1 week, 260 additions and 5 deletions in 10 files</sub><br />
@@ -619,6 +619,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix css changes with macOS 13 and Safari<br />
     <sub>[#48807](https://github.com/flutter/engine/pull/48807) merged on December 11, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48807) over 3 days, 16 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Compute ContextContentOptions key via bit manipulating (instead of hashing each property).<br />
+    <sub>[#48902](https://github.com/flutter/engine/pull/48902) merged on December 13, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/48902) over 1 day, 46 additions and 13 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert Dart SDK back to 3.3.0-219.0.dev<br />
     <sub>[#48990](https://github.com/flutter/engine/pull/48990) merged on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48990) over 59 minutes, 59 additions and 56 deletions in 11 files</sub><br />
@@ -675,6 +679,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] made the blur entity test able to use the new blur<br />
     <sub>[#48881](https://github.com/flutter/engine/pull/48881) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48881) over 36 minutes, 23 additions and 11 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Allow tests to run on macOS 13<br />
+    <sub>[#48894](https://github.com/flutter/engine/pull/48894) merged on December 13, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/48894) over 1 day, 13 additions and 6 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Android] Re-land "Add target to have linux_android_emulator_tests run on AVDs with Android 33 & 34""<br />
     <sub>[#48988](https://github.com/flutter/engine/pull/48988) merged on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48988) over 50 seconds, 0 additions and 81 deletions in 2 files</sub><br />
