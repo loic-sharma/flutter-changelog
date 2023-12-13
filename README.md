@@ -4,7 +4,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-28 commits.
+30 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add accessibility identifier to `SemanticsProperties`<br />
     <sub>[#138331](https://github.com/flutter/flutter/pull/138331) merged on December 11, 2023 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/138331) over 4 weeks, 93 additions and 12 deletions in 9 files</sub><br />
@@ -63,6 +63,10 @@
     <sub>[#139519](https://github.com/flutter/flutter/pull/139519) merged on December 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139519) over 6 days, 43 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Do not use project in do last<br />
+    <sub>[#139325](https://github.com/flutter/flutter/pull/139325) merged on December 13, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/139325) over 1 week, 89 additions and 17 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
+
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add self as bundler dependabot reviewer<br />
     <sub>[#140081](https://github.com/flutter/flutter/pull/140081) merged on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140081) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
@@ -74,6 +78,10 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; make the tar c command in prepare_package.dart verbose<br />
     <sub>[#139687](https://github.com/flutter/flutter/pull/139687) merged on December 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139687) over 5 days, 6 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#140024](https://github.com/flutter/flutter/pull/140024) merged on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140024) over 19 hours, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Warn when Gradle plugins are applied using the legacy "apply script method" way"<br />
     <sub>[#140102](https://github.com/flutter/flutter/pull/140102) merged on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140102) over 1 minute, 0 additions and 206 deletions in 3 files</sub><br />

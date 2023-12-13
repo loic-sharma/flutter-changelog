@@ -86,9 +86,6 @@
 * **[asci](https://github.com/asci-00)** &mdash; [docs] Add document content related to chip shape<br />
     <sub>[#140015](https://github.com/flutter/flutter/pull/140015) opened on on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140015) 3 additions and 1 deletion in 1 file</sub><br />
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#140024](https://github.com/flutter/flutter/pull/140024) opened on on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140024) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[aimeekb](https://github.com/aimeekb)** &mdash; update CONTRIBUTING.md to include a section for new developers<br />
     <sub>[#140025](https://github.com/flutter/flutter/pull/140025) opened on on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140025) 26 additions and 0 deletions in 1 file</sub><br />
 
@@ -114,5 +111,5 @@
     <sub>[#140103](https://github.com/flutter/flutter/pull/140103) opened on on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140103) 206 additions and 0 deletions in 3 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Evaluate variables in associated domains in iOS analyze<br />
-    <sub>[#140105](https://github.com/flutter/flutter/pull/140105) opened on on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140105) 110 additions and 16 deletions in 5 files</sub><br />
+    <sub>[#140105](https://github.com/flutter/flutter/pull/140105) opened on on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140105) 108 additions and 16 deletions in 5 files</sub><br />
 
