@@ -590,7 +590,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-21 commits.
+22 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix _availability_version_check for iOS 11 and 12
     <sub>[#48624](https://github.com/flutter/engine/pull/48624) merged on December 11, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/48624) over 1 week, 260 additions and 5 deletions in 10 files</sub>
@@ -615,6 +615,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix css changes with macOS 13 and Safari
     <sub>[#48807](https://github.com/flutter/engine/pull/48807) merged on December 11, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48807) over 3 days, 16 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Workarounds for clang-tidy warnings in the next roll of Clang
+    <sub>[#48963](https://github.com/flutter/engine/pull/48963) merged on December 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48963) over 45 minutes, 61 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `third_party/swiftshader`, roll buildroot `DEPS`.
     <sub>[#48946](https://github.com/flutter/engine/pull/48946) merged on December 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48946) over 1 hour, 15 additions and 15 deletions in 10 files</sub>
