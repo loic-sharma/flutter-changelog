@@ -89,3 +89,6 @@
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Add Lucas Saudon to AUTHORS<br />
     <sub>[#139965](https://github.com/flutter/flutter/pull/139965) opened on on December 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139965) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[asci](https://github.com/asci-00)** &mdash; [docs] Add document content related to chip shape<br />
+    <sub>[#140015](https://github.com/flutter/flutter/pull/140015) opened on on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140015) 3 additions and 1 deletion in 1 file</sub><br />
+

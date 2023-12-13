@@ -590,7 +590,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-18 commits.
+20 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix _availability_version_check for iOS 11 and 12
     <sub>[#48624](https://github.com/flutter/engine/pull/48624) merged on December 11, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/48624) over 1 week, 260 additions and 5 deletions in 10 files</sub>
@@ -599,6 +599,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] PointerBinding per view
     <sub>[#48248](https://github.com/flutter/engine/pull/48248) merged on December 11, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/48248) over 2 weeks, 349 additions and 287 deletions in 17 files</sub>
     <sub>Reviewed by: [Juanjo Tugores](https://github.com/tugorez), [David Iglesias](https://github.com/ditman)</sub>
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web:multiview] Make CanvasKitRenderer listen for view creation/disposal events
+    <sub>[#48812](https://github.com/flutter/engine/pull/48812) merged on December 13, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/48812) over 5 days, 170 additions and 57 deletions in 10 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Direct tessellation of simple filled round rects
     <sub>[#48919](https://github.com/flutter/engine/pull/48919) merged on December 12, 2023 &mdash; **Medium:** [8 comments](https://github.com/flutter/engine/pull/48919) over 12 hours, 423 additions and 29 deletions in 24 files</sub>
@@ -647,6 +651,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] made the blur entity test able to use the new blur
     <sub>[#48881](https://github.com/flutter/engine/pull/48881) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48881) over 36 minutes, 23 additions and 11 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Re-land "Add target to have linux_android_emulator_tests run on AVDs with Android 33 & 34"
+    <sub>[#48936](https://github.com/flutter/engine/pull/48936) merged on December 13, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48936) over 6 hours, 81 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Handle resizes at the view level
     <sub>[#48892](https://github.com/flutter/engine/pull/48892) merged on December 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48892) over 20 hours, 141 additions and 91 deletions in 3 files</sub>
