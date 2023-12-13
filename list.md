@@ -1118,7 +1118,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-11 commits.
+12 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] updates to resize logic.
     <sub>[#5527](https://github.com/flutter/packages/pull/5527) merged on December 12, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/5527) over 1 week, 259 additions and 52 deletions in 13 files</sub>
@@ -1140,6 +1140,10 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; [web_benchmarks] Add support for analyzing benchmark results
     <sub>[#5630](https://github.com/flutter/packages/pull/5630) merged on December 12, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/5630) over 3 days, 566 additions and 12 deletions in 8 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Elliott Brooks](https://github.com/elliette)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Return false on Windows when there is no handler
+    <sub>[#5359](https://github.com/flutter/packages/pull/5359) merged on December 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5359) over 1 month, 97 additions and 37 deletions in 11 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Simplify Linux implementation
     <sub>[#5376](https://github.com/flutter/packages/pull/5376) merged on December 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5376) over 1 month, 44 additions and 122 deletions in 6 files</sub>
