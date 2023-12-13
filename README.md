@@ -4,7 +4,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-26 commits.
+27 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add accessibility identifier to `SemanticsProperties`<br />
     <sub>[#138331](https://github.com/flutter/flutter/pull/138331) merged on December 11, 2023 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/138331) over 4 weeks, 93 additions and 12 deletions in 9 files</sub><br />
@@ -13,6 +13,11 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix SelectionArea select-word edge cases<br />
     <sub>[#136920](https://github.com/flutter/flutter/pull/136920) merged on December 11, 2023 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/136920) over 1 month, 369 additions and 58 deletions in 8 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Swap iOS back button icon in Material app bar<br />
+    <sub>[#134754](https://github.com/flutter/flutter/pull/134754) merged on December 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134754) over 3 months, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+    <sub><details><summary>3 images...</summary><img width="295" alt="Screenshot 2023-09-14 at 11 24 10 AM" src="https://github.com/flutter/flutter/assets/58190796/242e5fae-1107-4e1d-9749-a988462e7767"><img width="285" alt="Screenshot 2023-09-14 at 11 23 50 AM" src="https://github.com/flutter/flutter/assets/58190796/4df1ecaa-4313-4eb3-9cf3-335a777e133f"><img width="283" alt="Screenshot 2023-09-14 at 10 57 34 AM" src="https://github.com/flutter/flutter/assets/58190796/ae92fb35-40fd-4ee0-be60-cd452f16b2e3"></details></sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] catch SocketException writing to ios-deploy stdin<br />
     <sub>[#139784](https://github.com/flutter/flutter/pull/139784) merged on December 12, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/139784) over 3 days, 139 additions and 20 deletions in 4 files</sub><br />
@@ -1162,7 +1167,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-19 commits.
+21 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] updates to resize logic.<br />
     <sub>[#5527](https://github.com/flutter/packages/pull/5527) merged on December 12, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/5527) over 1 week, 259 additions and 52 deletions in 13 files</sub><br />
@@ -1171,6 +1176,10 @@
 * **[Nathan Kolbas](https://github.com/NathanKolbas)** &mdash; [pigeon] Fix Kotlin generator to use provided errorClassName<br />
     <sub>[#5480](https://github.com/flutter/packages/pull/5480) merged on December 12, 2023 &mdash; **Medium:** [15 comments](https://github.com/flutter/packages/pull/5480) over 2 weeks, 255 additions and 58 deletions in 8 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [google_sign_in] Update (web) example app.<br />
+    <sub>[#5634](https://github.com/flutter/packages/pull/5634) merged on December 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/5634) over 4 days, 33 additions and 13 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [webview_flutter] Support for handling basic authentication requests (Android)<br />
     <sub>[#5454](https://github.com/flutter/packages/pull/5454) merged on December 13, 2023 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/5454) over 3 weeks, 1185 additions and 362 deletions in 26 files</sub><br />
@@ -1188,6 +1197,10 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; [web_benchmarks] Add support for analyzing benchmark results<br />
     <sub>[#5630](https://github.com/flutter/packages/pull/5630) merged on December 12, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/5630) over 3 days, 566 additions and 12 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Elliott Brooks](https://github.com/elliette)</sub><br />
+
+* **[Michael McGuiness](https://github.com/mike-v2)** &mdash; [tool] Add support for `.java`, `.gradle`, `.sh`, and `.m` files…<br />
+    <sub>[#5567](https://github.com/flutter/packages/pull/5567) merged on December 13, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/5567) over 1 week, 184 additions and 62 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Michael McGuiness](https://github.com/mike-v2)** &mdash; [google_sign_in] Adopt code excerpts in README<br />
     <sub>[#5521](https://github.com/flutter/packages/pull/5521) merged on December 13, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/5521) over 1 week, 35 additions and 17 deletions in 5 files</sub><br />

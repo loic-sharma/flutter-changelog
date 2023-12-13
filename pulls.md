@@ -107,3 +107,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Remove header guard from generated key map<br />
     <sub>[#140082](https://github.com/flutter/flutter/pull/140082) opened on on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140082) 0 additions and 5 deletions in 1 file</sub><br />
 
+* **[lsaudon](https://github.com/lsaudon)** &mdash; feat: Add onTapAlwaysCalled in TextFormField<br />
+    <sub>[#140089](https://github.com/flutter/flutter/pull/140089) opened on on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140089) 23 additions and 0 deletions in 2 files</sub><br />
+
