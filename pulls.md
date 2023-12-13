@@ -104,3 +104,6 @@
 * **[Gustl22](https://github.com/Gustl22)** &mdash; Revert automated changes made to deprecated settings.gradle (plugins.each) <br />
     <sub>[#140037](https://github.com/flutter/flutter/pull/140037) opened on on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140037) 53 additions and 22 deletions in 3 files</sub><br />
 
+* **[Gustl22](https://github.com/Gustl22)** &mdash; Adapt wording for required Android SDK for plugins<br />
+    <sub>[#140043](https://github.com/flutter/flutter/pull/140043) opened on on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140043) 2 additions and 2 deletions in 2 files</sub><br />
+
