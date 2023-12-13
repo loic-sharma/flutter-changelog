@@ -1167,7 +1167,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-21 commits.
+22 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] updates to resize logic.
     <sub>[#5527](https://github.com/flutter/packages/pull/5527) merged on December 12, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/5527) over 1 week, 259 additions and 52 deletions in 13 files</sub>
@@ -1193,6 +1193,10 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [tools] Validate pubspec topic format
     <sub>[#5565](https://github.com/flutter/packages/pull/5565) merged on December 12, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/5565) over 1 week, 282 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [ci][web] Ignore always_specify_types for JSArray.
+    <sub>[#5669](https://github.com/flutter/packages/pull/5669) merged on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5669) over 18 minutes, 12 additions and 0 deletions in 4 files</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo)</sub>
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; [web_benchmarks] Add support for analyzing benchmark results
     <sub>[#5630](https://github.com/flutter/packages/pull/5630) merged on December 12, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/5630) over 3 days, 566 additions and 12 deletions in 8 files</sub>
