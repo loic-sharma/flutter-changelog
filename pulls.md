@@ -62,9 +62,6 @@
 * **[Fernando Rosentalski](https://github.com/talski)** &mdash; Fix InputDecorationTheme copyWith fallback<br />
     <sub>[#138914](https://github.com/flutter/flutter/pull/138914) opened on on November 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138914) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Remove deprecated `TextTheme` members<br />
-    <sub>[#139255](https://github.com/flutter/flutter/pull/139255) opened on on November 29, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/139255) 76 additions and 332 deletions in 9 files</sub><br />
-
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Use ImageFilter.compose on all platforms now that it is supported<br />
     <sub>[#139332](https://github.com/flutter/flutter/pull/139332) opened on on November 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139332) 1 addition and 8 deletions in 1 file</sub><br />
 
@@ -109,4 +106,7 @@
 
 * **[lsaudon](https://github.com/lsaudon)** &mdash; fix: Use colorScheme.onSurface in DesktopTextSelectionToolbarButton<br />
     <sub>[#140098](https://github.com/flutter/flutter/pull/140098) opened on on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140098) 2 additions and 11 deletions in 1 file</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Make tests more resilient to Skia gold failures and refactor flutter_goldens for extensive technical debt removal<br />
+    <sub>[#140101](https://github.com/flutter/flutter/pull/140101) opened on on December 13, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/140101) 1707 additions and 1484 deletions in 13 files</sub><br />
 
