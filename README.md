@@ -1134,7 +1134,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-16 commits.
+17 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] updates to resize logic.<br />
     <sub>[#5527](https://github.com/flutter/packages/pull/5527) merged on December 12, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/5527) over 1 week, 259 additions and 52 deletions in 13 files</sub><br />
@@ -1176,6 +1176,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Simplify Linux implementation<br />
     <sub>[#5376](https://github.com/flutter/packages/pull/5376) merged on December 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5376) over 1 month, 44 additions and 122 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Bump Gradle version to 7.6.3<br />
+    <sub>[#5522](https://github.com/flutter/packages/pull/5522) merged on December 13, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/5522) over 1 week, 171 additions and 88 deletions in 71 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks), [Gray Mackall](https://github.com/gmackall), and [2 others](https://github.com/flutter/packages/pull/5522)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera, camera_android] Re-enable passing integration tests<br />
     <sub>[#5658](https://github.com/flutter/packages/pull/5658) merged on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5658) over 19 hours, 43 additions and 51 deletions in 2 files</sub><br />

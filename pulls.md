@@ -101,3 +101,9 @@
 * **[Drew Roen](https://github.com/drewroengoogle)** &mdash; [WIP] Testing engine PR<br />
     <sub>[#140062](https://github.com/flutter/flutter/pull/140062) opened on on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140062) 2 additions and 1 deletion in 2 files</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add self back to CODEOWNERS<br />
+    <sub>[#140080](https://github.com/flutter/flutter/pull/140080) opened on on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140080) 2 additions and 0 deletions in 1 file</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add self as bundler dependabot reviewer<br />
+    <sub>[#140081](https://github.com/flutter/flutter/pull/140081) opened on on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140081) 1 addition and 1 deletion in 1 file</sub><br />
+
