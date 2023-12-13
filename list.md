@@ -615,7 +615,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-30 commits.
+31 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix _availability_version_check for iOS 11 and 12
     <sub>[#48624](https://github.com/flutter/engine/pull/48624) merged on December 11, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/48624) over 1 week, 260 additions and 5 deletions in 10 files</sub>
@@ -624,6 +624,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] PointerBinding per view
     <sub>[#48248](https://github.com/flutter/engine/pull/48248) merged on December 11, 2023 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/48248) over 2 weeks, 349 additions and 287 deletions in 17 files</sub>
     <sub>Reviewed by: [Juanjo Tugores](https://github.com/tugorez), [David Iglesias](https://github.com/ditman)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Move to `FlutterCompositor` for rendering
+    <sub>[#48849](https://github.com/flutter/engine/pull/48849) merged on December 13, 2023 &mdash; **Large:** [37 comments](https://github.com/flutter/engine/pull/48849) over 5 days, 753 additions and 29 deletions in 16 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt), [yaakovschectman](https://github.com/yaakovschectman), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Made the new blur work on devices without the decal address mode
     <sub>[#48899](https://github.com/flutter/engine/pull/48899) merged on December 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/48899) over 1 day, 159 additions and 19 deletions in 17 files</sub>

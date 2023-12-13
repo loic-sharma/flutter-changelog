@@ -110,3 +110,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Make tests more resilient to Skia gold failures and refactor flutter_goldens for extensive technical debt removal<br />
     <sub>[#140101](https://github.com/flutter/flutter/pull/140101) opened on on December 13, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/140101) 1707 additions and 1484 deletions in 13 files</sub><br />
 
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Reland "Warn when Gradle plugins are applied using the legacy apply script method<br />
+    <sub>[#140103](https://github.com/flutter/flutter/pull/140103) opened on on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140103) 206 additions and 0 deletions in 3 files</sub><br />
+
