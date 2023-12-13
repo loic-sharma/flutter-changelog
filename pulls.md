@@ -113,3 +113,6 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Reland "Warn when Gradle plugins are applied using the legacy apply script method<br />
     <sub>[#140103](https://github.com/flutter/flutter/pull/140103) opened on on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140103) 206 additions and 0 deletions in 3 files</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Evaluate variables in associated domains in iOS analyze<br />
+    <sub>[#140105](https://github.com/flutter/flutter/pull/140105) opened on on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140105) 110 additions and 16 deletions in 5 files</sub><br />
+
