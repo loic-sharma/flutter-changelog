@@ -1428,8 +1428,8 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [pointer_interceptor] Add platform interface
-    <sub>[#5499](https://github.com/flutter/packages/pull/5499) merged on November 30, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/5499) over 1 day, 199 additions and 0 deletions in 10 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub>
+    <sub>[#5499](https://github.com/flutter/packages/pull/5499) merged on November 30, 2023 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/5499) over 1 day, 199 additions and 0 deletions in 10 files</sub>
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.9.20 to 1.9.21 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#5483](https://github.com/flutter/packages/pull/5483) merged on November 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5483) over 1 day, 1 addition and 1 deletion in 1 file</sub>
