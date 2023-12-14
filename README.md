@@ -1316,7 +1316,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-26 commits.
+27 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] updates to resize logic.<br />
     <sub>[#5527](https://github.com/flutter/packages/pull/5527) merged on December 12, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/5527) over 1 week, 259 additions and 52 deletions in 13 files</sub><br />
@@ -1382,6 +1382,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Simplify Linux implementation<br />
     <sub>[#5376](https://github.com/flutter/packages/pull/5376) merged on December 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5376) over 1 month, 44 additions and 122 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [path_provider_android] Re-enable getExternalStorageDirectories test<br />
+    <sub>[#5668](https://github.com/flutter/packages/pull/5668) merged on December 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5668) over 23 hours, 1 addition and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [path_provider] De-flake getExternalStorageDirectories test<br />
     <sub>[#5628](https://github.com/flutter/packages/pull/5628) merged on December 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/5628) over 5 days, 12 additions and 2 deletions in 2 files</sub><br />
