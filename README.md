@@ -199,7 +199,7 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Revert "Dynamic view sizing"<br />
-    <sub>[#140165](https://github.com/flutter/flutter/pull/140165) merged on December 14, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/140165) over 32 minutes, 43 additions and 291 deletions in 16 files</sub><br />
+    <sub>[#140165](https://github.com/flutter/flutter/pull/140165) merged on December 14, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/140165) over 32 minutes, 43 additions and 291 deletions in 16 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 ### December 2, 2023 to December 8, 2023
