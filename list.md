@@ -1253,7 +1253,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-22 commits.
+23 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] updates to resize logic.
     <sub>[#5527](https://github.com/flutter/packages/pull/5527) merged on December 12, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/5527) over 1 week, 259 additions and 52 deletions in 13 files</sub>
@@ -1279,6 +1279,10 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [tools] Validate pubspec topic format
     <sub>[#5565](https://github.com/flutter/packages/pull/5565) merged on December 12, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/5565) over 1 week, 282 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Post 3.16 stable tech debt clean up
+    <sub>[#5671](https://github.com/flutter/packages/pull/5671) merged on December 14, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/5671) over 14 hours, 240 additions and 104 deletions in 7 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci][web] Ignore always_specify_types for JSArray.
     <sub>[#5669](https://github.com/flutter/packages/pull/5669) merged on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5669) over 18 minutes, 12 additions and 0 deletions in 4 files</sub>
