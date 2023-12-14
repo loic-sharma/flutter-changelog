@@ -1320,7 +1320,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-27 commits.
+29 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] updates to resize logic.<br />
     <sub>[#5527](https://github.com/flutter/packages/pull/5527) merged on December 12, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/5527) over 1 week, 259 additions and 52 deletions in 13 files</sub><br />
@@ -1358,6 +1358,10 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; [web_benchmarks] Add support for analyzing benchmark results<br />
     <sub>[#5630](https://github.com/flutter/packages/pull/5630) merged on December 12, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/5630) over 3 days, 566 additions and 12 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Elliott Brooks](https://github.com/elliette)</sub><br />
+
+* **[Chris Yang](https://github.com/cyanglaz)** &mdash; [in_app_purchase_storekit]add storekit configuration to the example app<br />
+    <sub>[#5411](https://github.com/flutter/packages/pull/5411) merged on December 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/5411) over 4 weeks, 63 additions and 5 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ios_platform_images] Adopt code-excerpts<br />
     <sub>[#5682](https://github.com/flutter/packages/pull/5682) merged on December 14, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/5682) over 3 hours, 18 additions and 22 deletions in 5 files</sub><br />
@@ -1398,6 +1402,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_sign_in_web] Stop relying on framework internals.<br />
     <sub>[#5660](https://github.com/flutter/packages/pull/5660) merged on December 13, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5660) over 18 hours, 47 additions and 51 deletions in 5 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; [camera_platform_interface] Adds support for setting the image file format<br />
+    <sub>[#5593](https://github.com/flutter/packages/pull/5593) merged on December 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5593) over 1 week, 80 additions and 3 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[ndelanou](https://github.com/ndelanou)** &mdash; [go_router] fix(docs): typo in example extra_codec.dart<br />
     <sub>[#5570](https://github.com/flutter/packages/pull/5570) merged on December 14, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/5570) over 1 week, 17 additions and 1 deletion in 2 files</sub><br />
