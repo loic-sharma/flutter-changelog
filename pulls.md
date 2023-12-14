@@ -89,9 +89,6 @@
 * **[aimeekb](https://github.com/aimeekb)** &mdash; update CONTRIBUTING.md to include a section for new developers<br />
     <sub>[#140025](https://github.com/flutter/flutter/pull/140025) opened on on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140025) 26 additions and 0 deletions in 1 file</sub><br />
 
-* **[hgraceb](https://github.com/hgraceb)** &mdash; Add commonly used parameter names<br />
-    <sub>[#140027](https://github.com/flutter/flutter/pull/140027) opened on on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140027) 21 additions and 21 deletions in 17 files</sub><br />
-
 * **[Drew Roen](https://github.com/drewroengoogle)** &mdash; [WIP] Testing engine PR<br />
     <sub>[#140062](https://github.com/flutter/flutter/pull/140062) opened on on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140062) 2 additions and 1 deletion in 2 files</sub><br />
 
@@ -106,10 +103,4 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Make tests more resilient to Skia gold failures and refactor flutter_goldens for extensive technical debt removal<br />
     <sub>[#140101](https://github.com/flutter/flutter/pull/140101) opened on on December 13, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/140101) 1707 additions and 1484 deletions in 13 files</sub><br />
-
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Reland "Warn when Gradle plugins are applied using the legacy apply script method<br />
-    <sub>[#140103](https://github.com/flutter/flutter/pull/140103) opened on on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140103) 206 additions and 0 deletions in 3 files</sub><br />
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Evaluate variables in associated domains in iOS analyze<br />
-    <sub>[#140105](https://github.com/flutter/flutter/pull/140105) opened on on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140105) 108 additions and 16 deletions in 5 files</sub><br />
 
