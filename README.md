@@ -656,7 +656,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-34 commits.
+35 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix _availability_version_check for iOS 11 and 12<br />
     <sub>[#48624](https://github.com/flutter/engine/pull/48624) merged on December 11, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/48624) over 1 week, 260 additions and 5 deletions in 10 files</sub><br />
@@ -678,6 +678,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Runtime shader import.<br />
     <sub>[#48875](https://github.com/flutter/engine/pull/48875) merged on December 14, 2023 &mdash; **Extra large:** [31 comments](https://github.com/flutter/engine/pull/48875) over 2 days, 1339 additions and 325 deletions in 33 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add xcprivacy privacy manifest to iOS framework<br />
+    <sub>[#48951](https://github.com/flutter/engine/pull/48951) merged on December 14, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/48951) over 1 day, 46 additions and 0 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Made the new blur work on devices without the decal address mode<br />
     <sub>[#48899](https://github.com/flutter/engine/pull/48899) merged on December 13, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/48899) over 1 day, 159 additions and 19 deletions in 17 files</sub><br />
@@ -706,10 +710,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Made the new blur support 1D blurs<br />
     <sub>[#49001](https://github.com/flutter/engine/pull/49001) merged on December 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49001) over 2 hours, 71 additions and 36 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert Dart SDK back to 3.3.0-219.0.dev<br />
-    <sub>[#48990](https://github.com/flutter/engine/pull/48990) merged on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48990) over 59 minutes, 59 additions and 56 deletions in 11 files</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use direct tessellation geometry for simple clip shapes<br />
     <sub>[#48959](https://github.com/flutter/engine/pull/48959) merged on December 13, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/48959) over 17 hours, 118 additions and 17 deletions in 4 files</sub><br />
@@ -743,13 +743,13 @@
     <sub>[#48847](https://github.com/flutter/engine/pull/48847) merged on December 11, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/48847) over 3 days, 6 additions and 6 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert Dart SDK back to 3.3.0-219.0.dev<br />
+    <sub>[#48990](https://github.com/flutter/engine/pull/48990) merged on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48990) over 59 minutes, 59 additions and 56 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] made the blur entity test able to use the new blur<br />
     <sub>[#48881](https://github.com/flutter/engine/pull/48881) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48881) over 36 minutes, 23 additions and 11 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add support for exposing accessibility identifier as accessibilityIdentifier on iOS<br />
-    <sub>[#48858](https://github.com/flutter/engine/pull/48858) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48858) over 2 days, 25 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `third_party/stb` to `flutter/third_party`.<br />
     <sub>[#48845](https://github.com/flutter/engine/pull/48845) merged on December 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48845) over 3 days, 11 additions and 9 deletions in 8 files</sub><br />
@@ -759,13 +759,13 @@
     <sub>[#48882](https://github.com/flutter/engine/pull/48882) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48882) over 4 hours, 15 additions and 12 deletions in 6 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add support for exposing accessibility identifier as accessibilityIdentifier on iOS<br />
+    <sub>[#48858](https://github.com/flutter/engine/pull/48858) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48858) over 2 days, 25 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove trace events that have outlived their usefulness.<br />
     <sub>[#48856](https://github.com/flutter/engine/pull/48856) merged on December 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48856) over 2 days, 0 additions and 14 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Android] Re-land "Add target to have linux_android_emulator_tests run on AVDs with Android 33 & 34""<br />
-    <sub>[#48988](https://github.com/flutter/engine/pull/48988) merged on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48988) over 50 seconds, 0 additions and 81 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a constructor for `GlyphInfo`.<br />
     <sub>[#48971](https://github.com/flutter/engine/pull/48971) merged on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48971) over 12 hours, 29 additions and 7 deletions in 2 files</sub><br />
@@ -794,6 +794,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Allow tests to run on macOS 13<br />
     <sub>[#48894](https://github.com/flutter/engine/pull/48894) merged on December 13, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/48894) over 1 day, 13 additions and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Android] Re-land "Add target to have linux_android_emulator_tests run on AVDs with Android 33 & 34""<br />
+    <sub>[#48988](https://github.com/flutter/engine/pull/48988) merged on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48988) over 50 seconds, 0 additions and 81 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### December 2, 2023 to December 8, 2023
 
