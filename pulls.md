@@ -104,3 +104,6 @@
 * **[Grumpy](https://github.com/ArthurREGNARD)** &mdash; Add colorsScheme to easy acces colors with hight contrast<br />
     <sub>[#140136](https://github.com/flutter/flutter/pull/140136) opened on on December 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140136) 163 additions and 0 deletions in 3 files</sub><br />
 
+* **[huycozy](https://github.com/huycozy)** &mdash; Make improvements to existing new issue templates <br />
+    <sub>[#140142](https://github.com/flutter/flutter/pull/140142) opened on on December 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140142) 42 additions and 54 deletions in 7 files</sub><br />
+
