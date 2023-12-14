@@ -4,7 +4,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-45 commits.
+46 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add accessibility identifier to `SemanticsProperties`
     <sub>[#138331](https://github.com/flutter/flutter/pull/138331) merged on December 11, 2023 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/138331) over 4 weeks, 93 additions and 12 deletions in 9 files</sub>
@@ -58,14 +58,6 @@
     <sub>[#139524](https://github.com/flutter/flutter/pull/139524) merged on December 12, 2023 &mdash; **Small:** [47 comments](https://github.com/flutter/flutter/pull/139524) over 1 week, 75 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
-* **[hangyu](https://github.com/hangyujin)** &mdash; Handle the case when _CupertinoBackGestureDetector is disposed during the drag. 
-    <sub>[#139585](https://github.com/flutter/flutter/pull/139585) merged on December 11, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139585) over 5 days, 106 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix dayPeriodColor handling of non-MaterialStateColors
-    <sub>[#139845](https://github.com/flutter/flutter/pull/139845) merged on December 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139845) over 3 days, 56 additions and 6 deletions in 2 files</sub>
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Catch `Stopwatch` with static analysis
     <sub>[#140019](https://github.com/flutter/flutter/pull/140019) merged on December 14, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/140019) over 23 hours, 312 additions and 120 deletions in 10 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
@@ -77,6 +69,14 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Select simulator runtime for tests based on Xcode's preferred runtime build
     <sub>[#139919](https://github.com/flutter/flutter/pull/139919) merged on December 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139919) over 1 day, 42 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[hangyu](https://github.com/hangyujin)** &mdash; Handle the case when _CupertinoBackGestureDetector is disposed during the drag. 
+    <sub>[#139585](https://github.com/flutter/flutter/pull/139585) merged on December 11, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139585) over 5 days, 106 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix dayPeriodColor handling of non-MaterialStateColors
+    <sub>[#139845](https://github.com/flutter/flutter/pull/139845) merged on December 12, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139845) over 3 days, 56 additions and 6 deletions in 2 files</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] update Android SDK to 34
     <sub>[#138183](https://github.com/flutter/flutter/pull/138183) merged on December 14, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/138183) over 1 month, 182 additions and 183 deletions in 8 files</sub>
@@ -114,21 +114,21 @@
     <sub>[#140081](https://github.com/flutter/flutter/pull/140081) merged on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140081) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; make the tar c command in prepare_package.dart verbose
-    <sub>[#139687](https://github.com/flutter/flutter/pull/139687) merged on December 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139687) over 5 days, 6 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update Gallery lockfiles for the new version of the video_player plugin
     <sub>[#139832](https://github.com/flutter/flutter/pull/139832) merged on December 12, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139832) over 3 days, 68 additions and 67 deletions in 3 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; make the tar c command in prepare_package.dart verbose
+    <sub>[#139687](https://github.com/flutter/flutter/pull/139687) merged on December 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139687) over 5 days, 6 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
+
+* **[Tim Maffett](https://github.com/timmaffett)** &mdash; fix typo of 'not' instead of 'now' for `useInheritedMediaQuery` 
+    <sub>[#139940](https://github.com/flutter/flutter/pull/139940) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139940) over 47 minutes, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Use dart analyze package for `num.clamp`
     <sub>[#139867](https://github.com/flutter/flutter/pull/139867) merged on December 11, 2023 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/139867) over 1 day, 283 additions and 98 deletions in 21 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
-* **[hgraceb](https://github.com/hgraceb)** &mdash; Improve slider's value indicator display test
-    <sub>[#139198](https://github.com/flutter/flutter/pull/139198) merged on December 11, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/139198) over 1 week, 66 additions and 23 deletions in 3 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
     <sub>[#139969](https://github.com/flutter/flutter/pull/139969) merged on December 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139969) over 45 minutes, 2 additions and 2 deletions in 1 file</sub>
@@ -142,10 +142,6 @@
     <sub>[#140043](https://github.com/flutter/flutter/pull/140043) merged on December 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140043) over 20 hours, 2 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Tim Maffett](https://github.com/timmaffett)** &mdash; fix typo of 'not' instead of 'now' for `useInheritedMediaQuery` 
-    <sub>[#139940](https://github.com/flutter/flutter/pull/139940) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139940) over 47 minutes, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from 9f7004e3e30e to 45b95f264d63 (1 revision)"
     <sub>[#140123](https://github.com/flutter/flutter/pull/140123) merged on December 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140123) over 1 minute, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
@@ -154,17 +150,17 @@
     <sub>[#139938](https://github.com/flutter/flutter/pull/139938) merged on December 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139938) over 2 days, 11 additions and 33 deletions in 1 file</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
-* **[Tirth](https://github.com/piedcipher)** &mdash; Renamed `appbar` to `app_bar` directory in API Examples Tests
-    <sub>[#139922](https://github.com/flutter/flutter/pull/139922) merged on December 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139922) over 5 hours, 0 additions and 6 deletions in 7 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub>
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Implement `switch` expressions in `examples/` and `animation/`
+    <sub>[#139882](https://github.com/flutter/flutter/pull/139882) merged on December 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139882) over 1 day, 33 additions and 50 deletions in 6 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Optimize file transfer when using proxied devices.
     <sub>[#139968](https://github.com/flutter/flutter/pull/139968) merged on December 14, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/139968) over 1 day, 257 additions and 30 deletions in 5 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Implement `switch` expressions in `examples/` and `animation/`
-    <sub>[#139882](https://github.com/flutter/flutter/pull/139882) merged on December 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139882) over 1 day, 33 additions and 50 deletions in 6 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+* **[Tirth](https://github.com/piedcipher)** &mdash; Renamed `appbar` to `app_bar` directory in API Examples Tests
+    <sub>[#139922](https://github.com/flutter/flutter/pull/139922) merged on December 11, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139922) over 5 hours, 0 additions and 6 deletions in 7 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
     <sub>[#140024](https://github.com/flutter/flutter/pull/140024) merged on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140024) over 19 hours, 2 additions and 2 deletions in 1 file</sub>
@@ -186,9 +182,17 @@
     <sub>[#139913](https://github.com/flutter/flutter/pull/139913) merged on December 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/139913) over 1 day, 2 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
+* **[hgraceb](https://github.com/hgraceb)** &mdash; Improve slider's value indicator display test
+    <sub>[#139198](https://github.com/flutter/flutter/pull/139198) merged on December 11, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/139198) over 1 week, 66 additions and 23 deletions in 3 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [reland] Support conditional bundling of assets based on `--flavor`
     <sub>[#139834](https://github.com/flutter/flutter/pull/139834) merged on December 14, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/139834) over 5 days, 883 additions and 215 deletions in 30 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Revert "Dynamic view sizing"
+    <sub>[#140165](https://github.com/flutter/flutter/pull/140165) merged on December 14, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/140165) over 32 minutes, 43 additions and 291 deletions in 16 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 ### December 2, 2023 to December 8, 2023
 
@@ -686,7 +690,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-37 commits.
+38 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix _availability_version_check for iOS 11 and 12
     <sub>[#48624](https://github.com/flutter/engine/pull/48624) merged on December 11, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/48624) over 1 week, 260 additions and 5 deletions in 10 files</sub>
@@ -730,24 +734,20 @@
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Direct tessellation of simple filled round rects
-    <sub>[#48919](https://github.com/flutter/engine/pull/48919) merged on December 12, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/engine/pull/48919) over 12 hours, 423 additions and 29 deletions in 24 files</sub>
+    <sub>[#48919](https://github.com/flutter/engine/pull/48919) merged on December 12, 2023 &mdash; **Medium:** [10 comments](https://github.com/flutter/engine/pull/48919) over 12 hours, 423 additions and 29 deletions in 24 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Brandon DeRosier](https://github.com/bdero)</sub>
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix css changes with macOS 13 and Safari
-    <sub>[#48807](https://github.com/flutter/engine/pull/48807) merged on December 11, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48807) over 3 days, 16 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Windows] Move to `FlutterCompositor` for rendering"
     <sub>[#49015](https://github.com/flutter/engine/pull/49015) merged on December 14, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/49015) over 41 seconds, 29 additions and 753 deletions in 16 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix css changes with macOS 13 and Safari
+    <sub>[#48807](https://github.com/flutter/engine/pull/48807) merged on December 11, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48807) over 3 days, 16 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Compute ContextContentOptions key via bit manipulating (instead of hashing each property).
     <sub>[#48902](https://github.com/flutter/engine/pull/48902) merged on December 13, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/48902) over 1 day, 46 additions and 13 deletions in 4 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [gaaclarke](https://github.com/gaaclarke)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert Dart SDK back to 3.3.0-219.0.dev
-    <sub>[#48990](https://github.com/flutter/engine/pull/48990) merged on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48990) over 59 minutes, 59 additions and 56 deletions in 11 files</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use direct tessellation geometry for simple clip shapes
     <sub>[#48959](https://github.com/flutter/engine/pull/48959) merged on December 13, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/48959) over 17 hours, 118 additions and 17 deletions in 4 files</sub>
@@ -781,6 +781,10 @@
     <sub>[#49001](https://github.com/flutter/engine/pull/49001) merged on December 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49001) over 2 hours, 71 additions and 36 deletions in 6 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert Dart SDK back to 3.3.0-219.0.dev
+    <sub>[#48990](https://github.com/flutter/engine/pull/48990) merged on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48990) over 59 minutes, 59 additions and 56 deletions in 11 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove trace events that have outlived their usefulness.
     <sub>[#48856](https://github.com/flutter/engine/pull/48856) merged on December 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48856) over 2 days, 0 additions and 14 deletions in 4 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
@@ -789,25 +793,25 @@
     <sub>[#48881](https://github.com/flutter/engine/pull/48881) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48881) over 36 minutes, 23 additions and 11 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `third_party/yapf` to `flutter/third_party/yapf`.
-    <sub>[#48847](https://github.com/flutter/engine/pull/48847) merged on December 11, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/48847) over 3 days, 6 additions and 6 deletions in 6 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; SemanticsUpdateBuilder migration: introduce `identifier`
     <sub>[#48882](https://github.com/flutter/engine/pull/48882) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48882) over 4 hours, 15 additions and 12 deletions in 6 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add support for exposing accessibility identifier as accessibilityIdentifier on iOS
-    <sub>[#48858](https://github.com/flutter/engine/pull/48858) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48858) over 2 days, 25 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `third_party/stb` to `flutter/third_party`.
     <sub>[#48845](https://github.com/flutter/engine/pull/48845) merged on December 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48845) over 3 days, 11 additions and 9 deletions in 8 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Handle resizes at the view level
-    <sub>[#48892](https://github.com/flutter/engine/pull/48892) merged on December 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48892) over 20 hours, 141 additions and 91 deletions in 3 files</sub>
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add support for exposing accessibility identifier as accessibilityIdentifier on iOS
+    <sub>[#48858](https://github.com/flutter/engine/pull/48858) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48858) over 2 days, 25 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `third_party/yapf` to `flutter/third_party/yapf`.
+    <sub>[#48847](https://github.com/flutter/engine/pull/48847) merged on December 11, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/48847) over 3 days, 6 additions and 6 deletions in 6 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Round rects with circular ends should not generate ellipses
+    <sub>[#49021](https://github.com/flutter/engine/pull/49021) merged on December 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49021) over 11 hours, 121 additions and 19 deletions in 3 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Android] Add target to have linux_android_emulator_tests run on AVDs with Android 33 & 34"
     <sub>[#48895](https://github.com/flutter/engine/pull/48895) merged on December 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48895) over 1 minute, 0 additions and 125 deletions in 2 files</sub>
@@ -836,6 +840,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Re-land "Add target to have linux_android_emulator_tests run on AVDs with Android 33 & 34"
     <sub>[#48936](https://github.com/flutter/engine/pull/48936) merged on December 13, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/48936) over 6 hours, 81 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Handle resizes at the view level
+    <sub>[#48892](https://github.com/flutter/engine/pull/48892) merged on December 12, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/48892) over 20 hours, 141 additions and 91 deletions in 3 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 ### December 2, 2023 to December 8, 2023
 
