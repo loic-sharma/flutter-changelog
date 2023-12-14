@@ -712,7 +712,7 @@
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Direct tessellation of simple filled round rects
-    <sub>[#48919](https://github.com/flutter/engine/pull/48919) merged on December 12, 2023 &mdash; **Medium:** [8 comments](https://github.com/flutter/engine/pull/48919) over 12 hours, 423 additions and 29 deletions in 24 files</sub>
+    <sub>[#48919](https://github.com/flutter/engine/pull/48919) merged on December 12, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/engine/pull/48919) over 12 hours, 423 additions and 29 deletions in 24 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Windows] Move to `FlutterCompositor` for rendering"
