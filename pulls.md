@@ -48,7 +48,7 @@
     <sub>[#138453](https://github.com/flutter/flutter/pull/138453) opened on on November 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138453) 81 additions and 2 deletions in 2 files</sub><br />
 
 * **[raphire08](https://github.com/raphire08)** &mdash; refactored cli tool ipa method name to support --export-options-plist<br />
-    <sub>[#138555](https://github.com/flutter/flutter/pull/138555) opened on on November 16, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138555) 73 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#138555](https://github.com/flutter/flutter/pull/138555) opened on on November 16, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138555) 73 additions and 2 deletions in 2 files</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; [Not for merge] Monitor memory leaks in Flutter Framework.<br />
     <sub>[#138581](https://github.com/flutter/flutter/pull/138581) opened on on November 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138581) 1 addition and 0 deletions in 1 file</sub><br />
