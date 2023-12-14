@@ -690,7 +690,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-40 commits.
+41 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix _availability_version_check for iOS 11 and 12
     <sub>[#48624](https://github.com/flutter/engine/pull/48624) merged on December 11, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/48624) over 1 week, 260 additions and 5 deletions in 10 files</sub>
@@ -703,6 +703,11 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Move to `FlutterCompositor` for rendering
     <sub>[#48849](https://github.com/flutter/engine/pull/48849) merged on December 13, 2023 &mdash; **Large:** [38 comments](https://github.com/flutter/engine/pull/48849) over 5 days, 753 additions and 29 deletions in 16 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt), [yaakovschectman](https://github.com/yaakovschectman), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix `NSPrivacyCollectedDataTypes` array in privacy manifest
+    <sub>[#49041](https://github.com/flutter/engine/pull/49041) merged on December 14, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/49041) over 1 hour, 1 addition and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+    <sub><details><summary>1 image...</summary><img width="523" alt="Screenshot 2023-12-14 at 10 02 52 AM" src="https://github.com/flutter/flutter/assets/682784/a128b384-db2f-49d7-8b71-7965f2826de8"></details></sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add golden for clipped+transformed blur.
     <sub>[#48886](https://github.com/flutter/engine/pull/48886) merged on December 14, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/48886) over 2 days, 29 additions and 0 deletions in 1 file</sub>
@@ -749,9 +754,9 @@
     <sub>[#48902](https://github.com/flutter/engine/pull/48902) merged on December 13, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/48902) over 1 day, 46 additions and 13 deletions in 4 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [gaaclarke](https://github.com/gaaclarke)</sub>
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Round rects with circular ends should not generate ellipses
-    <sub>[#49021](https://github.com/flutter/engine/pull/49021) merged on December 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49021) over 11 hours, 121 additions and 19 deletions in 3 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert Dart SDK back to 3.3.0-219.0.dev
+    <sub>[#48990](https://github.com/flutter/engine/pull/48990) merged on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48990) over 59 minutes, 59 additions and 56 deletions in 11 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use direct tessellation geometry for simple clip shapes
     <sub>[#48959](https://github.com/flutter/engine/pull/48959) merged on December 13, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/48959) over 17 hours, 118 additions and 17 deletions in 4 files</sub>
@@ -773,49 +778,49 @@
     <sub>[#48906](https://github.com/flutter/engine/pull/48906) merged on December 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48906) over 18 hours, 1 addition and 6 deletions in 2 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Dart SDK from 82c4571bb2de to a677378ae254
-    <sub>[#48933](https://github.com/flutter/engine/pull/48933) merged on December 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48933) over 42 minutes, 56 additions and 55 deletions in 11 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add support for exposing accessibility identifier as accessibilityIdentifier on iOS
+    <sub>[#48858](https://github.com/flutter/engine/pull/48858) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48858) over 2 days, 25 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `third_party/stb` to `flutter/third_party`.
     <sub>[#48845](https://github.com/flutter/engine/pull/48845) merged on December 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48845) over 3 days, 11 additions and 9 deletions in 8 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add support for exposing accessibility identifier as accessibilityIdentifier on iOS
-    <sub>[#48858](https://github.com/flutter/engine/pull/48858) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48858) over 2 days, 25 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Dart SDK from 82c4571bb2de to a677378ae254
+    <sub>[#48933](https://github.com/flutter/engine/pull/48933) merged on December 12, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48933) over 42 minutes, 56 additions and 55 deletions in 11 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Remove header guard from generated key map
     <sub>[#48993](https://github.com/flutter/engine/pull/48993) merged on December 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48993) over 1 day, 0 additions and 5 deletions in 1 file</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove trace events that have outlived their usefulness.
-    <sub>[#48856](https://github.com/flutter/engine/pull/48856) merged on December 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48856) over 2 days, 0 additions and 14 deletions in 4 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Made the new blur support 1D blurs
+    <sub>[#49001](https://github.com/flutter/engine/pull/49001) merged on December 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49001) over 2 hours, 71 additions and 36 deletions in 6 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] made the blur entity test able to use the new blur
     <sub>[#48881](https://github.com/flutter/engine/pull/48881) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48881) over 36 minutes, 23 additions and 11 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `third_party/yapf` to `flutter/third_party/yapf`.
+    <sub>[#48847](https://github.com/flutter/engine/pull/48847) merged on December 11, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/48847) over 3 days, 6 additions and 6 deletions in 6 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Round rects with circular ends should not generate ellipses
+    <sub>[#49021](https://github.com/flutter/engine/pull/49021) merged on December 14, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49021) over 11 hours, 121 additions and 19 deletions in 3 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] recycle glyph atlas texture more aggressively.
     <sub>[#48888](https://github.com/flutter/engine/pull/48888) merged on December 12, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/48888) over 3 hours, 50 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `third_party/yapf` to `flutter/third_party/yapf`.
-    <sub>[#48847](https://github.com/flutter/engine/pull/48847) merged on December 11, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/48847) over 3 days, 6 additions and 6 deletions in 6 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove trace events that have outlived their usefulness.
+    <sub>[#48856](https://github.com/flutter/engine/pull/48856) merged on December 11, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48856) over 2 days, 0 additions and 14 deletions in 4 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; SemanticsUpdateBuilder migration: introduce `identifier`
     <sub>[#48882](https://github.com/flutter/engine/pull/48882) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48882) over 4 hours, 15 additions and 12 deletions in 6 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Made the new blur support 1D blurs
-    <sub>[#49001](https://github.com/flutter/engine/pull/49001) merged on December 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49001) over 2 hours, 71 additions and 36 deletions in 6 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert Dart SDK back to 3.3.0-219.0.dev
-    <sub>[#48990](https://github.com/flutter/engine/pull/48990) merged on December 13, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/48990) over 59 minutes, 59 additions and 56 deletions in 11 files</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Add target to have linux_android_emulator_tests run on AVDs with Android 33 & 34
     <sub>[#48811](https://github.com/flutter/engine/pull/48811) merged on December 11, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48811) over 3 days, 125 additions and 0 deletions in 2 files</sub>
