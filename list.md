@@ -1271,7 +1271,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-23 commits.
+24 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] updates to resize logic.
     <sub>[#5527](https://github.com/flutter/packages/pull/5527) merged on December 12, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/5527) over 1 week, 259 additions and 52 deletions in 13 files</sub>
@@ -1309,6 +1309,10 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; [web_benchmarks] Add support for analyzing benchmark results
     <sub>[#5630](https://github.com/flutter/packages/pull/5630) merged on December 12, 2023 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/5630) over 3 days, 566 additions and 12 deletions in 8 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Elliott Brooks](https://github.com/elliette)</sub>
+
+* **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; [camera] Fix typo "intialize" in doc comments
+    <sub>[#4949](https://github.com/flutter/packages/pull/4949) merged on December 14, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/4949) over 2 months, 2 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Michael McGuiness](https://github.com/mike-v2)** &mdash; [tool] Add support for `.java`, `.gradle`, `.sh`, and `.m` files…
     <sub>[#5567](https://github.com/flutter/packages/pull/5567) merged on December 13, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/5567) over 1 week, 184 additions and 62 deletions in 2 files</sub>
