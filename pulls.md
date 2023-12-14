@@ -77,8 +77,8 @@
 * **[Fedor Blagodyr](https://github.com/feduke-nukem)** &mdash; Added onEnd callback into AnimatedSize<br />
     <sub>[#139859](https://github.com/flutter/flutter/pull/139859) opened on on December 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139859) 103 additions and 2 deletions in 3 files</sub><br />
 
-* **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; Fixed: DropdownMenu throws exception when it is in any scrollable list view and scrolls quickly #139871<br />
-    <sub>[#139872](https://github.com/flutter/flutter/pull/139872) opened on on December 10, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/139872) 1 addition and 0 deletions in 1 file</sub><br />
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Concrete IconThemeData subclass<br />
+    <sub>[#139947](https://github.com/flutter/flutter/pull/139947) opened on on December 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139947) 159 additions and 41 deletions in 9 files</sub><br />
 
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Add Lucas Saudon to AUTHORS<br />
     <sub>[#139965](https://github.com/flutter/flutter/pull/139965) opened on on December 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139965) 1 addition and 0 deletions in 1 file</sub><br />
