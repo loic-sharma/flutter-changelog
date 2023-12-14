@@ -98,3 +98,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Make tests more resilient to Skia gold failures and refactor flutter_goldens for extensive technical debt removal<br />
     <sub>[#140101](https://github.com/flutter/flutter/pull/140101) opened on on December 13, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/140101) 1707 additions and 1484 deletions in 13 files</sub><br />
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Expand and update a few release.yml categories<br />
+    <sub>[#140120](https://github.com/flutter/flutter/pull/140120) opened on on December 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140120) 6 additions and 3 deletions in 1 file</sub><br />
+
