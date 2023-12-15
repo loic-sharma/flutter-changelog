@@ -89,6 +89,3 @@
 * **[busslina](https://github.com/busslina)** &mdash; Showing `Shortcuts.debugLabel` on its `Focus.debugLabel`<br />
     <sub>[#140202](https://github.com/flutter/flutter/pull/140202) opened on on December 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140202) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[pk101400](https://github.com/pk101400)** &mdash; commit<br />
-    <sub>[#140241](https://github.com/flutter/flutter/pull/140241) opened on on December 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140241) 30 additions and 0 deletions in 3 files</sub><br />
-
