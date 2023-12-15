@@ -1423,6 +1423,10 @@
     <sub>[#5411](https://github.com/flutter/packages/pull/5411) merged on December 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/5411) over 4 weeks, 63 additions and 5 deletions in 3 files</sub><br />
     <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
+* **[ndelanou](https://github.com/ndelanou)** &mdash; [go_router] fix(docs): typo in example extra_codec.dart<br />
+    <sub>[#5570](https://github.com/flutter/packages/pull/5570) merged on December 14, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/5570) over 1 week, 17 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
+
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ios_platform_images] Adopt code-excerpts<br />
     <sub>[#5682](https://github.com/flutter/packages/pull/5682) merged on December 14, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/5682) over 3 hours, 18 additions and 22 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
@@ -1470,10 +1474,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; [camera_platform_interface] Adds support for setting the image file format<br />
     <sub>[#5593](https://github.com/flutter/packages/pull/5593) merged on December 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5593) over 1 week, 80 additions and 3 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
-
-* **[ndelanou](https://github.com/ndelanou)** &mdash; [go_router] fix(docs): typo in example extra_codec.dart<br />
-    <sub>[#5570](https://github.com/flutter/packages/pull/5570) merged on December 14, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/5570) over 1 week, 17 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Bump Gradle version to 7.6.3<br />
     <sub>[#5522](https://github.com/flutter/packages/pull/5522) merged on December 13, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/5522) over 1 week, 171 additions and 88 deletions in 71 files</sub><br />
