@@ -47,9 +47,6 @@
 * **[Paul](https://github.com/PAException)** &mdash; Added hover and splash color to NavigationRailDestination<br />
     <sub>[#138453](https://github.com/flutter/flutter/pull/138453) opened on on November 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138453) 81 additions and 2 deletions in 2 files</sub><br />
 
-* **[raphire08](https://github.com/raphire08)** &mdash; refactored cli tool ipa method name to support --export-options-plist<br />
-    <sub>[#138555](https://github.com/flutter/flutter/pull/138555) opened on on November 16, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138555) 73 additions and 2 deletions in 2 files</sub><br />
-
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; [Not for merge] Monitor memory leaks in Flutter Framework.<br />
     <sub>[#138581](https://github.com/flutter/flutter/pull/138581) opened on on November 16, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138581) 1 addition and 0 deletions in 1 file</sub><br />
 
@@ -87,7 +84,7 @@
     <sub>[#140062](https://github.com/flutter/flutter/pull/140062) opened on on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140062) 2 additions and 1 deletion in 2 files</sub><br />
 
 * **[lsaudon](https://github.com/lsaudon)** &mdash; fix: Use colorScheme.onSurface in DesktopTextSelectionToolbarButton<br />
-    <sub>[#140098](https://github.com/flutter/flutter/pull/140098) opened on on December 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140098) 2 additions and 11 deletions in 1 file</sub><br />
+    <sub>[#140098](https://github.com/flutter/flutter/pull/140098) opened on on December 13, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140098) 2 additions and 11 deletions in 1 file</sub><br />
 
 * **[Grumpy](https://github.com/ArthurREGNARD)** &mdash; Add colorsScheme to easy acces colors with hight contrast<br />
     <sub>[#140136](https://github.com/flutter/flutter/pull/140136) opened on on December 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140136) 163 additions and 0 deletions in 3 files</sub><br />
@@ -97,4 +94,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set compile test iOS app target version to not embed Swift runtime<br />
     <sub>[#140188](https://github.com/flutter/flutter/pull/140188) opened on on December 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140188) 11 additions and 1 deletion in 1 file</sub><br />
+
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] use token from real user flutter mirror bot <br />
+    <sub>[#140191](https://github.com/flutter/flutter/pull/140191) opened on on December 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140191) 2 additions and 2 deletions in 1 file</sub><br />
 
