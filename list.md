@@ -1388,7 +1388,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-30 commits.
+31 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] updates to resize logic.
     <sub>[#5527](https://github.com/flutter/packages/pull/5527) merged on December 12, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/5527) over 1 week, 259 additions and 52 deletions in 13 files</sub>
@@ -1478,6 +1478,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_sign_in_web] Stop relying on framework internals.
     <sub>[#5660](https://github.com/flutter/packages/pull/5660) merged on December 13, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5660) over 18 hours, 47 additions and 51 deletions in 5 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[David Martos](https://github.com/davidmartos96)** &mdash; [google_sign_in_ios] Move pigeon as a dev dependency
+    <sub>[#5685](https://github.com/flutter/packages/pull/5685) merged on December 15, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5685) over 3 hours, 6 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; [camera_platform_interface] Adds support for setting the image file format
     <sub>[#5593](https://github.com/flutter/packages/pull/5593) merged on December 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5593) over 1 week, 80 additions and 3 deletions in 9 files</sub>
