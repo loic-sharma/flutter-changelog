@@ -68,26 +68,14 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Be less verbose in CI for customer_testing, and revert old timeout hack<br />
     <sub>[#139611](https://github.com/flutter/flutter/pull/139611) opened on on December 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139611) 11 additions and 2 deletions in 2 files</sub><br />
 
-* **[Fedor Blagodyr](https://github.com/feduke-nukem)** &mdash; Added onEnd callback into AnimatedSize<br />
-    <sub>[#139859](https://github.com/flutter/flutter/pull/139859) opened on on December 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139859) 103 additions and 2 deletions in 3 files</sub><br />
-
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Add Lucas Saudon to AUTHORS<br />
     <sub>[#139965](https://github.com/flutter/flutter/pull/139965) opened on on December 12, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/139965) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[asci](https://github.com/asci-00)** &mdash; [docs] Add document content related to chip shape<br />
-    <sub>[#140015](https://github.com/flutter/flutter/pull/140015) opened on on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140015) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[aimeekb](https://github.com/aimeekb)** &mdash; update CONTRIBUTING.md to include a section for new developers<br />
     <sub>[#140025](https://github.com/flutter/flutter/pull/140025) opened on on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140025) 26 additions and 0 deletions in 1 file</sub><br />
 
 * **[Drew Roen](https://github.com/drewroengoogle)** &mdash; [WIP] Testing engine PR<br />
     <sub>[#140062](https://github.com/flutter/flutter/pull/140062) opened on on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140062) 2 additions and 1 deletion in 2 files</sub><br />
-
-* **[Grumpy](https://github.com/ArthurREGNARD)** &mdash; Add colorsScheme to easy acces colors with hight contrast<br />
-    <sub>[#140136](https://github.com/flutter/flutter/pull/140136) opened on on December 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140136) 163 additions and 0 deletions in 3 files</sub><br />
-
-* **[busslina](https://github.com/busslina)** &mdash; Showing `Shortcuts.debugLabel` on its `Focus.debugLabel`<br />
-    <sub>[#140202](https://github.com/flutter/flutter/pull/140202) opened on on December 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140202) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix text selection edge scrolling when inside a horizontal scrollable<br />
     <sub>[#140250](https://github.com/flutter/flutter/pull/140250) opened on on December 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140250) 202 additions and 56 deletions in 3 files</sub><br />
