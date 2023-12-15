@@ -89,6 +89,3 @@
 * **[busslina](https://github.com/busslina)** &mdash; Showing `Shortcuts.debugLabel` on its `Focus.debugLabel`<br />
     <sub>[#140202](https://github.com/flutter/flutter/pull/140202) opened on on December 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140202) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove usage of testWidgetsWithLeakTracking.<br />
-    <sub>[#140239](https://github.com/flutter/flutter/pull/140239) opened on on December 15, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/140239) 9943 additions and 10515 deletions in 594 files</sub><br />
-
