@@ -92,3 +92,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; More helpful test.dart output<br />
     <sub>[#140175](https://github.com/flutter/flutter/pull/140175) opened on on December 14, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140175) 17 additions and 23 deletions in 4 files</sub><br />
 
+* **[busslina](https://github.com/busslina)** &mdash; Showing `Shortcuts.debugLabel` on its `Focus.debugLabel`<br />
+    <sub>[#140202](https://github.com/flutter/flutter/pull/140202) opened on on December 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140202) 1 addition and 1 deletion in 1 file</sub><br />
+
