@@ -1428,7 +1428,7 @@
 
 ### December 9, 2023 to December 15, 2023
 
-32 commits.
+33 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] updates to resize logic.
     <sub>[#5527](https://github.com/flutter/packages/pull/5527) merged on December 12, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/5527) over 1 week, 259 additions and 52 deletions in 13 files</sub>
@@ -1558,6 +1558,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Manually roll Flutter from f35d049e0d8e to c642f4e012f4 (92 revisions)
     <sub>[#5631](https://github.com/flutter/packages/pull/5631) merged on December 11, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5631) over 2 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Flutter (stable) from b0366e0a3f08 to 2e9cb0aa71a3 (4 revisions)
+    <sub>[#5692](https://github.com/flutter/packages/pull/5692) merged on December 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5692) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### December 2, 2023 to December 8, 2023
 
