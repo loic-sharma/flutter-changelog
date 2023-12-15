@@ -95,6 +95,3 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set compile test iOS app target version to not embed Swift runtime<br />
     <sub>[#140188](https://github.com/flutter/flutter/pull/140188) opened on on December 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140188) 11 additions and 1 deletion in 1 file</sub><br />
 
-* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] use token from real user flutter mirror bot <br />
-    <sub>[#140191](https://github.com/flutter/flutter/pull/140191) opened on on December 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140191) 2 additions and 2 deletions in 1 file</sub><br />
-
