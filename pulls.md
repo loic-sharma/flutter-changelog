@@ -81,5 +81,5 @@
     <sub>[#140250](https://github.com/flutter/flutter/pull/140250) opened on on December 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140250) 202 additions and 56 deletions in 3 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate Xcode projects last version checks to Xcode 15.1<br />
-    <sub>[#140256](https://github.com/flutter/flutter/pull/140256) opened on on December 15, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/140256) 172 additions and 133 deletions in 105 files</sub><br />
+    <sub>[#140256](https://github.com/flutter/flutter/pull/140256) opened on on December 15, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/140256) 173 additions and 133 deletions in 105 files</sub><br />
 
