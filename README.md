@@ -10,14 +10,14 @@
     <sub>[#138331](https://github.com/flutter/flutter/pull/138331) merged on December 11, 2023 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/138331) over 4 weeks, 93 additions and 12 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix SelectionArea select-word edge cases<br />
-    <sub>[#136920](https://github.com/flutter/flutter/pull/136920) merged on December 11, 2023 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/136920) over 1 month, 369 additions and 58 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
-
 * **[Akito Nishiyama](https://github.com/Anishishi)** &mdash; 🎨: fix cupertionActionSheet design<br />
     <sub>[#134345](https://github.com/flutter/flutter/pull/134345) merged on December 14, 2023 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/134345) over 3 months, 57 additions and 60 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
     <sub><details><summary>2 images...</summary><img src="https://github.com/flutter/flutter/assets/40790076/8492fe5f-582f-4623-86eb-c60cb88d81a1" width=300><img src="https://github.com/flutter/flutter/assets/40790076/fcdd7f7e-6ab5-4b68-a7b0-27a6fc2975b8" width=300></details></sub>
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix SelectionArea select-word edge cases<br />
+    <sub>[#136920](https://github.com/flutter/flutter/pull/136920) merged on December 11, 2023 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/136920) over 1 month, 369 additions and 58 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Swap iOS back button icon in Material app bar<br />
     <sub>[#134754](https://github.com/flutter/flutter/pull/134754) merged on December 13, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/134754) over 3 months, 2 additions and 2 deletions in 2 files</sub><br />
