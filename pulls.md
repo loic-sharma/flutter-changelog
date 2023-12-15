@@ -92,6 +92,3 @@
 * **[busslina](https://github.com/busslina)** &mdash; Showing `Shortcuts.debugLabel` on its `Focus.debugLabel`<br />
     <sub>[#140202](https://github.com/flutter/flutter/pull/140202) opened on on December 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140202) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Center Floating Snackbar with custom width when direction is RTL<br />
-    <sub>[#140215](https://github.com/flutter/flutter/pull/140215) opened on on December 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140215) 52 additions and 1 deletion in 2 files</sub><br />
-
