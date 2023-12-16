@@ -119,7 +119,7 @@
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Move package:web dependency to dev dependency<br />
-    <sub>[#139696](https://github.com/flutter/flutter/pull/139696) merged on December 15, 2023 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/139696) over 1 week, 274 additions and 139 deletions in 61 files</sub><br />
+    <sub>[#139696](https://github.com/flutter/flutter/pull/139696) merged on December 15, 2023 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/139696) over 1 week, 274 additions and 139 deletions in 61 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Kevin Moore](https://github.com/kevmoo)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Remove deprecated `ThemeData.selectedRowColor`<br />
