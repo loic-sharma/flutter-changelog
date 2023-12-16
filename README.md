@@ -42,6 +42,10 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2023-12-14 at 17 54 44](https://github.com/flutter/flutter/assets/104349824/1472b3bf-6245-4ec9-b7e8-d7ddf3d5a579)</details></sub>
 
+* **[yim](https://github.com/yiiim)** &mdash; fix reorderable_list drop animation<br />
+    <sub>[#139362](https://github.com/flutter/flutter/pull/139362) merged on December 14, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/139362) over 1 week, 101 additions and 32 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Deprecate `RawKeyEvent`, `RawKeyboard`, et al.<br />
     <sub>[#136677](https://github.com/flutter/flutter/pull/136677) merged on December 11, 2023 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/136677) over 1 month, 785 additions and 196 deletions in 33 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
@@ -57,10 +61,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Overlay supports unconstrained environments<br />
     <sub>[#139513](https://github.com/flutter/flutter/pull/139513) merged on December 14, 2023 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/139513) over 1 week, 271 additions and 24 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
-
-* **[yim](https://github.com/yiiim)** &mdash; fix reorderable_list drop animation<br />
-    <sub>[#139362](https://github.com/flutter/flutter/pull/139362) merged on December 14, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/139362) over 1 week, 101 additions and 32 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] Automate Flutter Chery Picks<br />
     <sub>[#139524](https://github.com/flutter/flutter/pull/139524) merged on December 12, 2023 &mdash; **Small:** [47 comments](https://github.com/flutter/flutter/pull/139524) over 1 week, 75 additions and 0 deletions in 1 file</sub><br />
