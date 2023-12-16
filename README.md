@@ -783,7 +783,7 @@
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Turn off Aiks bounds tracking for filtered SaveLayers.<br />
-    <sub>[#49076](https://github.com/flutter/engine/pull/49076) merged on December 15, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49076) over 14 hours, 26 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#49076](https://github.com/flutter/engine/pull/49076) merged on December 15, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/49076) over 14 hours, 26 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Windows] Expose channel buffers 'resize' and 'overflow' control commands exposed by the control channel.<br />
