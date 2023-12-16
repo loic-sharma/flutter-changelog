@@ -83,3 +83,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate Xcode projects last version checks to Xcode 15.1<br />
     <sub>[#140256](https://github.com/flutter/flutter/pull/140256) opened on on December 15, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/140256) 173 additions and 133 deletions in 105 files</sub><br />
 
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Revert "Move package:web dependency to dev dependency (#139696)"<br />
+    <sub>[#140261](https://github.com/flutter/flutter/pull/140261) opened on on December 16, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/140261) 139 additions and 274 deletions in 61 files</sub><br />
+
