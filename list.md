@@ -762,7 +762,7 @@
     <sub>Reviewed by: [Juanjo Tugores](https://github.com/tugorez), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Move to `FlutterCompositor` for rendering
-    <sub>[#48849](https://github.com/flutter/engine/pull/48849) merged on December 13, 2023 &mdash; **Large:** [38 comments](https://github.com/flutter/engine/pull/48849) over 5 days, 753 additions and 29 deletions in 16 files</sub>
+    <sub>[#48849](https://github.com/flutter/engine/pull/48849) merged on December 13, 2023 &mdash; **Large:** [39 comments](https://github.com/flutter/engine/pull/48849) over 5 days, 753 additions and 29 deletions in 16 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt), [yaakovschectman](https://github.com/yaakovschectman), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Turned on new blur.
