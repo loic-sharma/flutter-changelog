@@ -86,3 +86,6 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Revert "Move package:web dependency to dev dependency (#139696)"<br />
     <sub>[#140261](https://github.com/flutter/flutter/pull/140261) opened on on December 16, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/140261) 139 additions and 274 deletions in 61 files</sub><br />
 
+* **[Dan Field](https://github.com/dnfield)** &mdash; Try tests with --enable-impeller<br />
+    <sub>[#140264](https://github.com/flutter/flutter/pull/140264) opened on on December 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140264) 3 additions and 2 deletions in 1 file</sub><br />
+
