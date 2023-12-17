@@ -75,7 +75,7 @@
     <sub>[#140062](https://github.com/flutter/flutter/pull/140062) opened on on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140062) 2 additions and 1 deletion in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Ensure flutter daemon clients can detect preview device<br />
-    <sub>[#140112](https://github.com/flutter/flutter/pull/140112) opened on on December 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/140112) 88 additions and 21 deletions in 3 files</sub><br />
+    <sub>[#140112](https://github.com/flutter/flutter/pull/140112) opened on on December 14, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/140112) 89 additions and 22 deletions in 3 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix text selection edge scrolling when inside a horizontal scrollable<br />
     <sub>[#140250](https://github.com/flutter/flutter/pull/140250) opened on on December 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140250) 202 additions and 56 deletions in 3 files</sub><br />
@@ -85,4 +85,7 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Try tests with --enable-impeller<br />
     <sub>[#140264](https://github.com/flutter/flutter/pull/140264) opened on on December 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140264) 3 additions and 2 deletions in 1 file</sub><br />
+
+* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny fix inaccurate documentations about bindings<br />
+    <sub>[#140282](https://github.com/flutter/flutter/pull/140282) opened on on December 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140282) 3 additions and 4 deletions in 1 file</sub><br />
 
