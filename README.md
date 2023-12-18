@@ -566,7 +566,7 @@
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt), [yaakovschectman](https://github.com/yaakovschectman), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Turned on new blur.<br />
-    <sub>[#48472](https://github.com/flutter/engine/pull/48472) merged on December 14, 2023 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/48472) over 2 weeks, 7 additions and 32 deletions in 2 files</sub><br />
+    <sub>[#48472](https://github.com/flutter/engine/pull/48472) merged on December 14, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/48472) over 2 weeks, 7 additions and 32 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Runtime shader import.<br />
