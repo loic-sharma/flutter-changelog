@@ -90,7 +90,7 @@
     <sub>[#140282](https://github.com/flutter/flutter/pull/140282) opened on on December 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140282) 3 additions and 4 deletions in 1 file</sub><br />
 
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Prevent full rebuilds when rerunning `flutter test`.<br />
-    <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140284) 109 additions and 11 deletions in 2 files</sub><br />
+    <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140284) 109 additions and 11 deletions in 2 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fixes #138773, port autocomplete to OverlayPortal<br />
     <sub>[#140285](https://github.com/flutter/flutter/pull/140285) opened on on December 17, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/140285) 143 additions and 211 deletions in 3 files</sub><br />
