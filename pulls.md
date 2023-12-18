@@ -101,3 +101,6 @@
 * **[Arun Chapagain](https://github.com/ArunChapagain)** &mdash; fix:#140301  :bug: bottom_navigation_bar_item  nullable lable attribute changed to required attribute.<br />
     <sub>[#140303](https://github.com/flutter/flutter/pull/140303) opened on on December 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140303) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Add `Spacer.fixed` constructor for a fixed sized spacer<br />
+    <sub>[#140321](https://github.com/flutter/flutter/pull/140321) opened on on December 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140321) 187 additions and 33 deletions in 3 files</sub><br />
+
