@@ -527,9 +527,18 @@
 
 ## flutter/engine
 
+### December 16, 2023 to December 22, 2023
+
+1 commits.
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Set cursor property on body<br />
+    <sub>[#49098](https://github.com/flutter/engine/pull/49098) merged on December 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49098) over 2 days, 35 additions and 11 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
 ### December 9, 2023 to December 15, 2023
 
-65 commits.
+<details>
+<summary>65 commits...</summary>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix _availability_version_check for iOS 11 and 12<br />
     <sub>[#48624](https://github.com/flutter/engine/pull/48624) merged on December 11, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/48624) over 1 week, 260 additions and 5 deletions in 10 files</sub><br />
@@ -792,6 +801,8 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "[Impeller] Provide the clear color to an advanced blend if it was optimized out"<br />
     <sub>[#49064](https://github.com/flutter/engine/pull/49064) merged on December 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49064) over 15 hours, 2 additions and 33 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+</details>
 
 ### December 2, 2023 to December 8, 2023
 
