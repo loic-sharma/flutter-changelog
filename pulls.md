@@ -98,3 +98,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix 139196 selection OOB<br />
     <sub>[#140300](https://github.com/flutter/flutter/pull/140300) opened on on December 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140300) 18 additions and 1 deletion in 2 files</sub><br />
 
+* **[Arun Chapagain](https://github.com/ArunChapagain)** &mdash; fix:#140301  :bug: bottom_navigation_bar_item  nullable lable attribute changed to required attribute.<br />
+    <sub>[#140303](https://github.com/flutter/flutter/pull/140303) opened on on December 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140303) 2 additions and 2 deletions in 1 file</sub><br />
+
