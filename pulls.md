@@ -86,9 +86,6 @@
 * **[Dan Field](https://github.com/dnfield)** &mdash; Try tests with --enable-impeller<br />
     <sub>[#140264](https://github.com/flutter/flutter/pull/140264) opened on on December 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140264) 3 additions and 2 deletions in 1 file</sub><br />
 
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Tiny fix inaccurate documentations about bindings<br />
-    <sub>[#140282](https://github.com/flutter/flutter/pull/140282) opened on on December 16, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140282) 3 additions and 4 deletions in 1 file</sub><br />
-
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Prevent full rebuilds when rerunning `flutter test`.<br />
     <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140284) 109 additions and 11 deletions in 2 files</sub><br />
 
@@ -99,7 +96,7 @@
     <sub>[#140300](https://github.com/flutter/flutter/pull/140300) opened on on December 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140300) 18 additions and 1 deletion in 2 files</sub><br />
 
 * **[Arun Chapagain](https://github.com/ArunChapagain)** &mdash; fix:#140301  :bug: bottom_navigation_bar_item  nullable lable attribute changed to required attribute.<br />
-    <sub>[#140303](https://github.com/flutter/flutter/pull/140303) opened on on December 18, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140303) 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#140303](https://github.com/flutter/flutter/pull/140303) opened on on December 18, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140303) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Mateus Felipe C. C. Pinto](https://github.com/mateusfccp)** &mdash; Add `Spacer.fixed` constructor for a fixed sized spacer<br />
     <sub>[#140321](https://github.com/flutter/flutter/pull/140321) opened on on December 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140321) 187 additions and 33 deletions in 3 files</sub><br />
