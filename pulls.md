@@ -95,3 +95,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fixes #138773, port autocomplete to OverlayPortal<br />
     <sub>[#140285](https://github.com/flutter/flutter/pull/140285) opened on on December 17, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/140285) 143 additions and 211 deletions in 3 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix 139196 selection OOB<br />
+    <sub>[#140300](https://github.com/flutter/flutter/pull/140300) opened on on December 18, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140300) 18 additions and 1 deletion in 2 files</sub><br />
+
