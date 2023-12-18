@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### December 16, 2023 to December 22, 2023
+
+1 commits.
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Restore and fix flavors_test_macos<br />
+    <sub>[#139841](https://github.com/flutter/flutter/pull/139841) merged on December 18, 2023 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/139841) over 1 week, 492 additions and 341 deletions in 16 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
 ### December 9, 2023 to December 15, 2023
 
-62 commits.
+<details>
+<summary>62 commits...</summary>
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add accessibility identifier to `SemanticsProperties`<br />
     <sub>[#138331](https://github.com/flutter/flutter/pull/138331) merged on December 11, 2023 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/138331) over 4 weeks, 93 additions and 12 deletions in 9 files</sub><br />
@@ -257,6 +266,8 @@
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Revert "Dynamic view sizing"<br />
     <sub>[#140165](https://github.com/flutter/flutter/pull/140165) merged on December 14, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/140165) over 32 minutes, 43 additions and 291 deletions in 16 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+</details>
 
 ### December 2, 2023 to December 8, 2023
 
