@@ -541,7 +541,11 @@
 
 ### December 16, 2023 to December 22, 2023
 
-4 commits.
+5 commits.
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Make Rect origin and size fields private
+    <sub>[#49168](https://github.com/flutter/engine/pull/49168) merged on December 18, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/49168) over 16 hours, 520 additions and 261 deletions in 39 files</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Delete `SemanticsUpdateBuilderNew` and all references and usages
     <sub>[#49139](https://github.com/flutter/engine/pull/49139) merged on December 18, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/49139) over 2 days, 0 additions and 430 deletions in 2 files</sub>
