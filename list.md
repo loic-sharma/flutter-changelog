@@ -541,7 +541,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-3 commits.
+4 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Delete `SemanticsUpdateBuilderNew` and all references and usages
     <sub>[#49139](https://github.com/flutter/engine/pull/49139) merged on December 18, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/49139) over 2 days, 0 additions and 430 deletions in 2 files</sub>
@@ -550,6 +550,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Opt into unstable libcxx ABI and add a custom namespace.
     <sub>[#49002](https://github.com/flutter/engine/pull/49002) merged on December 18, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/49002) over 4 days, 3 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Convert chromium wheel delta to physical pixels on macOS
+    <sub>[#49028](https://github.com/flutter/engine/pull/49028) merged on December 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49028) over 4 days, 2 additions and 49 deletions in 2 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Set cursor property on body
     <sub>[#49098](https://github.com/flutter/engine/pull/49098) merged on December 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49098) over 2 days, 35 additions and 11 deletions in 3 files</sub>
