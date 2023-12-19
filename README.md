@@ -557,7 +557,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-11 commits.
+12 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Make Rect origin and size fields private<br />
     <sub>[#49168](https://github.com/flutter/engine/pull/49168) merged on December 18, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/49168) over 16 hours, 520 additions and 261 deletions in 39 files</sub><br />
@@ -602,6 +602,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Set cursor property on body<br />
     <sub>[#49098](https://github.com/flutter/engine/pull/49098) merged on December 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49098) over 2 days, 35 additions and 11 deletions in 3 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Revert "Reland 2: Multiview Pipeline  (#47239)"<br />
+    <sub>[#49238](https://github.com/flutter/engine/pull/49238) merged on December 19, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/49238) over 5 hours, 157 additions and 704 deletions in 24 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 ### December 9, 2023 to December 15, 2023
 
