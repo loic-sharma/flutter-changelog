@@ -107,6 +107,3 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update README.md<br />
     <sub>[#140382](https://github.com/flutter/flutter/pull/140382) opened on on December 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140382) 7 additions and 4 deletions in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix spell check throws when text contains regex reserved characters<br />
-    <sub>[#140384](https://github.com/flutter/flutter/pull/140384) opened on on December 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140384) 29 additions and 1 deletion in 2 files</sub><br />
-
