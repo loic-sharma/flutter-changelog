@@ -553,7 +553,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-7 commits.
+8 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Make Rect origin and size fields private
     <sub>[#49168](https://github.com/flutter/engine/pull/49168) merged on December 18, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/49168) over 16 hours, 520 additions and 261 deletions in 39 files</sub>
@@ -574,6 +574,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Convert chromium wheel delta to physical pixels on macOS
     <sub>[#49028](https://github.com/flutter/engine/pull/49028) merged on December 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49028) over 4 days, 2 additions and 49 deletions in 2 files</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
+
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Use new SurfaceProducer external texture class for rendering platform views
+    <sub>[#49201](https://github.com/flutter/engine/pull/49201) merged on December 19, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/49201) over 21 hours, 202 additions and 63 deletions in 6 files</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Double timeout on mac builds.
     <sub>[#49205](https://github.com/flutter/engine/pull/49205) merged on December 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49205) over 1 hour, 3 additions and 3 deletions in 1 file</sub>
