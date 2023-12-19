@@ -557,7 +557,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-9 commits.
+10 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Make Rect origin and size fields private<br />
     <sub>[#49168](https://github.com/flutter/engine/pull/49168) merged on December 18, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/49168) over 16 hours, 520 additions and 261 deletions in 39 files</sub><br />
@@ -578,6 +578,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Opt into unstable libcxx ABI and add a custom namespace.<br />
     <sub>[#49002](https://github.com/flutter/engine/pull/49002) merged on December 18, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/49002) over 4 days, 3 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Rolls clang to 725656bdd885483c39f482a01ea25d67acf39c46<br />
+    <sub>[#49248](https://github.com/flutter/engine/pull/49248) merged on December 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49248) over 3 hours, 40 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Convert chromium wheel delta to physical pixels on macOS<br />
     <sub>[#49028](https://github.com/flutter/engine/pull/49028) merged on December 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49028) over 4 days, 2 additions and 49 deletions in 2 files</sub><br />
