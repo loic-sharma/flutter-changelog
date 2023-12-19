@@ -1084,9 +1084,18 @@
 
 ## flutter/packages
 
+### December 16, 2023 to December 22, 2023
+
+1 commits.
+
+* **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [webview_flutter] Support for handling basic authentication requests (iOS)<br />
+    <sub>[#5455](https://github.com/flutter/packages/pull/5455) merged on December 19, 2023 &mdash; **Extra large:** [9 comments](https://github.com/flutter/packages/pull/5455) over 4 weeks, 2366 additions and 132 deletions in 38 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
 ### December 9, 2023 to December 15, 2023
 
-34 commits.
+<details>
+<summary>34 commits...</summary>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [image_picker] updates to resize logic.<br />
     <sub>[#5527](https://github.com/flutter/packages/pull/5527) merged on December 12, 2023 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/5527) over 1 week, 259 additions and 52 deletions in 13 files</sub><br />
@@ -1224,6 +1233,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Flutter (stable) from b0366e0a3f08 to 2e9cb0aa71a3 (4 revisions)<br />
     <sub>[#5692](https://github.com/flutter/packages/pull/5692) merged on December 15, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5692) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### December 2, 2023 to December 8, 2023
 
