@@ -98,6 +98,3 @@
 * **[Arun Chapagain](https://github.com/ArunChapagain)** &mdash; fix:#140301  :bug: bottom_navigation_bar_item  nullable lable attribute changed to required attribute.<br />
     <sub>[#140303](https://github.com/flutter/flutter/pull/140303) opened on on December 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140303) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Satsrag](https://github.com/Satsrag)** &mdash; fix: cannot input new line using custom input control<br />
-    <sub>[#140356](https://github.com/flutter/flutter/pull/140356) opened on on December 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140356) 76 additions and 13 deletions in 2 files</sub><br />
-
