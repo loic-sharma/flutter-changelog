@@ -4,7 +4,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-10 commits.
+11 commits.
 
 * **[raphire08](https://github.com/raphire08)** &mdash; refactored cli tool ipa method name to support --export-options-plist<br />
     <sub>[#138555](https://github.com/flutter/flutter/pull/138555) merged on December 18, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/138555) over 1 month, 74 additions and 3 deletions in 2 files</sub><br />
@@ -25,6 +25,10 @@
 * **[Fedor Blagodyr](https://github.com/feduke-nukem)** &mdash; Added onEnd callback into AnimatedSize<br />
     <sub>[#139859](https://github.com/flutter/flutter/pull/139859) merged on December 19, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/139859) over 1 week, 96 additions and 1 deletion in 3 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move hybrid_android_views_integration_test back to Moto G4<br />
+    <sub>[#140421](https://github.com/flutter/flutter/pull/140421) merged on December 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140421) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift some Linux-hosted tests on moto g4 to pixel 7<br />
     <sub>[#140389](https://github.com/flutter/flutter/pull/140389) merged on December 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140389) over 49 minutes, 66 additions and 45 deletions in 1 file</sub><br />
