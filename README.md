@@ -619,7 +619,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web:multiview] Make CanvasKitRenderer listen for view creation/disposal events<br />
-    <sub>[#48812](https://github.com/flutter/engine/pull/48812) merged on December 13, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/48812) over 5 days, 170 additions and 57 deletions in 10 files</sub><br />
+    <sub>[#48812](https://github.com/flutter/engine/pull/48812) merged on December 13, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/48812) over 5 days, 170 additions and 57 deletions in 10 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix header-guard naming convention in `shell/`.<br />
