@@ -561,7 +561,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-13 commits.
+14 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Make Rect origin and size fields private
     <sub>[#49168](https://github.com/flutter/engine/pull/49168) merged on December 18, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/49168) over 16 hours, 520 additions and 261 deletions in 39 files</sub>
@@ -570,6 +570,10 @@
 * **[Code Otaku](https://github.com/academy3746)** &mdash; Makes PlatformViewsController view to use tracked event's action & pointer count
     <sub>[#47424](https://github.com/flutter/engine/pull/47424) merged on December 19, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/47424) over 1 month, 4 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Enforce onDrawFrame/onBeginFrame render rule
+    <sub>[#49214](https://github.com/flutter/engine/pull/49214) merged on December 19, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/49214) over 20 hours, 214 additions and 165 deletions in 29 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.3.0-242.0.dev
     <sub>[#49239](https://github.com/flutter/engine/pull/49239) merged on December 19, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/49239) over 4 hours, 776 additions and 454 deletions in 10 files</sub>

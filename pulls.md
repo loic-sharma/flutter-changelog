@@ -110,3 +110,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] handle FileSystemException trying to delete temp directory from core_devices.dart<br />
     <sub>[#140415](https://github.com/flutter/flutter/pull/140415) opened on on December 19, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140415) 40 additions and 6 deletions in 3 files</sub><br />
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Fix import pattern<br />
+    <sub>[#140425](https://github.com/flutter/flutter/pull/140425) opened on on December 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140425) 1 addition and 1 deletion in 1 file</sub><br />
+
