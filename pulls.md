@@ -75,7 +75,7 @@
     <sub>[#140062](https://github.com/flutter/flutter/pull/140062) opened on on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140062) 2 additions and 1 deletion in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Ensure flutter daemon clients can detect preview device<br />
-    <sub>[#140112](https://github.com/flutter/flutter/pull/140112) opened on on December 14, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/140112) 91 additions and 23 deletions in 3 files</sub><br />
+    <sub>[#140112](https://github.com/flutter/flutter/pull/140112) opened on on December 14, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/140112) 91 additions and 23 deletions in 3 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix text selection edge scrolling when inside a horizontal scrollable<br />
     <sub>[#140250](https://github.com/flutter/flutter/pull/140250) opened on on December 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140250) 202 additions and 56 deletions in 3 files</sub><br />
@@ -97,4 +97,7 @@
 
 * **[Arun Chapagain](https://github.com/ArunChapagain)** &mdash; fix:#140301  :bug: bottom_navigation_bar_item  nullable lable attribute changed to required attribute.<br />
     <sub>[#140303](https://github.com/flutter/flutter/pull/140303) opened on on December 18, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140303) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Satsrag](https://github.com/Satsrag)** &mdash; fix: cannot input new line using custom input control<br />
+    <sub>[#140356](https://github.com/flutter/flutter/pull/140356) opened on on December 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140356) 76 additions and 13 deletions in 2 files</sub><br />
 
