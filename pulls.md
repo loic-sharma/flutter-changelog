@@ -105,5 +105,5 @@
     <sub>[#140380](https://github.com/flutter/flutter/pull/140380) opened on on December 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140380) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update README.md<br />
-    <sub>[#140382](https://github.com/flutter/flutter/pull/140382) opened on on December 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140382) 7 additions and 4 deletions in 1 file</sub><br />
+    <sub>[#140382](https://github.com/flutter/flutter/pull/140382) opened on on December 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140382) 7 additions and 4 deletions in 1 file</sub><br />
 
