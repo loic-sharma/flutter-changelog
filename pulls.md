@@ -99,7 +99,7 @@
     <sub>[#140373](https://github.com/flutter/flutter/pull/140373) opened on on December 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140373) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Add position data to `OnDragEnd` callback<br />
-    <sub>[#140378](https://github.com/flutter/flutter/pull/140378) opened on on December 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140378) 63 additions and 3 deletions in 3 files</sub><br />
+    <sub>[#140378](https://github.com/flutter/flutter/pull/140378) opened on on December 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140378) 63 additions and 3 deletions in 3 files</sub><br />
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update README.md<br />
     <sub>[#140382](https://github.com/flutter/flutter/pull/140382) opened on on December 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140382) 7 additions and 4 deletions in 1 file</sub><br />

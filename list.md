@@ -4,7 +4,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-9 commits.
+10 commits.
 
 * **[raphire08](https://github.com/raphire08)** &mdash; refactored cli tool ipa method name to support --export-options-plist
     <sub>[#138555](https://github.com/flutter/flutter/pull/138555) merged on December 18, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/138555) over 1 month, 74 additions and 3 deletions in 2 files</sub>
@@ -21,6 +21,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Restore and fix flavors_test_macos
     <sub>[#139841](https://github.com/flutter/flutter/pull/139841) merged on December 18, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/139841) over 1 week, 492 additions and 341 deletions in 16 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Fedor Blagodyr](https://github.com/feduke-nukem)** &mdash; Added onEnd callback into AnimatedSize
+    <sub>[#139859](https://github.com/flutter/flutter/pull/139859) merged on December 19, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/139859) over 1 week, 96 additions and 1 deletion in 3 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift some Linux-hosted tests on moto g4 to pixel 7
     <sub>[#140389](https://github.com/flutter/flutter/pull/140389) merged on December 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140389) over 49 minutes, 66 additions and 45 deletions in 1 file</sub>
@@ -557,7 +561,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-12 commits.
+13 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Make Rect origin and size fields private
     <sub>[#49168](https://github.com/flutter/engine/pull/49168) merged on December 18, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/49168) over 16 hours, 520 additions and 261 deletions in 39 files</sub>
@@ -578,6 +582,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Opt into unstable libcxx ABI and add a custom namespace.
     <sub>[#49002](https://github.com/flutter/engine/pull/49002) merged on December 18, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/49002) over 4 days, 3 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; [Docs] Add more info about running tests on iOS
+    <sub>[#48859](https://github.com/flutter/engine/pull/48859) merged on December 19, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/48859) over 1 week, 25 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Make sure run_tests.py runs dart tests on Skia
     <sub>[#49260](https://github.com/flutter/engine/pull/49260) merged on December 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49260) over 32 minutes, 2 additions and 0 deletions in 1 file</sub>
