@@ -557,7 +557,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-8 commits.
+9 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Make Rect origin and size fields private<br />
     <sub>[#49168](https://github.com/flutter/engine/pull/49168) merged on December 18, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/49168) over 16 hours, 520 additions and 261 deletions in 39 files</sub><br />
@@ -566,6 +566,10 @@
 * **[Code Otaku](https://github.com/academy3746)** &mdash; Makes PlatformViewsController view to use tracked event's action & pointer count<br />
     <sub>[#47424](https://github.com/flutter/engine/pull/47424) merged on December 19, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/47424) over 1 month, 4 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.3.0-242.0.dev<br />
+    <sub>[#49239](https://github.com/flutter/engine/pull/49239) merged on December 19, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/49239) over 4 hours, 776 additions and 454 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Delete `SemanticsUpdateBuilderNew` and all references and usages<br />
     <sub>[#49139](https://github.com/flutter/engine/pull/49139) merged on December 18, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/49139) over 2 days, 0 additions and 430 deletions in 2 files</sub><br />
