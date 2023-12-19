@@ -557,7 +557,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-10 commits.
+11 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Make Rect origin and size fields private<br />
     <sub>[#49168](https://github.com/flutter/engine/pull/49168) merged on December 18, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/49168) over 16 hours, 520 additions and 261 deletions in 39 files</sub><br />
@@ -578,6 +578,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Opt into unstable libcxx ABI and add a custom namespace.<br />
     <sub>[#49002](https://github.com/flutter/engine/pull/49002) merged on December 18, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/49002) over 4 days, 3 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Make sure run_tests.py runs dart tests on Skia<br />
+    <sub>[#49260](https://github.com/flutter/engine/pull/49260) merged on December 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49260) over 32 minutes, 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Rolls clang to 725656bdd885483c39f482a01ea25d67acf39c46<br />
     <sub>[#49248](https://github.com/flutter/engine/pull/49248) merged on December 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49248) over 3 hours, 40 additions and 1 deletion in 2 files</sub><br />
