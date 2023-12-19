@@ -95,3 +95,6 @@
 * **[Arun Chapagain](https://github.com/ArunChapagain)** &mdash; fix:#140301  :bug: bottom_navigation_bar_item  nullable lable attribute changed to required attribute.<br />
     <sub>[#140303](https://github.com/flutter/flutter/pull/140303) opened on on December 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140303) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Sébastien Batézat](https://github.com/sbatezat)** &mdash; feat(popup_menu): add the ability to set route settings on PopupMenuB…<br />
+    <sub>[#140373](https://github.com/flutter/flutter/pull/140373) opened on on December 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140373) 7 additions and 0 deletions in 1 file</sub><br />
+
