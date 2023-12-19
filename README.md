@@ -4,7 +4,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-6 commits.
+7 commits.
 
 * **[raphire08](https://github.com/raphire08)** &mdash; refactored cli tool ipa method name to support --export-options-plist<br />
     <sub>[#138555](https://github.com/flutter/flutter/pull/138555) merged on December 18, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/138555) over 1 month, 74 additions and 3 deletions in 2 files</sub><br />
@@ -29,6 +29,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Only run dart files as a test in the Android preview tools test shard<br />
     <sub>[#140099](https://github.com/flutter/flutter/pull/140099) merged on December 18, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/140099) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Reland "Warn when Gradle plugins are applied using the legacy apply script method<br />
+    <sub>[#140103](https://github.com/flutter/flutter/pull/140103) merged on December 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140103) over 5 days, 233 additions and 41 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 ### December 9, 2023 to December 15, 2023
 
