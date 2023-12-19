@@ -14,17 +14,11 @@
 * **[Konstantin Dovnar](https://github.com/Vorkytaka)** &mdash; Add `tg` locale support<br />
     <sub>[#134133](https://github.com/flutter/flutter/pull/134133) opened on on September 6, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/134133) 894 additions and 0 deletions in 6 files</sub><br />
 
-* **[xiao xiao](https://github.com/xiaoxiaowesley)** &mdash; Add switchTheme property in CupertinoThemeData <br />
-    <sub>[#135120](https://github.com/flutter/flutter/pull/135120) opened on on September 20, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/135120) 422 additions and 9 deletions in 8 files</sub><br />
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try flutter/engine#46130<br />
     <sub>[#135254](https://github.com/flutter/flutter/pull/135254) opened on on September 21, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/135254) 3 additions and 2 deletions in 3 files</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Update German translations<br />
     <sub>[#136091](https://github.com/flutter/flutter/pull/136091) opened on on October 6, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/136091) 102 additions and 227 deletions in 5 files</sub><br />
-
-* **[Shaun Byrne](https://github.com/ShaunByrne-UniSA)** &mdash; Grey out non-selectable days in CupertinoDatePicker<br />
-    <sub>[#136181](https://github.com/flutter/flutter/pull/136181) opened on on October 9, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/136181) 164 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kayla Brady](https://github.com/KaylaBrady)** &mdash; Nav bar acccessibility: Mark nav items as buttons<br />
     <sub>[#136764](https://github.com/flutter/flutter/pull/136764) opened on on October 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136764) 17 additions and 1 deletion in 6 files</sub><br />
