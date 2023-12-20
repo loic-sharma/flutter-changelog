@@ -101,6 +101,3 @@
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; Fixed: DropdownMenu throws exception when it is in any scrollable list view and scrolls quickly #139871 #139872<br />
     <sub>[#140396](https://github.com/flutter/flutter/pull/140396) opened on on December 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140396) 18 additions and 17 deletions in 1 file</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move tests shifted to Pixel 7 from staging to prod<br />
-    <sub>[#140438](https://github.com/flutter/flutter/pull/140438) opened on on December 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140438) 0 additions and 21 deletions in 1 file</sub><br />
-
