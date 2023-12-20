@@ -4,7 +4,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-17 commits.
+19 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `TextSpan` hit testing precise.
     <sub>[#139717](https://github.com/flutter/flutter/pull/139717) merged on December 20, 2023 &mdash; **Large:** [53 comments](https://github.com/flutter/flutter/pull/139717) over 1 week, 747 additions and 40 deletions in 13 files</sub>
@@ -37,6 +37,14 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Restore and fix flavors_test_macos
     <sub>[#139841](https://github.com/flutter/flutter/pull/139841) merged on December 18, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/139841) over 1 week, 492 additions and 341 deletions in 16 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Eliminate Cirrus build status badge
+    <sub>[#140461](https://github.com/flutter/flutter/pull/140461) merged on December 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140461) over 43 minutes, 0 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move tests shifted to Pixel 7 from staging to prod
+    <sub>[#140438](https://github.com/flutter/flutter/pull/140438) merged on December 20, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/140438) over 15 hours, 0 additions and 20 deletions in 1 file</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move hybrid_android_views_integration_test back to Moto G4
     <sub>[#140421](https://github.com/flutter/flutter/pull/140421) merged on December 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140421) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
