@@ -621,7 +621,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-24 commits.
+25 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Multi-view pointer event<br />
     <sub>[#46213](https://github.com/flutter/engine/pull/46213) merged on December 20, 2023 &mdash; **Small:** [36 comments](https://github.com/flutter/engine/pull/46213) over 2 months, 181 additions and 18 deletions in 18 files</sub><br />
@@ -654,6 +654,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Opt into unstable libcxx ABI and add a custom namespace.<br />
     <sub>[#49002](https://github.com/flutter/engine/pull/49002) merged on December 18, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/49002) over 4 days, 3 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] fixed Rect::Contains<br />
+    <sub>[#49294](https://github.com/flutter/engine/pull/49294) merged on December 20, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/49294) over 3 hours, 9 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] new blur: refactored math and fixed expanded padding size<br />
     <sub>[#49206](https://github.com/flutter/engine/pull/49206) merged on December 20, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/49206) over 1 day, 44 additions and 65 deletions in 4 files</sub><br />
