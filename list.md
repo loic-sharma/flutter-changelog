@@ -4,7 +4,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-16 commits.
+17 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `TextSpan` hit testing precise.
     <sub>[#139717](https://github.com/flutter/flutter/pull/139717) merged on December 20, 2023 &mdash; **Large:** [53 comments](https://github.com/flutter/flutter/pull/139717) over 1 week, 747 additions and 40 deletions in 13 files</sub>
@@ -13,6 +13,10 @@
 * **[raphire08](https://github.com/raphire08)** &mdash; refactored cli tool ipa method name to support --export-options-plist
     <sub>[#138555](https://github.com/flutter/flutter/pull/138555) merged on December 18, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/138555) over 1 month, 74 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; _TabBarViewState should not recreate page controller
+    <sub>[#135500](https://github.com/flutter/flutter/pull/135500) merged on December 20, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/135500) over 2 months, 46 additions and 6 deletions in 2 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Document difference between softWrap and maxLine
     <sub>[#139363](https://github.com/flutter/flutter/pull/139363) merged on December 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/139363) over 2 weeks, 39 additions and 7 deletions in 1 file</sub>
