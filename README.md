@@ -621,7 +621,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-26 commits.
+27 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Multi-view pointer event<br />
     <sub>[#46213](https://github.com/flutter/engine/pull/46213) merged on December 20, 2023 &mdash; **Small:** [36 comments](https://github.com/flutter/engine/pull/46213) over 2 months, 181 additions and 18 deletions in 18 files</sub><br />
@@ -694,6 +694,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Convert chromium wheel delta to physical pixels on macOS<br />
     <sub>[#49028](https://github.com/flutter/engine/pull/49028) merged on December 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49028) over 4 days, 2 additions and 49 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Multiview pipeline Pt. 1: Skip illegal render calls<br />
+    <sub>[#49266](https://github.com/flutter/engine/pull/49266) merged on December 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49266) over 23 hours, 25 additions and 18 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add interactive Blur+Clip AiksTest.<br />
     <sub>[#49283](https://github.com/flutter/engine/pull/49283) merged on December 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49283) over 4 hours, 67 additions and 10 deletions in 3 files</sub><br />
