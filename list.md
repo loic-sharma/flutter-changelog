@@ -605,7 +605,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-22 commits.
+23 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Multi-view pointer event
     <sub>[#46213](https://github.com/flutter/engine/pull/46213) merged on December 20, 2023 &mdash; **Small:** [36 comments](https://github.com/flutter/engine/pull/46213) over 2 months, 181 additions and 18 deletions in 18 files</sub>
@@ -638,6 +638,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Opt into unstable libcxx ABI and add a custom namespace.
     <sub>[#49002](https://github.com/flutter/engine/pull/49002) merged on December 18, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/49002) over 4 days, 3 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] new blur: refactored math and fixed expanded padding size
+    <sub>[#49206](https://github.com/flutter/engine/pull/49206) merged on December 20, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/49206) over 1 day, 44 additions and 65 deletions in 4 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web:multiview] Only call `Renderer.clearFragmentProgramCache` on hot restart
     <sub>[#48758](https://github.com/flutter/engine/pull/48758) merged on December 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48758) over 1 week, 81 additions and 46 deletions in 6 files</sub>
