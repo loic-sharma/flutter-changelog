@@ -585,7 +585,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-16 commits.
+19 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Make Rect origin and size fields private<br />
     <sub>[#49168](https://github.com/flutter/engine/pull/49168) merged on December 18, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/49168) over 16 hours, 520 additions and 261 deletions in 39 files</sub><br />
@@ -607,9 +607,17 @@
     <sub>[#49139](https://github.com/flutter/engine/pull/49139) merged on December 18, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/49139) over 2 days, 0 additions and 430 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix testAppExtensionLaunching for Xcode 15/iOS 17<br />
+    <sub>[#49242](https://github.com/flutter/engine/pull/49242) merged on December 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49242) over 23 hours, 26 additions and 9 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Opt into unstable libcxx ABI and add a custom namespace.<br />
     <sub>[#49002](https://github.com/flutter/engine/pull/49002) merged on December 18, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/49002) over 4 days, 3 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Don't guard Windows arm64 Dart SDK download on the release candidate flag<br />
+    <sub>[#49244](https://github.com/flutter/engine/pull/49244) merged on December 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49244) over 22 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jonas Termansen](https://github.com/sortie)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Sync lints with flutter/flutter<br />
     <sub>[#49192](https://github.com/flutter/engine/pull/49192) merged on December 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49192) over 1 day, 53 additions and 189 deletions in 35 files</sub><br />
@@ -630,6 +638,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Convert chromium wheel delta to physical pixels on macOS<br />
     <sub>[#49028](https://github.com/flutter/engine/pull/49028) merged on December 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49028) over 4 days, 2 additions and 49 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
+
+* **[Sergiy Dubovik](https://github.com/sergiy-sc)** &mdash; [macos] FlutterKeyboardManager memory leak fix<br />
+    <sub>[#48824](https://github.com/flutter/engine/pull/48824) merged on December 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48824) over 1 week, 43 additions and 4 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [release] Update release config<br />
     <sub>[#49254](https://github.com/flutter/engine/pull/49254) merged on December 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49254) over 17 hours, 4 additions and 1 deletion in 1 file</sub><br />
