@@ -66,7 +66,7 @@
     <sub>[#140062](https://github.com/flutter/flutter/pull/140062) opened on on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140062) 2 additions and 1 deletion in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Ensure flutter daemon clients can detect preview device<br />
-    <sub>[#140112](https://github.com/flutter/flutter/pull/140112) opened on on December 14, 2023 &mdash; **Medium:** [26 comments](https://github.com/flutter/flutter/pull/140112) 264 additions and 73 deletions in 4 files</sub><br />
+    <sub>[#140112](https://github.com/flutter/flutter/pull/140112) opened on on December 14, 2023 &mdash; **Medium:** [27 comments](https://github.com/flutter/flutter/pull/140112) 264 additions and 73 deletions in 4 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix text selection edge scrolling when inside a horizontal scrollable<br />
     <sub>[#140250](https://github.com/flutter/flutter/pull/140250) opened on on December 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140250) 202 additions and 56 deletions in 3 files</sub><br />
@@ -103,4 +103,7 @@
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#140472](https://github.com/flutter/flutter/pull/140472) opened on on December 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140472) 92 additions and 92 deletions in 46 files</sub><br />
+
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; github actions test<br />
+    <sub>[#140477](https://github.com/flutter/flutter/pull/140477) opened on on December 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140477) 0 additions and 0 deletions in 1 file</sub><br />
 
