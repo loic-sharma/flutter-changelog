@@ -589,7 +589,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-19 commits.
+20 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Make Rect origin and size fields private
     <sub>[#49168](https://github.com/flutter/engine/pull/49168) merged on December 18, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/49168) over 16 hours, 520 additions and 261 deletions in 39 files</sub>
@@ -642,6 +642,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Convert chromium wheel delta to physical pixels on macOS
     <sub>[#49028](https://github.com/flutter/engine/pull/49028) merged on December 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49028) over 4 days, 2 additions and 49 deletions in 2 files</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add interactive Blur+Clip AiksTest.
+    <sub>[#49283](https://github.com/flutter/engine/pull/49283) merged on December 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49283) over 4 hours, 67 additions and 10 deletions in 3 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Sergiy Dubovik](https://github.com/sergiy-sc)** &mdash; [macos] FlutterKeyboardManager memory leak fix
     <sub>[#48824](https://github.com/flutter/engine/pull/48824) merged on December 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48824) over 1 week, 43 additions and 4 deletions in 2 files</sub>
