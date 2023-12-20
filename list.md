@@ -1166,7 +1166,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-3 commits.
+4 commits.
 
 * **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter] Implement platform interface for JavaScript dialog
     <sub>[#5670](https://github.com/flutter/packages/pull/5670) merged on December 19, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/5670) over 5 days, 136 additions and 1 deletion in 6 files</sub>
@@ -1180,6 +1180,10 @@
     <sub>[#5702](https://github.com/flutter/packages/pull/5702) merged on December 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5702) over 1 day, 6 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.7.0&new-version=1.7.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove workarounds for `check_podspecs` needed for older version of Cocoapods
+    <sub>[#5724](https://github.com/flutter/packages/pull/5724) merged on December 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5724) over 21 hours, 0 additions and 7 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 ### December 9, 2023 to December 15, 2023
 
