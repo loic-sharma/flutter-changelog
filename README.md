@@ -609,7 +609,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-23 commits.
+24 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Multi-view pointer event<br />
     <sub>[#46213](https://github.com/flutter/engine/pull/46213) merged on December 20, 2023 &mdash; **Small:** [36 comments](https://github.com/flutter/engine/pull/46213) over 2 months, 181 additions and 18 deletions in 18 files</sub><br />
@@ -702,6 +702,10 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Revert "Reland 2: Multiview Pipeline  (#47239)"<br />
     <sub>[#49238](https://github.com/flutter/engine/pull/49238) merged on December 19, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/49238) over 5 hours, 157 additions and 704 deletions in 24 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Revert "[Impeller] new blur: refactored math and fixed expanded padding size"<br />
+    <sub>[#49298](https://github.com/flutter/engine/pull/49298) merged on December 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49298) over 43 minutes, 65 additions and 44 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
 
 ### December 9, 2023 to December 15, 2023
 
