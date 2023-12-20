@@ -4,7 +4,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-19 commits.
+20 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `TextSpan` hit testing precise.<br />
     <sub>[#139717](https://github.com/flutter/flutter/pull/139717) merged on December 20, 2023 &mdash; **Large:** [53 comments](https://github.com/flutter/flutter/pull/139717) over 1 week, 747 additions and 40 deletions in 13 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Document difference between softWrap and maxLine<br />
     <sub>[#139363](https://github.com/flutter/flutter/pull/139363) merged on December 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/139363) over 2 weeks, 39 additions and 7 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Re-enable test now that source of flakiness is fixed<br />
+    <sub>[#140462](https://github.com/flutter/flutter/pull/140462) merged on December 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140462) over 42 minutes, 4 additions and 7 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] handle FileSystemException trying to delete temp directory from core_devices.dart<br />
     <sub>[#140415](https://github.com/flutter/flutter/pull/140415) merged on December 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140415) over 1 hour, 40 additions and 6 deletions in 3 files</sub><br />
@@ -597,7 +601,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-20 commits.
+21 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Make Rect origin and size fields private<br />
     <sub>[#49168](https://github.com/flutter/engine/pull/49168) merged on December 18, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/49168) over 16 hours, 520 additions and 261 deletions in 39 files</sub><br />
@@ -626,6 +630,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Opt into unstable libcxx ABI and add a custom namespace.<br />
     <sub>[#49002](https://github.com/flutter/engine/pull/49002) merged on December 18, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/49002) over 4 days, 3 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web:multiview] Only call `Renderer.clearFragmentProgramCache` on hot restart<br />
+    <sub>[#48758](https://github.com/flutter/engine/pull/48758) merged on December 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/48758) over 1 week, 81 additions and 46 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Don't guard Windows arm64 Dart SDK download on the release candidate flag<br />
     <sub>[#49244](https://github.com/flutter/engine/pull/49244) merged on December 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49244) over 22 hours, 1 addition and 1 deletion in 1 file</sub><br />
