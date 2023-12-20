@@ -4,7 +4,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-14 commits.
+15 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `TextSpan` hit testing precise.<br />
     <sub>[#139717](https://github.com/flutter/flutter/pull/139717) merged on December 20, 2023 &mdash; **Large:** [53 comments](https://github.com/flutter/flutter/pull/139717) over 1 week, 747 additions and 40 deletions in 13 files</sub><br />
@@ -53,6 +53,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Only run dart files as a test in the Android preview tools test shard<br />
     <sub>[#140099](https://github.com/flutter/flutter/pull/140099) merged on December 18, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/140099) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] change minimal example workflow to be manually dispatched<br />
+    <sub>[#140435](https://github.com/flutter/flutter/pull/140435) merged on December 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140435) over 3 hours, 1 addition and 6 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] add minimal workflow to test token<br />
     <sub>[#140363](https://github.com/flutter/flutter/pull/140363) merged on December 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140363) over 21 hours, 45 additions and 1 deletion in 2 files</sub><br />
