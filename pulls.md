@@ -96,7 +96,7 @@
     <sub>[#140378](https://github.com/flutter/flutter/pull/140378) opened on on December 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140378) 64 additions and 3 deletions in 3 files</sub><br />
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update README.md<br />
-    <sub>[#140382](https://github.com/flutter/flutter/pull/140382) opened on on December 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140382) 7 additions and 4 deletions in 1 file</sub><br />
+    <sub>[#140382](https://github.com/flutter/flutter/pull/140382) opened on on December 19, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140382) 8 additions and 4 deletions in 1 file</sub><br />
 
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; Fixed: DropdownMenu throws exception when it is in any scrollable list view and scrolls quickly #139871 #139872<br />
     <sub>[#140396](https://github.com/flutter/flutter/pull/140396) opened on on December 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140396) 18 additions and 17 deletions in 1 file</sub><br />
