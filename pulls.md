@@ -71,9 +71,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix text selection edge scrolling when inside a horizontal scrollable<br />
     <sub>[#140250](https://github.com/flutter/flutter/pull/140250) opened on on December 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140250) 202 additions and 56 deletions in 3 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate Xcode projects last version checks to Xcode 15.1<br />
-    <sub>[#140256](https://github.com/flutter/flutter/pull/140256) opened on on December 15, 2023 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/140256) 173 additions and 133 deletions in 105 files</sub><br />
-
 * **[Dan Field](https://github.com/dnfield)** &mdash; Try tests with --enable-impeller<br />
     <sub>[#140264](https://github.com/flutter/flutter/pull/140264) opened on on December 16, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140264) 3 additions and 2 deletions in 1 file</sub><br />
 
@@ -103,4 +100,7 @@
 
 * **[Mohab Ashraf](https://github.com/MohabASHRAF-byte)** &mdash; Update settings.json<br />
     <sub>[#140440](https://github.com/flutter/flutter/pull/140440) opened on on December 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140440) 3 additions and 0 deletions in 1 file</sub><br />
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#140472](https://github.com/flutter/flutter/pull/140472) opened on on December 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140472) 92 additions and 92 deletions in 46 files</sub><br />
 
