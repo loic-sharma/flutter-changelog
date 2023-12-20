@@ -102,5 +102,5 @@
     <sub>[#140440](https://github.com/flutter/flutter/pull/140440) opened on on December 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140440) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] unskip canvaskit tests that pass now<br />
-    <sub>[#140480](https://github.com/flutter/flutter/pull/140480) opened on on December 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140480) 0 additions and 16 deletions in 1 file</sub><br />
+    <sub>[#140480](https://github.com/flutter/flutter/pull/140480) opened on on December 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140480) 0 additions and 16 deletions in 1 file</sub><br />
 
