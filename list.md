@@ -4,7 +4,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-21 commits.
+22 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `TextSpan` hit testing precise.
     <sub>[#139717](https://github.com/flutter/flutter/pull/139717) merged on December 20, 2023 &mdash; **Large:** [53 comments](https://github.com/flutter/flutter/pull/139717) over 1 week, 747 additions and 40 deletions in 13 files</sub>
@@ -45,6 +45,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Restore and fix flavors_test_macos
     <sub>[#139841](https://github.com/flutter/flutter/pull/139841) merged on December 18, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/139841) over 1 week, 492 additions and 341 deletions in 16 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Part 1/n migration steps for kotlin migration
+    <sub>[#140452](https://github.com/flutter/flutter/pull/140452) merged on December 20, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/140452) over 3 hours, 107 additions and 104 deletions in 1 file</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Gray Mackall](https://github.com/gmackall), [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Eliminate Cirrus build status badge
     <sub>[#140461](https://github.com/flutter/flutter/pull/140461) merged on December 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140461) over 43 minutes, 0 additions and 3 deletions in 1 file</sub>
