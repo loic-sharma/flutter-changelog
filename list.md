@@ -621,7 +621,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-25 commits.
+26 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Multi-view pointer event
     <sub>[#46213](https://github.com/flutter/engine/pull/46213) merged on December 20, 2023 &mdash; **Small:** [36 comments](https://github.com/flutter/engine/pull/46213) over 2 months, 181 additions and 18 deletions in 18 files</sub>
@@ -654,6 +654,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Opt into unstable libcxx ABI and add a custom namespace.
     <sub>[#49002](https://github.com/flutter/engine/pull/49002) merged on December 18, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/49002) over 4 days, 3 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; SemanticsUpdateBuilder: make all args non-null
+    <sub>[#49148](https://github.com/flutter/engine/pull/49148) merged on December 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49148) over 3 days, 13 additions and 5 deletions in 3 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] fixed Rect::Contains
     <sub>[#49294](https://github.com/flutter/engine/pull/49294) merged on December 20, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/49294) over 3 hours, 9 additions and 1 deletion in 2 files</sub>

@@ -104,3 +104,6 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#140472](https://github.com/flutter/flutter/pull/140472) opened on on December 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140472) 92 additions and 92 deletions in 46 files</sub><br />
 
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] unskip canvaskit tests that pass now<br />
+    <sub>[#140480](https://github.com/flutter/flutter/pull/140480) opened on on December 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140480) 0 additions and 16 deletions in 1 file</sub><br />
+
