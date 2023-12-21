@@ -101,3 +101,6 @@
 * **[Mohab Ashraf](https://github.com/MohabASHRAF-byte)** &mdash; Update settings.json<br />
     <sub>[#140440](https://github.com/flutter/flutter/pull/140440) opened on on December 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140440) 3 additions and 0 deletions in 1 file</sub><br />
 
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] refactor and fix cherry pick actions<br />
+    <sub>[#140499](https://github.com/flutter/flutter/pull/140499) opened on on December 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140499) 10 additions and 13 deletions in 1 file</sub><br />
+
