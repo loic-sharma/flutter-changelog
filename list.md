@@ -669,7 +669,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-35 commits.
+36 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] autofocus in new routes
     <sub>[#47727](https://github.com/flutter/engine/pull/47727) merged on December 21, 2023 &mdash; **Large:** [68 comments](https://github.com/flutter/engine/pull/47727) over 1 month, 525 additions and 26 deletions in 12 files</sub>
@@ -700,6 +700,10 @@
     <sub>[#47424](https://github.com/flutter/engine/pull/47424) merged on December 19, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/47424) over 1 month, 4 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Delete `SemanticsUpdateBuilderNew` and all references and usages
+    <sub>[#49139](https://github.com/flutter/engine/pull/49139) merged on December 18, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/49139) over 2 days, 0 additions and 430 deletions in 2 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Enforce onDrawFrame/onBeginFrame render rule
     <sub>[#49214](https://github.com/flutter/engine/pull/49214) merged on December 19, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/49214) over 20 hours, 214 additions and 165 deletions in 29 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
@@ -707,10 +711,6 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.3.0-242.0.dev
     <sub>[#49239](https://github.com/flutter/engine/pull/49239) merged on December 19, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/49239) over 4 hours, 776 additions and 454 deletions in 10 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Delete `SemanticsUpdateBuilderNew` and all references and usages
-    <sub>[#49139](https://github.com/flutter/engine/pull/49139) merged on December 18, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/49139) over 2 days, 0 additions and 430 deletions in 2 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix testAppExtensionLaunching for Xcode 15/iOS 17
     <sub>[#49242](https://github.com/flutter/engine/pull/49242) merged on December 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49242) over 23 hours, 26 additions and 9 deletions in 1 file</sub>
@@ -727,14 +727,6 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert onrender change
     <sub>[#49333](https://github.com/flutter/engine/pull/49333) merged on December 21, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/49333) over 40 minutes, 210 additions and 294 deletions in 31 files</sub>
     <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [Yegor](https://github.com/yjbanov), [Loïc Sharma](https://github.com/loic-sharma), [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; SemanticsUpdateBuilder: make all args non-null
-    <sub>[#49148](https://github.com/flutter/engine/pull/49148) merged on December 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49148) over 3 days, 13 additions and 5 deletions in 3 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] fixed Rect::Contains
-    <sub>[#49294](https://github.com/flutter/engine/pull/49294) merged on December 20, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49294) over 3 hours, 9 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] new blur: refactored math and fixed expanded padding size
     <sub>[#49206](https://github.com/flutter/engine/pull/49206) merged on December 20, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/49206) over 1 day, 44 additions and 65 deletions in 4 files</sub>
@@ -768,9 +760,13 @@
     <sub>[#49028](https://github.com/flutter/engine/pull/49028) merged on December 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49028) over 4 days, 2 additions and 49 deletions in 2 files</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add interactive Blur+Clip AiksTest.
-    <sub>[#49283](https://github.com/flutter/engine/pull/49283) merged on December 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49283) over 4 hours, 67 additions and 10 deletions in 3 files</sub>
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; SemanticsUpdateBuilder: make all args non-null
+    <sub>[#49148](https://github.com/flutter/engine/pull/49148) merged on December 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49148) over 3 days, 13 additions and 5 deletions in 3 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] fixed Rect::Contains
+    <sub>[#49294](https://github.com/flutter/engine/pull/49294) merged on December 20, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49294) over 3 hours, 9 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Sergiy Dubovik](https://github.com/sergiy-sc)** &mdash; [macos] FlutterKeyboardManager memory leak fix
     <sub>[#48824](https://github.com/flutter/engine/pull/48824) merged on December 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48824) over 1 week, 43 additions and 4 deletions in 2 files</sub>
@@ -792,6 +788,10 @@
     <sub>[#49266](https://github.com/flutter/engine/pull/49266) merged on December 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49266) over 23 hours, 25 additions and 18 deletions in 2 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add interactive Blur+Clip AiksTest.
+    <sub>[#49283](https://github.com/flutter/engine/pull/49283) merged on December 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49283) over 4 hours, 67 additions and 10 deletions in 3 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Set cursor property on body
     <sub>[#49098](https://github.com/flutter/engine/pull/49098) merged on December 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49098) over 2 days, 35 additions and 11 deletions in 3 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
@@ -803,6 +803,10 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Revert "Reland 2: Multiview Pipeline  (#47239)"
     <sub>[#49238](https://github.com/flutter/engine/pull/49238) merged on December 19, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/49238) over 5 hours, 157 additions and 704 deletions in 24 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Reland "[web] Enforce onDrawFrame/onBeginFrame render rule"
+    <sub>[#49336](https://github.com/flutter/engine/pull/49336) merged on December 21, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/49336) over 1 hour, 218 additions and 165 deletions in 29 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland `[Impeller] new blur: refactored math and fixed expanded padding size`
     <sub>[#49302](https://github.com/flutter/engine/pull/49302) merged on December 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49302) over 4 hours, 45 additions and 65 deletions in 4 files</sub>
@@ -1311,7 +1315,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-7 commits.
+8 commits.
 
 * **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter] Implement platform interface for JavaScript dialog
     <sub>[#5670](https://github.com/flutter/packages/pull/5670) merged on December 19, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/5670) over 5 days, 136 additions and 1 deletion in 6 files</sub>
@@ -1333,6 +1337,10 @@
     <sub>[#5702](https://github.com/flutter/packages/pull/5702) merged on December 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5702) over 1 day, 6 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.7.0&new-version=1.7.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[keyonghan](https://github.com/keyonghan)** &mdash; Disable `presubmit: false` targets for recipes CQ
+    <sub>[#5735](https://github.com/flutter/packages/pull/5735) merged on December 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5735) over 41 minutes, 0 additions and 6 deletions in 1 file</sub>
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove workarounds for `check_podspecs` needed for older version of Cocoapods
     <sub>[#5724](https://github.com/flutter/packages/pull/5724) merged on December 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5724) over 21 hours, 0 additions and 7 deletions in 2 files</sub>
