@@ -98,3 +98,6 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Re-land integrate testWidgets with leak tracking.<br />
     <sub>[#140521](https://github.com/flutter/flutter/pull/140521) opened on on December 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140521) 298 additions and 0 deletions in 4 files</sub><br />
 
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#140525](https://github.com/flutter/flutter/pull/140525) opened on on December 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140525) 2 additions and 2 deletions in 1 file</sub><br />
+
