@@ -637,7 +637,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-27 commits.
+29 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Multi-view pointer event
     <sub>[#46213](https://github.com/flutter/engine/pull/46213) merged on December 20, 2023 &mdash; **Small:** [36 comments](https://github.com/flutter/engine/pull/46213) over 2 months, 181 additions and 18 deletions in 18 files</sub>
@@ -739,9 +739,17 @@
     <sub>[#49098](https://github.com/flutter/engine/pull/49098) merged on December 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49098) over 2 days, 35 additions and 11 deletions in 3 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Reland "[Windows] Move to FlutterCompositor for rendering"
+    <sub>[#49262](https://github.com/flutter/engine/pull/49262) merged on December 21, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/engine/pull/49262) over 1 day, 932 additions and 44 deletions in 22 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
+
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Revert "Reland 2: Multiview Pipeline  (#47239)"
     <sub>[#49238](https://github.com/flutter/engine/pull/49238) merged on December 19, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/49238) over 5 hours, 157 additions and 704 deletions in 24 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland `[Impeller] new blur: refactored math and fixed expanded padding size`
+    <sub>[#49302](https://github.com/flutter/engine/pull/49302) merged on December 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49302) over 4 hours, 45 additions and 65 deletions in 4 files</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Revert "[Impeller] new blur: refactored math and fixed expanded padding size"
     <sub>[#49298](https://github.com/flutter/engine/pull/49298) merged on December 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49298) over 43 minutes, 65 additions and 44 deletions in 4 files</sub>
