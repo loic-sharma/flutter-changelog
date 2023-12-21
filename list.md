@@ -4,11 +4,15 @@
 
 ### December 16, 2023 to December 22, 2023
 
-27 commits.
+29 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `TextSpan` hit testing precise.
     <sub>[#139717](https://github.com/flutter/flutter/pull/139717) merged on December 20, 2023 &mdash; **Large:** [53 comments](https://github.com/flutter/flutter/pull/139717) over 1 week, 747 additions and 40 deletions in 13 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Integrate testWidgets with leak tracking.
+    <sub>[#138057](https://github.com/flutter/flutter/pull/138057) merged on December 21, 2023 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/138057) over 1 month, 298 additions and 0 deletions in 4 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Nate Bosch](https://github.com/natebosch)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Make `TextSpan` hit testing precise."
     <sub>[#140468](https://github.com/flutter/flutter/pull/140468) merged on December 20, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/140468) over 19 seconds, 40 additions and 747 deletions in 13 files</sub>
@@ -67,7 +71,7 @@
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move hybrid_android_views_integration_test back to Moto G4
-    <sub>[#140421](https://github.com/flutter/flutter/pull/140421) merged on December 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140421) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
+    <sub>[#140421](https://github.com/flutter/flutter/pull/140421) merged on December 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140421) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [yusuf-goog](https://github.com/yusuf-goog)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift some Linux-hosted tests on moto g4 to pixel 7
@@ -85,6 +89,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Only run dart files as a test in the Android preview tools test shard
     <sub>[#140099](https://github.com/flutter/flutter/pull/140099) merged on December 18, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/140099) over 4 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Fix import pattern
+    <sub>[#140425](https://github.com/flutter/flutter/pull/140425) merged on December 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140425) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update job permissions
     <sub>[#140476](https://github.com/flutter/flutter/pull/140476) merged on December 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140476) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
