@@ -101,3 +101,6 @@
 * **[Mohab Ashraf](https://github.com/MohabASHRAF-byte)** &mdash; Update settings.json<br />
     <sub>[#140440](https://github.com/flutter/flutter/pull/140440) opened on on December 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140440) 3 additions and 0 deletions in 1 file</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; Revert "Integrate testWidgets with leak tracking. (#138057)"<br />
+    <sub>[#140502](https://github.com/flutter/flutter/pull/140502) opened on on December 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140502) 0 additions and 298 deletions in 4 files</sub><br />
+
