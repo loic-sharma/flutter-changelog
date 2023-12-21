@@ -1307,7 +1307,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-5 commits.
+6 commits.
 
 * **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter] Implement platform interface for JavaScript dialog<br />
     <sub>[#5670](https://github.com/flutter/packages/pull/5670) merged on December 19, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/5670) over 5 days, 136 additions and 1 deletion in 6 files</sub><br />
@@ -1316,6 +1316,10 @@
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [webview_flutter] Support for handling basic authentication requests (iOS)<br />
     <sub>[#5455](https://github.com/flutter/packages/pull/5455) merged on December 19, 2023 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/5455) over 4 weeks, 2366 additions and 132 deletions in 38 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[keyonghan](https://github.com/keyonghan)** &mdash; Add env_variables in ci.yaml<br />
+    <sub>[#5730](https://github.com/flutter/packages/pull/5730) merged on December 21, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/5730) over 1 day, 425 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [webview]: Bump androidx.annotation:annotation from 1.7.0 to 1.7.1 in /packages/webview_flutter/webview_flutter_android/android<br />
     <sub>[#5702](https://github.com/flutter/packages/pull/5702) merged on December 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5702) over 1 day, 6 additions and 2 deletions in 3 files</sub><br />
