@@ -4,7 +4,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-29 commits.
+30 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `TextSpan` hit testing precise.
     <sub>[#139717](https://github.com/flutter/flutter/pull/139717) merged on December 20, 2023 &mdash; **Large:** [53 comments](https://github.com/flutter/flutter/pull/139717) over 1 week, 747 additions and 40 deletions in 13 files</sub>
@@ -117,6 +117,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland `find.textRange.ofSubstring` changes
     <sub>[#140469](https://github.com/flutter/flutter/pull/140469) merged on December 20, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/140469) over 2 hours, 510 additions and 14 deletions in 7 files</sub>
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Revert "Integrate testWidgets with leak tracking. (#138057)"
+    <sub>[#140502](https://github.com/flutter/flutter/pull/140502) merged on December 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140502) over 3 hours, 0 additions and 298 deletions in 4 files</sub>
+    <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph)</sub>
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Reland "Warn when Gradle plugins are applied using the legacy apply script method
     <sub>[#140103](https://github.com/flutter/flutter/pull/140103) merged on December 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140103) over 5 days, 233 additions and 41 deletions in 7 files</sub>
