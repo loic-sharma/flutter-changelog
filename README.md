@@ -637,7 +637,11 @@
 
 ### December 16, 2023 to December 22, 2023
 
-29 commits.
+30 commits.
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Defer injection of platform views until needed.<br />
+    <sub>[#48960](https://github.com/flutter/engine/pull/48960) merged on December 21, 2023 &mdash; **Large:** [23 comments](https://github.com/flutter/engine/pull/48960) over 1 week, 166 additions and 437 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Multi-view pointer event<br />
     <sub>[#46213](https://github.com/flutter/engine/pull/46213) merged on December 20, 2023 &mdash; **Small:** [36 comments](https://github.com/flutter/engine/pull/46213) over 2 months, 181 additions and 18 deletions in 18 files</sub><br />
