@@ -1484,7 +1484,7 @@
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Pointer interceptor implementations<br />
-    <sub>[#5594](https://github.com/flutter/packages/pull/5594) merged on December 7, 2023 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/5594) over 21 hours, 4048 additions and 269 deletions in 130 files</sub><br />
+    <sub>[#5594](https://github.com/flutter/packages/pull/5594) merged on December 7, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/5594) over 21 hours, 4048 additions and 269 deletions in 130 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[pointer_interceptor] Add ios implementation and move web implementation to federated structure"<br />
