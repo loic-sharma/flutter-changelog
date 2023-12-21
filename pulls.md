@@ -62,9 +62,6 @@
 * **[aimeekb](https://github.com/aimeekb)** &mdash; update CONTRIBUTING.md to include a section for new developers<br />
     <sub>[#140025](https://github.com/flutter/flutter/pull/140025) opened on on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140025) 26 additions and 0 deletions in 1 file</sub><br />
 
-* **[Drew Roen](https://github.com/drewroengoogle)** &mdash; [WIP] Testing engine PR<br />
-    <sub>[#140062](https://github.com/flutter/flutter/pull/140062) opened on on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140062) 2 additions and 1 deletion in 2 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Ensure flutter daemon clients can detect preview device<br />
     <sub>[#140112](https://github.com/flutter/flutter/pull/140112) opened on on December 14, 2023 &mdash; **Medium:** [34 comments](https://github.com/flutter/flutter/pull/140112) 359 additions and 81 deletions in 5 files</sub><br />
 
