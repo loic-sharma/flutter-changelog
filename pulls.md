@@ -62,9 +62,6 @@
 * **[aimeekb](https://github.com/aimeekb)** &mdash; update CONTRIBUTING.md to include a section for new developers<br />
     <sub>[#140025](https://github.com/flutter/flutter/pull/140025) opened on on December 13, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140025) 26 additions and 0 deletions in 1 file</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Ensure flutter daemon clients can detect preview device<br />
-    <sub>[#140112](https://github.com/flutter/flutter/pull/140112) opened on on December 14, 2023 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/140112) 360 additions and 82 deletions in 6 files</sub><br />
-
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix text selection edge scrolling when inside a horizontal scrollable<br />
     <sub>[#140250](https://github.com/flutter/flutter/pull/140250) opened on on December 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140250) 202 additions and 56 deletions in 3 files</sub><br />
 
