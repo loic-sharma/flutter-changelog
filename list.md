@@ -1307,11 +1307,15 @@
 
 ### December 16, 2023 to December 22, 2023
 
-6 commits.
+7 commits.
 
 * **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter] Implement platform interface for JavaScript dialog
     <sub>[#5670](https://github.com/flutter/packages/pull/5670) merged on December 19, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/5670) over 5 days, 136 additions and 1 deletion in 6 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Refactored RouteMatchList and imperative APIs
+    <sub>[#5497](https://github.com/flutter/packages/pull/5497) merged on December 21, 2023 &mdash; **Extra large:** [34 comments](https://github.com/flutter/packages/pull/5497) over 3 weeks, 1688 additions and 892 deletions in 23 files</sub>
+    <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub>
 
 * **[Jeroen Weener](https://github.com/JeroenWeener)** &mdash; [webview_flutter] Support for handling basic authentication requests (iOS)
     <sub>[#5455](https://github.com/flutter/packages/pull/5455) merged on December 19, 2023 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/5455) over 4 weeks, 2366 additions and 132 deletions in 38 files</sub>
