@@ -4,14 +4,14 @@
 
 ### December 16, 2023 to December 22, 2023
 
-32 commits.
+34 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `TextSpan` hit testing precise.
     <sub>[#139717](https://github.com/flutter/flutter/pull/139717) merged on December 20, 2023 &mdash; **Large:** [53 comments](https://github.com/flutter/flutter/pull/139717) over 1 week, 747 additions and 40 deletions in 13 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Gustl22](https://github.com/Gustl22)** &mdash; Reland: "Fix how Gradle resolves Android plugin"
-    <sub>[#137115](https://github.com/flutter/flutter/pull/137115) merged on December 21, 2023 &mdash; **Large:** [145 comments](https://github.com/flutter/flutter/pull/137115) over 1 month, 619 additions and 128 deletions in 7 files</sub>
+    <sub>[#137115](https://github.com/flutter/flutter/pull/137115) merged on December 21, 2023 &mdash; **Large:** [146 comments](https://github.com/flutter/flutter/pull/137115) over 1 month, 619 additions and 128 deletions in 7 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Christopher Fujino](https://github.com/christopherfujino), [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Integrate testWidgets with leak tracking.
@@ -50,9 +50,17 @@
     <sub>[#140395](https://github.com/flutter/flutter/pull/140395) merged on December 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140395) over 2 hours, 9 additions and 29 deletions in 1 file</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[web] Re-enable test now that source of flakiness is fixed"
+    <sub>[#140515](https://github.com/flutter/flutter/pull/140515) merged on December 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140515) over 1 minute, 7 additions and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Restore and fix flavors_test_macos
     <sub>[#139841](https://github.com/flutter/flutter/pull/139841) merged on December 18, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/139841) over 1 week, 492 additions and 341 deletions in 16 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Non Vachara](https://github.com/nonvachara-paloit)** &mdash; Add send_text_input_action case to deserialization_factory to allow sendTextInputAction usages through flutter_driver.
+    <sub>[#139197](https://github.com/flutter/flutter/pull/139197) merged on December 21, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/139197) over 3 weeks, 42 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Greg Spencer](https://github.com/gspencergoog), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Part 1/n migration steps for kotlin migration
     <sub>[#140452](https://github.com/flutter/flutter/pull/140452) merged on December 20, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/140452) over 3 hours, 107 additions and 104 deletions in 1 file</sub>
@@ -86,10 +94,6 @@
     <sub>[#140389](https://github.com/flutter/flutter/pull/140389) merged on December 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140389) over 49 minutes, 66 additions and 45 deletions in 1 file</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade to version of leak tracker that does not depend on test_widgets.
-    <sub>[#140247](https://github.com/flutter/flutter/pull/140247) merged on December 19, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/140247) over 3 days, 173 additions and 143 deletions in 59 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; SemanticsProperties: default `identifier` and `tooltip` to null
     <sub>[#140283](https://github.com/flutter/flutter/pull/140283) merged on December 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140283) over 1 day, 3 additions and 5 deletions in 2 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
@@ -98,9 +102,9 @@
     <sub>[#140099](https://github.com/flutter/flutter/pull/140099) merged on December 18, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/140099) over 4 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Fix import pattern
-    <sub>[#140425](https://github.com/flutter/flutter/pull/140425) merged on December 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140425) over 1 day, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade to version of leak tracker that does not depend on test_widgets.
+    <sub>[#140247](https://github.com/flutter/flutter/pull/140247) merged on December 19, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/140247) over 3 days, 173 additions and 143 deletions in 59 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update job permissions
     <sub>[#140476](https://github.com/flutter/flutter/pull/140476) merged on December 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140476) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
@@ -121,6 +125,10 @@
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] add minimal workflow to test token
     <sub>[#140363](https://github.com/flutter/flutter/pull/140363) merged on December 20, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140363) over 21 hours, 45 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Fix import pattern
+    <sub>[#140425](https://github.com/flutter/flutter/pull/140425) merged on December 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140425) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland `find.textRange.ofSubstring` changes
     <sub>[#140469](https://github.com/flutter/flutter/pull/140469) merged on December 20, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/140469) over 2 hours, 510 additions and 14 deletions in 7 files</sub>
