@@ -637,7 +637,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-30 commits.
+31 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Defer injection of platform views until needed.
     <sub>[#48960](https://github.com/flutter/engine/pull/48960) merged on December 21, 2023 &mdash; **Large:** [23 comments](https://github.com/flutter/engine/pull/48960) over 1 week, 166 additions and 437 deletions in 12 files</sub>
@@ -646,6 +646,10 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Multi-view pointer event
     <sub>[#46213](https://github.com/flutter/engine/pull/46213) merged on December 20, 2023 &mdash; **Small:** [36 comments](https://github.com/flutter/engine/pull/46213) over 2 months, 181 additions and 18 deletions in 18 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Make IPLR files multi-platform
+    <sub>[#49253](https://github.com/flutter/engine/pull/49253) merged on December 21, 2023 &mdash; **Large:** [13 comments](https://github.com/flutter/engine/pull/49253) over 1 day, 643 additions and 418 deletions in 36 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Make Rect origin and size fields private
     <sub>[#49168](https://github.com/flutter/engine/pull/49168) merged on December 18, 2023 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/49168) over 16 hours, 520 additions and 261 deletions in 39 files</sub>
