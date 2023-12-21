@@ -660,7 +660,7 @@
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Enforce onDrawFrame/onBeginFrame render rule
-    <sub>[#49214](https://github.com/flutter/engine/pull/49214) merged on December 19, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/49214) over 20 hours, 214 additions and 165 deletions in 29 files</sub>
+    <sub>[#49214](https://github.com/flutter/engine/pull/49214) merged on December 19, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/49214) over 20 hours, 214 additions and 165 deletions in 29 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.3.0-242.0.dev
