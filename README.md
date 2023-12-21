@@ -657,7 +657,11 @@
 
 ### December 16, 2023 to December 22, 2023
 
-32 commits.
+33 commits.
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] autofocus in new routes<br />
+    <sub>[#47727](https://github.com/flutter/engine/pull/47727) merged on December 21, 2023 &mdash; **Large:** [68 comments](https://github.com/flutter/engine/pull/47727) over 1 month, 525 additions and 26 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [Ashish Myles](https://github.com/marcianx), [hangyu](https://github.com/hangyujin), [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Defer injection of platform views until needed.<br />
     <sub>[#48960](https://github.com/flutter/engine/pull/48960) merged on December 21, 2023 &mdash; **Large:** [23 comments](https://github.com/flutter/engine/pull/48960) over 1 week, 166 additions and 437 deletions in 12 files</sub><br />
@@ -680,7 +684,7 @@
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Enforce onDrawFrame/onBeginFrame render rule<br />
-    <sub>[#49214](https://github.com/flutter/engine/pull/49214) merged on December 19, 2023 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/49214) over 20 hours, 214 additions and 165 deletions in 29 files</sub><br />
+    <sub>[#49214](https://github.com/flutter/engine/pull/49214) merged on December 19, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/49214) over 20 hours, 214 additions and 165 deletions in 29 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.3.0-242.0.dev<br />
@@ -1286,7 +1290,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-4 commits.
+5 commits.
 
 * **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter] Implement platform interface for JavaScript dialog<br />
     <sub>[#5670](https://github.com/flutter/packages/pull/5670) merged on December 19, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/5670) over 5 days, 136 additions and 1 deletion in 6 files</sub><br />
@@ -1304,6 +1308,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove workarounds for `check_podspecs` needed for older version of Cocoapods<br />
     <sub>[#5724](https://github.com/flutter/packages/pull/5724) merged on December 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5724) over 21 hours, 0 additions and 7 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 2e9cb0aa71a3 to 78666c8dc57e (1 revision)<br />
+    <sub>[#5734](https://github.com/flutter/packages/pull/5734) merged on December 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5734) over 41 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### December 9, 2023 to December 15, 2023
 
