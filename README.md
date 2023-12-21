@@ -637,7 +637,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-31 commits.
+32 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Defer injection of platform views until needed.<br />
     <sub>[#48960](https://github.com/flutter/engine/pull/48960) merged on December 21, 2023 &mdash; **Large:** [23 comments](https://github.com/flutter/engine/pull/48960) over 1 week, 166 additions and 437 deletions in 12 files</sub><br />
@@ -674,6 +674,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix testAppExtensionLaunching for Xcode 15/iOS 17<br />
     <sub>[#49242](https://github.com/flutter/engine/pull/49242) merged on December 20, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49242) over 23 hours, 26 additions and 9 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Ensure sorted rects in ui.Canvas for legacy compatibility<br />
+    <sub>[#49309](https://github.com/flutter/engine/pull/49309) merged on December 21, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/49309) over 7 hours, 184 additions and 74 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Opt into unstable libcxx ABI and add a custom namespace.<br />
     <sub>[#49002](https://github.com/flutter/engine/pull/49002) merged on December 18, 2023 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/49002) over 4 days, 3 additions and 2 deletions in 1 file</sub><br />
