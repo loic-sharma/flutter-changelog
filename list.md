@@ -4,7 +4,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-30 commits.
+31 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `TextSpan` hit testing precise.
     <sub>[#139717](https://github.com/flutter/flutter/pull/139717) merged on December 20, 2023 &mdash; **Large:** [53 comments](https://github.com/flutter/flutter/pull/139717) over 1 week, 747 additions and 40 deletions in 13 files</sub>
@@ -53,6 +53,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Part 1/n migration steps for kotlin migration
     <sub>[#140452](https://github.com/flutter/flutter/pull/140452) merged on December 20, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/140452) over 3 hours, 107 additions and 104 deletions in 1 file</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Gray Mackall](https://github.com/gmackall), [Bartek Pacia](https://github.com/bartekpacia)</sub>
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update README.md
+    <sub>[#140382](https://github.com/flutter/flutter/pull/140382) merged on December 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140382) over 1 day, 8 additions and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove outdated ignores from tool
     <sub>[#140467](https://github.com/flutter/flutter/pull/140467) merged on December 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140467) over 2 hours, 30 additions and 124 deletions in 30 files</sub>
