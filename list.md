@@ -4,11 +4,15 @@
 
 ### December 16, 2023 to December 22, 2023
 
-31 commits.
+32 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `TextSpan` hit testing precise.
     <sub>[#139717](https://github.com/flutter/flutter/pull/139717) merged on December 20, 2023 &mdash; **Large:** [53 comments](https://github.com/flutter/flutter/pull/139717) over 1 week, 747 additions and 40 deletions in 13 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Gustl22](https://github.com/Gustl22)** &mdash; Reland: "Fix how Gradle resolves Android plugin"
+    <sub>[#137115](https://github.com/flutter/flutter/pull/137115) merged on December 21, 2023 &mdash; **Large:** [145 comments](https://github.com/flutter/flutter/pull/137115) over 1 month, 619 additions and 128 deletions in 7 files</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Christopher Fujino](https://github.com/christopherfujino), [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Integrate testWidgets with leak tracking.
     <sub>[#138057](https://github.com/flutter/flutter/pull/138057) merged on December 21, 2023 &mdash; **Small:** [62 comments](https://github.com/flutter/flutter/pull/138057) over 1 month, 298 additions and 0 deletions in 4 files</sub>
