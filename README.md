@@ -11,7 +11,7 @@
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Integrate testWidgets with leak tracking.<br />
-    <sub>[#138057](https://github.com/flutter/flutter/pull/138057) merged on December 21, 2023 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/138057) over 1 month, 298 additions and 0 deletions in 4 files</sub><br />
+    <sub>[#138057](https://github.com/flutter/flutter/pull/138057) merged on December 21, 2023 &mdash; **Small:** [62 comments](https://github.com/flutter/flutter/pull/138057) over 1 month, 298 additions and 0 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Nate Bosch](https://github.com/natebosch)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Make `TextSpan` hit testing precise."<br />
@@ -27,7 +27,7 @@
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Document difference between softWrap and maxLine<br />
-    <sub>[#139363](https://github.com/flutter/flutter/pull/139363) merged on December 18, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/139363) over 2 weeks, 39 additions and 7 deletions in 1 file</sub><br />
+    <sub>[#139363](https://github.com/flutter/flutter/pull/139363) merged on December 18, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/139363) over 2 weeks, 39 additions and 7 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Re-enable test now that source of flakiness is fixed<br />
