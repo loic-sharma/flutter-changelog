@@ -4,7 +4,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-42 commits.
+43 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `TextSpan` hit testing precise.<br />
     <sub>[#139717](https://github.com/flutter/flutter/pull/139717) merged on December 20, 2023 &mdash; **Large:** [53 comments](https://github.com/flutter/flutter/pull/139717) over 1 week, 747 additions and 40 deletions in 13 files</sub><br />
@@ -38,6 +38,10 @@
     <sub>[#139363](https://github.com/flutter/flutter/pull/139363) merged on December 18, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/139363) over 2 weeks, 39 additions and 7 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
+* **[Fedor Blagodyr](https://github.com/feduke-nukem)** &mdash; Added onEnd callback into AnimatedSize<br />
+    <sub>[#139859](https://github.com/flutter/flutter/pull/139859) merged on December 19, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/139859) over 1 week, 96 additions and 1 deletion in 3 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate verify_codesigned.<br />
     <sub>[#139328](https://github.com/flutter/flutter/pull/139328) merged on December 22, 2023 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/139328) over 3 weeks, 643 additions and 6 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
@@ -45,10 +49,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix flavor conditional asset bundling for macos<br />
     <sub>[#140433](https://github.com/flutter/flutter/pull/140433) merged on December 21, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/140433) over 1 day, 63 additions and 7 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
-* **[Fedor Blagodyr](https://github.com/feduke-nukem)** &mdash; Added onEnd callback into AnimatedSize<br />
-    <sub>[#139859](https://github.com/flutter/flutter/pull/139859) merged on December 19, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/139859) over 1 week, 96 additions and 1 deletion in 3 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Re-enable test now that source of flakiness is fixed<br />
     <sub>[#140462](https://github.com/flutter/flutter/pull/140462) merged on December 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140462) over 42 minutes, 4 additions and 7 deletions in 1 file</sub><br />
@@ -62,13 +62,13 @@
     <sub>[#140101](https://github.com/flutter/flutter/pull/140101) merged on December 21, 2023 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/140101) over 1 week, 1707 additions and 1484 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[web] Re-enable test now that source of flakiness is fixed"<br />
-    <sub>[#140515](https://github.com/flutter/flutter/pull/140515) merged on December 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140515) over 1 minute, 7 additions and 4 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove workarounds for `plugin_lint_mac` needed for older version of Cocoapods<br />
     <sub>[#140395](https://github.com/flutter/flutter/pull/140395) merged on December 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140395) over 2 hours, 9 additions and 29 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[web] Re-enable test now that source of flakiness is fixed"<br />
+    <sub>[#140515](https://github.com/flutter/flutter/pull/140515) merged on December 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140515) over 1 minute, 7 additions and 4 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Restore and fix flavors_test_macos<br />
     <sub>[#139841](https://github.com/flutter/flutter/pull/139841) merged on December 18, 2023 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/139841) over 1 week, 492 additions and 341 deletions in 16 files</sub><br />
@@ -106,13 +106,17 @@
     <sub>[#140461](https://github.com/flutter/flutter/pull/140461) merged on December 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140461) over 43 minutes, 0 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move tests shifted to Pixel 7 from staging to prod<br />
+    <sub>[#140438](https://github.com/flutter/flutter/pull/140438) merged on December 20, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/140438) over 15 hours, 0 additions and 20 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift some Linux-hosted tests on moto g4 to pixel 7<br />
     <sub>[#140389](https://github.com/flutter/flutter/pull/140389) merged on December 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140389) over 49 minutes, 66 additions and 45 deletions in 1 file</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move hybrid_android_views_integration_test back to Moto G4<br />
-    <sub>[#140421](https://github.com/flutter/flutter/pull/140421) merged on December 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140421) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade to version of leak tracker that does not depend on test_widgets.<br />
+    <sub>[#140247](https://github.com/flutter/flutter/pull/140247) merged on December 19, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/140247) over 3 days, 173 additions and 143 deletions in 59 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Only run dart files as a test in the Android preview tools test shard<br />
     <sub>[#140099](https://github.com/flutter/flutter/pull/140099) merged on December 18, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/140099) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
@@ -122,13 +126,13 @@
     <sub>[#140283](https://github.com/flutter/flutter/pull/140283) merged on December 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140283) over 1 day, 3 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade to version of leak tracker that does not depend on test_widgets.<br />
-    <sub>[#140247](https://github.com/flutter/flutter/pull/140247) merged on December 19, 2023 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/140247) over 3 days, 173 additions and 143 deletions in 59 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move hybrid_android_views_integration_test back to Moto G4<br />
+    <sub>[#140421](https://github.com/flutter/flutter/pull/140421) merged on December 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140421) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move tests shifted to Pixel 7 from staging to prod<br />
-    <sub>[#140438](https://github.com/flutter/flutter/pull/140438) merged on December 20, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/140438) over 15 hours, 0 additions and 20 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Use double quotes over single quotes in gradle build files<br />
+    <sub>[#140512](https://github.com/flutter/flutter/pull/140512) merged on December 22, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140512) over 23 hours, 69 additions and 69 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Gray Mackall](https://github.com/gmackall), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#140525](https://github.com/flutter/flutter/pull/140525) merged on December 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140525) over 28 minutes, 2 additions and 2 deletions in 1 file</sub><br />
