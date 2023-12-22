@@ -681,7 +681,7 @@
 
 ### December 16, 2023 to December 22, 2023
 
-39 commits.
+40 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] autofocus in new routes<br />
     <sub>[#47727](https://github.com/flutter/engine/pull/47727) merged on December 21, 2023 &mdash; **Large:** [68 comments](https://github.com/flutter/engine/pull/47727) over 1 month, 525 additions and 26 deletions in 12 files</sub><br />
@@ -736,9 +736,9 @@
     <sub>[#49309](https://github.com/flutter/engine/pull/49309) merged on December 21, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/49309) over 7 hours, 184 additions and 74 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Do not skip rendering when mask blur is zero<br />
-    <sub>[#49342](https://github.com/flutter/engine/pull/49342) merged on December 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49342) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Dan Field](https://github.com/dnfield)</sub><br />
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert onrender change<br />
+    <sub>[#49333](https://github.com/flutter/engine/pull/49333) merged on December 21, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/49333) over 40 minutes, 210 additions and 294 deletions in 31 files</sub><br />
+    <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [Yegor](https://github.com/yjbanov), [Loïc Sharma](https://github.com/loic-sharma), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; SemanticsUpdateBuilder: make all args non-null<br />
     <sub>[#49148](https://github.com/flutter/engine/pull/49148) merged on December 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49148) over 3 days, 13 additions and 5 deletions in 3 files</sub><br />
@@ -768,6 +768,10 @@
     <sub>[#48859](https://github.com/flutter/engine/pull/48859) merged on December 19, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/48859) over 1 week, 25 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Remove use of private Rect fields from PathBuilder<br />
+    <sub>[#49334](https://github.com/flutter/engine/pull/49334) merged on December 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/49334) over 3 hours, 136 additions and 52 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Rolls clang to 725656bdd885483c39f482a01ea25d67acf39c46<br />
     <sub>[#49248](https://github.com/flutter/engine/pull/49248) merged on December 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49248) over 3 hours, 40 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
@@ -776,33 +780,29 @@
     <sub>[#49260](https://github.com/flutter/engine/pull/49260) merged on December 19, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49260) over 32 minutes, 2 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Dan Field](https://github.com/dnfield)</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Remove use of private Rect fields from PathBuilder<br />
-    <sub>[#49334](https://github.com/flutter/engine/pull/49334) merged on December 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/49334) over 3 hours, 136 additions and 52 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert onrender change<br />
-    <sub>[#49333](https://github.com/flutter/engine/pull/49333) merged on December 21, 2023 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/49333) over 40 minutes, 210 additions and 294 deletions in 31 files</sub><br />
-    <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [Yegor](https://github.com/yjbanov), [Loïc Sharma](https://github.com/loic-sharma), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Fix incorrect surface manager comment<br />
-    <sub>[#49335](https://github.com/flutter/engine/pull/49335) merged on December 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49335) over 2 hours, 10 additions and 3 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Do not skip rendering when mask blur is zero<br />
+    <sub>[#49342](https://github.com/flutter/engine/pull/49342) merged on December 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49342) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Convert chromium wheel delta to physical pixels on macOS<br />
     <sub>[#49028](https://github.com/flutter/engine/pull/49028) merged on December 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49028) over 4 days, 2 additions and 49 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
 
-* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Use new SurfaceProducer external texture class for rendering platform views<br />
-    <sub>[#49201](https://github.com/flutter/engine/pull/49201) merged on December 19, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/49201) over 21 hours, 202 additions and 63 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Fix incorrect surface manager comment<br />
+    <sub>[#49335](https://github.com/flutter/engine/pull/49335) merged on December 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49335) over 2 hours, 10 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Double timeout on mac builds.<br />
-    <sub>[#49205](https://github.com/flutter/engine/pull/49205) merged on December 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49205) over 1 hour, 3 additions and 3 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[Dan Field](https://github.com/dnfield)** &mdash; Fix GetImpellerContext for ShellTestPlatformViewGL<br />
+    <sub>[#49337](https://github.com/flutter/engine/pull/49337) merged on December 22, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49337) over 4 hours, 50 additions and 5 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Multiview pipeline Pt. 1: Skip illegal render calls<br />
     <sub>[#49266](https://github.com/flutter/engine/pull/49266) merged on December 20, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49266) over 23 hours, 25 additions and 18 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Double timeout on mac builds.<br />
+    <sub>[#49205](https://github.com/flutter/engine/pull/49205) merged on December 19, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49205) over 1 hour, 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add interactive Blur+Clip AiksTest.<br />
     <sub>[#49283](https://github.com/flutter/engine/pull/49283) merged on December 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49283) over 4 hours, 67 additions and 10 deletions in 3 files</sub><br />
@@ -815,6 +815,10 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [release] Update release config<br />
     <sub>[#49254](https://github.com/flutter/engine/pull/49254) merged on December 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49254) over 17 hours, 4 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Marya](https://github.com/MaryaBelanger)</sub><br />
+
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Use new SurfaceProducer external texture class for rendering platform views<br />
+    <sub>[#49201](https://github.com/flutter/engine/pull/49201) merged on December 19, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/49201) over 21 hours, 202 additions and 63 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Set cursor property on body<br />
     <sub>[#49098](https://github.com/flutter/engine/pull/49098) merged on December 18, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49098) over 2 days, 35 additions and 11 deletions in 3 files</sub><br />
