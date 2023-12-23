@@ -95,3 +95,6 @@
 * **[Sameer Singh](https://github.com/sameersingh2704)** &mdash; TabBar with icon having size is not centered properly. <br />
     <sub>[#140505](https://github.com/flutter/flutter/pull/140505) opened on on December 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140505) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; Fixed -> DropdownMenu throws exception when it is in any scrollable l…<br />
+    <sub>[#140566](https://github.com/flutter/flutter/pull/140566) opened on on December 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140566) 3 additions and 0 deletions in 1 file</sub><br />
+
