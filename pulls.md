@@ -98,3 +98,6 @@
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; Fixed -> DropdownMenu throws exception when it is in any scrollable l…<br />
     <sub>[#140566](https://github.com/flutter/flutter/pull/140566) opened on on December 23, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140566) 3 additions and 0 deletions in 1 file</sub><br />
 
+* **[shirne](https://github.com/shirne)** &mdash; improve comment doc in tabs.dart<br />
+    <sub>[#140568](https://github.com/flutter/flutter/pull/140568) opened on on December 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140568) 1 addition and 1 deletion in 1 file</sub><br />
+
