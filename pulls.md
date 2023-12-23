@@ -102,5 +102,5 @@
     <sub>[#140568](https://github.com/flutter/flutter/pull/140568) opened on on December 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140568) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; M3 - Fix Chip icon and label colors<br />
-    <sub>[#140573](https://github.com/flutter/flutter/pull/140573) opened on on December 23, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/140573) 280 additions and 39 deletions in 9 files</sub><br />
+    <sub>[#140573](https://github.com/flutter/flutter/pull/140573) opened on on December 23, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/140573) 280 additions and 39 deletions in 9 files</sub><br />
 
