@@ -86,9 +86,6 @@
 * **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Add position data to `OnDragEnd` callback<br />
     <sub>[#140378](https://github.com/flutter/flutter/pull/140378) opened on on December 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140378) 64 additions and 3 deletions in 3 files</sub><br />
 
-* **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; Fixed: DropdownMenu throws exception when it is in any scrollable list view and scrolls quickly #139871 #139872<br />
-    <sub>[#140396](https://github.com/flutter/flutter/pull/140396) opened on on December 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140396) 18 additions and 17 deletions in 1 file</sub><br />
-
 * **[Mohab Ashraf](https://github.com/MohabASHRAF-byte)** &mdash; Update settings.json<br />
     <sub>[#140440](https://github.com/flutter/flutter/pull/140440) opened on on December 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140440) 3 additions and 0 deletions in 1 file</sub><br />
 
