@@ -105,7 +105,7 @@
     <sub>[#140573](https://github.com/flutter/flutter/pull/140573) opened on on December 23, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/140573) 280 additions and 39 deletions in 9 files</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Fix element finding in tests when using OverlayPortal within ListView<br />
-    <sub>[#140576](https://github.com/flutter/flutter/pull/140576) opened on on December 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140576) 57 additions and 12 deletions in 3 files</sub><br />
+    <sub>[#140576](https://github.com/flutter/flutter/pull/140576) opened on on December 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140576) 57 additions and 12 deletions in 3 files</sub><br />
 
 * **[deepanshugarg](https://github.com/mdex-geek)** &mdash; Update README.md<br />
     <sub>[#140583](https://github.com/flutter/flutter/pull/140583) opened on on December 24, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140583) 7 additions and 16 deletions in 1 file</sub><br />
