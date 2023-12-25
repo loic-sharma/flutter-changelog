@@ -107,3 +107,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Fix element finding in tests when using OverlayPortal within ListView<br />
     <sub>[#140576](https://github.com/flutter/flutter/pull/140576) opened on on December 23, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140576) 57 additions and 12 deletions in 3 files</sub><br />
 
+* **[Tirth](https://github.com/piedcipher)** &mdash; [Fix] Consistency in ButtonStyleButton related Tests<br />
+    <sub>[#140610](https://github.com/flutter/flutter/pull/140610) opened on on December 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140610) 6 additions and 6 deletions in 2 files</sub><br />
+
