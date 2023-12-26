@@ -915,7 +915,12 @@
 
 ### December 23, 2023 to December 29, 2023
 
-1 commits.
+2 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [path_provider]: Bump androidx.annotation:annotation from 1.7.0 to 1.7.1 in /packages/path_provider/path_provider_android/android
+    <sub>[#5709](https://github.com/flutter/packages/pull/5709) merged on December 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5709) over 1 week, 4 additions and 3 deletions in 3 files</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.7.0&new-version=1.7.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.9.21 to 1.9.22 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#5747](https://github.com/flutter/packages/pull/5747) merged on December 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5747) over 22 hours, 1 addition and 1 deletion in 1 file</sub>
