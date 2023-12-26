@@ -450,9 +450,18 @@
 
 ## flutter/engine
 
+### December 23, 2023 to December 29, 2023
+
+1 commits.
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Remove `PlatformWindow` and `RenderTarget` abstractions<br />
+    <sub>[#49312](https://github.com/flutter/engine/pull/49312) merged on December 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49312) over 5 days, 44 additions and 95 deletions in 18 files</sub><br />
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+
 ### December 16, 2023 to December 22, 2023
 
-40 commits.
+<details>
+<summary>40 commits...</summary>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] autofocus in new routes<br />
     <sub>[#47727](https://github.com/flutter/engine/pull/47727) merged on December 21, 2023 &mdash; **Large:** [68 comments](https://github.com/flutter/engine/pull/47727) over 1 month, 525 additions and 26 deletions in 12 files</sub><br />
@@ -614,6 +623,8 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Revert "[Impeller] new blur: refactored math and fixed expanded padding size"<br />
     <sub>[#49298](https://github.com/flutter/engine/pull/49298) merged on December 20, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49298) over 43 minutes, 65 additions and 44 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
+
+</details>
 
 ### December 9, 2023 to December 15, 2023
 
