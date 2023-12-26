@@ -107,3 +107,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; [Fix] Consistency in ButtonStyleButton related Tests<br />
     <sub>[#140610](https://github.com/flutter/flutter/pull/140610) opened on on December 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140610) 6 additions and 6 deletions in 2 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland "Make `TextSpan` hit testing precise." (#140468)<br />
+    <sub>[#140621](https://github.com/flutter/flutter/pull/140621) opened on on December 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140621) 237 additions and 26 deletions in 6 files</sub><br />
+
