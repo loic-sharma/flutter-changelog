@@ -452,7 +452,11 @@
 
 ### December 23, 2023 to December 29, 2023
 
-1 commits.
+2 commits.
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Move DWM composition status to Windows proc table for mocking
+    <sub>[#49397](https://github.com/flutter/engine/pull/49397) merged on December 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49397) over 1 hour, 100 additions and 59 deletions in 11 files</sub>
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Remove `PlatformWindow` and `RenderTarget` abstractions
     <sub>[#49312](https://github.com/flutter/engine/pull/49312) merged on December 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49312) over 5 days, 44 additions and 95 deletions in 18 files</sub>
