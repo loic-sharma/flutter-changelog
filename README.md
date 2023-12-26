@@ -902,9 +902,19 @@
 
 ## flutter/packages
 
+### December 23, 2023 to December 29, 2023
+
+1 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.9.21 to 1.9.22 in /packages/pigeon/platform_tests/test_plugin/android<br />
+    <sub>[#5747](https://github.com/flutter/packages/pull/5747) merged on December 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5747) over 22 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.9.21&new-version=1.9.22)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
 ### December 16, 2023 to December 22, 2023
 
-8 commits.
+<details>
+<summary>8 commits...</summary>
 
 * **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter] Implement platform interface for JavaScript dialog<br />
     <sub>[#5670](https://github.com/flutter/packages/pull/5670) merged on December 19, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/5670) over 5 days, 136 additions and 1 deletion in 6 files</sub><br />
@@ -938,6 +948,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 2e9cb0aa71a3 to 78666c8dc57e (1 revision)<br />
     <sub>[#5734](https://github.com/flutter/packages/pull/5734) merged on December 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5734) over 41 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### December 9, 2023 to December 15, 2023
 
