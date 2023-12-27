@@ -113,3 +113,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds onFocus and onBlur to text fields<br />
     <sub>[#140658](https://github.com/flutter/flutter/pull/140658) opened on on December 27, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/140658) 528 additions and 0 deletions in 8 files</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Refactored HeroController logic to handle complex cases<br />
+    <sub>[#140675](https://github.com/flutter/flutter/pull/140675) opened on on December 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140675) 163 additions and 31 deletions in 3 files</sub><br />
+
