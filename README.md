@@ -479,7 +479,11 @@
 
 ### December 23, 2023 to December 29, 2023
 
-2 commits.
+3 commits.
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Move DWM flush to Windows proc table for mocking<br />
+    <sub>[#49398](https://github.com/flutter/engine/pull/49398) merged on December 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49398) over 23 hours, 18 additions and 14 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Move DWM composition status to Windows proc table for mocking<br />
     <sub>[#49397](https://github.com/flutter/engine/pull/49397) merged on December 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49397) over 1 hour, 100 additions and 59 deletions in 11 files</sub><br />
