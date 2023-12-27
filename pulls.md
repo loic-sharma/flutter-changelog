@@ -113,3 +113,6 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#140631](https://github.com/flutter/flutter/pull/140631) opened on on December 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140631) 6 additions and 6 deletions in 3 files</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Adds onFocus and onBlur to text fields<br />
+    <sub>[#140658](https://github.com/flutter/flutter/pull/140658) opened on on December 27, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/140658) 367 additions and 0 deletions in 8 files</sub><br />
+
