@@ -116,6 +116,3 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactored HeroController logic to handle complex cases<br />
     <sub>[#140675](https://github.com/flutter/flutter/pull/140675) opened on on December 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140675) 163 additions and 31 deletions in 3 files</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Re-enable text field test now that fix has landed in engine<br />
-    <sub>[#140678](https://github.com/flutter/flutter/pull/140678) opened on on December 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140678) 4 additions and 7 deletions in 1 file</sub><br />
-
