@@ -35,9 +35,6 @@
 * **[Maximilian Fischer](https://github.com/fischerscode)** &mdash; Move expansion state of `ExpansionTile` to `ExpansionTileController`<br />
     <sub>[#138025](https://github.com/flutter/flutter/pull/138025) opened on on November 7, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138025) 150 additions and 30 deletions in 2 files</sub><br />
 
-* **[Ann Marie Mossman](https://github.com/mossmana)** &mdash; Handle KEYCODE_DPAD_CENTER and KEYCODE_ENTER<br />
-    <sub>[#138240](https://github.com/flutter/flutter/pull/138240) opened on on November 10, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/138240) 7 additions and 0 deletions in 2 files</sub><br />
-
 * **[Paul](https://github.com/PAException)** &mdash; Added hover and splash color to NavigationRailDestination<br />
     <sub>[#138453](https://github.com/flutter/flutter/pull/138453) opened on on November 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138453) 81 additions and 2 deletions in 2 files</sub><br />
 
