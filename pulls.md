@@ -110,3 +110,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland "Make `TextSpan` hit testing precise." (#140468)<br />
     <sub>[#140621](https://github.com/flutter/flutter/pull/140621) opened on on December 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140621) 237 additions and 26 deletions in 6 files</sub><br />
 
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#140631](https://github.com/flutter/flutter/pull/140631) opened on on December 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140631) 6 additions and 6 deletions in 3 files</sub><br />
+
