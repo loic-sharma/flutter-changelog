@@ -4,7 +4,7 @@
 
 ### December 23, 2023 to December 29, 2023
 
-3 commits.
+4 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add custom system-wide text selection toolbar buttons on Android<br />
     <sub>[#139738](https://github.com/flutter/flutter/pull/139738) merged on December 27, 2023 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/139738) over 2 weeks, 365 additions and 7 deletions in 3 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable random test order in asset_bundle_test.dart<br />
     <sub>[#140666](https://github.com/flutter/flutter/pull/140666) merged on December 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140666) over 1 hour, 7 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_pixel_7pro integration_ui_keyboard_resize to be flaky<br />
+    <sub>[#140646](https://github.com/flutter/flutter/pull/140646) merged on December 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140646) over 11 hours, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 ### December 16, 2023 to December 22, 2023
 
