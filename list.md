@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### December 23, 2023 to December 29, 2023
+
+1 commits.
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable random test order in asset_bundle_test.dart
+    <sub>[#140666](https://github.com/flutter/flutter/pull/140666) merged on December 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140666) over 1 hour, 7 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
 ### December 16, 2023 to December 22, 2023
 
-43 commits.
+<details>
+<summary>43 commits...</summary>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `TextSpan` hit testing precise.
     <sub>[#139717](https://github.com/flutter/flutter/pull/139717) merged on December 20, 2023 &mdash; **Large:** [53 comments](https://github.com/flutter/flutter/pull/139717) over 1 week, 747 additions and 40 deletions in 13 files</sub>
@@ -177,6 +186,8 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Reland "Warn when Gradle plugins are applied using the legacy apply script method
     <sub>[#140103](https://github.com/flutter/flutter/pull/140103) merged on December 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140103) over 5 days, 233 additions and 41 deletions in 7 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+</details>
 
 ### December 9, 2023 to December 15, 2023
 
