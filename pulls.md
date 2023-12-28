@@ -120,5 +120,5 @@
     <sub>[#140700](https://github.com/flutter/flutter/pull/140700) opened on on December 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140700) 43 additions and 0 deletions in 2 files</sub><br />
 
 * **[toda-bps](https://github.com/toda-bps)** &mdash; Fix CupertinoPageTransition back gesture behavior<br />
-    <sub>[#140704](https://github.com/flutter/flutter/pull/140704) opened on on December 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140704) 138 additions and 15 deletions in 2 files</sub><br />
+    <sub>[#140704](https://github.com/flutter/flutter/pull/140704) opened on on December 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140704) 142 additions and 15 deletions in 2 files</sub><br />
 
