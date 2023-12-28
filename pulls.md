@@ -122,6 +122,3 @@
 * **[toda-bps](https://github.com/toda-bps)** &mdash; Fix CupertinoPageTransition back gesture behavior<br />
     <sub>[#140704](https://github.com/flutter/flutter/pull/140704) opened on on December 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140704) 142 additions and 15 deletions in 2 files</sub><br />
 
-* **[Daniel Chevalier](https://github.com/CoderDake)** &mdash; Show width and height in inspector overlay<br />
-    <sub>[#140708](https://github.com/flutter/flutter/pull/140708) opened on on December 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140708) 6 additions and 2 deletions in 1 file</sub><br />
-
