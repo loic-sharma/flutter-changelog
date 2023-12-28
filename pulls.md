@@ -114,5 +114,5 @@
     <sub>[#140658](https://github.com/flutter/flutter/pull/140658) opened on on December 27, 2023 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/140658) 532 additions and 0 deletions in 8 files</sub><br />
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; Update margin between label and icon in Tab to better reflect Material specs<br />
-    <sub>[#140698](https://github.com/flutter/flutter/pull/140698) opened on on December 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140698) 42 additions and 3 deletions in 2 files</sub><br />
+    <sub>[#140698](https://github.com/flutter/flutter/pull/140698) opened on on December 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140698) 42 additions and 3 deletions in 2 files</sub><br />
 
