@@ -4,7 +4,7 @@
 
 ### December 23, 2023 to December 29, 2023
 
-5 commits.
+6 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add custom system-wide text selection toolbar buttons on Android<br />
     <sub>[#139738](https://github.com/flutter/flutter/pull/139738) merged on December 27, 2023 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/139738) over 2 weeks, 365 additions and 7 deletions in 3 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Re-enable text field test now that fix has landed in engine<br />
     <sub>[#140678](https://github.com/flutter/flutter/pull/140678) merged on December 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140678) over 2 hours, 4 additions and 7 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Hassan Toor](https://github.com/htoor3)</sub><br />
+
+* **[hhh](https://github.com/huanghui1998hhh)** &mdash; expose didExceedMaxLines from RenderParagraph<br />
+    <sub>[#139962](https://github.com/flutter/flutter/pull/139962) merged on December 28, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/139962) over 2 weeks, 45 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Alex Li](https://github.com/AlexV525)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Makes the flutter tool retry on a bad gateway network error from gradle<br />
     <sub>[#140670](https://github.com/flutter/flutter/pull/140670) merged on December 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140670) over 2 hours, 34 additions and 0 deletions in 2 files</sub><br />
