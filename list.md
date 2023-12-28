@@ -675,7 +675,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Add FlutterMetalLayer as optional alternative to CAMetalLayer
-    <sub>[#48226](https://github.com/flutter/engine/pull/48226) merged on December 16, 2023 &mdash; **Large:** [75 comments](https://github.com/flutter/engine/pull/48226) over 3 weeks, 718 additions and 5 deletions in 8 files</sub>
+    <sub>[#48226](https://github.com/flutter/engine/pull/48226) merged on December 16, 2023 &mdash; **Large:** [76 comments](https://github.com/flutter/engine/pull/48226) over 3 weeks, 718 additions and 5 deletions in 8 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] PointerBinding per view
