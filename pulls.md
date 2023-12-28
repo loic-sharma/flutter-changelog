@@ -116,3 +116,6 @@
 * **[David Martos](https://github.com/davidmartos96)** &mdash; Update margin between label and icon in Tab to better reflect Material specs<br />
     <sub>[#140698](https://github.com/flutter/flutter/pull/140698) opened on on December 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140698) 42 additions and 3 deletions in 2 files</sub><br />
 
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; fix Ink not updating on TextField newline<br />
+    <sub>[#140700](https://github.com/flutter/flutter/pull/140700) opened on on December 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140700) 43 additions and 0 deletions in 2 files</sub><br />
+
