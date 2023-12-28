@@ -4,7 +4,7 @@
 
 ### December 23, 2023 to December 29, 2023
 
-6 commits.
+7 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add custom system-wide text selection toolbar buttons on Android
     <sub>[#139738](https://github.com/flutter/flutter/pull/139738) merged on December 27, 2023 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/139738) over 2 weeks, 365 additions and 7 deletions in 3 files</sub>
@@ -25,6 +25,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable random test order in asset_bundle_test.dart
     <sub>[#140666](https://github.com/flutter/flutter/pull/140666) merged on December 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140666) over 1 hour, 7 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; More helpful test.dart output
+    <sub>[#140175](https://github.com/flutter/flutter/pull/140175) merged on December 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140175) over 2 weeks, 82 additions and 23 deletions in 5 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_pixel_7pro integration_ui_keyboard_resize to be flaky
     <sub>[#140646](https://github.com/flutter/flutter/pull/140646) merged on December 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140646) over 11 hours, 1 addition and 0 deletions in 1 file</sub>
