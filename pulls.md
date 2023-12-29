@@ -122,6 +122,3 @@
 * **[toda-bps](https://github.com/toda-bps)** &mdash; Fix CupertinoPageTransition back gesture behavior<br />
     <sub>[#140704](https://github.com/flutter/flutter/pull/140704) opened on on December 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140704) 142 additions and 15 deletions in 2 files</sub><br />
 
-* **[Casey Rogers](https://github.com/caseycrogers)** &mdash; [WIP] removed generic from page and descendants<br />
-    <sub>[#140743](https://github.com/flutter/flutter/pull/140743) opened on on December 29, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/140743) 163 additions and 176 deletions in 18 files</sub><br />
-
