@@ -4,7 +4,12 @@
 
 ### December 23, 2023 to December 29, 2023
 
-7 commits.
+8 commits.
+
+* **[Daniel Chevalier](https://github.com/CoderDake)** &mdash; Show width and height in inspector overlay 
+    <sub>[#140709](https://github.com/flutter/flutter/pull/140709) merged on December 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140709) over 4 hours, 6 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Elliott Brooks](https://github.com/elliette)</sub>
+    <sub><details><summary>4 images...</summary><img width="442" alt="Screenshot 2023-12-28 at 2 39 49 PM" src="https://github.com/flutter/flutter/assets/1386322/2de40092-de15-4ada-a954-e911e6bef217"><img width="645" alt="Screenshot 2023-12-28 at 2 39 42 PM" src="https://github.com/flutter/flutter/assets/1386322/8f53dad5-1aba-43d9-9419-ca93cd894624"><img width="149" alt="Screenshot 2023-12-28 at 2 39 37 PM" src="https://github.com/flutter/flutter/assets/1386322/bbed74b7-c962-4c20-80d8-48e5eaa14de6">![](https://media.giphy.com/media/SX71qs3TDxVkvbLJ4o/giphy-downsized.gif)</details></sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add custom system-wide text selection toolbar buttons on Android
     <sub>[#139738](https://github.com/flutter/flutter/pull/139738) merged on December 27, 2023 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/139738) over 2 weeks, 365 additions and 7 deletions in 3 files</sub>
