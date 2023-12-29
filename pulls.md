@@ -125,3 +125,6 @@
 * **[Casey Rogers](https://github.com/caseycrogers)** &mdash; [WIP] removed generic from page and descendants<br />
     <sub>[#140743](https://github.com/flutter/flutter/pull/140743) opened on on December 29, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/140743) 163 additions and 176 deletions in 18 files</sub><br />
 
+* **[Callum Moffat](https://github.com/moffatman)** &mdash; ScaleGestureRecognizer pointerCount=2 for trackpad gestures<br />
+    <sub>[#140745](https://github.com/flutter/flutter/pull/140745) opened on on December 29, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140745) 103 additions and 4 deletions in 2 files</sub><br />
+
