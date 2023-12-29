@@ -24,7 +24,7 @@
     <sub>[#136764](https://github.com/flutter/flutter/pull/136764) opened on on October 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136764) 17 additions and 1 deletion in 6 files</sub><br />
 
 * **[Regis Imuduhe Safari](https://github.com/RegisSaffi)** &mdash; Add support for Kinyarwanda (rw) Language locale<br />
-    <sub>[#137061](https://github.com/flutter/flutter/pull/137061) opened on on October 23, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/137061) 1951 additions and 125 deletions in 8 files</sub><br />
+    <sub>[#137061](https://github.com/flutter/flutter/pull/137061) opened on on October 23, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/137061) 1952 additions and 125 deletions in 8 files</sub><br />
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] fix service worker caching for custom base href<br />
     <sub>[#137202](https://github.com/flutter/flutter/pull/137202) opened on on October 25, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/137202) 157 additions and 22 deletions in 3 files</sub><br />
@@ -121,4 +121,7 @@
 
 * **[toda-bps](https://github.com/toda-bps)** &mdash; Fix CupertinoPageTransition back gesture behavior<br />
     <sub>[#140704](https://github.com/flutter/flutter/pull/140704) opened on on December 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140704) 142 additions and 15 deletions in 2 files</sub><br />
+
+* **[Casey Rogers](https://github.com/caseycrogers)** &mdash; [WIP] removed generic from page and descendants<br />
+    <sub>[#140743](https://github.com/flutter/flutter/pull/140743) opened on on December 29, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/140743) 163 additions and 176 deletions in 18 files</sub><br />
 
