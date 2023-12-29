@@ -4,7 +4,7 @@
 
 ### December 23, 2023 to December 29, 2023
 
-8 commits.
+9 commits.
 
 * **[Daniel Chevalier](https://github.com/CoderDake)** &mdash; Show width and height in inspector overlay 
     <sub>[#140709](https://github.com/flutter/flutter/pull/140709) merged on December 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140709) over 4 hours, 6 additions and 2 deletions in 1 file</sub>
@@ -22,6 +22,10 @@
 * **[hhh](https://github.com/huanghui1998hhh)** &mdash; expose didExceedMaxLines from RenderParagraph
     <sub>[#139962](https://github.com/flutter/flutter/pull/139962) merged on December 28, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/139962) over 2 weeks, 45 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Alex Li](https://github.com/AlexV525)</sub>
+
+* **[林洵锋](https://github.com/LinXunFeng)** &mdash; Update README.md
+    <sub>[#140661](https://github.com/flutter/flutter/pull/140661) merged on December 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140661) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Makes the flutter tool retry on a bad gateway network error from gradle
     <sub>[#140670](https://github.com/flutter/flutter/pull/140670) merged on December 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140670) over 2 hours, 34 additions and 0 deletions in 2 files</sub>
