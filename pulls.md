@@ -117,7 +117,7 @@
     <sub>[#140698](https://github.com/flutter/flutter/pull/140698) opened on on December 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140698) 42 additions and 3 deletions in 2 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; fix Ink not updating on TextField newline<br />
-    <sub>[#140700](https://github.com/flutter/flutter/pull/140700) opened on on December 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140700) 47 additions and 9 deletions in 2 files</sub><br />
+    <sub>[#140700](https://github.com/flutter/flutter/pull/140700) opened on on December 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140700) 47 additions and 9 deletions in 2 files</sub><br />
 
 * **[toda-bps](https://github.com/toda-bps)** &mdash; Fix CupertinoPageTransition back gesture behavior<br />
     <sub>[#140704](https://github.com/flutter/flutter/pull/140704) opened on on December 28, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140704) 142 additions and 15 deletions in 2 files</sub><br />
