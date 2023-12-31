@@ -132,5 +132,5 @@
     <sub>[#140747](https://github.com/flutter/flutter/pull/140747) opened on on December 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140747) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jehun Seem(심제훈)](https://github.com/gtgalone)** &mdash; Add more exceptinal condition for ProgressIndicator<br />
-    <sub>[#140755](https://github.com/flutter/flutter/pull/140755) opened on on December 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140755) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#140755](https://github.com/flutter/flutter/pull/140755) opened on on December 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140755) 1 addition and 1 deletion in 1 file</sub><br />
 
