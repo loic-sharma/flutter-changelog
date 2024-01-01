@@ -137,6 +137,3 @@
 * **[Erfan](https://github.com/soltanzadehErfan)** &mdash; Improve documentation for Flutter Divider widget<br />
     <sub>[#140769](https://github.com/flutter/flutter/pull/140769) opened on on January 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140769) 56 additions and 52 deletions in 1 file</sub><br />
 
-* **[Sharabiddin Ahmayev](https://github.com/sharabiddin)** &mdash; Fixes SegmentedButton State update logic<br />
-    <sub>[#140771](https://github.com/flutter/flutter/pull/140771) opened on on January 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140771) 32 additions and 3 deletions in 2 files</sub><br />
-
