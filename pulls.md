@@ -134,6 +134,9 @@
 * **[Jehun Seem(심제훈)](https://github.com/gtgalone)** &mdash; Add more exceptinal condition for ProgressIndicator<br />
     <sub>[#140755](https://github.com/flutter/flutter/pull/140755) opened on on December 30, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/140755) 22 additions and 1 deletion in 2 files</sub><br />
 
+* **[Sharabiddin Ahmayev](https://github.com/sharabiddin)** &mdash; Fixes SegmentedButton State update logic<br />
+    <sub>[#140772](https://github.com/flutter/flutter/pull/140772) opened on on January 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140772) 33 additions and 3 deletions in 2 files</sub><br />
+
 * **[Erfan](https://github.com/soltanzadehErfan)** &mdash; Improve documentation for Flutter Divider widget<br />
-    <sub>[#140769](https://github.com/flutter/flutter/pull/140769) opened on on January 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140769) 56 additions and 52 deletions in 1 file</sub><br />
+    <sub>[#140773](https://github.com/flutter/flutter/pull/140773) opened on on January 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140773) 56 additions and 52 deletions in 1 file</sub><br />
 
