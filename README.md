@@ -4,7 +4,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-3 commits.
+4 commits.
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add command line parameter that turns on leak tracking.<br />
     <sub>[#138653](https://github.com/flutter/flutter/pull/138653) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/138653) over 1 month, 19 additions and 3 deletions in 1 file</sub><br />
@@ -13,6 +13,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Rename MemoryAllocations to FlutterMemoryAllocations.<br />
     <sub>[#140623](https://github.com/flutter/flutter/pull/140623) merged on January 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140623) over 6 days, 90 additions and 82 deletions in 31 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[shirne](https://github.com/shirne)** &mdash; improve comment doc in tabs.dart<br />
+    <sub>[#140568](https://github.com/flutter/flutter/pull/140568) merged on January 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140568) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Revert "[Impeller] Plumb through the impeller-force-gl flag."<br />
     <sub>[#140535](https://github.com/flutter/flutter/pull/140535) merged on January 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140535) over 1 week, 0 additions and 24 deletions in 5 files</sub><br />

@@ -95,11 +95,8 @@
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; Fixed -> DropdownMenu throws exception when it is in any scrollable l…<br />
     <sub>[#140566](https://github.com/flutter/flutter/pull/140566) opened on on December 23, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140566) 34 additions and 0 deletions in 2 files</sub><br />
 
-* **[shirne](https://github.com/shirne)** &mdash; improve comment doc in tabs.dart<br />
-    <sub>[#140568](https://github.com/flutter/flutter/pull/140568) opened on on December 23, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140568) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[David Martos](https://github.com/davidmartos96)** &mdash; M3 - Fix Chip icon and label colors<br />
-    <sub>[#140573](https://github.com/flutter/flutter/pull/140573) opened on on December 23, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/140573) 194 additions and 39 deletions in 9 files</sub><br />
+    <sub>[#140573](https://github.com/flutter/flutter/pull/140573) opened on on December 23, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/140573) 194 additions and 39 deletions in 9 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [Fix] Consistency in ButtonStyleButton related Tests<br />
     <sub>[#140610](https://github.com/flutter/flutter/pull/140610) opened on on December 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140610) 6 additions and 6 deletions in 2 files</sub><br />
