@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### December 30, 2023 to January 5, 2024
+
+1 commits.
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add command line parameter that turns on leak tracking.<br />
+    <sub>[#138653](https://github.com/flutter/flutter/pull/138653) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/138653) over 1 month, 19 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
+
 ### December 23, 2023 to December 29, 2023
 
-9 commits.
+<details>
+<summary>9 commits...</summary>
 
 * **[Daniel Chevalier](https://github.com/CoderDake)** &mdash; Show width and height in inspector overlay <br />
     <sub>[#140709](https://github.com/flutter/flutter/pull/140709) merged on December 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140709) over 4 hours, 6 additions and 2 deletions in 1 file</sub><br />
@@ -42,6 +51,8 @@
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_pixel_7pro integration_ui_keyboard_resize to be flaky<br />
     <sub>[#140646](https://github.com/flutter/flutter/pull/140646) merged on December 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140646) over 11 hours, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+</details>
 
 ### December 16, 2023 to December 22, 2023
 
@@ -515,7 +526,7 @@
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.7.0&new-version=1.7.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Disable `presubmit: false` targets for recipes CQ<br />
-    <sub>[#5735](https://github.com/flutter/packages/pull/5735) merged on December 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5735) over 41 minutes, 0 additions and 6 deletions in 1 file</sub><br />
+    <sub>[#5735](https://github.com/flutter/packages/pull/5735) merged on December 21, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5735) over 41 minutes, 0 additions and 6 deletions in 1 file</sub><br />
     <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove workarounds for `check_podspecs` needed for older version of Cocoapods<br />
