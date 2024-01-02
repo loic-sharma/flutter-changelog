@@ -98,9 +98,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; [Fix] Consistency in ButtonStyleButton related Tests<br />
     <sub>[#140610](https://github.com/flutter/flutter/pull/140610) opened on on December 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140610) 6 additions and 6 deletions in 2 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland "Make `TextSpan` hit testing precise." (#140468)<br />
-    <sub>[#140621](https://github.com/flutter/flutter/pull/140621) opened on on December 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140621) 237 additions and 26 deletions in 6 files</sub><br />
-
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#140631](https://github.com/flutter/flutter/pull/140631) opened on on December 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140631) 6 additions and 6 deletions in 3 files</sub><br />
 
@@ -135,5 +132,5 @@
     <sub>[#140783](https://github.com/flutter/flutter/pull/140783) opened on on January 1, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/140783) 241 additions and 0 deletions in 5 files</sub><br />
 
 * **[Adam Bridges](https://github.com/AdamBridges)** &mdash; Fix to `ExpansionTile` page storage error<br />
-    <sub>[#140814](https://github.com/flutter/flutter/pull/140814) opened on on January 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140814) 6 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#140819](https://github.com/flutter/flutter/pull/140819) opened on on January 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140819) 6 additions and 1 deletion in 1 file</sub><br />
 
