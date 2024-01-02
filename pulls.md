@@ -117,7 +117,7 @@
     <sub>[#140700](https://github.com/flutter/flutter/pull/140700) opened on on December 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140700) 53 additions and 9 deletions in 2 files</sub><br />
 
 * **[toda-bps](https://github.com/toda-bps)** &mdash; Fix CupertinoPageTransition back gesture behavior<br />
-    <sub>[#140704](https://github.com/flutter/flutter/pull/140704) opened on on December 28, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140704) 142 additions and 15 deletions in 2 files</sub><br />
+    <sub>[#140704](https://github.com/flutter/flutter/pull/140704) opened on on December 28, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140704) 142 additions and 15 deletions in 2 files</sub><br />
 
 * **[Casey Rogers](https://github.com/caseycrogers)** &mdash; [WIP] removed generic from page and descendants<br />
     <sub>[#140743](https://github.com/flutter/flutter/pull/140743) opened on on December 29, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/140743) 163 additions and 176 deletions in 18 files</sub><br />
@@ -138,5 +138,5 @@
     <sub>[#140779](https://github.com/flutter/flutter/pull/140779) opened on on January 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140779) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jonas Uekötter](https://github.com/ueman)** &mdash; Make Flutter version information accessible at runtime<br />
-    <sub>[#140783](https://github.com/flutter/flutter/pull/140783) opened on on January 1, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/140783) 241 additions and 0 deletions in 5 files</sub><br />
+    <sub>[#140783](https://github.com/flutter/flutter/pull/140783) opened on on January 1, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/140783) 241 additions and 0 deletions in 5 files</sub><br />
 
