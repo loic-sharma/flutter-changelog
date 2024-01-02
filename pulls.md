@@ -143,6 +143,6 @@
 * **[Jonas Uekötter](https://github.com/ueman)** &mdash; Make Flutter version information accessible at runtime<br />
     <sub>[#140783](https://github.com/flutter/flutter/pull/140783) opened on on January 1, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/140783) 241 additions and 0 deletions in 5 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Pin path_provider_android.<br />
-    <sub>[#140797](https://github.com/flutter/flutter/pull/140797) opened on on January 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140797) 1 addition and 0 deletions in 1 file</sub><br />
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Pin path_provider_android and dwds.<br />
+    <sub>[#140797](https://github.com/flutter/flutter/pull/140797) opened on on January 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140797) 2 additions and 0 deletions in 1 file</sub><br />
 

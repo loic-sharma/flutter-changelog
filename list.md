@@ -245,7 +245,11 @@
 
 ### December 30, 2023 to January 5, 2024
 
-1 commits.
+2 commits.
+
+* **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Fix NPE when platform plugin delegate is null
+    <sub>[#49391](https://github.com/flutter/engine/pull/49391) merged on January 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49391) over 1 week, 20 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Add try-with-resource support to TraceSection
     <sub>[#49445](https://github.com/flutter/engine/pull/49445) merged on January 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49445) over 1 day, 74 additions and 105 deletions in 5 files</sub>
@@ -511,7 +515,7 @@
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.7.0&new-version=1.7.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Disable `presubmit: false` targets for recipes CQ
-    <sub>[#5735](https://github.com/flutter/packages/pull/5735) merged on December 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5735) over 41 minutes, 0 additions and 6 deletions in 1 file</sub>
+    <sub>[#5735](https://github.com/flutter/packages/pull/5735) merged on December 21, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5735) over 41 minutes, 0 additions and 6 deletions in 1 file</sub>
     <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove workarounds for `check_podspecs` needed for older version of Cocoapods
