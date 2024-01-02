@@ -268,7 +268,11 @@
 
 ### December 30, 2023 to January 5, 2024
 
-3 commits.
+5 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] new blur: implemented ping ponging<br />
+    <sub>[#49252](https://github.com/flutter/engine/pull/49252) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49252) over 1 week, 102 additions and 52 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Make sure to finish the suite if all tests are skipped<br />
     <sub>[#49339](https://github.com/flutter/engine/pull/49339) merged on January 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49339) over 1 week, 39 additions and 7 deletions in 2 files</sub><br />
@@ -281,6 +285,10 @@
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Add try-with-resource support to TraceSection<br />
     <sub>[#49445](https://github.com/flutter/engine/pull/49445) merged on January 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49445) over 1 day, 74 additions and 105 deletions in 5 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Android Platform Views support Verified Input Events<br />
+    <sub>[#49268](https://github.com/flutter/engine/pull/49268) merged on January 2, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/49268) over 1 week, 19 additions and 21 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 ### December 23, 2023 to December 29, 2023
 
