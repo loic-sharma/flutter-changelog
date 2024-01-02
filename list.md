@@ -296,7 +296,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-8 commits.
+9 commits.
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Start wiring up fragment program for OpenGLES
     <sub>[#49347](https://github.com/flutter/engine/pull/49347) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49347) over 1 week, 123 additions and 36 deletions in 10 files</sub>
@@ -310,6 +310,10 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] make TextStyle implementations consistent
     <sub>[#49465](https://github.com/flutter/engine/pull/49465) merged on January 2, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/49465) over 1 hour, 525 additions and 88 deletions in 7 files</sub>
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add doc on iOS flamegraph capture.
+    <sub>[#49469](https://github.com/flutter/engine/pull/49469) merged on January 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/49469) over 3 hours, 25 additions and 0 deletions in 5 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] new blur: implemented ping ponging
     <sub>[#49252](https://github.com/flutter/engine/pull/49252) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49252) over 1 week, 102 additions and 52 deletions in 7 files</sub>
