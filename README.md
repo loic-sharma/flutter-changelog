@@ -4,7 +4,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-10 commits.
+11 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum<br />
     <sub>[#140478](https://github.com/flutter/flutter/pull/140478) merged on January 2, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/140478) over 1 week, 210 additions and 198 deletions in 91 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add command line parameter that turns on leak tracking.<br />
     <sub>[#138653](https://github.com/flutter/flutter/pull/138653) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/138653) over 1 month, 19 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Verified input integration test"<br />
+    <sub>[#140833](https://github.com/flutter/flutter/pull/140833) merged on January 2, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/140833) over 59 seconds, 0 additions and 784 deletions in 30 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Verified input integration test<br />
     <sub>[#140806](https://github.com/flutter/flutter/pull/140806) merged on January 2, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/140806) over 4 hours, 784 additions and 0 deletions in 30 files</sub><br />
