@@ -243,9 +243,18 @@
 
 ## flutter/engine
 
+### December 30, 2023 to January 5, 2024
+
+1 commits.
+
+* **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Add try-with-resource support to TraceSection<br />
+    <sub>[#49445](https://github.com/flutter/engine/pull/49445) merged on January 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49445) over 1 day, 74 additions and 105 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
 ### December 23, 2023 to December 29, 2023
 
-3 commits.
+<details>
+<summary>3 commits...</summary>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Move DWM flush to Windows proc table for mocking<br />
     <sub>[#49398](https://github.com/flutter/engine/pull/49398) merged on December 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49398) over 23 hours, 18 additions and 14 deletions in 8 files</sub><br />
@@ -258,6 +267,8 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Remove `PlatformWindow` and `RenderTarget` abstractions<br />
     <sub>[#49312](https://github.com/flutter/engine/pull/49312) merged on December 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49312) over 5 days, 44 additions and 95 deletions in 18 files</sub><br />
     <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+
+</details>
 
 ### December 16, 2023 to December 22, 2023
 
