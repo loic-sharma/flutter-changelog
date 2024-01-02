@@ -4,7 +4,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-6 commits.
+7 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum
     <sub>[#140478](https://github.com/flutter/flutter/pull/140478) merged on January 2, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/140478) over 1 week, 210 additions and 198 deletions in 91 files</sub>
@@ -25,6 +25,10 @@
 * **[shirne](https://github.com/shirne)** &mdash; improve comment doc in tabs.dart
     <sub>[#140568](https://github.com/flutter/flutter/pull/140568) merged on January 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140568) over 1 week, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland "Make `TextSpan` hit testing precise." (#140468)
+    <sub>[#140621](https://github.com/flutter/flutter/pull/140621) merged on January 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140621) over 1 week, 237 additions and 26 deletions in 6 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Revert "[Impeller] Plumb through the impeller-force-gl flag."
     <sub>[#140535](https://github.com/flutter/flutter/pull/140535) merged on January 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140535) over 1 week, 0 additions and 24 deletions in 5 files</sub>
