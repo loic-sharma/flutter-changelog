@@ -140,3 +140,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix setup race in asset bundle tests<br />
     <sub>[#140832](https://github.com/flutter/flutter/pull/140832) opened on on January 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140832) 3 additions and 10 deletions in 1 file</sub><br />
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Verified input integration test"<br />
+    <sub>[#140833](https://github.com/flutter/flutter/pull/140833) opened on on January 2, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/140833) 0 additions and 784 deletions in 30 files</sub><br />
+
