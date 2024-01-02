@@ -96,7 +96,7 @@
     <sub>[#140566](https://github.com/flutter/flutter/pull/140566) opened on on December 23, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140566) 34 additions and 0 deletions in 2 files</sub><br />
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; M3 - Fix Chip icon and label colors<br />
-    <sub>[#140573](https://github.com/flutter/flutter/pull/140573) opened on on December 23, 2023 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/140573) 194 additions and 39 deletions in 9 files</sub><br />
+    <sub>[#140573](https://github.com/flutter/flutter/pull/140573) opened on on December 23, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/140573) 187 additions and 32 deletions in 9 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [Fix] Consistency in ButtonStyleButton related Tests<br />
     <sub>[#140610](https://github.com/flutter/flutter/pull/140610) opened on on December 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140610) 6 additions and 6 deletions in 2 files</sub><br />
@@ -136,4 +136,7 @@
 
 * **[Jonas Uekötter](https://github.com/ueman)** &mdash; Make Flutter version information accessible at runtime<br />
     <sub>[#140783](https://github.com/flutter/flutter/pull/140783) opened on on January 1, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/140783) 241 additions and 0 deletions in 5 files</sub><br />
+
+* **[Adam Bridges](https://github.com/AdamBridges)** &mdash; Fix to `ExpansionTile` page storage error<br />
+    <sub>[#140814](https://github.com/flutter/flutter/pull/140814) opened on on January 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140814) 6 additions and 1 deletion in 1 file</sub><br />
 
