@@ -448,9 +448,18 @@
 
 ## flutter/packages
 
+### December 30, 2023 to January 5, 2024
+
+1 commits.
+
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Add Flutter CI Status badge to README
+    <sub>[#5733](https://github.com/flutter/packages/pull/5733) merged on January 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5733) over 1 week, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
 ### December 23, 2023 to December 29, 2023
 
-2 commits.
+<details>
+<summary>2 commits...</summary>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [path_provider]: Bump androidx.annotation:annotation from 1.7.0 to 1.7.1 in /packages/path_provider/path_provider_android/android
     <sub>[#5709](https://github.com/flutter/packages/pull/5709) merged on December 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5709) over 1 week, 4 additions and 3 deletions in 3 files</sub>
@@ -461,6 +470,8 @@
     <sub>[#5747](https://github.com/flutter/packages/pull/5747) merged on December 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5747) over 22 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.9.21&new-version=1.9.22)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+</details>
 
 ### December 16, 2023 to December 22, 2023
 
