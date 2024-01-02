@@ -280,7 +280,11 @@
 
 ### December 30, 2023 to January 5, 2024
 
-5 commits.
+6 commits.
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] make TextStyle implementations consistent
+    <sub>[#49465](https://github.com/flutter/engine/pull/49465) merged on January 2, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/49465) over 1 hour, 525 additions and 88 deletions in 7 files</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] new blur: implemented ping ponging
     <sub>[#49252](https://github.com/flutter/engine/pull/49252) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49252) over 1 week, 102 additions and 52 deletions in 7 files</sub>
