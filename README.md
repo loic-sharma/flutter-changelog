@@ -4,7 +4,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-8 commits.
+9 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum<br />
     <sub>[#140478](https://github.com/flutter/flutter/pull/140478) merged on January 2, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/140478) over 1 week, 210 additions and 198 deletions in 91 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add command line parameter that turns on leak tracking.<br />
     <sub>[#138653](https://github.com/flutter/flutter/pull/138653) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/138653) over 1 month, 19 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.<br />
+    <sub>[#140758](https://github.com/flutter/flutter/pull/140758) merged on January 2, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/140758) over 2 days, 187 additions and 185 deletions in 47 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Update dependencies with `flutter update-packages --force-upgrade`<br />
     <sub>[#140810](https://github.com/flutter/flutter/pull/140810) merged on January 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140810) over 1 hour, 9 additions and 5 deletions in 3 files</sub><br />
