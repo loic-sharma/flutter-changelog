@@ -296,11 +296,16 @@
 
 ### December 30, 2023 to January 5, 2024
 
-7 commits.
+8 commits.
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Start wiring up fragment program for OpenGLES
     <sub>[#49347](https://github.com/flutter/engine/pull/49347) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49347) over 1 week, 123 additions and 36 deletions in 10 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Revert "Reland "[Windows] Move to FlutterCompositor for rendering"
+    <sub>[#49461](https://github.com/flutter/engine/pull/49461) merged on January 2, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/49461) over 6 hours, 43 additions and 933 deletions in 22 files</sub>
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub>
+    <sub><details><summary>2 images...</summary>![good](https://publish-01.obsidian.md/access/b48ac8ca270cd9dac18c4a64d11b1c02/assets/2023-12-28-compositor_animation_regression_good.gif)![bad](https://publish-01.obsidian.md/access/b48ac8ca270cd9dac18c4a64d11b1c02/assets/2023-12-28-compositor_animation_regression_bad.gif)</details></sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] make TextStyle implementations consistent
     <sub>[#49465](https://github.com/flutter/engine/pull/49465) merged on January 2, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/49465) over 1 hour, 525 additions and 88 deletions in 7 files</sub>
