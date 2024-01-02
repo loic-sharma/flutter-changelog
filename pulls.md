@@ -134,3 +134,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum<br />
     <sub>[#140823](https://github.com/flutter/flutter/pull/140823) opened on on January 2, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/140823) 211 additions and 199 deletions in 92 files</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; adds some properties to stepper<br />
+    <sub>[#140825](https://github.com/flutter/flutter/pull/140825) opened on on January 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140825) 105 additions and 26 deletions in 2 files</sub><br />
+
