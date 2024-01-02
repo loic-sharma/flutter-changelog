@@ -137,3 +137,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; adds some properties to stepper<br />
     <sub>[#140825](https://github.com/flutter/flutter/pull/140825) opened on on January 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140825) 105 additions and 26 deletions in 2 files</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix setup race in asset bundle tests<br />
+    <sub>[#140832](https://github.com/flutter/flutter/pull/140832) opened on on January 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140832) 3 additions and 10 deletions in 1 file</sub><br />
+

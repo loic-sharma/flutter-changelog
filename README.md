@@ -288,7 +288,11 @@
 
 ### December 30, 2023 to January 5, 2024
 
-6 commits.
+7 commits.
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Start wiring up fragment program for OpenGLES<br />
+    <sub>[#49347](https://github.com/flutter/engine/pull/49347) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49347) over 1 week, 123 additions and 36 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] make TextStyle implementations consistent<br />
     <sub>[#49465](https://github.com/flutter/engine/pull/49465) merged on January 2, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/49465) over 1 hour, 525 additions and 88 deletions in 7 files</sub><br />
