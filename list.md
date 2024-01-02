@@ -4,7 +4,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-2 commits.
+3 commits.
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add command line parameter that turns on leak tracking.
     <sub>[#138653](https://github.com/flutter/flutter/pull/138653) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/138653) over 1 month, 19 additions and 3 deletions in 1 file</sub>
@@ -13,6 +13,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Rename MemoryAllocations to FlutterMemoryAllocations.
     <sub>[#140623](https://github.com/flutter/flutter/pull/140623) merged on January 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140623) over 6 days, 90 additions and 82 deletions in 31 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Revert "[Impeller] Plumb through the impeller-force-gl flag."
+    <sub>[#140535](https://github.com/flutter/flutter/pull/140535) merged on January 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140535) over 1 week, 0 additions and 24 deletions in 5 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 ### December 23, 2023 to December 29, 2023
 
@@ -260,7 +264,11 @@
 
 ### December 30, 2023 to January 5, 2024
 
-2 commits.
+3 commits.
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Make sure to finish the suite if all tests are skipped
+    <sub>[#49339](https://github.com/flutter/engine/pull/49339) merged on January 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49339) over 1 week, 39 additions and 7 deletions in 2 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Fix NPE when platform plugin delegate is null
     <sub>[#49391](https://github.com/flutter/engine/pull/49391) merged on January 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49391) over 1 week, 20 additions and 3 deletions in 2 files</sub>
