@@ -90,7 +90,7 @@
     <sub>[#140566](https://github.com/flutter/flutter/pull/140566) opened on on December 23, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140566) 34 additions and 0 deletions in 2 files</sub><br />
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; M3 - Fix Chip icon and label colors<br />
-    <sub>[#140573](https://github.com/flutter/flutter/pull/140573) opened on on December 23, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/140573) 187 additions and 32 deletions in 9 files</sub><br />
+    <sub>[#140573](https://github.com/flutter/flutter/pull/140573) opened on on December 23, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/140573) 184 additions and 29 deletions in 9 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [Fix] Consistency in ButtonStyleButton related Tests<br />
     <sub>[#140610](https://github.com/flutter/flutter/pull/140610) opened on on December 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140610) 6 additions and 6 deletions in 2 files</sub><br />
@@ -105,7 +105,7 @@
     <sub>[#140700](https://github.com/flutter/flutter/pull/140700) opened on on December 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140700) 53 additions and 9 deletions in 2 files</sub><br />
 
 * **[toda-bps](https://github.com/toda-bps)** &mdash; Fix CupertinoPageTransition back gesture behavior<br />
-    <sub>[#140704](https://github.com/flutter/flutter/pull/140704) opened on on December 28, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140704) 142 additions and 15 deletions in 2 files</sub><br />
+    <sub>[#140704](https://github.com/flutter/flutter/pull/140704) opened on on December 28, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140704) 149 additions and 22 deletions in 4 files</sub><br />
 
 * **[Casey Rogers](https://github.com/caseycrogers)** &mdash; [WIP] removed generic from page and descendants<br />
     <sub>[#140743](https://github.com/flutter/flutter/pull/140743) opened on on December 29, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/140743) 163 additions and 176 deletions in 18 files</sub><br />
@@ -130,4 +130,10 @@
 
 * **[Adam Bridges](https://github.com/AdamBridges)** &mdash; Fix to `ExpansionTile` page storage error<br />
     <sub>[#140819](https://github.com/flutter/flutter/pull/140819) opened on on January 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140819) 6 additions and 1 deletion in 1 file</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] Fix and unskip a few more CanvasKit tests<br />
+    <sub>[#140821](https://github.com/flutter/flutter/pull/140821) opened on on January 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140821) 12 additions and 8 deletions in 4 files</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum<br />
+    <sub>[#140823](https://github.com/flutter/flutter/pull/140823) opened on on January 2, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/140823) 211 additions and 199 deletions in 92 files</sub><br />
 
