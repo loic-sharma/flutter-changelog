@@ -140,3 +140,6 @@
 * **[Ryuujo Zhang](https://github.com/ryuujo1573)** &mdash; add LF normalization for command entrance.<br />
     <sub>[#140779](https://github.com/flutter/flutter/pull/140779) opened on on January 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140779) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[Jonas Uekötter](https://github.com/ueman)** &mdash; Make Flutter version information accessible at runtime<br />
+    <sub>[#140783](https://github.com/flutter/flutter/pull/140783) opened on on January 1, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/140783) 241 additions and 0 deletions in 5 files</sub><br />
+
