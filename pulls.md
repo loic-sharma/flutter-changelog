@@ -110,9 +110,6 @@
 * **[Casey Rogers](https://github.com/caseycrogers)** &mdash; [WIP] removed generic from page and descendants<br />
     <sub>[#140743](https://github.com/flutter/flutter/pull/140743) opened on on December 29, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/140743) 163 additions and 176 deletions in 18 files</sub><br />
 
-* **[Callum Moffat](https://github.com/moffatman)** &mdash; ScaleGestureRecognizer pointerCount=2 for trackpad gestures<br />
-    <sub>[#140745](https://github.com/flutter/flutter/pull/140745) opened on on December 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140745) 103 additions and 4 deletions in 2 files</sub><br />
-
 * **[Valentin Hăloiu](https://github.com/vially)** &mdash; Detect VS Code IDE on Arch Linux<br />
     <sub>[#140747](https://github.com/flutter/flutter/pull/140747) opened on on December 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140747) 10 additions and 0 deletions in 1 file</sub><br />
 
@@ -136,7 +133,4 @@
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; adds some properties to stepper<br />
     <sub>[#140825](https://github.com/flutter/flutter/pull/140825) opened on on January 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140825) 105 additions and 26 deletions in 2 files</sub><br />
-
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix setup race in asset bundle tests<br />
-    <sub>[#140832](https://github.com/flutter/flutter/pull/140832) opened on on January 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140832) 3 additions and 10 deletions in 1 file</sub><br />
 
