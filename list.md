@@ -19,11 +19,11 @@
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Verified input integration test"
-    <sub>[#140833](https://github.com/flutter/flutter/pull/140833) merged on January 2, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/140833) over 59 seconds, 0 additions and 784 deletions in 30 files</sub>
+    <sub>[#140833](https://github.com/flutter/flutter/pull/140833) merged on January 2, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/140833) over 59 seconds, 0 additions and 784 deletions in 30 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Verified input integration test
-    <sub>[#140806](https://github.com/flutter/flutter/pull/140806) merged on January 2, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/140806) over 4 hours, 784 additions and 0 deletions in 30 files</sub>
+    <sub>[#140806](https://github.com/flutter/flutter/pull/140806) merged on January 2, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/140806) over 4 hours, 784 additions and 0 deletions in 30 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.
