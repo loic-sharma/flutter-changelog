@@ -4,11 +4,15 @@
 
 ### December 30, 2023 to January 5, 2024
 
-1 commits.
+2 commits.
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add command line parameter that turns on leak tracking.<br />
     <sub>[#138653](https://github.com/flutter/flutter/pull/138653) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/138653) over 1 month, 19 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Rename MemoryAllocations to FlutterMemoryAllocations.<br />
+    <sub>[#140623](https://github.com/flutter/flutter/pull/140623) merged on January 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140623) over 6 days, 90 additions and 82 deletions in 31 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 ### December 23, 2023 to December 29, 2023
 
