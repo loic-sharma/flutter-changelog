@@ -86,9 +86,6 @@
 * **[Mohab Ashraf](https://github.com/MohabASHRAF-byte)** &mdash; Update settings.json<br />
     <sub>[#140440](https://github.com/flutter/flutter/pull/140440) opened on on December 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140440) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum<br />
-    <sub>[#140478](https://github.com/flutter/flutter/pull/140478) opened on on December 20, 2023 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/140478) 210 additions and 198 deletions in 91 files</sub><br />
-
 * **[Sameer Singh](https://github.com/sameersingh2704)** &mdash; TabBar with icon having size is not centered properly. <br />
     <sub>[#140505](https://github.com/flutter/flutter/pull/140505) opened on on December 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140505) 1 addition and 1 deletion in 1 file</sub><br />
 

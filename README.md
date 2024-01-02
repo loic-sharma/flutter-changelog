@@ -4,7 +4,11 @@
 
 ### December 30, 2023 to January 5, 2024
 
-4 commits.
+5 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum<br />
+    <sub>[#140478](https://github.com/flutter/flutter/pull/140478) merged on January 2, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/140478) over 1 week, 210 additions and 198 deletions in 91 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add command line parameter that turns on leak tracking.<br />
     <sub>[#138653](https://github.com/flutter/flutter/pull/138653) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/138653) over 1 month, 19 additions and 3 deletions in 1 file</sub><br />
@@ -500,7 +504,11 @@
 
 ### December 30, 2023 to January 5, 2024
 
-1 commits.
+2 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implement `lockCaptureOrientation` & `unlockCaptureOrientation`<br />
+    <sub>[#5285](https://github.com/flutter/packages/pull/5285) merged on January 2, 2024 &mdash; **Extra large:** [57 comments](https://github.com/flutter/packages/pull/5285) over 2 months, 2071 additions and 810 deletions in 50 files</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Add Flutter CI Status badge to README<br />
     <sub>[#5733](https://github.com/flutter/packages/pull/5733) merged on January 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5733) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
