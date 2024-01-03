@@ -119,3 +119,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove deprecated bitcode stripping from tooling<br />
     <sub>[#140903](https://github.com/flutter/flutter/pull/140903) opened on on January 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140903) 0 additions and 119 deletions in 3 files</sub><br />
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets: package in framework on iOS and MacOS<br />
+    <sub>[#140907](https://github.com/flutter/flutter/pull/140907) opened on on January 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140907) 126 additions and 46 deletions in 8 files</sub><br />
+
