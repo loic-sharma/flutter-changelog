@@ -116,3 +116,9 @@
 * **[David Martos](https://github.com/davidmartos96)** &mdash; Relax the warning of unavailable tokens in `gen_defaults` when a default value is provided<br />
     <sub>[#140872](https://github.com/flutter/flutter/pull/140872) opened on on January 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140872) 74 additions and 17 deletions in 6 files</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum (#140823)<br />
+    <sub>[#140921](https://github.com/flutter/flutter/pull/140921) opened on on January 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/140921) 211 additions and 199 deletions in 92 files</sub><br />
+
+* **[Bryan Olivares](https://github.com/bryanoli)** &mdash; Feat: TextField can scroll when disabled<br />
+    <sub>[#140922](https://github.com/flutter/flutter/pull/140922) opened on on January 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140922) 62 additions and 2 deletions in 3 files</sub><br />
+
