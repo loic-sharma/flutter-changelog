@@ -4,7 +4,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-25 commits.
+26 commits.
 
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Add `SegmentedButton.styleFrom`<br />
     <sub>[#137542](https://github.com/flutter/flutter/pull/137542) merged on January 3, 2024 &mdash; **Medium:** [76 comments](https://github.com/flutter/flutter/pull/137542) over 2 months, 417 additions and 0 deletions in 5 files</sub><br />
@@ -34,6 +34,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add command line parameter that turns on leak tracking.<br />
     <sub>[#138653](https://github.com/flutter/flutter/pull/138653) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/138653) over 1 month, 19 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Re-land integrate testWidgets with leak tracking."<br />
+    <sub>[#140926](https://github.com/flutter/flutter/pull/140926) merged on January 3, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/140926) over 40 seconds, 14 additions and 314 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Ann Marie Mossman](https://github.com/mossmana)** &mdash; Handle KEYCODE_DPAD_CENTER and KEYCODE_ENTER<br />
     <sub>[#140808](https://github.com/flutter/flutter/pull/140808) merged on January 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140808) over 1 day, 6 additions and 0 deletions in 2 files</sub><br />
@@ -630,11 +634,15 @@
 
 ### December 30, 2023 to January 5, 2024
 
-5 commits.
+6 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implement `lockCaptureOrientation` & `unlockCaptureOrientation`<br />
     <sub>[#5285](https://github.com/flutter/packages/pull/5285) merged on January 2, 2024 &mdash; **Extra large:** [57 comments](https://github.com/flutter/packages/pull/5285) over 2 months, 2071 additions and 810 deletions in 50 files</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [pointer_interceptor_web] Update package APIs and tests.<br />
+    <sub>[#5785](https://github.com/flutter/packages/pull/5785) merged on January 3, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/5785) over 23 hours, 130 additions and 148 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Mouad Debbar](https://github.com/mdebbar), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Correct method channel `clearAuthCache` declaration<br />
     <sub>[#5787](https://github.com/flutter/packages/pull/5787) merged on January 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5787) over 50 minutes, 6 additions and 2 deletions in 3 files</sub><br />
