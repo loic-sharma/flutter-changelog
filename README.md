@@ -4,12 +4,16 @@
 
 ### December 30, 2023 to January 5, 2024
 
-24 commits.
+25 commits.
 
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Add `SegmentedButton.styleFrom`<br />
     <sub>[#137542](https://github.com/flutter/flutter/pull/137542) merged on January 3, 2024 &mdash; **Medium:** [76 comments](https://github.com/flutter/flutter/pull/137542) over 2 months, 417 additions and 0 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
     <sub><details><summary>2 images...</summary><img width="626" alt="image" src="https://github.com/flutter/flutter/assets/65075121/9446b13b-c355-4d20-bda2-c47a23d42d4f"><img width="483" alt="image" src="https://github.com/flutter/flutter/assets/65075121/0a645257-4c83-4029-9484-bd746c02265f"></details></sub>
+
+* **[yim](https://github.com/yiiim)** &mdash; Changes the regular cursor to a floating cursor when a long press occurs.<br />
+    <sub>[#138479](https://github.com/flutter/flutter/pull/138479) merged on January 3, 2024 &mdash; **Medium:** [60 comments](https://github.com/flutter/flutter/pull/138479) over 1 month, 311 additions and 63 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum<br />
     <sub>[#140823](https://github.com/flutter/flutter/pull/140823) merged on January 3, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/140823) over 3 hours, 211 additions and 199 deletions in 92 files</sub><br />
