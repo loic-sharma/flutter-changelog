@@ -340,11 +340,15 @@
 
 ### December 30, 2023 to January 5, 2024
 
-14 commits.
+15 commits.
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Start wiring up fragment program for OpenGLES
     <sub>[#49347](https://github.com/flutter/engine/pull/49347) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49347) over 1 week, 123 additions and 36 deletions in 10 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] pulled out the path unit tests to their own file
+    <sub>[#49499](https://github.com/flutter/engine/pull/49499) merged on January 3, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/49499) over 1 hour, 398 additions and 375 deletions in 4 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Allow multiple --runtime-stage-* parameters to impellerc
     <sub>[#49475](https://github.com/flutter/engine/pull/49475) merged on January 3, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/49475) over 6 hours, 348 additions and 219 deletions in 16 files</sub>
