@@ -320,7 +320,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-10 commits.
+11 commits.
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Start wiring up fragment program for OpenGLES<br />
     <sub>[#49347](https://github.com/flutter/engine/pull/49347) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49347) over 1 week, 123 additions and 36 deletions in 10 files</sub><br />
@@ -358,6 +358,10 @@
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Add try-with-resource support to TraceSection<br />
     <sub>[#49445](https://github.com/flutter/engine/pull/49445) merged on January 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49445) over 1 day, 74 additions and 105 deletions in 5 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Dart SDK from 7e9f7eab80d3 to c5a75ac9057c (1 revision)"<br />
+    <sub>[#49491](https://github.com/flutter/engine/pull/49491) merged on January 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49491) over 1 minute, 8 additions and 8 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Android Platform Views support Verified Input Events<br />
     <sub>[#49268](https://github.com/flutter/engine/pull/49268) merged on January 2, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/49268) over 1 week, 19 additions and 21 deletions in 3 files</sub><br />
