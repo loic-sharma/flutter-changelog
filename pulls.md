@@ -71,9 +71,6 @@
 * **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Add position data to `OnDragEnd` callback<br />
     <sub>[#140378](https://github.com/flutter/flutter/pull/140378) opened on on December 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140378) 64 additions and 3 deletions in 3 files</sub><br />
 
-* **[Mohab Ashraf](https://github.com/MohabASHRAF-byte)** &mdash; Update settings.json<br />
-    <sub>[#140440](https://github.com/flutter/flutter/pull/140440) opened on on December 20, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140440) 3 additions and 0 deletions in 1 file</sub><br />
-
 * **[Sameer Singh](https://github.com/sameersingh2704)** &mdash; TabBar with icon having size is not centered properly. <br />
     <sub>[#140505](https://github.com/flutter/flutter/pull/140505) opened on on December 21, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140505) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -124,7 +121,4 @@
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; Relax the warning of unavailable tokens in `gen_defaults` when a default value is provided<br />
     <sub>[#140872](https://github.com/flutter/flutter/pull/140872) opened on on January 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140872) 74 additions and 17 deletions in 6 files</sub><br />
-
-* **[moathdarwesh](https://github.com/moathdarwesh)** &mdash; Create android.yml<br />
-    <sub>[#140874](https://github.com/flutter/flutter/pull/140874) opened on on January 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140874) 26 additions and 0 deletions in 1 file</sub><br />
 
