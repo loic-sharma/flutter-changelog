@@ -336,7 +336,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-11 commits.
+13 commits.
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Start wiring up fragment program for OpenGLES<br />
     <sub>[#49347](https://github.com/flutter/engine/pull/49347) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49347) over 1 week, 123 additions and 36 deletions in 10 files</sub><br />
@@ -354,6 +354,10 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] make TextStyle implementations consistent<br />
     <sub>[#49465](https://github.com/flutter/engine/pull/49465) merged on January 2, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/49465) over 1 hour, 525 additions and 88 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Disable compute for Vulkan.<br />
+    <sub>[#49463](https://github.com/flutter/engine/pull/49463) merged on January 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49463) over 1 day, 19 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add doc on iOS flamegraph capture.<br />
     <sub>[#49469](https://github.com/flutter/engine/pull/49469) merged on January 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/49469) over 3 hours, 25 additions and 0 deletions in 5 files</sub><br />
@@ -374,6 +378,10 @@
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Add try-with-resource support to TraceSection<br />
     <sub>[#49445](https://github.com/flutter/engine/pull/49445) merged on January 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49445) over 1 day, 74 additions and 105 deletions in 5 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Revert skiping illegal render in Dart<br />
+    <sub>[#49473](https://github.com/flutter/engine/pull/49473) merged on January 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49473) over 18 hours, 66 additions and 48 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Dart SDK from 7e9f7eab80d3 to c5a75ac9057c (1 revision)"<br />
     <sub>[#49491](https://github.com/flutter/engine/pull/49491) merged on January 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49491) over 1 minute, 8 additions and 8 deletions in 1 file</sub><br />
