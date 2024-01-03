@@ -39,7 +39,7 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Verified input integration test"
-    <sub>[#140833](https://github.com/flutter/flutter/pull/140833) merged on January 2, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/140833) over 59 seconds, 0 additions and 784 deletions in 30 files</sub>
+    <sub>[#140833](https://github.com/flutter/flutter/pull/140833) merged on January 2, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/140833) over 59 seconds, 0 additions and 784 deletions in 30 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Verified input integration test
