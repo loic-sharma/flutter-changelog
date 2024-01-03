@@ -116,3 +116,6 @@
 * **[David Martos](https://github.com/davidmartos96)** &mdash; Relax the warning of unavailable tokens in `gen_defaults` when a default value is provided<br />
     <sub>[#140872](https://github.com/flutter/flutter/pull/140872) opened on on January 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140872) 74 additions and 17 deletions in 6 files</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove deprecated bitcode stripping from tooling<br />
+    <sub>[#140903](https://github.com/flutter/flutter/pull/140903) opened on on January 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140903) 0 additions and 119 deletions in 3 files</sub><br />
+
