@@ -4,7 +4,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-18 commits.
+20 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum<br />
     <sub>[#140823](https://github.com/flutter/flutter/pull/140823) merged on January 3, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/140823) over 3 hours, 211 additions and 199 deletions in 92 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add command line parameter that turns on leak tracking.<br />
     <sub>[#138653](https://github.com/flutter/flutter/pull/138653) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/138653) over 1 month, 19 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
+
+* **[lsaudon](https://github.com/lsaudon)** &mdash; Add Lucas Saudon to AUTHORS<br />
+    <sub>[#139965](https://github.com/flutter/flutter/pull/139965) merged on January 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139965) over 3 weeks, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Jack Gibbons](https://github.com/Gibbo97)** &mdash; Add key to BottomNavigationBarItem<br />
     <sub>[#139617](https://github.com/flutter/flutter/pull/139617) merged on January 3, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/139617) over 4 weeks, 39 additions and 0 deletions in 3 files</sub><br />
@@ -49,6 +53,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix 139196 selection OOB<br />
     <sub>[#140300](https://github.com/flutter/flutter/pull/140300) merged on January 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140300) over 2 weeks, 18 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Link to wiki page about updating dependencies in each `pubspec.yaml` file<br />
+    <sub>[#140826](https://github.com/flutter/flutter/pull/140826) merged on January 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140826) over 21 hours, 21 additions and 0 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [flutter] Allow ViewCollection to start empty.<br />
     <sub>[#140532](https://github.com/flutter/flutter/pull/140532) merged on January 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140532) over 1 week, 5 additions and 7 deletions in 3 files</sub><br />
