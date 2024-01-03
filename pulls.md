@@ -119,6 +119,3 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove deprecated bitcode stripping from tooling<br />
     <sub>[#140903](https://github.com/flutter/flutter/pull/140903) opened on on January 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140903) 0 additions and 119 deletions in 3 files</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift some macOS Android tests from Moto G4 to Pixel 7 Pro<br />
-    <sub>[#140912](https://github.com/flutter/flutter/pull/140912) opened on on January 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/140912) 204 additions and 103 deletions in 1 file</sub><br />
-
