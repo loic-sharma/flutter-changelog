@@ -132,5 +132,5 @@
     <sub>[#140825](https://github.com/flutter/flutter/pull/140825) opened on on January 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140825) 105 additions and 26 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [CP] Fix tool crash while debugging an iOS device and deleting a temp directory fails <br />
-    <sub>[#140842](https://github.com/flutter/flutter/pull/140842) opened on on January 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140842) 40 additions and 6 deletions in 3 files</sub><br />
+    <sub>[#140842](https://github.com/flutter/flutter/pull/140842) opened on on January 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140842) 40 additions and 6 deletions in 3 files</sub><br />
 

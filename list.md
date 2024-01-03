@@ -4,7 +4,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-15 commits.
+16 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum
     <sub>[#140823](https://github.com/flutter/flutter/pull/140823) merged on January 3, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/140823) over 3 hours, 211 additions and 199 deletions in 92 files</sub>
@@ -21,6 +21,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add command line parameter that turns on leak tracking.
     <sub>[#138653](https://github.com/flutter/flutter/pull/138653) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/138653) over 1 month, 19 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
+
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Verified input test take 2
+    <sub>[#140836](https://github.com/flutter/flutter/pull/140836) merged on January 3, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/140836) over 2 hours, 784 additions and 0 deletions in 25 files</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix setup race in asset bundle tests
     <sub>[#140832](https://github.com/flutter/flutter/pull/140832) merged on January 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140832) over 2 hours, 3 additions and 10 deletions in 1 file</sub>
