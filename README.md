@@ -4,7 +4,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-21 commits.
+22 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum<br />
     <sub>[#140823](https://github.com/flutter/flutter/pull/140823) merged on January 3, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/140823) over 3 hours, 211 additions and 199 deletions in 92 files</sub><br />
@@ -57,6 +57,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix 139196 selection OOB<br />
     <sub>[#140300](https://github.com/flutter/flutter/pull/140300) merged on January 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140300) over 2 weeks, 18 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] add support for --enable-impeller to test device.<br />
+    <sub>[#140899](https://github.com/flutter/flutter/pull/140899) merged on January 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140899) over 46 minutes, 26 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Link to wiki page about updating dependencies in each `pubspec.yaml` file<br />
     <sub>[#140826](https://github.com/flutter/flutter/pull/140826) merged on January 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140826) over 21 hours, 21 additions and 0 deletions in 7 files</sub><br />
