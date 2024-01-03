@@ -654,11 +654,15 @@
 
 ### December 30, 2023 to January 5, 2024
 
-6 commits.
+7 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implement `lockCaptureOrientation` & `unlockCaptureOrientation`
     <sub>[#5285](https://github.com/flutter/packages/pull/5285) merged on January 2, 2024 &mdash; **Extra large:** [57 comments](https://github.com/flutter/packages/pull/5285) over 2 months, 2071 additions and 810 deletions in 50 files</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [various] Sync lints with flutter/flutter
+    <sub>[#5717](https://github.com/flutter/packages/pull/5717) merged on January 3, 2024 &mdash; **Large:** [35 comments](https://github.com/flutter/packages/pull/5717) over 2 weeks, 527 additions and 947 deletions in 282 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar), [Brett Morgan](https://github.com/domesticmouse), [Chris Bracken](https://github.com/cbracken), and [9 others](https://github.com/flutter/packages/pull/5717)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [pointer_interceptor_web] Update package APIs and tests.
     <sub>[#5785](https://github.com/flutter/packages/pull/5785) merged on January 3, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/5785) over 23 hours, 130 additions and 148 deletions in 10 files</sub>
