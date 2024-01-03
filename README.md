@@ -23,7 +23,7 @@
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Satsrag](https://github.com/Satsrag)** &mdash; fix: cannot input new line using custom input control<br />
-    <sub>[#140356](https://github.com/flutter/flutter/pull/140356) merged on January 3, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/140356) over 2 weeks, 82 additions and 13 deletions in 2 files</sub><br />
+    <sub>[#140356](https://github.com/flutter/flutter/pull/140356) merged on January 3, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/140356) over 2 weeks, 82 additions and 13 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Verified input test take 2<br />
