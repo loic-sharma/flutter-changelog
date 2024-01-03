@@ -4,7 +4,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-22 commits.
+23 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum
     <sub>[#140823](https://github.com/flutter/flutter/pull/140823) merged on January 3, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/140823) over 3 hours, 211 additions and 199 deletions in 92 files</sub>
@@ -17,6 +17,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Set template and migrate apps to iOS 12 minimum"
     <sub>[#140822](https://github.com/flutter/flutter/pull/140822) merged on January 2, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/140822) over 46 seconds, 198 additions and 210 deletions in 91 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Re-land integrate testWidgets with leak tracking.
+    <sub>[#140521](https://github.com/flutter/flutter/pull/140521) merged on January 3, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/140521) over 1 week, 314 additions and 14 deletions in 5 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add command line parameter that turns on leak tracking.
     <sub>[#138653](https://github.com/flutter/flutter/pull/138653) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/138653) over 1 month, 19 additions and 3 deletions in 1 file</sub>
