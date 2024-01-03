@@ -581,11 +581,15 @@
 
 ### December 30, 2023 to January 5, 2024
 
-4 commits.
+5 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implement `lockCaptureOrientation` & `unlockCaptureOrientation`<br />
     <sub>[#5285](https://github.com/flutter/packages/pull/5285) merged on January 2, 2024 &mdash; **Extra large:** [57 comments](https://github.com/flutter/packages/pull/5285) over 2 months, 2071 additions and 810 deletions in 50 files</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Correct method channel `clearAuthCache` declaration<br />
+    <sub>[#5787](https://github.com/flutter/packages/pull/5787) merged on January 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5787) over 50 minutes, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Correct clearAuthCache declarations<br />
     <sub>[#5693](https://github.com/flutter/packages/pull/5693) merged on January 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5693) over 2 weeks, 11 additions and 8 deletions in 6 files</sub><br />
