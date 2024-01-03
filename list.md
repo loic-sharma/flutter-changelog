@@ -4,7 +4,11 @@
 
 ### December 30, 2023 to January 5, 2024
 
-14 commits.
+15 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum
+    <sub>[#140823](https://github.com/flutter/flutter/pull/140823) merged on January 3, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/140823) over 3 hours, 211 additions and 199 deletions in 92 files</sub>
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum
     <sub>[#140478](https://github.com/flutter/flutter/pull/140478) merged on January 2, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/140478) over 1 week, 210 additions and 198 deletions in 91 files</sub>
