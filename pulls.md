@@ -62,9 +62,6 @@
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Prevent full rebuilds when rerunning `flutter test`.<br />
     <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140284) 109 additions and 11 deletions in 2 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fixes #138773, port autocomplete to OverlayPortal<br />
-    <sub>[#140285](https://github.com/flutter/flutter/pull/140285) opened on on December 17, 2023 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/140285) 143 additions and 211 deletions in 3 files</sub><br />
-
 * **[Arun Chapagain](https://github.com/ArunChapagain)** &mdash; fix:#140301  :bug: bottom_navigation_bar_item  nullable lable attribute changed to required attribute.<br />
     <sub>[#140303](https://github.com/flutter/flutter/pull/140303) opened on on December 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140303) 2 additions and 2 deletions in 1 file</sub><br />
 
@@ -120,7 +117,7 @@
     <sub>[#140819](https://github.com/flutter/flutter/pull/140819) opened on on January 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140819) 6 additions and 1 deletion in 1 file</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; adds some properties to stepper<br />
-    <sub>[#140825](https://github.com/flutter/flutter/pull/140825) opened on on January 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140825) 104 additions and 17 deletions in 2 files</sub><br />
+    <sub>[#140825](https://github.com/flutter/flutter/pull/140825) opened on on January 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140825) 203 additions and 19 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [CP] Fix tool crash while debugging an iOS device and deleting a temp directory fails <br />
     <sub>[#140842](https://github.com/flutter/flutter/pull/140842) opened on on January 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140842) 40 additions and 6 deletions in 3 files</sub><br />
