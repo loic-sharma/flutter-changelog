@@ -4,7 +4,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-32 commits.
+33 commits.
 
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Add `SegmentedButton.styleFrom`
     <sub>[#137542](https://github.com/flutter/flutter/pull/137542) merged on January 3, 2024 &mdash; **Medium:** [76 comments](https://github.com/flutter/flutter/pull/137542) over 2 months, 417 additions and 0 deletions in 5 files</sub>
@@ -122,6 +122,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Rename MemoryAllocations to FlutterMemoryAllocations.
     <sub>[#140623](https://github.com/flutter/flutter/pull/140623) merged on January 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140623) over 6 days, 90 additions and 82 deletions in 31 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; [Fix] Consistency in ButtonStyleButton related Tests
+    <sub>[#140610](https://github.com/flutter/flutter/pull/140610) merged on January 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140610) over 1 week, 6 additions and 6 deletions in 2 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[shirne](https://github.com/shirne)** &mdash; improve comment doc in tabs.dart
     <sub>[#140568](https://github.com/flutter/flutter/pull/140568) merged on January 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140568) over 1 week, 1 addition and 1 deletion in 1 file</sub>
