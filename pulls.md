@@ -122,6 +122,3 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds AutovalidateMode.onFocusChange to Form and FormField<br />
     <sub>[#140962](https://github.com/flutter/flutter/pull/140962) opened on on January 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140962) 90 additions and 0 deletions in 2 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `chip_test.dart` tests for Material 3<br />
-    <sub>[#140964](https://github.com/flutter/flutter/pull/140964) opened on on January 4, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/140964) 1585 additions and 128 deletions in 1 file</sub><br />
-
