@@ -119,3 +119,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum (#140823)<br />
     <sub>[#140921](https://github.com/flutter/flutter/pull/140921) opened on on January 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/140921) 211 additions and 199 deletions in 92 files</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Reland https://github.com/flutter/flutter/pull/140521<br />
+    <sub>[#140928](https://github.com/flutter/flutter/pull/140928) opened on on January 3, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/140928) 320 additions and 14 deletions in 5 files</sub><br />
+
