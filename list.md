@@ -4,7 +4,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-31 commits.
+32 commits.
 
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Add `SegmentedButton.styleFrom`
     <sub>[#137542](https://github.com/flutter/flutter/pull/137542) merged on January 3, 2024 &mdash; **Medium:** [76 comments](https://github.com/flutter/flutter/pull/137542) over 2 months, 417 additions and 0 deletions in 5 files</sub>
@@ -74,6 +74,10 @@
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Verified input integration test
     <sub>[#140806](https://github.com/flutter/flutter/pull/140806) merged on January 2, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/140806) over 4 hours, 784 additions and 0 deletions in 30 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Fix local engine use in macOS plugins
+    <sub>[#140222](https://github.com/flutter/flutter/pull/140222) merged on January 4, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/140222) over 2 weeks, 84 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Add Windows leak tracking targets
     <sub>[#140423](https://github.com/flutter/flutter/pull/140423) merged on January 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140423) over 2 weeks, 94 additions and 0 deletions in 1 file</sub>
