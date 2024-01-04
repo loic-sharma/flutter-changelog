@@ -125,3 +125,6 @@
 * **[Nishant Kumar](https://github.com/nikkivirtuoso)** &mdash; resolved the issue of indeterminate CircularProgressIndicator.adaptive on Darwin <br />
     <sub>[#140947](https://github.com/flutter/flutter/pull/140947) opened on on January 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140947) 8 additions and 1 deletion in 1 file</sub><br />
 
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Don't show legacy welcome message when analytics are disabled<br />
+    <sub>[#140956](https://github.com/flutter/flutter/pull/140956) opened on on January 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140956) 10 additions and 11 deletions in 1 file</sub><br />
+
