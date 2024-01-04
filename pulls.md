@@ -107,9 +107,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum (#140823)<br />
     <sub>[#140921](https://github.com/flutter/flutter/pull/140921) opened on on January 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/140921) 211 additions and 199 deletions in 92 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run half of iOS devicelab tests with Xcode 15<br />
-    <sub>[#140927](https://github.com/flutter/flutter/pull/140927) opened on on January 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140927) 178 additions and 0 deletions in 1 file</sub><br />
-
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds AutovalidateMode.onFocusChange to Form and FormField<br />
     <sub>[#140962](https://github.com/flutter/flutter/pull/140962) opened on on January 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140962) 90 additions and 0 deletions in 2 files</sub><br />
 
