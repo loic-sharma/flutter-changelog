@@ -128,3 +128,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds AutovalidateMode.onFocusChange to Form and FormField<br />
     <sub>[#140962](https://github.com/flutter/flutter/pull/140962) opened on on January 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140962) 90 additions and 0 deletions in 2 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix scrollable `TabBar` expands to full width when the divider is removed<br />
+    <sub>[#140963](https://github.com/flutter/flutter/pull/140963) opened on on January 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140963) 110 additions and 10 deletions in 2 files</sub><br />
+
