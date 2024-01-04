@@ -93,7 +93,7 @@
     <sub>[#140779](https://github.com/flutter/flutter/pull/140779) opened on on January 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140779) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jonas Uekötter](https://github.com/ueman)** &mdash; Make Flutter version information accessible at runtime<br />
-    <sub>[#140783](https://github.com/flutter/flutter/pull/140783) opened on on January 1, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/140783) 242 additions and 1 deletion in 6 files</sub><br />
+    <sub>[#140783](https://github.com/flutter/flutter/pull/140783) opened on on January 1, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/140783) 245 additions and 4 deletions in 8 files</sub><br />
 
 * **[Adam Bridges](https://github.com/AdamBridges)** &mdash; Fix to `ExpansionTile` page storage error<br />
     <sub>[#140819](https://github.com/flutter/flutter/pull/140819) opened on on January 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140819) 6 additions and 1 deletion in 1 file</sub><br />
