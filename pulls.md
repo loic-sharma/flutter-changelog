@@ -74,9 +74,6 @@
 * **[David Martos](https://github.com/davidmartos96)** &mdash; M3 - Fix Chip icon and label colors<br />
     <sub>[#140573](https://github.com/flutter/flutter/pull/140573) opened on on December 23, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/140573) 184 additions and 29 deletions in 9 files</sub><br />
 
-* **[Tirth](https://github.com/piedcipher)** &mdash; [Fix] Consistency in ButtonStyleButton related Tests<br />
-    <sub>[#140610](https://github.com/flutter/flutter/pull/140610) opened on on December 25, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140610) 6 additions and 6 deletions in 2 files</sub><br />
-
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#140631](https://github.com/flutter/flutter/pull/140631) opened on on December 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140631) 6 additions and 6 deletions in 3 files</sub><br />
 
