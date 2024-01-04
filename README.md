@@ -124,7 +124,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland "Make `TextSpan` hit testing precise." (#140468)<br />
-    <sub>[#140621](https://github.com/flutter/flutter/pull/140621) merged on January 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140621) over 1 week, 237 additions and 26 deletions in 6 files</sub><br />
+    <sub>[#140621](https://github.com/flutter/flutter/pull/140621) merged on January 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140621) over 1 week, 237 additions and 26 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Revert "[Impeller] Plumb through the impeller-force-gl flag."<br />
