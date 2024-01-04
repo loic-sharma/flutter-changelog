@@ -89,9 +89,6 @@
 * **[Valentin Hăloiu](https://github.com/vially)** &mdash; Detect VS Code IDE on Arch Linux<br />
     <sub>[#140747](https://github.com/flutter/flutter/pull/140747) opened on on December 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140747) 10 additions and 0 deletions in 1 file</sub><br />
 
-* **[Jehun Seem(심제훈)](https://github.com/gtgalone)** &mdash; Add more exceptinal condition for ProgressIndicator<br />
-    <sub>[#140755](https://github.com/flutter/flutter/pull/140755) opened on on December 30, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/140755) 22 additions and 1 deletion in 2 files</sub><br />
-
 * **[Ryuujo Zhang](https://github.com/ryuujo1573)** &mdash; add LF normalization for command entrance.<br />
     <sub>[#140779](https://github.com/flutter/flutter/pull/140779) opened on on January 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140779) 2 additions and 0 deletions in 1 file</sub><br />
 
@@ -109,6 +106,9 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum (#140823)<br />
     <sub>[#140921](https://github.com/flutter/flutter/pull/140921) opened on on January 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/140921) 211 additions and 199 deletions in 92 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run half of iOS devicelab tests with Xcode 15<br />
+    <sub>[#140927](https://github.com/flutter/flutter/pull/140927) opened on on January 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140927) 178 additions and 0 deletions in 1 file</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds AutovalidateMode.onFocusChange to Form and FormField<br />
     <sub>[#140962](https://github.com/flutter/flutter/pull/140962) opened on on January 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140962) 90 additions and 0 deletions in 2 files</sub><br />
