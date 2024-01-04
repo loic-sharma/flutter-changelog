@@ -736,7 +736,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-10 commits.
+11 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implement `lockCaptureOrientation` & `unlockCaptureOrientation`<br />
     <sub>[#5285](https://github.com/flutter/packages/pull/5285) merged on January 2, 2024 &mdash; **Extra large:** [57 comments](https://github.com/flutter/packages/pull/5285) over 2 months, 2071 additions and 810 deletions in 50 files</sub><br />
@@ -765,6 +765,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Unpin mac_toolchain version<br />
     <sub>[#5683](https://github.com/flutter/packages/pull/5683) merged on January 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5683) over 2 weeks, 2 additions and 8 deletions in 1 file</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [file_selector_android] Attempt to close system dialogs before integration tests run<br />
+    <sub>[#5805](https://github.com/flutter/packages/pull/5805) merged on January 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5805) over 3 hours, 19 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Gray Mackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Handle Flutter dev dependencies<br />
     <sub>[#5775](https://github.com/flutter/packages/pull/5775) merged on January 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5775) over 2 days, 18 additions and 2 deletions in 2 files</sub><br />
