@@ -116,9 +116,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum (#140823)<br />
     <sub>[#140921](https://github.com/flutter/flutter/pull/140921) opened on on January 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/140921) 211 additions and 199 deletions in 92 files</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add flavor-conditional asset bundling support to `flutter test`<br />
-    <sub>[#140944](https://github.com/flutter/flutter/pull/140944) opened on on January 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140944) 47 additions and 3 deletions in 2 files</sub><br />
-
 * **[Nishant Kumar](https://github.com/nikkivirtuoso)** &mdash; resolved the issue of indeterminate CircularProgressIndicator.adaptive on Darwin <br />
     <sub>[#140947](https://github.com/flutter/flutter/pull/140947) opened on on January 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140947) 8 additions and 1 deletion in 1 file</sub><br />
 
