@@ -377,7 +377,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-18 commits.
+19 commits.
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Start wiring up fragment program for OpenGLES
     <sub>[#49347](https://github.com/flutter/engine/pull/49347) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49347) over 1 week, 123 additions and 36 deletions in 10 files</sub>
@@ -427,6 +427,10 @@
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Add try-with-resource support to TraceSection
     <sub>[#49445](https://github.com/flutter/engine/pull/49445) merged on January 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49445) over 1 day, 74 additions and 105 deletions in 5 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Michael Brase](https://github.com/mbrase)** &mdash; [fuchsia] Remove LoggingSocketTest.UseSyslogOnFuchsia test
+    <sub>[#49524](https://github.com/flutter/engine/pull/49524) merged on January 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49524) over 2 hours, 0 additions and 101 deletions in 1 file</sub>
+    <sub>Reviewed by: [Tom Robinson](https://github.com/tarobins)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Add Flutter CI status to README
     <sub>[#49330](https://github.com/flutter/engine/pull/49330) merged on January 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49330) over 1 week, 1 addition and 0 deletions in 1 file</sub>
