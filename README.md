@@ -418,7 +418,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-21 commits.
+22 commits.
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Start wiring up fragment program for OpenGLES<br />
     <sub>[#49347](https://github.com/flutter/engine/pull/49347) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49347) over 1 week, 123 additions and 36 deletions in 10 files</sub><br />
@@ -444,6 +444,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] new blur: limit uvs to blur region<br />
     <sub>[#49299](https://github.com/flutter/engine/pull/49299) merged on January 3, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/49299) over 2 weeks, 66 additions and 8 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Re-land "Re-land  'Add target to have linux_android_emulator_tests run on AVDs with Android 33 & 34'"<br />
+    <sub>[#49101](https://github.com/flutter/engine/pull/49101) merged on January 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/49101) over 2 weeks, 82 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Disable compute for Vulkan.<br />
     <sub>[#49463](https://github.com/flutter/engine/pull/49463) merged on January 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49463) over 1 day, 19 additions and 2 deletions in 3 files</sub><br />
