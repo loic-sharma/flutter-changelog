@@ -418,7 +418,12 @@
 
 ### December 30, 2023 to January 5, 2024
 
-22 commits.
+23 commits.
+
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Get the correct iOS system font for each weight<br />
+    <sub>[#48937](https://github.com/flutter/engine/pull/48937) merged on January 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48937) over 3 weeks, 66 additions and 23 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub><details><summary>2 images...</summary><img width="250" alt="Screenshot 2023-12-06 at 1 17 11 PM" src="https://github.com/flutter/engine/assets/58190796/036231eb-d4e2-4c93-82de-fa62d7ddc7c1"><img width="364" alt="Screenshot 2024-01-03 at 3 15 33 PM" src="https://github.com/flutter/engine/assets/58190796/69651f01-d694-4758-9fb5-acf50a1895c4"></details></sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Start wiring up fragment program for OpenGLES<br />
     <sub>[#49347](https://github.com/flutter/engine/pull/49347) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49347) over 1 week, 123 additions and 36 deletions in 10 files</sub><br />

@@ -21,7 +21,7 @@
     <sub>[#137061](https://github.com/flutter/flutter/pull/137061) opened on on October 23, 2023 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/137061) 1952 additions and 125 deletions in 8 files</sub><br />
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] fix service worker caching for custom base href<br />
-    <sub>[#137202](https://github.com/flutter/flutter/pull/137202) opened on on October 25, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/137202) 157 additions and 22 deletions in 3 files</sub><br />
+    <sub>[#137202](https://github.com/flutter/flutter/pull/137202) opened on on October 25, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/137202) 157 additions and 22 deletions in 3 files</sub><br />
 
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Test roll<br />
     <sub>[#138017](https://github.com/flutter/flutter/pull/138017) opened on on November 7, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/138017) 1 addition and 1 deletion in 1 file</sub><br />
@@ -42,7 +42,7 @@
     <sub>[#139332](https://github.com/flutter/flutter/pull/139332) opened on on November 30, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139332) 1 addition and 8 deletions in 1 file</sub><br />
 
 * **[jarrodcolburn](https://github.com/jarrodcolburn)** &mdash; update: avd error msg<br />
-    <sub>[#139452](https://github.com/flutter/flutter/pull/139452) opened on on December 3, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/139452) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#139452](https://github.com/flutter/flutter/pull/139452) opened on on December 3, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/139452) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Be less verbose in CI for customer_testing, and revert old timeout hack<br />
     <sub>[#139611](https://github.com/flutter/flutter/pull/139611) opened on on December 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139611) 11 additions and 2 deletions in 2 files</sub><br />
@@ -51,7 +51,7 @@
     <sub>[#140250](https://github.com/flutter/flutter/pull/140250) opened on on December 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140250) 202 additions and 56 deletions in 3 files</sub><br />
 
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Prevent full rebuilds when rerunning `flutter test`.<br />
-    <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140284) 109 additions and 11 deletions in 2 files</sub><br />
+    <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140284) 109 additions and 11 deletions in 2 files</sub><br />
 
 * **[Arun Chapagain](https://github.com/ArunChapagain)** &mdash; fix:#140301  :bug: bottom_navigation_bar_item  nullable lable attribute changed to required attribute.<br />
     <sub>[#140303](https://github.com/flutter/flutter/pull/140303) opened on on December 18, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140303) 2 additions and 2 deletions in 1 file</sub><br />
