@@ -86,12 +86,6 @@
 * **[Casey Rogers](https://github.com/caseycrogers)** &mdash; [WIP] removed generic from page and descendants<br />
     <sub>[#140743](https://github.com/flutter/flutter/pull/140743) opened on on December 29, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/140743) 163 additions and 176 deletions in 18 files</sub><br />
 
-* **[Valentin Hăloiu](https://github.com/vially)** &mdash; Detect VS Code IDE on Arch Linux<br />
-    <sub>[#140747](https://github.com/flutter/flutter/pull/140747) opened on on December 30, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140747) 10 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ryuujo Zhang](https://github.com/ryuujo1573)** &mdash; add LF normalization for command entrance.<br />
-    <sub>[#140779](https://github.com/flutter/flutter/pull/140779) opened on on January 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140779) 2 additions and 0 deletions in 1 file</sub><br />
-
 * **[Jonas Uekötter](https://github.com/ueman)** &mdash; Make Flutter version information accessible at runtime<br />
     <sub>[#140783](https://github.com/flutter/flutter/pull/140783) opened on on January 1, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/140783) 253 additions and 6 deletions in 10 files</sub><br />
 
