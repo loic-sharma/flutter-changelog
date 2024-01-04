@@ -101,7 +101,7 @@
 * **[Adam Bridges](https://github.com/AdamBridges)** &mdash; Fix to `ExpansionTile` page storage error<br />
     <sub>[#140819](https://github.com/flutter/flutter/pull/140819) opened on on January 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140819) 6 additions and 1 deletion in 1 file</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; adds some properties to stepper<br />
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Adds some properties to stepper<br />
     <sub>[#140825](https://github.com/flutter/flutter/pull/140825) opened on on January 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140825) 203 additions and 19 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [CP] Fix tool crash while debugging an iOS device and deleting a temp directory fails <br />
