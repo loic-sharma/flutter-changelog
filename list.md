@@ -377,7 +377,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-16 commits.
+17 commits.
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Start wiring up fragment program for OpenGLES
     <sub>[#49347](https://github.com/flutter/engine/pull/49347) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49347) over 1 week, 123 additions and 36 deletions in 10 files</sub>
@@ -427,6 +427,10 @@
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Add try-with-resource support to TraceSection
     <sub>[#49445](https://github.com/flutter/engine/pull/49445) merged on January 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49445) over 1 day, 74 additions and 105 deletions in 5 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Jonny Wang](https://github.com/jrwang)** &mdash; [fuchsia] Add libbackend_fuchsia_globals.so to common_libs
+    <sub>[#49484](https://github.com/flutter/engine/pull/49484) merged on January 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49484) over 12 hours, 122 additions and 2 deletions in 4 files</sub>
+    <sub>Reviewed by: [Courtney Ligh](https://github.com/cligh)</sub>
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Fix a crash in the new SurfaceProducer external texture
     <sub>[#49496](https://github.com/flutter/engine/pull/49496) merged on January 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49496) over 1 hour, 78 additions and 2 deletions in 2 files</sub>
