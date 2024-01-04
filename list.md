@@ -418,7 +418,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-23 commits.
+24 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Get the correct iOS system font for each weight
     <sub>[#48937](https://github.com/flutter/engine/pull/48937) merged on January 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48937) over 3 weeks, 66 additions and 23 deletions in 2 files</sub>
@@ -428,6 +428,10 @@
 * **[Dan Field](https://github.com/dnfield)** &mdash; Start wiring up fragment program for OpenGLES
     <sub>[#49347](https://github.com/flutter/engine/pull/49347) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49347) over 1 week, 123 additions and 36 deletions in 10 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] migrate blur to calculating coefficients on the cpu
+    <sub>[#49512](https://github.com/flutter/engine/pull/49512) merged on January 4, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/49512) over 22 hours, 563 additions and 27 deletions in 11 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] pulled out the path unit tests to their own file
     <sub>[#49499](https://github.com/flutter/engine/pull/49499) merged on January 3, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/49499) over 1 hour, 398 additions and 375 deletions in 4 files</sub>
