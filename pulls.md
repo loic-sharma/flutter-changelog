@@ -104,6 +104,3 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds AutovalidateMode.onFocusChange to Form and FormField<br />
     <sub>[#140962](https://github.com/flutter/flutter/pull/140962) opened on on January 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140962) 90 additions and 0 deletions in 2 files</sub><br />
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; CP: Migrate verify_codesigned. (#139328)<br />
-    <sub>[#140991](https://github.com/flutter/flutter/pull/140991) opened on on January 4, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/140991) 643 additions and 6 deletions in 4 files</sub><br />
-
