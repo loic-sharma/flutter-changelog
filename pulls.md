@@ -123,5 +123,5 @@
     <sub>[#140944](https://github.com/flutter/flutter/pull/140944) opened on on January 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140944) 47 additions and 3 deletions in 2 files</sub><br />
 
 * **[Nishant Kumar](https://github.com/nikkivirtuoso)** &mdash; resolved the issue of indeterminate CircularProgressIndicator.adaptive on Darwin <br />
-    <sub>[#140947](https://github.com/flutter/flutter/pull/140947) opened on on January 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140947) 8 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#140947](https://github.com/flutter/flutter/pull/140947) opened on on January 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140947) 8 additions and 1 deletion in 1 file</sub><br />
 
