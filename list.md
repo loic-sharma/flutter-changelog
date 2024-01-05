@@ -84,7 +84,7 @@
     <sub>[#139965](https://github.com/flutter/flutter/pull/139965) merged on January 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139965) over 3 weeks, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Satsrag](https://github.com/Satsrag)** &mdash; fix: cannot input new line using custom input control
+* **[ᠵᠠᠭᠠᠨᠵᠠᠪ ᠪᠤᠷᠵᠢᠭᠤᠳ ᠰᠠᠴᠤᠷᠠᠭ](https://github.com/Satsrag)** &mdash; fix: cannot input new line using custom input control
     <sub>[#140356](https://github.com/flutter/flutter/pull/140356) merged on January 3, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/140356) over 2 weeks, 82 additions and 13 deletions in 2 files</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
@@ -161,7 +161,7 @@
     <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Add Flutter CI status to README
-    <sub>[#140513](https://github.com/flutter/flutter/pull/140513) merged on January 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140513) over 2 weeks, 1 addition and 0 deletions in 1 file</sub>
+    <sub>[#140513](https://github.com/flutter/flutter/pull/140513) merged on January 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140513) over 2 weeks, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Reland "integrate testWidgets with leak tracking" (#140521)
@@ -736,7 +736,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-11 commits.
+13 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implement `lockCaptureOrientation` & `unlockCaptureOrientation`
     <sub>[#5285](https://github.com/flutter/packages/pull/5285) merged on January 2, 2024 &mdash; **Extra large:** [57 comments](https://github.com/flutter/packages/pull/5285) over 2 months, 2071 additions and 810 deletions in 50 files</sub>
@@ -764,6 +764,14 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Unpin mac_toolchain version
     <sub>[#5683](https://github.com/flutter/packages/pull/5683) merged on January 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5683) over 2 weeks, 2 additions and 8 deletions in 1 file</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Fix initial frame on macOS
+    <sub>[#5781](https://github.com/flutter/packages/pull/5781) merged on January 5, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/5781) over 2 days, 118 additions and 6 deletions in 4 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] java non null void
+    <sub>[#5786](https://github.com/flutter/packages/pull/5786) merged on January 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5786) over 1 day, 101 additions and 57 deletions in 9 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [file_selector_android] Attempt to close system dialogs before integration tests run
