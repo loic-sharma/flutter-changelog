@@ -57,7 +57,7 @@
     <sub>[#140303](https://github.com/flutter/flutter/pull/140303) opened on on December 18, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/140303) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Sébastien Batézat](https://github.com/sbatezat)** &mdash; feat(popup_menu): add the ability to set route settings on PopupMenuB…<br />
-    <sub>[#140373](https://github.com/flutter/flutter/pull/140373) opened on on December 19, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140373) 7 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#140373](https://github.com/flutter/flutter/pull/140373) opened on on December 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140373) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Add position data to `OnDragEnd` callback<br />
     <sub>[#140378](https://github.com/flutter/flutter/pull/140378) opened on on December 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140378) 64 additions and 3 deletions in 3 files</sub><br />
