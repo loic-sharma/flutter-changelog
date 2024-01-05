@@ -93,7 +93,7 @@
     <sub>[#140819](https://github.com/flutter/flutter/pull/140819) opened on on January 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140819) 6 additions and 1 deletion in 1 file</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds some properties to stepper<br />
-    <sub>[#140825](https://github.com/flutter/flutter/pull/140825) opened on on January 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140825) 220 additions and 19 deletions in 2 files</sub><br />
+    <sub>[#140825](https://github.com/flutter/flutter/pull/140825) opened on on January 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140825) 219 additions and 18 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [CP] Fix tool crash while debugging an iOS device and deleting a temp directory fails <br />
     <sub>[#140842](https://github.com/flutter/flutter/pull/140842) opened on on January 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140842) 40 additions and 6 deletions in 3 files</sub><br />
