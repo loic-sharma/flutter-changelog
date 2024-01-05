@@ -68,12 +68,6 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#140631](https://github.com/flutter/flutter/pull/140631) opened on on December 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140631) 6 additions and 6 deletions in 3 files</sub><br />
 
-* **[David Martos](https://github.com/davidmartos96)** &mdash; Update margin between label and icon in Tab to better reflect Material specs<br />
-    <sub>[#140698](https://github.com/flutter/flutter/pull/140698) opened on on December 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140698) 42 additions and 3 deletions in 2 files</sub><br />
-
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; fix Ink not updating on TextField newline<br />
-    <sub>[#140700](https://github.com/flutter/flutter/pull/140700) opened on on December 28, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140700) 53 additions and 9 deletions in 2 files</sub><br />
-
 * **[toda-bps](https://github.com/toda-bps)** &mdash; Enable gesture immediately on the underlying page when swiping back<br />
     <sub>[#140704](https://github.com/flutter/flutter/pull/140704) opened on on December 28, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/140704) 128 additions and 1 deletion in 4 files</sub><br />
 
