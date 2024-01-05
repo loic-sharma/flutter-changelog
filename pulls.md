@@ -101,6 +101,3 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Turn on a framework test shard that will run unit tests with --enable-impeller<br />
     <sub>[#140985](https://github.com/flutter/flutter/pull/140985) opened on on January 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140985) 39 additions and 0 deletions in 2 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Manual pub roll pinning web socket channel<br />
-    <sub>[#141040](https://github.com/flutter/flutter/pull/141040) opened on on January 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141040) 123 additions and 113 deletions in 26 files</sub><br />
-

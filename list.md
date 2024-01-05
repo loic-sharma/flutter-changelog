@@ -4,7 +4,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-49 commits.
+50 commits.
 
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Add `SegmentedButton.styleFrom`
     <sub>[#137542](https://github.com/flutter/flutter/pull/137542) merged on January 3, 2024 &mdash; **Medium:** [76 comments](https://github.com/flutter/flutter/pull/137542) over 2 months, 417 additions and 0 deletions in 5 files</sub>
@@ -61,6 +61,10 @@
     <sub>[#138653](https://github.com/flutter/flutter/pull/138653) merged on January 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/138653) over 1 month, 19 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Manual pub roll pinning web socket channel
+    <sub>[#141040](https://github.com/flutter/flutter/pull/141040) merged on January 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141040) over 1 hour, 123 additions and 113 deletions in 26 files</sub>
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Re-land integrate testWidgets with leak tracking.
     <sub>[#140521](https://github.com/flutter/flutter/pull/140521) merged on January 3, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/140521) over 1 week, 314 additions and 14 deletions in 5 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
@@ -69,13 +73,17 @@
     <sub>[#140979](https://github.com/flutter/flutter/pull/140979) merged on January 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140979) over 49 minutes, 146 additions and 146 deletions in 46 files</sub>
     <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Re-land integrate testWidgets with leak tracking."
-    <sub>[#140926](https://github.com/flutter/flutter/pull/140926) merged on January 3, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/140926) over 40 seconds, 14 additions and 314 deletions in 5 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+* **[Ann Marie Mossman](https://github.com/mossmana)** &mdash; Handle KEYCODE_DPAD_CENTER and KEYCODE_ENTER
+    <sub>[#140808](https://github.com/flutter/flutter/pull/140808) merged on January 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140808) over 1 day, 6 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[lsaudon](https://github.com/lsaudon)** &mdash; Add Lucas Saudon to AUTHORS
     <sub>[#139965](https://github.com/flutter/flutter/pull/139965) merged on January 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139965) over 3 weeks, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Jack Gibbons](https://github.com/Gibbo97)** &mdash; Add key to BottomNavigationBarItem
+    <sub>[#139617](https://github.com/flutter/flutter/pull/139617) merged on January 3, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/139617) over 4 weeks, 39 additions and 0 deletions in 3 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[ᠵᠠᠭᠠᠨᠵᠠᠪ ᠪᠤᠷᠵᠢᠭᠤᠳ ᠰᠠᠴᠤᠷᠠᠭ](https://github.com/Satsrag)** &mdash; fix: cannot input new line using custom input control
     <sub>[#140356](https://github.com/flutter/flutter/pull/140356) merged on January 3, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/140356) over 2 weeks, 82 additions and 13 deletions in 2 files</sub>
@@ -84,10 +92,6 @@
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Verified input test take 2
     <sub>[#140836](https://github.com/flutter/flutter/pull/140836) merged on January 3, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/140836) over 2 hours, 784 additions and 0 deletions in 25 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
-
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add flavor-conditional asset bundling support to `flutter test`
-    <sub>[#140944](https://github.com/flutter/flutter/pull/140944) merged on January 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140944) over 1 day, 47 additions and 3 deletions in 2 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix setup race in asset bundle tests
     <sub>[#140832](https://github.com/flutter/flutter/pull/140832) merged on January 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140832) over 2 hours, 3 additions and 10 deletions in 1 file</sub>
@@ -101,17 +105,17 @@
     <sub>[#140806](https://github.com/flutter/flutter/pull/140806) merged on January 2, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/140806) over 4 hours, 784 additions and 0 deletions in 30 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
-* **[Ann Marie Mossman](https://github.com/mossmana)** &mdash; Handle KEYCODE_DPAD_CENTER and KEYCODE_ENTER
-    <sub>[#140808](https://github.com/flutter/flutter/pull/140808) merged on January 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140808) over 1 day, 6 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
-
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "manual pub roll to pick up dds fixes"
     <sub>[#141033](https://github.com/flutter/flutter/pull/141033) merged on January 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141033) over 34 seconds, 146 additions and 146 deletions in 46 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
-* **[Jack Gibbons](https://github.com/Gibbo97)** &mdash; Add key to BottomNavigationBarItem
-    <sub>[#139617](https://github.com/flutter/flutter/pull/139617) merged on January 3, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/139617) over 4 weeks, 39 additions and 0 deletions in 3 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Re-land integrate testWidgets with leak tracking."
+    <sub>[#140926](https://github.com/flutter/flutter/pull/140926) merged on January 3, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/140926) over 40 seconds, 14 additions and 314 deletions in 5 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add flavor-conditional asset bundling support to `flutter test`
+    <sub>[#140944](https://github.com/flutter/flutter/pull/140944) merged on January 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140944) over 1 day, 47 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Fix local engine use in macOS plugins
     <sub>[#140222](https://github.com/flutter/flutter/pull/140222) merged on January 4, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/140222) over 2 weeks, 84 additions and 2 deletions in 2 files</sub>
@@ -129,17 +133,13 @@
     <sub>[#140300](https://github.com/flutter/flutter/pull/140300) merged on January 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140300) over 2 weeks, 18 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; [web] Fix and unskip a few more CanvasKit tests
-    <sub>[#140821](https://github.com/flutter/flutter/pull/140821) merged on January 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140821) over 2 days, 12 additions and 8 deletions in 4 files</sub>
-    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
-
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Update dependencies with `flutter update-packages --force-upgrade`
     <sub>[#140810](https://github.com/flutter/flutter/pull/140810) merged on January 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140810) over 1 hour, 9 additions and 5 deletions in 3 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Rename MemoryAllocations to FlutterMemoryAllocations.
-    <sub>[#140623](https://github.com/flutter/flutter/pull/140623) merged on January 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140623) over 6 days, 90 additions and 82 deletions in 31 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Temporarily remove env variable for leak tracking bots.
+    <sub>[#140978](https://github.com/flutter/flutter/pull/140978) merged on January 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140978) over 45 minutes, 0 additions and 12 deletions in 1 file</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; fix typo and reflow
     <sub>[#140925](https://github.com/flutter/flutter/pull/140925) merged on January 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140925) over 30 minutes, 13 additions and 11 deletions in 1 file</sub>
@@ -147,6 +147,10 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] add support for --enable-impeller to test device.
     <sub>[#140899](https://github.com/flutter/flutter/pull/140899) merged on January 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140899) over 46 minutes, 26 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Link to wiki page about updating dependencies in each `pubspec.yaml` file
+    <sub>[#140826](https://github.com/flutter/flutter/pull/140826) merged on January 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140826) over 21 hours, 21 additions and 0 deletions in 7 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.
@@ -157,13 +161,9 @@
     <sub>[#140912](https://github.com/flutter/flutter/pull/140912) merged on January 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140912) over 1 day, 115 additions and 14 deletions in 1 file</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [yusuf-goog](https://github.com/yusuf-goog)</sub>
 
-* **[Elliott Brooks](https://github.com/elliette)** &mdash; Link to wiki page about updating dependencies in each `pubspec.yaml` file
-    <sub>[#140826](https://github.com/flutter/flutter/pull/140826) merged on January 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140826) over 21 hours, 21 additions and 0 deletions in 7 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Temporarily remove env variable for leak tracking bots.
-    <sub>[#140978](https://github.com/flutter/flutter/pull/140978) merged on January 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140978) over 45 minutes, 0 additions and 12 deletions in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] Fix and unskip a few more CanvasKit tests
+    <sub>[#140821](https://github.com/flutter/flutter/pull/140821) merged on January 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140821) over 2 days, 12 additions and 8 deletions in 4 files</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove deprecated bitcode stripping from tooling
     <sub>[#140903](https://github.com/flutter/flutter/pull/140903) merged on January 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140903) over 4 hours, 0 additions and 121 deletions in 3 files</sub>
@@ -171,6 +171,10 @@
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [flutter] Allow ViewCollection to start empty.
     <sub>[#140532](https://github.com/flutter/flutter/pull/140532) merged on January 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140532) over 1 week, 5 additions and 7 deletions in 3 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Rename MemoryAllocations to FlutterMemoryAllocations.
+    <sub>[#140623](https://github.com/flutter/flutter/pull/140623) merged on January 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140623) over 6 days, 90 additions and 82 deletions in 31 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [Fix] Consistency in ButtonStyleButton related Tests
