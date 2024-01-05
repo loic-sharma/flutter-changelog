@@ -83,3 +83,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Turn on a framework test shard that will run unit tests with --enable-impeller<br />
     <sub>[#140985](https://github.com/flutter/flutter/pull/140985) opened on on January 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140985) 39 additions and 0 deletions in 2 files</sub><br />
 
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Remove codesign command from conductor.<br />
+    <sub>[#141044](https://github.com/flutter/flutter/pull/141044) opened on on January 5, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/141044) 0 additions and 443 deletions in 4 files</sub><br />
+
