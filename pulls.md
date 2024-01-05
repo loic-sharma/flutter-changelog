@@ -62,9 +62,6 @@
 * **[Henry Riehl](https://github.com/whiskeyPeak)** &mdash; Add position data to `OnDragEnd` callback<br />
     <sub>[#140378](https://github.com/flutter/flutter/pull/140378) opened on on December 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140378) 64 additions and 3 deletions in 3 files</sub><br />
 
-* **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; Fixed -> DropdownMenu throws exception when it is in any scrollable l…<br />
-    <sub>[#140566](https://github.com/flutter/flutter/pull/140566) opened on on December 23, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140566) 34 additions and 0 deletions in 2 files</sub><br />
-
 * **[David Martos](https://github.com/davidmartos96)** &mdash; M3 - Fix Chip icon and label colors<br />
     <sub>[#140573](https://github.com/flutter/flutter/pull/140573) opened on on December 23, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/140573) 184 additions and 29 deletions in 9 files</sub><br />
 

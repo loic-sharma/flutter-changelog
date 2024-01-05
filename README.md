@@ -772,7 +772,7 @@
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable prefer_mixin and bump plugin_platform_interface to 2.1.7<br />
-    <sub>[#5793](https://github.com/flutter/packages/pull/5793) merged on January 5, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/5793) over 1 day, 180 additions and 81 deletions in 70 files</sub><br />
+    <sub>[#5793](https://github.com/flutter/packages/pull/5793) merged on January 5, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/5793) over 1 day, 180 additions and 81 deletions in 70 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; bump mockito across repo to 5.4.4<br />
