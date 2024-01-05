@@ -20,14 +20,14 @@
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>2 images...</summary>![Simulator Screenshot - iPhone 15 Pro - 2024-01-04 at 15 16 15](https://github.com/flutter/flutter/assets/48603081/b776e7e6-e5f0-49df-8a79-55032eaad631)![Simulator Screenshot - iPhone 15 Pro - 2024-01-04 at 15 16 23](https://github.com/flutter/flutter/assets/48603081/9ad13793-43a9-4ae8-977e-7cf84cb59bb1)</details></sub>
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate Xcode projects last version checks to Xcode 15.1
-    <sub>[#140256](https://github.com/flutter/flutter/pull/140256) merged on January 3, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/140256) over 2 weeks, 165 additions and 132 deletions in 104 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Victoria Ashworth](https://github.com/vashworth)</sub>
-
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add scrollbar for menus
     <sub>[#140941](https://github.com/flutter/flutter/pull/140941) merged on January 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140941) over 17 hours, 52 additions and 12 deletions in 3 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
     <sub><details><summary>2 images...</summary><img src="https://github.com/flutter/flutter/assets/36861262/9ca3d4d0-415f-43bf-9d2b-df96a42db620" width="250"/><img src="https://github.com/flutter/flutter/assets/36861262/18da8d02-586b-4aa4-b647-927691542429" width="350"/></details></sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate Xcode projects last version checks to Xcode 15.1
+    <sub>[#140256](https://github.com/flutter/flutter/pull/140256) merged on January 3, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/140256) over 2 weeks, 165 additions and 132 deletions in 104 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Sharabiddin Ahmayev](https://github.com/sharabiddin)** &mdash; Fix `SegmentedButton` states update logic
     <sub>[#140772](https://github.com/flutter/flutter/pull/140772) merged on January 4, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/140772) over 3 days, 46 additions and 9 deletions in 2 files</sub>
