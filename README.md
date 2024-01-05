@@ -431,7 +431,11 @@
 
 ### December 30, 2023 to January 5, 2024
 
-26 commits.
+27 commits.
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Allow spawning additional UI isolates in flutter_tester<br />
+    <sub>[#48706](https://github.com/flutter/engine/pull/48706) merged on January 5, 2024 &mdash; **Medium:** [54 comments](https://github.com/flutter/engine/pull/48706) over 1 month, 329 additions and 30 deletions in 17 files</sub><br />
+    <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph), [Martin Kustermann](https://github.com/mkustermann)</sub><br />
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Get the correct iOS system font for each weight<br />
     <sub>[#48937](https://github.com/flutter/engine/pull/48937) merged on January 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/48937) over 3 weeks, 66 additions and 23 deletions in 2 files</sub><br />
