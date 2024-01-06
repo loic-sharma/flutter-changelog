@@ -459,7 +459,7 @@
 
 ### December 30, 2023 to January 5, 2024
 
-27 commits.
+28 commits.
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Allow spawning additional UI isolates in flutter_tester
     <sub>[#48706](https://github.com/flutter/engine/pull/48706) merged on January 5, 2024 &mdash; **Medium:** [54 comments](https://github.com/flutter/engine/pull/48706) over 1 month, 329 additions and 30 deletions in 17 files</sub>
@@ -506,6 +506,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Re-land "Re-land  'Add target to have linux_android_emulator_tests run on AVDs with Android 33 & 34'"
     <sub>[#49101](https://github.com/flutter/engine/pull/49101) merged on January 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/49101) over 2 weeks, 82 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove SamplerLibrary forward declare.
+    <sub>[#49573](https://github.com/flutter/engine/pull/49573) merged on January 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49573) over 19 hours, 4 additions and 72 deletions in 37 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] RenderPass now provides the Orthographic matrix
     <sub>[#49544](https://github.com/flutter/engine/pull/49544) merged on January 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49544) over 59 minutes, 87 additions and 97 deletions in 29 files</sub>
