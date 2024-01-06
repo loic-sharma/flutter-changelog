@@ -45,7 +45,7 @@
     <sub>[#139452](https://github.com/flutter/flutter/pull/139452) opened on on December 3, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/139452) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Be less verbose in CI for customer_testing, and revert old timeout hack<br />
-    <sub>[#139611](https://github.com/flutter/flutter/pull/139611) opened on on December 6, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/139611) 11 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#139611](https://github.com/flutter/flutter/pull/139611) opened on on December 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139611) 11 additions and 2 deletions in 2 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix text selection edge scrolling when inside a horizontal scrollable<br />
     <sub>[#140250](https://github.com/flutter/flutter/pull/140250) opened on on December 15, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140250) 202 additions and 55 deletions in 3 files</sub><br />
