@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### January 6, 2024 to January 12, 2024
+
+1 commits.
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable test shuffling in widget_tester_leaks_test.dart
+    <sub>[#141110](https://github.com/flutter/flutter/pull/141110) merged on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141110) over 37 minutes, 7 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
 ### December 30, 2023 to January 5, 2024
 
-51 commits.
+<details>
+<summary>51 commits...</summary>
 
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Add `SegmentedButton.styleFrom`
     <sub>[#137542](https://github.com/flutter/flutter/pull/137542) merged on January 3, 2024 &mdash; **Medium:** [76 comments](https://github.com/flutter/flutter/pull/137542) over 2 months, 417 additions and 0 deletions in 5 files</sub>
@@ -212,6 +221,8 @@
 * **[Dan Field](https://github.com/dnfield)** &mdash; Revert "[Impeller] Plumb through the impeller-force-gl flag."
     <sub>[#140535](https://github.com/flutter/flutter/pull/140535) merged on January 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140535) over 1 week, 0 additions and 24 deletions in 5 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+</details>
 
 ### December 23, 2023 to December 29, 2023
 
