@@ -65,9 +65,6 @@
 * **[Casey Rogers](https://github.com/caseycrogers)** &mdash; [WIP] removed generic from page and descendants<br />
     <sub>[#140743](https://github.com/flutter/flutter/pull/140743) opened on on December 29, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/140743) 163 additions and 176 deletions in 18 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [CP] Fix tool crash while debugging an iOS device and deleting a temp directory fails <br />
-    <sub>[#140842](https://github.com/flutter/flutter/pull/140842) opened on on January 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140842) 40 additions and 6 deletions in 3 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum<br />
     <sub>[#140921](https://github.com/flutter/flutter/pull/140921) opened on on January 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/140921) 211 additions and 199 deletions in 92 files</sub><br />
 
@@ -76,4 +73,7 @@
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; TextStyle: In copyWith, stop ignoring debugLabel when receiver has none<br />
     <sub>[#141141](https://github.com/flutter/flutter/pull/141141) opened on on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141141) 5 additions and 2 deletions in 2 files</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift mac Pixel 7 Pro tests to prod<br />
+    <sub>[#141142](https://github.com/flutter/flutter/pull/141142) opened on on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141142) 0 additions and 6 deletions in 1 file</sub><br />
 
