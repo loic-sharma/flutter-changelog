@@ -272,11 +272,15 @@
 
 ### January 6, 2024 to January 12, 2024
 
-1 commits.
+2 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Enforce consistent stack size for Flutter threads
     <sub>[#49111](https://github.com/flutter/engine/pull/49111) merged on January 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/49111) over 3 weeks, 129 additions and 15 deletions in 4 files</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] new blur: chop off blur extremities
+    <sub>[#49574](https://github.com/flutter/engine/pull/49574) merged on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49574) over 2 days, 12 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 ### December 30, 2023 to January 5, 2024
 
