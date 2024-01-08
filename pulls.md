@@ -60,7 +60,7 @@
     <sub>[#140378](https://github.com/flutter/flutter/pull/140378) opened on on December 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140378) 64 additions and 3 deletions in 3 files</sub><br />
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; M3 - Fix Chip icon and label colors<br />
-    <sub>[#140573](https://github.com/flutter/flutter/pull/140573) opened on on December 23, 2023 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/140573) 205 additions and 29 deletions in 9 files</sub><br />
+    <sub>[#140573](https://github.com/flutter/flutter/pull/140573) opened on on December 23, 2023 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/140573) 214 additions and 29 deletions in 9 files</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#140631](https://github.com/flutter/flutter/pull/140631) opened on on December 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140631) 6 additions and 6 deletions in 3 files</sub><br />
