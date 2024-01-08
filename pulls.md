@@ -83,6 +83,3 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Android] Add custom system-wide text selection toolbar buttons for SelectableRegion<br />
     <sub>[#141103](https://github.com/flutter/flutter/pull/141103) opened on on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141103) 142 additions and 1 deletion in 3 files</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable test shuffling in widget_tester_leaks_test.dart<br />
-    <sub>[#141110](https://github.com/flutter/flutter/pull/141110) opened on on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141110) 7 additions and 0 deletions in 1 file</sub><br />
-
