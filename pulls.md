@@ -68,7 +68,7 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [CP] Fix tool crash while debugging an iOS device and deleting a temp directory fails <br />
     <sub>[#140842](https://github.com/flutter/flutter/pull/140842) opened on on January 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140842) 40 additions and 6 deletions in 3 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum (#140823)<br />
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum<br />
     <sub>[#140921](https://github.com/flutter/flutter/pull/140921) opened on on January 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/140921) 211 additions and 199 deletions in 92 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Turn on a framework test shard that will run unit tests with --enable-impeller<br />
