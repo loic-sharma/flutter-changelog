@@ -74,6 +74,3 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Turn on a framework test shard that will run unit tests with --enable-impeller<br />
     <sub>[#140985](https://github.com/flutter/flutter/pull/140985) opened on on January 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140985) 39 additions and 0 deletions in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Android] Add custom system-wide text selection toolbar buttons for SelectableRegion<br />
-    <sub>[#141103](https://github.com/flutter/flutter/pull/141103) opened on on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141103) 142 additions and 1 deletion in 3 files</sub><br />
-
