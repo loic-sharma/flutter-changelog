@@ -60,7 +60,7 @@
     <sub>[#140378](https://github.com/flutter/flutter/pull/140378) opened on on December 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140378) 64 additions and 3 deletions in 3 files</sub><br />
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; M3 - Fix Chip icon and label colors<br />
-    <sub>[#140573](https://github.com/flutter/flutter/pull/140573) opened on on December 23, 2023 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/140573) 214 additions and 29 deletions in 9 files</sub><br />
+    <sub>[#140573](https://github.com/flutter/flutter/pull/140573) opened on on December 23, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/140573) 214 additions and 29 deletions in 9 files</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#140631](https://github.com/flutter/flutter/pull/140631) opened on on December 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140631) 6 additions and 6 deletions in 3 files</sub><br />
@@ -82,4 +82,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Android] Add custom system-wide text selection toolbar buttons for SelectableRegion<br />
     <sub>[#141103](https://github.com/flutter/flutter/pull/141103) opened on on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141103) 142 additions and 1 deletion in 3 files</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable test shuffling in widget_tester_leaks_test.dart<br />
+    <sub>[#141110](https://github.com/flutter/flutter/pull/141110) opened on on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141110) 7 additions and 0 deletions in 1 file</sub><br />
 
