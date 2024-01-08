@@ -259,9 +259,18 @@
 
 ## flutter/engine
 
+### January 6, 2024 to January 12, 2024
+
+1 commits.
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Enforce consistent stack size for Flutter threads
+    <sub>[#49111](https://github.com/flutter/engine/pull/49111) merged on January 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/49111) over 3 weeks, 129 additions and 15 deletions in 4 files</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
 ### December 30, 2023 to January 5, 2024
 
-28 commits.
+<details>
+<summary>28 commits...</summary>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Allow spawning additional UI isolates in flutter_tester
     <sub>[#48706](https://github.com/flutter/engine/pull/48706) merged on January 5, 2024 &mdash; **Medium:** [54 comments](https://github.com/flutter/engine/pull/48706) over 1 month, 329 additions and 30 deletions in 17 files</sub>
@@ -376,6 +385,8 @@
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 7e9f7eab80d3 to 7f2523c2fa9a (3 revisions)
     <sub>[#49534](https://github.com/flutter/engine/pull/49534) merged on January 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49534) over 44 minutes, 23 additions and 23 deletions in 3 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### December 23, 2023 to December 29, 2023
 
