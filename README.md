@@ -276,7 +276,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-7 commits.
+8 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Enforce consistent stack size for Flutter threads<br />
     <sub>[#49111](https://github.com/flutter/engine/pull/49111) merged on January 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/49111) over 3 weeks, 129 additions and 15 deletions in 4 files</sub><br />
@@ -301,6 +301,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] new blur: chop off blur extremities<br />
     <sub>[#49574](https://github.com/flutter/engine/pull/49574) merged on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49574) over 2 days, 12 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Document mip bias.<br />
+    <sub>[#49602](https://github.com/flutter/engine/pull/49602) merged on January 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49602) over 3 hours, 7 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 7f2523c2fa9a to e8aa66f435ae (5 revisions)<br />
     <sub>[#49604](https://github.com/flutter/engine/pull/49604) merged on January 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49604) over 2 hours, 4 additions and 4 deletions in 3 files</sub><br />
