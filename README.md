@@ -35,7 +35,7 @@
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Android] Add custom system-wide text selection toolbar buttons for SelectableRegion<br />
-    <sub>[#141103](https://github.com/flutter/flutter/pull/141103) merged on January 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141103) over 20 hours, 142 additions and 1 deletion in 3 files</sub><br />
+    <sub>[#141103](https://github.com/flutter/flutter/pull/141103) merged on January 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/141103) over 20 hours, 142 additions and 1 deletion in 3 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 ### December 30, 2023 to January 5, 2024
