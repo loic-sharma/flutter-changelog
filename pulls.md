@@ -11,9 +11,6 @@
 * **[Burak İmdat](https://github.com/burakJs)** &mdash; Add viewSearchOnChanged to SearchAnchor<br />
     <sub>[#132924](https://github.com/flutter/flutter/pull/132924) opened on on August 21, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/132924) 16 additions and 2 deletions in 1 file</sub><br />
 
-* **[René Kilczan](https://github.com/rekire)** &mdash; Update German translations<br />
-    <sub>[#136091](https://github.com/flutter/flutter/pull/136091) opened on on October 6, 2023 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/136091) 102 additions and 227 deletions in 5 files</sub><br />
-
 * **[Kayla Brady](https://github.com/KaylaBrady)** &mdash; Nav bar acccessibility: Mark nav items as buttons<br />
     <sub>[#136764](https://github.com/flutter/flutter/pull/136764) opened on on October 17, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136764) 17 additions and 1 deletion in 6 files</sub><br />
 

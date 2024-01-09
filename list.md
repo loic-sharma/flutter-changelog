@@ -348,7 +348,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-17 commits.
+18 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `shell/platform/android` IDE-friendly, and add documentation
     <sub>[#49612](https://github.com/flutter/engine/pull/49612) merged on January 9, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/49612) over 21 hours, 209 additions and 1 deletion in 8 files</sub>
@@ -398,6 +398,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] new blur: chop off blur extremities
     <sub>[#49574](https://github.com/flutter/engine/pull/49574) merged on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49574) over 2 days, 12 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Refactors RBE support"
+    <sub>[#49654](https://github.com/flutter/engine/pull/49654) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49654) over 29 seconds, 25 additions and 135 deletions in 7 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Track HostBuffer emplacements by offset.
     <sub>[#49618](https://github.com/flutter/engine/pull/49618) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49618) over 14 hours, 95 additions and 17 deletions in 5 files</sub>
