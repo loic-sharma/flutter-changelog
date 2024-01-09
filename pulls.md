@@ -72,7 +72,7 @@
     <sub>[#140985](https://github.com/flutter/flutter/pull/140985) opened on on January 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140985) 38 additions and 0 deletions in 2 files</sub><br />
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; TextStyle: In copyWith, stop ignoring debugLabel when receiver has none<br />
-    <sub>[#141141](https://github.com/flutter/flutter/pull/141141) opened on on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141141) 5 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#141141](https://github.com/flutter/flutter/pull/141141) opened on on January 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141141) 5 additions and 2 deletions in 2 files</sub><br />
 
 * **[Sulav Parajuli](https://github.com/imp-sike)** &mdash; Fix #141061: Add 'color' property to `DrawerButton` and `EndDrawerButton`<br />
     <sub>[#141159](https://github.com/flutter/flutter/pull/141159) opened on on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141159) 38 additions and 0 deletions in 2 files</sub><br />
