@@ -4,7 +4,11 @@
 
 ### January 6, 2024 to January 12, 2024
 
-15 commits.
+17 commits.
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reapply "Dynamic view sizing" (#140165)
+    <sub>[#140918](https://github.com/flutter/flutter/pull/140918) merged on January 9, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/140918) over 6 days, 370 additions and 50 deletions in 18 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[SharbelOkzan](https://github.com/SharbelOkzan)** &mdash; Introduce new Form validation method 
     <sub>[#135578](https://github.com/flutter/flutter/pull/135578) merged on January 9, 2024 &mdash; **Small:** [49 comments](https://github.com/flutter/flutter/pull/135578) over 3 months, 144 additions and 2 deletions in 2 files</sub>
@@ -41,6 +45,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `RouteObserver` example and fix an error thrown
     <sub>[#141166](https://github.com/flutter/flutter/pull/141166) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141166) over 10 hours, 169 additions and 52 deletions in 3 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add environment variable to leak tracking bots.
+    <sub>[#141137](https://github.com/flutter/flutter/pull/141137) merged on January 9, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/141137) over 1 day, 12 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.
     <sub>[#141153](https://github.com/flutter/flutter/pull/141153) merged on January 9, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/141153) over 16 hours, 211 additions and 267 deletions in 52 files</sub>
