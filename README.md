@@ -4,7 +4,15 @@
 
 ### January 6, 2024 to January 12, 2024
 
-4 commits.
+6 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `chip_test.dart` tests for Material 3<br />
+    <sub>[#140964](https://github.com/flutter/flutter/pull/140964) merged on January 9, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/140964) over 4 days, 1588 additions and 133 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix spell check throws when text contains regex reserved characters<br />
+    <sub>[#140384](https://github.com/flutter/flutter/pull/140384) merged on January 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140384) over 2 weeks, 33 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[asci](https://github.com/asci-00)** &mdash; [docs] Add document content related to chip shape<br />
     <sub>[#140015](https://github.com/flutter/flutter/pull/140015) merged on January 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140015) over 3 weeks, 3 additions and 1 deletion in 1 file</sub><br />
