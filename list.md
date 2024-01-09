@@ -35,7 +35,7 @@
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.
-    <sub>[#141153](https://github.com/flutter/flutter/pull/141153) merged on January 9, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/141153) over 16 hours, 211 additions and 267 deletions in 52 files</sub>
+    <sub>[#141153](https://github.com/flutter/flutter/pull/141153) merged on January 9, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/141153) over 16 hours, 211 additions and 267 deletions in 52 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove conditions that depend on order.
