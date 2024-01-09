@@ -74,3 +74,6 @@
 * **[Sulav Parajuli](https://github.com/imp-sike)** &mdash; Fix #141061: Add 'color' property to `DrawerButton` and `EndDrawerButton`<br />
     <sub>[#141159](https://github.com/flutter/flutter/pull/141159) opened on on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141159) 38 additions and 0 deletions in 2 files</sub><br />
 
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Run mac_x64 builds on any architecture available.<br />
+    <sub>[#141206](https://github.com/flutter/flutter/pull/141206) opened on on January 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141206) 1 addition and 2 deletions in 1 file</sub><br />
+
