@@ -4,7 +4,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-10 commits.
+11 commits.
 
 * **[Nishant Kumar](https://github.com/nikkivirtuoso)** &mdash; resolved the issue of indeterminate CircularProgressIndicator.adaptive on Darwin 
     <sub>[#140947](https://github.com/flutter/flutter/pull/140947) merged on January 9, 2024 &mdash; **Small:** [47 comments](https://github.com/flutter/flutter/pull/140947) over 5 days, 40 additions and 1 deletion in 2 files</sub>
@@ -17,6 +17,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `chip_test.dart` tests for Material 3
     <sub>[#140964](https://github.com/flutter/flutter/pull/140964) merged on January 9, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/140964) over 4 days, 1588 additions and 133 deletions in 1 file</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on iOS 16 or iOS 17
+    <sub>[#141178](https://github.com/flutter/flutter/pull/141178) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141178) over 3 hours, 3 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix spell check throws when text contains regex reserved characters
     <sub>[#140384](https://github.com/flutter/flutter/pull/140384) merged on January 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140384) over 2 weeks, 33 additions and 1 deletion in 2 files</sub>
