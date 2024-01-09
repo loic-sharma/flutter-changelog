@@ -4,7 +4,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-11 commits.
+13 commits.
 
 * **[Nishant Kumar](https://github.com/nikkivirtuoso)** &mdash; resolved the issue of indeterminate CircularProgressIndicator.adaptive on Darwin <br />
     <sub>[#140947](https://github.com/flutter/flutter/pull/140947) merged on January 9, 2024 &mdash; **Small:** [47 comments](https://github.com/flutter/flutter/pull/140947) over 5 days, 40 additions and 1 deletion in 2 files</sub><br />
@@ -18,6 +18,10 @@
     <sub>[#140964](https://github.com/flutter/flutter/pull/140964) merged on January 9, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/140964) over 4 days, 1588 additions and 133 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [ci.yaml] Do not run packaging test on presubmit<br />
+    <sub>[#141192](https://github.com/flutter/flutter/pull/141192) merged on January 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141192) over 55 minutes, 4 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on iOS 16 or iOS 17<br />
     <sub>[#141178](https://github.com/flutter/flutter/pull/141178) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141178) over 3 hours, 3 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
@@ -29,6 +33,10 @@
 * **[asci](https://github.com/asci-00)** &mdash; [docs] Add document content related to chip shape<br />
     <sub>[#140015](https://github.com/flutter/flutter/pull/140015) merged on January 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140015) over 3 weeks, 3 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.<br />
+    <sub>[#141153](https://github.com/flutter/flutter/pull/141153) merged on January 9, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/141153) over 16 hours, 211 additions and 267 deletions in 52 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove conditions that depend on order.<br />
     <sub>[#141183](https://github.com/flutter/flutter/pull/141183) merged on January 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141183) over 1 hour, 0 additions and 10 deletions in 1 file</sub><br />
