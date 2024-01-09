@@ -4,7 +4,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-7 commits.
+8 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update  Chips and `ChipTheme` tests and  for Material 3<br />
     <sub>[#141022](https://github.com/flutter/flutter/pull/141022) merged on January 9, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/141022) over 3 days, 477 additions and 131 deletions in 5 files</sub><br />
@@ -33,6 +33,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable test shuffling in widget_tester_leaks_test.dart<br />
     <sub>[#141110](https://github.com/flutter/flutter/pull/141110) merged on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141110) over 37 minutes, 7 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Android] Add custom system-wide text selection toolbar buttons for SelectableRegion<br />
+    <sub>[#141103](https://github.com/flutter/flutter/pull/141103) merged on January 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141103) over 20 hours, 142 additions and 1 deletion in 3 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 ### December 30, 2023 to January 5, 2024
 
