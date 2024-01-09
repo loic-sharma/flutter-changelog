@@ -77,6 +77,3 @@
 * **[Sulav Parajuli](https://github.com/imp-sike)** &mdash; Fix #141061: Add 'color' property to `DrawerButton` and `EndDrawerButton`<br />
     <sub>[#141159](https://github.com/flutter/flutter/pull/141159) opened on on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141159) 38 additions and 0 deletions in 2 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `RouteObserver` example and fix an error thrown<br />
-    <sub>[#141166](https://github.com/flutter/flutter/pull/141166) opened on on January 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141166) 169 additions and 52 deletions in 3 files</sub><br />
-
