@@ -4,11 +4,15 @@
 
 ### January 6, 2024 to January 12, 2024
 
-2 commits.
+3 commits.
 
 * **[asci](https://github.com/asci-00)** &mdash; [docs] Add document content related to chip shape<br />
     <sub>[#140015](https://github.com/flutter/flutter/pull/140015) merged on January 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140015) over 3 weeks, 3 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift mac Pixel 7 Pro tests to prod<br />
+    <sub>[#141142](https://github.com/flutter/flutter/pull/141142) merged on January 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141142) over 3 hours, 0 additions and 6 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable test shuffling in widget_tester_leaks_test.dart<br />
     <sub>[#141110](https://github.com/flutter/flutter/pull/141110) merged on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141110) over 37 minutes, 7 additions and 0 deletions in 1 file</sub><br />
