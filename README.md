@@ -4,7 +4,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-19 commits.
+20 commits.
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reapply "Dynamic view sizing" (#140165)<br />
     <sub>[#140918](https://github.com/flutter/flutter/pull/140918) merged on January 9, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/140918) over 6 days, 370 additions and 50 deletions in 18 files</sub><br />
@@ -33,6 +33,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on iOS 16 or iOS 17<br />
     <sub>[#141178](https://github.com/flutter/flutter/pull/141178) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141178) over 3 hours, 3 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; TextStyle: In copyWith, stop ignoring debugLabel when receiver has none<br />
+    <sub>[#141141](https://github.com/flutter/flutter/pull/141141) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141141) over 1 day, 5 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets support for Android Add2app<br />
     <sub>[#140802](https://github.com/flutter/flutter/pull/140802) merged on January 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140802) over 6 days, 53 additions and 115 deletions in 6 files</sub><br />
