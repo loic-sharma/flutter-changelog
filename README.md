@@ -4,7 +4,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-18 commits.
+19 commits.
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reapply "Dynamic view sizing" (#140165)<br />
     <sub>[#140918](https://github.com/flutter/flutter/pull/140918) merged on January 9, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/140918) over 6 days, 370 additions and 50 deletions in 18 files</sub><br />
@@ -69,6 +69,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable test shuffling in widget_tester_leaks_test.dart<br />
     <sub>[#141110](https://github.com/flutter/flutter/pull/141110) merged on January 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141110) over 37 minutes, 7 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Replace deprecated `exists` in podhelper.rb<br />
+    <sub>[#141169](https://github.com/flutter/flutter/pull/141169) merged on January 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/141169) over 9 hours, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Correctly handle null case in ProcessText.queryTextActions<br />
     <sub>[#141205](https://github.com/flutter/flutter/pull/141205) merged on January 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141205) over 46 minutes, 15 additions and 10 deletions in 1 file</sub><br />
