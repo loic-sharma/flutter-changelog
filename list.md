@@ -4,7 +4,11 @@
 
 ### January 6, 2024 to January 12, 2024
 
-8 commits.
+9 commits.
+
+* **[Nishant Kumar](https://github.com/nikkivirtuoso)** &mdash; resolved the issue of indeterminate CircularProgressIndicator.adaptive on Darwin 
+    <sub>[#140947](https://github.com/flutter/flutter/pull/140947) merged on January 9, 2024 &mdash; **Small:** [47 comments](https://github.com/flutter/flutter/pull/140947) over 5 days, 40 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update  Chips and `ChipTheme` tests and  for Material 3
     <sub>[#141022](https://github.com/flutter/flutter/pull/141022) merged on January 9, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/141022) over 3 days, 477 additions and 131 deletions in 5 files</sub>
