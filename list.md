@@ -4,7 +4,11 @@
 
 ### January 6, 2024 to January 12, 2024
 
-14 commits.
+15 commits.
+
+* **[SharbelOkzan](https://github.com/SharbelOkzan)** &mdash; Introduce new Form validation method 
+    <sub>[#135578](https://github.com/flutter/flutter/pull/135578) merged on January 9, 2024 &mdash; **Small:** [49 comments](https://github.com/flutter/flutter/pull/135578) over 3 months, 144 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Nishant Kumar](https://github.com/nikkivirtuoso)** &mdash; resolved the issue of indeterminate CircularProgressIndicator.adaptive on Darwin 
     <sub>[#140947](https://github.com/flutter/flutter/pull/140947) merged on January 9, 2024 &mdash; **Small:** [47 comments](https://github.com/flutter/flutter/pull/140947) over 5 days, 40 additions and 1 deletion in 2 files</sub>
