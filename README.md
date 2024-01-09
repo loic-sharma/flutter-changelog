@@ -276,7 +276,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-8 commits.
+9 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Enforce consistent stack size for Flutter threads<br />
     <sub>[#49111](https://github.com/flutter/engine/pull/49111) merged on January 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/49111) over 3 weeks, 129 additions and 15 deletions in 4 files</sub><br />
@@ -285,6 +285,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Shader bundle improvements: Uniform structs & member offset reflection, GLES metadata, separate from runtime stage.<br />
     <sub>[#49485](https://github.com/flutter/engine/pull/49485) merged on January 8, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/49485) over 5 days, 1240 additions and 417 deletions in 34 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Roll buildroot to pick up iOS 12<br />
+    <sub>[#49542](https://github.com/flutter/engine/pull/49542) merged on January 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/49542) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; When building clang-tidy commands, filter out the sed command that may be appended to each compile command<br />
     <sub>[#49605](https://github.com/flutter/engine/pull/49605) merged on January 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49605) over 1 hour, 15 additions and 0 deletions in 2 files</sub><br />
