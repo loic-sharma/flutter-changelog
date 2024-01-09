@@ -4,11 +4,15 @@
 
 ### January 6, 2024 to January 12, 2024
 
-3 commits.
+4 commits.
 
 * **[asci](https://github.com/asci-00)** &mdash; [docs] Add document content related to chip shape<br />
     <sub>[#140015](https://github.com/flutter/flutter/pull/140015) merged on January 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140015) over 3 weeks, 3 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets support for Android Add2app<br />
+    <sub>[#140802](https://github.com/flutter/flutter/pull/140802) merged on January 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140802) over 6 days, 53 additions and 115 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift mac Pixel 7 Pro tests to prod<br />
     <sub>[#141142](https://github.com/flutter/flutter/pull/141142) merged on January 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141142) over 3 hours, 0 additions and 6 deletions in 1 file</sub><br />
