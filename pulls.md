@@ -65,17 +65,8 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Turn on a framework test shard that will run unit tests with --enable-impeller<br />
     <sub>[#140985](https://github.com/flutter/flutter/pull/140985) opened on on January 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140985) 38 additions and 0 deletions in 2 files</sub><br />
 
-* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; TextStyle: In copyWith, stop ignoring debugLabel when receiver has none<br />
-    <sub>[#141141](https://github.com/flutter/flutter/pull/141141) opened on on January 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141141) 5 additions and 2 deletions in 2 files</sub><br />
-
 * **[Sulav Parajuli](https://github.com/imp-sike)** &mdash; Fix #141061: Add 'color' property to `DrawerButton` and `EndDrawerButton`<br />
     <sub>[#141159](https://github.com/flutter/flutter/pull/141159) opened on on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141159) 38 additions and 0 deletions in 2 files</sub><br />
-
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Run mac_x64 builds on any architecture available.<br />
-    <sub>[#141206](https://github.com/flutter/flutter/pull/141206) opened on on January 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141206) 1 addition and 2 deletions in 1 file</sub><br />
-
-* **[Paul](https://github.com/PAException)** &mdash; Added optional insert animation builder for AnimatedScrollView<br />
-    <sub>[#141210](https://github.com/flutter/flutter/pull/141210) opened on on January 9, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/141210) 544 additions and 23 deletions in 3 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Update gradle lockfiles template (another try)<br />
     <sub>[#141212](https://github.com/flutter/flutter/pull/141212) opened on on January 9, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/141212) 514 additions and 4929 deletions in 101 files</sub><br />
