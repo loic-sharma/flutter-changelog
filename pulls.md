@@ -77,3 +77,12 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Run mac_x64 builds on any architecture available.<br />
     <sub>[#141206](https://github.com/flutter/flutter/pull/141206) opened on on January 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141206) 1 addition and 2 deletions in 1 file</sub><br />
 
+* **[Paul](https://github.com/PAException)** &mdash; Added optional insert animation builder for AnimatedScrollView<br />
+    <sub>[#141210](https://github.com/flutter/flutter/pull/141210) opened on on January 9, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/141210) 544 additions and 23 deletions in 3 files</sub><br />
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Update gradle lockfiles template (another try)<br />
+    <sub>[#141212](https://github.com/flutter/flutter/pull/141212) opened on on January 9, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/141212) 514 additions and 4929 deletions in 101 files</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Catch UnsupportedError thrown when user provides an asset directory path containing invalid characters<br />
+    <sub>[#141214](https://github.com/flutter/flutter/pull/141214) opened on on January 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141214) 35 additions and 3 deletions in 2 files</sub><br />
+
