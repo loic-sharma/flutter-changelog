@@ -348,12 +348,17 @@
 
 ### January 6, 2024 to January 12, 2024
 
-18 commits.
+19 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `shell/platform/android` IDE-friendly, and add documentation<br />
     <sub>[#49612](https://github.com/flutter/engine/pull/49612) merged on January 9, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/49612) over 21 hours, 209 additions and 1 deletion in 8 files</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Reid Baker](https://github.com/reidbaker)</sub><br />
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/engine/assets/168174/97dfd46b-b617-4bb5-9144-0802d88e2864)</details></sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] made sure to scale the blur radius by the effect transform<br />
+    <sub>[#49645](https://github.com/flutter/engine/pull/49645) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49645) over 3 hours, 135 additions and 57 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+    <sub><details><summary>1 image...</summary><img width="1023" alt="Screenshot 2024-01-09 at 2 31 10 PM" src="https://github.com/flutter/engine/assets/30870216/46fc2a63-67dc-4723-b394-2b2a6958f7ba"></details></sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Enforce consistent stack size for Flutter threads<br />
     <sub>[#49111](https://github.com/flutter/engine/pull/49111) merged on January 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/49111) over 3 weeks, 129 additions and 15 deletions in 4 files</sub><br />

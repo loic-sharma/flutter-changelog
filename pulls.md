@@ -60,11 +60,14 @@
     <sub>[#140743](https://github.com/flutter/flutter/pull/140743) opened on on December 29, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/140743) 163 additions and 176 deletions in 18 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Turn on a framework test shard that will run unit tests with --enable-impeller<br />
-    <sub>[#140985](https://github.com/flutter/flutter/pull/140985) opened on on January 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140985) 38 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#140985](https://github.com/flutter/flutter/pull/140985) opened on on January 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140985) 92 additions and 2 deletions in 6 files</sub><br />
 
 * **[Sulav Parajuli](https://github.com/imp-sike)** &mdash; Fix #141061: Add 'color' property to `DrawerButton` and `EndDrawerButton`<br />
     <sub>[#141159](https://github.com/flutter/flutter/pull/141159) opened on on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141159) 38 additions and 0 deletions in 2 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Update gradle lockfiles template (another try)<br />
     <sub>[#141212](https://github.com/flutter/flutter/pull/141212) opened on on January 9, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/141212) 514 additions and 4929 deletions in 101 files</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add debug print for enabled leak tracking.<br />
+    <sub>[#141220](https://github.com/flutter/flutter/pull/141220) opened on on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141220) 3 additions and 6 deletions in 1 file</sub><br />
 
