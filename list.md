@@ -300,7 +300,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-11 commits.
+12 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Enforce consistent stack size for Flutter threads
     <sub>[#49111](https://github.com/flutter/engine/pull/49111) merged on January 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/49111) over 3 weeks, 129 additions and 15 deletions in 4 files</sub>
@@ -313,6 +313,10 @@
 * **[Jesse Seales](https://github.com/sealesj)** &mdash; Migrate to Flutter mirrors for Google-owned Github repositories
     <sub>[#49203](https://github.com/flutter/engine/pull/49203) merged on January 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49203) over 3 weeks, 5 additions and 6 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Skip flaky test on mac in http_disallow_http_connections_test.dart
+    <sub>[#49635](https://github.com/flutter/engine/pull/49635) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49635) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Roll buildroot to pick up iOS 12
     <sub>[#49542](https://github.com/flutter/engine/pull/49542) merged on January 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/49542) over 4 days, 1 addition and 1 deletion in 1 file</sub>
