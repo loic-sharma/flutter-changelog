@@ -328,7 +328,12 @@
 
 ### January 6, 2024 to January 12, 2024
 
-14 commits.
+15 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `shell/platform/android` IDE-friendly, and add documentation<br />
+    <sub>[#49612](https://github.com/flutter/engine/pull/49612) merged on January 9, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/49612) over 21 hours, 209 additions and 1 deletion in 8 files</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Reid Baker](https://github.com/reidbaker)</sub><br />
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/engine/assets/168174/97dfd46b-b617-4bb5-9144-0802d88e2864)</details></sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Enforce consistent stack size for Flutter threads<br />
     <sub>[#49111](https://github.com/flutter/engine/pull/49111) merged on January 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/49111) over 3 weeks, 129 additions and 15 deletions in 4 files</sub><br />
