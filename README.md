@@ -4,7 +4,11 @@
 
 ### January 6, 2024 to January 12, 2024
 
-6 commits.
+7 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update  Chips and `ChipTheme` tests and  for Material 3<br />
+    <sub>[#141022](https://github.com/flutter/flutter/pull/141022) merged on January 9, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/141022) over 3 days, 477 additions and 131 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `chip_test.dart` tests for Material 3<br />
     <sub>[#140964](https://github.com/flutter/flutter/pull/140964) merged on January 9, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/140964) over 4 days, 1588 additions and 133 deletions in 1 file</sub><br />
