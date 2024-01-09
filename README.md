@@ -344,7 +344,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-15 commits.
+17 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `shell/platform/android` IDE-friendly, and add documentation<br />
     <sub>[#49612](https://github.com/flutter/engine/pull/49612) merged on January 9, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/49612) over 21 hours, 209 additions and 1 deletion in 8 files</sub><br />
@@ -359,9 +359,17 @@
     <sub>[#49485](https://github.com/flutter/engine/pull/49485) merged on January 8, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/49485) over 5 days, 1240 additions and 417 deletions in 34 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix macOS text composing<br />
+    <sub>[#49314](https://github.com/flutter/engine/pull/49314) merged on January 9, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/49314) over 2 weeks, 54 additions and 39 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
 * **[Jesse Seales](https://github.com/sealesj)** &mdash; Migrate to Flutter mirrors for Google-owned Github repositories<br />
     <sub>[#49203](https://github.com/flutter/engine/pull/49203) merged on January 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49203) over 3 weeks, 5 additions and 6 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Refactors RBE support<br />
+    <sub>[#49416](https://github.com/flutter/engine/pull/49416) merged on January 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49416) over 1 week, 135 additions and 25 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Skip flaky test on mac in http_disallow_http_connections_test.dart<br />
     <sub>[#49635](https://github.com/flutter/engine/pull/49635) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49635) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />

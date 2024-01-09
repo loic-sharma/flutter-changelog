@@ -62,9 +62,6 @@
 * **[Casey Rogers](https://github.com/caseycrogers)** &mdash; [WIP] removed generic from page and descendants<br />
     <sub>[#140743](https://github.com/flutter/flutter/pull/140743) opened on on December 29, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/140743) 163 additions and 176 deletions in 18 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Set template and migrate apps to iOS 12 minimum<br />
-    <sub>[#140921](https://github.com/flutter/flutter/pull/140921) opened on on January 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/140921) 211 additions and 199 deletions in 92 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Turn on a framework test shard that will run unit tests with --enable-impeller<br />
     <sub>[#140985](https://github.com/flutter/flutter/pull/140985) opened on on January 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140985) 38 additions and 0 deletions in 2 files</sub><br />
 
