@@ -66,7 +66,7 @@
     <sub>[#141159](https://github.com/flutter/flutter/pull/141159) opened on on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141159) 38 additions and 0 deletions in 2 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; [deep link]  Update a gradle task to add flag check and intent filter check to the AppLinkSettings<br />
-    <sub>[#141231](https://github.com/flutter/flutter/pull/141231) opened on on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141231) 38 additions and 4 deletions in 2 files</sub><br />
+    <sub>[#141231](https://github.com/flutter/flutter/pull/141231) opened on on January 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141231) 137 additions and 12 deletions in 2 files</sub><br />
 
 * **[Muhammad Afiq](https://github.com/blackzafiqz)** &mdash; Upgrade flutter_localizations dependency(intl)<br />
     <sub>[#141265](https://github.com/flutter/flutter/pull/141265) opened on on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141265) 1 addition and 1 deletion in 1 file</sub><br />
