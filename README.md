@@ -372,7 +372,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-24 commits.
+25 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Refactor flutter.js to do dart2wasm bootstrapping and CanvasKit/Skwasm preloading.<br />
     <sub>[#49037](https://github.com/flutter/engine/pull/49037) merged on January 10, 2024 &mdash; **Extra large:** [55 comments](https://github.com/flutter/engine/pull/49037) over 3 weeks, 1413 additions and 772 deletions in 33 files</sub><br />
@@ -395,6 +395,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Enforce consistent stack size for Flutter threads<br />
     <sub>[#49111](https://github.com/flutter/engine/pull/49111) merged on January 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/49111) over 3 weeks, 129 additions and 15 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] have Hostbuffer write directly to block allocated device buffers."<br />
+    <sub>[#49688](https://github.com/flutter/engine/pull/49688) merged on January 10, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/49688) over 1 minute, 469 additions and 678 deletions in 102 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Shader bundle improvements: Uniform structs & member offset reflection, GLES metadata, separate from runtime stage.<br />
     <sub>[#49485](https://github.com/flutter/engine/pull/49485) merged on January 8, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/49485) over 5 days, 1240 additions and 417 deletions in 34 files</sub><br />
