@@ -4,7 +4,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-22 commits.
+23 commits.
 
 * **[Igor Hnízdo](https://github.com/Michal-MK)** &mdash; `NestedScrollView`'s outer scrollable jumping with `BouncingScrollPhysics` due to `double` precision errors<br />
     <sub>[#138319](https://github.com/flutter/flutter/pull/138319) merged on January 10, 2024 &mdash; **Small:** [38 comments](https://github.com/flutter/flutter/pull/138319) over 1 month, 115 additions and 3 deletions in 2 files</sub><br />
@@ -81,6 +81,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable test shuffling in widget_tester_leaks_test.dart<br />
     <sub>[#141110](https://github.com/flutter/flutter/pull/141110) merged on January 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141110) over 37 minutes, 7 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Collapse pubspec.lock by default<br />
+    <sub>[#141282](https://github.com/flutter/flutter/pull/141282) merged on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141282) over 34 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [huycozy](https://github.com/huycozy)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Replace deprecated `exists` in podhelper.rb<br />
     <sub>[#141169](https://github.com/flutter/flutter/pull/141169) merged on January 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/141169) over 9 hours, 2 additions and 2 deletions in 1 file</sub><br />
