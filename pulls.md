@@ -68,6 +68,3 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Update gradle lockfiles template (another try)<br />
     <sub>[#141212](https://github.com/flutter/flutter/pull/141212) opened on on January 9, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/141212) 514 additions and 4929 deletions in 101 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix: TextField can inherit `errorStyle` from `InputDecorationTheme`.<br />
-    <sub>[#141227](https://github.com/flutter/flutter/pull/141227) opened on on January 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141227) 26 additions and 1 deletion in 2 files</sub><br />
-
