@@ -616,7 +616,12 @@
 
 ### January 6, 2024 to January 12, 2024
 
-5 commits.
+6 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [file_selector]: Bump androidx.annotation:annotation from 1.7.0 to 1.7.1 in /packages/file_selector/file_selector_android/android
+    <sub>[#5712](https://github.com/flutter/packages/pull/5712) merged on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5712) over 3 weeks, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.7.0&new-version=1.7.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump androidx.annotation:annotation from 1.7.0 to 1.7.1 in /packages/in_app_purchase/in_app_purchase_android/android
     <sub>[#5713](https://github.com/flutter/packages/pull/5713) merged on January 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5713) over 3 weeks, 6 additions and 2 deletions in 3 files</sub>
