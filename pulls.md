@@ -80,3 +80,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Increase delay for checking integration_ui_keyboard_resize test success<br />
     <sub>[#141301](https://github.com/flutter/flutter/pull/141301) opened on on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141301) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix a leak.<br />
+    <sub>[#141312](https://github.com/flutter/flutter/pull/141312) opened on on January 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141312) 29 additions and 19 deletions in 2 files</sub><br />
+
