@@ -372,7 +372,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-23 commits.
+24 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Refactor flutter.js to do dart2wasm bootstrapping and CanvasKit/Skwasm preloading.
     <sub>[#49037](https://github.com/flutter/engine/pull/49037) merged on January 10, 2024 &mdash; **Extra large:** [55 comments](https://github.com/flutter/engine/pull/49037) over 3 weeks, 1413 additions and 772 deletions in 33 files</sub>
@@ -407,6 +407,10 @@
 * **[Jesse Seales](https://github.com/sealesj)** &mdash; Migrate to Flutter mirrors for Google-owned Github repositories
     <sub>[#49203](https://github.com/flutter/engine/pull/49203) merged on January 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49203) over 3 weeks, 5 additions and 6 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Make the shaders loaded by the GLES playground consistent with other playgrounds
+    <sub>[#49684](https://github.com/flutter/engine/pull/49684) merged on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49684) over 56 minutes, 8 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Follow various best practices in `FlutterRenderer`
     <sub>[#49651](https://github.com/flutter/engine/pull/49651) merged on January 10, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/49651) over 7 hours, 49 additions and 57 deletions in 1 file</sub>
