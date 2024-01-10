@@ -62,9 +62,6 @@
 * **[Casey Rogers](https://github.com/caseycrogers)** &mdash; [WIP] removed generic from page and descendants<br />
     <sub>[#140743](https://github.com/flutter/flutter/pull/140743) opened on on December 29, 2023 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/140743) 163 additions and 176 deletions in 18 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Add impeller key to skia gold client, Turn on a framework test shard that will run unit tests with --enable-impeller<br />
-    <sub>[#140985](https://github.com/flutter/flutter/pull/140985) opened on on January 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140985) 94 additions and 2 deletions in 6 files</sub><br />
-
 * **[Sulav Parajuli](https://github.com/imp-sike)** &mdash; Fix #141061: Add 'color' property to `DrawerButton` and `EndDrawerButton`<br />
     <sub>[#141159](https://github.com/flutter/flutter/pull/141159) opened on on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141159) 38 additions and 0 deletions in 2 files</sub><br />
 
@@ -72,7 +69,7 @@
     <sub>[#141231](https://github.com/flutter/flutter/pull/141231) opened on on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141231) 28 additions and 0 deletions in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] fix flutter create -t skeleton<br />
-    <sub>[#141233](https://github.com/flutter/flutter/pull/141233) opened on on January 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141233) 36 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#141233](https://github.com/flutter/flutter/pull/141233) opened on on January 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/141233) 36 additions and 2 deletions in 2 files</sub><br />
 
 * **[Muhammad Afiq](https://github.com/blackzafiqz)** &mdash; Upgrade flutter_localizations dependency(intl)<br />
     <sub>[#141265](https://github.com/flutter/flutter/pull/141265) opened on on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141265) 1 addition and 1 deletion in 1 file</sub><br />
