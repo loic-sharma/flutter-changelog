@@ -275,7 +275,7 @@
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Pin package:vm_service<br />
-    <sub>[#140972](https://github.com/flutter/flutter/pull/140972) merged on January 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140972) over 4 hours, 3 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#140972](https://github.com/flutter/flutter/pull/140972) merged on January 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/140972) over 4 hours, 3 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Add Flutter CI status to README<br />
