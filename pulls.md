@@ -65,9 +65,6 @@
 * **[Sulav Parajuli](https://github.com/imp-sike)** &mdash; Fix #141061: Add 'color' property to `DrawerButton` and `EndDrawerButton`<br />
     <sub>[#141159](https://github.com/flutter/flutter/pull/141159) opened on on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141159) 38 additions and 0 deletions in 2 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; [Not for merge] Debug leak tracking<br />
-    <sub>[#141226](https://github.com/flutter/flutter/pull/141226) opened on on January 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141226) 22 additions and 11 deletions in 1 file</sub><br />
-
 * **[hangyu](https://github.com/hangyujin)** &mdash; [draft] update  flutter.groovy to output more settings for app links<br />
     <sub>[#141231](https://github.com/flutter/flutter/pull/141231) opened on on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141231) 28 additions and 0 deletions in 1 file</sub><br />
 
@@ -76,4 +73,7 @@
 
 * **[OutdatedGuy](https://github.com/OutdatedGuy)** &mdash; Added newline at end of `.gitignore` files<br />
     <sub>[#141270](https://github.com/flutter/flutter/pull/141270) opened on on January 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141270) 7 additions and 6 deletions in 7 files</sub><br />
+
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Change dialog font family<br />
+    <sub>[#141295](https://github.com/flutter/flutter/pull/141295) opened on on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141295) 1 addition and 1 deletion in 1 file</sub><br />
 
