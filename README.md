@@ -4,7 +4,11 @@
 
 ### January 6, 2024 to January 12, 2024
 
-20 commits.
+22 commits.
+
+* **[Igor Hnízdo](https://github.com/Michal-MK)** &mdash; `NestedScrollView`'s outer scrollable jumping with `BouncingScrollPhysics` due to `double` precision errors<br />
+    <sub>[#138319](https://github.com/flutter/flutter/pull/138319) merged on January 10, 2024 &mdash; **Small:** [38 comments](https://github.com/flutter/flutter/pull/138319) over 1 month, 115 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reapply "Dynamic view sizing" (#140165)<br />
     <sub>[#140918](https://github.com/flutter/flutter/pull/140918) merged on January 9, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/140918) over 6 days, 370 additions and 50 deletions in 18 files</sub><br />
@@ -17,6 +21,10 @@
 * **[Nishant Kumar](https://github.com/nikkivirtuoso)** &mdash; resolved the issue of indeterminate CircularProgressIndicator.adaptive on Darwin <br />
     <sub>[#140947](https://github.com/flutter/flutter/pull/140947) merged on January 9, 2024 &mdash; **Small:** [47 comments](https://github.com/flutter/flutter/pull/140947) over 5 days, 40 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix or except leaks.<br />
+    <sub>[#141081](https://github.com/flutter/flutter/pull/141081) merged on January 10, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/141081) over 2 days, 352 additions and 99 deletions in 52 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update  Chips and `ChipTheme` tests and  for Material 3<br />
     <sub>[#141022](https://github.com/flutter/flutter/pull/141022) merged on January 9, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/141022) over 3 days, 477 additions and 131 deletions in 5 files</sub><br />
@@ -348,7 +356,11 @@
 
 ### January 6, 2024 to January 12, 2024
 
-19 commits.
+20 commits.
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Refactor flutter.js to do dart2wasm bootstrapping and CanvasKit/Skwasm preloading.<br />
+    <sub>[#49037](https://github.com/flutter/engine/pull/49037) merged on January 10, 2024 &mdash; **Extra large:** [55 comments](https://github.com/flutter/engine/pull/49037) over 3 weeks, 1413 additions and 772 deletions in 33 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `shell/platform/android` IDE-friendly, and add documentation<br />
     <sub>[#49612](https://github.com/flutter/engine/pull/49612) merged on January 9, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/49612) over 21 hours, 209 additions and 1 deletion in 8 files</sub><br />
