@@ -4,7 +4,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-23 commits.
+24 commits.
 
 * **[Igor Hnízdo](https://github.com/Michal-MK)** &mdash; `NestedScrollView`'s outer scrollable jumping with `BouncingScrollPhysics` due to `double` precision errors<br />
     <sub>[#138319](https://github.com/flutter/flutter/pull/138319) merged on January 10, 2024 &mdash; **Small:** [38 comments](https://github.com/flutter/flutter/pull/138319) over 1 month, 115 additions and 3 deletions in 2 files</sub><br />
@@ -61,6 +61,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `RouteObserver` example and fix an error thrown<br />
     <sub>[#141166](https://github.com/flutter/flutter/pull/141166) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141166) over 10 hours, 169 additions and 52 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Derek Xu](https://github.com/derekxu16)** &mdash; Unpin package:vm_service<br />
+    <sub>[#141279](https://github.com/flutter/flutter/pull/141279) merged on January 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141279) over 1 hour, 0 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add environment variable to leak tracking bots.<br />
     <sub>[#141137](https://github.com/flutter/flutter/pull/141137) merged on January 9, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/141137) over 1 day, 12 additions and 0 deletions in 1 file</sub><br />
