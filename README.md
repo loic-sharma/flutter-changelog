@@ -385,7 +385,7 @@
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Jesse Seales](https://github.com/sealesj)** &mdash; Migrate to Flutter mirrors for Google-owned Github repositories<br />
-    <sub>[#49203](https://github.com/flutter/engine/pull/49203) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49203) over 3 weeks, 5 additions and 6 deletions in 1 file</sub><br />
+    <sub>[#49203](https://github.com/flutter/engine/pull/49203) merged on January 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49203) over 3 weeks, 5 additions and 6 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Follow various best practices in `FlutterRenderer`<br />
