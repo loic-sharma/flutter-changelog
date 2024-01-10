@@ -607,7 +607,7 @@
 2 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Re-land: Enable prefer_mixin and bump plugin_platform_interface to 2.1.7<br />
-    <sub>[#5841](https://github.com/flutter/packages/pull/5841) merged on January 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5841) over 9 hours, 180 additions and 81 deletions in 70 files</sub><br />
+    <sub>[#5841](https://github.com/flutter/packages/pull/5841) merged on January 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5841) over 9 hours, 180 additions and 81 deletions in 70 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Camille Simon](https://github.com/camsim99), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Exclude quick_actions from Android emulators<br />
