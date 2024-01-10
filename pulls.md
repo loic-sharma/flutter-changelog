@@ -68,9 +68,6 @@
 * **[Sulav Parajuli](https://github.com/imp-sike)** &mdash; Fix #141061: Add 'color' property to `DrawerButton` and `EndDrawerButton`<br />
     <sub>[#141159](https://github.com/flutter/flutter/pull/141159) opened on on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141159) 38 additions and 0 deletions in 2 files</sub><br />
 
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Update gradle lockfiles template (another try)<br />
-    <sub>[#141212](https://github.com/flutter/flutter/pull/141212) opened on on January 9, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/141212) 514 additions and 4929 deletions in 101 files</sub><br />
-
 * **[hangyu](https://github.com/hangyujin)** &mdash; [draft] update  flutter.groovy to output more settings for app links<br />
     <sub>[#141231](https://github.com/flutter/flutter/pull/141231) opened on on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141231) 28 additions and 0 deletions in 1 file</sub><br />
 
