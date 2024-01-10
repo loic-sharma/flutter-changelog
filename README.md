@@ -356,7 +356,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-20 commits.
+21 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Refactor flutter.js to do dart2wasm bootstrapping and CanvasKit/Skwasm preloading.<br />
     <sub>[#49037](https://github.com/flutter/engine/pull/49037) merged on January 10, 2024 &mdash; **Extra large:** [55 comments](https://github.com/flutter/engine/pull/49037) over 3 weeks, 1413 additions and 772 deletions in 33 files</sub><br />
@@ -387,6 +387,10 @@
 * **[Jesse Seales](https://github.com/sealesj)** &mdash; Migrate to Flutter mirrors for Google-owned Github repositories<br />
     <sub>[#49203](https://github.com/flutter/engine/pull/49203) merged on January 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49203) over 3 weeks, 5 additions and 6 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Follow various best practices in `FlutterRenderer`<br />
+    <sub>[#49651](https://github.com/flutter/engine/pull/49651) merged on January 10, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/49651) over 7 hours, 49 additions and 57 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Refactors RBE support<br />
     <sub>[#49416](https://github.com/flutter/engine/pull/49416) merged on January 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49416) over 1 week, 135 additions and 25 deletions in 7 files</sub><br />
