@@ -4,7 +4,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-25 commits.
+26 commits.
 
 * **[Igor Hnízdo](https://github.com/Michal-MK)** &mdash; `NestedScrollView`'s outer scrollable jumping with `BouncingScrollPhysics` due to `double` precision errors
     <sub>[#138319](https://github.com/flutter/flutter/pull/138319) merged on January 10, 2024 &mdash; **Small:** [38 comments](https://github.com/flutter/flutter/pull/138319) over 1 month, 115 additions and 3 deletions in 2 files</sub>
@@ -41,6 +41,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on iOS 16 or iOS 17
     <sub>[#141178](https://github.com/flutter/flutter/pull/141178) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141178) over 3 hours, 3 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Improve testing for leak tracking.
+    <sub>[#140553](https://github.com/flutter/flutter/pull/140553) merged on January 10, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/140553) over 2 weeks, 139 additions and 180 deletions in 3 files</sub>
+    <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; TextStyle: In copyWith, stop ignoring debugLabel when receiver has none
     <sub>[#141141](https://github.com/flutter/flutter/pull/141141) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141141) over 1 day, 5 additions and 2 deletions in 2 files</sub>
@@ -608,7 +612,12 @@
 
 ### January 6, 2024 to January 12, 2024
 
-2 commits.
+3 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [image_picker]: Bump androidx.annotation:annotation from 1.7.0 to 1.7.1 in /packages/image_picker/image_picker_android/android
+    <sub>[#5703](https://github.com/flutter/packages/pull/5703) merged on January 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5703) over 3 weeks, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.7.0&new-version=1.7.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Re-land: Enable prefer_mixin and bump plugin_platform_interface to 2.1.7
     <sub>[#5841](https://github.com/flutter/packages/pull/5841) merged on January 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5841) over 9 hours, 180 additions and 81 deletions in 70 files</sub>
