@@ -81,5 +81,5 @@
     <sub>[#141270](https://github.com/flutter/flutter/pull/141270) opened on on January 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141270) 7 additions and 6 deletions in 7 files</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Collapse pubspec.lock by default<br />
-    <sub>[#141282](https://github.com/flutter/flutter/pull/141282) opened on on January 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141282) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#141282](https://github.com/flutter/flutter/pull/141282) opened on on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141282) 1 addition and 1 deletion in 1 file</sub><br />
 
