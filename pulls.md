@@ -74,3 +74,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; [draft] update  flutter.groovy to output more settings for app links<br />
     <sub>[#141231](https://github.com/flutter/flutter/pull/141231) opened on on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141231) 28 additions and 0 deletions in 1 file</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] fix flutter create -t skeleton<br />
+    <sub>[#141233](https://github.com/flutter/flutter/pull/141233) opened on on January 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141233) 36 additions and 2 deletions in 2 files</sub><br />
+
