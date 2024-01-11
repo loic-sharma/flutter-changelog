@@ -423,7 +423,7 @@
 36 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Refactor flutter.js to do dart2wasm bootstrapping and CanvasKit/Skwasm preloading.<br />
-    <sub>[#49037](https://github.com/flutter/engine/pull/49037) merged on January 10, 2024 &mdash; **Extra large:** [55 comments](https://github.com/flutter/engine/pull/49037) over 3 weeks, 1413 additions and 772 deletions in 33 files</sub><br />
+    <sub>[#49037](https://github.com/flutter/engine/pull/49037) merged on January 10, 2024 &mdash; **Extra large:** [56 comments](https://github.com/flutter/engine/pull/49037) over 3 weeks, 1413 additions and 772 deletions in 33 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `shell/platform/android` IDE-friendly, and add documentation<br />
