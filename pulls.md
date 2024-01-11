@@ -86,3 +86,6 @@
 * **[Kohei Seino](https://github.com/kseino)** &mdash; use PDI to end the isolated scope for RLI<br />
     <sub>[#141345](https://github.com/flutter/flutter/pull/141345) opened on on January 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141345) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[xubaolin](https://github.com/xu-baolin)** &mdash; [New feature]Introduce iOS multi-touch drag behavior<br />
+    <sub>[#141355](https://github.com/flutter/flutter/pull/141355) opened on on January 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141355) 221 additions and 13 deletions in 8 files</sub><br />
+
