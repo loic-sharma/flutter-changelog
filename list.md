@@ -144,14 +144,14 @@
     <sub>[#138663](https://github.com/flutter/flutter/pull/138663) merged on January 5, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/138663) over 1 month, 753 additions and 357 deletions in 8 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
-* **[yim](https://github.com/yiiim)** &mdash; Changes the regular cursor to a floating cursor when a long press occurs.
-    <sub>[#138479](https://github.com/flutter/flutter/pull/138479) merged on January 3, 2024 &mdash; **Medium:** [60 comments](https://github.com/flutter/flutter/pull/138479) over 1 month, 311 additions and 63 deletions in 7 files</sub>
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix scrollable `TabBar` expands to full width when the divider is removed
     <sub>[#140963](https://github.com/flutter/flutter/pull/140963) merged on January 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140963) over 19 hours, 110 additions and 10 deletions in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>2 images...</summary>![Simulator Screenshot - iPhone 15 Pro - 2024-01-04 at 15 16 15](https://github.com/flutter/flutter/assets/48603081/b776e7e6-e5f0-49df-8a79-55032eaad631)![Simulator Screenshot - iPhone 15 Pro - 2024-01-04 at 15 16 23](https://github.com/flutter/flutter/assets/48603081/9ad13793-43a9-4ae8-977e-7cf84cb59bb1)</details></sub>
+
+* **[yim](https://github.com/yiiim)** &mdash; Changes the regular cursor to a floating cursor when a long press occurs.
+    <sub>[#138479](https://github.com/flutter/flutter/pull/138479) merged on January 3, 2024 &mdash; **Medium:** [60 comments](https://github.com/flutter/flutter/pull/138479) over 1 month, 311 additions and 63 deletions in 7 files</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add scrollbar for menus
     <sub>[#140941](https://github.com/flutter/flutter/pull/140941) merged on January 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140941) over 17 hours, 52 additions and 12 deletions in 3 files</sub>
