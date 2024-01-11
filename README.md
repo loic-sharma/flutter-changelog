@@ -416,7 +416,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-30 commits.
+31 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Refactor flutter.js to do dart2wasm bootstrapping and CanvasKit/Skwasm preloading.<br />
     <sub>[#49037](https://github.com/flutter/engine/pull/49037) merged on January 10, 2024 &mdash; **Extra large:** [55 comments](https://github.com/flutter/engine/pull/49037) over 3 weeks, 1413 additions and 772 deletions in 33 files</sub><br />
@@ -539,6 +539,10 @@
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 7f2523c2fa9a to e8aa66f435ae (5 revisions)<br />
     <sub>[#49604](https://github.com/flutter/engine/pull/49604) merged on January 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49604) over 2 hours, 4 additions and 4 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Jesse Seales](https://github.com/sealesj)** &mdash; Google GitHub mirrors - reland<br />
+    <sub>[#49716](https://github.com/flutter/engine/pull/49716) merged on January 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49716) over 4 hours, 6 additions and 8 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 ### December 30, 2023 to January 5, 2024
 
