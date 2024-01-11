@@ -80,9 +80,6 @@
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Make destructiveRed a CupertinoDynamicColor<br />
     <sub>[#141364](https://github.com/flutter/flutter/pull/141364) opened on on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141364) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Fixed cursor blinking during selection.<br />
-    <sub>[#141380](https://github.com/flutter/flutter/pull/141380) opened on on January 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141380) 56 additions and 1 deletion in 2 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; When Impeller is enabled for flutter tester choose correct shader target.<br />
     <sub>[#141391](https://github.com/flutter/flutter/pull/141391) opened on on January 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141391) 51 additions and 2 deletions in 2 files</sub><br />
 
