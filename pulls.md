@@ -29,9 +29,6 @@
 * **[Paul](https://github.com/PAException)** &mdash; Added hover and splash color to NavigationRailDestination<br />
     <sub>[#138453](https://github.com/flutter/flutter/pull/138453) opened on on November 15, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/138453) 81 additions and 2 deletions in 2 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Add feature guard to native assets build system target<br />
-    <sub>[#138854](https://github.com/flutter/flutter/pull/138854) opened on on November 22, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/138854) 86 additions and 26 deletions in 4 files</sub><br />
-
 * **[Fernando Rosentalski](https://github.com/talski)** &mdash; Fix InputDecorationTheme copyWith fallback<br />
     <sub>[#138914](https://github.com/flutter/flutter/pull/138914) opened on on November 22, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/138914) 1 addition and 1 deletion in 1 file</sub><br />
 
