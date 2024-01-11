@@ -4,7 +4,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-37 commits.
+38 commits.
 
 * **[Igor Hnízdo](https://github.com/Michal-MK)** &mdash; `NestedScrollView`'s outer scrollable jumping with `BouncingScrollPhysics` due to `double` precision errors<br />
     <sub>[#138319](https://github.com/flutter/flutter/pull/138319) merged on January 10, 2024 &mdash; **Small:** [38 comments](https://github.com/flutter/flutter/pull/138319) over 1 month, 115 additions and 3 deletions in 2 files</sub><br />
@@ -46,17 +46,17 @@
     <sub>[#141178](https://github.com/flutter/flutter/pull/141178) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141178) over 3 hours, 3 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Improve testing for leak tracking.<br />
-    <sub>[#140553](https://github.com/flutter/flutter/pull/140553) merged on January 10, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/140553) over 2 weeks, 139 additions and 180 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix mechanism to pass flag for leak tracking.<br />
+    <sub>[#141226](https://github.com/flutter/flutter/pull/141226) merged on January 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/141226) over 21 hours, 22 additions and 19 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; TextStyle: In copyWith, stop ignoring debugLabel when receiver has none<br />
     <sub>[#141141](https://github.com/flutter/flutter/pull/141141) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141141) over 1 day, 5 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix mechanism to pass flag for leak tracking.<br />
-    <sub>[#141226](https://github.com/flutter/flutter/pull/141226) merged on January 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/141226) over 21 hours, 22 additions and 19 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Improve testing for leak tracking.<br />
+    <sub>[#140553](https://github.com/flutter/flutter/pull/140553) merged on January 10, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/140553) over 2 weeks, 139 additions and 180 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets support for Android Add2app<br />
     <sub>[#140802](https://github.com/flutter/flutter/pull/140802) merged on January 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140802) over 6 days, 53 additions and 115 deletions in 6 files</sub><br />
@@ -98,25 +98,17 @@
     <sub>[#141312](https://github.com/flutter/flutter/pull/141312) merged on January 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141312) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift mac Pixel 7 Pro tests to prod<br />
-    <sub>[#141142](https://github.com/flutter/flutter/pull/141142) merged on January 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141142) over 3 hours, 0 additions and 6 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add covariants to reduce subclass casts in 2D APIs<br />
+    <sub>[#141318](https://github.com/flutter/flutter/pull/141318) merged on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141318) over 39 minutes, 39 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable test shuffling in widget_tester_leaks_test.dart<br />
     <sub>[#141110](https://github.com/flutter/flutter/pull/141110) merged on January 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141110) over 37 minutes, 7 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.<br />
-    <sub>[#141153](https://github.com/flutter/flutter/pull/141153) merged on January 9, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/141153) over 16 hours, 211 additions and 267 deletions in 52 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove conditions that depend on order.<br />
     <sub>[#141183](https://github.com/flutter/flutter/pull/141183) merged on January 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141183) over 1 hour, 0 additions and 10 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add covariants to reduce subclass casts in 2D APIs<br />
-    <sub>[#141318](https://github.com/flutter/flutter/pull/141318) merged on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141318) over 39 minutes, 39 additions and 2 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Call onPopInvoked when pages API is used<br />
     <sub>[#141221](https://github.com/flutter/flutter/pull/141221) merged on January 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141221) over 22 hours, 145 additions and 0 deletions in 2 files</sub><br />
@@ -130,6 +122,14 @@
     <sub>[#141137](https://github.com/flutter/flutter/pull/141137) merged on January 9, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/141137) over 1 day, 12 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.<br />
+    <sub>[#141153](https://github.com/flutter/flutter/pull/141153) merged on January 9, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/141153) over 16 hours, 211 additions and 267 deletions in 52 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift mac Pixel 7 Pro tests to prod<br />
+    <sub>[#141142](https://github.com/flutter/flutter/pull/141142) merged on January 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141142) over 3 hours, 0 additions and 6 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Correctly handle null case in ProcessText.queryTextActions<br />
     <sub>[#141205](https://github.com/flutter/flutter/pull/141205) merged on January 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141205) over 46 minutes, 15 additions and 10 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
@@ -137,6 +137,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Android] Add custom system-wide text selection toolbar buttons for SelectableRegion<br />
     <sub>[#141103](https://github.com/flutter/flutter/pull/141103) merged on January 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/141103) over 20 hours, 142 additions and 1 deletion in 3 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Run iOS staging tests with Xcode 15.2"<br />
+    <sub>[#141412](https://github.com/flutter/flutter/pull/141412) merged on January 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141412) over 43 seconds, 4 additions and 4 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run iOS staging tests with Xcode 15.2<br />
     <sub>[#141392](https://github.com/flutter/flutter/pull/141392) merged on January 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141392) over 59 minutes, 4 additions and 4 deletions in 1 file</sub><br />
@@ -416,7 +420,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-32 commits.
+33 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Refactor flutter.js to do dart2wasm bootstrapping and CanvasKit/Skwasm preloading.<br />
     <sub>[#49037](https://github.com/flutter/engine/pull/49037) merged on January 10, 2024 &mdash; **Extra large:** [55 comments](https://github.com/flutter/engine/pull/49037) over 3 weeks, 1413 additions and 772 deletions in 33 files</sub><br />
@@ -463,6 +467,10 @@
 * **[Jesse Seales](https://github.com/sealesj)** &mdash; Migrate to Flutter mirrors for Google-owned Github repositories<br />
     <sub>[#49203](https://github.com/flutter/engine/pull/49203) merged on January 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49203) over 3 weeks, 5 additions and 6 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont accidentally copy shared ptr.<br />
+    <sub>[#49731](https://github.com/flutter/engine/pull/49731) merged on January 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49731) over 1 hour, 6 additions and 7 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert Dart SDK to 3245b92a5930<br />
     <sub>[#49727](https://github.com/flutter/engine/pull/49727) merged on January 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49727) over 2 hours, 4 additions and 4 deletions in 3 files</sub><br />
