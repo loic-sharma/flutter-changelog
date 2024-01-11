@@ -83,3 +83,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Add impeller key to skia gold client, Turn on a framework test shard that will run unit tests with --enable-impeller<br />
     <sub>[#141341](https://github.com/flutter/flutter/pull/141341) opened on on January 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141341) 85 additions and 1 deletion in 5 files</sub><br />
 
+* **[Kohei Seino](https://github.com/kseino)** &mdash; use PDI to end the isolated scope for RLI<br />
+    <sub>[#141345](https://github.com/flutter/flutter/pull/141345) opened on on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141345) 1 addition and 1 deletion in 1 file</sub><br />
+
