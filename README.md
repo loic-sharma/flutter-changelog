@@ -392,7 +392,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-26 commits.
+27 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Refactor flutter.js to do dart2wasm bootstrapping and CanvasKit/Skwasm preloading.<br />
     <sub>[#49037](https://github.com/flutter/engine/pull/49037) merged on January 10, 2024 &mdash; **Extra large:** [55 comments](https://github.com/flutter/engine/pull/49037) over 3 weeks, 1413 additions and 772 deletions in 33 files</sub><br />
@@ -402,6 +402,10 @@
     <sub>[#49612](https://github.com/flutter/engine/pull/49612) merged on January 9, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/49612) over 21 hours, 209 additions and 1 deletion in 8 files</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Reid Baker](https://github.com/reidbaker)</sub><br />
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/engine/assets/168174/97dfd46b-b617-4bb5-9144-0802d88e2864)</details></sub>
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Vulkan runtime effects/fragment program API<br />
+    <sub>[#49543](https://github.com/flutter/engine/pull/49543) merged on January 11, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/engine/pull/49543) over 6 days, 602 additions and 392 deletions in 33 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] have Hostbuffer write directly to block allocated device buffers.<br />
     <sub>[#49505](https://github.com/flutter/engine/pull/49505) merged on January 10, 2024 &mdash; **Large:** [43 comments](https://github.com/flutter/engine/pull/49505) over 6 days, 678 additions and 469 deletions in 102 files</sub><br />
