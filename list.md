@@ -688,7 +688,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-8 commits.
+9 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [file_selector]: Bump androidx.annotation:annotation from 1.7.0 to 1.7.1 in /packages/file_selector/file_selector_android/android
     <sub>[#5712](https://github.com/flutter/packages/pull/5712) merged on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5712) over 3 weeks, 6 additions and 2 deletions in 3 files</sub>
@@ -713,6 +713,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Re-land: Enable prefer_mixin and bump plugin_platform_interface to 2.1.7
     <sub>[#5841](https://github.com/flutter/packages/pull/5841) merged on January 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5841) over 9 hours, 180 additions and 81 deletions in 70 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Camille Simon](https://github.com/camsim99), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Skip flaky tests in certain circumstances on Android
+    <sub>[#5872](https://github.com/flutter/packages/pull/5872) merged on January 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/5872) over 3 hours, 24 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [quick_actions_android] Close system dialogs for integration test
     <sub>[#5853](https://github.com/flutter/packages/pull/5853) merged on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5853) over 1 day, 8 additions and 4 deletions in 3 files</sub>
