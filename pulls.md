@@ -74,9 +74,6 @@
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Change dialog font family<br />
     <sub>[#141295](https://github.com/flutter/flutter/pull/141295) opened on on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141295) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Increase delay for checking integration_ui_keyboard_resize test success<br />
-    <sub>[#141301](https://github.com/flutter/flutter/pull/141301) opened on on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141301) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix analyze size on arm64<br />
     <sub>[#141317](https://github.com/flutter/flutter/pull/141317) opened on on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141317) 82 additions and 24 deletions in 3 files</sub><br />
 
@@ -88,4 +85,7 @@
 
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Make destructiveRed a CupertinoDynamicColor<br />
     <sub>[#141364](https://github.com/flutter/flutter/pull/141364) opened on on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141364) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[yim](https://github.com/yiiim)** &mdash; Fixed cursor blinking during selection.<br />
+    <sub>[#141380](https://github.com/flutter/flutter/pull/141380) opened on on January 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141380) 56 additions and 1 deletion in 2 files</sub><br />
 
