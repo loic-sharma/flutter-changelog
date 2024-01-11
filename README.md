@@ -139,7 +139,7 @@
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Run iOS staging tests with Xcode 15.2"<br />
-    <sub>[#141412](https://github.com/flutter/flutter/pull/141412) merged on January 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141412) over 43 seconds, 4 additions and 4 deletions in 1 file</sub><br />
+    <sub>[#141412](https://github.com/flutter/flutter/pull/141412) merged on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141412) over 43 seconds, 4 additions and 4 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run iOS staging tests with Xcode 15.2<br />
@@ -420,7 +420,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-35 commits.
+36 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Refactor flutter.js to do dart2wasm bootstrapping and CanvasKit/Skwasm preloading.<br />
     <sub>[#49037](https://github.com/flutter/engine/pull/49037) merged on January 10, 2024 &mdash; **Extra large:** [55 comments](https://github.com/flutter/engine/pull/49037) over 3 weeks, 1413 additions and 772 deletions in 33 files</sub><br />
@@ -456,25 +456,29 @@
     <sub>[#49480](https://github.com/flutter/engine/pull/49480) merged on January 11, 2024 &mdash; **Medium:** [34 comments](https://github.com/flutter/engine/pull/49480) over 1 week, 272 additions and 154 deletions in 15 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] have Hostbuffer write directly to block allocated device buffers."<br />
-    <sub>[#49688](https://github.com/flutter/engine/pull/49688) merged on January 10, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/49688) over 1 minute, 469 additions and 678 deletions in 102 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
-
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Shader bundle improvements: Uniform structs & member offset reflection, GLES metadata, separate from runtime stage.<br />
     <sub>[#49485](https://github.com/flutter/engine/pull/49485) merged on January 8, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/49485) over 5 days, 1240 additions and 417 deletions in 34 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix macOS text composing<br />
-    <sub>[#49314](https://github.com/flutter/engine/pull/49314) merged on January 9, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/49314) over 2 weeks, 54 additions and 39 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] have Hostbuffer write directly to block allocated device buffers."<br />
+    <sub>[#49688](https://github.com/flutter/engine/pull/49688) merged on January 10, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/49688) over 1 minute, 469 additions and 678 deletions in 102 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceTextureSurfaceProducer`<br />
+    <sub>[#49653](https://github.com/flutter/engine/pull/49653) merged on January 11, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/49653) over 1 day, 199 additions and 6 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
 * **[Jesse Seales](https://github.com/sealesj)** &mdash; Migrate to Flutter mirrors for Google-owned Github repositories<br />
     <sub>[#49203](https://github.com/flutter/engine/pull/49203) merged on January 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49203) over 3 weeks, 5 additions and 6 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert Dart SDK to 3245b92a5930<br />
-    <sub>[#49727](https://github.com/flutter/engine/pull/49727) merged on January 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49727) over 2 hours, 4 additions and 4 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix macOS text composing<br />
+    <sub>[#49314](https://github.com/flutter/engine/pull/49314) merged on January 9, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/49314) over 2 weeks, 54 additions and 39 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont accidentally copy shared ptr.<br />
+    <sub>[#49731](https://github.com/flutter/engine/pull/49731) merged on January 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49731) over 1 hour, 6 additions and 7 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Add DrawLine/DrawOval/ClipOval operations to the canvas recorder<br />
     <sub>[#49697](https://github.com/flutter/engine/pull/49697) merged on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49697) over 17 hours, 47 additions and 10 deletions in 3 files</sub><br />
@@ -508,25 +512,21 @@
     <sub>[#49605](https://github.com/flutter/engine/pull/49605) merged on January 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49605) over 1 hour, 15 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert Dart SDK to 3245b92a5930<br />
+    <sub>[#49727](https://github.com/flutter/engine/pull/49727) merged on January 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49727) over 2 hours, 4 additions and 4 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] new blur: chop off blur extremities<br />
     <sub>[#49574](https://github.com/flutter/engine/pull/49574) merged on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49574) over 2 days, 12 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont accidentally copy shared ptr.<br />
-    <sub>[#49731](https://github.com/flutter/engine/pull/49731) merged on January 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49731) over 1 hour, 6 additions and 7 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix memory leaks in some embedder unit tests that send key events<br />
-    <sub>[#49548](https://github.com/flutter/engine/pull/49548) merged on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49548) over 3 days, 86 additions and 35 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Start and end a frame in the RenderTargetCache for each rendering of an entity in the playgrounds<br />
     <sub>[#49576](https://github.com/flutter/engine/pull/49576) merged on January 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49576) over 2 days, 8 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Refactors RBE support"<br />
-    <sub>[#49654](https://github.com/flutter/engine/pull/49654) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49654) over 29 seconds, 25 additions and 135 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix memory leaks in some embedder unit tests that send key events<br />
+    <sub>[#49548](https://github.com/flutter/engine/pull/49548) merged on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49548) over 3 days, 86 additions and 35 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Track HostBuffer emplacements by offset.<br />
     <sub>[#49618](https://github.com/flutter/engine/pull/49618) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49618) over 14 hours, 95 additions and 17 deletions in 5 files</sub><br />
@@ -550,6 +550,10 @@
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Migrate to Flutter mirrors for Google-owned Github repositories"<br />
     <sub>[#49671](https://github.com/flutter/engine/pull/49671) merged on January 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49671) over 33 seconds, 6 additions and 5 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Refactors RBE support"<br />
+    <sub>[#49654](https://github.com/flutter/engine/pull/49654) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49654) over 29 seconds, 25 additions and 135 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] reland: write directly to device buffer.<br />
