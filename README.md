@@ -412,7 +412,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-29 commits.
+30 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Refactor flutter.js to do dart2wasm bootstrapping and CanvasKit/Skwasm preloading.<br />
     <sub>[#49037](https://github.com/flutter/engine/pull/49037) merged on January 10, 2024 &mdash; **Extra large:** [55 comments](https://github.com/flutter/engine/pull/49037) over 3 weeks, 1413 additions and 772 deletions in 33 files</sub><br />
@@ -435,6 +435,10 @@
     <sub>[#49645](https://github.com/flutter/engine/pull/49645) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49645) over 3 hours, 135 additions and 57 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
     <sub><details><summary>1 image...</summary><img width="1023" alt="Screenshot 2024-01-09 at 2 31 10 PM" src="https://github.com/flutter/engine/assets/30870216/46fc2a63-67dc-4723-b394-2b2a6958f7ba"></details></sub>
+
+* **[Jesse Seales](https://github.com/sealesj)** &mdash; Osv-scanner integration<br />
+    <sub>[#49470](https://github.com/flutter/engine/pull/49470) merged on January 11, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/49470) over 1 week, 271 additions and 362 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Enforce consistent stack size for Flutter threads<br />
     <sub>[#49111](https://github.com/flutter/engine/pull/49111) merged on January 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/49111) over 3 weeks, 129 additions and 15 deletions in 4 files</sub><br />
