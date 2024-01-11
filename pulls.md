@@ -80,3 +80,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix analyze size on arm64<br />
     <sub>[#141317](https://github.com/flutter/flutter/pull/141317) opened on on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141317) 82 additions and 24 deletions in 3 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Add impeller key to skia gold client, Turn on a framework test shard that will run unit tests with --enable-impeller<br />
+    <sub>[#141341](https://github.com/flutter/flutter/pull/141341) opened on on January 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141341) 85 additions and 1 deletion in 5 files</sub><br />
+
