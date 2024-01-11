@@ -4,7 +4,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-29 commits.
+31 commits.
 
 * **[Igor Hnízdo](https://github.com/Michal-MK)** &mdash; `NestedScrollView`'s outer scrollable jumping with `BouncingScrollPhysics` due to `double` precision errors<br />
     <sub>[#138319](https://github.com/flutter/flutter/pull/138319) merged on January 10, 2024 &mdash; **Small:** [38 comments](https://github.com/flutter/flutter/pull/138319) over 1 month, 115 additions and 3 deletions in 2 files</sub><br />
@@ -73,6 +73,14 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `RouteObserver` example and fix an error thrown<br />
     <sub>[#141166](https://github.com/flutter/flutter/pull/141166) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141166) over 10 hours, 169 additions and 52 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add dart fix support to flutter_driver<br />
+    <sub>[#141300](https://github.com/flutter/flutter/pull/141300) merged on January 11, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/141300) over 4 hours, 197 additions and 0 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix a leak.<br />
+    <sub>[#141312](https://github.com/flutter/flutter/pull/141312) merged on January 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141312) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add covariants to reduce subclass casts in 2D APIs<br />
     <sub>[#141318](https://github.com/flutter/flutter/pull/141318) merged on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141318) over 39 minutes, 39 additions and 2 deletions in 3 files</sub><br />
