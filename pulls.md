@@ -51,7 +51,7 @@
     <sub>[#140373](https://github.com/flutter/flutter/pull/140373) opened on on December 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140373) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; M3 - Fix Chip icon and label colors<br />
-    <sub>[#140573](https://github.com/flutter/flutter/pull/140573) opened on on December 23, 2023 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/140573) 220 additions and 37 deletions in 9 files</sub><br />
+    <sub>[#140573](https://github.com/flutter/flutter/pull/140573) opened on on December 23, 2023 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/140573) 220 additions and 37 deletions in 9 files</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#140631](https://github.com/flutter/flutter/pull/140631) opened on on December 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140631) 6 additions and 6 deletions in 3 files</sub><br />
@@ -88,4 +88,7 @@
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; [New feature]Introduce iOS multi-touch drag behavior<br />
     <sub>[#141355](https://github.com/flutter/flutter/pull/141355) opened on on January 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141355) 225 additions and 13 deletions in 8 files</sub><br />
+
+* **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Make destructiveRed a CupertinoDynamicColor<br />
+    <sub>[#141364](https://github.com/flutter/flutter/pull/141364) opened on on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141364) 1 addition and 1 deletion in 1 file</sub><br />
 
