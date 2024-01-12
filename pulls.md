@@ -83,9 +83,6 @@
 * **[maRci002](https://github.com/maRci002)** &mdash; [WIP] Predictive back support for routes<br />
     <sub>[#141373](https://github.com/flutter/flutter/pull/141373) opened on on January 11, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/141373) 527 additions and 19 deletions in 8 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; unpin web_socket_channel and roll pub packages<br />
-    <sub>[#141424](https://github.com/flutter/flutter/pull/141424) opened on on January 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141424) 119 additions and 120 deletions in 40 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Unpin test<br />
     <sub>[#141427](https://github.com/flutter/flutter/pull/141427) opened on on January 12, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/141427) 335 additions and 340 deletions in 61 files</sub><br />
 
