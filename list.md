@@ -481,7 +481,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-41 commits.
+42 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Refactor flutter.js to do dart2wasm bootstrapping and CanvasKit/Skwasm preloading.
     <sub>[#49037](https://github.com/flutter/engine/pull/49037) merged on January 10, 2024 &mdash; **Extra large:** [57 comments](https://github.com/flutter/engine/pull/49037) over 3 weeks, 1413 additions and 772 deletions in 33 files</sub>
@@ -549,6 +549,10 @@
     <sub>[#49702](https://github.com/flutter/engine/pull/49702) merged on January 12, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/49702) over 1 day, 199 additions and 262 deletions in 32 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert Dart SDK to 3245b92a5930
+    <sub>[#49727](https://github.com/flutter/engine/pull/49727) merged on January 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49727) over 2 hours, 4 additions and 4 deletions in 3 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Add DrawLine/DrawOval/ClipOval operations to the canvas recorder
     <sub>[#49697](https://github.com/flutter/engine/pull/49697) merged on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49697) over 17 hours, 47 additions and 10 deletions in 3 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
@@ -581,37 +585,25 @@
     <sub>[#49605](https://github.com/flutter/engine/pull/49605) merged on January 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49605) over 1 hour, 15 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix memory leaks in some embedder unit tests that send key events
+    <sub>[#49548](https://github.com/flutter/engine/pull/49548) merged on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49548) over 3 days, 86 additions and 35 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Start and end a frame in the RenderTargetCache for each rendering of an entity in the playgrounds
     <sub>[#49576](https://github.com/flutter/engine/pull/49576) merged on January 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49576) over 2 days, 8 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] new blur: chop off blur extremities
-    <sub>[#49574](https://github.com/flutter/engine/pull/49574) merged on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49574) over 2 days, 12 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert Dart SDK to 3245b92a5930
-    <sub>[#49727](https://github.com/flutter/engine/pull/49727) merged on January 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49727) over 2 hours, 4 additions and 4 deletions in 3 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont accidentally copy shared ptr.
     <sub>[#49731](https://github.com/flutter/engine/pull/49731) merged on January 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49731) over 1 hour, 6 additions and 7 deletions in 3 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix memory leaks in some embedder unit tests that send key events
-    <sub>[#49548](https://github.com/flutter/engine/pull/49548) merged on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49548) over 3 days, 86 additions and 35 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
-* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Simplify PlatformViewRenderTarget interface
-    <sub>[#49639](https://github.com/flutter/engine/pull/49639) merged on January 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49639) over 51 minutes, 21 additions and 92 deletions in 8 files</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] new blur: chop off blur extremities
+    <sub>[#49574](https://github.com/flutter/engine/pull/49574) merged on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49574) over 2 days, 12 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Resize the RenderTarget before creating and passing its Surface to the VirtualDisplay
     <sub>[#49619](https://github.com/flutter/engine/pull/49619) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49619) over 12 hours, 6 additions and 57 deletions in 2 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Document mip bias.
-    <sub>[#49602](https://github.com/flutter/engine/pull/49602) merged on January 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49602) over 3 hours, 7 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Remove `gclient_variables` from `linux_license.json`
     <sub>[#49766](https://github.com/flutter/engine/pull/49766) merged on January 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49766) over 1 hour, 0 additions and 3 deletions in 1 file</sub>
@@ -625,6 +617,10 @@
     <sub>[#49722](https://github.com/flutter/engine/pull/49722) merged on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49722) over 4 hours, 38 additions and 38 deletions in 7 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Document mip bias.
+    <sub>[#49602](https://github.com/flutter/engine/pull/49602) merged on January 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49602) over 3 hours, 7 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Migrate to Flutter mirrors for Google-owned Github repositories"
     <sub>[#49671](https://github.com/flutter/engine/pull/49671) merged on January 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49671) over 33 seconds, 6 additions and 5 deletions in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
@@ -637,6 +633,10 @@
     <sub>[#49618](https://github.com/flutter/engine/pull/49618) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49618) over 14 hours, 95 additions and 17 deletions in 5 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Simplify PlatformViewRenderTarget interface
+    <sub>[#49639](https://github.com/flutter/engine/pull/49639) merged on January 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49639) over 51 minutes, 21 additions and 92 deletions in 8 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] reland: write directly to device buffer.
     <sub>[#49691](https://github.com/flutter/engine/pull/49691) merged on January 10, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/49691) over 42 minutes, 685 additions and 481 deletions in 102 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
@@ -644,6 +644,10 @@
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 7f2523c2fa9a to e8aa66f435ae (5 revisions)
     <sub>[#49604](https://github.com/flutter/engine/pull/49604) merged on January 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49604) over 2 hours, 4 additions and 4 deletions in 3 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Relands: Refactors RBE support
+    <sub>[#49660](https://github.com/flutter/engine/pull/49660) merged on January 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49660) over 2 days, 135 additions and 25 deletions in 7 files</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Jesse Seales](https://github.com/sealesj)** &mdash; Google GitHub mirrors - reland
     <sub>[#49716](https://github.com/flutter/engine/pull/49716) merged on January 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49716) over 4 hours, 6 additions and 8 deletions in 1 file</sub>
