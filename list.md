@@ -777,7 +777,11 @@
 
 ### January 6, 2024 to January 12, 2024
 
-11 commits.
+12 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Drop iOS 11 support
+    <sub>[#5873](https://github.com/flutter/packages/pull/5873) merged on January 12, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/5873) over 22 hours, 319 additions and 1582 deletions in 67 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Add iOS privacy manifests
     <sub>[#5846](https://github.com/flutter/packages/pull/5846) merged on January 12, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/packages/pull/5846) over 3 days, 380 additions and 21 deletions in 62 files</sub>
