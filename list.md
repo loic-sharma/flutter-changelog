@@ -737,7 +737,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-10 commits.
+11 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Add iOS privacy manifests
     <sub>[#5846](https://github.com/flutter/packages/pull/5846) merged on January 12, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/packages/pull/5846) over 3 days, 380 additions and 21 deletions in 62 files</sub>
@@ -762,6 +762,10 @@
     <sub>[#5703](https://github.com/flutter/packages/pull/5703) merged on January 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5703) over 3 weeks, 6 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.7.0&new-version=1.7.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Check repo-level package metadata
+    <sub>[#5811](https://github.com/flutter/packages/pull/5811) merged on January 12, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/5811) over 6 days, 690 additions and 44 deletions in 7 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Re-land: Enable prefer_mixin and bump plugin_platform_interface to 2.1.7
     <sub>[#5841](https://github.com/flutter/packages/pull/5841) merged on January 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5841) over 9 hours, 180 additions and 81 deletions in 70 files</sub>
