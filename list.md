@@ -477,7 +477,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-39 commits.
+40 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Refactor flutter.js to do dart2wasm bootstrapping and CanvasKit/Skwasm preloading.
     <sub>[#49037](https://github.com/flutter/engine/pull/49037) merged on January 10, 2024 &mdash; **Extra large:** [57 comments](https://github.com/flutter/engine/pull/49037) over 3 weeks, 1413 additions and 772 deletions in 33 files</sub>
@@ -529,17 +529,21 @@
     <sub>[#49653](https://github.com/flutter/engine/pull/49653) merged on January 11, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/49653) over 1 day, 199 additions and 6 deletions in 6 files</sub>
     <sub>Reviewed by: [Jim Graham](https://github.com/flar), [John McCutchan](https://github.com/johnmccutchan)</sub>
 
-* **[Jesse Seales](https://github.com/sealesj)** &mdash; Migrate to Flutter mirrors for Google-owned Github repositories
-    <sub>[#49203](https://github.com/flutter/engine/pull/49203) merged on January 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49203) over 3 weeks, 5 additions and 6 deletions in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix macOS text composing
     <sub>[#49314](https://github.com/flutter/engine/pull/49314) merged on January 9, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/49314) over 2 weeks, 54 additions and 39 deletions in 6 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont accidentally copy shared ptr.
-    <sub>[#49731](https://github.com/flutter/engine/pull/49731) merged on January 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49731) over 1 hour, 6 additions and 7 deletions in 3 files</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Jesse Seales](https://github.com/sealesj)** &mdash; Migrate to Flutter mirrors for Google-owned Github repositories
+    <sub>[#49203](https://github.com/flutter/engine/pull/49203) merged on January 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49203) over 3 weeks, 5 additions and 6 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove Buffer type and associated abstractions.
+    <sub>[#49702](https://github.com/flutter/engine/pull/49702) merged on January 12, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/49702) over 1 day, 199 additions and 262 deletions in 32 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Add DrawLine/DrawOval/ClipOval operations to the canvas recorder
+    <sub>[#49697](https://github.com/flutter/engine/pull/49697) merged on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49697) over 17 hours, 47 additions and 10 deletions in 3 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Try to get GLES tests running...
     <sub>[#49701](https://github.com/flutter/engine/pull/49701) merged on January 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49701) over 14 hours, 19 additions and 10 deletions in 7 files</sub>
@@ -577,17 +581,17 @@
     <sub>[#49576](https://github.com/flutter/engine/pull/49576) merged on January 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49576) over 2 days, 8 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] new blur: chop off blur extremities
-    <sub>[#49574](https://github.com/flutter/engine/pull/49574) merged on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49574) over 2 days, 12 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert Dart SDK to 3245b92a5930
     <sub>[#49727](https://github.com/flutter/engine/pull/49727) merged on January 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49727) over 2 hours, 4 additions and 4 deletions in 3 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Add DrawLine/DrawOval/ClipOval operations to the canvas recorder
-    <sub>[#49697](https://github.com/flutter/engine/pull/49697) merged on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49697) over 17 hours, 47 additions and 10 deletions in 3 files</sub>
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont accidentally copy shared ptr.
+    <sub>[#49731](https://github.com/flutter/engine/pull/49731) merged on January 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49731) over 1 hour, 6 additions and 7 deletions in 3 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] new blur: chop off blur extremities
+    <sub>[#49574](https://github.com/flutter/engine/pull/49574) merged on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49574) over 2 days, 12 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Simplify PlatformViewRenderTarget interface
     <sub>[#49639](https://github.com/flutter/engine/pull/49639) merged on January 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49639) over 51 minutes, 21 additions and 92 deletions in 8 files</sub>
