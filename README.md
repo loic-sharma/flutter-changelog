@@ -4,7 +4,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-49 commits.
+50 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add support for Gradle Kotlin DSL<br />
     <sub>[#140744](https://github.com/flutter/flutter/pull/140744) merged on January 12, 2024 &mdash; **Medium:** [58 comments](https://github.com/flutter/flutter/pull/140744) over 1 week, 362 additions and 66 deletions in 9 files</sub><br />
@@ -63,17 +63,17 @@
     <sub>[#140553](https://github.com/flutter/flutter/pull/140553) merged on January 10, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/140553) over 2 weeks, 139 additions and 180 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
 
-* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; TextStyle: In copyWith, stop ignoring debugLabel when receiver has none<br />
-    <sub>[#141141](https://github.com/flutter/flutter/pull/141141) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141141) over 1 day, 5 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix mechanism to pass flag for leak tracking.<br />
+    <sub>[#141226](https://github.com/flutter/flutter/pull/141226) merged on January 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/141226) over 21 hours, 22 additions and 19 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove hack from PageView.<br />
     <sub>[#141138](https://github.com/flutter/flutter/pull/141138) merged on January 12, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/141138) over 3 days, 134 additions and 41 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix mechanism to pass flag for leak tracking.<br />
-    <sub>[#141226](https://github.com/flutter/flutter/pull/141226) merged on January 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/141226) over 21 hours, 22 additions and 19 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
+* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; TextStyle: In copyWith, stop ignoring debugLabel when receiver has none<br />
+    <sub>[#141141](https://github.com/flutter/flutter/pull/141141) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141141) over 1 day, 5 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets support for Android Add2app<br />
     <sub>[#140802](https://github.com/flutter/flutter/pull/140802) merged on January 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140802) over 6 days, 53 additions and 115 deletions in 6 files</sub><br />
@@ -91,21 +91,17 @@
     <sub>[#141372](https://github.com/flutter/flutter/pull/141372) merged on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141372) over 4 hours, 26 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `RouteObserver` example and fix an error thrown<br />
-    <sub>[#141166](https://github.com/flutter/flutter/pull/141166) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141166) over 10 hours, 169 additions and 52 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] fix flutter create -t skeleton<br />
     <sub>[#141233](https://github.com/flutter/flutter/pull/141233) merged on January 10, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/141233) over 16 hours, 36 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak)</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `RouteObserver` example and fix an error thrown<br />
+    <sub>[#141166](https://github.com/flutter/flutter/pull/141166) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141166) over 10 hours, 169 additions and 52 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Expose versionCode and versionName from local.properties in FlutterExtension<br />
     <sub>[#141417](https://github.com/flutter/flutter/pull/141417) merged on January 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141417) over 19 hours, 54 additions and 33 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; When Impeller is enabled for flutter tester choose correct shader target.<br />
-    <sub>[#141391](https://github.com/flutter/flutter/pull/141391) merged on January 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/141391) over 23 hours, 88 additions and 23 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Add impeller key to skia gold client, Turn on a framework test shard that will run unit tests with --enable-impeller<br />
     <sub>[#141341](https://github.com/flutter/flutter/pull/141341) merged on January 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141341) over 14 hours, 85 additions and 1 deletion in 5 files</sub><br />
@@ -131,29 +127,37 @@
     <sub>[#141221](https://github.com/flutter/flutter/pull/141221) merged on January 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141221) over 22 hours, 145 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift mac Pixel 7 Pro tests to prod<br />
-    <sub>[#141142](https://github.com/flutter/flutter/pull/141142) merged on January 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141142) over 3 hours, 0 additions and 6 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+* **[Derek Xu](https://github.com/derekxu16)** &mdash; Unpin package:vm_service<br />
+    <sub>[#141279](https://github.com/flutter/flutter/pull/141279) merged on January 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141279) over 1 hour, 0 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add environment variable to leak tracking bots.<br />
+    <sub>[#141137](https://github.com/flutter/flutter/pull/141137) merged on January 9, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/141137) over 1 day, 12 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable test shuffling in widget_tester_leaks_test.dart<br />
     <sub>[#141110](https://github.com/flutter/flutter/pull/141110) merged on January 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141110) over 37 minutes, 7 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove conditions that depend on order.<br />
-    <sub>[#141183](https://github.com/flutter/flutter/pull/141183) merged on January 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141183) over 1 hour, 0 additions and 10 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[Derek Xu](https://github.com/derekxu16)** &mdash; Unpin package:vm_service<br />
-    <sub>[#141279](https://github.com/flutter/flutter/pull/141279) merged on January 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141279) over 1 hour, 0 additions and 3 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.<br />
     <sub>[#141153](https://github.com/flutter/flutter/pull/141153) merged on January 9, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/141153) over 16 hours, 211 additions and 267 deletions in 52 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add environment variable to leak tracking bots.<br />
-    <sub>[#141137](https://github.com/flutter/flutter/pull/141137) merged on January 9, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/141137) over 1 day, 12 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; When Impeller is enabled for flutter tester choose correct shader target.<br />
+    <sub>[#141391](https://github.com/flutter/flutter/pull/141391) merged on January 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/141391) over 23 hours, 88 additions and 23 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove conditions that depend on order.<br />
+    <sub>[#141183](https://github.com/flutter/flutter/pull/141183) merged on January 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141183) over 1 hour, 0 additions and 10 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift mac Pixel 7 Pro tests to prod<br />
+    <sub>[#141142](https://github.com/flutter/flutter/pull/141142) merged on January 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141142) over 3 hours, 0 additions and 6 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Run iOS staging tests with Xcode 15.2"<br />
+    <sub>[#141412](https://github.com/flutter/flutter/pull/141412) merged on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141412) over 43 seconds, 4 additions and 4 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run iOS staging tests with Xcode 15.2<br />
     <sub>[#141392](https://github.com/flutter/flutter/pull/141392) merged on January 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141392) over 59 minutes, 4 additions and 4 deletions in 1 file</sub><br />
@@ -179,6 +183,10 @@
     <sub>[#141205](https://github.com/flutter/flutter/pull/141205) merged on January 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141205) over 46 minutes, 15 additions and 10 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
+* **[hangyu](https://github.com/hangyujin)** &mdash; [deep link]  Update a gradle task to add flag check and intent filter check to the AppLinkSettings<br />
+    <sub>[#141231](https://github.com/flutter/flutter/pull/141231) merged on January 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/141231) over 2 days, 137 additions and 12 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
+
 * **[William Hesse](https://github.com/whesse)** &mdash; Do not reset framework checkout before running customer tests<br />
     <sub>[#141013](https://github.com/flutter/flutter/pull/141013) merged on January 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/141013) over 1 week, 3 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub><br />
@@ -194,10 +202,6 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Fix typo<br />
     <sub>[#141426](https://github.com/flutter/flutter/pull/141426) merged on January 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141426) over 8 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
-
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Run iOS staging tests with Xcode 15.2"<br />
-    <sub>[#141412](https://github.com/flutter/flutter/pull/141412) merged on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141412) over 43 seconds, 4 additions and 4 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Revert "Reverts "Run iOS staging tests with Xcode 15.2""<br />
     <sub>[#141420](https://github.com/flutter/flutter/pull/141420) merged on January 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141420) over 15 hours, 4 additions and 4 deletions in 1 file</sub><br />
