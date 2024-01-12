@@ -453,7 +453,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-36 commits.
+37 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Refactor flutter.js to do dart2wasm bootstrapping and CanvasKit/Skwasm preloading.
     <sub>[#49037](https://github.com/flutter/engine/pull/49037) merged on January 10, 2024 &mdash; **Extra large:** [57 comments](https://github.com/flutter/engine/pull/49037) over 3 weeks, 1413 additions and 772 deletions in 33 files</sub>
@@ -493,6 +493,10 @@
     <sub>[#49485](https://github.com/flutter/engine/pull/49485) merged on January 8, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/49485) over 5 days, 1240 additions and 417 deletions in 34 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Use chromium test-scripts to download images and execute tests
+    <sub>[#49650](https://github.com/flutter/engine/pull/49650) merged on January 12, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/engine/pull/49650) over 2 days, 157 additions and 4 deletions in 8 files</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Ricardo Amador](https://github.com/ricardoamador), [keyonghan](https://github.com/keyonghan)</sub>
+
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] have Hostbuffer write directly to block allocated device buffers."
     <sub>[#49688](https://github.com/flutter/engine/pull/49688) merged on January 10, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/49688) over 1 minute, 469 additions and 678 deletions in 102 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
@@ -501,13 +505,13 @@
     <sub>[#49653](https://github.com/flutter/engine/pull/49653) merged on January 11, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/49653) over 1 day, 199 additions and 6 deletions in 6 files</sub>
     <sub>Reviewed by: [Jim Graham](https://github.com/flar), [John McCutchan](https://github.com/johnmccutchan)</sub>
 
-* **[Jesse Seales](https://github.com/sealesj)** &mdash; Migrate to Flutter mirrors for Google-owned Github repositories
-    <sub>[#49203](https://github.com/flutter/engine/pull/49203) merged on January 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49203) over 3 weeks, 5 additions and 6 deletions in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix macOS text composing
     <sub>[#49314](https://github.com/flutter/engine/pull/49314) merged on January 9, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/49314) over 2 weeks, 54 additions and 39 deletions in 6 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Jesse Seales](https://github.com/sealesj)** &mdash; Migrate to Flutter mirrors for Google-owned Github repositories
+    <sub>[#49203](https://github.com/flutter/engine/pull/49203) merged on January 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49203) over 3 weeks, 5 additions and 6 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont accidentally copy shared ptr.
     <sub>[#49731](https://github.com/flutter/engine/pull/49731) merged on January 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49731) over 1 hour, 6 additions and 7 deletions in 3 files</sub>
@@ -541,9 +545,9 @@
     <sub>[#49542](https://github.com/flutter/engine/pull/49542) merged on January 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/49542) over 4 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; When building clang-tidy commands, filter out the sed command that may be appended to each compile command
-    <sub>[#49605](https://github.com/flutter/engine/pull/49605) merged on January 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49605) over 1 hour, 15 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Start and end a frame in the RenderTargetCache for each rendering of an entity in the playgrounds
+    <sub>[#49576](https://github.com/flutter/engine/pull/49576) merged on January 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49576) over 2 days, 8 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert Dart SDK to 3245b92a5930
     <sub>[#49727](https://github.com/flutter/engine/pull/49727) merged on January 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49727) over 2 hours, 4 additions and 4 deletions in 3 files</sub>
@@ -553,17 +557,13 @@
     <sub>[#49574](https://github.com/flutter/engine/pull/49574) merged on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49574) over 2 days, 12 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Start and end a frame in the RenderTargetCache for each rendering of an entity in the playgrounds
-    <sub>[#49576](https://github.com/flutter/engine/pull/49576) merged on January 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49576) over 2 days, 8 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix memory leaks in some embedder unit tests that send key events
     <sub>[#49548](https://github.com/flutter/engine/pull/49548) merged on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49548) over 3 days, 86 additions and 35 deletions in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Track HostBuffer emplacements by offset.
-    <sub>[#49618](https://github.com/flutter/engine/pull/49618) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49618) over 14 hours, 95 additions and 17 deletions in 5 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; When building clang-tidy commands, filter out the sed command that may be appended to each compile command
+    <sub>[#49605](https://github.com/flutter/engine/pull/49605) merged on January 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49605) over 1 hour, 15 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Simplify PlatformViewRenderTarget interface
     <sub>[#49639](https://github.com/flutter/engine/pull/49639) merged on January 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49639) over 51 minutes, 21 additions and 92 deletions in 8 files</sub>
@@ -588,6 +588,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Refactors RBE support"
     <sub>[#49654](https://github.com/flutter/engine/pull/49654) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49654) over 29 seconds, 25 additions and 135 deletions in 7 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Track HostBuffer emplacements by offset.
+    <sub>[#49618](https://github.com/flutter/engine/pull/49618) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49618) over 14 hours, 95 additions and 17 deletions in 5 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] reland: write directly to device buffer.
     <sub>[#49691](https://github.com/flutter/engine/pull/49691) merged on January 10, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/49691) over 42 minutes, 685 additions and 481 deletions in 102 files</sub>
