@@ -95,6 +95,3 @@
 * **[Jo Jaeyong](https://github.com/jaeyoi)** &mdash; Support wireless debugging for iOS 12 or earlier<br />
     <sub>[#141439](https://github.com/flutter/flutter/pull/141439) opened on on January 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141439) 59 additions and 2 deletions in 3 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add Share button to the SelectableRegion toolbar on Android and iOS<br />
-    <sub>[#141447](https://github.com/flutter/flutter/pull/141447) opened on on January 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141447) 216 additions and 55 deletions in 4 files</sub><br />
-
