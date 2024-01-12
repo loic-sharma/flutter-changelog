@@ -80,6 +80,9 @@
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Make destructiveRed a CupertinoDynamicColor<br />
     <sub>[#141364](https://github.com/flutter/flutter/pull/141364) opened on on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141364) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[maRci002](https://github.com/maRci002)** &mdash; [WIP] Predictive back support for routes<br />
+    <sub>[#141373](https://github.com/flutter/flutter/pull/141373) opened on on January 11, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/141373) 527 additions and 19 deletions in 8 files</sub><br />
+
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; unpin web_socket_channel and roll pub packages<br />
     <sub>[#141424](https://github.com/flutter/flutter/pull/141424) opened on on January 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141424) 119 additions and 120 deletions in 40 files</sub><br />
 
