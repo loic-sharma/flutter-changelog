@@ -501,7 +501,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller]: new blur - adds mips for backdrop filters
-    <sub>[#49607](https://github.com/flutter/engine/pull/49607) merged on January 12, 2024 &mdash; **Medium:** [46 comments](https://github.com/flutter/engine/pull/49607) over 4 days, 335 additions and 42 deletions in 28 files</sub>
+    <sub>[#49607](https://github.com/flutter/engine/pull/49607) merged on January 12, 2024 &mdash; **Medium:** [48 comments](https://github.com/flutter/engine/pull/49607) over 4 days, 335 additions and 42 deletions in 28 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] have Hostbuffer write directly to block allocated device buffers.
