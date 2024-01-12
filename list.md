@@ -494,7 +494,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Use chromium test-scripts to download images and execute tests
-    <sub>[#49650](https://github.com/flutter/engine/pull/49650) merged on January 12, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/engine/pull/49650) over 2 days, 157 additions and 4 deletions in 8 files</sub>
+    <sub>[#49650](https://github.com/flutter/engine/pull/49650) merged on January 12, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/engine/pull/49650) over 2 days, 157 additions and 4 deletions in 8 files</sub>
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Ricardo Amador](https://github.com/ricardoamador), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] have Hostbuffer write directly to block allocated device buffers."
