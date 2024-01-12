@@ -500,13 +500,13 @@
     <sub>[#49543](https://github.com/flutter/engine/pull/49543) merged on January 11, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/engine/pull/49543) over 6 days, 602 additions and 392 deletions in 33 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller]: new blur - adds mips for backdrop filters<br />
+    <sub>[#49607](https://github.com/flutter/engine/pull/49607) merged on January 12, 2024 &mdash; **Medium:** [41 comments](https://github.com/flutter/engine/pull/49607) over 4 days, 335 additions and 42 deletions in 28 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] have Hostbuffer write directly to block allocated device buffers.<br />
     <sub>[#49505](https://github.com/flutter/engine/pull/49505) merged on January 10, 2024 &mdash; **Large:** [43 comments](https://github.com/flutter/engine/pull/49505) over 6 days, 678 additions and 469 deletions in 102 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller]: new blur - adds mips for backdrop filters<br />
-    <sub>[#49607](https://github.com/flutter/engine/pull/49607) merged on January 12, 2024 &mdash; **Medium:** [40 comments](https://github.com/flutter/engine/pull/49607) over 4 days, 335 additions and 42 deletions in 28 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] made sure to scale the blur radius by the effect transform<br />
     <sub>[#49645](https://github.com/flutter/engine/pull/49645) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49645) over 3 hours, 135 additions and 57 deletions in 3 files</sub><br />
