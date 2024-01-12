@@ -95,3 +95,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add Share button to the SelectableRegion toolbar on Android and iOS<br />
     <sub>[#141447](https://github.com/flutter/flutter/pull/141447) opened on on January 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141447) 216 additions and 55 deletions in 4 files</sub><br />
 
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; FlutterExtension: make fields non-static<br />
+    <sub>[#141463](https://github.com/flutter/flutter/pull/141463) opened on on January 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141463) 4 additions and 4 deletions in 1 file</sub><br />
+
