@@ -518,8 +518,8 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Use chromium test-scripts to download images and execute tests<br />
-    <sub>[#49650](https://github.com/flutter/engine/pull/49650) merged on January 12, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/engine/pull/49650) over 2 days, 157 additions and 4 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Ricardo Amador](https://github.com/ricardoamador), [keyonghan](https://github.com/keyonghan)</sub><br />
+    <sub>[#49650](https://github.com/flutter/engine/pull/49650) merged on January 12, 2024 &mdash; **Small:** [37 comments](https://github.com/flutter/engine/pull/49650) over 2 days, 157 additions and 4 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Zachary Anderson](https://github.com/zanderso), [Ricardo Amador](https://github.com/ricardoamador), [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] have Hostbuffer write directly to block allocated device buffers."<br />
     <sub>[#49688](https://github.com/flutter/engine/pull/49688) merged on January 10, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/49688) over 1 minute, 469 additions and 678 deletions in 102 files</sub><br />
