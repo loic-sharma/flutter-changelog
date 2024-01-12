@@ -477,7 +477,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-40 commits.
+41 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Refactor flutter.js to do dart2wasm bootstrapping and CanvasKit/Skwasm preloading.
     <sub>[#49037](https://github.com/flutter/engine/pull/49037) merged on January 10, 2024 &mdash; **Extra large:** [57 comments](https://github.com/flutter/engine/pull/49037) over 3 weeks, 1413 additions and 772 deletions in 33 files</sub>
@@ -500,6 +500,10 @@
     <sub>[#49645](https://github.com/flutter/engine/pull/49645) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49645) over 3 hours, 135 additions and 57 deletions in 3 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
     <sub><details><summary>1 image...</summary><img width="1023" alt="Screenshot 2024-01-09 at 2 31 10 PM" src="https://github.com/flutter/engine/assets/30870216/46fc2a63-67dc-4723-b394-2b2a6958f7ba"></details></sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] finish migration to new render pass API.
+    <sub>[#49740](https://github.com/flutter/engine/pull/49740) merged on January 12, 2024 &mdash; **Large:** [15 comments](https://github.com/flutter/engine/pull/49740) over 19 hours, 460 additions and 484 deletions in 27 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jesse Seales](https://github.com/sealesj)** &mdash; Osv-scanner integration
     <sub>[#49470](https://github.com/flutter/engine/pull/49470) merged on January 11, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/49470) over 1 week, 271 additions and 362 deletions in 4 files</sub>
@@ -561,25 +565,25 @@
     <sub>[#49416](https://github.com/flutter/engine/pull/49416) merged on January 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49416) over 1 week, 135 additions and 25 deletions in 7 files</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Skip flaky test on mac in http_disallow_http_connections_test.dart
-    <sub>[#49635](https://github.com/flutter/engine/pull/49635) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49635) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Roll buildroot to pick up iOS 12
     <sub>[#49542](https://github.com/flutter/engine/pull/49542) merged on January 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/49542) over 4 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Skip flaky test on mac in http_disallow_http_connections_test.dart
+    <sub>[#49635](https://github.com/flutter/engine/pull/49635) merged on January 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49635) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; When building clang-tidy commands, filter out the sed command that may be appended to each compile command
     <sub>[#49605](https://github.com/flutter/engine/pull/49605) merged on January 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49605) over 1 hour, 15 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix memory leaks in some embedder unit tests that send key events
-    <sub>[#49548](https://github.com/flutter/engine/pull/49548) merged on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49548) over 3 days, 86 additions and 35 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Start and end a frame in the RenderTargetCache for each rendering of an entity in the playgrounds
     <sub>[#49576](https://github.com/flutter/engine/pull/49576) merged on January 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49576) over 2 days, 8 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] new blur: chop off blur extremities
+    <sub>[#49574](https://github.com/flutter/engine/pull/49574) merged on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49574) over 2 days, 12 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert Dart SDK to 3245b92a5930
     <sub>[#49727](https://github.com/flutter/engine/pull/49727) merged on January 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49727) over 2 hours, 4 additions and 4 deletions in 3 files</sub>
@@ -589,9 +593,9 @@
     <sub>[#49731](https://github.com/flutter/engine/pull/49731) merged on January 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49731) over 1 hour, 6 additions and 7 deletions in 3 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] new blur: chop off blur extremities
-    <sub>[#49574](https://github.com/flutter/engine/pull/49574) merged on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49574) over 2 days, 12 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix memory leaks in some embedder unit tests that send key events
+    <sub>[#49548](https://github.com/flutter/engine/pull/49548) merged on January 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49548) over 3 days, 86 additions and 35 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Simplify PlatformViewRenderTarget interface
     <sub>[#49639](https://github.com/flutter/engine/pull/49639) merged on January 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49639) over 51 minutes, 21 additions and 92 deletions in 8 files</sub>
