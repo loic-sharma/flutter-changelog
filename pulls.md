@@ -83,6 +83,9 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; unpin web_socket_channel and roll pub packages<br />
     <sub>[#141424](https://github.com/flutter/flutter/pull/141424) opened on on January 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141424) 119 additions and 120 deletions in 40 files</sub><br />
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Revert "Roll Packages from 378e70006863 to 0744fe6fdb31 (6 revisions)"<br />
-    <sub>[#141428](https://github.com/flutter/flutter/pull/141428) opened on on January 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141428) 1 addition and 1 deletion in 1 file</sub><br />
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Fix typo<br />
+    <sub>[#141430](https://github.com/flutter/flutter/pull/141430) opened on on January 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141430) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed a lot of typos<br />
+    <sub>[#141431](https://github.com/flutter/flutter/pull/141431) opened on on January 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141431) 123 additions and 123 deletions in 57 files</sub><br />
 
