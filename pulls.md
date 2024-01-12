@@ -77,3 +77,6 @@
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Make destructiveRed a CupertinoDynamicColor<br />
     <sub>[#141364](https://github.com/flutter/flutter/pull/141364) opened on on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141364) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Revert "Reverts "Run iOS staging tests with Xcode 15.2""<br />
+    <sub>[#141420](https://github.com/flutter/flutter/pull/141420) opened on on January 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141420) 4 additions and 4 deletions in 1 file</sub><br />
+
