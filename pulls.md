@@ -84,7 +84,7 @@
     <sub>[#141424](https://github.com/flutter/flutter/pull/141424) opened on on January 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141424) 119 additions and 120 deletions in 40 files</sub><br />
 
 * **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed a lot of typos<br />
-    <sub>[#141431](https://github.com/flutter/flutter/pull/141431) opened on on January 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/141431) 125 additions and 125 deletions in 59 files</sub><br />
+    <sub>[#141431](https://github.com/flutter/flutter/pull/141431) opened on on January 12, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/141431) 125 additions and 125 deletions in 59 files</sub><br />
 
 * **[Jo Jaeyong](https://github.com/jaeyoi)** &mdash; Support wireless debugging for iOS 12 or earlier<br />
     <sub>[#141439](https://github.com/flutter/flutter/pull/141439) opened on on January 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141439) 59 additions and 2 deletions in 3 files</sub><br />
