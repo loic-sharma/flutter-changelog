@@ -841,7 +841,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-13 commits.
+14 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Drop iOS 11 support<br />
     <sub>[#5873](https://github.com/flutter/packages/pull/5873) merged on January 12, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/5873) over 22 hours, 319 additions and 1582 deletions in 67 files</sub><br />
@@ -874,6 +874,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Check repo-level package metadata<br />
     <sub>[#5811](https://github.com/flutter/packages/pull/5811) merged on January 12, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/5811) over 6 days, 690 additions and 44 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Add test that `onReceivedHttpAuthRequest` is cancelled by default <br />
+    <sub>[#5723](https://github.com/flutter/packages/pull/5723) merged on January 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5723) over 3 weeks, 95 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Re-land: Enable prefer_mixin and bump plugin_platform_interface to 2.1.7<br />
     <sub>[#5841](https://github.com/flutter/packages/pull/5841) merged on January 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5841) over 9 hours, 180 additions and 81 deletions in 70 files</sub><br />
