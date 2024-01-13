@@ -837,7 +837,7 @@
 
 ### January 6, 2024 to January 12, 2024
 
-12 commits.
+13 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Drop iOS 11 support<br />
     <sub>[#5873](https://github.com/flutter/packages/pull/5873) merged on January 12, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/5873) over 22 hours, 319 additions and 1582 deletions in 67 files</sub><br />
@@ -886,6 +886,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Exclude quick_actions from Android emulators<br />
     <sub>[#5847](https://github.com/flutter/packages/pull/5847) merged on January 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5847) over 2 hours, 4 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 46787ee49c1f to ef1af02aead6 (1 revision)<br />
+    <sub>[#5887](https://github.com/flutter/packages/pull/5887) merged on January 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5887) over 44 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 78666c8dc57e to 46787ee49c1f (5 revisions)<br />
     <sub>[#5870](https://github.com/flutter/packages/pull/5870) merged on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5870) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
