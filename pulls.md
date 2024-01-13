@@ -86,3 +86,6 @@
 * **[Jo Jaeyong](https://github.com/jaeyoi)** &mdash; Support wireless debugging for iOS 12 or earlier<br />
     <sub>[#141439](https://github.com/flutter/flutter/pull/141439) opened on on January 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141439) 59 additions and 2 deletions in 3 files</sub><br />
 
+* **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Fix assertion failure when reordering two dimensional children<br />
+    <sub>[#141504](https://github.com/flutter/flutter/pull/141504) opened on on January 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141504) 52 additions and 2 deletions in 3 files</sub><br />
+
