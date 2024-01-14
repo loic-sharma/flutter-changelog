@@ -200,7 +200,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Remove hack from PageView."<br />
-    <sub>[#141479](https://github.com/flutter/flutter/pull/141479) merged on January 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141479) over 1 minute, 41 additions and 134 deletions in 4 files</sub><br />
+    <sub>[#141479](https://github.com/flutter/flutter/pull/141479) merged on January 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141479) over 1 minute, 41 additions and 134 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; [deep link]  Update a gradle task to add flag check and intent filter check to the AppLinkSettings<br />
