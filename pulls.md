@@ -86,9 +86,6 @@
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Fix assertion failure when reordering two dimensional children<br />
     <sub>[#141504](https://github.com/flutter/flutter/pull/141504) opened on on January 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141504) 52 additions and 2 deletions in 3 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; BoxPainter should dispatch creation and disposal events.<br />
-    <sub>[#141526](https://github.com/flutter/flutter/pull/141526) opened on on January 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141526) 30 additions and 4 deletions in 2 files</sub><br />
-
 * **[Nishant Kumar](https://github.com/nikkivirtuoso)** &mdash; issue related to back button issue#141361<br />
     <sub>[#141530](https://github.com/flutter/flutter/pull/141530) opened on on January 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141530) 7 additions and 0 deletions in 1 file</sub><br />
 
