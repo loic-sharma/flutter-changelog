@@ -96,5 +96,5 @@
     <sub>[#141537](https://github.com/flutter/flutter/pull/141537) opened on on January 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141537) 14 additions and 14 deletions in 9 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; hello_world app: migrate to Gradle Kotlin DSL<br />
-    <sub>[#141541](https://github.com/flutter/flutter/pull/141541) opened on on January 14, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/141541) 230 additions and 113 deletions in 6 files</sub><br />
+    <sub>[#141541](https://github.com/flutter/flutter/pull/141541) opened on on January 14, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/141541) 236 additions and 119 deletions in 7 files</sub><br />
 
