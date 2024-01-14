@@ -89,9 +89,6 @@
 * **[Nishant Kumar](https://github.com/nikkivirtuoso)** &mdash; issue related to back button issue#141361<br />
     <sub>[#141530](https://github.com/flutter/flutter/pull/141530) opened on on January 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141530) 7 additions and 0 deletions in 1 file</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Private disposables should dispatch creation and disposal events.<br />
-    <sub>[#141535](https://github.com/flutter/flutter/pull/141535) opened on on January 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141535) 187 additions and 9 deletions in 15 files</sub><br />
-
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; migrate {min,target,compile}SdkVersion to {min,target,compile}Sdk<br />
     <sub>[#141537](https://github.com/flutter/flutter/pull/141537) opened on on January 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141537) 15 additions and 15 deletions in 10 files</sub><br />
 
