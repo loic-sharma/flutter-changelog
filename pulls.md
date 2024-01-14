@@ -89,3 +89,6 @@
 * **[Nishant Kumar](https://github.com/nikkivirtuoso)** &mdash; resolved the issue #141361<br />
     <sub>[#141524](https://github.com/flutter/flutter/pull/141524) opened on on January 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141524) 46 additions and 1 deletion in 3 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; BoxPainter should dispatch creation and disposal events.<br />
+    <sub>[#141526](https://github.com/flutter/flutter/pull/141526) opened on on January 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141526) 30 additions and 4 deletions in 2 files</sub><br />
+
