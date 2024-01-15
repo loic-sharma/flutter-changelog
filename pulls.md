@@ -101,3 +101,6 @@
 * **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed few typos<br />
     <sub>[#141543](https://github.com/flutter/flutter/pull/141543) opened on on January 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141543) 52 additions and 52 deletions in 38 files</sub><br />
 
+* **[neko-andrew](https://github.com/neko-andrew)** &mdash; [CP] Fix intrinsic width of input decorator<br />
+    <sub>[#141551](https://github.com/flutter/flutter/pull/141551) opened on on January 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141551) 63 additions and 14 deletions in 2 files</sub><br />
+
