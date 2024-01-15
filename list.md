@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### January 13, 2024 to January 19, 2024
+
+1 commits.
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "BoxPainter should dispatch creation and disposal events."
+    <sub>[#141545](https://github.com/flutter/flutter/pull/141545) merged on January 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141545) over 1 minute, 4 additions and 30 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 ### January 6, 2024 to January 12, 2024
 
-57 commits.
+<details>
+<summary>57 commits...</summary>
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Add support for Gradle Kotlin DSL
     <sub>[#140744](https://github.com/flutter/flutter/pull/140744) merged on January 12, 2024 &mdash; **Medium:** [58 comments](https://github.com/flutter/flutter/pull/140744) over 1 week, 362 additions and 66 deletions in 9 files</sub>
@@ -184,7 +193,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; BoxPainter should dispatch creation and disposal events.
-    <sub>[#141526](https://github.com/flutter/flutter/pull/141526) merged on January 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141526) over 5 hours, 30 additions and 4 deletions in 2 files</sub>
+    <sub>[#141526](https://github.com/flutter/flutter/pull/141526) merged on January 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141526) over 5 hours, 30 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run iOS staging tests with Xcode 15.2
@@ -200,7 +209,7 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Private disposables should dispatch creation and disposal events.
-    <sub>[#141535](https://github.com/flutter/flutter/pull/141535) merged on January 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/141535) over 1 hour, 187 additions and 9 deletions in 15 files</sub>
+    <sub>[#141535](https://github.com/flutter/flutter/pull/141535) merged on January 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/141535) over 1 hour, 187 additions and 9 deletions in 15 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed a lot of typos
@@ -234,6 +243,8 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Revert "Reverts "Run iOS staging tests with Xcode 15.2""
     <sub>[#141420](https://github.com/flutter/flutter/pull/141420) merged on January 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141420) over 15 hours, 4 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
+</details>
 
 ### December 30, 2023 to January 5, 2024
 
