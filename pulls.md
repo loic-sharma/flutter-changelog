@@ -102,5 +102,5 @@
     <sub>[#141552](https://github.com/flutter/flutter/pull/141552) opened on on January 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141552) 30 additions and 4 deletions in 2 files</sub><br />
 
 * **[Ricky Souza de Oliveira](https://github.com/HeroRickyGAMES)** &mdash; Re-adding size: view.physicalSize / devicePixelRatio, because the printing dependency in version 5.11.1 was making the build impossible!<br />
-    <sub>[#141585](https://github.com/flutter/flutter/pull/141585) opened on on January 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141585) 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>[#141585](https://github.com/flutter/flutter/pull/141585) opened on on January 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141585) 1 addition and 0 deletions in 1 file</sub><br />
 
