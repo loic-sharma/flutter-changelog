@@ -449,50 +449,6 @@
 
 </details>
 
-### December 23, 2023 to December 29, 2023
-
-<details>
-<summary>9 commits...</summary>
-
-* **[Daniel Chevalier](https://github.com/CoderDake)** &mdash; Show width and height in inspector overlay <br />
-    <sub>[#140709](https://github.com/flutter/flutter/pull/140709) merged on December 29, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140709) over 4 hours, 6 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Elliott Brooks](https://github.com/elliette)</sub><br />
-    <sub><details><summary>4 images...</summary><img width="442" alt="Screenshot 2023-12-28 at 2 39 49 PM" src="https://github.com/flutter/flutter/assets/1386322/2de40092-de15-4ada-a954-e911e6bef217"><img width="645" alt="Screenshot 2023-12-28 at 2 39 42 PM" src="https://github.com/flutter/flutter/assets/1386322/8f53dad5-1aba-43d9-9419-ca93cd894624"><img width="149" alt="Screenshot 2023-12-28 at 2 39 37 PM" src="https://github.com/flutter/flutter/assets/1386322/bbed74b7-c962-4c20-80d8-48e5eaa14de6">![](https://media.giphy.com/media/SX71qs3TDxVkvbLJ4o/giphy-downsized.gif)</details></sub>
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add custom system-wide text selection toolbar buttons on Android<br />
-    <sub>[#139738](https://github.com/flutter/flutter/pull/139738) merged on December 27, 2023 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/139738) over 2 weeks, 365 additions and 7 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
-
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Re-enable text field test now that fix has landed in engine<br />
-    <sub>[#140678](https://github.com/flutter/flutter/pull/140678) merged on December 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140678) over 2 hours, 4 additions and 7 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Hassan Toor](https://github.com/htoor3)</sub><br />
-
-* **[hhh](https://github.com/huanghui1998hhh)** &mdash; expose didExceedMaxLines from RenderParagraph<br />
-    <sub>[#139962](https://github.com/flutter/flutter/pull/139962) merged on December 28, 2023 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/139962) over 2 weeks, 45 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Alex Li](https://github.com/AlexV525)</sub><br />
-
-* **[林洵锋](https://github.com/LinXunFeng)** &mdash; Update README.md<br />
-    <sub>[#140661](https://github.com/flutter/flutter/pull/140661) merged on December 29, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140661) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Makes the flutter tool retry on a bad gateway network error from gradle<br />
-    <sub>[#140670](https://github.com/flutter/flutter/pull/140670) merged on December 27, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140670) over 2 hours, 34 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Disable random test order in asset_bundle_test.dart<br />
-    <sub>[#140666](https://github.com/flutter/flutter/pull/140666) merged on December 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140666) over 1 hour, 7 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; More helpful test.dart output<br />
-    <sub>[#140175](https://github.com/flutter/flutter/pull/140175) merged on December 28, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140175) over 2 weeks, 82 additions and 23 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
-* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_pixel_7pro integration_ui_keyboard_resize to be flaky<br />
-    <sub>[#140646](https://github.com/flutter/flutter/pull/140646) merged on December 27, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/140646) over 11 hours, 1 addition and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-</details>
-
 ## flutter/engine
 
 ### January 6, 2024 to January 12, 2024
@@ -826,25 +782,6 @@
 
 </details>
 
-### December 23, 2023 to December 29, 2023
-
-<details>
-<summary>3 commits...</summary>
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Move DWM flush to Windows proc table for mocking<br />
-    <sub>[#49398](https://github.com/flutter/engine/pull/49398) merged on December 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49398) over 23 hours, 18 additions and 14 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Move DWM composition status to Windows proc table for mocking<br />
-    <sub>[#49397](https://github.com/flutter/engine/pull/49397) merged on December 26, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49397) over 1 hour, 100 additions and 59 deletions in 11 files</sub><br />
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Remove `PlatformWindow` and `RenderTarget` abstractions<br />
-    <sub>[#49312](https://github.com/flutter/engine/pull/49312) merged on December 26, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49312) over 5 days, 44 additions and 95 deletions in 18 files</sub><br />
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
-
-</details>
-
 ## flutter/packages
 
 ### January 6, 2024 to January 12, 2024
@@ -983,23 +920,6 @@
 * **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Add Flutter CI Status badge to README<br />
     <sub>[#5733](https://github.com/flutter/packages/pull/5733) merged on January 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5733) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
-
-</details>
-
-### December 23, 2023 to December 29, 2023
-
-<details>
-<summary>2 commits...</summary>
-
-* **[dependabot](https://github.com/apps/dependabot)** &mdash; [path_provider]: Bump androidx.annotation:annotation from 1.7.0 to 1.7.1 in /packages/path_provider/path_provider_android/android<br />
-    <sub>[#5709](https://github.com/flutter/packages/pull/5709) merged on December 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5709) over 1 week, 4 additions and 3 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
-    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.7.0&new-version=1.7.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
-
-* **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.9.21 to 1.9.22 in /packages/pigeon/platform_tests/test_plugin/android<br />
-    <sub>[#5747](https://github.com/flutter/packages/pull/5747) merged on December 26, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5747) over 22 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
-    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.9.21&new-version=1.9.22)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 </details>
 
