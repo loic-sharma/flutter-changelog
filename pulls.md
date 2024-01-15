@@ -92,12 +92,6 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Reland "Remove hack from PageView."<br />
     <sub>[#141533](https://github.com/flutter/flutter/pull/141533) opened on on January 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141533) 134 additions and 41 deletions in 4 files</sub><br />
 
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; migrate {min,target,compile}SdkVersion to {min,target,compile}Sdk<br />
-    <sub>[#141537](https://github.com/flutter/flutter/pull/141537) opened on on January 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141537) 15 additions and 15 deletions in 10 files</sub><br />
-
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; hello_world app: migrate to Gradle Kotlin DSL<br />
-    <sub>[#141541](https://github.com/flutter/flutter/pull/141541) opened on on January 14, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/141541) 236 additions and 119 deletions in 7 files</sub><br />
-
 * **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed few typos<br />
     <sub>[#141543](https://github.com/flutter/flutter/pull/141543) opened on on January 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141543) 52 additions and 52 deletions in 38 files</sub><br />
 
