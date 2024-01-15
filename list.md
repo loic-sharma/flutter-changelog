@@ -209,7 +209,7 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Private disposables should dispatch creation and disposal events.
-    <sub>[#141535](https://github.com/flutter/flutter/pull/141535) merged on January 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/141535) over 1 hour, 187 additions and 9 deletions in 15 files</sub>
+    <sub>[#141535](https://github.com/flutter/flutter/pull/141535) merged on January 14, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/141535) over 1 hour, 187 additions and 9 deletions in 15 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed a lot of typos
