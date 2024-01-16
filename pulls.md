@@ -110,6 +110,3 @@
 * **[Simone Stasi](https://github.com/sstasi95)** &mdash; fix CupertinoTabView's Android back button handling with PopScope<br />
     <sub>[#141604](https://github.com/flutter/flutter/pull/141604) opened on on January 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141604) 35 additions and 1 deletion in 2 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; i139325 handle rc versions gradle<br />
-    <sub>[#141612](https://github.com/flutter/flutter/pull/141612) opened on on January 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141612) 20 additions and 4 deletions in 2 files</sub><br />
-
