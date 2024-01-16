@@ -505,7 +505,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-14 commits.
+15 commits.
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Add an API for sampling strictly within the bounds of the source rect in DrawImageRect
     <sub>[#49696](https://github.com/flutter/engine/pull/49696) merged on January 16, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/49696) over 5 days, 329 additions and 23 deletions in 18 files</sub>
@@ -563,6 +563,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Manually bump Dart to 3.4.0-34.0.dev
     <sub>[#49792](https://github.com/flutter/engine/pull/49792) merged on January 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49792) over 3 hours, 3 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Reland "[Windows] Move to FlutterCompositor for rendering"
+    <sub>[#49726](https://github.com/flutter/engine/pull/49726) merged on January 16, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/49726) over 5 days, 940 additions and 44 deletions in 23 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams), [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 ### January 6, 2024 to January 12, 2024
 
