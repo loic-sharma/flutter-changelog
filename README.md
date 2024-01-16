@@ -505,7 +505,11 @@
 
 ### January 13, 2024 to January 19, 2024
 
-13 commits.
+14 commits.
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Add an API for sampling strictly within the bounds of the source rect in DrawImageRect<br />
+    <sub>[#49696](https://github.com/flutter/engine/pull/49696) merged on January 16, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/49696) over 5 days, 329 additions and 23 deletions in 18 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove shared_ptr copy/release in main rendering loop.<br />
     <sub>[#49801](https://github.com/flutter/engine/pull/49801) merged on January 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/49801) over 53 minutes, 11 additions and 10 deletions in 6 files</sub><br />
