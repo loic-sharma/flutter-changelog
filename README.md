@@ -505,7 +505,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-15 commits.
+16 commits.
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Add an API for sampling strictly within the bounds of the source rect in DrawImageRect<br />
     <sub>[#49696](https://github.com/flutter/engine/pull/49696) merged on January 16, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/49696) over 5 days, 329 additions and 23 deletions in 18 files</sub><br />
@@ -519,6 +519,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Encode directly to command buffer for Vulkan.<br />
     <sub>[#49780](https://github.com/flutter/engine/pull/49780) merged on January 16, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/49780) over 3 days, 805 additions and 445 deletions in 40 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix a race between SwapchainImplVK::Present and WaitForFence<br />
+    <sub>[#49777](https://github.com/flutter/engine/pull/49777) merged on January 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/49777) over 4 days, 15 additions and 8 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add README<br />
     <sub>[#49779](https://github.com/flutter/engine/pull/49779) merged on January 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/49779) over 3 days, 43 additions and 0 deletions in 2 files</sub><br />
