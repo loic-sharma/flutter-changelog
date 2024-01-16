@@ -466,9 +466,18 @@
 
 ## flutter/engine
 
+### January 13, 2024 to January 19, 2024
+
+1 commits.
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Manually bump Dart to 3.4.0-34.0.dev<br />
+    <sub>[#49792](https://github.com/flutter/engine/pull/49792) merged on January 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49792) over 3 hours, 3 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
 ### January 6, 2024 to January 12, 2024
 
-51 commits.
+<details>
+<summary>51 commits...</summary>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Refactor flutter.js to do dart2wasm bootstrapping and CanvasKit/Skwasm preloading.<br />
     <sub>[#49037](https://github.com/flutter/engine/pull/49037) merged on January 10, 2024 &mdash; **Extra large:** [57 comments](https://github.com/flutter/engine/pull/49037) over 3 weeks, 1413 additions and 772 deletions in 33 files</sub><br />
@@ -675,6 +684,8 @@
 * **[Jesse Seales](https://github.com/sealesj)** &mdash; Google GitHub mirrors - reland<br />
     <sub>[#49716](https://github.com/flutter/engine/pull/49716) merged on January 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49716) over 4 hours, 6 additions and 8 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+</details>
 
 ### December 30, 2023 to January 5, 2024
 
