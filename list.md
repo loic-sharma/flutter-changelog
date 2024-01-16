@@ -4,7 +4,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-9 commits.
+10 commits.
 
 * **[Spt](https://github.com/intspt)** &mdash; Solve the problem that <Flutter/Flutter.h> cannot be imported when a pod transitive depends on Flutter
     <sub>[#125610](https://github.com/flutter/flutter/pull/125610) merged on January 16, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/125610) over 8 months, 78 additions and 4 deletions in 3 files</sub>
@@ -34,6 +34,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Ignore  or fix leaks.
     <sub>[#141468](https://github.com/flutter/flutter/pull/141468) merged on January 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141468) over 3 days, 62 additions and 19 deletions in 13 files</sub>
     <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Add contexts to mac_ios targets.
+    <sub>[#141494](https://github.com/flutter/flutter/pull/141494) merged on January 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/141494) over 3 days, 20 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; handle rc versions of gradle in version compare 
     <sub>[#141612](https://github.com/flutter/flutter/pull/141612) merged on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141612) over 3 hours, 26 additions and 4 deletions in 2 files</sub>
