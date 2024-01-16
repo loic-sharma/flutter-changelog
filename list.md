@@ -4,7 +4,12 @@
 
 ### January 13, 2024 to January 19, 2024
 
-2 commits.
+3 commits.
+
+* **[Spt](https://github.com/intspt)** &mdash; Solve the problem that <Flutter/Flutter.h> cannot be imported when a pod transitive depends on Flutter
+    <sub>[#125610](https://github.com/flutter/flutter/pull/125610) merged on January 16, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/125610) over 8 months, 78 additions and 4 deletions in 3 files</sub>
+    <sub>Reviewed by: [hyiso](https://github.com/hyiso), [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub>
+    <sub><details><summary>2 images...</summary>![image](https://user-images.githubusercontent.com/8318578/234780282-89b18d27-df49-4b4e-88b5-c9d17cf3334f.png)![image](https://user-images.githubusercontent.com/8318578/234780668-901ab816-5b6b-4d87-a6f4-120b5852580c.png)</details></sub>
 
 * **[Sulav Parajuli](https://github.com/imp-sike)** &mdash; Fix #141061: Add 'color' property to `DrawerButton` and `EndDrawerButton`
     <sub>[#141159](https://github.com/flutter/flutter/pull/141159) merged on January 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141159) over 1 week, 38 additions and 0 deletions in 2 files</sub>
