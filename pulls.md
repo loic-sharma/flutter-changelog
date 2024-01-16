@@ -69,7 +69,7 @@
     <sub>[#141295](https://github.com/flutter/flutter/pull/141295) opened on on January 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141295) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Kohei Seino](https://github.com/kseino)** &mdash; use PDI to end the isolated scope for RLI<br />
-    <sub>[#141345](https://github.com/flutter/flutter/pull/141345) opened on on January 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141345) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#141345](https://github.com/flutter/flutter/pull/141345) opened on on January 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141345) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Make destructiveRed a CupertinoDynamicColor<br />
     <sub>[#141364](https://github.com/flutter/flutter/pull/141364) opened on on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141364) 1 addition and 1 deletion in 1 file</sub><br />

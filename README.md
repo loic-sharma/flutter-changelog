@@ -505,7 +505,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-18 commits.
+19 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Leave blob URLs untouched in TT policy.<br />
     <sub>[#49782](https://github.com/flutter/engine/pull/49782) merged on January 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49782) over 3 days, 5 additions and 0 deletions in 1 file</sub><br />
@@ -527,6 +527,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] generate mipmaps for imagefilters<br />
     <sub>[#49794](https://github.com/flutter/engine/pull/49794) merged on January 16, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/49794) over 5 hours, 48 additions and 29 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove iOS 12 availability checks<br />
+    <sub>[#49771](https://github.com/flutter/engine/pull/49771) merged on January 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49771) over 4 days, 8 additions and 11 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix a race between SwapchainImplVK::Present and WaitForFence<br />
     <sub>[#49777](https://github.com/flutter/engine/pull/49777) merged on January 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/49777) over 4 days, 15 additions and 8 deletions in 1 file</sub><br />
@@ -918,7 +922,11 @@
 
 ### January 13, 2024 to January 19, 2024
 
-3 commits.
+4 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Run check_podspecs on arm Mac bots<br />
+    <sub>[#5885](https://github.com/flutter/packages/pull/5885) merged on January 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5885) over 3 days, 10 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Alexandre Zollinger Chohfi](https://github.com/azchohfi)** &mdash; [pigeon] Fix pigeon test generation missing wrapResponse method.<br />
     <sub>[#5903](https://github.com/flutter/packages/pull/5903) merged on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5903) over 57 minutes, 40 additions and 3 deletions in 6 files</sub><br />
