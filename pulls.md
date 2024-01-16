@@ -104,3 +104,6 @@
 * **[Ricky Souza de Oliveira](https://github.com/HeroRickyGAMES)** &mdash; Re-adding size: view.physicalSize / devicePixelRatio, because the printing dependency in version 5.11.1 was making the build impossible!<br />
     <sub>[#141585](https://github.com/flutter/flutter/pull/141585) opened on on January 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141585) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in the `cupertino/` directory<br />
+    <sub>[#141591](https://github.com/flutter/flutter/pull/141591) opened on on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141591) 69 additions and 127 deletions in 7 files</sub><br />
+
