@@ -98,6 +98,3 @@
 * **[Simone Stasi](https://github.com/sstasi95)** &mdash; fix CupertinoTabView's Android back button handling with PopScope<br />
     <sub>[#141604](https://github.com/flutter/flutter/pull/141604) opened on on January 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141604) 35 additions and 1 deletion in 2 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; TrainHoppingAnimation should dispatch creation and disposal events.<br />
-    <sub>[#141635](https://github.com/flutter/flutter/pull/141635) opened on on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141635) 28 additions and 0 deletions in 2 files</sub><br />
-
