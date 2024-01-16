@@ -4,7 +4,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-6 commits.
+7 commits.
 
 * **[Spt](https://github.com/intspt)** &mdash; Solve the problem that <Flutter/Flutter.h> cannot be imported when a pod transitive depends on Flutter
     <sub>[#125610](https://github.com/flutter/flutter/pull/125610) merged on January 16, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/125610) over 8 months, 78 additions and 4 deletions in 3 files</sub>
@@ -14,6 +14,10 @@
 * **[Sulav Parajuli](https://github.com/imp-sike)** &mdash; Fix #141061: Add 'color' property to `DrawerButton` and `EndDrawerButton`
     <sub>[#141159](https://github.com/flutter/flutter/pull/141159) merged on January 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141159) over 1 week, 38 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Reference GitHub issue in TODO comment
+    <sub>[#141582](https://github.com/flutter/flutter/pull/141582) merged on January 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141582) over 23 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; migrate {min,target,compile}SdkVersion to {min,target,compile}Sdk
     <sub>[#141537](https://github.com/flutter/flutter/pull/141537) merged on January 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141537) over 1 day, 16 additions and 15 deletions in 10 files</sub>
@@ -485,7 +489,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-7 commits.
+9 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add README
     <sub>[#49779](https://github.com/flutter/engine/pull/49779) merged on January 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/49779) over 3 days, 43 additions and 0 deletions in 2 files</sub>
@@ -506,6 +510,14 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Add `flutter` prefix to import
     <sub>[#49793](https://github.com/flutter/engine/pull/49793) merged on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49793) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Run unittests on CI and fix HostBuffer.
+    <sub>[#49789](https://github.com/flutter/engine/pull/49789) merged on January 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49789) over 11 hours, 19 additions and 3 deletions in 5 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix playground shader paths.
+    <sub>[#49790](https://github.com/flutter/engine/pull/49790) merged on January 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49790) over 10 hours, 3 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Support running sound null safe kernels from dart_runner
     <sub>[#49598](https://github.com/flutter/engine/pull/49598) merged on January 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49598) over 1 week, 88 additions and 79 deletions in 7 files</sub>
