@@ -488,8 +488,8 @@
 7 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add README
-    <sub>[#49779](https://github.com/flutter/engine/pull/49779) merged on January 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49779) over 3 days, 43 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub>
+    <sub>[#49779](https://github.com/flutter/engine/pull/49779) merged on January 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/49779) over 3 days, 43 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Fix typo
     <sub>[#49725](https://github.com/flutter/engine/pull/49725) merged on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49725) over 4 days, 1 addition and 1 deletion in 1 file</sub>
