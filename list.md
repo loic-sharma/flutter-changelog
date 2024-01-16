@@ -4,7 +4,11 @@
 
 ### January 13, 2024 to January 19, 2024
 
-1 commits.
+2 commits.
+
+* **[Sulav Parajuli](https://github.com/imp-sike)** &mdash; Fix #141061: Add 'color' property to `DrawerButton` and `EndDrawerButton`
+    <sub>[#141159](https://github.com/flutter/flutter/pull/141159) merged on January 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141159) over 1 week, 38 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "BoxPainter should dispatch creation and disposal events."
     <sub>[#141545](https://github.com/flutter/flutter/pull/141545) merged on January 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141545) over 1 minute, 4 additions and 30 deletions in 2 files</sub>

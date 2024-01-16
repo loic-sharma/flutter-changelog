@@ -62,9 +62,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Don't show legacy welcome message when analytics are disabled<br />
     <sub>[#140956](https://github.com/flutter/flutter/pull/140956) opened on on January 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140956) 10 additions and 11 deletions in 1 file</sub><br />
 
-* **[Sulav Parajuli](https://github.com/imp-sike)** &mdash; Fix #141061: Add 'color' property to `DrawerButton` and `EndDrawerButton`<br />
-    <sub>[#141159](https://github.com/flutter/flutter/pull/141159) opened on on January 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141159) 38 additions and 0 deletions in 2 files</sub><br />
-
 * **[Muhammad Afiq](https://github.com/blackzafiqz)** &mdash; Upgrade flutter_localizations dependency(intl)<br />
     <sub>[#141265](https://github.com/flutter/flutter/pull/141265) opened on on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141265) 1 addition and 1 deletion in 1 file</sub><br />
 
