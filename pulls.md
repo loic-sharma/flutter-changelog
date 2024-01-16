@@ -107,3 +107,6 @@
 * **[Jonas Uekötter](https://github.com/ueman)** &mdash; Add documentation which explains that `debugPrint` also logs in release mode<br />
     <sub>[#141595](https://github.com/flutter/flutter/pull/141595) opened on on January 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141595) 8 additions and 0 deletions in 1 file</sub><br />
 
+* **[Simone Stasi](https://github.com/sstasi95)** &mdash; fix CupertinoTabView's Android back button handling with PopScope<br />
+    <sub>[#141604](https://github.com/flutter/flutter/pull/141604) opened on on January 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141604) 35 additions and 1 deletion in 2 files</sub><br />
+
