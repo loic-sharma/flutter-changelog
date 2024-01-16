@@ -4,7 +4,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-4 commits.
+5 commits.
 
 * **[Spt](https://github.com/intspt)** &mdash; Solve the problem that <Flutter/Flutter.h> cannot be imported when a pod transitive depends on Flutter
     <sub>[#125610](https://github.com/flutter/flutter/pull/125610) merged on January 16, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/125610) over 8 months, 78 additions and 4 deletions in 3 files</sub>
@@ -14,6 +14,10 @@
 * **[Sulav Parajuli](https://github.com/imp-sike)** &mdash; Fix #141061: Add 'color' property to `DrawerButton` and `EndDrawerButton`
     <sub>[#141159](https://github.com/flutter/flutter/pull/141159) merged on January 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141159) over 1 week, 38 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Sort Swift imports in templates
+    <sub>[#141487](https://github.com/flutter/flutter/pull/141487) merged on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141487) over 3 days, 9 additions and 9 deletions in 9 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Ignore  or fix leaks.
     <sub>[#141468](https://github.com/flutter/flutter/pull/141468) merged on January 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141468) over 3 days, 62 additions and 19 deletions in 13 files</sub>
@@ -480,7 +484,7 @@
 7 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add README
-    <sub>[#49779](https://github.com/flutter/engine/pull/49779) merged on January 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49779) over 3 days, 43 additions and 0 deletions in 2 files</sub>
+    <sub>[#49779](https://github.com/flutter/engine/pull/49779) merged on January 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49779) over 3 days, 43 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Fix typo
