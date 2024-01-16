@@ -885,7 +885,11 @@
 
 ### January 13, 2024 to January 19, 2024
 
-2 commits.
+3 commits.
+
+* **[Alexandre Zollinger Chohfi](https://github.com/azchohfi)** &mdash; [pigeon] Fix pigeon test generation missing wrapResponse method.<br />
+    <sub>[#5903](https://github.com/flutter/packages/pull/5903) merged on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5903) over 57 minutes, 40 additions and 3 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Add support for tracking source locations of BlobNodes.<br />
     <sub>[#5876](https://github.com/flutter/packages/pull/5876) merged on January 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/packages/pull/5876) over 4 days, 598 additions and 119 deletions in 8 files</sub><br />
