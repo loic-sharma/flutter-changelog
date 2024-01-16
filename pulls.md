@@ -107,3 +107,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in the `cupertino/` directory<br />
     <sub>[#141591](https://github.com/flutter/flutter/pull/141591) opened on on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141591) 69 additions and 127 deletions in 7 files</sub><br />
 
+* **[Jonas Uekötter](https://github.com/ueman)** &mdash; Add documentation which explains that `debugPrint` also logs in release mode<br />
+    <sub>[#141595](https://github.com/flutter/flutter/pull/141595) opened on on January 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141595) 8 additions and 0 deletions in 1 file</sub><br />
+
