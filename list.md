@@ -473,7 +473,19 @@
 
 ### January 13, 2024 to January 19, 2024
 
-3 commits.
+6 commits.
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Fix typo
+    <sub>[#49725](https://github.com/flutter/engine/pull/49725) merged on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49725) over 4 days, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Truncate thread names on Linux to the maximum allowed length
+    <sub>[#49781](https://github.com/flutter/engine/pull/49781) merged on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49781) over 3 days, 24 additions and 6 deletions in 5 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Fix hot reload for shaders on Impeller
+    <sub>[#49739](https://github.com/flutter/engine/pull/49739) merged on January 16, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49739) over 4 days, 200 additions and 22 deletions in 7 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Add `flutter` prefix to import
     <sub>[#49793](https://github.com/flutter/engine/pull/49793) merged on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49793) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
