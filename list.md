@@ -847,9 +847,22 @@
 
 ## flutter/packages
 
+### January 13, 2024 to January 19, 2024
+
+2 commits.
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Add support for tracking source locations of BlobNodes.
+    <sub>[#5876](https://github.com/flutter/packages/pull/5876) merged on January 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/packages/pull/5876) over 4 days, 598 additions and 119 deletions in 8 files</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Bump `release` to use 3.16.6
+    <sub>[#5886](https://github.com/flutter/packages/pull/5886) merged on January 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5886) over 3 days, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
 ### January 6, 2024 to January 12, 2024
 
-14 commits.
+<details>
+<summary>14 commits...</summary>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Drop iOS 11 support
     <sub>[#5873](https://github.com/flutter/packages/pull/5873) merged on January 12, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/5873) over 22 hours, 319 additions and 1582 deletions in 67 files</sub>
@@ -910,6 +923,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 78666c8dc57e to 46787ee49c1f (5 revisions)
     <sub>[#5870](https://github.com/flutter/packages/pull/5870) merged on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5870) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### December 30, 2023 to January 5, 2024
 
