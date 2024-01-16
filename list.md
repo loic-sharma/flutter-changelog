@@ -473,7 +473,11 @@
 
 ### January 13, 2024 to January 19, 2024
 
-1 commits.
+2 commits.
+
+* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Support running sound null safe kernels from dart_runner
+    <sub>[#49598](https://github.com/flutter/engine/pull/49598) merged on January 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49598) over 1 week, 88 additions and 79 deletions in 7 files</sub>
+    <sub>Reviewed by: [Andrew Wilson](https://github.com/apwilson)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Manually bump Dart to 3.4.0-34.0.dev
     <sub>[#49792](https://github.com/flutter/engine/pull/49792) merged on January 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49792) over 3 hours, 3 additions and 3 deletions in 2 files</sub>
