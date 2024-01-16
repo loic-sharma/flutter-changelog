@@ -501,7 +501,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-10 commits.
+11 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add README<br />
     <sub>[#49779](https://github.com/flutter/engine/pull/49779) merged on January 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/49779) over 3 days, 43 additions and 0 deletions in 2 files</sub><br />
@@ -522,6 +522,10 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Add `flutter` prefix to import<br />
     <sub>[#49793](https://github.com/flutter/engine/pull/49793) merged on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49793) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Manually bump Dart to 3.4.0-34.0.dev"<br />
+    <sub>[#49802](https://github.com/flutter/engine/pull/49802) merged on January 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49802) over 50 seconds, 3 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Use the correct impeller-cmake-example mirror<br />
     <sub>[#49791](https://github.com/flutter/engine/pull/49791) merged on January 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49791) over 10 hours, 1 addition and 1 deletion in 1 file</sub><br />
