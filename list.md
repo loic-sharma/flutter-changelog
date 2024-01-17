@@ -946,11 +946,15 @@
 
 ### January 13, 2024 to January 19, 2024
 
-4 commits.
+5 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Run check_podspecs on arm Mac bots
     <sub>[#5885](https://github.com/flutter/packages/pull/5885) merged on January 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5885) over 3 days, 10 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update minimum iOS versions to 12.0
+    <sub>[#5902](https://github.com/flutter/packages/pull/5902) merged on January 17, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/5902) over 6 hours, 1087 additions and 452 deletions in 239 files</sub>
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Jenn Magder](https://github.com/jmagman), [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Alexandre Zollinger Chohfi](https://github.com/azchohfi)** &mdash; [pigeon] Fix pigeon test generation missing wrapResponse method.
     <sub>[#5903](https://github.com/flutter/packages/pull/5903) merged on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5903) over 57 minutes, 40 additions and 3 deletions in 6 files</sub>
