@@ -525,7 +525,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-21 commits.
+22 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Leave blob URLs untouched in TT policy.
     <sub>[#49782](https://github.com/flutter/engine/pull/49782) merged on January 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49782) over 3 days, 5 additions and 0 deletions in 1 file</sub>
@@ -543,6 +543,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Encode directly to command buffer for Vulkan.
     <sub>[#49780](https://github.com/flutter/engine/pull/49780) merged on January 16, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/engine/pull/49780) over 3 days, 805 additions and 445 deletions in 40 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Switch from transient stencil-only to depth+stencil buffer.
+    <sub>[#47987](https://github.com/flutter/engine/pull/47987) merged on January 17, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/47987) over 2 months, 119 additions and 58 deletions in 9 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] Encode directly to command buffer for Vulkan."
     <sub>[#49818](https://github.com/flutter/engine/pull/49818) merged on January 17, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/49818) over 33 seconds, 445 additions and 805 deletions in 40 files</sub>
