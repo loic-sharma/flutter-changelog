@@ -101,3 +101,6 @@
 * **[David Martos](https://github.com/davidmartos96)** &mdash; Fix token usages on Regular Chip and Action Chip<br />
     <sub>[#141701](https://github.com/flutter/flutter/pull/141701) opened on on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141701) 45 additions and 18 deletions in 7 files</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove non-needed bot and increase time out for leak_tracking.<br />
+    <sub>[#141712](https://github.com/flutter/flutter/pull/141712) opened on on January 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141712) 4 additions and 35 deletions in 1 file</sub><br />
+
