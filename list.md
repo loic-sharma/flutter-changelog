@@ -4,7 +4,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-22 commits.
+24 commits.
 
 * **[Spt](https://github.com/intspt)** &mdash; Solve the problem that <Flutter/Flutter.h> cannot be imported when a pod transitive depends on Flutter
     <sub>[#125610](https://github.com/flutter/flutter/pull/125610) merged on January 16, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/125610) over 8 months, 78 additions and 4 deletions in 3 files</sub>
@@ -15,9 +15,17 @@
     <sub>[#141159](https://github.com/flutter/flutter/pull/141159) merged on January 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141159) over 1 week, 38 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Run build tests on both x64 and arm64.
+    <sub>[#141206](https://github.com/flutter/flutter/pull/141206) merged on January 17, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/141206) over 1 week, 84 additions and 5 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino), [keyonghan](https://github.com/keyonghan)</sub>
+
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Allow selection in composing region
     <sub>[#140516](https://github.com/flutter/flutter/pull/140516) merged on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140516) over 3 weeks, 11 additions and 13 deletions in 2 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets: roll deps
+    <sub>[#141684](https://github.com/flutter/flutter/pull/141684) merged on January 17, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/141684) over 6 hours, 57 additions and 34 deletions in 20 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] prepare for https://github.com/flutter/engine/pull/49786
     <sub>[#141700](https://github.com/flutter/flutter/pull/141700) merged on January 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141700) over 1 hour, 9 additions and 5 deletions in 2 files</sub>
