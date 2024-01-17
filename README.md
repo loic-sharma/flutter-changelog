@@ -525,7 +525,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-24 commits.
+25 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Leave blob URLs untouched in TT policy.<br />
     <sub>[#49782](https://github.com/flutter/engine/pull/49782) merged on January 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49782) over 3 days, 5 additions and 0 deletions in 1 file</sub><br />
@@ -545,7 +545,7 @@
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Switch from transient stencil-only to depth+stencil buffer.<br />
-    <sub>[#47987](https://github.com/flutter/engine/pull/47987) merged on January 17, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/47987) over 2 months, 119 additions and 58 deletions in 9 files</sub><br />
+    <sub>[#47987](https://github.com/flutter/engine/pull/47987) merged on January 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/47987) over 2 months, 119 additions and 58 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] Encode directly to command buffer for Vulkan."<br />
@@ -583,6 +583,10 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Add `flutter` prefix to import<br />
     <sub>[#49793](https://github.com/flutter/engine/pull/49793) merged on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49793) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] Switch from transient stencil-only to depth+stencil buffer."<br />
+    <sub>[#49832](https://github.com/flutter/engine/pull/49832) merged on January 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49832) over 1 minute, 58 additions and 119 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Flutter GPU: Add GpuContext.createHostBuffer<br />
     <sub>[#49822](https://github.com/flutter/engine/pull/49822) merged on January 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49822) over 2 hours, 8 additions and 4 deletions in 3 files</sub><br />
