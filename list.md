@@ -569,7 +569,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-28 commits.
+29 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Leave blob URLs untouched in TT policy.
     <sub>[#49782](https://github.com/flutter/engine/pull/49782) merged on January 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49782) over 3 days, 5 additions and 0 deletions in 1 file</sub>
@@ -599,6 +599,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] generate mipmaps for imagefilters
     <sub>[#49794](https://github.com/flutter/engine/pull/49794) merged on January 16, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/49794) over 5 hours, 48 additions and 29 deletions in 6 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Reduce Visual Studio build errors caused by keyboard unit tests
+    <sub>[#49814](https://github.com/flutter/engine/pull/49814) merged on January 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/49814) over 23 hours, 17 additions and 11 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] disabled misleading vulkan golden image tests
     <sub>[#49836](https://github.com/flutter/engine/pull/49836) merged on January 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49836) over 4 hours, 1 addition and 2 deletions in 1 file</sub>
