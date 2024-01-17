@@ -525,7 +525,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-22 commits.
+23 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Leave blob URLs untouched in TT policy.
     <sub>[#49782](https://github.com/flutter/engine/pull/49782) merged on January 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49782) over 3 days, 5 additions and 0 deletions in 1 file</sub>
@@ -583,6 +583,10 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Add `flutter` prefix to import
     <sub>[#49793](https://github.com/flutter/engine/pull/49793) merged on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49793) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Flutter GPU: Add GpuContext.createHostBuffer
+    <sub>[#49822](https://github.com/flutter/engine/pull/49822) merged on January 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49822) over 2 hours, 8 additions and 4 deletions in 3 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Manually bump Dart to 3.4.0-34.0.dev"
     <sub>[#49802](https://github.com/flutter/engine/pull/49802) merged on January 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49802) over 50 seconds, 3 additions and 3 deletions in 2 files</sub>
