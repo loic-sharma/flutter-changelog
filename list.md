@@ -958,7 +958,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-5 commits.
+6 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Run check_podspecs on arm Mac bots
     <sub>[#5885](https://github.com/flutter/packages/pull/5885) merged on January 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5885) over 3 days, 10 additions and 3 deletions in 1 file</sub>
@@ -975,6 +975,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Add support for tracking source locations of BlobNodes.
     <sub>[#5876](https://github.com/flutter/packages/pull/5876) merged on January 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/packages/pull/5876) over 4 days, 598 additions and 119 deletions in 8 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[ci] Run check_podspecs on arm Mac bots"
+    <sub>[#5909](https://github.com/flutter/packages/pull/5909) merged on January 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5909) over 25 seconds, 3 additions and 10 deletions in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Bump `release` to use 3.16.6
     <sub>[#5886](https://github.com/flutter/packages/pull/5886) merged on January 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5886) over 3 days, 1 addition and 1 deletion in 1 file</sub>
