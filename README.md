@@ -4,7 +4,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-24 commits.
+25 commits.
 
 * **[Spt](https://github.com/intspt)** &mdash; Solve the problem that <Flutter/Flutter.h> cannot be imported when a pod transitive depends on Flutter<br />
     <sub>[#125610](https://github.com/flutter/flutter/pull/125610) merged on January 16, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/125610) over 8 months, 78 additions and 4 deletions in 3 files</sub><br />
@@ -24,7 +24,7 @@
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets: roll deps<br />
-    <sub>[#141684](https://github.com/flutter/flutter/pull/141684) merged on January 17, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/141684) over 6 hours, 57 additions and 34 deletions in 20 files</sub><br />
+    <sub>[#141684](https://github.com/flutter/flutter/pull/141684) merged on January 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/141684) over 6 hours, 57 additions and 34 deletions in 20 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] prepare for https://github.com/flutter/engine/pull/49786<br />
@@ -62,6 +62,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Ignore  or fix leaks.<br />
     <sub>[#141468](https://github.com/flutter/flutter/pull/141468) merged on January 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141468) over 3 days, 62 additions and 19 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Make test file systems/platforms used in asset_bundle_test.dart less dependent on the host platform<br />
+    <sub>[#141657](https://github.com/flutter/flutter/pull/141657) merged on January 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141657) over 20 hours, 19 additions and 11 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update tests to Xcode 15<br />
     <sub>[#141706](https://github.com/flutter/flutter/pull/141706) merged on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141706) over 1 hour, 17 additions and 215 deletions in 1 file</sub><br />
