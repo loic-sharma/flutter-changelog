@@ -63,7 +63,7 @@
     <sub>[#141265](https://github.com/flutter/flutter/pull/141265) opened on on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141265) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Change dialog font family<br />
-    <sub>[#141295](https://github.com/flutter/flutter/pull/141295) opened on on January 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141295) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#141295](https://github.com/flutter/flutter/pull/141295) opened on on January 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141295) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Kohei Seino](https://github.com/kseino)** &mdash; use PDI to end the isolated scope for RLI<br />
     <sub>[#141345](https://github.com/flutter/flutter/pull/141345) opened on on January 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/141345) 22 additions and 1 deletion in 2 files</sub><br />
