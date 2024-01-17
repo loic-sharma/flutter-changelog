@@ -4,7 +4,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-17 commits.
+18 commits.
 
 * **[Spt](https://github.com/intspt)** &mdash; Solve the problem that <Flutter/Flutter.h> cannot be imported when a pod transitive depends on Flutter
     <sub>[#125610](https://github.com/flutter/flutter/pull/125610) merged on January 16, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/125610) over 8 months, 78 additions and 4 deletions in 3 files</sub>
@@ -46,6 +46,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Ignore  or fix leaks.
     <sub>[#141468](https://github.com/flutter/flutter/pull/141468) merged on January 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141468) over 3 days, 62 additions and 19 deletions in 13 files</sub>
     <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix the --empty flag to not try working with non-app templates
+    <sub>[#141632](https://github.com/flutter/flutter/pull/141632) merged on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141632) over 21 hours, 33 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; TrainHoppingAnimation should dispatch creation and disposal events.
     <sub>[#141635](https://github.com/flutter/flutter/pull/141635) merged on January 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141635) over 7 hours, 28 additions and 0 deletions in 2 files</sub>
