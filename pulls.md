@@ -80,9 +80,6 @@
 * **[Nishant Kumar](https://github.com/nikkivirtuoso)** &mdash; issue related to back button issue#141361<br />
     <sub>[#141530](https://github.com/flutter/flutter/pull/141530) opened on on January 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141530) 7 additions and 0 deletions in 1 file</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Reland "Remove hack from PageView."<br />
-    <sub>[#141533](https://github.com/flutter/flutter/pull/141533) opened on on January 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141533) 134 additions and 41 deletions in 4 files</sub><br />
-
 * **[neko-andrew](https://github.com/neko-andrew)** &mdash; [CP] Fix intrinsic width of input decorator<br />
     <sub>[#141551](https://github.com/flutter/flutter/pull/141551) opened on on January 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141551) 63 additions and 14 deletions in 2 files</sub><br />
 
