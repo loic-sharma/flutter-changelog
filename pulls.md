@@ -98,3 +98,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Move the requestKeyboard up to the widgets layer<br />
     <sub>[#141655](https://github.com/flutter/flutter/pull/141655) opened on on January 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141655) 1 addition and 7 deletions in 3 files</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; ShowCaretOnScreen is correctly scheduled within a SliverMainAxisGroup<br />
+    <sub>[#141671](https://github.com/flutter/flutter/pull/141671) opened on on January 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141671) 63 additions and 1 deletion in 3 files</sub><br />
+
