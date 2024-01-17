@@ -990,7 +990,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-8 commits.
+9 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Run check_podspecs on arm Mac bots
     <sub>[#5885](https://github.com/flutter/packages/pull/5885) merged on January 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5885) over 3 days, 10 additions and 3 deletions in 1 file</sub>
@@ -1007,6 +1007,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Add support for tracking source locations of BlobNodes.
     <sub>[#5876](https://github.com/flutter/packages/pull/5876) merged on January 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/packages/pull/5876) over 4 days, 598 additions and 119 deletions in 8 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Separates message call code generation into separate methods in the KotlinGenerator 
+    <sub>[#5891](https://github.com/flutter/packages/pull/5891) merged on January 17, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/5891) over 3 days, 294 additions and 200 deletions in 4 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkebview] Verify JavaScriptChannels have a unique name
     <sub>[#5904](https://github.com/flutter/packages/pull/5904) merged on January 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5904) over 21 hours, 50 additions and 2 deletions in 4 files</sub>
