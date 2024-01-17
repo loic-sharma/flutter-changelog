@@ -4,7 +4,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-16 commits.
+17 commits.
 
 * **[Spt](https://github.com/intspt)** &mdash; Solve the problem that <Flutter/Flutter.h> cannot be imported when a pod transitive depends on Flutter
     <sub>[#125610](https://github.com/flutter/flutter/pull/125610) merged on January 16, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/125610) over 8 months, 78 additions and 4 deletions in 3 files</sub>
@@ -70,6 +70,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "BoxPainter should dispatch creation and disposal events."
     <sub>[#141545](https://github.com/flutter/flutter/pull/141545) merged on January 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141545) over 1 minute, 4 additions and 30 deletions in 2 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Roll Flutter Engine from 73a2de5da53f to c7e328518bc0 (5 revisions)"
+    <sub>[#141691](https://github.com/flutter/flutter/pull/141691) merged on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141691) over 2 minutes, 2 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 ### January 6, 2024 to January 12, 2024
 
