@@ -74,9 +74,6 @@
 * **[maRci002](https://github.com/maRci002)** &mdash; [WIP] Predictive back support for routes<br />
     <sub>[#141373](https://github.com/flutter/flutter/pull/141373) opened on on January 11, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/141373) 527 additions and 19 deletions in 8 files</sub><br />
 
-* **[Jo Jaeyong](https://github.com/jaeyoi)** &mdash; Support wireless debugging for iOS 12 or earlier<br />
-    <sub>[#141439](https://github.com/flutter/flutter/pull/141439) opened on on January 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141439) 59 additions and 2 deletions in 3 files</sub><br />
-
 * **[Nishant Kumar](https://github.com/nikkivirtuoso)** &mdash; issue related to back button issue#141361<br />
     <sub>[#141530](https://github.com/flutter/flutter/pull/141530) opened on on January 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141530) 7 additions and 0 deletions in 1 file</sub><br />
 
