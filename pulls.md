@@ -98,3 +98,9 @@
 * **[jukkaleh-atoz](https://github.com/jukkaleh-atoz)** &mdash; Use 24-hour validation if 24-hour dials are used (#141610)<br />
     <sub>[#141685](https://github.com/flutter/flutter/pull/141685) opened on on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141685) 11 additions and 11 deletions in 1 file</sub><br />
 
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] prepare for https://github.com/flutter/engine/pull/49786<br />
+    <sub>[#141700](https://github.com/flutter/flutter/pull/141700) opened on on January 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141700) 9 additions and 5 deletions in 2 files</sub><br />
+
+* **[David Martos](https://github.com/davidmartos96)** &mdash; Fix token usages on Regular Chip and Action Chip<br />
+    <sub>[#141701](https://github.com/flutter/flutter/pull/141701) opened on on January 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141701) 45 additions and 18 deletions in 7 files</sub><br />
+
