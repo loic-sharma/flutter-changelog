@@ -95,3 +95,6 @@
 * **[Simone Stasi](https://github.com/sstasi95)** &mdash; fix CupertinoTabView's Android back button handling with PopScope<br />
     <sub>[#141604](https://github.com/flutter/flutter/pull/141604) opened on on January 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141604) 35 additions and 1 deletion in 2 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Move the requestKeyboard up to the widgets layer<br />
+    <sub>[#141655](https://github.com/flutter/flutter/pull/141655) opened on on January 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141655) 1 addition and 7 deletions in 3 files</sub><br />
+
