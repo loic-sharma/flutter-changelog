@@ -561,7 +561,7 @@
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Switch from transient stencil-only to depth+stencil buffer.<br />
-    <sub>[#47987](https://github.com/flutter/engine/pull/47987) merged on January 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/47987) over 2 months, 119 additions and 58 deletions in 9 files</sub><br />
+    <sub>[#47987](https://github.com/flutter/engine/pull/47987) merged on January 17, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/47987) over 2 months, 119 additions and 58 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] Encode directly to command buffer for Vulkan."<br />
