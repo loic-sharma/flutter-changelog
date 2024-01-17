@@ -4,7 +4,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-13 commits.
+14 commits.
 
 * **[Spt](https://github.com/intspt)** &mdash; Solve the problem that <Flutter/Flutter.h> cannot be imported when a pod transitive depends on Flutter<br />
     <sub>[#125610](https://github.com/flutter/flutter/pull/125610) merged on January 16, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/125610) over 8 months, 78 additions and 4 deletions in 3 files</sub><br />
@@ -18,6 +18,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Allow selection in composing region<br />
     <sub>[#140516](https://github.com/flutter/flutter/pull/140516) merged on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140516) over 3 weeks, 11 additions and 13 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix analyze size on arm64<br />
+    <sub>[#141317](https://github.com/flutter/flutter/pull/141317) merged on January 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/141317) over 6 days, 82 additions and 24 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Update TESTOWNERS iskakaushik -> dnfield<br />
     <sub>[#141649](https://github.com/flutter/flutter/pull/141649) merged on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141649) over 34 minutes, 3 additions and 3 deletions in 1 file</sub><br />
@@ -764,7 +768,7 @@
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Add gclient_variables back for linux_license and fix the excluded files<br />
-    <sub>[#49775](https://github.com/flutter/engine/pull/49775) merged on January 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49775) over 1 hour, 3 additions and 3 deletions in 2 files</sub><br />
+    <sub>[#49775](https://github.com/flutter/engine/pull/49775) merged on January 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/49775) over 1 hour, 3 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Remove `gclient_variables` from `linux_license.json`<br />
