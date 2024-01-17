@@ -4,7 +4,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-15 commits.
+16 commits.
 
 * **[Spt](https://github.com/intspt)** &mdash; Solve the problem that <Flutter/Flutter.h> cannot be imported when a pod transitive depends on Flutter<br />
     <sub>[#125610](https://github.com/flutter/flutter/pull/125610) merged on January 16, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/125610) over 8 months, 78 additions and 4 deletions in 3 files</sub><br />
@@ -46,6 +46,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Ignore  or fix leaks.<br />
     <sub>[#141468](https://github.com/flutter/flutter/pull/141468) merged on January 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141468) over 3 days, 62 additions and 19 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; TrainHoppingAnimation should dispatch creation and disposal events.<br />
+    <sub>[#141635](https://github.com/flutter/flutter/pull/141635) merged on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141635) over 7 hours, 28 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from d4b6b7ec8e48 to 021a5ff5eae6 (5 revisions)"<br />
     <sub>[#141659](https://github.com/flutter/flutter/pull/141659) merged on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141659) over 44 seconds, 1 addition and 1 deletion in 1 file</sub><br />
