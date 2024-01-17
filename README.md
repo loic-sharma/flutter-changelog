@@ -4,7 +4,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-26 commits.
+27 commits.
 
 * **[Spt](https://github.com/intspt)** &mdash; Solve the problem that <Flutter/Flutter.h> cannot be imported when a pod transitive depends on Flutter<br />
     <sub>[#125610](https://github.com/flutter/flutter/pull/125610) merged on January 16, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/125610) over 8 months, 78 additions and 4 deletions in 3 files</sub><br />
@@ -26,6 +26,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Allow selection in composing region<br />
     <sub>[#140516](https://github.com/flutter/flutter/pull/140516) merged on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140516) over 3 weeks, 11 additions and 13 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove non-needed bot and increase time out for leak_tracking.<br />
+    <sub>[#141712](https://github.com/flutter/flutter/pull/141712) merged on January 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141712) over 2 hours, 4 additions and 35 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets: roll deps<br />
     <sub>[#141684](https://github.com/flutter/flutter/pull/141684) merged on January 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/141684) over 6 hours, 57 additions and 34 deletions in 20 files</sub><br />
@@ -565,7 +569,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-26 commits.
+28 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Leave blob URLs untouched in TT policy.<br />
     <sub>[#49782](https://github.com/flutter/engine/pull/49782) merged on January 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49782) over 3 days, 5 additions and 0 deletions in 1 file</sub><br />
@@ -595,6 +599,14 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] generate mipmaps for imagefilters<br />
     <sub>[#49794](https://github.com/flutter/engine/pull/49794) merged on January 16, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/49794) over 5 hours, 48 additions and 29 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] disabled misleading vulkan golden image tests<br />
+    <sub>[#49836](https://github.com/flutter/engine/pull/49836) merged on January 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49836) over 4 hours, 1 addition and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Remove unnecessary statics in keyboard<br />
+    <sub>[#49834](https://github.com/flutter/engine/pull/49834) merged on January 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49834) over 7 hours, 14 additions and 16 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove iOS 12 availability checks<br />
     <sub>[#49771](https://github.com/flutter/engine/pull/49771) merged on January 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49771) over 4 days, 8 additions and 11 deletions in 1 file</sub><br />
