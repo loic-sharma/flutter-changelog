@@ -104,3 +104,9 @@
 * **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Rename filterPluginsByPlatform, cleanup Platform Strings<br />
     <sub>[#141780](https://github.com/flutter/flutter/pull/141780) opened on on January 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141780) 38 additions and 36 deletions in 1 file</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] update analyze_once_test.dart to be null-safe<br />
+    <sub>[#141790](https://github.com/flutter/flutter/pull/141790) opened on on January 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141790) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; enable more tests in web mode<br />
+    <sub>[#141791](https://github.com/flutter/flutter/pull/141791) opened on on January 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141791) 6 additions and 14 deletions in 4 files</sub><br />
+
