@@ -110,6 +110,3 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Enable contextMenuBuilder in the absence of selectionControls<br />
     <sub>[#141810](https://github.com/flutter/flutter/pull/141810) opened on on January 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141810) 49 additions and 5 deletions in 4 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Revert "Make tests more resilient to Skia gold failures and refactor flutter_goldens for extensive technical debt removal (#140101)"<br />
-    <sub>[#141814](https://github.com/flutter/flutter/pull/141814) opened on on January 18, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/141814) 1482 additions and 1702 deletions in 13 files</sub><br />
-
