@@ -721,7 +721,7 @@
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams), [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland: [Impeller] Turned on new blur. (#48472)<br />
-    <sub>[#49642](https://github.com/flutter/engine/pull/49642) merged on January 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/49642) over 1 week, 41 additions and 44 deletions in 4 files</sub><br />
+    <sub>[#49642](https://github.com/flutter/engine/pull/49642) merged on January 18, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/49642) over 1 week, 41 additions and 44 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from d6c08fa9bb54 to 6ff69d6b7f59 (15 revisions)<br />
