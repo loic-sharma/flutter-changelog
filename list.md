@@ -4,7 +4,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-41 commits.
+42 commits.
 
 * **[Spt](https://github.com/intspt)** &mdash; Solve the problem that <Flutter/Flutter.h> cannot be imported when a pod transitive depends on Flutter
     <sub>[#125610](https://github.com/flutter/flutter/pull/125610) merged on January 16, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/125610) over 8 months, 78 additions and 4 deletions in 3 files</sub>
@@ -55,13 +55,13 @@
     <sub>[#140516](https://github.com/flutter/flutter/pull/140516) merged on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140516) over 3 weeks, 11 additions and 13 deletions in 2 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets: roll deps
-    <sub>[#141684](https://github.com/flutter/flutter/pull/141684) merged on January 17, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/141684) over 6 hours, 57 additions and 34 deletions in 20 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove non-needed bot and increase time out for leak_tracking.
     <sub>[#141712](https://github.com/flutter/flutter/pull/141712) merged on January 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141712) over 2 hours, 4 additions and 35 deletions in 1 file</sub>
     <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets: roll deps
+    <sub>[#141684](https://github.com/flutter/flutter/pull/141684) merged on January 17, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/141684) over 6 hours, 57 additions and 34 deletions in 20 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update labeler.yml
     <sub>[#141697](https://github.com/flutter/flutter/pull/141697) merged on January 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141697) over 1 day, 6 additions and 2 deletions in 1 file</sub>
@@ -111,6 +111,10 @@
     <sub>[#141747](https://github.com/flutter/flutter/pull/141747) merged on January 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141747) over 41 minutes, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [godofredoc](https://github.com/godofredoc)</sub>
 
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Run framework_tests_misc in arm64 and x64.
+    <sub>[#141797](https://github.com/flutter/flutter/pull/141797) merged on January 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141797) over 2 hours, 32 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "BoxPainter should dispatch creation and disposal events."
     <sub>[#141545](https://github.com/flutter/flutter/pull/141545) merged on January 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141545) over 1 minute, 4 additions and 30 deletions in 2 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
@@ -123,9 +127,9 @@
     <sub>[#141494](https://github.com/flutter/flutter/pull/141494) merged on January 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/141494) over 3 days, 20 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Ricardo Amador](https://github.com/ricardoamador), [keyonghan](https://github.com/keyonghan)</sub>
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; handle rc versions of gradle in version compare 
-    <sub>[#141612](https://github.com/flutter/flutter/pull/141612) merged on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141612) over 3 hours, 26 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Bartek Pacia](https://github.com/bartekpacia)</sub>
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] Fix token issue on actions/checkout package
+    <sub>[#141652](https://github.com/flutter/flutter/pull/141652) merged on January 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/141652) over 1 day, 3 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: </sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Make test file systems/platforms used in asset_bundle_test.dart less dependent on the host platform
     <sub>[#141657](https://github.com/flutter/flutter/pull/141657) merged on January 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141657) over 20 hours, 19 additions and 11 deletions in 1 file</sub>
@@ -139,33 +143,33 @@
     <sub>[#141656](https://github.com/flutter/flutter/pull/141656) merged on January 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141656) over 16 hours, 64 additions and 11 deletions in 2 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; handle rc versions of gradle in version compare 
+    <sub>[#141612](https://github.com/flutter/flutter/pull/141612) merged on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141612) over 3 hours, 26 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Bartek Pacia](https://github.com/bartekpacia)</sub>
+
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix the --empty flag to not try working with non-app templates
     <sub>[#141632](https://github.com/flutter/flutter/pull/141632) merged on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141632) over 21 hours, 33 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
-
-* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] Fix token issue on actions/checkout package
-    <sub>[#141652](https://github.com/flutter/flutter/pull/141652) merged on January 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/141652) over 1 day, 3 additions and 3 deletions in 1 file</sub>
-    <sub>Reviewed by: </sub>
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; TrainHoppingAnimation should dispatch creation and disposal events.
-    <sub>[#141635](https://github.com/flutter/flutter/pull/141635) merged on January 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141635) over 7 hours, 28 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run `flutter_gallery_ios__start_up` test on Mac-14 in staging
     <sub>[#141795](https://github.com/flutter/flutter/pull/141795) merged on January 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141795) over 37 minutes, 12 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; TrainHoppingAnimation should dispatch creation and disposal events.
+    <sub>[#141635](https://github.com/flutter/flutter/pull/141635) merged on January 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141635) over 7 hours, 28 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
+
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from d4b6b7ec8e48 to 021a5ff5eae6 (5 revisions)"
     <sub>[#141659](https://github.com/flutter/flutter/pull/141659) merged on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141659) over 44 seconds, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Reland "Remove hack from PageView."
-    <sub>[#141533](https://github.com/flutter/flutter/pull/141533) merged on January 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141533) over 4 days, 134 additions and 41 deletions in 4 files</sub>
-    <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Roll Flutter Engine from 73a2de5da53f to c7e328518bc0 (5 revisions)"
     <sub>[#141691](https://github.com/flutter/flutter/pull/141691) merged on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141691) over 2 minutes, 2 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Reland "Remove hack from PageView."
+    <sub>[#141533](https://github.com/flutter/flutter/pull/141533) merged on January 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141533) over 4 days, 134 additions and 41 deletions in 4 files</sub>
+    <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
 
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Revert "Native assets: roll deps"
     <sub>[#141748](https://github.com/flutter/flutter/pull/141748) merged on January 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141748) over 13 hours, 34 additions and 57 deletions in 20 files</sub>
