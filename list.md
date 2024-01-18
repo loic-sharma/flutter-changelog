@@ -1062,7 +1062,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-10 commits.
+11 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Run check_podspecs on arm Mac bots
     <sub>[#5885](https://github.com/flutter/packages/pull/5885) merged on January 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5885) over 3 days, 10 additions and 3 deletions in 1 file</sub>
@@ -1079,6 +1079,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Add support for tracking source locations of BlobNodes.
     <sub>[#5876](https://github.com/flutter/packages/pull/5876) merged on January 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/packages/pull/5876) over 4 days, 598 additions and 119 deletions in 8 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update tests to Xcode 15 and iOS 17 simulator
+    <sub>[#5914](https://github.com/flutter/packages/pull/5914) merged on January 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5914) over 20 hours, 9 additions and 9 deletions in 4 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Restore the arm64 workaround
     <sub>[#5915](https://github.com/flutter/packages/pull/5915) merged on January 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/5915) over 4 hours, 17 additions and 22 deletions in 11 files</sub>

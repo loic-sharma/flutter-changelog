@@ -104,6 +104,6 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Ignore a leak.<br />
     <sub>[#141737](https://github.com/flutter/flutter/pull/141737) opened on on January 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141737) 4 additions and 1 deletion in 1 file</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix "Delete" tooltip is shown disabled on chips with `onDeleted` callback<br />
-    <sub>[#141770](https://github.com/flutter/flutter/pull/141770) opened on on January 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141770) 114 additions and 4 deletions in 4 files</sub><br />
+* **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Rename filterPluginsByPlatform, cleanup Platform Strings<br />
+    <sub>[#141780](https://github.com/flutter/flutter/pull/141780) opened on on January 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141780) 38 additions and 36 deletions in 1 file</sub><br />
 
