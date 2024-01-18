@@ -60,7 +60,7 @@
     <sub>[#141265](https://github.com/flutter/flutter/pull/141265) opened on on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141265) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Change dialog font family<br />
-    <sub>[#141295](https://github.com/flutter/flutter/pull/141295) opened on on January 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141295) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#141295](https://github.com/flutter/flutter/pull/141295) opened on on January 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/141295) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Context Menus deprecation removal<br />
     <sub>[#141310](https://github.com/flutter/flutter/pull/141310) opened on on January 10, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/141310) 401 additions and 1554 deletions in 16 files</sub><br />
