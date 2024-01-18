@@ -1066,7 +1066,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-12 commits.
+13 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Run check_podspecs on arm Mac bots
     <sub>[#5885](https://github.com/flutter/packages/pull/5885) merged on January 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5885) over 3 days, 10 additions and 3 deletions in 1 file</sub>
@@ -1091,6 +1091,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Add flags to formatter command to decide which formatters to run
     <sub>[#5905](https://github.com/flutter/packages/pull/5905) merged on January 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5905) over 1 day, 140 additions and 32 deletions in 2 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Clean up iOS example project
+    <sub>[#5925](https://github.com/flutter/packages/pull/5925) merged on January 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5925) over 18 minutes, 2 additions and 261 deletions in 3 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Restore the arm64 workaround
     <sub>[#5915](https://github.com/flutter/packages/pull/5915) merged on January 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/5915) over 4 hours, 17 additions and 22 deletions in 11 files</sub>
