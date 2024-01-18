@@ -95,9 +95,6 @@
 * **[jukkaleh-atoz](https://github.com/jukkaleh-atoz)** &mdash; Use 24-hour validation if 24-hour dials are used (#141610)<br />
     <sub>[#141685](https://github.com/flutter/flutter/pull/141685) opened on on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141685) 11 additions and 11 deletions in 1 file</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Fix gradle lints No semantic change should be present.<br />
-    <sub>[#141692](https://github.com/flutter/flutter/pull/141692) opened on on January 17, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/141692) 382 additions and 351 deletions in 1 file</sub><br />
-
 * **[David Martos](https://github.com/davidmartos96)** &mdash; Fix token usages on Regular Chip and Action Chip<br />
     <sub>[#141701](https://github.com/flutter/flutter/pull/141701) opened on on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141701) 45 additions and 18 deletions in 7 files</sub><br />
 

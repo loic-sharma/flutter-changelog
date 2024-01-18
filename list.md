@@ -4,7 +4,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-30 commits.
+31 commits.
 
 * **[Spt](https://github.com/intspt)** &mdash; Solve the problem that <Flutter/Flutter.h> cannot be imported when a pod transitive depends on Flutter
     <sub>[#125610](https://github.com/flutter/flutter/pull/125610) merged on January 16, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/125610) over 8 months, 78 additions and 4 deletions in 3 files</sub>
@@ -18,6 +18,10 @@
 * **[Sulav Parajuli](https://github.com/imp-sike)** &mdash; Fix #141061: Add 'color' property to `DrawerButton` and `EndDrawerButton`
     <sub>[#141159](https://github.com/flutter/flutter/pull/141159) merged on January 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141159) over 1 week, 38 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Fix gradle lints No semantic change should be present.
+    <sub>[#141692](https://github.com/flutter/flutter/pull/141692) merged on January 18, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/141692) over 23 hours, 382 additions and 351 deletions in 1 file</sub>
+    <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add `headerHeight` for `SearchAnchor`
     <sub>[#141223](https://github.com/flutter/flutter/pull/141223) merged on January 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141223) over 1 week, 89 additions and 4 deletions in 4 files</sub>
