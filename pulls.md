@@ -107,3 +107,6 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] prepare layers_test.dart for https://github.com/flutter/engine/pull/49786<br />
     <sub>[#141731](https://github.com/flutter/flutter/pull/141731) opened on on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141731) 8 additions and 8 deletions in 1 file</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Ignore a leak.<br />
+    <sub>[#141737](https://github.com/flutter/flutter/pull/141737) opened on on January 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141737) 4 additions and 1 deletion in 1 file</sub><br />
+
