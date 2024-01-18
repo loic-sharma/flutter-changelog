@@ -4,7 +4,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-37 commits.
+39 commits.
 
 * **[Spt](https://github.com/intspt)** &mdash; Solve the problem that <Flutter/Flutter.h> cannot be imported when a pod transitive depends on Flutter
     <sub>[#125610](https://github.com/flutter/flutter/pull/125610) merged on January 16, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/125610) over 8 months, 78 additions and 4 deletions in 3 files</sub>
@@ -18,6 +18,10 @@
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Add check for Bank of Brazil security module to Windows Flutter Doctor validators
     <sub>[#141135](https://github.com/flutter/flutter/pull/141135) merged on January 18, 2024 &mdash; **Small:** [59 comments](https://github.com/flutter/flutter/pull/141135) over 1 week, 135 additions and 6 deletions in 3 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Loïc Sharma](https://github.com/loic-sharma), [Christopher Fujino](https://github.com/christopherfujino), [Greg Spencer](https://github.com/gspencergoog), [Elias Yishak](https://github.com/eliasyishak)</sub>
+
+* **[Callum Moffat](https://github.com/moffatman)** &mdash; ScaleGestureRecognizer pointerCount=2 for trackpad gestures
+    <sub>[#140745](https://github.com/flutter/flutter/pull/140745) merged on January 18, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/140745) over 2 weeks, 105 additions and 5 deletions in 2 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Catch UnsupportedError thrown when user provides an asset directory path containing invalid characters
     <sub>[#141214](https://github.com/flutter/flutter/pull/141214) merged on January 18, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/141214) over 1 week, 34 additions and 2 deletions in 2 files</sub>
@@ -51,9 +55,9 @@
     <sub>[#140516](https://github.com/flutter/flutter/pull/140516) merged on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140516) over 3 weeks, 11 additions and 13 deletions in 2 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove non-needed bot and increase time out for leak_tracking.
-    <sub>[#141712](https://github.com/flutter/flutter/pull/141712) merged on January 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141712) over 2 hours, 4 additions and 35 deletions in 1 file</sub>
-    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub>
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets: roll deps
+    <sub>[#141684](https://github.com/flutter/flutter/pull/141684) merged on January 17, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/141684) over 6 hours, 57 additions and 34 deletions in 20 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move mac pixel 7 pro test to presubmit: false
     <sub>[#141747](https://github.com/flutter/flutter/pull/141747) merged on January 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141747) over 41 minutes, 1 addition and 0 deletions in 1 file</sub>
@@ -95,21 +99,17 @@
     <sub>[#141468](https://github.com/flutter/flutter/pull/141468) merged on January 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141468) over 3 days, 62 additions and 19 deletions in 13 files</sub>
     <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove non-needed bot and increase time out for leak_tracking.
+    <sub>[#141712](https://github.com/flutter/flutter/pull/141712) merged on January 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141712) over 2 hours, 4 additions and 35 deletions in 1 file</sub>
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub>
+
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] prepare layers_test.dart for https://github.com/flutter/engine/pull/49786
     <sub>[#141731](https://github.com/flutter/flutter/pull/141731) merged on January 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141731) over 3 hours, 8 additions and 8 deletions in 1 file</sub>
     <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets: roll deps
-    <sub>[#141684](https://github.com/flutter/flutter/pull/141684) merged on January 17, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/141684) over 6 hours, 57 additions and 34 deletions in 20 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "BoxPainter should dispatch creation and disposal events."
     <sub>[#141545](https://github.com/flutter/flutter/pull/141545) merged on January 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141545) over 1 minute, 4 additions and 30 deletions in 2 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix the --empty flag to not try working with non-app templates
-    <sub>[#141632](https://github.com/flutter/flutter/pull/141632) merged on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141632) over 21 hours, 33 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; TrainHoppingAnimation should dispatch creation and disposal events.
     <sub>[#141635](https://github.com/flutter/flutter/pull/141635) merged on January 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141635) over 7 hours, 28 additions and 0 deletions in 2 files</sub>
@@ -146,6 +146,14 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix Tooltip show delay when mouse moves to one Tooltip from another
     <sub>[#141656](https://github.com/flutter/flutter/pull/141656) merged on January 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141656) over 16 hours, 64 additions and 11 deletions in 2 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run `flutter_gallery_ios__start_up` test on Mac-14 in staging
+    <sub>[#141795](https://github.com/flutter/flutter/pull/141795) merged on January 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141795) over 37 minutes, 12 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix the --empty flag to not try working with non-app templates
+    <sub>[#141632](https://github.com/flutter/flutter/pull/141632) merged on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141632) over 21 hours, 33 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Roll Flutter Engine from 73a2de5da53f to c7e328518bc0 (5 revisions)"
     <sub>[#141691](https://github.com/flutter/flutter/pull/141691) merged on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141691) over 2 minutes, 2 additions and 2 deletions in 2 files</sub>
@@ -1110,11 +1118,15 @@
 
 ### January 13, 2024 to January 19, 2024
 
-13 commits.
+14 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Run check_podspecs on arm Mac bots
     <sub>[#5885](https://github.com/flutter/packages/pull/5885) merged on January 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5885) over 3 days, 10 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[cedvdb](https://github.com/cedvdb)** &mdash; [pointer_interceptor] fix width and height unset warning on web platform
+    <sub>[#5864](https://github.com/flutter/packages/pull/5864) merged on January 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5864) over 1 week, 9 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update minimum iOS versions to 12.0
     <sub>[#5902](https://github.com/flutter/packages/pull/5902) merged on January 17, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/5902) over 6 hours, 1087 additions and 452 deletions in 239 files</sub>
