@@ -612,7 +612,7 @@
 40 commits.
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fall back to multi-context rendering on Firefox and Safari
-    <sub>[#49572](https://github.com/flutter/engine/pull/49572) merged on January 18, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/engine/pull/49572) over 1 week, 621 additions and 167 deletions in 12 files</sub>
+    <sub>[#49572](https://github.com/flutter/engine/pull/49572) merged on January 18, 2024 &mdash; **Large:** [20 comments](https://github.com/flutter/engine/pull/49572) over 1 week, 621 additions and 167 deletions in 12 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Leave blob URLs untouched in TT policy.
