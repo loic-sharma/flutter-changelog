@@ -4,7 +4,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-27 commits.
+28 commits.
 
 * **[Spt](https://github.com/intspt)** &mdash; Solve the problem that <Flutter/Flutter.h> cannot be imported when a pod transitive depends on Flutter
     <sub>[#125610](https://github.com/flutter/flutter/pull/125610) merged on January 16, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/125610) over 8 months, 78 additions and 4 deletions in 3 files</sub>
@@ -26,6 +26,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Allow selection in composing region
     <sub>[#140516](https://github.com/flutter/flutter/pull/140516) merged on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140516) over 3 weeks, 11 additions and 13 deletions in 2 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] prepare layers_test.dart for https://github.com/flutter/engine/pull/49786
+    <sub>[#141731](https://github.com/flutter/flutter/pull/141731) merged on January 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141731) over 3 hours, 8 additions and 8 deletions in 1 file</sub>
+    <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove non-needed bot and increase time out for leak_tracking.
     <sub>[#141712](https://github.com/flutter/flutter/pull/141712) merged on January 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141712) over 2 hours, 4 additions and 35 deletions in 1 file</sub>
