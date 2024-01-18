@@ -44,7 +44,7 @@
     <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets: roll deps<br />
-    <sub>[#141684](https://github.com/flutter/flutter/pull/141684) merged on January 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/141684) over 6 hours, 57 additions and 34 deletions in 20 files</sub><br />
+    <sub>[#141684](https://github.com/flutter/flutter/pull/141684) merged on January 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/141684) over 6 hours, 57 additions and 34 deletions in 20 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] prepare for https://github.com/flutter/engine/pull/49786<br />
@@ -56,7 +56,7 @@
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Fix analyze size on arm64<br />
-    <sub>[#141317](https://github.com/flutter/flutter/pull/141317) merged on January 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/141317) over 6 days, 82 additions and 24 deletions in 3 files</sub><br />
+    <sub>[#141317](https://github.com/flutter/flutter/pull/141317) merged on January 17, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/141317) over 6 days, 82 additions and 24 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Update TESTOWNERS iskakaushik -> dnfield<br />
