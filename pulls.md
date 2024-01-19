@@ -108,7 +108,7 @@
     <sub>[#141844](https://github.com/flutter/flutter/pull/141844) opened on on January 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141844) 23 additions and 7 deletions in 5 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Test the gold system<br />
-    <sub>[#141898](https://github.com/flutter/flutter/pull/141898) opened on on January 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141898) 2 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#141898](https://github.com/flutter/flutter/pull/141898) opened on on January 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141898) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Merge flutter_goldens_client into flutter_goldens<br />
     <sub>[#141900](https://github.com/flutter/flutter/pull/141900) opened on on January 19, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/141900) 9 additions and 611 deletions in 6 files</sub><br />
