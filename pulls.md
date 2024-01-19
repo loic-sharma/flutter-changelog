@@ -110,3 +110,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Merge flutter_goldens_client into flutter_goldens<br />
     <sub>[#141900](https://github.com/flutter/flutter/pull/141900) opened on on January 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141900) 9 additions and 29 deletions in 6 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a comment about how to test flutter_goldens<br />
+    <sub>[#141902](https://github.com/flutter/flutter/pull/141902) opened on on January 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141902) 5 additions and 1 deletion in 2 files</sub><br />
+
