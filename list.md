@@ -7,7 +7,7 @@
 47 commits.
 
 * **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Enable native compilation for windows-arm64 
-    <sub>[#137618](https://github.com/flutter/flutter/pull/137618) merged on January 18, 2024 &mdash; **Medium:** [104 comments](https://github.com/flutter/flutter/pull/137618) over 2 months, 258 additions and 110 deletions in 41 files</sub>
+    <sub>[#137618](https://github.com/flutter/flutter/pull/137618) merged on January 18, 2024 &mdash; **Medium:** [105 comments](https://github.com/flutter/flutter/pull/137618) over 2 months, 258 additions and 110 deletions in 41 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Spt](https://github.com/intspt)** &mdash; Solve the problem that <Flutter/Flutter.h> cannot be imported when a pod transitive depends on Flutter
