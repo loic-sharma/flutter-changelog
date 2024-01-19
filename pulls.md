@@ -111,5 +111,5 @@
     <sub>[#141887](https://github.com/flutter/flutter/pull/141887) opened on on January 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141887) 6 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Test the gold system<br />
-    <sub>[#141888](https://github.com/flutter/flutter/pull/141888) opened on on January 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141888) 4 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#141888](https://github.com/flutter/flutter/pull/141888) opened on on January 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141888) 4 additions and 1 deletion in 2 files</sub><br />
 
