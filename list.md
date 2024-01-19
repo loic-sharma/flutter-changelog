@@ -7,7 +7,7 @@
 57 commits.
 
 * **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Enable native compilation for windows-arm64 
-    <sub>[#137618](https://github.com/flutter/flutter/pull/137618) merged on January 18, 2024 &mdash; **Medium:** [107 comments](https://github.com/flutter/flutter/pull/137618) over 2 months, 258 additions and 110 deletions in 41 files</sub>
+    <sub>[#137618](https://github.com/flutter/flutter/pull/137618) merged on January 18, 2024 &mdash; **Medium:** [108 comments](https://github.com/flutter/flutter/pull/137618) over 2 months, 258 additions and 110 deletions in 41 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Spt](https://github.com/intspt)** &mdash; Solve the problem that <Flutter/Flutter.h> cannot be imported when a pod transitive depends on Flutter
@@ -16,7 +16,7 @@
     <sub><details><summary>2 images...</summary>![image](https://user-images.githubusercontent.com/8318578/234780282-89b18d27-df49-4b4e-88b5-c9d17cf3334f.png)![image](https://user-images.githubusercontent.com/8318578/234780668-901ab816-5b6b-4d87-a6f4-120b5852580c.png)</details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix "Delete" tooltip is shown disabled on chips with `onDeleted` callback
-    <sub>[#141770](https://github.com/flutter/flutter/pull/141770) merged on January 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141770) over 1 day, 114 additions and 4 deletions in 4 files</sub>
+    <sub>[#141770](https://github.com/flutter/flutter/pull/141770) merged on January 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141770) over 1 day, 114 additions and 4 deletions in 4 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
     <sub><details><summary>2 images...</summary><img src="https://github.com/flutter/flutter/assets/48603081/f80ae5f7-0a6d-4041-ade3-cbc2b5c78188" height="450" /><img src="https://github.com/flutter/flutter/assets/48603081/04e62854-e3f1-4b65-9753-183d288f3cfe" height="450" /></details></sub>
 
@@ -1240,11 +1240,15 @@
 
 ### January 13, 2024 to January 19, 2024
 
-23 commits.
+24 commits.
 
 * **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter_wkwebview] Add javascript panel interface for wkwebview
     <sub>[#5795](https://github.com/flutter/packages/pull/5795) merged on January 18, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/5795) over 2 weeks, 872 additions and 21 deletions in 20 files</sub>
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Run Swift formatter and linter during CI formatting
+    <sub>[#5928](https://github.com/flutter/packages/pull/5928) merged on January 19, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/5928) over 1 day, 127 additions and 18 deletions in 7 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [pigeon] Run swift-format on ungenerated example app Swift files
     <sub>[#5934](https://github.com/flutter/packages/pull/5934) merged on January 19, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/5934) over 4 hours, 493 additions and 388 deletions in 19 files</sub>

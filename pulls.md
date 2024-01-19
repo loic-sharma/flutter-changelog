@@ -80,15 +80,6 @@
 * **[Simone Stasi](https://github.com/sstasi95)** &mdash; fix CupertinoTabView's Android back button handling with PopScope<br />
     <sub>[#141604](https://github.com/flutter/flutter/pull/141604) opened on on January 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141604) 35 additions and 1 deletion in 2 files</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; ShowCaretOnScreen is correctly scheduled within a SliverMainAxisGroup<br />
-    <sub>[#141671](https://github.com/flutter/flutter/pull/141671) opened on on January 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141671) 63 additions and 1 deletion in 3 files</sub><br />
-
-* **[jukkaleh-atoz](https://github.com/jukkaleh-atoz)** &mdash; Use 24-hour validation if 24-hour dials are used (#141610)<br />
-    <sub>[#141685](https://github.com/flutter/flutter/pull/141685) opened on on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141685) 11 additions and 11 deletions in 1 file</sub><br />
-
-* **[David Martos](https://github.com/davidmartos96)** &mdash; Fix token usages on Regular Chip and Action Chip<br />
-    <sub>[#141701](https://github.com/flutter/flutter/pull/141701) opened on on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141701) 45 additions and 18 deletions in 7 files</sub><br />
-
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [cp-stable]some random title<br />
     <sub>[#141730](https://github.com/flutter/flutter/pull/141730) opened on on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141730) 1 addition and 8 deletions in 1 file</sub><br />
 
@@ -100,9 +91,6 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Enable contextMenuBuilder in the absence of selectionControls<br />
     <sub>[#141810](https://github.com/flutter/flutter/pull/141810) opened on on January 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141810) 49 additions and 5 deletions in 4 files</sub><br />
-
-* **[Aizat Azhar](https://github.com/aizatazhar)** &mdash; Reset framesEnabled to default value at the end of each test<br />
-    <sub>[#141844](https://github.com/flutter/flutter/pull/141844) opened on on January 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141844) 23 additions and 7 deletions in 5 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Merge flutter_goldens_client into flutter_goldens<br />
     <sub>[#141900](https://github.com/flutter/flutter/pull/141900) opened on on January 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141900) 9 additions and 29 deletions in 6 files</sub><br />
