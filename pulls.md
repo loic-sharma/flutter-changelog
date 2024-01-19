@@ -62,9 +62,6 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Context Menus deprecation removal<br />
     <sub>[#141310](https://github.com/flutter/flutter/pull/141310) opened on on January 10, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/141310) 401 additions and 1554 deletions in 16 files</sub><br />
 
-* **[Kohei Seino](https://github.com/kseino)** &mdash; use PDI to end the isolated scope for RLI<br />
-    <sub>[#141345](https://github.com/flutter/flutter/pull/141345) opened on on January 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/141345) 22 additions and 1 deletion in 2 files</sub><br />
-
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Make destructiveRed a CupertinoDynamicColor<br />
     <sub>[#141364](https://github.com/flutter/flutter/pull/141364) opened on on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141364) 1 addition and 1 deletion in 1 file</sub><br />
 
