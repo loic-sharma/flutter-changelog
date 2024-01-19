@@ -1227,7 +1227,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-22 commits.
+23 commits.
 
 * **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter_wkwebview] Add javascript panel interface for wkwebview
     <sub>[#5795](https://github.com/flutter/packages/pull/5795) merged on January 18, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/5795) over 2 weeks, 872 additions and 21 deletions in 20 files</sub>
@@ -1240,6 +1240,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Run check_podspecs on arm Mac bots
     <sub>[#5885](https://github.com/flutter/packages/pull/5885) merged on January 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5885) over 3 days, 10 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Expose registered widget libraries and local widget library widgets.
+    <sub>[#5936](https://github.com/flutter/packages/pull/5936) merged on January 19, 2024 &mdash; **Small:** [27 comments](https://github.com/flutter/packages/pull/5936) over 14 hours, 57 additions and 3 deletions in 5 files</sub>
+    <sub>Reviewed by: [Juanjo Tugores](https://github.com/tugorez), [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[cedvdb](https://github.com/cedvdb)** &mdash; [pointer_interceptor] fix width and height unset warning on web platform
     <sub>[#5864](https://github.com/flutter/packages/pull/5864) merged on January 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/5864) over 1 week, 9 additions and 2 deletions in 3 files</sub>
