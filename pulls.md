@@ -102,7 +102,7 @@
     <sub>[#141780](https://github.com/flutter/flutter/pull/141780) opened on on January 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141780) 38 additions and 36 deletions in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] update analyze_once_test.dart to be null-safe<br />
-    <sub>[#141790](https://github.com/flutter/flutter/pull/141790) opened on on January 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141790) 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#141790](https://github.com/flutter/flutter/pull/141790) opened on on January 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141790) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Enable contextMenuBuilder in the absence of selectionControls<br />
     <sub>[#141810](https://github.com/flutter/flutter/pull/141810) opened on on January 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141810) 49 additions and 5 deletions in 4 files</sub><br />
@@ -112,7 +112,4 @@
 
 * **[Aizat Azhar](https://github.com/aizatazhar)** &mdash; Reset framesEnabled to default value at the end of each test<br />
     <sub>[#141844](https://github.com/flutter/flutter/pull/141844) opened on on January 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141844) 23 additions and 7 deletions in 5 files</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll engine to 9a6c64de8a4694cef59a338cd33ac1a9e7d23d9d<br />
-    <sub>[#141870](https://github.com/flutter/flutter/pull/141870) opened on on January 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141870) 6 additions and 20 deletions in 2 files</sub><br />
 
