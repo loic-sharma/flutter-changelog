@@ -107,9 +107,6 @@
 * **[Aizat Azhar](https://github.com/aizatazhar)** &mdash; Reset framesEnabled to default value at the end of each test<br />
     <sub>[#141844](https://github.com/flutter/flutter/pull/141844) opened on on January 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141844) 23 additions and 7 deletions in 5 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Debugging skia tests.<br />
-    <sub>[#141887](https://github.com/flutter/flutter/pull/141887) opened on on January 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141887) 6 additions and 2 deletions in 2 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Test the gold system<br />
-    <sub>[#141888](https://github.com/flutter/flutter/pull/141888) opened on on January 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141888) 4 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#141888](https://github.com/flutter/flutter/pull/141888) opened on on January 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141888) 4 additions and 1 deletion in 2 files</sub><br />
 
