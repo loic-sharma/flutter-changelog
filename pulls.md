@@ -56,9 +56,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Don't show legacy welcome message when analytics are disabled<br />
     <sub>[#140956](https://github.com/flutter/flutter/pull/140956) opened on on January 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140956) 10 additions and 11 deletions in 1 file</sub><br />
 
-* **[Muhammad Afiq](https://github.com/blackzafiqz)** &mdash; Upgrade flutter_localizations dependency(intl)<br />
-    <sub>[#141265](https://github.com/flutter/flutter/pull/141265) opened on on January 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141265) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Change dialog font family<br />
     <sub>[#141295](https://github.com/flutter/flutter/pull/141295) opened on on January 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/141295) 1 addition and 1 deletion in 1 file</sub><br />
 
