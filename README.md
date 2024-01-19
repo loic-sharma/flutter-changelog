@@ -1230,7 +1230,7 @@
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Restore the arm64 workaround<br />
-    <sub>[#5915](https://github.com/flutter/packages/pull/5915) merged on January 18, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/5915) over 4 hours, 17 additions and 22 deletions in 11 files</sub><br />
+    <sub>[#5915](https://github.com/flutter/packages/pull/5915) merged on January 18, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/5915) over 4 hours, 17 additions and 22 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Separates message call code generation into separate methods in the KotlinGenerator <br />
