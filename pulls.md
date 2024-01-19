@@ -110,3 +110,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Enable contextMenuBuilder in the absence of selectionControls<br />
     <sub>[#141810](https://github.com/flutter/flutter/pull/141810) opened on on January 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141810) 49 additions and 5 deletions in 4 files</sub><br />
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Added ButtonStyle.foregroundBuilder and ButtonStyle.backgroundBuilder<br />
+    <sub>[#141818](https://github.com/flutter/flutter/pull/141818) opened on on January 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141818) 166 additions and 53 deletions in 8 files</sub><br />
+
