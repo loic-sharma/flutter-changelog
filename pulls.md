@@ -84,7 +84,7 @@
     <sub>[#141780](https://github.com/flutter/flutter/pull/141780) opened on on January 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141780) 38 additions and 36 deletions in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] update analyze_once_test.dart to be null-safe<br />
-    <sub>[#141790](https://github.com/flutter/flutter/pull/141790) opened on on January 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141790) 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#141790](https://github.com/flutter/flutter/pull/141790) opened on on January 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141790) 18 additions and 25 deletions in 1 file</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Enable contextMenuBuilder in the absence of selectionControls<br />
     <sub>[#141810](https://github.com/flutter/flutter/pull/141810) opened on on January 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141810) 49 additions and 5 deletions in 4 files</sub><br />
