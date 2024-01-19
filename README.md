@@ -1163,7 +1163,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-19 commits.
+20 commits.
 
 * **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter_wkwebview] Add javascript panel interface for wkwebview<br />
     <sub>[#5795](https://github.com/flutter/packages/pull/5795) merged on January 18, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/5795) over 2 weeks, 872 additions and 21 deletions in 20 files</sub><br />
@@ -1192,6 +1192,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update tests to Xcode 15 and iOS 17 simulator<br />
     <sub>[#5914](https://github.com/flutter/packages/pull/5914) merged on January 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5914) over 20 hours, 9 additions and 9 deletions in 4 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [path_provider_foundation] Run swift-format on Swift files<br />
+    <sub>[#5935](https://github.com/flutter/packages/pull/5935) merged on January 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5935) over 3 hours, 54 additions and 52 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [shared_preferences_foundation] Run swift-format on Swift files<br />
     <sub>[#5933](https://github.com/flutter/packages/pull/5933) merged on January 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5933) over 2 hours, 52 additions and 51 deletions in 3 files</sub><br />
