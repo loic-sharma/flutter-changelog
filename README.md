@@ -1163,7 +1163,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-17 commits.
+18 commits.
 
 * **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter_wkwebview] Add javascript panel interface for wkwebview<br />
     <sub>[#5795](https://github.com/flutter/packages/pull/5795) merged on January 18, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/5795) over 2 weeks, 872 additions and 21 deletions in 20 files</sub><br />
@@ -1192,6 +1192,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update tests to Xcode 15 and iOS 17 simulator<br />
     <sub>[#5914](https://github.com/flutter/packages/pull/5914) merged on January 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5914) over 20 hours, 9 additions and 9 deletions in 4 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [various] Run swift-format on example app Swift files<br />
+    <sub>[#5931](https://github.com/flutter/packages/pull/5931) merged on January 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5931) over 3 hours, 54 additions and 62 deletions in 22 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [camera_avfoundation] Remove development team from Xcode example app<br />
     <sub>[#5930](https://github.com/flutter/packages/pull/5930) merged on January 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5930) over 3 hours, 1 addition and 5 deletions in 2 files</sub><br />
