@@ -1163,11 +1163,15 @@
 
 ### January 13, 2024 to January 19, 2024
 
-20 commits.
+21 commits.
 
 * **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter_wkwebview] Add javascript panel interface for wkwebview<br />
     <sub>[#5795](https://github.com/flutter/packages/pull/5795) merged on January 18, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/5795) over 2 weeks, 872 additions and 21 deletions in 20 files</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [pigeon] Run swift-format on ungenerated example app Swift files<br />
+    <sub>[#5934](https://github.com/flutter/packages/pull/5934) merged on January 19, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/5934) over 4 hours, 493 additions and 388 deletions in 19 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Run check_podspecs on arm Mac bots<br />
     <sub>[#5885](https://github.com/flutter/packages/pull/5885) merged on January 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5885) over 3 days, 10 additions and 3 deletions in 1 file</sub><br />
