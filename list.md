@@ -6,6 +6,10 @@
 
 45 commits.
 
+* **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Enable native compilation for windows-arm64 
+    <sub>[#137618](https://github.com/flutter/flutter/pull/137618) merged on January 18, 2024 &mdash; **Medium:** [104 comments](https://github.com/flutter/flutter/pull/137618) over 2 months, 258 additions and 110 deletions in 41 files</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 * **[Spt](https://github.com/intspt)** &mdash; Solve the problem that <Flutter/Flutter.h> cannot be imported when a pod transitive depends on Flutter
     <sub>[#125610](https://github.com/flutter/flutter/pull/125610) merged on January 16, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/125610) over 8 months, 78 additions and 4 deletions in 3 files</sub>
     <sub>Reviewed by: [hyiso](https://github.com/hyiso), [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub>
@@ -15,10 +19,6 @@
     <sub>[#140698](https://github.com/flutter/flutter/pull/140698) merged on January 18, 2024 &mdash; **Small:** [50 comments](https://github.com/flutter/flutter/pull/140698) over 3 weeks, 61 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub>
     <sub><details><summary>3 images...</summary>![original](https://github.com/flutter/flutter/assets/22084723/f52d46bb-eaf9-4519-976e-9ea07c021e14)![new_72](https://github.com/flutter/flutter/assets/22084723/8c9d3510-eaca-4b7d-92d8-0d06a7e75136)![new_64](https://github.com/flutter/flutter/assets/22084723/f8811b70-766f-4a4f-b069-33673b1e3744)</details></sub>
-
-* **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Enable native compilation for windows-arm64 
-    <sub>[#137618](https://github.com/flutter/flutter/pull/137618) merged on January 18, 2024 &mdash; **Medium:** [104 comments](https://github.com/flutter/flutter/pull/137618) over 2 months, 258 additions and 110 deletions in 41 files</sub>
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Add check for Bank of Brazil security module to Windows Flutter Doctor validators
     <sub>[#141135](https://github.com/flutter/flutter/pull/141135) merged on January 18, 2024 &mdash; **Small:** [59 comments](https://github.com/flutter/flutter/pull/141135) over 1 week, 135 additions and 6 deletions in 3 files</sub>
