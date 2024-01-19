@@ -770,7 +770,7 @@
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Redo - Use chromium test-scripts to download images and execute tests<br />
-    <sub>[#49847](https://github.com/flutter/engine/pull/49847) merged on January 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/49847) over 1 day, 162 additions and 4 deletions in 6 files</sub><br />
+    <sub>[#49847](https://github.com/flutter/engine/pull/49847) merged on January 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/49847) over 1 day, 162 additions and 4 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Manually bump Dart to 3.4.0-34.0.dev"<br />
