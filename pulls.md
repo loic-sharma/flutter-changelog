@@ -110,3 +110,6 @@
 * **[Aizat Azhar](https://github.com/aizatazhar)** &mdash; Reset framesEnabled to default value at the end of each test<br />
     <sub>[#141844](https://github.com/flutter/flutter/pull/141844) opened on on January 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141844) 23 additions and 7 deletions in 5 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Debugging skia tests.<br />
+    <sub>[#141884](https://github.com/flutter/flutter/pull/141884) opened on on January 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141884) 7 additions and 2 deletions in 2 files</sub><br />
+
