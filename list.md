@@ -1171,7 +1171,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-21 commits.
+22 commits.
 
 * **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter_wkwebview] Add javascript panel interface for wkwebview
     <sub>[#5795](https://github.com/flutter/packages/pull/5795) merged on January 18, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/5795) over 2 weeks, 872 additions and 21 deletions in 20 files</sub>
@@ -1256,6 +1256,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Bump `release` to use 3.16.6
     <sub>[#5886](https://github.com/flutter/packages/pull/5886) merged on January 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5886) over 3 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Flutter (stable) from ef1af02aead6 to 67457e669f79 (1 revision)
+    <sub>[#5932](https://github.com/flutter/packages/pull/5932) merged on January 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5932) over 14 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### January 6, 2024 to January 12, 2024
 
