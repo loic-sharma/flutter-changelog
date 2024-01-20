@@ -1264,7 +1264,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-26 commits.
+27 commits.
 
 * **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter_wkwebview] Add javascript panel interface for wkwebview
     <sub>[#5795](https://github.com/flutter/packages/pull/5795) merged on January 18, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/5795) over 2 weeks, 872 additions and 21 deletions in 20 files</sub>
@@ -1281,6 +1281,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Run check_podspecs on arm Mac bots
     <sub>[#5885](https://github.com/flutter/packages/pull/5885) merged on January 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5885) over 3 days, 10 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Support other hosts in generated file CI checks
+    <sub>[#5944](https://github.com/flutter/packages/pull/5944) merged on January 20, 2024 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/5944) over 1 day, 1424 additions and 556 deletions in 8 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Improve style of generated Swift code
     <sub>[#5938](https://github.com/flutter/packages/pull/5938) merged on January 20, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/5938) over 1 day, 1053 additions and 934 deletions in 10 files</sub>
