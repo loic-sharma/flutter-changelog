@@ -1256,7 +1256,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-24 commits.
+25 commits.
 
 * **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter_wkwebview] Add javascript panel interface for wkwebview
     <sub>[#5795](https://github.com/flutter/packages/pull/5795) merged on January 18, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/5795) over 2 weeks, 872 additions and 21 deletions in 20 files</sub>
@@ -1317,6 +1317,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Add flags to formatter command to decide which formatters to run
     <sub>[#5905](https://github.com/flutter/packages/pull/5905) merged on January 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5905) over 1 day, 140 additions and 32 deletions in 2 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [camera]fix a sample buffer memory leak on pause resume recording
+    <sub>[#5927](https://github.com/flutter/packages/pull/5927) merged on January 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5927) over 1 day, 46 additions and 11 deletions in 4 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; [two_dimensional_scrollables] Fix must_call_super
     <sub>[#5921](https://github.com/flutter/packages/pull/5921) merged on January 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/5921) over 13 hours, 6 additions and 2 deletions in 3 files</sub>
