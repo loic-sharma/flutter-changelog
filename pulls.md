@@ -95,3 +95,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a comment about how to test flutter_goldens<br />
     <sub>[#141902](https://github.com/flutter/flutter/pull/141902) opened on on January 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141902) 5 additions and 1 deletion in 2 files</sub><br />
 
+* **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Enable native compilation for windows-arm64<br />
+    <sub>[#141930](https://github.com/flutter/flutter/pull/141930) opened on on January 20, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/141930) 258 additions and 110 deletions in 41 files</sub><br />
+
