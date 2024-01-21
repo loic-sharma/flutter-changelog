@@ -95,3 +95,6 @@
 * **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Enable native compilation for windows-arm64<br />
     <sub>[#141930](https://github.com/flutter/flutter/pull/141930) opened on on January 20, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/141930) 258 additions and 110 deletions in 41 files</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; Don't change the height of the Textfield's labelStyle when it focused.<br />
+    <sub>[#141943](https://github.com/flutter/flutter/pull/141943) opened on on January 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141943) 27 additions and 2 deletions in 2 files</sub><br />
+
