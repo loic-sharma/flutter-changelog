@@ -1268,7 +1268,7 @@
 
 ### January 13, 2024 to January 19, 2024
 
-27 commits.
+28 commits.
 
 * **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter_wkwebview] Add javascript panel interface for wkwebview
     <sub>[#5795](https://github.com/flutter/packages/pull/5795) merged on January 18, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/5795) over 2 weeks, 872 additions and 21 deletions in 20 files</sub>
@@ -1313,6 +1313,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Add support for tracking source locations of BlobNodes.
     <sub>[#5876](https://github.com/flutter/packages/pull/5876) merged on January 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/packages/pull/5876) over 4 days, 598 additions and 119 deletions in 8 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update platform label rules for shared iOS/macOS
+    <sub>[#5801](https://github.com/flutter/packages/pull/5801) merged on January 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5801) over 2 weeks, 9 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update tests to Xcode 15 and iOS 17 simulator
     <sub>[#5914](https://github.com/flutter/packages/pull/5914) merged on January 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5914) over 20 hours, 9 additions and 9 deletions in 4 files</sub>
