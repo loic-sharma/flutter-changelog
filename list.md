@@ -4,7 +4,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-13 commits.
+14 commits.
 
 * **[Hassan Toor](https://github.com/htoor3)** &mdash; [web] - Fix broken `TextField` in semantics mode when it's a sibling of `Navigator`
     <sub>[#138446](https://github.com/flutter/flutter/pull/138446) merged on January 22, 2024 &mdash; **Extra large:** [31 comments](https://github.com/flutter/flutter/pull/138446) over 2 months, 1613 additions and 1242 deletions in 34 files</sub>
@@ -14,6 +14,10 @@
     <sub>[#141777](https://github.com/flutter/flutter/pull/141777) merged on January 22, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/141777) over 3 days, 270 additions and 104 deletions in 3 files</sub>
     <sub>Reviewed by: [Lucas Matheus](https://github.com/LucasMatheusDev), [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>4 images...</summary><img width="789" alt="Screenshot 2024-01-18 at 18 16 15" src="https://github.com/flutter/flutter/assets/48603081/8c6a6f1e-6986-4acf-8dec-e223a682c0d7"><img width="789" alt="Screenshot 2024-01-18 at 18 16 44" src="https://github.com/flutter/flutter/assets/48603081/f55f6a26-2128-48a1-b24d-3c14e4f6ecdc"><img width="789" alt="Screenshot 2024-01-18 at 18 20 27" src="https://github.com/flutter/flutter/assets/48603081/7ec8b888-7319-460d-8488-9cd44c9246a6"><img width="789" alt="Screenshot 2024-01-18 at 18 20 53" src="https://github.com/flutter/flutter/assets/48603081/80d66d5b-7eb2-4f47-ab4d-d7f469a731fa"></details></sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Floating cursor docs
+    <sub>[#133002](https://github.com/flutter/flutter/pull/133002) merged on January 22, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/133002) over 5 months, 62 additions and 3 deletions in 3 files</sub>
+    <sub>Reviewed by: </sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Do not hang on test failures of tests within `flutter_tools`
     <sub>[#141821](https://github.com/flutter/flutter/pull/141821) merged on January 22, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/141821) over 3 days, 17 additions and 2 deletions in 1 file</sub>
@@ -564,7 +568,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-7 commits.
+8 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add golden for Image ColorSource effect transform.
     <sub>[#49930](https://github.com/flutter/engine/pull/49930) merged on January 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49930) over 7 hours, 48 additions and 0 deletions in 3 files</sub>
@@ -586,6 +590,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Fix resize crash
     <sub>[#49935](https://github.com/flutter/engine/pull/49935) merged on January 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49935) over 2 hours, 81 additions and 27 deletions in 5 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Create the golden test screenshotter after setting the Vulkan ICD environment variable
+    <sub>[#49948](https://github.com/flutter/engine/pull/49948) merged on January 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49948) over 1 hour, 7 additions and 7 deletions in 1 file</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Rename and move EGL types
     <sub>[#49900](https://github.com/flutter/engine/pull/49900) merged on January 22, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/49900) over 3 days, 276 additions and 274 deletions in 25 files</sub>
@@ -1059,7 +1067,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-3 commits.
+4 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Update `Activity` references when `ActivityAware` lifecycle methods called
     <sub>[#5784](https://github.com/flutter/packages/pull/5784) merged on January 22, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/5784) over 2 weeks, 426 additions and 41 deletions in 13 files</sub>
@@ -1072,6 +1080,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_platform_interface] Adds WebResourceRequest to HttpResponseError
     <sub>[#5790](https://github.com/flutter/packages/pull/5790) merged on January 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5790) over 2 weeks, 187 additions and 4 deletions in 8 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Tyler](https://github.com/dshukertjr)** &mdash; [url_launcher]: Fix a grammar error in the comments of launchUrl method
+    <sub>[#5919](https://github.com/flutter/packages/pull/5919) merged on January 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/5919) over 4 days, 4 additions and 3 deletions in 3 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 ### January 13, 2024 to January 19, 2024
 
