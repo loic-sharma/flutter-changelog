@@ -1079,7 +1079,12 @@
 
 ### January 20, 2024 to January 26, 2024
 
-5 commits.
+6 commits.
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix TableSpanDecoration rects when axes are reversed
+    <sub>[#5916](https://github.com/flutter/packages/pull/5916) merged on January 22, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/5916) over 5 days, 697 additions and 7 deletions in 4 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/packages/assets/16964204/ae7c6872-c740-4617-95a4-8302a3085d59)</details></sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Update `Activity` references when `ActivityAware` lifecycle methods called
     <sub>[#5784](https://github.com/flutter/packages/pull/5784) merged on January 22, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/5784) over 2 weeks, 426 additions and 41 deletions in 13 files</sub>
