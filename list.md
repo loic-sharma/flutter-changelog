@@ -648,7 +648,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Refactor logic when window resize completes
-    <sub>[#49872](https://github.com/flutter/engine/pull/49872) merged on January 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/49872) over 1 hour, 36 additions and 76 deletions in 12 files</sub>
+    <sub>[#49872](https://github.com/flutter/engine/pull/49872) merged on January 18, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/49872) over 1 hour, 36 additions and 76 deletions in 12 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add README
