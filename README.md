@@ -103,13 +103,13 @@
     <sub>[#140745](https://github.com/flutter/flutter/pull/140745) merged on January 18, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/140745) over 2 weeks, 105 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove more textScaleFactor references<br />
-    <sub>[#141816](https://github.com/flutter/flutter/pull/141816) merged on January 20, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/141816) over 1 day, 425 additions and 300 deletions in 50 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
-
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add `showDragHandle` to `showBottomSheet`<br />
     <sub>[#141754](https://github.com/flutter/flutter/pull/141754) merged on January 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141754) over 1 day, 78 additions and 43 deletions in 3 files</sub><br />
     <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove more textScaleFactor references<br />
+    <sub>[#141816](https://github.com/flutter/flutter/pull/141816) merged on January 20, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/141816) over 1 day, 425 additions and 300 deletions in 50 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Catch UnsupportedError thrown when user provides an asset directory path containing invalid characters<br />
     <sub>[#141214](https://github.com/flutter/flutter/pull/141214) merged on January 18, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/141214) over 1 week, 34 additions and 2 deletions in 2 files</sub><br />
@@ -568,12 +568,16 @@
 
 ### January 20, 2024 to January 26, 2024
 
-8 commits.
+10 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add golden for Image ColorSource effect transform.<br />
     <sub>[#49930](https://github.com/flutter/engine/pull/49930) merged on January 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49930) over 7 hours, 48 additions and 0 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2024-01-22 at 1 37 16 AM](https://github.com/flutter/engine/assets/919017/8b073f83-9821-4004-a56e-60e8946cefe7)</details></sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] fixed colorspace for metal screenshots<br />
+    <sub>[#49941](https://github.com/flutter/engine/pull/49941) merged on January 22, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/49941) over 4 hours, 5 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Bootstrap tests without implicit view by default<br />
     <sub>[#48629](https://github.com/flutter/engine/pull/48629) merged on January 22, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/48629) over 1 month, 146 additions and 88 deletions in 74 files</sub><br />
@@ -590,6 +594,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Fix resize crash<br />
     <sub>[#49935](https://github.com/flutter/engine/pull/49935) merged on January 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49935) over 2 hours, 81 additions and 27 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove frame counter that was unused in Vulkan allocator.<br />
+    <sub>[#49913](https://github.com/flutter/engine/pull/49913) merged on January 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49913) over 2 days, 1 addition and 21 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Create the golden test screenshotter after setting the Vulkan ICD environment variable<br />
     <sub>[#49948](https://github.com/flutter/engine/pull/49948) merged on January 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49948) over 1 hour, 7 additions and 7 deletions in 1 file</sub><br />
@@ -1067,7 +1075,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-4 commits.
+5 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Update `Activity` references when `ActivityAware` lifecycle methods called<br />
     <sub>[#5784](https://github.com/flutter/packages/pull/5784) merged on January 22, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/5784) over 2 weeks, 426 additions and 41 deletions in 13 files</sub><br />
@@ -1076,6 +1084,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [espresso] Replace deprecated `getObservatoryUri`<br />
     <sub>[#5788](https://github.com/flutter/packages/pull/5788) merged on January 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5788) over 2 weeks, 4 additions and 5 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [most on Android] Bump compile SDK version to 34<br />
+    <sub>[#5783](https://github.com/flutter/packages/pull/5783) merged on January 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/5783) over 2 weeks, 127 additions and 72 deletions in 83 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_platform_interface] Adds WebResourceRequest to HttpResponseError<br />
     <sub>[#5790](https://github.com/flutter/packages/pull/5790) merged on January 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5790) over 2 weeks, 187 additions and 4 deletions in 8 files</sub><br />
