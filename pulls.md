@@ -89,3 +89,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] fix language_version_test and enable shuffle<br />
     <sub>[#142009](https://github.com/flutter/flutter/pull/142009) opened on on January 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142009) 1 addition and 7 deletions in 1 file</sub><br />
 
+* **[hangyu](https://github.com/hangyujin)** &mdash; Update material banner maxScaleFactor to meet GAR requirement <br />
+    <sub>[#142015](https://github.com/flutter/flutter/pull/142015) opened on on January 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142015) 68 additions and 6 deletions in 2 files</sub><br />
+
