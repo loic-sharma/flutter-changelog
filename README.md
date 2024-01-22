@@ -568,7 +568,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-10 commits.
+11 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add golden for Image ColorSource effect transform.<br />
     <sub>[#49930](https://github.com/flutter/engine/pull/49930) merged on January 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49930) over 7 hours, 48 additions and 0 deletions in 3 files</sub><br />
@@ -578,6 +578,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] fixed colorspace for metal screenshots<br />
     <sub>[#49941](https://github.com/flutter/engine/pull/49941) merged on January 22, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/49941) over 4 hours, 5 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont emulate command buffers for compute on Metal/Vulkan.<br />
+    <sub>[#49922](https://github.com/flutter/engine/pull/49922) merged on January 22, 2024 &mdash; **Extra large:** [7 comments](https://github.com/flutter/engine/pull/49922) over 2 days, 556 additions and 1057 deletions in 29 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Bootstrap tests without implicit view by default<br />
     <sub>[#48629](https://github.com/flutter/engine/pull/48629) merged on January 22, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/48629) over 1 month, 146 additions and 88 deletions in 74 files</sub><br />
