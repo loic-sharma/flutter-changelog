@@ -87,6 +87,10 @@
     <sub>[#141755](https://github.com/flutter/flutter/pull/141755) merged on January 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141755) over 1 day, 33 additions and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
+* **[Callum Moffat](https://github.com/moffatman)** &mdash; ScaleGestureRecognizer pointerCount=2 for trackpad gestures<br />
+    <sub>[#140745](https://github.com/flutter/flutter/pull/140745) merged on January 18, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/140745) over 2 weeks, 105 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove more textScaleFactor references<br />
     <sub>[#141816](https://github.com/flutter/flutter/pull/141816) merged on January 20, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/141816) over 1 day, 425 additions and 300 deletions in 50 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
@@ -94,10 +98,6 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add `showDragHandle` to `showBottomSheet`<br />
     <sub>[#141754](https://github.com/flutter/flutter/pull/141754) merged on January 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141754) over 1 day, 78 additions and 43 deletions in 3 files</sub><br />
     <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub><br />
-
-* **[Callum Moffat](https://github.com/moffatman)** &mdash; ScaleGestureRecognizer pointerCount=2 for trackpad gestures<br />
-    <sub>[#140745](https://github.com/flutter/flutter/pull/140745) merged on January 18, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/140745) over 2 weeks, 105 additions and 5 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Catch UnsupportedError thrown when user provides an asset directory path containing invalid characters<br />
     <sub>[#141214](https://github.com/flutter/flutter/pull/141214) merged on January 18, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/141214) over 1 week, 34 additions and 2 deletions in 2 files</sub><br />
@@ -1047,7 +1047,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-2 commits.
+3 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Update `Activity` references when `ActivityAware` lifecycle methods called<br />
     <sub>[#5784](https://github.com/flutter/packages/pull/5784) merged on January 22, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/5784) over 2 weeks, 426 additions and 41 deletions in 13 files</sub><br />
@@ -1056,6 +1056,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [espresso] Replace deprecated `getObservatoryUri`<br />
     <sub>[#5788](https://github.com/flutter/packages/pull/5788) merged on January 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5788) over 2 weeks, 4 additions and 5 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_platform_interface] Adds WebResourceRequest to HttpResponseError<br />
+    <sub>[#5790](https://github.com/flutter/packages/pull/5790) merged on January 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5790) over 2 weeks, 187 additions and 4 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 ### January 13, 2024 to January 19, 2024
 
