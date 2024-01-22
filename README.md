@@ -4,7 +4,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-12 commits.
+13 commits.
 
 * **[Hassan Toor](https://github.com/htoor3)** &mdash; [web] - Fix broken `TextField` in semantics mode when it's a sibling of `Navigator`<br />
     <sub>[#138446](https://github.com/flutter/flutter/pull/138446) merged on January 22, 2024 &mdash; **Extra large:** [31 comments](https://github.com/flutter/flutter/pull/138446) over 2 months, 1613 additions and 1242 deletions in 34 files</sub><br />
@@ -46,6 +46,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `RangeSlider` throws a null-check error after `clearSemantics` is called<br />
     <sub>[#141965](https://github.com/flutter/flutter/pull/141965) merged on January 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141965) over 2 hours, 40 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Rename filterPluginsByPlatform, cleanup Platform Strings<br />
+    <sub>[#141780](https://github.com/flutter/flutter/pull/141780) merged on January 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/141780) over 4 days, 38 additions and 36 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Remove unneeded expectation in test<br />
     <sub>[#141822](https://github.com/flutter/flutter/pull/141822) merged on January 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141822) over 3 days, 0 additions and 1 deletion in 1 file</sub><br />
