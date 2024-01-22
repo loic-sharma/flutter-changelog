@@ -899,7 +899,7 @@
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Try to get GLES tests running...<br />
-    <sub>[#49701](https://github.com/flutter/engine/pull/49701) merged on January 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49701) over 14 hours, 19 additions and 10 deletions in 7 files</sub><br />
+    <sub>[#49701](https://github.com/flutter/engine/pull/49701) merged on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49701) over 14 hours, 19 additions and 10 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Start and end a frame in the RenderTargetCache for each rendering of an entity in the playgrounds<br />
