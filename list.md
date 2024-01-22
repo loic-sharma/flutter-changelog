@@ -16,7 +16,7 @@
     <sub><details><summary>2 images...</summary>![image](https://user-images.githubusercontent.com/8318578/234780282-89b18d27-df49-4b4e-88b5-c9d17cf3334f.png)![image](https://user-images.githubusercontent.com/8318578/234780668-901ab816-5b6b-4d87-a6f4-120b5852580c.png)</details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix "Delete" tooltip is shown disabled on chips with `onDeleted` callback
-    <sub>[#141770](https://github.com/flutter/flutter/pull/141770) merged on January 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141770) over 1 day, 114 additions and 4 deletions in 4 files</sub>
+    <sub>[#141770](https://github.com/flutter/flutter/pull/141770) merged on January 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141770) over 1 day, 114 additions and 4 deletions in 4 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
     <sub><details><summary>2 images...</summary><img src="https://github.com/flutter/flutter/assets/48603081/f80ae5f7-0a6d-4041-ade3-cbc2b5c78188" height="450" /><img src="https://github.com/flutter/flutter/assets/48603081/04e62854-e3f1-4b65-9753-183d288f3cfe" height="450" /></details></sub>
 
