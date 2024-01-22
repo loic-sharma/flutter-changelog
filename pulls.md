@@ -101,6 +101,3 @@
 * **[David Martos](https://github.com/davidmartos96)** &mdash; Material 3 - Tab indicator stretch animation<br />
     <sub>[#141954](https://github.com/flutter/flutter/pull/141954) opened on on January 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141954) 128 additions and 0 deletions in 2 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `RangeSlider` throws a null-check error after `clearSemantics` is called<br />
-    <sub>[#141965](https://github.com/flutter/flutter/pull/141965) opened on on January 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141965) 40 additions and 2 deletions in 2 files</sub><br />
-
