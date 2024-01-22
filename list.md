@@ -4,7 +4,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-11 commits.
+12 commits.
 
 * **[Hassan Toor](https://github.com/htoor3)** &mdash; [web] - Fix broken `TextField` in semantics mode when it's a sibling of `Navigator`
     <sub>[#138446](https://github.com/flutter/flutter/pull/138446) merged on January 22, 2024 &mdash; **Extra large:** [31 comments](https://github.com/flutter/flutter/pull/138446) over 2 months, 1613 additions and 1242 deletions in 34 files</sub>
@@ -34,6 +34,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Reapply "Native assets: roll deps" (#141748)
     <sub>[#141864](https://github.com/flutter/flutter/pull/141864) merged on January 22, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/141864) over 2 days, 57 additions and 36 deletions in 21 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; hello_world app: migrate to Gradle Kotlin DSL
+    <sub>[#141541](https://github.com/flutter/flutter/pull/141541) merged on January 22, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/141541) over 1 week, 236 additions and 119 deletions in 7 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove duplicate code as suggested by natebosch.
     <sub>[#141988](https://github.com/flutter/flutter/pull/141988) merged on January 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141988) over 1 hour, 4 additions and 4 deletions in 1 file</sub>

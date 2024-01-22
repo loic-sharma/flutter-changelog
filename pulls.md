@@ -83,9 +83,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Don't change the height of the Textfield's labelStyle when it focused.<br />
     <sub>[#141943](https://github.com/flutter/flutter/pull/141943) opened on on January 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141943) 27 additions and 2 deletions in 2 files</sub><br />
 
-* **[David Martos](https://github.com/davidmartos96)** &mdash; Material 3 - Tab indicator stretch animation<br />
-    <sub>[#141954](https://github.com/flutter/flutter/pull/141954) opened on on January 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141954) 128 additions and 0 deletions in 2 files</sub><br />
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused clipBehavior from OverflowBar<br />
     <sub>[#141976](https://github.com/flutter/flutter/pull/141976) opened on on January 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141976) 2 additions and 24 deletions in 2 files</sub><br />
 
