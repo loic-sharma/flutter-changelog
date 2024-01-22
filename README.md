@@ -4,7 +4,11 @@
 
 ### January 20, 2024 to January 26, 2024
 
-4 commits.
+5 commits.
+
+* **[Hassan Toor](https://github.com/htoor3)** &mdash; [web] - Fix broken `TextField` in semantics mode when it's a sibling of `Navigator`<br />
+    <sub>[#138446](https://github.com/flutter/flutter/pull/138446) merged on January 22, 2024 &mdash; **Extra large:** [31 comments](https://github.com/flutter/flutter/pull/138446) over 2 months, 1613 additions and 1242 deletions in 34 files</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `shape` and `collapsedShape` isn't applied to `ExpansionTile`'s splash ink<br />
     <sub>[#141777](https://github.com/flutter/flutter/pull/141777) merged on January 22, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/141777) over 3 days, 270 additions and 104 deletions in 3 files</sub><br />
@@ -526,9 +530,19 @@
 
 ## flutter/engine
 
+### January 20, 2024 to January 26, 2024
+
+1 commits.
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add golden for Image ColorSource effect transform.<br />
+    <sub>[#49930](https://github.com/flutter/engine/pull/49930) merged on January 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49930) over 7 hours, 48 additions and 0 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+    <sub><details><summary>1 image...</summary>![Screenshot 2024-01-22 at 1 37 16 AM](https://github.com/flutter/engine/assets/919017/8b073f83-9821-4004-a56e-60e8946cefe7)</details></sub>
+
 ### January 13, 2024 to January 19, 2024
 
-57 commits.
+<details>
+<summary>57 commits...</summary>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fall back to multi-context rendering on Firefox and Safari<br />
     <sub>[#49572](https://github.com/flutter/engine/pull/49572) merged on January 18, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/engine/pull/49572) over 1 week, 621 additions and 167 deletions in 12 files</sub><br />
@@ -759,6 +773,8 @@
     <sub>[#49817](https://github.com/flutter/engine/pull/49817) merged on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49817) over 40 minutes, 3 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+</details>
+
 ### January 6, 2024 to January 12, 2024
 
 <details>
@@ -985,9 +1001,18 @@
 
 ## flutter/packages
 
+### January 20, 2024 to January 26, 2024
+
+1 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [espresso] Replace deprecated `getObservatoryUri`<br />
+    <sub>[#5788](https://github.com/flutter/packages/pull/5788) merged on January 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5788) over 2 weeks, 4 additions and 5 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 ### January 13, 2024 to January 19, 2024
 
-28 commits.
+<details>
+<summary>28 commits...</summary>
 
 * **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter_wkwebview] Add javascript panel interface for wkwebview<br />
     <sub>[#5795](https://github.com/flutter/packages/pull/5795) merged on January 18, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/5795) over 2 weeks, 872 additions and 21 deletions in 20 files</sub><br />
@@ -1100,6 +1125,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Flutter (stable) from ef1af02aead6 to 67457e669f79 (1 revision)<br />
     <sub>[#5932](https://github.com/flutter/packages/pull/5932) merged on January 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/5932) over 14 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### January 6, 2024 to January 12, 2024
 
