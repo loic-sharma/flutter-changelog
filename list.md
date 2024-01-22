@@ -4,7 +4,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-9 commits.
+10 commits.
 
 * **[Hassan Toor](https://github.com/htoor3)** &mdash; [web] - Fix broken `TextField` in semantics mode when it's a sibling of `Navigator`
     <sub>[#138446](https://github.com/flutter/flutter/pull/138446) merged on January 22, 2024 &mdash; **Extra large:** [31 comments](https://github.com/flutter/flutter/pull/138446) over 2 months, 1613 additions and 1242 deletions in 34 files</sub>
@@ -42,6 +42,10 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Remove unneeded expectation in test
     <sub>[#141822](https://github.com/flutter/flutter/pull/141822) merged on January 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141822) over 3 days, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Revert "Remove hack from PageView."
+    <sub>[#141977](https://github.com/flutter/flutter/pull/141977) merged on January 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141977) over 1 hour, 41 additions and 134 deletions in 4 files</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 ### January 13, 2024 to January 19, 2024
 
@@ -1035,7 +1039,11 @@
 
 ### January 20, 2024 to January 26, 2024
 
-1 commits.
+2 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Update `Activity` references when `ActivityAware` lifecycle methods called
+    <sub>[#5784](https://github.com/flutter/packages/pull/5784) merged on January 22, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/5784) over 2 weeks, 426 additions and 41 deletions in 13 files</sub>
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [espresso] Replace deprecated `getObservatoryUri`
     <sub>[#5788](https://github.com/flutter/packages/pull/5788) merged on January 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5788) over 2 weeks, 4 additions and 5 deletions in 3 files</sub>
