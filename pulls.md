@@ -60,7 +60,7 @@
     <sub>[#141295](https://github.com/flutter/flutter/pull/141295) opened on on January 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/141295) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Context Menus deprecation removal<br />
-    <sub>[#141310](https://github.com/flutter/flutter/pull/141310) opened on on January 10, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/141310) 572 additions and 1870 deletions in 23 files</sub><br />
+    <sub>[#141310](https://github.com/flutter/flutter/pull/141310) opened on on January 10, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/141310) 575 additions and 1897 deletions in 23 files</sub><br />
 
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Make destructiveRed a CupertinoDynamicColor<br />
     <sub>[#141364](https://github.com/flutter/flutter/pull/141364) opened on on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141364) 1 addition and 1 deletion in 1 file</sub><br />
@@ -94,4 +94,10 @@
 
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; [CP] Revert "Remove hack from PageView." (#141977)<br />
     <sub>[#141995](https://github.com/flutter/flutter/pull/141995) opened on on January 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141995) 41 additions and 134 deletions in 4 files</sub><br />
+
+* **[hangyu](https://github.com/hangyujin)** &mdash; Update navigationBar label's maxScaleFactor to meet GAR requirement<br />
+    <sub>[#141998](https://github.com/flutter/flutter/pull/141998) opened on on January 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141998) 5 additions and 3 deletions in 1 file</sub><br />
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Migrate helloworld example to kotlin dsl 2<br />
+    <sub>[#141999](https://github.com/flutter/flutter/pull/141999) opened on on January 22, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/141999) 236 additions and 119 deletions in 7 files</sub><br />
 
