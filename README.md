@@ -4,11 +4,15 @@
 
 ### January 20, 2024 to January 26, 2024
 
-1 commits.
+2 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ToggleButtons`, `ExpansionPanel`, and `ExpandIcon` tests for Material 3<br />
     <sub>[#141868](https://github.com/flutter/flutter/pull/141868) merged on January 22, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/141868) over 2 days, 419 additions and 22 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Reapply "Native assets: roll deps" (#141748)<br />
+    <sub>[#141864](https://github.com/flutter/flutter/pull/141864) merged on January 22, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/141864) over 2 days, 57 additions and 36 deletions in 21 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 ### January 13, 2024 to January 19, 2024
 
