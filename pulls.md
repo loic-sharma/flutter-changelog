@@ -77,9 +77,6 @@
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [cp-stable]some random title<br />
     <sub>[#141730](https://github.com/flutter/flutter/pull/141730) opened on on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141730) 1 addition and 8 deletions in 1 file</sub><br />
 
-* **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Rename filterPluginsByPlatform, cleanup Platform Strings<br />
-    <sub>[#141780](https://github.com/flutter/flutter/pull/141780) opened on on January 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141780) 38 additions and 36 deletions in 1 file</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Enable contextMenuBuilder in the absence of selectionControls<br />
     <sub>[#141810](https://github.com/flutter/flutter/pull/141810) opened on on January 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141810) 49 additions and 5 deletions in 4 files</sub><br />
 

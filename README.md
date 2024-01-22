@@ -532,12 +532,16 @@
 
 ### January 20, 2024 to January 26, 2024
 
-2 commits.
+3 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add golden for Image ColorSource effect transform.<br />
     <sub>[#49930](https://github.com/flutter/engine/pull/49930) merged on January 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49930) over 7 hours, 48 additions and 0 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2024-01-22 at 1 37 16 AM](https://github.com/flutter/engine/assets/919017/8b073f83-9821-4004-a56e-60e8946cefe7)</details></sub>
+
+* **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Add Mac cache_builder back into Prod<br />
+    <sub>[#49936](https://github.com/flutter/engine/pull/49936) merged on January 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49936) over 57 minutes, 0 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland: Switch from transient stencil-only to depth+stencil buffer.<br />
     <sub>[#49838](https://github.com/flutter/engine/pull/49838) merged on January 22, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49838) over 4 days, 169 additions and 81 deletions in 17 files</sub><br />
