@@ -4,7 +4,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-3 commits.
+4 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `shape` and `collapsedShape` isn't applied to `ExpansionTile`'s splash ink
     <sub>[#141777](https://github.com/flutter/flutter/pull/141777) merged on January 22, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/141777) over 3 days, 270 additions and 104 deletions in 3 files</sub>
@@ -14,6 +14,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ToggleButtons`, `ExpansionPanel`, and `ExpandIcon` tests for Material 3
     <sub>[#141868](https://github.com/flutter/flutter/pull/141868) merged on January 22, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/141868) over 2 days, 419 additions and 22 deletions in 3 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+
+* **[Tess Strickland](https://github.com/sstrickl)** &mdash; Mark defaultTargetPlatform as constant for non-debug non-web builds.
+    <sub>[#141105](https://github.com/flutter/flutter/pull/141105) merged on January 22, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/141105) over 2 weeks, 21 additions and 5 deletions in 2 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Martin Kustermann](https://github.com/mkustermann)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Reapply "Native assets: roll deps" (#141748)
     <sub>[#141864](https://github.com/flutter/flutter/pull/141864) merged on January 22, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/141864) over 2 days, 57 additions and 36 deletions in 21 files</sub>
