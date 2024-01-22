@@ -4,7 +4,12 @@
 
 ### January 20, 2024 to January 26, 2024
 
-2 commits.
+3 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `shape` and `collapsedShape` isn't applied to `ExpansionTile`'s splash ink
+    <sub>[#141777](https://github.com/flutter/flutter/pull/141777) merged on January 22, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/141777) over 3 days, 270 additions and 104 deletions in 3 files</sub>
+    <sub>Reviewed by: [Lucas Matheus](https://github.com/LucasMatheusDev), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub><details><summary>4 images...</summary><img width="789" alt="Screenshot 2024-01-18 at 18 16 15" src="https://github.com/flutter/flutter/assets/48603081/8c6a6f1e-6986-4acf-8dec-e223a682c0d7"><img width="789" alt="Screenshot 2024-01-18 at 18 16 44" src="https://github.com/flutter/flutter/assets/48603081/f55f6a26-2128-48a1-b24d-3c14e4f6ecdc"><img width="789" alt="Screenshot 2024-01-18 at 18 20 27" src="https://github.com/flutter/flutter/assets/48603081/7ec8b888-7319-460d-8488-9cd44c9246a6"><img width="789" alt="Screenshot 2024-01-18 at 18 20 53" src="https://github.com/flutter/flutter/assets/48603081/80d66d5b-7eb2-4f47-ab4d-d7f469a731fa"></details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ToggleButtons`, `ExpansionPanel`, and `ExpandIcon` tests for Material 3
     <sub>[#141868](https://github.com/flutter/flutter/pull/141868) merged on January 22, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/141868) over 2 days, 419 additions and 22 deletions in 3 files</sub>
