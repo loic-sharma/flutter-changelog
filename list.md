@@ -280,7 +280,7 @@
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Reland "Remove hack from PageView."
-    <sub>[#141533](https://github.com/flutter/flutter/pull/141533) merged on January 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141533) over 4 days, 134 additions and 41 deletions in 4 files</sub>
+    <sub>[#141533](https://github.com/flutter/flutter/pull/141533) merged on January 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141533) over 4 days, 134 additions and 41 deletions in 4 files</sub>
     <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
 
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Revert "Native assets: roll deps"
