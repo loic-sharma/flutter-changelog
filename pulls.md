@@ -77,9 +77,6 @@
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [cp-stable]some random title<br />
     <sub>[#141730](https://github.com/flutter/flutter/pull/141730) opened on on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141730) 1 addition and 8 deletions in 1 file</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Enable contextMenuBuilder in the absence of selectionControls<br />
-    <sub>[#141810](https://github.com/flutter/flutter/pull/141810) opened on on January 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141810) 49 additions and 5 deletions in 4 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Merge flutter_goldens_client into flutter_goldens<br />
     <sub>[#141900](https://github.com/flutter/flutter/pull/141900) opened on on January 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141900) 9 additions and 29 deletions in 6 files</sub><br />
 
@@ -91,7 +88,4 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused clipBehavior from OverflowBar<br />
     <sub>[#141976](https://github.com/flutter/flutter/pull/141976) opened on on January 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141976) 2 additions and 24 deletions in 2 files</sub><br />
-
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Migrate helloworld example to kotlin dsl 2<br />
-    <sub>[#141999](https://github.com/flutter/flutter/pull/141999) opened on on January 22, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/141999) 236 additions and 119 deletions in 7 files</sub><br />
 
