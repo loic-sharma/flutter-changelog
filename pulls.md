@@ -71,9 +71,6 @@
 * **[neko-andrew](https://github.com/neko-andrew)** &mdash; [CP] Fix intrinsic width of input decorator<br />
     <sub>[#141551](https://github.com/flutter/flutter/pull/141551) opened on on January 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141551) 63 additions and 14 deletions in 2 files</sub><br />
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in the `cupertino/` directory<br />
-    <sub>[#141591](https://github.com/flutter/flutter/pull/141591) opened on on January 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141591) 69 additions and 127 deletions in 7 files</sub><br />
-
 * **[Simone Stasi](https://github.com/sstasi95)** &mdash; fix CupertinoTabView's Android back button handling with PopScope<br />
     <sub>[#141604](https://github.com/flutter/flutter/pull/141604) opened on on January 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141604) 35 additions and 1 deletion in 2 files</sub><br />
 
