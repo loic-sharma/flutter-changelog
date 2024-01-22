@@ -60,7 +60,7 @@
     <sub>[#141295](https://github.com/flutter/flutter/pull/141295) opened on on January 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/141295) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Context Menus deprecation removal<br />
-    <sub>[#141310](https://github.com/flutter/flutter/pull/141310) opened on on January 10, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/141310) 401 additions and 1554 deletions in 16 files</sub><br />
+    <sub>[#141310](https://github.com/flutter/flutter/pull/141310) opened on on January 10, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/141310) 476 additions and 1615 deletions in 17 files</sub><br />
 
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Make destructiveRed a CupertinoDynamicColor<br />
     <sub>[#141364](https://github.com/flutter/flutter/pull/141364) opened on on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141364) 1 addition and 1 deletion in 1 file</sub><br />
@@ -82,9 +82,6 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Merge flutter_goldens_client into flutter_goldens<br />
     <sub>[#141900](https://github.com/flutter/flutter/pull/141900) opened on on January 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141900) 9 additions and 29 deletions in 6 files</sub><br />
-
-* **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Enable native compilation for windows-arm64<br />
-    <sub>[#141930](https://github.com/flutter/flutter/pull/141930) opened on on January 20, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/141930) 258 additions and 110 deletions in 41 files</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Don't change the height of the Textfield's labelStyle when it focused.<br />
     <sub>[#141943](https://github.com/flutter/flutter/pull/141943) opened on on January 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141943) 27 additions and 2 deletions in 2 files</sub><br />
