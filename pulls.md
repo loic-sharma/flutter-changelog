@@ -92,3 +92,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused clipBehavior from OverflowBar<br />
     <sub>[#141976](https://github.com/flutter/flutter/pull/141976) opened on on January 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141976) 2 additions and 24 deletions in 2 files</sub><br />
 
+* **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; [CP] Revert "Remove hack from PageView." (#141977)<br />
+    <sub>[#141995](https://github.com/flutter/flutter/pull/141995) opened on on January 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141995) 41 additions and 134 deletions in 4 files</sub><br />
+

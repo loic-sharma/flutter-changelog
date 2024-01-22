@@ -552,12 +552,16 @@
 
 ### January 20, 2024 to January 26, 2024
 
-5 commits.
+6 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add golden for Image ColorSource effect transform.
     <sub>[#49930](https://github.com/flutter/engine/pull/49930) merged on January 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49930) over 7 hours, 48 additions and 0 deletions in 3 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot 2024-01-22 at 1 37 16 AM](https://github.com/flutter/engine/assets/919017/8b073f83-9821-4004-a56e-60e8946cefe7)</details></sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Bootstrap tests without implicit view by default
+    <sub>[#48629](https://github.com/flutter/engine/pull/48629) merged on January 22, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/48629) over 1 month, 146 additions and 88 deletions in 74 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] fixed CanRenderClippedRuntimeEffects for vulkan
     <sub>[#49912](https://github.com/flutter/engine/pull/49912) merged on January 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49912) over 2 days, 2 additions and 4 deletions in 2 files</sub>
