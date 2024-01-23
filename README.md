@@ -4,7 +4,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-14 commits.
+15 commits.
 
 * **[Hassan Toor](https://github.com/htoor3)** &mdash; [web] - Fix broken `TextField` in semantics mode when it's a sibling of `Navigator`<br />
     <sub>[#138446](https://github.com/flutter/flutter/pull/138446) merged on January 22, 2024 &mdash; **Extra large:** [31 comments](https://github.com/flutter/flutter/pull/138446) over 2 months, 1613 additions and 1242 deletions in 34 files</sub><br />
@@ -40,7 +40,7 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; hello_world app: migrate to Gradle Kotlin DSL<br />
-    <sub>[#141541](https://github.com/flutter/flutter/pull/141541) merged on January 22, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/141541) over 1 week, 236 additions and 119 deletions in 7 files</sub><br />
+    <sub>[#141541](https://github.com/flutter/flutter/pull/141541) merged on January 22, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/141541) over 1 week, 236 additions and 119 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove duplicate code as suggested by natebosch.<br />
@@ -50,6 +50,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `RangeSlider` throws a null-check error after `clearSemantics` is called<br />
     <sub>[#141965](https://github.com/flutter/flutter/pull/141965) merged on January 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141965) over 2 hours, 40 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "hello_world app: migrate to Gradle Kotlin DSL"<br />
+    <sub>[#142018](https://github.com/flutter/flutter/pull/142018) merged on January 23, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/142018) over 1 minute, 119 additions and 236 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Rename filterPluginsByPlatform, cleanup Platform Strings<br />
     <sub>[#141780](https://github.com/flutter/flutter/pull/141780) merged on January 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/141780) over 4 days, 38 additions and 36 deletions in 1 file</sub><br />
@@ -570,6 +574,10 @@
 
 11 commits.
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Bootstrap tests without implicit view by default<br />
+    <sub>[#48629](https://github.com/flutter/engine/pull/48629) merged on January 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/48629) over 1 month, 146 additions and 88 deletions in 74 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add golden for Image ColorSource effect transform.<br />
     <sub>[#49930](https://github.com/flutter/engine/pull/49930) merged on January 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49930) over 7 hours, 48 additions and 0 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
@@ -582,10 +590,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont emulate command buffers for compute on Metal/Vulkan.<br />
     <sub>[#49922](https://github.com/flutter/engine/pull/49922) merged on January 22, 2024 &mdash; **Extra large:** [7 comments](https://github.com/flutter/engine/pull/49922) over 2 days, 556 additions and 1057 deletions in 29 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Bootstrap tests without implicit view by default<br />
-    <sub>[#48629](https://github.com/flutter/engine/pull/48629) merged on January 22, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/48629) over 1 month, 146 additions and 88 deletions in 74 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] fixed CanRenderClippedRuntimeEffects for vulkan<br />
     <sub>[#49912](https://github.com/flutter/engine/pull/49912) merged on January 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49912) over 2 days, 2 additions and 4 deletions in 2 files</sub><br />
