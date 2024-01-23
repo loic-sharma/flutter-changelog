@@ -589,7 +589,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-13 commits.
+14 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change how OpenGL textures are flipped in the Android embedder.<br />
     <sub>[#49938](https://github.com/flutter/engine/pull/49938) merged on January 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49938) over 7 hours, 18 additions and 8 deletions in 2 files</sub><br />
@@ -640,6 +640,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Create the golden test screenshotter after setting the Vulkan ICD environment variable<br />
     <sub>[#49948](https://github.com/flutter/engine/pull/49948) merged on January 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49948) over 1 hour, 7 additions and 7 deletions in 1 file</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Michael Brase](https://github.com/mbrase)** &mdash; Update buildroot for fidl_binding_deps() support in the Fuchsia SDK<br />
+    <sub>[#49909](https://github.com/flutter/engine/pull/49909) merged on January 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49909) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland: Switch from transient stencil-only to depth+stencil buffer.<br />
     <sub>[#49838](https://github.com/flutter/engine/pull/49838) merged on January 22, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49838) over 4 days, 169 additions and 81 deletions in 17 files</sub><br />
