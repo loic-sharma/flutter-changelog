@@ -77,9 +77,6 @@
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [cp-stable]some random title<br />
     <sub>[#141730](https://github.com/flutter/flutter/pull/141730) opened on on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141730) 1 addition and 8 deletions in 1 file</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Merge flutter_goldens_client into flutter_goldens<br />
-    <sub>[#141900](https://github.com/flutter/flutter/pull/141900) opened on on January 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/141900) 9 additions and 29 deletions in 6 files</sub><br />
-
 * **[yim](https://github.com/yiiim)** &mdash; Don't change the height of the Textfield's labelStyle when it focused.<br />
     <sub>[#141943](https://github.com/flutter/flutter/pull/141943) opened on on January 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141943) 27 additions and 2 deletions in 2 files</sub><br />
 
