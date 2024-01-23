@@ -4,7 +4,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-18 commits.
+19 commits.
 
 * **[Hassan Toor](https://github.com/htoor3)** &mdash; [web] - Fix broken `TextField` in semantics mode when it's a sibling of `Navigator`<br />
     <sub>[#138446](https://github.com/flutter/flutter/pull/138446) merged on January 22, 2024 &mdash; **Extra large:** [31 comments](https://github.com/flutter/flutter/pull/138446) over 2 months, 1613 additions and 1242 deletions in 34 files</sub><br />
@@ -43,6 +43,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Reapply "Native assets: roll deps" (#141748)<br />
     <sub>[#141864](https://github.com/flutter/flutter/pull/141864) merged on January 22, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/141864) over 2 days, 57 additions and 36 deletions in 21 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add Share button to the SelectableRegion toolbar on Android<br />
+    <sub>[#141447](https://github.com/flutter/flutter/pull/141447) merged on January 23, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/141447) over 1 week, 199 additions and 55 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; hello_world app: migrate to Gradle Kotlin DSL<br />
     <sub>[#141541](https://github.com/flutter/flutter/pull/141541) merged on January 22, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/141541) over 1 week, 236 additions and 119 deletions in 7 files</sub><br />
