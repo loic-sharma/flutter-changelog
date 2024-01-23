@@ -4,7 +4,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-15 commits.
+17 commits.
 
 * **[Hassan Toor](https://github.com/htoor3)** &mdash; [web] - Fix broken `TextField` in semantics mode when it's a sibling of `Navigator`<br />
     <sub>[#138446](https://github.com/flutter/flutter/pull/138446) merged on January 22, 2024 &mdash; **Extra large:** [31 comments](https://github.com/flutter/flutter/pull/138446) over 2 months, 1613 additions and 1242 deletions in 34 files</sub><br />
@@ -50,6 +50,14 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `RangeSlider` throws a null-check error after `clearSemantics` is called<br />
     <sub>[#141965](https://github.com/flutter/flutter/pull/141965) merged on January 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141965) over 2 hours, 40 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a comment about how to test flutter_goldens<br />
+    <sub>[#141902](https://github.com/flutter/flutter/pull/141902) merged on January 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141902) over 3 days, 5 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Enable contextMenuBuilder in the absence of selectionControls<br />
+    <sub>[#141810](https://github.com/flutter/flutter/pull/141810) merged on January 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/141810) over 4 days, 49 additions and 5 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "hello_world app: migrate to Gradle Kotlin DSL"<br />
     <sub>[#142018](https://github.com/flutter/flutter/pull/142018) merged on January 23, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/142018) over 1 minute, 119 additions and 236 deletions in 7 files</sub><br />
@@ -572,7 +580,12 @@
 
 ### January 20, 2024 to January 26, 2024
 
-11 commits.
+12 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change how OpenGL textures are flipped in the Android embedder.<br />
+    <sub>[#49938](https://github.com/flutter/engine/pull/49938) merged on January 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49938) over 7 hours, 18 additions and 8 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub><details><summary>2 images...</summary>![Screenshot 2024-01-22 at 3 21 20 PM](https://github.com/flutter/engine/assets/168174/f1023251-4b44-47f3-94f8-1d5dced7bcb3)![Screenshot 2024-01-22 at 9 41 59 AM](https://github.com/flutter/engine/assets/168174/a2bed578-c929-4222-a1f9-010e2dc95b7e)</details></sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Bootstrap tests without implicit view by default<br />
     <sub>[#48629](https://github.com/flutter/engine/pull/48629) merged on January 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/48629) over 1 month, 146 additions and 88 deletions in 74 files</sub><br />
