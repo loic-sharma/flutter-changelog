@@ -36,13 +36,13 @@
     <sub>[#141868](https://github.com/flutter/flutter/pull/141868) merged on January 22, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/141868) over 2 days, 419 additions and 22 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
-* **[Tess Strickland](https://github.com/sstrickl)** &mdash; Mark defaultTargetPlatform as constant for non-debug non-web builds.<br />
-    <sub>[#141105](https://github.com/flutter/flutter/pull/141105) merged on January 22, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/141105) over 2 weeks, 21 additions and 5 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Martin Kustermann](https://github.com/mkustermann)</sub><br />
-
 * **[Jonas Uekötter](https://github.com/ueman)** &mdash; Add documentation which explains that `debugPrint` also logs in release mode<br />
     <sub>[#141595](https://github.com/flutter/flutter/pull/141595) merged on January 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/141595) over 6 days, 8 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Tess Strickland](https://github.com/sstrickl)** &mdash; Mark defaultTargetPlatform as constant for non-debug non-web builds.<br />
+    <sub>[#141105](https://github.com/flutter/flutter/pull/141105) merged on January 22, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/141105) over 2 weeks, 21 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Martin Kustermann](https://github.com/mkustermann)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused clipBehavior from OverflowBar<br />
     <sub>[#141976](https://github.com/flutter/flutter/pull/141976) merged on January 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141976) over 22 hours, 2 additions and 24 deletions in 2 files</sub><br />
@@ -613,7 +613,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-21 commits.
+22 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change how OpenGL textures are flipped in the Android embedder.<br />
     <sub>[#49938](https://github.com/flutter/engine/pull/49938) merged on January 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49938) over 7 hours, 18 additions and 8 deletions in 2 files</sub><br />
@@ -668,6 +668,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Fix resize crash<br />
     <sub>[#49935](https://github.com/flutter/engine/pull/49935) merged on January 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49935) over 2 hours, 81 additions and 27 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Exclude the Dart SDK sdk/lib/svg/dart2js directory from the license crawl<br />
+    <sub>[#49977](https://github.com/flutter/engine/pull/49977) merged on January 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49977) over 1 hour, 4 additions and 4 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix validation error for playground texture upload.<br />
     <sub>[#49957](https://github.com/flutter/engine/pull/49957) merged on January 23, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/49957) over 17 hours, 21 additions and 54 deletions in 2 files</sub><br />

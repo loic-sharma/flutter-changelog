@@ -62,9 +62,6 @@
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Make destructiveRed a CupertinoDynamicColor<br />
     <sub>[#141364](https://github.com/flutter/flutter/pull/141364) opened on on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141364) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[maRci002](https://github.com/maRci002)** &mdash; [WIP] Predictive back support for routes<br />
-    <sub>[#141373](https://github.com/flutter/flutter/pull/141373) opened on on January 11, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/141373) 527 additions and 19 deletions in 8 files</sub><br />
-
 * **[Simone Stasi](https://github.com/sstasi95)** &mdash; fix CupertinoTabView's Android back button handling with PopScope<br />
     <sub>[#141604](https://github.com/flutter/flutter/pull/141604) opened on on January 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141604) 35 additions and 1 deletion in 2 files</sub><br />
 
