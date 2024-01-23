@@ -580,7 +580,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-12 commits.
+13 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change how OpenGL textures are flipped in the Android embedder.<br />
     <sub>[#49938](https://github.com/flutter/engine/pull/49938) merged on January 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49938) over 7 hours, 18 additions and 8 deletions in 2 files</sub><br />
@@ -607,6 +607,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] fixed CanRenderClippedRuntimeEffects for vulkan<br />
     <sub>[#49912](https://github.com/flutter/engine/pull/49912) merged on January 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49912) over 2 days, 2 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Add Mac cache_builder back into Prod"<br />
+    <sub>[#49961](https://github.com/flutter/engine/pull/49961) merged on January 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49961) over 57 seconds, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Add Mac cache_builder back into Prod<br />
     <sub>[#49936](https://github.com/flutter/engine/pull/49936) merged on January 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49936) over 57 minutes, 0 additions and 1 deletion in 1 file</sub><br />
