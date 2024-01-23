@@ -4,7 +4,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-20 commits.
+21 commits.
 
 * **[Hassan Toor](https://github.com/htoor3)** &mdash; [web] - Fix broken `TextField` in semantics mode when it's a sibling of `Navigator`<br />
     <sub>[#138446](https://github.com/flutter/flutter/pull/138446) merged on January 22, 2024 &mdash; **Extra large:** [31 comments](https://github.com/flutter/flutter/pull/138446) over 2 months, 1613 additions and 1242 deletions in 34 files</sub><br />
@@ -19,6 +19,10 @@
     <sub>[#141777](https://github.com/flutter/flutter/pull/141777) merged on January 22, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/141777) over 3 days, 270 additions and 104 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Lucas Matheus](https://github.com/LucasMatheusDev), [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>4 images...</summary><img width="789" alt="Screenshot 2024-01-18 at 18 16 15" src="https://github.com/flutter/flutter/assets/48603081/8c6a6f1e-6986-4acf-8dec-e223a682c0d7"><img width="789" alt="Screenshot 2024-01-18 at 18 16 44" src="https://github.com/flutter/flutter/assets/48603081/f55f6a26-2128-48a1-b24d-3c14e4f6ecdc"><img width="789" alt="Screenshot 2024-01-18 at 18 20 27" src="https://github.com/flutter/flutter/assets/48603081/7ec8b888-7319-460d-8488-9cd44c9246a6"><img width="789" alt="Screenshot 2024-01-18 at 18 20 53" src="https://github.com/flutter/flutter/assets/48603081/80d66d5b-7eb2-4f47-ab4d-d7f469a731fa"></details></sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add tooltip for the clear button on `SearchAnchor`'s search view<br />
+    <sub>[#141804](https://github.com/flutter/flutter/pull/141804) merged on January 23, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/141804) over 4 days, 408 additions and 78 deletions in 83 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Floating cursor docs<br />
     <sub>[#133002](https://github.com/flutter/flutter/pull/133002) merged on January 22, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/133002) over 5 months, 62 additions and 3 deletions in 3 files</sub><br />
