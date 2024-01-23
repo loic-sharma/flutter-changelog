@@ -59,17 +59,11 @@
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Change dialog font family<br />
     <sub>[#141295](https://github.com/flutter/flutter/pull/141295) opened on on January 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/141295) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Context Menus deprecation removal<br />
-    <sub>[#141310](https://github.com/flutter/flutter/pull/141310) opened on on January 10, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/141310) 598 additions and 1898 deletions in 24 files</sub><br />
-
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Make destructiveRed a CupertinoDynamicColor<br />
     <sub>[#141364](https://github.com/flutter/flutter/pull/141364) opened on on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141364) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[maRci002](https://github.com/maRci002)** &mdash; [WIP] Predictive back support for routes<br />
     <sub>[#141373](https://github.com/flutter/flutter/pull/141373) opened on on January 11, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/141373) 527 additions and 19 deletions in 8 files</sub><br />
-
-* **[neko-andrew](https://github.com/neko-andrew)** &mdash; [CP] Fix intrinsic width of input decorator<br />
-    <sub>[#141551](https://github.com/flutter/flutter/pull/141551) opened on on January 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141551) 63 additions and 14 deletions in 2 files</sub><br />
 
 * **[Simone Stasi](https://github.com/sstasi95)** &mdash; fix CupertinoTabView's Android back button handling with PopScope<br />
     <sub>[#141604](https://github.com/flutter/flutter/pull/141604) opened on on January 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141604) 35 additions and 1 deletion in 2 files</sub><br />
