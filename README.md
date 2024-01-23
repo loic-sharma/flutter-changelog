@@ -4,7 +4,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-19 commits.
+20 commits.
 
 * **[Hassan Toor](https://github.com/htoor3)** &mdash; [web] - Fix broken `TextField` in semantics mode when it's a sibling of `Navigator`<br />
     <sub>[#138446](https://github.com/flutter/flutter/pull/138446) merged on January 22, 2024 &mdash; **Extra large:** [31 comments](https://github.com/flutter/flutter/pull/138446) over 2 months, 1613 additions and 1242 deletions in 34 files</sub><br />
@@ -39,6 +39,10 @@
 * **[Jonas Uekötter](https://github.com/ueman)** &mdash; Add documentation which explains that `debugPrint` also logs in release mode<br />
     <sub>[#141595](https://github.com/flutter/flutter/pull/141595) merged on January 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/141595) over 6 days, 8 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused clipBehavior from OverflowBar<br />
+    <sub>[#141976](https://github.com/flutter/flutter/pull/141976) merged on January 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141976) over 22 hours, 2 additions and 24 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Reapply "Native assets: roll deps" (#141748)<br />
     <sub>[#141864](https://github.com/flutter/flutter/pull/141864) merged on January 22, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/141864) over 2 days, 57 additions and 36 deletions in 21 files</sub><br />
