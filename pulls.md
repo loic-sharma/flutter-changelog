@@ -83,9 +83,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Don't change the height of the Textfield's labelStyle when it focused.<br />
     <sub>[#141943](https://github.com/flutter/flutter/pull/141943) opened on on January 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141943) 27 additions and 2 deletions in 2 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused clipBehavior from OverflowBar<br />
-    <sub>[#141976](https://github.com/flutter/flutter/pull/141976) opened on on January 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141976) 2 additions and 24 deletions in 2 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] fix language_version_test and enable shuffle<br />
     <sub>[#142009](https://github.com/flutter/flutter/pull/142009) opened on on January 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142009) 1 addition and 7 deletions in 1 file</sub><br />
 
