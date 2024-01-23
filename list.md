@@ -4,7 +4,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-25 commits.
+26 commits.
 
 * **[Hassan Toor](https://github.com/htoor3)** &mdash; [web] - Fix broken `TextField` in semantics mode when it's a sibling of `Navigator`
     <sub>[#138446](https://github.com/flutter/flutter/pull/138446) merged on January 22, 2024 &mdash; **Extra large:** [31 comments](https://github.com/flutter/flutter/pull/138446) over 2 months, 1613 additions and 1242 deletions in 34 files</sub>
@@ -50,6 +50,10 @@
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Reapply "Native assets: roll deps" (#141748)
     <sub>[#141864](https://github.com/flutter/flutter/pull/141864) merged on January 22, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/141864) over 2 days, 57 additions and 36 deletions in 21 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; consolidate AssetBundle::entries and AssetBundle::entryKinds into a new type, `AssetBundleEntry`
+    <sub>[#142029](https://github.com/flutter/flutter/pull/142029) merged on January 23, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/142029) over 19 hours, 127 additions and 104 deletions in 9 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add Share button to the SelectableRegion toolbar on Android
@@ -613,7 +617,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-22 commits.
+23 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change how OpenGL textures are flipped in the Android embedder.
     <sub>[#49938](https://github.com/flutter/engine/pull/49938) merged on January 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49938) over 7 hours, 18 additions and 8 deletions in 2 files</sub>
@@ -640,6 +644,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont emulate command buffers for compute on Metal/Vulkan.
     <sub>[#49922](https://github.com/flutter/engine/pull/49922) merged on January 22, 2024 &mdash; **Extra large:** [7 comments](https://github.com/flutter/engine/pull/49922) over 2 days, 556 additions and 1057 deletions in 29 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Geometry Wars: Documentation Edition
+    <sub>[#49910](https://github.com/flutter/engine/pull/49910) merged on January 23, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/49910) over 3 days, 36 additions and 6 deletions in 2 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to 5d969bd98e31ec90c23ccb982666ace80559f442
     <sub>[#49956](https://github.com/flutter/engine/pull/49956) merged on January 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49956) over 19 hours, 1 addition and 1 deletion in 1 file</sub>
