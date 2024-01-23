@@ -68,9 +68,6 @@
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [cp-stable]some random title<br />
     <sub>[#141730](https://github.com/flutter/flutter/pull/141730) opened on on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141730) 1 addition and 8 deletions in 1 file</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Don't change the height of the Textfield's labelStyle when it focused.<br />
-    <sub>[#141943](https://github.com/flutter/flutter/pull/141943) opened on on January 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141943) 27 additions and 2 deletions in 2 files</sub><br />
-
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate android views to devicelab.<br />
     <sub>[#142081](https://github.com/flutter/flutter/pull/142081) opened on on January 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142081) 65 additions and 0 deletions in 2 files</sub><br />
 
