@@ -4,11 +4,16 @@
 
 ### January 20, 2024 to January 26, 2024
 
-17 commits.
+18 commits.
 
 * **[Hassan Toor](https://github.com/htoor3)** &mdash; [web] - Fix broken `TextField` in semantics mode when it's a sibling of `Navigator`
     <sub>[#138446](https://github.com/flutter/flutter/pull/138446) merged on January 22, 2024 &mdash; **Extra large:** [31 comments](https://github.com/flutter/flutter/pull/138446) over 2 months, 1613 additions and 1242 deletions in 34 files</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[David Martos](https://github.com/davidmartos96)** &mdash; Relax the warning of unavailable tokens in `gen_defaults` when a default value is provided
+    <sub>[#140872](https://github.com/flutter/flutter/pull/140872) merged on January 23, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/140872) over 2 weeks, 115 additions and 14 deletions in 4 files</sub>
+    <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/flutter/assets/22084723/eb6c43ee-d919-4203-80ee-e36869e5bbcf)![image](https://github.com/flutter/flutter/assets/22084723/67093dcb-1ab0-439f-9338-a6f364d2a9e1)</details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `shape` and `collapsedShape` isn't applied to `ExpansionTile`'s splash ink
     <sub>[#141777](https://github.com/flutter/flutter/pull/141777) merged on January 22, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/141777) over 3 days, 270 additions and 104 deletions in 3 files</sub>
