@@ -89,3 +89,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] fix language_version_test and enable shuffle<br />
     <sub>[#142009](https://github.com/flutter/flutter/pull/142009) opened on on January 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142009) 1 addition and 7 deletions in 1 file</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; consolidate AssetBundle::entries and AssetBundle::entryKinds into a new type `AssetBundleEntry`<br />
+    <sub>[#142029](https://github.com/flutter/flutter/pull/142029) opened on on January 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142029) 95 additions and 101 deletions in 9 files</sub><br />
+
