@@ -4,7 +4,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-26 commits.
+27 commits.
 
 * **[Hassan Toor](https://github.com/htoor3)** &mdash; [web] - Fix broken `TextField` in semantics mode when it's a sibling of `Navigator`
     <sub>[#138446](https://github.com/flutter/flutter/pull/138446) merged on January 22, 2024 &mdash; **Extra large:** [31 comments](https://github.com/flutter/flutter/pull/138446) over 2 months, 1613 additions and 1242 deletions in 34 files</sub>
@@ -31,6 +31,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Do not hang on test failures of tests within `flutter_tools`
     <sub>[#141821](https://github.com/flutter/flutter/pull/141821) merged on January 22, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/141821) over 3 days, 17 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Nate Bosch](https://github.com/natebosch), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add abifilters to our gradle templates
+    <sub>[#135529](https://github.com/flutter/flutter/pull/135529) merged on January 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/135529) over 3 months, 6 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ToggleButtons`, `ExpansionPanel`, and `ExpandIcon` tests for Material 3
     <sub>[#141868](https://github.com/flutter/flutter/pull/141868) merged on January 22, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/141868) over 2 days, 419 additions and 22 deletions in 3 files</sub>
