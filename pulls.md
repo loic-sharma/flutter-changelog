@@ -74,6 +74,3 @@
 * **[yim](https://github.com/yiiim)** &mdash; Don't change the height of the Textfield's labelStyle when it focused.<br />
     <sub>[#141943](https://github.com/flutter/flutter/pull/141943) opened on on January 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141943) 27 additions and 2 deletions in 2 files</sub><br />
 
-* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] FINALLY fix the mysterious token error in github actions<br />
-    <sub>[#142058](https://github.com/flutter/flutter/pull/142058) opened on on January 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142058) 1 addition and 1 deletion in 1 file</sub><br />
-
