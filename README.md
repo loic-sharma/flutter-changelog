@@ -597,7 +597,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-17 commits.
+18 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change how OpenGL textures are flipped in the Android embedder.<br />
     <sub>[#49938](https://github.com/flutter/engine/pull/49938) merged on January 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49938) over 7 hours, 18 additions and 8 deletions in 2 files</sub><br />
@@ -640,6 +640,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Fix resize crash<br />
     <sub>[#49935](https://github.com/flutter/engine/pull/49935) merged on January 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49935) over 2 hours, 81 additions and 27 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix validation error for playground texture upload.<br />
+    <sub>[#49957](https://github.com/flutter/engine/pull/49957) merged on January 23, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/49957) over 17 hours, 21 additions and 54 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Exclude prebuilts/Library from Mac builder_cache<br />
     <sub>[#49971](https://github.com/flutter/engine/pull/49971) merged on January 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49971) over 37 minutes, 2 additions and 1 deletion in 1 file</sub><br />
