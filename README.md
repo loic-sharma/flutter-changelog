@@ -69,11 +69,11 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Merge flutter_goldens_client into flutter_goldens<br />
-    <sub>[#141900](https://github.com/flutter/flutter/pull/141900) merged on January 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/141900) over 3 days, 9 additions and 29 deletions in 6 files</sub><br />
+    <sub>[#141900](https://github.com/flutter/flutter/pull/141900) merged on January 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/141900) over 3 days, 9 additions and 29 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Alexander Dahlberg](https://github.com/Swiftaxe)</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Allow overriding the native assets yaml file in the resident runner.<br />
-    <sub>[#142016](https://github.com/flutter/flutter/pull/142016) merged on January 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/142016) over 20 hours, 105 additions and 14 deletions in 6 files</sub><br />
+    <sub>[#142016](https://github.com/flutter/flutter/pull/142016) merged on January 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/142016) over 20 hours, 105 additions and 14 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update material banner maxScaleFactor to meet GAR requirement <br />
@@ -609,7 +609,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-18 commits.
+19 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change how OpenGL textures are flipped in the Android embedder.<br />
     <sub>[#49938](https://github.com/flutter/engine/pull/49938) merged on January 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49938) over 7 hours, 18 additions and 8 deletions in 2 files</sub><br />
@@ -628,6 +628,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] fixed colorspace for metal screenshots<br />
     <sub>[#49941](https://github.com/flutter/engine/pull/49941) merged on January 22, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/49941) over 4 hours, 5 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Introduce egl::Context<br />
+    <sub>[#49954](https://github.com/flutter/engine/pull/49954) merged on January 23, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/engine/pull/49954) over 20 hours, 308 additions and 86 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont emulate command buffers for compute on Metal/Vulkan.<br />
     <sub>[#49922](https://github.com/flutter/engine/pull/49922) merged on January 22, 2024 &mdash; **Extra large:** [7 comments](https://github.com/flutter/engine/pull/49922) over 2 days, 556 additions and 1057 deletions in 29 files</sub><br />
