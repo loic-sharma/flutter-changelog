@@ -74,9 +74,6 @@
 * **[Jude Selase Kwashie](https://github.com/SelaseKay)** &mdash; Call 'markNeedsLayout' in textAlign setter<br />
     <sub>[#142127](https://github.com/flutter/flutter/pull/142127) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142127) 16 additions and 0 deletions in 2 files</sub><br />
 
-* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Widget state properties<br />
-    <sub>[#142151](https://github.com/flutter/flutter/pull/142151) opened on on January 24, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/142151) 1197 additions and 382 deletions in 16 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fixes #138773, port autocomplete to OverlayPortal<br />
     <sub>[#142155](https://github.com/flutter/flutter/pull/142155) opened on on January 24, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/142155) 143 additions and 211 deletions in 3 files</sub><br />
 

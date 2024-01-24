@@ -4,7 +4,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-39 commits.
+40 commits.
 
 * **[Hassan Toor](https://github.com/htoor3)** &mdash; [web] - Fix broken `TextField` in semantics mode when it's a sibling of `Navigator`
     <sub>[#138446](https://github.com/flutter/flutter/pull/138446) merged on January 22, 2024 &mdash; **Extra large:** [33 comments](https://github.com/flutter/flutter/pull/138446) over 2 months, 1613 additions and 1242 deletions in 34 files</sub>
@@ -56,29 +56,29 @@
     <sub>[#141998](https://github.com/flutter/flutter/pull/141998) merged on January 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/141998) over 1 day, 76 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Refactor `external_ui` → `external_textures`
-    <sub>[#142062](https://github.com/flutter/flutter/pull/142062) merged on January 24, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/142062) over 1 day, 132 additions and 82 deletions in 35 files</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [John McCutchan](https://github.com/johnmccutchan), [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove unused clipBehavior from OverflowBar
     <sub>[#141976](https://github.com/flutter/flutter/pull/141976) merged on January 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141976) over 22 hours, 2 additions and 24 deletions in 2 files</sub>
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
-
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Reapply "Native assets: roll deps" (#141748)
-    <sub>[#141864](https://github.com/flutter/flutter/pull/141864) merged on January 22, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/141864) over 2 days, 57 additions and 36 deletions in 21 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Revise tooltip theme docs, including more cross-references
     <sub>[#137316](https://github.com/flutter/flutter/pull/137316) merged on January 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137316) over 3 months, 27 additions and 16 deletions in 1 file</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; consolidate AssetBundle::entries and AssetBundle::entryKinds into a new type, `AssetBundleEntry`
-    <sub>[#142029](https://github.com/flutter/flutter/pull/142029) merged on January 23, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/142029) over 19 hours, 127 additions and 104 deletions in 9 files</sub>
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Reapply "Native assets: roll deps" (#141748)
+    <sub>[#141864](https://github.com/flutter/flutter/pull/141864) merged on January 22, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/141864) over 2 days, 57 additions and 36 deletions in 21 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Refactor `external_ui` → `external_textures`
+    <sub>[#142062](https://github.com/flutter/flutter/pull/142062) merged on January 24, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/142062) over 1 day, 132 additions and 82 deletions in 35 files</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [John McCutchan](https://github.com/johnmccutchan), [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add Share button to the SelectableRegion toolbar on Android
     <sub>[#141447](https://github.com/flutter/flutter/pull/141447) merged on January 23, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/141447) over 1 week, 199 additions and 55 deletions in 4 files</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; consolidate AssetBundle::entries and AssetBundle::entryKinds into a new type, `AssetBundleEntry`
+    <sub>[#142029](https://github.com/flutter/flutter/pull/142029) merged on January 23, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/142029) over 19 hours, 127 additions and 104 deletions in 9 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Run some tests explicitly in both arm and x64.
     <sub>[#141910](https://github.com/flutter/flutter/pull/141910) merged on January 24, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/141910) over 4 days, 68 additions and 8 deletions in 1 file</sub>
@@ -108,9 +108,9 @@
     <sub>[#141943](https://github.com/flutter/flutter/pull/141943) merged on January 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141943) over 2 days, 27 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
-* **[Jo Jaeyong](https://github.com/jaeyoi)** &mdash; Support wireless debugging for iOS 12 or earlier
-    <sub>[#141439](https://github.com/flutter/flutter/pull/141439) merged on January 24, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/141439) over 1 week, 63 additions and 2 deletions in 3 files</sub>
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub>
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate android views to devicelab.
+    <sub>[#142081](https://github.com/flutter/flutter/pull/142081) merged on January 24, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/142081) over 1 day, 66 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [yusuf-goog](https://github.com/yusuf-goog)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Enable contextMenuBuilder in the absence of selectionControls
     <sub>[#141810](https://github.com/flutter/flutter/pull/141810) merged on January 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/141810) over 4 days, 49 additions and 5 deletions in 4 files</sub>
@@ -151,6 +151,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a comment about how to test flutter_goldens
     <sub>[#141902](https://github.com/flutter/flutter/pull/141902) merged on January 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/141902) over 3 days, 5 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Jo Jaeyong](https://github.com/jaeyoi)** &mdash; Support wireless debugging for iOS 12 or earlier
+    <sub>[#141439](https://github.com/flutter/flutter/pull/141439) merged on January 24, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/141439) over 1 week, 63 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Revert "[web] - Fix broken `TextField` in semantics mode when it's a sibling of `Navigator`"
     <sub>[#142129](https://github.com/flutter/flutter/pull/142129) merged on January 24, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/142129) over 4 hours, 1242 additions and 1613 deletions in 34 files</sub>
@@ -1270,7 +1274,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-10 commits.
+11 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix TableSpanDecoration rects when axes are reversed
     <sub>[#5916](https://github.com/flutter/packages/pull/5916) merged on January 22, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/5916) over 5 days, 697 additions and 7 deletions in 4 files</sub>
@@ -1284,6 +1288,10 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; [camera] add heif support image iOS
     <sub>[#4586](https://github.com/flutter/packages/pull/4586) merged on January 24, 2024 &mdash; **Small:** [65 comments](https://github.com/flutter/packages/pull/4586) over 5 months, 240 additions and 4 deletions in 16 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Peixin Li](https://github.com/peixinli)** &mdash; Add rfw widgets
+    <sub>[#5661](https://github.com/flutter/packages/pull/5661) merged on January 24, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/packages/pull/5661) over 1 month, 143 additions and 2 deletions in 9 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter_android] Add javascript panel interface for android
     <sub>[#5796](https://github.com/flutter/packages/pull/5796) merged on January 24, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/5796) over 2 weeks, 1358 additions and 4 deletions in 20 files</sub>
