@@ -80,9 +80,6 @@
 * **[Yukiteru Attano](https://github.com/YukiAttano)** &mdash; fix: added revertFlutterImage call in integration_tests<br />
     <sub>[#142166](https://github.com/flutter/flutter/pull/142166) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142166) 35 additions and 5 deletions in 4 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Reland "Remove hack from PageView."<br />
-    <sub>[#142172](https://github.com/flutter/flutter/pull/142172) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142172) 134 additions and 41 deletions in 4 files</sub><br />
-
 * **[Andrew Brampton](https://github.com/bramp)** &mdash; Update _goldens_io.dart to generate failure images during a size mism…<br />
     <sub>[#142177](https://github.com/flutter/flutter/pull/142177) opened on on January 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142177) 4 additions and 2 deletions in 1 file</sub><br />
 
