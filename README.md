@@ -4,7 +4,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-27 commits.
+28 commits.
 
 * **[Hassan Toor](https://github.com/htoor3)** &mdash; [web] - Fix broken `TextField` in semantics mode when it's a sibling of `Navigator`<br />
     <sub>[#138446](https://github.com/flutter/flutter/pull/138446) merged on January 22, 2024 &mdash; **Extra large:** [31 comments](https://github.com/flutter/flutter/pull/138446) over 2 months, 1613 additions and 1242 deletions in 34 files</sub><br />
@@ -111,6 +111,10 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Remove unneeded expectation in test<br />
     <sub>[#141822](https://github.com/flutter/flutter/pull/141822) merged on January 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141822) over 3 days, 0 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert "Add abifilters to our gradle templates"<br />
+    <sub>[#142089](https://github.com/flutter/flutter/pull/142089) merged on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142089) over 2 hours, 0 additions and 6 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Revert "Remove hack from PageView."<br />
     <sub>[#141977](https://github.com/flutter/flutter/pull/141977) merged on January 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141977) over 1 hour, 41 additions and 134 deletions in 4 files</sub><br />
