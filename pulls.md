@@ -77,3 +77,6 @@
 * **[Jude Selase Kwashie](https://github.com/SelaseKay)** &mdash; Call 'markNeedsLayout' in textAlign setter<br />
     <sub>[#142127](https://github.com/flutter/flutter/pull/142127) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142127) 16 additions and 0 deletions in 2 files</sub><br />
 
+* **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; [CP] Revert "[web] - Fix broken `TextField` in semantics mode when it's a …<br />
+    <sub>[#142141](https://github.com/flutter/flutter/pull/142141) opened on on January 24, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/142141) 1242 additions and 1613 deletions in 34 files</sub><br />
+
