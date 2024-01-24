@@ -4,7 +4,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-35 commits.
+36 commits.
 
 * **[Hassan Toor](https://github.com/htoor3)** &mdash; [web] - Fix broken `TextField` in semantics mode when it's a sibling of `Navigator`
     <sub>[#138446](https://github.com/flutter/flutter/pull/138446) merged on January 22, 2024 &mdash; **Extra large:** [33 comments](https://github.com/flutter/flutter/pull/138446) over 2 months, 1613 additions and 1242 deletions in 34 files</sub>
@@ -52,6 +52,14 @@
     <sub>[#141105](https://github.com/flutter/flutter/pull/141105) merged on January 22, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/141105) over 2 weeks, 21 additions and 5 deletions in 2 files</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Martin Kustermann](https://github.com/mkustermann)</sub>
 
+* **[hangyu](https://github.com/hangyujin)** &mdash; Update navigationBar label's maxScaleFactor to meet GAR requirement
+    <sub>[#141998](https://github.com/flutter/flutter/pull/141998) merged on January 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/141998) over 1 day, 76 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Greg Price](https://github.com/gnprice)** &mdash; Revise tooltip theme docs, including more cross-references
+    <sub>[#137316](https://github.com/flutter/flutter/pull/137316) merged on January 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137316) over 3 months, 27 additions and 16 deletions in 1 file</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Reapply "Native assets: roll deps" (#141748)
     <sub>[#141864](https://github.com/flutter/flutter/pull/141864) merged on January 22, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/141864) over 2 days, 57 additions and 36 deletions in 21 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
@@ -60,12 +68,8 @@
     <sub>[#141976](https://github.com/flutter/flutter/pull/141976) merged on January 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141976) over 22 hours, 2 additions and 24 deletions in 2 files</sub>
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
 
-* **[Greg Price](https://github.com/gnprice)** &mdash; Revise tooltip theme docs, including more cross-references
-    <sub>[#137316](https://github.com/flutter/flutter/pull/137316) merged on January 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137316) over 3 months, 27 additions and 16 deletions in 1 file</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
-
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Run some tests explicitly in both arm and x64.
-    <sub>[#141910](https://github.com/flutter/flutter/pull/141910) merged on January 24, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/141910) over 4 days, 68 additions and 8 deletions in 1 file</sub>
+    <sub>[#141910](https://github.com/flutter/flutter/pull/141910) merged on January 24, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/141910) over 4 days, 68 additions and 8 deletions in 1 file</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; consolidate AssetBundle::entries and AssetBundle::entryKinds into a new type, `AssetBundleEntry`
@@ -100,10 +104,6 @@
     <sub>[#141943](https://github.com/flutter/flutter/pull/141943) merged on January 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141943) over 2 days, 27 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
-* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Allow overriding the native assets yaml file in the resident runner.
-    <sub>[#142016](https://github.com/flutter/flutter/pull/142016) merged on January 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/142016) over 20 hours, 105 additions and 14 deletions in 6 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update material banner maxScaleFactor to meet GAR requirement 
     <sub>[#142015](https://github.com/flutter/flutter/pull/142015) merged on January 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/142015) over 20 hours, 70 additions and 9 deletions in 2 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
@@ -135,6 +135,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Merge flutter_goldens_client into flutter_goldens
     <sub>[#141900](https://github.com/flutter/flutter/pull/141900) merged on January 23, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/141900) over 3 days, 9 additions and 29 deletions in 6 files</sub>
     <sub>Reviewed by: [Alexander Dahlberg](https://github.com/Swiftaxe)</sub>
+
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Allow overriding the native assets yaml file in the resident runner.
+    <sub>[#142016](https://github.com/flutter/flutter/pull/142016) merged on January 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/142016) over 20 hours, 105 additions and 14 deletions in 6 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Revert "[web] - Fix broken `TextField` in semantics mode when it's a sibling of `Navigator`"
     <sub>[#142129](https://github.com/flutter/flutter/pull/142129) merged on January 24, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/142129) over 4 hours, 1242 additions and 1613 deletions in 34 files</sub>
@@ -1241,7 +1245,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-8 commits.
+9 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix TableSpanDecoration rects when axes are reversed
     <sub>[#5916](https://github.com/flutter/packages/pull/5916) merged on January 22, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/5916) over 5 days, 697 additions and 7 deletions in 4 files</sub>
@@ -1251,6 +1255,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Update `Activity` references when `ActivityAware` lifecycle methods called
     <sub>[#5784](https://github.com/flutter/packages/pull/5784) merged on January 22, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/5784) over 2 weeks, 426 additions and 41 deletions in 13 files</sub>
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter_android] Add javascript panel interface for android
+    <sub>[#5796](https://github.com/flutter/packages/pull/5796) merged on January 24, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/5796) over 2 weeks, 1358 additions and 4 deletions in 20 files</sub>
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Wrap Android classes/methods required for implementing setting focus & exposure points and offset
     <sub>[#5659](https://github.com/flutter/packages/pull/5659) merged on January 24, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/5659) over 1 month, 3448 additions and 62 deletions in 30 files</sub>
