@@ -1229,7 +1229,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-7 commits.
+8 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix TableSpanDecoration rects when axes are reversed<br />
     <sub>[#5916](https://github.com/flutter/packages/pull/5916) merged on January 22, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/5916) over 5 days, 697 additions and 7 deletions in 4 files</sub><br />
@@ -1239,6 +1239,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Update `Activity` references when `ActivityAware` lifecycle methods called<br />
     <sub>[#5784](https://github.com/flutter/packages/pull/5784) merged on January 22, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/5784) over 2 weeks, 426 additions and 41 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Wrap Android classes/methods required for implementing setting focus & exposure points and offset<br />
+    <sub>[#5659](https://github.com/flutter/packages/pull/5659) merged on January 24, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/5659) over 1 month, 3448 additions and 62 deletions in 30 files</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [espresso] Replace deprecated `getObservatoryUri`<br />
     <sub>[#5788](https://github.com/flutter/packages/pull/5788) merged on January 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5788) over 2 weeks, 4 additions and 5 deletions in 3 files</sub><br />
