@@ -637,7 +637,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-24 commits.
+25 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change how OpenGL textures are flipped in the Android embedder.<br />
     <sub>[#49938](https://github.com/flutter/engine/pull/49938) merged on January 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49938) over 7 hours, 18 additions and 8 deletions in 2 files</sub><br />
@@ -696,6 +696,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Fix resize crash<br />
     <sub>[#49935](https://github.com/flutter/engine/pull/49935) merged on January 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49935) over 2 hours, 81 additions and 27 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix a typo in `geometry.cc#ComputeUVGeometryForRect`.<br />
+    <sub>[#49986](https://github.com/flutter/engine/pull/49986) merged on January 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49986) over 6 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] hold a strong reference to fragment program objects.<br />
     <sub>[#49868](https://github.com/flutter/engine/pull/49868) merged on January 24, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49868) over 5 days, 21 additions and 14 deletions in 2 files</sub><br />
