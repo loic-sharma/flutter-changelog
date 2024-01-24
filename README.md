@@ -653,7 +653,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-25 commits.
+26 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change how OpenGL textures are flipped in the Android embedder.<br />
     <sub>[#49938](https://github.com/flutter/engine/pull/49938) merged on January 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49938) over 7 hours, 18 additions and 8 deletions in 2 files</sub><br />
@@ -744,6 +744,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Create the golden test screenshotter after setting the Vulkan ICD environment variable<br />
     <sub>[#49948](https://github.com/flutter/engine/pull/49948) merged on January 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49948) over 1 hour, 7 additions and 7 deletions in 1 file</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Michael Brase](https://github.com/mbrase)** &mdash; Replace Fuchsia logging macros (FX_LOG*) with FML logging<br />
+    <sub>[#49970](https://github.com/flutter/engine/pull/49970) merged on January 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49970) over 23 hours, 126 additions and 170 deletions in 18 files</sub><br />
+    <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix runtime effect pipeline depth/stencil.<br />
     <sub>[#49953](https://github.com/flutter/engine/pull/49953) merged on January 23, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49953) over 19 hours, 72 additions and 4 deletions in 4 files</sub><br />
