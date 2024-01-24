@@ -657,12 +657,17 @@
 
 ### January 20, 2024 to January 26, 2024
 
-31 commits.
+32 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change how OpenGL textures are flipped in the Android embedder.
     <sub>[#49938](https://github.com/flutter/engine/pull/49938) merged on January 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49938) over 7 hours, 18 additions and 8 deletions in 2 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot 2024-01-22 at 3 21 20 PM](https://github.com/flutter/engine/assets/168174/f1023251-4b44-47f3-94f8-1d5dced7bcb3)![Screenshot 2024-01-22 at 9 41 59 AM](https://github.com/flutter/engine/assets/168174/a2bed578-c929-4222-a1f9-010e2dc95b7e)</details></sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Do not double-increment `nextId` when using `createSurfaceProducer` with `SurfaceTexture`s
+    <sub>[#50011](https://github.com/flutter/engine/pull/50011) merged on January 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50011) over 46 minutes, 109 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub><details><summary>2 images...</summary>![Screenshot 2024-01-24 at 10 59 17 AM](https://github.com/flutter/engine/assets/168174/0cc890ee-4c43-47d3-8d3e-4503f5b1a545)![Screenshot 2024-01-24 at 10 59 46 AM](https://github.com/flutter/engine/assets/168174/bf13a0f0-bcc7-40bf-a521-b61720dab0d9)</details></sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Bootstrap tests without implicit view by default
     <sub>[#48629](https://github.com/flutter/engine/pull/48629) merged on January 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/48629) over 1 month, 146 additions and 88 deletions in 74 files</sub>
