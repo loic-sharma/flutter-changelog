@@ -66,7 +66,7 @@
     <sub>[#141730](https://github.com/flutter/flutter/pull/141730) opened on on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141730) 1 addition and 8 deletions in 1 file</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate android views to devicelab.<br />
-    <sub>[#142081](https://github.com/flutter/flutter/pull/142081) opened on on January 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142081) 65 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#142081](https://github.com/flutter/flutter/pull/142081) opened on on January 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142081) 69 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Run gradle_plugin_*_apk_test on presubmit on flutter_tool changes.<br />
     <sub>[#142090](https://github.com/flutter/flutter/pull/142090) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142090) 2 additions and 0 deletions in 1 file</sub><br />
@@ -79,4 +79,7 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fixes #138773, port autocomplete to OverlayPortal<br />
     <sub>[#142155](https://github.com/flutter/flutter/pull/142155) opened on on January 24, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/142155) 143 additions and 211 deletions in 3 files</sub><br />
+
+* **[Yukiteru Attano](https://github.com/YukiAttano)** &mdash; fix: added revertFlutterImage call in integration_tests<br />
+    <sub>[#142166](https://github.com/flutter/flutter/pull/142166) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142166) 38 additions and 5 deletions in 4 files</sub><br />
 
