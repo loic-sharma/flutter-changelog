@@ -77,6 +77,3 @@
 * **[Jude Selase Kwashie](https://github.com/SelaseKay)** &mdash; Call 'markNeedsLayout' in textAlign setter<br />
     <sub>[#142127](https://github.com/flutter/flutter/pull/142127) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142127) 16 additions and 0 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Revise tooltip theme docs, including more cross-references<br />
-    <sub>[#142152](https://github.com/flutter/flutter/pull/142152) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142152) 27 additions and 16 deletions in 1 file</sub><br />
-
