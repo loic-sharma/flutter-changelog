@@ -4,7 +4,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-32 commits.
+33 commits.
 
 * **[Hassan Toor](https://github.com/htoor3)** &mdash; [web] - Fix broken `TextField` in semantics mode when it's a sibling of `Navigator`
     <sub>[#138446](https://github.com/flutter/flutter/pull/138446) merged on January 22, 2024 &mdash; **Extra large:** [33 comments](https://github.com/flutter/flutter/pull/138446) over 2 months, 1613 additions and 1242 deletions in 34 files</sub>
@@ -31,6 +31,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Do not hang on test failures of tests within `flutter_tools`
     <sub>[#141821](https://github.com/flutter/flutter/pull/141821) merged on January 22, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/141821) over 3 days, 17 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Nate Bosch](https://github.com/natebosch), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fixes #138773, port autocomplete to OverlayPortal
+    <sub>[#140285](https://github.com/flutter/flutter/pull/140285) merged on January 24, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/140285) over 1 month, 143 additions and 211 deletions in 3 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add abifilters to our gradle templates
     <sub>[#135529](https://github.com/flutter/flutter/pull/135529) merged on January 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/135529) over 3 months, 6 additions and 0 deletions in 2 files</sub>
