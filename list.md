@@ -657,12 +657,16 @@
 
 ### January 20, 2024 to January 26, 2024
 
-32 commits.
+33 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change how OpenGL textures are flipped in the Android embedder.
     <sub>[#49938](https://github.com/flutter/engine/pull/49938) merged on January 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49938) over 7 hours, 18 additions and 8 deletions in 2 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot 2024-01-22 at 3 21 20 PM](https://github.com/flutter/engine/assets/168174/f1023251-4b44-47f3-94f8-1d5dced7bcb3)![Screenshot 2024-01-22 at 9 41 59 AM](https://github.com/flutter/engine/assets/168174/a2bed578-c929-4222-a1f9-010e2dc95b7e)</details></sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add custom FlValue types and support their en/decoding via FlStandardMessageCodec
+    <sub>[#49162](https://github.com/flutter/engine/pull/49162) merged on January 24, 2024 &mdash; **Large:** [15 comments](https://github.com/flutter/engine/pull/49162) over 1 month, 604 additions and 172 deletions in 11 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Do not double-increment `nextId` when using `createSurfaceProducer` with `SurfaceTexture`s
     <sub>[#50011](https://github.com/flutter/engine/pull/50011) merged on January 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50011) over 46 minutes, 109 additions and 2 deletions in 3 files</sub>
