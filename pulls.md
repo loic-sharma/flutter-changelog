@@ -68,3 +68,9 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate android views to devicelab.<br />
     <sub>[#142081](https://github.com/flutter/flutter/pull/142081) opened on on January 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142081) 65 additions and 0 deletions in 2 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert "Add abifilters to our gradle templates"<br />
+    <sub>[#142089](https://github.com/flutter/flutter/pull/142089) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142089) 0 additions and 6 deletions in 2 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Run gradle_plugin_*_apk_test on presubmit on flutter_tool changes.<br />
+    <sub>[#142090](https://github.com/flutter/flutter/pull/142090) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142090) 2 additions and 0 deletions in 1 file</sub><br />
+
