@@ -1258,7 +1258,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-9 commits.
+10 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix TableSpanDecoration rects when axes are reversed
     <sub>[#5916](https://github.com/flutter/packages/pull/5916) merged on January 22, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/5916) over 5 days, 697 additions and 7 deletions in 4 files</sub>
@@ -1268,6 +1268,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Update `Activity` references when `ActivityAware` lifecycle methods called
     <sub>[#5784](https://github.com/flutter/packages/pull/5784) merged on January 22, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/5784) over 2 weeks, 426 additions and 41 deletions in 13 files</sub>
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; [camera] add heif support image iOS
+    <sub>[#4586](https://github.com/flutter/packages/pull/4586) merged on January 24, 2024 &mdash; **Small:** [65 comments](https://github.com/flutter/packages/pull/4586) over 5 months, 240 additions and 4 deletions in 16 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter_android] Add javascript panel interface for android
     <sub>[#5796](https://github.com/flutter/packages/pull/5796) merged on January 24, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/5796) over 2 weeks, 1358 additions and 4 deletions in 20 files</sub>
