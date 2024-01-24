@@ -621,7 +621,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-23 commits.
+24 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change how OpenGL textures are flipped in the Android embedder.
     <sub>[#49938](https://github.com/flutter/engine/pull/49938) merged on January 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49938) over 7 hours, 18 additions and 8 deletions in 2 files</sub>
@@ -680,6 +680,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Fix resize crash
     <sub>[#49935](https://github.com/flutter/engine/pull/49935) merged on January 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49935) over 2 hours, 81 additions and 27 deletions in 5 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] hold a strong reference to fragment program objects.
+    <sub>[#49868](https://github.com/flutter/engine/pull/49868) merged on January 24, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49868) over 5 days, 21 additions and 14 deletions in 2 files</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Exclude the Dart SDK sdk/lib/svg/dart2js directory from the license crawl
     <sub>[#49977](https://github.com/flutter/engine/pull/49977) merged on January 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49977) over 1 hour, 4 additions and 4 deletions in 4 files</sub>
