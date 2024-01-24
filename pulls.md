@@ -66,10 +66,7 @@
     <sub>[#141730](https://github.com/flutter/flutter/pull/141730) opened on on January 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141730) 1 addition and 8 deletions in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Enforce a policy on supported Gradle, Java, AGP, and KGP versions<br />
-    <sub>[#142000](https://github.com/flutter/flutter/pull/142000) opened on on January 22, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/142000) 515 additions and 0 deletions in 6 files</sub><br />
-
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Migrate android views to devicelab.<br />
-    <sub>[#142081](https://github.com/flutter/flutter/pull/142081) opened on on January 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142081) 69 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#142000](https://github.com/flutter/flutter/pull/142000) opened on on January 22, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/142000) 502 additions and 0 deletions in 6 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Run gradle_plugin_*_apk_test on presubmit on flutter_tool changes.<br />
     <sub>[#142090](https://github.com/flutter/flutter/pull/142090) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142090) 2 additions and 0 deletions in 1 file</sub><br />
