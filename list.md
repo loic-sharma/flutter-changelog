@@ -4,7 +4,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-34 commits.
+35 commits.
 
 * **[Hassan Toor](https://github.com/htoor3)** &mdash; [web] - Fix broken `TextField` in semantics mode when it's a sibling of `Navigator`
     <sub>[#138446](https://github.com/flutter/flutter/pull/138446) merged on January 22, 2024 &mdash; **Extra large:** [33 comments](https://github.com/flutter/flutter/pull/138446) over 2 months, 1613 additions and 1242 deletions in 34 files</sub>
@@ -60,6 +60,10 @@
     <sub>[#141976](https://github.com/flutter/flutter/pull/141976) merged on January 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141976) over 22 hours, 2 additions and 24 deletions in 2 files</sub>
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
 
+* **[Greg Price](https://github.com/gnprice)** &mdash; Revise tooltip theme docs, including more cross-references
+    <sub>[#137316](https://github.com/flutter/flutter/pull/137316) merged on January 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/137316) over 3 months, 27 additions and 16 deletions in 1 file</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Run some tests explicitly in both arm and x64.
     <sub>[#141910](https://github.com/flutter/flutter/pull/141910) merged on January 24, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/141910) over 4 days, 68 additions and 8 deletions in 1 file</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub>
@@ -96,10 +100,6 @@
     <sub>[#141943](https://github.com/flutter/flutter/pull/141943) merged on January 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/141943) over 2 days, 27 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Merge flutter_goldens_client into flutter_goldens
-    <sub>[#141900](https://github.com/flutter/flutter/pull/141900) merged on January 23, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/141900) over 3 days, 9 additions and 29 deletions in 6 files</sub>
-    <sub>Reviewed by: [Alexander Dahlberg](https://github.com/Swiftaxe)</sub>
-
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Allow overriding the native assets yaml file in the resident runner.
     <sub>[#142016](https://github.com/flutter/flutter/pull/142016) merged on January 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/142016) over 20 hours, 105 additions and 14 deletions in 6 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
@@ -131,6 +131,10 @@
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] FINALLY fix the mysterious token error in github actions
     <sub>[#142058](https://github.com/flutter/flutter/pull/142058) merged on January 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142058) over 9 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Merge flutter_goldens_client into flutter_goldens
+    <sub>[#141900](https://github.com/flutter/flutter/pull/141900) merged on January 23, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/141900) over 3 days, 9 additions and 29 deletions in 6 files</sub>
+    <sub>Reviewed by: [Alexander Dahlberg](https://github.com/Swiftaxe)</sub>
 
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Revert "[web] - Fix broken `TextField` in semantics mode when it's a sibling of `Navigator`"
     <sub>[#142129](https://github.com/flutter/flutter/pull/142129) merged on January 24, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/142129) over 4 hours, 1242 additions and 1613 deletions in 34 files</sub>
