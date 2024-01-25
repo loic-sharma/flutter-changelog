@@ -86,3 +86,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a test for the isAvailableForEnvironment logic<br />
     <sub>[#142251](https://github.com/flutter/flutter/pull/142251) opened on on January 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142251) 169 additions and 1 deletion in 2 files</sub><br />
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; "System back gesture" explanation<br />
+    <sub>[#142254](https://github.com/flutter/flutter/pull/142254) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142254) 6 additions and 0 deletions in 1 file</sub><br />
+
