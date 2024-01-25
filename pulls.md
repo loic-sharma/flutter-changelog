@@ -77,9 +77,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] add debugging to ios/core_devices.dart<br />
     <sub>[#142187](https://github.com/flutter/flutter/pull/142187) opened on on January 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142187) 84 additions and 16 deletions in 4 files</sub><br />
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; onNavigationNotification for *App.router<br />
-    <sub>[#142190](https://github.com/flutter/flutter/pull/142190) opened on on January 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142190) 100 additions and 1 deletion in 5 files</sub><br />
-
 * **[Jude Selase Kwashie](https://github.com/SelaseKay)** &mdash; Fix null operator error when tapping on 'MenuItemButton'<br />
     <sub>[#142230](https://github.com/flutter/flutter/pull/142230) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142230) 59 additions and 1 deletion in 2 files</sub><br />
 
