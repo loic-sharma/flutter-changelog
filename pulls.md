@@ -66,7 +66,7 @@
     <sub>[#142090](https://github.com/flutter/flutter/pull/142090) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142090) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jude Selase Kwashie](https://github.com/SelaseKay)** &mdash; Call 'markNeedsLayout' in textAlign setter<br />
-    <sub>[#142127](https://github.com/flutter/flutter/pull/142127) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142127) 16 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#142127](https://github.com/flutter/flutter/pull/142127) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142127) 16 additions and 1 deletion in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fixes #138773, port autocomplete to OverlayPortal<br />
     <sub>[#142155](https://github.com/flutter/flutter/pull/142155) opened on on January 24, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/142155) 143 additions and 211 deletions in 3 files</sub><br />
