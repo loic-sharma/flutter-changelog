@@ -84,8 +84,5 @@
     <sub>[#142266](https://github.com/flutter/flutter/pull/142266) opened on on January 25, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/142266) 128 additions and 279 deletions in 4 files</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try Engine NDK update PR<br />
-    <sub>[#142267](https://github.com/flutter/flutter/pull/142267) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142267) 36 additions and 42 deletions in 14 files</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-land: "Rename `integration_tests/external_ui` but do not touch anything else...""<br />
-    <sub>[#142269](https://github.com/flutter/flutter/pull/142269) opened on on January 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142269) 4 additions and 4 deletions in 28 files</sub><br />
+    <sub>[#142267](https://github.com/flutter/flutter/pull/142267) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142267) 42 additions and 44 deletions in 15 files</sub><br />
 
