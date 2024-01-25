@@ -65,9 +65,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Run gradle_plugin_*_apk_test on presubmit on flutter_tool changes.<br />
     <sub>[#142090](https://github.com/flutter/flutter/pull/142090) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142090) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[huynhduy](https://github.com/duyhuynh258)** &mdash; Fix method name mismatch in VmService client<br />
-    <sub>[#142124](https://github.com/flutter/flutter/pull/142124) opened on on January 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/142124) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Jude Selase Kwashie](https://github.com/SelaseKay)** &mdash; Call 'markNeedsLayout' in textAlign setter<br />
     <sub>[#142127](https://github.com/flutter/flutter/pull/142127) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142127) 16 additions and 0 deletions in 2 files</sub><br />
 
