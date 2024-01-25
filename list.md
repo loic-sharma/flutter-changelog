@@ -1358,7 +1358,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-11 commits.
+12 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix TableSpanDecoration rects when axes are reversed
     <sub>[#5916](https://github.com/flutter/packages/pull/5916) merged on January 22, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/5916) over 5 days, 697 additions and 7 deletions in 4 files</sub>
@@ -1372,6 +1372,10 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; [camera] add heif support image iOS
     <sub>[#4586](https://github.com/flutter/packages/pull/4586) merged on January 24, 2024 &mdash; **Small:** [65 comments](https://github.com/flutter/packages/pull/4586) over 5 months, 240 additions and 4 deletions in 16 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Update README of `package:process`
+    <sub>[#5475](https://github.com/flutter/packages/pull/5475) merged on January 25, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/5475) over 2 months, 7 additions and 6 deletions in 3 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Peixin Li](https://github.com/peixinli)** &mdash; Add rfw widgets
     <sub>[#5661](https://github.com/flutter/packages/pull/5661) merged on January 24, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/packages/pull/5661) over 1 month, 143 additions and 2 deletions in 9 files</sub>
