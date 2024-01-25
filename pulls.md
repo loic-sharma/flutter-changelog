@@ -45,7 +45,7 @@
     <sub>[#140743](https://github.com/flutter/flutter/pull/140743) opened on on December 29, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/140743) 163 additions and 176 deletions in 18 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Don't show legacy welcome message when analytics are disabled<br />
-    <sub>[#140956](https://github.com/flutter/flutter/pull/140956) opened on on January 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/140956) 10 additions and 11 deletions in 1 file</sub><br />
+    <sub>[#140956](https://github.com/flutter/flutter/pull/140956) opened on on January 4, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/140956) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Change dialog font family<br />
     <sub>[#141295](https://github.com/flutter/flutter/pull/141295) opened on on January 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/141295) 1 addition and 1 deletion in 1 file</sub><br />
