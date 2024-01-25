@@ -81,7 +81,7 @@
     <sub>[#142187](https://github.com/flutter/flutter/pull/142187) opened on on January 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142187) 84 additions and 16 deletions in 4 files</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; onNavigationNotification for *App.router<br />
-    <sub>[#142190](https://github.com/flutter/flutter/pull/142190) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142190) 100 additions and 1 deletion in 5 files</sub><br />
+    <sub>[#142190](https://github.com/flutter/flutter/pull/142190) opened on on January 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142190) 100 additions and 1 deletion in 5 files</sub><br />
 
 * **[moathdarwesh](https://github.com/moathdarwesh)** &mdash; Create dart.yml<br />
     <sub>[#142196](https://github.com/flutter/flutter/pull/142196) opened on on January 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142196) 42 additions and 0 deletions in 1 file</sub><br />
