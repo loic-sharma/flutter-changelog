@@ -80,3 +80,6 @@
 * **[Andrew Brampton](https://github.com/bramp)** &mdash; Update _goldens_io.dart to generate failure images during a size mism…<br />
     <sub>[#142177](https://github.com/flutter/flutter/pull/142177) opened on on January 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142177) 4 additions and 2 deletions in 1 file</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] add debugging to ios/core_devices.dart<br />
+    <sub>[#142187](https://github.com/flutter/flutter/pull/142187) opened on on January 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142187) 77 additions and 15 deletions in 4 files</sub><br />
+
