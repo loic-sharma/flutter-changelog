@@ -72,10 +72,7 @@
     <sub>[#142187](https://github.com/flutter/flutter/pull/142187) opened on on January 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/142187) 84 additions and 16 deletions in 4 files</sub><br />
 
 * **[Jude Selase Kwashie](https://github.com/SelaseKay)** &mdash; Fix null operator error when tapping on 'MenuItemButton'<br />
-    <sub>[#142230](https://github.com/flutter/flutter/pull/142230) opened on on January 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142230) 58 additions and 1 deletion in 2 files</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try Android NDK 26<br />
-    <sub>[#142240](https://github.com/flutter/flutter/pull/142240) opened on on January 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142240) 2 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#142230](https://github.com/flutter/flutter/pull/142230) opened on on January 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142230) 58 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a test for the isAvailableForEnvironment logic<br />
     <sub>[#142251](https://github.com/flutter/flutter/pull/142251) opened on on January 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142251) 169 additions and 1 deletion in 2 files</sub><br />
