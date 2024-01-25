@@ -26,9 +26,6 @@
 * **[jarrodcolburn](https://github.com/jarrodcolburn)** &mdash; update: avd error msg<br />
     <sub>[#139452](https://github.com/flutter/flutter/pull/139452) opened on on December 3, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/139452) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Be less verbose in CI for customer_testing, and revert old timeout hack<br />
-    <sub>[#139611](https://github.com/flutter/flutter/pull/139611) opened on on December 6, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/139611) 11 additions and 2 deletions in 2 files</sub><br />
-
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Prevent full rebuilds when rerunning `flutter test`.<br />
     <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/140284) 144 additions and 7 deletions in 2 files</sub><br />
 
