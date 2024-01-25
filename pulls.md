@@ -80,3 +80,9 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; "System back gesture" explanation<br />
     <sub>[#142254](https://github.com/flutter/flutter/pull/142254) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142254) 6 additions and 0 deletions in 1 file</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "Reland: "Fix how Gradle resolves Android plugin" (#137115)"<br />
+    <sub>[#142266](https://github.com/flutter/flutter/pull/142266) opened on on January 25, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/142266) 128 additions and 619 deletions in 7 files</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try Engine NDK update PR<br />
+    <sub>[#142267](https://github.com/flutter/flutter/pull/142267) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142267) 35 additions and 41 deletions in 14 files</sub><br />
+
