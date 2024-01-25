@@ -53,9 +53,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Enforce a policy on supported Gradle, Java, AGP, and KGP versions<br />
     <sub>[#142000](https://github.com/flutter/flutter/pull/142000) opened on on January 22, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/142000) 502 additions and 0 deletions in 6 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Run gradle_plugin_*_apk_test on presubmit on flutter_tool changes.<br />
-    <sub>[#142090](https://github.com/flutter/flutter/pull/142090) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142090) 2 additions and 0 deletions in 1 file</sub><br />
-
 * **[Jude Selase Kwashie](https://github.com/SelaseKay)** &mdash; Call 'markNeedsLayout' in textAlign setter<br />
     <sub>[#142127](https://github.com/flutter/flutter/pull/142127) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142127) 16 additions and 1 deletion in 2 files</sub><br />
 
@@ -81,7 +78,7 @@
     <sub>[#142254](https://github.com/flutter/flutter/pull/142254) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142254) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "Reland: "Fix how Gradle resolves Android plugin" (#137115)"<br />
-    <sub>[#142266](https://github.com/flutter/flutter/pull/142266) opened on on January 25, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/142266) 128 additions and 279 deletions in 4 files</sub><br />
+    <sub>[#142266](https://github.com/flutter/flutter/pull/142266) opened on on January 25, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/142266) 128 additions and 279 deletions in 4 files</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try Engine NDK update PR<br />
     <sub>[#142267](https://github.com/flutter/flutter/pull/142267) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142267) 42 additions and 44 deletions in 15 files</sub><br />
