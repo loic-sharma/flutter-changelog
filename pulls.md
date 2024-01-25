@@ -83,9 +83,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try Android NDK 26<br />
     <sub>[#142240](https://github.com/flutter/flutter/pull/142240) opened on on January 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142240) 2 additions and 1 deletion in 2 files</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Fix `SegmentedButton` default size and default tapTargetSize<br />
-    <sub>[#142243](https://github.com/flutter/flutter/pull/142243) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142243) 82 additions and 4 deletions in 2 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a test for the isAvailableForEnvironment logic<br />
-    <sub>[#142251](https://github.com/flutter/flutter/pull/142251) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142251) 169 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#142251](https://github.com/flutter/flutter/pull/142251) opened on on January 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142251) 169 additions and 1 deletion in 2 files</sub><br />
 
