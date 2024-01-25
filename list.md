@@ -681,7 +681,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-33 commits.
+34 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change how OpenGL textures are flipped in the Android embedder.
     <sub>[#49938](https://github.com/flutter/engine/pull/49938) merged on January 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/49938) over 7 hours, 18 additions and 8 deletions in 2 files</sub>
@@ -697,14 +697,14 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot 2024-01-24 at 10 59 17 AM](https://github.com/flutter/engine/assets/168174/0cc890ee-4c43-47d3-8d3e-4503f5b1a545)![Screenshot 2024-01-24 at 10 59 46 AM](https://github.com/flutter/engine/assets/168174/bf13a0f0-bcc7-40bf-a521-b61720dab0d9)</details></sub>
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Bootstrap tests without implicit view by default
-    <sub>[#48629](https://github.com/flutter/engine/pull/48629) merged on January 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/48629) over 1 month, 146 additions and 88 deletions in 74 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
-
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add golden for Image ColorSource effect transform.
     <sub>[#49930](https://github.com/flutter/engine/pull/49930) merged on January 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49930) over 7 hours, 48 additions and 0 deletions in 3 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot 2024-01-22 at 1 37 16 AM](https://github.com/flutter/engine/assets/919017/8b073f83-9821-4004-a56e-60e8946cefe7)</details></sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Bootstrap tests without implicit view by default
+    <sub>[#48629](https://github.com/flutter/engine/pull/48629) merged on January 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/48629) over 1 month, 146 additions and 88 deletions in 74 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] fixed colorspace for metal screenshots
     <sub>[#49941](https://github.com/flutter/engine/pull/49941) merged on January 22, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/49941) over 4 hours, 5 additions and 2 deletions in 1 file</sub>
@@ -718,9 +718,9 @@
     <sub>[#49922](https://github.com/flutter/engine/pull/49922) merged on January 22, 2024 &mdash; **Extra large:** [7 comments](https://github.com/flutter/engine/pull/49922) over 2 days, 556 additions and 1057 deletions in 29 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] allow non-square corner radii for fast blurs
-    <sub>[#49994](https://github.com/flutter/engine/pull/49994) merged on January 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/49994) over 14 hours, 161 additions and 76 deletions in 8 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to 5d969bd98e31ec90c23ccb982666ace80559f442
+    <sub>[#49956](https://github.com/flutter/engine/pull/49956) merged on January 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49956) over 19 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use const std::unique_ptr ref for Sampler type.
     <sub>[#49974](https://github.com/flutter/engine/pull/49974) merged on January 24, 2024 &mdash; **Medium:** [23 comments](https://github.com/flutter/engine/pull/49974) over 23 hours, 166 additions and 161 deletions in 42 files</sub>
@@ -730,13 +730,17 @@
     <sub>[#49910](https://github.com/flutter/engine/pull/49910) merged on January 23, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/49910) over 3 days, 36 additions and 6 deletions in 2 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams), [Jim Graham](https://github.com/flar)</sub>
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to 5d969bd98e31ec90c23ccb982666ace80559f442
-    <sub>[#49956](https://github.com/flutter/engine/pull/49956) merged on January 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49956) over 19 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Introduce `egl::Surface` and `egl::WindowSurface`
+    <sub>[#49983](https://github.com/flutter/engine/pull/49983) merged on January 25, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/49983) over 1 day, 455 additions and 217 deletions in 16 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] fixed CanRenderClippedRuntimeEffects for vulkan
     <sub>[#49912](https://github.com/flutter/engine/pull/49912) merged on January 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49912) over 2 days, 2 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] allow non-square corner radii for fast blurs
+    <sub>[#49994](https://github.com/flutter/engine/pull/49994) merged on January 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/49994) over 14 hours, 161 additions and 76 deletions in 8 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Add Mac cache_builder back into Prod"
     <sub>[#49961](https://github.com/flutter/engine/pull/49961) merged on January 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/49961) over 57 seconds, 1 addition and 0 deletions in 1 file</sub>
@@ -770,10 +774,6 @@
     <sub>[#49868](https://github.com/flutter/engine/pull/49868) merged on January 24, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49868) over 5 days, 21 additions and 14 deletions in 2 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Exclude the Dart SDK sdk/lib/svg/dart2js directory from the license crawl
-    <sub>[#49977](https://github.com/flutter/engine/pull/49977) merged on January 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49977) over 1 hour, 4 additions and 4 deletions in 4 files</sub>
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix validation error for playground texture upload.
     <sub>[#49957](https://github.com/flutter/engine/pull/49957) merged on January 23, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/49957) over 17 hours, 21 additions and 54 deletions in 2 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
@@ -794,9 +794,9 @@
     <sub>[#49948](https://github.com/flutter/engine/pull/49948) merged on January 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49948) over 1 hour, 7 additions and 7 deletions in 1 file</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
-* **[Jesse Seales](https://github.com/sealesj)** &mdash; Fuchsia + ocmock mirror migration
-    <sub>[#50003](https://github.com/flutter/engine/pull/50003) merged on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50003) over 3 hours, 3 additions and 4 deletions in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Exclude the Dart SDK sdk/lib/svg/dart2js directory from the license crawl
+    <sub>[#49977](https://github.com/flutter/engine/pull/49977) merged on January 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/49977) over 1 hour, 4 additions and 4 deletions in 4 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [macOS] Fix: Memory sanitizer violated when encoding indirect strings
     <sub>[#49995](https://github.com/flutter/engine/pull/49995) merged on January 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49995) over 13 hours, 16 additions and 1 deletion in 2 files</sub>
@@ -813,6 +813,10 @@
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Update buildroot for fidl_binding_deps() support in the Fuchsia SDK
     <sub>[#49909](https://github.com/flutter/engine/pull/49909) merged on January 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49909) over 3 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub>
+
+* **[Jesse Seales](https://github.com/sealesj)** &mdash; Fuchsia + ocmock mirror migration
+    <sub>[#50003](https://github.com/flutter/engine/pull/50003) merged on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50003) over 3 hours, 3 additions and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland: Switch from transient stencil-only to depth+stencil buffer.
     <sub>[#49838](https://github.com/flutter/engine/pull/49838) merged on January 22, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49838) over 4 days, 169 additions and 81 deletions in 17 files</sub>
