@@ -81,10 +81,10 @@
     <sub>[#142254](https://github.com/flutter/flutter/pull/142254) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142254) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "Reland: "Fix how Gradle resolves Android plugin" (#137115)"<br />
-    <sub>[#142266](https://github.com/flutter/flutter/pull/142266) opened on on January 25, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/142266) 128 additions and 619 deletions in 7 files</sub><br />
+    <sub>[#142266](https://github.com/flutter/flutter/pull/142266) opened on on January 25, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/142266) 128 additions and 438 deletions in 6 files</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try Engine NDK update PR<br />
-    <sub>[#142267](https://github.com/flutter/flutter/pull/142267) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142267) 35 additions and 41 deletions in 14 files</sub><br />
+    <sub>[#142267](https://github.com/flutter/flutter/pull/142267) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142267) 36 additions and 42 deletions in 14 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-land: "Rename `integration_tests/external_ui` but do not touch anything else...""<br />
     <sub>[#142269](https://github.com/flutter/flutter/pull/142269) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142269) 4 additions and 4 deletions in 28 files</sub><br />
