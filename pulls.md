@@ -83,6 +83,3 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Roll deps from dart-lang/native in templates<br />
     <sub>[#142322](https://github.com/flutter/flutter/pull/142322) opened on on January 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142322) 3 additions and 3 deletions in 2 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Only use iOS 17 physical devices in staging tests<br />
-    <sub>[#142323](https://github.com/flutter/flutter/pull/142323) opened on on January 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142323) 13 additions and 16 deletions in 1 file</sub><br />
-
