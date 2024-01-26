@@ -83,6 +83,3 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix unresponsive mouse tooltip<br />
     <sub>[#142282](https://github.com/flutter/flutter/pull/142282) opened on on January 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142282) 85 additions and 1 deletion in 2 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix not disposed ImageInfo.<br />
-    <sub>[#142287](https://github.com/flutter/flutter/pull/142287) opened on on January 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142287) 13 additions and 3 deletions in 1 file</sub><br />
-
