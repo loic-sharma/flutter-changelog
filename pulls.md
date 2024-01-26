@@ -77,7 +77,7 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "Reland: "Fix how Gradle resolves Android plugin" (#137115)"<br />
     <sub>[#142266](https://github.com/flutter/flutter/pull/142266) opened on on January 25, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/142266) 138 additions and 279 deletions in 4 files</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try Engine NDK update PR<br />
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update Android minSdkVersion to 21<br />
     <sub>[#142267](https://github.com/flutter/flutter/pull/142267) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142267) 40 additions and 43 deletions in 13 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix unresponsive mouse tooltip<br />
