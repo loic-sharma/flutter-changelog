@@ -80,6 +80,3 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make generate_gradle_lockfiles also write the gradle wrapper file<br />
     <sub>[#142329](https://github.com/flutter/flutter/pull/142329) opened on on January 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142329) 18 additions and 0 deletions in 1 file</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove suspicious constant from input decorator layout<br />
-    <sub>[#142342](https://github.com/flutter/flutter/pull/142342) opened on on January 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142342) 29 additions and 29 deletions in 2 files</sub><br />
-
