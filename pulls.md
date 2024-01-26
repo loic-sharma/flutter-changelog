@@ -72,7 +72,7 @@
     <sub>[#142266](https://github.com/flutter/flutter/pull/142266) opened on on January 25, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/142266) 120 additions and 317 deletions in 5 files</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update Android minSdkVersion to 21<br />
-    <sub>[#142267](https://github.com/flutter/flutter/pull/142267) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142267) 40 additions and 43 deletions in 13 files</sub><br />
+    <sub>[#142267](https://github.com/flutter/flutter/pull/142267) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142267) 145 additions and 110 deletions in 15 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix unresponsive mouse tooltip<br />
     <sub>[#142282](https://github.com/flutter/flutter/pull/142282) opened on on January 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142282) 85 additions and 1 deletion in 2 files</sub><br />
@@ -82,7 +82,4 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make generate_gradle_lockfiles also write the gradle wrapper file<br />
     <sub>[#142329](https://github.com/flutter/flutter/pull/142329) opened on on January 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142329) 18 additions and 0 deletions in 1 file</sub><br />
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Run Mac x64 build tests in postsubmit only<br />
-    <sub>[#142334](https://github.com/flutter/flutter/pull/142334) opened on on January 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142334) 4 additions and 0 deletions in 1 file</sub><br />
 

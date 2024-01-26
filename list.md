@@ -846,7 +846,7 @@
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Fix Shell::Screenshot for Impeller
-    <sub>[#50072](https://github.com/flutter/engine/pull/50072) merged on January 26, 2024 &mdash; **Medium:** [17 comments](https://github.com/flutter/engine/pull/50072) over 13 hours, 343 additions and 63 deletions in 9 files</sub>
+    <sub>[#50072](https://github.com/flutter/engine/pull/50072) merged on January 26, 2024 &mdash; **Medium:** [19 comments](https://github.com/flutter/engine/pull/50072) over 13 hours, 343 additions and 63 deletions in 9 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Add `views` proxy and `getInitialData`.
@@ -870,8 +870,8 @@
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Finish landing missing/incorrect header guards across `flutter/engine`
-    <sub>[#50069](https://github.com/flutter/engine/pull/50069) merged on January 26, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/50069) over 18 hours, 347 additions and 7 deletions in 70 files</sub>
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+    <sub>[#50069](https://github.com/flutter/engine/pull/50069) merged on January 26, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/50069) over 18 hours, 347 additions and 7 deletions in 70 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use const std::unique_ptr ref for Sampler type.
     <sub>[#49974](https://github.com/flutter/engine/pull/49974) merged on January 24, 2024 &mdash; **Medium:** [23 comments](https://github.com/flutter/engine/pull/49974) over 23 hours, 166 additions and 161 deletions in 42 files</sub>
