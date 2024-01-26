@@ -53,17 +53,14 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Enforce a policy on supported Gradle, Java, AGP, and KGP versions<br />
     <sub>[#142000](https://github.com/flutter/flutter/pull/142000) opened on on January 22, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/142000) 502 additions and 0 deletions in 6 files</sub><br />
 
-* **[Jude Selase Kwashie](https://github.com/SelaseKay)** &mdash; Call 'markNeedsLayout' in textAlign setter<br />
-    <sub>[#142127](https://github.com/flutter/flutter/pull/142127) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142127) 16 additions and 1 deletion in 2 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fixes #138773, port autocomplete to OverlayPortal<br />
     <sub>[#142155](https://github.com/flutter/flutter/pull/142155) opened on on January 24, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/142155) 143 additions and 211 deletions in 3 files</sub><br />
 
 * **[Yukiteru Attano](https://github.com/YukiAttano)** &mdash; fix: added revertFlutterImage call in integration_tests<br />
     <sub>[#142166](https://github.com/flutter/flutter/pull/142166) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142166) 35 additions and 5 deletions in 4 files</sub><br />
 
-* **[Jude Selase Kwashie](https://github.com/SelaseKay)** &mdash; Fix null operator error when tapping on 'MenuItemButton'<br />
-    <sub>[#142230](https://github.com/flutter/flutter/pull/142230) opened on on January 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142230) 52 additions and 1 deletion in 2 files</sub><br />
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] add debugging to ios/core_devices.dart<br />
+    <sub>[#142187](https://github.com/flutter/flutter/pull/142187) opened on on January 25, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/142187) 116 additions and 35 deletions in 4 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a test for the isAvailableForEnvironment logic<br />
     <sub>[#142251](https://github.com/flutter/flutter/pull/142251) opened on on January 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142251) 169 additions and 1 deletion in 2 files</sub><br />
@@ -74,9 +71,9 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update Android minSdkVersion to 21<br />
     <sub>[#142267](https://github.com/flutter/flutter/pull/142267) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142267) 145 additions and 110 deletions in 15 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix unresponsive mouse tooltip<br />
-    <sub>[#142282](https://github.com/flutter/flutter/pull/142282) opened on on January 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142282) 85 additions and 1 deletion in 2 files</sub><br />
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make generate_gradle_lockfiles also write the gradle wrapper file<br />
     <sub>[#142329](https://github.com/flutter/flutter/pull/142329) opened on on January 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142329) 18 additions and 0 deletions in 1 file</sub><br />
+
+* **[Maximilian Fischer](https://github.com/fischerscode)** &mdash; [material] Simplify building responsive layouts based on window size classes.<br />
+    <sub>[#142348](https://github.com/flutter/flutter/pull/142348) opened on on January 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142348) 234 additions and 0 deletions in 5 files</sub><br />
 
