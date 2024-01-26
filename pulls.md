@@ -66,7 +66,7 @@
     <sub>[#142177](https://github.com/flutter/flutter/pull/142177) opened on on January 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142177) 4 additions and 2 deletions in 1 file</sub><br />
 
 * **[Jude Selase Kwashie](https://github.com/SelaseKay)** &mdash; Fix null operator error when tapping on 'MenuItemButton'<br />
-    <sub>[#142230](https://github.com/flutter/flutter/pull/142230) opened on on January 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142230) 53 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#142230](https://github.com/flutter/flutter/pull/142230) opened on on January 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142230) 52 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a test for the isAvailableForEnvironment logic<br />
     <sub>[#142251](https://github.com/flutter/flutter/pull/142251) opened on on January 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142251) 169 additions and 1 deletion in 2 files</sub><br />
