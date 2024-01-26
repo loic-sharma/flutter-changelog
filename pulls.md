@@ -78,7 +78,7 @@
     <sub>[#142266](https://github.com/flutter/flutter/pull/142266) opened on on January 25, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/142266) 138 additions and 279 deletions in 4 files</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try Engine NDK update PR<br />
-    <sub>[#142267](https://github.com/flutter/flutter/pull/142267) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142267) 42 additions and 44 deletions in 15 files</sub><br />
+    <sub>[#142267](https://github.com/flutter/flutter/pull/142267) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142267) 40 additions and 43 deletions in 13 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix unresponsive mouse tooltip<br />
     <sub>[#142282](https://github.com/flutter/flutter/pull/142282) opened on on January 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142282) 85 additions and 1 deletion in 2 files</sub><br />
