@@ -65,9 +65,6 @@
 * **[Yukiteru Attano](https://github.com/YukiAttano)** &mdash; fix: added revertFlutterImage call in integration_tests<br />
     <sub>[#142166](https://github.com/flutter/flutter/pull/142166) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142166) 35 additions and 5 deletions in 4 files</sub><br />
 
-* **[Andrew Brampton](https://github.com/bramp)** &mdash; Update _goldens_io.dart to generate failure images during a size mism…<br />
-    <sub>[#142177](https://github.com/flutter/flutter/pull/142177) opened on on January 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142177) 4 additions and 2 deletions in 1 file</sub><br />
-
 * **[Jude Selase Kwashie](https://github.com/SelaseKay)** &mdash; Fix null operator error when tapping on 'MenuItemButton'<br />
     <sub>[#142230](https://github.com/flutter/flutter/pull/142230) opened on on January 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142230) 52 additions and 1 deletion in 2 files</sub><br />
 
