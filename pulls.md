@@ -80,3 +80,9 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix unresponsive mouse tooltip<br />
     <sub>[#142282](https://github.com/flutter/flutter/pull/142282) opened on on January 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142282) 85 additions and 1 deletion in 2 files</sub><br />
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Roll deps from dart-lang/native in templates<br />
+    <sub>[#142322](https://github.com/flutter/flutter/pull/142322) opened on on January 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142322) 3 additions and 3 deletions in 2 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Only use iOS 17 physical devices in staging tests<br />
+    <sub>[#142323](https://github.com/flutter/flutter/pull/142323) opened on on January 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142323) 13 additions and 16 deletions in 1 file</sub><br />
+
