@@ -131,7 +131,7 @@
     <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Move iOS content validation devicelab test into tool integration test<br />
-    <sub>[#142272](https://github.com/flutter/flutter/pull/142272) merged on January 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/142272) over 18 hours, 104 additions and 139 deletions in 4 files</sub><br />
+    <sub>[#142272](https://github.com/flutter/flutter/pull/142272) merged on January 26, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/142272) over 18 hours, 104 additions and 139 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] fix language_version_test and enable shuffle<br />
