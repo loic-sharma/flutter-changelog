@@ -846,7 +846,7 @@
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Fix Shell::Screenshot for Impeller<br />
-    <sub>[#50072](https://github.com/flutter/engine/pull/50072) merged on January 26, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/50072) over 13 hours, 343 additions and 63 deletions in 9 files</sub><br />
+    <sub>[#50072](https://github.com/flutter/engine/pull/50072) merged on January 26, 2024 &mdash; **Medium:** [17 comments](https://github.com/flutter/engine/pull/50072) over 13 hours, 343 additions and 63 deletions in 9 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Add `views` proxy and `getInitialData`.<br />
