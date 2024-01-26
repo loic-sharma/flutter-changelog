@@ -72,7 +72,7 @@
     <sub>[#142251](https://github.com/flutter/flutter/pull/142251) opened on on January 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142251) 169 additions and 1 deletion in 2 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "Reland: "Fix how Gradle resolves Android plugin" (#137115)"<br />
-    <sub>[#142266](https://github.com/flutter/flutter/pull/142266) opened on on January 25, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/142266) 120 additions and 301 deletions in 5 files</sub><br />
+    <sub>[#142266](https://github.com/flutter/flutter/pull/142266) opened on on January 25, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/142266) 120 additions and 301 deletions in 5 files</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update Android minSdkVersion to 21<br />
     <sub>[#142267](https://github.com/flutter/flutter/pull/142267) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142267) 40 additions and 43 deletions in 13 files</sub><br />
