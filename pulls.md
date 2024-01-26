@@ -60,7 +60,7 @@
     <sub>[#142166](https://github.com/flutter/flutter/pull/142166) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142166) 35 additions and 5 deletions in 4 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] add debugging to ios/core_devices.dart<br />
-    <sub>[#142187](https://github.com/flutter/flutter/pull/142187) opened on on January 25, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/142187) 116 additions and 35 deletions in 4 files</sub><br />
+    <sub>[#142187](https://github.com/flutter/flutter/pull/142187) opened on on January 25, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/142187) 116 additions and 35 deletions in 4 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a test for the isAvailableForEnvironment logic<br />
     <sub>[#142251](https://github.com/flutter/flutter/pull/142251) opened on on January 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142251) 169 additions and 1 deletion in 2 files</sub><br />
