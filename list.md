@@ -103,7 +103,7 @@
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; refactor asset bundle code to not depend on the global Cache.flutterRoot
-    <sub>[#142277](https://github.com/flutter/flutter/pull/142277) merged on January 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/142277) over 20 hours, 41 additions and 29 deletions in 4 files</sub>
+    <sub>[#142277](https://github.com/flutter/flutter/pull/142277) merged on January 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/142277) over 20 hours, 41 additions and 29 deletions in 4 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Add runWidget to bootstrap a widget tree without a default View"
