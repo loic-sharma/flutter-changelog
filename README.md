@@ -1493,7 +1493,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-12 commits.
+13 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix TableSpanDecoration rects when axes are reversed<br />
     <sub>[#5916](https://github.com/flutter/packages/pull/5916) merged on January 22, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/5916) over 5 days, 697 additions and 7 deletions in 4 files</sub><br />
@@ -1543,6 +1543,10 @@
 * **[Tyler](https://github.com/dshukertjr)** &mdash; [url_launcher]: Fix a grammar error in the comments of launchUrl method<br />
     <sub>[#5919](https://github.com/flutter/packages/pull/5919) merged on January 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/5919) over 4 days, 4 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 67457e669f79 to 41456452f29d (1 revision)<br />
+    <sub>[#5979](https://github.com/flutter/packages/pull/5979) merged on January 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5979) over 42 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### January 13, 2024 to January 19, 2024
 
