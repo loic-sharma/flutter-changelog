@@ -67,7 +67,7 @@
     <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Enable native compilation for windows-arm64<br />
-    <sub>[#141930](https://github.com/flutter/flutter/pull/141930) merged on January 26, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/141930) over 5 days, 258 additions and 110 deletions in 41 files</sub><br />
+    <sub>[#141930](https://github.com/flutter/flutter/pull/141930) merged on January 26, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/141930) over 5 days, 258 additions and 110 deletions in 41 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Mark defaultTargetPlatform as constant for non-debug non-web builds.<br />
