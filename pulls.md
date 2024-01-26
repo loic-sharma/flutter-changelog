@@ -75,7 +75,7 @@
     <sub>[#142254](https://github.com/flutter/flutter/pull/142254) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142254) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "Reland: "Fix how Gradle resolves Android plugin" (#137115)"<br />
-    <sub>[#142266](https://github.com/flutter/flutter/pull/142266) opened on on January 25, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/142266) 138 additions and 279 deletions in 4 files</sub><br />
+    <sub>[#142266](https://github.com/flutter/flutter/pull/142266) opened on on January 25, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/142266) 138 additions and 279 deletions in 4 files</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try Engine NDK update PR<br />
     <sub>[#142267](https://github.com/flutter/flutter/pull/142267) opened on on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142267) 42 additions and 44 deletions in 15 files</sub><br />

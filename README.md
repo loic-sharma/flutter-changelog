@@ -1002,7 +1002,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Reland Optimizations for TLHC frame rate and jank<br />
-    <sub>[#50065](https://github.com/flutter/engine/pull/50065) merged on January 26, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/50065) over 11 minutes, 426 additions and 193 deletions in 19 files</sub><br />
+    <sub>[#50065](https://github.com/flutter/engine/pull/50065) merged on January 26, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50065) over 11 minutes, 426 additions and 193 deletions in 19 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[Impeller] round up subpass coverage when it is close to (and smaller) than root pass size."<br />
