@@ -83,3 +83,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make generate_gradle_lockfiles also write the gradle wrapper file<br />
     <sub>[#142329](https://github.com/flutter/flutter/pull/142329) opened on on January 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142329) 18 additions and 0 deletions in 1 file</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] remove await runZonedGuarded() in tests<br />
+    <sub>[#142336](https://github.com/flutter/flutter/pull/142336) opened on on January 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142336) 4 additions and 4 deletions in 1 file</sub><br />
+
