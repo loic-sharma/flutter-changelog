@@ -74,3 +74,6 @@
 * **[Maximilian Fischer](https://github.com/fischerscode)** &mdash; [material] Simplify building responsive layouts based on window size classes.<br />
     <sub>[#142348](https://github.com/flutter/flutter/pull/142348) opened on on January 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142348) 234 additions and 0 deletions in 5 files</sub><br />
 
+* **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add stateful reordering test for TwoDimensionalViewport<br />
+    <sub>[#142375](https://github.com/flutter/flutter/pull/142375) opened on on January 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142375) 11 additions and 3 deletions in 1 file</sub><br />
+
