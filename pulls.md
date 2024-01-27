@@ -77,3 +77,6 @@
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add stateful reordering test for TwoDimensionalViewport<br />
     <sub>[#142375](https://github.com/flutter/flutter/pull/142375) opened on on January 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142375) 11 additions and 3 deletions in 1 file</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add no-shuffle to language_version_test.dart<br />
+    <sub>[#142378](https://github.com/flutter/flutter/pull/142378) opened on on January 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142378) 7 additions and 0 deletions in 1 file</sub><br />
+
