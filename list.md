@@ -1595,7 +1595,7 @@
 
 ### January 20, 2024 to January 26, 2024
 
-13 commits.
+14 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix TableSpanDecoration rects when axes are reversed
     <sub>[#5916](https://github.com/flutter/packages/pull/5916) merged on January 22, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/5916) over 5 days, 697 additions and 7 deletions in 4 files</sub>
@@ -1637,6 +1637,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_platform_interface] Adds WebResourceRequest to HttpResponseError
     <sub>[#5790](https://github.com/flutter/packages/pull/5790) merged on January 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/5790) over 2 weeks, 187 additions and 4 deletions in 8 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Add Kotlin to CONTRIBUTING.md
+    <sub>[#5970](https://github.com/flutter/packages/pull/5970) merged on January 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5970) over 1 day, 2 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Use a local web server for legacy web integration tests
     <sub>[#5956](https://github.com/flutter/packages/pull/5956) merged on January 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/5956) over 1 day, 22 additions and 8 deletions in 2 files</sub>
