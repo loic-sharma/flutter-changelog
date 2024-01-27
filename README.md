@@ -46,6 +46,10 @@
     <sub>[#133002](https://github.com/flutter/flutter/pull/133002) merged on January 22, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/133002) over 5 months, 62 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: </sub><br />
 
+* **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Enable native compilation for windows-arm64<br />
+    <sub>[#141930](https://github.com/flutter/flutter/pull/141930) merged on January 26, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/141930) over 5 days, 258 additions and 110 deletions in 41 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fixes #138773, port autocomplete to OverlayPortal<br />
     <sub>[#140285](https://github.com/flutter/flutter/pull/140285) merged on January 24, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/140285) over 1 month, 143 additions and 211 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
@@ -77,10 +81,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Remove duplicate global declaration of `UserMessages`<br />
     <sub>[#142281](https://github.com/flutter/flutter/pull/142281) merged on January 26, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/142281) over 19 hours, 28 additions and 42 deletions in 14 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
-* **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Enable native compilation for windows-arm64<br />
-    <sub>[#141930](https://github.com/flutter/flutter/pull/141930) merged on January 26, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/141930) over 5 days, 258 additions and 110 deletions in 41 files</sub><br />
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Mark defaultTargetPlatform as constant for non-debug non-web builds.<br />
     <sub>[#141105](https://github.com/flutter/flutter/pull/141105) merged on January 22, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/141105) over 2 weeks, 21 additions and 5 deletions in 2 files</sub><br />
