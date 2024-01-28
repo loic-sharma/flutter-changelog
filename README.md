@@ -1628,7 +1628,7 @@
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/packages/assets/16964204/ae7c6872-c740-4617-95a4-8302a3085d59)</details></sub>
 
 * **[getBoolean](https://github.com/getBoolean)** &mdash; [go_router] Add `topRoute` to `GoRouterState`<br />
-    <sub>[#5736](https://github.com/flutter/packages/pull/5736) merged on January 28, 2024 &mdash; **Medium:** [20 comments](https://github.com/flutter/packages/pull/5736) over 1 month, 431 additions and 1 deletion in 8 files</sub><br />
+    <sub>[#5736](https://github.com/flutter/packages/pull/5736) merged on January 28, 2024 &mdash; **Medium:** [21 comments](https://github.com/flutter/packages/pull/5736) over 1 month, 431 additions and 1 deletion in 8 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [John Ryan](https://github.com/johnpryan), [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Update `Activity` references when `ActivityAware` lifecycle methods called<br />
