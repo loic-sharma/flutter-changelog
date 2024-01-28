@@ -77,3 +77,6 @@
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add stateful reordering test for TwoDimensionalViewport<br />
     <sub>[#142375](https://github.com/flutter/flutter/pull/142375) opened on on January 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142375) 11 additions and 3 deletions in 1 file</sub><br />
 
+* **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Using `initExpensiveAndroidView` for Android Hybrid Composition Mode<br />
+    <sub>[#142399](https://github.com/flutter/flutter/pull/142399) opened on on January 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142399) 1 addition and 1 deletion in 1 file</sub><br />
+
