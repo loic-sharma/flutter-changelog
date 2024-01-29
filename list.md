@@ -642,7 +642,11 @@
 
 ### January 27, 2024 to February 2, 2024
 
-3 commits.
+4 commits.
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Include dart vm internal sources into flutter distro.
+    <sub>[#50116](https://github.com/flutter/engine/pull/50116) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50116) over 2 days, 8 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Manually revert TLHC optimizations, holding on to width/height changes.
     <sub>[#50144](https://github.com/flutter/engine/pull/50144) merged on January 29, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/50144) over 55 minutes, 193 additions and 426 deletions in 19 files</sub>
