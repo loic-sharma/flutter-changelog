@@ -359,7 +359,7 @@
     <sub><details><summary>3 images...</summary>![original](https://github.com/flutter/flutter/assets/22084723/f52d46bb-eaf9-4519-976e-9ea07c021e14)![new_72](https://github.com/flutter/flutter/assets/22084723/8c9d3510-eaca-4b7d-92d8-0d06a7e75136)![new_64](https://github.com/flutter/flutter/assets/22084723/f8811b70-766f-4a4f-b069-33673b1e3744)</details></sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Native assets: package in framework on iOS and MacOS<br />
-    <sub>[#140907](https://github.com/flutter/flutter/pull/140907) merged on January 19, 2024 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/140907) over 2 weeks, 479 additions and 107 deletions in 9 files</sub><br />
+    <sub>[#140907](https://github.com/flutter/flutter/pull/140907) merged on January 19, 2024 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/140907) over 2 weeks, 479 additions and 107 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Add check for Bank of Brazil security module to Windows Flutter Doctor validators<br />
