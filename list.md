@@ -4,7 +4,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-9 commits.
+10 commits.
 
 * **[Mohammad Bagher Fakouri](https://github.com/mbfakourii)** &mdash; Add `SingleChildScrollView` for `NavigationRail`
     <sub>[#137415](https://github.com/flutter/flutter/pull/137415) merged on January 29, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/137415) over 3 months, 117 additions and 56 deletions in 2 files</sub>
@@ -41,6 +41,10 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `foundation/` and `material/`
     <sub>[#142279](https://github.com/flutter/flutter/pull/142279) merged on January 29, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/142279) over 3 days, 115 additions and 196 deletions in 12 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "Reland: "Fix how Gradle resolves Android plugin" (#137115)"
+    <sub>[#142464](https://github.com/flutter/flutter/pull/142464) merged on January 29, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/142464) over 3 hours, 128 additions and 646 deletions in 7 files</sub>
+    <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker)</sub>
 
 ### January 20, 2024 to January 26, 2024
 
