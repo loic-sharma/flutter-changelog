@@ -966,6 +966,10 @@
     <sub>[#49785](https://github.com/flutter/engine/pull/49785) merged on January 20, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/49785) over 5 days, 497 additions and 455 deletions in 17 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub>
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Android] Reset IME state in TextInputPlugin.clearTextInputClient
+    <sub>[#49829](https://github.com/flutter/engine/pull/49829) merged on January 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49829) over 17 hours, 39 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Encode directly to command buffer for Vulkan.
     <sub>[#49780](https://github.com/flutter/engine/pull/49780) merged on January 16, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/engine/pull/49780) over 3 days, 805 additions and 445 deletions in 40 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
@@ -985,10 +989,6 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] fix ==/hashCode/toString for several classes across renderers
     <sub>[#49786](https://github.com/flutter/engine/pull/49786) merged on January 18, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/49786) over 3 days, 1162 additions and 221 deletions in 17 files</sub>
     <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Android] Reset IME state in TextInputPlugin.clearTextInputClient
-    <sub>[#49829](https://github.com/flutter/engine/pull/49829) merged on January 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/49829) over 17 hours, 39 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update tests to Xcode 15 and iOS 17 simulator
     <sub>[#49833](https://github.com/flutter/engine/pull/49833) merged on January 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/49833) over 23 hours, 144 additions and 149 deletions in 53 files</sub>
