@@ -86,3 +86,6 @@
 * **[David Martos](https://github.com/davidmartos96)** &mdash; barrierColor property in DialogTheme<br />
     <sub>[#142490](https://github.com/flutter/flutter/pull/142490) opened on on January 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142490) 28 additions and 3 deletions in 3 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [CP][Android] Revert "Reland: "Fix how Gradle resolves Android plugin" (#137115)"<br />
+    <sub>[#142491](https://github.com/flutter/flutter/pull/142491) opened on on January 29, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/142491) 128 additions and 408 deletions in 6 files</sub><br />
+
