@@ -292,7 +292,7 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove textScaleFactor references from flutter/flutter
-    <sub>[#142271](https://github.com/flutter/flutter/pull/142271) merged on January 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142271) over 20 hours, 73 additions and 67 deletions in 16 files</sub>
+    <sub>[#142271](https://github.com/flutter/flutter/pull/142271) merged on January 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142271) over 20 hours, 73 additions and 67 deletions in 16 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from 2687ddb2655c to 2adad88a39f4 (4 revisions)"
