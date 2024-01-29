@@ -38,6 +38,10 @@
     <sub>[#141804](https://github.com/flutter/flutter/pull/141804) merged on January 23, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/141804) over 4 days, 408 additions and 78 deletions in 83 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
+* **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Enable native compilation for windows-arm64<br />
+    <sub>[#141930](https://github.com/flutter/flutter/pull/141930) merged on January 26, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/141930) over 5 days, 258 additions and 110 deletions in 41 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Do not hang on test failures of tests within `flutter_tools`<br />
     <sub>[#141821](https://github.com/flutter/flutter/pull/141821) merged on January 22, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/141821) over 3 days, 17 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Nate Bosch](https://github.com/natebosch), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
@@ -45,10 +49,6 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Floating cursor docs<br />
     <sub>[#133002](https://github.com/flutter/flutter/pull/133002) merged on January 22, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/133002) over 5 months, 62 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: </sub><br />
-
-* **[Pierrick Bouvier](https://github.com/pbo-linaro)** &mdash; Enable native compilation for windows-arm64<br />
-    <sub>[#141930](https://github.com/flutter/flutter/pull/141930) merged on January 26, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/141930) over 5 days, 258 additions and 110 deletions in 41 files</sub><br />
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fixes #138773, port autocomplete to OverlayPortal<br />
     <sub>[#140285](https://github.com/flutter/flutter/pull/140285) merged on January 24, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/140285) over 1 month, 143 additions and 211 deletions in 3 files</sub><br />
