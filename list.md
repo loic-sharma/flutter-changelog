@@ -605,9 +605,18 @@
 
 ## flutter/engine
 
+### January 27, 2024 to February 2, 2024
+
+1 commits.
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart to Version 3.4.0-82.0.dev
+    <sub>[#50131](https://github.com/flutter/engine/pull/50131) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50131) over 1 hour, 3 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
 ### January 20, 2024 to January 26, 2024
 
-78 commits.
+<details>
+<summary>78 commits...</summary>
 
 * **[maRci002](https://github.com/maRci002)** &mdash; [web] add support for AppLifecycleState changes
     <sub>[#44720](https://github.com/flutter/engine/pull/44720) merged on January 25, 2024 &mdash; **Small:** [42 comments](https://github.com/flutter/engine/pull/44720) over 5 months, 243 additions and 9 deletions in 8 files</sub>
@@ -928,6 +937,8 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland: Switch from transient stencil-only to depth+stencil buffer.
     <sub>[#49838](https://github.com/flutter/engine/pull/49838) merged on January 22, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49838) over 4 days, 169 additions and 81 deletions in 17 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+</details>
 
 ### January 13, 2024 to January 19, 2024
 
