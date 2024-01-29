@@ -78,5 +78,5 @@
     <sub>[#142430](https://github.com/flutter/flutter/pull/142430) opened on on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142430) 12 additions and 5 deletions in 1 file</sub><br />
 
 * **[Igor Molchanov](https://github.com/meg4cyberc4t)** &mdash; Background Transparent feature for CupertinoSliverNavigationBar<br />
-    <sub>[#142439](https://github.com/flutter/flutter/pull/142439) opened on on January 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142439) 233 additions and 20 deletions in 4 files</sub><br />
+    <sub>[#142439](https://github.com/flutter/flutter/pull/142439) opened on on January 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142439) 232 additions and 20 deletions in 4 files</sub><br />
 
