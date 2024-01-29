@@ -1250,11 +1250,15 @@
 
 ### January 27, 2024 to February 2, 2024
 
-1 commits.
+2 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Disambiguate TestDefaultBinaryMessengerBinding
     <sub>[#6009](https://github.com/flutter/packages/pull/6009) merged on January 29, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/packages/pull/6009) over 1 hour, 100 additions and 339 deletions in 30 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Clarify issue requirement
+    <sub>[#6010](https://github.com/flutter/packages/pull/6010) merged on January 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6010) over 45 minutes, 2 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 ### January 20, 2024 to January 26, 2024
 
