@@ -77,9 +77,6 @@
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Using `initExpensiveAndroidView` for Android Hybrid Composition Mode<br />
     <sub>[#142399](https://github.com/flutter/flutter/pull/142399) opened on on January 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142399) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[xubaolin](https://github.com/xu-baolin)** &mdash; Change `ItemExtentBuilder`'s return value nullable<br />
-    <sub>[#142428](https://github.com/flutter/flutter/pull/142428) opened on on January 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142428) 65 additions and 5 deletions in 5 files</sub><br />
-
 * **[BiskupMaik](https://github.com/BiskupMaik)** &mdash; fix AppBar docs for backgroundColor & foregroundColor<br />
     <sub>[#142430](https://github.com/flutter/flutter/pull/142430) opened on on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142430) 12 additions and 5 deletions in 1 file</sub><br />
 

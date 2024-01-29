@@ -4,7 +4,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-2 commits.
+3 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update Android minSdkVersion to 21
     <sub>[#142267](https://github.com/flutter/flutter/pull/142267) merged on January 29, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/142267) over 3 days, 152 additions and 1306 deletions in 37 files</sub>
@@ -13,6 +13,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Opt out test from leak tracking.
     <sub>[#142417](https://github.com/flutter/flutter/pull/142417) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142417) over 20 hours, 4 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `foundation/` and `material/`
+    <sub>[#142279](https://github.com/flutter/flutter/pull/142279) merged on January 29, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/142279) over 3 days, 115 additions and 196 deletions in 12 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 ### January 20, 2024 to January 26, 2024
 
@@ -946,7 +950,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Reland Optimizations for TLHC frame rate and jank
-    <sub>[#50065](https://github.com/flutter/engine/pull/50065) merged on January 26, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50065) over 11 minutes, 426 additions and 193 deletions in 19 files</sub>
+    <sub>[#50065](https://github.com/flutter/engine/pull/50065) merged on January 26, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/50065) over 11 minutes, 426 additions and 193 deletions in 19 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "[Impeller] round up subpass coverage when it is close to (and smaller) than root pass size."
