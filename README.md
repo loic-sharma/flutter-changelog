@@ -2,9 +2,22 @@
 
 ## flutter/flutter
 
+### January 27, 2024 to February 2, 2024
+
+2 commits.
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update Android minSdkVersion to 21<br />
+    <sub>[#142267](https://github.com/flutter/flutter/pull/142267) merged on January 29, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/142267) over 3 days, 152 additions and 1306 deletions in 37 files</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Opt out test from leak tracking.<br />
+    <sub>[#142417](https://github.com/flutter/flutter/pull/142417) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142417) over 20 hours, 4 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
 ### January 20, 2024 to January 26, 2024
 
-81 commits.
+<details>
+<summary>81 commits...</summary>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add runWidget to bootstrap a widget tree without a default View<br />
     <sub>[#141484](https://github.com/flutter/flutter/pull/141484) merged on January 26, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/141484) over 1 week, 365 additions and 209 deletions in 13 files</sub><br />
@@ -333,6 +346,8 @@
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Revert "Remove hack from PageView."<br />
     <sub>[#141977](https://github.com/flutter/flutter/pull/141977) merged on January 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141977) over 1 hour, 41 additions and 134 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
+
+</details>
 
 ### January 13, 2024 to January 19, 2024
 
