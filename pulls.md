@@ -80,6 +80,3 @@
 * **[Igor Molchanov](https://github.com/meg4cyberc4t)** &mdash; Background Transparent feature for CupertinoSliverNavigationBar<br />
     <sub>[#142439](https://github.com/flutter/flutter/pull/142439) opened on on January 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142439) 232 additions and 20 deletions in 4 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix: selectionHandleColor does not inherit from local `Theme` widget<br />
-    <sub>[#142476](https://github.com/flutter/flutter/pull/142476) opened on on January 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142476) 59 additions and 4 deletions in 2 files</sub><br />
-

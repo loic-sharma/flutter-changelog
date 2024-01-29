@@ -4,7 +4,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-8 commits.
+9 commits.
 
 * **[Mohammad Bagher Fakouri](https://github.com/mbfakourii)** &mdash; Add `SingleChildScrollView` for `NavigationRail`
     <sub>[#137415](https://github.com/flutter/flutter/pull/137415) merged on January 29, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/137415) over 3 months, 117 additions and 56 deletions in 2 files</sub>
@@ -13,6 +13,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Catch file system exceptions when trying to parse user-provided asset file paths
     <sub>[#142214](https://github.com/flutter/flutter/pull/142214) merged on January 29, 2024 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/142214) over 4 days, 351 additions and 202 deletions in 3 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; onNavigationNotification for *App.router
+    <sub>[#142190](https://github.com/flutter/flutter/pull/142190) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142190) over 4 days, 100 additions and 1 deletion in 5 files</sub>
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Bryan Olivares](https://github.com/bryanoli)** &mdash; Feat: TextField can scroll when disabled
     <sub>[#140922](https://github.com/flutter/flutter/pull/140922) merged on January 29, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/140922) over 3 weeks, 59 additions and 2 deletions in 3 files</sub>
