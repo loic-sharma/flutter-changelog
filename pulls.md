@@ -80,9 +80,6 @@
 * **[Igor Molchanov](https://github.com/meg4cyberc4t)** &mdash; Background Transparent feature for CupertinoSliverNavigationBar<br />
     <sub>[#142439](https://github.com/flutter/flutter/pull/142439) opened on on January 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142439) 232 additions and 20 deletions in 4 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Style correctness improvements for toStrings and related fixes<br />
-    <sub>[#142485](https://github.com/flutter/flutter/pull/142485) opened on on January 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142485) 14 additions and 38 deletions in 10 files</sub><br />
-
 * **[David Martos](https://github.com/davidmartos96)** &mdash; barrierColor property in DialogTheme<br />
     <sub>[#142490](https://github.com/flutter/flutter/pull/142490) opened on on January 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142490) 28 additions and 3 deletions in 3 files</sub><br />
 
