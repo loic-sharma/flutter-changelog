@@ -670,16 +670,20 @@
 
 ### January 27, 2024 to February 2, 2024
 
-11 commits.
+12 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Add interface for submitting multiple command buffers at once.
-    <sub>[#50139](https://github.com/flutter/engine/pull/50139) merged on January 30, 2024 &mdash; **Large:** [36 comments](https://github.com/flutter/engine/pull/50139) over 15 hours, 602 additions and 305 deletions in 54 files</sub>
+    <sub>[#50139](https://github.com/flutter/engine/pull/50139) merged on January 30, 2024 &mdash; **Large:** [37 comments](https://github.com/flutter/engine/pull/50139) over 15 hours, 602 additions and 305 deletions in 54 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Revert: "Change how OpenGL textures are flipped in the Android embedder"
     <sub>[#50158](https://github.com/flutter/engine/pull/50158) merged on January 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50158) over 1 hour, 8 additions and 18 deletions in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/engine/assets/168174/0691feec-67a9-45b1-aa8e-1c692d09430b)![image](https://github.com/flutter/engine/assets/168174/016dc79a-1e44-48cf-9ba0-a61397f8e637)</details></sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] Add interface for submitting multiple command buffers at once."
+    <sub>[#50174](https://github.com/flutter/engine/pull/50174) merged on January 30, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/50174) over 30 seconds, 305 additions and 602 deletions in 54 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Re-Re-land Manually revert TLHC optimizations
     <sub>[#50155](https://github.com/flutter/engine/pull/50155) merged on January 30, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/50155) over 2 hours, 444 additions and 193 deletions in 19 files</sub>
