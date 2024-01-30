@@ -1346,7 +1346,7 @@
 6 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [rfw] Add `OverflowBar` widget and Update `ButtonBar` widget implementation
-    <sub>[#5807](https://github.com/flutter/packages/pull/5807) merged on January 30, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/packages/pull/5807) over 3 weeks, 227 additions and 17 deletions in 7 files</sub>
+    <sub>[#5807](https://github.com/flutter/packages/pull/5807) merged on January 30, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/5807) over 3 weeks, 227 additions and 17 deletions in 7 files</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Adds ProxyApi to AST generation
