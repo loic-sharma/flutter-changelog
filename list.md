@@ -654,7 +654,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-8 commits.
+9 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Revert: "Change how OpenGL textures are flipped in the Android embedder"
     <sub>[#50158](https://github.com/flutter/engine/pull/50158) merged on January 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50158) over 1 hour, 8 additions and 18 deletions in 2 files</sub>
@@ -684,6 +684,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart to Version 3.4.0-82.0.dev
     <sub>[#50131](https://github.com/flutter/engine/pull/50131) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50131) over 1 hour, 3 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Michael Brase](https://github.com/mbrase)** &mdash; Fix incorrect FML_VLOG() severity usage
+    <sub>[#50118](https://github.com/flutter/engine/pull/50118) merged on January 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50118) over 2 days, 9 additions and 9 deletions in 3 files</sub>
+    <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub>
 
 * **[Jesse Seales](https://github.com/sealesj)** &mdash; Remove ockmock GitHub reference
     <sub>[#50086](https://github.com/flutter/engine/pull/50086) merged on January 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50086) over 2 days, 0 additions and 2 deletions in 1 file</sub>
