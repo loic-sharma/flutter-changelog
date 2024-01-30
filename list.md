@@ -1343,7 +1343,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-6 commits.
+7 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [rfw] Add `OverflowBar` widget and Update `ButtonBar` widget implementation
     <sub>[#5807](https://github.com/flutter/packages/pull/5807) merged on January 30, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/5807) over 3 weeks, 227 additions and 17 deletions in 7 files</sub>
@@ -1356,6 +1356,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Disambiguate TestDefaultBinaryMessengerBinding
     <sub>[#6009](https://github.com/flutter/packages/pull/6009) merged on January 29, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/packages/pull/6009) over 1 hour, 100 additions and 339 deletions in 30 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Enable subscribing to the root of a DynamicContent
+    <sub>[#5848](https://github.com/flutter/packages/pull/5848) merged on January 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/5848) over 3 weeks, 58 additions and 14 deletions in 5 files</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Exempt federated impl examples from CHANGELOG
     <sub>[#6018](https://github.com/flutter/packages/pull/6018) merged on January 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6018) over 53 minutes, 41 additions and 4 deletions in 2 files</sub>
