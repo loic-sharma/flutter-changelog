@@ -674,7 +674,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-13 commits.
+14 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Add interface for submitting multiple command buffers at once.<br />
     <sub>[#50139](https://github.com/flutter/engine/pull/50139) merged on January 30, 2024 &mdash; **Large:** [37 comments](https://github.com/flutter/engine/pull/50139) over 15 hours, 602 additions and 305 deletions in 54 files</sub><br />
@@ -708,6 +708,10 @@
 * **[John O'Neil](https://github.com/johnoneil)** &mdash; Enable `_Float16` "half-float" Functionality Only When Available.<br />
     <sub>[#49851](https://github.com/flutter/engine/pull/49851) merged on January 29, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49851) over 1 week, 10 additions and 8 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] Reland: recycle hardware buffer textures.<br />
+    <sub>[#50122](https://github.com/flutter/engine/pull/50122) merged on January 30, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/50122) over 2 days, 335 additions and 74 deletions in 14 files</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Handle construction/destruction of GObject private data containing C++ objects in Linux embedder tests<br />
     <sub>[#50022](https://github.com/flutter/engine/pull/50022) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50022) over 4 days, 130 additions and 54 deletions in 2 files</sub><br />
