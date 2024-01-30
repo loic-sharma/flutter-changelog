@@ -678,7 +678,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-18 commits.
+19 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Add interface for submitting multiple command buffers at once.
     <sub>[#50139](https://github.com/flutter/engine/pull/50139) merged on January 30, 2024 &mdash; **Large:** [37 comments](https://github.com/flutter/engine/pull/50139) over 15 hours, 602 additions and 305 deletions in 54 files</sub>
@@ -748,6 +748,10 @@
 * **[Jesse Seales](https://github.com/sealesj)** &mdash; Remove ockmock GitHub reference
     <sub>[#50086](https://github.com/flutter/engine/pull/50086) merged on January 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50086) over 2 days, 0 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller]  Reland: add interface for submitting multiple command buffers at once.
+    <sub>[#50180](https://github.com/flutter/engine/pull/50180) merged on January 30, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/engine/pull/50180) over 2 hours, 610 additions and 307 deletions in 54 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[杨加康](https://github.com/MeandNi)** &mdash; Revert "Close connection on keyboard close (#41500)"
     <sub>[#49366](https://github.com/flutter/engine/pull/49366) merged on January 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49366) over 1 month, 1 addition and 71 deletions in 4 files</sub>
