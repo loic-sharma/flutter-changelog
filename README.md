@@ -4,7 +4,11 @@
 
 ### January 27, 2024 to February 2, 2024
 
-15 commits.
+16 commits.
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix: selection handles do not inherit color from local `Theme` widget<br />
+    <sub>[#142476](https://github.com/flutter/flutter/pull/142476) merged on January 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142476) over 21 hours, 105 additions and 5 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Mohammad Bagher Fakouri](https://github.com/mbfakourii)** &mdash; Add `SingleChildScrollView` for `NavigationRail`<br />
     <sub>[#137415](https://github.com/flutter/flutter/pull/137415) merged on January 29, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/137415) over 3 months, 117 additions and 56 deletions in 2 files</sub><br />
@@ -674,7 +678,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-14 commits.
+15 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Add interface for submitting multiple command buffers at once.<br />
     <sub>[#50139](https://github.com/flutter/engine/pull/50139) merged on January 30, 2024 &mdash; **Large:** [37 comments](https://github.com/flutter/engine/pull/50139) over 15 hours, 602 additions and 305 deletions in 54 files</sub><br />
@@ -720,6 +724,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart to Version 3.4.0-82.0.dev<br />
     <sub>[#50131](https://github.com/flutter/engine/pull/50131) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50131) over 1 hour, 3 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from d0b48a008559 to 10bbb376de7e (8 revisions)<br />
+    <sub>[#50172](https://github.com/flutter/engine/pull/50172) merged on January 30, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/50172) over 1 hour, 599 additions and 23 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Mitchell Kember](https://github.com/mk12)** &mdash; Roll buildroot to 52689fe8955a9a4916a38f0b8ae5ea3e217037f4<br />
     <sub>[#50160](https://github.com/flutter/engine/pull/50160) merged on January 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50160) over 16 hours, 1 addition and 1 deletion in 1 file</sub><br />
