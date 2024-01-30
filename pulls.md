@@ -44,9 +44,6 @@
 * **[Simone Stasi](https://github.com/sstasi95)** &mdash; fix CupertinoTabView's Android back button handling with PopScope<br />
     <sub>[#141604](https://github.com/flutter/flutter/pull/141604) opened on on January 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141604) 35 additions and 1 deletion in 2 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Enforce a policy on supported Gradle, Java, AGP, and KGP versions<br />
-    <sub>[#142000](https://github.com/flutter/flutter/pull/142000) opened on on January 22, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/142000) 502 additions and 0 deletions in 6 files</sub><br />
-
 * **[Yukiteru Attano](https://github.com/YukiAttano)** &mdash; fix: added revertFlutterImage call in integration_tests<br />
     <sub>[#142166](https://github.com/flutter/flutter/pull/142166) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142166) 35 additions and 5 deletions in 4 files</sub><br />
 

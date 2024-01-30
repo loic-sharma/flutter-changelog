@@ -1331,11 +1331,15 @@
 
 ### January 27, 2024 to February 2, 2024
 
-5 commits.
+6 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [rfw] Add `OverflowBar` widget and Update `ButtonBar` widget implementation<br />
     <sub>[#5807](https://github.com/flutter/packages/pull/5807) merged on January 30, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/packages/pull/5807) over 3 weeks, 227 additions and 17 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Adds ProxyApi to AST generation<br />
+    <sub>[#5861](https://github.com/flutter/packages/pull/5861) merged on January 30, 2024 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/5861) over 2 weeks, 1911 additions and 414 deletions in 21 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Disambiguate TestDefaultBinaryMessengerBinding<br />
     <sub>[#6009](https://github.com/flutter/packages/pull/6009) merged on January 29, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/packages/pull/6009) over 1 hour, 100 additions and 339 deletions in 30 files</sub><br />
