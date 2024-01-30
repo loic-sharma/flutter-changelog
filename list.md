@@ -678,7 +678,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-17 commits.
+18 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Add interface for submitting multiple command buffers at once.
     <sub>[#50139](https://github.com/flutter/engine/pull/50139) merged on January 30, 2024 &mdash; **Large:** [37 comments](https://github.com/flutter/engine/pull/50139) over 15 hours, 602 additions and 305 deletions in 54 files</sub>
@@ -728,6 +728,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart to Version 3.4.0-82.0.dev
     <sub>[#50131](https://github.com/flutter/engine/pull/50131) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50131) over 1 hour, 3 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Support running sound null safe kernels from flutter_jit_runner
+    <sub>[#50002](https://github.com/flutter/engine/pull/50002) merged on January 30, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/50002) over 6 days, 34 additions and 46 deletions in 8 files</sub>
+    <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang), [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from d0b48a008559 to 10bbb376de7e (8 revisions)
     <sub>[#50172](https://github.com/flutter/engine/pull/50172) merged on January 30, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/50172) over 1 hour, 599 additions and 23 deletions in 5 files</sub>
