@@ -83,3 +83,6 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Added SliverCoordinater, PinnedHeaderSliver ReszingHeaderSliver<br />
     <sub>[#142499](https://github.com/flutter/flutter/pull/142499) opened on on January 30, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/142499) 1018 additions and 0 deletions in 7 files</sub><br />
 
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tool] [dap] Forward Flutter progress events to DAP client<br />
+    <sub>[#142524](https://github.com/flutter/flutter/pull/142524) opened on on January 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142524) 70 additions and 1 deletion in 3 files</sub><br />
+
