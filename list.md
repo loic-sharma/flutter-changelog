@@ -4,7 +4,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-18 commits.
+19 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix: selection handles do not inherit color from local `Theme` widget
     <sub>[#142476](https://github.com/flutter/flutter/pull/142476) merged on January 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142476) over 21 hours, 105 additions and 5 deletions in 4 files</sub>
@@ -21,6 +21,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix SliverMainAxisGroup geometry cacheExtent
     <sub>[#142482](https://github.com/flutter/flutter/pull/142482) merged on January 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142482) over 18 hours, 49 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Be less verbose in CI for customer_testing, and revert old timeout hack
+    <sub>[#139611](https://github.com/flutter/flutter/pull/139611) merged on January 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/139611) over 1 month, 11 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; onNavigationNotification for *App.router
     <sub>[#142190](https://github.com/flutter/flutter/pull/142190) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142190) over 4 days, 100 additions and 1 deletion in 5 files</sub>
