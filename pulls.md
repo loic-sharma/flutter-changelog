@@ -86,6 +86,3 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Added SliverCoordinater, PinnedHeaderSliver ReszingHeaderSliver<br />
     <sub>[#142499](https://github.com/flutter/flutter/pull/142499) opened on on January 30, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/142499) 1018 additions and 0 deletions in 7 files</sub><br />
 
-* **[Michael McGuiness](https://github.com/mike-v2)** &mdash; Make gradle error messages OS-agnostic <br />
-    <sub>[#142507](https://github.com/flutter/flutter/pull/142507) opened on on January 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142507) 84 additions and 4 deletions in 2 files</sub><br />
-
