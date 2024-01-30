@@ -1291,7 +1291,11 @@
 
 ### January 27, 2024 to February 2, 2024
 
-3 commits.
+4 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [rfw] Add `OverflowBar` widget and Update `ButtonBar` widget implementation
+    <sub>[#5807](https://github.com/flutter/packages/pull/5807) merged on January 30, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/packages/pull/5807) over 3 weeks, 227 additions and 17 deletions in 7 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Disambiguate TestDefaultBinaryMessengerBinding
     <sub>[#6009](https://github.com/flutter/packages/pull/6009) merged on January 29, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/packages/pull/6009) over 1 hour, 100 additions and 339 deletions in 30 files</sub>
