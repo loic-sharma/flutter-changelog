@@ -77,3 +77,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Split out AppBar/SliverAppBar material tests<br />
     <sub>[#142560](https://github.com/flutter/flutter/pull/142560) opened on on January 30, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/142560) 2749 additions and 2709 deletions in 3 files</sub><br />
 
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Roll engine to 8824d6391fd0f00c5ecd6926a9be7e11035b8c04<br />
+    <sub>[#142565](https://github.com/flutter/flutter/pull/142565) opened on on January 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142565) 1 addition and 1 deletion in 1 file</sub><br />
+

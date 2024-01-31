@@ -4,11 +4,16 @@
 
 ### January 27, 2024 to February 2, 2024
 
-19 commits.
+20 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix: selection handles do not inherit color from local `Theme` widget
     <sub>[#142476](https://github.com/flutter/flutter/pull/142476) merged on January 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142476) over 21 hours, 105 additions and 5 deletions in 4 files</sub>
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[David Martos](https://github.com/davidmartos96)** &mdash; M3 - Fix Chip icon and label colors
+    <sub>[#140573](https://github.com/flutter/flutter/pull/140573) merged on January 31, 2024 &mdash; **Medium:** [75 comments](https://github.com/flutter/flutter/pull/140573) over 1 month, 244 additions and 66 deletions in 9 files</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub><details><summary>4 images...</summary>![Screenshot from 2023-12-23 15-16-20](https://github.com/flutter/flutter/assets/22084723/bd4c8f3e-92b2-46a5-844f-09362e574115)![Screenshot from 2023-12-23 15-16-01](https://github.com/flutter/flutter/assets/22084723/784a43f2-03d8-406b-9982-bf7a6e36de45)![Screenshot from 2023-12-23 16-51-56](https://github.com/flutter/flutter/assets/22084723/78b7f84b-c038-481d-9bf5-8a5e6c713d9c)![Screenshot from 2023-12-23 16-52-06](https://github.com/flutter/flutter/assets/22084723/25272a01-00ed-43fc-ba11-fccb6560fcbf)</details></sub>
 
 * **[Mohammad Bagher Fakouri](https://github.com/mbfakourii)** &mdash; Add `SingleChildScrollView` for `NavigationRail`
     <sub>[#137415](https://github.com/flutter/flutter/pull/137415) merged on January 29, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/137415) over 3 months, 117 additions and 56 deletions in 2 files</sub>
