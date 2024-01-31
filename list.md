@@ -695,7 +695,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-20 commits.
+21 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Add interface for submitting multiple command buffers at once.
     <sub>[#50139](https://github.com/flutter/engine/pull/50139) merged on January 30, 2024 &mdash; **Large:** [37 comments](https://github.com/flutter/engine/pull/50139) over 15 hours, 602 additions and 305 deletions in 54 files</sub>
@@ -729,6 +729,10 @@
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Use structured logging on Fuchsia
     <sub>[#49918](https://github.com/flutter/engine/pull/49918) merged on January 30, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/49918) over 1 week, 450 additions and 36 deletions in 14 files</sub>
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub>
+
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Execute most of the testing/fuchsia/test_suites.yaml on debug and release builds
+    <sub>[#50058](https://github.com/flutter/engine/pull/50058) merged on January 31, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/50058) over 5 days, 122 additions and 32 deletions in 7 files</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 * **[John O'Neil](https://github.com/johnoneil)** &mdash; Enable `_Float16` "half-float" Functionality Only When Available.
     <sub>[#49851](https://github.com/flutter/engine/pull/49851) merged on January 29, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49851) over 1 week, 10 additions and 8 deletions in 2 files</sub>
