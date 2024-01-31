@@ -1409,7 +1409,12 @@
 
 ### January 27, 2024 to February 2, 2024
 
-10 commits.
+11 commits.
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Merged cells for TableView<br />
+    <sub>[#5917](https://github.com/flutter/packages/pull/5917) merged on January 31, 2024 &mdash; **Extra large:** [39 comments](https://github.com/flutter/packages/pull/5917) over 1 week, 3470 additions and 226 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Ahmed Fwela](https://github.com/ahmednfwela), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub><details><summary>1 image...</summary>![Screenshot 2024-01-25 at 4 38 49 PM](https://github.com/flutter/packages/assets/16964204/02f4c158-23e9-401e-ac84-b6303d999095)</details></sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase] Convert storefront(), transactions(), canMakePayment(), and addPayment() to pigeon<br />
     <sub>[#5910](https://github.com/flutter/packages/pull/5910) merged on January 31, 2024 &mdash; **Extra large:** [55 comments](https://github.com/flutter/packages/pull/5910) over 2 weeks, 1910 additions and 333 deletions in 24 files</sub><br />
