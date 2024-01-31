@@ -80,6 +80,3 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Show Mac Designed For iPad in 'flutter devices'<br />
     <sub>[#142638](https://github.com/flutter/flutter/pull/142638) opened on on January 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142638) 104 additions and 27 deletions in 7 files</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Introduce tone-based surfaces and accent color add-ons - Part 1<br />
-    <sub>[#142654](https://github.com/flutter/flutter/pull/142654) opened on on January 31, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/142654) 423 additions and 5 deletions in 1 file</sub><br />
-
