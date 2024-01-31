@@ -4,7 +4,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-30 commits.
+31 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix: selection handles do not inherit color from local `Theme` widget<br />
     <sub>[#142476](https://github.com/flutter/flutter/pull/142476) merged on January 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142476) over 21 hours, 105 additions and 5 deletions in 4 files</sub><br />
@@ -59,6 +59,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update Android minSdkVersion to 21<br />
     <sub>[#142267](https://github.com/flutter/flutter/pull/142267) merged on January 29, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/142267) over 3 days, 152 additions and 1306 deletions in 37 files</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix showDialog docs<br />
+    <sub>[#142458](https://github.com/flutter/flutter/pull/142458) merged on January 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142458) over 2 days, 5 additions and 6 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
 
 * **[Kohei Seino](https://github.com/kseino)** &mdash; use PDI to end the isolated scope for RLI<br />
     <sub>[#141345](https://github.com/flutter/flutter/pull/141345) merged on January 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/141345) over 2 weeks, 22 additions and 1 deletion in 2 files</sub><br />
