@@ -80,3 +80,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Examples of `text_button.0.dart` & `form.0.dart`<br />
     <sub>[#142635](https://github.com/flutter/flutter/pull/142635) opened on on January 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142635) 62 additions and 2 deletions in 3 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Upload DerivedData logs in CI<br />
+    <sub>[#142643](https://github.com/flutter/flutter/pull/142643) opened on on January 31, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/142643) 219 additions and 93 deletions in 2 files</sub><br />
+
