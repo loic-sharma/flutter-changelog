@@ -1417,7 +1417,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-11 commits.
+12 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Merged cells for TableView<br />
     <sub>[#5917](https://github.com/flutter/packages/pull/5917) merged on January 31, 2024 &mdash; **Extra large:** [39 comments](https://github.com/flutter/packages/pull/5917) over 1 week, 3470 additions and 226 deletions in 11 files</sub><br />
@@ -1452,6 +1452,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Enable subscribing to the root of a DynamicContent<br />
     <sub>[#5848](https://github.com/flutter/packages/pull/5848) merged on January 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/5848) over 3 weeks, 58 additions and 14 deletions in 5 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Extend `flutter test` workaround to other desktops<br />
+    <sub>[#6024](https://github.com/flutter/packages/pull/6024) merged on January 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6024) over 48 minutes, 163 additions and 49 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Exempt federated impl examples from CHANGELOG<br />
     <sub>[#6018](https://github.com/flutter/packages/pull/6018) merged on January 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6018) over 53 minutes, 41 additions and 4 deletions in 2 files</sub><br />
