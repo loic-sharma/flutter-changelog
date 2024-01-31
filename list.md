@@ -4,7 +4,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-28 commits.
+29 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix: selection handles do not inherit color from local `Theme` widget
     <sub>[#142476](https://github.com/flutter/flutter/pull/142476) merged on January 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142476) over 21 hours, 105 additions and 5 deletions in 4 files</sub>
@@ -22,6 +22,11 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Catch file system exceptions when trying to parse user-provided asset file paths
     <sub>[#142214](https://github.com/flutter/flutter/pull/142214) merged on January 29, 2024 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/142214) over 4 days, 351 additions and 202 deletions in 3 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Show Mac Designed For iPad in 'flutter devices'
+    <sub>[#141718](https://github.com/flutter/flutter/pull/141718) merged on January 31, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/141718) over 1 week, 104 additions and 27 deletions in 7 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+    <sub><details><summary>2 images...</summary><img width="573" alt="Screenshot 2024-01-29 at 12 23 24 AM" src="https://github.com/flutter/flutter/assets/36148254/35709a93-56fc-44c9-98d5-cf45afce967d"><img width="725" alt="Screenshot 2024-01-29 at 12 26 01 AM" src="https://github.com/flutter/flutter/assets/36148254/b6cbcfce-44db-42c6-ac01-0ab716d30373"></details></sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix SliverMainAxisGroup geometry cacheExtent
     <sub>[#142482](https://github.com/flutter/flutter/pull/142482) merged on January 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142482) over 18 hours, 49 additions and 1 deletion in 2 files</sub>
