@@ -711,7 +711,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-22 commits.
+23 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Final nail in FlutterViewEmbedder's coffin
     <sub>[#49769](https://github.com/flutter/engine/pull/49769) merged on January 31, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/engine/pull/49769) over 2 weeks, 419 additions and 444 deletions in 37 files</sub>
@@ -757,6 +757,10 @@
 * **[John O'Neil](https://github.com/johnoneil)** &mdash; Enable `_Float16` "half-float" Functionality Only When Available.
     <sub>[#49851](https://github.com/flutter/engine/pull/49851) merged on January 29, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49851) over 1 week, 10 additions and 8 deletions in 2 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Log FlutterJSONMessageCodec decode errors before asserting
+    <sub>[#50163](https://github.com/flutter/engine/pull/50163) merged on January 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50163) over 1 day, 19 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; More correctly name methods regarding event loop that are currently named microtask
     <sub>[#50138](https://github.com/flutter/engine/pull/50138) merged on January 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50138) over 1 day, 15 additions and 15 deletions in 7 files</sub>
