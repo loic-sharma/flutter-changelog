@@ -4,7 +4,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-29 commits.
+30 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix: selection handles do not inherit color from local `Theme` widget
     <sub>[#142476](https://github.com/flutter/flutter/pull/142476) merged on January 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142476) over 21 hours, 105 additions and 5 deletions in 4 files</sub>
@@ -43,6 +43,10 @@
 * **[Bryan Olivares](https://github.com/bryanoli)** &mdash; Feat: TextField can scroll when disabled
     <sub>[#140922](https://github.com/flutter/flutter/pull/140922) merged on January 29, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/140922) over 3 weeks, 59 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Refactor ShaderTarget to not explicitly mention impeller or Skia
+    <sub>[#141460](https://github.com/flutter/flutter/pull/141460) merged on January 31, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/141460) over 2 weeks, 164 additions and 140 deletions in 23 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix unresponsive mouse tooltip
     <sub>[#142282](https://github.com/flutter/flutter/pull/142282) merged on January 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142282) over 5 days, 85 additions and 1 deletion in 2 files</sub>
