@@ -72,7 +72,7 @@
     <sub>[#142524](https://github.com/flutter/flutter/pull/142524) opened on on January 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142524) 70 additions and 1 deletion in 3 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; In devicelab only discover USB iOS devices<br />
-    <sub>[#142559](https://github.com/flutter/flutter/pull/142559) opened on on January 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142559) 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#142559](https://github.com/flutter/flutter/pull/142559) opened on on January 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142559) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Split out AppBar/SliverAppBar material tests<br />
     <sub>[#142560](https://github.com/flutter/flutter/pull/142560) opened on on January 30, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/142560) 4432 additions and 4390 deletions in 3 files</sub><br />
