@@ -4,7 +4,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-20 commits.
+21 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix: selection handles do not inherit color from local `Theme` widget
     <sub>[#142476](https://github.com/flutter/flutter/pull/142476) merged on January 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142476) over 21 hours, 105 additions and 5 deletions in 4 files</sub>
@@ -50,6 +50,10 @@
 * **[Aizat Azhar](https://github.com/aizatazhar)** &mdash; Reset framesEnabled to default value at the end of each test
     <sub>[#141844](https://github.com/flutter/flutter/pull/141844) merged on January 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/141844) over 1 week, 23 additions and 7 deletions in 5 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Add `DropdownMenu.focusNode`
+    <sub>[#142516](https://github.com/flutter/flutter/pull/142516) merged on January 31, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/142516) over 20 hours, 100 additions and 8 deletions in 2 files</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Using `initExpensiveAndroidView` for Android Hybrid Composition Mode
     <sub>[#142399](https://github.com/flutter/flutter/pull/142399) merged on January 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142399) over 1 day, 1 addition and 1 deletion in 1 file</sub>
