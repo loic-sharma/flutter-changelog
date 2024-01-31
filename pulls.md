@@ -80,6 +80,9 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Examples of `text_button.0.dart` & `form.0.dart`<br />
     <sub>[#142635](https://github.com/flutter/flutter/pull/142635) opened on on January 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142635) 62 additions and 2 deletions in 3 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Upload DerivedData logs in CI<br />
-    <sub>[#142643](https://github.com/flutter/flutter/pull/142643) opened on on January 31, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/142643) 219 additions and 93 deletions in 2 files</sub><br />
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Show Mac Designed For iPad in 'flutter devices'<br />
+    <sub>[#142638](https://github.com/flutter/flutter/pull/142638) opened on on January 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142638) 104 additions and 27 deletions in 7 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] opt vulkan tests into GPU tracing.<br />
+    <sub>[#142649](https://github.com/flutter/flutter/pull/142649) opened on on January 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142649) 34 additions and 18 deletions in 1 file</sub><br />
 

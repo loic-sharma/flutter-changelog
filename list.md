@@ -736,7 +736,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-24 commits.
+25 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Final nail in FlutterViewEmbedder's coffin
     <sub>[#49769](https://github.com/flutter/engine/pull/49769) merged on January 31, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/engine/pull/49769) over 2 weeks, 419 additions and 444 deletions in 37 files</sub>
@@ -762,6 +762,10 @@
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Re-Re-land Manually revert TLHC optimizations
     <sub>[#50155](https://github.com/flutter/engine/pull/50155) merged on January 30, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/50155) over 2 hours, 444 additions and 193 deletions in 19 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [CanvasKit] Only render one frame at a time.
+    <sub>[#50055](https://github.com/flutter/engine/pull/50055) merged on January 31, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/50055) over 6 days, 253 additions and 8 deletions in 4 files</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added mipmaps to subpasses directly on a draw call
     <sub>[#50157](https://github.com/flutter/engine/pull/50157) merged on January 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50157) over 19 hours, 141 additions and 46 deletions in 26 files</sub>
