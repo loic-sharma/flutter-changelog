@@ -732,7 +732,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-23 commits.
+24 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Final nail in FlutterViewEmbedder's coffin<br />
     <sub>[#49769](https://github.com/flutter/engine/pull/49769) merged on January 31, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/engine/pull/49769) over 2 weeks, 419 additions and 444 deletions in 37 files</sub><br />
@@ -746,6 +746,10 @@
     <sub>[#50158](https://github.com/flutter/engine/pull/50158) merged on January 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50158) over 1 hour, 8 additions and 18 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/engine/assets/168174/0691feec-67a9-45b1-aa8e-1c692d09430b)![image](https://github.com/flutter/engine/assets/168174/016dc79a-1e44-48cf-9ba0-a61397f8e637)</details></sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implemented golden image tests for opengles<br />
+    <sub>[#50146](https://github.com/flutter/engine/pull/50146) merged on January 31, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/50146) over 2 days, 149 additions and 76 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] Add interface for submitting multiple command buffers at once."<br />
     <sub>[#50174](https://github.com/flutter/engine/pull/50174) merged on January 30, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/50174) over 30 seconds, 305 additions and 602 deletions in 54 files</sub><br />

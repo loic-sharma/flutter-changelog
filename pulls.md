@@ -83,6 +83,3 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Examples of `text_button.0.dart` & `form.0.dart`<br />
     <sub>[#142635](https://github.com/flutter/flutter/pull/142635) opened on on January 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142635) 62 additions and 2 deletions in 3 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Show Mac Designed For iPad in 'flutter devices'<br />
-    <sub>[#142638](https://github.com/flutter/flutter/pull/142638) opened on on January 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142638) 104 additions and 27 deletions in 7 files</sub><br />
-
