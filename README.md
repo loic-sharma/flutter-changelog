@@ -4,7 +4,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-23 commits.
+24 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix: selection handles do not inherit color from local `Theme` widget<br />
     <sub>[#142476](https://github.com/flutter/flutter/pull/142476) merged on January 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142476) over 21 hours, 105 additions and 5 deletions in 4 files</sub><br />
@@ -38,6 +38,10 @@
 * **[Bryan Olivares](https://github.com/bryanoli)** &mdash; Feat: TextField can scroll when disabled<br />
     <sub>[#140922](https://github.com/flutter/flutter/pull/140922) merged on January 29, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/140922) over 3 weeks, 59 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix unresponsive mouse tooltip<br />
+    <sub>[#142282](https://github.com/flutter/flutter/pull/142282) merged on January 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142282) over 5 days, 85 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Split out AppBar/SliverAppBar material tests<br />
     <sub>[#142560](https://github.com/flutter/flutter/pull/142560) merged on January 31, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/142560) over 16 hours, 4432 additions and 4390 deletions in 3 files</sub><br />
@@ -707,7 +711,11 @@
 
 ### January 27, 2024 to February 2, 2024
 
-21 commits.
+22 commits.
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Final nail in FlutterViewEmbedder's coffin<br />
+    <sub>[#49769](https://github.com/flutter/engine/pull/49769) merged on January 31, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/engine/pull/49769) over 2 weeks, 419 additions and 444 deletions in 37 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Add interface for submitting multiple command buffers at once.<br />
     <sub>[#50139](https://github.com/flutter/engine/pull/50139) merged on January 30, 2024 &mdash; **Large:** [37 comments](https://github.com/flutter/engine/pull/50139) over 15 hours, 602 additions and 305 deletions in 54 files</sub><br />
