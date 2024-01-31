@@ -75,7 +75,7 @@
     <sub>[#142559](https://github.com/flutter/flutter/pull/142559) opened on on January 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142559) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Split out AppBar/SliverAppBar material tests<br />
-    <sub>[#142560](https://github.com/flutter/flutter/pull/142560) opened on on January 30, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/142560) 2749 additions and 2709 deletions in 3 files</sub><br />
+    <sub>[#142560](https://github.com/flutter/flutter/pull/142560) opened on on January 30, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/142560) 2749 additions and 2709 deletions in 3 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Various improvements to text-editing-related documentation.<br />
     <sub>[#142561](https://github.com/flutter/flutter/pull/142561) opened on on January 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142561) 126 additions and 115 deletions in 9 files</sub><br />
