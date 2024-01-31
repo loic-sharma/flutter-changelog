@@ -83,6 +83,3 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Show Mac Designed For iPad in 'flutter devices'<br />
     <sub>[#142638](https://github.com/flutter/flutter/pull/142638) opened on on January 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142638) 104 additions and 27 deletions in 7 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] opt vulkan tests into GPU tracing.<br />
-    <sub>[#142649](https://github.com/flutter/flutter/pull/142649) opened on on January 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142649) 34 additions and 18 deletions in 1 file</sub><br />
-

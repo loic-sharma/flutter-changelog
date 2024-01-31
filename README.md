@@ -736,7 +736,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-25 commits.
+26 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Final nail in FlutterViewEmbedder's coffin<br />
     <sub>[#49769](https://github.com/flutter/engine/pull/49769) merged on January 31, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/engine/pull/49769) over 2 weeks, 419 additions and 444 deletions in 37 files</sub><br />
@@ -778,6 +778,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Manually revert TLHC optimizations, holding on to width/height changes.<br />
     <sub>[#50144](https://github.com/flutter/engine/pull/50144) merged on January 29, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/50144) over 55 minutes, 193 additions and 426 deletions in 19 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Ashish Myles](https://github.com/marcianx)** &mdash; Make screen reader announcement append a non-breaking space every other message.<br />
+    <sub>[#50151](https://github.com/flutter/engine/pull/50151) merged on January 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50151) over 2 days, 32 additions and 4 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Use structured logging on Fuchsia<br />
     <sub>[#49918](https://github.com/flutter/engine/pull/49918) merged on January 30, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/49918) over 1 week, 450 additions and 36 deletions in 14 files</sub><br />
