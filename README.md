@@ -1396,7 +1396,11 @@
 
 ### January 27, 2024 to February 2, 2024
 
-8 commits.
+9 commits.
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase] Convert storefront(), transactions(), canMakePayment(), and addPayment() to pigeon<br />
+    <sub>[#5910](https://github.com/flutter/packages/pull/5910) merged on January 31, 2024 &mdash; **Extra large:** [55 comments](https://github.com/flutter/packages/pull/5910) over 2 weeks, 1910 additions and 333 deletions in 24 files</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [rfw] Add `OverflowBar` widget and Update `ButtonBar` widget implementation<br />
     <sub>[#5807](https://github.com/flutter/packages/pull/5807) merged on January 30, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/packages/pull/5807) over 3 weeks, 227 additions and 17 deletions in 7 files</sub><br />
