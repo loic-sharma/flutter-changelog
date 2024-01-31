@@ -77,6 +77,12 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Split out AppBar/SliverAppBar material tests<br />
     <sub>[#142560](https://github.com/flutter/flutter/pull/142560) opened on on January 30, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/142560) 2749 additions and 2709 deletions in 3 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Various improvements to text-editing-related documentation.<br />
+    <sub>[#142561](https://github.com/flutter/flutter/pull/142561) opened on on January 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142561) 126 additions and 115 deletions in 9 files</sub><br />
+
 * **[Michael McGuiness](https://github.com/mike-v2)** &mdash; Make command to generate lockfile in error message OS-agnostic<br />
     <sub>[#142567](https://github.com/flutter/flutter/pull/142567) opened on on January 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142567) 32 additions and 1 deletion in 2 files</sub><br />
+
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; Roll engine to 8824d6391fd0f00c5ecd6926a9be7e11035b8c04<br />
+    <sub>[#142581](https://github.com/flutter/flutter/pull/142581) opened on on January 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142581) 1 addition and 1 deletion in 1 file</sub><br />
 
