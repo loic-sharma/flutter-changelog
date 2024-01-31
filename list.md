@@ -740,7 +740,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-26 commits.
+27 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Final nail in FlutterViewEmbedder's coffin
     <sub>[#49769](https://github.com/flutter/engine/pull/49769) merged on January 31, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/engine/pull/49769) over 2 weeks, 419 additions and 444 deletions in 37 files</sub>
@@ -749,6 +749,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Add interface for submitting multiple command buffers at once.
     <sub>[#50139](https://github.com/flutter/engine/pull/50139) merged on January 30, 2024 &mdash; **Large:** [37 comments](https://github.com/flutter/engine/pull/50139) over 15 hours, 602 additions and 305 deletions in 54 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Implement framebuffer-fetch via subpasses in Vulkan without extensions.
+    <sub>[#50154](https://github.com/flutter/engine/pull/50154) merged on January 31, 2024 &mdash; **Extra large:** [32 comments](https://github.com/flutter/engine/pull/50154) over 2 days, 1195 additions and 914 deletions in 36 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Revert: "Change how OpenGL textures are flipped in the Android embedder"
     <sub>[#50158](https://github.com/flutter/engine/pull/50158) merged on January 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50158) over 1 hour, 8 additions and 18 deletions in 2 files</sub>
