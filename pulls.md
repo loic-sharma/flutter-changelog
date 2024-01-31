@@ -38,9 +38,6 @@
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Make destructiveRed a CupertinoDynamicColor<br />
     <sub>[#141364](https://github.com/flutter/flutter/pull/141364) opened on on January 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/141364) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Simone Stasi](https://github.com/sstasi95)** &mdash; fix CupertinoTabView's Android back button handling with PopScope<br />
-    <sub>[#141604](https://github.com/flutter/flutter/pull/141604) opened on on January 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141604) 35 additions and 1 deletion in 2 files</sub><br />
-
 * **[Yukiteru Attano](https://github.com/YukiAttano)** &mdash; fix: added revertFlutterImage call in integration_tests<br />
     <sub>[#142166](https://github.com/flutter/flutter/pull/142166) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142166) 35 additions and 5 deletions in 4 files</sub><br />
 
@@ -80,6 +77,12 @@
 * **[Michael McGuiness](https://github.com/mike-v2)** &mdash; Make command to generate lockfile in error message OS-agnostic<br />
     <sub>[#142567](https://github.com/flutter/flutter/pull/142567) opened on on January 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142567) 32 additions and 1 deletion in 2 files</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Implement `switch` expressions in `lib/src/material/`<br />
+    <sub>[#142634](https://github.com/flutter/flutter/pull/142634) opened on on January 31, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/142634) 146 additions and 256 deletions in 12 files</sub><br />
+
 * **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Examples of `text_button.0.dart` & `form.0.dart`<br />
     <sub>[#142635](https://github.com/flutter/flutter/pull/142635) opened on on January 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142635) 62 additions and 2 deletions in 3 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Show Mac Designed For iPad in 'flutter devices'<br />
+    <sub>[#142638](https://github.com/flutter/flutter/pull/142638) opened on on January 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142638) 104 additions and 27 deletions in 7 files</sub><br />
 
