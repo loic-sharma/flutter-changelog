@@ -766,7 +766,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-32 commits.
+34 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Final nail in FlutterViewEmbedder's coffin
     <sub>[#49769](https://github.com/flutter/engine/pull/49769) merged on January 31, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/engine/pull/49769) over 2 weeks, 419 additions and 444 deletions in 37 files</sub>
@@ -785,6 +785,10 @@
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/engine/assets/168174/0691feec-67a9-45b1-aa8e-1c692d09430b)![image](https://github.com/flutter/engine/assets/168174/016dc79a-1e44-48cf-9ba0-a61397f8e637)</details></sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] size vk swapchain to window size.
+    <sub>[#50205](https://github.com/flutter/engine/pull/50205) merged on February 1, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/50205) over 10 hours, 333 additions and 93 deletions in 18 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implemented golden image tests for opengles
     <sub>[#50146](https://github.com/flutter/engine/pull/50146) merged on January 31, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/50146) over 2 days, 149 additions and 76 deletions in 10 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -797,9 +801,9 @@
     <sub>[#50155](https://github.com/flutter/engine/pull/50155) merged on January 30, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/50155) over 2 hours, 444 additions and 193 deletions in 19 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make GPU tracing off by default.
-    <sub>[#50215](https://github.com/flutter/engine/pull/50215) merged on February 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50215) over 3 hours, 73 additions and 16 deletions in 13 files</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Include dart vm internal sources into flutter distro.
+    <sub>[#50116](https://github.com/flutter/engine/pull/50116) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50116) over 2 days, 8 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [CanvasKit] Only render one frame at a time.
     <sub>[#50055](https://github.com/flutter/engine/pull/50055) merged on January 31, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/50055) over 6 days, 253 additions and 8 deletions in 4 files</sub>
@@ -809,9 +813,9 @@
     <sub>[#50157](https://github.com/flutter/engine/pull/50157) merged on January 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50157) over 19 hours, 141 additions and 46 deletions in 26 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; Include dart vm internal sources into flutter distro.
-    <sub>[#50116](https://github.com/flutter/engine/pull/50116) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50116) over 2 days, 8 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make GPU tracing off by default.
+    <sub>[#50215](https://github.com/flutter/engine/pull/50215) merged on February 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50215) over 3 hours, 73 additions and 16 deletions in 13 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Manually revert TLHC optimizations, holding on to width/height changes.
     <sub>[#50144](https://github.com/flutter/engine/pull/50144) merged on January 29, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/50144) over 55 minutes, 193 additions and 426 deletions in 19 files</sub>
@@ -849,24 +853,24 @@
     <sub>[#50138](https://github.com/flutter/engine/pull/50138) merged on January 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50138) over 1 day, 15 additions and 15 deletions in 7 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] Reland: recycle hardware buffer textures.
-    <sub>[#50122](https://github.com/flutter/engine/pull/50122) merged on January 30, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/50122) over 2 days, 335 additions and 74 deletions in 14 files</sub>
-    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart to Version 3.4.0-82.0.dev
+    <sub>[#50131](https://github.com/flutter/engine/pull/50131) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50131) over 1 hour, 3 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Handle construction/destruction of GObject private data containing C++ objects in Linux embedder tests
     <sub>[#50022](https://github.com/flutter/engine/pull/50022) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50022) over 4 days, 130 additions and 54 deletions in 2 files</sub>
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart to Version 3.4.0-82.0.dev
-    <sub>[#50131](https://github.com/flutter/engine/pull/50131) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50131) over 1 hour, 3 additions and 3 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] Reland: recycle hardware buffer textures.
+    <sub>[#50122](https://github.com/flutter/engine/pull/50122) merged on January 30, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/50122) over 2 days, 335 additions and 74 deletions in 14 files</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove string field from FlKeyEvent
     <sub>[#50189](https://github.com/flutter/engine/pull/50189) merged on February 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50189) over 1 day, 6 additions and 26 deletions in 5 files</sub>
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove migration flag and unused header files
-    <sub>[#50216](https://github.com/flutter/engine/pull/50216) merged on February 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50216) over 2 hours, 12 additions and 211 deletions in 17 files</sub>
+    <sub>[#50216](https://github.com/flutter/engine/pull/50216) merged on February 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50216) over 2 hours, 12 additions and 211 deletions in 17 files</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Support running sound null safe kernels from flutter_jit_runner
@@ -888,6 +892,10 @@
 * **[Jesse Seales](https://github.com/sealesj)** &mdash; Remove ockmock GitHub reference
     <sub>[#50086](https://github.com/flutter/engine/pull/50086) merged on January 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50086) over 2 days, 0 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Remove migration flag and unused header files"
+    <sub>[#50229](https://github.com/flutter/engine/pull/50229) merged on February 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50229) over 26 seconds, 211 additions and 12 deletions in 17 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller]  Reland: add interface for submitting multiple command buffers at once.
     <sub>[#50180](https://github.com/flutter/engine/pull/50180) merged on January 30, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/engine/pull/50180) over 2 hours, 610 additions and 307 deletions in 54 files</sub>
