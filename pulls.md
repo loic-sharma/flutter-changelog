@@ -86,3 +86,9 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove outdated arm64_armv7 check<br />
     <sub>[#142737](https://github.com/flutter/flutter/pull/142737) opened on on February 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142737) 2 additions and 15 deletions in 1 file</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove unused deprecated autoroll mirror-remote flag<br />
+    <sub>[#142738](https://github.com/flutter/flutter/pull/142738) opened on on February 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142738) 0 additions and 5 deletions in 1 file</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove verbose-system-logs on iOS perf tests<br />
+    <sub>[#142739](https://github.com/flutter/flutter/pull/142739) opened on on February 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142739) 0 additions and 3 deletions in 1 file</sub><br />
+
