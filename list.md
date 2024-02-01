@@ -139,7 +139,7 @@
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Using `initExpensiveAndroidView` for Android Hybrid Composition Mode
-    <sub>[#142399](https://github.com/flutter/flutter/pull/142399) merged on January 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/142399) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+    <sub>[#142399](https://github.com/flutter/flutter/pull/142399) merged on January 30, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/142399) over 1 day, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `foundation/` and `material/`

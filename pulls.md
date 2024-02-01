@@ -83,3 +83,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Allow all iOS tests to use either iOS 16 or 17<br />
     <sub>[#142714](https://github.com/flutter/flutter/pull/142714) opened on on February 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142714) 4 additions and 13 deletions in 1 file</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Really disable shuffling for gen_defaults tests<br />
+    <sub>[#142721](https://github.com/flutter/flutter/pull/142721) opened on on February 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142721) 2 additions and 1 deletion in 1 file</sub><br />
+
