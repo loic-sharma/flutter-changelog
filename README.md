@@ -196,7 +196,7 @@
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; Relax the warning of unavailable tokens in `gen_defaults` when a default value is provided<br />
-    <sub>[#140872](https://github.com/flutter/flutter/pull/140872) merged on January 23, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/140872) over 2 weeks, 115 additions and 14 deletions in 4 files</sub><br />
+    <sub>[#140872](https://github.com/flutter/flutter/pull/140872) merged on January 23, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/140872) over 2 weeks, 115 additions and 14 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Pierre-Louis](https://github.com/guidezpl), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/flutter/assets/22084723/eb6c43ee-d919-4203-80ee-e36869e5bbcf)![image](https://github.com/flutter/flutter/assets/22084723/67093dcb-1ab0-439f-9338-a6f364d2a9e1)</details></sub>
 
