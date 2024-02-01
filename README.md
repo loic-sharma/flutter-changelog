@@ -4,7 +4,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-42 commits.
+43 commits.
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Added ButtonStyle.foregroundBuilder and ButtonStyle.backgroundBuilder<br />
     <sub>[#141818](https://github.com/flutter/flutter/pull/141818) merged on February 1, 2024 &mdash; **Extra large:** [53 comments](https://github.com/flutter/flutter/pull/141818) over 1 week, 1567 additions and 189 deletions in 16 files</sub><br />
@@ -50,9 +50,9 @@
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
     <sub><details><summary>2 images...</summary><img width="573" alt="Screenshot 2024-01-29 at 12 23 24 AM" src="https://github.com/flutter/flutter/assets/36148254/35709a93-56fc-44c9-98d5-cf45afce967d"><img width="725" alt="Screenshot 2024-01-29 at 12 26 01 AM" src="https://github.com/flutter/flutter/assets/36148254/b6cbcfce-44db-42c6-ac01-0ab716d30373"></details></sub>
 
-* **[Bryan Olivares](https://github.com/bryanoli)** &mdash; Feat: TextField can scroll when disabled<br />
-    <sub>[#140922](https://github.com/flutter/flutter/pull/140922) merged on January 29, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/140922) over 3 weeks, 59 additions and 2 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Be less verbose in CI for customer_testing, and revert old timeout hack<br />
+    <sub>[#139611](https://github.com/flutter/flutter/pull/139611) merged on January 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/139611) over 1 month, 11 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; onNavigationNotification for *App.router<br />
     <sub>[#142190](https://github.com/flutter/flutter/pull/142190) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142190) over 4 days, 100 additions and 1 deletion in 5 files</sub><br />
@@ -62,9 +62,9 @@
     <sub>[#142654](https://github.com/flutter/flutter/pull/142654) merged on February 1, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/142654) over 6 hours, 532 additions and 38 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Be less verbose in CI for customer_testing, and revert old timeout hack<br />
-    <sub>[#139611](https://github.com/flutter/flutter/pull/139611) merged on January 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/139611) over 1 month, 11 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
+* **[Bryan Olivares](https://github.com/bryanoli)** &mdash; Feat: TextField can scroll when disabled<br />
+    <sub>[#140922](https://github.com/flutter/flutter/pull/140922) merged on January 29, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/140922) over 3 weeks, 59 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Split out AppBar/SliverAppBar material tests<br />
     <sub>[#142560](https://github.com/flutter/flutter/pull/142560) merged on January 31, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/142560) over 16 hours, 4432 additions and 4390 deletions in 3 files</sub><br />
@@ -106,17 +106,21 @@
     <sub>[#142516](https://github.com/flutter/flutter/pull/142516) merged on January 31, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/142516) over 20 hours, 100 additions and 8 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove outdated arm64_armv7 check<br />
+    <sub>[#142737](https://github.com/flutter/flutter/pull/142737) merged on February 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142737) over 34 minutes, 2 additions and 15 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Really disable shuffling for gen_defaults tests<br />
     <sub>[#142721](https://github.com/flutter/flutter/pull/142721) merged on February 1, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/142721) over 1 hour, 5 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add no-shuffle tag to gen_defaults_test.dart<br />
-    <sub>[#142717](https://github.com/flutter/flutter/pull/142717) merged on February 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142717) over 10 minutes, 7 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Organize leak tracking TODOs.<br />
+    <sub>[#142460](https://github.com/flutter/flutter/pull/142460) merged on January 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/142460) over 11 hours, 54 additions and 84 deletions in 22 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark test that leaks image.<br />
-    <sub>[#142539](https://github.com/flutter/flutter/pull/142539) merged on January 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142539) over 23 hours, 8 additions and 1 deletion in 5 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows Arm64] Run plugin test post-submit<br />
+    <sub>[#141987](https://github.com/flutter/flutter/pull/141987) merged on January 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141987) over 6 days, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Opt out test from leak tracking.<br />
     <sub>[#142417](https://github.com/flutter/flutter/pull/142417) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142417) over 20 hours, 4 additions and 1 deletion in 1 file</sub><br />
@@ -134,25 +138,25 @@
     <sub>[#142486](https://github.com/flutter/flutter/pull/142486) merged on January 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142486) over 1 day, 48 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; "System back gesture" explanation<br />
-    <sub>[#142254](https://github.com/flutter/flutter/pull/142254) merged on January 31, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/142254) over 5 days, 17 additions and 8 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix InputDecorationTheme copyWith fallback for iconColor<br />
     <sub>[#142462](https://github.com/flutter/flutter/pull/142462) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142462) over 37 minutes, 13 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows Arm64] Run plugin test post-submit<br />
-    <sub>[#141987](https://github.com/flutter/flutter/pull/141987) merged on January 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141987) over 6 days, 1 addition and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; "System back gesture" explanation<br />
+    <sub>[#142254](https://github.com/flutter/flutter/pull/142254) merged on January 31, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/142254) over 5 days, 17 additions and 8 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark test that leaks image.<br />
+    <sub>[#142539](https://github.com/flutter/flutter/pull/142539) merged on January 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142539) over 23 hours, 8 additions and 1 deletion in 5 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Using `initExpensiveAndroidView` for Android Hybrid Composition Mode<br />
     <sub>[#142399](https://github.com/flutter/flutter/pull/142399) merged on January 30, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/142399) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Organize leak tracking TODOs.<br />
-    <sub>[#142460](https://github.com/flutter/flutter/pull/142460) merged on January 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/142460) over 11 hours, 54 additions and 84 deletions in 22 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add no-shuffle tag to gen_defaults_test.dart<br />
+    <sub>[#142717](https://github.com/flutter/flutter/pull/142717) merged on February 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142717) over 10 minutes, 7 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `foundation/` and `material/`<br />
     <sub>[#142279](https://github.com/flutter/flutter/pull/142279) merged on January 29, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/142279) over 3 days, 115 additions and 196 deletions in 12 files</sub><br />
@@ -192,8 +196,8 @@
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; Relax the warning of unavailable tokens in `gen_defaults` when a default value is provided<br />
-    <sub>[#140872](https://github.com/flutter/flutter/pull/140872) merged on January 23, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/140872) over 2 weeks, 115 additions and 14 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+    <sub>[#140872](https://github.com/flutter/flutter/pull/140872) merged on January 23, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/140872) over 2 weeks, 115 additions and 14 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Pierre-Louis](https://github.com/guidezpl), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/flutter/assets/22084723/eb6c43ee-d919-4203-80ee-e36869e5bbcf)![image](https://github.com/flutter/flutter/assets/22084723/67093dcb-1ab0-439f-9338-a6f364d2a9e1)</details></sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Fix `SegmentedButton` default size and default tappable size<br />
