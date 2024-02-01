@@ -77,3 +77,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Allow all iOS tests to use either iOS 16 or 17<br />
     <sub>[#142714](https://github.com/flutter/flutter/pull/142714) opened on on February 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142714) 4 additions and 13 deletions in 1 file</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Run macOS test on `dev/integration_tests/ui`<br />
+    <sub>[#142735](https://github.com/flutter/flutter/pull/142735) opened on on February 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142735) 2 additions and 6 deletions in 1 file</sub><br />
+
