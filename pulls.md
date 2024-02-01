@@ -77,6 +77,3 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [WIP] Updating toolbarHeight for M3 fidelity<br />
     <sub>[#142671](https://github.com/flutter/flutter/pull/142671) opened on on February 1, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/142671) 299 additions and 261 deletions in 23 files</sub><br />
 
-* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] ping actor of workflow on cherry pick pr creation<br />
-    <sub>[#142676](https://github.com/flutter/flutter/pull/142676) opened on on February 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142676) 16 additions and 1 deletion in 1 file</sub><br />
-
