@@ -69,7 +69,7 @@
     <sub>[#142634](https://github.com/flutter/flutter/pull/142634) opened on on January 31, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/142634) 146 additions and 256 deletions in 12 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Example of `form.0.dart`<br />
-    <sub>[#142635](https://github.com/flutter/flutter/pull/142635) opened on on January 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142635) 34 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#142635](https://github.com/flutter/flutter/pull/142635) opened on on January 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142635) 34 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Test codesigning xcframeworks in artifacts<br />
     <sub>[#142666](https://github.com/flutter/flutter/pull/142666) opened on on February 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142666) 131 additions and 37 deletions in 2 files</sub><br />
@@ -79,7 +79,4 @@
 
 * **[Fré Dumazy](https://github.com/dumazy)** &mdash; Fix AutovalidateMode.always on Form to validate on first build<br />
     <sub>[#142703](https://github.com/flutter/flutter/pull/142703) opened on on February 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142703) 9 additions and 15 deletions in 2 files</sub><br />
-
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Move native assets to `isolated/` directory<br />
-    <sub>[#142709](https://github.com/flutter/flutter/pull/142709) opened on on February 1, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/142709) 3688 additions and 602 deletions in 26 files</sub><br />
 
