@@ -65,9 +65,6 @@
 * **[Michael McGuiness](https://github.com/mike-v2)** &mdash; Make command to generate lockfile in error message OS-agnostic<br />
     <sub>[#142567](https://github.com/flutter/flutter/pull/142567) opened on on January 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142567) 32 additions and 1 deletion in 2 files</sub><br />
 
-* **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Example of `form.0.dart`<br />
-    <sub>[#142635](https://github.com/flutter/flutter/pull/142635) opened on on January 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142635) 34 additions and 1 deletion in 2 files</sub><br />
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [WIP] Updating toolbarHeight for M3 fidelity<br />
     <sub>[#142671](https://github.com/flutter/flutter/pull/142671) opened on on February 1, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/142671) 299 additions and 261 deletions in 23 files</sub><br />
 
