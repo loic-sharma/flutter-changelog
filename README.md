@@ -4,7 +4,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-35 commits.
+36 commits.
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Added ButtonStyle.foregroundBuilder and ButtonStyle.backgroundBuilder<br />
     <sub>[#141818](https://github.com/flutter/flutter/pull/141818) merged on February 1, 2024 &mdash; **Extra large:** [53 comments](https://github.com/flutter/flutter/pull/141818) over 1 week, 1567 additions and 189 deletions in 16 files</sub><br />
@@ -90,13 +90,17 @@
     <sub>[#142516](https://github.com/flutter/flutter/pull/142516) merged on January 31, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/142516) over 20 hours, 100 additions and 8 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] opt vulkan tests into GPU tracing.<br />
+    <sub>[#142649](https://github.com/flutter/flutter/pull/142649) merged on February 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/142649) over 2 hours, 33 additions and 18 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] add debugging to ios/core_devices.dart<br />
     <sub>[#142187](https://github.com/flutter/flutter/pull/142187) merged on January 31, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/142187) over 6 days, 116 additions and 35 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix ParentDataWidget crash for  multi view scenarios<br />
-    <sub>[#142486](https://github.com/flutter/flutter/pull/142486) merged on January 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142486) over 1 day, 48 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows Arm64] Run plugin test post-submit<br />
+    <sub>[#141987](https://github.com/flutter/flutter/pull/141987) merged on January 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141987) over 6 days, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Opt out test from leak tracking.<br />
     <sub>[#142417](https://github.com/flutter/flutter/pull/142417) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142417) over 20 hours, 4 additions and 1 deletion in 1 file</sub><br />
@@ -114,9 +118,9 @@
     <sub>[#142462](https://github.com/flutter/flutter/pull/142462) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142462) over 37 minutes, 13 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows Arm64] Run plugin test post-submit<br />
-    <sub>[#141987](https://github.com/flutter/flutter/pull/141987) merged on January 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/141987) over 6 days, 1 addition and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix ParentDataWidget crash for  multi view scenarios<br />
+    <sub>[#142486](https://github.com/flutter/flutter/pull/142486) merged on January 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142486) over 1 day, 48 additions and 4 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; "System back gesture" explanation<br />
     <sub>[#142254](https://github.com/flutter/flutter/pull/142254) merged on January 31, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/142254) over 5 days, 17 additions and 8 deletions in 1 file</sub><br />
@@ -758,7 +762,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-27 commits.
+30 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Final nail in FlutterViewEmbedder's coffin<br />
     <sub>[#49769](https://github.com/flutter/engine/pull/49769) merged on January 31, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/engine/pull/49769) over 2 weeks, 419 additions and 444 deletions in 37 files</sub><br />
@@ -789,6 +793,10 @@
     <sub>[#50155](https://github.com/flutter/engine/pull/50155) merged on January 30, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/50155) over 2 hours, 444 additions and 193 deletions in 19 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make GPU tracing off by default.<br />
+    <sub>[#50215](https://github.com/flutter/engine/pull/50215) merged on February 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50215) over 3 hours, 73 additions and 16 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [CanvasKit] Only render one frame at a time.<br />
     <sub>[#50055](https://github.com/flutter/engine/pull/50055) merged on January 31, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/50055) over 6 days, 253 additions and 8 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
@@ -812,6 +820,10 @@
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Use structured logging on Fuchsia<br />
     <sub>[#49918](https://github.com/flutter/engine/pull/49918) merged on January 30, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/49918) over 1 week, 450 additions and 36 deletions in 14 files</sub><br />
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Multiview: Add view ID to _render and remove render rule skipping<br />
+    <sub>[#50220](https://github.com/flutter/engine/pull/50220) merged on February 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50220) over 1 hour, 13 additions and 70 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Execute most of the testing/fuchsia/test_suites.yaml on debug and release builds<br />
     <sub>[#50058](https://github.com/flutter/engine/pull/50058) merged on January 31, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/50058) over 5 days, 122 additions and 32 deletions in 7 files</sub><br />
@@ -840,6 +852,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert Dart to Version 3.4.0-82.0.dev<br />
     <sub>[#50131](https://github.com/flutter/engine/pull/50131) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50131) over 1 hour, 3 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove migration flag and unused header files<br />
+    <sub>[#50216](https://github.com/flutter/engine/pull/50216) merged on February 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50216) over 2 hours, 12 additions and 211 deletions in 17 files</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Support running sound null safe kernels from flutter_jit_runner<br />
     <sub>[#50002](https://github.com/flutter/engine/pull/50002) merged on January 30, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/50002) over 6 days, 34 additions and 46 deletions in 8 files</sub><br />
