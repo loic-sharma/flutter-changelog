@@ -80,3 +80,9 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Run macOS test on `dev/integration_tests/ui`<br />
     <sub>[#142735](https://github.com/flutter/flutter/pull/142735) opened on on February 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142735) 2 additions and 6 deletions in 1 file</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Run examples_smoke_test on Linux<br />
+    <sub>[#142736](https://github.com/flutter/flutter/pull/142736) opened on on February 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142736) 10 additions and 13 deletions in 1 file</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove outdated arm64_armv7 check<br />
+    <sub>[#142737](https://github.com/flutter/flutter/pull/142737) opened on on February 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142737) 2 additions and 15 deletions in 1 file</sub><br />
+
