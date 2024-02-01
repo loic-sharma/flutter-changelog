@@ -57,7 +57,7 @@
     <sub>[#142561](https://github.com/flutter/flutter/pull/142561) opened on on January 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142561) 126 additions and 115 deletions in 9 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [WIP] Updating toolbarHeight for M3 fidelity<br />
-    <sub>[#142671](https://github.com/flutter/flutter/pull/142671) opened on on February 1, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/142671) 299 additions and 261 deletions in 23 files</sub><br />
+    <sub>[#142671](https://github.com/flutter/flutter/pull/142671) opened on on February 1, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/142671) 330 additions and 292 deletions in 37 files</sub><br />
 
 * **[Fré Dumazy](https://github.com/dumazy)** &mdash; Fix AutovalidateMode.always on Form to validate on first build<br />
     <sub>[#142703](https://github.com/flutter/flutter/pull/142703) opened on on February 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142703) 9 additions and 15 deletions in 2 files</sub><br />

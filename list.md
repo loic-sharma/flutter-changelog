@@ -1620,7 +1620,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-15 commits.
+16 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Merged cells for TableView
     <sub>[#5917](https://github.com/flutter/packages/pull/5917) merged on January 31, 2024 &mdash; **Extra large:** [39 comments](https://github.com/flutter/packages/pull/5917) over 1 week, 3470 additions and 226 deletions in 11 files</sub>
@@ -1651,6 +1651,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Adds ProxyApi to AST generation
     <sub>[#5861](https://github.com/flutter/packages/pull/5861) merged on January 30, 2024 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/5861) over 2 weeks, 1911 additions and 414 deletions in 21 files</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Add details to missing gradle coverage error
+    <sub>[#6029](https://github.com/flutter/packages/pull/6029) merged on February 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6029) over 2 hours, 24 additions and 9 deletions in 2 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Disambiguate TestDefaultBinaryMessengerBinding
     <sub>[#6009](https://github.com/flutter/packages/pull/6009) merged on January 29, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/packages/pull/6009) over 1 hour, 100 additions and 339 deletions in 30 files</sub>
