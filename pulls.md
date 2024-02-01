@@ -59,9 +59,6 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tool] [dap] Forward Flutter progress events to DAP client<br />
     <sub>[#142524](https://github.com/flutter/flutter/pull/142524) opened on on January 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142524) 70 additions and 1 deletion in 3 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; In devicelab only discover USB iOS devices<br />
-    <sub>[#142559](https://github.com/flutter/flutter/pull/142559) opened on on January 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/142559) 2 additions and 0 deletions in 1 file</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Various improvements to text-editing-related documentation.<br />
     <sub>[#142561](https://github.com/flutter/flutter/pull/142561) opened on on January 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142561) 126 additions and 115 deletions in 9 files</sub><br />
 
@@ -75,5 +72,5 @@
     <sub>[#142635](https://github.com/flutter/flutter/pull/142635) opened on on January 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142635) 62 additions and 2 deletions in 3 files</sub><br />
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [cp-stable]some random title<br />
-    <sub>[#142663](https://github.com/flutter/flutter/pull/142663) opened on on January 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142663) 1 addition and 8 deletions in 1 file</sub><br />
+    <sub>[#142665](https://github.com/flutter/flutter/pull/142665) opened on on February 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142665) 1 addition and 8 deletions in 1 file</sub><br />
 

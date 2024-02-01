@@ -4,7 +4,12 @@
 
 ### January 27, 2024 to February 2, 2024
 
-32 commits.
+34 commits.
+
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Added ButtonStyle.foregroundBuilder and ButtonStyle.backgroundBuilder
+    <sub>[#141818](https://github.com/flutter/flutter/pull/141818) merged on February 1, 2024 &mdash; **Extra large:** [53 comments](https://github.com/flutter/flutter/pull/141818) over 1 week, 1567 additions and 189 deletions in 16 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub><details><summary>10 images...</summary>![opaque-gradient-bg](https://github.com/flutter/flutter/assets/1377460/80df8368-e7cf-49ef-aee7-2776a573644c)![ink-gradient-bg](https://github.com/flutter/flutter/assets/1377460/68a49733-f30e-44a1-a948-dc8cc95e1716)![translucent-graident-bg](https://github.com/flutter/flutter/assets/1377460/3b016e1f-200a-4d07-8111-e20d29f18014)![burlap-bg](https://github.com/flutter/flutter/assets/1377460/f2f61ab1-10d9-43a4-bd63-beecdce33b45)![gradient-flip](https://github.com/flutter/flutter/assets/1377460/c6c6fe26-ae47-445b-b82d-4605d9583bd8)![border-gradient-bg](https://github.com/flutter/flutter/assets/1377460/63cffcd3-0dcf-4eb1-aed5-d14adf1e57f6)![border-fg](https://github.com/flutter/flutter/assets/1377460/687a3245-fe68-4983-a04e-5fcc77f8aa21)![shader_mask_fg](https://github.com/flutter/flutter/assets/1377460/54010f24-e65d-4551-ae58-712135df3d8d)![image-button](https://github.com/flutter/flutter/assets/1377460/f5b1a22f-43ce-4be3-8e70-06de4c958380)![image-per-state](https://github.com/flutter/flutter/assets/1377460/7ab9da2f-f661-4374-b395-c2e0c7c4cf13)</details></sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix: selection handles do not inherit color from local `Theme` widget
     <sub>[#142476](https://github.com/flutter/flutter/pull/142476) merged on January 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142476) over 21 hours, 105 additions and 5 deletions in 4 files</sub>
@@ -14,6 +19,11 @@
     <sub>[#140573](https://github.com/flutter/flutter/pull/140573) merged on January 31, 2024 &mdash; **Medium:** [75 comments](https://github.com/flutter/flutter/pull/140573) over 1 month, 244 additions and 66 deletions in 9 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Taha Tesser](https://github.com/TahaTesser)</sub>
     <sub><details><summary>4 images...</summary>![Screenshot from 2023-12-23 15-16-20](https://github.com/flutter/flutter/assets/22084723/bd4c8f3e-92b2-46a5-844f-09362e574115)![Screenshot from 2023-12-23 15-16-01](https://github.com/flutter/flutter/assets/22084723/784a43f2-03d8-406b-9982-bf7a6e36de45)![Screenshot from 2023-12-23 16-51-56](https://github.com/flutter/flutter/assets/22084723/78b7f84b-c038-481d-9bf5-8a5e6c713d9c)![Screenshot from 2023-12-23 16-52-06](https://github.com/flutter/flutter/assets/22084723/25272a01-00ed-43fc-ba11-fccb6560fcbf)</details></sub>
+
+* **[David Martos](https://github.com/davidmartos96)** &mdash; Fix token usages on Regular Chip and Action Chip
+    <sub>[#141701](https://github.com/flutter/flutter/pull/141701) merged on February 1, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/141701) over 2 weeks, 40 additions and 18 deletions in 7 files</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Taha Tesser](https://github.com/TahaTesser)</sub>
+    <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/flutter/assets/22084723/d602ef42-625a-4b5c-b63b-c46cb2070d80)![image](https://github.com/flutter/flutter/assets/22084723/dddb754f-fd29-4c4c-96cc-e7f508219f12)</details></sub>
 
 * **[Mohammad Bagher Fakouri](https://github.com/mbfakourii)** &mdash; Add `SingleChildScrollView` for `NavigationRail`
     <sub>[#137415](https://github.com/flutter/flutter/pull/137415) merged on January 29, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/137415) over 3 months, 117 additions and 56 deletions in 2 files</sub>
@@ -88,10 +98,6 @@
     <sub>[#142254](https://github.com/flutter/flutter/pull/142254) merged on January 31, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/142254) over 5 days, 17 additions and 8 deletions in 1 file</sub>
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark test that leaks image.
-    <sub>[#142539](https://github.com/flutter/flutter/pull/142539) merged on January 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142539) over 23 hours, 8 additions and 1 deletion in 5 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
-
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Using `initExpensiveAndroidView` for Android Hybrid Composition Mode
     <sub>[#142399](https://github.com/flutter/flutter/pull/142399) merged on January 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142399) over 1 day, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
@@ -112,9 +118,9 @@
     <sub>[#142417](https://github.com/flutter/flutter/pull/142417) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142417) over 20 hours, 4 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[Jude Selase Kwashie](https://github.com/SelaseKay)** &mdash; Fix null operator error when tapping on 'MenuItemButton'
-    <sub>[#142230](https://github.com/flutter/flutter/pull/142230) merged on January 31, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/142230) over 5 days, 52 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark test that leaks image.
+    <sub>[#142539](https://github.com/flutter/flutter/pull/142539) merged on January 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142539) over 23 hours, 8 additions and 1 deletion in 5 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Style correctness improvements for toStrings and related fixes
     <sub>[#142485](https://github.com/flutter/flutter/pull/142485) merged on January 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142485) over 1 day, 14 additions and 38 deletions in 10 files</sub>
@@ -123,6 +129,10 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `foundation/` and `material/`
     <sub>[#142279](https://github.com/flutter/flutter/pull/142279) merged on January 29, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/142279) over 3 days, 115 additions and 196 deletions in 12 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Jude Selase Kwashie](https://github.com/SelaseKay)** &mdash; Fix null operator error when tapping on 'MenuItemButton'
+    <sub>[#142230](https://github.com/flutter/flutter/pull/142230) merged on January 31, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/142230) over 5 days, 52 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Windows_android hot_mode_dev_cycle_win__benchmark to be flaky
     <sub>[#142609](https://github.com/flutter/flutter/pull/142609) merged on January 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142609) over 7 hours, 1 addition and 0 deletions in 1 file</sub>
