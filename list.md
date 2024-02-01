@@ -204,7 +204,7 @@
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; Relax the warning of unavailable tokens in `gen_defaults` when a default value is provided
-    <sub>[#140872](https://github.com/flutter/flutter/pull/140872) merged on January 23, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/140872) over 2 weeks, 115 additions and 14 deletions in 4 files</sub>
+    <sub>[#140872](https://github.com/flutter/flutter/pull/140872) merged on January 23, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/140872) over 2 weeks, 115 additions and 14 deletions in 4 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Pierre-Louis](https://github.com/guidezpl), [Taha Tesser](https://github.com/TahaTesser)</sub>
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/flutter/assets/22084723/eb6c43ee-d919-4203-80ee-e36869e5bbcf)![image](https://github.com/flutter/flutter/assets/22084723/67093dcb-1ab0-439f-9338-a6f364d2a9e1)</details></sub>
 
@@ -886,8 +886,8 @@
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove drawPicture from Aiks Canvas.
-    <sub>[#50242](https://github.com/flutter/engine/pull/50242) merged on February 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50242) over 1 hour, 0 additions and 192 deletions in 9 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub>[#50242](https://github.com/flutter/engine/pull/50242) merged on February 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50242) over 1 hour, 0 additions and 192 deletions in 9 files</sub>
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added an assert that goldens are generated
     <sub>[#50222](https://github.com/flutter/engine/pull/50222) merged on February 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50222) over 16 hours, 12 additions and 0 deletions in 1 file</sub>
