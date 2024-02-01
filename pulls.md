@@ -74,6 +74,3 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove unused devicelab task gradle_non_android_plugin_test<br />
     <sub>[#142742](https://github.com/flutter/flutter/pull/142742) opened on on February 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142742) 0 additions and 18 deletions in 2 files</sub><br />
 
-* **[David Martos](https://github.com/davidmartos96)** &mdash; Fix gen_defaults test randomness<br />
-    <sub>[#142743](https://github.com/flutter/flutter/pull/142743) opened on on February 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142743) 8 additions and 0 deletions in 1 file</sub><br />
-

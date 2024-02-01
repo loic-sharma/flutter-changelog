@@ -1563,7 +1563,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-13 commits.
+14 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Merged cells for TableView<br />
     <sub>[#5917](https://github.com/flutter/packages/pull/5917) merged on January 31, 2024 &mdash; **Extra large:** [39 comments](https://github.com/flutter/packages/pull/5917) over 1 week, 3470 additions and 226 deletions in 11 files</sub><br />
@@ -1582,6 +1582,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [rfw] Add `OverflowBar` widget and Update `ButtonBar` widget implementation<br />
     <sub>[#5807](https://github.com/flutter/packages/pull/5807) merged on January 30, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/packages/pull/5807) over 3 weeks, 227 additions and 17 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Change `buildPreview` to return `Texture` versus `FutureBuilder`<br />
+    <sub>[#6021](https://github.com/flutter/packages/pull/6021) merged on February 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6021) over 1 day, 43 additions and 78 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [in_app_purchase] Add play country code api<br />
     <sub>[#5941](https://github.com/flutter/packages/pull/5941) merged on January 31, 2024 &mdash; **Medium:** [20 comments](https://github.com/flutter/packages/pull/5941) over 1 week, 315 additions and 8 deletions in 14 files</sub><br />
