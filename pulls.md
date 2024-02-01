@@ -80,3 +80,6 @@
 * **[Fré Dumazy](https://github.com/dumazy)** &mdash; Fix AutovalidateMode.always on Form to validate on first build<br />
     <sub>[#142703](https://github.com/flutter/flutter/pull/142703) opened on on February 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142703) 9 additions and 15 deletions in 2 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Allow all iOS tests to use either iOS 16 or 17<br />
+    <sub>[#142714](https://github.com/flutter/flutter/pull/142714) opened on on February 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142714) 4 additions and 13 deletions in 1 file</sub><br />
+
