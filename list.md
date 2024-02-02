@@ -195,33 +195,33 @@
     <sub>[#142254](https://github.com/flutter/flutter/pull/142254) merged on January 31, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/142254) over 5 days, 17 additions and 8 deletions in 1 file</sub>
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
-* **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Example of `form.0.dart`
-    <sub>[#142635](https://github.com/flutter/flutter/pull/142635) merged on February 1, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/142635) over 1 day, 34 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Upload DerivedData logs in CI
-    <sub>[#142643](https://github.com/flutter/flutter/pull/142643) merged on February 1, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/142643) over 1 day, 252 additions and 94 deletions in 11 files</sub>
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
-* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] ping actor of workflow on cherry pick pr creation
-    <sub>[#142676](https://github.com/flutter/flutter/pull/142676) merged on February 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/142676) over 22 hours, 15 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Style correctness improvements for toStrings and related fixes
+    <sub>[#142485](https://github.com/flutter/flutter/pull/142485) merged on January 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142485) over 1 day, 14 additions and 38 deletions in 10 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Jude Selase Kwashie](https://github.com/SelaseKay)** &mdash; Fix null operator error when tapping on 'MenuItemButton'
     <sub>[#142230](https://github.com/flutter/flutter/pull/142230) merged on January 31, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/142230) over 5 days, 52 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `foundation/` and `material/`
-    <sub>[#142279](https://github.com/flutter/flutter/pull/142279) merged on January 29, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/142279) over 3 days, 115 additions and 196 deletions in 12 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub>
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Style correctness improvements for toStrings and related fixes
-    <sub>[#142485](https://github.com/flutter/flutter/pull/142485) merged on January 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142485) over 1 day, 14 additions and 38 deletions in 10 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] ping actor of workflow on cherry pick pr creation
+    <sub>[#142676](https://github.com/flutter/flutter/pull/142676) merged on February 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/142676) over 22 hours, 15 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implement `switch` expressions in `lib/src/material/`
     <sub>[#142634](https://github.com/flutter/flutter/pull/142634) merged on February 1, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/142634) over 1 day, 146 additions and 256 deletions in 12 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Example of `form.0.dart`
+    <sub>[#142635](https://github.com/flutter/flutter/pull/142635) merged on February 1, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/142635) over 1 day, 34 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `foundation/` and `material/`
+    <sub>[#142279](https://github.com/flutter/flutter/pull/142279) merged on January 29, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/142279) over 3 days, 115 additions and 196 deletions in 12 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Upload DerivedData logs in CI
+    <sub>[#142643](https://github.com/flutter/flutter/pull/142643) merged on February 1, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/142643) over 1 day, 252 additions and 94 deletions in 11 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Reland: Added ButtonStyle.foregroundBuilder and ButtonStyle.backgroundBuilder
     <sub>[#142762](https://github.com/flutter/flutter/pull/142762) merged on February 2, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/142762) over 1 hour, 1618 additions and 188 deletions in 15 files</sub>
