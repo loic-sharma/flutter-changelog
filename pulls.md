@@ -68,3 +68,6 @@
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Fix CupertinoPageScaffold resizeToAvoidBottomInset<br />
     <sub>[#142776](https://github.com/flutter/flutter/pull/142776) opened on on February 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142776) 22 additions and 9 deletions in 2 files</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `lib/src/material/`<br />
+    <sub>[#142793](https://github.com/flutter/flutter/pull/142793) opened on on February 2, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/142793) 184 additions and 339 deletions in 18 files</sub><br />
+
