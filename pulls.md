@@ -72,5 +72,5 @@
     <sub>[#142804](https://github.com/flutter/flutter/pull/142804) opened on on February 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142804) 82 additions and 2 deletions in 2 files</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean leaks.<br />
-    <sub>[#142818](https://github.com/flutter/flutter/pull/142818) opened on on February 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142818) 21 additions and 35 deletions in 5 files</sub><br />
+    <sub>[#142818](https://github.com/flutter/flutter/pull/142818) opened on on February 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142818) 30 additions and 36 deletions in 6 files</sub><br />
 
