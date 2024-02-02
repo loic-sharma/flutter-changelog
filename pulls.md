@@ -68,3 +68,6 @@
 * **[René Kilczan](https://github.com/rekire)** &mdash; Detect WSL and run flutter in cmd<br />
     <sub>[#142803](https://github.com/flutter/flutter/pull/142803) opened on on February 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142803) 4 additions and 0 deletions in 1 file</sub><br />
 
+* **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Add SegmentedButton expand feature<br />
+    <sub>[#142804](https://github.com/flutter/flutter/pull/142804) opened on on February 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142804) 82 additions and 2 deletions in 2 files</sub><br />
+
