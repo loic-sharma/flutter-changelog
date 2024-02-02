@@ -1671,7 +1671,7 @@
 18 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Merged cells for TableView
-    <sub>[#5917](https://github.com/flutter/packages/pull/5917) merged on January 31, 2024 &mdash; **Extra large:** [39 comments](https://github.com/flutter/packages/pull/5917) over 1 week, 3470 additions and 226 deletions in 11 files</sub>
+    <sub>[#5917](https://github.com/flutter/packages/pull/5917) merged on January 31, 2024 &mdash; **Extra large:** [40 comments](https://github.com/flutter/packages/pull/5917) over 1 week, 3470 additions and 226 deletions in 11 files</sub>
     <sub>Reviewed by: [Ahmed Fwela](https://github.com/ahmednfwela), [Michael Goderbauer](https://github.com/goderbauer)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot 2024-01-25 at 4 38 49 PM](https://github.com/flutter/packages/assets/16964204/02f4c158-23e9-401e-ac84-b6303d999095)</details></sub>
 
