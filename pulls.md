@@ -65,3 +65,6 @@
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Fix CupertinoPageScaffold resizeToAvoidBottomInset<br />
     <sub>[#142776](https://github.com/flutter/flutter/pull/142776) opened on on February 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142776) 22 additions and 9 deletions in 2 files</sub><br />
 
+* **[René Kilczan](https://github.com/rekire)** &mdash; Detect WSL and run flutter in cmd<br />
+    <sub>[#142803](https://github.com/flutter/flutter/pull/142803) opened on on February 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142803) 4 additions and 0 deletions in 1 file</sub><br />
+
