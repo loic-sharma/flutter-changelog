@@ -50,6 +50,9 @@
 * **[David Martos](https://github.com/davidmartos96)** &mdash; barrierColor property in DialogTheme<br />
     <sub>[#142490](https://github.com/flutter/flutter/pull/142490) opened on on January 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142490) 28 additions and 3 deletions in 3 files</sub><br />
 
+* **[Gustl22](https://github.com/Gustl22)** &mdash; Reland (2): "Fix how Gradle resolves Android plugin"<br />
+    <sub>[#142498](https://github.com/flutter/flutter/pull/142498) opened on on January 30, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/142498) 767 additions and 127 deletions in 8 files</sub><br />
+
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Added SliverCoordinater, PinnedHeaderSliver ReszingHeaderSliver<br />
     <sub>[#142499](https://github.com/flutter/flutter/pull/142499) opened on on January 30, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/142499) 1018 additions and 0 deletions in 7 files</sub><br />
 

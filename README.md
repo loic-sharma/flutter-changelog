@@ -123,6 +123,10 @@
     <sub>[#142262](https://github.com/flutter/flutter/pull/142262) merged on February 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142262) over 1 week, 2 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub><br />
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Support navigation during a Cupertino back gesture<br />
+    <sub>[#142248](https://github.com/flutter/flutter/pull/142248) merged on February 2, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/142248) over 1 week, 298 additions and 8 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
 * **[Aizat Azhar](https://github.com/aizatazhar)** &mdash; Reset framesEnabled to default value at the end of each test<br />
     <sub>[#141844](https://github.com/flutter/flutter/pull/141844) merged on January 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/141844) over 1 week, 23 additions and 7 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
@@ -130,10 +134,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add `DropdownMenu.focusNode`<br />
     <sub>[#142516](https://github.com/flutter/flutter/pull/142516) merged on January 31, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/142516) over 20 hours, 100 additions and 8 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Support navigation during a Cupertino back gesture<br />
-    <sub>[#142248](https://github.com/flutter/flutter/pull/142248) merged on February 2, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/142248) over 1 week, 298 additions and 8 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Make leak_tracking bots sticked to the left even if bot thinks they are non-flacky.<br />
     <sub>[#142744](https://github.com/flutter/flutter/pull/142744) merged on February 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142744) over 1 hour, 2 additions and 0 deletions in 1 file</sub><br />
