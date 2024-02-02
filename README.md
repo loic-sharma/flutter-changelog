@@ -867,7 +867,7 @@
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Add the focus state related methods to the platform dispatcher<br />
-    <sub>[#49841](https://github.com/flutter/engine/pull/49841) merged on February 1, 2024 &mdash; **Small:** [131 comments](https://github.com/flutter/engine/pull/49841) over 2 weeks, 272 additions and 0 deletions in 4 files</sub><br />
+    <sub>[#49841](https://github.com/flutter/engine/pull/49841) merged on February 1, 2024 &mdash; **Small:** [132 comments](https://github.com/flutter/engine/pull/49841) over 2 weeks, 272 additions and 0 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Bart Cone](https://github.com/bartcone)** &mdash; [Android] Fix TextInputType.none for devices with physical keyboard<br />
