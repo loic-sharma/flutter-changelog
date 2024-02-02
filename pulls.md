@@ -62,9 +62,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove unused devicelab task gradle_non_android_plugin_test<br />
     <sub>[#142742](https://github.com/flutter/flutter/pull/142742) opened on on February 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142742) 0 additions and 18 deletions in 2 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Magnifier cleanup<br />
-    <sub>[#142754](https://github.com/flutter/flutter/pull/142754) opened on on February 1, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/142754) 225 additions and 179 deletions in 8 files</sub><br />
-
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Fix CupertinoPageScaffold resizeToAvoidBottomInset<br />
     <sub>[#142776](https://github.com/flutter/flutter/pull/142776) opened on on February 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142776) 22 additions and 9 deletions in 2 files</sub><br />
 
