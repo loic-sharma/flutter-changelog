@@ -65,3 +65,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Magnifier cleanup<br />
     <sub>[#142754](https://github.com/flutter/flutter/pull/142754) opened on on February 1, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/142754) 225 additions and 179 deletions in 8 files</sub><br />
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Reland: Added ButtonStyle.foregroundBuilder and ButtonStyle.backgroundBuilder<br />
+    <sub>[#142762](https://github.com/flutter/flutter/pull/142762) opened on on February 1, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/142762) 1618 additions and 188 deletions in 15 files</sub><br />
+
