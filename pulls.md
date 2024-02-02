@@ -74,6 +74,3 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean leaks.<br />
     <sub>[#142818](https://github.com/flutter/flutter/pull/142818) opened on on February 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142818) 21 additions and 35 deletions in 5 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `AnimationStyle` to `showSnackBar`<br />
-    <sub>[#142825](https://github.com/flutter/flutter/pull/142825) opened on on February 2, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/142825) 365 additions and 2 deletions in 4 files</sub><br />
-
