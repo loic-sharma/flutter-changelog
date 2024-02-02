@@ -212,7 +212,7 @@
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Avoid depending on files from build_system/targets other than from top level entrypoints in flutter_tools.<br />
-    <sub>[#142760](https://github.com/flutter/flutter/pull/142760) merged on February 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/142760) over 19 hours, 151 additions and 45 deletions in 30 files</sub><br />
+    <sub>[#142760](https://github.com/flutter/flutter/pull/142760) merged on February 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/142760) over 19 hours, 151 additions and 45 deletions in 30 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Style correctness improvements for toStrings and related fixes<br />
