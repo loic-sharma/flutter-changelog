@@ -1717,7 +1717,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-18 commits.
+19 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Merged cells for TableView<br />
     <sub>[#5917](https://github.com/flutter/packages/pull/5917) merged on January 31, 2024 &mdash; **Extra large:** [40 comments](https://github.com/flutter/packages/pull/5917) over 1 week, 3470 additions and 226 deletions in 11 files</sub><br />
@@ -1748,6 +1748,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Adds ProxyApi to AST generation<br />
     <sub>[#5861](https://github.com/flutter/packages/pull/5861) merged on January 30, 2024 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/5861) over 2 weeks, 1911 additions and 414 deletions in 21 files</sub><br />
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Clarify how CameraX uses preset resolution<br />
+    <sub>[#6022](https://github.com/flutter/packages/pull/6022) merged on February 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6022) over 2 days, 25 additions and 8 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Update the emulator versions and expose cipd.<br />
     <sub>[#6025](https://github.com/flutter/packages/pull/6025) merged on February 1, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6025) over 1 day, 22 additions and 20 deletions in 1 file</sub><br />

@@ -41,14 +41,8 @@
 * **[Maximilian Fischer](https://github.com/fischerscode)** &mdash; [material] Simplify building responsive layouts based on window size classes.<br />
     <sub>[#142348](https://github.com/flutter/flutter/pull/142348) opened on on January 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142348) 234 additions and 0 deletions in 5 files</sub><br />
 
-* **[BiskupMaik](https://github.com/BiskupMaik)** &mdash; fix AppBar docs for backgroundColor & foregroundColor<br />
-    <sub>[#142430](https://github.com/flutter/flutter/pull/142430) opened on on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142430) 12 additions and 5 deletions in 1 file</sub><br />
-
 * **[Igor Molchanov](https://github.com/meg4cyberc4t)** &mdash; Background Transparent feature for CupertinoSliverNavigationBar<br />
     <sub>[#142439](https://github.com/flutter/flutter/pull/142439) opened on on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142439) 232 additions and 20 deletions in 4 files</sub><br />
-
-* **[David Martos](https://github.com/davidmartos96)** &mdash; barrierColor property in DialogTheme<br />
-    <sub>[#142490](https://github.com/flutter/flutter/pull/142490) opened on on January 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142490) 28 additions and 3 deletions in 3 files</sub><br />
 
 * **[Gustl22](https://github.com/Gustl22)** &mdash; Reland (2): "Fix how Gradle resolves Android plugin"<br />
     <sub>[#142498](https://github.com/flutter/flutter/pull/142498) opened on on January 30, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/142498) 767 additions and 136 deletions in 8 files</sub><br />
@@ -59,9 +53,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [WIP] Updating toolbarHeight for M3 fidelity<br />
     <sub>[#142671](https://github.com/flutter/flutter/pull/142671) opened on on February 1, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/142671) 330 additions and 292 deletions in 37 files</sub><br />
 
-* **[Fré Dumazy](https://github.com/dumazy)** &mdash; Fix AutovalidateMode.always on Form to validate on first build<br />
-    <sub>[#142703](https://github.com/flutter/flutter/pull/142703) opened on on February 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142703) 9 additions and 15 deletions in 2 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove unused devicelab task gradle_non_android_plugin_test<br />
     <sub>[#142742](https://github.com/flutter/flutter/pull/142742) opened on on February 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142742) 0 additions and 18 deletions in 2 files</sub><br />
 
@@ -71,9 +62,6 @@
 * **[René Kilczan](https://github.com/rekire)** &mdash; Detect WSL and run flutter in cmd<br />
     <sub>[#142803](https://github.com/flutter/flutter/pull/142803) opened on on February 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142803) 4 additions and 0 deletions in 1 file</sub><br />
 
-* **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Add SegmentedButton expand feature<br />
-    <sub>[#142804](https://github.com/flutter/flutter/pull/142804) opened on on February 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142804) 82 additions and 2 deletions in 2 files</sub><br />
-
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean leaks.<br />
-    <sub>[#142818](https://github.com/flutter/flutter/pull/142818) opened on on February 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142818) 30 additions and 36 deletions in 6 files</sub><br />
+    <sub>[#142818](https://github.com/flutter/flutter/pull/142818) opened on on February 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142818) 29 additions and 36 deletions in 6 files</sub><br />
 
