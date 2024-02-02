@@ -257,8 +257,8 @@
     <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Reland "Add support for Gradle Kotlin DSL (#140744)"<br />
-    <sub>[#142752](https://github.com/flutter/flutter/pull/142752) merged on February 2, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/142752) over 22 hours, 244 additions and 118 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+    <sub>[#142752](https://github.com/flutter/flutter/pull/142752) merged on February 2, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/142752) over 22 hours, 244 additions and 118 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Gustl22](https://github.com/Gustl22), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Roll Flutter Engine from 0e586d1c28c8 to f02a4a80a77e (3 revisions)"<br />
     <sub>[#142533](https://github.com/flutter/flutter/pull/142533) merged on January 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142533) over 3 minutes, 2 additions and 2 deletions in 2 files</sub><br />
