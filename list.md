@@ -123,6 +123,10 @@
     <sub>[#141844](https://github.com/flutter/flutter/pull/141844) merged on January 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/141844) over 1 week, 23 additions and 7 deletions in 5 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Implement `switch` expressions in `lib/src/material/`
+    <sub>[#142634](https://github.com/flutter/flutter/pull/142634) merged on February 1, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/142634) over 1 day, 146 additions and 256 deletions in 12 files</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add `DropdownMenu.focusNode`
     <sub>[#142516](https://github.com/flutter/flutter/pull/142516) merged on January 31, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/142516) over 20 hours, 100 additions and 8 deletions in 2 files</sub>
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Qun Cheng](https://github.com/QuncCccccc)</sub>
@@ -143,10 +147,6 @@
     <sub>[#142739](https://github.com/flutter/flutter/pull/142739) merged on February 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142739) over 48 minutes, 0 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove outdated arm64_armv7 check
-    <sub>[#142737](https://github.com/flutter/flutter/pull/142737) merged on February 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142737) over 34 minutes, 2 additions and 15 deletions in 1 file</sub>
-    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
-
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Using `initExpensiveAndroidView` for Android Hybrid Composition Mode
     <sub>[#142399](https://github.com/flutter/flutter/pull/142399) merged on January 30, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/142399) over 1 day, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
@@ -163,26 +163,6 @@
     <sub>[#142417](https://github.com/flutter/flutter/pull/142417) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142417) over 20 hours, 4 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark test that leaks image.
-    <sub>[#142539](https://github.com/flutter/flutter/pull/142539) merged on January 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142539) over 23 hours, 8 additions and 1 deletion in 5 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add no-shuffle tag to gen_defaults_test.dart
-    <sub>[#142717](https://github.com/flutter/flutter/pull/142717) merged on February 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142717) over 10 minutes, 7 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
-
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] add debugging to ios/core_devices.dart
-    <sub>[#142187](https://github.com/flutter/flutter/pull/142187) merged on January 31, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/142187) over 6 days, 116 additions and 35 deletions in 4 files</sub>
-    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Andrew Kolos](https://github.com/andrewkolos)</sub>
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix InputDecorationTheme copyWith fallback for iconColor
-    <sub>[#142462](https://github.com/flutter/flutter/pull/142462) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142462) over 37 minutes, 13 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] opt vulkan tests into GPU tracing.
-    <sub>[#142649](https://github.com/flutter/flutter/pull/142649) merged on February 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/142649) over 2 hours, 33 additions and 18 deletions in 1 file</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [gaaclarke](https://github.com/gaaclarke)</sub>
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Really disable shuffling for gen_defaults tests
     <sub>[#142721](https://github.com/flutter/flutter/pull/142721) merged on February 1, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/142721) over 1 hour, 5 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Victoria Ashworth](https://github.com/vashworth)</sub>
@@ -191,33 +171,37 @@
     <sub>[#142486](https://github.com/flutter/flutter/pull/142486) merged on January 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142486) over 1 day, 48 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] add debugging to ios/core_devices.dart
+    <sub>[#142187](https://github.com/flutter/flutter/pull/142187) merged on January 31, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/142187) over 6 days, 116 additions and 35 deletions in 4 files</sub>
+    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; "System back gesture" explanation
     <sub>[#142254](https://github.com/flutter/flutter/pull/142254) merged on January 31, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/142254) over 5 days, 17 additions and 8 deletions in 1 file</sub>
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Style correctness improvements for toStrings and related fixes
-    <sub>[#142485](https://github.com/flutter/flutter/pull/142485) merged on January 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142485) over 1 day, 14 additions and 38 deletions in 10 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix InputDecorationTheme copyWith fallback for iconColor
+    <sub>[#142462](https://github.com/flutter/flutter/pull/142462) merged on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142462) over 37 minutes, 13 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
-* **[Jude Selase Kwashie](https://github.com/SelaseKay)** &mdash; Fix null operator error when tapping on 'MenuItemButton'
-    <sub>[#142230](https://github.com/flutter/flutter/pull/142230) merged on January 31, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/142230) over 5 days, 52 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add no-shuffle tag to gen_defaults_test.dart
+    <sub>[#142717](https://github.com/flutter/flutter/pull/142717) merged on February 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142717) over 10 minutes, 7 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
-* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] ping actor of workflow on cherry pick pr creation
-    <sub>[#142676](https://github.com/flutter/flutter/pull/142676) merged on February 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/142676) over 22 hours, 15 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] opt vulkan tests into GPU tracing.
+    <sub>[#142649](https://github.com/flutter/flutter/pull/142649) merged on February 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/142649) over 2 hours, 33 additions and 18 deletions in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [gaaclarke](https://github.com/gaaclarke)</sub>
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Implement `switch` expressions in `lib/src/material/`
-    <sub>[#142634](https://github.com/flutter/flutter/pull/142634) merged on February 1, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/142634) over 1 day, 146 additions and 256 deletions in 12 files</sub>
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Mark test that leaks image.
+    <sub>[#142539](https://github.com/flutter/flutter/pull/142539) merged on January 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142539) over 23 hours, 8 additions and 1 deletion in 5 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove outdated arm64_armv7 check
+    <sub>[#142737](https://github.com/flutter/flutter/pull/142737) merged on February 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142737) over 34 minutes, 2 additions and 15 deletions in 1 file</sub>
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Write Tests for API Example of `form.0.dart`
     <sub>[#142635](https://github.com/flutter/flutter/pull/142635) merged on February 1, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/142635) over 1 day, 34 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
-
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `foundation/` and `material/`
-    <sub>[#142279](https://github.com/flutter/flutter/pull/142279) merged on January 29, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/142279) over 3 days, 115 additions and 196 deletions in 12 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Upload DerivedData logs in CI
     <sub>[#142643](https://github.com/flutter/flutter/pull/142643) merged on February 1, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/142643) over 1 day, 252 additions and 94 deletions in 11 files</sub>
@@ -226,6 +210,22 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Reland: Added ButtonStyle.foregroundBuilder and ButtonStyle.backgroundBuilder
     <sub>[#142762](https://github.com/flutter/flutter/pull/142762) merged on February 2, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/142762) over 1 hour, 1618 additions and 188 deletions in 15 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Jude Selase Kwashie](https://github.com/SelaseKay)** &mdash; Fix null operator error when tapping on 'MenuItemButton'
+    <sub>[#142230](https://github.com/flutter/flutter/pull/142230) merged on January 31, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/142230) over 5 days, 52 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `foundation/` and `material/`
+    <sub>[#142279](https://github.com/flutter/flutter/pull/142279) merged on January 29, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/142279) over 3 days, 115 additions and 196 deletions in 12 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Style correctness improvements for toStrings and related fixes
+    <sub>[#142485](https://github.com/flutter/flutter/pull/142485) merged on January 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142485) over 1 day, 14 additions and 38 deletions in 10 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] ping actor of workflow on cherry pick pr creation
+    <sub>[#142676](https://github.com/flutter/flutter/pull/142676) merged on February 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/142676) over 22 hours, 15 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Windows_android hot_mode_dev_cycle_win__benchmark to be flaky
     <sub>[#142609](https://github.com/flutter/flutter/pull/142609) merged on January 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142609) over 7 hours, 1 addition and 0 deletions in 1 file</sub>
