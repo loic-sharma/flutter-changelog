@@ -39,7 +39,7 @@
     <sub>[#142166](https://github.com/flutter/flutter/pull/142166) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142166) 35 additions and 5 deletions in 4 files</sub><br />
 
 * **[Maximilian Fischer](https://github.com/fischerscode)** &mdash; [material] Simplify building responsive layouts based on window size classes.<br />
-    <sub>[#142348](https://github.com/flutter/flutter/pull/142348) opened on on January 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142348) 234 additions and 0 deletions in 5 files</sub><br />
+    <sub>[#142348](https://github.com/flutter/flutter/pull/142348) opened on on January 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142348) 234 additions and 0 deletions in 5 files</sub><br />
 
 * **[Igor Molchanov](https://github.com/meg4cyberc4t)** &mdash; Background Transparent feature for CupertinoSliverNavigationBar<br />
     <sub>[#142439](https://github.com/flutter/flutter/pull/142439) opened on on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142439) 232 additions and 20 deletions in 4 files</sub><br />
