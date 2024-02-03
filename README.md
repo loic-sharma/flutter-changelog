@@ -1737,7 +1737,7 @@
 
 ### January 27, 2024 to February 2, 2024
 
-19 commits.
+20 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Merged cells for TableView<br />
     <sub>[#5917](https://github.com/flutter/packages/pull/5917) merged on January 31, 2024 &mdash; **Extra large:** [40 comments](https://github.com/flutter/packages/pull/5917) over 1 week, 3470 additions and 226 deletions in 11 files</sub><br />
@@ -1792,6 +1792,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Enable subscribing to the root of a DynamicContent<br />
     <sub>[#5848](https://github.com/flutter/packages/pull/5848) merged on January 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/5848) over 3 weeks, 58 additions and 14 deletions in 5 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Skip the wasm test for now, it doesn't even actually test wasm currently<br />
+    <sub>[#6044](https://github.com/flutter/packages/pull/6044) merged on February 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6044) over 4 hours, 12 additions and 7 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Add a link the different possible Android virtual device configs<br />
     <sub>[#6033](https://github.com/flutter/packages/pull/6033) merged on February 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6033) over 16 hours, 3 additions and 0 deletions in 1 file</sub><br />
