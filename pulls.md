@@ -71,3 +71,6 @@
 * **[Anas](https://github.com/Anas35)** &mdash; [tools] Add column header for emulators information<br />
     <sub>[#142853](https://github.com/flutter/flutter/pull/142853) opened on on February 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142853) 24 additions and 1 deletion in 2 files</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; Fixed the issue of incorrect item position when prototypeItem is set in SliverReorderableList.<br />
+    <sub>[#142880](https://github.com/flutter/flutter/pull/142880) opened on on February 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142880) 71 additions and 36 deletions in 2 files</sub><br />
+
