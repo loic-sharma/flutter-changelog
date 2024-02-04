@@ -77,3 +77,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Fixed the issue of incorrect item position when prototypeItem is set in SliverReorderableList.<br />
     <sub>[#142880](https://github.com/flutter/flutter/pull/142880) opened on on February 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142880) 71 additions and 36 deletions in 2 files</sub><br />
 
+* **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Fix initialization of time in repeat on AnimationController<br />
+    <sub>[#142887](https://github.com/flutter/flutter/pull/142887) opened on on February 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142887) 22 additions and 1 deletion in 2 files</sub><br />
+
