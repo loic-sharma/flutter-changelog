@@ -69,7 +69,7 @@
     <sub><details><summary>2 images...</summary><img width="573" alt="Screenshot 2024-01-29 at 12 23 24 AM" src="https://github.com/flutter/flutter/assets/36148254/35709a93-56fc-44c9-98d5-cf45afce967d"><img width="725" alt="Screenshot 2024-01-29 at 12 26 01 AM" src="https://github.com/flutter/flutter/assets/36148254/b6cbcfce-44db-42c6-ac01-0ab716d30373"></details></sub>
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Update gradle lockfiles template<br />
-    <sub>[#140115](https://github.com/flutter/flutter/pull/140115) merged on February 4, 2024 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/140115) over 1 month, 2334 additions and 1838 deletions in 141 files</sub><br />
+    <sub>[#140115](https://github.com/flutter/flutter/pull/140115) merged on February 4, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/140115) over 1 month, 2334 additions and 1838 deletions in 141 files</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Bryan Olivares](https://github.com/bryanoli)** &mdash; Feat: TextField can scroll when disabled<br />
