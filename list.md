@@ -4,16 +4,24 @@
 
 ### February 3, 2024 to February 9, 2024
 
-3 commits.
+5 commits.
 
 * **[BiskupMaik](https://github.com/BiskupMaik)** &mdash; fix AppBar docs for backgroundColor & foregroundColor
     <sub>[#142430](https://github.com/flutter/flutter/pull/142430) merged on February 5, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/142430) over 6 days, 12 additions and 5 deletions in 1 file</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>1 image...</summary><img width="517" alt="image" src="https://github.com/flutter/flutter/assets/124896814/d4dbe278-5b50-42d7-9143-c54d343efddf"></details></sub>
 
+* **[Ann Marie Mossman](https://github.com/mossmana)** &mdash; Update AGP version validation code to support KGP and kotlin build files.
+    <sub>[#142357](https://github.com/flutter/flutter/pull/142357) merged on February 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/142357) over 1 week, 176 additions and 69 deletions in 2 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
 * **[Alexander Dahlberg](https://github.com/Swiftaxe)** &mdash; Fixed test in language_version_test.dart that failed when shuffling, …
     <sub>[#142904](https://github.com/flutter/flutter/pull/142904) merged on February 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142904) over 12 hours, 1 addition and 7 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Run examples_smoke_test on Linux
+    <sub>[#142736](https://github.com/flutter/flutter/pull/142736) merged on February 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142736) over 4 days, 10 additions and 13 deletions in 1 file</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Move Mac_build_test flutter_gallery__transition_perf_e2e_ios to staging
     <sub>[#142918](https://github.com/flutter/flutter/pull/142918) merged on February 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142918) over 55 minutes, 2 additions and 0 deletions in 1 file</sub>
