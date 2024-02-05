@@ -47,9 +47,6 @@
 * **[Igor Molchanov](https://github.com/meg4cyberc4t)** &mdash; Background Transparent feature for CupertinoSliverNavigationBar<br />
     <sub>[#142439](https://github.com/flutter/flutter/pull/142439) opened on on January 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142439) 232 additions and 20 deletions in 4 files</sub><br />
 
-* **[Gustl22](https://github.com/Gustl22)** &mdash; Reland (2): "Fix how Gradle resolves Android plugin"<br />
-    <sub>[#142498](https://github.com/flutter/flutter/pull/142498) opened on on January 30, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/142498) 767 additions and 136 deletions in 8 files</sub><br />
-
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Added SliverCoordinater, PinnedHeaderSliver ReszingHeaderSliver<br />
     <sub>[#142499](https://github.com/flutter/flutter/pull/142499) opened on on January 30, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/142499) 1018 additions and 0 deletions in 7 files</sub><br />
 
