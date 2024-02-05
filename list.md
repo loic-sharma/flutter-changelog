@@ -743,8 +743,8 @@
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; More correctly name methods regarding event loop that are currently named microtask
-    <sub>[#50138](https://github.com/flutter/engine/pull/50138) merged on January 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50138) over 1 day, 15 additions and 15 deletions in 7 files</sub>
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
+    <sub>[#50138](https://github.com/flutter/engine/pull/50138) merged on January 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50138) over 1 day, 15 additions and 15 deletions in 7 files</sub>
+    <sub>Reviewed by: [Lasse R.H. Nielsen](https://github.com/lrhn), [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Delete fml::ThreadLocalUniquePtr.
     <sub>[#50310](https://github.com/flutter/engine/pull/50310) merged on February 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50310) over 1 day, 9 additions and 173 deletions in 12 files</sub>
