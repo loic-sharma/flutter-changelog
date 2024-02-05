@@ -4,12 +4,16 @@
 
 ### February 3, 2024 to February 9, 2024
 
-1 commits.
+2 commits.
 
 * **[BiskupMaik](https://github.com/BiskupMaik)** &mdash; fix AppBar docs for backgroundColor & foregroundColor
     <sub>[#142430](https://github.com/flutter/flutter/pull/142430) merged on February 5, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/142430) over 6 days, 12 additions and 5 deletions in 1 file</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>1 image...</summary><img width="517" alt="image" src="https://github.com/flutter/flutter/assets/124896814/d4dbe278-5b50-42d7-9143-c54d343efddf"></details></sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Move Mac_build_test flutter_gallery__transition_perf_e2e_ios to staging
+    <sub>[#142918](https://github.com/flutter/flutter/pull/142918) merged on February 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142918) over 55 minutes, 2 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 ### January 27, 2024 to February 2, 2024
 
