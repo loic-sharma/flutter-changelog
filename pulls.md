@@ -80,3 +80,6 @@
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Fix initialization of time in repeat on AnimationController<br />
     <sub>[#142887](https://github.com/flutter/flutter/pull/142887) opened on on February 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142887) 22 additions and 1 deletion in 2 files</sub><br />
 
+* **[Kris Pypen](https://github.com/krispypen)** &mdash; Fix: performance improvement on golden test comparison<br />
+    <sub>[#142913](https://github.com/flutter/flutter/pull/142913) opened on on February 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142913) 1 addition and 1 deletion in 1 file</sub><br />
+
