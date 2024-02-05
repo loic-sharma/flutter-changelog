@@ -80,3 +80,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Have `FocusManager` respond to app lifecycle state changes<br />
     <sub>[#142930](https://github.com/flutter/flutter/pull/142930) opened on on February 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142930) 51 additions and 1 deletion in 2 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]fix AppBar docs for backgroundColor & foregroundColor<br />
+    <sub>[#142949](https://github.com/flutter/flutter/pull/142949) opened on on February 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142949) 12 additions and 5 deletions in 1 file</sub><br />
+
