@@ -80,3 +80,6 @@
 * **[Kris Pypen](https://github.com/krispypen)** &mdash; Fix: performance improvement on golden test comparison<br />
     <sub>[#142913](https://github.com/flutter/flutter/pull/142913) opened on on February 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142913) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Have `FocusManager` respond to app lifecycle state changes<br />
+    <sub>[#142930](https://github.com/flutter/flutter/pull/142930) opened on on February 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142930) 51 additions and 1 deletion in 2 files</sub><br />
+
