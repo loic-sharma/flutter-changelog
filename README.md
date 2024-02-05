@@ -2,9 +2,19 @@
 
 ## flutter/flutter
 
+### February 3, 2024 to February 9, 2024
+
+1 commits.
+
+* **[BiskupMaik](https://github.com/BiskupMaik)** &mdash; fix AppBar docs for backgroundColor & foregroundColor<br />
+    <sub>[#142430](https://github.com/flutter/flutter/pull/142430) merged on February 5, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/142430) over 6 days, 12 additions and 5 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub><details><summary>1 image...</summary><img width="517" alt="image" src="https://github.com/flutter/flutter/assets/124896814/d4dbe278-5b50-42d7-9143-c54d343efddf"></details></sub>
+
 ### January 27, 2024 to February 2, 2024
 
-66 commits.
+<details>
+<summary>66 commits...</summary>
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Added ButtonStyle.foregroundBuilder and ButtonStyle.backgroundBuilder<br />
     <sub>[#141818](https://github.com/flutter/flutter/pull/141818) merged on February 1, 2024 &mdash; **Extra large:** [53 comments](https://github.com/flutter/flutter/pull/141818) over 1 week, 1567 additions and 189 deletions in 16 files</sub><br />
@@ -275,6 +285,8 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Roll Flutter Engine from 0e586d1c28c8 to f02a4a80a77e (3 revisions)"<br />
     <sub>[#142533](https://github.com/flutter/flutter/pull/142533) merged on January 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142533) over 3 minutes, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+</details>
 
 ### January 20, 2024 to January 26, 2024
 
