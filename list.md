@@ -658,7 +658,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-2 commits.
+3 commits.
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Do not reference `this` in the submit callback for Metal GPU Surfaces
     <sub>[#50361](https://github.com/flutter/engine/pull/50361) merged on February 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50361) over 1 hour, 42 additions and 19 deletions in 3 files</sub>
@@ -667,6 +667,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] moved blur aiks tests to their own file
     <sub>[#50356](https://github.com/flutter/engine/pull/50356) merged on February 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/50356) over 55 minutes, 588 additions and 559 deletions in 4 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `visiblePassword` uses ASCII keyboard on iOS
+    <sub>[#50293](https://github.com/flutter/engine/pull/50293) merged on February 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50293) over 3 days, 17 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 ### January 27, 2024 to February 2, 2024
 
