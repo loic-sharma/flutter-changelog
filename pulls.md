@@ -41,6 +41,9 @@
 * **[Yukiteru Attano](https://github.com/YukiAttano)** &mdash; fix: added revertFlutterImage call in integration_tests<br />
     <sub>[#142166](https://github.com/flutter/flutter/pull/142166) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142166) 35 additions and 5 deletions in 4 files</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try Android NDK 26<br />
+    <sub>[#142240](https://github.com/flutter/flutter/pull/142240) opened on on January 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142240) 2 additions and 1 deletion in 2 files</sub><br />
+
 * **[Maximilian Fischer](https://github.com/fischerscode)** &mdash; [material] Simplify building responsive layouts based on window size classes.<br />
     <sub>[#142348](https://github.com/flutter/flutter/pull/142348) opened on on January 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142348) 234 additions and 0 deletions in 5 files</sub><br />
 

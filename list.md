@@ -1300,9 +1300,18 @@
 
 ## flutter/packages
 
+### February 3, 2024 to February 9, 2024
+
+1 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Wrap Android classes/methods required to set the exposure mode
+    <sub>[#5966](https://github.com/flutter/packages/pull/5966) merged on February 5, 2024 &mdash; **Extra large:** [16 comments](https://github.com/flutter/packages/pull/5966) over 1 week, 1668 additions and 150 deletions in 27 files</sub>
+    <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Gray Mackall](https://github.com/gmackall)</sub>
+
 ### January 27, 2024 to February 2, 2024
 
-20 commits.
+<details>
+<summary>20 commits...</summary>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Merged cells for TableView
     <sub>[#5917](https://github.com/flutter/packages/pull/5917) merged on January 31, 2024 &mdash; **Extra large:** [40 comments](https://github.com/flutter/packages/pull/5917) over 1 week, 3470 additions and 226 deletions in 11 files</sub>
@@ -1385,6 +1394,8 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Clarify issue requirement
     <sub>[#6010](https://github.com/flutter/packages/pull/6010) merged on January 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6010) over 45 minutes, 2 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+</details>
 
 ### January 20, 2024 to January 26, 2024
 
