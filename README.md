@@ -370,7 +370,7 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Mark defaultTargetPlatform as constant for non-debug non-web builds.<br />
-    <sub>[#141105](https://github.com/flutter/flutter/pull/141105) merged on January 22, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/141105) over 2 weeks, 21 additions and 5 deletions in 2 files</sub><br />
+    <sub>[#141105](https://github.com/flutter/flutter/pull/141105) merged on January 22, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/141105) over 2 weeks, 21 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Martin Kustermann](https://github.com/mkustermann)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.<br />
