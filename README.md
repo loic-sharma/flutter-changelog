@@ -652,9 +652,18 @@
 
 ## flutter/engine
 
+### February 3, 2024 to February 9, 2024
+
+1 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] moved blur aiks tests to their own file<br />
+    <sub>[#50356](https://github.com/flutter/engine/pull/50356) merged on February 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/50356) over 55 minutes, 588 additions and 559 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
 ### January 27, 2024 to February 2, 2024
 
-70 commits.
+<details>
+<summary>70 commits...</summary>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Final nail in FlutterViewEmbedder's coffin<br />
     <sub>[#49769](https://github.com/flutter/engine/pull/49769) merged on January 31, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/engine/pull/49769) over 2 weeks, 419 additions and 444 deletions in 37 files</sub><br />
@@ -936,6 +945,8 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "[Fuchsia] Execute most of the testing/fuchsia/test_suites.yaml on debug and release builds"<br />
     <sub>[#50291](https://github.com/flutter/engine/pull/50291) merged on February 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50291) over 29 minutes, 32 additions and 122 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [zijiehe@](https://github.com/zijiehe-google-com)</sub><br />
+
+</details>
 
 ### January 20, 2024 to January 26, 2024
 

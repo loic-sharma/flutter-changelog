@@ -77,6 +77,3 @@
 * **[Kris Pypen](https://github.com/krispypen)** &mdash; Fix: performance improvement on golden test comparison<br />
     <sub>[#142913](https://github.com/flutter/flutter/pull/142913) opened on on February 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142913) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Gustl22](https://github.com/Gustl22)** &mdash; Set default flutter source directory for gradle builds<br />
-    <sub>[#142934](https://github.com/flutter/flutter/pull/142934) opened on on February 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142934) 73 additions and 3 deletions in 2 files</sub><br />
-
