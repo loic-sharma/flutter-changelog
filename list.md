@@ -666,7 +666,11 @@
 
 ### February 3, 2024 to February 9, 2024
 
-3 commits.
+4 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix iOS password autofill prompt dismissal causes layout to resize
+    <sub>[#50364](https://github.com/flutter/engine/pull/50364) merged on February 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50364) over 1 hour, 63 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Do not reference `this` in the submit callback for Metal GPU Surfaces
     <sub>[#50361](https://github.com/flutter/engine/pull/50361) merged on February 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50361) over 1 hour, 42 additions and 19 deletions in 3 files</sub>
