@@ -686,7 +686,7 @@
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Fix Scene clip bounds. Trigger resize on DPR Change.
-    <sub>[#50161](https://github.com/flutter/engine/pull/50161) merged on February 6, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/engine/pull/50161) over 1 week, 226 additions and 48 deletions in 11 files</sub>
+    <sub>[#50161](https://github.com/flutter/engine/pull/50161) merged on February 6, 2024 &mdash; **Small:** [39 comments](https://github.com/flutter/engine/pull/50161) over 1 week, 226 additions and 48 deletions in 11 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] blur: hold on to 1/8 downsample until the kernel overflows
