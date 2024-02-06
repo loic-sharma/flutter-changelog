@@ -675,7 +675,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-17 commits.
+18 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Cache RenderPass/Framebuffer objects on the resolve texture sources.
     <sub>[#50142](https://github.com/flutter/engine/pull/50142) merged on February 6, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/50142) over 1 week, 137 additions and 6 deletions in 9 files</sub>
@@ -730,6 +730,10 @@
     <sub>[#50293](https://github.com/flutter/engine/pull/50293) merged on February 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50293) over 3 days, 17 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Revert "Revert "[Fuchsia] Execute most of the testing/fuchsia/test_suites.yaml on debug and release builds"""
+    <sub>[#50407](https://github.com/flutter/engine/pull/50407) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50407) over 1 minute, 33 additions and 128 deletions in 8 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 * **[Jonny Wang](https://github.com/jrwang)** &mdash; [fuchsia] Bump Fuchsia's API level to 16
     <sub>[#50358](https://github.com/flutter/engine/pull/50358) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50358) over 21 hours, 16 additions and 1 deletion in 4 files</sub>
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
@@ -743,7 +747,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Revert "Revert "[Fuchsia] Execute most of the testing/fuchsia/test_suites.yaml on debug and release builds""
-    <sub>[#50295](https://github.com/flutter/engine/pull/50295) merged on February 6, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/50295) over 3 days, 128 additions and 33 deletions in 8 files</sub>
+    <sub>[#50295](https://github.com/flutter/engine/pull/50295) merged on February 6, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/50295) over 3 days, 128 additions and 33 deletions in 8 files</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 ### January 27, 2024 to February 2, 2024
