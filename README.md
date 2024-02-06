@@ -4,7 +4,11 @@
 
 ### February 3, 2024 to February 9, 2024
 
-6 commits.
+7 commits.
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField context menu should fade on scroll on mobile devices<br />
+    <sub>[#138313](https://github.com/flutter/flutter/pull/138313) merged on February 6, 2024 &mdash; **Large:** [83 comments](https://github.com/flutter/flutter/pull/138313) over 2 months, 688 additions and 110 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Shaun Byrne](https://github.com/ShaunByrne-UniSA)** &mdash; Grey out non-selectable days in CupertinoDatePicker<br />
     <sub>[#136181](https://github.com/flutter/flutter/pull/136181) merged on February 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136181) over 3 months, 164 additions and 1 deletion in 2 files</sub><br />
