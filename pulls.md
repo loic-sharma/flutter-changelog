@@ -84,5 +84,5 @@
     <sub>[#143000](https://github.com/flutter/flutter/pull/143000) opened on on February 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143000) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Test codesigning xcframeworks in artifacts<br />
-    <sub>[#143015](https://github.com/flutter/flutter/pull/143015) opened on on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143015) 153 additions and 40 deletions in 2 files</sub><br />
+    <sub>[#143015](https://github.com/flutter/flutter/pull/143015) opened on on February 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143015) 153 additions and 40 deletions in 2 files</sub><br />
 
