@@ -60,7 +60,7 @@
     <sub>[#142793](https://github.com/flutter/flutter/pull/142793) opened on on February 2, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/142793) 184 additions and 339 deletions in 18 files</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Detect WSL and run flutter in cmd<br />
-    <sub>[#142803](https://github.com/flutter/flutter/pull/142803) opened on on February 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142803) 4 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#142803](https://github.com/flutter/flutter/pull/142803) opened on on February 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142803) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean leaks.<br />
     <sub>[#142818](https://github.com/flutter/flutter/pull/142818) opened on on February 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142818) 48 additions and 40 deletions in 14 files</sub><br />
