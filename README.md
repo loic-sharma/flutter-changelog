@@ -671,7 +671,11 @@
 
 ### February 3, 2024 to February 9, 2024
 
-9 commits.
+10 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Cache RenderPass/Framebuffer objects on the resolve texture sources.<br />
+    <sub>[#50142](https://github.com/flutter/engine/pull/50142) merged on February 6, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/50142) over 1 week, 137 additions and 6 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Fix Scene clip bounds. Trigger resize on DPR Change.<br />
     <sub>[#50161](https://github.com/flutter/engine/pull/50161) merged on February 6, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/engine/pull/50161) over 1 week, 226 additions and 48 deletions in 11 files</sub><br />
