@@ -80,3 +80,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add the number of mismatched pixels to golden tests output<br />
     <sub>[#142975](https://github.com/flutter/flutter/pull/142975) opened on on February 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142975) 4 additions and 4 deletions in 2 files</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Highlight the links to the release branches more prominently in the CP issue template<br />
+    <sub>[#143000](https://github.com/flutter/flutter/pull/143000) opened on on February 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143000) 3 additions and 0 deletions in 1 file</sub><br />
+
