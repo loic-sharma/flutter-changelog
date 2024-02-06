@@ -684,7 +684,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-18 commits.
+19 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Cache RenderPass/Framebuffer objects on the resolve texture sources.
     <sub>[#50142](https://github.com/flutter/engine/pull/50142) merged on February 6, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/50142) over 1 week, 137 additions and 6 deletions in 9 files</sub>
@@ -738,6 +738,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `visiblePassword` uses ASCII keyboard on iOS
     <sub>[#50293](https://github.com/flutter/engine/pull/50293) merged on February 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50293) over 3 days, 17 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[keyonghan](https://github.com/keyonghan)** &mdash; Add use_rbe to gclient variables for Framework Smoke Tests
+    <sub>[#50403](https://github.com/flutter/engine/pull/50403) merged on February 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50403) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Revert "Revert "[Fuchsia] Execute most of the testing/fuchsia/test_suites.yaml on debug and release builds"""
     <sub>[#50407](https://github.com/flutter/engine/pull/50407) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50407) over 1 minute, 33 additions and 128 deletions in 8 files</sub>
