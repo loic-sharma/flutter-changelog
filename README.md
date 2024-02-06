@@ -4,16 +4,25 @@
 
 ### February 3, 2024 to February 9, 2024
 
-7 commits.
+9 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField context menu should fade on scroll on mobile devices<br />
     <sub>[#138313](https://github.com/flutter/flutter/pull/138313) merged on February 6, 2024 &mdash; **Large:** [83 comments](https://github.com/flutter/flutter/pull/138313) over 2 months, 688 additions and 110 deletions in 8 files</sub><br />
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `AnimationStyle` to `showSnackBar`<br />
+    <sub>[#142825](https://github.com/flutter/flutter/pull/142825) merged on February 6, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/142825) over 3 days, 441 additions and 4 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub><details><summary>1 image...</summary>![Screenshot 2024-02-02 at 21 10 57](https://github.com/flutter/flutter/assets/48603081/66d808f0-d638-4561-b9a4-96d1b93938f4)</details></sub>
+
 * **[Shaun Byrne](https://github.com/ShaunByrne-UniSA)** &mdash; Grey out non-selectable days in CupertinoDatePicker<br />
     <sub>[#136181](https://github.com/flutter/flutter/pull/136181) merged on February 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136181) over 3 months, 164 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
     <sub><details><summary>2 images...</summary>![Screenshot_1696829290](https://github.com/flutter/flutter/assets/147121557/209fee88-9efc-4b92-803a-453ecc6a7c16)![Screenshot_1696830232](https://github.com/flutter/flutter/assets/147121557/ecd11266-4c22-49cc-9bb5-2df39d10cf79)</details></sub>
+
+* **[David Martos](https://github.com/davidmartos96)** &mdash; Material 3 - Tab indicator stretch animation<br />
+    <sub>[#141954](https://github.com/flutter/flutter/pull/141954) merged on February 6, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/141954) over 2 weeks, 133 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[BiskupMaik](https://github.com/BiskupMaik)** &mdash; fix AppBar docs for backgroundColor & foregroundColor<br />
     <sub>[#142430](https://github.com/flutter/flutter/pull/142430) merged on February 5, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/142430) over 6 days, 12 additions and 5 deletions in 1 file</sub><br />
