@@ -11,7 +11,7 @@
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `AnimationStyle` to `showSnackBar`
-    <sub>[#142825](https://github.com/flutter/flutter/pull/142825) merged on February 6, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/142825) over 3 days, 441 additions and 4 deletions in 5 files</sub>
+    <sub>[#142825](https://github.com/flutter/flutter/pull/142825) merged on February 6, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/142825) over 3 days, 441 additions and 4 deletions in 5 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot 2024-02-02 at 21 10 57](https://github.com/flutter/flutter/assets/48603081/66d808f0-d638-4561-b9a4-96d1b93938f4)</details></sub>
 
@@ -1405,11 +1405,19 @@
 
 ### February 3, 2024 to February 9, 2024
 
-1 commits.
+3 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Wrap Android classes/methods required to set the exposure mode
     <sub>[#5966](https://github.com/flutter/packages/pull/5966) merged on February 5, 2024 &mdash; **Extra large:** [16 comments](https://github.com/flutter/packages/pull/5966) over 1 week, 1668 additions and 150 deletions in 27 files</sub>
     <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Update to Dart 3
+    <sub>[#6030](https://github.com/flutter/packages/pull/6030) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6030) over 4 days, 70 additions and 99 deletions in 15 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Move tool_runner.sh
+    <sub>[#6038](https://github.com/flutter/packages/pull/6038) merged on February 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6038) over 4 days, 81 additions and 102 deletions in 30 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 ### January 27, 2024 to February 2, 2024
 
