@@ -4,7 +4,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-9 commits.
+10 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField context menu should fade on scroll on mobile devices
     <sub>[#138313](https://github.com/flutter/flutter/pull/138313) merged on February 6, 2024 &mdash; **Large:** [83 comments](https://github.com/flutter/flutter/pull/138313) over 2 months, 688 additions and 110 deletions in 8 files</sub>
@@ -13,6 +13,11 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `AnimationStyle` to `showSnackBar`
     <sub>[#142825](https://github.com/flutter/flutter/pull/142825) merged on February 6, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/142825) over 3 days, 441 additions and 4 deletions in 5 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub><details><summary>1 image...</summary>![Screenshot 2024-02-02 at 21 10 57](https://github.com/flutter/flutter/assets/48603081/66d808f0-d638-4561-b9a4-96d1b93938f4)</details></sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Add `AnimationStyle` to `showSnackBar`"
+    <sub>[#143001](https://github.com/flutter/flutter/pull/143001) merged on February 6, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143001) over 1 minute, 4 additions and 441 deletions in 5 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot 2024-02-02 at 21 10 57](https://github.com/flutter/flutter/assets/48603081/66d808f0-d638-4561-b9a4-96d1b93938f4)</details></sub>
 
 * **[Shaun Byrne](https://github.com/ShaunByrne-UniSA)** &mdash; Grey out non-selectable days in CupertinoDatePicker
