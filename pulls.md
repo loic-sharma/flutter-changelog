@@ -65,17 +65,8 @@
 * **[Anas](https://github.com/Anas35)** &mdash; [tools] Add column header for emulators information<br />
     <sub>[#142853](https://github.com/flutter/flutter/pull/142853) opened on on February 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142853) 24 additions and 1 deletion in 2 files</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Fixed the issue of incorrect item position when prototypeItem is set in SliverReorderableList.<br />
-    <sub>[#142880](https://github.com/flutter/flutter/pull/142880) opened on on February 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142880) 71 additions and 36 deletions in 2 files</sub><br />
-
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Fix initialization of time in repeat on AnimationController<br />
-    <sub>[#142887](https://github.com/flutter/flutter/pull/142887) opened on on February 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142887) 22 additions and 1 deletion in 2 files</sub><br />
-
-* **[Kris Pypen](https://github.com/krispypen)** &mdash; Fix: performance improvement on golden test comparison<br />
-    <sub>[#142913](https://github.com/flutter/flutter/pull/142913) opened on on February 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142913) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Have `FocusManager` respond to app lifecycle state changes<br />
-    <sub>[#142930](https://github.com/flutter/flutter/pull/142930) opened on on February 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142930) 51 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#142887](https://github.com/flutter/flutter/pull/142887) opened on on February 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142887) 22 additions and 1 deletion in 2 files</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Highlight the links to the release branches more prominently in the CP issue template<br />
     <sub>[#143000](https://github.com/flutter/flutter/pull/143000) opened on on February 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143000) 3 additions and 0 deletions in 1 file</sub><br />
