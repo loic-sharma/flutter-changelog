@@ -71,9 +71,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Highlight the links to the release branches more prominently in the CP issue template<br />
     <sub>[#143000](https://github.com/flutter/flutter/pull/143000) opened on on February 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143000) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix inputs and outputs for `WebReleaseBundle`<br />
-    <sub>[#143023](https://github.com/flutter/flutter/pull/143023) opened on on February 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143023) 34 additions and 5 deletions in 2 files</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix text painter longest line resizing logic for `TextWidthBasis.longestLine`<br />
     <sub>[#143024](https://github.com/flutter/flutter/pull/143024) opened on on February 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143024) 31 additions and 16 deletions in 3 files</sub><br />
 
