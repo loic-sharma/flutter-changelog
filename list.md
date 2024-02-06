@@ -671,7 +671,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-8 commits.
+9 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Fix Scene clip bounds. Trigger resize on DPR Change.
     <sub>[#50161](https://github.com/flutter/engine/pull/50161) merged on February 6, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/engine/pull/50161) over 1 week, 226 additions and 48 deletions in 11 files</sub>
@@ -693,6 +693,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] moved blur aiks tests to their own file
     <sub>[#50356](https://github.com/flutter/engine/pull/50356) merged on February 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/50356) over 55 minutes, 588 additions and 559 deletions in 4 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not skip the GLES render pass if the command list is empty
+    <sub>[#50381](https://github.com/flutter/engine/pull/50381) merged on February 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50381) over 1 hour, 0 additions and 7 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `visiblePassword` uses ASCII keyboard on iOS
     <sub>[#50293](https://github.com/flutter/engine/pull/50293) merged on February 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50293) over 3 days, 17 additions and 0 deletions in 2 files</sub>
