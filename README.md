@@ -675,7 +675,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-12 commits.
+13 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Cache RenderPass/Framebuffer objects on the resolve texture sources.<br />
     <sub>[#50142](https://github.com/flutter/engine/pull/50142) merged on February 6, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/50142) over 1 week, 137 additions and 6 deletions in 9 files</sub><br />
@@ -701,6 +701,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] moved blur aiks tests to their own file<br />
     <sub>[#50356](https://github.com/flutter/engine/pull/50356) merged on February 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/50356) over 55 minutes, 588 additions and 559 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Run all Android `scenario_app` tests, not just the smoke test.<br />
+    <sub>[#50400](https://github.com/flutter/engine/pull/50400) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50400) over 27 minutes, 0 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Capture `FAILURES!!!` when running Android `scenario_app` tests.<br />
     <sub>[#50255](https://github.com/flutter/engine/pull/50255) merged on February 6, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/50255) over 4 days, 99 additions and 18 deletions in 7 files</sub><br />
