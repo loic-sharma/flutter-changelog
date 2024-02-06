@@ -675,7 +675,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-10 commits.
+11 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Cache RenderPass/Framebuffer objects on the resolve texture sources.
     <sub>[#50142](https://github.com/flutter/engine/pull/50142) merged on February 6, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/50142) over 1 week, 137 additions and 6 deletions in 9 files</sub>
@@ -709,6 +709,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `visiblePassword` uses ASCII keyboard on iOS
     <sub>[#50293](https://github.com/flutter/engine/pull/50293) merged on February 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50293) over 3 days, 17 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Jonny Wang](https://github.com/jrwang)** &mdash; [fuchsia] Bump Fuchsia's API level to 16
+    <sub>[#50358](https://github.com/flutter/engine/pull/50358) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50358) over 21 hours, 16 additions and 1 deletion in 4 files</sub>
+    <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] add cherry pick workflow for engine repo
     <sub>[#50265](https://github.com/flutter/engine/pull/50265) merged on February 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50265) over 4 days, 86 additions and 0 deletions in 1 file</sub>
@@ -1100,7 +1104,7 @@
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Add `views` proxy and `getInitialData`.
-    <sub>[#49320](https://github.com/flutter/engine/pull/49320) merged on January 26, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/49320) over 1 month, 150 additions and 3 deletions in 5 files</sub>
+    <sub>[#49320](https://github.com/flutter/engine/pull/49320) merged on January 26, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/49320) over 1 month, 150 additions and 3 deletions in 5 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not emit metadata for structs that are not part of the shader's interface
