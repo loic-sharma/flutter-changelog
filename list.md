@@ -675,7 +675,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-13 commits.
+16 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Cache RenderPass/Framebuffer objects on the resolve texture sources.
     <sub>[#50142](https://github.com/flutter/engine/pull/50142) merged on February 6, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/50142) over 1 week, 137 additions and 6 deletions in 9 files</sub>
@@ -694,6 +694,10 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
     <sub><details><summary>1 image...</summary><img width="903" alt="Screenshot 2024-02-05 at 2 10 41 PM" src="https://github.com/flutter/engine/assets/30870216/ac3b735a-95f0-4d7b-af12-58e1ae75278e"></details></sub>
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[web] Fix Scene clip bounds. Trigger resize on DPR Change."
+    <sub>[#50404](https://github.com/flutter/engine/pull/50404) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50404) over 2 minutes, 48 additions and 226 deletions in 11 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Do not reference `this` in the submit callback for Metal GPU Surfaces
     <sub>[#50361](https://github.com/flutter/engine/pull/50361) merged on February 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50361) over 1 hour, 42 additions and 19 deletions in 3 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
@@ -701,6 +705,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] moved blur aiks tests to their own file
     <sub>[#50356](https://github.com/flutter/engine/pull/50356) merged on February 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/50356) over 55 minutes, 588 additions and 559 deletions in 4 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Specify if Angle or SwiftShader is being used in the title.
+    <sub>[#50376](https://github.com/flutter/engine/pull/50376) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50376) over 17 hours, 19 additions and 7 deletions in 1 file</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Run all Android `scenario_app` tests, not just the smoke test.
     <sub>[#50400](https://github.com/flutter/engine/pull/50400) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50400) over 27 minutes, 0 additions and 1 deletion in 1 file</sub>
@@ -729,6 +737,10 @@
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 5a5d4c262200 to b62066b42af0 (5 revisions)
     <sub>[#50366](https://github.com/flutter/engine/pull/50366) merged on February 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50366) over 2 hours, 82 additions and 7 deletions in 3 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Revert "Revert "[Fuchsia] Execute most of the testing/fuchsia/test_suites.yaml on debug and release builds""
+    <sub>[#50295](https://github.com/flutter/engine/pull/50295) merged on February 6, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/50295) over 3 days, 128 additions and 33 deletions in 8 files</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 ### January 27, 2024 to February 2, 2024
 
