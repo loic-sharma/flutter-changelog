@@ -83,9 +83,3 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add the number of mismatched pixels to golden tests output<br />
     <sub>[#142975](https://github.com/flutter/flutter/pull/142975) opened on on February 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142975) 4 additions and 4 deletions in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; M3 migration for input decorator test step1<br />
-    <sub>[#142981](https://github.com/flutter/flutter/pull/142981) opened on on February 6, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/142981) 388 additions and 431 deletions in 4 files</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Move Mac_build_test flutter_gallery__transition_perf_e2e_ios out of staging<br />
-    <sub>[#142987](https://github.com/flutter/flutter/pull/142987) opened on on February 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142987) 0 additions and 1 deletion in 1 file</sub><br />
-
