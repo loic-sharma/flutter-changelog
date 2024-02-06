@@ -83,3 +83,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add the number of mismatched pixels to golden tests output<br />
     <sub>[#142975](https://github.com/flutter/flutter/pull/142975) opened on on February 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142975) 4 additions and 4 deletions in 2 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; M3 migration for input decorator test step1<br />
+    <sub>[#142981](https://github.com/flutter/flutter/pull/142981) opened on on February 6, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/142981) 388 additions and 431 deletions in 4 files</sub><br />
+
