@@ -4,7 +4,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-19 commits.
+21 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField context menu should fade on scroll on mobile devices<br />
     <sub>[#138313](https://github.com/flutter/flutter/pull/138313) merged on February 6, 2024 &mdash; **Large:** [83 comments](https://github.com/flutter/flutter/pull/138313) over 2 months, 688 additions and 110 deletions in 8 files</sub><br />
@@ -65,6 +65,14 @@
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Make destructiveRed a CupertinoDynamicColor<br />
     <sub>[#141364](https://github.com/flutter/flutter/pull/141364) merged on February 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/141364) over 3 weeks, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Dispose precached image info<br />
+    <sub>[#143017](https://github.com/flutter/flutter/pull/143017) merged on February 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143017) over 4 hours, 9 additions and 6 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Instrument CurvedAnimation.<br />
+    <sub>[#143007](https://github.com/flutter/flutter/pull/143007) merged on February 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143007) over 6 hours, 29 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Run examples_smoke_test on Linux<br />
     <sub>[#142736](https://github.com/flutter/flutter/pull/142736) merged on February 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142736) over 4 days, 10 additions and 13 deletions in 1 file</sub><br />
@@ -1159,6 +1167,10 @@
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2024-01-26 at 2 52 59 PM](https://github.com/flutter/engine/assets/168174/be75b61f-3c27-4475-8481-e096dff4197a)</details></sub>
 
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Add `views` proxy and `getInitialData`.<br />
+    <sub>[#49320](https://github.com/flutter/engine/pull/49320) merged on January 26, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/49320) over 1 month, 150 additions and 3 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add golden for Image ColorSource effect transform.<br />
     <sub>[#49930](https://github.com/flutter/engine/pull/49930) merged on January 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/49930) over 7 hours, 48 additions and 0 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
@@ -1192,10 +1204,6 @@
 * **[Dan Field](https://github.com/dnfield)** &mdash; Fix Shell::Screenshot for Impeller<br />
     <sub>[#50072](https://github.com/flutter/engine/pull/50072) merged on January 26, 2024 &mdash; **Medium:** [19 comments](https://github.com/flutter/engine/pull/50072) over 13 hours, 343 additions and 63 deletions in 9 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Add `views` proxy and `getInitialData`.<br />
-    <sub>[#49320](https://github.com/flutter/engine/pull/49320) merged on January 26, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/49320) over 1 month, 150 additions and 3 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not emit metadata for structs that are not part of the shader's interface<br />
     <sub>[#50029](https://github.com/flutter/engine/pull/50029) merged on January 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50029) over 16 hours, 37 additions and 0 deletions in 4 files</sub><br />
