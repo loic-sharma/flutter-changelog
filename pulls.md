@@ -50,9 +50,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [WIP] Updating toolbarHeight for M3 fidelity<br />
     <sub>[#142671](https://github.com/flutter/flutter/pull/142671) opened on on February 1, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/142671) 330 additions and 292 deletions in 37 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove unused devicelab task gradle_non_android_plugin_test<br />
-    <sub>[#142742](https://github.com/flutter/flutter/pull/142742) opened on on February 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142742) 0 additions and 18 deletions in 2 files</sub><br />
-
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `lib/src/material/`<br />
     <sub>[#142793](https://github.com/flutter/flutter/pull/142793) opened on on February 2, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/142793) 184 additions and 339 deletions in 18 files</sub><br />
 
@@ -67,6 +64,9 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Highlight the links to the release branches more prominently in the CP issue template<br />
     <sub>[#143000](https://github.com/flutter/flutter/pull/143000) opened on on February 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143000) 3 additions and 0 deletions in 1 file</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix text painter longest line resizing logic for `TextWidthBasis.longestLine`<br />
+    <sub>[#143024](https://github.com/flutter/flutter/pull/143024) opened on on February 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143024) 63 additions and 35 deletions in 3 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix `initialT` computation of `_RepeatingSimulation` <br />
     <sub>[#143072](https://github.com/flutter/flutter/pull/143072) opened on on February 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143072) 29 additions and 1 deletion in 2 files</sub><br />
