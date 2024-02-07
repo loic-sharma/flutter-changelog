@@ -11,7 +11,7 @@
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `AnimationStyle` to `showSnackBar`<br />
-    <sub>[#142825](https://github.com/flutter/flutter/pull/142825) merged on February 6, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/142825) over 3 days, 441 additions and 4 deletions in 5 files</sub><br />
+    <sub>[#142825](https://github.com/flutter/flutter/pull/142825) merged on February 6, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/142825) over 3 days, 441 additions and 4 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2024-02-02 at 21 10 57](https://github.com/flutter/flutter/assets/48603081/66d808f0-d638-4561-b9a4-96d1b93938f4)</details></sub>
 
@@ -839,8 +839,8 @@
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] add cherry pick workflow for engine repo<br />
-    <sub>[#50265](https://github.com/flutter/engine/pull/50265) merged on February 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50265) over 4 days, 86 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub><br />
+    <sub>[#50265](https://github.com/flutter/engine/pull/50265) merged on February 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50265) over 4 days, 86 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 5a5d4c262200 to b62066b42af0 (5 revisions)<br />
     <sub>[#50366](https://github.com/flutter/engine/pull/50366) merged on February 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50366) over 2 hours, 82 additions and 7 deletions in 3 files</sub><br />
