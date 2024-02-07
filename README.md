@@ -819,7 +819,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-30 commits.
+31 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix Android `scenario_app` to actually run and block on CI<br />
     <sub>[#50414](https://github.com/flutter/engine/pull/50414) merged on February 7, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/50414) over 23 hours, 49 additions and 10 deletions in 4 files</sub><br />
@@ -854,6 +854,10 @@
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Do not reference `this` in the submit callback for Metal GPU Surfaces<br />
     <sub>[#50361](https://github.com/flutter/engine/pull/50361) merged on February 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50361) over 1 hour, 42 additions and 19 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move path out of PathBuilder in TakePath.<br />
+    <sub>[#50444](https://github.com/flutter/engine/pull/50444) merged on February 7, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50444) over 2 hours, 12 additions and 15 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update NDK to version 26<br />
     <sub>[#48254](https://github.com/flutter/engine/pull/48254) merged on February 7, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/48254) over 2 months, 6 additions and 5 deletions in 4 files</sub><br />
@@ -1585,7 +1589,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-5 commits.
+6 commits.
 
 * **[Luong The Vinh](https://github.com/TheVinhLuong)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Adds support for `setOnScrollPositionChange` for webview_flutter platform implementations<br />
     <sub>[#5664](https://github.com/flutter/packages/pull/5664) merged on February 7, 2024 &mdash; **Extra large:** [24 comments](https://github.com/flutter/packages/pull/5664) over 1 month, 2038 additions and 784 deletions in 49 files</sub><br />
@@ -1598,6 +1602,10 @@
 * **[GiftShower_](https://github.com/GiftShower)** &mdash; Add transitionDuration parameter<br />
     <sub>[#5854](https://github.com/flutter/packages/pull/5854) merged on February 7, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/5854) over 4 weeks, 77 additions and 9 deletions in 9 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [image_picker] Suppress analyzer warning about deprecation of UnmodifiableUint8ListView<br />
+    <sub>[#6076](https://github.com/flutter/packages/pull/6076) merged on February 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6076) over 1 hour, 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Update to Dart 3<br />
     <sub>[#6030](https://github.com/flutter/packages/pull/6030) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6030) over 4 days, 70 additions and 99 deletions in 15 files</sub><br />
