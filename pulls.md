@@ -77,3 +77,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Fix date picker cannot focus on the edit field<br />
     <sub>[#143117](https://github.com/flutter/flutter/pull/143117) opened on on February 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143117) 19 additions and 14 deletions in 3 files</sub><br />
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; The initial/selected item on popup menu should always be visible<br />
+    <sub>[#143118](https://github.com/flutter/flutter/pull/143118) opened on on February 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143118) 73 additions and 0 deletions in 2 files</sub><br />
+
