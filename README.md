@@ -55,7 +55,7 @@
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Activate InkSparkle on CanvasKit<br />
-    <sub>[#138545](https://github.com/flutter/flutter/pull/138545) merged on February 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/138545) over 2 months, 16 additions and 15 deletions in 7 files</sub><br />
+    <sub>[#138545](https://github.com/flutter/flutter/pull/138545) merged on February 7, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138545) over 2 months, 16 additions and 15 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Make destructiveRed a CupertinoDynamicColor<br />

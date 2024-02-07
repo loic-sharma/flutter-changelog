@@ -71,3 +71,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Highlight the links to the release branches more prominently in the CP issue template<br />
     <sub>[#143000](https://github.com/flutter/flutter/pull/143000) opened on on February 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143000) 3 additions and 0 deletions in 1 file</sub><br />
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Activate InkSparkle on CanvasKit"<br />
+    <sub>[#143036](https://github.com/flutter/flutter/pull/143036) opened on on February 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143036) 15 additions and 16 deletions in 7 files</sub><br />
+
