@@ -811,7 +811,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-29 commits.
+30 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix Android `scenario_app` to actually run and block on CI
     <sub>[#50414](https://github.com/flutter/engine/pull/50414) merged on February 7, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/50414) over 23 hours, 49 additions and 10 deletions in 4 files</sub>
@@ -858,6 +858,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Always pop clips on restore.
     <sub>[#50419](https://github.com/flutter/engine/pull/50419) merged on February 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50419) over 6 hours, 20 additions and 5 deletions in 2 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Log non-default graphics backend usages, use IMPORTANT rather than ERROR
+    <sub>[#50448](https://github.com/flutter/engine/pull/50448) merged on February 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50448) over 1 hour, 61 additions and 31 deletions in 9 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [John McCutchan](https://github.com/johnmccutchan), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Initialize the stencil reference value.
     <sub>[#50373](https://github.com/flutter/engine/pull/50373) merged on February 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50373) over 1 day, 6 additions and 2 deletions in 1 file</sub>
