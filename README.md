@@ -755,7 +755,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-23 commits.
+24 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Cache RenderPass/Framebuffer objects on the resolve texture sources.<br />
     <sub>[#50142](https://github.com/flutter/engine/pull/50142) merged on February 6, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/50142) over 1 week, 137 additions and 6 deletions in 9 files</sub><br />
@@ -785,6 +785,10 @@
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Do not reference `this` in the submit callback for Metal GPU Surfaces<br />
     <sub>[#50361](https://github.com/flutter/engine/pull/50361) merged on February 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50361) over 1 hour, 42 additions and 19 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update NDK to version 26<br />
+    <sub>[#48254](https://github.com/flutter/engine/pull/48254) merged on February 7, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/48254) over 2 months, 6 additions and 5 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] moved blur aiks tests to their own file<br />
     <sub>[#50356](https://github.com/flutter/engine/pull/50356) merged on February 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/50356) over 55 minutes, 588 additions and 559 deletions in 4 files</sub><br />
