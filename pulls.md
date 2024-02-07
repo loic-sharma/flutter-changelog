@@ -71,3 +71,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Highlight the links to the release branches more prominently in the CP issue template<br />
     <sub>[#143000](https://github.com/flutter/flutter/pull/143000) opened on on February 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143000) 3 additions and 0 deletions in 1 file</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [reland] Add `AnimationStyle` to `showSnackBar`<br />
+    <sub>[#143052](https://github.com/flutter/flutter/pull/143052) opened on on February 7, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143052) 441 additions and 4 deletions in 5 files</sub><br />
+
