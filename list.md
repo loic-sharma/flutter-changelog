@@ -4,7 +4,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-26 commits.
+27 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField context menu should fade on scroll on mobile devices
     <sub>[#138313](https://github.com/flutter/flutter/pull/138313) merged on February 6, 2024 &mdash; **Large:** [83 comments](https://github.com/flutter/flutter/pull/138313) over 2 months, 688 additions and 110 deletions in 8 files</sub>
@@ -26,7 +26,7 @@
     <sub><details><summary>2 images...</summary>![Screenshot_1696829290](https://github.com/flutter/flutter/assets/147121557/209fee88-9efc-4b92-803a-453ecc6a7c16)![Screenshot_1696830232](https://github.com/flutter/flutter/assets/147121557/ecd11266-4c22-49cc-9bb5-2df39d10cf79)</details></sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix M3 text field height + initial step for input decorator M3 test migration
-    <sub>[#142981](https://github.com/flutter/flutter/pull/142981) merged on February 7, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/142981) over 23 hours, 402 additions and 441 deletions in 6 files</sub>
+    <sub>[#142981](https://github.com/flutter/flutter/pull/142981) merged on February 7, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/142981) over 23 hours, 402 additions and 441 deletions in 6 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/403225b7-4c91-4aee-b19c-0490447ae7e3) | ![image](https://github.com/flutter/flutter/assets/840911/e96cf786-a9f5-4e15-bcdd-078350ff1608)</details></sub>
 
@@ -99,6 +99,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Run examples_smoke_test on Linux
     <sub>[#142736](https://github.com/flutter/flutter/pull/142736) merged on February 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142736) over 4 days, 10 additions and 13 deletions in 1 file</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[maRci002](https://github.com/maRci002)** &mdash; Handle transitions to AppLifecycleState.detached in lifecycle state generation
+    <sub>[#142523](https://github.com/flutter/flutter/pull/142523) merged on February 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/142523) over 1 week, 20 additions and 12 deletions in 3 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Activate InkSparkle on CanvasKit"
     <sub>[#143036](https://github.com/flutter/flutter/pull/143036) merged on February 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143036) over 1 minute, 15 additions and 16 deletions in 7 files</sub>
