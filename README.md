@@ -145,7 +145,7 @@
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/flutter/assets/22084723/d602ef42-625a-4b5c-b63b-c46cb2070d80)![image](https://github.com/flutter/flutter/assets/22084723/dddb754f-fd29-4c4c-96cc-e7f508219f12)</details></sub>
 
 * **[Mohammad Bagher Fakouri](https://github.com/mbfakourii)** &mdash; Add `SingleChildScrollView` for `NavigationRail`<br />
-    <sub>[#137415](https://github.com/flutter/flutter/pull/137415) merged on January 29, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/137415) over 3 months, 117 additions and 56 deletions in 2 files</sub><br />
+    <sub>[#137415](https://github.com/flutter/flutter/pull/137415) merged on January 29, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/137415) over 3 months, 117 additions and 56 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Unpin test<br />
