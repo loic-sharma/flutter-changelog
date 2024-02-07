@@ -161,7 +161,7 @@
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Revert "Add `SingleChildScrollView` for `NavigationRail`"<br />
-    <sub>[#143097](https://github.com/flutter/flutter/pull/143097) merged on February 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/143097) over 41 minutes, 56 additions and 117 deletions in 2 files</sub><br />
+    <sub>[#143097](https://github.com/flutter/flutter/pull/143097) merged on February 7, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/143097) over 41 minutes, 56 additions and 117 deletions in 2 files</sub><br />
     <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 ### January 27, 2024 to February 2, 2024
@@ -803,7 +803,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-27 commits.
+28 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Cache RenderPass/Framebuffer objects on the resolve texture sources.<br />
     <sub>[#50142](https://github.com/flutter/engine/pull/50142) merged on February 6, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/50142) over 1 week, 137 additions and 6 deletions in 9 files</sub><br />
@@ -877,6 +877,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `visiblePassword` uses ASCII keyboard on iOS<br />
     <sub>[#50293](https://github.com/flutter/engine/pull/50293) merged on February 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50293) over 3 days, 17 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Dart SDK from 452dd17120b7 to 322c81160fa9 (1 revision)"<br />
+    <sub>[#50450](https://github.com/flutter/engine/pull/50450) merged on February 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50450) over 31 seconds, 4 additions and 4 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Redo "[Fuchsia] Execute most of the testing/fuchsia/test_suites.yaml on debug and release builds"<br />
     <sub>[#50408](https://github.com/flutter/engine/pull/50408) merged on February 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50408) over 22 hours, 124 additions and 33 deletions in 7 files</sub><br />
