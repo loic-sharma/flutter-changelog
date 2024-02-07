@@ -75,5 +75,5 @@
     <sub>[#143111](https://github.com/flutter/flutter/pull/143111) opened on on February 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143111) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Fix date picker cannot focus on the edit field<br />
-    <sub>[#143117](https://github.com/flutter/flutter/pull/143117) opened on on February 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143117) 32 additions and 28 deletions in 1 file</sub><br />
+    <sub>[#143117](https://github.com/flutter/flutter/pull/143117) opened on on February 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143117) 17 additions and 14 deletions in 1 file</sub><br />
 
