@@ -74,6 +74,3 @@
 * **[Varun Kamani](https://github.com/varunkamanibosc)** &mdash; Add selectionOverlayBuilder in CupertinoDatePicker and CupertinoTimer…<br />
     <sub>[#143079](https://github.com/flutter/flutter/pull/143079) opened on on February 7, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143079) 328 additions and 18 deletions in 2 files</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [flutter_tool] Retry a gradle build on connection timeout<br />
-    <sub>[#143084](https://github.com/flutter/flutter/pull/143084) opened on on February 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143084) 39 additions and 4 deletions in 2 files</sub><br />
-
