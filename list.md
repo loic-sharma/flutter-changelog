@@ -11,7 +11,7 @@
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `AnimationStyle` to `showSnackBar`
-    <sub>[#142825](https://github.com/flutter/flutter/pull/142825) merged on February 6, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/142825) over 3 days, 441 additions and 4 deletions in 5 files</sub>
+    <sub>[#142825](https://github.com/flutter/flutter/pull/142825) merged on February 6, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/142825) over 3 days, 441 additions and 4 deletions in 5 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot 2024-02-02 at 21 10 57](https://github.com/flutter/flutter/assets/48603081/66d808f0-d638-4561-b9a4-96d1b93938f4)</details></sub>
 
