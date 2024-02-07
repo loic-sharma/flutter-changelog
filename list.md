@@ -763,7 +763,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-25 commits.
+26 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Cache RenderPass/Framebuffer objects on the resolve texture sources.
     <sub>[#50142](https://github.com/flutter/engine/pull/50142) merged on February 6, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/50142) over 1 week, 137 additions and 6 deletions in 9 files</sub>
@@ -805,6 +805,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Always pop clips on restore.
     <sub>[#50419](https://github.com/flutter/engine/pull/50419) merged on February 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50419) over 6 hours, 20 additions and 5 deletions in 2 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed CONTRIBUTING.md markdown lints
+    <sub>[#50439](https://github.com/flutter/engine/pull/50439) merged on February 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50439) over 54 minutes, 8 additions and 11 deletions in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Skip flaking test on Windows nobody is fixing.
     <sub>[#50401](https://github.com/flutter/engine/pull/50401) merged on February 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50401) over 1 hour, 6 additions and 4 deletions in 1 file</sub>
