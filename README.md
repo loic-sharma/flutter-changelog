@@ -755,7 +755,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-22 commits.
+23 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Cache RenderPass/Framebuffer objects on the resolve texture sources.<br />
     <sub>[#50142](https://github.com/flutter/engine/pull/50142) merged on February 6, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/50142) over 1 week, 137 additions and 6 deletions in 9 files</sub><br />
@@ -773,6 +773,10 @@
     <sub>[#50363](https://github.com/flutter/engine/pull/50363) merged on February 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50363) over 4 hours, 27 additions and 9 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>1 image...</summary><img width="903" alt="Screenshot 2024-02-05 at 2 10 41 PM" src="https://github.com/flutter/engine/assets/30870216/ac3b735a-95f0-4d7b-af12-58e1ae75278e"></details></sub>
+
+* **[ᠵᠠᠭᠠᠨᠵᠠᠪ ᠪᠤᠷᠵᠢᠭᠤᠳ ᠰᠠᠴᠤᠷᠠᠭ](https://github.com/Satsrag)** &mdash; Fix: On the Web, cannot support multiline inputting when registering customized TextInputControl<br />
+    <sub>[#45522](https://github.com/flutter/engine/pull/45522) merged on February 7, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/engine/pull/45522) over 5 months, 117 additions and 4 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Mouad Debbar](https://github.com/mdebbar), [Hassan Toor](https://github.com/htoor3)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[web] Fix Scene clip bounds. Trigger resize on DPR Change."<br />
     <sub>[#50404](https://github.com/flutter/engine/pull/50404) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50404) over 2 minutes, 48 additions and 226 deletions in 11 files</sub><br />
