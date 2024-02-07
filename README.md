@@ -29,14 +29,14 @@
     <sub>[#141954](https://github.com/flutter/flutter/pull/141954) merged on February 6, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/141954) over 2 weeks, 133 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Move native assets to `isolated/` directory<br />
+    <sub>[#142709](https://github.com/flutter/flutter/pull/142709) merged on February 6, 2024 &mdash; **Extra large:** [21 comments](https://github.com/flutter/flutter/pull/142709) over 5 days, 1368 additions and 1119 deletions in 38 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Lau Ching Jun](https://github.com/chingjun), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
 * **[BiskupMaik](https://github.com/BiskupMaik)** &mdash; fix AppBar docs for backgroundColor & foregroundColor<br />
     <sub>[#142430](https://github.com/flutter/flutter/pull/142430) merged on February 5, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/142430) over 6 days, 12 additions and 5 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>1 image...</summary><img width="517" alt="image" src="https://github.com/flutter/flutter/assets/124896814/d4dbe278-5b50-42d7-9143-c54d343efddf"></details></sub>
-
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Move native assets to `isolated/` directory<br />
-    <sub>[#142709](https://github.com/flutter/flutter/pull/142709) merged on February 6, 2024 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/142709) over 5 days, 1368 additions and 1119 deletions in 38 files</sub><br />
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Lau Ching Jun](https://github.com/chingjun), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [Windows] Fix signed/unsigned int comparison<br />
     <sub>[#142341](https://github.com/flutter/flutter/pull/142341) merged on February 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142341) over 1 week, 26 additions and 26 deletions in 13 files</sub><br />
