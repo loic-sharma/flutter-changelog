@@ -153,7 +153,7 @@
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Revert "Add `SingleChildScrollView` for `NavigationRail`"<br />
-    <sub>[#143097](https://github.com/flutter/flutter/pull/143097) merged on February 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/143097) over 41 minutes, 56 additions and 117 deletions in 2 files</sub><br />
+    <sub>[#143097](https://github.com/flutter/flutter/pull/143097) merged on February 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/143097) over 41 minutes, 56 additions and 117 deletions in 2 files</sub><br />
     <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 ### January 27, 2024 to February 2, 2024
