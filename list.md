@@ -4,7 +4,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-24 commits.
+25 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField context menu should fade on scroll on mobile devices
     <sub>[#138313](https://github.com/flutter/flutter/pull/138313) merged on February 6, 2024 &mdash; **Large:** [83 comments](https://github.com/flutter/flutter/pull/138313) over 2 months, 688 additions and 110 deletions in 8 files</sub>
@@ -28,6 +28,11 @@
 * **[David Martos](https://github.com/davidmartos96)** &mdash; Material 3 - Tab indicator stretch animation
     <sub>[#141954](https://github.com/flutter/flutter/pull/141954) merged on February 6, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/141954) over 2 weeks, 133 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [reland] Add `AnimationStyle` to `showSnackBar`
+    <sub>[#143052](https://github.com/flutter/flutter/pull/143052) merged on February 7, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/143052) over 2 hours, 441 additions and 4 deletions in 5 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
+    <sub><details><summary>1 image...</summary>![Screenshot 2024-02-02 at 21 10 57](https://github.com/flutter/flutter/assets/48603081/66d808f0-d638-4561-b9a4-96d1b93938f4)</details></sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Move native assets to `isolated/` directory
     <sub>[#142709](https://github.com/flutter/flutter/pull/142709) merged on February 6, 2024 &mdash; **Extra large:** [21 comments](https://github.com/flutter/flutter/pull/142709) over 5 days, 1368 additions and 1119 deletions in 38 files</sub>
