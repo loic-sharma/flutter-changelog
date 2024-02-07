@@ -4,7 +4,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-30 commits.
+31 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField context menu should fade on scroll on mobile devices<br />
     <sub>[#138313](https://github.com/flutter/flutter/pull/138313) merged on February 6, 2024 &mdash; **Large:** [83 comments](https://github.com/flutter/flutter/pull/138313) over 2 months, 688 additions and 110 deletions in 8 files</sub><br />
@@ -83,6 +83,10 @@
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Make destructiveRed a CupertinoDynamicColor<br />
     <sub>[#141364](https://github.com/flutter/flutter/pull/141364) merged on February 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/141364) over 3 weeks, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add indexInParent to SemanticsNode debug information<br />
+    <sub>[#142826](https://github.com/flutter/flutter/pull/142826) merged on February 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142826) over 4 days, 7 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove unused devicelab task gradle_non_android_plugin_test<br />
     <sub>[#142742](https://github.com/flutter/flutter/pull/142742) merged on February 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/142742) over 5 days, 0 additions and 18 deletions in 2 files</sub><br />
@@ -165,14 +169,14 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>10 images...</summary>![opaque-gradient-bg](https://github.com/flutter/flutter/assets/1377460/80df8368-e7cf-49ef-aee7-2776a573644c)![ink-gradient-bg](https://github.com/flutter/flutter/assets/1377460/68a49733-f30e-44a1-a948-dc8cc95e1716)![translucent-graident-bg](https://github.com/flutter/flutter/assets/1377460/3b016e1f-200a-4d07-8111-e20d29f18014)![burlap-bg](https://github.com/flutter/flutter/assets/1377460/f2f61ab1-10d9-43a4-bd63-beecdce33b45)![gradient-flip](https://github.com/flutter/flutter/assets/1377460/c6c6fe26-ae47-445b-b82d-4605d9583bd8)![border-gradient-bg](https://github.com/flutter/flutter/assets/1377460/63cffcd3-0dcf-4eb1-aed5-d14adf1e57f6)![border-fg](https://github.com/flutter/flutter/assets/1377460/687a3245-fe68-4983-a04e-5fcc77f8aa21)![shader_mask_fg](https://github.com/flutter/flutter/assets/1377460/54010f24-e65d-4551-ae58-712135df3d8d)![image-button](https://github.com/flutter/flutter/assets/1377460/f5b1a22f-43ce-4be3-8e70-06de4c958380)![image-per-state](https://github.com/flutter/flutter/assets/1377460/7ab9da2f-f661-4374-b395-c2e0c7c4cf13)</details></sub>
 
+* **[Mohammad Bagher Fakouri](https://github.com/mbfakourii)** &mdash; Add `SingleChildScrollView` for `NavigationRail`<br />
+    <sub>[#137415](https://github.com/flutter/flutter/pull/137415) merged on January 29, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/137415) over 3 months, 117 additions and 56 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
 * **[David Martos](https://github.com/davidmartos96)** &mdash; Fix token usages on Regular Chip and Action Chip<br />
     <sub>[#141701](https://github.com/flutter/flutter/pull/141701) merged on February 1, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/141701) over 2 weeks, 40 additions and 18 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/flutter/assets/22084723/d602ef42-625a-4b5c-b63b-c46cb2070d80)![image](https://github.com/flutter/flutter/assets/22084723/dddb754f-fd29-4c4c-96cc-e7f508219f12)</details></sub>
-
-* **[Mohammad Bagher Fakouri](https://github.com/mbfakourii)** &mdash; Add `SingleChildScrollView` for `NavigationRail`<br />
-    <sub>[#137415](https://github.com/flutter/flutter/pull/137415) merged on January 29, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/137415) over 3 months, 117 additions and 56 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Unpin test<br />
     <sub>[#141427](https://github.com/flutter/flutter/pull/141427) merged on February 1, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/141427) over 2 weeks, 328 additions and 331 deletions in 60 files</sub><br />
