@@ -4,7 +4,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-31 commits.
+33 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField context menu should fade on scroll on mobile devices<br />
     <sub>[#138313](https://github.com/flutter/flutter/pull/138313) merged on February 6, 2024 &mdash; **Large:** [83 comments](https://github.com/flutter/flutter/pull/138313) over 2 months, 688 additions and 110 deletions in 8 files</sub><br />
@@ -115,6 +115,14 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Run examples_smoke_test on Linux<br />
     <sub>[#142736](https://github.com/flutter/flutter/pull/142736) merged on February 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142736) over 4 days, 10 additions and 13 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a test for the isAvailableForEnvironment logic<br />
+    <sub>[#142251](https://github.com/flutter/flutter/pull/142251) merged on February 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142251) over 1 week, 169 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add the number of mismatched pixels to golden tests output<br />
+    <sub>[#142975](https://github.com/flutter/flutter/pull/142975) merged on February 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142975) over 1 day, 4 additions and 4 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[maRci002](https://github.com/maRci002)** &mdash; Handle transitions to AppLifecycleState.detached in lifecycle state generation<br />
     <sub>[#142523](https://github.com/flutter/flutter/pull/142523) merged on February 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/142523) over 1 week, 20 additions and 12 deletions in 3 files</sub><br />
