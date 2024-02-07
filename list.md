@@ -26,7 +26,7 @@
     <sub><details><summary>1 image...</summary>![Screenshot 2024-02-02 at 21 10 57](https://github.com/flutter/flutter/assets/48603081/66d808f0-d638-4561-b9a4-96d1b93938f4)</details></sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Enforce a policy on supported Gradle, Java, AGP, and KGP versions
-    <sub>[#142000](https://github.com/flutter/flutter/pull/142000) merged on February 7, 2024 &mdash; **Large:** [52 comments](https://github.com/flutter/flutter/pull/142000) over 2 weeks, 586 additions and 3 deletions in 8 files</sub>
+    <sub>[#142000](https://github.com/flutter/flutter/pull/142000) merged on February 7, 2024 &mdash; **Large:** [53 comments](https://github.com/flutter/flutter/pull/142000) over 2 weeks, 586 additions and 3 deletions in 8 files</sub>
     <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Shaun Byrne](https://github.com/ShaunByrne-UniSA)** &mdash; Grey out non-selectable days in CupertinoDatePicker
