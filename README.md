@@ -4,7 +4,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-14 commits.
+16 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField context menu should fade on scroll on mobile devices<br />
     <sub>[#138313](https://github.com/flutter/flutter/pull/138313) merged on February 6, 2024 &mdash; **Large:** [83 comments](https://github.com/flutter/flutter/pull/138313) over 2 months, 688 additions and 110 deletions in 8 files</sub><br />
@@ -35,12 +35,20 @@
     <sub><details><summary>1 image...</summary><img width="517" alt="image" src="https://github.com/flutter/flutter/assets/124896814/d4dbe278-5b50-42d7-9143-c54d343efddf"></details></sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Move native assets to `isolated/` directory<br />
-    <sub>[#142709](https://github.com/flutter/flutter/pull/142709) merged on February 6, 2024 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/142709) over 5 days, 1368 additions and 1119 deletions in 38 files</sub><br />
+    <sub>[#142709](https://github.com/flutter/flutter/pull/142709) merged on February 6, 2024 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/142709) over 5 days, 1368 additions and 1119 deletions in 38 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Lau Ching Jun](https://github.com/chingjun), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [Windows] Fix signed/unsigned int comparison<br />
+    <sub>[#142341](https://github.com/flutter/flutter/pull/142341) merged on February 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142341) over 1 week, 26 additions and 26 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Ann Marie Mossman](https://github.com/mossmana)** &mdash; Update AGP version validation code to support KGP and kotlin build files.<br />
     <sub>[#142357](https://github.com/flutter/flutter/pull/142357) merged on February 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/142357) over 1 week, 176 additions and 69 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Move native assets to `isolated/` directory"<br />
+    <sub>[#143027](https://github.com/flutter/flutter/pull/143027) merged on February 7, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/143027) over 37 seconds, 1119 additions and 1368 deletions in 38 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Alexander Dahlberg](https://github.com/Swiftaxe)** &mdash; Fixed test in language_version_test.dart that failed when shuffling, …<br />
     <sub>[#142904](https://github.com/flutter/flutter/pull/142904) merged on February 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142904) over 12 hours, 1 addition and 7 deletions in 1 file</sub><br />
