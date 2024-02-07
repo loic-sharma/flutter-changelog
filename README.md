@@ -4,7 +4,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-16 commits.
+17 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField context menu should fade on scroll on mobile devices<br />
     <sub>[#138313](https://github.com/flutter/flutter/pull/138313) merged on February 6, 2024 &mdash; **Large:** [83 comments](https://github.com/flutter/flutter/pull/138313) over 2 months, 688 additions and 110 deletions in 8 files</sub><br />
@@ -35,7 +35,7 @@
     <sub><details><summary>1 image...</summary><img width="517" alt="image" src="https://github.com/flutter/flutter/assets/124896814/d4dbe278-5b50-42d7-9143-c54d343efddf"></details></sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Move native assets to `isolated/` directory<br />
-    <sub>[#142709](https://github.com/flutter/flutter/pull/142709) merged on February 6, 2024 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/142709) over 5 days, 1368 additions and 1119 deletions in 38 files</sub><br />
+    <sub>[#142709](https://github.com/flutter/flutter/pull/142709) merged on February 6, 2024 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/142709) over 5 days, 1368 additions and 1119 deletions in 38 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Lau Ching Jun](https://github.com/chingjun), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [Windows] Fix signed/unsigned int comparison<br />
@@ -53,6 +53,10 @@
 * **[Alexander Dahlberg](https://github.com/Swiftaxe)** &mdash; Fixed test in language_version_test.dart that failed when shuffling, …<br />
     <sub>[#142904](https://github.com/flutter/flutter/pull/142904) merged on February 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142904) over 12 hours, 1 addition and 7 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Activate InkSparkle on CanvasKit<br />
+    <sub>[#138545](https://github.com/flutter/flutter/pull/138545) merged on February 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/138545) over 2 months, 16 additions and 15 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Make destructiveRed a CupertinoDynamicColor<br />
     <sub>[#141364](https://github.com/flutter/flutter/pull/141364) merged on February 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/141364) over 3 weeks, 1 addition and 1 deletion in 1 file</sub><br />

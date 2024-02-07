@@ -74,3 +74,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix text painter longest line resizing logic for `TextWidthBasis.longestLine`<br />
     <sub>[#143024](https://github.com/flutter/flutter/pull/143024) opened on on February 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143024) 31 additions and 16 deletions in 3 files</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Instrument BoxPainter descendants.<br />
+    <sub>[#143030](https://github.com/flutter/flutter/pull/143030) opened on on February 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143030) 42 additions and 3 deletions in 3 files</sub><br />
+
