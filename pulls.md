@@ -77,3 +77,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Fix date picker cannot focus on the edit field<br />
     <sub>[#143117](https://github.com/flutter/flutter/pull/143117) opened on on February 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143117) 19 additions and 14 deletions in 3 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Pass along web renderer into debugging options in the test command.<br />
+    <sub>[#143128](https://github.com/flutter/flutter/pull/143128) opened on on February 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143128) 25 additions and 0 deletions in 2 files</sub><br />
+
