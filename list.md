@@ -4,7 +4,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-27 commits.
+28 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField context menu should fade on scroll on mobile devices
     <sub>[#138313](https://github.com/flutter/flutter/pull/138313) merged on February 6, 2024 &mdash; **Large:** [83 comments](https://github.com/flutter/flutter/pull/138313) over 2 months, 688 additions and 110 deletions in 8 files</sub>
@@ -71,6 +71,10 @@
 * **[Alexander Dahlberg](https://github.com/Swiftaxe)** &mdash; Fixed test in language_version_test.dart that failed when shuffling, …
     <sub>[#142904](https://github.com/flutter/flutter/pull/142904) merged on February 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142904) over 12 hours, 1 addition and 7 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Remove redundant `rootDirectoryPath` parameter in `DevFS::update`
+    <sub>[#143034](https://github.com/flutter/flutter/pull/143034) merged on February 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143034) over 16 hours, 1 addition and 6 deletions in 4 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Activate InkSparkle on CanvasKit
     <sub>[#138545](https://github.com/flutter/flutter/pull/138545) merged on February 7, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138545) over 2 months, 16 additions and 15 deletions in 7 files</sub>
