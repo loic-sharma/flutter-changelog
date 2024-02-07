@@ -4,7 +4,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-25 commits.
+26 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; TextField context menu should fade on scroll on mobile devices<br />
     <sub>[#138313](https://github.com/flutter/flutter/pull/138313) merged on February 6, 2024 &mdash; **Large:** [83 comments](https://github.com/flutter/flutter/pull/138313) over 2 months, 688 additions and 110 deletions in 8 files</sub><br />
@@ -24,6 +24,11 @@
     <sub>[#136181](https://github.com/flutter/flutter/pull/136181) merged on February 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136181) over 3 months, 164 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
     <sub><details><summary>2 images...</summary>![Screenshot_1696829290](https://github.com/flutter/flutter/assets/147121557/209fee88-9efc-4b92-803a-453ecc6a7c16)![Screenshot_1696830232](https://github.com/flutter/flutter/assets/147121557/ecd11266-4c22-49cc-9bb5-2df39d10cf79)</details></sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix M3 text field height + initial step for input decorator M3 test migration<br />
+    <sub>[#142981](https://github.com/flutter/flutter/pull/142981) merged on February 7, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/142981) over 23 hours, 402 additions and 441 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/403225b7-4c91-4aee-b19c-0490447ae7e3) | ![image](https://github.com/flutter/flutter/assets/840911/e96cf786-a9f5-4e15-bcdd-078350ff1608)</details></sub>
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; Material 3 - Tab indicator stretch animation<br />
     <sub>[#141954](https://github.com/flutter/flutter/pull/141954) merged on February 6, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/141954) over 2 weeks, 133 additions and 2 deletions in 2 files</sub><br />
