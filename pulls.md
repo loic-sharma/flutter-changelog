@@ -77,3 +77,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Fix date picker cannot focus on the edit field<br />
     <sub>[#143117](https://github.com/flutter/flutter/pull/143117) opened on on February 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143117) 100 additions and 63 deletions in 4 files</sub><br />
 
+* **[Mohammad Seeam](https://github.com/mseeam99)** &mdash; Modified the condition for activating InkSparkle to include CanvasKit support<br />
+    <sub>[#143137](https://github.com/flutter/flutter/pull/143137) opened on on February 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143137) 3 additions and 1 deletion in 1 file</sub><br />
+
