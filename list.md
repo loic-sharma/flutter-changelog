@@ -91,7 +91,7 @@
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[yim](https://github.com/yiiim)** &mdash; Fixed cursor blinking during selection.
-    <sub>[#141380](https://github.com/flutter/flutter/pull/141380) merged on February 7, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/141380) over 3 weeks, 58 additions and 3 deletions in 3 files</sub>
+    <sub>[#141380](https://github.com/flutter/flutter/pull/141380) merged on February 7, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/141380) over 3 weeks, 58 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Remove redundant `rootDirectoryPath` parameter in `DevFS::update`
