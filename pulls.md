@@ -77,3 +77,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Fix date picker cannot focus on the edit field<br />
     <sub>[#143117](https://github.com/flutter/flutter/pull/143117) opened on on February 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143117) 73 additions and 62 deletions in 4 files</sub><br />
 
+* **[hangyu](https://github.com/hangyujin)** &mdash; Set Semantics container to true for IconButton<br />
+    <sub>[#143136](https://github.com/flutter/flutter/pull/143136) opened on on February 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143136) 1 addition and 0 deletions in 1 file</sub><br />
+
