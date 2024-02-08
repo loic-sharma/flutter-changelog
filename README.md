@@ -845,7 +845,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-37 commits.
+38 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Cache RenderPass/Framebuffer objects on the resolve texture sources.<br />
     <sub>[#50142](https://github.com/flutter/engine/pull/50142) merged on February 6, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/engine/pull/50142) over 1 week, 137 additions and 6 deletions in 9 files</sub><br />
@@ -945,6 +945,10 @@
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; [ios] Fix memory leak in ChildClippingView<br />
     <sub>[#50389](https://github.com/flutter/engine/pull/50389) merged on February 8, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50389) over 1 day, 17 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove extra buffer usage in compute.<br />
+    <sub>[#50415](https://github.com/flutter/engine/pull/50415) merged on February 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50415) over 1 day, 14 additions and 22 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `visiblePassword` uses ASCII keyboard on iOS<br />
     <sub>[#50293](https://github.com/flutter/engine/pull/50293) merged on February 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50293) over 3 days, 17 additions and 0 deletions in 2 files</sub><br />
