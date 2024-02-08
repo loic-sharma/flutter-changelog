@@ -53,9 +53,6 @@
 * **[René Kilczan](https://github.com/rekire)** &mdash; Detect WSL and run flutter in cmd<br />
     <sub>[#142803](https://github.com/flutter/flutter/pull/142803) opened on on February 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/142803) 4 additions and 0 deletions in 1 file</sub><br />
 
-* **[Anas](https://github.com/Anas35)** &mdash; [tools] Add column header for emulators information<br />
-    <sub>[#142853](https://github.com/flutter/flutter/pull/142853) opened on on February 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142853) 24 additions and 1 deletion in 2 files</sub><br />
-
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Fix initialization of time in repeat on AnimationController<br />
     <sub>[#142887](https://github.com/flutter/flutter/pull/142887) opened on on February 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142887) 22 additions and 1 deletion in 2 files</sub><br />
 
