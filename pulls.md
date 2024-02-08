@@ -35,9 +35,6 @@
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Change dialog font family<br />
     <sub>[#141295](https://github.com/flutter/flutter/pull/141295) opened on on January 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/141295) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Differentiate pubspec and resolution errors for plugins<br />
-    <sub>[#142035](https://github.com/flutter/flutter/pull/142035) opened on on January 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142035) 28 additions and 27 deletions in 2 files</sub><br />
-
 * **[Yukiteru Attano](https://github.com/YukiAttano)** &mdash; fix: added revertFlutterImage call in integration_tests<br />
     <sub>[#142166](https://github.com/flutter/flutter/pull/142166) opened on on January 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/142166) 35 additions and 5 deletions in 4 files</sub><br />
 
