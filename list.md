@@ -898,7 +898,7 @@
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub>
 
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; [ios] Fix memory leak in ChildClippingView
-    <sub>[#50389](https://github.com/flutter/engine/pull/50389) merged on February 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50389) over 1 day, 17 additions and 2 deletions in 4 files</sub>
+    <sub>[#50389](https://github.com/flutter/engine/pull/50389) merged on February 8, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50389) over 1 day, 17 additions and 2 deletions in 4 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Log non-default graphics backend usages, use IMPORTANT rather than ERROR
