@@ -789,7 +789,7 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Relands "Add runWidget to bootstrap a widget tree without a default View"<br />
-    <sub>[#142344](https://github.com/flutter/flutter/pull/142344) merged on January 26, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/142344) over 1 hour, 367 additions and 209 deletions in 13 files</sub><br />
+    <sub>[#142344](https://github.com/flutter/flutter/pull/142344) merged on January 26, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/142344) over 1 hour, 367 additions and 209 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Revert "[web] - Fix broken `TextField` in semantics mode when it's a sibling of `Navigator`"<br />
