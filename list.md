@@ -877,7 +877,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-43 commits.
+44 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix Android `scenario_app` to actually run and block on CI
     <sub>[#50414](https://github.com/flutter/engine/pull/50414) merged on February 7, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/50414) over 23 hours, 49 additions and 10 deletions in 4 files</sub>
@@ -922,6 +922,10 @@
     <sub>[#50356](https://github.com/flutter/engine/pull/50356) merged on February 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/50356) over 55 minutes, 588 additions and 559 deletions in 4 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Delete the archivist framework.
+    <sub>[#50474](https://github.com/flutter/engine/pull/50474) merged on February 8, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/50474) over 37 minutes, 0 additions and 1923 deletions in 25 files</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Report display sizes in physical pixels on MacOS
     <sub>[#50221](https://github.com/flutter/engine/pull/50221) merged on February 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50221) over 6 days, 58 additions and 4 deletions in 3 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
@@ -942,13 +946,13 @@
     <sub>[#50455](https://github.com/flutter/engine/pull/50455) merged on February 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/50455) over 17 hours, 96 additions and 14 deletions in 4 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Hassan Toor](https://github.com/htoor3)** &mdash; [web] - Fix `inputmode` on Android Firefox
-    <sub>[#46901](https://github.com/flutter/engine/pull/46901) merged on February 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/46901) over 3 months, 42 additions and 7 deletions in 2 files</sub>
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
-
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Run tests with multiple packages
     <sub>[#50219](https://github.com/flutter/engine/pull/50219) merged on February 7, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/50219) over 6 days, 39 additions and 18 deletions in 2 files</sub>
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub>
+
+* **[Hassan Toor](https://github.com/htoor3)** &mdash; [web] - Fix `inputmode` on Android Firefox
+    <sub>[#46901](https://github.com/flutter/engine/pull/46901) merged on February 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/46901) over 3 months, 42 additions and 7 deletions in 2 files</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Sever the //flutter/vulkan dependency in Flutter tester.
     <sub>[#50454](https://github.com/flutter/engine/pull/50454) merged on February 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50454) over 21 hours, 1 addition and 10 deletions in 1 file</sub>
@@ -982,25 +986,25 @@
     <sub>[#50401](https://github.com/flutter/engine/pull/50401) merged on February 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50401) over 1 hour, 6 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Specify if Angle or SwiftShader is being used in the title.
-    <sub>[#50376](https://github.com/flutter/engine/pull/50376) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50376) over 17 hours, 19 additions and 7 deletions in 1 file</sub>
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Capture `FAILURES!!!` when running Android `scenario_app` tests.
+    <sub>[#50255](https://github.com/flutter/engine/pull/50255) merged on February 6, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/50255) over 4 days, 99 additions and 18 deletions in 7 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated CONTRIBUTING.md to have a testing section
     <sub>[#50469](https://github.com/flutter/engine/pull/50469) merged on February 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50469) over 2 hours, 64 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not skip the GLES render pass if the command list is empty
-    <sub>[#50381](https://github.com/flutter/engine/pull/50381) merged on February 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50381) over 1 hour, 0 additions and 7 deletions in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Run all Android `scenario_app` tests, not just the smoke test.
     <sub>[#50400](https://github.com/flutter/engine/pull/50400) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50400) over 27 minutes, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Capture `FAILURES!!!` when running Android `scenario_app` tests.
-    <sub>[#50255](https://github.com/flutter/engine/pull/50255) merged on February 6, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/50255) over 4 days, 99 additions and 18 deletions in 7 files</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gaaclarke](https://github.com/gaaclarke)</sub>
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Specify if Angle or SwiftShader is being used in the title.
+    <sub>[#50376](https://github.com/flutter/engine/pull/50376) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50376) over 17 hours, 19 additions and 7 deletions in 1 file</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not skip the GLES render pass if the command list is empty
+    <sub>[#50381](https://github.com/flutter/engine/pull/50381) merged on February 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50381) over 1 hour, 0 additions and 7 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `visiblePassword` uses ASCII keyboard on iOS
     <sub>[#50293](https://github.com/flutter/engine/pull/50293) merged on February 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50293) over 3 days, 17 additions and 0 deletions in 2 files</sub>
