@@ -183,7 +183,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Pass along web renderer into debugging options in the test command.<br />
-    <sub>[#143128](https://github.com/flutter/flutter/pull/143128) merged on February 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143128) over 2 hours, 25 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#143128](https://github.com/flutter/flutter/pull/143128) merged on February 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143128) over 2 hours, 25 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Move Mac_build_test flutter_gallery__transition_perf_e2e_ios to staging<br />
@@ -837,16 +837,16 @@
 
 ### February 3, 2024 to February 9, 2024
 
-33 commits.
+34 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Cache RenderPass/Framebuffer objects on the resolve texture sources.<br />
+    <sub>[#50142](https://github.com/flutter/engine/pull/50142) merged on February 6, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/50142) over 1 week, 137 additions and 6 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix Android `scenario_app` to actually run and block on CI<br />
     <sub>[#50414](https://github.com/flutter/engine/pull/50414) merged on February 7, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/50414) over 23 hours, 49 additions and 10 deletions in 4 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
     <sub><details><summary>4 images...</summary>![ExternalTextureTests_testCanvasSurface](https://github.com/flutter/engine/assets/168174/1509ea21-2887-4a3b-b200-b857bbfb8304)![ExternalTextureTests_testCanvasSurface](https://github.com/flutter/engine/assets/168174/d9ae19c8-dd39-4e7f-859c-5d82bd1ba0a3)![ExternalTextureTests_testRotatedMediaSurface_180](https://github.com/flutter/engine/assets/168174/fee5bc8d-749f-4a59-976a-a573515fecea)![ExternalTextureTests_testRotatedMediaSurface_180](https://github.com/flutter/engine/assets/168174/a5249f70-22b4-4d36-8b63-e88c8a6846fe)</details></sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Cache RenderPass/Framebuffer objects on the resolve texture sources.<br />
-    <sub>[#50142](https://github.com/flutter/engine/pull/50142) merged on February 6, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/50142) over 1 week, 137 additions and 6 deletions in 9 files</sub><br />
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix iOS password autofill prompt dismissal causes layout to resize<br />
     <sub>[#50364](https://github.com/flutter/engine/pull/50364) merged on February 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50364) over 1 hour, 63 additions and 0 deletions in 2 files</sub><br />
@@ -873,6 +873,10 @@
     <sub>[#50361](https://github.com/flutter/engine/pull/50361) merged on February 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50361) over 1 hour, 42 additions and 19 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] moved blur aiks tests to their own file<br />
+    <sub>[#50356](https://github.com/flutter/engine/pull/50356) merged on February 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/50356) over 55 minutes, 588 additions and 559 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Report display sizes in physical pixels on MacOS<br />
     <sub>[#50221](https://github.com/flutter/engine/pull/50221) merged on February 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50221) over 6 days, 58 additions and 4 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
@@ -885,10 +889,6 @@
     <sub>[#48254](https://github.com/flutter/engine/pull/48254) merged on February 7, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/48254) over 2 months, 6 additions and 5 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Dan Field](https://github.com/dnfield)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] moved blur aiks tests to their own file<br />
-    <sub>[#50356](https://github.com/flutter/engine/pull/50356) merged on February 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/50356) over 55 minutes, 588 additions and 559 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Always pop clips on restore.<br />
     <sub>[#50419](https://github.com/flutter/engine/pull/50419) merged on February 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50419) over 6 hours, 20 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -896,6 +896,10 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Run tests with multiple packages<br />
     <sub>[#50219](https://github.com/flutter/engine/pull/50219) merged on February 7, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/50219) over 6 days, 39 additions and 18 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub><br />
+
+* **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; [ios] Fix memory leak in ChildClippingView<br />
+    <sub>[#50389](https://github.com/flutter/engine/pull/50389) merged on February 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50389) over 1 day, 17 additions and 2 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Log non-default graphics backend usages, use IMPORTANT rather than ERROR<br />
     <sub>[#50448](https://github.com/flutter/engine/pull/50448) merged on February 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50448) over 1 hour, 61 additions and 31 deletions in 9 files</sub><br />
