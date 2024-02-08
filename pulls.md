@@ -81,5 +81,5 @@
     <sub>[#143176](https://github.com/flutter/flutter/pull/143176) opened on on February 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143176) 46 additions and 34 deletions in 3 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Layout animated GIFs only once<br />
-    <sub>[#143188](https://github.com/flutter/flutter/pull/143188) opened on on February 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143188) 55 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#143188](https://github.com/flutter/flutter/pull/143188) opened on on February 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143188) 57 additions and 1 deletion in 2 files</sub><br />
 
