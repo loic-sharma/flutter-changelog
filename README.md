@@ -971,8 +971,8 @@
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated CONTRIBUTING.md to have a testing section<br />
-    <sub>[#50469](https://github.com/flutter/engine/pull/50469) merged on February 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50469) over 2 hours, 64 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>[#50469](https://github.com/flutter/engine/pull/50469) merged on February 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50469) over 2 hours, 64 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Fix Core Foundation object leaks.<br />
     <sub>[#50460](https://github.com/flutter/engine/pull/50460) merged on February 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50460) over 17 hours, 12 additions and 11 deletions in 1 file</sub><br />
