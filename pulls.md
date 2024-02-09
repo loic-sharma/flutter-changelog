@@ -69,7 +69,7 @@
     <sub>[#143137](https://github.com/flutter/flutter/pull/143137) opened on on February 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143137) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set plugin template minimum iOS version to 12.0<br />
-    <sub>[#143167](https://github.com/flutter/flutter/pull/143167) opened on on February 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143167) 8 additions and 8 deletions in 6 files</sub><br />
+    <sub>[#143167](https://github.com/flutter/flutter/pull/143167) opened on on February 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143167) 8 additions and 8 deletions in 6 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Rename isAvailableForEnvironment to isRecommendedForEnvironment<br />
     <sub>[#143176](https://github.com/flutter/flutter/pull/143176) opened on on February 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143176) 46 additions and 34 deletions in 3 files</sub><br />
