@@ -897,7 +897,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-53 commits.
+54 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] improve performance of polyline and stroke generation by reducing allocation and lambda usage.<br />
     <sub>[#50379](https://github.com/flutter/engine/pull/50379) merged on February 9, 2024 &mdash; **Large:** [87 comments](https://github.com/flutter/engine/pull/50379) over 3 days, 576 additions and 404 deletions in 8 files</sub><br />
@@ -994,6 +994,10 @@
     <sub>[#50219](https://github.com/flutter/engine/pull/50219) merged on February 7, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/50219) over 6 days, 39 additions and 18 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Call vkQueuePresentKHR through the ContextVK's synchronized graphics queue wrapper<br />
+    <sub>[#50509](https://github.com/flutter/engine/pull/50509) merged on February 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50509) over 1 hour, 8 additions and 28 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Remove the Vulkan queue submit thread and always present Vulkan images on the raster thread<br />
     <sub>[#50484](https://github.com/flutter/engine/pull/50484) merged on February 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50484) over 13 hours, 40 additions and 145 deletions in 14 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -1010,21 +1014,21 @@
     <sub>[#50469](https://github.com/flutter/engine/pull/50469) merged on February 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/50469) over 2 hours, 64 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Fix Core Foundation object leaks.<br />
-    <sub>[#50460](https://github.com/flutter/engine/pull/50460) merged on February 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50460) over 17 hours, 12 additions and 11 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed CONTRIBUTING.md markdown lints<br />
     <sub>[#50439](https://github.com/flutter/engine/pull/50439) merged on February 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50439) over 54 minutes, 8 additions and 11 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Fix Core Foundation object leaks.<br />
+    <sub>[#50460](https://github.com/flutter/engine/pull/50460) merged on February 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50460) over 17 hours, 12 additions and 11 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove extra buffer usage in compute.<br />
     <sub>[#50415](https://github.com/flutter/engine/pull/50415) merged on February 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50415) over 1 day, 14 additions and 22 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
-* **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; [ios] Fix memory leak in ChildClippingView<br />
-    <sub>[#50389](https://github.com/flutter/engine/pull/50389) merged on February 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/50389) over 1 day, 17 additions and 2 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Initialize the stencil reference value.<br />
+    <sub>[#50373](https://github.com/flutter/engine/pull/50373) merged on February 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50373) over 1 day, 6 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Specify if Angle or SwiftShader is being used in the title.<br />
     <sub>[#50376](https://github.com/flutter/engine/pull/50376) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50376) over 17 hours, 19 additions and 7 deletions in 1 file</sub><br />
@@ -1033,10 +1037,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Run all Android `scenario_app` tests, not just the smoke test.<br />
     <sub>[#50400](https://github.com/flutter/engine/pull/50400) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50400) over 27 minutes, 0 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Capture `FAILURES!!!` when running Android `scenario_app` tests.<br />
-    <sub>[#50255](https://github.com/flutter/engine/pull/50255) merged on February 6, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/50255) over 4 days, 99 additions and 18 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not skip the GLES render pass if the command list is empty<br />
     <sub>[#50381](https://github.com/flutter/engine/pull/50381) merged on February 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50381) over 1 hour, 0 additions and 7 deletions in 1 file</sub><br />
@@ -1050,9 +1050,13 @@
     <sub>[#50448](https://github.com/flutter/engine/pull/50448) merged on February 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50448) over 1 hour, 61 additions and 31 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [John McCutchan](https://github.com/johnmccutchan), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Initialize the stencil reference value.<br />
-    <sub>[#50373](https://github.com/flutter/engine/pull/50373) merged on February 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50373) over 1 day, 6 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Capture `FAILURES!!!` when running Android `scenario_app` tests.<br />
+    <sub>[#50255](https://github.com/flutter/engine/pull/50255) merged on February 6, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/50255) over 4 days, 99 additions and 18 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; [ios] Fix memory leak in ChildClippingView<br />
+    <sub>[#50389](https://github.com/flutter/engine/pull/50389) merged on February 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/50389) over 1 day, 17 additions and 2 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `visiblePassword` uses ASCII keyboard on iOS<br />
     <sub>[#50293](https://github.com/flutter/engine/pull/50293) merged on February 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50293) over 3 days, 17 additions and 0 deletions in 2 files</sub><br />

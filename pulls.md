@@ -77,3 +77,6 @@
 * **[Nitesh Sharma](https://github.com/niteshsh4rma)** &mdash; Fix dual focus issue in CheckboxListTile, RadioListTile and SwitchListTile<br />
     <sub>[#143213](https://github.com/flutter/flutter/pull/143213) opened on on February 9, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143213) 251 additions and 108 deletions in 6 files</sub><br />
 
+* **[Tirth](https://github.com/piedcipher)** &mdash; Pass-Through `inputFormatters` in `DropDownMenu`<br />
+    <sub>[#143250](https://github.com/flutter/flutter/pull/143250) opened on on February 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143250) 53 additions and 0 deletions in 2 files</sub><br />
+
