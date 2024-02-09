@@ -979,7 +979,7 @@
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated CONTRIBUTING.md to have a testing section
-    <sub>[#50469](https://github.com/flutter/engine/pull/50469) merged on February 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50469) over 2 hours, 64 additions and 0 deletions in 1 file</sub>
+    <sub>[#50469](https://github.com/flutter/engine/pull/50469) merged on February 8, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50469) over 2 hours, 64 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Fix Core Foundation object leaks.
