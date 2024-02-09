@@ -80,6 +80,3 @@
 * **[Nitesh Sharma](https://github.com/niteshsh4rma)** &mdash; Fix dual focus issue in CheckboxListTile, RadioListTile and SwitchListTile<br />
     <sub>[#143213](https://github.com/flutter/flutter/pull/143213) opened on on February 9, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143213) 251 additions and 108 deletions in 6 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix cursor  overlapping label on iOS and macOS<br />
-    <sub>[#143216](https://github.com/flutter/flutter/pull/143216) opened on on February 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143216) 82 additions and 106 deletions in 2 files</sub><br />
-
