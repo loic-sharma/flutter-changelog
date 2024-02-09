@@ -1752,7 +1752,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-13 commits.
+14 commits.
 
 * **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter] Add interface for showing javascript dialog message<br />
     <sub>[#4704](https://github.com/flutter/packages/pull/4704) merged on February 9, 2024 &mdash; **Small:** [75 comments](https://github.com/flutter/packages/pull/4704) over 5 months, 106 additions and 16 deletions in 7 files</sub><br />
@@ -1777,6 +1777,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Minor test cleanup<br />
     <sub>[#6031](https://github.com/flutter/packages/pull/6031) merged on February 9, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/6031) over 1 week, 2 additions and 644 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[OutdatedGuy](https://github.com/OutdatedGuy)** &mdash; [local_auth]: Renamed `local_auth_ios` to `local_auth_darwin`<br />
+    <sub>[#5809](https://github.com/flutter/packages/pull/5809) merged on February 9, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/packages/pull/5809) over 1 month, 95 additions and 190 deletions in 59 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Wrap Android classes/methods required to set the exposure mode<br />
     <sub>[#5966](https://github.com/flutter/packages/pull/5966) merged on February 5, 2024 &mdash; **Extra large:** [16 comments](https://github.com/flutter/packages/pull/5966) over 1 week, 1668 additions and 150 deletions in 27 files</sub><br />
