@@ -75,5 +75,5 @@
     <sub>[#143176](https://github.com/flutter/flutter/pull/143176) opened on on February 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143176) 46 additions and 34 deletions in 3 files</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; PinnedHeaderSliver<br />
-    <sub>[#143196](https://github.com/flutter/flutter/pull/143196) opened on on February 9, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143196) 326 additions and 0 deletions in 5 files</sub><br />
+    <sub>[#143196](https://github.com/flutter/flutter/pull/143196) opened on on February 9, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143196) 410 additions and 0 deletions in 5 files</sub><br />
 
