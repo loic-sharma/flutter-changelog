@@ -1091,6 +1091,10 @@
     <sub>[#50139](https://github.com/flutter/engine/pull/50139) merged on January 30, 2024 &mdash; **Large:** [37 comments](https://github.com/flutter/engine/pull/50139) over 15 hours, 602 additions and 305 deletions in 54 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
+* **[Bart Cone](https://github.com/bartcone)** &mdash; [Android] Fix TextInputType.none for devices with physical keyboard
+    <sub>[#49980](https://github.com/flutter/engine/pull/49980) merged on February 2, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/49980) over 1 week, 19 additions and 17 deletions in 2 files</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Revert: "Change how OpenGL textures are flipped in the Android embedder"
     <sub>[#50158](https://github.com/flutter/engine/pull/50158) merged on January 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50158) over 1 hour, 8 additions and 18 deletions in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
@@ -1107,10 +1111,6 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Assign incremental clip depth to all entities.
     <sub>[#49828](https://github.com/flutter/engine/pull/49828) merged on February 1, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/49828) over 2 weeks, 307 additions and 124 deletions in 37 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Bart Cone](https://github.com/bartcone)** &mdash; [Android] Fix TextInputType.none for devices with physical keyboard
-    <sub>[#49980](https://github.com/flutter/engine/pull/49980) merged on February 2, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/49980) over 1 week, 19 additions and 17 deletions in 2 files</sub>
-    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implemented golden image tests for opengles
     <sub>[#50146](https://github.com/flutter/engine/pull/50146) merged on January 31, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/50146) over 2 days, 149 additions and 76 deletions in 10 files</sub>
