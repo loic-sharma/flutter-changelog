@@ -1724,7 +1724,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-10 commits.
+11 commits.
 
 * **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter] Add interface for showing javascript dialog message
     <sub>[#4704](https://github.com/flutter/packages/pull/4704) merged on February 9, 2024 &mdash; **Small:** [75 comments](https://github.com/flutter/packages/pull/4704) over 5 months, 106 additions and 16 deletions in 7 files</sub>
@@ -1737,6 +1737,10 @@
 * **[td](https://github.com/techno-disaster)** &mdash; [local_auth] fix: isDeviceSupported on ios
     <sub>[#5125](https://github.com/flutter/packages/pull/5125) merged on February 7, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/5125) over 3 months, 27 additions and 10 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Minor test cleanup
+    <sub>[#6031](https://github.com/flutter/packages/pull/6031) merged on February 9, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/6031) over 1 week, 2 additions and 644 deletions in 10 files</sub>
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Wrap Android classes/methods required to set the exposure mode
     <sub>[#5966](https://github.com/flutter/packages/pull/5966) merged on February 5, 2024 &mdash; **Extra large:** [16 comments](https://github.com/flutter/packages/pull/5966) over 1 week, 1668 additions and 150 deletions in 27 files</sub>
