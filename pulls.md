@@ -66,5 +66,5 @@
     <sub>[#143196](https://github.com/flutter/flutter/pull/143196) opened on on February 9, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143196) 410 additions and 0 deletions in 5 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Pass-Through `inputFormatters` in `DropdownMenu`<br />
-    <sub>[#143250](https://github.com/flutter/flutter/pull/143250) opened on on February 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143250) 53 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#143250](https://github.com/flutter/flutter/pull/143250) opened on on February 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143250) 53 additions and 0 deletions in 2 files</sub><br />
 
