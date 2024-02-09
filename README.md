@@ -896,7 +896,7 @@
 51 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] improve performance of polyline and stroke generation by reducing allocation and lambda usage.<br />
-    <sub>[#50379](https://github.com/flutter/engine/pull/50379) merged on February 9, 2024 &mdash; **Large:** [83 comments](https://github.com/flutter/engine/pull/50379) over 3 days, 576 additions and 404 deletions in 8 files</sub><br />
+    <sub>[#50379](https://github.com/flutter/engine/pull/50379) merged on February 9, 2024 &mdash; **Large:** [84 comments](https://github.com/flutter/engine/pull/50379) over 3 days, 576 additions and 404 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jim Graham](https://github.com/flar), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Cache RenderPass/Framebuffer objects on the resolve texture sources.<br />
