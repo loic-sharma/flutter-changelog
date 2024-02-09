@@ -1716,7 +1716,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-7 commits.
+8 commits.
 
 * **[Luong The Vinh](https://github.com/TheVinhLuong)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Adds support for `setOnScrollPositionChange` for webview_flutter platform implementations<br />
     <sub>[#5664](https://github.com/flutter/packages/pull/5664) merged on February 7, 2024 &mdash; **Extra large:** [24 comments](https://github.com/flutter/packages/pull/5664) over 1 month, 2038 additions and 784 deletions in 49 files</sub><br />
@@ -1729,6 +1729,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Wrap Android classes/methods required to set the exposure mode<br />
     <sub>[#5966](https://github.com/flutter/packages/pull/5966) merged on February 5, 2024 &mdash; **Extra large:** [16 comments](https://github.com/flutter/packages/pull/5966) over 1 week, 1668 additions and 150 deletions in 27 files</sub><br />
     <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Small fixes to starting/stopping video capture<br />
+    <sub>[#6068](https://github.com/flutter/packages/pull/6068) merged on February 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6068) over 2 days, 107 additions and 44 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[GiftShower_](https://github.com/GiftShower)** &mdash; Add transitionDuration parameter<br />
     <sub>[#5854](https://github.com/flutter/packages/pull/5854) merged on February 7, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/5854) over 4 weeks, 77 additions and 9 deletions in 9 files</sub><br />
