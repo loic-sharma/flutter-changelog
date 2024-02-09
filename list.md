@@ -1732,11 +1732,15 @@
 
 ### February 3, 2024 to February 9, 2024
 
-11 commits.
+12 commits.
 
 * **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter] Add interface for showing javascript dialog message
     <sub>[#4704](https://github.com/flutter/packages/pull/4704) merged on February 9, 2024 &mdash; **Small:** [75 comments](https://github.com/flutter/packages/pull/4704) over 5 months, 106 additions and 16 deletions in 7 files</sub>
     <sub>Reviewed by: [René Kilczan](https://github.com/rekire), [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[David Chopin](https://github.com/ChopinDavid)** &mdash; [go_router] Expose full `Uri` on `GoRouterState` in `GoRouterRedirect`
+    <sub>[#5742](https://github.com/flutter/packages/pull/5742) merged on February 9, 2024 &mdash; **Small:** [44 comments](https://github.com/flutter/packages/pull/5742) over 1 month, 231 additions and 68 deletions in 8 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin), [John Ryan](https://github.com/johnpryan)</sub>
 
 * **[Luong The Vinh](https://github.com/TheVinhLuong)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Adds support for `setOnScrollPositionChange` for webview_flutter platform implementations
     <sub>[#5664](https://github.com/flutter/packages/pull/5664) merged on February 7, 2024 &mdash; **Extra large:** [24 comments](https://github.com/flutter/packages/pull/5664) over 1 month, 2038 additions and 784 deletions in 49 files</sub>
