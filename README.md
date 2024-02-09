@@ -893,16 +893,20 @@
 
 ### February 3, 2024 to February 9, 2024
 
-50 commits.
+51 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] improve performance of polyline and stroke generation by reducing allocation and lambda usage.<br />
+    <sub>[#50379](https://github.com/flutter/engine/pull/50379) merged on February 9, 2024 &mdash; **Large:** [83 comments](https://github.com/flutter/engine/pull/50379) over 3 days, 576 additions and 404 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jim Graham](https://github.com/flar), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Cache RenderPass/Framebuffer objects on the resolve texture sources.<br />
+    <sub>[#50142](https://github.com/flutter/engine/pull/50142) merged on February 6, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/engine/pull/50142) over 1 week, 137 additions and 6 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix Android `scenario_app` to actually run and block on CI<br />
     <sub>[#50414](https://github.com/flutter/engine/pull/50414) merged on February 7, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/50414) over 23 hours, 49 additions and 10 deletions in 4 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
     <sub><details><summary>4 images...</summary>![ExternalTextureTests_testCanvasSurface](https://github.com/flutter/engine/assets/168174/1509ea21-2887-4a3b-b200-b857bbfb8304)![ExternalTextureTests_testCanvasSurface](https://github.com/flutter/engine/assets/168174/d9ae19c8-dd39-4e7f-859c-5d82bd1ba0a3)![ExternalTextureTests_testRotatedMediaSurface_180](https://github.com/flutter/engine/assets/168174/fee5bc8d-749f-4a59-976a-a573515fecea)![ExternalTextureTests_testRotatedMediaSurface_180](https://github.com/flutter/engine/assets/168174/a5249f70-22b4-4d36-8b63-e88c8a6846fe)</details></sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Cache RenderPass/Framebuffer objects on the resolve texture sources.<br />
-    <sub>[#50142](https://github.com/flutter/engine/pull/50142) merged on February 6, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/engine/pull/50142) over 1 week, 137 additions and 6 deletions in 9 files</sub><br />
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix iOS password autofill prompt dismissal causes layout to resize<br />
     <sub>[#50364](https://github.com/flutter/engine/pull/50364) merged on February 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50364) over 1 hour, 63 additions and 0 deletions in 2 files</sub><br />
@@ -982,6 +986,10 @@
     <sub>[#50484](https://github.com/flutter/engine/pull/50484) merged on February 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50484) over 13 hours, 40 additions and 145 deletions in 14 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Sever the //flutter/vulkan dependency in Flutter in the Android embedder.<br />
+    <sub>[#50472](https://github.com/flutter/engine/pull/50472) merged on February 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50472) over 3 hours, 21 additions and 11 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Dan Field](https://github.com/dnfield)</sub><br />
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Sever the //flutter/vulkan dependency in Flutter tester.<br />
     <sub>[#50454](https://github.com/flutter/engine/pull/50454) merged on February 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50454) over 21 hours, 1 addition and 10 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
@@ -1002,29 +1010,13 @@
     <sub>[#50389](https://github.com/flutter/engine/pull/50389) merged on February 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/50389) over 1 day, 17 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
-* **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Log non-default graphics backend usages, use IMPORTANT rather than ERROR<br />
-    <sub>[#50448](https://github.com/flutter/engine/pull/50448) merged on February 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50448) over 1 hour, 61 additions and 31 deletions in 9 files</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [John McCutchan](https://github.com/johnmccutchan), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Skip flaking test on Windows nobody is fixing.<br />
-    <sub>[#50401](https://github.com/flutter/engine/pull/50401) merged on February 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50401) over 1 hour, 6 additions and 4 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed CONTRIBUTING.md markdown lints<br />
     <sub>[#50439](https://github.com/flutter/engine/pull/50439) merged on February 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50439) over 54 minutes, 8 additions and 11 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Run all Android `scenario_app` tests, not just the smoke test.<br />
-    <sub>[#50400](https://github.com/flutter/engine/pull/50400) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50400) over 27 minutes, 0 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Initialize the stencil reference value.<br />
-    <sub>[#50373](https://github.com/flutter/engine/pull/50373) merged on February 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50373) over 1 day, 6 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Sever the //flutter/vulkan dependency in Flutter in the Android embedder.<br />
-    <sub>[#50472](https://github.com/flutter/engine/pull/50472) merged on February 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50472) over 3 hours, 21 additions and 11 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Dan Field](https://github.com/dnfield)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Skip flaking test on Windows nobody is fixing.<br />
+    <sub>[#50401](https://github.com/flutter/engine/pull/50401) merged on February 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50401) over 1 hour, 6 additions and 4 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Specify if Angle or SwiftShader is being used in the title.<br />
     <sub>[#50376](https://github.com/flutter/engine/pull/50376) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50376) over 17 hours, 19 additions and 7 deletions in 1 file</sub><br />
@@ -1034,9 +1026,21 @@
     <sub>[#50255](https://github.com/flutter/engine/pull/50255) merged on February 6, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/50255) over 4 days, 99 additions and 18 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Run all Android `scenario_app` tests, not just the smoke test.<br />
+    <sub>[#50400](https://github.com/flutter/engine/pull/50400) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50400) over 27 minutes, 0 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not skip the GLES render pass if the command list is empty<br />
     <sub>[#50381](https://github.com/flutter/engine/pull/50381) merged on February 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50381) over 1 hour, 0 additions and 7 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Initialize the stencil reference value.<br />
+    <sub>[#50373](https://github.com/flutter/engine/pull/50373) merged on February 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50373) over 1 day, 6 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Log non-default graphics backend usages, use IMPORTANT rather than ERROR<br />
+    <sub>[#50448](https://github.com/flutter/engine/pull/50448) merged on February 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50448) over 1 hour, 61 additions and 31 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [John McCutchan](https://github.com/johnmccutchan), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `visiblePassword` uses ASCII keyboard on iOS<br />
     <sub>[#50293](https://github.com/flutter/engine/pull/50293) merged on February 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50293) over 3 days, 17 additions and 0 deletions in 2 files</sub><br />

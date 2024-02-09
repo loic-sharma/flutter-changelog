@@ -47,9 +47,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [WIP] Updating toolbarHeight for M3 fidelity<br />
     <sub>[#142671](https://github.com/flutter/flutter/pull/142671) opened on on February 1, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/142671) 330 additions and 292 deletions in 37 files</sub><br />
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `lib/src/material/`<br />
-    <sub>[#142793](https://github.com/flutter/flutter/pull/142793) opened on on February 2, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/142793) 184 additions and 339 deletions in 18 files</sub><br />
-
 * **[René Kilczan](https://github.com/rekire)** &mdash; Detect WSL and run flutter in cmd<br />
     <sub>[#142803](https://github.com/flutter/flutter/pull/142803) opened on on February 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/142803) 4 additions and 0 deletions in 1 file</sub><br />
 
@@ -63,7 +60,7 @@
     <sub>[#143079](https://github.com/flutter/flutter/pull/143079) opened on on February 7, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143079) 307 additions and 18 deletions in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update dependencies in integration test<br />
-    <sub>[#143111](https://github.com/flutter/flutter/pull/143111) opened on on February 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143111) 39 additions and 39 deletions in 3 files</sub><br />
+    <sub>[#143111](https://github.com/flutter/flutter/pull/143111) opened on on February 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143111) 39 additions and 39 deletions in 3 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Fix date picker cannot focus on the edit field<br />
     <sub>[#143117](https://github.com/flutter/flutter/pull/143117) opened on on February 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143117) 100 additions and 63 deletions in 4 files</sub><br />
