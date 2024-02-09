@@ -50,12 +50,6 @@
 * **[René Kilczan](https://github.com/rekire)** &mdash; Detect WSL and run flutter in cmd<br />
     <sub>[#142803](https://github.com/flutter/flutter/pull/142803) opened on on February 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/142803) 4 additions and 0 deletions in 1 file</sub><br />
 
-* **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Fix initialization of time in repeat on AnimationController<br />
-    <sub>[#142887](https://github.com/flutter/flutter/pull/142887) opened on on February 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142887) 22 additions and 1 deletion in 2 files</sub><br />
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix `initialT` computation of `_RepeatingSimulation` <br />
-    <sub>[#143072](https://github.com/flutter/flutter/pull/143072) opened on on February 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143072) 29 additions and 1 deletion in 2 files</sub><br />
-
 * **[Varun Kamani](https://github.com/varunkamanibosc)** &mdash; Add selectionOverlayBuilder in CupertinoDatePicker and CupertinoTimer…<br />
     <sub>[#143079](https://github.com/flutter/flutter/pull/143079) opened on on February 7, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143079) 307 additions and 18 deletions in 2 files</sub><br />
 
@@ -65,18 +59,12 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Fix date picker cannot focus on the edit field<br />
     <sub>[#143117](https://github.com/flutter/flutter/pull/143117) opened on on February 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143117) 100 additions and 63 deletions in 4 files</sub><br />
 
-* **[Mohammad Seeam](https://github.com/mseeam99)** &mdash; Modified the condition for activating InkSparkle to include CanvasKit support<br />
-    <sub>[#143137](https://github.com/flutter/flutter/pull/143137) opened on on February 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143137) 3 additions and 1 deletion in 1 file</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Rename isAvailableForEnvironment to isRecommendedForEnvironment<br />
     <sub>[#143176](https://github.com/flutter/flutter/pull/143176) opened on on February 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143176) 46 additions and 34 deletions in 3 files</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; PinnedHeaderSliver<br />
     <sub>[#143196](https://github.com/flutter/flutter/pull/143196) opened on on February 9, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143196) 410 additions and 0 deletions in 5 files</sub><br />
 
-* **[Nitesh Sharma](https://github.com/niteshsh4rma)** &mdash; Fix dual focus issue in CheckboxListTile, RadioListTile and SwitchListTile<br />
-    <sub>[#143213](https://github.com/flutter/flutter/pull/143213) opened on on February 9, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143213) 251 additions and 108 deletions in 6 files</sub><br />
-
-* **[Tirth](https://github.com/piedcipher)** &mdash; Pass-Through `inputFormatters` in `DropDownMenu`<br />
+* **[Tirth](https://github.com/piedcipher)** &mdash; Pass-Through `inputFormatters` in `DropdownMenu`<br />
     <sub>[#143250](https://github.com/flutter/flutter/pull/143250) opened on on February 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143250) 53 additions and 0 deletions in 2 files</sub><br />
 
