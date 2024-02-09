@@ -1716,7 +1716,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-8 commits.
+9 commits.
 
 * **[Luong The Vinh](https://github.com/TheVinhLuong)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Adds support for `setOnScrollPositionChange` for webview_flutter platform implementations
     <sub>[#5664](https://github.com/flutter/packages/pull/5664) merged on February 7, 2024 &mdash; **Extra large:** [24 comments](https://github.com/flutter/packages/pull/5664) over 1 month, 2038 additions and 784 deletions in 49 files</sub>
@@ -1729,6 +1729,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Wrap Android classes/methods required to set the exposure mode
     <sub>[#5966](https://github.com/flutter/packages/pull/5966) merged on February 5, 2024 &mdash; **Extra large:** [16 comments](https://github.com/flutter/packages/pull/5966) over 1 week, 1668 additions and 150 deletions in 27 files</sub>
     <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Erdzan Rastoder](https://github.com/erdzan12)** &mdash; [pigeon] Implement Screaming Snake Case Conversion for Kotlin Enum Cases
+    <sub>[#5918](https://github.com/flutter/packages/pull/5918) merged on February 9, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/5918) over 3 weeks, 112 additions and 18 deletions in 18 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Small fixes to starting/stopping video capture
     <sub>[#6068](https://github.com/flutter/packages/pull/6068) merged on February 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6068) over 2 days, 107 additions and 44 deletions in 4 files</sub>
