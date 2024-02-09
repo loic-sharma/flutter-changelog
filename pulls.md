@@ -62,6 +62,9 @@
 * **[Varun Kamani](https://github.com/varunkamanibosc)** &mdash; Add selectionOverlayBuilder in CupertinoDatePicker and CupertinoTimer…<br />
     <sub>[#143079](https://github.com/flutter/flutter/pull/143079) opened on on February 7, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143079) 307 additions and 18 deletions in 2 files</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update dependencies in integration test<br />
+    <sub>[#143111](https://github.com/flutter/flutter/pull/143111) opened on on February 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143111) 39 additions and 39 deletions in 3 files</sub><br />
+
 * **[hangyu](https://github.com/hangyujin)** &mdash; Fix date picker cannot focus on the edit field<br />
     <sub>[#143117](https://github.com/flutter/flutter/pull/143117) opened on on February 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143117) 100 additions and 63 deletions in 4 files</sub><br />
 
