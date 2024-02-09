@@ -885,7 +885,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-47 commits.
+48 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix Android `scenario_app` to actually run and block on CI<br />
     <sub>[#50414](https://github.com/flutter/engine/pull/50414) merged on February 7, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/50414) over 23 hours, 49 additions and 10 deletions in 4 files</sub><br />
@@ -966,13 +966,9 @@
     <sub>[#50219](https://github.com/flutter/engine/pull/50219) merged on February 7, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/50219) over 6 days, 39 additions and 18 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub><br />
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Sever the //flutter/vulkan dependency in Flutter in the Android embedder.<br />
-    <sub>[#50472](https://github.com/flutter/engine/pull/50472) merged on February 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50472) over 3 hours, 21 additions and 11 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Dan Field](https://github.com/dnfield)</sub><br />
-
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Sever the //flutter/vulkan dependency in Flutter tester.<br />
-    <sub>[#50454](https://github.com/flutter/engine/pull/50454) merged on February 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50454) over 21 hours, 1 addition and 10 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Remove the Vulkan queue submit thread and always present Vulkan images on the raster thread<br />
+    <sub>[#50484](https://github.com/flutter/engine/pull/50484) merged on February 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50484) over 13 hours, 40 additions and 145 deletions in 14 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated CONTRIBUTING.md to have a testing section<br />
     <sub>[#50469](https://github.com/flutter/engine/pull/50469) merged on February 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50469) over 2 hours, 64 additions and 0 deletions in 1 file</sub><br />
@@ -994,9 +990,9 @@
     <sub>[#50448](https://github.com/flutter/engine/pull/50448) merged on February 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50448) over 1 hour, 61 additions and 31 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [John McCutchan](https://github.com/johnmccutchan), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Initialize the stencil reference value.<br />
-    <sub>[#50373](https://github.com/flutter/engine/pull/50373) merged on February 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50373) over 1 day, 6 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Skip flaking test on Windows nobody is fixing.<br />
+    <sub>[#50401](https://github.com/flutter/engine/pull/50401) merged on February 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50401) over 1 hour, 6 additions and 4 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Specify if Angle or SwiftShader is being used in the title.<br />
     <sub>[#50376](https://github.com/flutter/engine/pull/50376) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50376) over 17 hours, 19 additions and 7 deletions in 1 file</sub><br />
@@ -1006,21 +1002,29 @@
     <sub>[#50400](https://github.com/flutter/engine/pull/50400) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50400) over 27 minutes, 0 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Capture `FAILURES!!!` when running Android `scenario_app` tests.<br />
-    <sub>[#50255](https://github.com/flutter/engine/pull/50255) merged on February 6, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/50255) over 4 days, 99 additions and 18 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed CONTRIBUTING.md markdown lints<br />
+    <sub>[#50439](https://github.com/flutter/engine/pull/50439) merged on February 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50439) over 54 minutes, 8 additions and 11 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not skip the GLES render pass if the command list is empty<br />
     <sub>[#50381](https://github.com/flutter/engine/pull/50381) merged on February 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50381) over 1 hour, 0 additions and 7 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Skip flaking test on Windows nobody is fixing.<br />
-    <sub>[#50401](https://github.com/flutter/engine/pull/50401) merged on February 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50401) over 1 hour, 6 additions and 4 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Sever the //flutter/vulkan dependency in Flutter tester.<br />
+    <sub>[#50454](https://github.com/flutter/engine/pull/50454) merged on February 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50454) over 21 hours, 1 addition and 10 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed CONTRIBUTING.md markdown lints<br />
-    <sub>[#50439](https://github.com/flutter/engine/pull/50439) merged on February 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50439) over 54 minutes, 8 additions and 11 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Capture `FAILURES!!!` when running Android `scenario_app` tests.<br />
+    <sub>[#50255](https://github.com/flutter/engine/pull/50255) merged on February 6, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/50255) over 4 days, 99 additions and 18 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Sever the //flutter/vulkan dependency in Flutter in the Android embedder.<br />
+    <sub>[#50472](https://github.com/flutter/engine/pull/50472) merged on February 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50472) over 3 hours, 21 additions and 11 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Dan Field](https://github.com/dnfield)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Initialize the stencil reference value.<br />
+    <sub>[#50373](https://github.com/flutter/engine/pull/50373) merged on February 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50373) over 1 day, 6 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `visiblePassword` uses ASCII keyboard on iOS<br />
     <sub>[#50293](https://github.com/flutter/engine/pull/50293) merged on February 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50293) over 3 days, 17 additions and 0 deletions in 2 files</sub><br />
