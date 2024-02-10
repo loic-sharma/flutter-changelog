@@ -68,3 +68,6 @@
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Remove unnecessary 'debugLabel: null'.<br />
     <sub>[#143253](https://github.com/flutter/flutter/pull/143253) opened on on February 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143253) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move Windows arm64 tests to bringup true<br />
+    <sub>[#143272](https://github.com/flutter/flutter/pull/143272) opened on on February 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143272) 14 additions and 0 deletions in 1 file</sub><br />
+
