@@ -34,6 +34,10 @@
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot_1696829290](https://github.com/flutter/flutter/assets/147121557/209fee88-9efc-4b92-803a-453ecc6a7c16)![Screenshot_1696830232](https://github.com/flutter/flutter/assets/147121557/ecd11266-4c22-49cc-9bb5-2df39d10cf79)</details></sub>
 
+* **[Kris Pypen](https://github.com/krispypen)** &mdash; Fix: performance improvement on golden test comparison
+    <sub>[#142913](https://github.com/flutter/flutter/pull/142913) merged on February 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/142913) over 4 days, 17 additions and 8 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[David Martos](https://github.com/davidmartos96)** &mdash; Material 3 - Tab indicator stretch animation
     <sub>[#141954](https://github.com/flutter/flutter/pull/141954) merged on February 6, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/141954) over 2 weeks, 133 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub>
@@ -42,10 +46,6 @@
     <sub>[#142981](https://github.com/flutter/flutter/pull/142981) merged on February 7, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/142981) over 23 hours, 402 additions and 441 deletions in 6 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/403225b7-4c91-4aee-b19c-0490447ae7e3) | ![image](https://github.com/flutter/flutter/assets/840911/e96cf786-a9f5-4e15-bcdd-078350ff1608)</details></sub>
-
-* **[Kris Pypen](https://github.com/krispypen)** &mdash; Fix: performance improvement on golden test comparison
-    <sub>[#142913](https://github.com/flutter/flutter/pull/142913) merged on February 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/142913) over 4 days, 17 additions and 8 deletions in 2 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Move native assets to `isolated/` directory
     <sub>[#142709](https://github.com/flutter/flutter/pull/142709) merged on February 6, 2024 &mdash; **Extra large:** [21 comments](https://github.com/flutter/flutter/pull/142709) over 5 days, 1368 additions and 1119 deletions in 38 files</sub>
