@@ -909,7 +909,7 @@
 
 ### February 3, 2024 to February 9, 2024
 
-58 commits.
+59 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] improve performance of polyline and stroke generation by reducing allocation and lambda usage.
     <sub>[#50379](https://github.com/flutter/engine/pull/50379) merged on February 9, 2024 &mdash; **Large:** [87 comments](https://github.com/flutter/engine/pull/50379) over 3 days, 576 additions and 404 deletions in 8 files</sub>
@@ -1010,6 +1010,10 @@
     <sub>[#46901](https://github.com/flutter/engine/pull/46901) merged on February 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/46901) over 3 months, 42 additions and 7 deletions in 2 files</sub>
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
+* **[Dan Field](https://github.com/dnfield)** &mdash; Clean up additional NDK helper related code
+    <sub>[#50518](https://github.com/flutter/engine/pull/50518) merged on February 10, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/50518) over 2 hours, 169 additions and 145 deletions in 10 files</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add --enable-impeller-vulkan-playgrounds to ./flutter/tools/gn
     <sub>[#50477](https://github.com/flutter/engine/pull/50477) merged on February 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50477) over 23 hours, 11 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
@@ -1034,25 +1038,25 @@
     <sub>[#50472](https://github.com/flutter/engine/pull/50472) merged on February 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50472) over 3 hours, 21 additions and 11 deletions in 2 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Dan Field](https://github.com/dnfield)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Sever the //flutter/vulkan dependency in Flutter tester.
-    <sub>[#50454](https://github.com/flutter/engine/pull/50454) merged on February 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50454) over 21 hours, 1 addition and 10 deletions in 1 file</sub>
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed CONTRIBUTING.md markdown lints
+    <sub>[#50439](https://github.com/flutter/engine/pull/50439) merged on February 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50439) over 54 minutes, 8 additions and 11 deletions in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; [ios] Fix memory leak in ChildClippingView
     <sub>[#50389](https://github.com/flutter/engine/pull/50389) merged on February 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/50389) over 1 day, 17 additions and 2 deletions in 4 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Sever the //flutter/vulkan dependency in Flutter tester.
+    <sub>[#50454](https://github.com/flutter/engine/pull/50454) merged on February 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50454) over 21 hours, 1 addition and 10 deletions in 1 file</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
+
 * **[Dan Field](https://github.com/dnfield)** &mdash; [Impeller] Log non-default graphics backend usages, use IMPORTANT rather than ERROR
     <sub>[#50448](https://github.com/flutter/engine/pull/50448) merged on February 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50448) over 1 hour, 61 additions and 31 deletions in 9 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [John McCutchan](https://github.com/johnmccutchan), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed CONTRIBUTING.md markdown lints
-    <sub>[#50439](https://github.com/flutter/engine/pull/50439) merged on February 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50439) over 54 minutes, 8 additions and 11 deletions in 1 file</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Fix Core Foundation object leaks.
-    <sub>[#50460](https://github.com/flutter/engine/pull/50460) merged on February 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50460) over 17 hours, 12 additions and 11 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Specify if Angle or SwiftShader is being used in the title.
+    <sub>[#50376](https://github.com/flutter/engine/pull/50376) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50376) over 17 hours, 19 additions and 7 deletions in 1 file</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Run all Android `scenario_app` tests, not just the smoke test.
     <sub>[#50400](https://github.com/flutter/engine/pull/50400) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50400) over 27 minutes, 0 additions and 1 deletion in 1 file</sub>
@@ -1062,41 +1066,41 @@
     <sub>[#50255](https://github.com/flutter/engine/pull/50255) merged on February 6, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/50255) over 4 days, 99 additions and 18 deletions in 7 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gaaclarke](https://github.com/gaaclarke)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove extra buffer usage in compute.
-    <sub>[#50415](https://github.com/flutter/engine/pull/50415) merged on February 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50415) over 1 day, 14 additions and 22 deletions in 1 file</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not skip the GLES render pass if the command list is empty
     <sub>[#50381](https://github.com/flutter/engine/pull/50381) merged on February 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50381) over 1 hour, 0 additions and 7 deletions in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated CONTRIBUTING.md to have a testing section
-    <sub>[#50469](https://github.com/flutter/engine/pull/50469) merged on February 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/50469) over 2 hours, 64 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Specify if Angle or SwiftShader is being used in the title.
-    <sub>[#50376](https://github.com/flutter/engine/pull/50376) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50376) over 17 hours, 19 additions and 7 deletions in 1 file</sub>
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
-
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Initialize the stencil reference value.
-    <sub>[#50373](https://github.com/flutter/engine/pull/50373) merged on February 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50373) over 1 day, 6 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Skip flaking test on Windows nobody is fixing.
     <sub>[#50401](https://github.com/flutter/engine/pull/50401) merged on February 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50401) over 1 hour, 6 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated CONTRIBUTING.md to have a testing section
+    <sub>[#50469](https://github.com/flutter/engine/pull/50469) merged on February 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/50469) over 2 hours, 64 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Initialize the stencil reference value.
+    <sub>[#50373](https://github.com/flutter/engine/pull/50373) merged on February 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50373) over 1 day, 6 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove extra buffer usage in compute.
+    <sub>[#50415](https://github.com/flutter/engine/pull/50415) merged on February 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50415) over 1 day, 14 additions and 22 deletions in 1 file</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; Fix Core Foundation object leaks.
+    <sub>[#50460](https://github.com/flutter/engine/pull/50460) merged on February 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50460) over 17 hours, 12 additions and 11 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `visiblePassword` uses ASCII keyboard on iOS
     <sub>[#50293](https://github.com/flutter/engine/pull/50293) merged on February 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50293) over 3 days, 17 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Clear objects before setting them.
-    <sub>[#50344](https://github.com/flutter/engine/pull/50344) merged on February 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50344) over 3 days, 3 additions and 3 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Tong Mu](https://github.com/dkwingsmt)</sub>
-
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Dart SDK from 452dd17120b7 to 322c81160fa9 (1 revision)"
     <sub>[#50450](https://github.com/flutter/engine/pull/50450) merged on February 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50450) over 31 seconds, 4 additions and 4 deletions in 3 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] update license year
+    <sub>[#50458](https://github.com/flutter/engine/pull/50458) merged on February 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50458) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix pipeline attachment layout in CanRenderToTexture.
     <sub>[#50413](https://github.com/flutter/engine/pull/50413) merged on February 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50413) over 1 hour, 2 additions and 0 deletions in 1 file</sub>
@@ -1126,9 +1130,9 @@
     <sub>[#50408](https://github.com/flutter/engine/pull/50408) merged on February 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50408) over 22 hours, 124 additions and 33 deletions in 7 files</sub>
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub>
 
-* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] update license year
-    <sub>[#50458](https://github.com/flutter/engine/pull/50458) merged on February 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50458) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Clear objects before setting them.
+    <sub>[#50344](https://github.com/flutter/engine/pull/50344) merged on February 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50344) over 3 days, 3 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; Reland "[web] Fix Scene clip bounds. Trigger resize on DPR Change."
     <sub>[#50457](https://github.com/flutter/engine/pull/50457) merged on February 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50457) over 22 hours, 230 additions and 48 deletions in 11 files</sub>
