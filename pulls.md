@@ -56,9 +56,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update dependencies in integration test<br />
     <sub>[#143111](https://github.com/flutter/flutter/pull/143111) opened on on February 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143111) 39 additions and 39 deletions in 3 files</sub><br />
 
-* **[hangyu](https://github.com/hangyujin)** &mdash; Fix date picker cannot focus on the edit field<br />
-    <sub>[#143117](https://github.com/flutter/flutter/pull/143117) opened on on February 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143117) 100 additions and 63 deletions in 4 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Rename isAvailableForEnvironment to isRecommendedForEnvironment<br />
     <sub>[#143176](https://github.com/flutter/flutter/pull/143176) opened on on February 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143176) 46 additions and 34 deletions in 3 files</sub><br />
 

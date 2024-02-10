@@ -1027,7 +1027,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Remove the Vulkan queue submit thread and always present Vulkan images on the raster thread
-    <sub>[#50484](https://github.com/flutter/engine/pull/50484) merged on February 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50484) over 13 hours, 40 additions and 145 deletions in 14 files</sub>
+    <sub>[#50484](https://github.com/flutter/engine/pull/50484) merged on February 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50484) over 13 hours, 40 additions and 145 deletions in 14 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Sever the //flutter/vulkan dependency in Flutter in the Android embedder.
