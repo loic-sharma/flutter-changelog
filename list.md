@@ -267,7 +267,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Revert "Add `SingleChildScrollView` for `NavigationRail`"
-    <sub>[#143097](https://github.com/flutter/flutter/pull/143097) merged on February 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/143097) over 41 minutes, 56 additions and 117 deletions in 2 files</sub>
+    <sub>[#143097](https://github.com/flutter/flutter/pull/143097) merged on February 7, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/143097) over 41 minutes, 56 additions and 117 deletions in 2 files</sub>
     <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Reland "Move native assets to `isolated/` directory"
