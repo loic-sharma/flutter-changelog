@@ -1241,9 +1241,18 @@
 
 ## flutter/packages
 
+### February 10, 2024 to February 16, 2024
+
+1 commits.
+
+* **[Ravi Singh Lodhi](https://github.com/foxtrotravi)** &mdash; [cupertino_icons] Add example to cupertino icons<br />
+    <sub>[#5312](https://github.com/flutter/packages/pull/5312) merged on February 12, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/packages/pull/5312) over 3 months, 58 additions and 2 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
 ### February 3, 2024 to February 9, 2024
 
-14 commits.
+<details>
+<summary>14 commits...</summary>
 
 * **[EunchulJeon](https://github.com/jsharp83)** &mdash; [webview_flutter] Add interface for showing javascript dialog message<br />
     <sub>[#4704](https://github.com/flutter/packages/pull/4704) merged on February 9, 2024 &mdash; **Small:** [75 comments](https://github.com/flutter/packages/pull/4704) over 5 months, 106 additions and 16 deletions in 7 files</sub><br />
@@ -1300,6 +1309,8 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Move tool_runner.sh<br />
     <sub>[#6038](https://github.com/flutter/packages/pull/6038) merged on February 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6038) over 4 days, 81 additions and 102 deletions in 30 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+</details>
 
 ### January 27, 2024 to February 2, 2024
 
