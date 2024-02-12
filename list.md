@@ -1247,11 +1247,15 @@
 
 ### February 10, 2024 to February 16, 2024
 
-1 commits.
+2 commits.
 
 * **[Ravi Singh Lodhi](https://github.com/foxtrotravi)** &mdash; [cupertino_icons] Add example to cupertino icons
     <sub>[#5312](https://github.com/flutter/packages/pull/5312) merged on February 12, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/packages/pull/5312) over 3 months, 58 additions and 2 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Update compileSdk to 34
+    <sub>[#6106](https://github.com/flutter/packages/pull/6106) merged on February 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6106) over 1 hour, 5 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 ### February 3, 2024 to February 9, 2024
 
