@@ -613,11 +613,15 @@
 
 ### February 10, 2024 to February 16, 2024
 
-8 commits.
+9 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur
     <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] force render pass construction on all backends to ensure image layout is transitioned/render pass state setup.
+    <sub>[#50539](https://github.com/flutter/engine/pull/50539) merged on February 12, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/50539) over 1 day, 96 additions and 185 deletions in 3 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Refactor NDK helpers some more, add methods for SurfaceControl/Transaction, tests
     <sub>[#50540](https://github.com/flutter/engine/pull/50540) merged on February 12, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/50540) over 1 day, 498 additions and 310 deletions in 18 files</sub>
@@ -768,7 +772,7 @@
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add --enable-impeller-vulkan-playgrounds to ./flutter/tools/gn
-    <sub>[#50477](https://github.com/flutter/engine/pull/50477) merged on February 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50477) over 23 hours, 11 additions and 0 deletions in 1 file</sub>
+    <sub>[#50477](https://github.com/flutter/engine/pull/50477) merged on February 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/50477) over 23 hours, 11 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Remove the unused Vulkan queue submit task runner
