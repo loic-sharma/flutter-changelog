@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### February 10, 2024 to February 16, 2024
+
+1 commits.
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Introduce `iconAlignment` for the buttons with icon
+    <sub>[#137348](https://github.com/flutter/flutter/pull/137348) merged on February 12, 2024 &mdash; **Large:** [129 comments](https://github.com/flutter/flutter/pull/137348) over 3 months, 942 additions and 17 deletions in 11 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
 ### February 3, 2024 to February 9, 2024
 
-66 commits.
+<details>
+<summary>66 commits...</summary>
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Improve build output for all platforms
     <sub>[#128236](https://github.com/flutter/flutter/pull/128236) merged on February 7, 2024 &mdash; **Small:** [54 comments](https://github.com/flutter/flutter/pull/128236) over 8 months, 261 additions and 34 deletions in 19 files</sub>
@@ -277,6 +286,8 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Reland "Update gradle lockfiles template (#140115)"
     <sub>[#143081](https://github.com/flutter/flutter/pull/143081) merged on February 8, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/143081) over 23 hours, 2237 additions and 1806 deletions in 138 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+</details>
 
 ### January 27, 2024 to February 2, 2024
 
@@ -578,11 +589,15 @@
 
 ### February 10, 2024 to February 16, 2024
 
-3 commits.
+4 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur
     <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Refactor NDK helpers some more, add methods for SurfaceControl/Transaction, tests
+    <sub>[#50540](https://github.com/flutter/engine/pull/50540) merged on February 12, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/50540) over 1 day, 498 additions and 310 deletions in 18 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove host_debug_unopt build from  linux_host_engine.json
     <sub>[#50555](https://github.com/flutter/engine/pull/50555) merged on February 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50555) over 38 minutes, 0 additions and 24 deletions in 1 file</sub>
