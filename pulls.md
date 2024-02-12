@@ -75,5 +75,5 @@
     <sub>[#143295](https://github.com/flutter/flutter/pull/143295) opened on on February 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143295) 14 additions and 0 deletions in 1 file</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use `dart compile wasm` for wasm compilations<br />
-    <sub>[#143298](https://github.com/flutter/flutter/pull/143298) opened on on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143298) 33 additions and 51 deletions in 2 files</sub><br />
+    <sub>[#143298](https://github.com/flutter/flutter/pull/143298) opened on on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143298) 71 additions and 133 deletions in 3 files</sub><br />
 
