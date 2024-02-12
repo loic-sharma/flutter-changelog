@@ -4,7 +4,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-6 commits.
+7 commits.
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Introduce `iconAlignment` for the buttons with icon<br />
     <sub>[#137348](https://github.com/flutter/flutter/pull/137348) merged on February 12, 2024 &mdash; **Large:** [129 comments](https://github.com/flutter/flutter/pull/137348) over 3 months, 942 additions and 17 deletions in 11 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add documentation for best practices for `StreamBuilder` like `FutureBuilder` <br />
     <sub>[#143295](https://github.com/flutter/flutter/pull/143295) merged on February 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143295) over 13 hours, 14 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Move JS interop to extension types<br />
+    <sub>[#143274](https://github.com/flutter/flutter/pull/143274) merged on February 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143274) over 1 day, 23 additions and 89 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Srujan Gaddam](https://github.com/srujzs)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update integration_test iOS FTL README script to remove targeted version<br />
     <sub>[#143248](https://github.com/flutter/flutter/pull/143248) merged on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143248) over 2 days, 4 additions and 3 deletions in 1 file</sub><br />
@@ -764,7 +768,7 @@
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add --enable-impeller-vulkan-playgrounds to ./flutter/tools/gn<br />
-    <sub>[#50477](https://github.com/flutter/engine/pull/50477) merged on February 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50477) over 23 hours, 11 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#50477](https://github.com/flutter/engine/pull/50477) merged on February 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50477) over 23 hours, 11 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Remove the unused Vulkan queue submit task runner<br />
