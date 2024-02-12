@@ -74,6 +74,3 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add documentation for best practices for `StreamBuilder` like `FutureBuilder` <br />
     <sub>[#143295](https://github.com/flutter/flutter/pull/143295) opened on on February 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143295) 14 additions and 0 deletions in 1 file</sub><br />
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [tool] Add flutter version in pubspec of new projects<br />
-    <sub>[#143303](https://github.com/flutter/flutter/pull/143303) opened on on February 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143303) 71 additions and 2 deletions in 9 files</sub><br />
-
