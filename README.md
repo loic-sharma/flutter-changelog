@@ -4,11 +4,15 @@
 
 ### February 10, 2024 to February 16, 2024
 
-2 commits.
+3 commits.
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Introduce `iconAlignment` for the buttons with icon<br />
     <sub>[#137348](https://github.com/flutter/flutter/pull/137348) merged on February 12, 2024 &mdash; **Large:** [129 comments](https://github.com/flutter/flutter/pull/137348) over 3 months, 942 additions and 17 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update integration_test iOS FTL README script to remove targeted version<br />
+    <sub>[#143248](https://github.com/flutter/flutter/pull/143248) merged on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143248) over 2 days, 4 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Remove unnecessary 'debugLabel: null'.<br />
     <sub>[#143253](https://github.com/flutter/flutter/pull/143253) merged on February 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143253) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />

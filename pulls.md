@@ -71,3 +71,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add documentation for best practices for `StreamBuilder` like `FutureBuilder` <br />
     <sub>[#143295](https://github.com/flutter/flutter/pull/143295) opened on on February 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143295) 14 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ross Llewallyn](https://github.com/EnduringBeta)** &mdash; Badge class doc typo - missing [<br />
+    <sub>[#143318](https://github.com/flutter/flutter/pull/143318) opened on on February 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143318) 1 addition and 1 deletion in 1 file</sub><br />
+
