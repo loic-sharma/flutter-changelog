@@ -63,7 +63,7 @@
     <sub>[#143196](https://github.com/flutter/flutter/pull/143196) opened on on February 9, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143196) 410 additions and 0 deletions in 5 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Added Small Doc Enhancement in Badge<br />
-    <sub>[#143319](https://github.com/flutter/flutter/pull/143319) opened on on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143319) 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#143319](https://github.com/flutter/flutter/pull/143319) opened on on February 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143319) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; ResizingHeaderSliver<br />
     <sub>[#143325](https://github.com/flutter/flutter/pull/143325) opened on on February 12, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/143325) 359 additions and 0 deletions in 3 files</sub><br />

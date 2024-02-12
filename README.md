@@ -613,11 +613,15 @@
 
 ### February 10, 2024 to February 16, 2024
 
-9 commits.
+10 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur<br />
     <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll vulkan-deps to 014f44e134a1de387791bffacc32ff9d8db71176<br />
+    <sub>[#50515](https://github.com/flutter/engine/pull/50515) merged on February 12, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/50515) over 2 days, 1115 additions and 356 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] force render pass construction on all backends to ensure image layout is transitioned/render pass state setup.<br />
     <sub>[#50539](https://github.com/flutter/engine/pull/50539) merged on February 12, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/50539) over 1 day, 96 additions and 185 deletions in 3 files</sub><br />
