@@ -625,11 +625,16 @@
 
 ### February 10, 2024 to February 16, 2024
 
-16 commits.
+17 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur<br />
     <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] CommandPoolVK recycles command buffers too.<br />
+    <sub>[#50468](https://github.com/flutter/engine/pull/50468) merged on February 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50468) over 4 days, 122 additions and 25 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+    <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/engine/assets/8975114/c0022d7a-d16e-4db5-862a-01d5a6157e18)![image](https://github.com/flutter/engine/assets/8975114/3b45f9a9-8811-4fbc-8b90-24338317df6e)</details></sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll vulkan-deps to 014f44e134a1de387791bffacc32ff9d8db71176<br />
     <sub>[#50515](https://github.com/flutter/engine/pull/50515) merged on February 12, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/50515) over 2 days, 1115 additions and 356 deletions in 8 files</sub><br />
