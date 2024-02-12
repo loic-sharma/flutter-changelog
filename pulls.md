@@ -65,9 +65,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Pass-Through `inputFormatters` in `DropdownMenu`<br />
     <sub>[#143250](https://github.com/flutter/flutter/pull/143250) opened on on February 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143250) 53 additions and 0 deletions in 2 files</sub><br />
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `widgets/`<br />
-    <sub>[#143293](https://github.com/flutter/flutter/pull/143293) opened on on February 12, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/143293) 169 additions and 306 deletions in 19 files</sub><br />
-
 * **[Tirth](https://github.com/piedcipher)** &mdash; Added Small Doc Enhancement in Badge<br />
-    <sub>[#143319](https://github.com/flutter/flutter/pull/143319) opened on on February 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143319) 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#143319](https://github.com/flutter/flutter/pull/143319) opened on on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143319) 2 additions and 0 deletions in 1 file</sub><br />
 

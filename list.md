@@ -605,7 +605,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-7 commits.
+8 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur
     <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub>
@@ -614,6 +614,10 @@
 * **[Dan Field](https://github.com/dnfield)** &mdash; Refactor NDK helpers some more, add methods for SurfaceControl/Transaction, tests
     <sub>[#50540](https://github.com/flutter/engine/pull/50540) merged on February 12, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/50540) over 1 day, 498 additions and 310 deletions in 18 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Make the view own its EGL surface
+    <sub>[#50421](https://github.com/flutter/engine/pull/50421) merged on February 12, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/50421) over 5 days, 329 additions and 237 deletions in 13 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Initializes RBE in the build config runner
     <sub>[#50543](https://github.com/flutter/engine/pull/50543) merged on February 12, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/50543) over 1 day, 341 additions and 110 deletions in 5 files</sub>
