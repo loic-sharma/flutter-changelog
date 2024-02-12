@@ -96,7 +96,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Re-land] Enforce a policy on supported Gradle, Java, AGP, and KGP versions
-    <sub>[#143132](https://github.com/flutter/flutter/pull/143132) merged on February 8, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/143132) over 22 hours, 594 additions and 4 deletions in 11 files</sub>
+    <sub>[#143132](https://github.com/flutter/flutter/pull/143132) merged on February 8, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/143132) over 22 hours, 594 additions and 4 deletions in 11 files</sub>
     <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Ann Marie Mossman](https://github.com/mossmana)** &mdash; Update AGP version validation code to support KGP and kotlin build files.
@@ -589,7 +589,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-4 commits.
+5 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur
     <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub>
@@ -598,6 +598,10 @@
 * **[Dan Field](https://github.com/dnfield)** &mdash; Refactor NDK helpers some more, add methods for SurfaceControl/Transaction, tests
     <sub>[#50540](https://github.com/flutter/engine/pull/50540) merged on February 12, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/50540) over 1 day, 498 additions and 310 deletions in 18 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Rename [ViewFocusDirection.backwards] to [ViewFocusDirection.backward]
+    <sub>[#50533](https://github.com/flutter/engine/pull/50533) merged on February 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50533) over 1 day, 4 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove host_debug_unopt build from  linux_host_engine.json
     <sub>[#50555](https://github.com/flutter/engine/pull/50555) merged on February 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50555) over 38 minutes, 0 additions and 24 deletions in 1 file</sub>
