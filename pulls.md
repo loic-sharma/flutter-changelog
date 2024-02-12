@@ -68,3 +68,6 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; ResizingHeaderSliver<br />
     <sub>[#143325](https://github.com/flutter/flutter/pull/143325) opened on on February 12, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/143325) 359 additions and 0 deletions in 3 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "Migrate integration_test plugin to Gradle Kotlin DSL (#142008)"<br />
+    <sub>[#143329](https://github.com/flutter/flutter/pull/143329) opened on on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143329) 65 additions and 64 deletions in 3 files</sub><br />
+

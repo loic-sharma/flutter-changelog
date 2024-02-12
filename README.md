@@ -31,7 +31,7 @@
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "[Re-land] Enforce a policy on supported Gradle, Java, AGP, and KGP versions"<br />
-    <sub>[#143314](https://github.com/flutter/flutter/pull/143314) merged on February 12, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/143314) over 41 minutes, 4 additions and 594 deletions in 11 files</sub><br />
+    <sub>[#143314](https://github.com/flutter/flutter/pull/143314) merged on February 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143314) over 41 minutes, 4 additions and 594 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 ### February 3, 2024 to February 9, 2024
@@ -119,6 +119,10 @@
     <sub>[#143024](https://github.com/flutter/flutter/pull/143024) merged on February 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143024) over 3 days, 68 additions and 37 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Migrate integration_test plugin to Gradle Kotlin DSL<br />
+    <sub>[#142008](https://github.com/flutter/flutter/pull/142008) merged on February 9, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/142008) over 2 weeks, 64 additions and 65 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Layout animated GIFs only once<br />
     <sub>[#143188](https://github.com/flutter/flutter/pull/143188) merged on February 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143188) over 3 hours, 57 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
@@ -127,13 +131,13 @@
     <sub>[#142357](https://github.com/flutter/flutter/pull/142357) merged on February 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/142357) over 1 week, 176 additions and 69 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Enforce a policy on supported Gradle, Java, AGP, and KGP versions"<br />
-    <sub>[#143114](https://github.com/flutter/flutter/pull/143114) merged on February 7, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/143114) over 47 seconds, 3 additions and 586 deletions in 8 files</sub><br />
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Move native assets to `isolated/` directory"<br />
+    <sub>[#143027](https://github.com/flutter/flutter/pull/143027) merged on February 7, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/143027) over 37 seconds, 1119 additions and 1368 deletions in 38 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `lib/src/material/`<br />
-    <sub>[#142793](https://github.com/flutter/flutter/pull/142793) merged on February 9, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/142793) over 1 week, 182 additions and 339 deletions in 18 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+* **[Andrew Brampton](https://github.com/bramp)** &mdash; Update _goldens_io.dart to generate failure images during a size mism…<br />
+    <sub>[#142177](https://github.com/flutter/flutter/pull/142177) merged on February 7, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/142177) over 1 week, 32 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert Dual Web Compile changes<br />
     <sub>[#143175](https://github.com/flutter/flutter/pull/143175) merged on February 8, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/143175) over 2 hours, 414 additions and 794 deletions in 32 files</sub><br />
@@ -143,33 +147,29 @@
     <sub>[#143121](https://github.com/flutter/flutter/pull/143121) merged on February 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143121) over 22 hours, 77 additions and 14 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Mark `Windows_android hot_mode_dev_cycle_win__benchmark` as no longer flaky<br />
+    <sub>[#143016](https://github.com/flutter/flutter/pull/143016) merged on February 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143016) over 5 hours, 0 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Enforce a policy on supported Gradle, Java, AGP, and KGP versions"<br />
+    <sub>[#143114](https://github.com/flutter/flutter/pull/143114) merged on February 7, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/143114) over 47 seconds, 3 additions and 586 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 * **[yim](https://github.com/yiiim)** &mdash; Fixed cursor blinking during selection.<br />
     <sub>[#141380](https://github.com/flutter/flutter/pull/141380) merged on February 7, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/141380) over 3 weeks, 58 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
-
-* **[Andrew Brampton](https://github.com/bramp)** &mdash; Update _goldens_io.dart to generate failure images during a size mism…<br />
-    <sub>[#142177](https://github.com/flutter/flutter/pull/142177) merged on February 7, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/142177) over 1 week, 32 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; barrierColor property in DialogTheme<br />
     <sub>[#142490](https://github.com/flutter/flutter/pull/142490) merged on February 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/142490) over 1 week, 28 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Move native assets to `isolated/` directory"<br />
-    <sub>[#143027](https://github.com/flutter/flutter/pull/143027) merged on February 7, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/143027) over 37 seconds, 1119 additions and 1368 deletions in 38 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
-
 * **[Alexander Dahlberg](https://github.com/Swiftaxe)** &mdash; Fixed test in language_version_test.dart that failed when shuffling, …<br />
     <sub>[#142904](https://github.com/flutter/flutter/pull/142904) merged on February 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142904) over 12 hours, 1 addition and 7 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Mark `Windows_android hot_mode_dev_cycle_win__benchmark` as no longer flaky<br />
-    <sub>[#143016](https://github.com/flutter/flutter/pull/143016) merged on February 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143016) over 5 hours, 0 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Migrate integration_test plugin to Gradle Kotlin DSL<br />
-    <sub>[#142008](https://github.com/flutter/flutter/pull/142008) merged on February 9, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/142008) over 2 weeks, 64 additions and 65 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `lib/src/material/`<br />
+    <sub>[#142793](https://github.com/flutter/flutter/pull/142793) merged on February 9, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/142793) over 1 week, 182 additions and 339 deletions in 18 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Cross-link SliverFixedExtentList/SliverPrototypeExtentList/SliverVariedExtentList<br />
     <sub>[#143184](https://github.com/flutter/flutter/pull/143184) merged on February 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143184) over 45 minutes, 7 additions and 0 deletions in 3 files</sub><br />
