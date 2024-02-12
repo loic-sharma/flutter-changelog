@@ -1251,7 +1251,11 @@
 
 ### February 10, 2024 to February 16, 2024
 
-2 commits.
+3 commits.
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [in_app_purchase] Add alternative billing apis for android<br />
+    <sub>[#6056](https://github.com/flutter/packages/pull/6056) merged on February 12, 2024 &mdash; **Large:** [47 comments](https://github.com/flutter/packages/pull/6056) over 1 week, 996 additions and 45 deletions in 23 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Ravi Singh Lodhi](https://github.com/foxtrotravi)** &mdash; [cupertino_icons] Add example to cupertino icons<br />
     <sub>[#5312](https://github.com/flutter/packages/pull/5312) merged on February 12, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/packages/pull/5312) over 3 months, 58 additions and 2 deletions in 4 files</sub><br />
