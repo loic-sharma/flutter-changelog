@@ -71,3 +71,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "Migrate integration_test plugin to Gradle Kotlin DSL (#142008)"<br />
     <sub>[#143329](https://github.com/flutter/flutter/pull/143329) opened on on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143329) 65 additions and 64 deletions in 3 files</sub><br />
 
+* **[hangyu](https://github.com/hangyujin)** &mdash; Add isEnabled semantics flag to text field<br />
+    <sub>[#143334](https://github.com/flutter/flutter/pull/143334) opened on on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143334) 2 additions and 1 deletion in 1 file</sub><br />
+
