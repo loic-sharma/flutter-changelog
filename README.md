@@ -96,7 +96,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Re-land] Enforce a policy on supported Gradle, Java, AGP, and KGP versions<br />
-    <sub>[#143132](https://github.com/flutter/flutter/pull/143132) merged on February 8, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/143132) over 22 hours, 594 additions and 4 deletions in 11 files</sub><br />
+    <sub>[#143132](https://github.com/flutter/flutter/pull/143132) merged on February 8, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/143132) over 22 hours, 594 additions and 4 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Ann Marie Mossman](https://github.com/mossmana)** &mdash; Update AGP version validation code to support KGP and kotlin build files.<br />

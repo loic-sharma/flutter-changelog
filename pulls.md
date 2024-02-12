@@ -65,9 +65,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Pass-Through `inputFormatters` in `DropdownMenu`<br />
     <sub>[#143250](https://github.com/flutter/flutter/pull/143250) opened on on February 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143250) 53 additions and 0 deletions in 2 files</sub><br />
 
-* **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Remove unnecessary 'debugLabel: null'.<br />
-    <sub>[#143253](https://github.com/flutter/flutter/pull/143253) opened on on February 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143253) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `widgets/`<br />
     <sub>[#143293](https://github.com/flutter/flutter/pull/143293) opened on on February 12, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/143293) 169 additions and 306 deletions in 19 files</sub><br />
 
