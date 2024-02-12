@@ -576,9 +576,26 @@
 
 ## flutter/engine
 
+### February 10, 2024 to February 16, 2024
+
+3 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur<br />
+    <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove host_debug_unopt build from  linux_host_engine.json<br />
+    <sub>[#50555](https://github.com/flutter/engine/pull/50555) merged on February 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50555) over 38 minutes, 0 additions and 24 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[K Lubick](https://github.com/kjlubick)** &mdash; Update codec defines for Skia<br />
+    <sub>[#50554](https://github.com/flutter/engine/pull/50554) merged on February 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50554) over 1 hour, 13 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
 ### February 3, 2024 to February 9, 2024
 
-62 commits.
+<details>
+<summary>62 commits...</summary>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] improve performance of polyline and stroke generation by reducing allocation and lambda usage.<br />
     <sub>[#50379](https://github.com/flutter/engine/pull/50379) merged on February 9, 2024 &mdash; **Large:** [87 comments](https://github.com/flutter/engine/pull/50379) over 3 days, 576 additions and 404 deletions in 8 files</sub><br />
@@ -830,6 +847,8 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Revert "Revert "[Fuchsia] Execute most of the testing/fuchsia/test_suites.yaml on debug and release builds""<br />
     <sub>[#50295](https://github.com/flutter/engine/pull/50295) merged on February 6, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/50295) over 3 days, 128 additions and 33 deletions in 8 files</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
+
+</details>
 
 ### January 27, 2024 to February 2, 2024
 
