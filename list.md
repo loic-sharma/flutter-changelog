@@ -764,7 +764,7 @@
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add --enable-impeller-vulkan-playgrounds to ./flutter/tools/gn
-    <sub>[#50477](https://github.com/flutter/engine/pull/50477) merged on February 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50477) over 23 hours, 11 additions and 0 deletions in 1 file</sub>
+    <sub>[#50477](https://github.com/flutter/engine/pull/50477) merged on February 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50477) over 23 hours, 11 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Remove the unused Vulkan queue submit task runner
