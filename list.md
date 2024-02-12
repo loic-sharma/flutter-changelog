@@ -613,7 +613,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-11 commits.
+12 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur
     <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub>
@@ -638,6 +638,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Initializes RBE in the build config runner
     <sub>[#50543](https://github.com/flutter/engine/pull/50543) merged on February 12, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/50543) over 1 day, 341 additions and 110 deletions in 5 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Don't suppress outdated validation error.
+    <sub>[#50568](https://github.com/flutter/engine/pull/50568) merged on February 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50568) over 34 minutes, 0 additions and 8 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove references to moved impeller/image from README.
     <sub>[#50513](https://github.com/flutter/engine/pull/50513) merged on February 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50513) over 3 days, 0 additions and 7 deletions in 1 file</sub>
