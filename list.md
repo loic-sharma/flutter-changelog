@@ -4,7 +4,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-7 commits.
+8 commits.
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Introduce `iconAlignment` for the buttons with icon
     <sub>[#137348](https://github.com/flutter/flutter/pull/137348) merged on February 12, 2024 &mdash; **Large:** [129 comments](https://github.com/flutter/flutter/pull/137348) over 3 months, 942 additions and 17 deletions in 11 files</sub>
@@ -25,6 +25,10 @@
 * **[Nitesh Sharma](https://github.com/niteshsh4rma)** &mdash; Fix dual focus issue in CheckboxListTile, RadioListTile and SwitchListTile
     <sub>[#143213](https://github.com/flutter/flutter/pull/143213) merged on February 12, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/143213) over 3 days, 251 additions and 108 deletions in 6 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from 1c3ecee77350 to a19077503a0c (8 revisions) (#143322)"
+    <sub>[#143338](https://github.com/flutter/flutter/pull/143338) merged on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143338) over 30 seconds, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Remove unnecessary 'debugLabel: null'.
     <sub>[#143253](https://github.com/flutter/flutter/pull/143253) merged on February 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143253) over 2 days, 1 addition and 1 deletion in 1 file</sub>

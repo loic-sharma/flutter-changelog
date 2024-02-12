@@ -74,6 +74,3 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Add isEnabled semantics flag to  editable text <br />
     <sub>[#143334](https://github.com/flutter/flutter/pull/143334) opened on on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143334) 2 additions and 1 deletion in 1 file</sub><br />
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from 1c3ecee77350 to a19077503a0c (8 revisions) (#143322)"<br />
-    <sub>[#143338](https://github.com/flutter/flutter/pull/143338) opened on on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143338) 1 addition and 1 deletion in 1 file</sub><br />
-
