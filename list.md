@@ -4,7 +4,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-8 commits.
+10 commits.
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Introduce `iconAlignment` for the buttons with icon
     <sub>[#137348](https://github.com/flutter/flutter/pull/137348) merged on February 12, 2024 &mdash; **Large:** [129 comments](https://github.com/flutter/flutter/pull/137348) over 3 months, 942 additions and 17 deletions in 11 files</sub>
@@ -13,6 +13,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add documentation for best practices for `StreamBuilder` like `FutureBuilder` 
     <sub>[#143295](https://github.com/flutter/flutter/pull/143295) merged on February 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143295) over 13 hours, 14 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Ross Llewallyn](https://github.com/EnduringBeta)** &mdash; Badge class doc typo - missing [
+    <sub>[#143318](https://github.com/flutter/flutter/pull/143318) merged on February 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143318) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Move JS interop to extension types
     <sub>[#143274](https://github.com/flutter/flutter/pull/143274) merged on February 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143274) over 1 day, 23 additions and 89 deletions in 2 files</sub>
@@ -37,6 +41,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "[Re-land] Enforce a policy on supported Gradle, Java, AGP, and KGP versions"
     <sub>[#143314](https://github.com/flutter/flutter/pull/143314) merged on February 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143314) over 41 minutes, 4 additions and 594 deletions in 11 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "Migrate integration_test plugin to Gradle Kotlin DSL (#142008)"
+    <sub>[#143329](https://github.com/flutter/flutter/pull/143329) merged on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143329) over 2 hours, 65 additions and 64 deletions in 3 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 ### February 3, 2024 to February 9, 2024
 
@@ -617,7 +625,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-14 commits.
+16 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur
     <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub>
@@ -633,6 +641,10 @@
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Refactor NDK helpers some more, add methods for SurfaceControl/Transaction, tests
     <sub>[#50540](https://github.com/flutter/engine/pull/50540) merged on February 12, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/50540) over 1 day, 498 additions and 310 deletions in 18 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `dart:ui#Paint` `final` to allow changes/disallow implementing.
+    <sub>[#50557](https://github.com/flutter/engine/pull/50557) merged on February 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50557) over 6 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Make the view own its EGL surface
@@ -662,6 +674,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove host_debug_unopt build from  linux_host_engine.json
     <sub>[#50555](https://github.com/flutter/engine/pull/50555) merged on February 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50555) over 38 minutes, 0 additions and 24 deletions in 1 file</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Replace usage of an integer for GdkModifierType
+    <sub>[#50481](https://github.com/flutter/engine/pull/50481) merged on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50481) over 3 days, 155 additions and 112 deletions in 4 files</sub>
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove FlKeyEvent.dispose_origin and use GdkEvent type for origin
     <sub>[#50483](https://github.com/flutter/engine/pull/50483) merged on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50483) over 3 days, 9 additions and 51 deletions in 7 files</sub>
