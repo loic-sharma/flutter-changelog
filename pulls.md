@@ -68,9 +68,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `widgets/`<br />
     <sub>[#143293](https://github.com/flutter/flutter/pull/143293) opened on on February 12, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/143293) 169 additions and 306 deletions in 19 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add documentation for best practices for `StreamBuilder` like `FutureBuilder` <br />
-    <sub>[#143295](https://github.com/flutter/flutter/pull/143295) opened on on February 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143295) 14 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ross Llewallyn](https://github.com/EnduringBeta)** &mdash; Badge class doc typo - missing [<br />
-    <sub>[#143318](https://github.com/flutter/flutter/pull/143318) opened on on February 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143318) 1 addition and 1 deletion in 1 file</sub><br />
+* **[Tirth](https://github.com/piedcipher)** &mdash; Added Small Doc Enhancement in Badge<br />
+    <sub>[#143319](https://github.com/flutter/flutter/pull/143319) opened on on February 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143319) 2 additions and 0 deletions in 1 file</sub><br />
 
