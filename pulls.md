@@ -69,5 +69,5 @@
     <sub>[#143253](https://github.com/flutter/flutter/pull/143253) opened on on February 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143253) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `widgets/`<br />
-    <sub>[#143293](https://github.com/flutter/flutter/pull/143293) opened on on February 12, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/143293) 169 additions and 304 deletions in 19 files</sub><br />
+    <sub>[#143293](https://github.com/flutter/flutter/pull/143293) opened on on February 12, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/143293) 169 additions and 306 deletions in 19 files</sub><br />
 
