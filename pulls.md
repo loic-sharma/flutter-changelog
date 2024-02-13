@@ -60,10 +60,7 @@
     <sub>[#143176](https://github.com/flutter/flutter/pull/143176) opened on on February 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143176) 46 additions and 34 deletions in 3 files</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; PinnedHeaderSliver<br />
-    <sub>[#143196](https://github.com/flutter/flutter/pull/143196) opened on on February 9, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143196) 410 additions and 0 deletions in 5 files</sub><br />
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Changing `TextPainter.getOffsetForCaret` implementation to remove the logarithmic search<br />
-    <sub>[#143281](https://github.com/flutter/flutter/pull/143281) opened on on February 11, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/143281) 898 additions and 802 deletions in 8 files</sub><br />
+    <sub>[#143196](https://github.com/flutter/flutter/pull/143196) opened on on February 9, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143196) 407 additions and 0 deletions in 5 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Added Small Doc Enhancement in Badge<br />
     <sub>[#143319](https://github.com/flutter/flutter/pull/143319) opened on on February 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143319) 2 additions and 0 deletions in 1 file</sub><br />

@@ -629,7 +629,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-17 commits.
+18 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur
     <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub>
@@ -651,6 +651,10 @@
 * **[Dan Field](https://github.com/dnfield)** &mdash; Refactor NDK helpers some more, add methods for SurfaceControl/Transaction, tests
     <sub>[#50540](https://github.com/flutter/engine/pull/50540) merged on February 12, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/50540) over 1 day, 498 additions and 310 deletions in 18 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add Impeller runtime options to Android `scenario_app`
+    <sub>[#50487](https://github.com/flutter/engine/pull/50487) merged on February 13, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/50487) over 3 days, 107 additions and 13 deletions in 6 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `dart:ui#Paint` `final` to allow changes/disallow implementing.
     <sub>[#50557](https://github.com/flutter/engine/pull/50557) merged on February 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50557) over 6 hours, 1 addition and 1 deletion in 1 file</sub>
