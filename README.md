@@ -381,7 +381,7 @@
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/flutter/assets/22084723/d602ef42-625a-4b5c-b63b-c46cb2070d80)![image](https://github.com/flutter/flutter/assets/22084723/dddb754f-fd29-4c4c-96cc-e7f508219f12)</details></sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Unpin test<br />
-    <sub>[#141427](https://github.com/flutter/flutter/pull/141427) merged on February 1, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/141427) over 2 weeks, 328 additions and 331 deletions in 60 files</sub><br />
+    <sub>[#141427](https://github.com/flutter/flutter/pull/141427) merged on February 1, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/141427) over 2 weeks, 328 additions and 331 deletions in 60 files</sub><br />
     <sub>Reviewed by: [Derek Xu](https://github.com/derekxu16)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Catch file system exceptions when trying to parse user-provided asset file paths<br />
