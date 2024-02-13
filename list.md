@@ -4,7 +4,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-25 commits.
+26 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `avatarBoxConstraints` & `deleteIconBoxConstraints` for the chips
     <sub>[#143302](https://github.com/flutter/flutter/pull/143302) merged on February 13, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/143302) over 1 day, 1079 additions and 13 deletions in 16 files</sub>
@@ -14,6 +14,11 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Introduce `iconAlignment` for the buttons with icon
     <sub>[#137348](https://github.com/flutter/flutter/pull/137348) merged on February 12, 2024 &mdash; **Large:** [129 comments](https://github.com/flutter/flutter/pull/137348) over 3 months, 942 additions and 17 deletions in 11 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Have `FocusManager` respond to app lifecycle state changes
+    <sub>[#142930](https://github.com/flutter/flutter/pull/142930) merged on February 13, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/142930) over 1 week, 102 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub><details><summary>2 images...</summary>![focus node](https://github.com/flutter/flutter/assets/10457200/bef42cd9-28e5-4214-b071-b7ef56b26609)![Flutter demo](https://github.com/flutter/flutter/assets/10457200/6eb34c44-5fb0-4b27-aa10-6606a1eb187e)</details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `InputDecorator`s `suffix` and `prefix` widgets are tappable when hidden
     <sub>[#143308](https://github.com/flutter/flutter/pull/143308) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143308) over 16 hours, 151 additions and 8 deletions in 3 files</sub>
