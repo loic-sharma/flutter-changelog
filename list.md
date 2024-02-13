@@ -4,7 +4,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-16 commits.
+17 commits.
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Introduce `iconAlignment` for the buttons with icon
     <sub>[#137348](https://github.com/flutter/flutter/pull/137348) merged on February 12, 2024 &mdash; **Large:** [129 comments](https://github.com/flutter/flutter/pull/137348) over 3 months, 942 additions and 17 deletions in 11 files</sub>
@@ -18,6 +18,10 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `widgets/`
     <sub>[#143293](https://github.com/flutter/flutter/pull/143293) merged on February 13, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/143293) over 1 day, 169 additions and 306 deletions in 19 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix chips constructor docs for callbacks
+    <sub>[#143361](https://github.com/flutter/flutter/pull/143361) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143361) over 10 hours, 22 additions and 15 deletions in 4 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Re-re-land] Enforce a policy on supported Gradle, Java, AGP, and KGP versions
     <sub>[#143341](https://github.com/flutter/flutter/pull/143341) merged on February 13, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/143341) over 16 hours, 593 additions and 4 deletions in 11 files</sub>
@@ -1349,7 +1353,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-8 commits.
+9 commits.
 
 * **[GavrielRosendorn74](https://github.com/GavrielRosendorn74)** &mdash; [google_maps_flutter][iOS 17] takeSnapshot FIX
     <sub>[#5823](https://github.com/flutter/packages/pull/5823) merged on February 13, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/packages/pull/5823) over 1 month, 10 additions and 9 deletions in 4 files</sub>
@@ -1371,6 +1375,10 @@
 * **[Ravi Singh Lodhi](https://github.com/foxtrotravi)** &mdash; [cupertino_icons] Add example to cupertino icons
     <sub>[#5312](https://github.com/flutter/packages/pull/5312) merged on February 12, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/packages/pull/5312) over 3 months, 58 additions and 2 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[leiatfly](https://github.com/leiatfly)** &mdash; [flutter_markdown] Use Text.rich to replace RichText in Flutter Markdown
+    <sub>[#6062](https://github.com/flutter/packages/pull/6062) merged on February 13, 2024 &mdash; **Extra large:** [18 comments](https://github.com/flutter/packages/pull/6062) over 1 week, 963 additions and 997 deletions in 20 files</sub>
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump org.json:json from 20231013 to 20240205 in /packages/in_app_purchase/in_app_purchase/example/android/app
     <sub>[#6096](https://github.com/flutter/packages/pull/6096) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6096) over 16 hours, 1 addition and 1 deletion in 1 file</sub>
