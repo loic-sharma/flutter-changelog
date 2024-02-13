@@ -4,7 +4,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-15 commits.
+16 commits.
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Introduce `iconAlignment` for the buttons with icon<br />
     <sub>[#137348](https://github.com/flutter/flutter/pull/137348) merged on February 12, 2024 &mdash; **Large:** [129 comments](https://github.com/flutter/flutter/pull/137348) over 3 months, 942 additions and 17 deletions in 11 files</sub><br />
@@ -14,6 +14,10 @@
     <sub>[#143308](https://github.com/flutter/flutter/pull/143308) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143308) over 16 hours, 151 additions and 8 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
     <sub><details><summary>2 images...</summary>![ScreenRecording2024-02-12at18 40 34-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/c101e0d6-ce5a-4b28-9626-28bcb83d2a5c)![ScreenRecording2024-02-12at18 40 10-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/923b348e-8adf-4d64-9dc3-e75d30e3e2fb)</details></sub>
+
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `widgets/`<br />
+    <sub>[#143293](https://github.com/flutter/flutter/pull/143293) merged on February 13, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/143293) over 1 day, 169 additions and 306 deletions in 19 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Re-re-land] Enforce a policy on supported Gradle, Java, AGP, and KGP versions<br />
     <sub>[#143341](https://github.com/flutter/flutter/pull/143341) merged on February 13, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/143341) over 16 hours, 593 additions and 4 deletions in 11 files</sub><br />
@@ -646,7 +650,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-23 commits.
+24 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur<br />
     <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub><br />
@@ -688,6 +692,10 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Run tests with test arguments<br />
     <sub>[#50478](https://github.com/flutter/engine/pull/50478) merged on February 13, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/50478) over 4 days, 117 additions and 44 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang), [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] replaced playground macros with functions<br />
+    <sub>[#50602](https://github.com/flutter/engine/pull/50602) merged on February 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50602) over 1 hour, 175 additions and 122 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow deprecated members from the Dart SDK to roll in.<br />
     <sub>[#50575](https://github.com/flutter/engine/pull/50575) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50575) over 18 hours, 4 additions and 2 deletions in 1 file</sub><br />
