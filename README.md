@@ -4,7 +4,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-17 commits.
+18 commits.
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Introduce `iconAlignment` for the buttons with icon<br />
     <sub>[#137348](https://github.com/flutter/flutter/pull/137348) merged on February 12, 2024 &mdash; **Large:** [129 comments](https://github.com/flutter/flutter/pull/137348) over 3 months, 942 additions and 17 deletions in 11 files</sub><br />
@@ -30,6 +30,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `insetPadding` parameter nullability for dialogs<br />
     <sub>[#143305](https://github.com/flutter/flutter/pull/143305) merged on February 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143305) over 9 hours, 84 additions and 12 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove message about `pub cache` that is not actionable<br />
+    <sub>[#143357](https://github.com/flutter/flutter/pull/143357) merged on February 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143357) over 15 hours, 0 additions and 132 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add documentation for best practices for `StreamBuilder` like `FutureBuilder` <br />
     <sub>[#143295](https://github.com/flutter/flutter/pull/143295) merged on February 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143295) over 13 hours, 14 additions and 0 deletions in 1 file</sub><br />
@@ -654,7 +658,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-25 commits.
+26 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur<br />
     <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub><br />
@@ -696,6 +700,10 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Run tests with test arguments<br />
     <sub>[#50478](https://github.com/flutter/engine/pull/50478) merged on February 13, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/50478) over 4 days, 117 additions and 44 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang), [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [engine_build_configs] Use dart:ffi Abi to determine the host cpu<br />
+    <sub>[#50604](https://github.com/flutter/engine/pull/50604) merged on February 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50604) over 58 minutes, 74 additions and 24 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update embedder support for Impeller/OpenGL to load some missing shaders and configure a depth attachment<br />
     <sub>[#50416](https://github.com/flutter/engine/pull/50416) merged on February 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50416) over 6 days, 136 additions and 33 deletions in 13 files</sub><br />
@@ -1353,7 +1361,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-9 commits.
+10 commits.
 
 * **[GavrielRosendorn74](https://github.com/GavrielRosendorn74)** &mdash; [google_maps_flutter][iOS 17] takeSnapshot FIX<br />
     <sub>[#5823](https://github.com/flutter/packages/pull/5823) merged on February 13, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/packages/pull/5823) over 1 month, 10 additions and 9 deletions in 4 files</sub><br />
@@ -1379,6 +1387,10 @@
 * **[leiatfly](https://github.com/leiatfly)** &mdash; [flutter_markdown] Use Text.rich to replace RichText in Flutter Markdown<br />
     <sub>[#6062](https://github.com/flutter/packages/pull/6062) merged on February 13, 2024 &mdash; **Extra large:** [18 comments](https://github.com/flutter/packages/pull/6062) over 1 week, 963 additions and 997 deletions in 20 files</sub><br />
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Alex Usmanov](https://github.com/Alex-Usmanov)** &mdash; [url_launcher] Add `InAppBrowserConfiguration` parameter in implementations<br />
+    <sub>[#5759](https://github.com/flutter/packages/pull/5759) merged on February 13, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/5759) over 1 month, 299 additions and 54 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump org.json:json from 20231013 to 20240205 in /packages/in_app_purchase/in_app_purchase/example/android/app<br />
     <sub>[#6096](https://github.com/flutter/packages/pull/6096) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6096) over 16 hours, 1 addition and 1 deletion in 1 file</sub><br />
