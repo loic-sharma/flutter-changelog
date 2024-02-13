@@ -53,9 +53,6 @@
 * **[Varun Kamani](https://github.com/varunkamanibosc)** &mdash; Add selectionOverlayBuilder in CupertinoDatePicker and CupertinoTimer…<br />
     <sub>[#143079](https://github.com/flutter/flutter/pull/143079) opened on on February 7, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143079) 307 additions and 18 deletions in 2 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Rename isAvailableForEnvironment to isRecommendedForEnvironment<br />
-    <sub>[#143176](https://github.com/flutter/flutter/pull/143176) opened on on February 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143176) 46 additions and 34 deletions in 3 files</sub><br />
-
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; PinnedHeaderSliver<br />
     <sub>[#143196](https://github.com/flutter/flutter/pull/143196) opened on on February 9, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143196) 407 additions and 0 deletions in 5 files</sub><br />
 
@@ -78,5 +75,5 @@
     <sub>[#143394](https://github.com/flutter/flutter/pull/143394) opened on on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143394) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mathias Mogensen](https://github.com/Xazin)** &mdash; Fix TextFields breaking on MacOS<br />
-    <sub>[#143401](https://github.com/flutter/flutter/pull/143401) opened on on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143401) 3 additions and 4 deletions in 1 file</sub><br />
+    <sub>[#143401](https://github.com/flutter/flutter/pull/143401) opened on on February 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143401) 3 additions and 4 deletions in 1 file</sub><br />
 
