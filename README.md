@@ -4,7 +4,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-24 commits.
+25 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `avatarBoxConstraints` & `deleteIconBoxConstraints` for the chips<br />
     <sub>[#143302](https://github.com/flutter/flutter/pull/143302) merged on February 13, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/143302) over 1 day, 1079 additions and 13 deletions in 16 files</sub><br />
@@ -63,6 +63,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Move JS interop to extension types<br />
     <sub>[#143274](https://github.com/flutter/flutter/pull/143274) merged on February 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143274) over 1 day, 23 additions and 89 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Srujan Gaddam](https://github.com/srujzs)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `external_ui` to `external_textures`.<br />
+    <sub>[#143406](https://github.com/flutter/flutter/pull/143406) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143406) over 54 minutes, 1 addition and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve some scrollbar error messages<br />
     <sub>[#143279](https://github.com/flutter/flutter/pull/143279) merged on February 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/143279) over 2 days, 105 additions and 28 deletions in 3 files</sub><br />
