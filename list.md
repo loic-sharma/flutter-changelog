@@ -1296,7 +1296,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-5 commits.
+6 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [in_app_purchase] Add alternative billing apis for android
     <sub>[#6056](https://github.com/flutter/packages/pull/6056) merged on February 12, 2024 &mdash; **Large:** [47 comments](https://github.com/flutter/packages/pull/6056) over 1 week, 996 additions and 45 deletions in 23 files</sub>
@@ -1309,6 +1309,11 @@
 * **[Ravi Singh Lodhi](https://github.com/foxtrotravi)** &mdash; [cupertino_icons] Add example to cupertino icons
     <sub>[#5312](https://github.com/flutter/packages/pull/5312) merged on February 12, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/packages/pull/5312) over 3 months, 58 additions and 2 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump org.json:json from 20231013 to 20240205 in /packages/in_app_purchase/in_app_purchase/example/android/app
+    <sub>[#6096](https://github.com/flutter/packages/pull/6096) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6096) over 16 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.json:json&package-manager=gradle&previous-version=20231013&new-version=20240205)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Rename iOS classes
     <sub>[#6108](https://github.com/flutter/packages/pull/6108) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/6108) over 3 hours, 259 additions and 253 deletions in 11 files</sub>
