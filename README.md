@@ -4,7 +4,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-13 commits.
+14 commits.
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Introduce `iconAlignment` for the buttons with icon<br />
     <sub>[#137348](https://github.com/flutter/flutter/pull/137348) merged on February 12, 2024 &mdash; **Large:** [129 comments](https://github.com/flutter/flutter/pull/137348) over 3 months, 942 additions and 17 deletions in 11 files</sub><br />
@@ -14,6 +14,10 @@
     <sub>[#143308](https://github.com/flutter/flutter/pull/143308) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143308) over 16 hours, 151 additions and 8 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
     <sub><details><summary>2 images...</summary>![ScreenRecording2024-02-12at18 40 34-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/c101e0d6-ce5a-4b28-9626-28bcb83d2a5c)![ScreenRecording2024-02-12at18 40 10-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/923b348e-8adf-4d64-9dc3-e75d30e3e2fb)</details></sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Re-re-land] Enforce a policy on supported Gradle, Java, AGP, and KGP versions<br />
+    <sub>[#143341](https://github.com/flutter/flutter/pull/143341) merged on February 13, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/143341) over 16 hours, 593 additions and 4 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `insetPadding` parameter nullability for dialogs<br />
     <sub>[#143305](https://github.com/flutter/flutter/pull/143305) merged on February 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143305) over 9 hours, 84 additions and 12 deletions in 4 files</sub><br />
