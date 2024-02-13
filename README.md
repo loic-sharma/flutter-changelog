@@ -1361,7 +1361,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-10 commits.
+11 commits.
 
 * **[GavrielRosendorn74](https://github.com/GavrielRosendorn74)** &mdash; [google_maps_flutter][iOS 17] takeSnapshot FIX<br />
     <sub>[#5823](https://github.com/flutter/packages/pull/5823) merged on February 13, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/packages/pull/5823) over 1 month, 10 additions and 9 deletions in 4 files</sub><br />
@@ -1396,6 +1396,10 @@
     <sub>[#6096](https://github.com/flutter/packages/pull/6096) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6096) over 16 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.json:json&package-manager=gradle&previous-version=20231013&new-version=20240205)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Allow dependencies on local_auth_ios<br />
+    <sub>[#6116](https://github.com/flutter/packages/pull/6116) merged on February 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6116) over 1 hour, 4 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Rename iOS classes<br />
     <sub>[#6108](https://github.com/flutter/packages/pull/6108) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/6108) over 3 hours, 259 additions and 253 deletions in 11 files</sub><br />
