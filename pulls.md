@@ -62,11 +62,14 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; PinnedHeaderSliver<br />
     <sub>[#143196](https://github.com/flutter/flutter/pull/143196) opened on on February 9, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143196) 410 additions and 0 deletions in 5 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Changing `TextPainter.getOffsetForCaret` implementation to remove the logarithmic search<br />
+    <sub>[#143281](https://github.com/flutter/flutter/pull/143281) opened on on February 11, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/143281) 898 additions and 802 deletions in 8 files</sub><br />
+
 * **[Tirth](https://github.com/piedcipher)** &mdash; Added Small Doc Enhancement in Badge<br />
     <sub>[#143319](https://github.com/flutter/flutter/pull/143319) opened on on February 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143319) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; ResizingHeaderSliver<br />
-    <sub>[#143325](https://github.com/flutter/flutter/pull/143325) opened on on February 12, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/143325) 385 additions and 0 deletions in 4 files</sub><br />
+    <sub>[#143325](https://github.com/flutter/flutter/pull/143325) opened on on February 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143325) 507 additions and 0 deletions in 5 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Add isEnabled semantics flag to  text field<br />
     <sub>[#143334](https://github.com/flutter/flutter/pull/143334) opened on on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143334) 161 additions and 81 deletions in 7 files</sub><br />
