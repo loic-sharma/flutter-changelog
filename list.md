@@ -4,7 +4,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-23 commits.
+24 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `avatarBoxConstraints` & `deleteIconBoxConstraints` for the chips
     <sub>[#143302](https://github.com/flutter/flutter/pull/143302) merged on February 13, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/143302) over 1 day, 1079 additions and 13 deletions in 16 files</sub>
@@ -63,6 +63,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Move JS interop to extension types
     <sub>[#143274](https://github.com/flutter/flutter/pull/143274) merged on February 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143274) over 1 day, 23 additions and 89 deletions in 2 files</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Srujan Gaddam](https://github.com/srujzs)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve some scrollbar error messages
+    <sub>[#143279](https://github.com/flutter/flutter/pull/143279) merged on February 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/143279) over 2 days, 105 additions and 28 deletions in 3 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow deprecated members from the Dart SDK and Flutter Engine to roll in
     <sub>[#143347](https://github.com/flutter/flutter/pull/143347) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143347) over 18 hours, 4 additions and 2 deletions in 1 file</sub>
