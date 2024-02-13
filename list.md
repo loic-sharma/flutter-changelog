@@ -1300,11 +1300,15 @@
 
 ### February 10, 2024 to February 16, 2024
 
-6 commits.
+7 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [in_app_purchase] Add alternative billing apis for android
     <sub>[#6056](https://github.com/flutter/packages/pull/6056) merged on February 12, 2024 &mdash; **Large:** [47 comments](https://github.com/flutter/packages/pull/6056) over 1 week, 996 additions and 45 deletions in 23 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Convert startProductRequest(), finishTransaction(), restoreTransactions(), presentCodeRedemptionSheet() to pigeon
+    <sub>[#6032](https://github.com/flutter/packages/pull/6032) merged on February 13, 2024 &mdash; **Extra large:** [25 comments](https://github.com/flutter/packages/pull/6032) over 1 week, 1822 additions and 223 deletions in 19 files</sub>
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jakub Walusiak](https://github.com/SynSzakala)** &mdash; [video_player_android] Handle BehindLiveWindowException
     <sub>[#5869](https://github.com/flutter/packages/pull/5869) merged on February 12, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/5869) over 1 month, 38 additions and 6 deletions in 4 files</sub>
