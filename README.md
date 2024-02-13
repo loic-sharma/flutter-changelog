@@ -4,7 +4,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-14 commits.
+15 commits.
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Introduce `iconAlignment` for the buttons with icon<br />
     <sub>[#137348](https://github.com/flutter/flutter/pull/137348) merged on February 12, 2024 &mdash; **Large:** [129 comments](https://github.com/flutter/flutter/pull/137348) over 3 months, 942 additions and 17 deletions in 11 files</sub><br />
@@ -38,6 +38,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Move JS interop to extension types<br />
     <sub>[#143274](https://github.com/flutter/flutter/pull/143274) merged on February 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143274) over 1 day, 23 additions and 89 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Srujan Gaddam](https://github.com/srujzs)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow deprecated members from the Dart SDK and Flutter Engine to roll in<br />
+    <sub>[#143347](https://github.com/flutter/flutter/pull/143347) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143347) over 18 hours, 4 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update integration_test iOS FTL README script to remove targeted version<br />
     <sub>[#143248](https://github.com/flutter/flutter/pull/143248) merged on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143248) over 2 days, 4 additions and 3 deletions in 1 file</sub><br />
@@ -642,7 +646,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-22 commits.
+23 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur<br />
     <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub><br />
@@ -684,6 +688,10 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Run tests with test arguments<br />
     <sub>[#50478](https://github.com/flutter/engine/pull/50478) merged on February 13, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/50478) over 4 days, 117 additions and 44 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang), [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow deprecated members from the Dart SDK to roll in.<br />
+    <sub>[#50575](https://github.com/flutter/engine/pull/50575) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50575) over 18 hours, 4 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Do not use AChoreographer on 32 bit devices<br />
     <sub>[#50586](https://github.com/flutter/engine/pull/50586) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50586) over 12 hours, 20 additions and 0 deletions in 2 files</sub><br />
