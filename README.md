@@ -675,7 +675,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-27 commits.
+28 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur<br />
     <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub><br />
@@ -717,6 +717,10 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Run tests with test arguments<br />
     <sub>[#50478](https://github.com/flutter/engine/pull/50478) merged on February 13, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/50478) over 4 days, 117 additions and 44 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang), [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Turn on golden tests that use the ImGui widgets functions<br />
+    <sub>[#50606](https://github.com/flutter/engine/pull/50606) merged on February 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50606) over 1 hour, 44 additions and 46 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove denylist entry.<br />
     <sub>[#50605](https://github.com/flutter/engine/pull/50605) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50605) over 1 hour, 1 addition and 4 deletions in 1 file</sub><br />

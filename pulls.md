@@ -69,5 +69,5 @@
     <sub>[#143325](https://github.com/flutter/flutter/pull/143325) opened on on February 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143325) 507 additions and 0 deletions in 5 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix `AssetsEntry::equals`<br />
-    <sub>[#143355](https://github.com/flutter/flutter/pull/143355) opened on on February 13, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/143355) 229 additions and 150 deletions in 5 files</sub><br />
+    <sub>[#143355](https://github.com/flutter/flutter/pull/143355) opened on on February 13, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/143355) 229 additions and 150 deletions in 5 files</sub><br />
 
