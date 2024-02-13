@@ -4,7 +4,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-22 commits.
+23 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `avatarBoxConstraints` & `deleteIconBoxConstraints` for the chips
     <sub>[#143302](https://github.com/flutter/flutter/pull/143302) merged on February 13, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/143302) over 1 day, 1079 additions and 13 deletions in 16 files</sub>
@@ -35,6 +35,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `insetPadding` parameter nullability for dialogs
     <sub>[#143305](https://github.com/flutter/flutter/pull/143305) merged on February 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143305) over 9 hours, 84 additions and 12 deletions in 4 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+
+* **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Add isEnabled semantics flag to  text field
+    <sub>[#143334](https://github.com/flutter/flutter/pull/143334) merged on February 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/143334) over 1 day, 94 additions and 16 deletions in 7 files</sub>
+    <sub>Reviewed by: [Ari Weiland](https://github.com/math1man), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove message about `pub cache` that is not actionable
     <sub>[#143357](https://github.com/flutter/flutter/pull/143357) merged on February 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143357) over 15 hours, 0 additions and 132 deletions in 2 files</sub>
@@ -675,7 +679,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-29 commits.
+30 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur
     <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub>
@@ -717,6 +721,10 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Run tests with test arguments
     <sub>[#50478](https://github.com/flutter/engine/pull/50478) merged on February 13, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/50478) over 4 days, 117 additions and 44 deletions in 4 files</sub>
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang), [Casey Hillers](https://github.com/CaseyHillers)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Refactor window destroyed app lifecycle event
+    <sub>[#50565](https://github.com/flutter/engine/pull/50565) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50565) over 1 day, 70 additions and 88 deletions in 7 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix cmd buffer recycling bug in test.
     <sub>[#50615](https://github.com/flutter/engine/pull/50615) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50615) over 1 hour, 8 additions and 6 deletions in 1 file</sub>
