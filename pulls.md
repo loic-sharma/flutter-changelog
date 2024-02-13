@@ -68,6 +68,6 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; ResizingHeaderSliver<br />
     <sub>[#143325](https://github.com/flutter/flutter/pull/143325) opened on on February 12, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/143325) 359 additions and 0 deletions in 3 files</sub><br />
 
-* **[hangyu](https://github.com/hangyujin)** &mdash; Add isEnabled semantics flag to  editable text <br />
-    <sub>[#143334](https://github.com/flutter/flutter/pull/143334) opened on on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143334) 2 additions and 1 deletion in 1 file</sub><br />
+* **[hangyu](https://github.com/hangyujin)** &mdash; Add isEnabled semantics flag to  text field<br />
+    <sub>[#143334](https://github.com/flutter/flutter/pull/143334) opened on on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143334) 156 additions and 84 deletions in 6 files</sub><br />
 
