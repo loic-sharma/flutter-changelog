@@ -83,6 +83,10 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot 2024-02-02 at 21 10 57](https://github.com/flutter/flutter/assets/48603081/66d808f0-d638-4561-b9a4-96d1b93938f4)</details></sub>
 
+* **[Kris Pypen](https://github.com/krispypen)** &mdash; Fix: performance improvement on golden test comparison
+    <sub>[#142913](https://github.com/flutter/flutter/pull/142913) merged on February 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/142913) over 4 days, 17 additions and 8 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Enforce a policy on supported Gradle, Java, AGP, and KGP versions
     <sub>[#142000](https://github.com/flutter/flutter/pull/142000) merged on February 7, 2024 &mdash; **Large:** [53 comments](https://github.com/flutter/flutter/pull/142000) over 2 weeks, 586 additions and 3 deletions in 8 files</sub>
     <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
@@ -91,10 +95,6 @@
     <sub>[#136181](https://github.com/flutter/flutter/pull/136181) merged on February 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/136181) over 3 months, 164 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot_1696829290](https://github.com/flutter/flutter/assets/147121557/209fee88-9efc-4b92-803a-453ecc6a7c16)![Screenshot_1696830232](https://github.com/flutter/flutter/assets/147121557/ecd11266-4c22-49cc-9bb5-2df39d10cf79)</details></sub>
-
-* **[Kris Pypen](https://github.com/krispypen)** &mdash; Fix: performance improvement on golden test comparison
-    <sub>[#142913](https://github.com/flutter/flutter/pull/142913) merged on February 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/142913) over 4 days, 17 additions and 8 deletions in 2 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; Material 3 - Tab indicator stretch animation
     <sub>[#141954](https://github.com/flutter/flutter/pull/141954) merged on February 6, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/141954) over 2 weeks, 133 additions and 2 deletions in 2 files</sub>
