@@ -642,7 +642,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-20 commits.
+21 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur<br />
     <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub><br />
@@ -680,6 +680,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Initializes RBE in the build config runner<br />
     <sub>[#50543](https://github.com/flutter/engine/pull/50543) merged on February 12, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/50543) over 1 day, 341 additions and 110 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Do not use AChoreographer on 32 bit devices<br />
+    <sub>[#50586](https://github.com/flutter/engine/pull/50586) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50586) over 12 hours, 20 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move libpng to //flutter/third_party/libpng<br />
     <sub>[#50571](https://github.com/flutter/engine/pull/50571) merged on February 13, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/50571) over 16 hours, 223 additions and 216 deletions in 10 files</sub><br />
