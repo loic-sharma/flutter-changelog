@@ -53,9 +53,6 @@
 * **[Varun Kamani](https://github.com/varunkamanibosc)** &mdash; Add selectionOverlayBuilder in CupertinoDatePicker and CupertinoTimer…<br />
     <sub>[#143079](https://github.com/flutter/flutter/pull/143079) opened on on February 7, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143079) 307 additions and 18 deletions in 2 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update dependencies in integration test<br />
-    <sub>[#143111](https://github.com/flutter/flutter/pull/143111) opened on on February 7, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/143111) 39 additions and 39 deletions in 3 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Rename isAvailableForEnvironment to isRecommendedForEnvironment<br />
     <sub>[#143176](https://github.com/flutter/flutter/pull/143176) opened on on February 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143176) 46 additions and 34 deletions in 3 files</sub><br />
 

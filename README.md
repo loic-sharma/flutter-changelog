@@ -4,7 +4,12 @@
 
 ### February 10, 2024 to February 16, 2024
 
-20 commits.
+22 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `avatarBoxConstraints` & `deleteIconBoxConstraints` for the chips<br />
+    <sub>[#143302](https://github.com/flutter/flutter/pull/143302) merged on February 13, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/143302) over 1 day, 1079 additions and 13 deletions in 16 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub><details><summary>3 images...</summary><img src="https://github.com/flutter/flutter/assets/48603081/7964cdae-b89a-4175-8fbb-05b87acc1761"/><img src="https://github.com/flutter/flutter/assets/48603081/6b3f292d-80b7-4216-a05d-4a0cbe202d25"  />![Screenshot 2024-02-12 at 14 58 35](https://github.com/flutter/flutter/assets/48603081/5724bd07-7ac7-4987-b992-fa3ab8488273)</details></sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Introduce `iconAlignment` for the buttons with icon<br />
     <sub>[#137348](https://github.com/flutter/flutter/pull/137348) merged on February 12, 2024 &mdash; **Large:** [129 comments](https://github.com/flutter/flutter/pull/137348) over 3 months, 942 additions and 17 deletions in 11 files</sub><br />
@@ -66,6 +71,10 @@
 * **[Nitesh Sharma](https://github.com/niteshsh4rma)** &mdash; Fix dual focus issue in CheckboxListTile, RadioListTile and SwitchListTile<br />
     <sub>[#143213](https://github.com/flutter/flutter/pull/143213) merged on February 12, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/143213) over 3 days, 251 additions and 108 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update dependencies in integration test<br />
+    <sub>[#143111](https://github.com/flutter/flutter/pull/143111) merged on February 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/143111) over 5 days, 39 additions and 39 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; refactor: remove implicit globals dependencies in `writeBundle`<br />
     <sub>[#143343](https://github.com/flutter/flutter/pull/143343) merged on February 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143343) over 20 hours, 40 additions and 16 deletions in 4 files</sub><br />
