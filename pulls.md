@@ -74,3 +74,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix `AssetsEntry::equals`<br />
     <sub>[#143355](https://github.com/flutter/flutter/pull/143355) opened on on February 13, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/143355) 216 additions and 140 deletions in 4 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; InputDecorator M3 test migration step2<br />
+    <sub>[#143369](https://github.com/flutter/flutter/pull/143369) opened on on February 13, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/143369) 495 additions and 111 deletions in 1 file</sub><br />
+
