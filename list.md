@@ -692,7 +692,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-30 commits.
+31 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur
     <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub>
@@ -734,6 +734,10 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Run tests with test arguments
     <sub>[#50478](https://github.com/flutter/engine/pull/50478) merged on February 13, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/50478) over 4 days, 117 additions and 44 deletions in 4 files</sub>
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang), [Casey Hillers](https://github.com/CaseyHillers)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] add benchmarks for the stroke geometry entity code
+    <sub>[#50616](https://github.com/flutter/engine/pull/50616) merged on February 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/50616) over 2 hours, 160 additions and 0 deletions in 4 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Refactor window destroyed app lifecycle event
     <sub>[#50565](https://github.com/flutter/engine/pull/50565) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50565) over 1 day, 70 additions and 88 deletions in 7 files</sub>
