@@ -71,9 +71,6 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; ResizingHeaderSliver<br />
     <sub>[#143325](https://github.com/flutter/flutter/pull/143325) opened on on February 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143325) 507 additions and 0 deletions in 5 files</sub><br />
 
-* **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Add isEnabled semantics flag to  text field<br />
-    <sub>[#143334](https://github.com/flutter/flutter/pull/143334) opened on on February 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143334) 161 additions and 81 deletions in 7 files</sub><br />
-
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix `AssetsEntry::equals`<br />
     <sub>[#143355](https://github.com/flutter/flutter/pull/143355) opened on on February 13, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/143355) 216 additions and 140 deletions in 4 files</sub><br />
 

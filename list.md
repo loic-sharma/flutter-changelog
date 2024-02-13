@@ -650,7 +650,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-24 commits.
+25 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur
     <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub>
@@ -692,6 +692,10 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Run tests with test arguments
     <sub>[#50478](https://github.com/flutter/engine/pull/50478) merged on February 13, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/50478) over 4 days, 117 additions and 44 deletions in 4 files</sub>
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang), [Casey Hillers](https://github.com/CaseyHillers)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update embedder support for Impeller/OpenGL to load some missing shaders and configure a depth attachment
+    <sub>[#50416](https://github.com/flutter/engine/pull/50416) merged on February 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50416) over 6 days, 136 additions and 33 deletions in 13 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] replaced playground macros with functions
     <sub>[#50602](https://github.com/flutter/engine/pull/50602) merged on February 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50602) over 1 hour, 175 additions and 122 deletions in 8 files</sub>
