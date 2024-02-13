@@ -56,7 +56,7 @@
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "Migrate integration_test plugin to Gradle Kotlin DSL (#142008)"
-    <sub>[#143329](https://github.com/flutter/flutter/pull/143329) merged on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143329) over 2 hours, 65 additions and 64 deletions in 3 files</sub>
+    <sub>[#143329](https://github.com/flutter/flutter/pull/143329) merged on February 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143329) over 2 hours, 65 additions and 64 deletions in 3 files</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 ### February 3, 2024 to February 9, 2024
