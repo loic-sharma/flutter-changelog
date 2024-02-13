@@ -666,7 +666,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-26 commits.
+27 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur<br />
     <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub><br />
@@ -708,6 +708,10 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Run tests with test arguments<br />
     <sub>[#50478](https://github.com/flutter/engine/pull/50478) merged on February 13, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/50478) over 4 days, 117 additions and 44 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang), [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove denylist entry.<br />
+    <sub>[#50605](https://github.com/flutter/engine/pull/50605) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50605) over 1 hour, 1 addition and 4 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [engine_build_configs] Use dart:ffi Abi to determine the host cpu<br />
     <sub>[#50604](https://github.com/flutter/engine/pull/50604) merged on February 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50604) over 58 minutes, 74 additions and 24 deletions in 3 files</sub><br />
