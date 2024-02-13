@@ -74,3 +74,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds missing `style` to `PopupMenuButton`<br />
     <sub>[#143392](https://github.com/flutter/flutter/pull/143392) opened on on February 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143392) 39 additions and 0 deletions in 2 files</sub><br />
 
+* **[creativecreatorormaybenot](https://github.com/creativecreatorormaybenot)** &mdash; Fix iOS status bar scroll to top gesture<br />
+    <sub>[#143394](https://github.com/flutter/flutter/pull/143394) opened on on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143394) 1 addition and 1 deletion in 1 file</sub><br />
+
