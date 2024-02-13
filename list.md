@@ -56,7 +56,7 @@
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "Migrate integration_test plugin to Gradle Kotlin DSL (#142008)"
-    <sub>[#143329](https://github.com/flutter/flutter/pull/143329) merged on February 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143329) over 2 hours, 65 additions and 64 deletions in 3 files</sub>
+    <sub>[#143329](https://github.com/flutter/flutter/pull/143329) merged on February 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143329) over 2 hours, 65 additions and 64 deletions in 3 files</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 ### February 3, 2024 to February 9, 2024
@@ -638,7 +638,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-19 commits.
+20 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur
     <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub>
@@ -676,6 +676,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Initializes RBE in the build config runner
     <sub>[#50543](https://github.com/flutter/engine/pull/50543) merged on February 12, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/50543) over 1 day, 341 additions and 110 deletions in 5 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move libpng to //flutter/third_party/libpng
+    <sub>[#50571](https://github.com/flutter/engine/pull/50571) merged on February 13, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/50571) over 16 hours, 223 additions and 216 deletions in 10 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] cleaned up and removed golden test exceptions
     <sub>[#50572](https://github.com/flutter/engine/pull/50572) merged on February 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50572) over 5 hours, 113 additions and 98 deletions in 9 files</sub>
