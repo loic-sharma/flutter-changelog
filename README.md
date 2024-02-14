@@ -1423,7 +1423,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-11 commits.
+12 commits.
 
 * **[GavrielRosendorn74](https://github.com/GavrielRosendorn74)** &mdash; [google_maps_flutter][iOS 17] takeSnapshot FIX<br />
     <sub>[#5823](https://github.com/flutter/packages/pull/5823) merged on February 13, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/packages/pull/5823) over 1 month, 10 additions and 9 deletions in 4 files</sub><br />
@@ -1458,6 +1458,10 @@
     <sub>[#6096](https://github.com/flutter/packages/pull/6096) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6096) over 16 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.json:json&package-manager=gradle&previous-version=20231013&new-version=20240205)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [google_maps_flutter][iOS 12] Skip `testTakeSnapshot`<br />
+    <sub>[#6120](https://github.com/flutter/packages/pull/6120) merged on February 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6120) over 3 hours, 3 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Allow dependencies on local_auth_ios<br />
     <sub>[#6116](https://github.com/flutter/packages/pull/6116) merged on February 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6116) over 1 hour, 4 additions and 0 deletions in 1 file</sub><br />
