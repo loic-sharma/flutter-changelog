@@ -74,6 +74,3 @@
 * **[Mathias Mogensen](https://github.com/Xazin)** &mdash; Fix TextFields breaking on MacOS<br />
     <sub>[#143401](https://github.com/flutter/flutter/pull/143401) opened on on February 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143401) 7 additions and 5 deletions in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add more documentation for TextEditingController default constructor<br />
-    <sub>[#143452](https://github.com/flutter/flutter/pull/143452) opened on on February 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143452) 101 additions and 0 deletions in 3 files</sub><br />
-
