@@ -4,7 +4,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-27 commits.
+28 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `avatarBoxConstraints` & `deleteIconBoxConstraints` for the chips<br />
     <sub>[#143302](https://github.com/flutter/flutter/pull/143302) merged on February 13, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/143302) over 1 day, 1079 additions and 13 deletions in 16 files</sub><br />
@@ -68,6 +68,10 @@
 * **[Ross Llewallyn](https://github.com/EnduringBeta)** &mdash; Badge class doc typo - missing [<br />
     <sub>[#143318](https://github.com/flutter/flutter/pull/143318) merged on February 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143318) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] retain first frame data in certain integration tests.<br />
+    <sub>[#143419](https://github.com/flutter/flutter/pull/143419) merged on February 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143419) over 2 hours, 5 additions and 7 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `external_ui` to `external_textures`.<br />
     <sub>[#143406](https://github.com/flutter/flutter/pull/143406) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143406) over 54 minutes, 1 addition and 2 deletions in 1 file</sub><br />
