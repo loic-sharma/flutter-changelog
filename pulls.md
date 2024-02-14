@@ -75,5 +75,5 @@
     <sub>[#143401](https://github.com/flutter/flutter/pull/143401) opened on on February 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143401) 7 additions and 5 deletions in 1 file</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; (In the context of flutter manifest parsing) Introduce the concept of a result type<br />
-    <sub>[#143413](https://github.com/flutter/flutter/pull/143413) opened on on February 14, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143413) 199 additions and 152 deletions in 20 files</sub><br />
+    <sub>[#143413](https://github.com/flutter/flutter/pull/143413) opened on on February 14, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143413) 218 additions and 163 deletions in 21 files</sub><br />
 
