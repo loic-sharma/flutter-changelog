@@ -77,3 +77,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; (In the context of flutter manifest parsing) Introduce the concept of a result type<br />
     <sub>[#143413](https://github.com/flutter/flutter/pull/143413) opened on on February 14, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143413) 234 additions and 163 deletions in 21 files</sub><br />
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[a11y] Fix date picker cannot focus on the edit field (#143117)"<br />
+    <sub>[#143493](https://github.com/flutter/flutter/pull/143493) opened on on February 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143493) 63 additions and 101 deletions in 4 files</sub><br />
+

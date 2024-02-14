@@ -150,7 +150,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Fix date picker cannot focus on the edit field
-    <sub>[#143117](https://github.com/flutter/flutter/pull/143117) merged on February 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143117) over 6 days, 101 additions and 63 deletions in 4 files</sub>
+    <sub>[#143117](https://github.com/flutter/flutter/pull/143117) merged on February 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/143117) over 6 days, 101 additions and 63 deletions in 4 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Remove unnecessary 'debugLabel: null'.
