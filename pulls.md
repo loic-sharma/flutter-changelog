@@ -74,3 +74,6 @@
 * **[Mathias Mogensen](https://github.com/Xazin)** &mdash; Fix TextFields breaking on MacOS<br />
     <sub>[#143401](https://github.com/flutter/flutter/pull/143401) opened on on February 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143401) 7 additions and 5 deletions in 1 file</sub><br />
 
+* **[itsgits01](https://github.com/itsgits01)** &mdash; Gitflutter2<br />
+    <sub>[#143432](https://github.com/flutter/flutter/pull/143432) opened on on February 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143432) 4 additions and 1 deletion in 1 file</sub><br />
+
