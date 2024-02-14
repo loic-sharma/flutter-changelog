@@ -4,16 +4,16 @@
 
 ### February 10, 2024 to February 16, 2024
 
-33 commits.
+36 commits.
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Introduce `iconAlignment` for the buttons with icon
+    <sub>[#137348](https://github.com/flutter/flutter/pull/137348) merged on February 12, 2024 &mdash; **Large:** [129 comments](https://github.com/flutter/flutter/pull/137348) over 3 months, 942 additions and 17 deletions in 11 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `avatarBoxConstraints` & `deleteIconBoxConstraints` for the chips
     <sub>[#143302](https://github.com/flutter/flutter/pull/143302) merged on February 13, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/143302) over 1 day, 1079 additions and 13 deletions in 16 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>3 images...</summary><img src="https://github.com/flutter/flutter/assets/48603081/7964cdae-b89a-4175-8fbb-05b87acc1761"/><img src="https://github.com/flutter/flutter/assets/48603081/6b3f292d-80b7-4216-a05d-4a0cbe202d25"  />![Screenshot 2024-02-12 at 14 58 35](https://github.com/flutter/flutter/assets/48603081/5724bd07-7ac7-4987-b992-fa3ab8488273)</details></sub>
-
-* **[Tirth](https://github.com/piedcipher)** &mdash; Introduce `iconAlignment` for the buttons with icon
-    <sub>[#137348](https://github.com/flutter/flutter/pull/137348) merged on February 12, 2024 &mdash; **Large:** [129 comments](https://github.com/flutter/flutter/pull/137348) over 3 months, 942 additions and 17 deletions in 11 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Have `FocusManager` respond to app lifecycle state changes
     <sub>[#142930](https://github.com/flutter/flutter/pull/142930) merged on February 13, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/142930) over 1 week, 102 additions and 0 deletions in 2 files</sub>
@@ -24,6 +24,10 @@
     <sub>[#143308](https://github.com/flutter/flutter/pull/143308) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143308) over 16 hours, 151 additions and 8 deletions in 3 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
     <sub><details><summary>2 images...</summary>![ScreenRecording2024-02-12at18 40 34-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/c101e0d6-ce5a-4b28-9626-28bcb83d2a5c)![ScreenRecording2024-02-12at18 40 10-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/923b348e-8adf-4d64-9dc3-e75d30e3e2fb)</details></sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; The initial/selected item on popup menu should always be visible
+    <sub>[#143118](https://github.com/flutter/flutter/pull/143118) merged on February 14, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/143118) over 6 days, 73 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Todd Volkert](https://github.com/tvolkert)</sub>
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `widgets/`
     <sub>[#143293](https://github.com/flutter/flutter/pull/143293) merged on February 13, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/143293) over 1 day, 169 additions and 306 deletions in 19 files</sub>
@@ -57,13 +61,13 @@
     <sub>[#142853](https://github.com/flutter/flutter/pull/142853) merged on February 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/142853) over 1 week, 24 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Elias Yishak](https://github.com/eliasyishak)</sub>
 
-* **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Add isEnabled semantics flag to  text field
-    <sub>[#143334](https://github.com/flutter/flutter/pull/143334) merged on February 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/143334) over 1 day, 94 additions and 16 deletions in 7 files</sub>
-    <sub>Reviewed by: [Ari Weiland](https://github.com/math1man), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Move JS interop to extension types
     <sub>[#143274](https://github.com/flutter/flutter/pull/143274) merged on February 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143274) over 1 day, 23 additions and 89 deletions in 2 files</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Srujan Gaddam](https://github.com/srujzs)</sub>
+
+* **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Add isEnabled semantics flag to  text field
+    <sub>[#143334](https://github.com/flutter/flutter/pull/143334) merged on February 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/143334) over 1 day, 94 additions and 16 deletions in 7 files</sub>
+    <sub>Reviewed by: [Ari Weiland](https://github.com/math1man), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove message about `pub cache` that is not actionable
     <sub>[#143357](https://github.com/flutter/flutter/pull/143357) merged on February 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143357) over 15 hours, 0 additions and 132 deletions in 2 files</sub>
@@ -85,17 +89,21 @@
     <sub>[#143318](https://github.com/flutter/flutter/pull/143318) merged on February 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143318) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Disable deprecation warnings for mega_gallery
+    <sub>[#143466](https://github.com/flutter/flutter/pull/143466) merged on February 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143466) over 2 hours, 10 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Roll native_assets_builder to 0.5.0
+    <sub>[#143472](https://github.com/flutter/flutter/pull/143472) merged on February 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143472) over 2 hours, 184 additions and 107 deletions in 8 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update integration_test iOS FTL README script to remove targeted version
+    <sub>[#143248](https://github.com/flutter/flutter/pull/143248) merged on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143248) over 2 days, 4 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Format all kotlin according to ktlint
     <sub>[#143390](https://github.com/flutter/flutter/pull/143390) merged on February 14, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143390) over 21 hours, 272 additions and 228 deletions in 16 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] retain first frame data in certain integration tests.
-    <sub>[#143419](https://github.com/flutter/flutter/pull/143419) merged on February 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/143419) over 2 hours, 5 additions and 7 deletions in 5 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `external_ui` to `external_textures`.
-    <sub>[#143406](https://github.com/flutter/flutter/pull/143406) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143406) over 54 minutes, 1 addition and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve some scrollbar error messages
     <sub>[#143279](https://github.com/flutter/flutter/pull/143279) merged on February 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/143279) over 2 days, 105 additions and 28 deletions in 3 files</sub>
@@ -105,9 +113,13 @@
     <sub>[#143347](https://github.com/flutter/flutter/pull/143347) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143347) over 18 hours, 4 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update integration_test iOS FTL README script to remove targeted version
-    <sub>[#143248](https://github.com/flutter/flutter/pull/143248) merged on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143248) over 2 days, 4 additions and 3 deletions in 1 file</sub>
-    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] retain first frame data in certain integration tests.
+    <sub>[#143419](https://github.com/flutter/flutter/pull/143419) merged on February 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/143419) over 2 hours, 5 additions and 7 deletions in 5 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `external_ui` to `external_textures`.
+    <sub>[#143406](https://github.com/flutter/flutter/pull/143406) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143406) over 54 minutes, 1 addition and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Nitesh Sharma](https://github.com/niteshsh4rma)** &mdash; Fix dual focus issue in CheckboxListTile, RadioListTile and SwitchListTile
     <sub>[#143213](https://github.com/flutter/flutter/pull/143213) merged on February 12, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/143213) over 3 days, 251 additions and 108 deletions in 6 files</sub>
