@@ -4,7 +4,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-28 commits.
+29 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `avatarBoxConstraints` & `deleteIconBoxConstraints` for the chips<br />
     <sub>[#143302](https://github.com/flutter/flutter/pull/143302) merged on February 13, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/143302) over 1 day, 1079 additions and 13 deletions in 16 files</sub><br />
@@ -28,6 +28,10 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `widgets/`<br />
     <sub>[#143293](https://github.com/flutter/flutter/pull/143293) merged on February 13, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/143293) over 1 day, 169 additions and 306 deletions in 19 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use `dart compile wasm` for wasm compilations<br />
+    <sub>[#143298](https://github.com/flutter/flutter/pull/143298) merged on February 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143298) over 1 day, 70 additions and 134 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix chips constructor docs for callbacks<br />
     <sub>[#143361](https://github.com/flutter/flutter/pull/143361) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143361) over 10 hours, 22 additions and 15 deletions in 4 files</sub><br />
