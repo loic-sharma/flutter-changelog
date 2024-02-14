@@ -70,7 +70,7 @@
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Srujan Gaddam](https://github.com/srujzs)</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Add isEnabled semantics flag to  text field<br />
-    <sub>[#143334](https://github.com/flutter/flutter/pull/143334) merged on February 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/143334) over 1 day, 94 additions and 16 deletions in 7 files</sub><br />
+    <sub>[#143334](https://github.com/flutter/flutter/pull/143334) merged on February 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/143334) over 1 day, 94 additions and 16 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Ari Weiland](https://github.com/math1man), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove message about `pub cache` that is not actionable<br />
