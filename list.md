@@ -4,7 +4,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-26 commits.
+27 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `avatarBoxConstraints` & `deleteIconBoxConstraints` for the chips
     <sub>[#143302](https://github.com/flutter/flutter/pull/143302) merged on February 13, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/143302) over 1 day, 1079 additions and 13 deletions in 16 files</sub>
@@ -88,6 +88,10 @@
 * **[Nitesh Sharma](https://github.com/niteshsh4rma)** &mdash; Fix dual focus issue in CheckboxListTile, RadioListTile and SwitchListTile
     <sub>[#143213](https://github.com/flutter/flutter/pull/143213) merged on February 12, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/143213) over 3 days, 251 additions and 108 deletions in 6 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix `AssetsEntry::equals`
+    <sub>[#143355](https://github.com/flutter/flutter/pull/143355) merged on February 14, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/143355) over 21 hours, 229 additions and 150 deletions in 5 files</sub>
+    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update dependencies in integration test
     <sub>[#143111](https://github.com/flutter/flutter/pull/143111) merged on February 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/143111) over 5 days, 39 additions and 39 deletions in 3 files</sub>

@@ -65,9 +65,6 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; ResizingHeaderSliver<br />
     <sub>[#143325](https://github.com/flutter/flutter/pull/143325) opened on on February 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143325) 507 additions and 0 deletions in 5 files</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix `AssetsEntry::equals`<br />
-    <sub>[#143355](https://github.com/flutter/flutter/pull/143355) opened on on February 13, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/143355) 229 additions and 150 deletions in 5 files</sub><br />
-
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds missing `style` to `PopupMenuButton`<br />
     <sub>[#143392](https://github.com/flutter/flutter/pull/143392) opened on on February 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143392) 39 additions and 0 deletions in 2 files</sub><br />
 
