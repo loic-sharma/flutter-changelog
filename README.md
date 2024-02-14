@@ -1463,7 +1463,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-16 commits.
+17 commits.
 
 * **[GavrielRosendorn74](https://github.com/GavrielRosendorn74)** &mdash; [google_maps_flutter][iOS 17] takeSnapshot FIX<br />
     <sub>[#5823](https://github.com/flutter/packages/pull/5823) merged on February 13, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/packages/pull/5823) over 1 month, 10 additions and 9 deletions in 4 files</sub><br />
@@ -1506,6 +1506,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow deprecated members from the Dart SDK/Flutter Framework to roll in<br />
     <sub>[#6111](https://github.com/flutter/packages/pull/6111) merged on February 14, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/6111) over 1 day, 4 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [flutter_migrate] Replace deprecated APIs<br />
+    <sub>[#6128](https://github.com/flutter/packages/pull/6128) merged on February 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6128) over 26 minutes, 6 additions and 7 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tools] Ignore analysis options files in .symlinks<br />
     <sub>[#6119](https://github.com/flutter/packages/pull/6119) merged on February 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6119) over 21 hours, 18 additions and 1 deletion in 2 files</sub><br />
