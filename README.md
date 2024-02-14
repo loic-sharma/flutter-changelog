@@ -70,7 +70,7 @@
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] retain first frame data in certain integration tests.<br />
-    <sub>[#143419](https://github.com/flutter/flutter/pull/143419) merged on February 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143419) over 2 hours, 5 additions and 7 deletions in 5 files</sub><br />
+    <sub>[#143419](https://github.com/flutter/flutter/pull/143419) merged on February 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/143419) over 2 hours, 5 additions and 7 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `external_ui` to `external_textures`.<br />
