@@ -696,7 +696,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-31 commits.
+32 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur
     <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub>
@@ -806,6 +806,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove host_debug_unopt build from  linux_host_engine.json
     <sub>[#50555](https://github.com/flutter/engine/pull/50555) merged on February 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50555) over 38 minutes, 0 additions and 24 deletions in 1 file</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Temporarily change canvaskit kitchensink test to unblock the skia roll
+    <sub>[#50617](https://github.com/flutter/engine/pull/50617) merged on February 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50617) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Replace usage of an integer for GdkModifierType
     <sub>[#50481](https://github.com/flutter/engine/pull/50481) merged on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50481) over 3 days, 155 additions and 112 deletions in 4 files</sub>
