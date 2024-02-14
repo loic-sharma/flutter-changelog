@@ -1459,7 +1459,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-15 commits.
+16 commits.
 
 * **[GavrielRosendorn74](https://github.com/GavrielRosendorn74)** &mdash; [google_maps_flutter][iOS 17] takeSnapshot FIX<br />
     <sub>[#5823](https://github.com/flutter/packages/pull/5823) merged on February 13, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/packages/pull/5823) over 1 month, 10 additions and 9 deletions in 4 files</sub><br />
@@ -1485,6 +1485,10 @@
 * **[leiatfly](https://github.com/leiatfly)** &mdash; [flutter_markdown] Use Text.rich to replace RichText in Flutter Markdown<br />
     <sub>[#6062](https://github.com/flutter/packages/pull/6062) merged on February 13, 2024 &mdash; **Extra large:** [18 comments](https://github.com/flutter/packages/pull/6062) over 1 week, 963 additions and 997 deletions in 20 files</sub><br />
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [flutter_image] Replace deprecated APIs<br />
+    <sub>[#6126](https://github.com/flutter/packages/pull/6126) merged on February 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6126) over 18 minutes, 11 additions and 7 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Alex Usmanov](https://github.com/Alex-Usmanov)** &mdash; [url_launcher] Add `InAppBrowserConfiguration` parameter in implementations<br />
     <sub>[#5759](https://github.com/flutter/packages/pull/5759) merged on February 13, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/5759) over 1 month, 299 additions and 54 deletions in 10 files</sub><br />
