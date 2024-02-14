@@ -712,7 +712,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-37 commits.
+38 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur
     <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub>
@@ -759,6 +759,10 @@
     <sub>[#50543](https://github.com/flutter/engine/pull/50543) merged on February 12, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/50543) over 1 day, 341 additions and 110 deletions in 5 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Matan Lurey](https://github.com/matanlurey)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Conditionally use A8 or R8 format glyph atlas based on capabilities.
+    <sub>[#50534](https://github.com/flutter/engine/pull/50534) merged on February 14, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/50534) over 3 days, 101 additions and 29 deletions in 18 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Run tests with test arguments
     <sub>[#50478](https://github.com/flutter/engine/pull/50478) merged on February 13, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/50478) over 4 days, 117 additions and 44 deletions in 4 files</sub>
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang), [Casey Hillers](https://github.com/CaseyHillers)</sub>
@@ -795,9 +799,9 @@
     <sub>[#50416](https://github.com/flutter/engine/pull/50416) merged on February 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50416) over 6 days, 136 additions and 33 deletions in 13 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] replaced playground macros with functions
-    <sub>[#50602](https://github.com/flutter/engine/pull/50602) merged on February 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50602) over 1 hour, 175 additions and 122 deletions in 8 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Rename [ViewFocusDirection.backwards] to [ViewFocusDirection.backward]
+    <sub>[#50533](https://github.com/flutter/engine/pull/50533) merged on February 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50533) over 1 day, 4 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In run_tests, use the regular path to the Vulkan library if lib.unstripped does not exist
     <sub>[#50629](https://github.com/flutter/engine/pull/50629) merged on February 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50629) over 1 hour, 6 additions and 4 deletions in 1 file</sub>
@@ -807,13 +811,13 @@
     <sub>[#50583](https://github.com/flutter/engine/pull/50583) merged on February 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50583) over 20 hours, 56 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
-* **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Rename [ViewFocusDirection.backwards] to [ViewFocusDirection.backward]
-    <sub>[#50533](https://github.com/flutter/engine/pull/50533) merged on February 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50533) over 1 day, 4 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove host_debug_unopt build from  linux_host_engine.json
     <sub>[#50555](https://github.com/flutter/engine/pull/50555) merged on February 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50555) over 38 minutes, 0 additions and 24 deletions in 1 file</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] cleaned up and removed golden test exceptions
+    <sub>[#50572](https://github.com/flutter/engine/pull/50572) merged on February 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50572) over 5 hours, 113 additions and 98 deletions in 9 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move Linux impeller_unittests to linux_unopt
     <sub>[#50558](https://github.com/flutter/engine/pull/50558) merged on February 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50558) over 5 hours, 44 additions and 40 deletions in 2 files</sub>
@@ -823,29 +827,25 @@
     <sub>[#50568](https://github.com/flutter/engine/pull/50568) merged on February 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50568) over 34 minutes, 0 additions and 8 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove references to moved impeller/image from README.
-    <sub>[#50513](https://github.com/flutter/engine/pull/50513) merged on February 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50513) over 3 days, 0 additions and 7 deletions in 1 file</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] replaced playground macros with functions
+    <sub>[#50602](https://github.com/flutter/engine/pull/50602) merged on February 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50602) over 1 hour, 175 additions and 122 deletions in 8 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow deprecated members from the Dart SDK to roll in.
     <sub>[#50575](https://github.com/flutter/engine/pull/50575) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50575) over 18 hours, 4 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Dan Field](https://github.com/dnfield)** &mdash; Do not use AChoreographer on 32 bit devices
-    <sub>[#50586](https://github.com/flutter/engine/pull/50586) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50586) over 12 hours, 20 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] cleaned up and removed golden test exceptions
-    <sub>[#50572](https://github.com/flutter/engine/pull/50572) merged on February 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50572) over 5 hours, 113 additions and 98 deletions in 9 files</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove references to moved impeller/image from README.
+    <sub>[#50513](https://github.com/flutter/engine/pull/50513) merged on February 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50513) over 3 days, 0 additions and 7 deletions in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move libpng to //flutter/third_party/libpng
     <sub>[#50571](https://github.com/flutter/engine/pull/50571) merged on February 13, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/50571) over 16 hours, 223 additions and 216 deletions in 10 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Miguel](https://github.com/miguelfrde)** &mdash; [fuchsia] Update Inspect library usage
-    <sub>[#50467](https://github.com/flutter/engine/pull/50467) merged on February 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50467) over 3 days, 38 additions and 56 deletions in 22 files</sub>
-    <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub>
+* **[Dan Field](https://github.com/dnfield)** &mdash; Do not use AChoreographer on 32 bit devices
+    <sub>[#50586](https://github.com/flutter/engine/pull/50586) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50586) over 12 hours, 20 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Temporarily change canvaskit kitchensink test to unblock the skia roll
     <sub>[#50617](https://github.com/flutter/engine/pull/50617) merged on February 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50617) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -855,13 +855,17 @@
     <sub>[#50481](https://github.com/flutter/engine/pull/50481) merged on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50481) over 3 days, 155 additions and 112 deletions in 4 files</sub>
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove FlKeyEvent.dispose_origin and use GdkEvent type for origin
+    <sub>[#50483](https://github.com/flutter/engine/pull/50483) merged on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50483) over 3 days, 9 additions and 51 deletions in 7 files</sub>
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
+
 * **[K Lubick](https://github.com/kjlubick)** &mdash; Update codec defines for Skia
     <sub>[#50554](https://github.com/flutter/engine/pull/50554) merged on February 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50554) over 1 hour, 13 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove FlKeyEvent.dispose_origin and use GdkEvent type for origin
-    <sub>[#50483](https://github.com/flutter/engine/pull/50483) merged on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50483) over 3 days, 9 additions and 51 deletions in 7 files</sub>
-    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
+* **[Miguel](https://github.com/miguelfrde)** &mdash; [fuchsia] Update Inspect library usage
+    <sub>[#50467](https://github.com/flutter/engine/pull/50467) merged on February 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50467) over 3 days, 38 additions and 56 deletions in 22 files</sub>
+    <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub>
 
 ### February 3, 2024 to February 9, 2024
 
