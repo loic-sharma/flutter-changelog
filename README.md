@@ -45,6 +45,10 @@
     <sub>[#143334](https://github.com/flutter/flutter/pull/143334) merged on February 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/143334) over 1 day, 94 additions and 16 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Ari Weiland](https://github.com/math1man), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Move JS interop to extension types<br />
+    <sub>[#143274](https://github.com/flutter/flutter/pull/143274) merged on February 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143274) over 1 day, 23 additions and 89 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Srujan Gaddam](https://github.com/srujzs)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove message about `pub cache` that is not actionable<br />
     <sub>[#143357](https://github.com/flutter/flutter/pull/143357) merged on February 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143357) over 15 hours, 0 additions and 132 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
@@ -64,10 +68,6 @@
 * **[Ross Llewallyn](https://github.com/EnduringBeta)** &mdash; Badge class doc typo - missing [<br />
     <sub>[#143318](https://github.com/flutter/flutter/pull/143318) merged on February 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143318) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Move JS interop to extension types<br />
-    <sub>[#143274](https://github.com/flutter/flutter/pull/143274) merged on February 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143274) over 1 day, 23 additions and 89 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Srujan Gaddam](https://github.com/srujzs)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `external_ui` to `external_textures`.<br />
     <sub>[#143406](https://github.com/flutter/flutter/pull/143406) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143406) over 54 minutes, 1 addition and 2 deletions in 1 file</sub><br />
