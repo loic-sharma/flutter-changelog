@@ -696,7 +696,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-36 commits.
+37 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] deleted the old blur<br />
     <sub>[#50470](https://github.com/flutter/engine/pull/50470) merged on February 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50470) over 3 days, 1 addition and 701 deletions in 9 files</sub><br />
@@ -710,14 +710,14 @@
     <sub>[#50539](https://github.com/flutter/engine/pull/50539) merged on February 12, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/50539) over 1 day, 96 additions and 185 deletions in 3 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
-* **[Dan Field](https://github.com/dnfield)** &mdash; Refactor NDK helpers some more, add methods for SurfaceControl/Transaction, tests<br />
-    <sub>[#50540](https://github.com/flutter/engine/pull/50540) merged on February 12, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/50540) over 1 day, 498 additions and 310 deletions in 18 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] CommandPoolVK recycles command buffers too.<br />
     <sub>[#50468](https://github.com/flutter/engine/pull/50468) merged on February 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50468) over 4 days, 122 additions and 25 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/engine/assets/8975114/c0022d7a-d16e-4db5-862a-01d5a6157e18)![image](https://github.com/flutter/engine/assets/8975114/3b45f9a9-8811-4fbc-8b90-24338317df6e)</details></sub>
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Refactor NDK helpers some more, add methods for SurfaceControl/Transaction, tests<br />
+    <sub>[#50540](https://github.com/flutter/engine/pull/50540) merged on February 12, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/50540) over 1 day, 498 additions and 310 deletions in 18 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Migrate all ColorSourceContents to use a shared rendering routine.<br />
     <sub>[#50261](https://github.com/flutter/engine/pull/50261) merged on February 14, 2024 &mdash; **Large:** [31 comments](https://github.com/flutter/engine/pull/50261) over 1 week, 613 additions and 686 deletions in 9 files</sub><br />
@@ -747,9 +747,9 @@
     <sub>[#50478](https://github.com/flutter/engine/pull/50478) merged on February 13, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/50478) over 4 days, 117 additions and 44 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang), [Casey Hillers](https://github.com/CaseyHillers)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Run Skia and Impeller OpenGLES on APIv28.<br />
-    <sub>[#50583](https://github.com/flutter/engine/pull/50583) merged on February 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50583) over 20 hours, 56 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Make Android Studio depend on the android_embedding_dependencies<br />
+    <sub>[#50612](https://github.com/flutter/engine/pull/50612) merged on February 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50612) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] add benchmarks for the stroke geometry entity code<br />
     <sub>[#50616](https://github.com/flutter/engine/pull/50616) merged on February 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/50616) over 2 hours, 160 additions and 0 deletions in 4 files</sub><br />
@@ -783,9 +783,13 @@
     <sub>[#50602](https://github.com/flutter/engine/pull/50602) merged on February 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50602) over 1 hour, 175 additions and 122 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Make Android Studio depend on the android_embedding_dependencies<br />
-    <sub>[#50612](https://github.com/flutter/engine/pull/50612) merged on February 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50612) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In run_tests, use the regular path to the Vulkan library if lib.unstripped does not exist<br />
+    <sub>[#50629](https://github.com/flutter/engine/pull/50629) merged on February 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50629) over 1 hour, 6 additions and 4 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Run Skia and Impeller OpenGLES on APIv28.<br />
+    <sub>[#50583](https://github.com/flutter/engine/pull/50583) merged on February 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50583) over 20 hours, 56 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
 * **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Rename [ViewFocusDirection.backwards] to [ViewFocusDirection.backward]<br />
     <sub>[#50533](https://github.com/flutter/engine/pull/50533) merged on February 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50533) over 1 day, 4 additions and 4 deletions in 2 files</sub><br />
@@ -794,10 +798,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove host_debug_unopt build from  linux_host_engine.json<br />
     <sub>[#50555](https://github.com/flutter/engine/pull/50555) merged on February 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50555) over 38 minutes, 0 additions and 24 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] cleaned up and removed golden test exceptions<br />
-    <sub>[#50572](https://github.com/flutter/engine/pull/50572) merged on February 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50572) over 5 hours, 113 additions and 98 deletions in 9 files</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move Linux impeller_unittests to linux_unopt<br />
     <sub>[#50558](https://github.com/flutter/engine/pull/50558) merged on February 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50558) over 5 hours, 44 additions and 40 deletions in 2 files</sub><br />
@@ -819,13 +819,13 @@
     <sub>[#50586](https://github.com/flutter/engine/pull/50586) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50586) over 12 hours, 20 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] cleaned up and removed golden test exceptions<br />
+    <sub>[#50572](https://github.com/flutter/engine/pull/50572) merged on February 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50572) over 5 hours, 113 additions and 98 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move libpng to //flutter/third_party/libpng<br />
     <sub>[#50571](https://github.com/flutter/engine/pull/50571) merged on February 13, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/50571) over 16 hours, 223 additions and 216 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove FlKeyEvent.dispose_origin and use GdkEvent type for origin<br />
-    <sub>[#50483](https://github.com/flutter/engine/pull/50483) merged on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50483) over 3 days, 9 additions and 51 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Miguel](https://github.com/miguelfrde)** &mdash; [fuchsia] Update Inspect library usage<br />
     <sub>[#50467](https://github.com/flutter/engine/pull/50467) merged on February 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50467) over 3 days, 38 additions and 56 deletions in 22 files</sub><br />
@@ -835,12 +835,16 @@
     <sub>[#50617](https://github.com/flutter/engine/pull/50617) merged on February 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50617) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Replace usage of an integer for GdkModifierType<br />
+    <sub>[#50481](https://github.com/flutter/engine/pull/50481) merged on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50481) over 3 days, 155 additions and 112 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
 * **[K Lubick](https://github.com/kjlubick)** &mdash; Update codec defines for Skia<br />
     <sub>[#50554](https://github.com/flutter/engine/pull/50554) merged on February 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50554) over 1 hour, 13 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Replace usage of an integer for GdkModifierType<br />
-    <sub>[#50481](https://github.com/flutter/engine/pull/50481) merged on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50481) over 3 days, 155 additions and 112 deletions in 4 files</sub><br />
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove FlKeyEvent.dispose_origin and use GdkEvent type for origin<br />
+    <sub>[#50483](https://github.com/flutter/engine/pull/50483) merged on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50483) over 3 days, 9 additions and 51 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 ### February 3, 2024 to February 9, 2024
