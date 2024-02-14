@@ -4,7 +4,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-29 commits.
+30 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `avatarBoxConstraints` & `deleteIconBoxConstraints` for the chips
     <sub>[#143302](https://github.com/flutter/flutter/pull/143302) merged on February 13, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/143302) over 1 day, 1079 additions and 13 deletions in 16 files</sub>
@@ -44,6 +44,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `insetPadding` parameter nullability for dialogs
     <sub>[#143305](https://github.com/flutter/flutter/pull/143305) merged on February 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143305) over 9 hours, 84 additions and 12 deletions in 4 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+
+* **[Anas](https://github.com/Anas35)** &mdash; [tools] Add column header for emulators information
+    <sub>[#142853](https://github.com/flutter/flutter/pull/142853) merged on February 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/142853) over 1 week, 24 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Elias Yishak](https://github.com/eliasyishak)</sub>
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Add isEnabled semantics flag to  text field
     <sub>[#143334](https://github.com/flutter/flutter/pull/143334) merged on February 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/143334) over 1 day, 94 additions and 16 deletions in 7 files</sub>
