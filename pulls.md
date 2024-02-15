@@ -74,3 +74,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions [refactoring `flutter/lib/src/`]<br />
     <sub>[#143496](https://github.com/flutter/flutter/pull/143496) opened on on February 14, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/143496) 156 additions and 310 deletions in 14 files</sub><br />
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; SliverCoordinator, CoordinatedSliver<br />
+    <sub>[#143538](https://github.com/flutter/flutter/pull/143538) opened on on February 15, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/143538) 399 additions and 0 deletions in 3 files</sub><br />
+
