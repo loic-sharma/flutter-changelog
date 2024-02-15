@@ -50,7 +50,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Disentangle and align `flutter build web --wasm` flags
-    <sub>[#143517](https://github.com/flutter/flutter/pull/143517) merged on February 15, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/143517) over 9 hours, 128 additions and 303 deletions in 7 files</sub>
+    <sub>[#143517](https://github.com/flutter/flutter/pull/143517) merged on February 15, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/143517) over 9 hours, 128 additions and 303 deletions in 7 files</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix and test SemanticsController.simulatedAccessibilityTraversal

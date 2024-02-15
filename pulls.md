@@ -53,9 +53,6 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; PinnedHeaderSliver<br />
     <sub>[#143196](https://github.com/flutter/flutter/pull/143196) opened on on February 9, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143196) 407 additions and 0 deletions in 5 files</sub><br />
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [tool] Add flutter version in pubspec of new projects<br />
-    <sub>[#143303](https://github.com/flutter/flutter/pull/143303) opened on on February 12, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/143303) 135 additions and 9 deletions in 9 files</sub><br />
-
 * **[Tirth](https://github.com/piedcipher)** &mdash; Added Small Doc Enhancement in Badge<br />
     <sub>[#143319](https://github.com/flutter/flutter/pull/143319) opened on on February 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143319) 2 additions and 0 deletions in 1 file</sub><br />
 
@@ -76,4 +73,7 @@
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add UI Benchmarks<br />
     <sub>[#143542](https://github.com/flutter/flutter/pull/143542) opened on on February 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143542) 182 additions and 0 deletions in 2 files</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Disentangle and align `flutter build web --wasm` flags (#143517)"<br />
+    <sub>[#143547](https://github.com/flutter/flutter/pull/143547) opened on on February 15, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143547) 303 additions and 128 deletions in 7 files</sub><br />
 
