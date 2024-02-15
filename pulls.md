@@ -77,6 +77,3 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions [refactoring `flutter/lib/src/`]<br />
     <sub>[#143496](https://github.com/flutter/flutter/pull/143496) opened on on February 14, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/143496) 156 additions and 310 deletions in 14 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; InputDecorator M3 tests migration - Step3<br />
-    <sub>[#143520](https://github.com/flutter/flutter/pull/143520) opened on on February 15, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/143520) 6021 additions and 6036 deletions in 1 file</sub><br />
-
