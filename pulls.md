@@ -71,9 +71,6 @@
 * **[Mathias Mogensen](https://github.com/Xazin)** &mdash; Fix TextFields breaking on MacOS<br />
     <sub>[#143401](https://github.com/flutter/flutter/pull/143401) opened on on February 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143401) 7 additions and 5 deletions in 1 file</sub><br />
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Remove certs dependency.<br />
-    <sub>[#143495](https://github.com/flutter/flutter/pull/143495) opened on on February 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143495) 0 additions and 9 deletions in 1 file</sub><br />
-
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions [refactoring `flutter/lib/src/`]<br />
     <sub>[#143496](https://github.com/flutter/flutter/pull/143496) opened on on February 14, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/143496) 156 additions and 310 deletions in 14 files</sub><br />
 
