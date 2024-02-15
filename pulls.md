@@ -66,7 +66,7 @@
     <sub>[#143392](https://github.com/flutter/flutter/pull/143392) opened on on February 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143392) 39 additions and 0 deletions in 2 files</sub><br />
 
 * **[creativecreatorormaybenot](https://github.com/creativecreatorormaybenot)** &mdash; Fix iOS status bar scroll to top gesture<br />
-    <sub>[#143394](https://github.com/flutter/flutter/pull/143394) opened on on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143394) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#143394](https://github.com/flutter/flutter/pull/143394) opened on on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143394) 24 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mathias Mogensen](https://github.com/Xazin)** &mdash; Fix TextFields breaking on MacOS<br />
     <sub>[#143401](https://github.com/flutter/flutter/pull/143401) opened on on February 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143401) 7 additions and 5 deletions in 1 file</sub><br />
