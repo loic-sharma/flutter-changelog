@@ -74,3 +74,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions [refactoring `flutter/lib/src/`]<br />
     <sub>[#143496](https://github.com/flutter/flutter/pull/143496) opened on on February 14, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/143496) 156 additions and 310 deletions in 14 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Don't paint the cursor for an invalid selection<br />
+    <sub>[#143533](https://github.com/flutter/flutter/pull/143533) opened on on February 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143533) 68 additions and 12 deletions in 3 files</sub><br />
+
