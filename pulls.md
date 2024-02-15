@@ -72,10 +72,7 @@
     <sub>[#143401](https://github.com/flutter/flutter/pull/143401) opened on on February 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143401) 7 additions and 5 deletions in 1 file</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; SliverCoordinator, CoordinatedSliver<br />
-    <sub>[#143538](https://github.com/flutter/flutter/pull/143538) opened on on February 15, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/143538) 399 additions and 0 deletions in 3 files</sub><br />
-
-* **[Jake](https://github.com/jawscout)** &mdash; Fix minor spelling error<br />
-    <sub>[#143541](https://github.com/flutter/flutter/pull/143541) opened on on February 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143541) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#143538](https://github.com/flutter/flutter/pull/143538) opened on on February 15, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/143538) 450 additions and 0 deletions in 4 files</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add UI Benchmarks<br />
     <sub>[#143542](https://github.com/flutter/flutter/pull/143542) opened on on February 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143542) 182 additions and 0 deletions in 2 files</sub><br />
