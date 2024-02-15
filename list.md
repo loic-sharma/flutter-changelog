@@ -94,7 +94,7 @@
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Dual compile reland
-    <sub>[#143262](https://github.com/flutter/flutter/pull/143262) merged on February 13, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143262) over 3 days, 989 additions and 465 deletions in 36 files</sub>
+    <sub>[#143262](https://github.com/flutter/flutter/pull/143262) merged on February 13, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/143262) over 3 days, 989 additions and 465 deletions in 36 files</sub>
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Pass-Through `inputFormatters` in `DropdownMenu`
