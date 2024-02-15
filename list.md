@@ -886,8 +886,8 @@
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Use a GN variable (dart_src) to reference the location of the Dart checkout.
-    <sub>[#50624](https://github.com/flutter/engine/pull/50624) merged on February 15, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/50624) over 1 day, 222 additions and 209 deletions in 51 files</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+    <sub>[#50624](https://github.com/flutter/engine/pull/50624) merged on February 15, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/50624) over 1 day, 222 additions and 209 deletions in 51 files</sub>
+    <sub>Reviewed by: [William Hesse](https://github.com/whesse), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a comment explaining the lifecycle of `tls_command_pool_map`.
     <sub>[#50623](https://github.com/flutter/engine/pull/50623) merged on February 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50623) over 1 day, 9 additions and 0 deletions in 1 file</sub>
