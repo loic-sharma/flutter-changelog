@@ -74,6 +74,3 @@
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add UI Benchmarks<br />
     <sub>[#143542](https://github.com/flutter/flutter/pull/143542) opened on on February 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143542) 182 additions and 0 deletions in 2 files</sub><br />
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Disentangle and align `flutter build web --wasm` flags (#143517)"<br />
-    <sub>[#143547](https://github.com/flutter/flutter/pull/143547) opened on on February 15, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143547) 303 additions and 128 deletions in 7 files</sub><br />
-
