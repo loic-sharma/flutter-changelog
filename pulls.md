@@ -77,6 +77,3 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions [refactoring `flutter/lib/src/`]<br />
     <sub>[#143496](https://github.com/flutter/flutter/pull/143496) opened on on February 14, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/143496) 156 additions and 310 deletions in 14 files</sub><br />
 
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Disentangle and align `flutter build web --wasm` flags<br />
-    <sub>[#143517](https://github.com/flutter/flutter/pull/143517) opened on on February 15, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143517) 125 additions and 303 deletions in 7 files</sub><br />
-
