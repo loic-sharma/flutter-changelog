@@ -78,5 +78,5 @@
     <sub>[#143495](https://github.com/flutter/flutter/pull/143495) opened on on February 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143495) 0 additions and 9 deletions in 1 file</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; `switch` expressions, episode 8: refactoring `flutter/lib/src/`<br />
-    <sub>[#143496](https://github.com/flutter/flutter/pull/143496) opened on on February 14, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143496) 156 additions and 310 deletions in 14 files</sub><br />
+    <sub>[#143496](https://github.com/flutter/flutter/pull/143496) opened on on February 14, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/143496) 156 additions and 310 deletions in 14 files</sub><br />
 
