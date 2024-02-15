@@ -74,6 +74,3 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions [refactoring `flutter/lib/src/`]<br />
     <sub>[#143496](https://github.com/flutter/flutter/pull/143496) opened on on February 14, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/143496) 156 additions and 310 deletions in 14 files</sub><br />
 
-* **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Reverts "Fix and test SemanticsController.simulatedAccessibilityTrave…<br />
-    <sub>[#143528](https://github.com/flutter/flutter/pull/143528) opened on on February 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143528) 28 additions and 270 deletions in 5 files</sub><br />
-
