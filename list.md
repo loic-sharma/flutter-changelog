@@ -4,7 +4,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-51 commits.
+52 commits.
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Introduce `iconAlignment` for the buttons with icon
     <sub>[#137348](https://github.com/flutter/flutter/pull/137348) merged on February 12, 2024 &mdash; **Large:** [129 comments](https://github.com/flutter/flutter/pull/137348) over 3 months, 942 additions and 17 deletions in 11 files</sub>
@@ -41,9 +41,9 @@
     <sub>[#143118](https://github.com/flutter/flutter/pull/143118) merged on February 14, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/143118) over 6 days, 73 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Todd Volkert](https://github.com/tvolkert)</sub>
 
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use `dart compile wasm` for wasm compilations
-    <sub>[#143298](https://github.com/flutter/flutter/pull/143298) merged on February 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143298) over 1 day, 70 additions and 134 deletions in 3 files</sub>
-    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `insetPadding` parameter nullability for dialogs
+    <sub>[#143305](https://github.com/flutter/flutter/pull/143305) merged on February 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143305) over 9 hours, 84 additions and 12 deletions in 4 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Re-re-land] Enforce a policy on supported Gradle, Java, AGP, and KGP versions
     <sub>[#143341](https://github.com/flutter/flutter/pull/143341) merged on February 13, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/143341) over 16 hours, 593 additions and 4 deletions in 11 files</sub>
@@ -58,24 +58,24 @@
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Disentangle and align `flutter build web --wasm` flags
-    <sub>[#143517](https://github.com/flutter/flutter/pull/143517) merged on February 15, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/143517) over 9 hours, 128 additions and 303 deletions in 7 files</sub>
+    <sub>[#143517](https://github.com/flutter/flutter/pull/143517) merged on February 15, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/143517) over 9 hours, 128 additions and 303 deletions in 7 files</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix and test SemanticsController.simulatedAccessibilityTraversal
     <sub>[#143386](https://github.com/flutter/flutter/pull/143386) merged on February 14, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/143386) over 1 day, 270 additions and 28 deletions in 5 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `insetPadding` parameter nullability for dialogs
-    <sub>[#143305](https://github.com/flutter/flutter/pull/143305) merged on February 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143305) over 9 hours, 84 additions and 12 deletions in 4 files</sub>
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use `dart compile wasm` for wasm compilations
+    <sub>[#143298](https://github.com/flutter/flutter/pull/143298) merged on February 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143298) over 1 day, 70 additions and 134 deletions in 3 files</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add more documentation for TextEditingController default constructor
     <sub>[#143452](https://github.com/flutter/flutter/pull/143452) merged on February 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143452) over 6 hours, 101 additions and 0 deletions in 3 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; InputDecorator M3 test migration step2
-    <sub>[#143369](https://github.com/flutter/flutter/pull/143369) merged on February 14, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/143369) over 1 day, 495 additions and 111 deletions in 1 file</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Disentangle and align `flutter build web --wasm` flags (#143517)"
+    <sub>[#143547](https://github.com/flutter/flutter/pull/143547) merged on February 15, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143547) over 48 seconds, 303 additions and 128 deletions in 7 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Fix and test SemanticsController.simulatedAccessibilityTraversal (#143386)"
     <sub>[#143523](https://github.com/flutter/flutter/pull/143523) merged on February 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143523) over 48 seconds, 28 additions and 270 deletions in 5 files</sub>
@@ -85,9 +85,9 @@
     <sub>[#143334](https://github.com/flutter/flutter/pull/143334) merged on February 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/143334) over 1 day, 94 additions and 16 deletions in 7 files</sub>
     <sub>Reviewed by: [Ari Weiland](https://github.com/math1man), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Disentangle and align `flutter build web --wasm` flags (#143517)"
-    <sub>[#143547](https://github.com/flutter/flutter/pull/143547) merged on February 15, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143547) over 48 seconds, 303 additions and 128 deletions in 7 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; InputDecorator M3 test migration step2
+    <sub>[#143369](https://github.com/flutter/flutter/pull/143369) merged on February 14, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/143369) over 1 day, 495 additions and 111 deletions in 1 file</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Move JS interop to extension types
     <sub>[#143274](https://github.com/flutter/flutter/pull/143274) merged on February 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143274) over 1 day, 23 additions and 89 deletions in 2 files</sub>
@@ -125,6 +125,10 @@
     <sub>[#143318](https://github.com/flutter/flutter/pull/143318) merged on February 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143318) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] migrate new gallery benchmarks to local copy.
+    <sub>[#143545](https://github.com/flutter/flutter/pull/143545) merged on February 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143545) over 1 hour, 52 additions and 166 deletions in 13 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 * **[Hossein Yousefi](https://github.com/HosseinYousefi)** &mdash; Modify `plugin_ffi` and `package_ffi` template
     <sub>[#143376](https://github.com/flutter/flutter/pull/143376) merged on February 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/143376) over 1 day, 13 additions and 13 deletions in 7 files</sub>
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
@@ -132,26 +136,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; cleanup now-irrelevant ignores for `deprecated_member_use`
     <sub>[#143403](https://github.com/flutter/flutter/pull/143403) merged on February 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143403) over 22 hours, 17 additions and 241 deletions in 33 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Kate Lovett](https://github.com/Piinks)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] retain first frame data in certain integration tests.
-    <sub>[#143419](https://github.com/flutter/flutter/pull/143419) merged on February 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/143419) over 2 hours, 5 additions and 7 deletions in 5 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow deprecated members from the Dart SDK and Flutter Engine to roll in
-    <sub>[#143347](https://github.com/flutter/flutter/pull/143347) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143347) over 18 hours, 4 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Disable deprecation warnings for mega_gallery
-    <sub>[#143466](https://github.com/flutter/flutter/pull/143466) merged on February 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143466) over 2 hours, 10 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Kate Lovett](https://github.com/Piinks)</sub>
-
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Roll native_assets_builder to 0.5.0
-    <sub>[#143472](https://github.com/flutter/flutter/pull/143472) merged on February 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143472) over 2 hours, 184 additions and 107 deletions in 8 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `external_ui` to `external_textures`.
-    <sub>[#143406](https://github.com/flutter/flutter/pull/143406) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143406) over 54 minutes, 1 addition and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve some scrollbar error messages
     <sub>[#143279](https://github.com/flutter/flutter/pull/143279) merged on February 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/143279) over 2 days, 105 additions and 28 deletions in 3 files</sub>
@@ -164,6 +148,26 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Format all kotlin according to ktlint
     <sub>[#143390](https://github.com/flutter/flutter/pull/143390) merged on February 14, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143390) over 21 hours, 272 additions and 228 deletions in 16 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] retain first frame data in certain integration tests.
+    <sub>[#143419](https://github.com/flutter/flutter/pull/143419) merged on February 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/143419) over 2 hours, 5 additions and 7 deletions in 5 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Roll native_assets_builder to 0.5.0
+    <sub>[#143472](https://github.com/flutter/flutter/pull/143472) merged on February 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143472) over 2 hours, 184 additions and 107 deletions in 8 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow deprecated members from the Dart SDK and Flutter Engine to roll in
+    <sub>[#143347](https://github.com/flutter/flutter/pull/143347) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143347) over 18 hours, 4 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Disable deprecation warnings for mega_gallery
+    <sub>[#143466](https://github.com/flutter/flutter/pull/143466) merged on February 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143466) over 2 hours, 10 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `external_ui` to `external_textures`.
+    <sub>[#143406](https://github.com/flutter/flutter/pull/143406) merged on February 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143406) over 54 minutes, 1 addition and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 * **[Nitesh Sharma](https://github.com/niteshsh4rma)** &mdash; Fix dual focus issue in CheckboxListTile, RadioListTile and SwitchListTile
     <sub>[#143213](https://github.com/flutter/flutter/pull/143213) merged on February 12, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/143213) over 3 days, 251 additions and 108 deletions in 6 files</sub>
