@@ -1641,7 +1641,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-21 commits.
+22 commits.
 
 * **[GavrielRosendorn74](https://github.com/GavrielRosendorn74)** &mdash; [google_maps_flutter][iOS 17] takeSnapshot FIX<br />
     <sub>[#5823](https://github.com/flutter/packages/pull/5823) merged on February 13, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/packages/pull/5823) over 1 month, 10 additions and 9 deletions in 4 files</sub><br />
@@ -1692,6 +1692,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Add compatibility with latest `intl`<br />
     <sub>[#6138](https://github.com/flutter/packages/pull/6138) merged on February 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6138) over 15 minutes, 10 additions and 5 deletions in 4 files</sub><br />
     <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Clean up pre-Pigeon code<br />
+    <sub>[#6141](https://github.com/flutter/packages/pull/6141) merged on February 15, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/6141) over 58 minutes, 19 additions and 29 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [rfw] Replace deprecated `textScaleFactor`<br />
     <sub>[#6130](https://github.com/flutter/packages/pull/6130) merged on February 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6130) over 5 hours, 18 additions and 13 deletions in 8 files</sub><br />
