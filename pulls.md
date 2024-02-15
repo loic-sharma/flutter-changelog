@@ -80,3 +80,6 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Disentangle and align `flutter build web --wasm` flags<br />
     <sub>[#143517](https://github.com/flutter/flutter/pull/143517) opened on on February 15, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143517) 124 additions and 287 deletions in 5 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update InputDecoration.contentPadding documentation<br />
+    <sub>[#143519](https://github.com/flutter/flutter/pull/143519) opened on on February 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143519) 17 additions and 0 deletions in 1 file</sub><br />
+
