@@ -1746,7 +1746,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-26 commits.
+27 commits.
 
 * **[GavrielRosendorn74](https://github.com/GavrielRosendorn74)** &mdash; [google_maps_flutter][iOS 17] takeSnapshot FIX<br />
     <sub>[#5823](https://github.com/flutter/packages/pull/5823) merged on February 13, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/packages/pull/5823) over 1 month, 10 additions and 9 deletions in 4 files</sub><br />
@@ -1776,6 +1776,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Replace deprecated RouteInformation APIs<br />
     <sub>[#6127](https://github.com/flutter/packages/pull/6127) merged on February 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6127) over 17 hours, 9 additions and 6 deletions in 4 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci/various] Update for 3.19 stable<br />
+    <sub>[#6147](https://github.com/flutter/packages/pull/6147) merged on February 16, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/6147) over 1 hour, 486 additions and 287 deletions in 229 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [flutter_image] Replace deprecated APIs<br />
     <sub>[#6126](https://github.com/flutter/packages/pull/6126) merged on February 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6126) over 18 minutes, 11 additions and 7 deletions in 4 files</sub><br />
