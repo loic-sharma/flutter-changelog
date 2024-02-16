@@ -80,9 +80,9 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Ignore implementation_imports in non-lib files<br />
     <sub>[#143560](https://github.com/flutter/flutter/pull/143560) opened on on February 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143560) 14 additions and 0 deletions in 13 files</sub><br />
 
-* **[Tirth](https://github.com/piedcipher)** &mdash; Fixed Small Typo in Emulators Test Name<br />
-    <sub>[#143578](https://github.com/flutter/flutter/pull/143578) opened on on February 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143578) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; `CalendarDatePicker` doesn't announce selected date on desktop<br />
     <sub>[#143583](https://github.com/flutter/flutter/pull/143583) opened on on February 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/143583) 467 additions and 78 deletions in 85 files</sub><br />
+
+* **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Add isEnabled semantics flag to  text field <br />
+    <sub>[#143601](https://github.com/flutter/flutter/pull/143601) opened on on February 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143601) 94 additions and 16 deletions in 7 files</sub><br />
 
