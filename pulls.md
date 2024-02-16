@@ -78,7 +78,7 @@
     <sub>[#143558](https://github.com/flutter/flutter/pull/143558) opened on on February 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/143558) 373 additions and 177 deletions in 11 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Ignore implementation_imports in non-lib files<br />
-    <sub>[#143560](https://github.com/flutter/flutter/pull/143560) opened on on February 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143560) 14 additions and 0 deletions in 13 files</sub><br />
+    <sub>[#143560](https://github.com/flutter/flutter/pull/143560) opened on on February 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143560) 14 additions and 0 deletions in 13 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Fixed Small Typo in Emulators Test Name<br />
     <sub>[#143578](https://github.com/flutter/flutter/pull/143578) opened on on February 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143578) 1 addition and 1 deletion in 1 file</sub><br />
@@ -91,7 +91,4 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Added Missing Field Name in Doc Comment in SnackBarThemeData<br />
     <sub>[#143588](https://github.com/flutter/flutter/pull/143588) opened on on February 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143588) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix implementation imports outside of lib<br />
-    <sub>[#143594](https://github.com/flutter/flutter/pull/143594) opened on on February 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143594) 16 additions and 16 deletions in 13 files</sub><br />
 
