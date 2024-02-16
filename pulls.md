@@ -71,12 +71,9 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Add isEnabled semantics flag to  text field <br />
     <sub>[#143601](https://github.com/flutter/flutter/pull/143601) opened on on February 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143601) 94 additions and 16 deletions in 7 files</sub><br />
 
-* **[Brian Quinlan](https://github.com/brianquinlan)** &mdash; Implement `lineTerminator` in `MemoryStdout` Fake<br />
-    <sub>[#143608](https://github.com/flutter/flutter/pull/143608) opened on on February 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143608) 7 additions and 0 deletions in 1 file</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]rebuild the asset bundle if a file has been modified between `flutter test` runs<br />
     <sub>[#143611](https://github.com/flutter/flutter/pull/143611) opened on on February 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143611) 39 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] Skip 5 failing framework tests.<br />
-    <sub>[#143618](https://github.com/flutter/flutter/pull/143618) opened on on February 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143618) 29 additions and 5 deletions in 4 files</sub><br />
+    <sub>[#143618](https://github.com/flutter/flutter/pull/143618) opened on on February 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143618) 29 additions and 5 deletions in 4 files</sub><br />
 
