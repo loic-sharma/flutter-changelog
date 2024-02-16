@@ -991,7 +991,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use the Pixel 7/API 33 device in the Firebase test lab script<br />
-    <sub>[#50721](https://github.com/flutter/engine/pull/50721) merged on February 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50721) over 41 minutes, 5 additions and 12 deletions in 1 file</sub><br />
+    <sub>[#50721](https://github.com/flutter/engine/pull/50721) merged on February 16, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/50721) over 41 minutes, 5 additions and 12 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move libpng to //flutter/third_party/libpng<br />
