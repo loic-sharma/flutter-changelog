@@ -86,6 +86,3 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; `CalendarDatePicker` doesn't announce selected date on desktop<br />
     <sub>[#143583](https://github.com/flutter/flutter/pull/143583) opened on on February 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/143583) 467 additions and 78 deletions in 85 files</sub><br />
 
-* **[Tirth](https://github.com/piedcipher)** &mdash; Added Missing Field Name in Doc Comment in SnackBarThemeData<br />
-    <sub>[#143588](https://github.com/flutter/flutter/pull/143588) opened on on February 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143588) 1 addition and 1 deletion in 1 file</sub><br />
-
