@@ -1690,7 +1690,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-23 commits.
+24 commits.
 
 * **[GavrielRosendorn74](https://github.com/GavrielRosendorn74)** &mdash; [google_maps_flutter][iOS 17] takeSnapshot FIX
     <sub>[#5823](https://github.com/flutter/packages/pull/5823) merged on February 13, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/packages/pull/5823) over 1 month, 10 additions and 9 deletions in 4 files</sub>
@@ -1741,6 +1741,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Add compatibility with latest `intl`
     <sub>[#6138](https://github.com/flutter/packages/pull/6138) merged on February 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6138) over 15 minutes, 10 additions and 5 deletions in 4 files</sub>
     <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub>
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase] fix skerror nullability
+    <sub>[#6139](https://github.com/flutter/packages/pull/6139) merged on February 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6139) over 5 hours, 25 additions and 9 deletions in 8 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Explicitly pass the web renderer into the tests.
     <sub>[#6140](https://github.com/flutter/packages/pull/6140) merged on February 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6140) over 2 hours, 18 additions and 7 deletions in 4 files</sub>
