@@ -83,3 +83,9 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Ignore implementation_imports in non-lib files<br />
     <sub>[#143560](https://github.com/flutter/flutter/pull/143560) opened on on February 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143560) 14 additions and 0 deletions in 13 files</sub><br />
 
+* **[Tirth](https://github.com/piedcipher)** &mdash; Fixed Small Typo in Emulators Test Name<br />
+    <sub>[#143578](https://github.com/flutter/flutter/pull/143578) opened on on February 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143578) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [flutter_test] Use defaultTargetPlatform for key events simulation<br />
+    <sub>[#143579](https://github.com/flutter/flutter/pull/143579) opened on on February 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143579) 55 additions and 22 deletions in 3 files</sub><br />
+
