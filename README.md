@@ -1778,7 +1778,7 @@
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci/various] Update for 3.19 stable<br />
-    <sub>[#6147](https://github.com/flutter/packages/pull/6147) merged on February 16, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/6147) over 1 hour, 486 additions and 287 deletions in 229 files</sub><br />
+    <sub>[#6147](https://github.com/flutter/packages/pull/6147) merged on February 16, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/6147) over 1 hour, 486 additions and 287 deletions in 229 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [flutter_image] Replace deprecated APIs<br />
