@@ -92,3 +92,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Added Missing Field Name in Doc Comment in SnackBarThemeData<br />
     <sub>[#143588](https://github.com/flutter/flutter/pull/143588) opened on on February 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143588) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix implementation imports outside of lib<br />
+    <sub>[#143594](https://github.com/flutter/flutter/pull/143594) opened on on February 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143594) 16 additions and 16 deletions in 13 files</sub><br />
+
