@@ -83,3 +83,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Add isEnabled semantics flag to  text field <br />
     <sub>[#143601](https://github.com/flutter/flutter/pull/143601) opened on on February 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143601) 94 additions and 16 deletions in 7 files</sub><br />
 
+* **[Brian Quinlan](https://github.com/brianquinlan)** &mdash; Implement `lineTerminator` in `MemoryStdout` Fake<br />
+    <sub>[#143608](https://github.com/flutter/flutter/pull/143608) opened on on February 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143608) 6 additions and 0 deletions in 1 file</sub><br />
+
