@@ -89,3 +89,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [flutter_test] Use defaultTargetPlatform for key events simulation<br />
     <sub>[#143579](https://github.com/flutter/flutter/pull/143579) opened on on February 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143579) 55 additions and 22 deletions in 3 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; `CalendarDatePicker` doesn't announce selected date on desktop<br />
+    <sub>[#143583](https://github.com/flutter/flutter/pull/143583) opened on on February 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/143583) 467 additions and 78 deletions in 85 files</sub><br />
+
