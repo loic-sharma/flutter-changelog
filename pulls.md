@@ -77,9 +77,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implement `_suspendedNode` fix<br />
     <sub>[#143556](https://github.com/flutter/flutter/pull/143556) opened on on February 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143556) 2 additions and 3 deletions in 1 file</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add parsing of assets transformer declarations in pubspec.yaml<br />
-    <sub>[#143557](https://github.com/flutter/flutter/pull/143557) opened on on February 16, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/143557) 326 additions and 33 deletions in 3 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Magnifier cleanup<br />
     <sub>[#143558](https://github.com/flutter/flutter/pull/143558) opened on on February 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/143558) 373 additions and 177 deletions in 11 files</sub><br />
 
