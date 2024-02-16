@@ -74,3 +74,6 @@
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add UI Benchmarks<br />
     <sub>[#143542](https://github.com/flutter/flutter/pull/143542) opened on on February 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143542) 182 additions and 0 deletions in 2 files</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Implement `_suspendedNode` fix<br />
+    <sub>[#143556](https://github.com/flutter/flutter/pull/143556) opened on on February 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143556) 2 additions and 3 deletions in 1 file</sub><br />
+
