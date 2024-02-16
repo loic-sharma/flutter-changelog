@@ -1742,7 +1742,7 @@
 
 ### February 10, 2024 to February 16, 2024
 
-25 commits.
+26 commits.
 
 * **[GavrielRosendorn74](https://github.com/GavrielRosendorn74)** &mdash; [google_maps_flutter][iOS 17] takeSnapshot FIX
     <sub>[#5823](https://github.com/flutter/packages/pull/5823) merged on February 13, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/packages/pull/5823) over 1 month, 10 additions and 9 deletions in 4 files</sub>
@@ -1845,6 +1845,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Update compileSdk to 34
     <sub>[#6106](https://github.com/flutter/packages/pull/6106) merged on February 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6106) over 1 hour, 5 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 41456452f29d to bae5e49bc2a8 (1550 revisions)
+    <sub>[#6145](https://github.com/flutter/packages/pull/6145) merged on February 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6145) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### February 3, 2024 to February 9, 2024
 
