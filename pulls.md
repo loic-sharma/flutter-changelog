@@ -77,9 +77,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Magnifier cleanup<br />
     <sub>[#143558](https://github.com/flutter/flutter/pull/143558) opened on on February 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/143558) 373 additions and 177 deletions in 11 files</sub><br />
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Ignore implementation_imports in non-lib files<br />
-    <sub>[#143560](https://github.com/flutter/flutter/pull/143560) opened on on February 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143560) 14 additions and 0 deletions in 13 files</sub><br />
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; `CalendarDatePicker` doesn't announce selected date on desktop<br />
     <sub>[#143583](https://github.com/flutter/flutter/pull/143583) opened on on February 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/143583) 467 additions and 78 deletions in 85 files</sub><br />
 
