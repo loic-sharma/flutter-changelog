@@ -78,7 +78,7 @@
     <sub>[#143556](https://github.com/flutter/flutter/pull/143556) opened on on February 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143556) 2 additions and 3 deletions in 1 file</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Magnifier cleanup<br />
-    <sub>[#143558](https://github.com/flutter/flutter/pull/143558) opened on on February 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/143558) 373 additions and 177 deletions in 11 files</sub><br />
+    <sub>[#143558](https://github.com/flutter/flutter/pull/143558) opened on on February 16, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143558) 373 additions and 177 deletions in 11 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Ignore implementation_imports in non-lib files<br />
     <sub>[#143560](https://github.com/flutter/flutter/pull/143560) opened on on February 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143560) 14 additions and 0 deletions in 13 files</sub><br />
