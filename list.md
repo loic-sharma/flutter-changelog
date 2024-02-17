@@ -652,7 +652,7 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Update TextSelectionOverlay
-    <sub>[#142463](https://github.com/flutter/flutter/pull/142463) merged on February 2, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/142463) over 4 days, 374 additions and 13 deletions in 4 files</sub>
+    <sub>[#142463](https://github.com/flutter/flutter/pull/142463) merged on February 2, 2024 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/142463) over 4 days, 374 additions and 13 deletions in 4 files</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix SliverMainAxisGroup geometry cacheExtent
