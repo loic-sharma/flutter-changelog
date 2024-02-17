@@ -627,13 +627,13 @@
     <sub>[#142214](https://github.com/flutter/flutter/pull/142214) merged on January 29, 2024 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/142214) over 4 days, 351 additions and 202 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Update TextSelectionOverlay<br />
+    <sub>[#142463](https://github.com/flutter/flutter/pull/142463) merged on February 2, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/142463) over 4 days, 374 additions and 13 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
+
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix SliverMainAxisGroup geometry cacheExtent<br />
     <sub>[#142482](https://github.com/flutter/flutter/pull/142482) merged on January 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142482) over 18 hours, 49 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Update TextSelectionOverlay<br />
-    <sub>[#142463](https://github.com/flutter/flutter/pull/142463) merged on February 2, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/142463) over 4 days, 374 additions and 13 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
 
 * **[Simone Stasi](https://github.com/sstasi95)** &mdash; fix CupertinoTabView's Android back button handling with PopScope<br />
     <sub>[#141604](https://github.com/flutter/flutter/pull/141604) merged on February 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/141604) over 2 weeks, 35 additions and 1 deletion in 2 files</sub><br />
