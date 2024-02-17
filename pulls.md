@@ -84,5 +84,5 @@
     <sub>[#143638](https://github.com/flutter/flutter/pull/143638) opened on on February 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143638) 4 additions and 4 deletions in 4 files</sub><br />
 
 * **[Morgan](https://github.com/rmtmckenzie)** &mdash; Expose line metrics from RenderParagraph and RenderEditable<br />
-    <sub>[#143654](https://github.com/flutter/flutter/pull/143654) opened on on February 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143654) 56 additions and 5 deletions in 4 files</sub><br />
+    <sub>[#143654](https://github.com/flutter/flutter/pull/143654) opened on on February 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143654) 58 additions and 5 deletions in 5 files</sub><br />
 
