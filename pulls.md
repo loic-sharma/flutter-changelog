@@ -74,3 +74,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]rebuild the asset bundle if a file has been modified between `flutter test` runs<br />
     <sub>[#143611](https://github.com/flutter/flutter/pull/143611) opened on on February 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143611) 39 additions and 1 deletion in 2 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] skip perspective transformed text goldens.<br />
+    <sub>[#143623](https://github.com/flutter/flutter/pull/143623) opened on on February 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143623) 4 additions and 2 deletions in 1 file</sub><br />
+
