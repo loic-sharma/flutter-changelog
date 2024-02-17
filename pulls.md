@@ -80,6 +80,3 @@
 * **[Nawaf.](https://github.com/nawafalomari)** &mdash; fix: fix `lockUpButtonLabel` arabic translation<br />
     <sub>[#143638](https://github.com/flutter/flutter/pull/143638) opened on on February 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143638) 4 additions and 4 deletions in 4 files</sub><br />
 
-* **[Ellet](https://github.com/ellet0)** &mdash; Update Scrollbar widget to use CupertinoScrollbar on macOS<br />
-    <sub>[#143648](https://github.com/flutter/flutter/pull/143648) opened on on February 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143648) 6 additions and 4 deletions in 1 file</sub><br />
-
