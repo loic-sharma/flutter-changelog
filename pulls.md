@@ -89,3 +89,6 @@
 * **[Dennis Kugelmann](https://github.com/IchordeDionysos)** &mdash; Add scroll lock when using trackpad on web<br />
     <sub>[#143658](https://github.com/flutter/flutter/pull/143658) opened on on February 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143658) 54 additions and 4 deletions in 2 files</sub><br />
 
+* **[Greg Price](https://github.com/gnprice)** &mdash; Fill in SliverConstraints fields missing from ==, hashCode, toString<br />
+    <sub>[#143661](https://github.com/flutter/flutter/pull/143661) opened on on February 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143661) 59 additions and 54 deletions in 6 files</sub><br />
+
