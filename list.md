@@ -958,7 +958,7 @@
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] CommandPoolVK recycles command buffers too.
-    <sub>[#50468](https://github.com/flutter/engine/pull/50468) merged on February 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50468) over 4 days, 122 additions and 25 deletions in 4 files</sub>
+    <sub>[#50468](https://github.com/flutter/engine/pull/50468) merged on February 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50468) over 4 days, 122 additions and 25 deletions in 4 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/engine/assets/8975114/c0022d7a-d16e-4db5-862a-01d5a6157e18)![image](https://github.com/flutter/engine/assets/8975114/3b45f9a9-8811-4fbc-8b90-24338317df6e)</details></sub>
 
