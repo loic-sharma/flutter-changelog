@@ -643,7 +643,11 @@
 
 ### February 17, 2024 to February 23, 2024
 
-1 commits.
+2 commits.
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Run stroke benchmarks on unclosed paths<br />
+    <sub>[#50765](https://github.com/flutter/engine/pull/50765) merged on February 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50765) over 1 hour, 100 additions and 48 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Revert "Fix iOS password autofill prompt dismissal causes layout to resize (#50364)"<br />
     <sub>[#50760](https://github.com/flutter/engine/pull/50760) merged on February 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50760) over 59 minutes, 0 additions and 63 deletions in 2 files</sub><br />
