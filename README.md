@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### February 17, 2024 to February 23, 2024
+
+1 commits.
+
+* **[Gustl22](https://github.com/Gustl22)** &mdash; Reland (2): "Fix how Gradle resolves Android plugin"<br />
+    <sub>[#142498](https://github.com/flutter/flutter/pull/142498) merged on February 19, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/142498) over 2 weeks, 767 additions and 135 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
+
 ### February 10, 2024 to February 16, 2024
 
-81 commits.
+<details>
+<summary>81 commits...</summary>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Introduce `iconAlignment` for the buttons with icon<br />
     <sub>[#137348](https://github.com/flutter/flutter/pull/137348) merged on February 12, 2024 &mdash; **Large:** [129 comments](https://github.com/flutter/flutter/pull/137348) over 3 months, 942 additions and 17 deletions in 11 files</sub><br />
@@ -333,6 +342,8 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "Migrate integration_test plugin to Gradle Kotlin DSL (#142008)"<br />
     <sub>[#143329](https://github.com/flutter/flutter/pull/143329) merged on February 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143329) over 2 hours, 65 additions and 64 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+</details>
 
 ### February 3, 2024 to February 9, 2024
 
