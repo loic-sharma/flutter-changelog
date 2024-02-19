@@ -1001,7 +1001,7 @@
     <sub><details><summary>4 images...</summary>![ExternalTextureTests_testCanvasSurface](https://github.com/flutter/engine/assets/168174/1509ea21-2887-4a3b-b200-b857bbfb8304)![ExternalTextureTests_testCanvasSurface](https://github.com/flutter/engine/assets/168174/d9ae19c8-dd39-4e7f-859c-5d82bd1ba0a3)![ExternalTextureTests_testRotatedMediaSurface_180](https://github.com/flutter/engine/assets/168174/fee5bc8d-749f-4a59-976a-a573515fecea)![ExternalTextureTests_testRotatedMediaSurface_180](https://github.com/flutter/engine/assets/168174/a5249f70-22b4-4d36-8b63-e88c8a6846fe)</details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix iOS password autofill prompt dismissal causes layout to resize
-    <sub>[#50364](https://github.com/flutter/engine/pull/50364) merged on February 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50364) over 1 hour, 63 additions and 0 deletions in 2 files</sub>
+    <sub>[#50364](https://github.com/flutter/engine/pull/50364) merged on February 5, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50364) over 1 hour, 63 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Adds a runner to engine_build_configs
