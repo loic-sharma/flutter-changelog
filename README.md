@@ -630,9 +630,18 @@
 
 ## flutter/engine
 
+### February 17, 2024 to February 23, 2024
+
+1 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Revert "Fix iOS password autofill prompt dismissal causes layout to resize (#50364)"<br />
+    <sub>[#50760](https://github.com/flutter/engine/pull/50760) merged on February 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50760) over 59 minutes, 0 additions and 63 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
+
 ### February 10, 2024 to February 16, 2024
 
-86 commits.
+<details>
+<summary>86 commits...</summary>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Web] Ignore invalid keyboard events related to autofill<br />
     <sub>[#50590](https://github.com/flutter/engine/pull/50590) merged on February 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50590) over 2 days, 22 additions and 2 deletions in 2 files</sub><br />
@@ -981,6 +990,8 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Assign subpass depth on restore rather than creation.<br />
     <sub>[#50626](https://github.com/flutter/engine/pull/50626) merged on February 17, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/engine/pull/50626) over 3 days, 261 additions and 227 deletions in 20 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+</details>
 
 ### February 3, 2024 to February 9, 2024
 
