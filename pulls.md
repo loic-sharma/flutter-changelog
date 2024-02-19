@@ -42,7 +42,7 @@
     <sub>[#142348](https://github.com/flutter/flutter/pull/142348) opened on on January 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142348) 234 additions and 0 deletions in 5 files</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Added SliverCoordinater, PinnedHeaderSliver ReszingHeaderSliver<br />
-    <sub>[#142499](https://github.com/flutter/flutter/pull/142499) opened on on January 30, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/142499) 1018 additions and 0 deletions in 7 files</sub><br />
+    <sub>[#142499](https://github.com/flutter/flutter/pull/142499) opened on on January 30, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/142499) 1018 additions and 0 deletions in 7 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [WIP] Updating toolbarHeight for M3 fidelity<br />
     <sub>[#142671](https://github.com/flutter/flutter/pull/142671) opened on on February 1, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/142671) 330 additions and 292 deletions in 37 files</sub><br />
