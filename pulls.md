@@ -78,7 +78,7 @@
     <sub>[#143632](https://github.com/flutter/flutter/pull/143632) opened on on February 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143632) 38 additions and 2 deletions in 2 files</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions: everything in `flutter/lib/src/`<br />
-    <sub>[#143634](https://github.com/flutter/flutter/pull/143634) opened on on February 17, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143634) 497 additions and 934 deletions in 50 files</sub><br />
+    <sub>[#143634](https://github.com/flutter/flutter/pull/143634) opened on on February 17, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143634) 493 additions and 918 deletions in 50 files</sub><br />
 
 * **[Nawaf.](https://github.com/nawafalomari)** &mdash; fix: fix `lockUpButtonLabel` arabic translation<br />
     <sub>[#143638](https://github.com/flutter/flutter/pull/143638) opened on on February 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143638) 4 additions and 4 deletions in 4 files</sub><br />
