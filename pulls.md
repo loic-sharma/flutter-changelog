@@ -92,3 +92,6 @@
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fill in SliverConstraints fields missing from ==, hashCode, toString<br />
     <sub>[#143661](https://github.com/flutter/flutter/pull/143661) opened on on February 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143661) 59 additions and 54 deletions in 6 files</sub><br />
 
+* **[ufolux](https://github.com/ufolux)** &mdash; fix: unexpected chinese punctuation<br />
+    <sub>[#143678](https://github.com/flutter/flutter/pull/143678) opened on on February 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143678) 3 additions and 3 deletions in 1 file</sub><br />
+
