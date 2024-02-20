@@ -688,11 +688,15 @@
 
 ### February 17, 2024 to February 23, 2024
 
-9 commits.
+10 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds a .bat entrypoint for Windows
     <sub>[#50784](https://github.com/flutter/engine/pull/50784) merged on February 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50784) over 2 hours, 81 additions and 2 deletions in 4 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] more nullchecks in image decoder.
+    <sub>[#50787](https://github.com/flutter/engine/pull/50787) merged on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50787) over 4 hours, 13 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add ID to views
     <sub>[#50788](https://github.com/flutter/engine/pull/50788) merged on February 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50788) over 2 hours, 94 additions and 31 deletions in 20 files</sub>
