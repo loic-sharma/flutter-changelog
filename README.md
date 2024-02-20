@@ -651,7 +651,11 @@
 
 ### February 17, 2024 to February 23, 2024
 
-5 commits.
+6 commits.
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds a .bat entrypoint for Windows<br />
+    <sub>[#50784](https://github.com/flutter/engine/pull/50784) merged on February 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50784) over 2 hours, 81 additions and 2 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add missing std::move in setup depth stencil.<br />
     <sub>[#50750](https://github.com/flutter/engine/pull/50750) merged on February 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50750) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
