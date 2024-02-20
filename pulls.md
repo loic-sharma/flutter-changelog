@@ -71,9 +71,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Add isEnabled semantics flag to  text field <br />
     <sub>[#143601](https://github.com/flutter/flutter/pull/143601) opened on on February 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143601) 94 additions and 16 deletions in 7 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]rebuild the asset bundle if a file has been modified between `flutter test` runs<br />
-    <sub>[#143611](https://github.com/flutter/flutter/pull/143611) opened on on February 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143611) 39 additions and 1 deletion in 2 files</sub><br />
-
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions: everything in `flutter/lib/src/`<br />
     <sub>[#143634](https://github.com/flutter/flutter/pull/143634) opened on on February 17, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/143634) 493 additions and 918 deletions in 50 files</sub><br />
 
