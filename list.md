@@ -647,7 +647,11 @@
 
 ### February 17, 2024 to February 23, 2024
 
-3 commits.
+4 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add missing std::move in setup depth stencil.
+    <sub>[#50750](https://github.com/flutter/engine/pull/50750) merged on February 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50750) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Make the engine create the view
     <sub>[#50673](https://github.com/flutter/engine/pull/50673) merged on February 20, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/50673) over 5 days, 289 additions and 297 deletions in 16 files</sub>
