@@ -4,7 +4,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-15 commits.
+16 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Introduce tone-based surfaces and accent color add-ons - Part 2
     <sub>[#138521](https://github.com/flutter/flutter/pull/138521) merged on February 20, 2024 &mdash; **Extra large:** [37 comments](https://github.com/flutter/flutter/pull/138521) over 3 months, 2520 additions and 999 deletions in 181 files</sub>
@@ -55,12 +55,16 @@
     <sub>[#142498](https://github.com/flutter/flutter/pull/142498) merged on February 19, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/142498) over 2 weeks, 767 additions and 135 deletions in 8 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Add UI Benchmarks (#143542)"
+    <sub>[#143798](https://github.com/flutter/flutter/pull/143798) merged on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143798) over 26 seconds, 0 additions and 182 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Avoid applying partial dartfixes on CI
     <sub>[#143551](https://github.com/flutter/flutter/pull/143551) merged on February 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/143551) over 5 days, 11 additions and 6 deletions in 3 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add UI Benchmarks
-    <sub>[#143542](https://github.com/flutter/flutter/pull/143542) merged on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143542) over 5 days, 182 additions and 0 deletions in 2 files</sub>
+    <sub>[#143542](https://github.com/flutter/flutter/pull/143542) merged on February 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143542) over 5 days, 182 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implement `_suspendedNode` fix
