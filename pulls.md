@@ -53,9 +53,6 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; ResizingHeaderSliver<br />
     <sub>[#143325](https://github.com/flutter/flutter/pull/143325) opened on on February 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143325) 507 additions and 0 deletions in 5 files</sub><br />
 
-* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add UI Benchmarks<br />
-    <sub>[#143542](https://github.com/flutter/flutter/pull/143542) opened on on February 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143542) 182 additions and 0 deletions in 2 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Magnifier cleanup<br />
     <sub>[#143558](https://github.com/flutter/flutter/pull/143558) opened on on February 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/143558) 373 additions and 177 deletions in 11 files</sub><br />
 
@@ -72,7 +69,7 @@
     <sub>[#143658](https://github.com/flutter/flutter/pull/143658) opened on on February 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143658) 54 additions and 4 deletions in 2 files</sub><br />
 
 * **[ufolux](https://github.com/ufolux)** &mdash; fix: unexpected chinese punctuation<br />
-    <sub>[#143678](https://github.com/flutter/flutter/pull/143678) opened on on February 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143678) 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>[#143678](https://github.com/flutter/flutter/pull/143678) opened on on February 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143678) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Fix multiple calls to Slider's onChanged.<br />
     <sub>[#143680](https://github.com/flutter/flutter/pull/143680) opened on on February 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143680) 41 additions and 2 deletions in 2 files</sub><br />
@@ -81,5 +78,5 @@
     <sub>[#143790](https://github.com/flutter/flutter/pull/143790) opened on on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143790) 35 additions and 23 deletions in 7 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable debug banner to stabilize impeller goldens.<br />
-    <sub>[#143794](https://github.com/flutter/flutter/pull/143794) opened on on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143794) 16 additions and 0 deletions in 3 files</sub><br />
+    <sub>[#143794](https://github.com/flutter/flutter/pull/143794) opened on on February 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143794) 16 additions and 0 deletions in 3 files</sub><br />
 
