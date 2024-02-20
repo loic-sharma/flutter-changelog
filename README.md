@@ -4,7 +4,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-6 commits.
+7 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Introduce tone-based surfaces and accent color add-ons - Part 2<br />
     <sub>[#138521](https://github.com/flutter/flutter/pull/138521) merged on February 20, 2024 &mdash; **Extra large:** [37 comments](https://github.com/flutter/flutter/pull/138521) over 3 months, 2520 additions and 999 deletions in 181 files</sub><br />
@@ -22,6 +22,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Handle FormatException from SkiaGoldClient<br />
     <sub>[#143755](https://github.com/flutter/flutter/pull/143755) merged on February 20, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/143755) over 1 hour, 17 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [K Lubick](https://github.com/kjlubick), [Kate Lovett](https://github.com/Piinks), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete local.properties that shouldn't have been pushed<br />
+    <sub>[#143774](https://github.com/flutter/flutter/pull/143774) merged on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143774) over 39 minutes, 0 additions and 8 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Small fixes in TextEditingController docs<br />
     <sub>[#143717](https://github.com/flutter/flutter/pull/143717) merged on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143717) over 8 hours, 4 additions and 4 deletions in 1 file</sub><br />
