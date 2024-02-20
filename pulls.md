@@ -89,3 +89,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Fix multiple calls to Slider's onChanged.<br />
     <sub>[#143680](https://github.com/flutter/flutter/pull/143680) opened on on February 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143680) 41 additions and 2 deletions in 2 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete local.properties that shouldn't have been pushed<br />
+    <sub>[#143774](https://github.com/flutter/flutter/pull/143774) opened on on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143774) 0 additions and 8 deletions in 1 file</sub><br />
+
