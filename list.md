@@ -56,7 +56,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Add UI Benchmarks (#143542)"
-    <sub>[#143798](https://github.com/flutter/flutter/pull/143798) merged on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143798) over 26 seconds, 0 additions and 182 deletions in 2 files</sub>
+    <sub>[#143798](https://github.com/flutter/flutter/pull/143798) merged on February 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143798) over 26 seconds, 0 additions and 182 deletions in 2 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Avoid applying partial dartfixes on CI
@@ -1382,11 +1382,15 @@
 
 ### February 17, 2024 to February 23, 2024
 
-2 commits.
+3 commits.
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Updates package:web dependency to ^0.5.0.
     <sub>[#5791](https://github.com/flutter/packages/pull/5791) merged on February 20, 2024 &mdash; **Large:** [32 comments](https://github.com/flutter/packages/pull/5791) over 1 month, 500 additions and 290 deletions in 44 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [google_sign_in_web] Updates package:web dependency to 0.5.0.
+    <sub>[#6167](https://github.com/flutter/packages/pull/6167) merged on February 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6167) over 1 hour, 14 additions and 17 deletions in 4 files</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [flutter_markdown] Replace deprecated API
     <sub>[#6134](https://github.com/flutter/packages/pull/6134) merged on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6134) over 5 days, 134 additions and 31 deletions in 11 files</sub>
