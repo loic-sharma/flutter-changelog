@@ -668,11 +668,15 @@
 
 ### February 17, 2024 to February 23, 2024
 
-8 commits.
+9 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds a .bat entrypoint for Windows<br />
     <sub>[#50784](https://github.com/flutter/engine/pull/50784) merged on February 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50784) over 2 hours, 81 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add ID to views<br />
+    <sub>[#50788](https://github.com/flutter/engine/pull/50788) merged on February 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50788) over 2 hours, 94 additions and 31 deletions in 20 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move the `scenario_app` running Impeller+OpenGLES to `bringup: triue`<br />
     <sub>[#50789](https://github.com/flutter/engine/pull/50789) merged on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50789) over 38 minutes, 81 additions and 23 deletions in 3 files</sub><br />
