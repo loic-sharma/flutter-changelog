@@ -4,7 +4,11 @@
 
 ### February 17, 2024 to February 23, 2024
 
-1 commits.
+2 commits.
+
+* **[Greg Price](https://github.com/gnprice)** &mdash; Small fixes in TextEditingController docs<br />
+    <sub>[#143717](https://github.com/flutter/flutter/pull/143717) merged on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143717) over 8 hours, 4 additions and 4 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Gustl22](https://github.com/Gustl22)** &mdash; Reland (2): "Fix how Gradle resolves Android plugin"<br />
     <sub>[#142498](https://github.com/flutter/flutter/pull/142498) merged on February 19, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/142498) over 2 weeks, 767 additions and 135 deletions in 8 files</sub><br />
