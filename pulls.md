@@ -93,7 +93,7 @@
     <sub>[#143661](https://github.com/flutter/flutter/pull/143661) opened on on February 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143661) 59 additions and 54 deletions in 6 files</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Allow `Listenable.merge()` to use any iterable<br />
-    <sub>[#143675](https://github.com/flutter/flutter/pull/143675) opened on on February 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143675) 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#143675](https://github.com/flutter/flutter/pull/143675) opened on on February 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143675) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[ufolux](https://github.com/ufolux)** &mdash; fix: unexpected chinese punctuation<br />
     <sub>[#143678](https://github.com/flutter/flutter/pull/143678) opened on on February 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143678) 3 additions and 3 deletions in 1 file</sub><br />
