@@ -679,7 +679,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Create dedicated testers to run tests and deprecate femu_test<br />
-    <sub>[#50697](https://github.com/flutter/engine/pull/50697) merged on February 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/50697) over 4 days, 200 additions and 58 deletions in 3 files</sub><br />
+    <sub>[#50697](https://github.com/flutter/engine/pull/50697) merged on February 20, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50697) over 4 days, 200 additions and 58 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang), [Casey Hillers](https://github.com/CaseyHillers), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Revert "Fix iOS password autofill prompt dismissal causes layout to resize (#50364)"<br />
