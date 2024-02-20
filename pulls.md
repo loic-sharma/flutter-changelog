@@ -90,7 +90,7 @@
     <sub>[#143675](https://github.com/flutter/flutter/pull/143675) opened on on February 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143675) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[ufolux](https://github.com/ufolux)** &mdash; fix: unexpected chinese punctuation<br />
-    <sub>[#143678](https://github.com/flutter/flutter/pull/143678) opened on on February 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143678) 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>[#143678](https://github.com/flutter/flutter/pull/143678) opened on on February 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143678) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Fix multiple calls to Slider's onChanged.<br />
     <sub>[#143680](https://github.com/flutter/flutter/pull/143680) opened on on February 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143680) 41 additions and 2 deletions in 2 files</sub><br />
