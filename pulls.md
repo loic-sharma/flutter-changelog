@@ -101,3 +101,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Fix multiple calls to Slider's onChanged.<br />
     <sub>[#143680](https://github.com/flutter/flutter/pull/143680) opened on on February 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143680) 41 additions and 2 deletions in 2 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `hourMinuteTextStyle` defaults for Material 3 Time Picker<br />
+    <sub>[#143749](https://github.com/flutter/flutter/pull/143749) opened on on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143749) 47 additions and 12 deletions in 4 files</sub><br />
+
