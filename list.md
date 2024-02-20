@@ -4,7 +4,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-8 commits.
+10 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Introduce tone-based surfaces and accent color add-ons - Part 2
     <sub>[#138521](https://github.com/flutter/flutter/pull/138521) merged on February 20, 2024 &mdash; **Extra large:** [37 comments](https://github.com/flutter/flutter/pull/138521) over 3 months, 2520 additions and 999 deletions in 181 files</sub>
@@ -14,6 +14,14 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Changing `TextPainter.getOffsetForCaret` implementation to remove the logarithmic search
     <sub>[#143281](https://github.com/flutter/flutter/pull/143281) merged on February 20, 2024 &mdash; **Extra large:** [26 comments](https://github.com/flutter/flutter/pull/143281) over 1 week, 902 additions and 805 deletions in 7 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; instead of exiting the tool, print a warning when using --flavor with an incompatible device
+    <sub>[#143735](https://github.com/flutter/flutter/pull/143735) merged on February 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143735) over 14 hours, 29 additions and 22 deletions in 2 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Elias Yishak](https://github.com/eliasyishak)</sub>
+
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions: everything in `flutter/lib/src/`
+    <sub>[#143634](https://github.com/flutter/flutter/pull/143634) merged on February 20, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/143634) over 3 days, 503 additions and 925 deletions in 50 files</sub>
+    <sub>Reviewed by: [Bernardo Ferrari](https://github.com/bernaferrari), [Loïc Sharma](https://github.com/loic-sharma), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Explain when and why to use CrossAxisAlignment.baseline
     <sub>[#143632](https://github.com/flutter/flutter/pull/143632) merged on February 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143632) over 3 days, 38 additions and 2 deletions in 2 files</sub>
