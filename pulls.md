@@ -71,9 +71,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Add isEnabled semantics flag to  text field <br />
     <sub>[#143601](https://github.com/flutter/flutter/pull/143601) opened on on February 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143601) 94 additions and 16 deletions in 7 files</sub><br />
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions: everything in `flutter/lib/src/`<br />
-    <sub>[#143634](https://github.com/flutter/flutter/pull/143634) opened on on February 17, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/143634) 493 additions and 918 deletions in 50 files</sub><br />
-
 * **[Nawaf.](https://github.com/nawafalomari)** &mdash; fix: fix `lockUpButtonLabel` arabic translation<br />
     <sub>[#143638](https://github.com/flutter/flutter/pull/143638) opened on on February 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143638) 4 additions and 4 deletions in 4 files</sub><br />
 
@@ -85,9 +82,6 @@
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fill in SliverConstraints fields missing from ==, hashCode, toString<br />
     <sub>[#143661](https://github.com/flutter/flutter/pull/143661) opened on on February 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143661) 59 additions and 54 deletions in 6 files</sub><br />
-
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Allow `Listenable.merge()` to use any iterable<br />
-    <sub>[#143675](https://github.com/flutter/flutter/pull/143675) opened on on February 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143675) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[ufolux](https://github.com/ufolux)** &mdash; fix: unexpected chinese punctuation<br />
     <sub>[#143678](https://github.com/flutter/flutter/pull/143678) opened on on February 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143678) 3 additions and 3 deletions in 1 file</sub><br />
