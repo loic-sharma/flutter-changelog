@@ -1035,7 +1035,7 @@
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Adds a runner to engine_build_configs
-    <sub>[#50342](https://github.com/flutter/engine/pull/50342) merged on February 10, 2024 &mdash; **Extra large:** [21 comments](https://github.com/flutter/engine/pull/50342) over 5 days, 1337 additions and 164 deletions in 10 files</sub>
+    <sub>[#50342](https://github.com/flutter/engine/pull/50342) merged on February 10, 2024 &mdash; **Extra large:** [22 comments](https://github.com/flutter/engine/pull/50342) over 5 days, 1337 additions and 164 deletions in 10 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Fix Scene clip bounds. Trigger resize on DPR Change.
