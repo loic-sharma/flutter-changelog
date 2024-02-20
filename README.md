@@ -1358,7 +1358,11 @@
 
 ### February 17, 2024 to February 23, 2024
 
-1 commits.
+2 commits.
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Updates package:web dependency to ^0.5.0.<br />
+    <sub>[#5791](https://github.com/flutter/packages/pull/5791) merged on February 20, 2024 &mdash; **Large:** [32 comments](https://github.com/flutter/packages/pull/5791) over 1 month, 500 additions and 290 deletions in 44 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [flutter_markdown] Replace deprecated API<br />
     <sub>[#6134](https://github.com/flutter/packages/pull/6134) merged on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6134) over 5 days, 134 additions and 31 deletions in 11 files</sub><br />
