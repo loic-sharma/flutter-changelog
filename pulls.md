@@ -41,9 +41,6 @@
 * **[Maximilian Fischer](https://github.com/fischerscode)** &mdash; [material] Simplify building responsive layouts based on window size classes.<br />
     <sub>[#142348](https://github.com/flutter/flutter/pull/142348) opened on on January 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142348) 234 additions and 0 deletions in 5 files</sub><br />
 
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; Added SliverCoordinater, PinnedHeaderSliver ReszingHeaderSliver<br />
-    <sub>[#142499](https://github.com/flutter/flutter/pull/142499) opened on on January 30, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/142499) 1018 additions and 0 deletions in 7 files</sub><br />
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [WIP] Updating toolbarHeight for M3 fidelity<br />
     <sub>[#142671](https://github.com/flutter/flutter/pull/142671) opened on on February 1, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/142671) 330 additions and 292 deletions in 37 files</sub><br />
 
@@ -55,9 +52,6 @@
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; ResizingHeaderSliver<br />
     <sub>[#143325](https://github.com/flutter/flutter/pull/143325) opened on on February 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143325) 507 additions and 0 deletions in 5 files</sub><br />
-
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; SliverCoordinator, CoordinatedSliver<br />
-    <sub>[#143538](https://github.com/flutter/flutter/pull/143538) opened on on February 15, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143538) 587 additions and 0 deletions in 5 files</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add UI Benchmarks<br />
     <sub>[#143542](https://github.com/flutter/flutter/pull/143542) opened on on February 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143542) 182 additions and 0 deletions in 2 files</sub><br />
@@ -85,4 +79,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add CurvedAnimation disposals in some widgets<br />
     <sub>[#143790](https://github.com/flutter/flutter/pull/143790) opened on on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143790) 35 additions and 23 deletions in 7 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable debug banner to stabilize impeller goldens.<br />
+    <sub>[#143794](https://github.com/flutter/flutter/pull/143794) opened on on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143794) 16 additions and 0 deletions in 3 files</sub><br />
 
