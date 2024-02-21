@@ -80,6 +80,3 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Introduce `labelStyle` for `SnackBarAction` & `actionLabelStyle` for `SnackBarThemeData`<br />
     <sub>[#143865](https://github.com/flutter/flutter/pull/143865) opened on on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143865) 91 additions and 2 deletions in 4 files</sub><br />
 
-* **[Andrew](https://github.com/gruner)** &mdash; Fix documentation typo in basic.dart<br />
-    <sub>[#143887](https://github.com/flutter/flutter/pull/143887) opened on on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143887) 1 addition and 1 deletion in 1 file</sub><br />
-

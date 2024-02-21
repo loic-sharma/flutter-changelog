@@ -4,7 +4,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-28 commits.
+29 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Introduce tone-based surfaces and accent color add-ons - Part 2
     <sub>[#138521](https://github.com/flutter/flutter/pull/138521) merged on February 20, 2024 &mdash; **Extra large:** [37 comments](https://github.com/flutter/flutter/pull/138521) over 3 months, 2520 additions and 999 deletions in 181 files</sub>
@@ -66,7 +66,7 @@
     <sub>Reviewed by: [K Lubick](https://github.com/kjlubick), [Kate Lovett](https://github.com/Piinks), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Make impeller goldens test blocking.
-    <sub>[#143864](https://github.com/flutter/flutter/pull/143864) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143864) over 3 hours, 0 additions and 1 deletion in 1 file</sub>
+    <sub>[#143864](https://github.com/flutter/flutter/pull/143864) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143864) over 3 hours, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable color filter sepia test for Impeller.
@@ -100,6 +100,10 @@
 * **[Gustl22](https://github.com/Gustl22)** &mdash; Reland (2): "Fix how Gradle resolves Android plugin"
     <sub>[#142498](https://github.com/flutter/flutter/pull/142498) merged on February 19, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/142498) over 2 weeks, 767 additions and 135 deletions in 8 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] Make impeller goldens test blocking. (#143864)"
+    <sub>[#143896](https://github.com/flutter/flutter/pull/143896) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143896) over 27 seconds, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add aab as alias for appbundle
     <sub>[#143855](https://github.com/flutter/flutter/pull/143855) merged on February 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143855) over 2 hours, 9 additions and 0 deletions in 2 files</sub>
