@@ -75,7 +75,7 @@
     <sub>[#143790](https://github.com/flutter/flutter/pull/143790) opened on on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143790) 35 additions and 23 deletions in 7 files</sub><br />
 
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Fix143795<br />
-    <sub>[#143796](https://github.com/flutter/flutter/pull/143796) opened on on February 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143796) 44 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#143796](https://github.com/flutter/flutter/pull/143796) opened on on February 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143796) 44 additions and 2 deletions in 2 files</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Reland Add UI Benchmarks (#143542)<br />
     <sub>[#143799](https://github.com/flutter/flutter/pull/143799) opened on on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143799) 182 additions and 0 deletions in 2 files</sub><br />
