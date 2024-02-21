@@ -48,6 +48,10 @@
     <sub>[#143583](https://github.com/flutter/flutter/pull/143583) merged on February 21, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143583) over 4 days, 467 additions and 78 deletions in 85 files</sub><br />
     <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] enable wasm compile on beta channel<br />
+    <sub>[#143779](https://github.com/flutter/flutter/pull/143779) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143779) over 4 hours, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean leaks.<br />
     <sub>[#142818](https://github.com/flutter/flutter/pull/142818) merged on February 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/142818) over 2 weeks, 27 additions and 31 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314)</sub><br />
@@ -55,10 +59,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Handle FormatException from SkiaGoldClient<br />
     <sub>[#143755](https://github.com/flutter/flutter/pull/143755) merged on February 20, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/143755) over 1 hour, 17 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [K Lubick](https://github.com/kjlubick), [Kate Lovett](https://github.com/Piinks), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] enable wasm compile on beta channel<br />
-    <sub>[#143779](https://github.com/flutter/flutter/pull/143779) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143779) over 4 hours, 6 additions and 2 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; more fixes to unstable impeller goldens.<br />
     <sub>[#143811](https://github.com/flutter/flutter/pull/143811) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143811) over 48 minutes, 5 additions and 0 deletions in 2 files</sub><br />
