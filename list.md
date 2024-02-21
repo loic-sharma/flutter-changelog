@@ -724,11 +724,15 @@
 
 ### February 17, 2024 to February 23, 2024
 
-15 commits.
+16 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds a format command
     <sub>[#50747](https://github.com/flutter/engine/pull/50747) merged on February 21, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/50747) over 3 days, 538 additions and 58 deletions in 10 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Web] Update modifier state when Meta key is seen as Process key
+    <sub>[#50779](https://github.com/flutter/engine/pull/50779) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50779) over 16 hours, 37 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Make global builds uniquely named per platform
     <sub>[#50764](https://github.com/flutter/engine/pull/50764) merged on February 21, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/50764) over 1 day, 168 additions and 153 deletions in 9 files</sub>
