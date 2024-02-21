@@ -731,7 +731,7 @@
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable framework smoke tests.
-    <sub>[#50800](https://github.com/flutter/engine/pull/50800) merged on February 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50800) over 1 hour, 0 additions and 9 deletions in 1 file</sub>
+    <sub>[#50800](https://github.com/flutter/engine/pull/50800) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50800) over 1 hour, 0 additions and 9 deletions in 1 file</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] more nullchecks in image decoder.

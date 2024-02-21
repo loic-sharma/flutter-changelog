@@ -83,3 +83,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing null-aware operators throughout the repository<br />
     <sub>[#143804](https://github.com/flutter/flutter/pull/143804) opened on on February 21, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143804) 92 additions and 360 deletions in 55 files</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `rendering/`<br />
+    <sub>[#143812](https://github.com/flutter/flutter/pull/143812) opened on on February 21, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143812) 327 additions and 537 deletions in 17 files</sub><br />
+
