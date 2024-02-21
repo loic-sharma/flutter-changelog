@@ -724,7 +724,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-14 commits.
+15 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds a format command
     <sub>[#50747](https://github.com/flutter/engine/pull/50747) merged on February 21, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/50747) over 3 days, 538 additions and 58 deletions in 10 files</sub>
@@ -737,6 +737,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds a .bat entrypoint for Windows
     <sub>[#50784](https://github.com/flutter/engine/pull/50784) merged on February 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50784) over 2 hours, 81 additions and 2 deletions in 4 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add pub.dev to the hosted package URIs checked by the pub_get_offline script
+    <sub>[#50811](https://github.com/flutter/engine/pull/50811) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50811) over 34 minutes, 2 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable framework smoke tests.
     <sub>[#50800](https://github.com/flutter/engine/pull/50800) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50800) over 1 hour, 0 additions and 9 deletions in 1 file</sub>
