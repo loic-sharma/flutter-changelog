@@ -742,7 +742,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-33 commits.
+34 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add the `scenario_app` `'solid_blue'` golden to the Android test suite
     <sub>[#50801](https://github.com/flutter/engine/pull/50801) merged on February 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50801) over 19 hours, 28 additions and 0 deletions in 2 files</sub>
@@ -789,6 +789,10 @@
     <sub>[#50805](https://github.com/flutter/engine/pull/50805) merged on February 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50805) over 17 hours, 118 additions and 2 deletions in 10 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gaaclarke](https://github.com/gaaclarke)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a throw statement for imgtestAdd non 0 exit codes.
+    <sub>[#50829](https://github.com/flutter/engine/pull/50829) merged on February 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/50829) over 1 hour, 14 additions and 5 deletions in 1 file</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Make the GL context current in EmbedderSurfaceGLImpeller before creating the GPU surface
     <sub>[#50807](https://github.com/flutter/engine/pull/50807) merged on February 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50807) over 16 hours, 26 additions and 3 deletions in 6 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -825,9 +829,9 @@
     <sub>[#50787](https://github.com/flutter/engine/pull/50787) merged on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50787) over 4 hours, 13 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add ID to views
-    <sub>[#50788](https://github.com/flutter/engine/pull/50788) merged on February 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50788) over 2 hours, 94 additions and 31 deletions in 20 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Run stroke benchmarks on unclosed paths
+    <sub>[#50765](https://github.com/flutter/engine/pull/50765) merged on February 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50765) over 1 hour, 100 additions and 48 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move the `scenario_app` running Impeller+OpenGLES to `bringup: triue`
     <sub>[#50789](https://github.com/flutter/engine/pull/50789) merged on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50789) over 38 minutes, 81 additions and 23 deletions in 3 files</sub>
@@ -845,9 +849,9 @@
     <sub>[#50673](https://github.com/flutter/engine/pull/50673) merged on February 20, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/50673) over 5 days, 289 additions and 297 deletions in 16 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Run stroke benchmarks on unclosed paths
-    <sub>[#50765](https://github.com/flutter/engine/pull/50765) merged on February 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50765) over 1 hour, 100 additions and 48 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add ID to views
+    <sub>[#50788](https://github.com/flutter/engine/pull/50788) merged on February 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50788) over 2 hours, 94 additions and 31 deletions in 20 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add GeometryResult enum with StC modes.
     <sub>[#50816](https://github.com/flutter/engine/pull/50816) merged on February 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50816) over 36 minutes, 28 additions and 23 deletions in 11 files</sub>
