@@ -53,9 +53,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Magnifier cleanup<br />
     <sub>[#143558](https://github.com/flutter/flutter/pull/143558) opened on on February 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/143558) 373 additions and 177 deletions in 11 files</sub><br />
 
-* **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Add isEnabled semantics flag to  text field <br />
-    <sub>[#143601](https://github.com/flutter/flutter/pull/143601) opened on on February 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143601) 94 additions and 16 deletions in 7 files</sub><br />
-
 * **[Nawaf.](https://github.com/nawafalomari)** &mdash; fix: fix `lockUpButtonLabel` arabic translation<br />
     <sub>[#143638](https://github.com/flutter/flutter/pull/143638) opened on on February 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143638) 4 additions and 4 deletions in 4 files</sub><br />
 
