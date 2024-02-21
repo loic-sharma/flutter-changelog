@@ -90,5 +90,5 @@
     <sub>[#143864](https://github.com/flutter/flutter/pull/143864) opened on on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143864) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Introduce `labelStyle` for `SnackBarAction` & `actionLabelStyle` for `SnackBarThemeData`<br />
-    <sub>[#143865](https://github.com/flutter/flutter/pull/143865) opened on on February 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143865) 91 additions and 2 deletions in 4 files</sub><br />
+    <sub>[#143865](https://github.com/flutter/flutter/pull/143865) opened on on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143865) 91 additions and 2 deletions in 4 files</sub><br />
 

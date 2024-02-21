@@ -1527,6 +1527,10 @@
     <sub>[#5791](https://github.com/flutter/packages/pull/5791) merged on February 20, 2024 &mdash; **Large:** [32 comments](https://github.com/flutter/packages/pull/5791) over 1 month, 500 additions and 290 deletions in 44 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_markdown] Support wasm<br />
+    <sub>[#6168](https://github.com/flutter/packages/pull/6168) merged on February 21, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6168) over 14 hours, 20 additions and 22 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs)</sub><br />
+
 * **[Bas de Vaan](https://github.com/Bassiuz)** &mdash; [camera_android_camerax] Fix typo in readme<br />
     <sub>[#6143](https://github.com/flutter/packages/pull/6143) merged on February 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6143) over 5 days, 4 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub><br />
@@ -1542,10 +1546,6 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Commit Windows build migrations<br />
     <sub>[#6175](https://github.com/flutter/packages/pull/6175) merged on February 21, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/6175) over 25 minutes, 232 additions and 99 deletions in 41 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_markdown] Support wasm<br />
-    <sub>[#6168](https://github.com/flutter/packages/pull/6168) merged on February 21, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6168) over 14 hours, 20 additions and 22 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Remove `renderView` usage<br />
     <sub>[#6137](https://github.com/flutter/packages/pull/6137) merged on February 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6137) over 6 days, 48 additions and 33 deletions in 4 files</sub><br />
