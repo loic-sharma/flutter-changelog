@@ -1504,7 +1504,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-6 commits.
+7 commits.
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Updates package:web dependency to ^0.5.0.
     <sub>[#5791](https://github.com/flutter/packages/pull/5791) merged on February 20, 2024 &mdash; **Large:** [32 comments](https://github.com/flutter/packages/pull/5791) over 1 month, 500 additions and 290 deletions in 44 files</sub>
@@ -1513,6 +1513,10 @@
 * **[Bas de Vaan](https://github.com/Bassiuz)** &mdash; [camera_android_camerax] Fix typo in readme
     <sub>[#6143](https://github.com/flutter/packages/pull/6143) merged on February 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6143) over 5 days, 4 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [ci] Run Windows Arm64 build tests post-submit
+    <sub>[#6166](https://github.com/flutter/packages/pull/6166) merged on February 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6166) over 20 hours, 2 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_sign_in_web] Updates package:web dependency to 0.5.0.
     <sub>[#6167](https://github.com/flutter/packages/pull/6167) merged on February 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6167) over 1 hour, 14 additions and 17 deletions in 4 files</sub>
