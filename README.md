@@ -724,7 +724,15 @@
 
 ### February 17, 2024 to February 23, 2024
 
-12 commits.
+14 commits.
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds a format command<br />
+    <sub>[#50747](https://github.com/flutter/engine/pull/50747) merged on February 21, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/50747) over 3 days, 538 additions and 58 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Make global builds uniquely named per platform<br />
+    <sub>[#50764](https://github.com/flutter/engine/pull/50764) merged on February 21, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/50764) over 1 day, 168 additions and 153 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds a .bat entrypoint for Windows<br />
     <sub>[#50784](https://github.com/flutter/engine/pull/50784) merged on February 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50784) over 2 hours, 81 additions and 2 deletions in 4 files</sub><br />
