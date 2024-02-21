@@ -738,7 +738,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-24 commits.
+26 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Use 'et format' in CI. Check formatting of all files in CI<br />
     <sub>[#50810](https://github.com/flutter/engine/pull/50810) merged on February 21, 2024 &mdash; **Extra large:** [12 comments](https://github.com/flutter/engine/pull/50810) over 13 hours, 564 additions and 1233 deletions in 93 files</sub><br />
@@ -756,6 +756,10 @@
     <sub>[#50779](https://github.com/flutter/engine/pull/50779) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50779) over 16 hours, 37 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Hook ImageReaderSurfaceProducer to the onTrimMemory listener interface<br />
+    <sub>[#50792](https://github.com/flutter/engine/pull/50792) merged on February 21, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/50792) over 21 hours, 88 additions and 46 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Make global builds uniquely named per platform<br />
     <sub>[#50764](https://github.com/flutter/engine/pull/50764) merged on February 21, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/50764) over 1 day, 168 additions and 153 deletions in 9 files</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
@@ -763,6 +767,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds a .bat entrypoint for Windows<br />
     <sub>[#50784](https://github.com/flutter/engine/pull/50784) merged on February 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50784) over 2 hours, 81 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix the local-only lint errors due to an unexpected `GeneratedPluginRegistrant.java`<br />
+    <sub>[#50795](https://github.com/flutter/engine/pull/50795) merged on February 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50795) over 20 hours, 0 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] cache onscreen render targets.<br />
     <sub>[#50751](https://github.com/flutter/engine/pull/50751) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50751) over 2 days, 99 additions and 6 deletions in 6 files</sub><br />
