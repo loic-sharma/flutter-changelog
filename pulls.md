@@ -86,3 +86,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `rendering/`<br />
     <sub>[#143812](https://github.com/flutter/flutter/pull/143812) opened on on February 21, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143812) 327 additions and 537 deletions in 17 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; disable debug banner in m3 page test apps.<br />
+    <sub>[#143857](https://github.com/flutter/flutter/pull/143857) opened on on February 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143857) 1 addition and 0 deletions in 1 file</sub><br />
+
