@@ -4,7 +4,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-26 commits.
+28 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Introduce tone-based surfaces and accent color add-ons - Part 2
     <sub>[#138521](https://github.com/flutter/flutter/pull/138521) merged on February 20, 2024 &mdash; **Extra large:** [37 comments](https://github.com/flutter/flutter/pull/138521) over 3 months, 2520 additions and 999 deletions in 181 files</sub>
@@ -64,6 +64,14 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Handle FormatException from SkiaGoldClient
     <sub>[#143755](https://github.com/flutter/flutter/pull/143755) merged on February 20, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/143755) over 1 hour, 17 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [K Lubick](https://github.com/kjlubick), [Kate Lovett](https://github.com/Piinks), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Make impeller goldens test blocking.
+    <sub>[#143864](https://github.com/flutter/flutter/pull/143864) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143864) over 3 hours, 0 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable color filter sepia test for Impeller.
+    <sub>[#143861](https://github.com/flutter/flutter/pull/143861) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143861) over 3 hours, 3 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Deprecate redundant itemExtent in RenderSliverFixedExtentBoxAdaptor methods
     <sub>[#143412](https://github.com/flutter/flutter/pull/143412) merged on February 21, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/143412) over 1 week, 276 additions and 27 deletions in 2 files</sub>
