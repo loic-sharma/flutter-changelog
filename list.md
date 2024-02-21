@@ -742,7 +742,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-27 commits.
+30 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Use 'et format' in CI. Check formatting of all files in CI
     <sub>[#50810](https://github.com/flutter/engine/pull/50810) merged on February 21, 2024 &mdash; **Extra large:** [12 comments](https://github.com/flutter/engine/pull/50810) over 13 hours, 564 additions and 1233 deletions in 93 files</sub>
@@ -752,9 +752,17 @@
     <sub>[#50796](https://github.com/flutter/engine/pull/50796) merged on February 21, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/50796) over 17 hours, 85 additions and 0 deletions in 3 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Zachary Anderson](https://github.com/zanderso)</sub>
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove WindowManager reflection in SingleViewPresentation.java
+    <sub>[#49996](https://github.com/flutter/engine/pull/49996) merged on February 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49996) over 4 weeks, 184 additions and 56 deletions in 2 files</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker)</sub>
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds a format command
     <sub>[#50747](https://github.com/flutter/engine/pull/50747) merged on February 21, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/50747) over 3 days, 538 additions and 58 deletions in 10 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fail engine post-submit on skia-gold comparions.
+    <sub>[#50826](https://github.com/flutter/engine/pull/50826) merged on February 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50826) over 30 minutes, 2 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mouad Debbar](https://github.com/mdebbar), [Jim Graham](https://github.com/flar)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Web] Update modifier state when Meta key is seen as Process key
     <sub>[#50779](https://github.com/flutter/engine/pull/50779) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50779) over 16 hours, 37 additions and 1 deletion in 2 files</sub>
@@ -771,6 +779,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds a .bat entrypoint for Windows
     <sub>[#50784](https://github.com/flutter/engine/pull/50784) merged on February 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50784) over 2 hours, 81 additions and 2 deletions in 4 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] applied the lerp hack to blur (roughly 2x speedup?)
+    <sub>[#50790](https://github.com/flutter/engine/pull/50790) merged on February 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50790) over 23 hours, 174 additions and 1 deletion in 3 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Migrate the Fuchsia embedder to the Dart_RecordTimelineEvent API
     <sub>[#50823](https://github.com/flutter/engine/pull/50823) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50823) over 1 hour, 6 additions and 4 deletions in 1 file</sub>
@@ -793,7 +805,7 @@
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable framework smoke tests.
-    <sub>[#50800](https://github.com/flutter/engine/pull/50800) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50800) over 1 hour, 0 additions and 9 deletions in 1 file</sub>
+    <sub>[#50800](https://github.com/flutter/engine/pull/50800) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50800) over 1 hour, 0 additions and 9 deletions in 1 file</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] more nullchecks in image decoder.
