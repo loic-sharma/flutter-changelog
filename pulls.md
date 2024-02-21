@@ -65,9 +65,6 @@
 * **[Dennis Kugelmann](https://github.com/IchordeDionysos)** &mdash; Add scroll lock when using trackpad on web<br />
     <sub>[#143658](https://github.com/flutter/flutter/pull/143658) opened on on February 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143658) 54 additions and 4 deletions in 2 files</sub><br />
 
-* **[ufolux](https://github.com/ufolux)** &mdash; fix: unexpected chinese punctuation<br />
-    <sub>[#143678](https://github.com/flutter/flutter/pull/143678) opened on on February 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143678) 3 additions and 3 deletions in 1 file</sub><br />
-
 * **[yim](https://github.com/yiiim)** &mdash; Fix multiple calls to Slider's onChanged.<br />
     <sub>[#143680](https://github.com/flutter/flutter/pull/143680) opened on on February 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143680) 41 additions and 2 deletions in 2 files</sub><br />
 
@@ -87,7 +84,7 @@
     <sub>[#143812](https://github.com/flutter/flutter/pull/143812) opened on on February 21, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143812) 327 additions and 537 deletions in 17 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; disable debug banner in m3 page test apps.<br />
-    <sub>[#143857](https://github.com/flutter/flutter/pull/143857) opened on on February 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143857) 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>[#143857](https://github.com/flutter/flutter/pull/143857) opened on on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143857) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable color filter sepia test for Impeller.<br />
     <sub>[#143861](https://github.com/flutter/flutter/pull/143861) opened on on February 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143861) 3 additions and 1 deletion in 1 file</sub><br />

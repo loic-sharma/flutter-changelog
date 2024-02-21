@@ -738,7 +738,11 @@
 
 ### February 17, 2024 to February 23, 2024
 
-22 commits.
+23 commits.
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Use 'et format' in CI. Check formatting of all files in CI
+    <sub>[#50810](https://github.com/flutter/engine/pull/50810) merged on February 21, 2024 &mdash; **Extra large:** [12 comments](https://github.com/flutter/engine/pull/50810) over 13 hours, 564 additions and 1233 deletions in 93 files</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Disallow files additional named `GeneratedPluginRegistrant.java`.
     <sub>[#50796](https://github.com/flutter/engine/pull/50796) merged on February 21, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/50796) over 17 hours, 85 additions and 0 deletions in 3 files</sub>
