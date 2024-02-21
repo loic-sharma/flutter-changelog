@@ -758,16 +758,21 @@
 
 ### February 17, 2024 to February 23, 2024
 
-40 commits.
+42 commits.
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Use 'et format' in CI. Check formatting of all files in CI
-    <sub>[#50810](https://github.com/flutter/engine/pull/50810) merged on February 21, 2024 &mdash; **Extra large:** [12 comments](https://github.com/flutter/engine/pull/50810) over 13 hours, 564 additions and 1233 deletions in 93 files</sub>
-    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Make Android Studio be able to run android embedding unit tests out of the box
+    <sub>[#50840](https://github.com/flutter/engine/pull/50840) merged on February 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50840) over 1 hour, 34 additions and 5 deletions in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+    <sub><details><summary>1 image...</summary><img width="1537" alt="Screenshot 2024-02-21 at 2 44 19 PM" src="https://github.com/flutter/engine/assets/34871572/a48a14dd-b43e-4bd5-a375-3b44e058d0f6"></details></sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add the `scenario_app` `'solid_blue'` golden to the Android test suite
     <sub>[#50801](https://github.com/flutter/engine/pull/50801) merged on February 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50801) over 19 hours, 28 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
     <sub><details><summary>1 image...</summary>![DrawSolidBlueScreenTest](https://github.com/flutter/engine/assets/168174/1b499348-f854-4e2d-aa41-f8c6b9ec616d)</details></sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Use 'et format' in CI. Check formatting of all files in CI
+    <sub>[#50810](https://github.com/flutter/engine/pull/50810) merged on February 21, 2024 &mdash; **Extra large:** [12 comments](https://github.com/flutter/engine/pull/50810) over 13 hours, 564 additions and 1233 deletions in 93 files</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Disallow files additional named `GeneratedPluginRegistrant.java`.
     <sub>[#50796](https://github.com/flutter/engine/pull/50796) merged on February 21, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/50796) over 17 hours, 85 additions and 0 deletions in 3 files</sub>
@@ -781,6 +786,10 @@
     <sub>[#50747](https://github.com/flutter/engine/pull/50747) merged on February 21, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/50747) over 3 days, 538 additions and 58 deletions in 10 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Matan Lurey](https://github.com/matanlurey)</sub>
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift some deps to //flutter/third_party
+    <sub>[#50830](https://github.com/flutter/engine/pull/50830) merged on February 21, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/50830) over 4 hours, 5240 additions and 5367 deletions in 34 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Starts a .ci.yaml parser
     <sub>[#50783](https://github.com/flutter/engine/pull/50783) merged on February 21, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/engine/pull/50783) over 1 day, 400 additions and 0 deletions in 5 files</sub>
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers), [Loïc Sharma](https://github.com/loic-sharma), [keyonghan](https://github.com/keyonghan)</sub>
@@ -793,13 +802,13 @@
     <sub>[#50779](https://github.com/flutter/engine/pull/50779) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50779) over 16 hours, 37 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
 
-* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Hook ImageReaderSurfaceProducer to the onTrimMemory listener interface
-    <sub>[#50792](https://github.com/flutter/engine/pull/50792) merged on February 21, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/50792) over 21 hours, 88 additions and 46 deletions in 7 files</sub>
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Make global builds uniquely named per platform
     <sub>[#50764](https://github.com/flutter/engine/pull/50764) merged on February 21, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/50764) over 1 day, 168 additions and 153 deletions in 9 files</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
+
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Hook ImageReaderSurfaceProducer to the onTrimMemory listener interface
+    <sub>[#50792](https://github.com/flutter/engine/pull/50792) merged on February 21, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/50792) over 21 hours, 88 additions and 46 deletions in 7 files</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Fix top-level message procedure order
     <sub>[#50797](https://github.com/flutter/engine/pull/50797) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50797) over 1 day, 81 additions and 30 deletions in 5 files</sub>
@@ -816,6 +825,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Wrap FlutterEngineTest in autoreleasepool
     <sub>[#50832](https://github.com/flutter/engine/pull/50832) merged on February 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50832) over 3 hours, 3 additions and 5 deletions in 2 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [yaakovschectman](https://github.com/yaakovschectman)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the vulkan_glfw sample for the latest roll of vulkan-deps
+    <sub>[#50839](https://github.com/flutter/engine/pull/50839) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50839) over 1 hour, 4 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a throw statement for imgtestAdd non 0 exit codes.
     <sub>[#50829](https://github.com/flutter/engine/pull/50829) merged on February 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/50829) over 1 hour, 14 additions and 5 deletions in 1 file</sub>
@@ -837,33 +850,9 @@
     <sub>[#50823](https://github.com/flutter/engine/pull/50823) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50823) over 1 hour, 6 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix the local-only lint errors due to an unexpected `GeneratedPluginRegistrant.java`
-    <sub>[#50795](https://github.com/flutter/engine/pull/50795) merged on February 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50795) over 20 hours, 0 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] cache onscreen render targets.
-    <sub>[#50751](https://github.com/flutter/engine/pull/50751) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50751) over 2 days, 99 additions and 6 deletions in 6 files</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Implement the render_to_surface flag in GPUSurfaceGLImpeller
-    <sub>[#50669](https://github.com/flutter/engine/pull/50669) merged on February 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50669) over 5 days, 34 additions and 9 deletions in 8 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Chris Bracken](https://github.com/cbracken), [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the vulkan_glfw sample for the latest roll of vulkan-deps
-    <sub>[#50839](https://github.com/flutter/engine/pull/50839) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50839) over 1 hour, 4 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] force bootstrap render pass.
-    <sub>[#50749](https://github.com/flutter/engine/pull/50749) merged on February 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50749) over 2 days, 81 additions and 1 deletion in 9 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Make the engine create the view
-    <sub>[#50673](https://github.com/flutter/engine/pull/50673) merged on February 20, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/50673) over 5 days, 289 additions and 297 deletions in 16 files</sub>
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add ID to views
+    <sub>[#50788](https://github.com/flutter/engine/pull/50788) merged on February 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50788) over 2 hours, 94 additions and 31 deletions in 20 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add missing std::move in setup depth stencil.
-    <sub>[#50750](https://github.com/flutter/engine/pull/50750) merged on February 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50750) over 1 day, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move the `scenario_app` running Impeller+OpenGLES to `bringup: triue`
     <sub>[#50789](https://github.com/flutter/engine/pull/50789) merged on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50789) over 38 minutes, 81 additions and 23 deletions in 3 files</sub>
@@ -873,37 +862,45 @@
     <sub>[#50811](https://github.com/flutter/engine/pull/50811) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50811) over 34 minutes, 2 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable framework smoke tests.
-    <sub>[#50800](https://github.com/flutter/engine/pull/50800) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50800) over 1 hour, 0 additions and 9 deletions in 1 file</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] more nullchecks in image decoder.
-    <sub>[#50787](https://github.com/flutter/engine/pull/50787) merged on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50787) over 4 hours, 13 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add ID to views
-    <sub>[#50788](https://github.com/flutter/engine/pull/50788) merged on February 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50788) over 2 hours, 94 additions and 31 deletions in 20 files</sub>
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Make the engine create the view
+    <sub>[#50673](https://github.com/flutter/engine/pull/50673) merged on February 20, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/50673) over 5 days, 289 additions and 297 deletions in 16 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Run stroke benchmarks on unclosed paths
     <sub>[#50765](https://github.com/flutter/engine/pull/50765) merged on February 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50765) over 1 hour, 100 additions and 48 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix symbol export for windows.
-    <sub>[#50755](https://github.com/flutter/engine/pull/50755) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50755) over 1 day, 2 additions and 0 deletions in 1 file</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] more nullchecks in image decoder.
+    <sub>[#50787](https://github.com/flutter/engine/pull/50787) merged on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50787) over 4 hours, 13 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] cache onscreen render targets.
+    <sub>[#50751](https://github.com/flutter/engine/pull/50751) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50751) over 2 days, 99 additions and 6 deletions in 6 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] force bootstrap render pass.
+    <sub>[#50749](https://github.com/flutter/engine/pull/50749) merged on February 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50749) over 2 days, 81 additions and 1 deletion in 9 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Tweak verbose log messages in ImageReaderSurfaceProducer
-    <sub>[#50831](https://github.com/flutter/engine/pull/50831) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50831) over 2 hours, 40 additions and 10 deletions in 1 file</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Implement the render_to_surface flag in GPUSurfaceGLImpeller
+    <sub>[#50669](https://github.com/flutter/engine/pull/50669) merged on February 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50669) over 5 days, 34 additions and 9 deletions in 8 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Chris Bracken](https://github.com/cbracken), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable framework smoke tests.
+    <sub>[#50800](https://github.com/flutter/engine/pull/50800) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50800) over 1 hour, 0 additions and 9 deletions in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add missing std::move in setup depth stencil.
+    <sub>[#50750](https://github.com/flutter/engine/pull/50750) merged on February 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50750) over 1 day, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix the local-only lint errors due to an unexpected `GeneratedPluginRegistrant.java`
+    <sub>[#50795](https://github.com/flutter/engine/pull/50795) merged on February 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50795) over 20 hours, 0 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add GeometryResult enum with StC modes.
     <sub>[#50816](https://github.com/flutter/engine/pull/50816) merged on February 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50816) over 36 minutes, 28 additions and 23 deletions in 11 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Create dedicated testers to run tests and deprecate femu_test
-    <sub>[#50697](https://github.com/flutter/engine/pull/50697) merged on February 20, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50697) over 4 days, 200 additions and 58 deletions in 3 files</sub>
-    <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang), [Casey Hillers](https://github.com/CaseyHillers), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Update impeller-cmake-example
     <sub>[#50808](https://github.com/flutter/engine/pull/50808) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50808) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -913,9 +910,21 @@
     <sub>[#50814](https://github.com/flutter/engine/pull/50814) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50814) over 32 minutes, 7 additions and 18 deletions in 5 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Create dedicated testers to run tests and deprecate femu_test
+    <sub>[#50697](https://github.com/flutter/engine/pull/50697) merged on February 20, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50697) over 4 days, 200 additions and 58 deletions in 3 files</sub>
+    <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang), [Casey Hillers](https://github.com/CaseyHillers), [Zachary Anderson](https://github.com/zanderso)</sub>
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Apply Entity depth in filter shaders that may render directly to an EntityPass.
     <sub>[#50742](https://github.com/flutter/engine/pull/50742) merged on February 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50742) over 3 days, 110 additions and 95 deletions in 11 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix symbol export for windows.
+    <sub>[#50755](https://github.com/flutter/engine/pull/50755) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50755) over 1 day, 2 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Tweak verbose log messages in ImageReaderSurfaceProducer
+    <sub>[#50831](https://github.com/flutter/engine/pull/50831) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50831) over 2 hours, 40 additions and 10 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Revert "Fix iOS password autofill prompt dismissal causes layout to resize (#50364)"
     <sub>[#50760](https://github.com/flutter/engine/pull/50760) merged on February 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50760) over 59 minutes, 0 additions and 63 deletions in 2 files</sub>
