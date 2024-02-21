@@ -724,7 +724,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-17 commits.
+18 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds a format command
     <sub>[#50747](https://github.com/flutter/engine/pull/50747) merged on February 21, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/50747) over 3 days, 538 additions and 58 deletions in 10 files</sub>
@@ -776,6 +776,10 @@
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Run stroke benchmarks on unclosed paths
     <sub>[#50765](https://github.com/flutter/engine/pull/50765) merged on February 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50765) over 1 hour, 100 additions and 48 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove non-Flutter fill types from impeller::Path.
+    <sub>[#50814](https://github.com/flutter/engine/pull/50814) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50814) over 32 minutes, 7 additions and 18 deletions in 5 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Apply Entity depth in filter shaders that may render directly to an EntityPass.
