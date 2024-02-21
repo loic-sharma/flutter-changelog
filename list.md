@@ -720,7 +720,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-11 commits.
+12 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds a .bat entrypoint for Windows
     <sub>[#50784](https://github.com/flutter/engine/pull/50784) merged on February 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50784) over 2 hours, 81 additions and 2 deletions in 4 files</sub>
@@ -757,6 +757,10 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Run stroke benchmarks on unclosed paths
     <sub>[#50765](https://github.com/flutter/engine/pull/50765) merged on February 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50765) over 1 hour, 100 additions and 48 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix symbol export for windows.
+    <sub>[#50755](https://github.com/flutter/engine/pull/50755) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50755) over 1 day, 2 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Create dedicated testers to run tests and deprecate femu_test
     <sub>[#50697](https://github.com/flutter/engine/pull/50697) merged on February 20, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/50697) over 4 days, 200 additions and 58 deletions in 3 files</sub>
