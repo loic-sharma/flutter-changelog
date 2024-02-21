@@ -89,3 +89,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `rendering/`<br />
     <sub>[#143812](https://github.com/flutter/flutter/pull/143812) opened on on February 21, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143812) 327 additions and 537 deletions in 17 files</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add aab as alias for appbundle<br />
+    <sub>[#143855](https://github.com/flutter/flutter/pull/143855) opened on on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143855) 3 additions and 0 deletions in 1 file</sub><br />
+
