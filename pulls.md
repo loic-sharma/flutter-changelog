@@ -80,3 +80,6 @@
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Reland Add UI Benchmarks (#143542)<br />
     <sub>[#143799](https://github.com/flutter/flutter/pull/143799) opened on on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143799) 182 additions and 0 deletions in 2 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; more fixes to unstable impeller goldens.<br />
+    <sub>[#143811](https://github.com/flutter/flutter/pull/143811) opened on on February 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143811) 5 additions and 0 deletions in 2 files</sub><br />
+
