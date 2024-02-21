@@ -724,7 +724,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-16 commits.
+17 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds a format command
     <sub>[#50747](https://github.com/flutter/engine/pull/50747) merged on February 21, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/50747) over 3 days, 538 additions and 58 deletions in 10 files</sub>
@@ -776,6 +776,10 @@
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Run stroke benchmarks on unclosed paths
     <sub>[#50765](https://github.com/flutter/engine/pull/50765) merged on February 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50765) over 1 hour, 100 additions and 48 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Apply Entity depth in filter shaders that may render directly to an EntityPass.
+    <sub>[#50742](https://github.com/flutter/engine/pull/50742) merged on February 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50742) over 3 days, 110 additions and 95 deletions in 11 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix symbol export for windows.
