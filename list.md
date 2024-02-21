@@ -4,7 +4,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-16 commits.
+17 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Introduce tone-based surfaces and accent color add-ons - Part 2
     <sub>[#138521](https://github.com/flutter/flutter/pull/138521) merged on February 20, 2024 &mdash; **Extra large:** [37 comments](https://github.com/flutter/flutter/pull/138521) over 3 months, 2520 additions and 999 deletions in 181 files</sub>
@@ -12,7 +12,7 @@
     <sub><details><summary>1 image...</summary>![Screenshot 2024-01-08 at 4 56 51 PM](https://github.com/flutter/flutter/assets/36861262/353cdb4c-6ba9-4435-a518-fd3f67e415f0)</details></sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Changing `TextPainter.getOffsetForCaret` implementation to remove the logarithmic search
-    <sub>[#143281](https://github.com/flutter/flutter/pull/143281) merged on February 20, 2024 &mdash; **Extra large:** [26 comments](https://github.com/flutter/flutter/pull/143281) over 1 week, 902 additions and 805 deletions in 7 files</sub>
+    <sub>[#143281](https://github.com/flutter/flutter/pull/143281) merged on February 20, 2024 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/143281) over 1 week, 902 additions and 805 deletions in 7 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; Change `ItemExtentBuilder`'s return value nullable
@@ -22,6 +22,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; instead of exiting the tool, print a warning when using --flavor with an incompatible device
     <sub>[#143735](https://github.com/flutter/flutter/pull/143735) merged on February 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143735) over 14 hours, 29 additions and 22 deletions in 2 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Elias Yishak](https://github.com/eliasyishak)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Changing `TextPainter.getOffsetForCaret` implementation to remove the logarithmic search (#143281)"
+    <sub>[#143801](https://github.com/flutter/flutter/pull/143801) merged on February 21, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/143801) over 49 seconds, 805 additions and 902 deletions in 7 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions: everything in `flutter/lib/src/`
     <sub>[#143634](https://github.com/flutter/flutter/pull/143634) merged on February 20, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/143634) over 3 days, 503 additions and 925 deletions in 50 files</sub>
