@@ -19,6 +19,10 @@
     <sub>[#142428](https://github.com/flutter/flutter/pull/142428) merged on February 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/142428) over 3 weeks, 80 additions and 14 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] enable wasm compile on beta channel<br />
+    <sub>[#143779](https://github.com/flutter/flutter/pull/143779) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143779) over 4 hours, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; instead of exiting the tool, print a warning when using --flavor with an incompatible device<br />
     <sub>[#143735](https://github.com/flutter/flutter/pull/143735) merged on February 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143735) over 14 hours, 29 additions and 22 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Elias Yishak](https://github.com/eliasyishak)</sub><br />
@@ -32,10 +36,6 @@
     <sub>[#143739](https://github.com/flutter/flutter/pull/143739) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143739) over 22 hours, 170 additions and 38 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
     <sub><details><summary>3 images...</summary><img src="https://github.com/flutter/flutter/assets/48603081/20beeba4-5cc2-49ee-bba8-1c552c0d1e44" /><img src="https://github.com/flutter/flutter/assets/48603081/24927187-aff7-4191-930c-bceab6a4b4c2" />![image](https://github.com/flutter/flutter/assets/48603081/0c84f649-545d-441b-adbf-2b9ec872b14c)</details></sub>
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] enable wasm compile on beta channel<br />
-    <sub>[#143779](https://github.com/flutter/flutter/pull/143779) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143779) over 4 hours, 6 additions and 2 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Fix initialization of time in repeat on AnimationController<br />
     <sub>[#142887](https://github.com/flutter/flutter/pull/142887) merged on February 21, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/142887) over 2 weeks, 44 additions and 3 deletions in 2 files</sub><br />
@@ -738,7 +738,11 @@
 
 ### February 17, 2024 to February 23, 2024
 
-20 commits.
+21 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Disallow files additional named `GeneratedPluginRegistrant.java`.<br />
+    <sub>[#50796](https://github.com/flutter/engine/pull/50796) merged on February 21, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/50796) over 17 hours, 85 additions and 0 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds a format command<br />
     <sub>[#50747](https://github.com/flutter/engine/pull/50747) merged on February 21, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/50747) over 3 days, 538 additions and 58 deletions in 10 files</sub><br />
@@ -1456,15 +1460,23 @@
 
 ### February 17, 2024 to February 23, 2024
 
-3 commits.
+5 commits.
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Updates package:web dependency to ^0.5.0.<br />
     <sub>[#5791](https://github.com/flutter/packages/pull/5791) merged on February 20, 2024 &mdash; **Large:** [32 comments](https://github.com/flutter/packages/pull/5791) over 1 month, 500 additions and 290 deletions in 44 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
+* **[Bas de Vaan](https://github.com/Bassiuz)** &mdash; [camera_android_camerax] Fix typo in readme<br />
+    <sub>[#6143](https://github.com/flutter/packages/pull/6143) merged on February 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6143) over 5 days, 4 additions and 3 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub><br />
+
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_sign_in_web] Updates package:web dependency to 0.5.0.<br />
     <sub>[#6167](https://github.com/flutter/packages/pull/6167) merged on February 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6167) over 1 hour, 14 additions and 17 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Switch iOS endorsement to `local_auth_darwin`<br />
+    <sub>[#6107](https://github.com/flutter/packages/pull/6107) merged on February 21, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6107) over 1 week, 18 additions and 21 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [flutter_markdown] Replace deprecated API<br />
     <sub>[#6134](https://github.com/flutter/packages/pull/6134) merged on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6134) over 5 days, 134 additions and 31 deletions in 11 files</sub><br />
