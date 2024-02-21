@@ -41,6 +41,10 @@
     <sub>[#143801](https://github.com/flutter/flutter/pull/143801) merged on February 21, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/143801) over 49 seconds, 805 additions and 902 deletions in 7 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] enable wasm compile on beta channel
+    <sub>[#143779](https://github.com/flutter/flutter/pull/143779) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143779) over 4 hours, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions: everything in `flutter/lib/src/`
     <sub>[#143634](https://github.com/flutter/flutter/pull/143634) merged on February 20, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/143634) over 3 days, 503 additions and 925 deletions in 50 files</sub>
     <sub>Reviewed by: [Bernardo Ferrari](https://github.com/bernaferrari), [Loïc Sharma](https://github.com/loic-sharma), [Michael Goderbauer](https://github.com/goderbauer)</sub>
@@ -52,10 +56,6 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; `CalendarDatePicker` doesn't announce selected date on desktop
     <sub>[#143583](https://github.com/flutter/flutter/pull/143583) merged on February 21, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143583) over 4 days, 467 additions and 78 deletions in 85 files</sub>
     <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub>
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] enable wasm compile on beta channel
-    <sub>[#143779](https://github.com/flutter/flutter/pull/143779) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143779) over 4 hours, 6 additions and 2 deletions in 3 files</sub>
-    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean leaks.
     <sub>[#142818](https://github.com/flutter/flutter/pull/142818) merged on February 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/142818) over 2 weeks, 27 additions and 31 deletions in 9 files</sub>
