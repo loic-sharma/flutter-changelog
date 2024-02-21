@@ -11,6 +11,10 @@
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Pierre-Louis](https://github.com/guidezpl)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot 2024-01-08 at 4 56 51 PM](https://github.com/flutter/flutter/assets/36861262/353cdb4c-6ba9-4435-a518-fd3f67e415f0)</details></sub>
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] enable wasm compile on beta channel
+    <sub>[#143779](https://github.com/flutter/flutter/pull/143779) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143779) over 4 hours, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Changing `TextPainter.getOffsetForCaret` implementation to remove the logarithmic search
     <sub>[#143281](https://github.com/flutter/flutter/pull/143281) merged on February 20, 2024 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/143281) over 1 week, 902 additions and 805 deletions in 7 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Jason Simmons](https://github.com/jason-simmons)</sub>
@@ -18,10 +22,6 @@
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; Change `ItemExtentBuilder`'s return value nullable
     <sub>[#142428](https://github.com/flutter/flutter/pull/142428) merged on February 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/142428) over 3 weeks, 80 additions and 14 deletions in 7 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] enable wasm compile on beta channel
-    <sub>[#143779](https://github.com/flutter/flutter/pull/143779) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143779) over 4 hours, 6 additions and 2 deletions in 3 files</sub>
-    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; instead of exiting the tool, print a warning when using --flavor with an incompatible device
     <sub>[#143735](https://github.com/flutter/flutter/pull/143735) merged on February 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143735) over 14 hours, 29 additions and 22 deletions in 2 files</sub>
@@ -742,7 +742,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-30 commits.
+31 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Use 'et format' in CI. Check formatting of all files in CI
     <sub>[#50810](https://github.com/flutter/engine/pull/50810) merged on February 21, 2024 &mdash; **Extra large:** [12 comments](https://github.com/flutter/engine/pull/50810) over 13 hours, 564 additions and 1233 deletions in 93 files</sub>
@@ -779,6 +779,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds a .bat entrypoint for Windows
     <sub>[#50784](https://github.com/flutter/engine/pull/50784) merged on February 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50784) over 2 hours, 81 additions and 2 deletions in 4 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Make the GL context current in EmbedderSurfaceGLImpeller before creating the GPU surface
+    <sub>[#50807](https://github.com/flutter/engine/pull/50807) merged on February 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50807) over 16 hours, 26 additions and 3 deletions in 6 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] applied the lerp hack to blur (roughly 2x speedup?)
     <sub>[#50790](https://github.com/flutter/engine/pull/50790) merged on February 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50790) over 23 hours, 174 additions and 1 deletion in 3 files</sub>
