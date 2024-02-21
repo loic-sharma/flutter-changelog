@@ -738,7 +738,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-21 commits.
+22 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Disallow files additional named `GeneratedPluginRegistrant.java`.
     <sub>[#50796](https://github.com/flutter/engine/pull/50796) merged on February 21, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/50796) over 17 hours, 85 additions and 0 deletions in 3 files</sub>
@@ -759,6 +759,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds a .bat entrypoint for Windows
     <sub>[#50784](https://github.com/flutter/engine/pull/50784) merged on February 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50784) over 2 hours, 81 additions and 2 deletions in 4 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] force bootstrap render pass.
+    <sub>[#50749](https://github.com/flutter/engine/pull/50749) merged on February 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50749) over 2 days, 81 additions and 1 deletion in 9 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add pub.dev to the hosted package URIs checked by the pub_get_offline script
     <sub>[#50811](https://github.com/flutter/engine/pull/50811) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50811) over 34 minutes, 2 additions and 1 deletion in 1 file</sub>

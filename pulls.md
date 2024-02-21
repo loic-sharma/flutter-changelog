@@ -71,9 +71,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Fix multiple calls to Slider's onChanged.<br />
     <sub>[#143680](https://github.com/flutter/flutter/pull/143680) opened on on February 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143680) 41 additions and 2 deletions in 2 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add CurvedAnimation disposals in some widgets<br />
-    <sub>[#143790](https://github.com/flutter/flutter/pull/143790) opened on on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143790) 35 additions and 23 deletions in 7 files</sub><br />
-
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Fix143795<br />
     <sub>[#143796](https://github.com/flutter/flutter/pull/143796) opened on on February 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143796) 44 additions and 2 deletions in 2 files</sub><br />
 
@@ -88,7 +85,4 @@
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `rendering/`<br />
     <sub>[#143812](https://github.com/flutter/flutter/pull/143812) opened on on February 21, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143812) 327 additions and 537 deletions in 17 files</sub><br />
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add aab as alias for appbundle<br />
-    <sub>[#143855](https://github.com/flutter/flutter/pull/143855) opened on on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143855) 3 additions and 0 deletions in 1 file</sub><br />
 
