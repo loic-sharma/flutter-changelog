@@ -4,7 +4,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-23 commits.
+24 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Introduce tone-based surfaces and accent color add-ons - Part 2<br />
     <sub>[#138521](https://github.com/flutter/flutter/pull/138521) merged on February 20, 2024 &mdash; **Extra large:** [37 comments](https://github.com/flutter/flutter/pull/138521) over 3 months, 2520 additions and 999 deletions in 181 files</sub><br />
@@ -22,6 +22,11 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; instead of exiting the tool, print a warning when using --flavor with an incompatible device<br />
     <sub>[#143735](https://github.com/flutter/flutter/pull/143735) merged on February 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143735) over 14 hours, 29 additions and 22 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Elias Yishak](https://github.com/eliasyishak)</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `hourMinuteTextStyle` defaults for Material 3 Time Picker<br />
+    <sub>[#143749](https://github.com/flutter/flutter/pull/143749) merged on February 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143749) over 20 hours, 55 additions and 13 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+    <sub><details><summary>2 images...</summary>![Screenshot 2024-02-20 at 15 06 40](https://github.com/flutter/flutter/assets/48603081/5198a5da-314d-401e-8d7f-d4a68b86e43c)![Screenshot 2024-02-20 at 15 07 22](https://github.com/flutter/flutter/assets/48603081/79436ce4-fef6-480a-bc43-b628497e860f)</details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `timeSelectorSeparatorColor` and `timeSelectorSeparatorTextStyle`  for Material 3 Time Picker<br />
     <sub>[#143739](https://github.com/flutter/flutter/pull/143739) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143739) over 22 hours, 170 additions and 38 deletions in 6 files</sub><br />
