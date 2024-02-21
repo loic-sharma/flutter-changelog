@@ -1513,7 +1513,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-8 commits.
+9 commits.
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Updates package:web dependency to ^0.5.0.
     <sub>[#5791](https://github.com/flutter/packages/pull/5791) merged on February 20, 2024 &mdash; **Large:** [32 comments](https://github.com/flutter/packages/pull/5791) over 1 month, 500 additions and 290 deletions in 44 files</sub>
@@ -1530,6 +1530,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_sign_in_web] Updates package:web dependency to 0.5.0.
     <sub>[#6167](https://github.com/flutter/packages/pull/6167) merged on February 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6167) over 1 hour, 14 additions and 17 deletions in 4 files</sub>
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Commit Windows build migrations
+    <sub>[#6175](https://github.com/flutter/packages/pull/6175) merged on February 21, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/6175) over 25 minutes, 232 additions and 99 deletions in 41 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_markdown] Support wasm
     <sub>[#6168](https://github.com/flutter/packages/pull/6168) merged on February 21, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6168) over 14 hours, 20 additions and 22 deletions in 4 files</sub>
