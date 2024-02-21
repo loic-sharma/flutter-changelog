@@ -754,7 +754,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-35 commits.
+36 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add the `scenario_app` `'solid_blue'` golden to the Android test suite<br />
     <sub>[#50801](https://github.com/flutter/engine/pull/50801) merged on February 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50801) over 19 hours, 28 additions and 0 deletions in 2 files</sub><br />
@@ -785,6 +785,10 @@
     <sub>[#50779](https://github.com/flutter/engine/pull/50779) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50779) over 16 hours, 37 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Fix top-level message procedure order<br />
+    <sub>[#50797](https://github.com/flutter/engine/pull/50797) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50797) over 1 day, 81 additions and 30 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Hook ImageReaderSurfaceProducer to the onTrimMemory listener interface<br />
     <sub>[#50792](https://github.com/flutter/engine/pull/50792) merged on February 21, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/50792) over 21 hours, 88 additions and 46 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -797,17 +801,17 @@
     <sub>[#50784](https://github.com/flutter/engine/pull/50784) merged on February 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50784) over 2 hours, 81 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Make the GL context current in EmbedderSurfaceGLImpeller before creating the GPU surface<br />
-    <sub>[#50807](https://github.com/flutter/engine/pull/50807) merged on February 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50807) over 16 hours, 26 additions and 3 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Ignore EOF newline characters and added tests to `dir_contents_diff` tool<br />
+    <sub>[#50805](https://github.com/flutter/engine/pull/50805) merged on February 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50805) over 17 hours, 118 additions and 2 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a throw statement for imgtestAdd non 0 exit codes.<br />
     <sub>[#50829](https://github.com/flutter/engine/pull/50829) merged on February 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/50829) over 1 hour, 14 additions and 5 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Ignore EOF newline characters and added tests to `dir_contents_diff` tool<br />
-    <sub>[#50805](https://github.com/flutter/engine/pull/50805) merged on February 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50805) over 17 hours, 118 additions and 2 deletions in 10 files</sub><br />
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Make the GL context current in EmbedderSurfaceGLImpeller before creating the GPU surface<br />
+    <sub>[#50807](https://github.com/flutter/engine/pull/50807) merged on February 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50807) over 16 hours, 26 additions and 3 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] applied the lerp hack to blur (roughly 2x speedup?)<br />
     <sub>[#50790](https://github.com/flutter/engine/pull/50790) merged on February 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50790) over 23 hours, 174 additions and 1 deletion in 3 files</sub><br />
@@ -837,25 +841,25 @@
     <sub>[#50800](https://github.com/flutter/engine/pull/50800) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50800) over 1 hour, 0 additions and 9 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] more nullchecks in image decoder.<br />
-    <sub>[#50787](https://github.com/flutter/engine/pull/50787) merged on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50787) over 4 hours, 13 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Make the engine create the view<br />
+    <sub>[#50673](https://github.com/flutter/engine/pull/50673) merged on February 20, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/50673) over 5 days, 289 additions and 297 deletions in 16 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Run stroke benchmarks on unclosed paths<br />
     <sub>[#50765](https://github.com/flutter/engine/pull/50765) merged on February 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50765) over 1 hour, 100 additions and 48 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Make the engine create the view<br />
-    <sub>[#50673](https://github.com/flutter/engine/pull/50673) merged on February 20, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/50673) over 5 days, 289 additions and 297 deletions in 16 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add missing std::move in setup depth stencil.<br />
+    <sub>[#50750](https://github.com/flutter/engine/pull/50750) merged on February 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50750) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Implement the render_to_surface flag in GPUSurfaceGLImpeller<br />
     <sub>[#50669](https://github.com/flutter/engine/pull/50669) merged on February 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50669) over 5 days, 34 additions and 9 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Chris Bracken](https://github.com/cbracken), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add missing std::move in setup depth stencil.<br />
-    <sub>[#50750](https://github.com/flutter/engine/pull/50750) merged on February 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50750) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] more nullchecks in image decoder.<br />
+    <sub>[#50787](https://github.com/flutter/engine/pull/50787) merged on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50787) over 4 hours, 13 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add ID to views<br />
     <sub>[#50788](https://github.com/flutter/engine/pull/50788) merged on February 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50788) over 2 hours, 94 additions and 31 deletions in 20 files</sub><br />
@@ -864,10 +868,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move the `scenario_app` running Impeller+OpenGLES to `bringup: triue`<br />
     <sub>[#50789](https://github.com/flutter/engine/pull/50789) merged on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50789) over 38 minutes, 81 additions and 23 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add GeometryResult enum with StC modes.<br />
-    <sub>[#50816](https://github.com/flutter/engine/pull/50816) merged on February 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50816) over 36 minutes, 28 additions and 23 deletions in 11 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Update impeller-cmake-example<br />
     <sub>[#50808](https://github.com/flutter/engine/pull/50808) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50808) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -892,6 +892,10 @@
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Tweak verbose log messages in ImageReaderSurfaceProducer<br />
     <sub>[#50831](https://github.com/flutter/engine/pull/50831) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50831) over 2 hours, 40 additions and 10 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add GeometryResult enum with StC modes.<br />
+    <sub>[#50816](https://github.com/flutter/engine/pull/50816) merged on February 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50816) over 36 minutes, 28 additions and 23 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Revert "Fix iOS password autofill prompt dismissal causes layout to resize (#50364)"<br />
     <sub>[#50760](https://github.com/flutter/engine/pull/50760) merged on February 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50760) over 59 minutes, 0 additions and 63 deletions in 2 files</sub><br />
