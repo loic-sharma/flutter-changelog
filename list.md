@@ -742,7 +742,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-31 commits.
+32 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Use 'et format' in CI. Check formatting of all files in CI
     <sub>[#50810](https://github.com/flutter/engine/pull/50810) merged on February 21, 2024 &mdash; **Extra large:** [12 comments](https://github.com/flutter/engine/pull/50810) over 13 hours, 564 additions and 1233 deletions in 93 files</sub>
@@ -779,6 +779,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds a .bat entrypoint for Windows
     <sub>[#50784](https://github.com/flutter/engine/pull/50784) merged on February 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50784) over 2 hours, 81 additions and 2 deletions in 4 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Ignore EOF newline characters and added tests to `dir_contents_diff` tool
+    <sub>[#50805](https://github.com/flutter/engine/pull/50805) merged on February 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50805) over 17 hours, 118 additions and 2 deletions in 10 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Make the GL context current in EmbedderSurfaceGLImpeller before creating the GPU surface
     <sub>[#50807](https://github.com/flutter/engine/pull/50807) merged on February 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50807) over 16 hours, 26 additions and 3 deletions in 6 files</sub>
