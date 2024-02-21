@@ -1480,7 +1480,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-5 commits.
+6 commits.
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Updates package:web dependency to ^0.5.0.
     <sub>[#5791](https://github.com/flutter/packages/pull/5791) merged on February 20, 2024 &mdash; **Large:** [32 comments](https://github.com/flutter/packages/pull/5791) over 1 month, 500 additions and 290 deletions in 44 files</sub>
@@ -1493,6 +1493,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_sign_in_web] Updates package:web dependency to 0.5.0.
     <sub>[#6167](https://github.com/flutter/packages/pull/6167) merged on February 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6167) over 1 hour, 14 additions and 17 deletions in 4 files</sub>
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Remove `renderView` usage
+    <sub>[#6137](https://github.com/flutter/packages/pull/6137) merged on February 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6137) over 6 days, 48 additions and 33 deletions in 4 files</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Switch iOS endorsement to `local_auth_darwin`
     <sub>[#6107](https://github.com/flutter/packages/pull/6107) merged on February 21, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6107) over 1 week, 18 additions and 21 deletions in 8 files</sub>
