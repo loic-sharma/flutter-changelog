@@ -83,3 +83,6 @@
 * **[Dacian Florea](https://github.com/dacianf)** &mdash; Added filter callback on dropdown menu<br />
     <sub>[#143939](https://github.com/flutter/flutter/pull/143939) opened on on February 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143939) 75 additions and 8 deletions in 2 files</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift Moto G4 staging tests to A02s<br />
+    <sub>[#143957](https://github.com/flutter/flutter/pull/143957) opened on on February 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143957) 9 additions and 9 deletions in 1 file</sub><br />
+

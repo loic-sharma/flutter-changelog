@@ -4,7 +4,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-34 commits.
+35 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Introduce tone-based surfaces and accent color add-ons - Part 2
     <sub>[#138521](https://github.com/flutter/flutter/pull/138521) merged on February 20, 2024 &mdash; **Extra large:** [37 comments](https://github.com/flutter/flutter/pull/138521) over 3 months, 2520 additions and 999 deletions in 181 files</sub>
@@ -97,17 +97,17 @@
     <sub>[#143717](https://github.com/flutter/flutter/pull/143717) merged on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143717) over 8 hours, 4 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [gold] Always provide host ABI to gold config
-    <sub>[#143621](https://github.com/flutter/flutter/pull/143621) merged on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143621) over 3 days, 18 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Kate Lovett](https://github.com/Piinks)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable debug banner to stabilize impeller goldens.
+    <sub>[#143794](https://github.com/flutter/flutter/pull/143794) merged on February 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143794) over 1 hour, 16 additions and 0 deletions in 3 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete local.properties that shouldn't have been pushed
     <sub>[#143774](https://github.com/flutter/flutter/pull/143774) merged on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143774) over 39 minutes, 0 additions and 8 deletions in 1 file</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable debug banner to stabilize impeller goldens.
-    <sub>[#143794](https://github.com/flutter/flutter/pull/143794) merged on February 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143794) over 1 hour, 16 additions and 0 deletions in 3 files</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [gold] Always provide host ABI to gold config
+    <sub>[#143621](https://github.com/flutter/flutter/pull/143621) merged on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143621) over 3 days, 18 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Gustl22](https://github.com/Gustl22)** &mdash; Reland (2): "Fix how Gradle resolves Android plugin"
     <sub>[#142498](https://github.com/flutter/flutter/pull/142498) merged on February 19, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/142498) over 2 weeks, 767 additions and 135 deletions in 8 files</sub>
@@ -136,6 +136,10 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implement `_suspendedNode` fix
     <sub>[#143556](https://github.com/flutter/flutter/pull/143556) merged on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143556) over 4 days, 2 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Fixed Small Typo in Emulators Test Name
+    <sub>[#143578](https://github.com/flutter/flutter/pull/143578) merged on February 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143578) over 6 days, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Bernardo Ferrari](https://github.com/bernaferrari), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Reland Add UI Benchmarks (#143542) (#143799)"
     <sub>[#143946](https://github.com/flutter/flutter/pull/143946) merged on February 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143946) over 41 seconds, 0 additions and 182 deletions in 2 files</sub>
