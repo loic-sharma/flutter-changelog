@@ -4,7 +4,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-38 commits.
+39 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Introduce tone-based surfaces and accent color add-ons - Part 2<br />
     <sub>[#138521](https://github.com/flutter/flutter/pull/138521) merged on February 20, 2024 &mdash; **Extra large:** [37 comments](https://github.com/flutter/flutter/pull/138521) over 3 months, 2520 additions and 999 deletions in 181 files</sub><br />
@@ -105,17 +105,17 @@
     <sub>[#143794](https://github.com/flutter/flutter/pull/143794) merged on February 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143794) over 1 hour, 16 additions and 0 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete local.properties that shouldn't have been pushed<br />
-    <sub>[#143774](https://github.com/flutter/flutter/pull/143774) merged on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143774) over 39 minutes, 0 additions and 8 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker)</sub><br />
+* **[Greg Price](https://github.com/gnprice)** &mdash; Small fixes in TextEditingController docs<br />
+    <sub>[#143717](https://github.com/flutter/flutter/pull/143717) merged on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143717) over 8 hours, 4 additions and 4 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [gold] Always provide host ABI to gold config<br />
     <sub>[#143621](https://github.com/flutter/flutter/pull/143621) merged on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143621) over 3 days, 18 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Greg Price](https://github.com/gnprice)** &mdash; Small fixes in TextEditingController docs<br />
-    <sub>[#143717](https://github.com/flutter/flutter/pull/143717) merged on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143717) over 8 hours, 4 additions and 4 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete local.properties that shouldn't have been pushed<br />
+    <sub>[#143774](https://github.com/flutter/flutter/pull/143774) merged on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143774) over 39 minutes, 0 additions and 8 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Gustl22](https://github.com/Gustl22)** &mdash; Reland (2): "Fix how Gradle resolves Android plugin"<br />
     <sub>[#142498](https://github.com/flutter/flutter/pull/142498) merged on February 19, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/142498) over 2 weeks, 767 additions and 135 deletions in 8 files</sub><br />
@@ -136,6 +136,10 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implement `_suspendedNode` fix<br />
     <sub>[#143556](https://github.com/flutter/flutter/pull/143556) merged on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143556) over 4 days, 2 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add missing `TextPainter.strutStyle` to paragraph style<br />
+    <sub>[#143771](https://github.com/flutter/flutter/pull/143771) merged on February 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143771) over 2 days, 69 additions and 13 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Andrew](https://github.com/gruner)** &mdash; Fix documentation typo in basic.dart<br />
     <sub>[#143887](https://github.com/flutter/flutter/pull/143887) merged on February 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/143887) over 21 hours, 1 addition and 1 deletion in 1 file</sub><br />
