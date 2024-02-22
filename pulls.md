@@ -80,3 +80,6 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use inlining annotations on important methods for all targets<br />
     <sub>[#143923](https://github.com/flutter/flutter/pull/143923) opened on on February 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143923) 22 additions and 4 deletions in 3 files</sub><br />
 
+* **[dsanagustin](https://github.com/dsanagustin)** &mdash; Add CloseButtonTooltip to the 'X' button on a SnackBar<br />
+    <sub>[#143934](https://github.com/flutter/flutter/pull/143934) opened on on February 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143934) 35 additions and 0 deletions in 2 files</sub><br />
+
