@@ -915,7 +915,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] cache onscreen render targets.
-    <sub>[#50751](https://github.com/flutter/engine/pull/50751) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50751) over 2 days, 99 additions and 6 deletions in 6 files</sub>
+    <sub>[#50751](https://github.com/flutter/engine/pull/50751) merged on February 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50751) over 2 days, 99 additions and 6 deletions in 6 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a throw statement for imgtestAdd non 0 exit codes.
