@@ -65,9 +65,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Fix multiple calls to Slider's onChanged.<br />
     <sub>[#143680](https://github.com/flutter/flutter/pull/143680) opened on on February 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143680) 41 additions and 2 deletions in 2 files</sub><br />
 
-* **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Fix143795<br />
-    <sub>[#143796](https://github.com/flutter/flutter/pull/143796) opened on on February 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143796) 44 additions and 2 deletions in 2 files</sub><br />
-
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Add new class, to adapt text styles based on Material states<br />
     <sub>[#143802](https://github.com/flutter/flutter/pull/143802) opened on on February 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143802) 209 additions and 54 deletions in 3 files</sub><br />
 
