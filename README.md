@@ -1686,7 +1686,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-14 commits.
+15 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implements `setFocusPoint`, `setExposurePoint`, `setExposureOffset`<br />
     <sub>[#6059](https://github.com/flutter/packages/pull/6059) merged on February 21, 2024 &mdash; **Extra large:** [54 comments](https://github.com/flutter/packages/pull/6059) over 2 weeks, 1512 additions and 185 deletions in 28 files</sub><br />
@@ -1703,6 +1703,10 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase] Convert refreshReceipt(), startObservingPaymentQueue(), stopObservingPaymentQueue(), registerPaymentQueueDelegate(), removePaymentQueueDelegate(), showPriceConsentIfNeeded() to Pigeon<br />
     <sub>[#6165](https://github.com/flutter/packages/pull/6165) merged on February 21, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/6165) over 1 day, 722 additions and 304 deletions in 19 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Removes a few deprecated API usages.<br />
+    <sub>[#6177](https://github.com/flutter/packages/pull/6177) merged on February 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6177) over 22 hours, 67 additions and 43 deletions in 17 files</sub><br />
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_markdown] Support wasm<br />
     <sub>[#6168](https://github.com/flutter/packages/pull/6168) merged on February 21, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6168) over 14 hours, 20 additions and 22 deletions in 4 files</sub><br />

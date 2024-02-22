@@ -83,3 +83,6 @@
 * **[Zayd Krunz](https://github.com/ShrootBuck)** &mdash; Redundant message fix<br />
     <sub>[#143978](https://github.com/flutter/flutter/pull/143978) opened on on February 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143978) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Casey Hillers](https://github.com/CaseyHillers)** &mdash; [CP] Revert "Introduce tone-based surfaces and accent color add-ons - Part…<br />
+    <sub>[#143982](https://github.com/flutter/flutter/pull/143982) opened on on February 22, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/143982) 999 additions and 2520 deletions in 181 files</sub><br />
+
