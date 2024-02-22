@@ -78,14 +78,11 @@
     <sub>[#143865](https://github.com/flutter/flutter/pull/143865) opened on on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143865) 91 additions and 2 deletions in 4 files</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use inlining annotations on important methods for all targets<br />
-    <sub>[#143923](https://github.com/flutter/flutter/pull/143923) opened on on February 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143923) 22 additions and 4 deletions in 3 files</sub><br />
+    <sub>[#143923](https://github.com/flutter/flutter/pull/143923) opened on on February 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/143923) 22 additions and 4 deletions in 3 files</sub><br />
 
 * **[Dacian Florea](https://github.com/dacianf)** &mdash; Added filter callback on dropdown menu<br />
     <sub>[#143939](https://github.com/flutter/flutter/pull/143939) opened on on February 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143939) 75 additions and 8 deletions in 2 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove deprecated `KeepAliveHandle.release`<br />
     <sub>[#143961](https://github.com/flutter/flutter/pull/143961) opened on on February 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143961) 0 additions and 14 deletions in 1 file</sub><br />
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Revert "Introduce tone-based surfaces and accent color add-ons - Part 2"<br />
-    <sub>[#143973](https://github.com/flutter/flutter/pull/143973) opened on on February 22, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/143973) 999 additions and 2520 deletions in 181 files</sub><br />
 
