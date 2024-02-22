@@ -77,3 +77,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Introduce `labelStyle` for `SnackBarAction` & `actionLabelStyle` for `SnackBarThemeData`<br />
     <sub>[#143865](https://github.com/flutter/flutter/pull/143865) opened on on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143865) 91 additions and 2 deletions in 4 files</sub><br />
 
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use inlining annotations on important methods for all targets<br />
+    <sub>[#143923](https://github.com/flutter/flutter/pull/143923) opened on on February 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143923) 21 additions and 4 deletions in 3 files</sub><br />
+
