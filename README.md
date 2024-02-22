@@ -799,7 +799,7 @@
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add StC color source/clip behavior + constexpr flag for enabling StC.<br />
-    <sub>[#50817](https://github.com/flutter/engine/pull/50817) merged on February 22, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/50817) over 18 hours, 404 additions and 118 deletions in 12 files</sub><br />
+    <sub>[#50817](https://github.com/flutter/engine/pull/50817) merged on February 22, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/engine/pull/50817) over 18 hours, 404 additions and 118 deletions in 12 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove/reduce unused or private methods and add tests to `SkiaGoldClient`<br />
@@ -1602,7 +1602,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-12 commits.
+13 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implements `setFocusPoint`, `setExposurePoint`, `setExposureOffset`<br />
     <sub>[#6059](https://github.com/flutter/packages/pull/6059) merged on February 21, 2024 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/6059) over 2 weeks, 1512 additions and 185 deletions in 28 files</sub><br />
@@ -1651,6 +1651,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [flutter_markdown] Replace deprecated API<br />
     <sub>[#6134](https://github.com/flutter/packages/pull/6134) merged on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6134) over 5 days, 134 additions and 31 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Flutter (stable) from bae5e49bc2a8 to abb292a07e20 (1 revision)<br />
+    <sub>[#6179](https://github.com/flutter/packages/pull/6179) merged on February 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6179) over 36 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### February 10, 2024 to February 16, 2024
 
