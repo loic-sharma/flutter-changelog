@@ -1629,7 +1629,7 @@
 13 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implements `setFocusPoint`, `setExposurePoint`, `setExposureOffset`<br />
-    <sub>[#6059](https://github.com/flutter/packages/pull/6059) merged on February 21, 2024 &mdash; **Extra large:** [53 comments](https://github.com/flutter/packages/pull/6059) over 2 weeks, 1512 additions and 185 deletions in 28 files</sub><br />
+    <sub>[#6059](https://github.com/flutter/packages/pull/6059) merged on February 21, 2024 &mdash; **Extra large:** [54 comments](https://github.com/flutter/packages/pull/6059) over 2 weeks, 1512 additions and 185 deletions in 28 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Updates package:web dependency to ^0.5.0.<br />

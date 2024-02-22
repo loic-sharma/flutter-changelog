@@ -80,12 +80,6 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use inlining annotations on important methods for all targets<br />
     <sub>[#143923](https://github.com/flutter/flutter/pull/143923) opened on on February 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143923) 22 additions and 4 deletions in 3 files</sub><br />
 
-* **[dsanagustin](https://github.com/dsanagustin)** &mdash; Add CloseButtonTooltip to the 'X' button on a SnackBar<br />
-    <sub>[#143934](https://github.com/flutter/flutter/pull/143934) opened on on February 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143934) 35 additions and 0 deletions in 2 files</sub><br />
-
 * **[Dacian Florea](https://github.com/dacianf)** &mdash; Added filter callback on dropdown menu<br />
     <sub>[#143939](https://github.com/flutter/flutter/pull/143939) opened on on February 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143939) 75 additions and 8 deletions in 2 files</sub><br />
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Relands "Changing `TextPainter.getOffsetForCaret` implementation to remove the logarithmic search (#143281)" (reverted in #143801)<br />
-    <sub>[#143954](https://github.com/flutter/flutter/pull/143954) opened on on February 22, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/143954) 902 additions and 805 deletions in 7 files</sub><br />
 
