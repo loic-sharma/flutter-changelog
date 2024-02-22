@@ -83,3 +83,6 @@
 * **[dsanagustin](https://github.com/dsanagustin)** &mdash; Add CloseButtonTooltip to the 'X' button on a SnackBar<br />
     <sub>[#143934](https://github.com/flutter/flutter/pull/143934) opened on on February 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143934) 35 additions and 0 deletions in 2 files</sub><br />
 
+* **[Dacian Florea](https://github.com/dacianf)** &mdash; Added filter callback on dropdown menu<br />
+    <sub>[#143939](https://github.com/flutter/flutter/pull/143939) opened on on February 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143939) 75 additions and 8 deletions in 2 files</sub><br />
+
