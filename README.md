@@ -4,7 +4,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-30 commits.
+31 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Introduce tone-based surfaces and accent color add-ons - Part 2<br />
     <sub>[#138521](https://github.com/flutter/flutter/pull/138521) merged on February 20, 2024 &mdash; **Extra large:** [37 comments](https://github.com/flutter/flutter/pull/138521) over 3 months, 2520 additions and 999 deletions in 181 files</sub><br />
@@ -64,6 +64,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Handle FormatException from SkiaGoldClient<br />
     <sub>[#143755](https://github.com/flutter/flutter/pull/143755) merged on February 20, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/143755) over 1 hour, 17 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [K Lubick](https://github.com/kjlubick), [Kate Lovett](https://github.com/Piinks), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update PR template for dart fix<br />
+    <sub>[#143879](https://github.com/flutter/flutter/pull/143879) merged on February 22, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/143879) over 5 hours, 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Re-use methods to calculate leading and trailing garbage in RenderSliverMultiBoxAdaptor<br />
     <sub>[#143884](https://github.com/flutter/flutter/pull/143884) merged on February 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143884) over 4 hours, 76 additions and 44 deletions in 4 files</sub><br />
