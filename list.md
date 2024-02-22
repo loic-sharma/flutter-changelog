@@ -4,7 +4,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-31 commits.
+32 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Introduce tone-based surfaces and accent color add-ons - Part 2
     <sub>[#138521](https://github.com/flutter/flutter/pull/138521) merged on February 20, 2024 &mdash; **Extra large:** [37 comments](https://github.com/flutter/flutter/pull/138521) over 3 months, 2520 additions and 999 deletions in 181 files</sub>
@@ -132,6 +132,10 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implement `_suspendedNode` fix
     <sub>[#143556](https://github.com/flutter/flutter/pull/143556) merged on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143556) over 4 days, 2 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Reland Add UI Benchmarks (#143542)
+    <sub>[#143799](https://github.com/flutter/flutter/pull/143799) merged on February 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143799) over 1 day, 182 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 ### February 10, 2024 to February 16, 2024
 
