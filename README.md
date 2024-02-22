@@ -935,7 +935,7 @@
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] cache onscreen render targets.<br />
-    <sub>[#50751](https://github.com/flutter/engine/pull/50751) merged on February 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50751) over 2 days, 99 additions and 6 deletions in 6 files</sub><br />
+    <sub>[#50751](https://github.com/flutter/engine/pull/50751) merged on February 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50751) over 2 days, 99 additions and 6 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add ID to views<br />
