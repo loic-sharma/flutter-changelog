@@ -803,7 +803,7 @@
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove WindowManager reflection in SingleViewPresentation.java
-    <sub>[#49996](https://github.com/flutter/engine/pull/49996) merged on February 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/49996) over 4 weeks, 184 additions and 56 deletions in 2 files</sub>
+    <sub>[#49996](https://github.com/flutter/engine/pull/49996) merged on February 21, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/49996) over 4 weeks, 184 additions and 56 deletions in 2 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add StC color source/clip behavior + constexpr flag for enabling StC.
