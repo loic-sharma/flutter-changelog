@@ -42,7 +42,7 @@
     <sub>[#142671](https://github.com/flutter/flutter/pull/142671) opened on on February 1, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/142671) 330 additions and 292 deletions in 37 files</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Detect WSL and run flutter in cmd<br />
-    <sub>[#142803](https://github.com/flutter/flutter/pull/142803) opened on on February 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/142803) 4 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#142803](https://github.com/flutter/flutter/pull/142803) opened on on February 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/142803) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; PinnedHeaderSliver<br />
     <sub>[#143196](https://github.com/flutter/flutter/pull/143196) opened on on February 9, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143196) 407 additions and 0 deletions in 5 files</sub><br />
