@@ -83,3 +83,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove deprecated `KeepAliveHandle.release`<br />
     <sub>[#143961](https://github.com/flutter/flutter/pull/143961) opened on on February 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143961) 0 additions and 14 deletions in 1 file</sub><br />
 
+* **[Zayd Krunz](https://github.com/ShrootBuck)** &mdash; Redundant message fix<br />
+    <sub>[#143978](https://github.com/flutter/flutter/pull/143978) opened on on February 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143978) 2 additions and 2 deletions in 1 file</sub><br />
+
