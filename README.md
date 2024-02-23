@@ -130,8 +130,8 @@
     <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Re-enable Impeller goldens blocking.<br />
-    <sub>[#144023](https://github.com/flutter/flutter/pull/144023) merged on February 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144023) over 2 hours, 0 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
+    <sub>[#144023](https://github.com/flutter/flutter/pull/144023) merged on February 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144023) over 2 hours, 0 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift Moto G4 staging tests to A02s<br />
     <sub>[#143957](https://github.com/flutter/flutter/pull/143957) merged on February 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143957) over 42 minutes, 9 additions and 9 deletions in 1 file</sub><br />
@@ -1775,7 +1775,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-15 commits.
+16 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implements `setFocusPoint`, `setExposurePoint`, `setExposureOffset`<br />
     <sub>[#6059](https://github.com/flutter/packages/pull/6059) merged on February 21, 2024 &mdash; **Extra large:** [54 comments](https://github.com/flutter/packages/pull/6059) over 2 weeks, 1512 additions and 185 deletions in 28 files</sub><br />
@@ -1812,6 +1812,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_sign_in_web] Updates package:web dependency to 0.5.0.<br />
     <sub>[#6167](https://github.com/flutter/packages/pull/6167) merged on February 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6167) over 1 hour, 14 additions and 17 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera] Document -1 return value for `getExposureOffsetStepSize`<br />
+    <sub>[#6182](https://github.com/flutter/packages/pull/6182) merged on February 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6182) over 1 day, 6 additions and 3 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Modifies initialized camera info to reflect default AF/AE modes and the ability to set focus points for each<br />
     <sub>[#6109](https://github.com/flutter/packages/pull/6109) merged on February 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6109) over 1 week, 13 additions and 15 deletions in 4 files</sub><br />
