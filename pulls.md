@@ -80,3 +80,6 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland - Introduce tone-based surfaces and accent color add-ons - Part 2<br />
     <sub>[#144001](https://github.com/flutter/flutter/pull/144001) opened on on February 23, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/144001) 2520 additions and 999 deletions in 181 files</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; allow optional direct injection of Config instance into DevFS<br />
+    <sub>[#144002](https://github.com/flutter/flutter/pull/144002) opened on on February 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144002) 17 additions and 21 deletions in 3 files</sub><br />
+
