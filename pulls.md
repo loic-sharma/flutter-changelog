@@ -84,5 +84,5 @@
     <sub>[#144002](https://github.com/flutter/flutter/pull/144002) opened on on February 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144002) 17 additions and 21 deletions in 3 files</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `DataColumn.mainAxisAlignment` for `DataTable`<br />
-    <sub>[#144006](https://github.com/flutter/flutter/pull/144006) opened on on February 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144006) 51 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#144006](https://github.com/flutter/flutter/pull/144006) opened on on February 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144006) 51 additions and 0 deletions in 2 files</sub><br />
 
