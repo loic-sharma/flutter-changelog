@@ -4,7 +4,7 @@
 
 ### February 17, 2024 to February 23, 2024
 
-49 commits.
+50 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Introduce tone-based surfaces and accent color add-ons - Part 2
     <sub>[#138521](https://github.com/flutter/flutter/pull/138521) merged on February 20, 2024 &mdash; **Extra large:** [38 comments](https://github.com/flutter/flutter/pull/138521) over 3 months, 2520 additions and 999 deletions in 181 files</sub>
@@ -41,13 +41,13 @@
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
     <sub><details><summary>3 images...</summary><img src="https://github.com/flutter/flutter/assets/48603081/20beeba4-5cc2-49ee-bba8-1c552c0d1e44" /><img src="https://github.com/flutter/flutter/assets/48603081/24927187-aff7-4191-930c-bceab6a4b4c2" />![image](https://github.com/flutter/flutter/assets/48603081/0c84f649-545d-441b-adbf-2b9ec872b14c)</details></sub>
 
-* **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Fix initialization of time in repeat on AnimationController
-    <sub>[#142887](https://github.com/flutter/flutter/pull/142887) merged on February 21, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/142887) over 2 weeks, 44 additions and 3 deletions in 2 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub>
-
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Changing `TextPainter.getOffsetForCaret` implementation to remove the logarithmic search (#143281)"
     <sub>[#143801](https://github.com/flutter/flutter/pull/143801) merged on February 21, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/143801) over 49 seconds, 805 additions and 902 deletions in 7 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Simon Friis Vindum](https://github.com/paldepind)** &mdash; Fix initialization of time in repeat on AnimationController
+    <sub>[#142887](https://github.com/flutter/flutter/pull/142887) merged on February 21, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/142887) over 2 weeks, 44 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions: everything in `flutter/lib/src/`
     <sub>[#143634](https://github.com/flutter/flutter/pull/143634) merged on February 20, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/143634) over 3 days, 503 additions and 925 deletions in 50 files</sub>
@@ -61,17 +61,21 @@
     <sub>[#143583](https://github.com/flutter/flutter/pull/143583) merged on February 21, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143583) over 4 days, 467 additions and 78 deletions in 85 files</sub>
     <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub>
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Re-use methods to calculate leading and trailing garbage in RenderSliverMultiBoxAdaptor
-    <sub>[#143884](https://github.com/flutter/flutter/pull/143884) merged on February 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143884) over 4 hours, 76 additions and 44 deletions in 4 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Handle FormatException from SkiaGoldClient
+    <sub>[#143755](https://github.com/flutter/flutter/pull/143755) merged on February 20, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/143755) over 1 hour, 17 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [K Lubick](https://github.com/kjlubick), [Kate Lovett](https://github.com/Piinks), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean leaks.
     <sub>[#142818](https://github.com/flutter/flutter/pull/142818) merged on February 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/142818) over 2 weeks, 27 additions and 31 deletions in 9 files</sub>
     <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314)</sub>
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Handle FormatException from SkiaGoldClient
-    <sub>[#143755](https://github.com/flutter/flutter/pull/143755) merged on February 20, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/143755) over 1 hour, 17 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [K Lubick](https://github.com/kjlubick), [Kate Lovett](https://github.com/Piinks), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Re-use methods to calculate leading and trailing garbage in RenderSliverMultiBoxAdaptor
+    <sub>[#143884](https://github.com/flutter/flutter/pull/143884) merged on February 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143884) over 4 hours, 76 additions and 44 deletions in 4 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove deprecated `InteractiveViewer.alignPanAxis`
+    <sub>[#142500](https://github.com/flutter/flutter/pull/142500) merged on February 23, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/142500) over 3 weeks, 145 additions and 29 deletions in 4 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add CurvedAnimation disposals in some widgets
     <sub>[#143790](https://github.com/flutter/flutter/pull/143790) merged on February 22, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/143790) over 1 day, 37 additions and 26 deletions in 7 files</sub>
@@ -89,10 +93,6 @@
     <sub>[#143412](https://github.com/flutter/flutter/pull/143412) merged on February 21, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/143412) over 1 week, 276 additions and 27 deletions in 2 files</sub>
     <sub>Reviewed by: [xubaolin](https://github.com/xu-baolin)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable debug banner to stabilize impeller goldens.
-    <sub>[#143794](https://github.com/flutter/flutter/pull/143794) merged on February 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143794) over 1 hour, 16 additions and 0 deletions in 3 files</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; more fixes to unstable impeller goldens.
     <sub>[#143811](https://github.com/flutter/flutter/pull/143811) merged on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143811) over 48 minutes, 5 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
@@ -101,13 +101,17 @@
     <sub>[#143983](https://github.com/flutter/flutter/pull/143983) merged on February 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143983) over 3 hours, 0 additions and 14 deletions in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [gold] Always provide host ABI to gold config
-    <sub>[#143621](https://github.com/flutter/flutter/pull/143621) merged on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143621) over 3 days, 18 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Kate Lovett](https://github.com/Piinks)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable debug banner to stabilize impeller goldens.
+    <sub>[#143794](https://github.com/flutter/flutter/pull/143794) merged on February 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143794) over 1 hour, 16 additions and 0 deletions in 3 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Revert engine back to 06448ee8165f4ff6579ef9510ac69322eda896ac
     <sub>[#143986](https://github.com/flutter/flutter/pull/143986) merged on February 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143986) over 8 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [gold] Always provide host ABI to gold config
+    <sub>[#143621](https://github.com/flutter/flutter/pull/143621) merged on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143621) over 3 days, 18 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove deprecated MediaQuery.boldTextOverride
     <sub>[#143960](https://github.com/flutter/flutter/pull/143960) merged on February 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143960) over 5 hours, 0 additions and 14 deletions in 1 file</sub>
@@ -117,6 +121,10 @@
     <sub>[#143923](https://github.com/flutter/flutter/pull/143923) merged on February 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/143923) over 13 hours, 22 additions and 4 deletions in 3 files</sub>
     <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph)</sub>
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove deprecated FlutterDriver.enableAccessibility
+    <sub>[#143979](https://github.com/flutter/flutter/pull/143979) merged on February 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143979) over 1 hour, 0 additions and 9 deletions in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete local.properties that shouldn't have been pushed
     <sub>[#143774](https://github.com/flutter/flutter/pull/143774) merged on February 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143774) over 39 minutes, 0 additions and 8 deletions in 1 file</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker)</sub>
@@ -125,41 +133,33 @@
     <sub>[#143974](https://github.com/flutter/flutter/pull/143974) merged on February 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143974) over 4 hours, 0 additions and 19 deletions in 1 file</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove deprecated FlutterDriver.enableAccessibility
-    <sub>[#143979](https://github.com/flutter/flutter/pull/143979) merged on February 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143979) over 1 hour, 0 additions and 9 deletions in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update PR template for dart fix
     <sub>[#143879](https://github.com/flutter/flutter/pull/143879) merged on February 22, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/143879) over 5 hours, 2 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
-* **[Greg Price](https://github.com/gnprice)** &mdash; Small fixes in TextEditingController docs
-    <sub>[#143717](https://github.com/flutter/flutter/pull/143717) merged on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143717) over 8 hours, 4 additions and 4 deletions in 1 file</sub>
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Make impeller goldens test blocking.
     <sub>[#143864](https://github.com/flutter/flutter/pull/143864) merged on February 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143864) over 3 hours, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
+* **[Greg Price](https://github.com/gnprice)** &mdash; Small fixes in TextEditingController docs
+    <sub>[#143717](https://github.com/flutter/flutter/pull/143717) merged on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143717) over 8 hours, 4 additions and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
+
 * **[Gustl22](https://github.com/Gustl22)** &mdash; Reland (2): "Fix how Gradle resolves Android plugin"
     <sub>[#142498](https://github.com/flutter/flutter/pull/142498) merged on February 19, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/142498) over 2 weeks, 767 additions and 135 deletions in 8 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
 
-* **[dsanagustin](https://github.com/dsanagustin)** &mdash; Add CloseButtonTooltip to the 'X' button on a SnackBar
-    <sub>[#143934](https://github.com/flutter/flutter/pull/143934) merged on February 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/143934) over 7 hours, 36 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub>
-
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Implement `_suspendedNode` fix
-    <sub>[#143556](https://github.com/flutter/flutter/pull/143556) merged on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143556) over 4 days, 2 additions and 3 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
+* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add UI Benchmarks
+    <sub>[#143542](https://github.com/flutter/flutter/pull/143542) merged on February 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143542) over 5 days, 182 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add missing `TextPainter.strutStyle` to paragraph style
     <sub>[#143771](https://github.com/flutter/flutter/pull/143771) merged on February 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143771) over 2 days, 69 additions and 13 deletions in 3 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
-* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add UI Benchmarks
-    <sub>[#143542](https://github.com/flutter/flutter/pull/143542) merged on February 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143542) over 5 days, 182 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Implement `_suspendedNode` fix
+    <sub>[#143556](https://github.com/flutter/flutter/pull/143556) merged on February 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143556) over 4 days, 2 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Andrew](https://github.com/gruner)** &mdash; Fix documentation typo in basic.dart
     <sub>[#143887](https://github.com/flutter/flutter/pull/143887) merged on February 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/143887) over 21 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -181,17 +181,21 @@
     <sub>[#143855](https://github.com/flutter/flutter/pull/143855) merged on February 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143855) over 2 hours, 9 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Gray Mackall](https://github.com/gmackall)</sub>
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Add UI Benchmarks (#143542)"
-    <sub>[#143798](https://github.com/flutter/flutter/pull/143798) merged on February 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143798) over 26 seconds, 0 additions and 182 deletions in 2 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove deprecated `KeepAliveHandle.release`
     <sub>[#143961](https://github.com/flutter/flutter/pull/143961) merged on February 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143961) over 8 hours, 0 additions and 14 deletions in 1 file</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Add UI Benchmarks (#143542)"
+    <sub>[#143798](https://github.com/flutter/flutter/pull/143798) merged on February 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143798) over 26 seconds, 0 additions and 182 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Remove unused drone_dimension field
     <sub>[#143984](https://github.com/flutter/flutter/pull/143984) merged on February 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143984) over 46 minutes, 0 additions and 16 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[dsanagustin](https://github.com/dsanagustin)** &mdash; Add CloseButtonTooltip to the 'X' button on a SnackBar
+    <sub>[#143934](https://github.com/flutter/flutter/pull/143934) merged on February 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/143934) over 7 hours, 36 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Revert "Introduce tone-based surfaces and accent color add-ons - Part 2"
     <sub>[#143973](https://github.com/flutter/flutter/pull/143973) merged on February 22, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/143973) over 1 hour, 999 additions and 2520 deletions in 181 files</sub>
