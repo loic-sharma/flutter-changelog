@@ -57,6 +57,10 @@
     <sub>[#143632](https://github.com/flutter/flutter/pull/143632) merged on February 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143632) over 3 days, 38 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Re-use methods to calculate leading and trailing garbage in RenderSliverMultiBoxAdaptor
+    <sub>[#143884](https://github.com/flutter/flutter/pull/143884) merged on February 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143884) over 4 hours, 76 additions and 44 deletions in 4 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; `CalendarDatePicker` doesn't announce selected date on desktop
     <sub>[#143583](https://github.com/flutter/flutter/pull/143583) merged on February 21, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143583) over 4 days, 467 additions and 78 deletions in 85 files</sub>
     <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub>
@@ -68,10 +72,6 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean leaks.
     <sub>[#142818](https://github.com/flutter/flutter/pull/142818) merged on February 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/142818) over 2 weeks, 27 additions and 31 deletions in 9 files</sub>
     <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314)</sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Re-use methods to calculate leading and trailing garbage in RenderSliverMultiBoxAdaptor
-    <sub>[#143884](https://github.com/flutter/flutter/pull/143884) merged on February 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143884) over 4 hours, 76 additions and 44 deletions in 4 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove deprecated `InteractiveViewer.alignPanAxis`
     <sub>[#142500](https://github.com/flutter/flutter/pull/142500) merged on February 23, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/142500) over 3 weeks, 145 additions and 29 deletions in 4 files</sub>
