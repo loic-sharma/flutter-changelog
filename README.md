@@ -61,6 +61,10 @@
     <sub>[#143634](https://github.com/flutter/flutter/pull/143634) merged on February 20, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/143634) over 3 days, 503 additions and 925 deletions in 50 files</sub><br />
     <sub>Reviewed by: [Bernardo Ferrari](https://github.com/bernaferrari), [Loïc Sharma](https://github.com/loic-sharma), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing null-aware operators throughout the repository<br />
+    <sub>[#143804](https://github.com/flutter/flutter/pull/143804) merged on February 23, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/143804) over 2 days, 93 additions and 365 deletions in 55 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
 * **[Greg Price](https://github.com/gnprice)** &mdash; Explain when and why to use CrossAxisAlignment.baseline<br />
     <sub>[#143632](https://github.com/flutter/flutter/pull/143632) merged on February 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143632) over 3 days, 38 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
@@ -72,10 +76,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Re-use methods to calculate leading and trailing garbage in RenderSliverMultiBoxAdaptor<br />
     <sub>[#143884](https://github.com/flutter/flutter/pull/143884) merged on February 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143884) over 4 hours, 76 additions and 44 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing null-aware operators throughout the repository<br />
-    <sub>[#143804](https://github.com/flutter/flutter/pull/143804) merged on February 23, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/143804) over 2 days, 93 additions and 365 deletions in 55 files</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Retry button tap in [FlutterUITests testFlutterViewWarm]<br />
     <sub>[#143967](https://github.com/flutter/flutter/pull/143967) merged on February 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143967) over 19 hours, 11 additions and 1 deletion in 1 file</sub><br />
