@@ -80,6 +80,3 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `DataColumn.mainAxisAlignment` for `DataTable`<br />
     <sub>[#144006](https://github.com/flutter/flutter/pull/144006) opened on on February 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144006) 51 additions and 0 deletions in 2 files</sub><br />
 
-* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] rewrite cherry pick template<br />
-    <sub>[#144065](https://github.com/flutter/flutter/pull/144065) opened on on February 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144065) 28 additions and 51 deletions in 1 file</sub><br />
-
