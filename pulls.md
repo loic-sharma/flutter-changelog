@@ -83,3 +83,6 @@
 * **[jd-bus](https://github.com/jd-bus)** &mdash; clarify other reason for failing to connect<br />
     <sub>[#144095](https://github.com/flutter/flutter/pull/144095) opened on on February 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144095) 2 additions and 1 deletion in 1 file</sub><br />
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; RenderViewport max layout cycles should depend on number of children<br />
+    <sub>[#144104](https://github.com/flutter/flutter/pull/144104) opened on on February 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144104) 87 additions and 3 deletions in 2 files</sub><br />
+
