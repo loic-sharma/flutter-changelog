@@ -4,12 +4,16 @@
 
 ### February 24, 2024 to March 1, 2024
 
-4 commits.
+5 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Scrollbar.thickness` property is ignored when the `Scrollbar` is hovered
     <sub>[#144012](https://github.com/flutter/flutter/pull/144012) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144012) over 2 days, 11 additions and 9 deletions in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
     <sub><details><summary>2 images...</summary><img src="https://github.com/flutter/flutter/assets/48603081/3537d60d-a5b2-488d-aa99-4c36c3721657"  /><img src="https://github.com/flutter/flutter/assets/48603081/cfd02095-a327-4b16-8ece-0d1c9e6813ce" /></details></sub>
+
+* **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Differentiate pubspec and resolution errors for plugins
+    <sub>[#142035](https://github.com/flutter/flutter/pull/142035) merged on February 26, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/142035) over 1 month, 85 additions and 27 deletions in 2 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `rendering/`
     <sub>[#143812](https://github.com/flutter/flutter/pull/143812) merged on February 26, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/143812) over 5 days, 366 additions and 604 deletions in 17 files</sub>
