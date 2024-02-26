@@ -631,7 +631,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-8 commits.
+9 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Better filtering for Android `scenario_app` runner.
     <sub>[#50937](https://github.com/flutter/engine/pull/50937) merged on February 26, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/50937) over 2 days, 261 additions and 97 deletions in 4 files</sub>
@@ -653,6 +653,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Correctly offset the cull rect of the opacity layer.
     <sub>[#50928](https://github.com/flutter/engine/pull/50928) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50928) over 2 days, 4 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disble render pass caches.
+    <sub>[#50976](https://github.com/flutter/engine/pull/50976) merged on February 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50976) over 2 hours, 3 additions and 51 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix a race that can abort the process if the Vulkan context is destroyed while pipeline creation tasks are pending
     <sub>[#50883](https://github.com/flutter/engine/pull/50883) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50883) over 3 days, 46 additions and 1 deletion in 3 files</sub>
