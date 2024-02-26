@@ -631,7 +631,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-7 commits.
+8 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Better filtering for Android `scenario_app` runner.
     <sub>[#50937](https://github.com/flutter/engine/pull/50937) merged on February 26, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/50937) over 2 days, 261 additions and 97 deletions in 4 files</sub>
@@ -661,6 +661,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move linux_android_emulator_skia builder to prod
     <sub>[#50956](https://github.com/flutter/engine/pull/50956) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50956) over 10 hours, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Update Surface reference after resizing render target in VirtualDisplay based platform views
+    <sub>[#50971](https://github.com/flutter/engine/pull/50971) merged on February 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50971) over 3 hours, 27 additions and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 ### February 17, 2024 to February 23, 2024
 
