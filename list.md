@@ -631,7 +631,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-11 commits.
+12 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Better filtering for Android `scenario_app` runner.
     <sub>[#50937](https://github.com/flutter/engine/pull/50937) merged on February 26, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/50937) over 2 days, 261 additions and 97 deletions in 4 files</sub>
@@ -657,6 +657,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Correctly offset the cull rect of the opacity layer.
     <sub>[#50928](https://github.com/flutter/engine/pull/50928) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50928) over 2 days, 4 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [scenario] trigger firstFrameLatch on exception.
+    <sub>[#50981](https://github.com/flutter/engine/pull/50981) merged on February 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50981) over 1 hour, 0 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix a misspelling and name mismatch in a shader test fixture
     <sub>[#50983](https://github.com/flutter/engine/pull/50983) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50983) over 59 minutes, 7 additions and 7 deletions in 3 files</sub>
