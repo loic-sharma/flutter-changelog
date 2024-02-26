@@ -619,7 +619,11 @@
 
 ### February 24, 2024 to March 1, 2024
 
-1 commits.
+2 commits.
+
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Add Platform View Manager to Windows shell
+    <sub>[#50598](https://github.com/flutter/engine/pull/50598) merged on February 26, 2024 &mdash; **Medium:** [66 comments](https://github.com/flutter/engine/pull/50598) over 1 week, 439 additions and 2 deletions in 16 files</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move linux_android_emulator_skia builder to prod
     <sub>[#50956](https://github.com/flutter/engine/pull/50956) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50956) over 10 hours, 0 additions and 1 deletion in 1 file</sub>
@@ -714,7 +718,7 @@
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift //third_party/icu to //flutter/third_party
-    <sub>[#50924](https://github.com/flutter/engine/pull/50924) merged on February 23, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/50924) over 2 hours, 33637 additions and 33717 deletions in 20 files</sub>
+    <sub>[#50924](https://github.com/flutter/engine/pull/50924) merged on February 23, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/50924) over 2 hours, 33637 additions and 33717 deletions in 20 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Web] Update modifier state when Meta key is seen as Process key
