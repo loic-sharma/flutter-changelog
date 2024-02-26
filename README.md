@@ -631,7 +631,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-9 commits.
+10 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Better filtering for Android `scenario_app` runner.<br />
     <sub>[#50937](https://github.com/flutter/engine/pull/50937) merged on February 26, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/50937) over 2 days, 261 additions and 97 deletions in 4 files</sub><br />
@@ -641,6 +641,10 @@
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Add Platform View Manager to Windows shell<br />
     <sub>[#50598](https://github.com/flutter/engine/pull/50598) merged on February 26, 2024 &mdash; **Medium:** [66 comments](https://github.com/flutter/engine/pull/50598) over 1 week, 439 additions and 2 deletions in 16 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run engine unit tests on mac host_debug_unopt_arm64<br />
+    <sub>[#50327](https://github.com/flutter/engine/pull/50327) merged on February 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/50327) over 3 weeks, 126 additions and 95 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Improve the logger for the ninja build, adds a spinner<br />
     <sub>[#50952](https://github.com/flutter/engine/pull/50952) merged on February 26, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/50952) over 1 day, 319 additions and 35 deletions in 5 files</sub><br />
