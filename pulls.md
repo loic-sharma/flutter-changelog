@@ -80,6 +80,9 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `DataColumn.mainAxisAlignment` for `DataTable`<br />
     <sub>[#144006](https://github.com/flutter/flutter/pull/144006) opened on on February 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144006) 51 additions and 0 deletions in 2 files</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Add `MaterialStateTextStyle` constructor with built-in `MaterialPropertyResolver`<br />
+    <sub>[#144091](https://github.com/flutter/flutter/pull/144091) opened on on February 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144091) 153 additions and 5 deletions in 2 files</sub><br />
+
 * **[jd-bus](https://github.com/jd-bus)** &mdash; clarify other reason for failing to connect<br />
     <sub>[#144095](https://github.com/flutter/flutter/pull/144095) opened on on February 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144095) 2 additions and 1 deletion in 1 file</sub><br />
 
