@@ -627,7 +627,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-3 commits.
+5 commits.
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Add Platform View Manager to Windows shell<br />
     <sub>[#50598](https://github.com/flutter/engine/pull/50598) merged on February 26, 2024 &mdash; **Medium:** [66 comments](https://github.com/flutter/engine/pull/50598) over 1 week, 439 additions and 2 deletions in 16 files</sub><br />
@@ -636,6 +636,14 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Improve the logger for the ninja build, adds a spinner<br />
     <sub>[#50952](https://github.com/flutter/engine/pull/50952) merged on February 26, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/50952) over 1 day, 319 additions and 35 deletions in 5 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Make sure to call `setHeightOverride` as well on TextStyle and StrutStyle<br />
+    <sub>[#50920](https://github.com/flutter/engine/pull/50920) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50920) over 2 days, 7 additions and 0 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Correctly offset the cull rect of the opacity layer.<br />
+    <sub>[#50928](https://github.com/flutter/engine/pull/50928) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50928) over 2 days, 4 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move linux_android_emulator_skia builder to prod<br />
     <sub>[#50956](https://github.com/flutter/engine/pull/50956) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50956) over 10 hours, 0 additions and 1 deletion in 1 file</sub><br />
