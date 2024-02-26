@@ -4,7 +4,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-5 commits.
+7 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Scrollbar.thickness` property is ignored when the `Scrollbar` is hovered<br />
     <sub>[#144012](https://github.com/flutter/flutter/pull/144012) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144012) over 2 days, 11 additions and 9 deletions in 2 files</sub><br />
@@ -18,6 +18,14 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `rendering/`<br />
     <sub>[#143812](https://github.com/flutter/flutter/pull/143812) merged on February 26, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/143812) over 5 days, 366 additions and 604 deletions in 17 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Allow `Listenable.merge()` to use any iterable<br />
+    <sub>[#143675](https://github.com/flutter/flutter/pull/143675) merged on February 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/143675) over 1 week, 20 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[keyonghan](https://github.com/keyonghan)** &mdash; Mark firebase_release_smoke_test as `bringup: true`<br />
+    <sub>[#144186](https://github.com/flutter/flutter/pull/144186) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144186) over 20 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update copyDirectory to allow links to not be followed<br />
     <sub>[#144040](https://github.com/flutter/flutter/pull/144040) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144040) over 2 days, 109 additions and 1 deletion in 2 files</sub><br />
