@@ -631,7 +631,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-6 commits.
+7 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Better filtering for Android `scenario_app` runner.
     <sub>[#50937](https://github.com/flutter/engine/pull/50937) merged on February 26, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/50937) over 2 days, 261 additions and 97 deletions in 4 files</sub>
@@ -653,6 +653,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Correctly offset the cull rect of the opacity layer.
     <sub>[#50928](https://github.com/flutter/engine/pull/50928) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50928) over 2 days, 4 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix a race that can abort the process if the Vulkan context is destroyed while pipeline creation tasks are pending
+    <sub>[#50883](https://github.com/flutter/engine/pull/50883) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50883) over 3 days, 46 additions and 1 deletion in 3 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move linux_android_emulator_skia builder to prod
     <sub>[#50956](https://github.com/flutter/engine/pull/50956) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50956) over 10 hours, 0 additions and 1 deletion in 1 file</sub>
@@ -1382,11 +1386,15 @@
 
 ### February 24, 2024 to March 1, 2024
 
-3 commits.
+4 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_map_flutter] Add style to widget - platform interface
     <sub>[#6197](https://github.com/flutter/packages/pull/6197) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6197) over 2 days, 59 additions and 4 deletions in 7 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Christian Padilla](https://github.com/ChristianEdwardPadilla)** &mdash; [url_launcher] Add explicit imports of UIKit
+    <sub>[#6208](https://github.com/flutter/packages/pull/6208) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6208) over 1 hour, 6 additions and 2 deletions in 4 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [pigeon] Fix tool hangs on verbose sub-processes
     <sub>[#6198](https://github.com/flutter/packages/pull/6198) merged on February 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6198) over 2 days, 18 additions and 2 deletions in 1 file</sub>

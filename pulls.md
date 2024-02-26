@@ -95,3 +95,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing iterable methods throughout the repository<br />
     <sub>[#144157](https://github.com/flutter/flutter/pull/144157) opened on on February 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144157) 32 additions and 181 deletions in 19 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; InputDecorator M3 tests migration - Step4 - Hint tests<br />
+    <sub>[#144169](https://github.com/flutter/flutter/pull/144169) opened on on February 26, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/144169) 831 additions and 137 deletions in 1 file</sub><br />
+
