@@ -86,6 +86,3 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; [flutter_tools] Fix missing stack trace from daemon<br />
     <sub>[#144113](https://github.com/flutter/flutter/pull/144113) opened on on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144113) 13 additions and 2 deletions in 2 files</sub><br />
 
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Make flutter web profile builds always keep wasm symbols<br />
-    <sub>[#144130](https://github.com/flutter/flutter/pull/144130) opened on on February 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144130) 54 additions and 50 deletions in 3 files</sub><br />
-
