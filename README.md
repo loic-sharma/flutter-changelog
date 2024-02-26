@@ -1394,11 +1394,15 @@
 
 ### February 24, 2024 to March 1, 2024
 
-4 commits.
+5 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_map_flutter] Add style to widget - platform interface<br />
     <sub>[#6197](https://github.com/flutter/packages/pull/6197) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6197) over 2 days, 59 additions and 4 deletions in 7 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Peixin Li](https://github.com/peixinli)** &mdash; Add `InkResponse`, `Material` and fix `Opacity`<br />
+    <sub>[#6199](https://github.com/flutter/packages/pull/6199) merged on February 26, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/6199) over 2 days, 231 additions and 6 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
 
 * **[Christian Padilla](https://github.com/ChristianEdwardPadilla)** &mdash; [url_launcher] Add explicit imports of UIKit<br />
     <sub>[#6208](https://github.com/flutter/packages/pull/6208) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6208) over 1 hour, 6 additions and 2 deletions in 4 files</sub><br />
