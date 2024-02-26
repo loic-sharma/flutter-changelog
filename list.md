@@ -718,7 +718,7 @@
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift //third_party/icu to //flutter/third_party
-    <sub>[#50924](https://github.com/flutter/engine/pull/50924) merged on February 23, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/50924) over 2 hours, 33637 additions and 33717 deletions in 20 files</sub>
+    <sub>[#50924](https://github.com/flutter/engine/pull/50924) merged on February 23, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/50924) over 2 hours, 33637 additions and 33717 deletions in 20 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Web] Update modifier state when Meta key is seen as Process key
