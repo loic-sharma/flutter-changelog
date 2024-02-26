@@ -1347,9 +1347,18 @@
 
 ## flutter/packages
 
+### February 24, 2024 to March 1, 2024
+
+1 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_map_flutter] Add style to widget - platform interface<br />
+    <sub>[#6197](https://github.com/flutter/packages/pull/6197) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6197) over 2 days, 59 additions and 4 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 ### February 17, 2024 to February 23, 2024
 
-16 commits.
+<details>
+<summary>16 commits...</summary>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implements `setFocusPoint`, `setExposurePoint`, `setExposureOffset`<br />
     <sub>[#6059](https://github.com/flutter/packages/pull/6059) merged on February 21, 2024 &mdash; **Extra large:** [54 comments](https://github.com/flutter/packages/pull/6059) over 2 weeks, 1512 additions and 185 deletions in 28 files</sub><br />
@@ -1414,6 +1423,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Flutter (stable) from bae5e49bc2a8 to abb292a07e20 (1 revision)<br />
     <sub>[#6179](https://github.com/flutter/packages/pull/6179) merged on February 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6179) over 36 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### February 10, 2024 to February 16, 2024
 
