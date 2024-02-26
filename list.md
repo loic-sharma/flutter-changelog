@@ -4,12 +4,16 @@
 
 ### February 24, 2024 to March 1, 2024
 
-3 commits.
+4 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Scrollbar.thickness` property is ignored when the `Scrollbar` is hovered
     <sub>[#144012](https://github.com/flutter/flutter/pull/144012) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144012) over 2 days, 11 additions and 9 deletions in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
     <sub><details><summary>2 images...</summary><img src="https://github.com/flutter/flutter/assets/48603081/3537d60d-a5b2-488d-aa99-4c36c3721657"  /><img src="https://github.com/flutter/flutter/assets/48603081/cfd02095-a327-4b16-8ece-0d1c9e6813ce" /></details></sub>
+
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `rendering/`
+    <sub>[#143812](https://github.com/flutter/flutter/pull/143812) merged on February 26, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/143812) over 5 days, 366 additions and 604 deletions in 17 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update copyDirectory to allow links to not be followed
     <sub>[#144040](https://github.com/flutter/flutter/pull/144040) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144040) over 2 days, 109 additions and 1 deletion in 2 files</sub>
@@ -790,7 +794,7 @@
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Further shard Android emulator tests
-    <sub>[#50954](https://github.com/flutter/engine/pull/50954) merged on February 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50954) over 1 hour, 84 additions and 24 deletions in 3 files</sub>
+    <sub>[#50954](https://github.com/flutter/engine/pull/50954) merged on February 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50954) over 1 hour, 84 additions and 24 deletions in 3 files</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Actually list all sources for scenario_app target.
