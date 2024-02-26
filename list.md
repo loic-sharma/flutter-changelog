@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### February 24, 2024 to March 1, 2024
+
+1 commits.
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Re-enable Impeller goldens blocking. (#144023)"
+    <sub>[#144115](https://github.com/flutter/flutter/pull/144115) merged on February 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144115) over 39 minutes, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
 ### February 17, 2024 to February 23, 2024
 
-60 commits.
+<details>
+<summary>60 commits...</summary>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Introduce tone-based surfaces and accent color add-ons - Part 2
     <sub>[#138521](https://github.com/flutter/flutter/pull/138521) merged on February 20, 2024 &mdash; **Extra large:** [38 comments](https://github.com/flutter/flutter/pull/138521) over 3 months, 2520 additions and 999 deletions in 181 files</sub>
@@ -248,6 +257,8 @@
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Reland Add UI Benchmarks (#143542)
     <sub>[#143799](https://github.com/flutter/flutter/pull/143799) merged on February 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143799) over 1 day, 182 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+</details>
 
 ### February 10, 2024 to February 16, 2024
 
