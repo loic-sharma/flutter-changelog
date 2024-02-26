@@ -1365,11 +1365,15 @@
 
 ### February 24, 2024 to March 1, 2024
 
-1 commits.
+2 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_map_flutter] Add style to widget - platform interface
     <sub>[#6197](https://github.com/flutter/packages/pull/6197) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6197) over 2 days, 59 additions and 4 deletions in 7 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Ignore GeneratedPluginRegistrant.swift for `format`
+    <sub>[#6195](https://github.com/flutter/packages/pull/6195) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6195) over 2 days, 48 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 ### February 17, 2024 to February 23, 2024
 
