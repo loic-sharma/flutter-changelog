@@ -623,11 +623,15 @@
 
 ### February 24, 2024 to March 1, 2024
 
-2 commits.
+3 commits.
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Add Platform View Manager to Windows shell
     <sub>[#50598](https://github.com/flutter/engine/pull/50598) merged on February 26, 2024 &mdash; **Medium:** [66 comments](https://github.com/flutter/engine/pull/50598) over 1 week, 439 additions and 2 deletions in 16 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Improve the logger for the ninja build, adds a spinner
+    <sub>[#50952](https://github.com/flutter/engine/pull/50952) merged on February 26, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/50952) over 1 day, 319 additions and 35 deletions in 5 files</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move linux_android_emulator_skia builder to prod
     <sub>[#50956](https://github.com/flutter/engine/pull/50956) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50956) over 10 hours, 0 additions and 1 deletion in 1 file</sub>
