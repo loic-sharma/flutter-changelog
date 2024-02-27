@@ -687,7 +687,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-30 commits.
+31 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Use CVDisplayLink to drive repaint<br />
     <sub>[#49159](https://github.com/flutter/engine/pull/49159) merged on February 27, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/engine/pull/49159) over 2 months, 1112 additions and 36 deletions in 23 files</sub><br />
@@ -737,6 +737,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Clip pictures if they go beyond the bounds of the window.<br />
     <sub>[#50887](https://github.com/flutter/engine/pull/50887) merged on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50887) over 4 days, 70 additions and 5 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Introduce an accessibility plugin<br />
+    <sub>[#50975](https://github.com/flutter/engine/pull/50975) merged on February 27, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/50975) over 1 day, 272 additions and 61 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] various StC fixes for GPU -> CPU readback plus BufferBindingGLES error<br />
     <sub>[#50951](https://github.com/flutter/engine/pull/50951) merged on February 27, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/50951) over 3 days, 52 additions and 11 deletions in 10 files</sub><br />
