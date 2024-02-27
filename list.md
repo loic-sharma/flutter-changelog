@@ -675,7 +675,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-28 commits.
+29 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Use CVDisplayLink to drive repaint
     <sub>[#49159](https://github.com/flutter/engine/pull/49159) merged on February 27, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/engine/pull/49159) over 2 months, 1112 additions and 36 deletions in 23 files</sub>
@@ -777,6 +777,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland "Implement Frame Timing callbacks in Skwasm"
     <sub>[#50987](https://github.com/flutter/engine/pull/50987) merged on February 27, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50987) over 17 hours, 427 additions and 338 deletions in 25 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Code consistency fixes in FlScrollingManager
+    <sub>[#50959](https://github.com/flutter/engine/pull/50959) merged on February 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50959) over 1 day, 44 additions and 21 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Migrate Android `scenario_app` to the `SurfaceProducer` API (#50993)"
     <sub>[#50995](https://github.com/flutter/engine/pull/50995) merged on February 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50995) over 1 minute, 10 additions and 8 deletions in 1 file</sub>
