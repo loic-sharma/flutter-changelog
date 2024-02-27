@@ -4,7 +4,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-13 commits.
+14 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Scrollbar.thickness` property is ignored when the `Scrollbar` is hovered
     <sub>[#144012](https://github.com/flutter/flutter/pull/144012) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144012) over 2 days, 11 additions and 9 deletions in 2 files</sub>
@@ -22,6 +22,10 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `rendering/`
     <sub>[#143812](https://github.com/flutter/flutter/pull/143812) merged on February 26, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/143812) over 5 days, 366 additions and 604 deletions in 17 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove strut migration flag from `TextPainter`
+    <sub>[#144242](https://github.com/flutter/flutter/pull/144242) merged on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144242) over 51 minutes, 30 additions and 27 deletions in 2 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Allow `Listenable.merge()` to use any iterable
     <sub>[#143675](https://github.com/flutter/flutter/pull/143675) merged on February 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/143675) over 1 week, 20 additions and 5 deletions in 2 files</sub>
@@ -663,7 +667,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-26 commits.
+27 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Better filtering for Android `scenario_app` runner.
     <sub>[#50937](https://github.com/flutter/engine/pull/50937) merged on February 26, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/50937) over 2 days, 261 additions and 97 deletions in 4 files</sub>
@@ -709,6 +713,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Clip pictures if they go beyond the bounds of the window.
     <sub>[#50887](https://github.com/flutter/engine/pull/50887) merged on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50887) over 4 days, 70 additions and 5 deletions in 3 files</sub>
     <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fail lazily when 1+ Skia gold comparions fail.
+    <sub>[#51010](https://github.com/flutter/engine/pull/51010) merged on February 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51010) over 41 minutes, 6 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Adjust Android emulator test timeouts
     <sub>[#51004](https://github.com/flutter/engine/pull/51004) merged on February 27, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51004) over 2 hours, 8 additions and 0 deletions in 4 files</sub>
