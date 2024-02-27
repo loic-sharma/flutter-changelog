@@ -1542,7 +1542,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-5 commits.
+6 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_map_flutter] Add style to widget - platform interface<br />
     <sub>[#6197](https://github.com/flutter/packages/pull/6197) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6197) over 2 days, 59 additions and 4 deletions in 7 files</sub><br />
@@ -1559,6 +1559,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [pigeon] Fix tool hangs on verbose sub-processes<br />
     <sub>[#6198](https://github.com/flutter/packages/pull/6198) merged on February 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6198) over 2 days, 18 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implements `setExposureMode`<br />
+    <sub>[#6110](https://github.com/flutter/packages/pull/6110) merged on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6110) over 2 weeks, 176 additions and 11 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Ignore GeneratedPluginRegistrant.swift for `format`<br />
     <sub>[#6195](https://github.com/flutter/packages/pull/6195) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6195) over 2 days, 48 additions and 0 deletions in 2 files</sub><br />
