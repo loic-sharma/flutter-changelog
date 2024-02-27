@@ -68,14 +68,11 @@
 * **[Zayd Krunz](https://github.com/ShrootBuck)** &mdash; Redundant message fix<br />
     <sub>[#143978](https://github.com/flutter/flutter/pull/143978) opened on on February 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143978) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove deprecated `CupertinoContextMenu.previewBuilder`<br />
-    <sub>[#143990](https://github.com/flutter/flutter/pull/143990) opened on on February 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143990) 22 additions and 111 deletions in 1 file</sub><br />
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `DataColumn.mainAxisAlignment` for `DataTable`<br />
     <sub>[#144006](https://github.com/flutter/flutter/pull/144006) opened on on February 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144006) 51 additions and 0 deletions in 2 files</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Remove deprecated `backgroundColor` from `ThemeData`<br />
-    <sub>[#144079](https://github.com/flutter/flutter/pull/144079) opened on on February 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144079) 1 addition and 50 deletions in 3 files</sub><br />
+* **[Alex Li](https://github.com/AlexV525)** &mdash; 🛡️ Guard Flutter Android app by disallow task affinity by default<br />
+    <sub>[#144018](https://github.com/flutter/flutter/pull/144018) opened on on February 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/144018) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Add `MaterialStateTextStyle` constructor with built-in `MaterialPropertyResolver`<br />
     <sub>[#144091](https://github.com/flutter/flutter/pull/144091) opened on on February 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144091) 153 additions and 5 deletions in 2 files</sub><br />

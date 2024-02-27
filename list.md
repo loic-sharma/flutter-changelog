@@ -4,7 +4,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-18 commits.
+19 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Scrollbar.thickness` property is ignored when the `Scrollbar` is hovered
     <sub>[#144012](https://github.com/flutter/flutter/pull/144012) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144012) over 2 days, 11 additions and 9 deletions in 2 files</sub>
@@ -12,7 +12,7 @@
     <sub><details><summary>2 images...</summary><img src="https://github.com/flutter/flutter/assets/48603081/3537d60d-a5b2-488d-aa99-4c36c3721657"  /><img src="https://github.com/flutter/flutter/assets/48603081/cfd02095-a327-4b16-8ece-0d1c9e6813ce" /></details></sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add FlutterMacOS.xcframework artifact
-    <sub>[#143244](https://github.com/flutter/flutter/pull/143244) merged on February 27, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/143244) over 2 weeks, 322 additions and 83 deletions in 11 files</sub>
+    <sub>[#143244](https://github.com/flutter/flutter/pull/143244) merged on February 27, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/143244) over 2 weeks, 322 additions and 83 deletions in 11 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Differentiate pubspec and resolution errors for plugins
@@ -26,6 +26,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove strut migration flag from `TextPainter`
     <sub>[#144242](https://github.com/flutter/flutter/pull/144242) merged on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144242) over 51 minutes, 30 additions and 27 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Add FlutterMacOS.xcframework artifact (#143244)"
+    <sub>[#144253](https://github.com/flutter/flutter/pull/144253) merged on February 27, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/144253) over 45 seconds, 83 additions and 322 deletions in 11 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Roger](https://github.com/TJRoger)** &mdash; bind missing add icon in platform_view example
     <sub>[#132028](https://github.com/flutter/flutter/pull/132028) merged on February 27, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/132028) over 6 months, 246 additions and 18 deletions in 6 files</sub>
