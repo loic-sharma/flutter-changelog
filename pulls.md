@@ -86,6 +86,3 @@
 * **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Remove `throwOnPluginPubspecError` flag for plugin validation<br />
     <sub>[#144214](https://github.com/flutter/flutter/pull/144214) opened on on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144214) 7 additions and 82 deletions in 2 files</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland "Reland - Introduce tone-based surfaces and accent color add-ons - Part 2"<br />
-    <sub>[#144273](https://github.com/flutter/flutter/pull/144273) opened on on February 27, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/144273) 2520 additions and 999 deletions in 181 files</sub><br />
-
