@@ -651,7 +651,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-20 commits.
+22 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Better filtering for Android `scenario_app` runner.
     <sub>[#50937](https://github.com/flutter/engine/pull/50937) merged on February 26, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/50937) over 2 days, 261 additions and 97 deletions in 4 files</sub>
@@ -661,6 +661,10 @@
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Add Platform View Manager to Windows shell
     <sub>[#50598](https://github.com/flutter/engine/pull/50598) merged on February 26, 2024 &mdash; **Medium:** [66 comments](https://github.com/flutter/engine/pull/50598) over 1 week, 439 additions and 2 deletions in 16 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move protobuf to //flutter/third_party
+    <sub>[#50997](https://github.com/flutter/engine/pull/50997) merged on February 27, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/50997) over 14 hours, 1623 additions and 8 deletions in 17 files</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Refactor args parsing/environment constructor for `scenario_app`
     <sub>[#50980](https://github.com/flutter/engine/pull/50980) merged on February 26, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/50980) over 1 hour, 423 additions and 188 deletions in 5 files</sub>
@@ -721,6 +725,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move linux_android_emulator_skia builder to prod
     <sub>[#50956](https://github.com/flutter/engine/pull/50956) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50956) over 10 hours, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland "Implement Frame Timing callbacks in Skwasm"
+    <sub>[#50987](https://github.com/flutter/engine/pull/50987) merged on February 27, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50987) over 17 hours, 427 additions and 338 deletions in 25 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Migrate Android `scenario_app` to the `SurfaceProducer` API (#50993)"
     <sub>[#50995](https://github.com/flutter/engine/pull/50995) merged on February 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50995) over 1 minute, 10 additions and 8 deletions in 1 file</sub>
