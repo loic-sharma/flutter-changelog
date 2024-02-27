@@ -95,3 +95,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Catch rpc error in render frame with raster stats<br />
     <sub>[#144190](https://github.com/flutter/flutter/pull/144190) opened on on February 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144190) 109 additions and 50 deletions in 10 files</sub><br />
 
+* **[hangyu](https://github.com/hangyujin)** &mdash; Reland [a11y] Fix date picker cannot focus on the edit field <br />
+    <sub>[#144198](https://github.com/flutter/flutter/pull/144198) opened on on February 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144198) 83 additions and 49 deletions in 3 files</sub><br />
+

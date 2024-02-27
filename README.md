@@ -643,7 +643,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-14 commits.
+16 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Better filtering for Android `scenario_app` runner.<br />
     <sub>[#50937](https://github.com/flutter/engine/pull/50937) merged on February 26, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/50937) over 2 days, 261 additions and 97 deletions in 4 files</sub><br />
@@ -674,6 +674,10 @@
     <sub>[#50928](https://github.com/flutter/engine/pull/50928) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50928) over 2 days, 4 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate Android `scenario_app` to the `SurfaceProducer` API<br />
+    <sub>[#50993](https://github.com/flutter/engine/pull/50993) merged on February 27, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50993) over 48 minutes, 8 additions and 10 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [scenario] trigger firstFrameLatch on exception.<br />
     <sub>[#50981](https://github.com/flutter/engine/pull/50981) merged on February 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50981) over 1 hour, 0 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Matan Lurey](https://github.com/matanlurey)</sub><br />
@@ -693,6 +697,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move linux_android_emulator_skia builder to prod<br />
     <sub>[#50956](https://github.com/flutter/engine/pull/50956) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50956) over 10 hours, 0 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Migrate Android `scenario_app` to the `SurfaceProducer` API (#50993)"<br />
+    <sub>[#50995](https://github.com/flutter/engine/pull/50995) merged on February 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50995) over 1 minute, 10 additions and 8 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Update Surface reference after resizing render target in VirtualDisplay based platform views<br />
     <sub>[#50971](https://github.com/flutter/engine/pull/50971) merged on February 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50971) over 3 hours, 27 additions and 4 deletions in 1 file</sub><br />
