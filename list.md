@@ -691,7 +691,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-33 commits.
+34 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Use CVDisplayLink to drive repaint
     <sub>[#49159](https://github.com/flutter/engine/pull/49159) merged on February 27, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/engine/pull/49159) over 2 months, 1112 additions and 36 deletions in 23 files</sub>
@@ -705,6 +705,10 @@
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Add Platform View Manager to Windows shell
     <sub>[#50598](https://github.com/flutter/engine/pull/50598) merged on February 26, 2024 &mdash; **Medium:** [66 comments](https://github.com/flutter/engine/pull/50598) over 1 week, 439 additions and 2 deletions in 16 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Improve, test, and fix a bug related to `adb logcat` filtering.
+    <sub>[#51012](https://github.com/flutter/engine/pull/51012) merged on February 27, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/51012) over 3 hours, 314 additions and 20 deletions in 7 files</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Move vulkan-deps to //flutter/third_party/vulkan-deps
     <sub>[#51013](https://github.com/flutter/engine/pull/51013) merged on February 27, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/51013) over 2 hours, 7595 additions and 7564 deletions in 22 files</sub>
@@ -726,17 +730,17 @@
     <sub>[#50952](https://github.com/flutter/engine/pull/50952) merged on February 26, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/50952) over 1 day, 319 additions and 35 deletions in 5 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
-* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Use shared gn-sdk from chromium
-    <sub>[#50855](https://github.com/flutter/engine/pull/50855) merged on February 27, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/50855) over 5 days, 69 additions and 1518 deletions in 38 files</sub>
-    <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub>
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Correctly offset the cull rect of the opacity layer.
+    <sub>[#50928](https://github.com/flutter/engine/pull/50928) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50928) over 2 days, 4 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Make sure to call `setHeightOverride` as well on TextStyle and StrutStyle
     <sub>[#50920](https://github.com/flutter/engine/pull/50920) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50920) over 2 days, 7 additions and 0 deletions in 3 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Correctly offset the cull rect of the opacity layer.
-    <sub>[#50928](https://github.com/flutter/engine/pull/50928) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50928) over 2 days, 4 additions and 3 deletions in 2 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Use shared gn-sdk from chromium
+    <sub>[#50855](https://github.com/flutter/engine/pull/50855) merged on February 27, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/50855) over 5 days, 69 additions and 1518 deletions in 38 files</sub>
+    <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Respect SIGINT (Ctrl-C) for Android scenario_app.
     <sub>[#50989](https://github.com/flutter/engine/pull/50989) merged on February 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50989) over 2 hours, 25 additions and 6 deletions in 1 file</sub>
@@ -774,9 +778,9 @@
     <sub>[#50977](https://github.com/flutter/engine/pull/50977) merged on February 27, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/50977) over 8 hours, 35 additions and 97 deletions in 5 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix usage of `--out-dir` with a relative path.
-    <sub>[#50992](https://github.com/flutter/engine/pull/50992) merged on February 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50992) over 1 hour, 3 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move linux_android_emulator_skia builder to prod
+    <sub>[#50956](https://github.com/flutter/engine/pull/50956) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50956) over 10 hours, 0 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll buildroot to 21b1b9f2645fada701885108e86aefbcb3b1cca0
     <sub>[#50991](https://github.com/flutter/engine/pull/50991) merged on February 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50991) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
@@ -802,9 +806,9 @@
     <sub>[#50883](https://github.com/flutter/engine/pull/50883) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50883) over 3 days, 46 additions and 1 deletion in 3 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move linux_android_emulator_skia builder to prod
-    <sub>[#50956](https://github.com/flutter/engine/pull/50956) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50956) over 10 hours, 0 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix usage of `--out-dir` with a relative path.
+    <sub>[#50992](https://github.com/flutter/engine/pull/50992) merged on February 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50992) over 1 hour, 3 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland "Implement Frame Timing callbacks in Skwasm"
     <sub>[#50987](https://github.com/flutter/engine/pull/50987) merged on February 27, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50987) over 17 hours, 427 additions and 338 deletions in 25 files</sub>
