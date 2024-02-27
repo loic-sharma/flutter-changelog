@@ -76,7 +76,7 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland - Introduce tone-based surfaces and accent color add-ons - Part 2
-    <sub>[#144001](https://github.com/flutter/flutter/pull/144001) merged on February 27, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/144001) over 4 days, 2520 additions and 999 deletions in 181 files</sub>
+    <sub>[#144001](https://github.com/flutter/flutter/pull/144001) merged on February 27, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/144001) over 4 days, 2520 additions and 999 deletions in 181 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Reland - Introduce tone-based surfaces and accent color add-ons - Part 2 (#144001)"
