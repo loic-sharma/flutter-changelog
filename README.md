@@ -4,7 +4,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-14 commits.
+16 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Scrollbar.thickness` property is ignored when the `Scrollbar` is hovered<br />
     <sub>[#144012](https://github.com/flutter/flutter/pull/144012) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144012) over 2 days, 11 additions and 9 deletions in 2 files</sub><br />
@@ -31,6 +31,10 @@
     <sub>[#143675](https://github.com/flutter/flutter/pull/143675) merged on February 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/143675) over 1 week, 20 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
+* **[Roger](https://github.com/TJRoger)** &mdash; bind missing add icon in platform_view example<br />
+    <sub>[#132028](https://github.com/flutter/flutter/pull/132028) merged on February 27, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/132028) over 6 months, 246 additions and 18 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Re-enable Impeller goldens blocking. <br />
     <sub>[#144210](https://github.com/flutter/flutter/pull/144210) merged on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144210) over 10 hours, 0 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
@@ -42,6 +46,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Move debugShowWidgetInspectorOverride<br />
     <sub>[#144029](https://github.com/flutter/flutter/pull/144029) merged on February 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/144029) over 3 days, 46 additions and 31 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Cache `FocusNode.enclosingScope`, clean up `descendantsAreFocusable`<br />
+    <sub>[#144207](https://github.com/flutter/flutter/pull/144207) merged on February 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144207) over 15 hours, 49 additions and 27 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove force Xcode debug workflow<br />
     <sub>[#144185](https://github.com/flutter/flutter/pull/144185) merged on February 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144185) over 18 hours, 8 additions and 186 deletions in 7 files</sub><br />
