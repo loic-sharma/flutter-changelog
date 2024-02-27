@@ -675,7 +675,11 @@
 
 ### February 24, 2024 to March 1, 2024
 
-27 commits.
+28 commits.
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Use CVDisplayLink to drive repaint<br />
+    <sub>[#49159](https://github.com/flutter/engine/pull/49159) merged on February 27, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/engine/pull/49159) over 2 months, 1112 additions and 36 deletions in 23 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Better filtering for Android `scenario_app` runner.<br />
     <sub>[#50937](https://github.com/flutter/engine/pull/50937) merged on February 26, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/50937) over 2 days, 261 additions and 97 deletions in 4 files</sub><br />
