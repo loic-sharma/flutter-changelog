@@ -4,7 +4,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-23 commits.
+24 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Scrollbar.thickness` property is ignored when the `Scrollbar` is hovered
     <sub>[#144012](https://github.com/flutter/flutter/pull/144012) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144012) over 2 days, 11 additions and 9 deletions in 2 files</sub>
@@ -38,6 +38,10 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Allow `Listenable.merge()` to use any iterable
     <sub>[#143675](https://github.com/flutter/flutter/pull/143675) merged on February 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/143675) over 1 week, 20 additions and 5 deletions in 2 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Clean up lint ignores
+    <sub>[#144229](https://github.com/flutter/flutter/pull/144229) merged on February 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144229) over 7 hours, 60 additions and 63 deletions in 14 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Fix naming in platform_view example
     <sub>[#144247](https://github.com/flutter/flutter/pull/144247) merged on February 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144247) over 3 hours, 6 additions and 6 deletions in 2 files</sub>
