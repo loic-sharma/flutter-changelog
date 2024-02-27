@@ -643,7 +643,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-18 commits.
+19 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Better filtering for Android `scenario_app` runner.
     <sub>[#50937](https://github.com/flutter/engine/pull/50937) merged on February 26, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/50937) over 2 days, 261 additions and 97 deletions in 4 files</sub>
@@ -673,6 +673,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Correctly offset the cull rect of the opacity layer.
     <sub>[#50928](https://github.com/flutter/engine/pull/50928) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50928) over 2 days, 4 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Respect SIGINT (Ctrl-C) for Android scenario_app.
+    <sub>[#50989](https://github.com/flutter/engine/pull/50989) merged on February 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50989) over 2 hours, 25 additions and 6 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix usage of `--out-dir` with a relative path.
     <sub>[#50992](https://github.com/flutter/engine/pull/50992) merged on February 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50992) over 1 hour, 3 additions and 2 deletions in 1 file</sub>
