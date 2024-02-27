@@ -4,7 +4,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-24 commits.
+25 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Scrollbar.thickness` property is ignored when the `Scrollbar` is hovered<br />
     <sub>[#144012](https://github.com/flutter/flutter/pull/144012) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144012) over 2 days, 11 additions and 9 deletions in 2 files</sub><br />
@@ -62,6 +62,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Move debugShowWidgetInspectorOverride<br />
     <sub>[#144029](https://github.com/flutter/flutter/pull/144029) merged on February 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/144029) over 3 days, 46 additions and 31 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[ufolux](https://github.com/ufolux)** &mdash; fix: unexpected chinese punctuation<br />
+    <sub>[#143678](https://github.com/flutter/flutter/pull/143678) merged on February 27, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/143678) over 1 week, 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove deprecated `CupertinoContextMenu.previewBuilder`<br />
     <sub>[#143990](https://github.com/flutter/flutter/pull/143990) merged on February 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/143990) over 4 days, 22 additions and 111 deletions in 1 file</sub><br />
