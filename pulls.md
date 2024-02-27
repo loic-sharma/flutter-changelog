@@ -69,7 +69,7 @@
     <sub>[#143978](https://github.com/flutter/flutter/pull/143978) opened on on February 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143978) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove deprecated `CupertinoContextMenu.previewBuilder`<br />
-    <sub>[#143990](https://github.com/flutter/flutter/pull/143990) opened on on February 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143990) 3 additions and 92 deletions in 1 file</sub><br />
+    <sub>[#143990](https://github.com/flutter/flutter/pull/143990) opened on on February 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143990) 19 additions and 107 deletions in 1 file</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `DataColumn.mainAxisAlignment` for `DataTable`<br />
     <sub>[#144006](https://github.com/flutter/flutter/pull/144006) opened on on February 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144006) 51 additions and 0 deletions in 2 files</sub><br />
@@ -97,7 +97,4 @@
 
 * **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Remove `throwOnPluginPubspecError` flag for plugin validation<br />
     <sub>[#144214](https://github.com/flutter/flutter/pull/144214) opened on on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144214) 7 additions and 82 deletions in 2 files</sub><br />
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove strut migration flag from `TextPainter`<br />
-    <sub>[#144242](https://github.com/flutter/flutter/pull/144242) opened on on February 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144242) 30 additions and 27 deletions in 2 files</sub><br />
 
