@@ -867,7 +867,7 @@
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McCutchan](https://github.com/johnmccutchan), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Compute UV coordinates lazily in PositionUVWriter<br />
-    <sub>[#50879](https://github.com/flutter/engine/pull/50879) merged on February 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50879) over 23 hours, 46 additions and 8 deletions in 2 files</sub><br />
+    <sub>[#50879](https://github.com/flutter/engine/pull/50879) merged on February 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/50879) over 23 hours, 46 additions and 8 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] moved the kernel size assert to a more appropriate location.<br />
