@@ -72,7 +72,7 @@
     <sub>[#144006](https://github.com/flutter/flutter/pull/144006) opened on on February 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144006) 51 additions and 0 deletions in 2 files</sub><br />
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🛡️ Guard Flutter Android app by disallow task affinity by default<br />
-    <sub>[#144018](https://github.com/flutter/flutter/pull/144018) opened on on February 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/144018) 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>[#144018](https://github.com/flutter/flutter/pull/144018) opened on on February 23, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/144018) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Add `MaterialStateTextStyle` constructor with built-in `MaterialPropertyResolver`<br />
     <sub>[#144091](https://github.com/flutter/flutter/pull/144091) opened on on February 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144091) 153 additions and 5 deletions in 2 files</sub><br />
