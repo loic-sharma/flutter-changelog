@@ -27,13 +27,13 @@
     <sub>[#144242](https://github.com/flutter/flutter/pull/144242) merged on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144242) over 51 minutes, 30 additions and 27 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
+* **[Roger](https://github.com/TJRoger)** &mdash; bind missing add icon in platform_view example<br />
+    <sub>[#132028](https://github.com/flutter/flutter/pull/132028) merged on February 27, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/132028) over 6 months, 246 additions and 18 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Allow `Listenable.merge()` to use any iterable<br />
     <sub>[#143675](https://github.com/flutter/flutter/pull/143675) merged on February 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/143675) over 1 week, 20 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
-* **[Roger](https://github.com/TJRoger)** &mdash; bind missing add icon in platform_view example<br />
-    <sub>[#132028](https://github.com/flutter/flutter/pull/132028) merged on February 27, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/132028) over 6 months, 246 additions and 18 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Re-enable Impeller goldens blocking. <br />
     <sub>[#144210](https://github.com/flutter/flutter/pull/144210) merged on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144210) over 10 hours, 0 additions and 1 deletion in 1 file</sub><br />
