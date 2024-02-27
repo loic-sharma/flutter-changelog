@@ -4,7 +4,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-16 commits.
+18 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Scrollbar.thickness` property is ignored when the `Scrollbar` is hovered
     <sub>[#144012](https://github.com/flutter/flutter/pull/144012) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144012) over 2 days, 11 additions and 9 deletions in 2 files</sub>
@@ -34,6 +34,10 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Allow `Listenable.merge()` to use any iterable
     <sub>[#143675](https://github.com/flutter/flutter/pull/143675) merged on February 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/143675) over 1 week, 20 additions and 5 deletions in 2 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Make flutter web profile builds always keep wasm symbols
+    <sub>[#144130](https://github.com/flutter/flutter/pull/144130) merged on February 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144130) over 1 day, 54 additions and 50 deletions in 3 files</sub>
+    <sub>Reviewed by: [Ömer Sinan Ağacan](https://github.com/osa1), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Re-enable Impeller goldens blocking. 
     <sub>[#144210](https://github.com/flutter/flutter/pull/144210) merged on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144210) over 10 hours, 0 additions and 1 deletion in 1 file</sub>
@@ -66,6 +70,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update copyDirectory to allow links to not be followed
     <sub>[#144040](https://github.com/flutter/flutter/pull/144040) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144040) over 2 days, 109 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland - Introduce tone-based surfaces and accent color add-ons - Part 2
+    <sub>[#144001](https://github.com/flutter/flutter/pull/144001) merged on February 27, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/144001) over 4 days, 2520 additions and 999 deletions in 181 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Re-enable Impeller goldens blocking. (#144023)"
     <sub>[#144115](https://github.com/flutter/flutter/pull/144115) merged on February 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144115) over 39 minutes, 1 addition and 0 deletions in 1 file</sub>
