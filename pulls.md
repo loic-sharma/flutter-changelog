@@ -53,9 +53,6 @@
 * **[Nawaf.](https://github.com/nawafalomari)** &mdash; fix: fix `lockUpButtonLabel` arabic translation<br />
     <sub>[#143638](https://github.com/flutter/flutter/pull/143638) opened on on February 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143638) 4 additions and 4 deletions in 4 files</sub><br />
 
-* **[Dennis Kugelmann](https://github.com/IchordeDionysos)** &mdash; Add scroll lock when using trackpad on web<br />
-    <sub>[#143658](https://github.com/flutter/flutter/pull/143658) opened on on February 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143658) 54 additions and 4 deletions in 2 files</sub><br />
-
 * **[yim](https://github.com/yiiim)** &mdash; Fix multiple calls to Slider's onChanged.<br />
     <sub>[#143680](https://github.com/flutter/flutter/pull/143680) opened on on February 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143680) 41 additions and 2 deletions in 2 files</sub><br />
 
@@ -72,7 +69,7 @@
     <sub>[#144006](https://github.com/flutter/flutter/pull/144006) opened on on February 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144006) 51 additions and 0 deletions in 2 files</sub><br />
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🛡️ Guard Flutter Android app by disallow task affinity by default<br />
-    <sub>[#144018](https://github.com/flutter/flutter/pull/144018) opened on on February 23, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/144018) 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>[#144018](https://github.com/flutter/flutter/pull/144018) opened on on February 23, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/144018) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Add `MaterialStateTextStyle` constructor with built-in `MaterialPropertyResolver`<br />
     <sub>[#144091](https://github.com/flutter/flutter/pull/144091) opened on on February 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144091) 153 additions and 5 deletions in 2 files</sub><br />
@@ -88,4 +85,7 @@
 
 * **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Remove `throwOnPluginPubspecError` flag for plugin validation<br />
     <sub>[#144214](https://github.com/flutter/flutter/pull/144214) opened on on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144214) 7 additions and 82 deletions in 2 files</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland - Introduce tone-based surfaces and accent color add-ons - Part 2<br />
+    <sub>[#144273](https://github.com/flutter/flutter/pull/144273) opened on on February 27, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/144273) 2520 additions and 999 deletions in 181 files</sub><br />
 
