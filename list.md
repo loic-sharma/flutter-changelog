@@ -655,7 +655,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-22 commits.
+23 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Better filtering for Android `scenario_app` runner.
     <sub>[#50937](https://github.com/flutter/engine/pull/50937) merged on February 26, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/50937) over 2 days, 261 additions and 97 deletions in 4 files</sub>
@@ -681,6 +681,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Improve the logger for the ninja build, adds a spinner
     <sub>[#50952](https://github.com/flutter/engine/pull/50952) merged on February 26, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/50952) over 1 day, 319 additions and 35 deletions in 5 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
+
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Use shared gn-sdk from chromium
+    <sub>[#50855](https://github.com/flutter/engine/pull/50855) merged on February 27, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/50855) over 5 days, 69 additions and 1518 deletions in 38 files</sub>
+    <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Make sure to call `setHeightOverride` as well on TextStyle and StrutStyle
     <sub>[#50920](https://github.com/flutter/engine/pull/50920) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50920) over 2 days, 7 additions and 0 deletions in 3 files</sub>
