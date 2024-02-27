@@ -101,3 +101,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Cache `FocusNode.enclosingScope`, clean up `descendantsAreFocusable`<br />
     <sub>[#144207](https://github.com/flutter/flutter/pull/144207) opened on on February 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144207) 49 additions and 27 deletions in 2 files</sub><br />
 
+* **[Gustl22](https://github.com/Gustl22)** &mdash; fix: Remove `throwOnPluginPubspecError` flag for plugins<br />
+    <sub>[#144214](https://github.com/flutter/flutter/pull/144214) opened on on February 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144214) 7 additions and 82 deletions in 2 files</sub><br />
+
