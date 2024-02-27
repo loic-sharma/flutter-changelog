@@ -98,3 +98,6 @@
 * **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Remove `throwOnPluginPubspecError` flag for plugin validation<br />
     <sub>[#144214](https://github.com/flutter/flutter/pull/144214) opened on on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144214) 7 additions and 82 deletions in 2 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove strut migration flag from `TextPainter`<br />
+    <sub>[#144242](https://github.com/flutter/flutter/pull/144242) opened on on February 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144242) 30 additions and 27 deletions in 2 files</sub><br />
+
