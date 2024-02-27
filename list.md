@@ -683,7 +683,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-29 commits.
+30 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Use CVDisplayLink to drive repaint
     <sub>[#49159](https://github.com/flutter/engine/pull/49159) merged on February 27, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/engine/pull/49159) over 2 months, 1112 additions and 36 deletions in 23 files</sub>
@@ -733,6 +733,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Clip pictures if they go beyond the bounds of the window.
     <sub>[#50887](https://github.com/flutter/engine/pull/50887) merged on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/50887) over 4 days, 70 additions and 5 deletions in 3 files</sub>
     <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] various StC fixes for GPU -> CPU readback plus BufferBindingGLES error
+    <sub>[#50951](https://github.com/flutter/engine/pull/50951) merged on February 27, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/50951) over 3 days, 52 additions and 11 deletions in 10 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fail lazily when 1+ Skia gold comparions fail.
     <sub>[#51010](https://github.com/flutter/engine/pull/51010) merged on February 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51010) over 41 minutes, 6 additions and 2 deletions in 1 file</sub>
