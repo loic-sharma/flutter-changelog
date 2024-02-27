@@ -95,9 +95,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Reland [a11y] Fix date picker cannot focus on the edit field <br />
     <sub>[#144198](https://github.com/flutter/flutter/pull/144198) opened on on February 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144198) 83 additions and 49 deletions in 3 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Cache `FocusNode.enclosingScope`, clean up `descendantsAreFocusable`<br />
-    <sub>[#144207](https://github.com/flutter/flutter/pull/144207) opened on on February 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144207) 49 additions and 27 deletions in 2 files</sub><br />
-
 * **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Remove `throwOnPluginPubspecError` flag for plugin validation<br />
     <sub>[#144214](https://github.com/flutter/flutter/pull/144214) opened on on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144214) 7 additions and 82 deletions in 2 files</sub><br />
 
