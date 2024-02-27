@@ -715,7 +715,7 @@
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Revert "Reland 4: Multiview pipeline (#50931)"
-    <sub>[#50985](https://github.com/flutter/engine/pull/50985) merged on February 27, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/50985) over 2 hours, 153 additions and 488 deletions in 21 files</sub>
+    <sub>[#50985](https://github.com/flutter/engine/pull/50985) merged on February 27, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/50985) over 2 hours, 153 additions and 488 deletions in 21 files</sub>
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
 ### February 17, 2024 to February 23, 2024
