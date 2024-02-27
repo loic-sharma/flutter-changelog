@@ -643,7 +643,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-19 commits.
+20 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Better filtering for Android `scenario_app` runner.<br />
     <sub>[#50937](https://github.com/flutter/engine/pull/50937) merged on February 26, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/50937) over 2 days, 261 additions and 97 deletions in 4 files</sub><br />
@@ -677,6 +677,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Respect SIGINT (Ctrl-C) for Android scenario_app.<br />
     <sub>[#50989](https://github.com/flutter/engine/pull/50989) merged on February 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/50989) over 2 hours, 25 additions and 6 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Dan Field](https://github.com/dnfield)** &mdash; Actually use Impeller in scenario_app tests<br />
+    <sub>[#50977](https://github.com/flutter/engine/pull/50977) merged on February 27, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/50977) over 8 hours, 35 additions and 97 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix usage of `--out-dir` with a relative path.<br />
     <sub>[#50992](https://github.com/flutter/engine/pull/50992) merged on February 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50992) over 1 hour, 3 additions and 2 deletions in 1 file</sub><br />
