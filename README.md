@@ -4,12 +4,16 @@
 
 ### February 24, 2024 to March 1, 2024
 
-10 commits.
+11 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Scrollbar.thickness` property is ignored when the `Scrollbar` is hovered<br />
     <sub>[#144012](https://github.com/flutter/flutter/pull/144012) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144012) over 2 days, 11 additions and 9 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
     <sub><details><summary>2 images...</summary><img src="https://github.com/flutter/flutter/assets/48603081/3537d60d-a5b2-488d-aa99-4c36c3721657"  /><img src="https://github.com/flutter/flutter/assets/48603081/cfd02095-a327-4b16-8ece-0d1c9e6813ce" /></details></sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add FlutterMacOS.xcframework artifact<br />
+    <sub>[#143244](https://github.com/flutter/flutter/pull/143244) merged on February 27, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/143244) over 2 weeks, 322 additions and 83 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Differentiate pubspec and resolution errors for plugins<br />
     <sub>[#142035](https://github.com/flutter/flutter/pull/142035) merged on February 26, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/142035) over 1 month, 85 additions and 27 deletions in 2 files</sub><br />
@@ -24,8 +28,8 @@
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Re-enable Impeller goldens blocking. <br />
-    <sub>[#144210](https://github.com/flutter/flutter/pull/144210) merged on February 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144210) over 10 hours, 0 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>[#144210](https://github.com/flutter/flutter/pull/144210) merged on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144210) over 10 hours, 0 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; [flutter_tools] Fix missing stack trace from daemon<br />
     <sub>[#144113](https://github.com/flutter/flutter/pull/144113) merged on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144113) over 1 day, 13 additions and 2 deletions in 2 files</sub><br />
@@ -663,8 +667,8 @@
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move protobuf to //flutter/third_party<br />
-    <sub>[#50997](https://github.com/flutter/engine/pull/50997) merged on February 27, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/50997) over 14 hours, 1623 additions and 8 deletions in 17 files</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub>[#50997](https://github.com/flutter/engine/pull/50997) merged on February 27, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/50997) over 14 hours, 1623 additions and 8 deletions in 17 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Refactor args parsing/environment constructor for `scenario_app`<br />
     <sub>[#50980](https://github.com/flutter/engine/pull/50980) merged on February 26, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/50980) over 1 hour, 423 additions and 188 deletions in 5 files</sub><br />
