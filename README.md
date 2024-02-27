@@ -4,7 +4,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-11 commits.
+12 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Scrollbar.thickness` property is ignored when the `Scrollbar` is hovered<br />
     <sub>[#144012](https://github.com/flutter/flutter/pull/144012) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144012) over 2 days, 11 additions and 9 deletions in 2 files</sub><br />
@@ -38,6 +38,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Move debugShowWidgetInspectorOverride<br />
     <sub>[#144029](https://github.com/flutter/flutter/pull/144029) merged on February 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/144029) over 3 days, 46 additions and 31 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[keyonghan](https://github.com/keyonghan)** &mdash; Mark two other firebase targets as bringup: true<br />
+    <sub>[#144234](https://github.com/flutter/flutter/pull/144234) merged on February 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144234) over 55 minutes, 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Mark firebase_release_smoke_test as `bringup: true`<br />
     <sub>[#144186](https://github.com/flutter/flutter/pull/144186) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144186) over 20 minutes, 1 addition and 0 deletions in 1 file</sub><br />
