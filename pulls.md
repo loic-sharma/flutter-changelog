@@ -83,6 +83,3 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland Activate InkSparkle on CanvasKit<br />
     <sub>[#144314](https://github.com/flutter/flutter/pull/144314) opened on on February 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144314) 16 additions and 15 deletions in 7 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland "Cache FocusNode.enclosingScope, clean up descendantsAreFocusable (#144207)"<br />
-    <sub>[#144330](https://github.com/flutter/flutter/pull/144330) opened on on February 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144330) 113 additions and 39 deletions in 4 files</sub><br />
-

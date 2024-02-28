@@ -4,7 +4,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-39 commits.
+40 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Scrollbar.thickness` property is ignored when the `Scrollbar` is hovered<br />
     <sub>[#144012](https://github.com/flutter/flutter/pull/144012) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144012) over 2 days, 11 additions and 9 deletions in 2 files</sub><br />
@@ -35,6 +35,10 @@
     <sub>[#143937](https://github.com/flutter/flutter/pull/143937) merged on February 28, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/143937) over 5 days, 377 additions and 360 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Allow `Listenable.merge()` to use any iterable<br />
+    <sub>[#143675](https://github.com/flutter/flutter/pull/143675) merged on February 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/143675) over 1 week, 20 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Add FlutterMacOS.xcframework artifact (#143244)"<br />
     <sub>[#144253](https://github.com/flutter/flutter/pull/144253) merged on February 27, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/144253) over 45 seconds, 83 additions and 322 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
@@ -43,9 +47,9 @@
     <sub>[#132028](https://github.com/flutter/flutter/pull/132028) merged on February 27, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/132028) over 6 months, 246 additions and 18 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Allow `Listenable.merge()` to use any iterable<br />
-    <sub>[#143675](https://github.com/flutter/flutter/pull/143675) merged on February 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/143675) over 1 week, 20 additions and 5 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+* **[Alex Li](https://github.com/AlexV525)** &mdash; 🛡️ Guard Flutter Android app by disallow task affinity by default<br />
+    <sub>[#144018](https://github.com/flutter/flutter/pull/144018) merged on February 28, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/144018) over 5 days, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Manual roll Flutter Engine fe7ea6d9c34f to 5e0d9ba35dd5<br />
     <sub>[#144285](https://github.com/flutter/flutter/pull/144285) merged on February 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144285) over 42 minutes, 1 addition and 1 deletion in 1 file</sub><br />
@@ -54,14 +58,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Manual roll Flutter Engine 5e0d9ba35dd5 to 2461280c38b7<br />
     <sub>[#144288](https://github.com/flutter/flutter/pull/144288) merged on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144288) over 43 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Manual roll Flutter Engine 2461280c38b7 to c79117b706e9<br />
-    <sub>[#144290](https://github.com/flutter/flutter/pull/144290) merged on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144290) over 42 minutes, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[Alex Li](https://github.com/AlexV525)** &mdash; 🛡️ Guard Flutter Android app by disallow task affinity by default<br />
-    <sub>[#144018](https://github.com/flutter/flutter/pull/144018) merged on February 28, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/144018) over 5 days, 1 addition and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Manual roll Flutter Engine 0bc21ea7bc92 to fe7ea6d9c34f<br />
     <sub>[#144283](https://github.com/flutter/flutter/pull/144283) merged on February 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144283) over 54 minutes, 1 addition and 1 deletion in 1 file</sub><br />
@@ -87,13 +83,13 @@
     <sub>[#144210](https://github.com/flutter/flutter/pull/144210) merged on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144210) over 10 hours, 0 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Move debugShowWidgetInspectorOverride<br />
-    <sub>[#144029](https://github.com/flutter/flutter/pull/144029) merged on February 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/144029) over 3 days, 46 additions and 31 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; [flutter_tools] Fix missing stack trace from daemon<br />
     <sub>[#144113](https://github.com/flutter/flutter/pull/144113) merged on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144113) over 1 day, 13 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Move debugShowWidgetInspectorOverride<br />
+    <sub>[#144029](https://github.com/flutter/flutter/pull/144029) merged on February 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/144029) over 3 days, 46 additions and 31 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Manual roll Flutter Engine 8acc96d405d0 to 91898e397261<br />
     <sub>[#144316](https://github.com/flutter/flutter/pull/144316) merged on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144316) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
@@ -107,9 +103,13 @@
     <sub>[#144293](https://github.com/flutter/flutter/pull/144293) merged on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144293) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update copyDirectory to allow links to not be followed<br />
-    <sub>[#144040](https://github.com/flutter/flutter/pull/144040) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144040) over 2 days, 109 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Manual roll Flutter Engine 2461280c38b7 to c79117b706e9<br />
+    <sub>[#144290](https://github.com/flutter/flutter/pull/144290) merged on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144290) over 42 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove deprecated `CupertinoContextMenu.previewBuilder`<br />
+    <sub>[#143990](https://github.com/flutter/flutter/pull/143990) merged on February 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/143990) over 4 days, 22 additions and 111 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Nate](https://github.com/nate-thegrate), [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Cache `FocusNode.enclosingScope`, clean up `descendantsAreFocusable`<br />
     <sub>[#144207](https://github.com/flutter/flutter/pull/144207) merged on February 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144207) over 15 hours, 49 additions and 27 deletions in 2 files</sub><br />
@@ -123,9 +123,9 @@
     <sub>[#144234](https://github.com/flutter/flutter/pull/144234) merged on February 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144234) over 55 minutes, 2 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[keyonghan](https://github.com/keyonghan)** &mdash; Mark firebase_release_smoke_test as `bringup: true`<br />
-    <sub>[#144186](https://github.com/flutter/flutter/pull/144186) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144186) over 20 minutes, 1 addition and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+* **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Remove irrelevant comment in TextPainter<br />
+    <sub>[#144308](https://github.com/flutter/flutter/pull/144308) merged on February 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144308) over 10 hours, 7 additions and 6 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Cache `FocusNode.enclosingScope`, clean up `descendantsAreFocusable` (#144207)"<br />
     <sub>[#144292](https://github.com/flutter/flutter/pull/144292) merged on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144292) over 1 minute, 27 additions and 49 deletions in 2 files</sub><br />
@@ -139,9 +139,13 @@
     <sub>[#143678](https://github.com/flutter/flutter/pull/143678) merged on February 27, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/143678) over 1 week, 3 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove deprecated `CupertinoContextMenu.previewBuilder`<br />
-    <sub>[#143990](https://github.com/flutter/flutter/pull/143990) merged on February 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/143990) over 4 days, 22 additions and 111 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Nate](https://github.com/nate-thegrate), [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+* **[keyonghan](https://github.com/keyonghan)** &mdash; Mark firebase_release_smoke_test as `bringup: true`<br />
+    <sub>[#144186](https://github.com/flutter/flutter/pull/144186) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144186) over 20 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update copyDirectory to allow links to not be followed<br />
+    <sub>[#144040](https://github.com/flutter/flutter/pull/144040) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144040) over 2 days, 109 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland - Introduce tone-based surfaces and accent color add-ons - Part 2<br />
     <sub>[#144001](https://github.com/flutter/flutter/pull/144001) merged on February 27, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/144001) over 4 days, 2520 additions and 999 deletions in 181 files</sub><br />
