@@ -4,7 +4,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-29 commits.
+30 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Scrollbar.thickness` property is ignored when the `Scrollbar` is hovered<br />
     <sub>[#144012](https://github.com/flutter/flutter/pull/144012) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144012) over 2 days, 11 additions and 9 deletions in 2 files</sub><br />
@@ -42,6 +42,10 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Allow `Listenable.merge()` to use any iterable<br />
     <sub>[#143675](https://github.com/flutter/flutter/pull/143675) merged on February 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/143675) over 1 week, 20 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Manual roll Flutter Engine fe7ea6d9c34f to 5e0d9ba35dd5<br />
+    <sub>[#144285](https://github.com/flutter/flutter/pull/144285) merged on February 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144285) over 42 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Manual roll Flutter Engine 0bc21ea7bc92 to fe7ea6d9c34f<br />
     <sub>[#144283](https://github.com/flutter/flutter/pull/144283) merged on February 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144283) over 54 minutes, 1 addition and 1 deletion in 1 file</sub><br />
