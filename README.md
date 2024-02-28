@@ -4,7 +4,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-32 commits.
+33 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Scrollbar.thickness` property is ignored when the `Scrollbar` is hovered<br />
     <sub>[#144012](https://github.com/flutter/flutter/pull/144012) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144012) over 2 days, 11 additions and 9 deletions in 2 files</sub><br />
@@ -87,6 +87,10 @@
     <sub>[#144029](https://github.com/flutter/flutter/pull/144029) merged on February 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/144029) over 3 days, 46 additions and 31 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Cache `FocusNode.enclosingScope`, clean up `descendantsAreFocusable` (#144207)"<br />
+    <sub>[#144292](https://github.com/flutter/flutter/pull/144292) merged on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144292) over 1 minute, 27 additions and 49 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Remove `bottomAppBarColor` from `ThemeData`<br />
     <sub>[#144080](https://github.com/flutter/flutter/pull/144080) merged on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144080) over 3 days, 10 additions and 66 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
@@ -100,7 +104,7 @@
     <sub>Reviewed by: [Nate](https://github.com/nate-thegrate), [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Cache `FocusNode.enclosingScope`, clean up `descendantsAreFocusable`<br />
-    <sub>[#144207](https://github.com/flutter/flutter/pull/144207) merged on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144207) over 15 hours, 49 additions and 27 deletions in 2 files</sub><br />
+    <sub>[#144207](https://github.com/flutter/flutter/pull/144207) merged on February 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144207) over 15 hours, 49 additions and 27 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove force Xcode debug workflow<br />
