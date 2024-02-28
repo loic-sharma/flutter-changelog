@@ -83,3 +83,9 @@
 * **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Remove `throwOnPluginPubspecError` flag for plugin validation<br />
     <sub>[#144214](https://github.com/flutter/flutter/pull/144214) opened on on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144214) 7 additions and 82 deletions in 2 files</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Add missing parameter to `TableBorder.symmetric`, and improve class constructors<br />
+    <sub>[#144279](https://github.com/flutter/flutter/pull/144279) opened on on February 28, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/144279) 178 additions and 298 deletions in 26 files</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add `FocusNode.focusabilityListenable`<br />
+    <sub>[#144280](https://github.com/flutter/flutter/pull/144280) opened on on February 28, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/144280) 602 additions and 10 deletions in 3 files</sub><br />
+
