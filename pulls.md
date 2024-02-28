@@ -80,9 +80,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add `FocusNode.focusabilityListenable`<br />
     <sub>[#144280](https://github.com/flutter/flutter/pull/144280) opened on on February 28, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/144280) 602 additions and 10 deletions in 3 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [flutter_tools] Update external link in Android manifest template<br />
-    <sub>[#144302](https://github.com/flutter/flutter/pull/144302) opened on on February 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144302) 29 additions and 29 deletions in 27 files</sub><br />
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland Activate InkSparkle on CanvasKit<br />
     <sub>[#144314](https://github.com/flutter/flutter/pull/144314) opened on on February 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144314) 16 additions and 15 deletions in 7 files</sub><br />
 
