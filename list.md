@@ -100,7 +100,7 @@
     <sub>Reviewed by: [Nate](https://github.com/nate-thegrate), [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Cache `FocusNode.enclosingScope`, clean up `descendantsAreFocusable`
-    <sub>[#144207](https://github.com/flutter/flutter/pull/144207) merged on February 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144207) over 15 hours, 49 additions and 27 deletions in 2 files</sub>
+    <sub>[#144207](https://github.com/flutter/flutter/pull/144207) merged on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144207) over 15 hours, 49 additions and 27 deletions in 2 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove force Xcode debug workflow

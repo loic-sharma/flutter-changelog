@@ -89,3 +89,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add `FocusNode.focusabilityListenable`<br />
     <sub>[#144280](https://github.com/flutter/flutter/pull/144280) opened on on February 28, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/144280) 602 additions and 10 deletions in 3 files</sub><br />
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Cache `FocusNode.enclosingScope`, clean up `descendantsAreFocusable` (#144207)"<br />
+    <sub>[#144292](https://github.com/flutter/flutter/pull/144292) opened on on February 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144292) 27 additions and 49 deletions in 2 files</sub><br />
+
