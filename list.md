@@ -4,7 +4,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-25 commits.
+26 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Scrollbar.thickness` property is ignored when the `Scrollbar` is hovered
     <sub>[#144012](https://github.com/flutter/flutter/pull/144012) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144012) over 2 days, 11 additions and 9 deletions in 2 files</sub>
@@ -62,6 +62,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Move debugShowWidgetInspectorOverride
     <sub>[#144029](https://github.com/flutter/flutter/pull/144029) merged on February 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/144029) over 3 days, 46 additions and 31 deletions in 7 files</sub>
     <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Remove `bottomAppBarColor` from `ThemeData`
+    <sub>[#144080](https://github.com/flutter/flutter/pull/144080) merged on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144080) over 3 days, 10 additions and 66 deletions in 7 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[ufolux](https://github.com/ufolux)** &mdash; fix: unexpected chinese punctuation
     <sub>[#143678](https://github.com/flutter/flutter/pull/143678) merged on February 27, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/143678) over 1 week, 3 additions and 3 deletions in 1 file</sub>
@@ -1586,7 +1590,15 @@
 
 ### February 24, 2024 to March 1, 2024
 
-7 commits.
+9 commits.
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [google_maps_flutter_web] Migrate to package:web
+    <sub>[#5254](https://github.com/flutter/packages/pull/5254) merged on February 28, 2024 &mdash; **Medium:** [72 comments](https://github.com/flutter/packages/pull/5254) over 4 months, 276 additions and 88 deletions in 19 files</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [David Iglesias](https://github.com/ditman), [Srujan Gaddam](https://github.com/srujzs)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [pigeon] Remove heap allocation in generated C++ code
+    <sub>[#6196](https://github.com/flutter/packages/pull/6196) merged on February 28, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/packages/pull/6196) over 4 days, 529 additions and 548 deletions in 9 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_map_flutter] Add style to widget - platform interface
     <sub>[#6197](https://github.com/flutter/packages/pull/6197) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6197) over 2 days, 59 additions and 4 deletions in 7 files</sub>
