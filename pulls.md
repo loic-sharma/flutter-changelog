@@ -71,9 +71,6 @@
 * **[Charles](https://github.com/lijianqiang12)** &mdash; fix: fix timePicker padding between apm and time textField when apm o…<br />
     <sub>[#144138](https://github.com/flutter/flutter/pull/144138) opened on on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144138) 3 additions and 1 deletion in 1 file</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Catch rpc error in render frame with raster stats<br />
-    <sub>[#144190](https://github.com/flutter/flutter/pull/144190) opened on on February 27, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/144190) 109 additions and 50 deletions in 10 files</sub><br />
-
 * **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Remove `throwOnPluginPubspecError` flag for plugin validation<br />
     <sub>[#144214](https://github.com/flutter/flutter/pull/144214) opened on on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144214) 7 additions and 82 deletions in 2 files</sub><br />
 
@@ -88,4 +85,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland Activate InkSparkle on CanvasKit<br />
     <sub>[#144314](https://github.com/flutter/flutter/pull/144314) opened on on February 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144314) 16 additions and 15 deletions in 7 files</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland "Cache FocusNode.enclosingScope, clean up descendantsAreFocusable (#144207)"<br />
+    <sub>[#144330](https://github.com/flutter/flutter/pull/144330) opened on on February 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144330) 113 additions and 39 deletions in 4 files</sub><br />
 
