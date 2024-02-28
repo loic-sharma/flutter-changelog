@@ -1654,7 +1654,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-10 commits.
+11 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [google_maps_flutter_web] Migrate to package:web<br />
     <sub>[#5254](https://github.com/flutter/packages/pull/5254) merged on February 28, 2024 &mdash; **Medium:** [78 comments](https://github.com/flutter/packages/pull/5254) over 4 months, 276 additions and 88 deletions in 19 files</sub><br />
@@ -1671,6 +1671,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_map_flutter] Add style to widget - platform interface<br />
     <sub>[#6197](https://github.com/flutter/packages/pull/6197) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6197) over 2 days, 59 additions and 4 deletions in 7 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Add library annotations for js interop<br />
+    <sub>[#6216](https://github.com/flutter/packages/pull/6216) merged on February 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6216) over 1 hour, 18 additions and 3 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Allows kotlin generator to skip error class generation<br />
     <sub>[#6183](https://github.com/flutter/packages/pull/6183) merged on February 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6183) over 4 days, 86 additions and 100 deletions in 8 files</sub><br />
