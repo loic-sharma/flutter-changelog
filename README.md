@@ -4,20 +4,20 @@
 
 ### February 24, 2024 to March 1, 2024
 
-37 commits.
+38 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Scrollbar.thickness` property is ignored when the `Scrollbar` is hovered<br />
     <sub>[#144012](https://github.com/flutter/flutter/pull/144012) merged on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144012) over 2 days, 11 additions and 9 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
     <sub><details><summary>2 images...</summary><img src="https://github.com/flutter/flutter/assets/48603081/3537d60d-a5b2-488d-aa99-4c36c3721657"  /><img src="https://github.com/flutter/flutter/assets/48603081/cfd02095-a327-4b16-8ece-0d1c9e6813ce" /></details></sub>
 
-* **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Differentiate pubspec and resolution errors for plugins<br />
-    <sub>[#142035](https://github.com/flutter/flutter/pull/142035) merged on February 26, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/142035) over 1 month, 85 additions and 27 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add FlutterMacOS.xcframework artifact<br />
     <sub>[#143244](https://github.com/flutter/flutter/pull/143244) merged on February 27, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/143244) over 2 weeks, 322 additions and 83 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Differentiate pubspec and resolution errors for plugins<br />
+    <sub>[#142035](https://github.com/flutter/flutter/pull/142035) merged on February 26, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/142035) over 1 month, 85 additions and 27 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing `switch` expressions in `rendering/`<br />
     <sub>[#143812](https://github.com/flutter/flutter/pull/143812) merged on February 26, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/143812) over 5 days, 366 additions and 604 deletions in 17 files</sub><br />
@@ -26,6 +26,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove strut migration flag from `TextPainter`<br />
     <sub>[#144242](https://github.com/flutter/flutter/pull/144242) merged on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144242) over 51 minutes, 30 additions and 27 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Catch rpc error in render frame with raster stats<br />
+    <sub>[#144190](https://github.com/flutter/flutter/pull/144190) merged on February 28, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/144190) over 1 day, 109 additions and 50 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `tabs_utils.dart` class<br />
     <sub>[#143937](https://github.com/flutter/flutter/pull/143937) merged on February 28, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/143937) over 5 days, 377 additions and 360 deletions in 2 files</sub><br />
@@ -43,21 +47,17 @@
     <sub>[#143675](https://github.com/flutter/flutter/pull/143675) merged on February 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/143675) over 1 week, 20 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Manual roll Flutter Engine 2461280c38b7 to c79117b706e9<br />
-    <sub>[#144290](https://github.com/flutter/flutter/pull/144290) merged on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144290) over 42 minutes, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Manual roll Flutter Engine c79117b706e9 to 64a375de9c8f<br />
-    <sub>[#144293](https://github.com/flutter/flutter/pull/144293) merged on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144293) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+* **[Alex Li](https://github.com/AlexV525)** &mdash; 🛡️ Guard Flutter Android app by disallow task affinity by default<br />
+    <sub>[#144018](https://github.com/flutter/flutter/pull/144018) merged on February 28, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/144018) over 5 days, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Manual roll Flutter Engine 5e0d9ba35dd5 to 2461280c38b7<br />
     <sub>[#144288](https://github.com/flutter/flutter/pull/144288) merged on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144288) over 43 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Alex Li](https://github.com/AlexV525)** &mdash; 🛡️ Guard Flutter Android app by disallow task affinity by default<br />
-    <sub>[#144018](https://github.com/flutter/flutter/pull/144018) merged on February 28, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/144018) over 5 days, 1 addition and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Manual roll Flutter Engine 2461280c38b7 to c79117b706e9<br />
+    <sub>[#144290](https://github.com/flutter/flutter/pull/144290) merged on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144290) over 42 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Manual roll Flutter Engine fe7ea6d9c34f to 5e0d9ba35dd5<br />
     <sub>[#144285](https://github.com/flutter/flutter/pull/144285) merged on February 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144285) over 42 minutes, 1 addition and 1 deletion in 1 file</sub><br />
@@ -91,10 +91,6 @@
     <sub>[#144113](https://github.com/flutter/flutter/pull/144113) merged on February 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144113) over 1 day, 13 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Manual roll Flutter Engine 8acc96d405d0 to 91898e397261<br />
-    <sub>[#144316](https://github.com/flutter/flutter/pull/144316) merged on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144316) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Move debugShowWidgetInspectorOverride<br />
     <sub>[#144029](https://github.com/flutter/flutter/pull/144029) merged on February 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/144029) over 3 days, 46 additions and 31 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
@@ -103,9 +99,13 @@
     <sub>[#144296](https://github.com/flutter/flutter/pull/144296) merged on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144296) over 52 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Remove `bottomAppBarColor` from `ThemeData`<br />
-    <sub>[#144080](https://github.com/flutter/flutter/pull/144080) merged on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144080) over 3 days, 10 additions and 66 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Manual roll Flutter Engine c79117b706e9 to 64a375de9c8f<br />
+    <sub>[#144293](https://github.com/flutter/flutter/pull/144293) merged on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144293) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Manual roll Flutter Engine 8acc96d405d0 to 91898e397261<br />
+    <sub>[#144316](https://github.com/flutter/flutter/pull/144316) merged on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144316) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove deprecated `CupertinoContextMenu.previewBuilder`<br />
     <sub>[#143990](https://github.com/flutter/flutter/pull/143990) merged on February 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/143990) over 4 days, 22 additions and 111 deletions in 1 file</sub><br />
@@ -130,6 +130,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Cache `FocusNode.enclosingScope`, clean up `descendantsAreFocusable` (#144207)"<br />
     <sub>[#144292](https://github.com/flutter/flutter/pull/144292) merged on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144292) over 1 minute, 27 additions and 49 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Remove `bottomAppBarColor` from `ThemeData`<br />
+    <sub>[#144080](https://github.com/flutter/flutter/pull/144080) merged on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144080) over 3 days, 10 additions and 66 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update copyDirectory to allow links to not be followed<br />
     <sub>[#144040](https://github.com/flutter/flutter/pull/144040) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144040) over 2 days, 109 additions and 1 deletion in 2 files</sub><br />
