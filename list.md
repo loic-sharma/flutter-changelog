@@ -847,7 +847,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Clip pictures if they go beyond the bounds of the window.
-    <sub>[#50887](https://github.com/flutter/engine/pull/50887) merged on February 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/50887) over 4 days, 70 additions and 5 deletions in 3 files</sub>
+    <sub>[#50887](https://github.com/flutter/engine/pull/50887) merged on February 27, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50887) over 4 days, 70 additions and 5 deletions in 3 files</sub>
     <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix GL depth state.
