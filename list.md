@@ -1634,7 +1634,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-9 commits.
+10 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [google_maps_flutter_web] Migrate to package:web
     <sub>[#5254](https://github.com/flutter/packages/pull/5254) merged on February 28, 2024 &mdash; **Medium:** [74 comments](https://github.com/flutter/packages/pull/5254) over 4 months, 276 additions and 88 deletions in 19 files</sub>
@@ -1643,6 +1643,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [pigeon] Remove heap allocation in generated C++ code
     <sub>[#6196](https://github.com/flutter/packages/pull/6196) merged on February 28, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/packages/pull/6196) over 4 days, 529 additions and 548 deletions in 9 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_map_flutter] Add style to widget - platform impls
+    <sub>[#6205](https://github.com/flutter/packages/pull/6205) merged on February 28, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/6205) over 1 day, 426 additions and 92 deletions in 30 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_map_flutter] Add style to widget - platform interface
     <sub>[#6197](https://github.com/flutter/packages/pull/6197) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6197) over 2 days, 59 additions and 4 deletions in 7 files</sub>
