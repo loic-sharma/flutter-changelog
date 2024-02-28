@@ -100,7 +100,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[ufolux](https://github.com/ufolux)** &mdash; fix: unexpected chinese punctuation
-    <sub>[#143678](https://github.com/flutter/flutter/pull/143678) merged on February 27, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/143678) over 1 week, 3 additions and 3 deletions in 1 file</sub>
+    <sub>[#143678](https://github.com/flutter/flutter/pull/143678) merged on February 27, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/143678) over 1 week, 3 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove deprecated `CupertinoContextMenu.previewBuilder`
