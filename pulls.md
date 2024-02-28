@@ -92,3 +92,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland Activate InkSparkle on CanvasKit<br />
     <sub>[#144314](https://github.com/flutter/flutter/pull/144314) opened on on February 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144314) 16 additions and 15 deletions in 7 files</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Manual roll Flutter Engine 8acc96d405d0 to 91898e397261<br />
+    <sub>[#144316](https://github.com/flutter/flutter/pull/144316) opened on on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144316) 1 addition and 1 deletion in 1 file</sub><br />
+
