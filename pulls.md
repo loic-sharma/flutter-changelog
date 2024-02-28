@@ -86,9 +86,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland Activate InkSparkle on CanvasKit<br />
     <sub>[#144314](https://github.com/flutter/flutter/pull/144314) opened on on February 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144314) 16 additions and 15 deletions in 7 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix chips use square delete button `InkWell` shape instead of circular<br />
-    <sub>[#144319](https://github.com/flutter/flutter/pull/144319) opened on on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144319) 57 additions and 0 deletions in 2 files</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland "Cache FocusNode.enclosingScope, clean up descendantsAreFocusable (#144207)"<br />
     <sub>[#144330](https://github.com/flutter/flutter/pull/144330) opened on on February 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144330) 113 additions and 39 deletions in 4 files</sub><br />
 
