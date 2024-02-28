@@ -89,6 +89,3 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add `FocusNode.focusabilityListenable`<br />
     <sub>[#144280](https://github.com/flutter/flutter/pull/144280) opened on on February 28, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/144280) 602 additions and 10 deletions in 3 files</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Manual roll Flutter Engine fe7ea6d9c34f to 5e0d9ba35dd5<br />
-    <sub>[#144285](https://github.com/flutter/flutter/pull/144285) opened on on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144285) 1 addition and 1 deletion in 1 file</sub><br />
-
