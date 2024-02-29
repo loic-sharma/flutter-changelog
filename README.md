@@ -1779,7 +1779,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-12 commits.
+13 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [google_maps_flutter_web] Migrate to package:web<br />
     <sub>[#5254](https://github.com/flutter/packages/pull/5254) merged on February 28, 2024 &mdash; **Medium:** [78 comments](https://github.com/flutter/packages/pull/5254) over 4 months, 276 additions and 88 deletions in 19 files</sub><br />
@@ -1828,6 +1828,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Ignore GeneratedPluginRegistrant.swift for `format`<br />
     <sub>[#6195](https://github.com/flutter/packages/pull/6195) merged on February 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6195) over 2 days, 48 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from abb292a07e20 to 7482962148e8 (1 revision)<br />
+    <sub>[#6230](https://github.com/flutter/packages/pull/6230) merged on February 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6230) over 37 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### February 17, 2024 to February 23, 2024
 
