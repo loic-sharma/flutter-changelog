@@ -47,6 +47,9 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; ResizingHeaderSliver<br />
     <sub>[#143325](https://github.com/flutter/flutter/pull/143325) opened on on February 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143325) 507 additions and 0 deletions in 5 files</sub><br />
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; SliverCoordinator, CoordinatedSliver<br />
+    <sub>[#143538](https://github.com/flutter/flutter/pull/143538) opened on on February 15, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143538) 658 additions and 0 deletions in 5 files</sub><br />
+
 * **[Nawaf.](https://github.com/nawafalomari)** &mdash; fix: fix `lockUpButtonLabel` arabic translation<br />
     <sub>[#143638](https://github.com/flutter/flutter/pull/143638) opened on on February 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143638) 4 additions and 4 deletions in 4 files</sub><br />
 
@@ -60,13 +63,10 @@
     <sub>[#143939](https://github.com/flutter/flutter/pull/143939) opened on on February 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143939) 75 additions and 8 deletions in 2 files</sub><br />
 
 * **[Zayd Krunz](https://github.com/ShrootBuck)** &mdash; Redundant message fix<br />
-    <sub>[#143978](https://github.com/flutter/flutter/pull/143978) opened on on February 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143978) 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#143978](https://github.com/flutter/flutter/pull/143978) opened on on February 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143978) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Add `MaterialStateTextStyle` constructor with built-in `MaterialPropertyResolver`<br />
     <sub>[#144091](https://github.com/flutter/flutter/pull/144091) opened on on February 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144091) 155 additions and 5 deletions in 2 files</sub><br />
-
-* **[jd-bus](https://github.com/jd-bus)** &mdash; clarify other reason for failing to connect<br />
-    <sub>[#144095](https://github.com/flutter/flutter/pull/144095) opened on on February 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144095) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Charles](https://github.com/lijianqiang12)** &mdash; fix: fix timePicker padding between apm and time textField when apm o…<br />
     <sub>[#144138](https://github.com/flutter/flutter/pull/144138) opened on on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144138) 3 additions and 1 deletion in 1 file</sub><br />
@@ -82,7 +82,4 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds Missing `onHover` & `onFocusChange` for `OutlinedButton.icon`<br />
     <sub>[#144374](https://github.com/flutter/flutter/pull/144374) opened on on February 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144374) 175 additions and 0 deletions in 2 files</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Always use local CanvasKit/Skwasm in benchmarks for better hermeticity.<br />
-    <sub>[#144423](https://github.com/flutter/flutter/pull/144423) opened on on February 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144423) 5 additions and 1 deletion in 1 file</sub><br />
 
