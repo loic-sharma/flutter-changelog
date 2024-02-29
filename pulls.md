@@ -12,7 +12,7 @@
     <sub>[#138025](https://github.com/flutter/flutter/pull/138025) opened on on November 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138025) 150 additions and 30 deletions in 2 files</sub><br />
 
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Prevent full rebuilds when rerunning `flutter test`.<br />
-    <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/140284) 144 additions and 7 deletions in 2 files</sub><br />
+    <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/140284) 144 additions and 7 deletions in 2 files</sub><br />
 
 * **[Sébastien Batézat](https://github.com/sbatezat)** &mdash; feat(popup_menu): add the ability to set route settings on PopupMenuB…<br />
     <sub>[#140373](https://github.com/flutter/flutter/pull/140373) opened on on December 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140373) 7 additions and 0 deletions in 1 file</sub><br />
