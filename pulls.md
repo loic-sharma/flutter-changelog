@@ -84,5 +84,5 @@
     <sub>[#144374](https://github.com/flutter/flutter/pull/144374) opened on on February 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144374) 174 additions and 0 deletions in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Horizontally expand text selection toolbar buttons in overflow menu<br />
-    <sub>[#144391](https://github.com/flutter/flutter/pull/144391) opened on on February 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144391) 112 additions and 4 deletions in 4 files</sub><br />
+    <sub>[#144391](https://github.com/flutter/flutter/pull/144391) opened on on February 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144391) 98 additions and 4 deletions in 4 files</sub><br />
 
