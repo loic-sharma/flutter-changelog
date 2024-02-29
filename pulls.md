@@ -68,9 +68,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Add `MaterialStateTextStyle` constructor with built-in `MaterialPropertyResolver`<br />
     <sub>[#144091](https://github.com/flutter/flutter/pull/144091) opened on on February 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144091) 155 additions and 5 deletions in 2 files</sub><br />
 
-* **[Charles](https://github.com/lijianqiang12)** &mdash; fix: fix timePicker padding between apm and time textField when apm o…<br />
-    <sub>[#144138](https://github.com/flutter/flutter/pull/144138) opened on on February 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144138) 3 additions and 1 deletion in 1 file</sub><br />
-
 * **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Remove `throwOnPluginPubspecError` flag for plugin validation<br />
     <sub>[#144214](https://github.com/flutter/flutter/pull/144214) opened on on February 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144214) 7 additions and 82 deletions in 2 files</sub><br />
 
