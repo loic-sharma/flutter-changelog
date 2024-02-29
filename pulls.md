@@ -83,3 +83,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds Missing `onHover` & `onFocusChange` for `OutlinedButton.icon`<br />
     <sub>[#144374](https://github.com/flutter/flutter/pull/144374) opened on on February 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144374) 175 additions and 0 deletions in 2 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Always use local CanvasKit/Skwasm in benchmarks for better hermeticity.<br />
+    <sub>[#144423](https://github.com/flutter/flutter/pull/144423) opened on on February 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144423) 5 additions and 1 deletion in 1 file</sub><br />
+
