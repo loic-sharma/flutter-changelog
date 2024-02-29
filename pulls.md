@@ -59,9 +59,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Introduce `labelStyle` for `SnackBarAction` & `actionLabelStyle` for `SnackBarThemeData`<br />
     <sub>[#143865](https://github.com/flutter/flutter/pull/143865) opened on on February 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/143865) 91 additions and 2 deletions in 4 files</sub><br />
 
-* **[Dacian Florea](https://github.com/dacianf)** &mdash; Added filter callback on dropdown menu<br />
-    <sub>[#143939](https://github.com/flutter/flutter/pull/143939) opened on on February 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/143939) 75 additions and 8 deletions in 2 files</sub><br />
-
 * **[Zayd Krunz](https://github.com/ShrootBuck)** &mdash; Redundant message fix<br />
     <sub>[#143978](https://github.com/flutter/flutter/pull/143978) opened on on February 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143978) 2 additions and 2 deletions in 1 file</sub><br />
 
@@ -79,4 +76,7 @@
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update a11y for SliverAppBar<br />
     <sub>[#144437](https://github.com/flutter/flutter/pull/144437) opened on on February 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144437) 170 additions and 7 deletions in 4 files</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable missing-code-block-language<br />
+    <sub>[#144443](https://github.com/flutter/flutter/pull/144443) opened on on February 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144443) 1 addition and 1 deletion in 1 file</sub><br />
 
