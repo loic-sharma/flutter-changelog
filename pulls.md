@@ -83,3 +83,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds Missing `onHover` & `onFocusChange` for `OutlinedButton.icon`<br />
     <sub>[#144374](https://github.com/flutter/flutter/pull/144374) opened on on February 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144374) 175 additions and 0 deletions in 2 files</sub><br />
 
+* **[hangyu](https://github.com/hangyujin)** &mdash; Update a11y for SliverAppBar<br />
+    <sub>[#144437](https://github.com/flutter/flutter/pull/144437) opened on on February 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144437) 170 additions and 7 deletions in 4 files</sub><br />
+
