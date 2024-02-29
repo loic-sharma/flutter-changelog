@@ -1803,7 +1803,7 @@
 
 ### February 24, 2024 to March 1, 2024
 
-14 commits.
+15 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [google_maps_flutter_web] Migrate to package:web
     <sub>[#5254](https://github.com/flutter/packages/pull/5254) merged on February 28, 2024 &mdash; **Medium:** [78 comments](https://github.com/flutter/packages/pull/5254) over 4 months, 276 additions and 88 deletions in 19 files</sub>
@@ -1816,6 +1816,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [pigeon] Remove heap allocation in generated C++ code
     <sub>[#6196](https://github.com/flutter/packages/pull/6196) merged on February 28, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/packages/pull/6196) over 4 days, 529 additions and 548 deletions in 9 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Standardize Obj-C doc comment style
+    <sub>[#6232](https://github.com/flutter/packages/pull/6232) merged on February 29, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/packages/pull/6232) over 52 minutes, 474 additions and 761 deletions in 45 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add support for marker clustering - platform interface
     <sub>[#6158](https://github.com/flutter/packages/pull/6158) merged on February 29, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/packages/pull/6158) over 1 week, 455 additions and 4 deletions in 19 files</sub>
