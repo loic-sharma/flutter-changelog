@@ -1766,7 +1766,7 @@
     <sub>[#50613](https://github.com/flutter/engine/pull/50613) merged on February 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50613) over 1 day, 22 additions and 10 deletions in 3 files</sub>
     <sub>Reviewed by: [Casey Hillers](https://github.com/CaseyHillers)</sub>
 
-* **[Jesse Seales](https://github.com/sealesj)** &mdash; Pin OSV-Scanner reusable workflow
+* **[Jesse](https://github.com/sealesj)** &mdash; Pin OSV-Scanner reusable workflow
     <sub>[#50649](https://github.com/flutter/engine/pull/50649) merged on February 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50649) over 23 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
