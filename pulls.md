@@ -71,6 +71,3 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove unnecessary (and the only) `RenderObject.markParentNeedsLayout` override<br />
     <sub>[#144466](https://github.com/flutter/flutter/pull/144466) opened on on March 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144466) 0 additions and 13 deletions in 1 file</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `showDateRangePicker` is missing `dartpad` tag and cleanup<br />
-    <sub>[#144475](https://github.com/flutter/flutter/pull/144475) opened on on March 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144475) 5 additions and 7 deletions in 3 files</sub><br />
-
