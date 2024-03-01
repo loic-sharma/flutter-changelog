@@ -1923,11 +1923,15 @@
 
 ### February 24, 2024 to March 1, 2024
 
-15 commits.
+16 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [google_maps_flutter_web] Migrate to package:web
     <sub>[#5254](https://github.com/flutter/packages/pull/5254) merged on February 28, 2024 &mdash; **Medium:** [78 comments](https://github.com/flutter/packages/pull/5254) over 4 months, 276 additions and 88 deletions in 19 files</sub>
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [David Iglesias](https://github.com/ditman), [Srujan Gaddam](https://github.com/srujzs)</sub>
+
+* **[Sergei](https://github.com/sergeidesenko)** &mdash; [camera_avfoundation] Set highest available resolution for ResolutionPreset.Max
+    <sub>[#5245](https://github.com/flutter/packages/pull/5245) merged on March 1, 2024 &mdash; **Small:** [89 comments](https://github.com/flutter/packages/pull/5245) over 4 months, 244 additions and 6 deletions in 9 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Add `style` to widget
     <sub>[#6192](https://github.com/flutter/packages/pull/6192) merged on February 28, 2024 &mdash; **Small:** [27 comments](https://github.com/flutter/packages/pull/6192) over 5 days, 107 additions and 27 deletions in 8 files</sub>
