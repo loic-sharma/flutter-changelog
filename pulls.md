@@ -71,12 +71,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Add missing parameter to `TableBorder.symmetric`, and improve class constructors<br />
     <sub>[#144279](https://github.com/flutter/flutter/pull/144279) opened on on February 28, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/144279) 178 additions and 298 deletions in 26 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland Activate InkSparkle on CanvasKit<br />
-    <sub>[#144314](https://github.com/flutter/flutter/pull/144314) opened on on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144314) 16 additions and 15 deletions in 7 files</sub><br />
-
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update a11y for SliverAppBar<br />
     <sub>[#144437](https://github.com/flutter/flutter/pull/144437) opened on on February 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144437) 170 additions and 7 deletions in 4 files</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable missing-code-block-language<br />
-    <sub>[#144443](https://github.com/flutter/flutter/pull/144443) opened on on February 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144443) 1 addition and 1 deletion in 1 file</sub><br />
 
