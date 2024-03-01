@@ -976,7 +976,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] test removal of submit batching.
-    <sub>[#51094](https://github.com/flutter/engine/pull/51094) merged on February 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51094) over 1 hour, 2 additions and 11 deletions in 1 file</sub>
+    <sub>[#51094](https://github.com/flutter/engine/pull/51094) merged on February 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51094) over 1 hour, 2 additions and 11 deletions in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Use RBE for mac_clang_tidy
