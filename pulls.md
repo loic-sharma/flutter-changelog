@@ -71,3 +71,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove unnecessary (and the only) `RenderObject.markParentNeedsLayout` override<br />
     <sub>[#144466](https://github.com/flutter/flutter/pull/144466) opened on on March 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144466) 0 additions and 13 deletions in 1 file</sub><br />
 
+* **[Tirth](https://github.com/piedcipher)** &mdash; Fix Small Typo in Skia_Client Doc Comment<br />
+    <sub>[#144490](https://github.com/flutter/flutter/pull/144490) opened on on March 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144490) 1 addition and 1 deletion in 1 file</sub><br />
+
