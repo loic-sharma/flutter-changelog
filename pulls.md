@@ -11,6 +11,9 @@
 * **[Maximilian Fischer](https://github.com/fischerscode)** &mdash; Move expansion state of `ExpansionTile` to `ExpansionTileController`<br />
     <sub>[#138025](https://github.com/flutter/flutter/pull/138025) opened on on November 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138025) 150 additions and 30 deletions in 2 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; custom tool analysis<br />
+    <sub>[#140122](https://github.com/flutter/flutter/pull/140122) opened on on December 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140122) 139 additions and 8 deletions in 6 files</sub><br />
+
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Prevent full rebuilds when rerunning `flutter test`.<br />
     <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/140284) 147 additions and 10 deletions in 3 files</sub><br />
 

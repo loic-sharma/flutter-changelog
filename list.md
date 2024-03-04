@@ -4,7 +4,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-7 commits.
+8 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix text color for default CupertinoContextMenuAction
     <sub>[#144542](https://github.com/flutter/flutter/pull/144542) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144542) over 7 hours, 18 additions and 10 deletions in 2 files</sub>
@@ -18,6 +18,10 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Doc fix for `DropdownButtonFormField.value`
     <sub>[#144427](https://github.com/flutter/flutter/pull/144427) merged on March 4, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/144427) over 3 days, 5 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Print warning and exit when iOS device is unpaired
+    <sub>[#144551](https://github.com/flutter/flutter/pull/144551) merged on March 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144551) over 5 hours, 109 additions and 17 deletions in 9 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Fix Small Typo in Skia_Client Doc Comment
     <sub>[#144490](https://github.com/flutter/flutter/pull/144490) merged on March 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144490) over 2 days, 1 addition and 1 deletion in 1 file</sub>
