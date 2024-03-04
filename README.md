@@ -584,7 +584,11 @@
 
 ### March 2, 2024 to March 8, 2024
 
-1 commits.
+2 commits.
+
+* **[Liam Appelbe](https://github.com/liamappelbe)** &mdash; Experimental platform isolates API<br />
+    <sub>[#48551](https://github.com/flutter/engine/pull/48551) merged on March 4, 2024 &mdash; **Extra large:** [168 comments](https://github.com/flutter/engine/pull/48551) over 3 months, 1775 additions and 16 deletions in 36 files</sub><br />
+    <sub>Reviewed by: [Ryan Macnak](https://github.com/rmacnak-google), [Martin Kustermann](https://github.com/mkustermann), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix custom FlValue API not being exported<br />
     <sub>[#51154](https://github.com/flutter/engine/pull/51154) merged on March 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51154) over 3 hours, 30 additions and 21 deletions in 6 files</sub><br />
