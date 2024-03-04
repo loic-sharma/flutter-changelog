@@ -71,3 +71,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [CP-stable] tch rpc error in render frame with raster stats<br />
     <sub>[#144564](https://github.com/flutter/flutter/pull/144564) opened on on March 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144564) 109 additions and 50 deletions in 9 files</sub><br />
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Do not shorten native assets framework names<br />
+    <sub>[#144568](https://github.com/flutter/flutter/pull/144568) opened on on March 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144568) 4 additions and 13 deletions in 2 files</sub><br />
+
