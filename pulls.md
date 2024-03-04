@@ -78,5 +78,5 @@
     <sub>[#144506](https://github.com/flutter/flutter/pull/144506) opened on on March 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144506) 64 additions and 141 deletions in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Restorable CupertinoTextFormFieldRow<br />
-    <sub>[#144541](https://github.com/flutter/flutter/pull/144541) opened on on March 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/144541) 340 additions and 56 deletions in 2 files</sub><br />
+    <sub>[#144541](https://github.com/flutter/flutter/pull/144541) opened on on March 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/144541) 339 additions and 56 deletions in 2 files</sub><br />
 
