@@ -624,7 +624,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-9 commits.
+12 commits.
 
 * **[Liam Appelbe](https://github.com/liamappelbe)** &mdash; Experimental platform isolates API<br />
     <sub>[#48551](https://github.com/flutter/engine/pull/48551) merged on March 4, 2024 &mdash; **Extra large:** [168 comments](https://github.com/flutter/engine/pull/48551) over 3 months, 1775 additions and 16 deletions in 36 files</sub><br />
@@ -633,6 +633,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements blur styles inner and outer<br />
     <sub>[#51018](https://github.com/flutter/engine/pull/51018) merged on March 4, 2024 &mdash; **Small:** [59 comments](https://github.com/flutter/engine/pull/51018) over 5 days, 199 additions and 42 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Re-land] Remove WindowManager reflection in SingleViewPresentation.java<br />
+    <sub>[#50890](https://github.com/flutter/engine/pull/50890) merged on March 4, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50890) over 1 week, 354 additions and 158 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Jia Hao](https://github.com/jiahaog)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Scenario App: Adds a `run_{count}.{backend}.` file prefix to every run (on CI)<br />
     <sub>[#51102](https://github.com/flutter/engine/pull/51102) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51102) over 3 days, 78 additions and 5 deletions in 2 files</sub><br />
@@ -646,6 +650,10 @@
     <sub>[#51126](https://github.com/flutter/engine/pull/51126) merged on March 4, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/51126) over 3 days, 1349 additions and 102 deletions in 29 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix string comparison in MockGLES.CanInitialize test<br />
+    <sub>[#51181](https://github.com/flutter/engine/pull/51181) merged on March 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51181) over 1 hour, 3 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Support gtest-parallel when running Impeller unit tests<br />
     <sub>[#51079](https://github.com/flutter/engine/pull/51079) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51079) over 4 days, 68 additions and 8 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub><br />
@@ -653,6 +661,10 @@
 * **[Dan Field](https://github.com/dnfield)** &mdash; Guard against API 22<br />
     <sub>[#51167](https://github.com/flutter/engine/pull/51167) merged on March 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51167) over 1 hour, 3 additions and 167 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Ian McKellar](https://github.com/ianloic)** &mdash; [fuchsia] Prepare for @transitional removal<br />
+    <sub>[#51185](https://github.com/flutter/engine/pull/51185) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51185) over 36 minutes, 4 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Tom Robinson](https://github.com/tarobins)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix the clip replay mechanism.<br />
     <sub>[#51173](https://github.com/flutter/engine/pull/51173) merged on March 4, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51173) over 3 hours, 10 additions and 6 deletions in 3 files</sub><br />
