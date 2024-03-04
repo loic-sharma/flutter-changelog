@@ -68,9 +68,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update a11y for SliverAppBar<br />
     <sub>[#144437](https://github.com/flutter/flutter/pull/144437) opened on on February 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144437) 170 additions and 7 deletions in 4 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove unnecessary (and the only) `RenderObject.markParentNeedsLayout` override<br />
-    <sub>[#144466](https://github.com/flutter/flutter/pull/144466) opened on on March 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144466) 0 additions and 13 deletions in 1 file</sub><br />
-
 * **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Perform plugin resolution per platform<br />
     <sub>[#144506](https://github.com/flutter/flutter/pull/144506) opened on on March 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144506) 64 additions and 141 deletions in 2 files</sub><br />
 
