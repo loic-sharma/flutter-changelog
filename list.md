@@ -582,9 +582,18 @@
 
 ## flutter/engine
 
+### March 2, 2024 to March 8, 2024
+
+1 commits.
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix custom FlValue API not being exported
+    <sub>[#51154](https://github.com/flutter/engine/pull/51154) merged on March 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51154) over 3 hours, 30 additions and 21 deletions in 6 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
 ### February 24, 2024 to March 1, 2024
 
-80 commits.
+<details>
+<summary>80 commits...</summary>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Use CVDisplayLink to drive repaint
     <sub>[#49159](https://github.com/flutter/engine/pull/49159) merged on February 27, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/engine/pull/49159) over 2 months, 1112 additions and 36 deletions in 23 files</sub>
@@ -907,6 +916,8 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert "[skwasm] Clip pictures if they go beyond the bounds of the window. (#50887)"
     <sub>[#51067](https://github.com/flutter/engine/pull/51067) merged on February 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51067) over 35 minutes, 5 additions and 70 deletions in 3 files</sub>
     <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+</details>
 
 ### February 17, 2024 to February 23, 2024
 
