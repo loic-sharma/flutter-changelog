@@ -81,7 +81,7 @@
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] Catch rpc error in render frame with raster stats
-    <sub>[#144190](https://github.com/flutter/flutter/pull/144190) merged on February 28, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/144190) over 1 day, 109 additions and 50 deletions in 10 files</sub>
+    <sub>[#144190](https://github.com/flutter/flutter/pull/144190) merged on February 28, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/144190) over 1 day, 109 additions and 50 deletions in 10 files</sub>
     <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak)</sub>
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Allow `Listenable.merge()` to use any iterable
