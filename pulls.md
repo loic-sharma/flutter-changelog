@@ -80,3 +80,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Restorable CupertinoTextFormFieldRow<br />
     <sub>[#144541](https://github.com/flutter/flutter/pull/144541) opened on on March 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/144541) 339 additions and 56 deletions in 2 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix text color for default CupertinoContextMenuAction<br />
+    <sub>[#144542](https://github.com/flutter/flutter/pull/144542) opened on on March 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144542) 18 additions and 10 deletions in 2 files</sub><br />
+
