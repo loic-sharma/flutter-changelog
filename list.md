@@ -4,7 +4,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-3 commits.
+4 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Doc fix for `DropdownButtonFormField.value`
     <sub>[#144427](https://github.com/flutter/flutter/pull/144427) merged on March 4, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/144427) over 3 days, 5 additions and 0 deletions in 2 files</sub>
@@ -13,6 +13,10 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Fix Small Typo in Skia_Client Doc Comment
     <sub>[#144490](https://github.com/flutter/flutter/pull/144490) merged on March 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144490) over 2 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Fix build mode not propagated in android native asset build
+    <sub>[#144550](https://github.com/flutter/flutter/pull/144550) merged on March 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144550) over 2 hours, 10 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Update keyboard modifiers link
     <sub>[#144426](https://github.com/flutter/flutter/pull/144426) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144426) over 3 days, 2 additions and 1 deletion in 1 file</sub>

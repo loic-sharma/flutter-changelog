@@ -65,12 +65,12 @@
 * **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Remove `throwOnPluginPubspecError` flag for plugin validation<br />
     <sub>[#144214](https://github.com/flutter/flutter/pull/144214) opened on on February 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144214) 7 additions and 82 deletions in 2 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea triple click gestures<br />
-    <sub>[#144263](https://github.com/flutter/flutter/pull/144263) opened on on February 27, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/144263) 1786 additions and 133 deletions in 8 files</sub><br />
-
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update a11y for SliverAppBar<br />
     <sub>[#144437](https://github.com/flutter/flutter/pull/144437) opened on on February 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144437) 170 additions and 7 deletions in 4 files</sub><br />
 
 * **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Perform plugin resolution per platform<br />
     <sub>[#144506](https://github.com/flutter/flutter/pull/144506) opened on on March 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144506) 64 additions and 141 deletions in 2 files</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea triple click gestures<br />
+    <sub>[#144563](https://github.com/flutter/flutter/pull/144563) opened on on March 4, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/144563) 1786 additions and 133 deletions in 8 files</sub><br />
 
