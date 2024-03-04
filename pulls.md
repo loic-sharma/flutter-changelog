@@ -77,3 +77,6 @@
 * **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Perform plugin resolution per platform<br />
     <sub>[#144506](https://github.com/flutter/flutter/pull/144506) opened on on March 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144506) 64 additions and 141 deletions in 2 files</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Print warning and exit when iOS device is unpaired<br />
+    <sub>[#144551](https://github.com/flutter/flutter/pull/144551) opened on on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144551) 115 additions and 23 deletions in 9 files</sub><br />
+
