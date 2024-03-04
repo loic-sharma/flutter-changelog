@@ -603,7 +603,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-4 commits.
+6 commits.
 
 * **[Liam Appelbe](https://github.com/liamappelbe)** &mdash; Experimental platform isolates API
     <sub>[#48551](https://github.com/flutter/engine/pull/48551) merged on March 4, 2024 &mdash; **Extra large:** [168 comments](https://github.com/flutter/engine/pull/48551) over 3 months, 1775 additions and 16 deletions in 36 files</sub>
@@ -612,6 +612,14 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements blur styles inner and outer
     <sub>[#51018](https://github.com/flutter/engine/pull/51018) merged on March 4, 2024 &mdash; **Small:** [59 comments](https://github.com/flutter/engine/pull/51018) over 5 days, 199 additions and 42 deletions in 10 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Scenario App: Adds a `run_{count}.{backend}.` file prefix to every run (on CI)
+    <sub>[#51102](https://github.com/flutter/engine/pull/51102) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51102) over 3 days, 78 additions and 5 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use Instrumentation.waitForIdleSync() after rotation requests.
+    <sub>[#51169](https://github.com/flutter/engine/pull/51169) merged on March 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51169) over 1 hour, 24 additions and 4 deletions in 4 files</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Guard against API 22
     <sub>[#51167](https://github.com/flutter/engine/pull/51167) merged on March 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51167) over 1 hour, 3 additions and 167 deletions in 3 files</sub>
