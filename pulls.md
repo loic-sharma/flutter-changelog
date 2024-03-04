@@ -68,9 +68,6 @@
 * **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Perform plugin resolution per platform<br />
     <sub>[#144506](https://github.com/flutter/flutter/pull/144506) opened on on March 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144506) 64 additions and 141 deletions in 2 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea triple click gestures<br />
-    <sub>[#144563](https://github.com/flutter/flutter/pull/144563) opened on on March 4, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/144563) 1786 additions and 133 deletions in 8 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [CP-stable] tch rpc error in render frame with raster stats<br />
     <sub>[#144564](https://github.com/flutter/flutter/pull/144564) opened on on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144564) 109 additions and 50 deletions in 9 files</sub><br />
 
