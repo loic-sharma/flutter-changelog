@@ -4,7 +4,11 @@
 
 ### March 2, 2024 to March 8, 2024
 
-1 commits.
+2 commits.
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Fix Small Typo in Skia_Client Doc Comment<br />
+    <sub>[#144490](https://github.com/flutter/flutter/pull/144490) merged on March 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144490) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Update keyboard modifiers link<br />
     <sub>[#144426](https://github.com/flutter/flutter/pull/144426) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144426) over 3 days, 2 additions and 1 deletion in 1 file</sub><br />
@@ -595,11 +599,15 @@
 
 ### March 2, 2024 to March 8, 2024
 
-2 commits.
+3 commits.
 
 * **[Liam Appelbe](https://github.com/liamappelbe)** &mdash; Experimental platform isolates API<br />
     <sub>[#48551](https://github.com/flutter/engine/pull/48551) merged on March 4, 2024 &mdash; **Extra large:** [168 comments](https://github.com/flutter/engine/pull/48551) over 3 months, 1775 additions and 16 deletions in 36 files</sub><br />
     <sub>Reviewed by: [Ryan Macnak](https://github.com/rmacnak-google), [Martin Kustermann](https://github.com/mkustermann), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements blur styles inner and outer<br />
+    <sub>[#51018](https://github.com/flutter/engine/pull/51018) merged on March 4, 2024 &mdash; **Small:** [59 comments](https://github.com/flutter/engine/pull/51018) over 5 days, 199 additions and 42 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix custom FlValue API not being exported<br />
     <sub>[#51154](https://github.com/flutter/engine/pull/51154) merged on March 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51154) over 3 hours, 30 additions and 21 deletions in 6 files</sub><br />
