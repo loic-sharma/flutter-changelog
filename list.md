@@ -4,7 +4,11 @@
 
 ### March 2, 2024 to March 8, 2024
 
-4 commits.
+5 commits.
+
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Add missing parameter to `TableBorder.symmetric`, and improve class constructors
+    <sub>[#144279](https://github.com/flutter/flutter/pull/144279) merged on March 4, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/144279) over 5 days, 196 additions and 357 deletions in 36 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Doc fix for `DropdownButtonFormField.value`
     <sub>[#144427](https://github.com/flutter/flutter/pull/144427) merged on March 4, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/144427) over 3 days, 5 additions and 0 deletions in 2 files</sub>
@@ -607,7 +611,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-6 commits.
+7 commits.
 
 * **[Liam Appelbe](https://github.com/liamappelbe)** &mdash; Experimental platform isolates API
     <sub>[#48551](https://github.com/flutter/engine/pull/48551) merged on March 4, 2024 &mdash; **Extra large:** [168 comments](https://github.com/flutter/engine/pull/48551) over 3 months, 1775 additions and 16 deletions in 36 files</sub>
@@ -624,6 +628,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use Instrumentation.waitForIdleSync() after rotation requests.
     <sub>[#51169](https://github.com/flutter/engine/pull/51169) merged on March 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51169) over 1 hour, 24 additions and 4 deletions in 4 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Support gtest-parallel when running Impeller unit tests
+    <sub>[#51079](https://github.com/flutter/engine/pull/51079) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51079) over 4 days, 68 additions and 8 deletions in 7 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Guard against API 22
     <sub>[#51167](https://github.com/flutter/engine/pull/51167) merged on March 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51167) over 1 hour, 3 additions and 167 deletions in 3 files</sub>
