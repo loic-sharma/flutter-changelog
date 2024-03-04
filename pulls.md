@@ -72,5 +72,5 @@
     <sub>[#144564](https://github.com/flutter/flutter/pull/144564) opened on on March 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144564) 109 additions and 50 deletions in 9 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Do not shorten native assets framework names<br />
-    <sub>[#144568](https://github.com/flutter/flutter/pull/144568) opened on on March 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144568) 4 additions and 13 deletions in 2 files</sub><br />
+    <sub>[#144568](https://github.com/flutter/flutter/pull/144568) opened on on March 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144568) 6 additions and 15 deletions in 3 files</sub><br />
 

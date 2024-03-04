@@ -1363,9 +1363,18 @@
 
 ## flutter/packages
 
+### March 2, 2024 to March 8, 2024
+
+1 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Make WebKitWebViewWidget unit tests stateless
+    <sub>[#6228](https://github.com/flutter/packages/pull/6228) merged on March 4, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/6228) over 4 days, 341 additions and 208 deletions in 1 file</sub>
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
 ### February 24, 2024 to March 1, 2024
 
-16 commits.
+<details>
+<summary>16 commits...</summary>
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [google_maps_flutter_web] Migrate to package:web
     <sub>[#5254](https://github.com/flutter/packages/pull/5254) merged on February 28, 2024 &mdash; **Medium:** [78 comments](https://github.com/flutter/packages/pull/5254) over 4 months, 276 additions and 88 deletions in 19 files</sub>
@@ -1430,6 +1439,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from abb292a07e20 to 7482962148e8 (1 revision)
     <sub>[#6230](https://github.com/flutter/packages/pull/6230) merged on February 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6230) over 37 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### February 17, 2024 to February 23, 2024
 
