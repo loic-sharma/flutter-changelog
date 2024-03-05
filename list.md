@@ -19,6 +19,10 @@
     <sub>[#144427](https://github.com/flutter/flutter/pull/144427) merged on March 4, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/144427) over 3 days, 5 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated the TextButton image button example artwork
+    <sub>[#144583](https://github.com/flutter/flutter/pull/144583) merged on March 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144583) over 1 hour, 54 additions and 13 deletions in 2 files</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Print warning and exit when iOS device is unpaired
     <sub>[#144551](https://github.com/flutter/flutter/pull/144551) merged on March 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144551) over 5 hours, 109 additions and 17 deletions in 9 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub>
@@ -38,10 +42,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Update keyboard modifiers link
     <sub>[#144426](https://github.com/flutter/flutter/pull/144426) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144426) over 3 days, 2 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated the TextButton image button example artwork
-    <sub>[#144583](https://github.com/flutter/flutter/pull/144583) merged on March 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144583) over 1 hour, 54 additions and 13 deletions in 2 files</sub>
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove unnecessary (and the only) `RenderObject.markParentNeedsLayout` override
     <sub>[#144466](https://github.com/flutter/flutter/pull/144466) merged on March 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/144466) over 3 days, 2 additions and 15 deletions in 1 file</sub>
