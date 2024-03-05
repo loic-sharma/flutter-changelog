@@ -1394,7 +1394,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Remove unused drone_dimension field
-    <sub>[#50893](https://github.com/flutter/engine/pull/50893) merged on February 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/50893) over 48 minutes, 0 additions and 27 deletions in 1 file</sub>
+    <sub>[#50893](https://github.com/flutter/engine/pull/50893) merged on February 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/50893) over 48 minutes, 0 additions and 27 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Remove unused property from `Linux Web Framework tests`
@@ -1483,7 +1483,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-5 commits.
+6 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Make WebKitWebViewWidget unit tests stateless
     <sub>[#6228](https://github.com/flutter/packages/pull/6228) merged on March 4, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/6228) over 4 days, 341 additions and 208 deletions in 1 file</sub>
@@ -1496,6 +1496,10 @@
 * **[Patrick Zierahn](https://github.com/pzierahn)** &mdash; [flutter_markdown] Fix WidgetSpan Support in MarkdownElementBuilder
     <sub>[#6225](https://github.com/flutter/packages/pull/6225) merged on March 5, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/6225) over 4 days, 210 additions and 54 deletions in 5 files</sub>
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Use TrustedTypes from pkg web.
+    <sub>[#6273](https://github.com/flutter/packages/pull/6273) merged on March 5, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6273) over 30 minutes, 45 additions and 128 deletions in 9 files</sub>
+    <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Kevin Moore](https://github.com/kevmoo), [Srujan Gaddam](https://github.com/srujzs)</sub>
 
 * **[Gabriel Terwesten](https://github.com/blaugold)** &mdash; [in_app_purchase_storekit] Fix type of error code returned from native code in `SKReceiptManager.retrieveReceiptData`
     <sub>[#6265](https://github.com/flutter/packages/pull/6265) merged on March 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6265) over 10 hours, 10 additions and 4 deletions in 4 files</sub>
