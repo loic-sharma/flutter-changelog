@@ -77,9 +77,9 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Do not shorten native assets framework names<br />
     <sub>[#144568](https://github.com/flutter/flutter/pull/144568) opened on on March 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144568) 6 additions and 15 deletions in 3 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable super flakey impeller test.<br />
-    <sub>[#144573](https://github.com/flutter/flutter/pull/144573) opened on on March 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144573) 3 additions and 1 deletion in 1 file</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] measure GPU memory usage.<br />
     <sub>[#144575](https://github.com/flutter/flutter/pull/144575) opened on on March 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144575) 107 additions and 0 deletions in 4 files</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Use a separate `TextPainter` for intrinsics calculation in `RenderEditable` and `RenderParagraph`<br />
+    <sub>[#144577](https://github.com/flutter/flutter/pull/144577) opened on on March 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144577) 183 additions and 113 deletions in 3 files</sub><br />
 
