@@ -4,7 +4,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-12 commits.
+13 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix text color for default CupertinoContextMenuAction<br />
     <sub>[#144542](https://github.com/flutter/flutter/pull/144542) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144542) over 7 hours, 18 additions and 10 deletions in 2 files</sub><br />
@@ -54,6 +54,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove unnecessary (and the only) `RenderObject.markParentNeedsLayout` override<br />
     <sub>[#144466](https://github.com/flutter/flutter/pull/144466) merged on March 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/144466) over 3 days, 2 additions and 15 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Revert "_DefaultTabControllerState should dispose all created TabContoller instances. (#136608)"<br />
+    <sub>[#144579](https://github.com/flutter/flutter/pull/144579) merged on March 5, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/144579) over 18 hours, 6 additions and 19 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 ### February 24, 2024 to March 1, 2024
 
