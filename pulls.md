@@ -69,7 +69,7 @@
     <sub>[#144506](https://github.com/flutter/flutter/pull/144506) opened on on March 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144506) 64 additions and 141 deletions in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] measure GPU memory usage.<br />
-    <sub>[#144575](https://github.com/flutter/flutter/pull/144575) opened on on March 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144575) 107 additions and 0 deletions in 4 files</sub><br />
+    <sub>[#144575](https://github.com/flutter/flutter/pull/144575) opened on on March 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144575) 115 additions and 0 deletions in 5 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Use a separate `TextPainter` for intrinsics calculation in `RenderEditable` and `RenderParagraph`<br />
     <sub>[#144577](https://github.com/flutter/flutter/pull/144577) opened on on March 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144577) 183 additions and 112 deletions in 3 files</sub><br />
