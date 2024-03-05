@@ -4,7 +4,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-11 commits.
+12 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix text color for default CupertinoContextMenuAction<br />
     <sub>[#144542](https://github.com/flutter/flutter/pull/144542) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144542) over 7 hours, 18 additions and 10 deletions in 2 files</sub><br />
@@ -34,6 +34,10 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Fix Small Typo in Skia_Client Doc Comment<br />
     <sub>[#144490](https://github.com/flutter/flutter/pull/144490) merged on March 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144490) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Do not shorten native assets framework names<br />
+    <sub>[#144568](https://github.com/flutter/flutter/pull/144568) merged on March 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144568) over 16 hours, 7 additions and 16 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable super flakey impeller test.<br />
     <sub>[#144573](https://github.com/flutter/flutter/pull/144573) merged on March 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144573) over 30 minutes, 3 additions and 1 deletion in 1 file</sub><br />
