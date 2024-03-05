@@ -342,7 +342,7 @@
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland "Reland - Introduce tone-based surfaces and accent color add-ons - Part 2"<br />
-    <sub>[#144273](https://github.com/flutter/flutter/pull/144273) merged on February 28, 2024 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/144273) over 22 hours, 2517 additions and 997 deletions in 181 files</sub><br />
+    <sub>[#144273](https://github.com/flutter/flutter/pull/144273) merged on February 28, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/144273) over 22 hours, 2517 additions and 997 deletions in 181 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Reland "Add FlutterMacOS.xcframework artifact (#143244)"<br />
