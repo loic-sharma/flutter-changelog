@@ -668,7 +668,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-28 commits.
+29 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Implement YUV texture import and sampling for video player frames.
     <sub>[#50730](https://github.com/flutter/engine/pull/50730) merged on March 5, 2024 &mdash; **Extra large:** [79 comments](https://github.com/flutter/engine/pull/50730) over 2 weeks, 1328 additions and 306 deletions in 24 files</sub>
@@ -691,6 +691,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements blur styles inner and outer
     <sub>[#51018](https://github.com/flutter/engine/pull/51018) merged on March 4, 2024 &mdash; **Small:** [59 comments](https://github.com/flutter/engine/pull/51018) over 5 days, 199 additions and 42 deletions in 10 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implement blur style solid
+    <sub>[#50892](https://github.com/flutter/engine/pull/50892) merged on March 5, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/50892) over 1 week, 107 additions and 56 deletions in 8 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Enable depth buffer clipping & Stencil-then-Cover path rendering.
     <sub>[#50856](https://github.com/flutter/engine/pull/50856) merged on March 5, 2024 &mdash; **Small:** [63 comments](https://github.com/flutter/engine/pull/50856) over 1 week, 4 additions and 6 deletions in 2 files</sub>
@@ -749,7 +753,7 @@
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [godofredoc](https://github.com/godofredoc)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Enable depth buffer clipping & Stencil-then-Cover path rendering.
-    <sub>[#51209](https://github.com/flutter/engine/pull/51209) merged on March 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51209) over 38 minutes, 1 addition and 1 deletion in 1 file</sub>
+    <sub>[#51209](https://github.com/flutter/engine/pull/51209) merged on March 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51209) over 38 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Skip configuration dependency if unit tests are disabled
