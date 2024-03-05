@@ -668,7 +668,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-26 commits.
+27 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Implement YUV texture import and sampling for video player frames.
     <sub>[#50730](https://github.com/flutter/engine/pull/50730) merged on March 5, 2024 &mdash; **Extra large:** [79 comments](https://github.com/flutter/engine/pull/50730) over 2 weeks, 1328 additions and 306 deletions in 24 files</sub>
@@ -715,6 +715,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reland: [macOS] Use CVDisplayLink to drive repaint
     <sub>[#51126](https://github.com/flutter/engine/pull/51126) merged on March 4, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/51126) over 3 days, 1349 additions and 102 deletions in 29 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix git hooks on Windows
+    <sub>[#51203](https://github.com/flutter/engine/pull/51203) merged on March 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51203) over 3 hours, 5 additions and 5 deletions in 5 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix typo in githook message
     <sub>[#51205](https://github.com/flutter/engine/pull/51205) merged on March 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51205) over 44 minutes, 1 addition and 1 deletion in 1 file</sub>
@@ -1483,7 +1487,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-8 commits.
+9 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] backfill native tests for more complete test coverage
     <sub>[#6209](https://github.com/flutter/packages/pull/6209) merged on March 5, 2024 &mdash; **Medium:** [24 comments](https://github.com/flutter/packages/pull/6209) over 1 week, 383 additions and 13 deletions in 7 files</sub>
@@ -1504,6 +1508,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Use TrustedTypes from pkg web.
     <sub>[#6273](https://github.com/flutter/packages/pull/6273) merged on March 5, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6273) over 30 minutes, 45 additions and 128 deletions in 9 files</sub>
     <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Kevin Moore](https://github.com/kevmoo), [Srujan Gaddam](https://github.com/srujzs)</sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Change test coverage logic to enforce 100% coverage
+    <sub>[#6272](https://github.com/flutter/packages/pull/6272) merged on March 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6272) over 2 hours, 37 additions and 47 deletions in 5 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Add features to support GCB auto-publish flow
     <sub>[#6218](https://github.com/flutter/packages/pull/6218) merged on March 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6218) over 6 days, 239 additions and 36 deletions in 4 files</sub>
