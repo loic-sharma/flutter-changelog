@@ -1430,7 +1430,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-4 commits.
+5 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Make WebKitWebViewWidget unit tests stateless
     <sub>[#6228](https://github.com/flutter/packages/pull/6228) merged on March 4, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/6228) over 4 days, 341 additions and 208 deletions in 1 file</sub>
@@ -1443,6 +1443,10 @@
 * **[Patrick Zierahn](https://github.com/pzierahn)** &mdash; [flutter_markdown] Fix WidgetSpan Support in MarkdownElementBuilder
     <sub>[#6225](https://github.com/flutter/packages/pull/6225) merged on March 5, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/6225) over 4 days, 210 additions and 54 deletions in 5 files</sub>
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Gabriel Terwesten](https://github.com/blaugold)** &mdash; [in_app_purchase_storekit] Fix type of error code returned from native code in `SKReceiptManager.retrieveReceiptData`
+    <sub>[#6265](https://github.com/flutter/packages/pull/6265) merged on March 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6265) over 10 hours, 10 additions and 4 deletions in 4 files</sub>
+    <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Slowhand](https://github.com/Slowhand0309)** &mdash; [video_player] Fix typo in readme
     <sub>[#6264](https://github.com/flutter/packages/pull/6264) merged on March 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6264) over 9 hours, 4 additions and 3 deletions in 3 files</sub>
