@@ -81,5 +81,5 @@
     <sub>[#144575](https://github.com/flutter/flutter/pull/144575) opened on on March 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144575) 107 additions and 0 deletions in 4 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Use a separate `TextPainter` for intrinsics calculation in `RenderEditable` and `RenderParagraph`<br />
-    <sub>[#144577](https://github.com/flutter/flutter/pull/144577) opened on on March 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144577) 183 additions and 113 deletions in 3 files</sub><br />
+    <sub>[#144577](https://github.com/flutter/flutter/pull/144577) opened on on March 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144577) 183 additions and 112 deletions in 3 files</sub><br />
 
