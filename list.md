@@ -628,7 +628,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-12 commits.
+13 commits.
 
 * **[Liam Appelbe](https://github.com/liamappelbe)** &mdash; Experimental platform isolates API
     <sub>[#48551](https://github.com/flutter/engine/pull/48551) merged on March 4, 2024 &mdash; **Extra large:** [168 comments](https://github.com/flutter/engine/pull/48551) over 3 months, 1775 additions and 16 deletions in 36 files</sub>
@@ -637,6 +637,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements blur styles inner and outer
     <sub>[#51018](https://github.com/flutter/engine/pull/51018) merged on March 4, 2024 &mdash; **Small:** [59 comments](https://github.com/flutter/engine/pull/51018) over 5 days, 199 additions and 42 deletions in 10 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Enable depth buffer clipping & Stencil-then-Cover path rendering.
+    <sub>[#50856](https://github.com/flutter/engine/pull/50856) merged on March 5, 2024 &mdash; **Small:** [63 comments](https://github.com/flutter/engine/pull/50856) over 1 week, 4 additions and 6 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Re-land] Remove WindowManager reflection in SingleViewPresentation.java
     <sub>[#50890](https://github.com/flutter/engine/pull/50890) merged on March 4, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50890) over 1 week, 354 additions and 158 deletions in 7 files</sub>
