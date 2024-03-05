@@ -1483,7 +1483,11 @@
 
 ### March 2, 2024 to March 8, 2024
 
-6 commits.
+8 commits.
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] backfill native tests for more complete test coverage
+    <sub>[#6209](https://github.com/flutter/packages/pull/6209) merged on March 5, 2024 &mdash; **Medium:** [24 comments](https://github.com/flutter/packages/pull/6209) over 1 week, 383 additions and 13 deletions in 7 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Make WebKitWebViewWidget unit tests stateless
     <sub>[#6228](https://github.com/flutter/packages/pull/6228) merged on March 4, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/6228) over 4 days, 341 additions and 208 deletions in 1 file</sub>
@@ -1500,6 +1504,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Use TrustedTypes from pkg web.
     <sub>[#6273](https://github.com/flutter/packages/pull/6273) merged on March 5, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6273) over 30 minutes, 45 additions and 128 deletions in 9 files</sub>
     <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Kevin Moore](https://github.com/kevmoo), [Srujan Gaddam](https://github.com/srujzs)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Add features to support GCB auto-publish flow
+    <sub>[#6218](https://github.com/flutter/packages/pull/6218) merged on March 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6218) over 6 days, 239 additions and 36 deletions in 4 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Gabriel Terwesten](https://github.com/blaugold)** &mdash; [in_app_purchase_storekit] Fix type of error code returned from native code in `SKReceiptManager.retrieveReceiptData`
     <sub>[#6265](https://github.com/flutter/packages/pull/6265) merged on March 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6265) over 10 hours, 10 additions and 4 deletions in 4 files</sub>
