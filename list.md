@@ -4,7 +4,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-16 commits.
+17 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix text color for default CupertinoContextMenuAction
     <sub>[#144542](https://github.com/flutter/flutter/pull/144542) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144542) over 7 hours, 18 additions and 10 deletions in 2 files</sub>
@@ -58,6 +58,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Update keyboard modifiers link
     <sub>[#144426](https://github.com/flutter/flutter/pull/144426) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144426) over 3 days, 2 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated the smiley TextButton example again
+    <sub>[#144630](https://github.com/flutter/flutter/pull/144630) merged on March 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144630) over 2 hours, 26 additions and 10 deletions in 2 files</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; remove unused `firstBuildTime` parameter in `DevFS::update`
     <sub>[#144576](https://github.com/flutter/flutter/pull/144576) merged on March 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144576) over 18 hours, 0 additions and 16 deletions in 8 files</sub>
@@ -656,7 +660,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-23 commits.
+24 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Implement YUV texture import and sampling for video player frames.
     <sub>[#50730](https://github.com/flutter/engine/pull/50730) merged on March 5, 2024 &mdash; **Extra large:** [79 comments](https://github.com/flutter/engine/pull/50730) over 2 weeks, 1328 additions and 306 deletions in 24 files</sub>
@@ -722,6 +726,10 @@
 * **[Dan Field](https://github.com/dnfield)** &mdash; Guard against API 22
     <sub>[#51167](https://github.com/flutter/engine/pull/51167) merged on March 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51167) over 1 hour, 3 additions and 167 deletions in 3 files</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Skip configuration dependency if unit tests are disabled
+    <sub>[#51179](https://github.com/flutter/engine/pull/51179) merged on March 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51179) over 23 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Turn off StC.
     <sub>[#51191](https://github.com/flutter/engine/pull/51191) merged on March 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51191) over 49 minutes, 1 addition and 1 deletion in 1 file</sub>
