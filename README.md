@@ -1413,11 +1413,19 @@
 
 ### March 2, 2024 to March 8, 2024
 
-1 commits.
+3 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Make WebKitWebViewWidget unit tests stateless<br />
     <sub>[#6228](https://github.com/flutter/packages/pull/6228) merged on March 4, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/6228) over 4 days, 341 additions and 208 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Separates message call code generation into separate methods in the SwiftGenerator<br />
+    <sub>[#5959](https://github.com/flutter/packages/pull/5959) merged on March 5, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/5959) over 1 month, 300 additions and 244 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Patrick Zierahn](https://github.com/pzierahn)** &mdash; [flutter_markdown] Fix WidgetSpan Support in MarkdownElementBuilder<br />
+    <sub>[#6225](https://github.com/flutter/packages/pull/6225) merged on March 5, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/6225) over 4 days, 210 additions and 54 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 ### February 24, 2024 to March 1, 2024
 
