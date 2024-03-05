@@ -640,11 +640,16 @@
 
 ### March 2, 2024 to March 8, 2024
 
-19 commits.
+20 commits.
 
 * **[Liam Appelbe](https://github.com/liamappelbe)** &mdash; Experimental platform isolates API<br />
     <sub>[#48551](https://github.com/flutter/engine/pull/48551) merged on March 4, 2024 &mdash; **Extra large:** [168 comments](https://github.com/flutter/engine/pull/48551) over 3 months, 1775 additions and 16 deletions in 36 files</sub><br />
     <sub>Reviewed by: [Ryan Macnak](https://github.com/rmacnak-google), [Martin Kustermann](https://github.com/mkustermann), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Adds githooks that reminds to run `gclient sync -D`<br />
+    <sub>[#51156](https://github.com/flutter/engine/pull/51156) merged on March 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51156) over 1 day, 248 additions and 3 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+    <sub><details><summary>1 image...</summary><img width="670" alt="Screenshot 2024-03-04 at 18 36 15" src="https://github.com/flutter/engine/assets/6343103/4d3e4661-035d-4ed6-8ed6-2a05b372bf65"></details></sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements blur styles inner and outer<br />
     <sub>[#51018](https://github.com/flutter/engine/pull/51018) merged on March 4, 2024 &mdash; **Small:** [59 comments](https://github.com/flutter/engine/pull/51018) over 5 days, 199 additions and 42 deletions in 10 files</sub><br />
