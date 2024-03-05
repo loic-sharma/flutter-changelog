@@ -644,7 +644,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-20 commits.
+21 commits.
 
 * **[Liam Appelbe](https://github.com/liamappelbe)** &mdash; Experimental platform isolates API<br />
     <sub>[#48551](https://github.com/flutter/engine/pull/48551) merged on March 4, 2024 &mdash; **Extra large:** [168 comments](https://github.com/flutter/engine/pull/48551) over 3 months, 1775 additions and 16 deletions in 36 files</sub><br />
@@ -674,6 +674,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use Instrumentation.waitForIdleSync() after rotation requests.<br />
     <sub>[#51169](https://github.com/flutter/engine/pull/51169) merged on March 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51169) over 1 hour, 24 additions and 4 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
+
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Add device selection to `et run`<br />
+    <sub>[#51184](https://github.com/flutter/engine/pull/51184) merged on March 5, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/51184) over 19 hours, 395 additions and 17 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reland: [macOS] Use CVDisplayLink to drive repaint<br />
     <sub>[#51126](https://github.com/flutter/engine/pull/51126) merged on March 4, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/51126) over 3 days, 1349 additions and 102 deletions in 29 files</sub><br />

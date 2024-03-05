@@ -80,3 +80,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [flutter_tools] Makes ink_sparkle.frag available for web tests<br />
     <sub>[#144597](https://github.com/flutter/flutter/pull/144597) opened on on March 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144597) 14 additions and 0 deletions in 1 file</sub><br />
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated the smiley TextButton example again<br />
+    <sub>[#144630](https://github.com/flutter/flutter/pull/144630) opened on on March 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144630) 26 additions and 10 deletions in 2 files</sub><br />
+
