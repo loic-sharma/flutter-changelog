@@ -628,7 +628,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-13 commits.
+14 commits.
 
 * **[Liam Appelbe](https://github.com/liamappelbe)** &mdash; Experimental platform isolates API
     <sub>[#48551](https://github.com/flutter/engine/pull/48551) merged on March 4, 2024 &mdash; **Extra large:** [168 comments](https://github.com/flutter/engine/pull/48551) over 3 months, 1775 additions and 16 deletions in 36 files</sub>
@@ -669,6 +669,10 @@
 * **[Dan Field](https://github.com/dnfield)** &mdash; Guard against API 22
     <sub>[#51167](https://github.com/flutter/engine/pull/51167) merged on March 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51167) over 1 hour, 3 additions and 167 deletions in 3 files</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Miguel](https://github.com/miguelfrde)** &mdash; [fuchsia] Remove now unnecessary diagnostics directory
+    <sub>[#51180](https://github.com/flutter/engine/pull/51180) merged on March 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51180) over 4 hours, 2 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang), [Tom Robinson](https://github.com/tarobins)</sub>
 
 * **[Ian McKellar](https://github.com/ianloic)** &mdash; [fuchsia] Prepare for @transitional removal
     <sub>[#51185](https://github.com/flutter/engine/pull/51185) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51185) over 36 minutes, 4 additions and 0 deletions in 1 file</sub>
