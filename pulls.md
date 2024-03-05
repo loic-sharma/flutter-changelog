@@ -12,7 +12,7 @@
     <sub>[#138025](https://github.com/flutter/flutter/pull/138025) opened on on November 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138025) 150 additions and 30 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; custom tool analysis<br />
-    <sub>[#140122](https://github.com/flutter/flutter/pull/140122) opened on on December 14, 2023 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/140122) 139 additions and 8 deletions in 6 files</sub><br />
+    <sub>[#140122](https://github.com/flutter/flutter/pull/140122) opened on on December 14, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140122) 139 additions and 8 deletions in 6 files</sub><br />
 
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Prevent full rebuilds when rerunning `flutter test`.<br />
     <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/140284) 147 additions and 10 deletions in 3 files</sub><br />
@@ -79,4 +79,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable super flakey impeller test.<br />
     <sub>[#144573](https://github.com/flutter/flutter/pull/144573) opened on on March 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144573) 3 additions and 1 deletion in 1 file</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] measure GPU memory usage.<br />
+    <sub>[#144575](https://github.com/flutter/flutter/pull/144575) opened on on March 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144575) 107 additions and 0 deletions in 4 files</sub><br />
 
