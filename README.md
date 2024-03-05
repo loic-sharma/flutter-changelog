@@ -4,12 +4,16 @@
 
 ### March 2, 2024 to March 8, 2024
 
-17 commits.
+19 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix text color for default CupertinoContextMenuAction<br />
     <sub>[#144542](https://github.com/flutter/flutter/pull/144542) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144542) over 7 hours, 18 additions and 10 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
     <sub><details><summary>1 image...</summary>![Capture d’écran 2024-03-04 à 14 58 45](https://github.com/flutter/flutter/assets/840911/6a06715d-b2b8-49e1-b6de-37c03b96b627) |  ![Capture d’écran 2024-03-04 à 15 00 27](https://github.com/flutter/flutter/assets/840911/ed7c71ec-96f2-46ca-a5f6-ba3890732e33)</details></sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Enable asset transformation feature in hot reload workflow (excluding Web)<br />
+    <sub>[#144161](https://github.com/flutter/flutter/pull/144161) merged on March 5, 2024 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/144161) over 1 week, 357 additions and 16 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Add missing parameter to `TableBorder.symmetric`, and improve class constructors<br />
     <sub>[#144279](https://github.com/flutter/flutter/pull/144279) merged on March 4, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/144279) over 5 days, 196 additions and 357 deletions in 36 files</sub><br />
@@ -18,6 +22,10 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Doc fix for `DropdownButtonFormField.value`<br />
     <sub>[#144427](https://github.com/flutter/flutter/pull/144427) merged on March 4, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/144427) over 3 days, 5 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix embedding FlutterMacOS.framework for macOS add2app via cocoapods<br />
+    <sub>[#144248](https://github.com/flutter/flutter/pull/144248) merged on March 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144248) over 1 week, 39 additions and 4 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Restorable CupertinoTextFormFieldRow<br />
     <sub>[#144541](https://github.com/flutter/flutter/pull/144541) merged on March 5, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/144541) over 21 hours, 339 additions and 56 deletions in 2 files</sub><br />
