@@ -86,3 +86,6 @@
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] include engine cp<br />
     <sub>[#144592](https://github.com/flutter/flutter/pull/144592) opened on on March 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144592) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [flutter_tools] Makes ink_sparkle.frag available for web tests<br />
+    <sub>[#144597](https://github.com/flutter/flutter/pull/144597) opened on on March 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144597) 14 additions and 0 deletions in 1 file</sub><br />
+
