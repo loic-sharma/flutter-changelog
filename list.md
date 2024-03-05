@@ -640,7 +640,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-18 commits.
+19 commits.
 
 * **[Liam Appelbe](https://github.com/liamappelbe)** &mdash; Experimental platform isolates API
     <sub>[#48551](https://github.com/flutter/engine/pull/48551) merged on March 4, 2024 &mdash; **Extra large:** [168 comments](https://github.com/flutter/engine/pull/48551) over 3 months, 1775 additions and 16 deletions in 36 files</sub>
@@ -669,6 +669,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reland: [macOS] Use CVDisplayLink to drive repaint
     <sub>[#51126](https://github.com/flutter/engine/pull/51126) merged on March 4, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/51126) over 3 days, 1349 additions and 102 deletions in 29 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Folds concurrent job calculation into `tools/gn`
+    <sub>[#51193](https://github.com/flutter/engine/pull/51193) merged on March 5, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/51193) over 14 hours, 123 additions and 179 deletions in 9 files</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift git version fetching to tools/gn
     <sub>[#51175](https://github.com/flutter/engine/pull/51175) merged on March 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51175) over 6 hours, 41 additions and 32 deletions in 2 files</sub>
