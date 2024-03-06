@@ -818,7 +818,7 @@
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable blending in gaussian intermediate steps.
-    <sub>[#51118](https://github.com/flutter/engine/pull/51118) merged on March 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51118) over 4 days, 2 additions and 2 deletions in 1 file</sub>
+    <sub>[#51118](https://github.com/flutter/engine/pull/51118) merged on March 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51118) over 4 days, 2 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Guard against API 22
