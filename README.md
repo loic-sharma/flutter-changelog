@@ -1516,11 +1516,15 @@
 
 ### March 2, 2024 to March 8, 2024
 
-10 commits.
+11 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] backfill native tests for more complete test coverage<br />
     <sub>[#6209](https://github.com/flutter/packages/pull/6209) merged on March 5, 2024 &mdash; **Medium:** [24 comments](https://github.com/flutter/packages/pull/6209) over 1 week, 383 additions and 13 deletions in 7 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Balvinder Singh Gambhir](https://github.com/balvinderz)** &mdash; [video_player_web] migrates to package:web<br />
+    <sub>[#5800](https://github.com/flutter/packages/pull/5800) merged on March 6, 2024 &mdash; **Medium:** [24 comments](https://github.com/flutter/packages/pull/5800) over 2 months, 224 additions and 102 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Pavel Mazhnik](https://github.com/p-mazhnik), [Srujan Gaddam](https://github.com/srujzs), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump org.json:json from 20240205 to 20240303 in /packages/in_app_purchase/in_app_purchase/example/android/app<br />
     <sub>[#6253](https://github.com/flutter/packages/pull/6253) merged on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6253) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
