@@ -672,7 +672,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-35 commits.
+36 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Implement YUV texture import and sampling for video player frames.<br />
     <sub>[#50730](https://github.com/flutter/engine/pull/50730) merged on March 5, 2024 &mdash; **Extra large:** [79 comments](https://github.com/flutter/engine/pull/50730) over 2 weeks, 1328 additions and 306 deletions in 24 files</sub><br />
@@ -697,13 +697,13 @@
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>2 images...</summary><img width="685" alt="image" src="https://github.com/flutter/engine/assets/919017/cef666c1-c188-4c83-ae93-fca117b0bc7f"><img width="685" alt="image" src="https://github.com/flutter/engine/assets/919017/0cf5e994-5366-4e73-8f9c-4fec1128b303"></details></sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Revamp the `scenario_app/../README.md` to encourage self-sustenance<br />
-    <sub>[#51196](https://github.com/flutter/engine/pull/51196) merged on March 6, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/engine/pull/51196) over 19 hours, 326 additions and 117 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke), [Gray Mackall](https://github.com/gmackall)</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements blur styles inner and outer<br />
     <sub>[#51018](https://github.com/flutter/engine/pull/51018) merged on March 4, 2024 &mdash; **Small:** [59 comments](https://github.com/flutter/engine/pull/51018) over 5 days, 199 additions and 42 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Revamp the `scenario_app/../README.md` to encourage self-sustenance<br />
+    <sub>[#51196](https://github.com/flutter/engine/pull/51196) merged on March 6, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/engine/pull/51196) over 19 hours, 326 additions and 117 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implement blur style solid<br />
     <sub>[#50892](https://github.com/flutter/engine/pull/50892) merged on March 5, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/50892) over 1 week, 107 additions and 56 deletions in 8 files</sub><br />
@@ -713,13 +713,17 @@
     <sub>[#50856](https://github.com/flutter/engine/pull/50856) merged on March 5, 2024 &mdash; **Small:** [63 comments](https://github.com/flutter/engine/pull/50856) over 1 week, 4 additions and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Scenario App: Adds a `run_{count}.{backend}.` file prefix to every run (on CI)<br />
+    <sub>[#51102](https://github.com/flutter/engine/pull/51102) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51102) over 3 days, 78 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Re-land] Remove WindowManager reflection in SingleViewPresentation.java<br />
     <sub>[#50890](https://github.com/flutter/engine/pull/50890) merged on March 4, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50890) over 1 week, 354 additions and 158 deletions in 7 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Jia Hao](https://github.com/jiahaog)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Scenario App: Adds a `run_{count}.{backend}.` file prefix to every run (on CI)<br />
-    <sub>[#51102](https://github.com/flutter/engine/pull/51102) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51102) over 3 days, 78 additions and 5 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [et] Allow users to update dependencies<br />
+    <sub>[#51177](https://github.com/flutter/engine/pull/51177) merged on March 6, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/51177) over 1 day, 217 additions and 30 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use Instrumentation.waitForIdleSync() after rotation requests.<br />
     <sub>[#51169](https://github.com/flutter/engine/pull/51169) merged on March 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51169) over 1 hour, 24 additions and 4 deletions in 4 files</sub><br />
@@ -769,10 +773,6 @@
     <sub>[#51154](https://github.com/flutter/engine/pull/51154) merged on March 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51154) over 3 hours, 30 additions and 21 deletions in 6 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
-* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [g3 roll] Revert "Remove unused drone_dimension field"<br />
-    <sub>[#51214](https://github.com/flutter/engine/pull/51214) merged on March 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51214) over 46 minutes, 29 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [godofredoc](https://github.com/godofredoc)</sub><br />
-
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Enable depth buffer clipping & Stencil-then-Cover path rendering.<br />
     <sub>[#51209](https://github.com/flutter/engine/pull/51209) merged on March 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51209) over 38 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -805,13 +805,17 @@
     <sub>[#51217](https://github.com/flutter/engine/pull/51217) merged on March 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51217) over 59 seconds, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 728fcf0bcbca to 50464546d92d (5 revisions)<br />
-    <sub>[#51228](https://github.com/flutter/engine/pull/51228) merged on March 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51228) over 1 hour, 4 additions and 10 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [g3 roll] Revert "Remove unused drone_dimension field"<br />
+    <sub>[#51214](https://github.com/flutter/engine/pull/51214) merged on March 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51214) over 46 minutes, 29 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan), [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Reland: [macOS] Use CVDisplayLink to drive repaint (#51126)"<br />
     <sub>[#51192](https://github.com/flutter/engine/pull/51192) merged on March 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/51192) over 1 minute, 102 additions and 1349 deletions in 29 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 728fcf0bcbca to 50464546d92d (5 revisions)<br />
+    <sub>[#51228](https://github.com/flutter/engine/pull/51228) merged on March 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51228) over 1 hour, 4 additions and 10 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland "Remove migration flag and unused header files #50216"<br />
     <sub>[#50259](https://github.com/flutter/engine/pull/50259) merged on March 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/50259) over 1 month, 13 additions and 214 deletions in 18 files</sub><br />
