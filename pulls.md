@@ -71,3 +71,6 @@
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] include engine cp<br />
     <sub>[#144592](https://github.com/flutter/flutter/pull/144592) opened on on March 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144592) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; make DevFSContent descendants immutable<br />
+    <sub>[#144664](https://github.com/flutter/flutter/pull/144664) opened on on March 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144664) 6 additions and 37 deletions in 2 files</sub><br />
+
