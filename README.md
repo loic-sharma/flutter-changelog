@@ -84,7 +84,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Revert "_DefaultTabControllerState should dispose all created TabContoller instances. (#136608)"<br />
-    <sub>[#144579](https://github.com/flutter/flutter/pull/144579) merged on March 5, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/144579) over 18 hours, 6 additions and 19 deletions in 1 file</sub><br />
+    <sub>[#144579](https://github.com/flutter/flutter/pull/144579) merged on March 5, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/144579) over 18 hours, 6 additions and 19 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 ### February 24, 2024 to March 1, 2024
