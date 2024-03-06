@@ -1580,7 +1580,11 @@
 
 ### March 2, 2024 to March 8, 2024
 
-13 commits.
+14 commits.
+
+* **[Juanjo Tugores](https://github.com/tugorez)** &mdash; [rfw] Add support for widget builders
+    <sub>[#5907](https://github.com/flutter/packages/pull/5907) merged on March 6, 2024 &mdash; **Large:** [42 comments](https://github.com/flutter/packages/pull/5907) over 1 month, 1285 additions and 87 deletions in 9 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] backfill native tests for more complete test coverage
     <sub>[#6209](https://github.com/flutter/packages/pull/6209) merged on March 5, 2024 &mdash; **Medium:** [24 comments](https://github.com/flutter/packages/pull/6209) over 1 week, 383 additions and 13 deletions in 7 files</sub>
