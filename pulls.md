@@ -53,9 +53,6 @@
 * **[Zayd Krunz](https://github.com/ShrootBuck)** &mdash; Redundant message fix<br />
     <sub>[#143978](https://github.com/flutter/flutter/pull/143978) opened on on February 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143978) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Remove deprecated `errorColor` from `ThemeData`<br />
-    <sub>[#144078](https://github.com/flutter/flutter/pull/144078) opened on on February 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144078) 2 additions and 74 deletions in 3 files</sub><br />
-
 * **[August](https://github.com/Gustl22)** &mdash; refactor: Remove `throwOnPluginPubspecError` flag for plugin validation<br />
     <sub>[#144214](https://github.com/flutter/flutter/pull/144214) opened on on February 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144214) 7 additions and 82 deletions in 2 files</sub><br />
 

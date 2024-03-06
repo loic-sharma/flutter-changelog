@@ -4,7 +4,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-21 commits.
+23 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix text color for default CupertinoContextMenuAction<br />
     <sub>[#144542](https://github.com/flutter/flutter/pull/144542) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144542) over 7 hours, 18 additions and 10 deletions in 2 files</sub><br />
@@ -55,6 +55,10 @@
     <sub>[#144490](https://github.com/flutter/flutter/pull/144490) merged on March 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144490) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] measure GPU memory usage.<br />
+    <sub>[#144575](https://github.com/flutter/flutter/pull/144575) merged on March 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144575) over 1 day, 115 additions and 0 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Update android templates to use target sdk 34<br />
     <sub>[#144641](https://github.com/flutter/flutter/pull/144641) merged on March 6, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/144641) over 21 hours, 5 additions and 5 deletions in 5 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
@@ -78,6 +82,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Update keyboard modifiers link<br />
     <sub>[#144426](https://github.com/flutter/flutter/pull/144426) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144426) over 3 days, 2 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; make DevFSContent descendants immutable<br />
+    <sub>[#144664](https://github.com/flutter/flutter/pull/144664) merged on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144664) over 15 hours, 6 additions and 37 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; remove unused `firstBuildTime` parameter in `DevFS::update`<br />
     <sub>[#144576](https://github.com/flutter/flutter/pull/144576) merged on March 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144576) over 18 hours, 0 additions and 16 deletions in 8 files</sub><br />
