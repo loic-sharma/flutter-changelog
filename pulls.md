@@ -77,3 +77,6 @@
 * **[Joodo](https://github.com/joodo)** &mdash; fix popup menu offset when using `useRootNavigator` in `PopupMenu`<br />
     <sub>[#144670](https://github.com/flutter/flutter/pull/144670) opened on on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144670) 50 additions and 1 deletion in 2 files</sub><br />
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Fix frameworks added to bundle multiple times instead of lipo<br />
+    <sub>[#144688](https://github.com/flutter/flutter/pull/144688) opened on on March 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144688) 9 additions and 5 deletions in 1 file</sub><br />
+
