@@ -4,7 +4,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-26 commits.
+27 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix text color for default CupertinoContextMenuAction<br />
     <sub>[#144542](https://github.com/flutter/flutter/pull/144542) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144542) over 7 hours, 18 additions and 10 deletions in 2 files</sub><br />
@@ -54,6 +54,10 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Fix Small Typo in Skia_Client Doc Comment<br />
     <sub>[#144490](https://github.com/flutter/flutter/pull/144490) merged on March 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144490) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use wasm-compatible conditional import in timeline.dart, avoid emitting timeline events in SchedulerBinding<br />
+    <sub>[#144682](https://github.com/flutter/flutter/pull/144682) merged on March 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144682) over 8 hours, 7 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix code sample failing in smoke test<br />
     <sub>[#144709](https://github.com/flutter/flutter/pull/144709) merged on March 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144709) over 1 hour, 3 additions and 0 deletions in 1 file</sub><br />
