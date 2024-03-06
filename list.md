@@ -27,6 +27,10 @@
     <sub>[#144248](https://github.com/flutter/flutter/pull/144248) merged on March 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144248) over 1 week, 39 additions and 4 deletions in 3 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated the smiley TextButton example again
+    <sub>[#144630](https://github.com/flutter/flutter/pull/144630) merged on March 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144630) over 2 hours, 26 additions and 10 deletions in 2 files</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Restorable CupertinoTextFormFieldRow
     <sub>[#144541](https://github.com/flutter/flutter/pull/144541) merged on March 5, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/144541) over 21 hours, 339 additions and 56 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
@@ -70,10 +74,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Update keyboard modifiers link
     <sub>[#144426](https://github.com/flutter/flutter/pull/144426) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144426) over 3 days, 2 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; Updated the smiley TextButton example again
-    <sub>[#144630](https://github.com/flutter/flutter/pull/144630) merged on March 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144630) over 2 hours, 26 additions and 10 deletions in 2 files</sub>
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; remove unused `firstBuildTime` parameter in `DevFS::update`
     <sub>[#144576](https://github.com/flutter/flutter/pull/144576) merged on March 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144576) over 18 hours, 0 additions and 16 deletions in 8 files</sub>
