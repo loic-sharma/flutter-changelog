@@ -14,6 +14,9 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] add custom tool analysis to analyze.dart, lint Future.catchError<br />
     <sub>[#140122](https://github.com/flutter/flutter/pull/140122) opened on on December 14, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140122) 139 additions and 8 deletions in 6 files</sub><br />
 
+* **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Prevent full rebuilds when rerunning `flutter test`.<br />
+    <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/140284) 153 additions and 10 deletions in 4 files</sub><br />
+
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#140631](https://github.com/flutter/flutter/pull/140631) opened on on December 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140631) 6 additions and 6 deletions in 3 files</sub><br />
 
