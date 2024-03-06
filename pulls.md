@@ -80,3 +80,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Fix frameworks added to bundle multiple times instead of lipo<br />
     <sub>[#144688](https://github.com/flutter/flutter/pull/144688) opened on on March 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144688) 9 additions and 5 deletions in 1 file</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in `editable_gesture_test.dart`<br />
+    <sub>[#144691](https://github.com/flutter/flutter/pull/144691) opened on on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144691) 12 additions and 9 deletions in 1 file</sub><br />
+
