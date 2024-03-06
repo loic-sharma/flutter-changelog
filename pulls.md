@@ -72,7 +72,7 @@
     <sub>[#144592](https://github.com/flutter/flutter/pull/144592) opened on on March 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144592) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Update android templates to use target sdk 34<br />
-    <sub>[#144641](https://github.com/flutter/flutter/pull/144641) opened on on March 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/144641) 5 additions and 5 deletions in 5 files</sub><br />
+    <sub>[#144641](https://github.com/flutter/flutter/pull/144641) opened on on March 5, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/144641) 5 additions and 5 deletions in 5 files</sub><br />
 
 * **[Joodo](https://github.com/joodo)** &mdash; fix popup menu offset when using `useRootNavigator` in `PopupMenu`<br />
     <sub>[#144670](https://github.com/flutter/flutter/pull/144670) opened on on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144670) 50 additions and 1 deletion in 2 files</sub><br />
