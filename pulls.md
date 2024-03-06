@@ -77,3 +77,6 @@
 * **[Joodo](https://github.com/joodo)** &mdash; fix popup menu offset when using `useRootNavigator` in `PopupMenu`<br />
     <sub>[#144670](https://github.com/flutter/flutter/pull/144670) opened on on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144670) 50 additions and 1 deletion in 2 files</sub><br />
 
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use wasm-compatible conditional import in timeline.dart, avoid emitting timeline events in SchedulerBinding<br />
+    <sub>[#144682](https://github.com/flutter/flutter/pull/144682) opened on on March 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144682) 7 additions and 3 deletions in 2 files</sub><br />
+
