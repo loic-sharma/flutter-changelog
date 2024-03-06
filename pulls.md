@@ -74,9 +74,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Update android templates to use target sdk 34<br />
     <sub>[#144641](https://github.com/flutter/flutter/pull/144641) opened on on March 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/144641) 5 additions and 5 deletions in 5 files</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; make DevFSContent descendants immutable<br />
-    <sub>[#144664](https://github.com/flutter/flutter/pull/144664) opened on on March 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144664) 6 additions and 37 deletions in 2 files</sub><br />
-
 * **[Joodo](https://github.com/joodo)** &mdash; fix popup menu offset when using `useRootNavigator` in `PopupMenu`<br />
     <sub>[#144670](https://github.com/flutter/flutter/pull/144670) opened on on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144670) 50 additions and 1 deletion in 2 files</sub><br />
 
