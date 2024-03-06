@@ -1539,6 +1539,10 @@
     <sub>[#6228](https://github.com/flutter/packages/pull/6228) merged on March 4, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/6228) over 4 days, 341 additions and 208 deletions in 1 file</sub>
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Change test coverage logic to enforce 100% coverage
+    <sub>[#6272](https://github.com/flutter/packages/pull/6272) merged on March 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6272) over 2 hours, 37 additions and 47 deletions in 5 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Separates message call code generation into separate methods in the SwiftGenerator
     <sub>[#5959](https://github.com/flutter/packages/pull/5959) merged on March 5, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/5959) over 1 month, 300 additions and 244 deletions in 4 files</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
@@ -1550,10 +1554,6 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Use TrustedTypes from pkg web.
     <sub>[#6273](https://github.com/flutter/packages/pull/6273) merged on March 5, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6273) over 30 minutes, 45 additions and 128 deletions in 9 files</sub>
     <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Kevin Moore](https://github.com/kevmoo), [Srujan Gaddam](https://github.com/srujzs)</sub>
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Change test coverage logic to enforce 100% coverage
-    <sub>[#6272](https://github.com/flutter/packages/pull/6272) merged on March 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6272) over 2 hours, 37 additions and 47 deletions in 5 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Add features to support GCB auto-publish flow
     <sub>[#6218](https://github.com/flutter/packages/pull/6218) merged on March 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6218) over 6 days, 239 additions and 36 deletions in 4 files</sub>
