@@ -75,5 +75,5 @@
     <sub>[#144664](https://github.com/flutter/flutter/pull/144664) opened on on March 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144664) 6 additions and 37 deletions in 2 files</sub><br />
 
 * **[Joodo](https://github.com/joodo)** &mdash; fix popup menu offset when using `useRootNavigator` in `PopupMenu`<br />
-    <sub>[#144670](https://github.com/flutter/flutter/pull/144670) opened on on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144670) 4 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#144670](https://github.com/flutter/flutter/pull/144670) opened on on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144670) 49 additions and 1 deletion in 2 files</sub><br />
 
