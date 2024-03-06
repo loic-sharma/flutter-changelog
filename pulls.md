@@ -62,17 +62,11 @@
 * **[August](https://github.com/Gustl22)** &mdash; refactor: Perform plugin resolution per platform<br />
     <sub>[#144506](https://github.com/flutter/flutter/pull/144506) opened on on March 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144506) 64 additions and 141 deletions in 2 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] measure GPU memory usage.<br />
-    <sub>[#144575](https://github.com/flutter/flutter/pull/144575) opened on on March 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144575) 115 additions and 0 deletions in 5 files</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Use a separate `TextPainter` for intrinsics calculation in `RenderEditable` and `RenderParagraph`<br />
     <sub>[#144577](https://github.com/flutter/flutter/pull/144577) opened on on March 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144577) 183 additions and 112 deletions in 3 files</sub><br />
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] include engine cp<br />
     <sub>[#144592](https://github.com/flutter/flutter/pull/144592) opened on on March 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144592) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Update android templates to use target sdk 34<br />
-    <sub>[#144641](https://github.com/flutter/flutter/pull/144641) opened on on March 5, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/144641) 5 additions and 5 deletions in 5 files</sub><br />
 
 * **[Joodo](https://github.com/joodo)** &mdash; fix popup menu offset when using `useRootNavigator` in `PopupMenu`<br />
     <sub>[#144670](https://github.com/flutter/flutter/pull/144670) opened on on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144670) 50 additions and 1 deletion in 2 files</sub><br />
