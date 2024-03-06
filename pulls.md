@@ -71,3 +71,6 @@
 * **[Loïc de Porcaro](https://github.com/Nenuphar12)** &mdash; Update documentation of `AlertDialog`'s default `TextStyle` for Material 3<br />
     <sub>[#144697](https://github.com/flutter/flutter/pull/144697) opened on on March 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144697) 4 additions and 2 deletions in 1 file</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Add platform check to `FocusManager` app lifecycle listener<br />
+    <sub>[#144718](https://github.com/flutter/flutter/pull/144718) opened on on March 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144718) 65 additions and 58 deletions in 2 files</sub><br />
+
