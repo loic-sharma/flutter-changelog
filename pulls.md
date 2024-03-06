@@ -17,9 +17,6 @@
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Prevent full rebuilds when rerunning `flutter test`.<br />
     <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/140284) 147 additions and 10 deletions in 3 files</sub><br />
 
-* **[Sébastien Batézat](https://github.com/sbatezat)** &mdash; feat(popup_menu): add the ability to set route settings on PopupMenuB…<br />
-    <sub>[#140373](https://github.com/flutter/flutter/pull/140373) opened on on December 19, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/140373) 7 additions and 0 deletions in 1 file</sub><br />
-
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#140631](https://github.com/flutter/flutter/pull/140631) opened on on December 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140631) 6 additions and 6 deletions in 3 files</sub><br />
 
