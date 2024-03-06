@@ -48,7 +48,7 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds missing `style` to `PopupMenuButton`<br />
-    <sub>[#143392](https://github.com/flutter/flutter/pull/143392) merged on March 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143392) over 2 weeks, 39 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#143392](https://github.com/flutter/flutter/pull/143392) merged on March 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/143392) over 2 weeks, 39 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Fix Small Typo in Skia_Client Doc Comment<br />
