@@ -668,7 +668,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-30 commits.
+34 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Implement YUV texture import and sampling for video player frames.<br />
     <sub>[#50730](https://github.com/flutter/engine/pull/50730) merged on March 5, 2024 &mdash; **Extra large:** [79 comments](https://github.com/flutter/engine/pull/50730) over 2 weeks, 1328 additions and 306 deletions in 24 files</sub><br />
@@ -683,10 +683,19 @@
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Loïc Sharma](https://github.com/loic-sharma), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
     <sub><details><summary>1 image...</summary><img width="670" alt="Screenshot 2024-03-04 at 18 36 15" src="https://github.com/flutter/engine/assets/6343103/4d3e4661-035d-4ed6-8ed6-2a05b372bf65"></details></sub>
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix path winding when bridging from contours with an odd number of points.<br />
+    <sub>[#51218](https://github.com/flutter/engine/pull/51218) merged on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51218) over 42 minutes, 42 additions and 22 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub><details><summary>2 images...</summary>![Screenshot 2024-03-05 at 4 16 46 PM](https://github.com/flutter/engine/assets/919017/05306c92-78e9-4d16-88c1-6191d8ee1160)![Screenshot 2024-03-05 at 4 14 54 PM](https://github.com/flutter/engine/assets/919017/3743527f-d686-4c98-87f3-cb4db3c1a1ef)</details></sub>
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix convex triangulation winding bug for multi-contour paths.<br />
     <sub>[#51198](https://github.com/flutter/engine/pull/51198) merged on March 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51198) over 13 hours, 38 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>2 images...</summary><img width="685" alt="image" src="https://github.com/flutter/engine/assets/919017/cef666c1-c188-4c83-ae93-fca117b0bc7f"><img width="685" alt="image" src="https://github.com/flutter/engine/assets/919017/0cf5e994-5366-4e73-8f9c-4fec1128b303"></details></sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Revamp the `scenario_app/../README.md` to encourage self-sustenance<br />
+    <sub>[#51196](https://github.com/flutter/engine/pull/51196) merged on March 6, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/engine/pull/51196) over 19 hours, 326 additions and 117 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements blur styles inner and outer<br />
     <sub>[#51018](https://github.com/flutter/engine/pull/51018) merged on March 4, 2024 &mdash; **Small:** [59 comments](https://github.com/flutter/engine/pull/51018) over 5 days, 199 additions and 42 deletions in 10 files</sub><br />
@@ -700,17 +709,17 @@
     <sub>[#50856](https://github.com/flutter/engine/pull/50856) merged on March 5, 2024 &mdash; **Small:** [63 comments](https://github.com/flutter/engine/pull/50856) over 1 week, 4 additions and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Re-land] Remove WindowManager reflection in SingleViewPresentation.java<br />
-    <sub>[#50890](https://github.com/flutter/engine/pull/50890) merged on March 4, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50890) over 1 week, 354 additions and 158 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Jia Hao](https://github.com/jiahaog)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use Instrumentation.waitForIdleSync() after rotation requests.<br />
+    <sub>[#51169](https://github.com/flutter/engine/pull/51169) merged on March 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51169) over 1 hour, 24 additions and 4 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Scenario App: Adds a `run_{count}.{backend}.` file prefix to every run (on CI)<br />
     <sub>[#51102](https://github.com/flutter/engine/pull/51102) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51102) over 3 days, 78 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use Instrumentation.waitForIdleSync() after rotation requests.<br />
-    <sub>[#51169](https://github.com/flutter/engine/pull/51169) merged on March 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51169) over 1 hour, 24 additions and 4 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Re-land] Remove WindowManager reflection in SingleViewPresentation.java<br />
+    <sub>[#50890](https://github.com/flutter/engine/pull/50890) merged on March 4, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/50890) over 1 week, 354 additions and 158 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Jia Hao](https://github.com/jiahaog)</sub><br />
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Add device selection to `et run`<br />
     <sub>[#51184](https://github.com/flutter/engine/pull/51184) merged on March 5, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/51184) over 19 hours, 395 additions and 17 deletions in 6 files</sub><br />
@@ -719,6 +728,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reland: [macOS] Use CVDisplayLink to drive repaint<br />
     <sub>[#51126](https://github.com/flutter/engine/pull/51126) merged on March 4, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/51126) over 3 days, 1349 additions and 102 deletions in 29 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable blending in gaussian intermediate steps.<br />
+    <sub>[#51118](https://github.com/flutter/engine/pull/51118) merged on March 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51118) over 4 days, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix git hooks on Windows<br />
     <sub>[#51203](https://github.com/flutter/engine/pull/51203) merged on March 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51203) over 3 hours, 5 additions and 5 deletions in 5 files</sub><br />
@@ -747,6 +760,10 @@
 * **[Dan Field](https://github.com/dnfield)** &mdash; Guard against API 22<br />
     <sub>[#51167](https://github.com/flutter/engine/pull/51167) merged on March 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51167) over 1 hour, 3 additions and 167 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Enable depth buffer clipping & Stencil-then-Cover path rendering.<br />
+    <sub>[#51219](https://github.com/flutter/engine/pull/51219) merged on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51219) over 37 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] Enable depth buffer clipping & Stencil-then-Cover path rendering. (#51209)"<br />
     <sub>[#51217](https://github.com/flutter/engine/pull/51217) merged on March 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51217) over 59 seconds, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1499,11 +1516,16 @@
 
 ### March 2, 2024 to March 8, 2024
 
-9 commits.
+10 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] backfill native tests for more complete test coverage<br />
     <sub>[#6209](https://github.com/flutter/packages/pull/6209) merged on March 5, 2024 &mdash; **Medium:** [24 comments](https://github.com/flutter/packages/pull/6209) over 1 week, 383 additions and 13 deletions in 7 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump org.json:json from 20240205 to 20240303 in /packages/in_app_purchase/in_app_purchase/example/android/app<br />
+    <sub>[#6253](https://github.com/flutter/packages/pull/6253) merged on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6253) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.json:json&package-manager=gradle&previous-version=20240205&new-version=20240303)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Make WebKitWebViewWidget unit tests stateless<br />
     <sub>[#6228](https://github.com/flutter/packages/pull/6228) merged on March 4, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/6228) over 4 days, 341 additions and 208 deletions in 1 file</sub><br />
