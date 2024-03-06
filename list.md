@@ -1520,11 +1520,15 @@
 
 ### March 2, 2024 to March 8, 2024
 
-11 commits.
+12 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] backfill native tests for more complete test coverage
     <sub>[#6209](https://github.com/flutter/packages/pull/6209) merged on March 5, 2024 &mdash; **Medium:** [24 comments](https://github.com/flutter/packages/pull/6209) over 1 week, 383 additions and 13 deletions in 7 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Balvinder Singh Gambhir](https://github.com/balvinderz)** &mdash; [image_picker_for_web] migrates to package:web
+    <sub>[#5799](https://github.com/flutter/packages/pull/5799) merged on March 6, 2024 &mdash; **Medium:** [48 comments](https://github.com/flutter/packages/pull/5799) over 2 months, 211 additions and 155 deletions in 8 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal), [Kevin Moore](https://github.com/kevmoo), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Balvinder Singh Gambhir](https://github.com/balvinderz)** &mdash; [video_player_web] migrates to package:web
     <sub>[#5800](https://github.com/flutter/packages/pull/5800) merged on March 6, 2024 &mdash; **Medium:** [24 comments](https://github.com/flutter/packages/pull/5800) over 2 months, 224 additions and 102 deletions in 9 files</sub>
