@@ -71,6 +71,3 @@
 * **[Loïc de Porcaro](https://github.com/Nenuphar12)** &mdash; Update documentation of `AlertDialog`'s default `TextStyle` for Material 3<br />
     <sub>[#144697](https://github.com/flutter/flutter/pull/144697) opened on on March 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144697) 4 additions and 2 deletions in 1 file</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix code sample failing in smoke test<br />
-    <sub>[#144709](https://github.com/flutter/flutter/pull/144709) opened on on March 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144709) 3 additions and 0 deletions in 1 file</sub><br />
-
