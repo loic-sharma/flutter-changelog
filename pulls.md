@@ -56,10 +56,10 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Remove deprecated `errorColor` from `ThemeData`<br />
     <sub>[#144078](https://github.com/flutter/flutter/pull/144078) opened on on February 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144078) 2 additions and 74 deletions in 3 files</sub><br />
 
-* **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Remove `throwOnPluginPubspecError` flag for plugin validation<br />
+* **[August](https://github.com/Gustl22)** &mdash; refactor: Remove `throwOnPluginPubspecError` flag for plugin validation<br />
     <sub>[#144214](https://github.com/flutter/flutter/pull/144214) opened on on February 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144214) 7 additions and 82 deletions in 2 files</sub><br />
 
-* **[Gustl22](https://github.com/Gustl22)** &mdash; refactor: Perform plugin resolution per platform<br />
+* **[August](https://github.com/Gustl22)** &mdash; refactor: Perform plugin resolution per platform<br />
     <sub>[#144506](https://github.com/flutter/flutter/pull/144506) opened on on March 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144506) 64 additions and 141 deletions in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] measure GPU memory usage.<br />
@@ -79,4 +79,7 @@
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in `editable_gesture_test.dart`<br />
     <sub>[#144691](https://github.com/flutter/flutter/pull/144691) opened on on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144691) 12 additions and 10 deletions in 1 file</sub><br />
+
+* **[Loïc de Porcaro](https://github.com/Nenuphar12)** &mdash; Update documentation of `AlertDialog`'s default `TextStyle` for Material 3<br />
+    <sub>[#144697](https://github.com/flutter/flutter/pull/144697) opened on on March 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144697) 4 additions and 2 deletions in 1 file</sub><br />
 
