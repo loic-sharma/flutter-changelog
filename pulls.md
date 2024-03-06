@@ -77,9 +77,6 @@
 * **[Joodo](https://github.com/joodo)** &mdash; fix popup menu offset when using `useRootNavigator` in `PopupMenu`<br />
     <sub>[#144670](https://github.com/flutter/flutter/pull/144670) opened on on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144670) 50 additions and 1 deletion in 2 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in `editable_gesture_test.dart`<br />
-    <sub>[#144691](https://github.com/flutter/flutter/pull/144691) opened on on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144691) 12 additions and 10 deletions in 1 file</sub><br />
-
 * **[Loïc de Porcaro](https://github.com/Nenuphar12)** &mdash; Update documentation of `AlertDialog`'s default `TextStyle` for Material 3<br />
     <sub>[#144697](https://github.com/flutter/flutter/pull/144697) opened on on March 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144697) 4 additions and 2 deletions in 1 file</sub><br />
 
