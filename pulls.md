@@ -77,6 +77,3 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Add platform check to `FocusManager` app lifecycle listener<br />
     <sub>[#144718](https://github.com/flutter/flutter/pull/144718) opened on on March 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144718) 72 additions and 60 deletions in 2 files</sub><br />
 
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Remove `toString()` overrides in `dart:ui`/`package:flutter` in profile/release mode on wasm/vm targets<br />
-    <sub>[#144763](https://github.com/flutter/flutter/pull/144763) opened on on March 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144763) 17 additions and 0 deletions in 5 files</sub><br />
-
