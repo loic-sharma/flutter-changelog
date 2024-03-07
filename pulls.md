@@ -6,7 +6,7 @@
     <sub>[#132273](https://github.com/flutter/flutter/pull/132273) opened on on August 9, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/132273) 45 additions and 12 deletions in 4 files</sub><br />
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] fix service worker caching for custom base href<br />
-    <sub>[#137202](https://github.com/flutter/flutter/pull/137202) opened on on October 25, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/137202) 157 additions and 22 deletions in 3 files</sub><br />
+    <sub>[#137202](https://github.com/flutter/flutter/pull/137202) opened on on October 25, 2023 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/137202) 157 additions and 22 deletions in 3 files</sub><br />
 
 * **[Maximilian Fischer](https://github.com/fischerscode)** &mdash; Move expansion state of `ExpansionTile` to `ExpansionTileController`<br />
     <sub>[#138025](https://github.com/flutter/flutter/pull/138025) opened on on November 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138025) 150 additions and 30 deletions in 2 files</sub><br />
@@ -46,9 +46,6 @@
 
 * **[Zayd Krunz](https://github.com/ShrootBuck)** &mdash; Redundant message fix<br />
     <sub>[#143978](https://github.com/flutter/flutter/pull/143978) opened on on February 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143978) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[August](https://github.com/Gustl22)** &mdash; refactor: Remove `throwOnPluginPubspecError` flag for plugin validation<br />
-    <sub>[#144214](https://github.com/flutter/flutter/pull/144214) opened on on February 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144214) 7 additions and 82 deletions in 2 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; refactor: Perform plugin resolution per platform<br />
     <sub>[#144506](https://github.com/flutter/flutter/pull/144506) opened on on March 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144506) 64 additions and 141 deletions in 2 files</sub><br />
