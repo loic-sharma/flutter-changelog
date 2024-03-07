@@ -12,7 +12,7 @@
     <sub>[#138025](https://github.com/flutter/flutter/pull/138025) opened on on November 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138025) 150 additions and 30 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] add custom tool analysis to analyze.dart, lint Future.catchError<br />
-    <sub>[#140122](https://github.com/flutter/flutter/pull/140122) opened on on December 14, 2023 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/140122) 139 additions and 8 deletions in 6 files</sub><br />
+    <sub>[#140122](https://github.com/flutter/flutter/pull/140122) opened on on December 14, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140122) 139 additions and 8 deletions in 6 files</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#140631](https://github.com/flutter/flutter/pull/140631) opened on on December 27, 2023 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/140631) 6 additions and 6 deletions in 3 files</sub><br />
