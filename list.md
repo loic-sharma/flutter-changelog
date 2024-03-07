@@ -1679,7 +1679,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal), [Kevin Moore](https://github.com/kevmoo), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Balvinder Singh Gambhir](https://github.com/balvinderz)** &mdash; [video_player_web] migrates to package:web
-    <sub>[#5800](https://github.com/flutter/packages/pull/5800) merged on March 6, 2024 &mdash; **Medium:** [27 comments](https://github.com/flutter/packages/pull/5800) over 2 months, 224 additions and 102 deletions in 9 files</sub>
+    <sub>[#5800](https://github.com/flutter/packages/pull/5800) merged on March 6, 2024 &mdash; **Medium:** [28 comments](https://github.com/flutter/packages/pull/5800) over 2 months, 224 additions and 102 deletions in 9 files</sub>
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [David Iglesias](https://github.com/ditman), [Pavel Mazhnik](https://github.com/p-mazhnik), [Srujan Gaddam](https://github.com/srujzs)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump org.json:json from 20240205 to 20240303 in /packages/in_app_purchase/in_app_purchase/example/android/app
