@@ -4,7 +4,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-29 commits.
+30 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix text color for default CupertinoContextMenuAction
     <sub>[#144542](https://github.com/flutter/flutter/pull/144542) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144542) over 7 hours, 18 additions and 10 deletions in 2 files</sub>
@@ -50,6 +50,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Print warning and exit when iOS device is unpaired
     <sub>[#144551](https://github.com/flutter/flutter/pull/144551) merged on March 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144551) over 5 hours, 109 additions and 17 deletions in 9 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [flutter_test] Change KeyEventSimulator default transit mode
+    <sub>[#143847](https://github.com/flutter/flutter/pull/143847) merged on March 7, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/143847) over 2 weeks, 101 additions and 39 deletions in 6 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds missing `style` to `PopupMenuButton`
     <sub>[#143392](https://github.com/flutter/flutter/pull/143392) merged on March 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/143392) over 2 weeks, 39 additions and 0 deletions in 2 files</sub>
