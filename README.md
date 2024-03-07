@@ -4,7 +4,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-31 commits.
+32 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix text color for default CupertinoContextMenuAction<br />
     <sub>[#144542](https://github.com/flutter/flutter/pull/144542) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144542) over 7 hours, 18 additions and 10 deletions in 2 files</sub><br />
@@ -14,6 +14,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Enable asset transformation feature in hot reload workflow (excluding Web)<br />
     <sub>[#144161](https://github.com/flutter/flutter/pull/144161) merged on March 5, 2024 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/144161) over 1 week, 357 additions and 16 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [flutter_test] Use defaultTargetPlatform for key events simulation<br />
+    <sub>[#143579](https://github.com/flutter/flutter/pull/143579) merged on March 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143579) over 2 weeks, 55 additions and 22 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Add missing parameter to `TableBorder.symmetric`, and improve class constructors<br />
     <sub>[#144279](https://github.com/flutter/flutter/pull/144279) merged on March 4, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/144279) over 5 days, 196 additions and 357 deletions in 36 files</sub><br />
