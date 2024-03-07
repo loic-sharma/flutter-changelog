@@ -4,7 +4,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-33 commits.
+34 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix text color for default CupertinoContextMenuAction<br />
     <sub>[#144542](https://github.com/flutter/flutter/pull/144542) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144542) over 7 hours, 18 additions and 10 deletions in 2 files</sub><br />
@@ -43,17 +43,17 @@
     <sub>[#144583](https://github.com/flutter/flutter/pull/144583) merged on March 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144583) over 1 hour, 54 additions and 13 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] add custom tool analysis to analyze.dart, lint Future.catchError<br />
-    <sub>[#140122](https://github.com/flutter/flutter/pull/140122) merged on March 7, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140122) over 2 months, 139 additions and 8 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Run macOS test on `dev/integration_tests/ui`<br />
+    <sub>[#142735](https://github.com/flutter/flutter/pull/142735) merged on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142735) over 1 month, 2 additions and 6 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Fix frameworks added to bundle multiple times instead of lipo<br />
     <sub>[#144688](https://github.com/flutter/flutter/pull/144688) merged on March 7, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/144688) over 1 day, 36 additions and 21 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Run macOS test on `dev/integration_tests/ui`<br />
-    <sub>[#142735](https://github.com/flutter/flutter/pull/142735) merged on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142735) over 1 month, 2 additions and 6 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] add custom tool analysis to analyze.dart, lint Future.catchError<br />
+    <sub>[#140122](https://github.com/flutter/flutter/pull/140122) merged on March 7, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140122) over 2 months, 139 additions and 8 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fill in SliverConstraints fields missing from ==, hashCode, toString<br />
     <sub>[#143661](https://github.com/flutter/flutter/pull/143661) merged on March 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143661) over 2 weeks, 59 additions and 54 deletions in 6 files</sub><br />
@@ -91,9 +91,9 @@
     <sub>[#144641](https://github.com/flutter/flutter/pull/144641) merged on March 6, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/144641) over 21 hours, 5 additions and 5 deletions in 5 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add regression test for TabBar crash<br />
-    <sub>[#144627](https://github.com/flutter/flutter/pull/144627) merged on March 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144627) over 57 minutes, 40 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Update keyboard modifiers link<br />
+    <sub>[#144426](https://github.com/flutter/flutter/pull/144426) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144426) over 3 days, 2 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Do not shorten native assets framework names<br />
     <sub>[#144568](https://github.com/flutter/flutter/pull/144568) merged on March 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144568) over 16 hours, 7 additions and 16 deletions in 3 files</sub><br />
@@ -107,13 +107,9 @@
     <sub>[#144550](https://github.com/flutter/flutter/pull/144550) merged on March 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144550) over 2 hours, 10 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Update keyboard modifiers link<br />
-    <sub>[#144426](https://github.com/flutter/flutter/pull/144426) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144426) over 3 days, 2 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in `editable_gesture_test.dart`<br />
-    <sub>[#144691](https://github.com/flutter/flutter/pull/144691) merged on March 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/144691) over 11 hours, 12 additions and 10 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add regression test for TabBar crash<br />
+    <sub>[#144627](https://github.com/flutter/flutter/pull/144627) merged on March 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144627) over 57 minutes, 40 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Bring back firebase tests to prod<br />
     <sub>[#144703](https://github.com/flutter/flutter/pull/144703) merged on March 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144703) over 2 hours, 0 additions and 3 deletions in 1 file</sub><br />
@@ -135,9 +131,17 @@
     <sub>[#144466](https://github.com/flutter/flutter/pull/144466) merged on March 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/144466) over 3 days, 2 additions and 15 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in `editable_gesture_test.dart`<br />
+    <sub>[#144691](https://github.com/flutter/flutter/pull/144691) merged on March 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/144691) over 11 hours, 12 additions and 10 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Revert "_DefaultTabControllerState should dispose all created TabContoller instances. (#136608)"<br />
     <sub>[#144579](https://github.com/flutter/flutter/pull/144579) merged on March 5, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/144579) over 18 hours, 6 additions and 19 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_x64 module_test_ios to be flaky<br />
+    <sub>[#144681](https://github.com/flutter/flutter/pull/144681) merged on March 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144681) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 ### February 24, 2024 to March 1, 2024
 
