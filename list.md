@@ -4,7 +4,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-28 commits.
+29 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix text color for default CupertinoContextMenuAction
     <sub>[#144542](https://github.com/flutter/flutter/pull/144542) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144542) over 7 hours, 18 additions and 10 deletions in 2 files</sub>
@@ -94,6 +94,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Update keyboard modifiers link
     <sub>[#144426](https://github.com/flutter/flutter/pull/144426) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144426) over 3 days, 2 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in `editable_gesture_test.dart`
+    <sub>[#144691](https://github.com/flutter/flutter/pull/144691) merged on March 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/144691) over 11 hours, 12 additions and 10 deletions in 1 file</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Bring back firebase tests to prod
     <sub>[#144703](https://github.com/flutter/flutter/pull/144703) merged on March 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144703) over 2 hours, 0 additions and 3 deletions in 1 file</sub>
