@@ -4,7 +4,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-36 commits.
+37 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix text color for default CupertinoContextMenuAction
     <sub>[#144542](https://github.com/flutter/flutter/pull/144542) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144542) over 7 hours, 18 additions and 10 deletions in 2 files</sub>
@@ -43,9 +43,9 @@
     <sub>[#144583](https://github.com/flutter/flutter/pull/144583) merged on March 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144583) over 1 hour, 54 additions and 13 deletions in 2 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] add custom tool analysis to analyze.dart, lint Future.catchError
-    <sub>[#140122](https://github.com/flutter/flutter/pull/140122) merged on March 7, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140122) over 2 months, 139 additions and 8 deletions in 6 files</sub>
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+* **[Greg Price](https://github.com/gnprice)** &mdash; Fill in SliverConstraints fields missing from ==, hashCode, toString
+    <sub>[#143661](https://github.com/flutter/flutter/pull/143661) merged on March 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143661) over 2 weeks, 59 additions and 54 deletions in 6 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Run macOS test on `dev/integration_tests/ui`
     <sub>[#142735](https://github.com/flutter/flutter/pull/142735) merged on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142735) over 1 month, 2 additions and 6 deletions in 1 file</sub>
@@ -55,9 +55,9 @@
     <sub>[#144551](https://github.com/flutter/flutter/pull/144551) merged on March 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144551) over 5 hours, 109 additions and 17 deletions in 9 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
-* **[Greg Price](https://github.com/gnprice)** &mdash; Fill in SliverConstraints fields missing from ==, hashCode, toString
-    <sub>[#143661](https://github.com/flutter/flutter/pull/143661) merged on March 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143661) over 2 weeks, 59 additions and 54 deletions in 6 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] add custom tool analysis to analyze.dart, lint Future.catchError
+    <sub>[#140122](https://github.com/flutter/flutter/pull/140122) merged on March 7, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140122) over 2 months, 139 additions and 8 deletions in 6 files</sub>
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Fix frameworks added to bundle multiple times instead of lipo
     <sub>[#144688](https://github.com/flutter/flutter/pull/144688) merged on March 7, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/144688) over 1 day, 36 additions and 21 deletions in 5 files</sub>
@@ -99,6 +99,10 @@
     <sub>[#144627](https://github.com/flutter/flutter/pull/144627) merged on March 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144627) over 57 minutes, 40 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Fix build mode not propagated in android native asset build
+    <sub>[#144550](https://github.com/flutter/flutter/pull/144550) merged on March 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144550) over 2 hours, 10 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Update keyboard modifiers link
     <sub>[#144426](https://github.com/flutter/flutter/pull/144426) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144426) over 3 days, 2 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
@@ -110,10 +114,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable super flakey impeller test.
     <sub>[#144573](https://github.com/flutter/flutter/pull/144573) merged on March 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144573) over 30 minutes, 3 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Matej Knopp](https://github.com/knopp)** &mdash; Fix build mode not propagated in android native asset build
-    <sub>[#144550](https://github.com/flutter/flutter/pull/144550) merged on March 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144550) over 2 hours, 10 additions and 2 deletions in 3 files</sub>
-    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Remove deprecated `errorColor` from `ThemeData`
     <sub>[#144078](https://github.com/flutter/flutter/pull/144078) merged on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144078) over 1 week, 2 additions and 74 deletions in 3 files</sub>
@@ -130,6 +130,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove unnecessary (and the only) `RenderObject.markParentNeedsLayout` override
     <sub>[#144466](https://github.com/flutter/flutter/pull/144466) merged on March 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/144466) over 3 days, 2 additions and 15 deletions in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Enable asset transformation for `flutter run -d <browser>` and `flutter test`
+    <sub>[#144734](https://github.com/flutter/flutter/pull/144734) merged on March 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144734) over 1 day, 113 additions and 2 deletions in 5 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[August](https://github.com/Gustl22)** &mdash; refactor: Remove `throwOnPluginPubspecError` flag for plugin validation
     <sub>[#144214](https://github.com/flutter/flutter/pull/144214) merged on March 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/144214) over 1 week, 7 additions and 82 deletions in 2 files</sub>
