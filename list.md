@@ -1680,7 +1680,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-14 commits.
+15 commits.
 
 * **[Juanjo Tugores](https://github.com/tugorez)** &mdash; [rfw] Add support for widget builders
     <sub>[#5907](https://github.com/flutter/packages/pull/5907) merged on March 6, 2024 &mdash; **Large:** [42 comments](https://github.com/flutter/packages/pull/5907) over 1 month, 1285 additions and 87 deletions in 9 files</sub>
@@ -1697,6 +1697,10 @@
 * **[Balvinder Singh Gambhir](https://github.com/balvinderz)** &mdash; [video_player_web] migrates to package:web
     <sub>[#5800](https://github.com/flutter/packages/pull/5800) merged on March 6, 2024 &mdash; **Medium:** [28 comments](https://github.com/flutter/packages/pull/5800) over 2 months, 224 additions and 102 deletions in 9 files</sub>
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [David Iglesias](https://github.com/ditman), [Pavel Mazhnik](https://github.com/p-mazhnik), [Srujan Gaddam](https://github.com/srujzs)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix another combo of pinned/unpinned merged TableViewCells
+    <sub>[#6283](https://github.com/flutter/packages/pull/6283) merged on March 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6283) over 4 hours, 86 additions and 11 deletions in 4 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump org.json:json from 20240205 to 20240303 in /packages/in_app_purchase/in_app_purchase/example/android/app
     <sub>[#6253](https://github.com/flutter/packages/pull/6253) merged on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6253) over 1 day, 1 addition and 1 deletion in 1 file</sub>

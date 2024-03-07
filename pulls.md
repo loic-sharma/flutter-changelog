@@ -56,9 +56,3 @@
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] include engine cp<br />
     <sub>[#144592](https://github.com/flutter/flutter/pull/144592) opened on on March 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144592) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Joodo](https://github.com/joodo)** &mdash; fix popup menu offset when using `useRootNavigator` in `PopupMenu`<br />
-    <sub>[#144670](https://github.com/flutter/flutter/pull/144670) opened on on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144670) 50 additions and 1 deletion in 2 files</sub><br />
-
-* **[Loïc de Porcaro](https://github.com/Nenuphar12)** &mdash; Update documentation of `AlertDialog`'s default `TextStyle` for Material 3<br />
-    <sub>[#144697](https://github.com/flutter/flutter/pull/144697) opened on on March 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144697) 4 additions and 2 deletions in 1 file</sub><br />
-
