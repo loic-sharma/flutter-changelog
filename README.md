@@ -923,7 +923,7 @@
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add fuchsia_gn_sdk GN variable pointing to //flutter/tools/fuchsia/gn-sdk<br />
-    <sub>[#51287](https://github.com/flutter/engine/pull/51287) merged on March 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51287) over 50 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>[#51287](https://github.com/flutter/engine/pull/51287) merged on March 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51287) over 50 minutes, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Siva](https://github.com/a-siva)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Skip configuration dependency if unit tests are disabled<br />
