@@ -1721,7 +1721,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-15 commits.
+16 commits.
 
 * **[Juanjo Tugores](https://github.com/tugorez)** &mdash; [rfw] Add support for widget builders
     <sub>[#5907](https://github.com/flutter/packages/pull/5907) merged on March 6, 2024 &mdash; **Large:** [42 comments](https://github.com/flutter/packages/pull/5907) over 1 month, 1285 additions and 87 deletions in 9 files</sub>
@@ -1783,6 +1783,10 @@
 * **[Slowhand](https://github.com/Slowhand0309)** &mdash; [video_player] Fix typo in readme
     <sub>[#6264](https://github.com/flutter/packages/pull/6264) merged on March 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6264) over 9 hours, 4 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 7482962148e8 to ba3931984302 (2 revisions)
+    <sub>[#6287](https://github.com/flutter/packages/pull/6287) merged on March 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6287) over 42 minutes, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### February 24, 2024 to March 1, 2024
 
