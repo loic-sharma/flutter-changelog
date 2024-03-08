@@ -59,3 +59,6 @@
 * **[Percival](https://github.com/percival888)** &mdash; Replace dead links<br />
     <sub>[#144827](https://github.com/flutter/flutter/pull/144827) opened on on March 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144827) 10 additions and 10 deletions in 9 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Copy over source maps from dart2js target when they are enabled.<br />
+    <sub>[#144832](https://github.com/flutter/flutter/pull/144832) opened on on March 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144832) 4 additions and 0 deletions in 2 files</sub><br />
+
