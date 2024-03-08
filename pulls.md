@@ -56,6 +56,3 @@
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] include engine cp<br />
     <sub>[#144592](https://github.com/flutter/flutter/pull/144592) opened on on March 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144592) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Add ColorScheme.fromFidelitySeed<br />
-    <sub>[#144805](https://github.com/flutter/flutter/pull/144805) opened on on March 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144805) 201 additions and 8 deletions in 2 files</sub><br />
-
