@@ -59,3 +59,6 @@
 * **[Percival](https://github.com/percival888)** &mdash; Replace dead links<br />
     <sub>[#144827](https://github.com/flutter/flutter/pull/144827) opened on on March 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144827) 10 additions and 10 deletions in 9 files</sub><br />
 
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Revert "[flutter_test] Change KeyEventSimulator default transit mode (#143847)"<br />
+    <sub>[#144843](https://github.com/flutter/flutter/pull/144843) opened on on March 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144843) 39 additions and 101 deletions in 6 files</sub><br />
+
