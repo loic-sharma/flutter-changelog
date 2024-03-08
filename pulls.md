@@ -12,22 +12,22 @@
     <sub>[#138025](https://github.com/flutter/flutter/pull/138025) opened on on November 7, 2023 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/138025) 150 additions and 30 deletions in 2 files</sub><br />
 
 * **[toda-bps](https://github.com/toda-bps)** &mdash; Enable gesture immediately on the underlying page when swiping back<br />
-    <sub>[#140704](https://github.com/flutter/flutter/pull/140704) opened on on December 28, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/140704) 128 additions and 1 deletion in 4 files</sub><br />
+    <sub>[#140704](https://github.com/flutter/flutter/pull/140704) opened on on December 28, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/140704) 128 additions and 1 deletion in 4 files</sub><br />
 
 * **[Casey Rogers](https://github.com/caseycrogers)** &mdash; [WIP] removed generic from page and descendants<br />
     <sub>[#140743](https://github.com/flutter/flutter/pull/140743) opened on on December 29, 2023 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/140743) 163 additions and 176 deletions in 18 files</sub><br />
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Change dialog font family<br />
-    <sub>[#141295](https://github.com/flutter/flutter/pull/141295) opened on on January 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/141295) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#141295](https://github.com/flutter/flutter/pull/141295) opened on on January 10, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/141295) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Yukiteru Attano](https://github.com/YukiAttano)** &mdash; fix: added revertFlutterImage call in integration_tests<br />
-    <sub>[#142166](https://github.com/flutter/flutter/pull/142166) opened on on January 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142166) 35 additions and 5 deletions in 4 files</sub><br />
+    <sub>[#142166](https://github.com/flutter/flutter/pull/142166) opened on on January 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/142166) 35 additions and 5 deletions in 4 files</sub><br />
 
 * **[Maximilian Fischer](https://github.com/fischerscode)** &mdash; [material] Simplify building responsive layouts based on window size classes.<br />
-    <sub>[#142348](https://github.com/flutter/flutter/pull/142348) opened on on January 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/142348) 234 additions and 0 deletions in 5 files</sub><br />
+    <sub>[#142348](https://github.com/flutter/flutter/pull/142348) opened on on January 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142348) 234 additions and 0 deletions in 5 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [WIP] Updating toolbarHeight for M3 fidelity<br />
-    <sub>[#142671](https://github.com/flutter/flutter/pull/142671) opened on on February 1, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/142671) 330 additions and 292 deletions in 37 files</sub><br />
+    <sub>[#142671](https://github.com/flutter/flutter/pull/142671) opened on on February 1, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/142671) 330 additions and 292 deletions in 37 files</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Detect WSL and run flutter in cmd<br />
     <sub>[#142803](https://github.com/flutter/flutter/pull/142803) opened on on February 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/142803) 4 additions and 0 deletions in 1 file</sub><br />
