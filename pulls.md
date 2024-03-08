@@ -48,7 +48,7 @@
     <sub>[#143978](https://github.com/flutter/flutter/pull/143978) opened on on February 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143978) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; refactor: Perform plugin resolution per platform<br />
-    <sub>[#144506](https://github.com/flutter/flutter/pull/144506) opened on on March 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144506) 57 additions and 59 deletions in 1 file</sub><br />
+    <sub>[#144506](https://github.com/flutter/flutter/pull/144506) opened on on March 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/144506) 57 additions and 59 deletions in 1 file</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Use a separate `TextPainter` for intrinsics calculation in `RenderEditable` and `RenderParagraph`<br />
     <sub>[#144577](https://github.com/flutter/flutter/pull/144577) opened on on March 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144577) 183 additions and 112 deletions in 3 files</sub><br />
