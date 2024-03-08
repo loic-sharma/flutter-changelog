@@ -4,7 +4,7 @@
 
 ### March 2, 2024 to March 8, 2024
 
-39 commits.
+41 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix text color for default CupertinoContextMenuAction
     <sub>[#144542](https://github.com/flutter/flutter/pull/144542) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144542) over 7 hours, 18 additions and 10 deletions in 2 files</sub>
@@ -23,6 +23,10 @@
     <sub>[#143579](https://github.com/flutter/flutter/pull/143579) merged on March 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143579) over 2 weeks, 55 additions and 22 deletions in 3 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Fixes the transition builder changing the Cupertino transition on Android.
+    <sub>[#134790](https://github.com/flutter/flutter/pull/134790) merged on March 8, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/134790) over 5 months, 84 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Remove `toString()` overrides in `dart:ui`/`package:flutter` in profile/release mode on wasm/vm targets
     <sub>[#144763](https://github.com/flutter/flutter/pull/144763) merged on March 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144763) over 23 hours, 17 additions and 0 deletions in 5 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
@@ -30,6 +34,10 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Doc fix for `DropdownButtonFormField.value`
     <sub>[#144427](https://github.com/flutter/flutter/pull/144427) merged on March 4, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/144427) over 3 days, 5 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Copy over source maps from dart2js target when they are enabled.
+    <sub>[#144832](https://github.com/flutter/flutter/pull/144832) merged on March 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144832) over 2 hours, 4 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Loïc de Porcaro](https://github.com/Nenuphar12)** &mdash; Update documentation of `AlertDialog`'s default `TextStyle` for Material 3
     <sub>[#144697](https://github.com/flutter/flutter/pull/144697) merged on March 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144697) over 1 day, 4 additions and 2 deletions in 1 file</sub>
@@ -51,32 +59,32 @@
     <sub>[#144583](https://github.com/flutter/flutter/pull/144583) merged on March 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144583) over 1 hour, 54 additions and 13 deletions in 2 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; Fix frameworks added to bundle multiple times instead of lipo
-    <sub>[#144688](https://github.com/flutter/flutter/pull/144688) merged on March 7, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/144688) over 1 day, 36 additions and 21 deletions in 5 files</sub>
-    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Print warning and exit when iOS device is unpaired
+    <sub>[#144551](https://github.com/flutter/flutter/pull/144551) merged on March 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144551) over 5 hours, 109 additions and 17 deletions in 9 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fill in SliverConstraints fields missing from ==, hashCode, toString
     <sub>[#143661](https://github.com/flutter/flutter/pull/143661) merged on March 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143661) over 2 weeks, 59 additions and 54 deletions in 6 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] add custom tool analysis to analyze.dart, lint Future.catchError
-    <sub>[#140122](https://github.com/flutter/flutter/pull/140122) merged on March 7, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140122) over 2 months, 139 additions and 8 deletions in 6 files</sub>
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Run macOS test on `dev/integration_tests/ui`
     <sub>[#142735](https://github.com/flutter/flutter/pull/142735) merged on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142735) over 1 month, 2 additions and 6 deletions in 1 file</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Print warning and exit when iOS device is unpaired
-    <sub>[#144551](https://github.com/flutter/flutter/pull/144551) merged on March 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144551) over 5 hours, 109 additions and 17 deletions in 9 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub>
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] add custom tool analysis to analyze.dart, lint Future.catchError
+    <sub>[#140122](https://github.com/flutter/flutter/pull/140122) merged on March 7, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140122) over 2 months, 139 additions and 8 deletions in 6 files</sub>
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Fix frameworks added to bundle multiple times instead of lipo
+    <sub>[#144688](https://github.com/flutter/flutter/pull/144688) merged on March 7, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/144688) over 1 day, 36 additions and 21 deletions in 5 files</sub>
+    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
 
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; Fixed -> DropdownMenu throws exception when it is in any scrollable l…
     <sub>[#140566](https://github.com/flutter/flutter/pull/140566) merged on March 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/140566) over 2 months, 31 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [flutter_test] Change KeyEventSimulator default transit mode
-    <sub>[#143847](https://github.com/flutter/flutter/pull/143847) merged on March 7, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/143847) over 2 weeks, 101 additions and 39 deletions in 6 files</sub>
+    <sub>[#143847](https://github.com/flutter/flutter/pull/143847) merged on March 7, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/143847) over 2 weeks, 101 additions and 39 deletions in 6 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds missing `style` to `PopupMenuButton`
@@ -103,13 +111,13 @@
     <sub>[#144641](https://github.com/flutter/flutter/pull/144641) merged on March 6, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/144641) over 21 hours, 5 additions and 5 deletions in 5 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add regression test for TabBar crash
-    <sub>[#144627](https://github.com/flutter/flutter/pull/144627) merged on March 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144627) over 57 minutes, 40 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Update keyboard modifiers link
     <sub>[#144426](https://github.com/flutter/flutter/pull/144426) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144426) over 3 days, 2 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add regression test for TabBar crash
+    <sub>[#144627](https://github.com/flutter/flutter/pull/144627) merged on March 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144627) over 57 minutes, 40 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable super flakey impeller test.
     <sub>[#144573](https://github.com/flutter/flutter/pull/144573) merged on March 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144573) over 30 minutes, 3 additions and 1 deletion in 1 file</sub>
@@ -123,17 +131,13 @@
     <sub>[#144568](https://github.com/flutter/flutter/pull/144568) merged on March 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144568) over 16 hours, 7 additions and 16 deletions in 3 files</sub>
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; remove unused `firstBuildTime` parameter in `DevFS::update`
-    <sub>[#144576](https://github.com/flutter/flutter/pull/144576) merged on March 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144576) over 18 hours, 0 additions and 16 deletions in 8 files</sub>
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Enable asset transformation for `flutter run -d <browser>` and `flutter test`
+    <sub>[#144734](https://github.com/flutter/flutter/pull/144734) merged on March 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144734) over 1 day, 113 additions and 2 deletions in 5 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove unnecessary (and the only) `RenderObject.markParentNeedsLayout` override
     <sub>[#144466](https://github.com/flutter/flutter/pull/144466) merged on March 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/144466) over 3 days, 2 additions and 15 deletions in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Enable asset transformation for `flutter run -d <browser>` and `flutter test`
-    <sub>[#144734](https://github.com/flutter/flutter/pull/144734) merged on March 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144734) over 1 day, 113 additions and 2 deletions in 5 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[August](https://github.com/Gustl22)** &mdash; refactor: Remove `throwOnPluginPubspecError` flag for plugin validation
     <sub>[#144214](https://github.com/flutter/flutter/pull/144214) merged on March 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/144214) over 1 week, 7 additions and 82 deletions in 2 files</sub>
@@ -153,6 +157,10 @@
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; make DevFSContent descendants immutable
     <sub>[#144664](https://github.com/flutter/flutter/pull/144664) merged on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144664) over 15 hours, 6 additions and 37 deletions in 2 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; remove unused `firstBuildTime` parameter in `DevFS::update`
+    <sub>[#144576](https://github.com/flutter/flutter/pull/144576) merged on March 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144576) over 18 hours, 0 additions and 16 deletions in 8 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Revert "_DefaultTabControllerState should dispose all created TabContoller instances. (#136608)"
