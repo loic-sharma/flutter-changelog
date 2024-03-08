@@ -76,7 +76,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [flutter_test] Change KeyEventSimulator default transit mode<br />
-    <sub>[#143847](https://github.com/flutter/flutter/pull/143847) merged on March 7, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/143847) over 2 weeks, 101 additions and 39 deletions in 6 files</sub><br />
+    <sub>[#143847](https://github.com/flutter/flutter/pull/143847) merged on March 7, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/143847) over 2 weeks, 101 additions and 39 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds missing `style` to `PopupMenuButton`<br />
