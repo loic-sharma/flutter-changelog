@@ -59,3 +59,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Factor out use of "print" in flutter_goldens<br />
     <sub>[#144846](https://github.com/flutter/flutter/pull/144846) opened on on March 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144846) 98 additions and 29 deletions in 4 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Rename isAvailableForEnvironment to isForEnvironment (#143176)<br />
+    <sub>[#144858](https://github.com/flutter/flutter/pull/144858) opened on on March 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144858) 46 additions and 34 deletions in 3 files</sub><br />
+
