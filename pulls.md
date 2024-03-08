@@ -59,6 +59,3 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Factor out use of "print" in flutter_goldens<br />
     <sub>[#144846](https://github.com/flutter/flutter/pull/144846) opened on on March 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144846) 98 additions and 29 deletions in 4 files</sub><br />
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Update integration tests regexes.<br />
-    <sub>[#144847](https://github.com/flutter/flutter/pull/144847) opened on on March 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144847) 2 additions and 2 deletions in 2 files</sub><br />
-
