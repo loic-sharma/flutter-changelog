@@ -1770,7 +1770,11 @@
 
 ### March 2, 2024 to March 8, 2024
 
-16 commits.
+17 commits.
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [in_app_purchase_android] Add UserChoiceBilling mode. <br />
+    <sub>[#6162](https://github.com/flutter/packages/pull/6162) merged on March 8, 2024 &mdash; **Large:** [26 comments](https://github.com/flutter/packages/pull/6162) over 2 weeks, 874 additions and 25 deletions in 23 files</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Juanjo Tugores](https://github.com/tugorez)** &mdash; [rfw] Add support for widget builders<br />
     <sub>[#5907](https://github.com/flutter/packages/pull/5907) merged on March 6, 2024 &mdash; **Large:** [42 comments](https://github.com/flutter/packages/pull/5907) over 1 month, 1285 additions and 87 deletions in 9 files</sub><br />
