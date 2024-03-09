@@ -848,7 +848,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Optimize overlays in CanvasKit<br />
-    <sub>[#47317](https://github.com/flutter/engine/pull/47317) merged on March 8, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/engine/pull/47317) over 4 months, 1014 additions and 942 deletions in 10 files</sub><br />
+    <sub>[#47317](https://github.com/flutter/engine/pull/47317) merged on March 8, 2024 &mdash; **Extra large:** [10 comments](https://github.com/flutter/engine/pull/47317) over 4 months, 1014 additions and 942 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Enable depth buffer clipping & Stencil-then-Cover path rendering.<br />
