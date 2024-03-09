@@ -27,6 +27,10 @@
     <sub>[#143579](https://github.com/flutter/flutter/pull/143579) merged on March 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143579) over 2 weeks, 55 additions and 22 deletions in 3 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [flutter_test] Change KeyEventSimulator default transit mode
+    <sub>[#143847](https://github.com/flutter/flutter/pull/143847) merged on March 7, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/143847) over 2 weeks, 101 additions and 39 deletions in 6 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Fixes the transition builder changing the Cupertino transition on Android.
     <sub>[#134790](https://github.com/flutter/flutter/pull/134790) merged on March 8, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/134790) over 5 months, 84 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Michael Goderbauer](https://github.com/goderbauer)</sub>
@@ -63,10 +67,6 @@
     <sub>[#144630](https://github.com/flutter/flutter/pull/144630) merged on March 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144630) over 2 hours, 26 additions and 10 deletions in 2 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Run macOS test on `dev/integration_tests/ui`
-    <sub>[#142735](https://github.com/flutter/flutter/pull/142735) merged on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142735) over 1 month, 2 additions and 6 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Print warning and exit when iOS device is unpaired
     <sub>[#144551](https://github.com/flutter/flutter/pull/144551) merged on March 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144551) over 5 hours, 109 additions and 17 deletions in 9 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub>
@@ -74,6 +74,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Fix frameworks added to bundle multiple times instead of lipo
     <sub>[#144688](https://github.com/flutter/flutter/pull/144688) merged on March 7, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/144688) over 1 day, 36 additions and 21 deletions in 5 files</sub>
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Run macOS test on `dev/integration_tests/ui`
+    <sub>[#142735](https://github.com/flutter/flutter/pull/142735) merged on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142735) over 1 month, 2 additions and 6 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fill in SliverConstraints fields missing from ==, hashCode, toString
     <sub>[#143661](https://github.com/flutter/flutter/pull/143661) merged on March 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143661) over 2 weeks, 59 additions and 54 deletions in 6 files</sub>
@@ -90,10 +94,6 @@
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; Fixed -> DropdownMenu throws exception when it is in any scrollable l…
     <sub>[#140566](https://github.com/flutter/flutter/pull/140566) merged on March 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/140566) over 2 months, 31 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [flutter_test] Change KeyEventSimulator default transit mode
-    <sub>[#143847](https://github.com/flutter/flutter/pull/143847) merged on March 7, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/143847) over 2 weeks, 101 additions and 39 deletions in 6 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds missing `style` to `PopupMenuButton`
     <sub>[#143392](https://github.com/flutter/flutter/pull/143392) merged on March 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/143392) over 2 weeks, 39 additions and 0 deletions in 2 files</sub>
