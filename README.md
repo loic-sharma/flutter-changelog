@@ -812,6 +812,10 @@
     <sub>[#50876](https://github.com/flutter/engine/pull/50876) merged on March 8, 2024 &mdash; **Medium:** [50 comments](https://github.com/flutter/engine/pull/50876) over 2 weeks, 237 additions and 148 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub><br />
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Optimize overlays in CanvasKit<br />
+    <sub>[#47317](https://github.com/flutter/engine/pull/47317) merged on March 8, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/engine/pull/47317) over 4 months, 1014 additions and 942 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
 * **[Dan Field](https://github.com/dnfield)** &mdash; Use `io.flutter.Build.API_LEVELS` rather than `android.os.Build.VERSION_CODES`<br />
     <sub>[#51171](https://github.com/flutter/engine/pull/51171) merged on March 8, 2024 &mdash; **Large:** [29 comments](https://github.com/flutter/engine/pull/51171) over 4 days, 390 additions and 269 deletions in 63 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99), [Gray Mackall](https://github.com/gmackall)</sub><br />
@@ -846,10 +850,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Revamp the `scenario_app/../README.md` to encourage self-sustenance<br />
     <sub>[#51196](https://github.com/flutter/engine/pull/51196) merged on March 6, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/engine/pull/51196) over 19 hours, 326 additions and 117 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke), [Gray Mackall](https://github.com/gmackall)</sub><br />
-
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Optimize overlays in CanvasKit<br />
-    <sub>[#47317](https://github.com/flutter/engine/pull/47317) merged on March 8, 2024 &mdash; **Extra large:** [10 comments](https://github.com/flutter/engine/pull/47317) over 4 months, 1014 additions and 942 deletions in 10 files</sub><br />
-    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Enable depth buffer clipping & Stencil-then-Cover path rendering.<br />
     <sub>[#50856](https://github.com/flutter/engine/pull/50856) merged on March 5, 2024 &mdash; **Small:** [63 comments](https://github.com/flutter/engine/pull/50856) over 1 week, 4 additions and 6 deletions in 2 files</sub><br />
