@@ -53,9 +53,6 @@
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] include engine cp<br />
     <sub>[#144592](https://github.com/flutter/flutter/pull/144592) opened on on March 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144592) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Revert "[flutter_test] Change KeyEventSimulator default transit mode (#143847)"<br />
-    <sub>[#144843](https://github.com/flutter/flutter/pull/144843) opened on on March 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144843) 39 additions and 101 deletions in 6 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Factor out use of "print" in flutter_goldens<br />
     <sub>[#144846](https://github.com/flutter/flutter/pull/144846) opened on on March 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144846) 98 additions and 29 deletions in 4 files</sub><br />
 
