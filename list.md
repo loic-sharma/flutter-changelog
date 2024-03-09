@@ -4,12 +4,16 @@
 
 ### March 2, 2024 to March 8, 2024
 
-46 commits.
+47 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix text color for default CupertinoContextMenuAction
     <sub>[#144542](https://github.com/flutter/flutter/pull/144542) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144542) over 7 hours, 18 additions and 10 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
     <sub><details><summary>1 image...</summary>![Capture d’écran 2024-03-04 à 14 58 45](https://github.com/flutter/flutter/assets/840911/6a06715d-b2b8-49e1-b6de-37c03b96b627) |  ![Capture d’écran 2024-03-04 à 15 00 27](https://github.com/flutter/flutter/assets/840911/ed7c71ec-96f2-46ca-a5f6-ba3890732e33)</details></sub>
+
+* **[yim](https://github.com/yiiim)** &mdash; Fix multiple calls to Slider's onChanged.
+    <sub>[#143680](https://github.com/flutter/flutter/pull/143680) merged on March 9, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/143680) over 2 weeks, 39 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Enable asset transformation feature in hot reload workflow (excluding Web)
     <sub>[#144161](https://github.com/flutter/flutter/pull/144161) merged on March 5, 2024 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/144161) over 1 week, 357 additions and 16 deletions in 10 files</sub>
@@ -63,21 +67,21 @@
     <sub>[#142735](https://github.com/flutter/flutter/pull/142735) merged on March 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142735) over 1 month, 2 additions and 6 deletions in 1 file</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] add custom tool analysis to analyze.dart, lint Future.catchError
-    <sub>[#140122](https://github.com/flutter/flutter/pull/140122) merged on March 7, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140122) over 2 months, 139 additions and 8 deletions in 6 files</sub>
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
-
-* **[Greg Price](https://github.com/gnprice)** &mdash; Fill in SliverConstraints fields missing from ==, hashCode, toString
-    <sub>[#143661](https://github.com/flutter/flutter/pull/143661) merged on March 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143661) over 2 weeks, 59 additions and 54 deletions in 6 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Print warning and exit when iOS device is unpaired
+    <sub>[#144551](https://github.com/flutter/flutter/pull/144551) merged on March 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144551) over 5 hours, 109 additions and 17 deletions in 9 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Fix frameworks added to bundle multiple times instead of lipo
     <sub>[#144688](https://github.com/flutter/flutter/pull/144688) merged on March 7, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/144688) over 1 day, 36 additions and 21 deletions in 5 files</sub>
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Print warning and exit when iOS device is unpaired
-    <sub>[#144551](https://github.com/flutter/flutter/pull/144551) merged on March 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144551) over 5 hours, 109 additions and 17 deletions in 9 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub>
+* **[Greg Price](https://github.com/gnprice)** &mdash; Fill in SliverConstraints fields missing from ==, hashCode, toString
+    <sub>[#143661](https://github.com/flutter/flutter/pull/143661) merged on March 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143661) over 2 weeks, 59 additions and 54 deletions in 6 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] add custom tool analysis to analyze.dart, lint Future.catchError
+    <sub>[#140122](https://github.com/flutter/flutter/pull/140122) merged on March 7, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/140122) over 2 months, 139 additions and 8 deletions in 6 files</sub>
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Rename isAvailableForEnvironment to isForEnvironment
     <sub>[#143176](https://github.com/flutter/flutter/pull/143176) merged on March 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/143176) over 4 weeks, 46 additions and 34 deletions in 3 files</sub>
@@ -115,25 +119,17 @@
     <sub>[#144709](https://github.com/flutter/flutter/pull/144709) merged on March 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144709) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] measure GPU memory usage.
-    <sub>[#144575](https://github.com/flutter/flutter/pull/144575) merged on March 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144575) over 1 day, 115 additions and 0 deletions in 5 files</sub>
-    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add regression test for TabBar crash
     <sub>[#144627](https://github.com/flutter/flutter/pull/144627) merged on March 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144627) over 57 minutes, 40 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] measure GPU memory usage.
+    <sub>[#144575](https://github.com/flutter/flutter/pull/144575) merged on March 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144575) over 1 day, 115 additions and 0 deletions in 5 files</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub>
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Update keyboard modifiers link
     <sub>[#144426](https://github.com/flutter/flutter/pull/144426) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144426) over 3 days, 2 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
-* **[Matej Knopp](https://github.com/knopp)** &mdash; Do not shorten native assets framework names
-    <sub>[#144568](https://github.com/flutter/flutter/pull/144568) merged on March 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144568) over 16 hours, 7 additions and 16 deletions in 3 files</sub>
-    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
-
-* **[Matej Knopp](https://github.com/knopp)** &mdash; Fix build mode not propagated in android native asset build
-    <sub>[#144550](https://github.com/flutter/flutter/pull/144550) merged on March 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144550) over 2 hours, 10 additions and 2 deletions in 3 files</sub>
-    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable super flakey impeller test.
     <sub>[#144573](https://github.com/flutter/flutter/pull/144573) merged on March 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144573) over 30 minutes, 3 additions and 1 deletion in 1 file</sub>
@@ -142,6 +138,14 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Update android templates to use target sdk 34
     <sub>[#144641](https://github.com/flutter/flutter/pull/144641) merged on March 6, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/144641) over 21 hours, 5 additions and 5 deletions in 5 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Fix build mode not propagated in android native asset build
+    <sub>[#144550](https://github.com/flutter/flutter/pull/144550) merged on March 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144550) over 2 hours, 10 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Do not shorten native assets framework names
+    <sub>[#144568](https://github.com/flutter/flutter/pull/144568) merged on March 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144568) over 16 hours, 7 additions and 16 deletions in 3 files</sub>
+    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Enable asset transformation for `flutter run -d <browser>` and `flutter test`
     <sub>[#144734](https://github.com/flutter/flutter/pull/144734) merged on March 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144734) over 1 day, 113 additions and 2 deletions in 5 files</sub>
