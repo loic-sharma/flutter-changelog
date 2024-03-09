@@ -6,14 +6,14 @@
 
 47 commits.
 
+* **[yim](https://github.com/yiiim)** &mdash; Fix multiple calls to Slider's onChanged.
+    <sub>[#143680](https://github.com/flutter/flutter/pull/143680) merged on March 9, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/143680) over 2 weeks, 39 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix text color for default CupertinoContextMenuAction
     <sub>[#144542](https://github.com/flutter/flutter/pull/144542) merged on March 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144542) over 7 hours, 18 additions and 10 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
     <sub><details><summary>1 image...</summary>![Capture d’écran 2024-03-04 à 14 58 45](https://github.com/flutter/flutter/assets/840911/6a06715d-b2b8-49e1-b6de-37c03b96b627) |  ![Capture d’écran 2024-03-04 à 15 00 27](https://github.com/flutter/flutter/assets/840911/ed7c71ec-96f2-46ca-a5f6-ba3890732e33)</details></sub>
-
-* **[yim](https://github.com/yiiim)** &mdash; Fix multiple calls to Slider's onChanged.
-    <sub>[#143680](https://github.com/flutter/flutter/pull/143680) merged on March 9, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/143680) over 2 weeks, 39 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Enable asset transformation feature in hot reload workflow (excluding Web)
     <sub>[#144161](https://github.com/flutter/flutter/pull/144161) merged on March 5, 2024 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/144161) over 1 week, 357 additions and 16 deletions in 10 files</sub>
