@@ -71,3 +71,6 @@
 * **[Xavier H.](https://github.com/xvrh)** &mdash; Make WidgetTester.pageBack work with localised app<br />
     <sub>[#144922](https://github.com/flutter/flutter/pull/144922) opened on on March 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144922) 129 additions and 2 deletions in 2 files</sub><br />
 
+* **[Jonathan Simon](https://github.com/JSimonDev)** &mdash; Fixed so that editableText shows intermediate obscured characters when TextField reaches maxLength.<br />
+    <sub>[#144929](https://github.com/flutter/flutter/pull/144929) opened on on March 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144929) 92 additions and 2 deletions in 3 files</sub><br />
+
