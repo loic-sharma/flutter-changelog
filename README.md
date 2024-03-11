@@ -521,7 +521,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-6 commits.
+7 commits.
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Move emscripten out of the buildroot into the flutter repo. (#51299)"<br />
     <sub>[#51330](https://github.com/flutter/engine/pull/51330) merged on March 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51330) over 1 minute, 20 additions and 9 deletions in 7 files</sub><br />
@@ -530,6 +530,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Move emscripten out of the buildroot into the flutter repo.<br />
     <sub>[#51299](https://github.com/flutter/engine/pull/51299) merged on March 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51299) over 2 days, 9 additions and 20 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [gn] Change sdk_rewriter() template to use depfiles<br />
+    <sub>[#51314](https://github.com/flutter/engine/pull/51314) merged on March 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51314) over 1 day, 46 additions and 29 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Conditionally run `golden_tests_harvester` for `run_impeller_golden_tests`.<br />
     <sub>[#51325](https://github.com/flutter/engine/pull/51325) merged on March 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51325) over 1 hour, 10 additions and 0 deletions in 1 file</sub><br />
