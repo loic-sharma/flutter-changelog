@@ -27,7 +27,7 @@
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Fail tests on exceptions raised after test completed (#144706)"<br />
-    <sub>[#144970](https://github.com/flutter/flutter/pull/144970) merged on March 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144970) over 50 seconds, 7 additions and 54 deletions in 4 files</sub><br />
+    <sub>[#144970](https://github.com/flutter/flutter/pull/144970) merged on March 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144970) over 50 seconds, 7 additions and 54 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Expose build mode in environment of asset transformer processes (#144752)"<br />
@@ -537,7 +537,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-9 commits.
+10 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make scenario app have translucent splash screen so it doesn't affect screenshot colors<br />
     <sub>[#51329](https://github.com/flutter/engine/pull/51329) merged on March 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51329) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
@@ -550,6 +550,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Move emscripten out of the buildroot into the flutter repo.<br />
     <sub>[#51299](https://github.com/flutter/engine/pull/51299) merged on March 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51299) over 2 days, 9 additions and 20 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [codesign] fix typo in binary path<br />
+    <sub>[#51339](https://github.com/flutter/engine/pull/51339) merged on March 11, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51339) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [godofredoc](https://github.com/godofredoc)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Split initialization of the _flutter namespace and loader object.<br />
     <sub>[#51294](https://github.com/flutter/engine/pull/51294) merged on March 11, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/51294) over 3 days, 14 additions and 4 deletions in 2 files</sub><br />
