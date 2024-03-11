@@ -502,11 +502,15 @@
 
 ### March 9, 2024 to March 15, 2024
 
-1 commits.
+2 commits.
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Disambiguate conditional expressions
     <sub>[#51285](https://github.com/flutter/engine/pull/51285) merged on March 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51285) over 2 days, 4 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[utzcoz](https://github.com/utzcoz)** &mdash; Bump Robolectric to 4.11.1
+    <sub>[#51310](https://github.com/flutter/engine/pull/51310) merged on March 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51310) over 1 day, 3 additions and 3 deletions in 3 files</sub>
+    <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Gray Mackall](https://github.com/gmackall)</sub>
 
 ### March 2, 2024 to March 8, 2024
 
