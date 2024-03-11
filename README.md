@@ -4,11 +4,15 @@
 
 ### March 9, 2024 to March 15, 2024
 
-1 commits.
+2 commits.
 
 * **[victorgalo](https://github.com/victorgalo)** &mdash; Skip test temporarily until headingLevel is added in engine (issue 41…<br />
     <sub>[#135077](https://github.com/flutter/flutter/pull/135077) merged on March 11, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/135077) over 5 months, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Expose build mode in environment of asset transformer processes<br />
+    <sub>[#144752](https://github.com/flutter/flutter/pull/144752) merged on March 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144752) over 4 days, 70 additions and 9 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 ### March 2, 2024 to March 8, 2024
 
@@ -513,10 +517,14 @@
 
 ### March 9, 2024 to March 15, 2024
 
-5 commits.
+6 commits.
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Move emscripten out of the buildroot into the flutter repo. (#51299)"<br />
+    <sub>[#51330](https://github.com/flutter/engine/pull/51330) merged on March 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51330) over 1 minute, 20 additions and 9 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Move emscripten out of the buildroot into the flutter repo.<br />
-    <sub>[#51299](https://github.com/flutter/engine/pull/51299) merged on March 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51299) over 2 days, 9 additions and 20 deletions in 7 files</sub><br />
+    <sub>[#51299](https://github.com/flutter/engine/pull/51299) merged on March 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51299) over 2 days, 9 additions and 20 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Conditionally run `golden_tests_harvester` for `run_impeller_golden_tests`.<br />
