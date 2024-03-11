@@ -513,7 +513,11 @@
 
 ### March 9, 2024 to March 15, 2024
 
-3 commits.
+4 commits.
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Move emscripten out of the buildroot into the flutter repo.
+    <sub>[#51299](https://github.com/flutter/engine/pull/51299) merged on March 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51299) over 2 days, 9 additions and 20 deletions in 7 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove flaky check from observatory/tracing_test.dart
     <sub>[#51320](https://github.com/flutter/engine/pull/51320) merged on March 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51320) over 1 hour, 10 additions and 7 deletions in 1 file</sub>
