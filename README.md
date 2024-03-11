@@ -4,7 +4,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-6 commits.
+7 commits.
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Refactoring `if` chains into `switch` statements<br />
     <sub>[#144905](https://github.com/flutter/flutter/pull/144905) merged on March 11, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/144905) over 1 day, 404 additions and 349 deletions in 20 files</sub><br />
@@ -23,8 +23,12 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fail tests on exceptions raised after test completed<br />
-    <sub>[#144706](https://github.com/flutter/flutter/pull/144706) merged on March 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144706) over 5 days, 54 additions and 7 deletions in 4 files</sub><br />
+    <sub>[#144706](https://github.com/flutter/flutter/pull/144706) merged on March 11, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/144706) over 5 days, 54 additions and 7 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Fail tests on exceptions raised after test completed (#144706)"<br />
+    <sub>[#144970](https://github.com/flutter/flutter/pull/144970) merged on March 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144970) over 50 seconds, 7 additions and 54 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Expose build mode in environment of asset transformer processes (#144752)"<br />
     <sub>[#144957](https://github.com/flutter/flutter/pull/144957) merged on March 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144957) over 50 seconds, 9 additions and 70 deletions in 13 files</sub><br />
