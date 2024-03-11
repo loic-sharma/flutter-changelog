@@ -53,9 +53,6 @@
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] include engine cp<br />
     <sub>[#144592](https://github.com/flutter/flutter/pull/144592) opened on on March 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144592) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Expose build mode in environment of asset transformer processes<br />
-    <sub>[#144752](https://github.com/flutter/flutter/pull/144752) opened on on March 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144752) 70 additions and 9 deletions in 13 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Factor out use of "print" in flutter_goldens<br />
     <sub>[#144846](https://github.com/flutter/flutter/pull/144846) opened on on March 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144846) 98 additions and 29 deletions in 4 files</sub><br />
 
@@ -76,4 +73,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; InputDecorator M3 tests migration - Step5 - Helper/Counter/Error<br />
     <sub>[#144932](https://github.com/flutter/flutter/pull/144932) opened on on March 11, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/144932) 1122 additions and 377 deletions in 1 file</sub><br />
+
+* **[sanni prasad](https://github.com/prasadsunny1)** &mdash; Fix for issue 140372<br />
+    <sub>[#144947](https://github.com/flutter/flutter/pull/144947) opened on on March 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144947) 39 additions and 0 deletions in 2 files</sub><br />
 
