@@ -74,3 +74,6 @@
 * **[Jonathan Simon](https://github.com/JSimonDev)** &mdash; Fixed so that editableText shows intermediate obscured characters when TextField reaches maxLength.<br />
     <sub>[#144929](https://github.com/flutter/flutter/pull/144929) opened on on March 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144929) 92 additions and 2 deletions in 3 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; InputDecorator M3 tests migration - Step5 - Helper/Counter/Error<br />
+    <sub>[#144932](https://github.com/flutter/flutter/pull/144932) opened on on March 11, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/144932) 1111 additions and 377 deletions in 1 file</sub><br />
+
