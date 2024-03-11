@@ -533,7 +533,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-8 commits.
+9 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make scenario app have translucent splash screen so it doesn't affect screenshot colors
     <sub>[#51329](https://github.com/flutter/engine/pull/51329) merged on March 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51329) over 2 hours, 1 addition and 0 deletions in 1 file</sub>
@@ -546,6 +546,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Move emscripten out of the buildroot into the flutter repo.
     <sub>[#51299](https://github.com/flutter/engine/pull/51299) merged on March 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51299) over 2 days, 9 additions and 20 deletions in 7 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Split initialization of the _flutter namespace and loader object.
+    <sub>[#51294](https://github.com/flutter/engine/pull/51294) merged on March 11, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/51294) over 3 days, 14 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [gn] Change sdk_rewriter() template to use depfiles
     <sub>[#51314](https://github.com/flutter/engine/pull/51314) merged on March 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51314) over 1 day, 46 additions and 29 deletions in 3 files</sub>
