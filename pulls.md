@@ -59,9 +59,6 @@
 * **[Elias Elfarri](https://github.com/Moelfarri)** &mdash; Write unit tests for API Examples of checkbox.0, checkbox.1<br />
     <sub>[#144888](https://github.com/flutter/flutter/pull/144888) opened on on March 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144888) 129 additions and 2 deletions in 3 files</sub><br />
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Refactoring `if` chains into `switch` statements<br />
-    <sub>[#144905](https://github.com/flutter/flutter/pull/144905) opened on on March 10, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/144905) 404 additions and 349 deletions in 20 files</sub><br />
-
 * **[Xavier H.](https://github.com/xvrh)** &mdash; Make WidgetTester.pageBack work with localised app<br />
     <sub>[#144922](https://github.com/flutter/flutter/pull/144922) opened on on March 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144922) 129 additions and 2 deletions in 2 files</sub><br />
 
