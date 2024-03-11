@@ -4,7 +4,11 @@
 
 ### March 9, 2024 to March 15, 2024
 
-3 commits.
+6 commits.
+
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Refactoring `if` chains into `switch` statements
+    <sub>[#144905](https://github.com/flutter/flutter/pull/144905) merged on March 11, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/144905) over 1 day, 404 additions and 349 deletions in 20 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
 * **[victorgalo](https://github.com/victorgalo)** &mdash; Skip test temporarily until headingLevel is added in engine (issue 41…
     <sub>[#135077](https://github.com/flutter/flutter/pull/135077) merged on March 11, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/135077) over 5 months, 2 additions and 2 deletions in 1 file</sub>
@@ -13,6 +17,14 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Expose build mode in environment of asset transformer processes
     <sub>[#144752](https://github.com/flutter/flutter/pull/144752) merged on March 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/144752) over 4 days, 70 additions and 9 deletions in 13 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Make TabController communicating creation in constructor.
+    <sub>[#144912](https://github.com/flutter/flutter/pull/144912) merged on March 11, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/144912) over 19 hours, 5 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fail tests on exceptions raised after test completed
+    <sub>[#144706](https://github.com/flutter/flutter/pull/144706) merged on March 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144706) over 5 days, 54 additions and 7 deletions in 4 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Expose build mode in environment of asset transformer processes (#144752)"
     <sub>[#144957](https://github.com/flutter/flutter/pull/144957) merged on March 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144957) over 50 seconds, 9 additions and 70 deletions in 13 files</sub>
@@ -521,7 +533,11 @@
 
 ### March 9, 2024 to March 15, 2024
 
-7 commits.
+8 commits.
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Make scenario app have translucent splash screen so it doesn't affect screenshot colors
+    <sub>[#51329](https://github.com/flutter/engine/pull/51329) merged on March 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51329) over 2 hours, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Move emscripten out of the buildroot into the flutter repo. (#51299)"
     <sub>[#51330](https://github.com/flutter/engine/pull/51330) merged on March 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51330) over 1 minute, 20 additions and 9 deletions in 7 files</sub>
