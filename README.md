@@ -10,13 +10,13 @@
     <sub>[#135077](https://github.com/flutter/flutter/pull/135077) merged on March 11, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/135077) over 5 months, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Expose build mode in environment of asset transformer processes<br />
+    <sub>[#144752](https://github.com/flutter/flutter/pull/144752) merged on March 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/144752) over 4 days, 70 additions and 9 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Expose build mode in environment of asset transformer processes (#144752)"<br />
     <sub>[#144957](https://github.com/flutter/flutter/pull/144957) merged on March 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144957) over 50 seconds, 9 additions and 70 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
-
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Expose build mode in environment of asset transformer processes<br />
-    <sub>[#144752](https://github.com/flutter/flutter/pull/144752) merged on March 11, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/144752) over 4 days, 70 additions and 9 deletions in 13 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 ### March 2, 2024 to March 8, 2024
 
