@@ -4,14 +4,18 @@
 
 ### March 9, 2024 to March 15, 2024
 
-2 commits.
+3 commits.
 
 * **[victorgalo](https://github.com/victorgalo)** &mdash; Skip test temporarily until headingLevel is added in engine (issue 41…
     <sub>[#135077](https://github.com/flutter/flutter/pull/135077) merged on March 11, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/135077) over 5 months, 2 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Expose build mode in environment of asset transformer processes (#144752)"
+    <sub>[#144957](https://github.com/flutter/flutter/pull/144957) merged on March 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144957) over 50 seconds, 9 additions and 70 deletions in 13 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Expose build mode in environment of asset transformer processes
-    <sub>[#144752](https://github.com/flutter/flutter/pull/144752) merged on March 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144752) over 4 days, 70 additions and 9 deletions in 13 files</sub>
+    <sub>[#144752](https://github.com/flutter/flutter/pull/144752) merged on March 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/144752) over 4 days, 70 additions and 9 deletions in 13 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 ### March 2, 2024 to March 8, 2024
