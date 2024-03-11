@@ -530,6 +530,10 @@
     <sub>[#48551](https://github.com/flutter/engine/pull/48551) merged on March 4, 2024 &mdash; **Extra large:** [168 comments](https://github.com/flutter/engine/pull/48551) over 3 months, 1775 additions and 16 deletions in 36 files</sub><br />
     <sub>Reviewed by: [Ryan Macnak](https://github.com/rmacnak-google), [Martin Kustermann](https://github.com/mkustermann), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Optimize overlays in CanvasKit<br />
+    <sub>[#47317](https://github.com/flutter/engine/pull/47317) merged on March 8, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/engine/pull/47317) over 4 months, 1014 additions and 942 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Adds githooks that reminds to run `gclient sync -D`<br />
     <sub>[#51156](https://github.com/flutter/engine/pull/51156) merged on March 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51156) over 1 day, 248 additions and 3 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Loïc Sharma](https://github.com/loic-sharma), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
@@ -546,10 +550,6 @@
 * **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Mark the Flutter Views as focusable by setting a tabindex value.<br />
     <sub>[#50876](https://github.com/flutter/engine/pull/50876) merged on March 8, 2024 &mdash; **Medium:** [50 comments](https://github.com/flutter/engine/pull/50876) over 2 weeks, 237 additions and 148 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub><br />
-
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Optimize overlays in CanvasKit<br />
-    <sub>[#47317](https://github.com/flutter/engine/pull/47317) merged on March 8, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/engine/pull/47317) over 4 months, 1014 additions and 942 deletions in 10 files</sub><br />
-    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Dan Field](https://github.com/dnfield)** &mdash; Use `io.flutter.Build.API_LEVELS` rather than `android.os.Build.VERSION_CODES`<br />
     <sub>[#51171](https://github.com/flutter/engine/pull/51171) merged on March 8, 2024 &mdash; **Large:** [29 comments](https://github.com/flutter/engine/pull/51171) over 4 days, 390 additions and 269 deletions in 63 files</sub><br />
