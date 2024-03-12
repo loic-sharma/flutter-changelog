@@ -32,12 +32,6 @@
 * **[René Kilczan](https://github.com/rekire)** &mdash; Detect WSL and run flutter in cmd<br />
     <sub>[#142803](https://github.com/flutter/flutter/pull/142803) opened on on February 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/142803) 4 additions and 0 deletions in 1 file</sub><br />
 
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; PinnedHeaderSliver<br />
-    <sub>[#143196](https://github.com/flutter/flutter/pull/143196) opened on on February 9, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/143196) 407 additions and 0 deletions in 5 files</sub><br />
-
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; SliverCoordinator, CoordinatedSliver<br />
-    <sub>[#143538](https://github.com/flutter/flutter/pull/143538) opened on on February 15, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143538) 658 additions and 0 deletions in 5 files</sub><br />
-
 * **[Nawaf.](https://github.com/nawafalomari)** &mdash; fix: fix `lockUpButtonLabel` arabic translation<br />
     <sub>[#143638](https://github.com/flutter/flutter/pull/143638) opened on on February 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143638) 4 additions and 4 deletions in 4 files</sub><br />
 
