@@ -4,7 +4,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-11 commits.
+12 commits.
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Refactoring `if` chains into `switch` statements
     <sub>[#144905](https://github.com/flutter/flutter/pull/144905) merged on March 11, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/144905) over 1 day, 404 additions and 349 deletions in 20 files</sub>
@@ -17,6 +17,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Expose build mode in environment of asset transformer processes
     <sub>[#144752](https://github.com/flutter/flutter/pull/144752) merged on March 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/144752) over 4 days, 70 additions and 9 deletions in 13 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; add missing `await`s
+    <sub>[#144978](https://github.com/flutter/flutter/pull/144978) merged on March 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144978) over 11 hours, 4 additions and 4 deletions in 4 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix typing to unblock pub roll
     <sub>[#144968](https://github.com/flutter/flutter/pull/144968) merged on March 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144968) over 17 hours, 1 addition and 1 deletion in 1 file</sub>
