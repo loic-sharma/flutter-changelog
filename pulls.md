@@ -69,5 +69,5 @@
     <sub>[#145004](https://github.com/flutter/flutter/pull/145004) opened on on March 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145004) 1 addition and 3 deletions in 1 file</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update gold validator to check for regression in flutter-gold check<br />
-    <sub>[#145008](https://github.com/flutter/flutter/pull/145008) opened on on March 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145008) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#145008](https://github.com/flutter/flutter/pull/145008) opened on on March 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145008) 1 addition and 1 deletion in 1 file</sub><br />
 
