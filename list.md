@@ -581,7 +581,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-18 commits.
+19 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix shader depth assignment & glyph atlas transform.
     <sub>[#51343](https://github.com/flutter/engine/pull/51343) merged on March 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/51343) over 19 hours, 303 additions and 294 deletions in 17 files</sub>
@@ -647,6 +647,10 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Disambiguate conditional expressions
     <sub>[#51285](https://github.com/flutter/engine/pull/51285) merged on March 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51285) over 2 days, 4 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] make addView/removeView functions sync
+    <sub>[#51103](https://github.com/flutter/engine/pull/51103) merged on March 12, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/51103) over 1 week, 44 additions and 8 deletions in 3 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[utzcoz](https://github.com/utzcoz)** &mdash; Bump Robolectric to 4.11.1
     <sub>[#51310](https://github.com/flutter/engine/pull/51310) merged on March 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51310) over 1 day, 3 additions and 3 deletions in 3 files</sub>
