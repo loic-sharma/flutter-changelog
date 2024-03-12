@@ -4,7 +4,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-16 commits.
+17 commits.
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Refactoring `if` chains into `switch` statements<br />
     <sub>[#144905](https://github.com/flutter/flutter/pull/144905) merged on March 11, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/144905) over 1 day, 404 additions and 349 deletions in 20 files</sub><br />
@@ -42,8 +42,12 @@
     <sub>[#144706](https://github.com/flutter/flutter/pull/144706) merged on March 11, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/144706) over 5 days, 54 additions and 7 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Add a microbenchmark for text intrinsic height layout (#145007)"<br />
+    <sub>[#145029](https://github.com/flutter/flutter/pull/145029) merged on March 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145029) over 57 seconds, 0 additions and 63 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a microbenchmark for text intrinsic height layout<br />
-    <sub>[#145007](https://github.com/flutter/flutter/pull/145007) merged on March 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145007) over 1 hour, 63 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#145007](https://github.com/flutter/flutter/pull/145007) merged on March 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/145007) over 1 hour, 63 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Elias Elfarri](https://github.com/Moelfarri)** &mdash; Write unit tests for API Examples of checkbox.0, checkbox.1<br />
