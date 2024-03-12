@@ -23,7 +23,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fail tests on exceptions raised after test completed<br />
-    <sub>[#144706](https://github.com/flutter/flutter/pull/144706) merged on March 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/144706) over 5 days, 54 additions and 7 deletions in 4 files</sub><br />
+    <sub>[#144706](https://github.com/flutter/flutter/pull/144706) merged on March 11, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/144706) over 5 days, 54 additions and 7 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update integration tests regexes.<br />
