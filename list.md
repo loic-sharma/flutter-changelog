@@ -557,11 +557,15 @@
 
 ### March 9, 2024 to March 15, 2024
 
-12 commits.
+13 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements blur styles for gradients
     <sub>[#51264](https://github.com/flutter/engine/pull/51264) merged on March 12, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/51264) over 4 days, 155 additions and 28 deletions in 4 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Migrate perfetto to flutter/third_party
+    <sub>[#51272](https://github.com/flutter/engine/pull/51272) merged on March 12, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/51272) over 4 days, 2153 additions and 2433 deletions in 8 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make scenario app have translucent splash screen so it doesn't affect screenshot colors
     <sub>[#51329](https://github.com/flutter/engine/pull/51329) merged on March 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51329) over 2 hours, 1 addition and 0 deletions in 1 file</sub>
