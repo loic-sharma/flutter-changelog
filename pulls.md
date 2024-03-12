@@ -53,9 +53,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Factor out use of "print" in flutter_goldens<br />
     <sub>[#144846](https://github.com/flutter/flutter/pull/144846) opened on on March 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144846) 98 additions and 29 deletions in 4 files</sub><br />
 
-* **[Dhikshith](https://github.com/dhikshith12)** &mdash; Fix Cupertino Context Menu Container to Remove White Corners<br />
-    <sub>[#144883](https://github.com/flutter/flutter/pull/144883) opened on on March 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/144883) 152 additions and 41 deletions in 2 files</sub><br />
-
 * **[Xavier H.](https://github.com/xvrh)** &mdash; Make WidgetTester.pageBack work with localised app<br />
     <sub>[#144922](https://github.com/flutter/flutter/pull/144922) opened on on March 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144922) 129 additions and 2 deletions in 2 files</sub><br />
 
