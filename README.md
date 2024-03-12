@@ -4,7 +4,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-13 commits.
+14 commits.
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Refactoring `if` chains into `switch` statements<br />
     <sub>[#144905](https://github.com/flutter/flutter/pull/144905) merged on March 11, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/144905) over 1 day, 404 additions and 349 deletions in 20 files</sub><br />
@@ -16,6 +16,10 @@
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Expose build mode in environment of asset transformer processes<br />
     <sub>[#144752](https://github.com/flutter/flutter/pull/144752) merged on March 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/144752) over 4 days, 70 additions and 9 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Manually roll pub packages<br />
+    <sub>[#145005](https://github.com/flutter/flutter/pull/145005) merged on March 12, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/145005) over 1 hour, 249 additions and 208 deletions in 44 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; add missing `await`s<br />
