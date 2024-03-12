@@ -4,7 +4,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-14 commits.
+15 commits.
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Refactoring `if` chains into `switch` statements
     <sub>[#144905](https://github.com/flutter/flutter/pull/144905) merged on March 11, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/144905) over 1 day, 404 additions and 349 deletions in 20 files</sub>
@@ -17,6 +17,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Expose build mode in environment of asset transformer processes
     <sub>[#144752](https://github.com/flutter/flutter/pull/144752) merged on March 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/144752) over 4 days, 70 additions and 9 deletions in 13 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update gold validator to check for regression in flutter-gold check
+    <sub>[#145008](https://github.com/flutter/flutter/pull/145008) merged on March 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/145008) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Manually roll pub packages
     <sub>[#145005](https://github.com/flutter/flutter/pull/145005) merged on March 12, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/145005) over 1 hour, 249 additions and 208 deletions in 44 files</sub>
