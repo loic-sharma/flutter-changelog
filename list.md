@@ -4,7 +4,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-17 commits.
+18 commits.
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Refactoring `if` chains into `switch` statements
     <sub>[#144905](https://github.com/flutter/flutter/pull/144905) merged on March 11, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/144905) over 1 day, 404 additions and 349 deletions in 20 files</sub>
@@ -73,6 +73,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Fail tests on exceptions raised after test completed (#144706)"
     <sub>[#144980](https://github.com/flutter/flutter/pull/144980) merged on March 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144980) over 12 hours, 54 additions and 7 deletions in 4 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Revert "Remove unused drone_dimension field"
+    <sub>[#145024](https://github.com/flutter/flutter/pull/145024) merged on March 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145024) over 1 hour, 16 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
 ### March 2, 2024 to March 8, 2024
 
