@@ -50,6 +50,9 @@
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] include engine cp<br />
     <sub>[#144592](https://github.com/flutter/flutter/pull/144592) opened on on March 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144592) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove embedding v1 code in framework<br />
+    <sub>[#144726](https://github.com/flutter/flutter/pull/144726) opened on on March 6, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/144726) 120 additions and 646 deletions in 12 files</sub><br />
+
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Factor out use of "print" in flutter_goldens<br />
     <sub>[#144846](https://github.com/flutter/flutter/pull/144846) opened on on March 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144846) 98 additions and 29 deletions in 4 files</sub><br />
 
