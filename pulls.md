@@ -53,9 +53,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove embedding v1 code in framework<br />
     <sub>[#144726](https://github.com/flutter/flutter/pull/144726) opened on on March 6, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/144726) 120 additions and 646 deletions in 12 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Factor out use of "print" in flutter_goldens<br />
-    <sub>[#144846](https://github.com/flutter/flutter/pull/144846) opened on on March 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144846) 98 additions and 35 deletions in 5 files</sub><br />
-
 * **[Xavier H.](https://github.com/xvrh)** &mdash; Make WidgetTester.pageBack work with localised app<br />
     <sub>[#144922](https://github.com/flutter/flutter/pull/144922) opened on on March 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144922) 129 additions and 2 deletions in 2 files</sub><br />
 
