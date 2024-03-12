@@ -4,7 +4,11 @@
 
 ### March 9, 2024 to March 15, 2024
 
-18 commits.
+19 commits.
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Flutter Web Bootstrapping Improvements<br />
+    <sub>[#144434](https://github.com/flutter/flutter/pull/144434) merged on March 12, 2024 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/144434) over 1 week, 823 additions and 784 deletions in 31 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Refactoring `if` chains into `switch` statements<br />
     <sub>[#144905](https://github.com/flutter/flutter/pull/144905) merged on March 11, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/144905) over 1 day, 404 additions and 349 deletions in 20 files</sub><br />
@@ -581,7 +585,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-19 commits.
+20 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix shader depth assignment & glyph atlas transform.<br />
     <sub>[#51343](https://github.com/flutter/engine/pull/51343) merged on March 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/51343) over 19 hours, 303 additions and 294 deletions in 17 files</sub><br />
@@ -615,6 +619,10 @@
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [codesign] fix typo in binary path<br />
     <sub>[#51339](https://github.com/flutter/engine/pull/51339) merged on March 11, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51339) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [godofredoc](https://github.com/godofredoc)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix some races in the platform isolate tests<br />
+    <sub>[#51358](https://github.com/flutter/engine/pull/51358) merged on March 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51358) over 3 hours, 12 additions and 22 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Liam Appelbe](https://github.com/liamappelbe), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [dart:ui] Add view ID to `PointerData.toString`<br />
     <sub>[#51352](https://github.com/flutter/engine/pull/51352) merged on March 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51352) over 4 hours, 9 additions and 8 deletions in 4 files</sub><br />
