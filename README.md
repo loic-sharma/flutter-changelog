@@ -585,7 +585,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-20 commits.
+21 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix shader depth assignment & glyph atlas transform.<br />
     <sub>[#51343](https://github.com/flutter/engine/pull/51343) merged on March 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/51343) over 19 hours, 303 additions and 294 deletions in 17 files</sub><br />
@@ -615,6 +615,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Move emscripten out of the buildroot into the flutter repo.<br />
     <sub>[#51299](https://github.com/flutter/engine/pull/51299) merged on March 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51299) over 2 days, 9 additions and 20 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove early Flutter GPU prototype from ui/experiments.<br />
+    <sub>[#51367](https://github.com/flutter/engine/pull/51367) merged on March 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51367) over 1 hour, 0 additions and 187 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [codesign] fix typo in binary path<br />
     <sub>[#51339](https://github.com/flutter/engine/pull/51339) merged on March 11, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51339) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
