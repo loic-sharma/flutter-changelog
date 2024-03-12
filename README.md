@@ -544,7 +544,7 @@
 11 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements blur styles for gradients<br />
-    <sub>[#51264](https://github.com/flutter/engine/pull/51264) merged on March 12, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/51264) over 4 days, 155 additions and 28 deletions in 4 files</sub><br />
+    <sub>[#51264](https://github.com/flutter/engine/pull/51264) merged on March 12, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/51264) over 4 days, 155 additions and 28 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make scenario app have translucent splash screen so it doesn't affect screenshot colors<br />
