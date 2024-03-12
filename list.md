@@ -189,7 +189,7 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Mark Mac_arm64_ios module_test_ios bringup: true
-    <sub>[#144861](https://github.com/flutter/flutter/pull/144861) merged on March 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144861) over 3 minutes, 1 addition and 0 deletions in 1 file</sub>
+    <sub>[#144861](https://github.com/flutter/flutter/pull/144861) merged on March 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144861) over 3 minutes, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use wasm-compatible conditional import in timeline.dart, avoid emitting timeline events in SchedulerBinding
