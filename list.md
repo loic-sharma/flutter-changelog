@@ -561,7 +561,12 @@
 
 ### March 9, 2024 to March 15, 2024
 
-14 commits.
+15 commits.
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix shader depth assignment & glyph atlas transform.
+    <sub>[#51343](https://github.com/flutter/engine/pull/51343) merged on March 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/51343) over 19 hours, 303 additions and 294 deletions in 17 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
+    <sub><details><summary>2 images...</summary>![Screenshot 2024-03-11 at 4 37 27 PM](https://github.com/flutter/engine/assets/919017/225171c0-87b6-4a95-a452-8ec139b92d24)![Screenshot 2024-03-11 at 4 38 16 PM](https://github.com/flutter/engine/assets/919017/62f6e803-6d2d-464f-a470-86fee898215f)</details></sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements blur styles for gradients
     <sub>[#51264](https://github.com/flutter/engine/pull/51264) merged on March 12, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/51264) over 4 days, 155 additions and 28 deletions in 4 files</sub>
