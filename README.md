@@ -4,7 +4,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-8 commits.
+9 commits.
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Refactoring `if` chains into `switch` statements<br />
     <sub>[#144905](https://github.com/flutter/flutter/pull/144905) merged on March 11, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/144905) over 1 day, 404 additions and 349 deletions in 20 files</sub><br />
@@ -23,8 +23,12 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fail tests on exceptions raised after test completed<br />
-    <sub>[#144706](https://github.com/flutter/flutter/pull/144706) merged on March 11, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/144706) over 5 days, 54 additions and 7 deletions in 4 files</sub><br />
+    <sub>[#144706](https://github.com/flutter/flutter/pull/144706) merged on March 11, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/144706) over 5 days, 54 additions and 7 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Add platform check to `FocusManager` app lifecycle listener<br />
+    <sub>[#144718](https://github.com/flutter/flutter/pull/144718) merged on March 12, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/144718) over 5 days, 51 additions and 6 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update integration tests regexes.<br />
     <sub>[#144847](https://github.com/flutter/flutter/pull/144847) merged on March 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144847) over 3 days, 2 additions and 2 deletions in 2 files</sub><br />
