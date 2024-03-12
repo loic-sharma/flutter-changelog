@@ -577,7 +577,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-16 commits.
+17 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix shader depth assignment & glyph atlas transform.
     <sub>[#51343](https://github.com/flutter/engine/pull/51343) merged on March 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/51343) over 19 hours, 303 additions and 294 deletions in 17 files</sub>
@@ -611,6 +611,10 @@
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [codesign] fix typo in binary path
     <sub>[#51339](https://github.com/flutter/engine/pull/51339) merged on March 11, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51339) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [godofredoc](https://github.com/godofredoc)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Fix null filter NOP case in DlLocalMatrixImageFilter
+    <sub>[#51340](https://github.com/flutter/engine/pull/51340) merged on March 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51340) over 22 hours, 36 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Try making android scenario app not do animations
     <sub>[#51349](https://github.com/flutter/engine/pull/51349) merged on March 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51349) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
