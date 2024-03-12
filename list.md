@@ -561,7 +561,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-13 commits.
+14 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements blur styles for gradients
     <sub>[#51264](https://github.com/flutter/engine/pull/51264) merged on March 12, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/51264) over 4 days, 155 additions and 28 deletions in 4 files</sub>
@@ -614,6 +614,10 @@
 * **[utzcoz](https://github.com/utzcoz)** &mdash; Bump Robolectric to 4.11.1
     <sub>[#51310](https://github.com/flutter/engine/pull/51310) merged on March 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51310) over 1 day, 3 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland "Move emscripten out of the buildroot into the flutter repo"
+    <sub>[#51353](https://github.com/flutter/engine/pull/51353) merged on March 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51353) over 1 hour, 9 additions and 8 deletions in 7 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 ### March 2, 2024 to March 8, 2024
 
