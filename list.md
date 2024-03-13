@@ -589,7 +589,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-24 commits.
+25 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix shader depth assignment & glyph atlas transform.
     <sub>[#51343](https://github.com/flutter/engine/pull/51343) merged on March 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/51343) over 19 hours, 303 additions and 294 deletions in 17 files</sub>
@@ -603,6 +603,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Refactor `golden_tests_harvester`, throw when not `--dry-run`, add tests.
     <sub>[#51364](https://github.com/flutter/engine/pull/51364) merged on March 13, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/engine/pull/51364) over 5 hours, 478 additions and 132 deletions in 7 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Add et lint command
+    <sub>[#51238](https://github.com/flutter/engine/pull/51238) merged on March 13, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/51238) over 6 days, 852 additions and 0 deletions in 9 files</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Zachary Anderson](https://github.com/zanderso), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add utility for type safe masks.
     <sub>[#51361](https://github.com/flutter/engine/pull/51361) merged on March 12, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/51361) over 1 hour, 392 additions and 0 deletions in 4 files</sub>
