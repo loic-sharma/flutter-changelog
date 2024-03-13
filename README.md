@@ -361,7 +361,7 @@
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add `FocusNode.focusabilityListenable`<br />
-    <sub>[#144280](https://github.com/flutter/flutter/pull/144280) merged on February 29, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/144280) over 1 day, 598 additions and 10 deletions in 3 files</sub><br />
+    <sub>[#144280](https://github.com/flutter/flutter/pull/144280) merged on February 29, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/144280) over 1 day, 598 additions and 10 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [github actions] rewrite cherry pick template<br />
