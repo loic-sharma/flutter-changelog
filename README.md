@@ -613,7 +613,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-31 commits.
+33 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix shader depth assignment & glyph atlas transform.<br />
     <sub>[#51343](https://github.com/flutter/engine/pull/51343) merged on March 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/51343) over 19 hours, 303 additions and 294 deletions in 17 files</sub><br />
@@ -672,9 +672,17 @@
     <sub>[#51367](https://github.com/flutter/engine/pull/51367) merged on March 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51367) over 1 hour, 0 additions and 187 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
+* **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] make addView/removeView functions sync<br />
+    <sub>[#51103](https://github.com/flutter/engine/pull/51103) merged on March 12, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/51103) over 1 week, 44 additions and 8 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub><br />
+
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [codesign] fix typo in binary path<br />
     <sub>[#51339](https://github.com/flutter/engine/pull/51339) merged on March 11, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51339) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [godofredoc](https://github.com/godofredoc)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix heap selection process for YUV textures.<br />
+    <sub>[#51262](https://github.com/flutter/engine/pull/51262) merged on March 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51262) over 5 days, 88 additions and 24 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added missing golden test for DrawScaledTextWithPerspectiveSaveLayer<br />
     <sub>[#51368](https://github.com/flutter/engine/pull/51368) merged on March 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51368) over 19 hours, 4 additions and 0 deletions in 2 files</sub><br />
@@ -728,13 +736,13 @@
     <sub>[#51365](https://github.com/flutter/engine/pull/51365) merged on March 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51365) over 4 hours, 4 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] make addView/removeView functions sync<br />
-    <sub>[#51103](https://github.com/flutter/engine/pull/51103) merged on March 12, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/51103) over 1 week, 44 additions and 8 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub><br />
-
 * **[utzcoz](https://github.com/utzcoz)** &mdash; Bump Robolectric to 4.11.1<br />
     <sub>[#51310](https://github.com/flutter/engine/pull/51310) merged on March 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51310) over 1 day, 3 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Reland "Reland: [macOS] Use CVDisplayLink to drive repaint"<br />
+    <sub>[#51210](https://github.com/flutter/engine/pull/51210) merged on March 13, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/51210) over 1 week, 1379 additions and 102 deletions in 29 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland "Move emscripten out of the buildroot into the flutter repo"<br />
     <sub>[#51353](https://github.com/flutter/engine/pull/51353) merged on March 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51353) over 1 hour, 9 additions and 8 deletions in 7 files</sub><br />
