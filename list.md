@@ -1491,9 +1491,18 @@
 
 ## flutter/packages
 
+### March 9, 2024 to March 15, 2024
+
+1 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Replace deprecated UIGraphicsBeginImageContextWithOptions with UIGraphicsImageRenderer
+    <sub>[#6285](https://github.com/flutter/packages/pull/6285) merged on March 13, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/6285) over 5 days, 161 additions and 146 deletions in 12 files</sub>
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
+
 ### March 2, 2024 to March 8, 2024
 
-17 commits.
+<details>
+<summary>17 commits...</summary>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [in_app_purchase_android] Add UserChoiceBilling mode. 
     <sub>[#6162](https://github.com/flutter/packages/pull/6162) merged on March 8, 2024 &mdash; **Large:** [26 comments](https://github.com/flutter/packages/pull/6162) over 2 weeks, 874 additions and 25 deletions in 23 files</sub>
@@ -1563,6 +1572,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 7482962148e8 to ba3931984302 (2 revisions)
     <sub>[#6287](https://github.com/flutter/packages/pull/6287) merged on March 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6287) over 42 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### February 24, 2024 to March 1, 2024
 
