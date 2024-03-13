@@ -62,3 +62,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark Mac_arm64_ios module_test_ios not flaky<br />
     <sub>[#145044](https://github.com/flutter/flutter/pull/145044) opened on on March 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145044) 0 additions and 1 deletion in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField helper top padding on M3<br />
+    <sub>[#145087](https://github.com/flutter/flutter/pull/145087) opened on on March 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145087) 6 additions and 7 deletions in 2 files</sub><br />
+
