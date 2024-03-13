@@ -4,7 +4,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-19 commits.
+20 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Flutter Web Bootstrapping Improvements
     <sub>[#144434](https://github.com/flutter/flutter/pull/144434) merged on March 12, 2024 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/144434) over 1 week, 823 additions and 784 deletions in 31 files</sub>
@@ -77,6 +77,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Fail tests on exceptions raised after test completed (#144706)"
     <sub>[#144980](https://github.com/flutter/flutter/pull/144980) merged on March 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144980) over 12 hours, 54 additions and 7 deletions in 4 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland "Add a microbenchmark for text intrinsic height layout (#145007)"
+    <sub>[#145037](https://github.com/flutter/flutter/pull/145037) merged on March 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145037) over 2 hours, 68 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Revert "Remove unused drone_dimension field"
     <sub>[#145024](https://github.com/flutter/flutter/pull/145024) merged on March 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145024) over 1 hour, 16 additions and 0 deletions in 1 file</sub>
