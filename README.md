@@ -630,7 +630,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-34 commits.
+35 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix shader depth assignment & glyph atlas transform.<br />
     <sub>[#51343](https://github.com/flutter/engine/pull/51343) merged on March 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/51343) over 19 hours, 303 additions and 294 deletions in 17 files</sub><br />
@@ -681,6 +681,10 @@
     <sub>[#51330](https://github.com/flutter/engine/pull/51330) merged on March 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51330) over 1 minute, 20 additions and 9 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Small improvements to et lint command<br />
+    <sub>[#51372](https://github.com/flutter/engine/pull/51372) merged on March 13, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/51372) over 13 hours, 117 additions and 81 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Enable sound null safety everywhere<br />
     <sub>[#51355](https://github.com/flutter/engine/pull/51355) merged on March 13, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/51355) over 1 day, 39 additions and 120 deletions in 17 files</sub><br />
     <sub>Reviewed by: [Siva](https://github.com/a-siva), [Alexander Markov](https://github.com/alexmarkov)</sub><br />
@@ -713,9 +717,9 @@
     <sub>[#51376](https://github.com/flutter/engine/pull/51376) merged on March 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51376) over 38 minutes, 2 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Make masks type safe.<br />
-    <sub>[#51369](https://github.com/flutter/engine/pull/51369) merged on March 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51369) over 1 hour, 133 additions and 123 deletions in 23 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove flaky check from observatory/tracing_test.dart<br />
+    <sub>[#51320](https://github.com/flutter/engine/pull/51320) merged on March 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51320) over 1 hour, 10 additions and 7 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Derek Xu](https://github.com/derekxu16)</sub><br />
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Disambiguate conditional expressions<br />
     <sub>[#51285](https://github.com/flutter/engine/pull/51285) merged on March 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51285) over 2 days, 4 additions and 2 deletions in 2 files</sub><br />
@@ -745,9 +749,9 @@
     <sub>[#51325](https://github.com/flutter/engine/pull/51325) merged on March 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51325) over 1 hour, 10 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove flaky check from observatory/tracing_test.dart<br />
-    <sub>[#51320](https://github.com/flutter/engine/pull/51320) merged on March 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51320) over 1 hour, 10 additions and 7 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Derek Xu](https://github.com/derekxu16)</sub><br />
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Make masks type safe.<br />
+    <sub>[#51369](https://github.com/flutter/engine/pull/51369) merged on March 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51369) over 1 hour, 133 additions and 123 deletions in 23 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix some races in the platform isolate tests<br />
     <sub>[#51358](https://github.com/flutter/engine/pull/51358) merged on March 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51358) over 3 hours, 12 additions and 22 deletions in 1 file</sub><br />
