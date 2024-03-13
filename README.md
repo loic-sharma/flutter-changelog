@@ -589,7 +589,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-25 commits.
+26 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix shader depth assignment & glyph atlas transform.<br />
     <sub>[#51343](https://github.com/flutter/engine/pull/51343) merged on March 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/51343) over 19 hours, 303 additions and 294 deletions in 17 files</sub><br />
@@ -607,6 +607,10 @@
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Add et lint command<br />
     <sub>[#51238](https://github.com/flutter/engine/pull/51238) merged on March 13, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/51238) over 6 days, 852 additions and 0 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Zachary Anderson](https://github.com/zanderso), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Add a comparative benchmark for SkM44 vs SkMatrix vs impeller::Matrix<br />
+    <sub>[#51332](https://github.com/flutter/engine/pull/51332) merged on March 13, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/51332) over 1 day, 667 additions and 0 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add utility for type safe masks.<br />
     <sub>[#51361](https://github.com/flutter/engine/pull/51361) merged on March 12, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/51361) over 1 hour, 392 additions and 0 deletions in 4 files</sub><br />
