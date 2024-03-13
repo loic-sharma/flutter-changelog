@@ -609,7 +609,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-30 commits.
+31 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix shader depth assignment & glyph atlas transform.
     <sub>[#51343](https://github.com/flutter/engine/pull/51343) merged on March 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/51343) over 19 hours, 303 additions and 294 deletions in 17 files</sub>
@@ -659,6 +659,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Move emscripten out of the buildroot into the flutter repo.
     <sub>[#51299](https://github.com/flutter/engine/pull/51299) merged on March 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51299) over 2 days, 9 additions and 20 deletions in 7 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Enable sound null safety everywhere
+    <sub>[#51355](https://github.com/flutter/engine/pull/51355) merged on March 13, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/51355) over 1 day, 39 additions and 120 deletions in 17 files</sub>
+    <sub>Reviewed by: [Siva](https://github.com/a-siva), [Alexander Markov](https://github.com/alexmarkov)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove early Flutter GPU prototype from ui/experiments.
     <sub>[#51367](https://github.com/flutter/engine/pull/51367) merged on March 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51367) over 1 hour, 0 additions and 187 deletions in 3 files</sub>
