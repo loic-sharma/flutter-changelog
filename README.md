@@ -1054,7 +1054,7 @@
 <summary>80 commits...</summary>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Use CVDisplayLink to drive repaint<br />
-    <sub>[#49159](https://github.com/flutter/engine/pull/49159) merged on February 27, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/49159) over 2 months, 1112 additions and 36 deletions in 23 files</sub><br />
+    <sub>[#49159](https://github.com/flutter/engine/pull/49159) merged on February 27, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/engine/pull/49159) over 2 months, 1112 additions and 36 deletions in 23 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Add et run command<br />
