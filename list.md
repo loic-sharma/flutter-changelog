@@ -4,7 +4,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-24 commits.
+25 commits.
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; [New feature]Introduce iOS multi-touch drag behavior
     <sub>[#141355](https://github.com/flutter/flutter/pull/141355) merged on March 13, 2024 &mdash; **Large:** [55 comments](https://github.com/flutter/flutter/pull/141355) over 2 months, 1098 additions and 35 deletions in 13 files</sub>
@@ -29,6 +29,10 @@
 * **[victorgalo](https://github.com/victorgalo)** &mdash; Skip test temporarily until headingLevel is added in engine (issue 41…
     <sub>[#135077](https://github.com/flutter/flutter/pull/135077) merged on March 11, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/135077) over 5 months, 2 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Turning `if` chains into shorter `switch` statements
+    <sub>[#144977](https://github.com/flutter/flutter/pull/144977) merged on March 13, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/144977) over 1 day, 141 additions and 182 deletions in 12 files</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Remove `showTrackOnHover` from `Scrollbar` and `ScrollbarTheme`
     <sub>[#144180](https://github.com/flutter/flutter/pull/144180) merged on March 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144180) over 2 weeks, 52 additions and 70 deletions in 4 files</sub>
