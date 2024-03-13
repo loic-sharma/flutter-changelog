@@ -65,3 +65,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove unstable debug checked banner for zoom test.<br />
     <sub>[#145097](https://github.com/flutter/flutter/pull/145097) opened on on March 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145097) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Revert "Add `FocusNode.focusabilityListenable` (#144280)" since the feature is no longer needed<br />
+    <sub>[#145102](https://github.com/flutter/flutter/pull/145102) opened on on March 13, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/145102) 10 additions and 598 deletions in 3 files</sub><br />
+
