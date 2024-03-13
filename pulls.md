@@ -62,9 +62,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark Mac_arm64_ios module_test_ios not flaky<br />
     <sub>[#145044](https://github.com/flutter/flutter/pull/145044) opened on on March 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145044) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove unstable debug checked banner for zoom test.<br />
-    <sub>[#145097](https://github.com/flutter/flutter/pull/145097) opened on on March 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145097) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Revert "Add `FocusNode.focusabilityListenable` (#144280)" since the feature is no longer needed<br />
     <sub>[#145102](https://github.com/flutter/flutter/pull/145102) opened on on March 13, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/145102) 10 additions and 598 deletions in 3 files</sub><br />
 
