@@ -589,7 +589,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-22 commits.
+23 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix shader depth assignment & glyph atlas transform.<br />
     <sub>[#51343](https://github.com/flutter/engine/pull/51343) merged on March 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/51343) over 19 hours, 303 additions and 294 deletions in 17 files</sub><br />
@@ -666,6 +666,10 @@
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Disambiguate conditional expressions<br />
     <sub>[#51285](https://github.com/flutter/engine/pull/51285) merged on March 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51285) over 2 days, 4 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Copy the flutter_gpu package into the engine artifacts.<br />
+    <sub>[#51365](https://github.com/flutter/engine/pull/51365) merged on March 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51365) over 4 hours, 4 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] make addView/removeView functions sync<br />
