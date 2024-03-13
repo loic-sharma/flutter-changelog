@@ -638,12 +638,16 @@
 
 ### March 9, 2024 to March 15, 2024
 
-36 commits.
+37 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix shader depth assignment & glyph atlas transform.
     <sub>[#51343](https://github.com/flutter/engine/pull/51343) merged on March 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/51343) over 19 hours, 303 additions and 294 deletions in 17 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot 2024-03-11 at 4 37 27 PM](https://github.com/flutter/engine/assets/919017/225171c0-87b6-4a95-a452-8ec139b92d24)![Screenshot 2024-03-11 at 4 38 16 PM](https://github.com/flutter/engine/assets/919017/62f6e803-6d2d-464f-a470-86fee898215f)</details></sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] make text more crawlable; fix a JAWS bug
+    <sub>[#50794](https://github.com/flutter/engine/pull/50794) merged on March 13, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/engine/pull/50794) over 3 weeks, 331 additions and 48 deletions in 13 files</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] implements blur styles for gradients
     <sub>[#51264](https://github.com/flutter/engine/pull/51264) merged on March 12, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/51264) over 4 days, 155 additions and 28 deletions in 4 files</sub>
@@ -729,17 +733,13 @@
     <sub>[#51320](https://github.com/flutter/engine/pull/51320) merged on March 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51320) over 1 hour, 10 additions and 7 deletions in 1 file</sub>
     <sub>Reviewed by: [Derek Xu](https://github.com/derekxu16)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Make masks type safe.
-    <sub>[#51369](https://github.com/flutter/engine/pull/51369) merged on March 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51369) over 1 hour, 133 additions and 123 deletions in 23 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix some races in the platform isolate tests
+    <sub>[#51358](https://github.com/flutter/engine/pull/51358) merged on March 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51358) over 3 hours, 12 additions and 22 deletions in 1 file</sub>
+    <sub>Reviewed by: [Liam Appelbe](https://github.com/liamappelbe), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Disambiguate conditional expressions
     <sub>[#51285](https://github.com/flutter/engine/pull/51285) merged on March 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51285) over 2 days, 4 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
-* **[Jim Graham](https://github.com/flar)** &mdash; Fix null filter NOP case in DlLocalMatrixImageFilter
-    <sub>[#51340](https://github.com/flutter/engine/pull/51340) merged on March 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51340) over 22 hours, 36 additions and 3 deletions in 2 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Try making android scenario app not do animations
     <sub>[#51349](https://github.com/flutter/engine/pull/51349) merged on March 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51349) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
@@ -757,25 +757,29 @@
     <sub>[#51325](https://github.com/flutter/engine/pull/51325) merged on March 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51325) over 1 hour, 10 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix some races in the platform isolate tests
-    <sub>[#51358](https://github.com/flutter/engine/pull/51358) merged on March 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51358) over 3 hours, 12 additions and 22 deletions in 1 file</sub>
-    <sub>Reviewed by: [Liam Appelbe](https://github.com/liamappelbe), [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Make masks type safe.
+    <sub>[#51369](https://github.com/flutter/engine/pull/51369) merged on March 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51369) over 1 hour, 133 additions and 123 deletions in 23 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [dart:ui] Add view ID to `PointerData.toString`
     <sub>[#51352](https://github.com/flutter/engine/pull/51352) merged on March 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51352) over 4 hours, 9 additions and 8 deletions in 4 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
-* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Disable cleaning up ImageReaders in memory pressure callback
-    <sub>[#51391](https://github.com/flutter/engine/pull/51391) merged on March 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51391) over 49 minutes, 11 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+* **[Jim Graham](https://github.com/flar)** &mdash; Fix null filter NOP case in DlLocalMatrixImageFilter
+    <sub>[#51340](https://github.com/flutter/engine/pull/51340) merged on March 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51340) over 22 hours, 36 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Copy the flutter_gpu package into the engine artifacts.
+    <sub>[#51365](https://github.com/flutter/engine/pull/51365) merged on March 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51365) over 4 hours, 4 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[utzcoz](https://github.com/utzcoz)** &mdash; Bump Robolectric to 4.11.1
     <sub>[#51310](https://github.com/flutter/engine/pull/51310) merged on March 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51310) over 1 day, 3 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield), [Gray Mackall](https://github.com/gmackall)</sub>
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Copy the flutter_gpu package into the engine artifacts.
-    <sub>[#51365](https://github.com/flutter/engine/pull/51365) merged on March 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51365) over 4 hours, 4 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Disable cleaning up ImageReaders in memory pressure callback
+    <sub>[#51391](https://github.com/flutter/engine/pull/51391) merged on March 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51391) over 49 minutes, 11 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reland "Reland: [macOS] Use CVDisplayLink to drive repaint"
     <sub>[#51210](https://github.com/flutter/engine/pull/51210) merged on March 13, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/51210) over 1 week, 1379 additions and 102 deletions in 29 files</sub>
