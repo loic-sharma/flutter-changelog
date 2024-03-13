@@ -4,7 +4,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-21 commits.
+22 commits.
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; [New feature]Introduce iOS multi-touch drag behavior<br />
     <sub>[#141355](https://github.com/flutter/flutter/pull/141355) merged on March 13, 2024 &mdash; **Large:** [55 comments](https://github.com/flutter/flutter/pull/141355) over 2 months, 1098 additions and 35 deletions in 13 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Flutter Web Bootstrapping Improvements<br />
     <sub>[#144434](https://github.com/flutter/flutter/pull/144434) merged on March 12, 2024 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/144434) over 1 week, 823 additions and 784 deletions in 31 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; InputDecorator M3 tests migration - Step5 - Helper/Counter/Error<br />
+    <sub>[#144932](https://github.com/flutter/flutter/pull/144932) merged on March 13, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/144932) over 1 day, 1129 additions and 377 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Refactoring `if` chains into `switch` statements<br />
     <sub>[#144905](https://github.com/flutter/flutter/pull/144905) merged on March 11, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/144905) over 1 day, 404 additions and 349 deletions in 20 files</sub><br />
