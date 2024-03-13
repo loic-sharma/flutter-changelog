@@ -57,5 +57,5 @@
     <sub>[#144947](https://github.com/flutter/flutter/pull/144947) opened on on March 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144947) 40 additions and 0 deletions in 2 files</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update runner to accept white spaces in path.<br />
-    <sub>[#145016](https://github.com/flutter/flutter/pull/145016) opened on on March 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145016) 8 additions and 6 deletions in 2 files</sub><br />
+    <sub>[#145016](https://github.com/flutter/flutter/pull/145016) opened on on March 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145016) 3 additions and 1 deletion in 1 file</sub><br />
 
