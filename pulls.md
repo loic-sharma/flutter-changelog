@@ -21,7 +21,7 @@
     <sub>[#141295](https://github.com/flutter/flutter/pull/141295) opened on on January 10, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/141295) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Yukiteru Attano](https://github.com/YukiAttano)** &mdash; fix: added revertFlutterImage call in integration_tests<br />
-    <sub>[#142166](https://github.com/flutter/flutter/pull/142166) opened on on January 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/142166) 35 additions and 5 deletions in 4 files</sub><br />
+    <sub>[#142166](https://github.com/flutter/flutter/pull/142166) opened on on January 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/142166) 35 additions and 5 deletions in 4 files</sub><br />
 
 * **[Maximilian Fischer](https://github.com/fischerscode)** &mdash; [material] Simplify building responsive layouts based on window size classes.<br />
     <sub>[#142348](https://github.com/flutter/flutter/pull/142348) opened on on January 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/142348) 234 additions and 0 deletions in 5 files</sub><br />
