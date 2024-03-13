@@ -4,7 +4,11 @@
 
 ### March 9, 2024 to March 15, 2024
 
-20 commits.
+21 commits.
+
+* **[xubaolin](https://github.com/xu-baolin)** &mdash; [New feature]Introduce iOS multi-touch drag behavior<br />
+    <sub>[#141355](https://github.com/flutter/flutter/pull/141355) merged on March 13, 2024 &mdash; **Large:** [55 comments](https://github.com/flutter/flutter/pull/141355) over 2 months, 1098 additions and 35 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Flutter Web Bootstrapping Improvements<br />
     <sub>[#144434](https://github.com/flutter/flutter/pull/144434) merged on March 12, 2024 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/144434) over 1 week, 823 additions and 784 deletions in 31 files</sub><br />
