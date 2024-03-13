@@ -641,7 +641,7 @@
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove early Flutter GPU prototype from ui/experiments.
-    <sub>[#51367](https://github.com/flutter/engine/pull/51367) merged on March 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51367) over 1 hour, 0 additions and 187 deletions in 3 files</sub>
+    <sub>[#51367](https://github.com/flutter/engine/pull/51367) merged on March 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51367) over 1 hour, 0 additions and 187 deletions in 3 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [codesign] fix typo in binary path
