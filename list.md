@@ -585,7 +585,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-21 commits.
+22 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix shader depth assignment & glyph atlas transform.
     <sub>[#51343](https://github.com/flutter/engine/pull/51343) merged on March 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/51343) over 19 hours, 303 additions and 294 deletions in 17 files</sub>
@@ -623,6 +623,10 @@
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [codesign] fix typo in binary path
     <sub>[#51339](https://github.com/flutter/engine/pull/51339) merged on March 11, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51339) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [godofredoc](https://github.com/godofredoc)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Make masks type safe.
+    <sub>[#51369](https://github.com/flutter/engine/pull/51369) merged on March 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51369) over 1 hour, 133 additions and 123 deletions in 23 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix some races in the platform isolate tests
     <sub>[#51358](https://github.com/flutter/engine/pull/51358) merged on March 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51358) over 3 hours, 12 additions and 22 deletions in 1 file</sub>
