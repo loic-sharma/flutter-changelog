@@ -682,7 +682,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Small improvements to et lint command
-    <sub>[#51372](https://github.com/flutter/engine/pull/51372) merged on March 13, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/51372) over 13 hours, 117 additions and 81 deletions in 13 files</sub>
+    <sub>[#51372](https://github.com/flutter/engine/pull/51372) merged on March 13, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/51372) over 13 hours, 117 additions and 81 deletions in 13 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Enable sound null safety everywhere
