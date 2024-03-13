@@ -4,11 +4,16 @@
 
 ### March 9, 2024 to March 15, 2024
 
-27 commits.
+28 commits.
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; [New feature]Introduce iOS multi-touch drag behavior<br />
     <sub>[#141355](https://github.com/flutter/flutter/pull/141355) merged on March 13, 2024 &mdash; **Large:** [55 comments](https://github.com/flutter/flutter/pull/141355) over 2 months, 1098 additions and 35 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField helper top padding on M3<br />
+    <sub>[#145087](https://github.com/flutter/flutter/pull/145087) merged on March 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145087) over 5 hours, 6 additions and 7 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/9947f334-d98f-4f7e-9da7-ca6d5c0770ac) | ![image](https://github.com/flutter/flutter/assets/840911/081dec4b-eb9f-4eee-a7dc-2538e7110ff0)| ![image](https://github.com/flutter/flutter/assets/840911/c8c8f045-3b79-43a5-a1a3-cc6d5460644f)</details></sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Set cacheExtent for SliverFillRemaining widget<br />
     <sub>[#143612](https://github.com/flutter/flutter/pull/143612) merged on March 13, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/143612) over 3 weeks, 1329 additions and 1 deletion in 3 files</sub><br />
