@@ -4,7 +4,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-38 commits.
+39 commits.
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; [New feature]Introduce iOS multi-touch drag behavior<br />
     <sub>[#141355](https://github.com/flutter/flutter/pull/141355) merged on March 13, 2024 &mdash; **Large:** [55 comments](https://github.com/flutter/flutter/pull/141355) over 2 months, 1098 additions and 35 deletions in 13 files</sub><br />
@@ -19,6 +19,10 @@
     <sub>[#145087](https://github.com/flutter/flutter/pull/145087) merged on March 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/145087) over 5 hours, 6 additions and 7 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/9947f334-d98f-4f7e-9da7-ca6d5c0770ac) | ![image](https://github.com/flutter/flutter/assets/840911/081dec4b-eb9f-4eee-a7dc-2538e7110ff0)| ![image](https://github.com/flutter/flutter/assets/840911/c8c8f045-3b79-43a5-a1a3-cc6d5460644f)</details></sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Platform view devicelab ad banner scroll list real ads<br />
+    <sub>[#144745](https://github.com/flutter/flutter/pull/144745) merged on March 14, 2024 &mdash; **Medium:** [34 comments](https://github.com/flutter/flutter/pull/144745) over 1 week, 301 additions and 11 deletions in 16 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Set cacheExtent for SliverFillRemaining widget<br />
     <sub>[#143612](https://github.com/flutter/flutter/pull/143612) merged on March 13, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/143612) over 3 weeks, 1329 additions and 1 deletion in 3 files</sub><br />
@@ -52,9 +56,9 @@
     <sub>[#144932](https://github.com/flutter/flutter/pull/144932) merged on March 13, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/144932) over 1 day, 1129 additions and 377 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Turning `if` chains into shorter `switch` statements<br />
-    <sub>[#144977](https://github.com/flutter/flutter/pull/144977) merged on March 13, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/144977) over 1 day, 141 additions and 182 deletions in 12 files</sub><br />
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Remove `showTrackOnHover` from `Scrollbar` and `ScrollbarTheme`<br />
+    <sub>[#144180](https://github.com/flutter/flutter/pull/144180) merged on March 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144180) over 2 weeks, 52 additions and 70 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [framework] fix incorrect chinese localizations for Search Web and Share in selection controls<br />
     <sub>[#144857](https://github.com/flutter/flutter/pull/144857) merged on March 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144857) over 5 days, 20 additions and 20 deletions in 8 files</sub><br />
@@ -64,13 +68,17 @@
     <sub>[#144752](https://github.com/flutter/flutter/pull/144752) merged on March 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/144752) over 4 days, 70 additions and 9 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Remove `showTrackOnHover` from `Scrollbar` and `ScrollbarTheme`<br />
-    <sub>[#144180](https://github.com/flutter/flutter/pull/144180) merged on March 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144180) over 2 weeks, 52 additions and 70 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Turning `if` chains into shorter `switch` statements<br />
+    <sub>[#144977](https://github.com/flutter/flutter/pull/144977) merged on March 13, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/144977) over 1 day, 141 additions and 182 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; Remove autofocus from the a11y_assessments app<br />
     <sub>[#145117](https://github.com/flutter/flutter/pull/145117) merged on March 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145117) over 21 hours, 0 additions and 17 deletions in 9 files</sub><br />
     <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Reduce Windows_arm64 plugin_test_windows test timeout<br />
+    <sub>[#145110](https://github.com/flutter/flutter/pull/145110) merged on March 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145110) over 3 hours, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark Mac_arm64_ios module_test_ios not flaky<br />
     <sub>[#145044](https://github.com/flutter/flutter/pull/145044) merged on March 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145044) over 20 hours, 0 additions and 1 deletion in 1 file</sub><br />
@@ -103,14 +111,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fail tests on exceptions raised after test completed<br />
     <sub>[#144706](https://github.com/flutter/flutter/pull/144706) merged on March 11, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/144706) over 5 days, 54 additions and 7 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Reduce Windows_arm64 plugin_test_windows test timeout<br />
-    <sub>[#145110](https://github.com/flutter/flutter/pull/145110) merged on March 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145110) over 3 hours, 1 addition and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a microbenchmark for text intrinsic height layout<br />
-    <sub>[#145007](https://github.com/flutter/flutter/pull/145007) merged on March 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/145007) over 1 hour, 63 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Elias Elfarri](https://github.com/Moelfarri)** &mdash; Write unit tests for API Examples of checkbox.0, checkbox.1<br />
     <sub>[#144888](https://github.com/flutter/flutter/pull/144888) merged on March 12, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/144888) over 2 days, 127 additions and 2 deletions in 3 files</sub><br />
@@ -147,6 +147,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Expose build mode in environment of asset transformer processes (#144752)"<br />
     <sub>[#144957](https://github.com/flutter/flutter/pull/144957) merged on March 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144957) over 50 seconds, 9 additions and 70 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a microbenchmark for text intrinsic height layout<br />
+    <sub>[#145007](https://github.com/flutter/flutter/pull/145007) merged on March 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/145007) over 1 hour, 63 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Fail tests on exceptions raised after test completed (#144706)"<br />
     <sub>[#144980](https://github.com/flutter/flutter/pull/144980) merged on March 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144980) over 12 hours, 54 additions and 7 deletions in 4 files</sub><br />
