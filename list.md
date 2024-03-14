@@ -4,14 +4,19 @@
 
 ### March 9, 2024 to March 15, 2024
 
-35 commits.
+36 commits.
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; [New feature]Introduce iOS multi-touch drag behavior
     <sub>[#141355](https://github.com/flutter/flutter/pull/141355) merged on March 13, 2024 &mdash; **Large:** [55 comments](https://github.com/flutter/flutter/pull/141355) over 2 months, 1098 additions and 35 deletions in 13 files</sub>
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks)</sub>
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Fix TextField helper top padding on M3 (#145087)"
+    <sub>[#145168](https://github.com/flutter/flutter/pull/145168) merged on March 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145168) over 51 seconds, 7 additions and 6 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/9947f334-d98f-4f7e-9da7-ca6d5c0770ac) | ![image](https://github.com/flutter/flutter/assets/840911/081dec4b-eb9f-4eee-a7dc-2538e7110ff0)| ![image](https://github.com/flutter/flutter/assets/840911/c8c8f045-3b79-43a5-a1a3-cc6d5460644f)</details></sub>
+
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField helper top padding on M3
-    <sub>[#145087](https://github.com/flutter/flutter/pull/145087) merged on March 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145087) over 5 hours, 6 additions and 7 deletions in 2 files</sub>
+    <sub>[#145087](https://github.com/flutter/flutter/pull/145087) merged on March 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/145087) over 5 hours, 6 additions and 7 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/9947f334-d98f-4f7e-9da7-ca6d5c0770ac) | ![image](https://github.com/flutter/flutter/assets/840911/081dec4b-eb9f-4eee-a7dc-2538e7110ff0)| ![image](https://github.com/flutter/flutter/assets/840911/c8c8f045-3b79-43a5-a1a3-cc6d5460644f)</details></sub>
 
@@ -47,21 +52,21 @@
     <sub>[#144905](https://github.com/flutter/flutter/pull/144905) merged on March 11, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/144905) over 1 day, 404 additions and 349 deletions in 20 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Expose build mode in environment of asset transformer processes
-    <sub>[#144752](https://github.com/flutter/flutter/pull/144752) merged on March 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/144752) over 4 days, 70 additions and 9 deletions in 13 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [framework] fix incorrect chinese localizations for Search Web and Share in selection controls
     <sub>[#144857](https://github.com/flutter/flutter/pull/144857) merged on March 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144857) over 5 days, 20 additions and 20 deletions in 8 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Remove `showTrackOnHover` from `Scrollbar` and `ScrollbarTheme`
-    <sub>[#144180](https://github.com/flutter/flutter/pull/144180) merged on March 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144180) over 2 weeks, 52 additions and 70 deletions in 4 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
-
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Turning `if` chains into shorter `switch` statements
     <sub>[#144977](https://github.com/flutter/flutter/pull/144977) merged on March 13, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/144977) over 1 day, 141 additions and 182 deletions in 12 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Expose build mode in environment of asset transformer processes
+    <sub>[#144752](https://github.com/flutter/flutter/pull/144752) merged on March 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/144752) over 4 days, 70 additions and 9 deletions in 13 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Remove `showTrackOnHover` from `Scrollbar` and `ScrollbarTheme`
+    <sub>[#144180](https://github.com/flutter/flutter/pull/144180) merged on March 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144180) over 2 weeks, 52 additions and 70 deletions in 4 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Reduce Windows_arm64 plugin_test_windows test timeout
     <sub>[#145110](https://github.com/flutter/flutter/pull/145110) merged on March 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145110) over 3 hours, 1 addition and 0 deletions in 1 file</sub>
@@ -1533,11 +1538,15 @@
 
 ### March 9, 2024 to March 15, 2024
 
-3 commits.
+4 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [google_maps_flutter] Started dispatching platform messages from platform thread
     <sub>[#6069](https://github.com/flutter/packages/pull/6069) merged on March 14, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/6069) over 1 month, 73 additions and 32 deletions in 5 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [image_picker_android] Fix deprecation warnings by branching based on build version, and suppressing only when needed
+    <sub>[#6233](https://github.com/flutter/packages/pull/6233) merged on March 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6233) over 1 week, 33 additions and 10 deletions in 4 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Replace deprecated UIGraphicsBeginImageContextWithOptions with UIGraphicsImageRenderer
     <sub>[#6285](https://github.com/flutter/packages/pull/6285) merged on March 13, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/6285) over 5 days, 161 additions and 146 deletions in 12 files</sub>
