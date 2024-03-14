@@ -820,8 +820,8 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Liam Appelbe](https://github.com/liamappelbe)** &mdash; Experimental platform isolates API
-    <sub>[#48551](https://github.com/flutter/engine/pull/48551) merged on March 4, 2024 &mdash; **Extra large:** [168 comments](https://github.com/flutter/engine/pull/48551) over 3 months, 1775 additions and 16 deletions in 36 files</sub>
-    <sub>Reviewed by: [Ryan Macnak](https://github.com/rmacnak-google), [Martin Kustermann](https://github.com/mkustermann), [Jason Simmons](https://github.com/jason-simmons)</sub>
+    <sub>[#48551](https://github.com/flutter/engine/pull/48551) merged on March 4, 2024 &mdash; **Extra large:** [169 comments](https://github.com/flutter/engine/pull/48551) over 3 months, 1775 additions and 16 deletions in 36 files</sub>
+    <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph), [Ryan Macnak](https://github.com/rmacnak-google), [Martin Kustermann](https://github.com/mkustermann), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Optimize overlays in CanvasKit
     <sub>[#47317](https://github.com/flutter/engine/pull/47317) merged on March 8, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/engine/pull/47317) over 4 months, 1014 additions and 942 deletions in 10 files</sub>
