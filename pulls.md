@@ -59,6 +59,3 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update runner to accept white spaces in path.<br />
     <sub>[#145016](https://github.com/flutter/flutter/pull/145016) opened on on March 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145016) 3 additions and 1 deletion in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Activate shortcuts based on NumLock state<br />
-    <sub>[#145146](https://github.com/flutter/flutter/pull/145146) opened on on March 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145146) 140 additions and 2 deletions in 2 files</sub><br />
-
