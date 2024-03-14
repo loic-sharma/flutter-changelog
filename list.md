@@ -1542,7 +1542,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-5 commits.
+6 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Adds platform implementations for onHttpError
     <sub>[#6149](https://github.com/flutter/packages/pull/6149) merged on March 14, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/6149) over 3 weeks, 2196 additions and 1092 deletions in 50 files</sub>
@@ -1551,6 +1551,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [google_maps_flutter] Started dispatching platform messages from platform thread
     <sub>[#6069](https://github.com/flutter/packages/pull/6069) merged on March 14, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/6069) over 1 month, 73 additions and 32 deletions in 5 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Fixes double prefixes added to enum names for Objc HostApis and FlutterApis
+    <sub>[#6263](https://github.com/flutter/packages/pull/6263) merged on March 14, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/6263) over 1 week, 769 additions and 576 deletions in 13 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [image_picker_android] Fix deprecation warnings by branching based on build version, and suppressing only when needed
     <sub>[#6233](https://github.com/flutter/packages/pull/6233) merged on March 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6233) over 1 week, 33 additions and 10 deletions in 4 files</sub>
