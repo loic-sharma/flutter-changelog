@@ -767,7 +767,7 @@
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Add DisplayList Region and Transform benchmarks to CI
-    <sub>[#51429](https://github.com/flutter/engine/pull/51429) merged on March 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51429) over 1 hour, 8 additions and 0 deletions in 3 files</sub>
+    <sub>[#51429](https://github.com/flutter/engine/pull/51429) merged on March 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51429) over 1 hour, 8 additions and 0 deletions in 3 files</sub>
     <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Reduce code-duplication a bit and add more error context across `SkiaGoldClient`.
