@@ -4,7 +4,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-33 commits.
+34 commits.
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; [New feature]Introduce iOS multi-touch drag behavior
     <sub>[#141355](https://github.com/flutter/flutter/pull/141355) merged on March 13, 2024 &mdash; **Large:** [55 comments](https://github.com/flutter/flutter/pull/141355) over 2 months, 1098 additions and 35 deletions in 13 files</sub>
@@ -31,6 +31,10 @@
     <sub>[#144104](https://github.com/flutter/flutter/pull/144104) merged on March 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/144104) over 2 weeks, 85 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
+* **[victorgalo](https://github.com/victorgalo)** &mdash; Skip test temporarily until headingLevel is added in engine (issue 41…
+    <sub>[#135077](https://github.com/flutter/flutter/pull/135077) merged on March 11, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/135077) over 5 months, 2 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Revert "Add `FocusNode.focusabilityListenable` (#144280)" since the feature is no longer needed
     <sub>[#145102](https://github.com/flutter/flutter/pull/145102) merged on March 13, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/145102) over 2 hours, 10 additions and 598 deletions in 3 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
@@ -43,9 +47,9 @@
     <sub>[#144905](https://github.com/flutter/flutter/pull/144905) merged on March 11, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/144905) over 1 day, 404 additions and 349 deletions in 20 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
-* **[victorgalo](https://github.com/victorgalo)** &mdash; Skip test temporarily until headingLevel is added in engine (issue 41…
-    <sub>[#135077](https://github.com/flutter/flutter/pull/135077) merged on March 11, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/135077) over 5 months, 2 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [chunhtai](https://github.com/chunhtai)</sub>
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Expose build mode in environment of asset transformer processes
+    <sub>[#144752](https://github.com/flutter/flutter/pull/144752) merged on March 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/144752) over 4 days, 70 additions and 9 deletions in 13 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Turning `if` chains into shorter `switch` statements
     <sub>[#144977](https://github.com/flutter/flutter/pull/144977) merged on March 13, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/144977) over 1 day, 141 additions and 182 deletions in 12 files</sub>
@@ -54,10 +58,6 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Remove `showTrackOnHover` from `Scrollbar` and `ScrollbarTheme`
     <sub>[#144180](https://github.com/flutter/flutter/pull/144180) merged on March 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144180) over 2 weeks, 52 additions and 70 deletions in 4 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
-
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Expose build mode in environment of asset transformer processes
-    <sub>[#144752](https://github.com/flutter/flutter/pull/144752) merged on March 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/144752) over 4 days, 70 additions and 9 deletions in 13 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Reduce Windows_arm64 plugin_test_windows test timeout
     <sub>[#145110](https://github.com/flutter/flutter/pull/145110) merged on March 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145110) over 3 hours, 1 addition and 0 deletions in 1 file</sub>
@@ -126,6 +126,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Expose build mode in environment of asset transformer processes (#144752)"
     <sub>[#144957](https://github.com/flutter/flutter/pull/144957) merged on March 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144957) over 50 seconds, 9 additions and 70 deletions in 13 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Asserts if a `TextPainter` gets disposed more than once
+    <sub>[#145124](https://github.com/flutter/flutter/pull/145124) merged on March 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145124) over 14 hours, 10 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Fail tests on exceptions raised after test completed (#144706)"
     <sub>[#144980](https://github.com/flutter/flutter/pull/144980) merged on March 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/144980) over 12 hours, 54 additions and 7 deletions in 4 files</sub>
