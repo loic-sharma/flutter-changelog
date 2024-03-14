@@ -682,7 +682,7 @@
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Zachary Anderson](https://github.com/zanderso), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `--enable-impeller-{backend}` flags (always `True`).<br />
-    <sub>[#51402](https://github.com/flutter/engine/pull/51402) merged on March 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51402) over 4 hours, 6 additions and 29 deletions in 5 files</sub><br />
+    <sub>[#51402](https://github.com/flutter/engine/pull/51402) merged on March 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51402) over 4 hours, 6 additions and 29 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make scenario app have translucent splash screen so it doesn't affect screenshot colors<br />
@@ -1533,7 +1533,11 @@
 
 ### March 9, 2024 to March 15, 2024
 
-2 commits.
+3 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [google_maps_flutter] Started dispatching platform messages from platform thread<br />
+    <sub>[#6069](https://github.com/flutter/packages/pull/6069) merged on March 14, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/6069) over 1 month, 73 additions and 32 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Replace deprecated UIGraphicsBeginImageContextWithOptions with UIGraphicsImageRenderer<br />
     <sub>[#6285](https://github.com/flutter/packages/pull/6285) merged on March 13, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/6285) over 5 days, 161 additions and 146 deletions in 12 files</sub><br />
