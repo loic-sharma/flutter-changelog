@@ -59,3 +59,6 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update runner to accept white spaces in path.<br />
     <sub>[#145016](https://github.com/flutter/flutter/pull/145016) opened on on March 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145016) 3 additions and 1 deletion in 1 file</sub><br />
 
+* **[Jesús S Guerrero](https://github.com/Jasguerrero)** &mdash; Reverts "Fix TextField helper top padding on M3 (#145087)" (#145168)<br />
+    <sub>[#145172](https://github.com/flutter/flutter/pull/145172) opened on on March 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145172) 7 additions and 6 deletions in 2 files</sub><br />
+
