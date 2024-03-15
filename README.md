@@ -4,7 +4,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-39 commits.
+40 commits.
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; [New feature]Introduce iOS multi-touch drag behavior<br />
     <sub>[#141355](https://github.com/flutter/flutter/pull/141355) merged on March 13, 2024 &mdash; **Large:** [55 comments](https://github.com/flutter/flutter/pull/141355) over 2 months, 1098 additions and 35 deletions in 13 files</sub><br />
@@ -21,7 +21,7 @@
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/9947f334-d98f-4f7e-9da7-ca6d5c0770ac) | ![image](https://github.com/flutter/flutter/assets/840911/081dec4b-eb9f-4eee-a7dc-2538e7110ff0)| ![image](https://github.com/flutter/flutter/assets/840911/c8c8f045-3b79-43a5-a1a3-cc6d5460644f)</details></sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Platform view devicelab ad banner scroll list real ads<br />
-    <sub>[#144745](https://github.com/flutter/flutter/pull/144745) merged on March 14, 2024 &mdash; **Medium:** [34 comments](https://github.com/flutter/flutter/pull/144745) over 1 week, 301 additions and 11 deletions in 16 files</sub><br />
+    <sub>[#144745](https://github.com/flutter/flutter/pull/144745) merged on March 14, 2024 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/144745) over 1 week, 301 additions and 11 deletions in 16 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Set cacheExtent for SliverFillRemaining widget<br />
@@ -31,6 +31,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Flutter Web Bootstrapping Improvements<br />
     <sub>[#144434](https://github.com/flutter/flutter/pull/144434) merged on March 12, 2024 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/144434) over 1 week, 823 additions and 784 deletions in 31 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Platform view devicelab ad banner scroll list real ads (#144745)"<br />
+    <sub>[#145189](https://github.com/flutter/flutter/pull/145189) merged on March 15, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/145189) over 1 minute, 11 additions and 301 deletions in 16 files</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Dhikshith](https://github.com/dhikshith12)** &mdash; Fix Cupertino Context Menu Container to Remove White Corners<br />
     <sub>[#144883](https://github.com/flutter/flutter/pull/144883) merged on March 13, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/144883) over 3 days, 55 additions and 6 deletions in 2 files</sub><br />
@@ -56,21 +60,21 @@
     <sub>[#144932](https://github.com/flutter/flutter/pull/144932) merged on March 13, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/144932) over 1 day, 1129 additions and 377 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Remove `showTrackOnHover` from `Scrollbar` and `ScrollbarTheme`<br />
-    <sub>[#144180](https://github.com/flutter/flutter/pull/144180) merged on March 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144180) over 2 weeks, 52 additions and 70 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
-
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [framework] fix incorrect chinese localizations for Search Web and Share in selection controls<br />
     <sub>[#144857](https://github.com/flutter/flutter/pull/144857) merged on March 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144857) over 5 days, 20 additions and 20 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Turning `if` chains into shorter `switch` statements<br />
+    <sub>[#144977](https://github.com/flutter/flutter/pull/144977) merged on March 13, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/144977) over 1 day, 141 additions and 182 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Expose build mode in environment of asset transformer processes<br />
     <sub>[#144752](https://github.com/flutter/flutter/pull/144752) merged on March 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/144752) over 4 days, 70 additions and 9 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Turning `if` chains into shorter `switch` statements<br />
-    <sub>[#144977](https://github.com/flutter/flutter/pull/144977) merged on March 13, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/144977) over 1 day, 141 additions and 182 deletions in 12 files</sub><br />
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Remove `showTrackOnHover` from `Scrollbar` and `ScrollbarTheme`<br />
+    <sub>[#144180](https://github.com/flutter/flutter/pull/144180) merged on March 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144180) over 2 weeks, 52 additions and 70 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; Remove autofocus from the a11y_assessments app<br />
     <sub>[#145117](https://github.com/flutter/flutter/pull/145117) merged on March 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145117) over 21 hours, 0 additions and 17 deletions in 9 files</sub><br />
@@ -140,12 +144,12 @@
     <sub>[#145061](https://github.com/flutter/flutter/pull/145061) merged on March 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145061) over 16 hours, 159 additions and 4 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Add a microbenchmark for text intrinsic height layout (#145007)"<br />
-    <sub>[#145029](https://github.com/flutter/flutter/pull/145029) merged on March 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145029) over 57 seconds, 0 additions and 63 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
-
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Expose build mode in environment of asset transformer processes (#144752)"<br />
     <sub>[#144957](https://github.com/flutter/flutter/pull/144957) merged on March 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/144957) over 50 seconds, 9 additions and 70 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Add a microbenchmark for text intrinsic height layout (#145007)"<br />
+    <sub>[#145029](https://github.com/flutter/flutter/pull/145029) merged on March 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145029) over 57 seconds, 0 additions and 63 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a microbenchmark for text intrinsic height layout<br />
