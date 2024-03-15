@@ -1602,7 +1602,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-7 commits.
+8 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Adds platform implementations for onHttpError<br />
     <sub>[#6149](https://github.com/flutter/packages/pull/6149) merged on March 14, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/6149) over 3 weeks, 2196 additions and 1092 deletions in 50 files</sub><br />
@@ -1611,6 +1611,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [google_maps_flutter] Started dispatching platform messages from platform thread<br />
     <sub>[#6069](https://github.com/flutter/packages/pull/6069) merged on March 14, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/6069) over 1 month, 73 additions and 32 deletions in 5 files</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Fix some leaks discovered by `leak_tracker_flutter_testing` <br />
+    <sub>[#6210](https://github.com/flutter/packages/pull/6210) merged on March 15, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/6210) over 2 weeks, 85 additions and 9 deletions in 17 files</sub><br />
+    <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Fixes double prefixes added to enum names for Objc HostApis and FlutterApis<br />
     <sub>[#6263](https://github.com/flutter/packages/pull/6263) merged on March 14, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/6263) over 1 week, 769 additions and 576 deletions in 13 files</sub><br />
