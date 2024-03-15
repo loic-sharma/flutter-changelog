@@ -133,7 +133,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Reland: "Platform view devicelab ad banner scroll list real ads" (#145224)"
-    <sub>[#145228](https://github.com/flutter/flutter/pull/145228) merged on March 15, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/145228) over 57 seconds, 33 additions and 556 deletions in 19 files</sub>
+    <sub>[#145228](https://github.com/flutter/flutter/pull/145228) merged on March 15, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/145228) over 57 seconds, 33 additions and 556 deletions in 19 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Elias Elfarri](https://github.com/Moelfarri)** &mdash; Write unit tests for API Examples of checkbox.0, checkbox.1
