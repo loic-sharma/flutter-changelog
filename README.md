@@ -21,7 +21,7 @@
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/9947f334-d98f-4f7e-9da7-ca6d5c0770ac) | ![image](https://github.com/flutter/flutter/assets/840911/081dec4b-eb9f-4eee-a7dc-2538e7110ff0)| ![image](https://github.com/flutter/flutter/assets/840911/c8c8f045-3b79-43a5-a1a3-cc6d5460644f)</details></sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Platform view devicelab ad banner scroll list real ads<br />
-    <sub>[#144745](https://github.com/flutter/flutter/pull/144745) merged on March 14, 2024 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/144745) over 1 week, 301 additions and 11 deletions in 16 files</sub><br />
+    <sub>[#144745](https://github.com/flutter/flutter/pull/144745) merged on March 14, 2024 &mdash; **Medium:** [36 comments](https://github.com/flutter/flutter/pull/144745) over 1 week, 301 additions and 11 deletions in 16 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Set cacheExtent for SliverFillRemaining widget<br />
@@ -33,7 +33,7 @@
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Platform view devicelab ad banner scroll list real ads (#144745)"<br />
-    <sub>[#145189](https://github.com/flutter/flutter/pull/145189) merged on March 15, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/145189) over 1 minute, 11 additions and 301 deletions in 16 files</sub><br />
+    <sub>[#145189](https://github.com/flutter/flutter/pull/145189) merged on March 15, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/145189) over 1 minute, 11 additions and 301 deletions in 16 files</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Dhikshith](https://github.com/dhikshith12)** &mdash; Fix Cupertino Context Menu Container to Remove White Corners<br />
