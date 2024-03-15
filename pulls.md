@@ -53,6 +53,3 @@
 * **[Sahil Kachhap](https://github.com/Sahil-kachhap)** &mdash; [Fix]: Searchbar doesn't lose focus when tapped outside<br />
     <sub>[#145232](https://github.com/flutter/flutter/pull/145232) opened on on March 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145232) 42 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Platform view devicelab ad banner scroll list real ads<br />
-    <sub>[#145239](https://github.com/flutter/flutter/pull/145239) opened on on March 15, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/145239) 559 additions and 38 deletions in 20 files</sub><br />
-
