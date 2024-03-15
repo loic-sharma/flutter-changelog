@@ -4,7 +4,11 @@
 
 ### March 9, 2024 to March 15, 2024
 
-40 commits.
+41 commits.
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Roll pub packages manually<br />
+    <sub>[#145170](https://github.com/flutter/flutter/pull/145170) merged on March 15, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/145170) over 19 hours, 23 additions and 23 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Christopher Fujino](https://github.com/christopherfujino), [Michael Goderbauer](https://github.com/goderbauer), [Elias Yishak](https://github.com/eliasyishak)</sub><br />
 
 * **[xubaolin](https://github.com/xu-baolin)** &mdash; [New feature]Introduce iOS multi-touch drag behavior<br />
     <sub>[#141355](https://github.com/flutter/flutter/pull/141355) merged on March 13, 2024 &mdash; **Large:** [55 comments](https://github.com/flutter/flutter/pull/141355) over 2 months, 1098 additions and 35 deletions in 13 files</sub><br />
@@ -60,9 +64,9 @@
     <sub>[#144932](https://github.com/flutter/flutter/pull/144932) merged on March 13, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/144932) over 1 day, 1129 additions and 377 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [framework] fix incorrect chinese localizations for Search Web and Share in selection controls<br />
-    <sub>[#144857](https://github.com/flutter/flutter/pull/144857) merged on March 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144857) over 5 days, 20 additions and 20 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Remove `showTrackOnHover` from `Scrollbar` and `ScrollbarTheme`<br />
+    <sub>[#144180](https://github.com/flutter/flutter/pull/144180) merged on March 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144180) over 2 weeks, 52 additions and 70 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Turning `if` chains into shorter `switch` statements<br />
     <sub>[#144977](https://github.com/flutter/flutter/pull/144977) merged on March 13, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/144977) over 1 day, 141 additions and 182 deletions in 12 files</sub><br />
@@ -72,9 +76,9 @@
     <sub>[#144752](https://github.com/flutter/flutter/pull/144752) merged on March 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/144752) over 4 days, 70 additions and 9 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Remove `showTrackOnHover` from `Scrollbar` and `ScrollbarTheme`<br />
-    <sub>[#144180](https://github.com/flutter/flutter/pull/144180) merged on March 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144180) over 2 weeks, 52 additions and 70 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [framework] fix incorrect chinese localizations for Search Web and Share in selection controls<br />
+    <sub>[#144857](https://github.com/flutter/flutter/pull/144857) merged on March 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144857) over 5 days, 20 additions and 20 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; Remove autofocus from the a11y_assessments app<br />
     <sub>[#145117](https://github.com/flutter/flutter/pull/145117) merged on March 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145117) over 21 hours, 0 additions and 17 deletions in 9 files</sub><br />
@@ -100,13 +104,13 @@
     <sub>[#145005](https://github.com/flutter/flutter/pull/145005) merged on March 12, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/145005) over 1 hour, 249 additions and 208 deletions in 44 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; add missing `await`s<br />
-    <sub>[#144978](https://github.com/flutter/flutter/pull/144978) merged on March 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144978) over 11 hours, 4 additions and 4 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix typing to unblock pub roll<br />
     <sub>[#144968](https://github.com/flutter/flutter/pull/144968) merged on March 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144968) over 17 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [David Iglesias](https://github.com/ditman), [Srujan Gaddam](https://github.com/srujzs)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; add missing `await`s<br />
+    <sub>[#144978](https://github.com/flutter/flutter/pull/144978) merged on March 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144978) over 11 hours, 4 additions and 4 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Make TabController communicating creation in constructor.<br />
     <sub>[#144912](https://github.com/flutter/flutter/pull/144912) merged on March 11, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/144912) over 19 hours, 5 additions and 1 deletion in 1 file</sub><br />

@@ -62,3 +62,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Intensive `if` chain refactoring<br />
     <sub>[#145194](https://github.com/flutter/flutter/pull/145194) opened on on March 15, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/145194) 103 additions and 352 deletions in 7 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; InputDecorator M3 tests migration - Step6 - constraints<br />
+    <sub>[#145213](https://github.com/flutter/flutter/pull/145213) opened on on March 15, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/145213) 838 additions and 128 deletions in 1 file</sub><br />
+
