@@ -59,3 +59,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Intensive `if` chain refactoring<br />
     <sub>[#145194](https://github.com/flutter/flutter/pull/145194) opened on on March 15, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/145194) 103 additions and 352 deletions in 7 files</sub><br />
 
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Reland: "Platform view devicelab ad banner scroll list real ads"<br />
+    <sub>[#145224](https://github.com/flutter/flutter/pull/145224) opened on on March 15, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/145224) 556 additions and 33 deletions in 19 files</sub><br />
+
