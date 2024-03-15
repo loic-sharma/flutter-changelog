@@ -62,3 +62,6 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#145227](https://github.com/flutter/flutter/pull/145227) opened on on March 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145227) 3 additions and 3 deletions in 1 file</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [do not merge] Unfilter ADB logs to debug integration test<br />
+    <sub>[#145231](https://github.com/flutter/flutter/pull/145231) opened on on March 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145231) 14 additions and 14 deletions in 1 file</sub><br />
+
