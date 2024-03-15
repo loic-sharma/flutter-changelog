@@ -65,3 +65,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [do not merge] Unfilter ADB logs to debug integration test<br />
     <sub>[#145231](https://github.com/flutter/flutter/pull/145231) opened on on March 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145231) 14 additions and 14 deletions in 1 file</sub><br />
 
+* **[Sahil Kachhap](https://github.com/Sahil-kachhap)** &mdash; [Fix]: Searchbar doesn't lose focus when tapped outside<br />
+    <sub>[#145232](https://github.com/flutter/flutter/pull/145232) opened on on March 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145232) 42 additions and 0 deletions in 2 files</sub><br />
+
