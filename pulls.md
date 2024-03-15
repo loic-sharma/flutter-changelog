@@ -53,3 +53,6 @@
 * **[Sahil Kachhap](https://github.com/Sahil-kachhap)** &mdash; [Fix]: Searchbar doesn't lose focus when tapped outside<br />
     <sub>[#145232](https://github.com/flutter/flutter/pull/145232) opened on on March 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145232) 42 additions and 0 deletions in 2 files</sub><br />
 
+* **[hangyu](https://github.com/hangyujin)** &mdash; Add a `minTileHeight` to ListTile widget so its height can be customized to less than the default height.<br />
+    <sub>[#145244](https://github.com/flutter/flutter/pull/145244) opened on on March 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145244) 57 additions and 6 deletions in 2 files</sub><br />
+
