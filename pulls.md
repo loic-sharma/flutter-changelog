@@ -59,3 +59,6 @@
 * **[Vatsal Bhesaniya](https://github.com/VatsalBhesaniya)** &mdash; Add helper widget parameter to InputDecoration<br />
     <sub>[#145157](https://github.com/flutter/flutter/pull/145157) opened on on March 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145157) 75 additions and 8 deletions in 2 files</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Intensive `if` chain refactoring<br />
+    <sub>[#145194](https://github.com/flutter/flutter/pull/145194) opened on on March 15, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/145194) 103 additions and 352 deletions in 7 files</sub><br />
+
