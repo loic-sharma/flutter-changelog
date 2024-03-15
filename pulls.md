@@ -56,3 +56,6 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update runner to accept white spaces in path.<br />
     <sub>[#145016](https://github.com/flutter/flutter/pull/145016) opened on on March 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145016) 3 additions and 1 deletion in 1 file</sub><br />
 
+* **[Vatsal Bhesaniya](https://github.com/VatsalBhesaniya)** &mdash; Add helper widget parameter to InputDecoration<br />
+    <sub>[#145157](https://github.com/flutter/flutter/pull/145157) opened on on March 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145157) 75 additions and 8 deletions in 2 files</sub><br />
+
