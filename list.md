@@ -1697,7 +1697,7 @@
 
 ### March 9, 2024 to March 15, 2024
 
-9 commits.
+10 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Adds platform implementations for onHttpError
     <sub>[#6149](https://github.com/flutter/packages/pull/6149) merged on March 14, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/6149) over 3 weeks, 2196 additions and 1092 deletions in 50 files</sub>
@@ -1722,6 +1722,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Replace deprecated UIGraphicsBeginImageContextWithOptions with UIGraphicsImageRenderer
     <sub>[#6285](https://github.com/flutter/packages/pull/6285) merged on March 13, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/6285) over 5 days, 161 additions and 146 deletions in 12 files</sub>
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pointer_interceptor_web] Skip broken semantics tests and do a manual roll
+    <sub>[#6342](https://github.com/flutter/packages/pull/6342) merged on March 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6342) over 18 hours, 13 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pigeon]Add hellohuanlin to pigeon iOS for code reviews
     <sub>[#6333](https://github.com/flutter/packages/pull/6333) merged on March 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6333) over 21 hours, 2 additions and 1 deletion in 1 file</sub>
