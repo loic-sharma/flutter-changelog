@@ -57,5 +57,5 @@
     <sub>[#145246](https://github.com/flutter/flutter/pull/145246) opened on on March 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145246) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Igor Hnízdo](https://github.com/Michal-MK)** &mdash; `ExpansionTile` Unable to remove right padding from title<br />
-    <sub>[#145271](https://github.com/flutter/flutter/pull/145271) opened on on March 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145271) 51 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#145271](https://github.com/flutter/flutter/pull/145271) opened on on March 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145271) 51 additions and 1 deletion in 2 files</sub><br />
 
