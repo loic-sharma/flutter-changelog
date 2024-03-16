@@ -24,7 +24,7 @@
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/9947f334-d98f-4f7e-9da7-ca6d5c0770ac) | ![image](https://github.com/flutter/flutter/assets/840911/081dec4b-eb9f-4eee-a7dc-2538e7110ff0)| ![image](https://github.com/flutter/flutter/assets/840911/c8c8f045-3b79-43a5-a1a3-cc6d5460644f)</details></sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField helper top padding on M3
-    <sub>[#145087](https://github.com/flutter/flutter/pull/145087) merged on March 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/145087) over 5 hours, 6 additions and 7 deletions in 2 files</sub>
+    <sub>[#145087](https://github.com/flutter/flutter/pull/145087) merged on March 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/145087) over 5 hours, 6 additions and 7 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/9947f334-d98f-4f7e-9da7-ca6d5c0770ac) | ![image](https://github.com/flutter/flutter/assets/840911/081dec4b-eb9f-4eee-a7dc-2538e7110ff0)| ![image](https://github.com/flutter/flutter/assets/840911/c8c8f045-3b79-43a5-a1a3-cc6d5460644f)</details></sub>
 
