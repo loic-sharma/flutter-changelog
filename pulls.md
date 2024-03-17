@@ -68,3 +68,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Clarify AutomaticKeepAliveClientMixin semantics in build method<br />
     <sub>[#145297](https://github.com/flutter/flutter/pull/145297) opened on on March 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145297) 4 additions and 0 deletions in 1 file</sub><br />
 
+* **[AdamMusa](https://github.com/AdamMusa)** &mdash; fix bug of  circular_progress_bar to support correctly the adaptabili…<br />
+    <sub>[#145298](https://github.com/flutter/flutter/pull/145298) opened on on March 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145298) 2 additions and 2 deletions in 1 file</sub><br />
+
