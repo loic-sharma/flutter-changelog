@@ -60,5 +60,5 @@
     <sub>[#145271](https://github.com/flutter/flutter/pull/145271) opened on on March 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145271) 51 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add flutter_goldens README<br />
-    <sub>[#145278](https://github.com/flutter/flutter/pull/145278) opened on on March 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145278) 9 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#145278](https://github.com/flutter/flutter/pull/145278) opened on on March 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145278) 9 additions and 0 deletions in 1 file</sub><br />
 
