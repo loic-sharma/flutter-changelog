@@ -65,3 +65,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove state shared across tests<br />
     <sub>[#145281](https://github.com/flutter/flutter/pull/145281) opened on on March 17, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/145281) 372 additions and 213 deletions in 2 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Clarify AutomaticKeepAliveClientMixin semantics in build method<br />
+    <sub>[#145297](https://github.com/flutter/flutter/pull/145297) opened on on March 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145297) 4 additions and 0 deletions in 1 file</sub><br />
+
