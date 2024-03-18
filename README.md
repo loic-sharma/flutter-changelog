@@ -468,11 +468,15 @@
 
 ### March 16, 2024 to March 22, 2024
 
-9 commits.
+11 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Support accessibility back gesture to pop route from view controller<br />
     <sub>[#51241](https://github.com/flutter/engine/pull/51241) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51241) over 1 week, 26 additions and 5 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; A native Android unit-testing harness.<br />
+    <sub>[#51479](https://github.com/flutter/engine/pull/51479) merged on March 18, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/engine/pull/51479) over 1 day, 829 additions and 4 deletions in 18 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] make sure to render TiledTextureContents if the geometry doesn't fit in the texture's bounds.<br />
     <sub>[#51393](https://github.com/flutter/engine/pull/51393) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51393) over 4 days, 43 additions and 2 deletions in 4 files</sub><br />
@@ -497,6 +501,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Remove view<br />
     <sub>[#51400](https://github.com/flutter/engine/pull/51400) merged on March 18, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51400) over 4 days, 178 additions and 19 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Fuchsia] only download fuchsia deps when necessary (#51439)"<br />
+    <sub>[#51500](https://github.com/flutter/engine/pull/51500) merged on March 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51500) over 1 minute, 30 additions and 14 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [zijiehe@](https://github.com/zijiehe-google-com)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add details to renderdoc_frame_capture.md<br />
     <sub>[#51483](https://github.com/flutter/engine/pull/51483) merged on March 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51483) over 20 hours, 16 additions and 7 deletions in 1 file</sub><br />
