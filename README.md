@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### March 16, 2024 to March 22, 2024
+
+1 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `inherited_theme_test.dart`, `ink_paint_test.dart`, `ink_splash_test.dart`, `opacity_test.dart` for Material 3<br />
+    <sub>[#144013](https://github.com/flutter/flutter/pull/144013) merged on March 18, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/144013) over 3 weeks, 316 additions and 14 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
 ### March 9, 2024 to March 15, 2024
 
-52 commits.
+<details>
+<summary>52 commits...</summary>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Roll pub packages manually<br />
     <sub>[#145170](https://github.com/flutter/flutter/pull/145170) merged on March 15, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/145170) over 19 hours, 23 additions and 23 deletions in 11 files</sub><br />
@@ -217,6 +226,8 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Revert "Remove unused drone_dimension field"<br />
     <sub>[#145024](https://github.com/flutter/flutter/pull/145024) merged on March 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145024) over 1 hour, 16 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
+
+</details>
 
 ### March 2, 2024 to March 8, 2024
 
