@@ -20,9 +20,6 @@
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Change dialog font family<br />
     <sub>[#141295](https://github.com/flutter/flutter/pull/141295) opened on on January 10, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/141295) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Yukiteru Attano](https://github.com/YukiAttano)** &mdash; fix: added revertFlutterImage call in integration_tests<br />
-    <sub>[#142166](https://github.com/flutter/flutter/pull/142166) opened on on January 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/142166) 35 additions and 5 deletions in 4 files</sub><br />
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [WIP] Updating toolbarHeight for M3 fidelity<br />
     <sub>[#142671](https://github.com/flutter/flutter/pull/142671) opened on on February 1, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/142671) 330 additions and 292 deletions in 37 files</sub><br />
 

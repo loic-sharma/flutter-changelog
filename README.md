@@ -594,8 +594,8 @@
     <sub>Reviewed by: [Dan Field](https://github.com/dnfield)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Fix flakiness in FlutterVSyncWaiterTest.VSyncWorks and FlutterDisplayLinkTest.WorkaroundForFB13482573<br />
-    <sub>[#51405](https://github.com/flutter/engine/pull/51405) merged on March 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51405) over 15 hours, 22 additions and 5 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+    <sub>[#51405](https://github.com/flutter/engine/pull/51405) merged on March 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51405) over 15 hours, 22 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] started asserting golden test runner has fatal impeller validations<br />
     <sub>[#51357](https://github.com/flutter/engine/pull/51357) merged on March 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51357) over 1 day, 18 additions and 9 deletions in 3 files</sub><br />
