@@ -448,11 +448,15 @@
 
 ### March 16, 2024 to March 22, 2024
 
-1 commits.
+2 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] make sure to render TiledTextureContents if the geometry doesn't fit in the texture's bounds.<br />
     <sub>[#51393](https://github.com/flutter/engine/pull/51393) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51393) over 4 days, 43 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] only download fuchsia deps when necessary<br />
+    <sub>[#51439](https://github.com/flutter/engine/pull/51439) merged on March 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51439) over 3 days, 14 additions and 30 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 ### March 9, 2024 to March 15, 2024
 
