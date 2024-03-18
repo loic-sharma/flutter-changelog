@@ -468,7 +468,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-11 commits.
+12 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Support accessibility back gesture to pop route from view controller<br />
     <sub>[#51241](https://github.com/flutter/engine/pull/51241) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51241) over 1 week, 26 additions and 5 deletions in 4 files</sub><br />
@@ -480,6 +480,10 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] make sure to render TiledTextureContents if the geometry doesn't fit in the texture's bounds.<br />
     <sub>[#51393](https://github.com/flutter/engine/pull/51393) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51393) over 4 days, 43 additions and 2 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Allow identifying device driver and vendor information.<br />
+    <sub>[#51498](https://github.com/flutter/engine/pull/51498) merged on March 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51498) over 56 minutes, 293 additions and 2 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove Tappable from basic set of a11y roles; add it case by case<br />
