@@ -65,3 +65,6 @@
 * **[AdamMusa](https://github.com/AdamMusa)** &mdash; fix bug of  circular_progress_bar to support correctly the adaptabili…<br />
     <sub>[#145298](https://github.com/flutter/flutter/pull/145298) opened on on March 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145298) 22 additions and 2 deletions in 2 files</sub><br />
 
+* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Fix `BorderSide.none` requiring explicit transparent color for `UnderlineInputBorder`<br />
+    <sub>[#145329](https://github.com/flutter/flutter/pull/145329) opened on on March 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145329) 18 additions and 0 deletions in 2 files</sub><br />
+
