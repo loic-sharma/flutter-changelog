@@ -69,5 +69,5 @@
     <sub>[#145329](https://github.com/flutter/flutter/pull/145329) opened on on March 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145329) 18 additions and 0 deletions in 2 files</sub><br />
 
 * **[Pascal Welsch](https://github.com/passsy)** &mdash; Add WidgetsApp.debugShowWidgetInspectorOverride again (deprecated)<br />
-    <sub>[#145334](https://github.com/flutter/flutter/pull/145334) opened on on March 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145334) 121 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#145334](https://github.com/flutter/flutter/pull/145334) opened on on March 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145334) 121 additions and 0 deletions in 2 files</sub><br />
 

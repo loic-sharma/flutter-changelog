@@ -448,7 +448,11 @@
 
 ### March 16, 2024 to March 22, 2024
 
-4 commits.
+5 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Support accessibility back gesture to pop route from view controller
+    <sub>[#51241](https://github.com/flutter/engine/pull/51241) merged on March 18, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/51241) over 1 week, 26 additions and 5 deletions in 4 files</sub>
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] make sure to render TiledTextureContents if the geometry doesn't fit in the texture's bounds.
     <sub>[#51393](https://github.com/flutter/engine/pull/51393) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51393) over 4 days, 43 additions and 2 deletions in 4 files</sub>
