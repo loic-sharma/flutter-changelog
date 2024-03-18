@@ -448,11 +448,15 @@
 
 ### March 16, 2024 to March 22, 2024
 
-3 commits.
+4 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] make sure to render TiledTextureContents if the geometry doesn't fit in the texture's bounds.<br />
     <sub>[#51393](https://github.com/flutter/engine/pull/51393) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51393) over 4 days, 43 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove Tappable from basic set of a11y roles; add it case by case<br />
+    <sub>[#51466](https://github.com/flutter/engine/pull/51466) merged on March 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51466) over 2 days, 89 additions and 4 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert vestiges of submit batching.<br />
     <sub>[#51450](https://github.com/flutter/engine/pull/51450) merged on March 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51450) over 2 days, 28 additions and 20 deletions in 7 files</sub><br />
@@ -1110,7 +1114,12 @@
 
 ### March 16, 2024 to March 22, 2024
 
-1 commits.
+2 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [sign_in]: Bump com.google.android.gms:play-services-auth from 20.7.0 to 21.0.0 in /packages/google_sign_in/google_sign_in_android/android<br />
+    <sub>[#6159](https://github.com/flutter/packages/pull/6159) merged on March 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6159) over 4 weeks, 4 additions and 3 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.google.android.gms:play-services-auth&package-manager=gradle&previous-version=20.7.0&new-version=21.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[leiatfly](https://github.com/leiatfly)** &mdash; [flutter_markdown] Adds onSelectionChanged in Markdown<br />
     <sub>[#6169](https://github.com/flutter/packages/pull/6169) merged on March 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6169) over 3 weeks, 143 additions and 1 deletion in 7 files</sub><br />
