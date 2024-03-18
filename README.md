@@ -468,7 +468,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-8 commits.
+9 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Support accessibility back gesture to pop route from view controller<br />
     <sub>[#51241](https://github.com/flutter/engine/pull/51241) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51241) over 1 week, 26 additions and 5 deletions in 4 files</sub><br />
@@ -485,6 +485,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert vestiges of submit batching.<br />
     <sub>[#51450](https://github.com/flutter/engine/pull/51450) merged on March 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51450) over 2 days, 28 additions and 20 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Avoid using `js_util.{jsify,dartify}()` in dart2wasm for converting to JS wrappers<br />
+    <sub>[#51375](https://github.com/flutter/engine/pull/51375) merged on March 18, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51375) over 5 days, 75 additions and 31 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Write recent logcat output to the LUCI log directory if an Android unit test fails<br />
     <sub>[#51462](https://github.com/flutter/engine/pull/51462) merged on March 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51462) over 2 days, 11 additions and 1 deletion in 1 file</sub><br />
