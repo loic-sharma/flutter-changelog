@@ -4,7 +4,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-3 commits.
+4 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `inherited_theme_test.dart`, `ink_paint_test.dart`, `ink_splash_test.dart`, `opacity_test.dart` for Material 3<br />
     <sub>[#144013](https://github.com/flutter/flutter/pull/144013) merged on March 18, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/144013) over 3 weeks, 316 additions and 14 deletions in 4 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; InputDecorator M3 tests migration - Step6 - constraints<br />
     <sub>[#145213](https://github.com/flutter/flutter/pull/145213) merged on March 18, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/145213) over 2 days, 854 additions and 143 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Switch hot_mode_dev_cycle_linux__benchmark to run in postsubmit<br />
+    <sub>[#145343](https://github.com/flutter/flutter/pull/145343) merged on March 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145343) over 43 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add --no-dds to Mac_arm64_ios version of hot_mode_dev_cycle_ios__benchmark<br />
     <sub>[#145335](https://github.com/flutter/flutter/pull/145335) merged on March 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145335) over 1 hour, 21 additions and 1 deletion in 4 files</sub><br />
