@@ -503,7 +503,7 @@
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] only download fuchsia deps when necessary
-    <sub>[#51439](https://github.com/flutter/engine/pull/51439) merged on March 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51439) over 3 days, 14 additions and 30 deletions in 3 files</sub>
+    <sub>[#51439](https://github.com/flutter/engine/pull/51439) merged on March 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51439) over 3 days, 14 additions and 30 deletions in 3 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 ### March 9, 2024 to March 15, 2024
