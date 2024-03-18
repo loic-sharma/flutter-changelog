@@ -71,6 +71,3 @@
 * **[Pascal Welsch](https://github.com/passsy)** &mdash; Add WidgetsApp.debugShowWidgetInspectorOverride again (deprecated)<br />
     <sub>[#145334](https://github.com/flutter/flutter/pull/145334) opened on on March 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145334) 121 additions and 0 deletions in 2 files</sub><br />
 
-* **[Csongor Vogel](https://github.com/gerfalcon)** &mdash; Fix The lib/main.dart template project unnecessarily contains the default useMaterial3 = true<br />
-    <sub>[#145355](https://github.com/flutter/flutter/pull/145355) opened on on March 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145355) 0 additions and 1 deletion in 1 file</sub><br />
-
