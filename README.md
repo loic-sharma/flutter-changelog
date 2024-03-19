@@ -1210,7 +1210,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-5 commits.
+6 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implements `setFocusMode`<br />
     <sub>[#6176](https://github.com/flutter/packages/pull/6176) merged on March 19, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/6176) over 3 weeks, 1223 additions and 176 deletions in 18 files</sub><br />
@@ -1232,6 +1232,10 @@
 * **[leiatfly](https://github.com/leiatfly)** &mdash; [flutter_markdown] Adds onSelectionChanged in Markdown<br />
     <sub>[#6169](https://github.com/flutter/packages/pull/6169) merged on March 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6169) over 3 weeks, 143 additions and 1 deletion in 7 files</sub><br />
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Update README to encourage users to opt in<br />
+    <sub>[#6352](https://github.com/flutter/packages/pull/6352) merged on March 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/6352) over 22 hours, 16 additions and 15 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [mariamhas](https://github.com/mariamhas)</sub><br />
 
 ### March 9, 2024 to March 15, 2024
 
