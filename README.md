@@ -515,7 +515,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] include the hint field in semantics labels<br />
-    <sub>[#51529](https://github.com/flutter/engine/pull/51529) merged on March 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51529) over 4 hours, 140 additions and 29 deletions in 2 files</sub><br />
+    <sub>[#51529](https://github.com/flutter/engine/pull/51529) merged on March 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51529) over 4 hours, 140 additions and 29 deletions in 2 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Brandon Castellano](https://github.com/Breakthrough)** &mdash; Update fuchsia_libs.gni<br />
