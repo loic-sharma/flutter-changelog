@@ -1198,7 +1198,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-4 commits.
+5 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implements `setFocusMode`<br />
     <sub>[#6176](https://github.com/flutter/packages/pull/6176) merged on March 19, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/6176) over 3 weeks, 1223 additions and 176 deletions in 18 files</sub><br />
@@ -1212,6 +1212,10 @@
     <sub>[#6159](https://github.com/flutter/packages/pull/6159) merged on March 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6159) over 4 weeks, 4 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.google.android.gms:play-services-auth&package-manager=gradle&previous-version=20.7.0&new-version=21.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[Dawid Wenderski](https://github.com/dawidope)** &mdash; [flutter_markdown] Allow for custom block element<br />
+    <sub>[#5815](https://github.com/flutter/packages/pull/5815) merged on March 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/5815) over 2 months, 67 additions and 2 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[leiatfly](https://github.com/leiatfly)** &mdash; [flutter_markdown] Adds onSelectionChanged in Markdown<br />
     <sub>[#6169](https://github.com/flutter/packages/pull/6169) merged on March 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6169) over 3 weeks, 143 additions and 1 deletion in 7 files</sub><br />
