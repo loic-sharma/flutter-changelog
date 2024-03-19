@@ -484,7 +484,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-17 commits.
+18 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Support accessibility back gesture to pop route from view controller<br />
     <sub>[#51241](https://github.com/flutter/engine/pull/51241) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51241) over 1 week, 26 additions and 5 deletions in 4 files</sub><br />
@@ -529,6 +529,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Remove view<br />
     <sub>[#51400](https://github.com/flutter/engine/pull/51400) merged on March 18, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51400) over 4 days, 178 additions and 19 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Regenerate FlutterMacOS.xcframework when sources of dependencies change<br />
+    <sub>[#51396](https://github.com/flutter/engine/pull/51396) merged on March 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51396) over 5 days, 9 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix slash in chromium path.<br />
     <sub>[#51527](https://github.com/flutter/engine/pull/51527) merged on March 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51527) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
