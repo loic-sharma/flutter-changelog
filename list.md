@@ -23,7 +23,7 @@
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Roll pub packages + update DAP tests
-    <sub>[#145349](https://github.com/flutter/flutter/pull/145349) merged on March 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145349) over 2 hours, 13 additions and 12 deletions in 3 files</sub>
+    <sub>[#145349](https://github.com/flutter/flutter/pull/145349) merged on March 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/145349) over 2 hours, 13 additions and 12 deletions in 3 files</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Ricardo Amador](https://github.com/ricardoamador)** &mdash; Switch hot_mode_dev_cycle_linux__benchmark to run in postsubmit
