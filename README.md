@@ -484,7 +484,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-16 commits.
+17 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Support accessibility back gesture to pop route from view controller<br />
     <sub>[#51241](https://github.com/flutter/engine/pull/51241) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51241) over 1 week, 26 additions and 5 deletions in 4 files</sub><br />
@@ -529,6 +529,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Remove view<br />
     <sub>[#51400](https://github.com/flutter/engine/pull/51400) merged on March 18, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51400) over 4 days, 178 additions and 19 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix slash in chromium path.<br />
+    <sub>[#51527](https://github.com/flutter/engine/pull/51527) merged on March 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51527) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Remove the legacy tools/fuchsia/target_api_level file<br />
     <sub>[#51497](https://github.com/flutter/engine/pull/51497) merged on March 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51497) over 22 hours, 28 additions and 13 deletions in 6 files</sub><br />
