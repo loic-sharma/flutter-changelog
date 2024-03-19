@@ -476,7 +476,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-15 commits.
+16 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Support accessibility back gesture to pop route from view controller
     <sub>[#51241](https://github.com/flutter/engine/pull/51241) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51241) over 1 week, 26 additions and 5 deletions in 4 files</sub>
@@ -521,6 +521,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Remove view
     <sub>[#51400](https://github.com/flutter/engine/pull/51400) merged on March 18, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51400) over 4 days, 178 additions and 19 deletions in 11 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Remove the legacy tools/fuchsia/target_api_level file
+    <sub>[#51497](https://github.com/flutter/engine/pull/51497) merged on March 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51497) over 22 hours, 28 additions and 13 deletions in 6 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; More renderdoc_frame_capture.md updates
     <sub>[#51499](https://github.com/flutter/engine/pull/51499) merged on March 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51499) over 40 minutes, 14 additions and 3 deletions in 1 file</sub>
