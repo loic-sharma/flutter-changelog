@@ -1178,7 +1178,11 @@
 
 ### March 16, 2024 to March 22, 2024
 
-2 commits.
+3 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implements `setFocusMode`<br />
+    <sub>[#6176](https://github.com/flutter/packages/pull/6176) merged on March 19, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/6176) over 3 weeks, 1223 additions and 176 deletions in 18 files</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [sign_in]: Bump com.google.android.gms:play-services-auth from 20.7.0 to 21.0.0 in /packages/google_sign_in/google_sign_in_android/android<br />
     <sub>[#6159](https://github.com/flutter/packages/pull/6159) merged on March 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6159) over 4 weeks, 4 additions and 3 deletions in 3 files</sub><br />
