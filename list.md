@@ -4,7 +4,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-11 commits.
+12 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Widget state properties
     <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [58 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub>
@@ -29,6 +29,10 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Add a `minTileHeight` to ListTile widget so its height can be customized to less than the default height.
     <sub>[#145244](https://github.com/flutter/flutter/pull/145244) merged on March 19, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/145244) over 3 days, 88 additions and 6 deletions in 5 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Fix remote DDS in proxied devices.
+    <sub>[#145346](https://github.com/flutter/flutter/pull/145346) merged on March 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/145346) over 1 day, 79 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[goodmost](https://github.com/goodmost)** &mdash; chore: fix some comments
     <sub>[#145397](https://github.com/flutter/flutter/pull/145397) merged on March 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145397) over 2 hours, 19 additions and 19 deletions in 12 files</sub>
