@@ -472,7 +472,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-14 commits.
+15 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Support accessibility back gesture to pop route from view controller<br />
     <sub>[#51241](https://github.com/flutter/engine/pull/51241) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51241) over 1 week, 26 additions and 5 deletions in 4 files</sub><br />
@@ -497,6 +497,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert vestiges of submit batching.<br />
     <sub>[#51450](https://github.com/flutter/engine/pull/51450) merged on March 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51450) over 2 days, 28 additions and 20 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Brandon Castellano](https://github.com/Breakthrough)** &mdash; Update fuchsia_libs.gni<br />
+    <sub>[#51447](https://github.com/flutter/engine/pull/51447) merged on March 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51447) over 4 days, 4 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Add missing license blocks.<br />
     <sub>[#51496](https://github.com/flutter/engine/pull/51496) merged on March 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51496) over 8 hours, 29 additions and 0 deletions in 8 files</sub><br />
