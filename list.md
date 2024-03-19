@@ -4,7 +4,11 @@
 
 ### March 16, 2024 to March 22, 2024
 
-9 commits.
+11 commits.
+
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Widget state properties
+    <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [58 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks), [Harry Sild](https://github.com/Kypsis), [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Introduce methods for computing the baseline location of a RenderBox without affecting the current layout
     <sub>[#144655](https://github.com/flutter/flutter/pull/144655) merged on March 18, 2024 &mdash; **Large:** [38 comments](https://github.com/flutter/flutter/pull/144655) over 1 week, 651 additions and 225 deletions in 12 files</sub>
@@ -21,6 +25,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; InputDecorator M3 tests migration - Step6 - constraints
     <sub>[#145213](https://github.com/flutter/flutter/pull/145213) merged on March 18, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/145213) over 2 days, 854 additions and 143 deletions in 1 file</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[hangyu](https://github.com/hangyujin)** &mdash; Add a `minTileHeight` to ListTile widget so its height can be customized to less than the default height.
+    <sub>[#145244](https://github.com/flutter/flutter/pull/145244) merged on March 19, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/145244) over 3 days, 88 additions and 6 deletions in 5 files</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[goodmost](https://github.com/goodmost)** &mdash; chore: fix some comments
     <sub>[#145397](https://github.com/flutter/flutter/pull/145397) merged on March 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145397) over 2 hours, 19 additions and 19 deletions in 12 files</sub>
@@ -1190,11 +1198,15 @@
 
 ### March 16, 2024 to March 22, 2024
 
-3 commits.
+4 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implements `setFocusMode`
     <sub>[#6176](https://github.com/flutter/packages/pull/6176) merged on March 19, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/6176) over 3 weeks, 1223 additions and 176 deletions in 18 files</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Adds Dart implementation of ProxyApi
+    <sub>[#6043](https://github.com/flutter/packages/pull/6043) merged on March 19, 2024 &mdash; **Extra large:** [38 comments](https://github.com/flutter/packages/pull/6043) over 1 month, 8259 additions and 128 deletions in 16 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [sign_in]: Bump com.google.android.gms:play-services-auth from 20.7.0 to 21.0.0 in /packages/google_sign_in/google_sign_in_android/android
     <sub>[#6159](https://github.com/flutter/packages/pull/6159) merged on March 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6159) over 4 weeks, 4 additions and 3 deletions in 3 files</sub>
