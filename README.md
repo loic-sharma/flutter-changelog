@@ -7,7 +7,7 @@
 12 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Widget state properties<br />
-    <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [60 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub><br />
+    <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [61 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks), [Harry Sild](https://github.com/Kypsis), [Ian Hickson](https://github.com/Hixie)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Introduce methods for computing the baseline location of a RenderBox without affecting the current layout<br />
