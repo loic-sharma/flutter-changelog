@@ -74,3 +74,6 @@
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; 🐛 : FIX : Long labels overflowing in extended navigation rail.<br />
     <sub>[#145474](https://github.com/flutter/flutter/pull/145474) opened on on March 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145474) 76 additions and 8 deletions in 2 files</sub><br />
 
+* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter_releases] Flutter stable 3.19.4 Framework Cherrypicks<br />
+    <sub>[#145484](https://github.com/flutter/flutter/pull/145484) opened on on March 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145484) 1 addition and 1 deletion in 1 file</sub><br />
+

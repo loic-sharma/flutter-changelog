@@ -7,7 +7,7 @@
 13 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Widget state properties<br />
-    <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [67 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub><br />
+    <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [68 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub><br />
     <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [Michael Goderbauer](https://github.com/goderbauer), [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks), [Harry Sild](https://github.com/Kypsis), and [1 other](https://github.com/flutter/flutter/pull/142151)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Introduce methods for computing the baseline location of a RenderBox without affecting the current layout<br />
@@ -493,7 +493,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-22 commits.
+23 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Support accessibility back gesture to pop route from view controller<br />
     <sub>[#51241](https://github.com/flutter/engine/pull/51241) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51241) over 1 week, 26 additions and 5 deletions in 4 files</sub><br />
@@ -506,6 +506,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] make sure to render TiledTextureContents if the geometry doesn't fit in the texture's bounds.<br />
     <sub>[#51393](https://github.com/flutter/engine/pull/51393) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51393) over 4 days, 43 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add test that demonstrates that VVL failures are fatal.<br />
+    <sub>[#51525](https://github.com/flutter/engine/pull/51525) merged on March 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51525) over 1 day, 14 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Allow identifying device driver and vendor information.<br />
     <sub>[#51498](https://github.com/flutter/engine/pull/51498) merged on March 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51498) over 56 minutes, 293 additions and 2 deletions in 13 files</sub><br />
