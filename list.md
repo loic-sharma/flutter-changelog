@@ -4,7 +4,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-14 commits.
+15 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Widget state properties
     <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [70 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub>
@@ -13,6 +13,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Introduce methods for computing the baseline location of a RenderBox without affecting the current layout
     <sub>[#144655](https://github.com/flutter/flutter/pull/144655) merged on March 18, 2024 &mdash; **Large:** [38 comments](https://github.com/flutter/flutter/pull/144655) over 1 week, 651 additions and 225 deletions in 12 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove embedding v1 code in framework
+    <sub>[#144726](https://github.com/flutter/flutter/pull/144726) merged on March 20, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/144726) over 1 week, 133 additions and 600 deletions in 8 files</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `inherited_theme_test.dart`, `ink_paint_test.dart`, `ink_splash_test.dart`, `opacity_test.dart` for Material 3
     <sub>[#144013](https://github.com/flutter/flutter/pull/144013) merged on March 18, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/144013) over 3 weeks, 316 additions and 14 deletions in 4 files</sub>
