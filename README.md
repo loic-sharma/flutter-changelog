@@ -4,19 +4,19 @@
 
 ### March 16, 2024 to March 22, 2024
 
-15 commits.
+16 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Widget state properties<br />
     <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [70 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub><br />
     <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [Michael Goderbauer](https://github.com/goderbauer), [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks), [Harry Sild](https://github.com/Kypsis), and [1 other](https://github.com/flutter/flutter/pull/142151)</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove embedding v1 code in framework<br />
+    <sub>[#144726](https://github.com/flutter/flutter/pull/144726) merged on March 20, 2024 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/144726) over 1 week, 133 additions and 600 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Introduce methods for computing the baseline location of a RenderBox without affecting the current layout<br />
     <sub>[#144655](https://github.com/flutter/flutter/pull/144655) merged on March 18, 2024 &mdash; **Large:** [38 comments](https://github.com/flutter/flutter/pull/144655) over 1 week, 651 additions and 225 deletions in 12 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove embedding v1 code in framework<br />
-    <sub>[#144726](https://github.com/flutter/flutter/pull/144726) merged on March 20, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/144726) over 1 week, 133 additions and 600 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `inherited_theme_test.dart`, `ink_paint_test.dart`, `ink_splash_test.dart`, `opacity_test.dart` for Material 3<br />
     <sub>[#144013](https://github.com/flutter/flutter/pull/144013) merged on March 18, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/144013) over 3 weeks, 316 additions and 14 deletions in 4 files</sub><br />
@@ -29,6 +29,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; InputDecorator M3 tests migration - Step6 - constraints<br />
     <sub>[#145213](https://github.com/flutter/flutter/pull/145213) merged on March 18, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/145213) over 2 days, 854 additions and 143 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Vatsal Bhesaniya](https://github.com/VatsalBhesaniya)** &mdash; Add helper widget parameter to InputDecoration<br />
+    <sub>[#145157](https://github.com/flutter/flutter/pull/145157) merged on March 20, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/145157) over 6 days, 185 additions and 8 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Add a `minTileHeight` to ListTile widget so its height can be customized to less than the default height.<br />
     <sub>[#145244](https://github.com/flutter/flutter/pull/145244) merged on March 19, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/145244) over 3 days, 88 additions and 6 deletions in 5 files</sub><br />
