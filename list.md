@@ -7,7 +7,7 @@
 13 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Widget state properties
-    <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [69 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub>
+    <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [70 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub>
     <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [Michael Goderbauer](https://github.com/goderbauer), [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks), [Harry Sild](https://github.com/Kypsis), and [1 other](https://github.com/flutter/flutter/pull/142151)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Introduce methods for computing the baseline location of a RenderBox without affecting the current layout
@@ -31,7 +31,7 @@
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Reland #128236 "Improve build output for all platforms"
-    <sub>[#145376](https://github.com/flutter/flutter/pull/145376) merged on March 20, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/145376) over 1 day, 264 additions and 37 deletions in 20 files</sub>
+    <sub>[#145376](https://github.com/flutter/flutter/pull/145376) merged on March 20, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/145376) over 1 day, 264 additions and 37 deletions in 20 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
     <sub><details><summary>11 images...</summary><img width="607" alt="image" src="https://github.com/flutter/flutter/assets/6655696/ecc52abe-cd2e-4116-b22a-8385ae3e980d"><img width="634" alt="image" src="https://github.com/flutter/flutter/assets/6655696/8af8bd33-c0bd-4215-9a06-9652ee019436"><img width="514" alt="image" src="https://github.com/flutter/flutter/assets/6655696/b5918a69-3959-4417-9205-4f501d185257"><img width="581" alt="image" src="https://github.com/flutter/flutter/assets/6655696/d72fd420-18cf-4470-9e4b-b6ac10fbcd50"><img width="616" alt="image" src="https://github.com/flutter/flutter/assets/6655696/5f235ce1-252a-4c13-898f-139f6c7bc698"><img width="647" alt="image" src="https://github.com/flutter/flutter/assets/6655696/7179e771-1eb7-48f6-b770-975bc073437b"><img width="658" alt="image" src="https://github.com/flutter/flutter/assets/6655696/a6801cab-7b5a-4975-a406-f4c9fa44d7a2"><img width="608" alt="image" src="https://github.com/flutter/flutter/assets/6655696/ee7c4125-a273-4a65-95d7-ab441edf8ac5"><img width="391" alt="image" src="https://github.com/flutter/flutter/assets/6655696/881cbfb1-d355-444b-ab44-c1a6343190ce"><img width="338" alt="image" src="https://github.com/flutter/flutter/assets/6655696/3b806def-3d15-48a9-8a25-df200d6feef7"><img width="320" alt="image" src="https://github.com/flutter/flutter/assets/6655696/89a4aa3d-2148-4f3b-b231-f93a057fee2b"></details></sub>
 
@@ -115,7 +115,7 @@
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Use a separate `TextPainter` for intrinsics calculation in `RenderEditable` and `RenderParagraph`
-    <sub>[#144577](https://github.com/flutter/flutter/pull/144577) merged on March 16, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/144577) over 1 week, 350 additions and 166 deletions in 6 files</sub>
+    <sub>[#144577](https://github.com/flutter/flutter/pull/144577) merged on March 16, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/144577) over 1 week, 350 additions and 166 deletions in 6 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[victorgalo](https://github.com/victorgalo)** &mdash; Skip test temporarily until headingLevel is added in engine (issue 41…
@@ -493,7 +493,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-23 commits.
+24 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Support accessibility back gesture to pop route from view controller
     <sub>[#51241](https://github.com/flutter/engine/pull/51241) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51241) over 1 week, 26 additions and 5 deletions in 4 files</sub>
@@ -558,6 +558,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Remove view
     <sub>[#51400](https://github.com/flutter/engine/pull/51400) merged on March 18, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51400) over 4 days, 178 additions and 19 deletions in 11 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[K Lubick](https://github.com/kjlubick)** &mdash; Migrate use of deprecated GrDirectContext::MakeMetal
+    <sub>[#51537](https://github.com/flutter/engine/pull/51537) merged on March 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51537) over 19 hours, 10 additions and 4 deletions in 4 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Regenerate FlutterMacOS.xcframework when sources of dependencies change
     <sub>[#51396](https://github.com/flutter/engine/pull/51396) merged on March 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51396) over 5 days, 9 additions and 1 deletion in 1 file</sub>
