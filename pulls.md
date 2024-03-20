@@ -71,3 +71,6 @@
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; Add the createDependency parameter to ModalRoute.of<br />
     <sub>[#145389](https://github.com/flutter/flutter/pull/145389) opened on on March 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/145389) 42 additions and 2 deletions in 3 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Adds numpad navigation shortcuts for Linux<br />
+    <sub>[#145464](https://github.com/flutter/flutter/pull/145464) opened on on March 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145464) 224 additions and 0 deletions in 2 files</sub><br />
+
