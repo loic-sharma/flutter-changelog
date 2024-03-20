@@ -488,7 +488,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-19 commits.
+20 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Support accessibility back gesture to pop route from view controller
     <sub>[#51241](https://github.com/flutter/engine/pull/51241) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51241) over 1 week, 26 additions and 5 deletions in 4 files</sub>
@@ -513,6 +513,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert vestiges of submit batching.
     <sub>[#51450](https://github.com/flutter/engine/pull/51450) merged on March 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51450) over 2 days, 28 additions and 20 deletions in 7 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add more logging for UnsatisfiedLinkError
+    <sub>[#51534](https://github.com/flutter/engine/pull/51534) merged on March 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51534) over 17 hours, 32 additions and 15 deletions in 2 files</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] include the hint field in semantics labels
     <sub>[#51529](https://github.com/flutter/engine/pull/51529) merged on March 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51529) over 4 hours, 140 additions and 29 deletions in 2 files</sub>
