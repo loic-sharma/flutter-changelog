@@ -110,7 +110,7 @@
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Use a separate `TextPainter` for intrinsics calculation in `RenderEditable` and `RenderParagraph`
-    <sub>[#144577](https://github.com/flutter/flutter/pull/144577) merged on March 16, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/144577) over 1 week, 350 additions and 166 deletions in 6 files</sub>
+    <sub>[#144577](https://github.com/flutter/flutter/pull/144577) merged on March 16, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/144577) over 1 week, 350 additions and 166 deletions in 6 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[victorgalo](https://github.com/victorgalo)** &mdash; Skip test temporarily until headingLevel is added in engine (issue 41…
