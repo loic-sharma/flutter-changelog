@@ -71,3 +71,6 @@
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; 🐛 : FIX : Long labels overflowing in extended navigation rail.<br />
     <sub>[#145474](https://github.com/flutter/flutter/pull/145474) opened on on March 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145474) 76 additions and 8 deletions in 2 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] use dart test to run flutter driver files<br />
+    <sub>[#145502](https://github.com/flutter/flutter/pull/145502) opened on on March 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145502) 2 additions and 2 deletions in 2 files</sub><br />
+
