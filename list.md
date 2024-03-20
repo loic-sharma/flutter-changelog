@@ -506,7 +506,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-25 commits.
+26 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Support accessibility back gesture to pop route from view controller
     <sub>[#51241](https://github.com/flutter/engine/pull/51241) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51241) over 1 week, 26 additions and 5 deletions in 4 files</sub>
@@ -535,6 +535,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert vestiges of submit batching.
     <sub>[#51450](https://github.com/flutter/engine/pull/51450) merged on March 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51450) over 2 days, 28 additions and 20 deletions in 7 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [golden_test_harvester]: Put back sending the dimensions to the SkiaGoldClient
+    <sub>[#51536](https://github.com/flutter/engine/pull/51536) merged on March 20, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/engine/pull/51536) over 1 day, 262 additions and 118 deletions in 3 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add the platform isolate API to the files included in the sky_engine package
     <sub>[#51538](https://github.com/flutter/engine/pull/51538) merged on March 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51538) over 21 hours, 1 addition and 0 deletions in 1 file</sub>
