@@ -7,8 +7,8 @@
 13 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Widget state properties<br />
-    <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [65 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks), [Harry Sild](https://github.com/Kypsis), [Ian Hickson](https://github.com/Hixie)</sub><br />
+    <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [67 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub><br />
+    <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [Michael Goderbauer](https://github.com/goderbauer), [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks), [Harry Sild](https://github.com/Kypsis), and [1 other](https://github.com/flutter/flutter/pull/142151)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Introduce methods for computing the baseline location of a RenderBox without affecting the current layout<br />
     <sub>[#144655](https://github.com/flutter/flutter/pull/144655) merged on March 18, 2024 &mdash; **Large:** [38 comments](https://github.com/flutter/flutter/pull/144655) over 1 week, 651 additions and 225 deletions in 12 files</sub><br />
@@ -493,7 +493,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-21 commits.
+22 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Support accessibility back gesture to pop route from view controller<br />
     <sub>[#51241](https://github.com/flutter/engine/pull/51241) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51241) over 1 week, 26 additions and 5 deletions in 4 files</sub><br />
@@ -518,6 +518,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert vestiges of submit batching.<br />
     <sub>[#51450](https://github.com/flutter/engine/pull/51450) merged on March 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51450) over 2 days, 28 additions and 20 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade to gradle 8.3<br />
+    <sub>[#51422](https://github.com/flutter/engine/pull/51422) merged on March 20, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/51422) over 5 days, 7 additions and 7 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add even more logging for UnsatisfiedLinkError<br />
     <sub>[#51554](https://github.com/flutter/engine/pull/51554) merged on March 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51554) over 44 minutes, 6 additions and 3 deletions in 1 file</sub><br />
