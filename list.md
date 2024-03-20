@@ -7,7 +7,7 @@
 13 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Widget state properties
-    <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [68 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub>
+    <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [69 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub>
     <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [Michael Goderbauer](https://github.com/goderbauer), [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks), [Harry Sild](https://github.com/Kypsis), and [1 other](https://github.com/flutter/flutter/pull/142151)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Introduce methods for computing the baseline location of a RenderBox without affecting the current layout
@@ -1235,7 +1235,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-6 commits.
+7 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implements `setFocusMode`
     <sub>[#6176](https://github.com/flutter/packages/pull/6176) merged on March 19, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/6176) over 3 weeks, 1223 additions and 176 deletions in 18 files</sub>
@@ -1257,6 +1257,10 @@
 * **[leiatfly](https://github.com/leiatfly)** &mdash; [flutter_markdown] Adds onSelectionChanged in Markdown
     <sub>[#6169](https://github.com/flutter/packages/pull/6169) merged on March 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6169) over 3 weeks, 143 additions and 1 deletion in 7 files</sub>
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android] Update README to encourage users to use CameraX implementation
+    <sub>[#6353](https://github.com/flutter/packages/pull/6353) merged on March 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6353) over 1 day, 12 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [mariamhas](https://github.com/mariamhas)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Update README to encourage users to opt in
     <sub>[#6352](https://github.com/flutter/packages/pull/6352) merged on March 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/6352) over 22 hours, 16 additions and 15 deletions in 3 files</sub>
