@@ -69,5 +69,5 @@
     <sub>[#145329](https://github.com/flutter/flutter/pull/145329) opened on on March 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145329) 18 additions and 0 deletions in 2 files</sub><br />
 
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; Add the listen parameter to ModalRoute.of<br />
-    <sub>[#145389](https://github.com/flutter/flutter/pull/145389) opened on on March 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145389) 41 additions and 2 deletions in 3 files</sub><br />
+    <sub>[#145389](https://github.com/flutter/flutter/pull/145389) opened on on March 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145389) 41 additions and 2 deletions in 3 files</sub><br />
 
