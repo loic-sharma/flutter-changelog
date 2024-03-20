@@ -65,9 +65,6 @@
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Fix `BorderSide.none` requiring explicit transparent color for `UnderlineInputBorder`<br />
     <sub>[#145329](https://github.com/flutter/flutter/pull/145329) opened on on March 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145329) 18 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; `flutter test --wasm` support<br />
-    <sub>[#145347](https://github.com/flutter/flutter/pull/145347) opened on on March 18, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/145347) 947 additions and 362 deletions in 62 files</sub><br />
-
 * **[林洵锋](https://github.com/LinXunFeng)** &mdash; Add the createDependency parameter to ModalRoute.of<br />
     <sub>[#145389](https://github.com/flutter/flutter/pull/145389) opened on on March 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/145389) 42 additions and 2 deletions in 3 files</sub><br />
 
