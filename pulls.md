@@ -74,6 +74,6 @@
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; 🐛 : FIX : Long labels overflowing in extended navigation rail.<br />
     <sub>[#145474](https://github.com/flutter/flutter/pull/145474) opened on on March 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145474) 76 additions and 8 deletions in 2 files</sub><br />
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Reland #128236 "Improve build output for all platforms" (#145376)"<br />
-    <sub>[#145487](https://github.com/flutter/flutter/pull/145487) opened on on March 20, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/145487) 37 additions and 264 deletions in 20 files</sub><br />
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Switch hot_mode_dev_cycle_linux__benchmark to run in postsubmit<br />
+    <sub>[#145488](https://github.com/flutter/flutter/pull/145488) opened on on March 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145488) 1 addition and 0 deletions in 1 file</sub><br />
 
