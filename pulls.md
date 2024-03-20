@@ -39,7 +39,7 @@
     <sub>[#144592](https://github.com/flutter/flutter/pull/144592) opened on on March 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144592) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove embedding v1 code in framework<br />
-    <sub>[#144726](https://github.com/flutter/flutter/pull/144726) opened on on March 6, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/144726) 120 additions and 646 deletions in 12 files</sub><br />
+    <sub>[#144726](https://github.com/flutter/flutter/pull/144726) opened on on March 6, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/144726) 133 additions and 633 deletions in 9 files</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update runner to accept white spaces in path.<br />
     <sub>[#145016](https://github.com/flutter/flutter/pull/145016) opened on on March 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145016) 3 additions and 1 deletion in 1 file</sub><br />
@@ -73,7 +73,4 @@
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; 🐛 : FIX : Long labels overflowing in extended navigation rail.<br />
     <sub>[#145474](https://github.com/flutter/flutter/pull/145474) opened on on March 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145474) 76 additions and 8 deletions in 2 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Switch hot_mode_dev_cycle_linux__benchmark to run in postsubmit<br />
-    <sub>[#145488](https://github.com/flutter/flutter/pull/145488) opened on on March 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145488) 1 addition and 0 deletions in 1 file</sub><br />
 
