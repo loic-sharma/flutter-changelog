@@ -77,3 +77,6 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#145509](https://github.com/flutter/flutter/pull/145509) opened on on March 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145509) 4 additions and 4 deletions in 2 files</sub><br />
 
+* **[Thanh Dang Trong](https://github.com/thanhdang198)** &mdash; Adds `onReordering` arguments to `ReorderableList`.<br />
+    <sub>[#145521](https://github.com/flutter/flutter/pull/145521) opened on on March 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145521) 32 additions and 0 deletions in 2 files</sub><br />
+
