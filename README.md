@@ -4,7 +4,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-21 commits.
+22 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Widget state properties<br />
     <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [70 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub><br />
@@ -41,6 +41,10 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Add a `minTileHeight` to ListTile widget so its height can be customized to less than the default height.<br />
     <sub>[#145244](https://github.com/flutter/flutter/pull/145244) merged on March 19, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/145244) over 3 days, 88 additions and 6 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Eliminate more window singleton usages<br />
+    <sub>[#145560](https://github.com/flutter/flutter/pull/145560) merged on March 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145560) over 36 minutes, 3 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Reland #128236 "Improve build output for all platforms"<br />
     <sub>[#145376](https://github.com/flutter/flutter/pull/145376) merged on March 20, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/145376) over 1 day, 264 additions and 37 deletions in 20 files</sub><br />
