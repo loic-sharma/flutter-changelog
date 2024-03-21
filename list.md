@@ -4,7 +4,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-25 commits.
+26 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Widget state properties
     <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [70 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub>
@@ -41,6 +41,10 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Add a `minTileHeight` to ListTile widget so its height can be customized to less than the default height.
     <sub>[#145244](https://github.com/flutter/flutter/pull/145244) merged on March 19, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/145244) over 3 days, 88 additions and 6 deletions in 5 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix nullability of getFullHeightForCaret
+    <sub>[#145554](https://github.com/flutter/flutter/pull/145554) merged on March 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145554) over 5 hours, 6 additions and 6 deletions in 5 files</sub>
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add a `--no-gradle-generation` mode to the `generate_gradle_lockfiles.dart` script
     <sub>[#145568](https://github.com/flutter/flutter/pull/145568) merged on March 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/145568) over 1 hour, 32 additions and 8 deletions in 1 file</sub>
@@ -542,7 +546,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-30 commits.
+31 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Support accessibility back gesture to pop route from view controller
     <sub>[#51241](https://github.com/flutter/engine/pull/51241) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51241) over 1 week, 26 additions and 5 deletions in 4 files</sub>
@@ -571,6 +575,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert vestiges of submit batching.
     <sub>[#51450](https://github.com/flutter/engine/pull/51450) merged on March 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51450) over 2 days, 28 additions and 20 deletions in 7 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Make the et feature request link properly add the github label
+    <sub>[#51594](https://github.com/flutter/engine/pull/51594) merged on March 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51594) over 50 minutes, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McCutchan](https://github.com/johnmccutchan), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Fuchsia] Assert renders are only to the implicit view
     <sub>[#51559](https://github.com/flutter/engine/pull/51559) merged on March 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51559) over 1 day, 5 additions and 0 deletions in 1 file</sub>
@@ -1339,11 +1347,11 @@
     <sub>[#6169](https://github.com/flutter/packages/pull/6169) merged on March 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6169) over 3 weeks, 143 additions and 1 deletion in 7 files</sub>
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
-* **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; [adaptive_scaffold] : 🐛 : #110902 : Assertion added when try with less that 2 destinations.
+* **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; [flutter_adaptive_scaffold] : 🐛 : #110902 : Assertion added when try with less that 2 destinations.
     <sub>[#6360](https://github.com/flutter/packages/pull/6360) merged on March 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6360) over 1 day, 38 additions and 4 deletions in 4 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; [adaptive_scaffold] : 🐛 #141938 - Drawer stays open even on destination tap.
+* **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; [flutter_adaptive_scaffold] : 🐛 #141938 - Drawer stays open even on destination tap.
     <sub>[#6289](https://github.com/flutter/packages/pull/6289) merged on March 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6289) over 1 week, 138 additions and 5 deletions in 5 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Justin McCandless](https://github.com/justinmc)</sub>
 
