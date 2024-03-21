@@ -66,7 +66,7 @@
     <sub>[#145474](https://github.com/flutter/flutter/pull/145474) opened on on March 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145474) 76 additions and 8 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] use dart test to run flutter driver files<br />
-    <sub>[#145502](https://github.com/flutter/flutter/pull/145502) opened on on March 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145502) 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#145502](https://github.com/flutter/flutter/pull/145502) opened on on March 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145502) 17 additions and 7 deletions in 3 files</sub><br />
 
 * **[Thanh Dang Trong](https://github.com/thanhdang198)** &mdash; Adds `onReordering` arguments to `ReorderableList`.<br />
     <sub>[#145521](https://github.com/flutter/flutter/pull/145521) opened on on March 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145521) 32 additions and 0 deletions in 2 files</sub><br />
