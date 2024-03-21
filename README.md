@@ -526,7 +526,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-27 commits.
+28 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Support accessibility back gesture to pop route from view controller<br />
     <sub>[#51241](https://github.com/flutter/engine/pull/51241) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51241) over 1 week, 26 additions and 5 deletions in 4 files</sub><br />
@@ -603,6 +603,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Remove view<br />
     <sub>[#51400](https://github.com/flutter/engine/pull/51400) merged on March 18, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51400) over 4 days, 178 additions and 19 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a breadcrumb from FlutterView to PlatformDispatcher.<br />
+    <sub>[#51504](https://github.com/flutter/engine/pull/51504) merged on March 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51504) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[K Lubick](https://github.com/kjlubick)** &mdash; Migrate use of deprecated GrDirectContext::MakeMetal<br />
     <sub>[#51537](https://github.com/flutter/engine/pull/51537) merged on March 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51537) over 19 hours, 10 additions and 4 deletions in 4 files</sub><br />
