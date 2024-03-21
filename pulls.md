@@ -71,6 +71,3 @@
 * **[Thanh Dang Trong](https://github.com/thanhdang198)** &mdash; Adds `onReordering` arguments to `ReorderableList`.<br />
     <sub>[#145521](https://github.com/flutter/flutter/pull/145521) opened on on March 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145521) 32 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jesse](https://github.com/sealesj)** &mdash; Refactor add_to_app_life_cycle_tests<br />
-    <sub>[#145546](https://github.com/flutter/flutter/pull/145546) opened on on March 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145546) 25 additions and 14 deletions in 2 files</sub><br />
-
