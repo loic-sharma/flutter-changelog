@@ -4,11 +4,15 @@
 
 ### March 16, 2024 to March 22, 2024
 
-20 commits.
+21 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Widget state properties<br />
     <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [70 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub><br />
     <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [Michael Goderbauer](https://github.com/goderbauer), [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks), [Harry Sild](https://github.com/Kypsis), and [1 other](https://github.com/flutter/flutter/pull/142151)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; `flutter test --wasm` support<br />
+    <sub>[#145347](https://github.com/flutter/flutter/pull/145347) merged on March 21, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/145347) over 3 days, 950 additions and 362 deletions in 62 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Jonah Williams](https://github.com/jonahwilliams), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove embedding v1 code in framework<br />
     <sub>[#144726](https://github.com/flutter/flutter/pull/144726) merged on March 20, 2024 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/144726) over 1 week, 133 additions and 600 deletions in 8 files</sub><br />
