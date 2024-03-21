@@ -530,7 +530,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-28 commits.
+30 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Support accessibility back gesture to pop route from view controller
     <sub>[#51241](https://github.com/flutter/engine/pull/51241) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51241) over 1 week, 26 additions and 5 deletions in 4 files</sub>
@@ -559,6 +559,14 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert vestiges of submit batching.
     <sub>[#51450](https://github.com/flutter/engine/pull/51450) merged on March 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51450) over 2 days, 28 additions and 20 deletions in 7 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Fuchsia] Assert renders are only to the implicit view
+    <sub>[#51559](https://github.com/flutter/engine/pull/51559) merged on March 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51559) over 1 day, 5 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Fix test helper's present callback registration
+    <sub>[#51560](https://github.com/flutter/engine/pull/51560) merged on March 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51560) over 1 day, 8 additions and 8 deletions in 1 file</sub>
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Move //buildtools to //flutter/buildtools
     <sub>[#51526](https://github.com/flutter/engine/pull/51526) merged on March 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51526) over 1 day, 55 additions and 44 deletions in 23 files</sub>
