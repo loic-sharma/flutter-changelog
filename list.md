@@ -1268,7 +1268,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-7 commits.
+8 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implements `setFocusMode`
     <sub>[#6176](https://github.com/flutter/packages/pull/6176) merged on March 19, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/6176) over 3 weeks, 1223 additions and 176 deletions in 18 files</sub>
@@ -1290,6 +1290,10 @@
 * **[leiatfly](https://github.com/leiatfly)** &mdash; [flutter_markdown] Adds onSelectionChanged in Markdown
     <sub>[#6169](https://github.com/flutter/packages/pull/6169) merged on March 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6169) over 3 weeks, 143 additions and 1 deletion in 7 files</sub>
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; [adaptive_scaffold] : 🐛 #141938 - Drawer stays open even on destination tap.
+    <sub>[#6289](https://github.com/flutter/packages/pull/6289) merged on March 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6289) over 1 week, 138 additions and 5 deletions in 5 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android] Update README to encourage users to use CameraX implementation
     <sub>[#6353](https://github.com/flutter/packages/pull/6353) merged on March 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6353) over 1 day, 12 additions and 2 deletions in 3 files</sub>
