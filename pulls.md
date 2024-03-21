@@ -68,12 +68,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] use dart test to run flutter driver files<br />
     <sub>[#145502](https://github.com/flutter/flutter/pull/145502) opened on on March 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145502) 2 additions and 2 deletions in 2 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Replace `RenderBox.compute*` with `RenderBox.get*` and add `@visibleForOverriding`<br />
-    <sub>[#145503](https://github.com/flutter/flutter/pull/145503) opened on on March 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145503) 246 additions and 37 deletions in 19 files</sub><br />
-
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#145509](https://github.com/flutter/flutter/pull/145509) opened on on March 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145509) 4 additions and 4 deletions in 2 files</sub><br />
-
 * **[Thanh Dang Trong](https://github.com/thanhdang198)** &mdash; Adds `onReordering` arguments to `ReorderableList`.<br />
     <sub>[#145521](https://github.com/flutter/flutter/pull/145521) opened on on March 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145521) 32 additions and 0 deletions in 2 files</sub><br />
 
