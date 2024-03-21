@@ -66,5 +66,5 @@
     <sub>[#145521](https://github.com/flutter/flutter/pull/145521) opened on on March 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145521) 32 additions and 0 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; regenerate gradle lockfiles & roll pub packages<br />
-    <sub>[#145564](https://github.com/flutter/flutter/pull/145564) opened on on March 21, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/145564) 856 additions and 250 deletions in 29 files</sub><br />
+    <sub>[#145564](https://github.com/flutter/flutter/pull/145564) opened on on March 21, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/145564) 856 additions and 250 deletions in 29 files</sub><br />
 
