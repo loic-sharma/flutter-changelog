@@ -1280,7 +1280,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-9 commits.
+10 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implements `setFocusMode`
     <sub>[#6176](https://github.com/flutter/packages/pull/6176) merged on March 19, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/6176) over 3 weeks, 1223 additions and 176 deletions in 18 files</sub>
@@ -1294,6 +1294,10 @@
     <sub>[#6159](https://github.com/flutter/packages/pull/6159) merged on March 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6159) over 4 weeks, 4 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.google.android.gms:play-services-auth&package-manager=gradle&previous-version=20.7.0&new-version=21.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [flutter_adaptive_scaffold] Remove broken link from README
+    <sub>[#6364](https://github.com/flutter/packages/pull/6364) merged on March 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6364) over 1 hour, 5 additions and 6 deletions in 3 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Dawid Wenderski](https://github.com/dawidope)** &mdash; [flutter_markdown] Allow for custom block element
     <sub>[#5815](https://github.com/flutter/packages/pull/5815) merged on March 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/5815) over 2 months, 67 additions and 2 deletions in 5 files</sub>
