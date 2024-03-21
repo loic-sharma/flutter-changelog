@@ -4,7 +4,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-23 commits.
+24 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Widget state properties
     <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [70 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub>
@@ -50,6 +50,10 @@
     <sub>[#145376](https://github.com/flutter/flutter/pull/145376) merged on March 20, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/145376) over 1 day, 264 additions and 37 deletions in 20 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
     <sub><details><summary>11 images...</summary><img width="607" alt="image" src="https://github.com/flutter/flutter/assets/6655696/ecc52abe-cd2e-4116-b22a-8385ae3e980d"><img width="634" alt="image" src="https://github.com/flutter/flutter/assets/6655696/8af8bd33-c0bd-4215-9a06-9652ee019436"><img width="514" alt="image" src="https://github.com/flutter/flutter/assets/6655696/b5918a69-3959-4417-9205-4f501d185257"><img width="581" alt="image" src="https://github.com/flutter/flutter/assets/6655696/d72fd420-18cf-4470-9e4b-b6ac10fbcd50"><img width="616" alt="image" src="https://github.com/flutter/flutter/assets/6655696/5f235ce1-252a-4c13-898f-139f6c7bc698"><img width="647" alt="image" src="https://github.com/flutter/flutter/assets/6655696/7179e771-1eb7-48f6-b770-975bc073437b"><img width="658" alt="image" src="https://github.com/flutter/flutter/assets/6655696/a6801cab-7b5a-4975-a406-f4c9fa44d7a2"><img width="608" alt="image" src="https://github.com/flutter/flutter/assets/6655696/ee7c4125-a273-4a65-95d7-ab441edf8ac5"><img width="391" alt="image" src="https://github.com/flutter/flutter/assets/6655696/881cbfb1-d355-444b-ab44-c1a6343190ce"><img width="338" alt="image" src="https://github.com/flutter/flutter/assets/6655696/3b806def-3d15-48a9-8a25-df200d6feef7"><img width="320" alt="image" src="https://github.com/flutter/flutter/assets/6655696/89a4aa3d-2148-4f3b-b231-f93a057fee2b"></details></sub>
+
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Fixed race condition in PollingDeviceDiscovery.
+    <sub>[#145506](https://github.com/flutter/flutter/pull/145506) merged on March 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145506) over 22 hours, 122 additions and 45 deletions in 7 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Clarify AutomaticKeepAliveClientMixin semantics in build method
     <sub>[#145297](https://github.com/flutter/flutter/pull/145297) merged on March 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145297) over 4 days, 4 additions and 0 deletions in 1 file</sub>
@@ -569,7 +573,7 @@
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Fix test helper's present callback registration
-    <sub>[#51560](https://github.com/flutter/engine/pull/51560) merged on March 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51560) over 1 day, 8 additions and 8 deletions in 1 file</sub>
+    <sub>[#51560](https://github.com/flutter/engine/pull/51560) merged on March 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51560) over 1 day, 8 additions and 8 deletions in 1 file</sub>
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Move //buildtools to //flutter/buildtools
