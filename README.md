@@ -566,7 +566,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-33 commits.
+34 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][platform_view][performance] overlay intersection<br />
     <sub>[#50637](https://github.com/flutter/engine/pull/50637) merged on March 21, 2024 &mdash; **Small:** [57 comments](https://github.com/flutter/engine/pull/50637) over 1 month, 123 additions and 1 deletion in 6 files</sub><br />
@@ -576,13 +576,13 @@
     <sub>[#51241](https://github.com/flutter/engine/pull/51241) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51241) over 1 week, 26 additions and 5 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; A native Android unit-testing harness.<br />
-    <sub>[#51479](https://github.com/flutter/engine/pull/51479) merged on March 18, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/engine/pull/51479) over 1 day, 829 additions and 4 deletions in 18 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] make sure to render TiledTextureContents if the geometry doesn't fit in the texture's bounds.<br />
     <sub>[#51393](https://github.com/flutter/engine/pull/51393) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51393) over 4 days, 43 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; A native Android unit-testing harness.<br />
+    <sub>[#51479](https://github.com/flutter/engine/pull/51479) merged on March 18, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/engine/pull/51479) over 1 day, 829 additions and 4 deletions in 18 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; [Android] Fix the issue of blank or frozen pages in shared engine scenarios<br />
     <sub>[#50947](https://github.com/flutter/engine/pull/50947) merged on March 22, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/50947) over 3 weeks, 134 additions and 6 deletions in 4 files</sub><br />
@@ -604,13 +604,13 @@
     <sub>[#51450](https://github.com/flutter/engine/pull/51450) merged on March 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51450) over 2 days, 28 additions and 20 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Post Dart message handling tasks directly to the platform task runner for isolates running on the platform thread<br />
+    <sub>[#51573](https://github.com/flutter/engine/pull/51573) merged on March 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51573) over 1 day, 110 additions and 20 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Liam Appelbe](https://github.com/liamappelbe)</sub><br />
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make the et feature request link properly add the github label<br />
     <sub>[#51594](https://github.com/flutter/engine/pull/51594) merged on March 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51594) over 50 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McCutchan](https://github.com/johnmccutchan), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Fuchsia] Assert renders are only to the implicit view<br />
-    <sub>[#51559](https://github.com/flutter/engine/pull/51559) merged on March 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51559) over 1 day, 5 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Fix test helper's present callback registration<br />
     <sub>[#51560](https://github.com/flutter/engine/pull/51560) merged on March 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51560) over 1 day, 8 additions and 8 deletions in 1 file</sub><br />
@@ -652,21 +652,21 @@
     <sub>[#51496](https://github.com/flutter/engine/pull/51496) merged on March 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51496) over 8 hours, 29 additions and 0 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Avoid using `js_util.{jsify,dartify}()` in dart2wasm for converting to JS wrappers<br />
-    <sub>[#51375](https://github.com/flutter/engine/pull/51375) merged on March 18, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51375) over 5 days, 75 additions and 31 deletions in 9 files</sub><br />
-    <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Fuchsia] Assert renders are only to the implicit view<br />
+    <sub>[#51559](https://github.com/flutter/engine/pull/51559) merged on March 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51559) over 1 day, 5 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Write recent logcat output to the LUCI log directory if an Android unit test fails<br />
     <sub>[#51462](https://github.com/flutter/engine/pull/51462) merged on March 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51462) over 2 days, 11 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Avoid using `js_util.{jsify,dartify}()` in dart2wasm for converting to JS wrappers<br />
+    <sub>[#51375](https://github.com/flutter/engine/pull/51375) merged on March 18, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51375) over 5 days, 75 additions and 31 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Remove view<br />
     <sub>[#51400](https://github.com/flutter/engine/pull/51400) merged on March 18, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51400) over 4 days, 178 additions and 19 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a breadcrumb from FlutterView to PlatformDispatcher.<br />
-    <sub>[#51504](https://github.com/flutter/engine/pull/51504) merged on March 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51504) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[K Lubick](https://github.com/kjlubick)** &mdash; Migrate use of deprecated GrDirectContext::MakeMetal<br />
     <sub>[#51537](https://github.com/flutter/engine/pull/51537) merged on March 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51537) over 19 hours, 10 additions and 4 deletions in 4 files</sub><br />
@@ -699,6 +699,10 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] only download fuchsia deps when necessary<br />
     <sub>[#51439](https://github.com/flutter/engine/pull/51439) merged on March 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51439) over 3 days, 14 additions and 30 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a breadcrumb from FlutterView to PlatformDispatcher.<br />
+    <sub>[#51504](https://github.com/flutter/engine/pull/51504) merged on March 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51504) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 ### March 9, 2024 to March 15, 2024
 
