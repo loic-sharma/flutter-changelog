@@ -22,6 +22,10 @@
     <sub>[#144655](https://github.com/flutter/flutter/pull/144655) merged on March 18, 2024 &mdash; **Large:** [38 comments](https://github.com/flutter/flutter/pull/144655) over 1 week, 651 additions and 225 deletions in 12 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
+* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Fix `BorderSide.none` requiring explicit transparent color for `UnderlineInputBorder`
+    <sub>[#145329](https://github.com/flutter/flutter/pull/145329) merged on March 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145329) over 3 days, 18 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `inherited_theme_test.dart`, `ink_paint_test.dart`, `ink_splash_test.dart`, `opacity_test.dart` for Material 3
     <sub>[#144013](https://github.com/flutter/flutter/pull/144013) merged on March 18, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/144013) over 3 weeks, 316 additions and 14 deletions in 4 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
@@ -29,10 +33,6 @@
 * **[sanni prasad](https://github.com/prasadsunny1)** &mdash; Fix for issue 140372
     <sub>[#144947](https://github.com/flutter/flutter/pull/144947) merged on March 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144947) over 1 week, 40 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [hangyu](https://github.com/hangyujin)</sub>
-
-* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Fix `BorderSide.none` requiring explicit transparent color for `UnderlineInputBorder`
-    <sub>[#145329](https://github.com/flutter/flutter/pull/145329) merged on March 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145329) over 3 days, 18 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; InputDecorator M3 tests migration - Step6 - constraints
     <sub>[#145213](https://github.com/flutter/flutter/pull/145213) merged on March 18, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/145213) over 2 days, 854 additions and 143 deletions in 1 file</sub>
