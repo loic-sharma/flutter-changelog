@@ -44,20 +44,8 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [do not merge] Unfilter ADB logs to debug integration test<br />
     <sub>[#145231](https://github.com/flutter/flutter/pull/145231) opened on on March 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145231) 6 additions and 6 deletions in 2 files</sub><br />
 
-* **[Sahil Kachhap](https://github.com/Sahil-kachhap)** &mdash; [Fix]: Searchbar doesn't lose focus when tapped outside<br />
-    <sub>[#145232](https://github.com/flutter/flutter/pull/145232) opened on on March 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145232) 50 additions and 0 deletions in 2 files</sub><br />
-
-* **[Ellet](https://github.com/ellet0)** &mdash; Update progress_indicator.dart to indicate the adaptive option is for both macOS and iOS<br />
-    <sub>[#145246](https://github.com/flutter/flutter/pull/145246) opened on on March 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145246) 3 additions and 3 deletions in 1 file</sub><br />
-
-* **[Igor Hnízdo](https://github.com/Michal-MK)** &mdash; `ExpansionTile` Unable to remove right padding from title<br />
-    <sub>[#145271](https://github.com/flutter/flutter/pull/145271) opened on on March 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145271) 51 additions and 1 deletion in 2 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove state shared across tests<br />
     <sub>[#145281](https://github.com/flutter/flutter/pull/145281) opened on on March 17, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/145281) 372 additions and 213 deletions in 2 files</sub><br />
-
-* **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; 🐛 : FIX : Long labels overflowing in extended navigation rail.<br />
-    <sub>[#145474](https://github.com/flutter/flutter/pull/145474) opened on on March 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145474) 76 additions and 8 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] use dart test to run flutter driver files<br />
     <sub>[#145502](https://github.com/flutter/flutter/pull/145502) opened on on March 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145502) 17 additions and 7 deletions in 3 files</sub><br />
