@@ -68,3 +68,6 @@
 * **[Kavindu Pehesara Gunawardene](https://github.com/KavinduPehesara)** &mdash; Flutter 3.13 candidate.6<br />
     <sub>[#145582](https://github.com/flutter/flutter/pull/145582) opened on on March 22, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/145582) 247271 additions and 65507 deletions in 3598 files</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Catch any `FileSystemException` thrown when trying to read the template manifest during `flutter create`<br />
+    <sub>[#145620](https://github.com/flutter/flutter/pull/145620) opened on on March 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145620) 34 additions and 1 deletion in 2 files</sub><br />
+
