@@ -4,7 +4,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-26 commits.
+27 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Widget state properties<br />
     <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [70 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub><br />
@@ -29,6 +29,10 @@
 * **[sanni prasad](https://github.com/prasadsunny1)** &mdash; Fix for issue 140372<br />
     <sub>[#144947](https://github.com/flutter/flutter/pull/144947) merged on March 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144947) over 1 week, 40 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [hangyu](https://github.com/hangyujin)</sub><br />
+
+* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Fix `BorderSide.none` requiring explicit transparent color for `UnderlineInputBorder`<br />
+    <sub>[#145329](https://github.com/flutter/flutter/pull/145329) merged on March 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145329) over 3 days, 18 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; InputDecorator M3 tests migration - Step6 - constraints<br />
     <sub>[#145213](https://github.com/flutter/flutter/pull/145213) merged on March 18, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/145213) over 2 days, 854 additions and 143 deletions in 1 file</sub><br />
