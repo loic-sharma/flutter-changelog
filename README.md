@@ -4,7 +4,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-31 commits.
+32 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Widget state properties<br />
     <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [70 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub><br />
@@ -37,6 +37,10 @@
 * **[sanni prasad](https://github.com/prasadsunny1)** &mdash; Fix for issue 140372<br />
     <sub>[#144947](https://github.com/flutter/flutter/pull/144947) merged on March 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144947) over 1 week, 40 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [hangyu](https://github.com/hangyujin)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; 2DScrollView - Fix drag when one axis does not have enough content<br />
+    <sub>[#145566](https://github.com/flutter/flutter/pull/145566) merged on March 22, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/145566) over 19 hours, 304 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; InputDecorator M3 tests migration - Step6 - constraints<br />
     <sub>[#145213](https://github.com/flutter/flutter/pull/145213) merged on March 18, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/145213) over 2 days, 854 additions and 143 deletions in 1 file</sub><br />
