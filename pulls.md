@@ -63,7 +63,7 @@
     <sub>[#145502](https://github.com/flutter/flutter/pull/145502) opened on on March 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145502) 17 additions and 7 deletions in 3 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; regenerate gradle lockfiles & roll pub packages<br />
-    <sub>[#145564](https://github.com/flutter/flutter/pull/145564) opened on on March 21, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/145564) 785 additions and 191 deletions in 17 files</sub><br />
+    <sub>[#145564](https://github.com/flutter/flutter/pull/145564) opened on on March 21, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/145564) 785 additions and 191 deletions in 17 files</sub><br />
 
 * **[Kavindu Pehesara Gunawardene](https://github.com/KavinduPehesara)** &mdash; Flutter 3.13 candidate.6<br />
     <sub>[#145582](https://github.com/flutter/flutter/pull/145582) opened on on March 22, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/145582) 247271 additions and 65507 deletions in 3598 files</sub><br />
