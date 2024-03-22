@@ -59,3 +59,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Catch any `FileSystemException` thrown when trying to read the template manifest during `flutter create`<br />
     <sub>[#145620](https://github.com/flutter/flutter/pull/145620) opened on on March 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145620) 34 additions and 2 deletions in 2 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Disable flaky text_editing_integration tests temporarily.<br />
+    <sub>[#145629](https://github.com/flutter/flutter/pull/145629) opened on on March 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145629) 5 additions and 3 deletions in 1 file</sub><br />
+
