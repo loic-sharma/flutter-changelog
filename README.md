@@ -4,7 +4,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-30 commits.
+31 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Widget state properties<br />
     <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [70 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub><br />
@@ -29,6 +29,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `inherited_theme_test.dart`, `ink_paint_test.dart`, `ink_splash_test.dart`, `opacity_test.dart` for Material 3<br />
     <sub>[#144013](https://github.com/flutter/flutter/pull/144013) merged on March 18, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/144013) over 3 weeks, 316 additions and 14 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Intensive `if` chain refactoring<br />
+    <sub>[#145194](https://github.com/flutter/flutter/pull/145194) merged on March 22, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/145194) over 1 week, 98 additions and 352 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[sanni prasad](https://github.com/prasadsunny1)** &mdash; Fix for issue 140372<br />
     <sub>[#144947](https://github.com/flutter/flutter/pull/144947) merged on March 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144947) over 1 week, 40 additions and 0 deletions in 2 files</sub><br />
