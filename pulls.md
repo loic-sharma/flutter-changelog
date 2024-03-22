@@ -62,9 +62,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] use dart test to run flutter driver files<br />
     <sub>[#145502](https://github.com/flutter/flutter/pull/145502) opened on on March 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145502) 17 additions and 7 deletions in 3 files</sub><br />
 
-* **[Thanh Dang Trong](https://github.com/thanhdang198)** &mdash; Adds `onReordering` arguments to `ReorderableList`.<br />
-    <sub>[#145521](https://github.com/flutter/flutter/pull/145521) opened on on March 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145521) 32 additions and 0 deletions in 2 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; regenerate gradle lockfiles & roll pub packages<br />
     <sub>[#145564](https://github.com/flutter/flutter/pull/145564) opened on on March 21, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/145564) 785 additions and 191 deletions in 17 files</sub><br />
 
