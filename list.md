@@ -566,7 +566,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-35 commits.
+37 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][platform_view][performance] overlay intersection
     <sub>[#50637](https://github.com/flutter/engine/pull/50637) merged on March 21, 2024 &mdash; **Small:** [57 comments](https://github.com/flutter/engine/pull/50637) over 1 month, 123 additions and 1 deletion in 6 files</sub>
@@ -584,6 +584,14 @@
     <sub>[#51479](https://github.com/flutter/engine/pull/51479) merged on March 18, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/engine/pull/51479) over 1 day, 829 additions and 4 deletions in 18 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert vestiges of submit batching.
+    <sub>[#51450](https://github.com/flutter/engine/pull/51450) merged on March 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51450) over 2 days, 28 additions and 20 deletions in 7 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove Tappable from basic set of a11y roles; add it case by case
+    <sub>[#51466](https://github.com/flutter/engine/pull/51466) merged on March 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51466) over 2 days, 89 additions and 4 deletions in 5 files</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
+
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; [Android] Fix the issue of blank or frozen pages in shared engine scenarios
     <sub>[#50947](https://github.com/flutter/engine/pull/50947) merged on March 22, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/50947) over 3 weeks, 134 additions and 6 deletions in 4 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
@@ -596,14 +604,6 @@
     <sub>[#51498](https://github.com/flutter/engine/pull/51498) merged on March 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51498) over 56 minutes, 293 additions and 2 deletions in 13 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove Tappable from basic set of a11y roles; add it case by case
-    <sub>[#51466](https://github.com/flutter/engine/pull/51466) merged on March 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51466) over 2 days, 89 additions and 4 deletions in 5 files</sub>
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert vestiges of submit batching.
-    <sub>[#51450](https://github.com/flutter/engine/pull/51450) merged on March 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51450) over 2 days, 28 additions and 20 deletions in 7 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Post Dart message handling tasks directly to the platform task runner for isolates running on the platform thread
     <sub>[#51573](https://github.com/flutter/engine/pull/51573) merged on March 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51573) over 1 day, 110 additions and 20 deletions in 4 files</sub>
     <sub>Reviewed by: [Liam Appelbe](https://github.com/liamappelbe)</sub>
@@ -612,12 +612,12 @@
     <sub>[#51594](https://github.com/flutter/engine/pull/51594) merged on March 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51594) over 50 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McCutchan](https://github.com/johnmccutchan), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Move //buildtools to //flutter/buildtools
-    <sub>[#51526](https://github.com/flutter/engine/pull/51526) merged on March 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51526) over 1 day, 55 additions and 44 deletions in 23 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Fix test helper's present callback registration
     <sub>[#51560](https://github.com/flutter/engine/pull/51560) merged on March 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51560) over 1 day, 8 additions and 8 deletions in 1 file</sub>
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Add helper to create viewport metrics
+    <sub>[#51562](https://github.com/flutter/engine/pull/51562) merged on March 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51562) over 1 day, 50 additions and 36 deletions in 1 file</sub>
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [golden_test_harvester]: Put back sending the dimensions to the SkiaGoldClient
@@ -652,13 +652,21 @@
     <sub>[#51496](https://github.com/flutter/engine/pull/51496) merged on March 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51496) over 8 hours, 29 additions and 0 deletions in 8 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Remove view
-    <sub>[#51400](https://github.com/flutter/engine/pull/51400) merged on March 18, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51400) over 4 days, 178 additions and 19 deletions in 11 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt)</sub>
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Allow view controllers to not own the engine
+    <sub>[#51570](https://github.com/flutter/engine/pull/51570) merged on March 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/51570) over 1 day, 88 additions and 6 deletions in 6 files</sub>
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Fuchsia] Assert renders are only to the implicit view
     <sub>[#51559](https://github.com/flutter/engine/pull/51559) merged on March 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51559) over 1 day, 5 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Remove view
+    <sub>[#51400](https://github.com/flutter/engine/pull/51400) merged on March 18, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51400) over 4 days, 178 additions and 19 deletions in 11 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Move //buildtools to //flutter/buildtools
+    <sub>[#51526](https://github.com/flutter/engine/pull/51526) merged on March 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51526) over 1 day, 55 additions and 44 deletions in 23 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Write recent logcat output to the LUCI log directory if an Android unit test fails
     <sub>[#51462](https://github.com/flutter/engine/pull/51462) merged on March 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51462) over 2 days, 11 additions and 1 deletion in 1 file</sub>
@@ -667,14 +675,6 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Avoid using `js_util.{jsify,dartify}()` in dart2wasm for converting to JS wrappers
     <sub>[#51375](https://github.com/flutter/engine/pull/51375) merged on March 18, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51375) over 5 days, 75 additions and 31 deletions in 9 files</sub>
     <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a breadcrumb from FlutterView to PlatformDispatcher.
-    <sub>[#51504](https://github.com/flutter/engine/pull/51504) merged on March 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51504) over 2 days, 2 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
-* **[K Lubick](https://github.com/kjlubick)** &mdash; Migrate use of deprecated GrDirectContext::MakeMetal
-    <sub>[#51537](https://github.com/flutter/engine/pull/51537) merged on March 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51537) over 19 hours, 10 additions and 4 deletions in 4 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Regenerate FlutterMacOS.xcframework when sources of dependencies change
     <sub>[#51396](https://github.com/flutter/engine/pull/51396) merged on March 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51396) over 5 days, 9 additions and 1 deletion in 1 file</sub>
@@ -700,13 +700,21 @@
     <sub>[#51483](https://github.com/flutter/engine/pull/51483) merged on March 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51483) over 20 hours, 16 additions and 7 deletions in 1 file</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
+* **[K Lubick](https://github.com/kjlubick)** &mdash; Update one more use of deprecated GrDirectContext::MakeMetal
+    <sub>[#51619](https://github.com/flutter/engine/pull/51619) merged on March 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51619) over 33 minutes, 7 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a breadcrumb from FlutterView to PlatformDispatcher.
+    <sub>[#51504](https://github.com/flutter/engine/pull/51504) merged on March 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51504) over 2 days, 2 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] only download fuchsia deps when necessary
     <sub>[#51439](https://github.com/flutter/engine/pull/51439) merged on March 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51439) over 3 days, 14 additions and 30 deletions in 3 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[K Lubick](https://github.com/kjlubick)** &mdash; Update one more use of deprecated GrDirectContext::MakeMetal
-    <sub>[#51619](https://github.com/flutter/engine/pull/51619) merged on March 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51619) over 33 minutes, 7 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[K Lubick](https://github.com/kjlubick)** &mdash; Migrate use of deprecated GrDirectContext::MakeMetal
+    <sub>[#51537](https://github.com/flutter/engine/pull/51537) merged on March 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51537) over 19 hours, 10 additions and 4 deletions in 4 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 ### March 9, 2024 to March 15, 2024
 
