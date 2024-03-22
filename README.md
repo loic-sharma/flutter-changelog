@@ -558,7 +558,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-32 commits.
+33 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][platform_view][performance] overlay intersection<br />
     <sub>[#50637](https://github.com/flutter/engine/pull/50637) merged on March 21, 2024 &mdash; **Small:** [57 comments](https://github.com/flutter/engine/pull/50637) over 1 month, 123 additions and 1 deletion in 6 files</sub><br />
@@ -575,6 +575,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] make sure to render TiledTextureContents if the geometry doesn't fit in the texture's bounds.<br />
     <sub>[#51393](https://github.com/flutter/engine/pull/51393) merged on March 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51393) over 4 days, 43 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; [Android] Fix the issue of blank or frozen pages in shared engine scenarios<br />
+    <sub>[#50947](https://github.com/flutter/engine/pull/50947) merged on March 22, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/50947) over 3 weeks, 134 additions and 6 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add test that demonstrates that VVL failures are fatal.<br />
     <sub>[#51525](https://github.com/flutter/engine/pull/51525) merged on March 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51525) over 1 day, 14 additions and 0 deletions in 1 file</sub><br />
