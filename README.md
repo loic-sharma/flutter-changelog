@@ -11,7 +11,7 @@
     <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [Michael Goderbauer](https://github.com/goderbauer), [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks), [Harry Sild](https://github.com/Kypsis), and [1 other](https://github.com/flutter/flutter/pull/142151)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web][docs] Improve HtmlElementView widget docs.<br />
-    <sub>[#145192](https://github.com/flutter/flutter/pull/145192) merged on March 23, 2024 &mdash; **Medium:** [50 comments](https://github.com/flutter/flutter/pull/145192) over 1 week, 278 additions and 31 deletions in 1 file</sub><br />
+    <sub>[#145192](https://github.com/flutter/flutter/pull/145192) merged on March 23, 2024 &mdash; **Medium:** [51 comments](https://github.com/flutter/flutter/pull/145192) over 1 week, 278 additions and 31 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; `flutter test --wasm` support<br />
