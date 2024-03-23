@@ -63,5 +63,5 @@
     <sub>[#145632](https://github.com/flutter/flutter/pull/145632) opened on on March 23, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/145632) 222 additions and 409 deletions in 20 files</sub><br />
 
 * **[MiT](https://github.com/mit-73)** &mdash; Flutter Tool supports multi-platform module config<br />
-    <sub>[#145641](https://github.com/flutter/flutter/pull/145641) opened on on March 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145641) 247 additions and 32 deletions in 7 files</sub><br />
+    <sub>[#145641](https://github.com/flutter/flutter/pull/145641) opened on on March 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145641) 250 additions and 32 deletions in 7 files</sub><br />
 
