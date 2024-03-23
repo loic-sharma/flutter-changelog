@@ -59,3 +59,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Catch any `FileSystemException` thrown when trying to read the template manifest during `flutter create`<br />
     <sub>[#145620](https://github.com/flutter/flutter/pull/145620) opened on on March 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145620) 34 additions and 2 deletions in 2 files</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing switch expressions in `flutter_tools/`<br />
+    <sub>[#145632](https://github.com/flutter/flutter/pull/145632) opened on on March 23, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/145632) 222 additions and 409 deletions in 20 files</sub><br />
+
