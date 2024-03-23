@@ -4,11 +4,15 @@
 
 ### March 16, 2024 to March 22, 2024
 
-33 commits.
+35 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Widget state properties<br />
     <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [70 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub><br />
     <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [Michael Goderbauer](https://github.com/goderbauer), [Hans Muller](https://github.com/HansMuller), [Kate Lovett](https://github.com/Piinks), [Harry Sild](https://github.com/Kypsis), and [1 other](https://github.com/flutter/flutter/pull/142151)</sub><br />
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web][docs] Improve HtmlElementView widget docs.<br />
+    <sub>[#145192](https://github.com/flutter/flutter/pull/145192) merged on March 23, 2024 &mdash; **Medium:** [50 comments](https://github.com/flutter/flutter/pull/145192) over 1 week, 278 additions and 31 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; `flutter test --wasm` support<br />
     <sub>[#145347](https://github.com/flutter/flutter/pull/145347) merged on March 21, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/145347) over 3 days, 950 additions and 362 deletions in 62 files</sub><br />
@@ -22,13 +26,13 @@
     <sub>[#144655](https://github.com/flutter/flutter/pull/144655) merged on March 18, 2024 &mdash; **Large:** [38 comments](https://github.com/flutter/flutter/pull/144655) over 1 week, 651 additions and 225 deletions in 12 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Fix `BorderSide.none` requiring explicit transparent color for `UnderlineInputBorder`<br />
-    <sub>[#145329](https://github.com/flutter/flutter/pull/145329) merged on March 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145329) over 3 days, 18 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `inherited_theme_test.dart`, `ink_paint_test.dart`, `ink_splash_test.dart`, `opacity_test.dart` for Material 3<br />
     <sub>[#144013](https://github.com/flutter/flutter/pull/144013) merged on March 18, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/144013) over 3 weeks, 316 additions and 14 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Fix `BorderSide.none` requiring explicit transparent color for `UnderlineInputBorder`<br />
+    <sub>[#145329](https://github.com/flutter/flutter/pull/145329) merged on March 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145329) over 3 days, 18 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Intensive `if` chain refactoring<br />
     <sub>[#145194](https://github.com/flutter/flutter/pull/145194) merged on March 22, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/145194) over 1 week, 98 additions and 352 deletions in 7 files</sub><br />
@@ -79,6 +83,10 @@
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
     <sub><details><summary>11 images...</summary><img width="607" alt="image" src="https://github.com/flutter/flutter/assets/6655696/ecc52abe-cd2e-4116-b22a-8385ae3e980d"><img width="634" alt="image" src="https://github.com/flutter/flutter/assets/6655696/8af8bd33-c0bd-4215-9a06-9652ee019436"><img width="514" alt="image" src="https://github.com/flutter/flutter/assets/6655696/b5918a69-3959-4417-9205-4f501d185257"><img width="581" alt="image" src="https://github.com/flutter/flutter/assets/6655696/d72fd420-18cf-4470-9e4b-b6ac10fbcd50"><img width="616" alt="image" src="https://github.com/flutter/flutter/assets/6655696/5f235ce1-252a-4c13-898f-139f6c7bc698"><img width="647" alt="image" src="https://github.com/flutter/flutter/assets/6655696/7179e771-1eb7-48f6-b770-975bc073437b"><img width="658" alt="image" src="https://github.com/flutter/flutter/assets/6655696/a6801cab-7b5a-4975-a406-f4c9fa44d7a2"><img width="608" alt="image" src="https://github.com/flutter/flutter/assets/6655696/ee7c4125-a273-4a65-95d7-ab441edf8ac5"><img width="391" alt="image" src="https://github.com/flutter/flutter/assets/6655696/881cbfb1-d355-444b-ab44-c1a6343190ce"><img width="338" alt="image" src="https://github.com/flutter/flutter/assets/6655696/3b806def-3d15-48a9-8a25-df200d6feef7"><img width="320" alt="image" src="https://github.com/flutter/flutter/assets/6655696/89a4aa3d-2148-4f3b-b231-f93a057fee2b"></details></sub>
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Disable flaky text_editing_integration tests temporarily.<br />
+    <sub>[#145629](https://github.com/flutter/flutter/pull/145629) merged on March 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145629) over 52 minutes, 5 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Adds numpad navigation shortcuts for Linux<br />
     <sub>[#145464](https://github.com/flutter/flutter/pull/145464) merged on March 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/145464) over 1 day, 224 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
@@ -90,14 +98,6 @@
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Fixed race condition in PollingDeviceDiscovery.<br />
     <sub>[#145506](https://github.com/flutter/flutter/pull/145506) merged on March 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145506) over 22 hours, 122 additions and 45 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Clarify AutomaticKeepAliveClientMixin semantics in build method<br />
-    <sub>[#145297](https://github.com/flutter/flutter/pull/145297) merged on March 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145297) over 4 days, 4 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Matej Knopp](https://github.com/knopp)</sub><br />
-
-* **[Pascal Welsch](https://github.com/passsy)** &mdash; Add WidgetsApp.debugShowWidgetInspectorOverride again (deprecated)<br />
-    <sub>[#145334](https://github.com/flutter/flutter/pull/145334) merged on March 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/145334) over 3 days, 121 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll pub packages (#145509)"<br />
     <sub>[#145550](https://github.com/flutter/flutter/pull/145550) merged on March 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145550) over 1 minute, 4 additions and 4 deletions in 2 files</sub><br />
@@ -139,6 +139,14 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add --no-dds to Mac_arm64_ios version of hot_mode_dev_cycle_ios__benchmark<br />
     <sub>[#145335](https://github.com/flutter/flutter/pull/145335) merged on March 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145335) over 1 hour, 21 additions and 1 deletion in 4 files</sub><br />
     <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Clarify AutomaticKeepAliveClientMixin semantics in build method<br />
+    <sub>[#145297](https://github.com/flutter/flutter/pull/145297) merged on March 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145297) over 4 days, 4 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Matej Knopp](https://github.com/knopp)</sub><br />
+
+* **[Pascal Welsch](https://github.com/passsy)** &mdash; Add WidgetsApp.debugShowWidgetInspectorOverride again (deprecated)<br />
+    <sub>[#145334](https://github.com/flutter/flutter/pull/145334) merged on March 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/145334) over 3 days, 121 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 ### March 9, 2024 to March 15, 2024
 
