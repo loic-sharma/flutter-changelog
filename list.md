@@ -54,6 +54,10 @@
     <sub>[#145213](https://github.com/flutter/flutter/pull/145213) merged on March 18, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/145213) over 2 days, 854 additions and 143 deletions in 1 file</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add some cross references in the docs, move an example to a dartpad example
+    <sub>[#145571](https://github.com/flutter/flutter/pull/145571) merged on March 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/145571) over 2 hours, 139 additions and 55 deletions in 4 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
 * **[Vatsal Bhesaniya](https://github.com/VatsalBhesaniya)** &mdash; Add helper widget parameter to InputDecoration
     <sub>[#145157](https://github.com/flutter/flutter/pull/145157) merged on March 20, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/145157) over 6 days, 185 additions and 8 deletions in 4 files</sub>
     <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
@@ -61,10 +65,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Add a `minTileHeight` to ListTile widget so its height can be customized to less than the default height.
     <sub>[#145244](https://github.com/flutter/flutter/pull/145244) merged on March 19, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/145244) over 3 days, 88 additions and 6 deletions in 5 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
-
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add some cross references in the docs, move an example to a dartpad example
-    <sub>[#145571](https://github.com/flutter/flutter/pull/145571) merged on March 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/145571) over 2 hours, 139 additions and 55 deletions in 4 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Reland #128236 "Improve build output for all platforms"
     <sub>[#145495](https://github.com/flutter/flutter/pull/145495) merged on March 23, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/145495) over 2 days, 264 additions and 43 deletions in 20 files</sub>
