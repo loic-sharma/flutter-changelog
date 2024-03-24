@@ -4,7 +4,7 @@
 
 ### March 16, 2024 to March 22, 2024
 
-38 commits.
+39 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Widget state properties
     <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [70 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub>
@@ -34,13 +34,13 @@
     <sub>[#145329](https://github.com/flutter/flutter/pull/145329) merged on March 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145329) over 3 days, 18 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Intensive `if` chain refactoring
-    <sub>[#145194](https://github.com/flutter/flutter/pull/145194) merged on March 22, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/145194) over 1 week, 98 additions and 352 deletions in 7 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub>
-
 * **[sanni prasad](https://github.com/prasadsunny1)** &mdash; Fix for issue 140372
     <sub>[#144947](https://github.com/flutter/flutter/pull/144947) merged on March 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144947) over 1 week, 40 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [hangyu](https://github.com/hangyujin)</sub>
+
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Intensive `if` chain refactoring
+    <sub>[#145194](https://github.com/flutter/flutter/pull/145194) merged on March 22, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/145194) over 1 week, 98 additions and 352 deletions in 7 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix skipping golden comparator for CI environments
     <sub>[#145619](https://github.com/flutter/flutter/pull/145619) merged on March 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/145619) over 2 hours, 35 additions and 34 deletions in 2 files</sub>
@@ -57,6 +57,10 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add some cross references in the docs, move an example to a dartpad example
     <sub>[#145571](https://github.com/flutter/flutter/pull/145571) merged on March 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/145571) over 2 hours, 139 additions and 55 deletions in 4 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Leak clean up.
+    <sub>[#144803](https://github.com/flutter/flutter/pull/144803) merged on March 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144803) over 2 weeks, 136 additions and 49 deletions in 27 files</sub>
+    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314)</sub>
 
 * **[Vatsal Bhesaniya](https://github.com/VatsalBhesaniya)** &mdash; Add helper widget parameter to InputDecoration
     <sub>[#145157](https://github.com/flutter/flutter/pull/145157) merged on March 20, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/145157) over 6 days, 185 additions and 8 deletions in 4 files</sub>
@@ -108,10 +112,6 @@
     <sub>[#145343](https://github.com/flutter/flutter/pull/145343) merged on March 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145343) over 43 minutes, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll pub packages (#145509)"
-    <sub>[#145550](https://github.com/flutter/flutter/pull/145550) merged on March 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145550) over 1 minute, 4 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
     <sub>[#145509](https://github.com/flutter/flutter/pull/145509) merged on March 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145509) over 15 hours, 4 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
@@ -160,6 +160,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add --no-dds to Mac_arm64_ios version of hot_mode_dev_cycle_ios__benchmark
     <sub>[#145335](https://github.com/flutter/flutter/pull/145335) merged on March 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145335) over 1 hour, 21 additions and 1 deletion in 4 files</sub>
     <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll pub packages (#145509)"
+    <sub>[#145550](https://github.com/flutter/flutter/pull/145550) merged on March 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145550) over 1 minute, 4 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### March 9, 2024 to March 15, 2024
 
