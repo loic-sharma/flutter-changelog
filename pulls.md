@@ -68,3 +68,6 @@
 * **[Tim](https://github.com/timcreatedit)** &mdash; Draggable feedback positioning<br />
     <sub>[#145647](https://github.com/flutter/flutter/pull/145647) opened on on March 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145647) 8 additions and 5 deletions in 1 file</sub><br />
 
+* **[Leo Farias](https://github.com/leoafarias)** &mdash; Fix TextStyle.lerp() to properly interpolate text shadows<br />
+    <sub>[#145666](https://github.com/flutter/flutter/pull/145666) opened on on March 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145666) 24 additions and 2 deletions in 2 files</sub><br />
+
