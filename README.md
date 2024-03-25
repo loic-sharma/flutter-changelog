@@ -413,9 +413,18 @@
 
 ## flutter/engine
 
+### March 23, 2024 to March 29, 2024
+
+1 commits.
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add fl_standard_method_codec_new_with_message_codec()<br />
+    <sub>[#51599](https://github.com/flutter/engine/pull/51599) merged on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51599) over 2 days, 220 additions and 23 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 ### March 16, 2024 to March 22, 2024
 
-42 commits.
+<details>
+<summary>42 commits...</summary>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][platform_view][performance] overlay intersection<br />
     <sub>[#50637](https://github.com/flutter/engine/pull/50637) merged on March 21, 2024 &mdash; **Small:** [58 comments](https://github.com/flutter/engine/pull/50637) over 1 month, 123 additions and 1 deletion in 6 files</sub><br />
@@ -584,6 +593,8 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Regenerate FlutterMacOS.xcframework when sources of dependencies change<br />
     <sub>[#51396](https://github.com/flutter/engine/pull/51396) merged on March 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51396) over 5 days, 9 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+</details>
 
 ### March 9, 2024 to March 15, 2024
 
