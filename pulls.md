@@ -71,3 +71,6 @@
 * **[Leo Farias](https://github.com/leoafarias)** &mdash; Fix TextStyle.lerp() to properly interpolate text shadows<br />
     <sub>[#145666](https://github.com/flutter/flutter/pull/145666) opened on on March 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145666) 24 additions and 2 deletions in 2 files</sub><br />
 
+* **[Ikko Eltociear Ashimine](https://github.com/eltociear)** &mdash; Update semantics.dart<br />
+    <sub>[#145683](https://github.com/flutter/flutter/pull/145683) opened on on March 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145683) 1 addition and 1 deletion in 1 file</sub><br />
+
