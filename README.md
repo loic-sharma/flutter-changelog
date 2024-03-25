@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### March 23, 2024 to March 29, 2024
+
+1 commits.
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; make hot reload reflect changes to asset transformer configurations<br />
+    <sub>[#144660](https://github.com/flutter/flutter/pull/144660) merged on March 25, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/144660) over 2 weeks, 84 additions and 6 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
 ### March 16, 2024 to March 22, 2024
 
-39 commits.
+<details>
+<summary>39 commits...</summary>
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Widget state properties<br />
     <sub>[#142151](https://github.com/flutter/flutter/pull/142151) merged on March 19, 2024 &mdash; **Extra large:** [70 comments](https://github.com/flutter/flutter/pull/142151) over 1 month, 1435 additions and 545 deletions in 36 files</sub><br />
@@ -164,6 +173,8 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll pub packages (#145509)"<br />
     <sub>[#145550](https://github.com/flutter/flutter/pull/145550) merged on March 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145550) over 1 minute, 4 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### March 9, 2024 to March 15, 2024
 
