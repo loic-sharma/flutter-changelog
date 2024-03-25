@@ -4,7 +4,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-12 commits.
+13 commits.
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add a `--print-dtd` flag to print the DTD address served by DevTools server
     <sub>[#144272](https://github.com/flutter/flutter/pull/144272) merged on March 25, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/144272) over 3 weeks, 324 additions and 189 deletions in 12 files</sub>
@@ -20,6 +20,10 @@
     <sub>[#145536](https://github.com/flutter/flutter/pull/145536) merged on March 25, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/145536) over 3 days, 1007 additions and 6 deletions in 12 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>3 images...</summary>![00-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/a295b002-b310-4dea-8bc4-23b1d299748c)![01-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/8c5c3d5f-e67d-4ed5-880d-f17d262087e1)![02-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/872409d8-8a8d-4db9-b95b-7f96a62cdffc)</details></sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `SearchAnchor` triggers unnecessary suggestions builder calls
+    <sub>[#143443](https://github.com/flutter/flutter/pull/143443) merged on March 25, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/143443) over 1 month, 120 additions and 6 deletions in 2 files</sub>
+    <sub>Reviewed by: [Remi Rousselet](https://github.com/rrousselGit), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] Bump native assets dependencies
     <sub>[#145612](https://github.com/flutter/flutter/pull/145612) merged on March 25, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/145612) over 2 days, 473 additions and 414 deletions in 21 files</sub>
@@ -473,7 +477,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-3 commits.
+4 commits.
 
 * **[lauren n. liberda](https://github.com/selfisekai)** &mdash; font_subset tests: name correct variant in exception
     <sub>[#51492](https://github.com/flutter/engine/pull/51492) merged on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51492) over 1 week, 1 addition and 2 deletions in 1 file</sub>
@@ -486,6 +490,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add fl_standard_method_codec_new_with_message_codec()
     <sub>[#51599](https://github.com/flutter/engine/pull/51599) merged on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51599) over 2 days, 220 additions and 23 deletions in 3 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Disable cleaning up ImageReaders in memory pressure callback"
+    <sub>[#51665](https://github.com/flutter/engine/pull/51665) merged on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51665) over 44 minutes, 2 additions and 11 deletions in 2 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 ### March 16, 2024 to March 22, 2024
 
