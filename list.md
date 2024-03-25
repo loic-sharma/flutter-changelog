@@ -4,7 +4,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-5 commits.
+6 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `AnimationStyle` to `showBottomSheet` and `showModalBottomSheet`
     <sub>[#145536](https://github.com/flutter/flutter/pull/145536) merged on March 25, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/145536) over 3 days, 1007 additions and 6 deletions in 12 files</sub>
@@ -22,6 +22,10 @@
 * **[Sahil Kachhap](https://github.com/Sahil-kachhap)** &mdash; [Fix]: Searchbar doesn't lose focus when tapped outside
     <sub>[#145232](https://github.com/flutter/flutter/pull/145232) merged on March 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145232) over 1 week, 47 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Memory leaks clean up 1
+    <sub>[#145691](https://github.com/flutter/flutter/pull/145691) merged on March 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145691) over 2 hours, 117 additions and 33 deletions in 18 files</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix typo in hitTest docs
     <sub>[#145677](https://github.com/flutter/flutter/pull/145677) merged on March 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145677) over 6 hours, 2 additions and 2 deletions in 2 files</sub>
@@ -443,7 +447,11 @@
 
 ### March 23, 2024 to March 29, 2024
 
-2 commits.
+3 commits.
+
+* **[lauren n. liberda](https://github.com/selfisekai)** &mdash; font_subset tests: name correct variant in exception
+    <sub>[#51492](https://github.com/flutter/engine/pull/51492) merged on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51492) over 1 week, 1 addition and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix unbalanced restores.
     <sub>[#51648](https://github.com/flutter/engine/pull/51648) merged on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51648) over 20 hours, 60 additions and 2 deletions in 4 files</sub>
