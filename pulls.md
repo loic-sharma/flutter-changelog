@@ -74,3 +74,6 @@
 * **[Ikko Eltociear Ashimine](https://github.com/eltociear)** &mdash; Update semantics.dart<br />
     <sub>[#145683](https://github.com/flutter/flutter/pull/145683) opened on on March 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145683) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; TwoDimensionalChildDelegate should dispatch creation and disposal events<br />
+    <sub>[#145684](https://github.com/flutter/flutter/pull/145684) opened on on March 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145684) 62 additions and 13 deletions in 5 files</sub><br />
+
