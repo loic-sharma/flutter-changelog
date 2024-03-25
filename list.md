@@ -32,7 +32,7 @@
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Memory leaks clean up 1
-    <sub>[#145691](https://github.com/flutter/flutter/pull/145691) merged on March 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145691) over 2 hours, 117 additions and 33 deletions in 18 files</sub>
+    <sub>[#145691](https://github.com/flutter/flutter/pull/145691) merged on March 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/145691) over 2 hours, 117 additions and 33 deletions in 18 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix typo in hitTest docs
