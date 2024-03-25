@@ -71,3 +71,6 @@
 * **[Leo Farias](https://github.com/leoafarias)** &mdash; Fix TextStyle.lerp() to properly interpolate text shadows<br />
     <sub>[#145666](https://github.com/flutter/flutter/pull/145666) opened on on March 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145666) 24 additions and 2 deletions in 2 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix typo in hitTest docs<br />
+    <sub>[#145677](https://github.com/flutter/flutter/pull/145677) opened on on March 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145677) 2 additions and 2 deletions in 2 files</sub><br />
+
