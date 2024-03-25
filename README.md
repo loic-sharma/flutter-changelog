@@ -4,7 +4,12 @@
 
 ### March 23, 2024 to March 29, 2024
 
-8 commits.
+9 commits.
+
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add a `--print-dtd` flag to print the DTD address served by DevTools server<br />
+    <sub>[#144272](https://github.com/flutter/flutter/pull/144272) merged on March 25, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/144272) over 3 weeks, 324 additions and 189 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+    <sub><details><summary>1 image...</summary><img width="660" alt="Screenshot 2024-03-25 at 7 56 05 AM" src="https://github.com/flutter/flutter/assets/43759233/8bab9986-24d0-4ae4-bfae-0a1fce00b422"></details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `AnimationStyle` to `showBottomSheet` and `showModalBottomSheet`<br />
     <sub>[#145536](https://github.com/flutter/flutter/pull/145536) merged on March 25, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/145536) over 3 days, 1007 additions and 6 deletions in 12 files</sub><br />
@@ -12,7 +17,7 @@
     <sub><details><summary>3 images...</summary>![00-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/a295b002-b310-4dea-8bc4-23b1d299748c)![01-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/8c5c3d5f-e67d-4ed5-880d-f17d262087e1)![02-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/872409d8-8a8d-4db9-b95b-7f96a62cdffc)</details></sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] Bump native assets dependencies<br />
-    <sub>[#145612](https://github.com/flutter/flutter/pull/145612) merged on March 25, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/145612) over 2 days, 473 additions and 414 deletions in 21 files</sub><br />
+    <sub>[#145612](https://github.com/flutter/flutter/pull/145612) merged on March 25, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/145612) over 2 days, 473 additions and 414 deletions in 21 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; make hot reload reflect changes to asset transformer configurations<br />
