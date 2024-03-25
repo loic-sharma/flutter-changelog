@@ -4,7 +4,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-11 commits.
+12 commits.
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add a `--print-dtd` flag to print the DTD address served by DevTools server
     <sub>[#144272](https://github.com/flutter/flutter/pull/144272) merged on March 25, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/144272) over 3 weeks, 324 additions and 189 deletions in 12 files</sub>
@@ -36,6 +36,10 @@
 * **[Sahil Kachhap](https://github.com/Sahil-kachhap)** &mdash; [Fix]: Searchbar doesn't lose focus when tapped outside
     <sub>[#145232](https://github.com/flutter/flutter/pull/145232) merged on March 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145232) over 1 week, 47 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Jesse](https://github.com/sealesj)** &mdash; Refactor add_to_app_life_cycle_tests
+    <sub>[#145546](https://github.com/flutter/flutter/pull/145546) merged on March 25, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/145546) over 4 days, 25 additions and 14 deletions in 2 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Ikko Eltociear Ashimine](https://github.com/eltociear)** &mdash; Update semantics.dart
     <sub>[#145683](https://github.com/flutter/flutter/pull/145683) merged on March 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/145683) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
