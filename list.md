@@ -4,7 +4,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-7 commits.
+8 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `AnimationStyle` to `showBottomSheet` and `showModalBottomSheet`
     <sub>[#145536](https://github.com/flutter/flutter/pull/145536) merged on March 25, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/145536) over 3 days, 1007 additions and 6 deletions in 12 files</sub>
@@ -23,12 +23,16 @@
     <sub>[#145232](https://github.com/flutter/flutter/pull/145232) merged on March 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145232) over 1 week, 47 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
+* **[Ikko Eltociear Ashimine](https://github.com/eltociear)** &mdash; Update semantics.dart
+    <sub>[#145683](https://github.com/flutter/flutter/pull/145683) merged on March 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/145683) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Renzo Olivares](https://github.com/Renzo-Olivares), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; TwoDimensionalChildDelegate should dispatch creation and disposal events
-    <sub>[#145684](https://github.com/flutter/flutter/pull/145684) merged on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145684) over 3 hours, 62 additions and 13 deletions in 5 files</sub>
+    <sub>[#145684](https://github.com/flutter/flutter/pull/145684) merged on March 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145684) over 3 hours, 62 additions and 13 deletions in 5 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Memory leaks clean up 1
-    <sub>[#145691](https://github.com/flutter/flutter/pull/145691) merged on March 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145691) over 2 hours, 117 additions and 33 deletions in 18 files</sub>
+    <sub>[#145691](https://github.com/flutter/flutter/pull/145691) merged on March 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145691) over 2 hours, 117 additions and 33 deletions in 18 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix typo in hitTest docs
