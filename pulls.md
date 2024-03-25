@@ -71,6 +71,3 @@
 * **[Leo Farias](https://github.com/leoafarias)** &mdash; Fix TextStyle.lerp() to properly interpolate text shadows<br />
     <sub>[#145666](https://github.com/flutter/flutter/pull/145666) opened on on March 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145666) 24 additions and 2 deletions in 2 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; TwoDimensionalChildDelegate should dispatch creation and disposal events<br />
-    <sub>[#145684](https://github.com/flutter/flutter/pull/145684) opened on on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145684) 62 additions and 13 deletions in 5 files</sub><br />
-
