@@ -922,7 +922,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Disable cleaning up ImageReaders in memory pressure callback<br />
-    <sub>[#51391](https://github.com/flutter/engine/pull/51391) merged on March 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51391) over 49 minutes, 11 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#51391](https://github.com/flutter/engine/pull/51391) merged on March 13, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51391) over 49 minutes, 11 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[utzcoz](https://github.com/utzcoz)** &mdash; Bump Robolectric to 4.11.1<br />
