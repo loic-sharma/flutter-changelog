@@ -56,6 +56,10 @@
     <sub>[#145194](https://github.com/flutter/flutter/pull/145194) merged on March 22, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/145194) over 1 week, 98 additions and 352 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Leak clean up.<br />
+    <sub>[#144803](https://github.com/flutter/flutter/pull/144803) merged on March 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144803) over 2 weeks, 136 additions and 49 deletions in 27 files</sub><br />
+    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314)</sub><br />
+
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix skipping golden comparator for CI environments<br />
     <sub>[#145619](https://github.com/flutter/flutter/pull/145619) merged on March 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/145619) over 2 hours, 35 additions and 34 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Ian Hickson](https://github.com/Hixie)</sub><br />
@@ -71,10 +75,6 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add some cross references in the docs, move an example to a dartpad example<br />
     <sub>[#145571](https://github.com/flutter/flutter/pull/145571) merged on March 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/145571) over 2 hours, 139 additions and 55 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Leak clean up.<br />
-    <sub>[#144803](https://github.com/flutter/flutter/pull/144803) merged on March 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144803) over 2 weeks, 136 additions and 49 deletions in 27 files</sub><br />
-    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314)</sub><br />
 
 * **[Vatsal Bhesaniya](https://github.com/VatsalBhesaniya)** &mdash; Add helper widget parameter to InputDecoration<br />
     <sub>[#145157](https://github.com/flutter/flutter/pull/145157) merged on March 20, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/145157) over 6 days, 185 additions and 8 deletions in 4 files</sub><br />
