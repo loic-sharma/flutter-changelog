@@ -4,12 +4,17 @@
 
 ### March 23, 2024 to March 29, 2024
 
-9 commits.
+11 commits.
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add a `--print-dtd` flag to print the DTD address served by DevTools server<br />
     <sub>[#144272](https://github.com/flutter/flutter/pull/144272) merged on March 25, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/144272) over 3 weeks, 324 additions and 189 deletions in 12 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ben Konyi](https://github.com/bkonyi)</sub><br />
     <sub><details><summary>1 image...</summary><img width="660" alt="Screenshot 2024-03-25 at 7 56 05 AM" src="https://github.com/flutter/flutter/assets/43759233/8bab9986-24d0-4ae4-bfae-0a1fce00b422"></details></sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix vertical `Stepper` draws connector on the last step<br />
+    <sub>[#145703](https://github.com/flutter/flutter/pull/145703) merged on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145703) over 5 hours, 32 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub><details><summary>2 images...</summary>![Screenshot 2024-03-25 at 18 36 32](https://github.com/flutter/flutter/assets/48603081/af859a88-7ec8-4432-8eec-f8eb72706b57)![Screenshot 2024-03-25 at 18 36 24](https://github.com/flutter/flutter/assets/48603081/994325b2-4bd4-44ef-9473-245d3492faf7)</details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `AnimationStyle` to `showBottomSheet` and `showModalBottomSheet`<br />
     <sub>[#145536](https://github.com/flutter/flutter/pull/145536) merged on March 25, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/145536) over 3 days, 1007 additions and 6 deletions in 12 files</sub><br />
@@ -23,6 +28,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; make hot reload reflect changes to asset transformer configurations<br />
     <sub>[#144660](https://github.com/flutter/flutter/pull/144660) merged on March 25, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/144660) over 2 weeks, 84 additions and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update links in analysis_options.yaml<br />
+    <sub>[#145706](https://github.com/flutter/flutter/pull/145706) merged on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145706) over 4 hours, 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Phil Quitslund](https://github.com/pq)</sub><br />
 
 * **[Sahil Kachhap](https://github.com/Sahil-kachhap)** &mdash; [Fix]: Searchbar doesn't lose focus when tapped outside<br />
     <sub>[#145232](https://github.com/flutter/flutter/pull/145232) merged on March 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145232) over 1 week, 47 additions and 0 deletions in 2 files</sub><br />
