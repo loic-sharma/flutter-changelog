@@ -77,3 +77,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; TwoDimensionalChildDelegate should dispatch creation and disposal events<br />
     <sub>[#145684](https://github.com/flutter/flutter/pull/145684) opened on on March 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145684) 62 additions and 13 deletions in 5 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix disabled `DropdownMenu` doesn't defer the mouse cursor<br />
+    <sub>[#145686](https://github.com/flutter/flutter/pull/145686) opened on on March 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145686) 66 additions and 1 deletion in 2 files</sub><br />
+
