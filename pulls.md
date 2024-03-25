@@ -80,3 +80,6 @@
 * **[Lipu](https://github.com/dwzrlp)** &mdash; Correct typo: "Free" to "Three" in comments<br />
     <sub>[#145689](https://github.com/flutter/flutter/pull/145689) opened on on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145689) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Memory leaks clean up 1<br />
+    <sub>[#145691](https://github.com/flutter/flutter/pull/145691) opened on on March 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145691) 117 additions and 33 deletions in 18 files</sub><br />
+
