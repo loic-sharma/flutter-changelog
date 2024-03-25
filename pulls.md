@@ -71,14 +71,8 @@
 * **[Leo Farias](https://github.com/leoafarias)** &mdash; Fix TextStyle.lerp() to properly interpolate text shadows<br />
     <sub>[#145666](https://github.com/flutter/flutter/pull/145666) opened on on March 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145666) 24 additions and 2 deletions in 2 files</sub><br />
 
-* **[Ikko Eltociear Ashimine](https://github.com/eltociear)** &mdash; Update semantics.dart<br />
-    <sub>[#145683](https://github.com/flutter/flutter/pull/145683) opened on on March 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145683) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; TwoDimensionalChildDelegate should dispatch creation and disposal events<br />
     <sub>[#145684](https://github.com/flutter/flutter/pull/145684) opened on on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145684) 62 additions and 13 deletions in 5 files</sub><br />
-
-* **[Lipu](https://github.com/dwzrlp)** &mdash; Correct typo: "Free" to "Three" in comments<br />
-    <sub>[#145689](https://github.com/flutter/flutter/pull/145689) opened on on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145689) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Memory leaks clean up 1<br />
     <sub>[#145691](https://github.com/flutter/flutter/pull/145691) opened on on March 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145691) 117 additions and 33 deletions in 18 files</sub><br />
