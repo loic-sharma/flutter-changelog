@@ -506,7 +506,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-17 commits.
+18 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use screen space coordinates for dithering.<br />
     <sub>[#51668](https://github.com/flutter/engine/pull/51668) merged on March 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51668) over 20 hours, 21 additions and 21 deletions in 5 files</sub><br />
@@ -532,6 +532,10 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Change JSBoxedDartObject to JSAny<br />
     <sub>[#51634](https://github.com/flutter/engine/pull/51634) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51634) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Consolidate FlutterViewController static types/data<br />
+    <sub>[#51486](https://github.com/flutter/engine/pull/51486) merged on March 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51486) over 1 week, 33 additions and 32 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] remove arbitrary framerate cap.<br />
     <sub>[#51663](https://github.com/flutter/engine/pull/51663) merged on March 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51663) over 23 hours, 0 additions and 98 deletions in 2 files</sub><br />
