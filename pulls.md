@@ -63,13 +63,10 @@
     <sub>[#145641](https://github.com/flutter/flutter/pull/145641) opened on on March 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145641) 247 additions and 33 deletions in 8 files</sub><br />
 
 * **[Tim](https://github.com/timcreatedit)** &mdash; Draggable feedback positioning<br />
-    <sub>[#145647](https://github.com/flutter/flutter/pull/145647) opened on on March 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145647) 8 additions and 5 deletions in 1 file</sub><br />
+    <sub>[#145647](https://github.com/flutter/flutter/pull/145647) opened on on March 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145647) 8 additions and 5 deletions in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove trailing commas in android dependency version checking gradle plugin<br />
     <sub>[#145718](https://github.com/flutter/flutter/pull/145718) opened on on March 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145718) 21 additions and 21 deletions in 1 file</sub><br />
-
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Roll pub packages and regenerate gradle lockfiles<br />
-    <sub>[#145727](https://github.com/flutter/flutter/pull/145727) opened on on March 25, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/145727) 479 additions and 195 deletions in 15 files</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update localization files.<br />
     <sub>[#145780](https://github.com/flutter/flutter/pull/145780) opened on on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145780) 30 additions and 36 deletions in 13 files</sub><br />

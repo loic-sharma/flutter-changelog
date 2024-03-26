@@ -4,7 +4,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-20 commits.
+21 commits.
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add a `--print-dtd` flag to print the DTD address served by DevTools server<br />
     <sub>[#144272](https://github.com/flutter/flutter/pull/144272) merged on March 25, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/144272) over 3 weeks, 324 additions and 189 deletions in 12 files</sub><br />
@@ -33,6 +33,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `ExpansionTile` Expanded/Collapsed announcement is interrupted by VoiceOver<br />
     <sub>[#143936](https://github.com/flutter/flutter/pull/143936) merged on March 26, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/143936) over 1 month, 55 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Roll pub packages and regenerate gradle lockfiles<br />
+    <sub>[#145727](https://github.com/flutter/flutter/pull/145727) merged on March 26, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/145727) over 23 hours, 479 additions and 195 deletions in 15 files</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `SearchAnchor` triggers unnecessary suggestions builder calls<br />
     <sub>[#143443](https://github.com/flutter/flutter/pull/143443) merged on March 25, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/143443) over 1 month, 120 additions and 6 deletions in 2 files</sub><br />
