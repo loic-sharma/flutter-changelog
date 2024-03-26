@@ -477,7 +477,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-6 commits.
+7 commits.
 
 * **[lauren n. liberda](https://github.com/selfisekai)** &mdash; font_subset tests: name correct variant in exception
     <sub>[#51492](https://github.com/flutter/engine/pull/51492) merged on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51492) over 1 week, 1 addition and 2 deletions in 1 file</sub>
@@ -486,6 +486,10 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Change JSBoxedDartObject to JSAny
     <sub>[#51634](https://github.com/flutter/engine/pull/51634) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51634) over 3 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Disable FlutterEngineTest.CanOverrideBackgroundColor
+    <sub>[#51669](https://github.com/flutter/engine/pull/51669) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51669) over 15 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to 2a16784938d3be059014d4112f00ac70a386fa0c
     <sub>[#51674](https://github.com/flutter/engine/pull/51674) merged on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51674) over 44 minutes, 1 addition and 1 deletion in 1 file</sub>
