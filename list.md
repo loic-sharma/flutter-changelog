@@ -26,6 +26,10 @@
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>3 images...</summary>![00-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/a295b002-b310-4dea-8bc4-23b1d299748c)![01-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/8c5c3d5f-e67d-4ed5-880d-f17d262087e1)![02-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/872409d8-8a8d-4db9-b95b-7f96a62cdffc)</details></sub>
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Enable WebAssembly compilation everywhere, remove feature flag
+    <sub>[#145562](https://github.com/flutter/flutter/pull/145562) merged on March 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145562) over 4 days, 4 additions and 48 deletions in 7 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `ExpansionTile` Expanded/Collapsed announcement is interrupted by VoiceOver
     <sub>[#143936](https://github.com/flutter/flutter/pull/143936) merged on March 26, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/143936) over 1 month, 55 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
@@ -37,10 +41,6 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] Bump native assets dependencies
     <sub>[#145612](https://github.com/flutter/flutter/pull/145612) merged on March 25, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/145612) over 2 days, 473 additions and 414 deletions in 21 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Enable WebAssembly compilation everywhere, remove feature flag
-    <sub>[#145562](https://github.com/flutter/flutter/pull/145562) merged on March 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145562) over 4 days, 4 additions and 48 deletions in 7 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Memory leaks clean up 2
     <sub>[#145757](https://github.com/flutter/flutter/pull/145757) merged on March 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145757) over 3 hours, 37 additions and 7 deletions in 7 files</sub>
@@ -506,7 +506,12 @@
 
 ### March 23, 2024 to March 29, 2024
 
-15 commits.
+16 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use screen space coordinates for dithering.
+    <sub>[#51668](https://github.com/flutter/engine/pull/51668) merged on March 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51668) over 20 hours, 21 additions and 21 deletions in 5 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+    <sub><details><summary>2 images...</summary>![flutter_04](https://github.com/flutter/engine/assets/8975114/5f5c19a5-575b-45fb-8f58-c5dc4e46dfb1)![flutter_05](https://github.com/flutter/engine/assets/8975114/8e80c967-a73d-433c-a16d-918f2aa042db)</details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Refactor clip stack into separate testable class.
     <sub>[#51656](https://github.com/flutter/engine/pull/51656) merged on March 26, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/engine/pull/51656) over 23 hours, 400 additions and 172 deletions in 9 files</sub>
