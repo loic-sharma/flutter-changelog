@@ -4,12 +4,17 @@
 
 ### March 23, 2024 to March 29, 2024
 
-18 commits.
+19 commits.
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add a `--print-dtd` flag to print the DTD address served by DevTools server
     <sub>[#144272](https://github.com/flutter/flutter/pull/144272) merged on March 25, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/144272) over 3 weeks, 324 additions and 189 deletions in 12 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ben Konyi](https://github.com/bkonyi)</sub>
     <sub><details><summary>1 image...</summary><img width="660" alt="Screenshot 2024-03-25 at 7 56 05 AM" src="https://github.com/flutter/flutter/assets/43759233/8bab9986-24d0-4ae4-bfae-0a1fce00b422"></details></sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix disabled `DropdownMenu` doesn't defer the mouse cursor
+    <sub>[#145686](https://github.com/flutter/flutter/pull/145686) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145686) over 1 day, 66 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+    <sub><details><summary>1 image...</summary>![Screenshot 2024-03-25 at 14 52 31](https://github.com/flutter/flutter/assets/48603081/cf4361a5-d3bb-4635-9825-5eefa4efe6cc)</details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix vertical `Stepper` draws connector on the last step
     <sub>[#145703](https://github.com/flutter/flutter/pull/145703) merged on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145703) over 5 hours, 32 additions and 1 deletion in 2 files</sub>
