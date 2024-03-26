@@ -510,7 +510,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-18 commits.
+19 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use screen space coordinates for dithering.
     <sub>[#51668](https://github.com/flutter/engine/pull/51668) merged on March 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51668) over 20 hours, 21 additions and 21 deletions in 5 files</sub>
@@ -536,6 +536,10 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Change JSBoxedDartObject to JSAny
     <sub>[#51634](https://github.com/flutter/engine/pull/51634) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51634) over 3 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Turn off internal retries for Android scenario app tests
+    <sub>[#51689](https://github.com/flutter/engine/pull/51689) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51689) over 56 minutes, 6 additions and 6 deletions in 4 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Consolidate FlutterViewController static types/data
     <sub>[#51486](https://github.com/flutter/engine/pull/51486) merged on March 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51486) over 1 week, 33 additions and 32 deletions in 1 file</sub>
