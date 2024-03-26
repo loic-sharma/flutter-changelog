@@ -4,7 +4,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-13 commits.
+14 commits.
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add a `--print-dtd` flag to print the DTD address served by DevTools server
     <sub>[#144272](https://github.com/flutter/flutter/pull/144272) merged on March 25, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/144272) over 3 weeks, 324 additions and 189 deletions in 12 files</sub>
@@ -40,6 +40,10 @@
 * **[Sahil Kachhap](https://github.com/Sahil-kachhap)** &mdash; [Fix]: Searchbar doesn't lose focus when tapped outside
     <sub>[#145232](https://github.com/flutter/flutter/pull/145232) merged on March 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145232) over 1 week, 47 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Enable WebAssembly compilation everywhere, remove feature flag
+    <sub>[#145562](https://github.com/flutter/flutter/pull/145562) merged on March 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145562) over 4 days, 4 additions and 48 deletions in 7 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Jesse](https://github.com/sealesj)** &mdash; Refactor add_to_app_life_cycle_tests
     <sub>[#145546](https://github.com/flutter/flutter/pull/145546) merged on March 25, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/145546) over 4 days, 25 additions and 14 deletions in 2 files</sub>
@@ -1022,7 +1026,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-2 commits.
+3 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Adds @SwiftClass annotation
     <sub>[#6372](https://github.com/flutter/packages/pull/6372) merged on March 26, 2024 &mdash; **Extra large:** [27 comments](https://github.com/flutter/packages/pull/6372) over 4 days, 5190 additions and 159 deletions in 31 files</sub>
@@ -1032,6 +1036,10 @@
     <sub>[#6255](https://github.com/flutter/packages/pull/6255) merged on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6255) over 3 weeks, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.json:json&package-manager=gradle&previous-version=20231013&new-version=20240303)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [flutter_lints] Updates various links
+    <sub>[#6400](https://github.com/flutter/packages/pull/6400) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6400) over 20 hours, 8 additions and 7 deletions in 4 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 ### March 16, 2024 to March 22, 2024
 

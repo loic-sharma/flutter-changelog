@@ -78,5 +78,5 @@
     <sub>[#145744](https://github.com/flutter/flutter/pull/145744) opened on on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145744) 8 additions and 8 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Memory leaks clean up 2<br />
-    <sub>[#145757](https://github.com/flutter/flutter/pull/145757) opened on on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145757) 40 additions and 8 deletions in 8 files</sub><br />
+    <sub>[#145757](https://github.com/flutter/flutter/pull/145757) opened on on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145757) 37 additions and 7 deletions in 7 files</sub><br />
 
