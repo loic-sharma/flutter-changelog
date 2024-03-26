@@ -477,11 +477,15 @@
 
 ### March 23, 2024 to March 29, 2024
 
-10 commits.
+12 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Refactor clip stack into separate testable class.<br />
     <sub>[#51656](https://github.com/flutter/engine/pull/51656) merged on March 26, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/engine/pull/51656) over 23 hours, 400 additions and 172 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert usage of foreground blend optimization.<br />
+    <sub>[#51679](https://github.com/flutter/engine/pull/51679) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51679) over 1 hour, 0 additions and 148 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[lauren n. liberda](https://github.com/selfisekai)** &mdash; font_subset tests: name correct variant in exception<br />
     <sub>[#51492](https://github.com/flutter/engine/pull/51492) merged on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51492) over 1 week, 1 addition and 2 deletions in 1 file</sub><br />
@@ -510,6 +514,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix unbalanced restores.<br />
     <sub>[#51648](https://github.com/flutter/engine/pull/51648) merged on March 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51648) over 20 hours, 60 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Pass the flutter test font by default.<br />
+    <sub>[#51671](https://github.com/flutter/engine/pull/51671) merged on March 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51671) over 14 hours, 65 additions and 22 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add fl_standard_method_codec_new_with_message_codec()<br />
     <sub>[#51599](https://github.com/flutter/engine/pull/51599) merged on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51599) over 2 days, 220 additions and 23 deletions in 3 files</sub><br />
@@ -1014,11 +1022,16 @@
 
 ### March 23, 2024 to March 29, 2024
 
-1 commits.
+2 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Adds @SwiftClass annotation<br />
     <sub>[#6372](https://github.com/flutter/packages/pull/6372) merged on March 26, 2024 &mdash; **Extra large:** [27 comments](https://github.com/flutter/packages/pull/6372) over 4 days, 5190 additions and 159 deletions in 31 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump org.json:json from 20231013 to 20240303 in /packages/in_app_purchase/in_app_purchase_android/example/android/app<br />
+    <sub>[#6255](https://github.com/flutter/packages/pull/6255) merged on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6255) over 3 weeks, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.json:json&package-manager=gradle&previous-version=20231013&new-version=20240303)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 ### March 16, 2024 to March 22, 2024
 

@@ -75,7 +75,7 @@
     <sub>[#145718](https://github.com/flutter/flutter/pull/145718) opened on on March 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145718) 21 additions and 21 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in Overlay.wrap.<br />
-    <sub>[#145744](https://github.com/flutter/flutter/pull/145744) opened on on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145744) 8 additions and 8 deletions in 2 files</sub><br />
+    <sub>[#145744](https://github.com/flutter/flutter/pull/145744) opened on on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145744) 8 additions and 8 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Memory leaks clean up 2<br />
     <sub>[#145757](https://github.com/flutter/flutter/pull/145757) opened on on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145757) 40 additions and 8 deletions in 8 files</sub><br />
