@@ -74,3 +74,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove trailing commas in android dependency version checking gradle plugin<br />
     <sub>[#145718](https://github.com/flutter/flutter/pull/145718) opened on on March 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145718) 21 additions and 21 deletions in 1 file</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in Overlay.wrap.<br />
+    <sub>[#145744](https://github.com/flutter/flutter/pull/145744) opened on on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145744) 8 additions and 8 deletions in 2 files</sub><br />
+
