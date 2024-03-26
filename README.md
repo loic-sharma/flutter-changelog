@@ -4,7 +4,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-17 commits.
+18 commits.
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add a `--print-dtd` flag to print the DTD address served by DevTools server<br />
     <sub>[#144272](https://github.com/flutter/flutter/pull/144272) merged on March 25, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/144272) over 3 weeks, 324 additions and 189 deletions in 12 files</sub><br />
@@ -37,8 +37,12 @@
     <sub>[#145562](https://github.com/flutter/flutter/pull/145562) merged on March 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145562) over 4 days, 4 additions and 48 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Memory leaks clean up 2<br />
+    <sub>[#145757](https://github.com/flutter/flutter/pull/145757) merged on March 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145757) over 3 hours, 37 additions and 7 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in Overlay.wrap.<br />
-    <sub>[#145744](https://github.com/flutter/flutter/pull/145744) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145744) over 10 hours, 8 additions and 8 deletions in 2 files</sub><br />
+    <sub>[#145744](https://github.com/flutter/flutter/pull/145744) merged on March 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145744) over 10 hours, 8 additions and 8 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; make hot reload reflect changes to asset transformer configurations<br />
