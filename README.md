@@ -485,7 +485,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-12 commits.
+14 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Refactor clip stack into separate testable class.<br />
     <sub>[#51656](https://github.com/flutter/engine/pull/51656) merged on March 26, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/engine/pull/51656) over 23 hours, 400 additions and 172 deletions in 9 files</sub><br />
@@ -502,6 +502,10 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Change JSBoxedDartObject to JSAny<br />
     <sub>[#51634](https://github.com/flutter/engine/pull/51634) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51634) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Simplify calculation of Matrix::GetMaxBasisXY()<br />
+    <sub>[#51664](https://github.com/flutter/engine/pull/51664) merged on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51664) over 20 hours, 16 additions and 9 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to ba3ca696f4f95e998707523be755c15440c6bf3f<br />
     <sub>[#51678](https://github.com/flutter/engine/pull/51678) merged on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51678) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
@@ -522,6 +526,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix unbalanced restores.<br />
     <sub>[#51648](https://github.com/flutter/engine/pull/51648) merged on March 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51648) over 20 hours, 60 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Stop rolling zlib with Dart SDK rolls.<br />
+    <sub>[#51667](https://github.com/flutter/engine/pull/51667) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51667) over 19 hours, 1 addition and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Pass the flutter test font by default.<br />
     <sub>[#51671](https://github.com/flutter/engine/pull/51671) merged on March 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51671) over 14 hours, 65 additions and 22 deletions in 2 files</sub><br />
