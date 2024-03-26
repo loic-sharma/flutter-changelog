@@ -77,3 +77,6 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update localization files.<br />
     <sub>[#145780](https://github.com/flutter/flutter/pull/145780) opened on on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145780) 30 additions and 36 deletions in 13 files</sub><br />
 
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Add BackgroundIsolateBinaryMessenger.ensureInitialized to web.<br />
+    <sub>[#145786](https://github.com/flutter/flutter/pull/145786) opened on on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145786) 25 additions and 1 deletion in 3 files</sub><br />
+
