@@ -74,9 +74,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Roll pub packages and regenerate gradle lockfiles<br />
     <sub>[#145727](https://github.com/flutter/flutter/pull/145727) opened on on March 25, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/145727) 479 additions and 195 deletions in 15 files</sub><br />
 
-* **[Jesse](https://github.com/sealesj)** &mdash; Refactor web long running tests<br />
-    <sub>[#145776](https://github.com/flutter/flutter/pull/145776) opened on on March 26, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/145776) 578 additions and 559 deletions in 2 files</sub><br />
-
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update localization files.<br />
     <sub>[#145780](https://github.com/flutter/flutter/pull/145780) opened on on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145780) 30 additions and 36 deletions in 13 files</sub><br />
 
