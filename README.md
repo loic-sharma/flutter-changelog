@@ -477,7 +477,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-8 commits.
+9 commits.
 
 * **[lauren n. liberda](https://github.com/selfisekai)** &mdash; font_subset tests: name correct variant in exception<br />
     <sub>[#51492](https://github.com/flutter/engine/pull/51492) merged on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51492) over 1 week, 1 addition and 2 deletions in 1 file</sub><br />
@@ -486,6 +486,10 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Change JSBoxedDartObject to JSAny<br />
     <sub>[#51634](https://github.com/flutter/engine/pull/51634) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51634) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to ba3ca696f4f95e998707523be755c15440c6bf3f<br />
+    <sub>[#51678](https://github.com/flutter/engine/pull/51678) merged on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51678) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Use RBE for Fuchsia CI builds<br />
     <sub>[#51675](https://github.com/flutter/engine/pull/51675) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51675) over 1 hour, 60 additions and 24 deletions in 1 file</sub><br />
