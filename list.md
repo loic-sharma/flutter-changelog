@@ -4,7 +4,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-16 commits.
+17 commits.
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add a `--print-dtd` flag to print the DTD address served by DevTools server
     <sub>[#144272](https://github.com/flutter/flutter/pull/144272) merged on March 25, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/144272) over 3 weeks, 324 additions and 189 deletions in 12 files</sub>
@@ -36,6 +36,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Enable WebAssembly compilation everywhere, remove feature flag
     <sub>[#145562](https://github.com/flutter/flutter/pull/145562) merged on March 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145562) over 4 days, 4 additions and 48 deletions in 7 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in Overlay.wrap.
+    <sub>[#145744](https://github.com/flutter/flutter/pull/145744) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145744) over 10 hours, 8 additions and 8 deletions in 2 files</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; make hot reload reflect changes to asset transformer configurations
     <sub>[#144660](https://github.com/flutter/flutter/pull/144660) merged on March 25, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/144660) over 2 weeks, 84 additions and 6 deletions in 2 files</sub>
