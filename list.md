@@ -4,7 +4,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-21 commits.
+22 commits.
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add a `--print-dtd` flag to print the DTD address served by DevTools server
     <sub>[#144272](https://github.com/flutter/flutter/pull/144272) merged on March 25, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/144272) over 3 weeks, 324 additions and 189 deletions in 12 files</sub>
@@ -33,6 +33,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `ExpansionTile` Expanded/Collapsed announcement is interrupted by VoiceOver
     <sub>[#143936](https://github.com/flutter/flutter/pull/143936) merged on March 26, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/143936) over 1 month, 55 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Add BackgroundIsolateBinaryMessenger.ensureInitialized to web.
+    <sub>[#145786](https://github.com/flutter/flutter/pull/145786) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145786) over 2 hours, 24 additions and 0 deletions in 3 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Roll pub packages and regenerate gradle lockfiles
     <sub>[#145727](https://github.com/flutter/flutter/pull/145727) merged on March 26, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/145727) over 23 hours, 479 additions and 195 deletions in 15 files</sub>
