@@ -988,9 +988,18 @@
 
 ## flutter/packages
 
+### March 23, 2024 to March 29, 2024
+
+1 commits.
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Adds @SwiftClass annotation<br />
+    <sub>[#6372](https://github.com/flutter/packages/pull/6372) merged on March 26, 2024 &mdash; **Extra large:** [27 comments](https://github.com/flutter/packages/pull/6372) over 4 days, 5190 additions and 159 deletions in 31 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 ### March 16, 2024 to March 22, 2024
 
-11 commits.
+<details>
+<summary>11 commits...</summary>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Implements `setFocusMode`<br />
     <sub>[#6176](https://github.com/flutter/packages/pull/6176) merged on March 19, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/6176) over 3 weeks, 1223 additions and 176 deletions in 18 files</sub><br />
@@ -1036,6 +1045,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from ba3931984302 to 68bfaea22488 (2 revisions)<br />
     <sub>[#6368](https://github.com/flutter/packages/pull/6368) merged on March 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6368) over 32 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### March 9, 2024 to March 15, 2024
 
