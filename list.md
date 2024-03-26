@@ -492,7 +492,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Disable cleaning up ImageReaders in memory pressure callback"
-    <sub>[#51665](https://github.com/flutter/engine/pull/51665) merged on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51665) over 44 minutes, 2 additions and 11 deletions in 2 files</sub>
+    <sub>[#51665](https://github.com/flutter/engine/pull/51665) merged on March 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51665) over 44 minutes, 2 additions and 11 deletions in 2 files</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 ### March 16, 2024 to March 22, 2024
