@@ -522,7 +522,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-21 commits.
+22 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use screen space coordinates for dithering.<br />
     <sub>[#51668](https://github.com/flutter/engine/pull/51668) merged on March 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51668) over 20 hours, 21 additions and 21 deletions in 5 files</sub><br />
@@ -533,6 +533,10 @@
     <sub>[#51687](https://github.com/flutter/engine/pull/51687) merged on March 27, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/51687) over 19 hours, 112 additions and 29 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>2 images...</summary><img src="https://github.com/flutter/engine/assets/41930132/1482d81a-337e-4841-ac08-eff08bbc71ef" height="500"><img src="https://github.com/flutter/engine/assets/41930132/0eddae69-ab62-4de6-8932-c67cc5aced73" height="500"></details></sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Transform geometry to safe depth ranges instead of forcing discrete depth values.<br />
+    <sub>[#51673](https://github.com/flutter/engine/pull/51673) merged on March 27, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/51673) over 1 day, 497 additions and 464 deletions in 46 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Refactor clip stack into separate testable class.<br />
     <sub>[#51656](https://github.com/flutter/engine/pull/51656) merged on March 26, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/engine/pull/51656) over 23 hours, 400 additions and 172 deletions in 9 files</sub><br />
