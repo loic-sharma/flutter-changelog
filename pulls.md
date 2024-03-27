@@ -77,3 +77,6 @@
 * **[philipfranchi](https://github.com/philipfranchi)** &mdash; Adds semanticsLabel to MenuItemButton<br />
     <sub>[#145846](https://github.com/flutter/flutter/pull/145846) opened on on March 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145846) 40 additions and 1 deletion in 2 files</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Test Gold stdout message<br />
+    <sub>[#145850](https://github.com/flutter/flutter/pull/145850) opened on on March 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145850) 6 additions and 1 deletion in 2 files</sub><br />
+
