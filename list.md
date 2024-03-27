@@ -1096,11 +1096,16 @@
 
 ### March 23, 2024 to March 29, 2024
 
-4 commits.
+5 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Adds @SwiftClass annotation
     <sub>[#6372](https://github.com/flutter/packages/pull/6372) merged on March 26, 2024 &mdash; **Extra large:** [27 comments](https://github.com/flutter/packages/pull/6372) over 4 days, 5190 additions and 159 deletions in 31 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [camera]: Bump androidx.annotation:annotation from 1.7.0 to 1.7.1 in /packages/camera/camera_android/android
+    <sub>[#5707](https://github.com/flutter/packages/pull/5707) merged on March 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5707) over 3 months, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.7.0&new-version=1.7.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump org.json:json from 20231013 to 20240303 in /packages/in_app_purchase/in_app_purchase_android/example/android/app
     <sub>[#6255](https://github.com/flutter/packages/pull/6255) merged on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6255) over 3 weeks, 1 addition and 1 deletion in 1 file</sub>
