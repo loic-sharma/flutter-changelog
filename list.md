@@ -522,7 +522,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-29 commits.
+30 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use screen space coordinates for dithering.
     <sub>[#51668](https://github.com/flutter/engine/pull/51668) merged on March 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51668) over 20 hours, 21 additions and 21 deletions in 5 files</sub>
@@ -614,6 +614,10 @@
     <sub>[#51648](https://github.com/flutter/engine/pull/51648) merged on March 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51648) over 20 hours, 60 additions and 2 deletions in 4 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] Use the scissor to limit all draws by clip coverage. (#51698)"
+    <sub>[#51728](https://github.com/flutter/engine/pull/51728) merged on March 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51728) over 1 minute, 52 additions and 134 deletions in 4 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [Skwasm] Correctly handle paragraphs with empty text.
     <sub>[#51695](https://github.com/flutter/engine/pull/51695) merged on March 27, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/51695) over 19 hours, 31 additions and 19 deletions in 3 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
@@ -623,7 +627,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Use the scissor to limit all draws by clip coverage.
-    <sub>[#51698](https://github.com/flutter/engine/pull/51698) merged on March 27, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51698) over 13 hours, 134 additions and 52 deletions in 4 files</sub>
+    <sub>[#51698](https://github.com/flutter/engine/pull/51698) merged on March 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51698) over 13 hours, 134 additions and 52 deletions in 4 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Stop rolling zlib with Dart SDK rolls.
