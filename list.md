@@ -522,12 +522,17 @@
 
 ### March 23, 2024 to March 29, 2024
 
-19 commits.
+21 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use screen space coordinates for dithering.
     <sub>[#51668](https://github.com/flutter/engine/pull/51668) merged on March 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51668) over 20 hours, 21 additions and 21 deletions in 5 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
     <sub><details><summary>2 images...</summary>![flutter_04](https://github.com/flutter/engine/assets/8975114/5f5c19a5-575b-45fb-8f58-c5dc4e46dfb1)![flutter_05](https://github.com/flutter/engine/assets/8975114/8e80c967-a73d-433c-a16d-918f2aa042db)</details></sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]ignore single edge pixel instead of rounding
+    <sub>[#51687](https://github.com/flutter/engine/pull/51687) merged on March 27, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/51687) over 19 hours, 112 additions and 29 deletions in 6 files</sub>
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub><details><summary>2 images...</summary><img src="https://github.com/flutter/engine/assets/41930132/1482d81a-337e-4841-ac08-eff08bbc71ef" height="500"><img src="https://github.com/flutter/engine/assets/41930132/0eddae69-ab62-4de6-8932-c67cc5aced73" height="500"></details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Refactor clip stack into separate testable class.
     <sub>[#51656](https://github.com/flutter/engine/pull/51656) merged on March 26, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/engine/pull/51656) over 23 hours, 400 additions and 172 deletions in 9 files</sub>
@@ -548,6 +553,10 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Change JSBoxedDartObject to JSAny
     <sub>[#51634](https://github.com/flutter/engine/pull/51634) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51634) over 3 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fail pre-submit if a negative image is encountered as part of `goldctl imgtest add`.
+    <sub>[#51685](https://github.com/flutter/engine/pull/51685) merged on March 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51685) over 21 hours, 98 additions and 22 deletions in 3 files</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Turn off internal retries for Android scenario app tests
     <sub>[#51689](https://github.com/flutter/engine/pull/51689) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51689) over 56 minutes, 6 additions and 6 deletions in 4 files</sub>
