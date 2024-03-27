@@ -1105,11 +1105,15 @@
 
 ### March 23, 2024 to March 29, 2024
 
-5 commits.
+6 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Adds @SwiftClass annotation
     <sub>[#6372](https://github.com/flutter/packages/pull/6372) merged on March 26, 2024 &mdash; **Extra large:** [27 comments](https://github.com/flutter/packages/pull/6372) over 4 days, 5190 additions and 159 deletions in 31 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Use `AspectRatioStrategy` and `ResolutionFilter` to help automatic selection of expected resolution
+    <sub>[#6357](https://github.com/flutter/packages/pull/6357) merged on March 27, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/6357) over 1 week, 1431 additions and 428 deletions in 22 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [camera]: Bump androidx.annotation:annotation from 1.7.0 to 1.7.1 in /packages/camera/camera_android/android
     <sub>[#5707](https://github.com/flutter/packages/pull/5707) merged on March 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/5707) over 3 months, 6 additions and 2 deletions in 3 files</sub>
