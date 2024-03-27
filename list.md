@@ -4,7 +4,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-23 commits.
+24 commits.
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Enable WebAssembly compilation everywhere, remove feature flag
     <sub>[#145562](https://github.com/flutter/flutter/pull/145562) merged on March 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145562) over 4 days, 4 additions and 48 deletions in 7 files</sub>
@@ -48,6 +48,10 @@
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] Bump native assets dependencies
     <sub>[#145612](https://github.com/flutter/flutter/pull/145612) merged on March 25, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/145612) over 2 days, 473 additions and 414 deletions in 21 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Jesse](https://github.com/sealesj)** &mdash; Refactor web long running tests
+    <sub>[#145776](https://github.com/flutter/flutter/pull/145776) merged on March 27, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/145776) over 19 hours, 577 additions and 559 deletions in 2 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Memory leaks clean up 2

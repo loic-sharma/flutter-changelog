@@ -75,5 +75,5 @@
     <sub>[#145819](https://github.com/flutter/flutter/pull/145819) opened on on March 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145819) 110 additions and 1 deletion in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix cursor is not centered when cursorHeight is set (non-Apple platforms).<br />
-    <sub>[#145829](https://github.com/flutter/flutter/pull/145829) opened on on March 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145829) 98 additions and 6 deletions in 2 files</sub><br />
+    <sub>[#145829](https://github.com/flutter/flutter/pull/145829) opened on on March 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145829) 98 additions and 6 deletions in 2 files</sub><br />
 
