@@ -11,14 +11,14 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ben Konyi](https://github.com/bkonyi)</sub><br />
     <sub><details><summary>1 image...</summary><img width="660" alt="Screenshot 2024-03-25 at 7 56 05 AM" src="https://github.com/flutter/flutter/assets/43759233/8bab9986-24d0-4ae4-bfae-0a1fce00b422"></details></sub>
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Enable WebAssembly compilation everywhere, remove feature flag<br />
+    <sub>[#145562](https://github.com/flutter/flutter/pull/145562) merged on March 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145562) over 4 days, 4 additions and 48 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix disabled `DropdownMenu` doesn't defer the mouse cursor<br />
     <sub>[#145686](https://github.com/flutter/flutter/pull/145686) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145686) over 1 day, 66 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2024-03-25 at 14 52 31](https://github.com/flutter/flutter/assets/48603081/cf4361a5-d3bb-4635-9825-5eefa4efe6cc)</details></sub>
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Enable WebAssembly compilation everywhere, remove feature flag<br />
-    <sub>[#145562](https://github.com/flutter/flutter/pull/145562) merged on March 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145562) over 4 days, 4 additions and 48 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix vertical `Stepper` draws connector on the last step<br />
     <sub>[#145703](https://github.com/flutter/flutter/pull/145703) merged on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145703) over 5 hours, 32 additions and 1 deletion in 2 files</sub><br />
