@@ -16,6 +16,10 @@
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot 2024-03-25 at 14 52 31](https://github.com/flutter/flutter/assets/48603081/cf4361a5-d3bb-4635-9825-5eefa4efe6cc)</details></sub>
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Enable WebAssembly compilation everywhere, remove feature flag
+    <sub>[#145562](https://github.com/flutter/flutter/pull/145562) merged on March 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145562) over 4 days, 4 additions and 48 deletions in 7 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix vertical `Stepper` draws connector on the last step
     <sub>[#145703](https://github.com/flutter/flutter/pull/145703) merged on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145703) over 5 hours, 32 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
@@ -25,10 +29,6 @@
     <sub>[#145536](https://github.com/flutter/flutter/pull/145536) merged on March 25, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/145536) over 3 days, 1007 additions and 6 deletions in 12 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
     <sub><details><summary>3 images...</summary>![00-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/a295b002-b310-4dea-8bc4-23b1d299748c)![01-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/8c5c3d5f-e67d-4ed5-880d-f17d262087e1)![02-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/872409d8-8a8d-4db9-b95b-7f96a62cdffc)</details></sub>
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Enable WebAssembly compilation everywhere, remove feature flag
-    <sub>[#145562](https://github.com/flutter/flutter/pull/145562) merged on March 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145562) over 4 days, 4 additions and 48 deletions in 7 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `ExpansionTile` Expanded/Collapsed announcement is interrupted by VoiceOver
     <sub>[#143936](https://github.com/flutter/flutter/pull/143936) merged on March 26, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/143936) over 1 month, 55 additions and 2 deletions in 2 files</sub>
@@ -1092,7 +1092,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-3 commits.
+4 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Adds @SwiftClass annotation
     <sub>[#6372](https://github.com/flutter/packages/pull/6372) merged on March 26, 2024 &mdash; **Extra large:** [27 comments](https://github.com/flutter/packages/pull/6372) over 4 days, 5190 additions and 159 deletions in 31 files</sub>
@@ -1102,6 +1102,10 @@
     <sub>[#6255](https://github.com/flutter/packages/pull/6255) merged on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6255) over 3 weeks, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.json:json&package-manager=gradle&previous-version=20231013&new-version=20240303)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [google_maps_flutter] Fix ios tile overlay not loading when dealing with wide gamut images
+    <sub>[#6377](https://github.com/flutter/packages/pull/6377) merged on March 27, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6377) over 4 days, 59 additions and 4 deletions in 7 files</sub>
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [flutter_lints] Updates various links
     <sub>[#6400](https://github.com/flutter/packages/pull/6400) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6400) over 20 hours, 8 additions and 7 deletions in 4 files</sub>
