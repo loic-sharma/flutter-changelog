@@ -68,3 +68,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove trailing commas in android dependency version checking gradle plugin<br />
     <sub>[#145718](https://github.com/flutter/flutter/pull/145718) opened on on March 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145718) 21 additions and 21 deletions in 1 file</sub><br />
 
+* **[YiQiu](https://github.com/YiQiuYes)** &mdash; Update popup_menu.dart<br />
+    <sub>[#145816](https://github.com/flutter/flutter/pull/145816) opened on on March 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145816) 1 addition and 1 deletion in 1 file</sub><br />
+
