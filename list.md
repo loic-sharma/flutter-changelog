@@ -4,7 +4,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-22 commits.
+23 commits.
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add a `--print-dtd` flag to print the DTD address served by DevTools server
     <sub>[#144272](https://github.com/flutter/flutter/pull/144272) merged on March 25, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/144272) over 3 weeks, 324 additions and 189 deletions in 12 files</sub>
@@ -69,6 +69,10 @@
 * **[Sahil Kachhap](https://github.com/Sahil-kachhap)** &mdash; [Fix]: Searchbar doesn't lose focus when tapped outside
     <sub>[#145232](https://github.com/flutter/flutter/pull/145232) merged on March 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145232) over 1 week, 47 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Update localization files.
+    <sub>[#145780](https://github.com/flutter/flutter/pull/145780) merged on March 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145780) over 6 hours, 11 additions and 14 deletions in 7 files</sub>
+    <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
 
 * **[Lipu](https://github.com/dwzrlp)** &mdash; Correct typo: "Free" to "Three" in comments
     <sub>[#145689](https://github.com/flutter/flutter/pull/145689) merged on March 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/145689) over 1 day, 1 addition and 1 deletion in 1 file</sub>
