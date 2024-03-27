@@ -522,7 +522,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-23 commits.
+24 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use screen space coordinates for dithering.
     <sub>[#51668](https://github.com/flutter/engine/pull/51668) merged on March 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51668) over 20 hours, 21 additions and 21 deletions in 5 files</sub>
@@ -545,6 +545,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert usage of foreground blend optimization.
     <sub>[#51679](https://github.com/flutter/engine/pull/51679) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51679) over 1 hour, 0 additions and 148 deletions in 2 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix remaining Validation errors.
+    <sub>[#51692](https://github.com/flutter/engine/pull/51692) merged on March 27, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51692) over 18 hours, 34 additions and 63 deletions in 7 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not apply mask filters to a DrawPaint cover geometry
     <sub>[#51670](https://github.com/flutter/engine/pull/51670) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51670) over 16 hours, 38 additions and 1 deletion in 6 files</sub>
