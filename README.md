@@ -522,7 +522,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-27 commits.
+28 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use screen space coordinates for dithering.<br />
     <sub>[#51668](https://github.com/flutter/engine/pull/51668) merged on March 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51668) over 20 hours, 21 additions and 21 deletions in 5 files</sub><br />
@@ -575,7 +575,7 @@
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fail pre-submit if a negative image is encountered as part of `goldctl imgtest add`.<br />
-    <sub>[#51685](https://github.com/flutter/engine/pull/51685) merged on March 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51685) over 21 hours, 98 additions and 22 deletions in 3 files</sub><br />
+    <sub>[#51685](https://github.com/flutter/engine/pull/51685) merged on March 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51685) over 21 hours, 98 additions and 22 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Turn off internal retries for Android scenario app tests<br />
@@ -613,6 +613,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix unbalanced restores.<br />
     <sub>[#51648](https://github.com/flutter/engine/pull/51648) merged on March 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51648) over 20 hours, 60 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Fail pre-submit if a negative image is encountered as part of `goldctl imgtest add`. (#51685)"<br />
+    <sub>[#51718](https://github.com/flutter/engine/pull/51718) merged on March 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51718) over 1 minute, 22 additions and 98 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Use the scissor to limit all draws by clip coverage.<br />
     <sub>[#51698](https://github.com/flutter/engine/pull/51698) merged on March 27, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51698) over 13 hours, 134 additions and 52 deletions in 4 files</sub><br />
