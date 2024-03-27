@@ -1149,11 +1149,15 @@
 
 ### March 23, 2024 to March 29, 2024
 
-6 commits.
+7 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Adds @SwiftClass annotation<br />
     <sub>[#6372](https://github.com/flutter/packages/pull/6372) merged on March 26, 2024 &mdash; **Extra large:** [27 comments](https://github.com/flutter/packages/pull/6372) over 4 days, 5190 additions and 159 deletions in 31 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Creates and adds the `interactive_media_ads` plugin<br />
+    <sub>[#6060](https://github.com/flutter/packages/pull/6060) merged on March 27, 2024 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/6060) over 1 month, 3234 additions and 0 deletions in 98 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Use `AspectRatioStrategy` and `ResolutionFilter` to help automatic selection of expected resolution<br />
     <sub>[#6357](https://github.com/flutter/packages/pull/6357) merged on March 27, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/6357) over 1 week, 1431 additions and 428 deletions in 22 files</sub><br />
