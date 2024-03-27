@@ -522,7 +522,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-28 commits.
+29 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use screen space coordinates for dithering.<br />
     <sub>[#51668](https://github.com/flutter/engine/pull/51668) merged on March 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51668) over 20 hours, 21 additions and 21 deletions in 5 files</sub><br />
@@ -613,6 +613,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix unbalanced restores.<br />
     <sub>[#51648](https://github.com/flutter/engine/pull/51648) merged on March 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51648) over 20 hours, 60 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [Skwasm] Correctly handle paragraphs with empty text.<br />
+    <sub>[#51695](https://github.com/flutter/engine/pull/51695) merged on March 27, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/51695) over 19 hours, 31 additions and 19 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Fail pre-submit if a negative image is encountered as part of `goldctl imgtest add`. (#51685)"<br />
     <sub>[#51718](https://github.com/flutter/engine/pull/51718) merged on March 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51718) over 1 minute, 22 additions and 98 deletions in 3 files</sub><br />
