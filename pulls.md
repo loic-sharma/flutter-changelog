@@ -68,6 +68,3 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for theme_extension.1.dart API example.<br />
     <sub>[#145819](https://github.com/flutter/flutter/pull/145819) opened on on March 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145819) 110 additions and 1 deletion in 2 files</sub><br />
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Use the same reporter level for flutter and dart runners.<br />
-    <sub>[#145932](https://github.com/flutter/flutter/pull/145932) opened on on March 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145932) 2 additions and 0 deletions in 1 file</sub><br />
-
