@@ -71,3 +71,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Point kotlin message in `gradle_errors.dart` towards new place where templates define the kotlin version<br />
     <sub>[#145936](https://github.com/flutter/flutter/pull/145936) opened on on March 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145936) 21 additions and 9 deletions in 2 files</sub><br />
 
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Generate test metrics consistently.<br />
+    <sub>[#145943](https://github.com/flutter/flutter/pull/145943) opened on on March 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145943) 18 additions and 1 deletion in 1 file</sub><br />
+
