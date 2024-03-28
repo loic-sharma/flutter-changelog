@@ -74,6 +74,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for theme_extension.1.dart API example.<br />
     <sub>[#145819](https://github.com/flutter/flutter/pull/145819) opened on on March 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145819) 110 additions and 1 deletion in 2 files</sub><br />
 
-* **[philipfranchi](https://github.com/philipfranchi)** &mdash; Adds semanticsLabel to MenuItemButton<br />
-    <sub>[#145846](https://github.com/flutter/flutter/pull/145846) opened on on March 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145846) 41 additions and 1 deletion in 2 files</sub><br />
+* **[Jesse](https://github.com/sealesj)** &mdash; Refactor flutter_plugins<br />
+    <sub>[#145870](https://github.com/flutter/flutter/pull/145870) opened on on March 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145870) 107 additions and 88 deletions in 3 files</sub><br />
 
