@@ -4,7 +4,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-26 commits.
+27 commits.
 
 * **[maRci002](https://github.com/maRci002)** &mdash; Predictive back support for routes
     <sub>[#141373](https://github.com/flutter/flutter/pull/141373) merged on March 27, 2024 &mdash; **Extra large:** [173 comments](https://github.com/flutter/flutter/pull/141373) over 2 months, 1490 additions and 107 deletions in 14 files</sub>
@@ -81,6 +81,10 @@
 * **[Sahil Kachhap](https://github.com/Sahil-kachhap)** &mdash; [Fix]: Searchbar doesn't lose focus when tapped outside
     <sub>[#145232](https://github.com/flutter/flutter/pull/145232) merged on March 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145232) over 1 week, 47 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from 922c7b133bc2 to b3516c4c5683 (1 revision) (#145879)"
+    <sub>[#145900](https://github.com/flutter/flutter/pull/145900) merged on March 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145900) over 41 seconds, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update localization files.
     <sub>[#145780](https://github.com/flutter/flutter/pull/145780) merged on March 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145780) over 6 hours, 11 additions and 14 deletions in 7 files</sub>
