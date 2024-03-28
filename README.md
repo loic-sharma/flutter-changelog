@@ -1173,14 +1173,14 @@
 
 ### March 23, 2024 to March 29, 2024
 
-7 commits.
+8 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Adds @SwiftClass annotation<br />
     <sub>[#6372](https://github.com/flutter/packages/pull/6372) merged on March 26, 2024 &mdash; **Extra large:** [27 comments](https://github.com/flutter/packages/pull/6372) over 4 days, 5190 additions and 159 deletions in 31 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Creates and adds the `interactive_media_ads` plugin<br />
-    <sub>[#6060](https://github.com/flutter/packages/pull/6060) merged on March 27, 2024 &mdash; **Extra large:** [23 comments](https://github.com/flutter/packages/pull/6060) over 1 month, 3234 additions and 0 deletions in 98 files</sub><br />
+    <sub>[#6060](https://github.com/flutter/packages/pull/6060) merged on March 27, 2024 &mdash; **Extra large:** [25 comments](https://github.com/flutter/packages/pull/6060) over 1 month, 3234 additions and 0 deletions in 98 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Use `AspectRatioStrategy` and `ResolutionFilter` to help automatic selection of expected resolution<br />
@@ -1196,6 +1196,10 @@
     <sub>[#6255](https://github.com/flutter/packages/pull/6255) merged on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6255) over 3 weeks, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.json:json&package-manager=gradle&previous-version=20231013&new-version=20240303)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[interactive_media_ads] Creates and adds the `interactive_media_ads` plugin (#6060)"<br />
+    <sub>[#6417](https://github.com/flutter/packages/pull/6417) merged on March 28, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/packages/pull/6417) over 1 minute, 0 additions and 3234 deletions in 98 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [google_maps_flutter] Fix ios tile overlay not loading when dealing with wide gamut images<br />
     <sub>[#6377](https://github.com/flutter/packages/pull/6377) merged on March 27, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6377) over 4 days, 59 additions and 4 deletions in 7 files</sub><br />
