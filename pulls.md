@@ -77,6 +77,3 @@
 * **[philipfranchi](https://github.com/philipfranchi)** &mdash; Adds semanticsLabel to MenuItemButton<br />
     <sub>[#145846](https://github.com/flutter/flutter/pull/145846) opened on on March 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145846) 41 additions and 1 deletion in 2 files</sub><br />
 
-* **[Jesse](https://github.com/sealesj)** &mdash; Refactor skp_generator_tests<br />
-    <sub>[#145871](https://github.com/flutter/flutter/pull/145871) opened on on March 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145871) 40 additions and 28 deletions in 2 files</sub><br />
-
