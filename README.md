@@ -1177,7 +1177,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-9 commits.
+10 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Adds @SwiftClass annotation<br />
     <sub>[#6372](https://github.com/flutter/packages/pull/6372) merged on March 26, 2024 &mdash; **Extra large:** [27 comments](https://github.com/flutter/packages/pull/6372) over 4 days, 5190 additions and 159 deletions in 31 files</sub><br />
@@ -1216,6 +1216,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [flutter_lints] Updates various links<br />
     <sub>[#6400](https://github.com/flutter/packages/pull/6400) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6400) over 20 hours, 8 additions and 7 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[ci] Temporarily allow-warnings in podspec_check_command.dart (#6416)"<br />
+    <sub>[#6419](https://github.com/flutter/packages/pull/6419) merged on March 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6419) over 1 minute, 0 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### March 16, 2024 to March 22, 2024
 
