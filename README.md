@@ -1180,7 +1180,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Creates and adds the `interactive_media_ads` plugin<br />
-    <sub>[#6060](https://github.com/flutter/packages/pull/6060) merged on March 27, 2024 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/6060) over 1 month, 3234 additions and 0 deletions in 98 files</sub><br />
+    <sub>[#6060](https://github.com/flutter/packages/pull/6060) merged on March 27, 2024 &mdash; **Extra large:** [23 comments](https://github.com/flutter/packages/pull/6060) over 1 month, 3234 additions and 0 deletions in 98 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Use `AspectRatioStrategy` and `ResolutionFilter` to help automatic selection of expected resolution<br />
