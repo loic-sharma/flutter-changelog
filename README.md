@@ -555,7 +555,7 @@
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/engine/assets/8975114/8bfaec63-29e9-43c2-8954-181d0ad1c413)</details></sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] adds a `plus` advanced blend for f16 pixel formats<br />
-    <sub>[#51589](https://github.com/flutter/engine/pull/51589) merged on March 27, 2024 &mdash; **Large:** [34 comments](https://github.com/flutter/engine/pull/51589) over 6 days, 364 additions and 179 deletions in 30 files</sub><br />
+    <sub>[#51589](https://github.com/flutter/engine/pull/51589) merged on March 27, 2024 &mdash; **Large:** [35 comments](https://github.com/flutter/engine/pull/51589) over 6 days, 364 additions and 179 deletions in 30 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]ignore single edge pixel instead of rounding<br />
