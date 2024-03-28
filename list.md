@@ -1173,7 +1173,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-8 commits.
+9 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Adds @SwiftClass annotation
     <sub>[#6372](https://github.com/flutter/packages/pull/6372) merged on March 26, 2024 &mdash; **Extra large:** [27 comments](https://github.com/flutter/packages/pull/6372) over 4 days, 5190 additions and 159 deletions in 31 files</sub>
@@ -1204,6 +1204,10 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [google_maps_flutter] Fix ios tile overlay not loading when dealing with wide gamut images
     <sub>[#6377](https://github.com/flutter/packages/pull/6377) merged on March 27, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6377) over 4 days, 59 additions and 4 deletions in 7 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Temporarily allow-warnings in podspec_check_command.dart
+    <sub>[#6416](https://github.com/flutter/packages/pull/6416) merged on March 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6416) over 3 hours, 5 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [flutter_lints] Updates various links
     <sub>[#6400](https://github.com/flutter/packages/pull/6400) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6400) over 20 hours, 8 additions and 7 deletions in 4 files</sub>
