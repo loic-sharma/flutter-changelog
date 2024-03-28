@@ -526,7 +526,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-35 commits.
+36 commits.
 
 * **[maRci002](https://github.com/maRci002)** &mdash; Platform channel for predictive back in route transitions on android<br />
     <sub>[#49093](https://github.com/flutter/engine/pull/49093) merged on March 27, 2024 &mdash; **Large:** [36 comments](https://github.com/flutter/engine/pull/49093) over 3 months, 519 additions and 15 deletions in 9 files</sub><br />
@@ -582,10 +582,6 @@
     <sub>[#51713](https://github.com/flutter/engine/pull/51713) merged on March 27, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51713) over 5 hours, 88 additions and 2 deletions in 5 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use optimal depth attachment, remove useless barrier.<br />
-    <sub>[#51723](https://github.com/flutter/engine/pull/51723) merged on March 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51723) over 2 hours, 134 additions and 6 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add missing null check.<br />
     <sub>[#51711](https://github.com/flutter/engine/pull/51711) merged on March 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51711) over 1 hour, 6 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
@@ -614,29 +610,29 @@
     <sub>[#51664](https://github.com/flutter/engine/pull/51664) merged on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51664) over 20 hours, 16 additions and 9 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to ba3ca696f4f95e998707523be755c15440c6bf3f<br />
+    <sub>[#51678](https://github.com/flutter/engine/pull/51678) merged on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51678) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use optimal depth attachment, remove useless barrier.<br />
+    <sub>[#51723](https://github.com/flutter/engine/pull/51723) merged on March 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51723) over 2 hours, 134 additions and 6 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix unbalanced restores.<br />
     <sub>[#51648](https://github.com/flutter/engine/pull/51648) merged on March 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51648) over 20 hours, 60 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to ba3ca696f4f95e998707523be755c15440c6bf3f<br />
-    <sub>[#51678](https://github.com/flutter/engine/pull/51678) merged on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51678) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to 2a16784938d3be059014d4112f00ac70a386fa0c<br />
+    <sub>[#51674](https://github.com/flutter/engine/pull/51674) merged on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51674) over 44 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Disable FlutterEngineTest.CanOverrideBackgroundColor<br />
     <sub>[#51669](https://github.com/flutter/engine/pull/51669) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51669) over 15 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to 2a16784938d3be059014d4112f00ac70a386fa0c<br />
-    <sub>[#51674](https://github.com/flutter/engine/pull/51674) merged on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51674) over 44 minutes, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Use RBE for Fuchsia CI builds<br />
     <sub>[#51675](https://github.com/flutter/engine/pull/51675) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51675) over 1 hour, 60 additions and 24 deletions in 1 file</sub><br />
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
-
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] Use the scissor to limit all draws by clip coverage. (#51698)"<br />
-    <sub>[#51728](https://github.com/flutter/engine/pull/51728) merged on March 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51728) over 1 minute, 52 additions and 134 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [Skwasm] Correctly handle paragraphs with empty text.<br />
     <sub>[#51695](https://github.com/flutter/engine/pull/51695) merged on March 27, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/51695) over 19 hours, 31 additions and 19 deletions in 3 files</sub><br />
@@ -662,6 +658,10 @@
     <sub>[#51708](https://github.com/flutter/engine/pull/51708) merged on March 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51708) over 5 hours, 17 additions and 10 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] Use the scissor to limit all draws by clip coverage. (#51698)"<br />
+    <sub>[#51728](https://github.com/flutter/engine/pull/51728) merged on March 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51728) over 1 minute, 52 additions and 134 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add fl_standard_method_codec_new_with_message_codec()<br />
     <sub>[#51599](https://github.com/flutter/engine/pull/51599) merged on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51599) over 2 days, 220 additions and 23 deletions in 3 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
@@ -669,6 +669,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Disable cleaning up ImageReaders in memory pressure callback"<br />
     <sub>[#51665](https://github.com/flutter/engine/pull/51665) merged on March 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51665) over 44 minutes, 2 additions and 11 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland: Use the scissor to limit all draws by clip coverage. <br />
+    <sub>[#51731](https://github.com/flutter/engine/pull/51731) merged on March 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51731) over 2 hours, 177 additions and 61 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 ### March 16, 2024 to March 22, 2024
 
