@@ -550,7 +550,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-42 commits.
+44 commits.
 
 * **[maRci002](https://github.com/maRci002)** &mdash; Platform channel for predictive back in route transitions on android
     <sub>[#49093](https://github.com/flutter/engine/pull/49093) merged on March 27, 2024 &mdash; **Large:** [36 comments](https://github.com/flutter/engine/pull/49093) over 3 months, 519 additions and 15 deletions in 9 files</sub>
@@ -595,29 +595,21 @@
     <sub>[#51693](https://github.com/flutter/engine/pull/51693) merged on March 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51693) over 18 hours, 44 additions and 8 deletions in 2 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix remaining Validation errors.
-    <sub>[#51692](https://github.com/flutter/engine/pull/51692) merged on March 27, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51692) over 18 hours, 34 additions and 63 deletions in 7 files</sub>
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Matan Lurey](https://github.com/matanlurey)</sub>
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not apply mask filters to a DrawPaint cover geometry
     <sub>[#51670](https://github.com/flutter/engine/pull/51670) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51670) over 16 hours, 38 additions and 1 deletion in 6 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Change JSBoxedDartObject to JSAny
-    <sub>[#51634](https://github.com/flutter/engine/pull/51634) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51634) over 3 days, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix remaining Validation errors.
+    <sub>[#51692](https://github.com/flutter/engine/pull/51692) merged on March 27, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51692) over 18 hours, 34 additions and 63 deletions in 7 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[lauren n. liberda](https://github.com/selfisekai)** &mdash; font_subset tests: name correct variant in exception
     <sub>[#51492](https://github.com/flutter/engine/pull/51492) merged on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51492) over 1 week, 1 addition and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove Impeller/OpenGLES from CI branch for Android e2e tests.
-    <sub>[#51734](https://github.com/flutter/engine/pull/51734) merged on March 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51734) over 3 hours, 0 additions and 112 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add missing null check.
-    <sub>[#51711](https://github.com/flutter/engine/pull/51711) merged on March 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51711) over 1 hour, 6 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Change JSBoxedDartObject to JSAny
+    <sub>[#51634](https://github.com/flutter/engine/pull/51634) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51634) over 3 days, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add local paths for the Dart macros package, which is now a dependency of the analyzer package
     <sub>[#51709](https://github.com/flutter/engine/pull/51709) merged on March 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51709) over 1 hour, 8 additions and 0 deletions in 2 files</sub>
@@ -639,37 +631,45 @@
     <sub>[#51663](https://github.com/flutter/engine/pull/51663) merged on March 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51663) over 23 hours, 0 additions and 98 deletions in 2 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to ba3ca696f4f95e998707523be755c15440c6bf3f
-    <sub>[#51678](https://github.com/flutter/engine/pull/51678) merged on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51678) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
-
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Simplify calculation of Matrix::GetMaxBasisXY()
     <sub>[#51664](https://github.com/flutter/engine/pull/51664) merged on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51664) over 20 hours, 16 additions and 9 deletions in 3 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Disable FlutterEngineTest.CanOverrideBackgroundColor
-    <sub>[#51669](https://github.com/flutter/engine/pull/51669) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51669) over 15 hours, 1 addition and 1 deletion in 1 file</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove Impeller/OpenGLES from CI branch for Android e2e tests.
+    <sub>[#51734](https://github.com/flutter/engine/pull/51734) merged on March 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51734) over 3 hours, 0 additions and 112 deletions in 2 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] render empty filled paths without crashing.
     <sub>[#51713](https://github.com/flutter/engine/pull/51713) merged on March 27, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51713) over 5 hours, 88 additions and 2 deletions in 5 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use optimal depth attachment, remove useless barrier.
-    <sub>[#51723](https://github.com/flutter/engine/pull/51723) merged on March 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51723) over 2 hours, 134 additions and 6 deletions in 6 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix unbalanced restores.
-    <sub>[#51648](https://github.com/flutter/engine/pull/51648) merged on March 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51648) over 20 hours, 60 additions and 2 deletions in 4 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to ba3ca696f4f95e998707523be755c15440c6bf3f
+    <sub>[#51678](https://github.com/flutter/engine/pull/51678) merged on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51678) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Use RBE for Fuchsia CI builds
     <sub>[#51675](https://github.com/flutter/engine/pull/51675) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51675) over 1 hour, 60 additions and 24 deletions in 1 file</sub>
     <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub>
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Disable FlutterEngineTest.CanOverrideBackgroundColor
+    <sub>[#51669](https://github.com/flutter/engine/pull/51669) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51669) over 15 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add missing null check.
+    <sub>[#51711](https://github.com/flutter/engine/pull/51711) merged on March 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51711) over 1 hour, 6 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to 2a16784938d3be059014d4112f00ac70a386fa0c
     <sub>[#51674](https://github.com/flutter/engine/pull/51674) merged on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51674) over 44 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix unbalanced restores.
+    <sub>[#51648](https://github.com/flutter/engine/pull/51648) merged on March 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51648) over 20 hours, 60 additions and 2 deletions in 4 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use optimal depth attachment, remove useless barrier.
+    <sub>[#51723](https://github.com/flutter/engine/pull/51723) merged on March 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51723) over 2 hours, 134 additions and 6 deletions in 6 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Stop rolling zlib with Dart SDK rolls.
     <sub>[#51667](https://github.com/flutter/engine/pull/51667) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51667) over 19 hours, 1 addition and 2 deletions in 1 file</sub>
@@ -677,6 +677,10 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Pass the flutter test font by default.
     <sub>[#51671](https://github.com/flutter/engine/pull/51671) merged on March 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51671) over 14 hours, 65 additions and 22 deletions in 2 files</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Use text position affinity when calculating word boundaries.
+    <sub>[#51753](https://github.com/flutter/engine/pull/51753) merged on March 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51753) over 1 hour, 24 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Prevent `solo: true` from being committed
@@ -690,6 +694,10 @@
 * **[K Lubick](https://github.com/kjlubick)** &mdash; Fix skunicode BUILD.gn rules
     <sub>[#51708](https://github.com/flutter/engine/pull/51708) merged on March 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51708) over 5 hours, 17 additions and 10 deletions in 3 files</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Optimize away intersect clips that cover the entire pass target.
+    <sub>[#51736](https://github.com/flutter/engine/pull/51736) merged on March 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51736) over 19 hours, 73 additions and 0 deletions in 4 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] Use the scissor to limit all draws by clip coverage. (#51698)"
     <sub>[#51728](https://github.com/flutter/engine/pull/51728) merged on March 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51728) over 1 minute, 52 additions and 134 deletions in 4 files</sub>
