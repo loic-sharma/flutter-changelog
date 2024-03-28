@@ -44,9 +44,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [do not merge] Unfilter ADB logs to debug integration test<br />
     <sub>[#145231](https://github.com/flutter/flutter/pull/145231) opened on on March 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145231) 6 additions and 6 deletions in 2 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove state shared across tests<br />
-    <sub>[#145281](https://github.com/flutter/flutter/pull/145281) opened on on March 17, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/145281) 372 additions and 213 deletions in 2 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] use dart test to run flutter driver files<br />
     <sub>[#145502](https://github.com/flutter/flutter/pull/145502) opened on on March 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145502) 17 additions and 7 deletions in 3 files</sub><br />
 
