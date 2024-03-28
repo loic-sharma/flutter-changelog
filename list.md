@@ -4,7 +4,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-25 commits.
+26 commits.
 
 * **[maRci002](https://github.com/maRci002)** &mdash; Predictive back support for routes
     <sub>[#141373](https://github.com/flutter/flutter/pull/141373) merged on March 27, 2024 &mdash; **Extra large:** [173 comments](https://github.com/flutter/flutter/pull/141373) over 2 months, 1490 additions and 107 deletions in 14 files</sub>
@@ -37,6 +37,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `ExpansionTile` Expanded/Collapsed announcement is interrupted by VoiceOver
     <sub>[#143936](https://github.com/flutter/flutter/pull/143936) merged on March 26, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/143936) over 1 month, 55 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Remove deprecated `TextTheme` members
+    <sub>[#139255](https://github.com/flutter/flutter/pull/139255) merged on March 28, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/139255) over 3 months, 81 additions and 337 deletions in 9 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Add BackgroundIsolateBinaryMessenger.ensureInitialized to web.
     <sub>[#145786](https://github.com/flutter/flutter/pull/145786) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145786) over 2 hours, 24 additions and 0 deletions in 3 files</sub>
