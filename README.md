@@ -4,7 +4,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-32 commits.
+33 commits.
 
 * **[maRci002](https://github.com/maRci002)** &mdash; Predictive back support for routes<br />
     <sub>[#141373](https://github.com/flutter/flutter/pull/141373) merged on March 27, 2024 &mdash; **Extra large:** [173 comments](https://github.com/flutter/flutter/pull/141373) over 2 months, 1490 additions and 107 deletions in 14 files</sub><br />
@@ -93,6 +93,10 @@
 * **[Sahil Kachhap](https://github.com/Sahil-kachhap)** &mdash; [Fix]: Searchbar doesn't lose focus when tapped outside<br />
     <sub>[#145232](https://github.com/flutter/flutter/pull/145232) merged on March 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145232) over 1 week, 47 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Use reporter extended consistently.<br />
+    <sub>[#145617](https://github.com/flutter/flutter/pull/145617) merged on March 28, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/145617) over 6 days, 3 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Christopher Fujino](https://github.com/christopherfujino), [Jesse](https://github.com/sealesj)</sub><br />
 
 * **[Jesse](https://github.com/sealesj)** &mdash; Refactor skp_generator_tests<br />
     <sub>[#145871](https://github.com/flutter/flutter/pull/145871) merged on March 28, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/145871) over 18 hours, 39 additions and 28 deletions in 2 files</sub><br />
