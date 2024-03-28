@@ -75,5 +75,5 @@
     <sub>[#145819](https://github.com/flutter/flutter/pull/145819) opened on on March 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145819) 110 additions and 1 deletion in 2 files</sub><br />
 
 * **[philipfranchi](https://github.com/philipfranchi)** &mdash; Adds semanticsLabel to MenuItemButton<br />
-    <sub>[#145846](https://github.com/flutter/flutter/pull/145846) opened on on March 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145846) 40 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#145846](https://github.com/flutter/flutter/pull/145846) opened on on March 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145846) 41 additions and 1 deletion in 2 files</sub><br />
 
