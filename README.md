@@ -4,7 +4,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-29 commits.
+30 commits.
 
 * **[maRci002](https://github.com/maRci002)** &mdash; Predictive back support for routes<br />
     <sub>[#141373](https://github.com/flutter/flutter/pull/141373) merged on March 27, 2024 &mdash; **Extra large:** [173 comments](https://github.com/flutter/flutter/pull/141373) over 2 months, 1490 additions and 107 deletions in 14 files</sub><br />
@@ -77,6 +77,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; make hot reload reflect changes to asset transformer configurations<br />
     <sub>[#144660](https://github.com/flutter/flutter/pull/144660) merged on March 25, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/144660) over 2 weeks, 84 additions and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `TabBar` and `TabBar.secondary` to use indicator height/color M3 tokens<br />
+    <sub>[#145753](https://github.com/flutter/flutter/pull/145753) merged on March 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145753) over 2 days, 90 additions and 27 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update links in analysis_options.yaml<br />
     <sub>[#145706](https://github.com/flutter/flutter/pull/145706) merged on March 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145706) over 4 hours, 3 additions and 3 deletions in 1 file</sub><br />
@@ -559,7 +563,7 @@
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/engine/assets/8975114/8bfaec63-29e9-43c2-8954-181d0ad1c413)</details></sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] adds a `plus` advanced blend for f16 pixel formats<br />
-    <sub>[#51589](https://github.com/flutter/engine/pull/51589) merged on March 27, 2024 &mdash; **Large:** [36 comments](https://github.com/flutter/engine/pull/51589) over 6 days, 364 additions and 179 deletions in 30 files</sub><br />
+    <sub>[#51589](https://github.com/flutter/engine/pull/51589) merged on March 27, 2024 &mdash; **Large:** [37 comments](https://github.com/flutter/engine/pull/51589) over 6 days, 364 additions and 179 deletions in 30 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]ignore single edge pixel instead of rounding<br />
