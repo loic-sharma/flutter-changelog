@@ -1242,7 +1242,11 @@
 
 ### March 23, 2024 to March 29, 2024
 
-11 commits.
+14 commits.
+
+* **[anisovdev](https://github.com/anisovdev)** &mdash; [go_router]: fix GoRouter.optionURLReflectsImperativeAPIs flag works with new imperative APIs
+    <sub>[#6236](https://github.com/flutter/packages/pull/6236) merged on March 28, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/6236) over 3 weeks, 64 additions and 10 deletions in 4 files</sub>
+    <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Adds @SwiftClass annotation
     <sub>[#6372](https://github.com/flutter/packages/pull/6372) merged on March 26, 2024 &mdash; **Extra large:** [27 comments](https://github.com/flutter/packages/pull/6372) over 4 days, 5190 additions and 159 deletions in 31 files</sub>
@@ -1265,6 +1269,10 @@
     <sub>[#6255](https://github.com/flutter/packages/pull/6255) merged on March 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6255) over 3 weeks, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.json:json&package-manager=gradle&previous-version=20231013&new-version=20240303)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Adds sleep 60s to release action.
+    <sub>[#6405](https://github.com/flutter/packages/pull/6405) merged on March 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6405) over 1 day, 7 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[interactive_media_ads] Creates and adds the `interactive_media_ads` plugin (#6060)"
     <sub>[#6417](https://github.com/flutter/packages/pull/6417) merged on March 28, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/packages/pull/6417) over 1 minute, 0 additions and 3234 deletions in 98 files</sub>
@@ -1289,6 +1297,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[ci] Temporarily allow-warnings in podspec_check_command.dart (#6416)"
     <sub>[#6419](https://github.com/flutter/packages/pull/6419) merged on March 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6419) over 1 minute, 0 additions and 5 deletions in 2 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Reland "Creates and adds the interactive_media_ads plugin #6060"
+    <sub>[#6425](https://github.com/flutter/packages/pull/6425) merged on March 28, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/6425) over 4 hours, 3235 additions and 0 deletions in 98 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 ### March 16, 2024 to March 22, 2024
 
