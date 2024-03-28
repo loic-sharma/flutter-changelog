@@ -683,7 +683,7 @@
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland: Use the scissor to limit all draws by clip coverage. <br />
-    <sub>[#51731](https://github.com/flutter/engine/pull/51731) merged on March 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51731) over 2 hours, 177 additions and 61 deletions in 6 files</sub><br />
+    <sub>[#51731](https://github.com/flutter/engine/pull/51731) merged on March 28, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51731) over 2 hours, 177 additions and 61 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 ### March 16, 2024 to March 22, 2024
