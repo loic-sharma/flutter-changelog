@@ -56,6 +56,3 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement `computeDryBaseline` for cupertino `RenderBox`es<br />
     <sub>[#145951](https://github.com/flutter/flutter/pull/145951) opened on on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145951) 85 additions and 20 deletions in 5 files</sub><br />
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Prevent overriding metrics destination in unit test mode.<br />
-    <sub>[#146000](https://github.com/flutter/flutter/pull/146000) opened on on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146000) 153 additions and 60 deletions in 2 files</sub><br />
-
