@@ -796,7 +796,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland: [Impeller] adds a plus advanced blend for f16 pixel formats<br />
-    <sub>[#51756](https://github.com/flutter/engine/pull/51756) merged on March 28, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/engine/pull/51756) over 1 hour, 393 additions and 205 deletions in 31 files</sub><br />
+    <sub>[#51756](https://github.com/flutter/engine/pull/51756) merged on March 28, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/51756) over 1 hour, 393 additions and 205 deletions in 31 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 291217c1d399 to bb65648e20e2 (3 revisions)<br />
