@@ -71,3 +71,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for material_state_mouse_cursor.0.dart API example.<br />
     <sub>[#145987](https://github.com/flutter/flutter/pull/145987) opened on on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145987) 90 additions and 7 deletions in 3 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_container.0.dart API example.<br />
+    <sub>[#145995](https://github.com/flutter/flutter/pull/145995) opened on on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145995) 69 additions and 1 deletion in 2 files</sub><br />
+
