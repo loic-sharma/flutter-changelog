@@ -4,7 +4,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-38 commits.
+39 commits.
 
 * **[maRci002](https://github.com/maRci002)** &mdash; Predictive back support for routes<br />
     <sub>[#141373](https://github.com/flutter/flutter/pull/141373) merged on March 27, 2024 &mdash; **Extra large:** [173 comments](https://github.com/flutter/flutter/pull/141373) over 2 months, 1490 additions and 107 deletions in 14 files</sub><br />
@@ -50,9 +50,9 @@
     <sub>[#139255](https://github.com/flutter/flutter/pull/139255) merged on March 28, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/139255) over 3 months, 81 additions and 337 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Point kotlin message in `gradle_errors.dart` towards new place where templates define the kotlin version<br />
-    <sub>[#145936](https://github.com/flutter/flutter/pull/145936) merged on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145936) over 2 hours, 21 additions and 9 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] Bump native assets dependencies<br />
+    <sub>[#145612](https://github.com/flutter/flutter/pull/145612) merged on March 25, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/145612) over 2 days, 473 additions and 414 deletions in 21 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `SearchAnchor` triggers unnecessary suggestions builder calls<br />
     <sub>[#143443](https://github.com/flutter/flutter/pull/143443) merged on March 25, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/143443) over 1 month, 120 additions and 6 deletions in 2 files</sub><br />
@@ -62,9 +62,9 @@
     <sub>[#145727](https://github.com/flutter/flutter/pull/145727) merged on March 26, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/145727) over 23 hours, 479 additions and 195 deletions in 15 files</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] Bump native assets dependencies<br />
-    <sub>[#145612](https://github.com/flutter/flutter/pull/145612) merged on March 25, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/145612) over 2 days, 473 additions and 414 deletions in 21 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Point kotlin message in `gradle_errors.dart` towards new place where templates define the kotlin version<br />
+    <sub>[#145936](https://github.com/flutter/flutter/pull/145936) merged on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145936) over 2 hours, 21 additions and 9 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Add BackgroundIsolateBinaryMessenger.ensureInitialized to web.<br />
     <sub>[#145786](https://github.com/flutter/flutter/pull/145786) merged on March 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145786) over 2 hours, 24 additions and 0 deletions in 3 files</sub><br />
@@ -89,6 +89,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; make hot reload reflect changes to asset transformer configurations<br />
     <sub>[#144660](https://github.com/flutter/flutter/pull/144660) merged on March 25, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/144660) over 2 weeks, 84 additions and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.<br />
+    <sub>[#145997](https://github.com/flutter/flutter/pull/145997) merged on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145997) over 55 minutes, 146 additions and 146 deletions in 49 files</sub><br />
+    <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove trailing commas in android dependency version checking gradle plugin<br />
     <sub>[#145718](https://github.com/flutter/flutter/pull/145718) merged on March 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/145718) over 3 days, 21 additions and 21 deletions in 1 file</sub><br />
@@ -154,13 +158,13 @@
     <sub>[#145871](https://github.com/flutter/flutter/pull/145871) merged on March 28, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/145871) over 18 hours, 39 additions and 28 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from c602abdbae16 to 922c7b133bc2 (7 revisions) (#145877)"<br />
-    <sub>[#145901](https://github.com/flutter/flutter/pull/145901) merged on March 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145901) over 1 minute, 2 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix typo in hitTest docs<br />
     <sub>[#145677](https://github.com/flutter/flutter/pull/145677) merged on March 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145677) over 6 hours, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from c602abdbae16 to 922c7b133bc2 (7 revisions) (#145877)"<br />
+    <sub>[#145901](https://github.com/flutter/flutter/pull/145901) merged on March 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145901) over 1 minute, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### March 16, 2024 to March 22, 2024
 
