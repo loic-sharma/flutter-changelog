@@ -91,7 +91,7 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove trailing commas in android dependency version checking gradle plugin
-    <sub>[#145718](https://github.com/flutter/flutter/pull/145718) merged on March 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/145718) over 3 days, 21 additions and 21 deletions in 1 file</sub>
+    <sub>[#145718](https://github.com/flutter/flutter/pull/145718) merged on March 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/145718) over 3 days, 21 additions and 21 deletions in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.
