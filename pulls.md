@@ -47,9 +47,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Catch any `FileSystemException` thrown when trying to read the template manifest during `flutter create`<br />
     <sub>[#145620](https://github.com/flutter/flutter/pull/145620) opened on on March 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145620) 34 additions and 2 deletions in 2 files</sub><br />
 
-* **[MiT](https://github.com/mit-73)** &mdash; Flutter Tool supports multi-platform module config<br />
-    <sub>[#145641](https://github.com/flutter/flutter/pull/145641) opened on on March 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145641) 247 additions and 33 deletions in 8 files</sub><br />
-
 * **[Tim](https://github.com/timcreatedit)** &mdash; Draggable feedback positioning<br />
     <sub>[#145647](https://github.com/flutter/flutter/pull/145647) opened on on March 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145647) 35 additions and 4 deletions in 2 files</sub><br />
 
@@ -61,4 +58,7 @@
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement `computeDryBaseline` for cupertino `RenderBox`es<br />
     <sub>[#145951](https://github.com/flutter/flutter/pull/145951) opened on on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145951) 85 additions and 20 deletions in 5 files</sub><br />
+
+* **[godofredoc](https://github.com/godofredoc)** &mdash; Prevent overriding metrics destination in unit test mode.<br />
+    <sub>[#146000](https://github.com/flutter/flutter/pull/146000) opened on on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146000) 153 additions and 60 deletions in 2 files</sub><br />
 
