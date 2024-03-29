@@ -56,3 +56,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Make FileSystem dependency explicit througout.<br />
     <sub>[#146008](https://github.com/flutter/flutter/pull/146008) opened on on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146008) 38 additions and 16 deletions in 2 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Magnifier cleanup<br />
+    <sub>[#146012](https://github.com/flutter/flutter/pull/146012) opened on on March 29, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/146012) 395 additions and 195 deletions in 12 files</sub><br />
+
