@@ -1298,7 +1298,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-15 commits.
+16 commits.
 
 * **[anisovdev](https://github.com/anisovdev)** &mdash; [go_router]: fix GoRouter.optionURLReflectsImperativeAPIs flag works with new imperative APIs<br />
     <sub>[#6236](https://github.com/flutter/packages/pull/6236) merged on March 28, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/6236) over 3 weeks, 64 additions and 10 deletions in 4 files</sub><br />
@@ -1357,6 +1357,10 @@
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[ci] Temporarily allow-warnings in podspec_check_command.dart (#6416)"<br />
     <sub>[#6419](https://github.com/flutter/packages/pull/6419) merged on March 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6419) over 1 minute, 0 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Flutter (stable) from 68bfaea22488 to 300451adae58 (2 revisions)<br />
+    <sub>[#6433](https://github.com/flutter/packages/pull/6433) merged on March 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6433) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Reland "Creates and adds the interactive_media_ads plugin #6060"<br />
