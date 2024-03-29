@@ -53,9 +53,6 @@
 * **[YiQiu](https://github.com/YiQiuYes)** &mdash; Update popup_menu.dart<br />
     <sub>[#145816](https://github.com/flutter/flutter/pull/145816) opened on on March 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145816) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for theme_extension.1.dart API example.<br />
-    <sub>[#145819](https://github.com/flutter/flutter/pull/145819) opened on on March 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145819) 110 additions and 1 deletion in 2 files</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement `computeDryBaseline` for cupertino `RenderBox`es<br />
     <sub>[#145951](https://github.com/flutter/flutter/pull/145951) opened on on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145951) 85 additions and 20 deletions in 5 files</sub><br />
 
