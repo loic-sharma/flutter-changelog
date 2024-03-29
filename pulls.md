@@ -69,5 +69,5 @@
     <sub>[#145951](https://github.com/flutter/flutter/pull/145951) opened on on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145951) 85 additions and 20 deletions in 5 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for material_state_mouse_cursor.0.dart API example.<br />
-    <sub>[#145987](https://github.com/flutter/flutter/pull/145987) opened on on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145987) 90 additions and 6 deletions in 2 files</sub><br />
+    <sub>[#145987](https://github.com/flutter/flutter/pull/145987) opened on on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145987) 111 additions and 30 deletions in 7 files</sub><br />
 
