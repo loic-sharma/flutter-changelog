@@ -4,7 +4,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-36 commits.
+37 commits.
 
 * **[maRci002](https://github.com/maRci002)** &mdash; Predictive back support for routes
     <sub>[#141373](https://github.com/flutter/flutter/pull/141373) merged on March 27, 2024 &mdash; **Extra large:** [173 comments](https://github.com/flutter/flutter/pull/141373) over 2 months, 1490 additions and 107 deletions in 14 files</sub>
@@ -50,17 +50,17 @@
     <sub>[#139255](https://github.com/flutter/flutter/pull/139255) merged on March 28, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/139255) over 3 months, 81 additions and 337 deletions in 9 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Point kotlin message in `gradle_errors.dart` towards new place where templates define the kotlin version
-    <sub>[#145936](https://github.com/flutter/flutter/pull/145936) merged on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145936) over 2 hours, 21 additions and 9 deletions in 2 files</sub>
-    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Bartek Pacia](https://github.com/bartekpacia)</sub>
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Roll pub packages and regenerate gradle lockfiles
+    <sub>[#145727](https://github.com/flutter/flutter/pull/145727) merged on March 26, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/145727) over 23 hours, 479 additions and 195 deletions in 15 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `SearchAnchor` triggers unnecessary suggestions builder calls
     <sub>[#143443](https://github.com/flutter/flutter/pull/143443) merged on March 25, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/143443) over 1 month, 120 additions and 6 deletions in 2 files</sub>
     <sub>Reviewed by: [Remi Rousselet](https://github.com/rrousselGit), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Roll pub packages and regenerate gradle lockfiles
-    <sub>[#145727](https://github.com/flutter/flutter/pull/145727) merged on March 26, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/145727) over 23 hours, 479 additions and 195 deletions in 15 files</sub>
-    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Point kotlin message in `gradle_errors.dart` towards new place where templates define the kotlin version
+    <sub>[#145936](https://github.com/flutter/flutter/pull/145936) merged on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145936) over 2 hours, 21 additions and 9 deletions in 2 files</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] Bump native assets dependencies
     <sub>[#145612](https://github.com/flutter/flutter/pull/145612) merged on March 25, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/145612) over 2 days, 473 additions and 414 deletions in 21 files</sub>
@@ -90,6 +90,10 @@
     <sub>[#144660](https://github.com/flutter/flutter/pull/144660) merged on March 25, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/144660) over 2 weeks, 84 additions and 6 deletions in 2 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.
+    <sub>[#145940](https://github.com/flutter/flutter/pull/145940) merged on March 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/145940) over 3 hours, 97 additions and 97 deletions in 49 files</sub>
+    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `TabBar` and `TabBar.secondary` to use indicator height/color M3 tokens
     <sub>[#145753](https://github.com/flutter/flutter/pull/145753) merged on March 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145753) over 2 days, 90 additions and 27 deletions in 4 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
@@ -102,9 +106,9 @@
     <sub>[#145232](https://github.com/flutter/flutter/pull/145232) merged on March 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145232) over 1 week, 47 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
-* **[Jesse](https://github.com/sealesj)** &mdash; Refactor flutter_plugins
-    <sub>[#145870](https://github.com/flutter/flutter/pull/145870) merged on March 29, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145870) over 1 day, 106 additions and 88 deletions in 3 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix typo in hitTest docs
+    <sub>[#145677](https://github.com/flutter/flutter/pull/145677) merged on March 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145677) over 6 hours, 2 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from 922c7b133bc2 to b3516c4c5683 (1 revision) (#145879)"
     <sub>[#145900](https://github.com/flutter/flutter/pull/145900) merged on March 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145900) over 41 seconds, 1 addition and 1 deletion in 1 file</sub>
@@ -138,9 +142,9 @@
     <sub>[#145691](https://github.com/flutter/flutter/pull/145691) merged on March 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/145691) over 2 hours, 117 additions and 33 deletions in 18 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix typo in hitTest docs
-    <sub>[#145677](https://github.com/flutter/flutter/pull/145677) merged on March 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145677) over 6 hours, 2 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+* **[Jesse](https://github.com/sealesj)** &mdash; Refactor flutter_plugins
+    <sub>[#145870](https://github.com/flutter/flutter/pull/145870) merged on March 29, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145870) over 1 day, 106 additions and 88 deletions in 3 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Use reporter extended consistently.
     <sub>[#145617](https://github.com/flutter/flutter/pull/145617) merged on March 28, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/145617) over 6 days, 3 additions and 0 deletions in 1 file</sub>
