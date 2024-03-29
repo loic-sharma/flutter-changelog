@@ -1306,7 +1306,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-17 commits.
+18 commits.
 
 * **[anisovdev](https://github.com/anisovdev)** &mdash; [go_router]: fix GoRouter.optionURLReflectsImperativeAPIs flag works with new imperative APIs<br />
     <sub>[#6236](https://github.com/flutter/packages/pull/6236) merged on March 28, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/6236) over 3 weeks, 64 additions and 10 deletions in 4 files</sub><br />
@@ -1315,6 +1315,10 @@
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Adds @SwiftClass annotation<br />
     <sub>[#6372](https://github.com/flutter/packages/pull/6372) merged on March 26, 2024 &mdash; **Extra large:** [27 comments](https://github.com/flutter/packages/pull/6372) over 4 days, 5190 additions and 159 deletions in 31 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Infinite TableView<br />
+    <sub>[#6411](https://github.com/flutter/packages/pull/6411) merged on March 29, 2024 &mdash; **Extra large:** [15 comments](https://github.com/flutter/packages/pull/6411) over 1 day, 2259 additions and 137 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[krupikivan](https://github.com/krupikivan)** &mdash; [shared_preferences] Update mockito to the new version available 5.2.0<br />
     <sub>[#6332](https://github.com/flutter/packages/pull/6332) merged on March 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6332) over 2 weeks, 2 additions and 1 deletion in 2 files</sub><br />
