@@ -41,14 +41,8 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update runner to accept white spaces in path.<br />
     <sub>[#145016](https://github.com/flutter/flutter/pull/145016) opened on on March 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145016) 3 additions and 1 deletion in 1 file</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; [do not merge] Unfilter ADB logs to debug integration test<br />
-    <sub>[#145231](https://github.com/flutter/flutter/pull/145231) opened on on March 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145231) 6 additions and 6 deletions in 2 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] use dart test to run flutter driver files<br />
     <sub>[#145502](https://github.com/flutter/flutter/pull/145502) opened on on March 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145502) 17 additions and 7 deletions in 3 files</sub><br />
-
-* **[Kavindu Pehesara Gunawardene](https://github.com/KavinduPehesara)** &mdash; Flutter 3.13 candidate.6<br />
-    <sub>[#145582](https://github.com/flutter/flutter/pull/145582) opened on on March 22, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/145582) 247271 additions and 65507 deletions in 3598 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Catch any `FileSystemException` thrown when trying to read the template manifest during `flutter create`<br />
     <sub>[#145620](https://github.com/flutter/flutter/pull/145620) opened on on March 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145620) 34 additions and 2 deletions in 2 files</sub><br />
@@ -67,4 +61,7 @@
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement `computeDryBaseline` for cupertino `RenderBox`es<br />
     <sub>[#145951](https://github.com/flutter/flutter/pull/145951) opened on on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145951) 85 additions and 20 deletions in 5 files</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.<br />
+    <sub>[#145997](https://github.com/flutter/flutter/pull/145997) opened on on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145997) 146 additions and 146 deletions in 49 files</sub><br />
 
