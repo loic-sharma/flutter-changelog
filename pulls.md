@@ -47,15 +47,9 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Catch any `FileSystemException` thrown when trying to read the template manifest during `flutter create`<br />
     <sub>[#145620](https://github.com/flutter/flutter/pull/145620) opened on on March 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145620) 34 additions and 2 deletions in 2 files</sub><br />
 
-* **[Tim](https://github.com/timcreatedit)** &mdash; Draggable feedback positioning<br />
-    <sub>[#145647](https://github.com/flutter/flutter/pull/145647) opened on on March 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145647) 35 additions and 4 deletions in 2 files</sub><br />
-
 * **[YiQiu](https://github.com/YiQiuYes)** &mdash; Update popup_menu.dart<br />
     <sub>[#145816](https://github.com/flutter/flutter/pull/145816) opened on on March 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145816) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Make FileSystem dependency explicit througout.<br />
     <sub>[#146008](https://github.com/flutter/flutter/pull/146008) opened on on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146008) 38 additions and 16 deletions in 2 files</sub><br />
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Magnifier cleanup<br />
-    <sub>[#146012](https://github.com/flutter/flutter/pull/146012) opened on on March 29, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/146012) 395 additions and 195 deletions in 12 files</sub><br />
 
