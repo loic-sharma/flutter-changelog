@@ -62,6 +62,3 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement `computeDryBaseline` for cupertino `RenderBox`es<br />
     <sub>[#145951](https://github.com/flutter/flutter/pull/145951) opened on on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145951) 85 additions and 20 deletions in 5 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak_tracker.<br />
-    <sub>[#145997](https://github.com/flutter/flutter/pull/145997) opened on on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145997) 146 additions and 146 deletions in 49 files</sub><br />
-
