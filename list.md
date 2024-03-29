@@ -1298,7 +1298,7 @@
 
 ### March 23, 2024 to March 29, 2024
 
-16 commits.
+17 commits.
 
 * **[anisovdev](https://github.com/anisovdev)** &mdash; [go_router]: fix GoRouter.optionURLReflectsImperativeAPIs flag works with new imperative APIs
     <sub>[#6236](https://github.com/flutter/packages/pull/6236) merged on March 28, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/6236) over 3 weeks, 64 additions and 10 deletions in 4 files</sub>
@@ -1307,6 +1307,11 @@
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Adds @SwiftClass annotation
     <sub>[#6372](https://github.com/flutter/packages/pull/6372) merged on March 26, 2024 &mdash; **Extra large:** [27 comments](https://github.com/flutter/packages/pull/6372) over 4 days, 5190 additions and 159 deletions in 31 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[krupikivan](https://github.com/krupikivan)** &mdash; [shared_preferences] Update mockito to the new version available 5.2.0
+    <sub>[#6332](https://github.com/flutter/packages/pull/6332) merged on March 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6332) over 2 weeks, 2 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/packages/assets/30050951/1da48bdd-679c-4278-9350-4a6dac169c88)</details></sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Creates and adds the `interactive_media_ads` plugin
     <sub>[#6060](https://github.com/flutter/packages/pull/6060) merged on March 27, 2024 &mdash; **Extra large:** [25 comments](https://github.com/flutter/packages/pull/6060) over 1 month, 3234 additions and 0 deletions in 98 files</sub>
