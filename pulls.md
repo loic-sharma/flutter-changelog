@@ -30,7 +30,7 @@
     <sub>[#143638](https://github.com/flutter/flutter/pull/143638) opened on on February 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143638) 4 additions and 4 deletions in 4 files</sub><br />
 
 * **[Zayd Krunz](https://github.com/ShrootBuck)** &mdash; Redundant message fix<br />
-    <sub>[#143978](https://github.com/flutter/flutter/pull/143978) opened on on February 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/143978) 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#143978](https://github.com/flutter/flutter/pull/143978) opened on on February 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/143978) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; refactor: Perform plugin resolution per platform<br />
     <sub>[#144506](https://github.com/flutter/flutter/pull/144506) opened on on March 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/144506) 57 additions and 59 deletions in 1 file</sub><br />
@@ -39,7 +39,7 @@
     <sub>[#144592](https://github.com/flutter/flutter/pull/144592) opened on on March 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144592) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Update runner to accept white spaces in path.<br />
-    <sub>[#145016](https://github.com/flutter/flutter/pull/145016) opened on on March 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145016) 3 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#145016](https://github.com/flutter/flutter/pull/145016) opened on on March 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145016) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [do not merge] Unfilter ADB logs to debug integration test<br />
     <sub>[#145231](https://github.com/flutter/flutter/pull/145231) opened on on March 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145231) 6 additions and 6 deletions in 2 files</sub><br />
