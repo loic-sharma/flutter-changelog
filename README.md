@@ -101,7 +101,7 @@
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing switch expressions in `flutter_tools/`<br />
-    <sub>[#145632](https://github.com/flutter/flutter/pull/145632) merged on March 29, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/145632) over 6 days, 222 additions and 409 deletions in 20 files</sub><br />
+    <sub>[#145632](https://github.com/flutter/flutter/pull/145632) merged on March 29, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/145632) over 6 days, 222 additions and 409 deletions in 20 files</sub><br />
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Greg Spencer](https://github.com/gspencergoog), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; InputDecorator M3 tests migration - Step7 - container<br />
