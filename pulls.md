@@ -59,6 +59,3 @@
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [Fix]: showDateRangePicker with "large" helpText cutoffs the save button<br />
     <sub>[#146049](https://github.com/flutter/flutter/pull/146049) opened on on March 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146049) 7 additions and 2 deletions in 2 files</sub><br />
 
-* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Fixes some gesture recognizers are not disposed.<br />
-    <sub>[#146072](https://github.com/flutter/flutter/pull/146072) opened on on April 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146072) 10 additions and 10 deletions in 2 files</sub><br />
-
