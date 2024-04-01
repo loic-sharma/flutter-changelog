@@ -744,7 +744,7 @@
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Prevent `solo: true` from being committed<br />
-    <sub>[#51712](https://github.com/flutter/engine/pull/51712) merged on March 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51712) over 1 day, 7 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#51712](https://github.com/flutter/engine/pull/51712) merged on March 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51712) over 1 day, 7 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Make EmbedderExternalViewEmbedder present to the correct view<br />
