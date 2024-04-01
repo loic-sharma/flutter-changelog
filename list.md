@@ -4,12 +4,16 @@
 
 ### March 30, 2024 to April 5, 2024
 
-1 commits.
+2 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `DataColumn.headingRowAlignment ` for `DataTable`
     <sub>[#144006](https://github.com/flutter/flutter/pull/144006) merged on April 1, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/144006) over 1 month, 147 additions and 1 deletion in 4 files</sub>
     <sub>Reviewed by: [iaiao](https://github.com/wer-mathurin), [Kate Lovett](https://github.com/Piinks)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot 2024-03-25 at 17 13 05](https://github.com/flutter/flutter/assets/48603081/0c91d279-23e8-40d9-ab86-c08013c73666)![Screenshot 2024-03-25 at 17 11 54](https://github.com/flutter/flutter/assets/48603081/d042d02a-e7be-4f47-a90c-8a1ee0f7f5f3)</details></sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate `ButtonBar`, `ButtonBarThemeData`, and `ThemeData.buttonBarTheme`
+    <sub>[#145523](https://github.com/flutter/flutter/pull/145523) merged on April 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/145523) over 1 week, 136 additions and 15 deletions in 7 files</sub>
+    <sub>Reviewed by: [Faris Basha TM](https://github.com/farisbasha), [Kate Lovett](https://github.com/Piinks)</sub>
 
 ### March 23, 2024 to March 29, 2024
 
