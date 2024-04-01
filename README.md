@@ -97,8 +97,8 @@
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing switch expressions in `flutter_tools/`<br />
-    <sub>[#145632](https://github.com/flutter/flutter/pull/145632) merged on March 29, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/145632) over 6 days, 222 additions and 409 deletions in 20 files</sub><br />
-    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+    <sub>[#145632](https://github.com/flutter/flutter/pull/145632) merged on March 29, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/145632) over 6 days, 222 additions and 409 deletions in 20 files</sub><br />
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Greg Spencer](https://github.com/gspencergoog), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; InputDecorator M3 tests migration - Step7 - container<br />
     <sub>[#145583](https://github.com/flutter/flutter/pull/145583) merged on March 29, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/145583) over 1 week, 1339 additions and 812 deletions in 1 file</sub><br />
@@ -411,9 +411,18 @@
 
 ## flutter/engine
 
+### March 30, 2024 to April 5, 2024
+
+1 commits.
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to dcd71b5b237e1e58f2ad8a7e51bead0c2a3755a9<br />
+    <sub>[#51812](https://github.com/flutter/engine/pull/51812) merged on April 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51812) over 37 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
 ### March 23, 2024 to March 29, 2024
 
-73 commits.
+<details>
+<summary>73 commits...</summary>
 
 * **[maRci002](https://github.com/maRci002)** &mdash; Platform channel for predictive back in route transitions on android<br />
     <sub>[#49093](https://github.com/flutter/engine/pull/49093) merged on March 27, 2024 &mdash; **Large:** [36 comments](https://github.com/flutter/engine/pull/49093) over 3 months, 519 additions and 15 deletions in 9 files</sub><br />
@@ -709,6 +718,8 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland: Use the scissor to limit all draws by clip coverage. <br />
     <sub>[#51731](https://github.com/flutter/engine/pull/51731) merged on March 28, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51731) over 2 hours, 177 additions and 61 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+</details>
 
 ### March 16, 2024 to March 22, 2024
 
