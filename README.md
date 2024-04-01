@@ -437,7 +437,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-14 commits.
+15 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Ignore warnign about shader stages not consuming outputs.<br />
     <sub>[#51822](https://github.com/flutter/engine/pull/51822) merged on April 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51822) over 2 hours, 8 additions and 6 deletions in 2 files</sub><br />
@@ -490,6 +490,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to dcd71b5b237e1e58f2ad8a7e51bead0c2a3755a9<br />
     <sub>[#51812](https://github.com/flutter/engine/pull/51812) merged on April 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51812) over 37 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] Avoid loading redundant Vulkan extensions. (#51818)"<br />
+    <sub>[#51835](https://github.com/flutter/engine/pull/51835) merged on April 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51835) over 1 minute, 39 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [Skwasm] Forward text height from paragraph height to default text style<br />
     <sub>[#51819](https://github.com/flutter/engine/pull/51819) merged on April 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51819) over 3 hours, 42 additions and 0 deletions in 2 files</sub><br />
