@@ -50,9 +50,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Make FileSystem dependency explicit througout.<br />
     <sub>[#146008](https://github.com/flutter/flutter/pull/146008) opened on on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146008) 38 additions and 16 deletions in 2 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implements `RenderBox.computeDryBaseline` for material render boxes<br />
-    <sub>[#146027](https://github.com/flutter/flutter/pull/146027) opened on on March 30, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/146027) 382 additions and 263 deletions in 11 files</sub><br />
-
 * **[Nate](https://github.com/nate-thegrate)** &mdash; `WidgetState` mapping<br />
     <sub>[#146043](https://github.com/flutter/flutter/pull/146043) opened on on March 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146043) 272 additions and 13 deletions in 2 files</sub><br />
 
