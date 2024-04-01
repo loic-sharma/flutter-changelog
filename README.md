@@ -429,7 +429,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-11 commits.
+12 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Ignore warnign about shader stages not consuming outputs.<br />
     <sub>[#51822](https://github.com/flutter/engine/pull/51822) merged on April 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51822) over 2 hours, 8 additions and 6 deletions in 2 files</sub><br />
@@ -438,6 +438,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `testing/android_background_image` which does not run/exist on CI.<br />
     <sub>[#51815](https://github.com/flutter/engine/pull/51815) merged on April 1, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/51815) over 1 hour, 0 additions and 388 deletions in 17 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove tests related to StrictMode that were never running on CI.<br />
+    <sub>[#51827](https://github.com/flutter/engine/pull/51827) merged on April 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51827) over 40 minutes, 0 additions and 37 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Add a TextureGLES API for wrapping a framebuffer and use it to implement OpenGL FBO targets in the embedder library<br />
     <sub>[#51269](https://github.com/flutter/engine/pull/51269) merged on April 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51269) over 3 weeks, 57 additions and 19 deletions in 6 files</sub><br />
@@ -983,7 +987,12 @@
 
 ### March 30, 2024 to April 5, 2024
 
-1 commits.
+2 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump org.json:json from 20231013 to 20240303 in /packages/in_app_purchase/in_app_purchase_android/android<br />
+    <sub>[#6241](https://github.com/flutter/packages/pull/6241) merged on April 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6241) over 4 weeks, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.json:json&package-manager=gradle&previous-version=20231013&new-version=20240303)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [camera_android_camerax] Move integration_test dependency to tests<br />
     <sub>[#6445](https://github.com/flutter/packages/pull/6445) merged on April 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6445) over 7 hours, 7 additions and 3 deletions in 2 files</sub><br />
