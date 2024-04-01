@@ -4,7 +4,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-6 commits.
+7 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `DataColumn.headingRowAlignment ` for `DataTable`<br />
     <sub>[#144006](https://github.com/flutter/flutter/pull/144006) merged on April 1, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/144006) over 1 month, 147 additions and 1 deletion in 4 files</sub><br />
@@ -22,6 +22,10 @@
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Fixes some gesture recognizers are not disposed.<br />
     <sub>[#146072](https://github.com/flutter/flutter/pull/146072) merged on April 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146072) over 1 hour, 10 additions and 10 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+
+* **[Kallen Tu](https://github.com/kallentu)** &mdash; Add info strings to code blocks.<br />
+    <sub>[#146085](https://github.com/flutter/flutter/pull/146085) merged on April 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146085) over 2 hours, 15 additions and 15 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate `ButtonBar`, `ButtonBarThemeData`, and `ThemeData.buttonBarTheme`<br />
     <sub>[#145523](https://github.com/flutter/flutter/pull/145523) merged on April 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/145523) over 1 week, 136 additions and 15 deletions in 7 files</sub><br />
@@ -965,9 +969,18 @@
 
 ## flutter/packages
 
+### March 30, 2024 to April 5, 2024
+
+1 commits.
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [camera_android_camerax] Move integration_test dependency to tests<br />
+    <sub>[#6445](https://github.com/flutter/packages/pull/6445) merged on April 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6445) over 7 hours, 7 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 ### March 23, 2024 to March 29, 2024
 
-18 commits.
+<details>
+<summary>18 commits...</summary>
 
 * **[anisovdev](https://github.com/anisovdev)** &mdash; [go_router]: fix GoRouter.optionURLReflectsImperativeAPIs flag works with new imperative APIs<br />
     <sub>[#6236](https://github.com/flutter/packages/pull/6236) merged on March 28, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/6236) over 3 weeks, 64 additions and 10 deletions in 4 files</sub><br />
@@ -1044,6 +1057,8 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Reland "Creates and adds the interactive_media_ads plugin #6060"<br />
     <sub>[#6425](https://github.com/flutter/packages/pull/6425) merged on March 28, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/6425) over 4 hours, 3235 additions and 0 deletions in 98 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+</details>
 
 ### March 16, 2024 to March 22, 2024
 
