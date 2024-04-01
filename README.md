@@ -4,12 +4,16 @@
 
 ### March 30, 2024 to April 5, 2024
 
-4 commits.
+5 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `DataColumn.headingRowAlignment ` for `DataTable`<br />
     <sub>[#144006](https://github.com/flutter/flutter/pull/144006) merged on April 1, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/144006) over 1 month, 147 additions and 1 deletion in 4 files</sub><br />
     <sub>Reviewed by: [iaiao](https://github.com/wer-mathurin), [Kate Lovett](https://github.com/Piinks)</sub><br />
     <sub><details><summary>2 images...</summary>![Screenshot 2024-03-25 at 17 13 05](https://github.com/flutter/flutter/assets/48603081/0c91d279-23e8-40d9-ab86-c08013c73666)![Screenshot 2024-03-25 at 17 11 54](https://github.com/flutter/flutter/assets/48603081/d042d02a-e7be-4f47-a90c-8a1ee0f7f5f3)</details></sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix SliverMainAxisGroup layout in reverse<br />
+    <sub>[#145572](https://github.com/flutter/flutter/pull/145572) merged on April 1, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/145572) over 1 week, 99 additions and 9 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [jellynoone](https://github.com/jellynoone), [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Flutter Gradle Plugin: add versionName and versionCode to FlutterExtension<br />
     <sub>[#146044](https://github.com/flutter/flutter/pull/146044) merged on April 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146044) over 1 day, 9 additions and 27 deletions in 5 files</sub><br />
