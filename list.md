@@ -429,7 +429,11 @@
 
 ### March 30, 2024 to April 5, 2024
 
-8 commits.
+11 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Ignore warnign about shader stages not consuming outputs.
+    <sub>[#51822](https://github.com/flutter/engine/pull/51822) merged on April 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51822) over 2 hours, 8 additions and 6 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `testing/android_background_image` which does not run/exist on CI.
     <sub>[#51815](https://github.com/flutter/engine/pull/51815) merged on April 1, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/51815) over 1 hour, 0 additions and 388 deletions in 17 files</sub>
@@ -442,6 +446,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use the stripped Vulkan validation library in Android engine builds by default
     <sub>[#51628](https://github.com/flutter/engine/pull/51628) merged on April 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51628) over 1 week, 10 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove log statements that did not help.
+    <sub>[#51825](https://github.com/flutter/engine/pull/51825) merged on April 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51825) over 36 minutes, 0 additions and 11 deletions in 3 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Avoid loading redundant Vulkan extensions.
     <sub>[#51818](https://github.com/flutter/engine/pull/51818) merged on April 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51818) over 44 minutes, 1 addition and 39 deletions in 2 files</sub>
@@ -462,6 +470,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to dcd71b5b237e1e58f2ad8a7e51bead0c2a3755a9
     <sub>[#51812](https://github.com/flutter/engine/pull/51812) merged on April 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51812) over 37 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [Skwasm] Forward text height from paragraph height to default text style
+    <sub>[#51819](https://github.com/flutter/engine/pull/51819) merged on April 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51819) over 3 hours, 42 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 ### March 23, 2024 to March 29, 2024
 
