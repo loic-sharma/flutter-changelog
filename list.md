@@ -2,9 +2,19 @@
 
 ## flutter/flutter
 
+### March 30, 2024 to April 5, 2024
+
+1 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `DataColumn.headingRowAlignment ` for `DataTable`
+    <sub>[#144006](https://github.com/flutter/flutter/pull/144006) merged on April 1, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/144006) over 1 month, 147 additions and 1 deletion in 4 files</sub>
+    <sub>Reviewed by: [iaiao](https://github.com/wer-mathurin), [Kate Lovett](https://github.com/Piinks)</sub>
+    <sub><details><summary>2 images...</summary>![Screenshot 2024-03-25 at 17 13 05](https://github.com/flutter/flutter/assets/48603081/0c91d279-23e8-40d9-ab86-c08013c73666)![Screenshot 2024-03-25 at 17 11 54](https://github.com/flutter/flutter/assets/48603081/d042d02a-e7be-4f47-a90c-8a1ee0f7f5f3)</details></sub>
+
 ### March 23, 2024 to March 29, 2024
 
-45 commits.
+<details>
+<summary>45 commits...</summary>
 
 * **[maRci002](https://github.com/maRci002)** &mdash; Predictive back support for routes
     <sub>[#141373](https://github.com/flutter/flutter/pull/141373) merged on March 27, 2024 &mdash; **Extra large:** [173 comments](https://github.com/flutter/flutter/pull/141373) over 2 months, 1490 additions and 107 deletions in 14 files</sub>
@@ -189,6 +199,8 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from 922c7b133bc2 to b3516c4c5683 (1 revision) (#145879)"
     <sub>[#145900](https://github.com/flutter/flutter/pull/145900) merged on March 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145900) over 41 seconds, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### March 16, 2024 to March 22, 2024
 
