@@ -433,7 +433,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-13 commits.
+14 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Ignore warnign about shader stages not consuming outputs.<br />
     <sub>[#51822](https://github.com/flutter/engine/pull/51822) merged on April 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51822) over 2 hours, 8 additions and 6 deletions in 2 files</sub><br />
@@ -442,6 +442,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `testing/android_background_image` which does not run/exist on CI.<br />
     <sub>[#51815](https://github.com/flutter/engine/pull/51815) merged on April 1, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/51815) over 1 hour, 0 additions and 388 deletions in 17 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Run and record `adb shell screenrecord` during Android scenario app<br />
+    <sub>[#51832](https://github.com/flutter/engine/pull/51832) merged on April 1, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51832) over 53 minutes, 85 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove tests related to StrictMode that were never running on CI.<br />
     <sub>[#51827](https://github.com/flutter/engine/pull/51827) merged on April 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51827) over 40 minutes, 0 additions and 37 deletions in 3 files</sub><br />
