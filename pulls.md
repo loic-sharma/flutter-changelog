@@ -59,6 +59,3 @@
 * **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Update text.dart<br />
     <sub>[#146117](https://github.com/flutter/flutter/pull/146117) opened on on April 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146117) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Rishav Das](https://github.com/d19rsabhah)** &mdash; Firebase Connection Issue<br />
-    <sub>[#146128](https://github.com/flutter/flutter/pull/146128) opened on on April 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146128) 21 additions and 0 deletions in 1 file</sub><br />
-
