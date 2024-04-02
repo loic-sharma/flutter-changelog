@@ -4,7 +4,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-15 commits.
+16 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea triple click gestures
     <sub>[#144563](https://github.com/flutter/flutter/pull/144563) merged on April 2, 2024 &mdash; **Extra large:** [62 comments](https://github.com/flutter/flutter/pull/144563) over 4 weeks, 2406 additions and 195 deletions in 9 files</sub>
@@ -52,6 +52,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate `ButtonBar`, `ButtonBarThemeData`, and `ThemeData.buttonBarTheme`
     <sub>[#145523](https://github.com/flutter/flutter/pull/145523) merged on April 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/145523) over 1 week, 136 additions and 15 deletions in 7 files</sub>
     <sub>Reviewed by: [Faris Basha TM](https://github.com/farisbasha), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Jesse](https://github.com/sealesj)** &mdash; Refactor docs
+    <sub>[#145998](https://github.com/flutter/flutter/pull/145998) merged on April 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145998) over 4 days, 22 additions and 17 deletions in 2 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Jesse](https://github.com/sealesj)** &mdash; Refactor analyze
     <sub>[#146138](https://github.com/flutter/flutter/pull/146138) merged on April 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146138) over 5 hours, 22 additions and 14 deletions in 2 files</sub>
