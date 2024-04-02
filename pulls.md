@@ -59,3 +59,6 @@
 * **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Update text.dart<br />
     <sub>[#146117](https://github.com/flutter/flutter/pull/146117) opened on on April 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146117) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `computeDryBaseline` for rendering / widgets RenderBoxes<br />
+    <sub>[#146143](https://github.com/flutter/flutter/pull/146143) opened on on April 2, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/146143) 326 additions and 212 deletions in 9 files</sub><br />
+

@@ -455,7 +455,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-19 commits.
+21 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `WindowInsetsController...` with `adb shell` commands<br />
     <sub>[#51843](https://github.com/flutter/engine/pull/51843) merged on April 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51843) over 31 minutes, 17 additions and 25 deletions in 2 files</sub><br />
@@ -466,6 +466,10 @@
     <sub>[#51847](https://github.com/flutter/engine/pull/51847) merged on April 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51847) over 1 minute, 25 additions and 17 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/engine/assets/168174/14d46a7a-9b60-4c5d-b786-a6cbee823ef9)![image](https://github.com/flutter/engine/assets/168174/f4e49258-dcde-4864-b622-19c36c52f8b7)</details></sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Allow creating slimpeller engine variants.<br />
+    <sub>[#51824](https://github.com/flutter/engine/pull/51824) merged on April 2, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/51824) over 23 hours, 23 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Ignore warnign about shader stages not consuming outputs.<br />
     <sub>[#51822](https://github.com/flutter/engine/pull/51822) merged on April 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51822) over 2 hours, 8 additions and 6 deletions in 2 files</sub><br />
@@ -490,6 +494,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use the stripped Vulkan validation library in Android engine builds by default<br />
     <sub>[#51628](https://github.com/flutter/engine/pull/51628) merged on April 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51628) over 1 week, 10 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix plus blend mode in porterduff shader.<br />
+    <sub>[#51792](https://github.com/flutter/engine/pull/51792) merged on April 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/51792) over 3 days, 54 additions and 6 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move scenario_app integration tests back to `max_attempts: 2`.<br />
     <sub>[#51838](https://github.com/flutter/engine/pull/51838) merged on April 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51838) over 39 minutes, 1 addition and 1 deletion in 1 file</sub><br />
