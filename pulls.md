@@ -26,6 +26,9 @@
 * **[René Kilczan](https://github.com/rekire)** &mdash; Detect WSL and run flutter in cmd<br />
     <sub>[#142803](https://github.com/flutter/flutter/pull/142803) opened on on February 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/142803) 4 additions and 0 deletions in 1 file</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Set up Kotlin linting step in ci with ktlint<br />
+    <sub>[#143478](https://github.com/flutter/flutter/pull/143478) opened on on February 14, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/143478) 69 additions and 9 deletions in 8 files</sub><br />
+
 * **[Nawaf.](https://github.com/nawafalomari)** &mdash; fix: fix `lockUpButtonLabel` arabic translation<br />
     <sub>[#143638](https://github.com/flutter/flutter/pull/143638) opened on on February 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143638) 4 additions and 4 deletions in 4 files</sub><br />
 
@@ -58,7 +61,4 @@
 
 * **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Update text.dart<br />
     <sub>[#146117](https://github.com/flutter/flutter/pull/146117) opened on on April 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146117) 2 additions and 0 deletions in 1 file</sub><br />
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `computeDryBaseline` for rendering / widgets RenderBoxes<br />
-    <sub>[#146143](https://github.com/flutter/flutter/pull/146143) opened on on April 2, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/146143) 326 additions and 212 deletions in 9 files</sub><br />
 
