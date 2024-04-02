@@ -59,3 +59,6 @@
 * **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Update text.dart<br />
     <sub>[#146117](https://github.com/flutter/flutter/pull/146117) opened on on April 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146117) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix border color is wrong for a focused and hovered TextField<br />
+    <sub>[#146127](https://github.com/flutter/flutter/pull/146127) opened on on April 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146127) 88 additions and 12 deletions in 2 files</sub><br />
+
