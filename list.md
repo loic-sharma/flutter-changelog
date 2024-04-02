@@ -4,7 +4,11 @@
 
 ### March 30, 2024 to April 5, 2024
 
-13 commits.
+15 commits.
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea triple click gestures
+    <sub>[#144563](https://github.com/flutter/flutter/pull/144563) merged on April 2, 2024 &mdash; **Extra large:** [62 comments](https://github.com/flutter/flutter/pull/144563) over 4 weeks, 2406 additions and 195 deletions in 9 files</sub>
+    <sub>Reviewed by: </sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `DataColumn.headingRowAlignment ` for `DataTable`
     <sub>[#144006](https://github.com/flutter/flutter/pull/144006) merged on April 1, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/144006) over 1 month, 147 additions and 1 deletion in 4 files</sub>
@@ -48,6 +52,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate `ButtonBar`, `ButtonBarThemeData`, and `ThemeData.buttonBarTheme`
     <sub>[#145523](https://github.com/flutter/flutter/pull/145523) merged on April 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/145523) over 1 week, 136 additions and 15 deletions in 7 files</sub>
     <sub>Reviewed by: [Faris Basha TM](https://github.com/farisbasha), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Jesse](https://github.com/sealesj)** &mdash; Refactor analyze
+    <sub>[#146138](https://github.com/flutter/flutter/pull/146138) merged on April 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146138) over 5 hours, 22 additions and 14 deletions in 2 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from e6f19409b613 to ea93c5d91b12 (3 revisions) (#146100)"
     <sub>[#146106](https://github.com/flutter/flutter/pull/146106) merged on April 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146106) over 1 minute, 1 addition and 1 deletion in 1 file</sub>
@@ -455,7 +463,16 @@
 
 ### March 30, 2024 to April 5, 2024
 
-22 commits.
+24 commits.
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Add view
+    <sub>[#51523](https://github.com/flutter/engine/pull/51523) merged on April 2, 2024 &mdash; **Large:** [41 comments](https://github.com/flutter/engine/pull/51523) over 2 weeks, 742 additions and 37 deletions in 6 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Do not use `adb shell screenrecord` during CI runs.
+    <sub>[#51848](https://github.com/flutter/engine/pull/51848) merged on April 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51848) over 49 minutes, 0 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/engine/assets/168174/c74a3b88-0d0c-4d03-894a-19837cb4f383)</details></sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `WindowInsetsController...` with `adb shell` commands
     <sub>[#51843](https://github.com/flutter/engine/pull/51843) merged on April 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51843) over 31 minutes, 17 additions and 25 deletions in 2 files</sub>
