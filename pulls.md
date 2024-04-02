@@ -47,9 +47,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Catch any `FileSystemException` thrown when trying to read the template manifest during `flutter create`<br />
     <sub>[#145620](https://github.com/flutter/flutter/pull/145620) opened on on March 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145620) 34 additions and 2 deletions in 2 files</sub><br />
 
-* **[Jesse](https://github.com/sealesj)** &mdash; Refactor customer_testing<br />
-    <sub>[#145911](https://github.com/flutter/flutter/pull/145911) opened on on March 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145911) 53 additions and 43 deletions in 2 files</sub><br />
-
 * **[Jesse](https://github.com/sealesj)** &mdash; Refactor docs<br />
     <sub>[#145998](https://github.com/flutter/flutter/pull/145998) opened on on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145998) 22 additions and 17 deletions in 2 files</sub><br />
 
