@@ -59,6 +59,3 @@
 * **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Update text.dart<br />
     <sub>[#146117](https://github.com/flutter/flutter/pull/146117) opened on on April 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146117) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Sync lints and enable `annotate_redeclares`<br />
-    <sub>[#146144](https://github.com/flutter/flutter/pull/146144) opened on on April 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146144) 3 additions and 0 deletions in 1 file</sub><br />
-
