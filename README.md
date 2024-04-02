@@ -4,12 +4,17 @@
 
 ### March 30, 2024 to April 5, 2024
 
-9 commits.
+10 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `DataColumn.headingRowAlignment ` for `DataTable`<br />
     <sub>[#144006](https://github.com/flutter/flutter/pull/144006) merged on April 1, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/144006) over 1 month, 147 additions and 1 deletion in 4 files</sub><br />
     <sub>Reviewed by: [iaiao](https://github.com/wer-mathurin), [Kate Lovett](https://github.com/Piinks)</sub><br />
     <sub><details><summary>2 images...</summary>![Screenshot 2024-03-25 at 17 13 05](https://github.com/flutter/flutter/assets/48603081/0c91d279-23e8-40d9-ab86-c08013c73666)![Screenshot 2024-03-25 at 17 11 54](https://github.com/flutter/flutter/assets/48603081/d042d02a-e7be-4f47-a90c-8a1ee0f7f5f3)</details></sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `MenuItemButton` overflow<br />
+    <sub>[#143932](https://github.com/flutter/flutter/pull/143932) merged on April 2, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/143932) over 1 month, 181 additions and 21 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+    <sub><details><summary>2 images...</summary>![before](https://github.com/flutter/flutter/assets/48603081/27879cf6-4567-442d-a355-7f8492612fa4)![after](https://github.com/flutter/flutter/assets/48603081/25e5ab90-e2a1-4080-a7e1-51cd98ff0a77)</details></sub>
 
 * **[Kallen Tu](https://github.com/kallentu)** &mdash; Add info strings to code blocks.<br />
     <sub>[#146085](https://github.com/flutter/flutter/pull/146085) merged on April 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146085) over 2 hours, 15 additions and 15 deletions in 8 files</sub><br />
