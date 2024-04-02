@@ -47,9 +47,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Catch any `FileSystemException` thrown when trying to read the template manifest during `flutter create`<br />
     <sub>[#145620](https://github.com/flutter/flutter/pull/145620) opened on on March 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145620) 34 additions and 2 deletions in 2 files</sub><br />
 
-* **[Jesse](https://github.com/sealesj)** &mdash; Refactor docs<br />
-    <sub>[#145998](https://github.com/flutter/flutter/pull/145998) opened on on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/145998) 22 additions and 17 deletions in 2 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Make FileSystem dependency explicit througout.<br />
     <sub>[#146008](https://github.com/flutter/flutter/pull/146008) opened on on March 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146008) 38 additions and 16 deletions in 2 files</sub><br />
 
@@ -61,9 +58,6 @@
 
 * **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Update text.dart<br />
     <sub>[#146117](https://github.com/flutter/flutter/pull/146117) opened on on April 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146117) 2 additions and 0 deletions in 1 file</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix border color is wrong for a focused and hovered TextField<br />
-    <sub>[#146127](https://github.com/flutter/flutter/pull/146127) opened on on April 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146127) 88 additions and 12 deletions in 2 files</sub><br />
 
 * **[Rishav Das](https://github.com/d19rsabhah)** &mdash; Firebase Connection Issue<br />
     <sub>[#146128](https://github.com/flutter/flutter/pull/146128) opened on on April 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146128) 21 additions and 0 deletions in 1 file</sub><br />
