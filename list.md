@@ -455,7 +455,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-21 commits.
+22 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `WindowInsetsController...` with `adb shell` commands
     <sub>[#51843](https://github.com/flutter/engine/pull/51843) merged on April 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51843) over 31 minutes, 17 additions and 25 deletions in 2 files</sub>
@@ -530,6 +530,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to dcd71b5b237e1e58f2ad8a7e51bead0c2a3755a9
     <sub>[#51812](https://github.com/flutter/engine/pull/51812) merged on April 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51812) over 37 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix `Paragraph.getLineBoundary`
+    <sub>[#51846](https://github.com/flutter/engine/pull/51846) merged on April 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51846) over 1 hour, 23 additions and 9 deletions in 2 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[K Lubick](https://github.com/kjlubick)** &mdash; Use moved GrBackendTexture factories for Skia's Metal backend
     <sub>[#51828](https://github.com/flutter/engine/pull/51828) merged on April 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51828) over 18 hours, 40 additions and 37 deletions in 7 files</sub>
