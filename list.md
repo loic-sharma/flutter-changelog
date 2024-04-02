@@ -463,7 +463,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-24 commits.
+25 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Add view
     <sub>[#51523](https://github.com/flutter/engine/pull/51523) merged on April 2, 2024 &mdash; **Large:** [41 comments](https://github.com/flutter/engine/pull/51523) over 2 weeks, 742 additions and 37 deletions in 6 files</sub>
@@ -547,6 +547,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to dcd71b5b237e1e58f2ad8a7e51bead0c2a3755a9
     <sub>[#51812](https://github.com/flutter/engine/pull/51812) merged on April 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51812) over 37 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Remove the view ID check in `macOS/FlutterCompositor`
+    <sub>[#51852](https://github.com/flutter/engine/pull/51852) merged on April 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51852) over 42 minutes, 0 additions and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix `Paragraph.getLineBoundary`
     <sub>[#51846](https://github.com/flutter/engine/pull/51846) merged on April 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51846) over 1 hour, 23 additions and 9 deletions in 2 files</sub>
