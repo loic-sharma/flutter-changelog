@@ -1015,12 +1015,16 @@
 
 ### March 30, 2024 to April 5, 2024
 
-2 commits.
+3 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump org.json:json from 20231013 to 20240303 in /packages/in_app_purchase/in_app_purchase_android/android
     <sub>[#6241](https://github.com/flutter/packages/pull/6241) merged on April 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6241) over 4 weeks, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.json:json&package-manager=gradle&previous-version=20231013&new-version=20240303)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [various] Remove all traces of the `_ambiguate` workaround
+    <sub>[#6449](https://github.com/flutter/packages/pull/6449) merged on April 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6449) over 17 hours, 24 additions and 42 deletions in 11 files</sub>
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [camera_android_camerax] Move integration_test dependency to tests
     <sub>[#6445](https://github.com/flutter/packages/pull/6445) merged on April 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6445) over 7 hours, 7 additions and 3 deletions in 2 files</sub>
