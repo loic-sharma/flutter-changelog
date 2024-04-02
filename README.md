@@ -463,7 +463,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-28 commits.
+29 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Add view<br />
     <sub>[#51523](https://github.com/flutter/engine/pull/51523) merged on April 2, 2024 &mdash; **Large:** [41 comments](https://github.com/flutter/engine/pull/51523) over 2 weeks, 742 additions and 37 deletions in 6 files</sub><br />
@@ -519,6 +519,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use the stripped Vulkan validation library in Android engine builds by default<br />
     <sub>[#51628](https://github.com/flutter/engine/pull/51628) merged on April 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51628) over 1 week, 10 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add an engine switch that controls whether the platform isolate API is available.<br />
+    <sub>[#51784](https://github.com/flutter/engine/pull/51784) merged on April 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51784) over 4 days, 34 additions and 0 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Liam Appelbe](https://github.com/liamappelbe)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Return an empty optional in HardwareBuffer::GetSystemUniqueID if the underlying NDK API is unavailable<br />
     <sub>[#51839](https://github.com/flutter/engine/pull/51839) merged on April 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51839) over 19 hours, 29 additions and 1 deletion in 5 files</sub><br />
