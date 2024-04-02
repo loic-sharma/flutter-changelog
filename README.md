@@ -463,7 +463,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-25 commits.
+28 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Add view<br />
     <sub>[#51523](https://github.com/flutter/engine/pull/51523) merged on April 2, 2024 &mdash; **Large:** [41 comments](https://github.com/flutter/engine/pull/51523) over 2 weeks, 742 additions and 37 deletions in 6 files</sub><br />
@@ -488,6 +488,10 @@
     <sub>[#51824](https://github.com/flutter/engine/pull/51824) merged on April 2, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/51824) over 23 hours, 23 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Run `DrawSolidBlueScreenTest` 20x in a row in `bringup` (up from 5x)<br />
+    <sub>[#51850](https://github.com/flutter/engine/pull/51850) merged on April 2, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/51850) over 1 hour, 366 additions and 11 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Ignore warnign about shader stages not consuming outputs.<br />
     <sub>[#51822](https://github.com/flutter/engine/pull/51822) merged on April 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51822) over 2 hours, 8 additions and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
@@ -495,6 +499,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `testing/android_background_image` which does not run/exist on CI.<br />
     <sub>[#51815](https://github.com/flutter/engine/pull/51815) merged on April 1, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/51815) over 1 hour, 0 additions and 388 deletions in 17 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `fml::ScopedCleanupClosure` instead of `DeathRattle`.<br />
+    <sub>[#51834](https://github.com/flutter/engine/pull/51834) merged on April 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51834) over 23 hours, 14 additions and 53 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Run and record `adb shell screenrecord` during Android scenario app<br />
     <sub>[#51832](https://github.com/flutter/engine/pull/51832) merged on April 1, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51832) over 53 minutes, 85 additions and 1 deletion in 2 files</sub><br />
@@ -511,6 +519,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use the stripped Vulkan validation library in Android engine builds by default<br />
     <sub>[#51628](https://github.com/flutter/engine/pull/51628) merged on April 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51628) over 1 week, 10 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Return an empty optional in HardwareBuffer::GetSystemUniqueID if the underlying NDK API is unavailable<br />
+    <sub>[#51839](https://github.com/flutter/engine/pull/51839) merged on April 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51839) over 19 hours, 29 additions and 1 deletion in 5 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix plus blend mode in porterduff shader.<br />
     <sub>[#51792](https://github.com/flutter/engine/pull/51792) merged on April 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/51792) over 3 days, 54 additions and 6 deletions in 4 files</sub><br />
