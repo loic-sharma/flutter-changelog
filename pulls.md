@@ -56,3 +56,6 @@
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [Fix]: showDateRangePicker with "large" helpText cutoffs the save button<br />
     <sub>[#146049](https://github.com/flutter/flutter/pull/146049) opened on on March 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146049) 7 additions and 2 deletions in 2 files</sub><br />
 
+* **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Update text.dart<br />
+    <sub>[#146117](https://github.com/flutter/flutter/pull/146117) opened on on April 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146117) 2 additions and 0 deletions in 1 file</sub><br />
+
