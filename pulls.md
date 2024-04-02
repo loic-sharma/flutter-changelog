@@ -59,6 +59,3 @@
 * **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Update text.dart<br />
     <sub>[#146117](https://github.com/flutter/flutter/pull/146117) opened on on April 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146117) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Fixes SingleChildRenderObjectElement does not dispose ImageStreamCompleterHandle<br />
-    <sub>[#146147](https://github.com/flutter/flutter/pull/146147) opened on on April 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146147) 126 additions and 99 deletions in 9 files</sub><br />
-
