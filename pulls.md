@@ -59,6 +59,3 @@
 * **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Update text.dart<br />
     <sub>[#146117](https://github.com/flutter/flutter/pull/146117) opened on on April 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146117) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Update documentation to discourage using the TextEditingController.te…<br />
-    <sub>[#146151](https://github.com/flutter/flutter/pull/146151) opened on on April 2, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/146151) 1186 additions and 729 deletions in 1 file</sub><br />
-

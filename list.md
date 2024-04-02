@@ -4,7 +4,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-12 commits.
+13 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `DataColumn.headingRowAlignment ` for `DataTable`
     <sub>[#144006](https://github.com/flutter/flutter/pull/144006) merged on April 1, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/144006) over 1 month, 147 additions and 1 deletion in 4 files</sub>
@@ -15,6 +15,11 @@
     <sub>[#143932](https://github.com/flutter/flutter/pull/143932) merged on April 2, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/143932) over 1 month, 181 additions and 21 deletions in 4 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Qun Cheng](https://github.com/QuncCccccc)</sub>
     <sub><details><summary>2 images...</summary>![before](https://github.com/flutter/flutter/assets/48603081/27879cf6-4567-442d-a355-7f8492612fa4)![after](https://github.com/flutter/flutter/assets/48603081/25e5ab90-e2a1-4080-a7e1-51cd98ff0a77)</details></sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix border color is wrong for a focused and hovered TextField
+    <sub>[#146127](https://github.com/flutter/flutter/pull/146127) merged on April 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146127) over 6 hours, 88 additions and 12 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/aeca2b25-e28b-4609-bd47-9d72b3cfb80d) | ![image](https://github.com/flutter/flutter/assets/840911/f4331178-8f1e-4cb8-a93f-7052a6770af7)</details></sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implements `RenderBox.computeDryBaseline` for material render boxes
     <sub>[#146027](https://github.com/flutter/flutter/pull/146027) merged on April 2, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/146027) over 3 days, 384 additions and 263 deletions in 11 files</sub>
