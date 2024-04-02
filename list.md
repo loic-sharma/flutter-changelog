@@ -4,7 +4,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-11 commits.
+12 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `DataColumn.headingRowAlignment ` for `DataTable`
     <sub>[#144006](https://github.com/flutter/flutter/pull/144006) merged on April 1, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/144006) over 1 month, 147 additions and 1 deletion in 4 files</sub>
@@ -35,6 +35,10 @@
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Fixes some gesture recognizers are not disposed.
     <sub>[#146072](https://github.com/flutter/flutter/pull/146072) merged on April 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146072) over 1 hour, 10 additions and 10 deletions in 2 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Sync lints and enable `annotate_redeclares`
+    <sub>[#146144](https://github.com/flutter/flutter/pull/146144) merged on April 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146144) over 2 hours, 3 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Phil Quitslund](https://github.com/pq)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate `ButtonBar`, `ButtonBarThemeData`, and `ThemeData.buttonBarTheme`
     <sub>[#145523](https://github.com/flutter/flutter/pull/145523) merged on April 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/145523) over 1 week, 136 additions and 15 deletions in 7 files</sub>
