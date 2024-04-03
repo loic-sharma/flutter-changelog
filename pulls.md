@@ -56,6 +56,3 @@
 * **[yim](https://github.com/yiiim)** &mdash; New Widget: ReorderableDragBoundary, used to define the drag boundaries of ReorderableList.<br />
     <sub>[#146182](https://github.com/flutter/flutter/pull/146182) opened on on April 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146182) 119 additions and 2 deletions in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix typos in bottom_sheet.dart<br />
-    <sub>[#146188](https://github.com/flutter/flutter/pull/146188) opened on on April 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146188) 14 additions and 14 deletions in 1 file</sub><br />
-
