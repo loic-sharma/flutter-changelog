@@ -4,7 +4,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-18 commits.
+19 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea triple click gestures<br />
     <sub>[#144563](https://github.com/flutter/flutter/pull/144563) merged on April 2, 2024 &mdash; **Extra large:** [62 comments](https://github.com/flutter/flutter/pull/144563) over 4 weeks, 2406 additions and 195 deletions in 9 files</sub><br />
@@ -61,6 +61,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate `ButtonBar`, `ButtonBarThemeData`, and `ThemeData.buttonBarTheme`<br />
     <sub>[#145523](https://github.com/flutter/flutter/pull/145523) merged on April 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/145523) over 1 week, 136 additions and 15 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Faris Basha TM](https://github.com/farisbasha), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update material_color_utilities package version to latest 0.11.1<br />
+    <sub>[#145959](https://github.com/flutter/flutter/pull/145959) merged on April 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/145959) over 4 days, 131 additions and 129 deletions in 61 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Jesse](https://github.com/sealesj)** &mdash; Refactor docs<br />
     <sub>[#145998](https://github.com/flutter/flutter/pull/145998) merged on April 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145998) over 4 days, 22 additions and 17 deletions in 2 files</sub><br />
@@ -476,7 +480,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-30 commits.
+32 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Add view<br />
     <sub>[#51523](https://github.com/flutter/engine/pull/51523) merged on April 2, 2024 &mdash; **Large:** [41 comments](https://github.com/flutter/engine/pull/51523) over 2 weeks, 742 additions and 37 deletions in 6 files</sub><br />
@@ -496,6 +500,10 @@
     <sub>[#51847](https://github.com/flutter/engine/pull/51847) merged on April 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51847) over 1 minute, 25 additions and 17 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/engine/assets/168174/14d46a7a-9b60-4c5d-b786-a6cbee823ef9)![image](https://github.com/flutter/engine/assets/168174/f4e49258-dcde-4864-b622-19c36c52f8b7)</details></sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Prepare local_engine.json for CI, teach et to understand local build names<br />
+    <sub>[#51803](https://github.com/flutter/engine/pull/51803) merged on April 3, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/engine/pull/51803) over 2 days, 694 additions and 106 deletions in 21 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Allow creating slimpeller engine variants.<br />
     <sub>[#51824](https://github.com/flutter/engine/pull/51824) merged on April 2, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/51824) over 23 hours, 23 additions and 0 deletions in 2 files</sub><br />
@@ -532,6 +540,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use the stripped Vulkan validation library in Android engine builds by default<br />
     <sub>[#51628](https://github.com/flutter/engine/pull/51628) merged on April 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51628) over 1 week, 10 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use internal retries for SurfaceTexture and Impeller tests too.<br />
+    <sub>[#51856](https://github.com/flutter/engine/pull/51856) merged on April 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51856) over 2 hours, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] fixes PlusAdvanced alpha blending / adds alpha blending tests<br />
     <sub>[#51787](https://github.com/flutter/engine/pull/51787) merged on April 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51787) over 4 days, 135 additions and 12 deletions in 3 files</sub><br />
