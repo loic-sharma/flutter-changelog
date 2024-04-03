@@ -4,7 +4,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-32 commits.
+33 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea triple click gestures
     <sub>[#144563](https://github.com/flutter/flutter/pull/144563) merged on April 2, 2024 &mdash; **Extra large:** [62 comments](https://github.com/flutter/flutter/pull/144563) over 4 weeks, 2406 additions and 195 deletions in 9 files</sub>
@@ -45,18 +45,22 @@
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
     <sub><details><summary>1 image...</summary><img width="544" alt="Screenshot 2024-04-02 at 3 41 18 PM" src="https://github.com/flutter/flutter/assets/12115586/f228e53c-0e27-4cdf-8278-163c84af374e"></details></sub>
 
+* **[Leo Farias](https://github.com/leoafarias)** &mdash; Fix TextStyle.lerp() to properly interpolate text shadows
+    <sub>[#145666](https://github.com/flutter/flutter/pull/145666) merged on April 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145666) over 1 week, 24 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Renzo Olivares](https://github.com/Renzo-Olivares), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Avoid calling `TextPainter.plainText` for simple static text
     <sub>[#146084](https://github.com/flutter/flutter/pull/146084) merged on April 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/146084) over 1 day, 8 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/31859944/60014acb-78bd-4dbb-a48d-74295aeb612c)</details></sub>
 
-* **[Leo Farias](https://github.com/leoafarias)** &mdash; Fix TextStyle.lerp() to properly interpolate text shadows
-    <sub>[#145666](https://github.com/flutter/flutter/pull/145666) merged on April 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145666) over 1 week, 24 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Renzo Olivares](https://github.com/Renzo-Olivares), [Greg Spencer](https://github.com/gspencergoog)</sub>
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implements `RenderBox.computeDryBaseline` for material render boxes
     <sub>[#146027](https://github.com/flutter/flutter/pull/146027) merged on April 2, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/146027) over 3 days, 384 additions and 263 deletions in 11 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Set up Kotlin linting step in ci with ktlint
+    <sub>[#143478](https://github.com/flutter/flutter/pull/143478) merged on April 3, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/143478) over 1 month, 69 additions and 9 deletions in 8 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Kallen Tu](https://github.com/kallentu)** &mdash; Add info strings to code blocks.
     <sub>[#146085](https://github.com/flutter/flutter/pull/146085) merged on April 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146085) over 2 hours, 15 additions and 15 deletions in 8 files</sub>
