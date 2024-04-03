@@ -4,7 +4,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-34 commits.
+35 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea triple click gestures<br />
     <sub>[#144563](https://github.com/flutter/flutter/pull/144563) merged on April 2, 2024 &mdash; **Extra large:** [62 comments](https://github.com/flutter/flutter/pull/144563) over 4 weeks, 2406 additions and 195 deletions in 9 files</sub><br />
@@ -62,9 +62,9 @@
     <sub>[#146027](https://github.com/flutter/flutter/pull/146027) merged on April 2, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/146027) over 3 days, 384 additions and 263 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Set up Kotlin linting step in ci with ktlint<br />
-    <sub>[#143478](https://github.com/flutter/flutter/pull/143478) merged on April 3, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/143478) over 1 month, 69 additions and 9 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+* **[Kallen Tu](https://github.com/kallentu)** &mdash; Add info strings to code blocks.<br />
+    <sub>[#146085](https://github.com/flutter/flutter/pull/146085) merged on April 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146085) over 2 hours, 15 additions and 15 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix SliverMainAxisGroup layout in reverse<br />
     <sub>[#145572](https://github.com/flutter/flutter/pull/145572) merged on April 1, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/145572) over 1 week, 99 additions and 9 deletions in 2 files</sub><br />
@@ -74,9 +74,9 @@
     <sub>[#146044](https://github.com/flutter/flutter/pull/146044) merged on April 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146044) over 1 day, 9 additions and 27 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[Kallen Tu](https://github.com/kallentu)** &mdash; Add info strings to code blocks.<br />
-    <sub>[#146085](https://github.com/flutter/flutter/pull/146085) merged on April 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146085) over 2 hours, 15 additions and 15 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Set up Kotlin linting step in ci with ktlint<br />
+    <sub>[#143478](https://github.com/flutter/flutter/pull/143478) merged on April 3, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/143478) over 1 month, 69 additions and 9 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `computeDryBaseline` for rendering / widgets RenderBoxes<br />
     <sub>[#146143](https://github.com/flutter/flutter/pull/146143) merged on April 3, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/146143) over 1 day, 321 additions and 212 deletions in 9 files</sub><br />
@@ -85,6 +85,10 @@
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Fixes some gesture recognizers are not disposed.<br />
     <sub>[#146072](https://github.com/flutter/flutter/pull/146072) merged on April 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146072) over 1 hour, 10 additions and 10 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+
+* **[Kallen Tu](https://github.com/kallentu)** &mdash; Add `missing_code_block_language_in_doc_comment` lint.<br />
+    <sub>[#145354](https://github.com/flutter/flutter/pull/145354) merged on April 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145354) over 2 weeks, 1 addition and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Kallen Tu](https://github.com/kallentu)** &mdash; Add `none` language strings to code blocks.<br />
     <sub>[#146154](https://github.com/flutter/flutter/pull/146154) merged on April 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146154) over 2 hours, 17 additions and 17 deletions in 13 files</sub><br />
@@ -101,10 +105,6 @@
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Update ownership to GitHub handles<br />
     <sub>[#146221](https://github.com/flutter/flutter/pull/146221) merged on April 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146221) over 1 hour, 3 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Renderflex cross intrinsic size with baseline alignment<br />
-    <sub>[#146185](https://github.com/flutter/flutter/pull/146185) merged on April 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146185) over 11 hours, 55 additions and 60 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Jesse](https://github.com/sealesj)** &mdash; Refactor customer_testing<br />
     <sub>[#145911](https://github.com/flutter/flutter/pull/145911) merged on April 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145911) over 6 days, 53 additions and 43 deletions in 2 files</sub><br />
@@ -148,6 +148,10 @@
 
 * **[Jesse](https://github.com/sealesj)** &mdash; Refactor fuchsia_precache<br />
     <sub>[#145978](https://github.com/flutter/flutter/pull/145978) merged on April 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145978) over 5 days, 33 additions and 26 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Renderflex cross intrinsic size with baseline alignment<br />
+    <sub>[#146185](https://github.com/flutter/flutter/pull/146185) merged on April 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146185) over 11 hours, 55 additions and 60 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 ### March 23, 2024 to March 29, 2024
