@@ -4,7 +4,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-25 commits.
+27 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea triple click gestures<br />
     <sub>[#144563](https://github.com/flutter/flutter/pull/144563) merged on April 2, 2024 &mdash; **Extra large:** [62 comments](https://github.com/flutter/flutter/pull/144563) over 4 weeks, 2406 additions and 195 deletions in 9 files</sub><br />
@@ -34,6 +34,11 @@
     <sub>[#146127](https://github.com/flutter/flutter/pull/146127) merged on April 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146127) over 6 hours, 88 additions and 12 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/aeca2b25-e28b-4609-bd47-9d72b3cfb80d) | ![image](https://github.com/flutter/flutter/assets/840911/f4331178-8f1e-4cb8-a93f-7052a6770af7)</details></sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `DropdownMenu` cursor behavior sample<br />
+    <sub>[#146133](https://github.com/flutter/flutter/pull/146133) merged on April 3, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/146133) over 1 day, 226 additions and 0 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub><details><summary>1 image...</summary>![Screenshot 2024-04-02 at 17 12 43](https://github.com/flutter/flutter/assets/48603081/33865ca0-d48d-4651-9c83-9bdcd6369cb8)</details></sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Dispose FocusNode in tests.<br />
     <sub>[#146161](https://github.com/flutter/flutter/pull/146161) merged on April 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146161) over 1 hour, 20 additions and 5 deletions in 1 file</sub><br />
@@ -76,6 +81,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate `ButtonBar`, `ButtonBarThemeData`, and `ThemeData.buttonBarTheme`<br />
     <sub>[#145523](https://github.com/flutter/flutter/pull/145523) merged on April 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/145523) over 1 week, 136 additions and 15 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Faris Basha TM](https://github.com/farisbasha), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Jesse](https://github.com/sealesj)** &mdash; Refactor customer_testing<br />
+    <sub>[#145911](https://github.com/flutter/flutter/pull/145911) merged on April 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145911) over 6 days, 53 additions and 43 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix typos in bottom_sheet.dart<br />
     <sub>[#146188](https://github.com/flutter/flutter/pull/146188) merged on April 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146188) over 7 hours, 14 additions and 14 deletions in 1 file</sub><br />
