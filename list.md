@@ -534,7 +534,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] fixes PlusAdvanced alpha blending / adds alpha blending tests
-    <sub>[#51787](https://github.com/flutter/engine/pull/51787) merged on April 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51787) over 4 days, 135 additions and 12 deletions in 3 files</sub>
+    <sub>[#51787](https://github.com/flutter/engine/pull/51787) merged on April 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51787) over 4 days, 135 additions and 12 deletions in 3 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add an engine switch that controls whether the platform isolate API is available.
