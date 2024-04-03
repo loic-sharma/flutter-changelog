@@ -4,7 +4,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-21 commits.
+22 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea triple click gestures<br />
     <sub>[#144563](https://github.com/flutter/flutter/pull/144563) merged on April 2, 2024 &mdash; **Extra large:** [62 comments](https://github.com/flutter/flutter/pull/144563) over 4 weeks, 2406 additions and 195 deletions in 9 files</sub><br />
@@ -29,6 +29,11 @@
     <sub>[#146161](https://github.com/flutter/flutter/pull/146161) merged on April 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146161) over 1 hour, 20 additions and 5 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
     <sub><details><summary>1 image...</summary><img width="544" alt="Screenshot 2024-04-02 at 3 41 18 PM" src="https://github.com/flutter/flutter/assets/12115586/f228e53c-0e27-4cdf-8278-163c84af374e"></details></sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Avoid calling `TextPainter.plainText` for simple static text<br />
+    <sub>[#146084](https://github.com/flutter/flutter/pull/146084) merged on April 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/146084) over 1 day, 8 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/31859944/60014acb-78bd-4dbb-a48d-74295aeb612c)</details></sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implements `RenderBox.computeDryBaseline` for material render boxes<br />
     <sub>[#146027](https://github.com/flutter/flutter/pull/146027) merged on April 2, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/146027) over 3 days, 384 additions and 263 deletions in 11 files</sub><br />
