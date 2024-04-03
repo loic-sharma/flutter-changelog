@@ -26,9 +26,6 @@
 * **[René Kilczan](https://github.com/rekire)** &mdash; Detect WSL and run flutter in cmd<br />
     <sub>[#142803](https://github.com/flutter/flutter/pull/142803) opened on on February 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/142803) 4 additions and 0 deletions in 1 file</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Set up Kotlin linting step in ci with ktlint<br />
-    <sub>[#143478](https://github.com/flutter/flutter/pull/143478) opened on on February 14, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/143478) 69 additions and 9 deletions in 8 files</sub><br />
-
 * **[Nawaf.](https://github.com/nawafalomari)** &mdash; fix: fix `lockUpButtonLabel` arabic translation<br />
     <sub>[#143638](https://github.com/flutter/flutter/pull/143638) opened on on February 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/143638) 4 additions and 4 deletions in 4 files</sub><br />
 
@@ -36,7 +33,7 @@
     <sub>[#143978](https://github.com/flutter/flutter/pull/143978) opened on on February 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/143978) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; refactor: Perform plugin resolution per platform<br />
-    <sub>[#144506](https://github.com/flutter/flutter/pull/144506) opened on on March 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/144506) 57 additions and 59 deletions in 1 file</sub><br />
+    <sub>[#144506](https://github.com/flutter/flutter/pull/144506) opened on on March 2, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/144506) 57 additions and 59 deletions in 1 file</sub><br />
 
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] include engine cp<br />
     <sub>[#144592](https://github.com/flutter/flutter/pull/144592) opened on on March 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144592) 1 addition and 1 deletion in 1 file</sub><br />
@@ -63,5 +60,5 @@
     <sub>[#146182](https://github.com/flutter/flutter/pull/146182) opened on on April 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146182) 119 additions and 2 deletions in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix typos in bottom_sheet.dart<br />
-    <sub>[#146188](https://github.com/flutter/flutter/pull/146188) opened on on April 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146188) 14 additions and 14 deletions in 1 file</sub><br />
+    <sub>[#146188](https://github.com/flutter/flutter/pull/146188) opened on on April 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146188) 14 additions and 14 deletions in 1 file</sub><br />
 
