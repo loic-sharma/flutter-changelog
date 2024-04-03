@@ -4,11 +4,16 @@
 
 ### March 30, 2024 to April 5, 2024
 
-24 commits.
+25 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea triple click gestures<br />
     <sub>[#144563](https://github.com/flutter/flutter/pull/144563) merged on April 2, 2024 &mdash; **Extra large:** [62 comments](https://github.com/flutter/flutter/pull/144563) over 4 weeks, 2406 additions and 195 deletions in 9 files</sub><br />
     <sub>Reviewed by: </sub><br />
+
+* **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Add SegmentedButton expand feature<br />
+    <sub>[#142804](https://github.com/flutter/flutter/pull/142804) merged on April 3, 2024 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/142804) over 2 months, 99 additions and 13 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+    <sub><details><summary>2 images...</summary><img width="724" alt="image" src="https://github.com/flutter/flutter/assets/65075121/f173b327-a34b-49f0-a7b1-a212a376c5e3"><img width="724" alt="image" src="https://github.com/flutter/flutter/assets/36861262/f141a3d3-80e3-4aeb-b7c8-d56ca77ca049"></details></sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Enhance ColorScheme.fromSeed with a new `variant` parameter<br />
     <sub>[#144805](https://github.com/flutter/flutter/pull/144805) merged on April 3, 2024 &mdash; **Medium:** [38 comments](https://github.com/flutter/flutter/pull/144805) over 3 weeks, 348 additions and 100 deletions in 4 files</sub><br />
