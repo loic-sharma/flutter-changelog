@@ -56,3 +56,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; New Widget: ReorderableDragBoundary, used to define the drag boundaries of ReorderableList.<br />
     <sub>[#146182](https://github.com/flutter/flutter/pull/146182) opened on on April 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146182) 119 additions and 2 deletions in 2 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Give `generate_gradle_lockfiles.dart` functionality to exclude certain subdirectories<br />
+    <sub>[#146228](https://github.com/flutter/flutter/pull/146228) opened on on April 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146228) 56 additions and 4 deletions in 3 files</sub><br />
+
