@@ -65,3 +65,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Renderflex cross intrinsic size with baseline alignment<br />
     <sub>[#146185](https://github.com/flutter/flutter/pull/146185) opened on on April 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146185) 55 additions and 60 deletions in 2 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix typos in bottom_sheet.dart<br />
+    <sub>[#146188](https://github.com/flutter/flutter/pull/146188) opened on on April 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146188) 14 additions and 14 deletions in 1 file</sub><br />
+
