@@ -480,7 +480,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-32 commits.
+33 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Embedder API] Add view<br />
     <sub>[#51523](https://github.com/flutter/engine/pull/51523) merged on April 2, 2024 &mdash; **Large:** [41 comments](https://github.com/flutter/engine/pull/51523) over 2 weeks, 742 additions and 37 deletions in 6 files</sub><br />
@@ -540,6 +540,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use the stripped Vulkan validation library in Android engine builds by default<br />
     <sub>[#51628](https://github.com/flutter/engine/pull/51628) merged on April 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51628) over 1 week, 10 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove outdated `deprecated_member_use` ignores<br />
+    <sub>[#51836](https://github.com/flutter/engine/pull/51836) merged on April 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51836) over 1 day, 0 additions and 25 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use internal retries for SurfaceTexture and Impeller tests too.<br />
     <sub>[#51856](https://github.com/flutter/engine/pull/51856) merged on April 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51856) over 2 hours, 2 additions and 2 deletions in 2 files</sub><br />
