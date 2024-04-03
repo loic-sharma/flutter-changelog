@@ -62,3 +62,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; New Widget: ReorderableDragBoundary, used to define the drag boundaries of ReorderableList.<br />
     <sub>[#146182](https://github.com/flutter/flutter/pull/146182) opened on on April 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146182) 119 additions and 2 deletions in 2 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Renderflex cross intrinsic size with baseline alignment<br />
+    <sub>[#146185](https://github.com/flutter/flutter/pull/146185) opened on on April 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146185) 55 additions and 60 deletions in 2 files</sub><br />
+
