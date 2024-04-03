@@ -1150,7 +1150,11 @@
 
 ### March 30, 2024 to April 5, 2024
 
-3 commits.
+4 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [in_app_purchase] Mostly convert to Android Pigeon
+    <sub>[#6262](https://github.com/flutter/packages/pull/6262) merged on April 3, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/packages/pull/6262) over 4 weeks, 5090 additions and 2240 deletions in 28 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump org.json:json from 20231013 to 20240303 in /packages/in_app_purchase/in_app_purchase_android/android
     <sub>[#6241](https://github.com/flutter/packages/pull/6241) merged on April 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6241) over 4 weeks, 1 addition and 1 deletion in 1 file</sub>
