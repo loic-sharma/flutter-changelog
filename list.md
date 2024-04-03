@@ -4,7 +4,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-29 commits.
+30 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea triple click gestures
     <sub>[#144563](https://github.com/flutter/flutter/pull/144563) merged on April 2, 2024 &mdash; **Extra large:** [62 comments](https://github.com/flutter/flutter/pull/144563) over 4 weeks, 2406 additions and 195 deletions in 9 files</sub>
@@ -69,6 +69,10 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Flutter Gradle Plugin: add versionName and versionCode to FlutterExtension
     <sub>[#146044](https://github.com/flutter/flutter/pull/146044) merged on April 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146044) over 1 day, 9 additions and 27 deletions in 5 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `computeDryBaseline` for rendering / widgets RenderBoxes
+    <sub>[#146143](https://github.com/flutter/flutter/pull/146143) merged on April 3, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/146143) over 1 day, 321 additions and 212 deletions in 9 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Fixes some gesture recognizers are not disposed.
     <sub>[#146072](https://github.com/flutter/flutter/pull/146072) merged on April 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146072) over 1 hour, 10 additions and 10 deletions in 2 files</sub>
