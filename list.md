@@ -4,11 +4,16 @@
 
 ### March 30, 2024 to April 5, 2024
 
-23 commits.
+24 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea triple click gestures
     <sub>[#144563](https://github.com/flutter/flutter/pull/144563) merged on April 2, 2024 &mdash; **Extra large:** [62 comments](https://github.com/flutter/flutter/pull/144563) over 4 weeks, 2406 additions and 195 deletions in 9 files</sub>
     <sub>Reviewed by: </sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Enhance ColorScheme.fromSeed with a new `variant` parameter
+    <sub>[#144805](https://github.com/flutter/flutter/pull/144805) merged on April 3, 2024 &mdash; **Medium:** [38 comments](https://github.com/flutter/flutter/pull/144805) over 3 weeks, 348 additions and 100 deletions in 4 files</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub><details><summary>2 images...</summary>![Screenshot 2024-03-13 at 4 33 02 PM](https://github.com/flutter/flutter/assets/36861262/2cdbe559-67ff-4f8b-bd48-ccff5131b949)![Screenshot 2024-03-13 at 4 33 07 PM](https://github.com/flutter/flutter/assets/36861262/e6af2362-c501-499b-8880-06a321de91e6)</details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `DataColumn.headingRowAlignment ` for `DataTable`
     <sub>[#144006](https://github.com/flutter/flutter/pull/144006) merged on April 1, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/144006) over 1 month, 147 additions and 1 deletion in 4 files</sub>
