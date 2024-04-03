@@ -59,3 +59,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Give `generate_gradle_lockfiles.dart` functionality to exclude certain subdirectories<br />
     <sub>[#146228](https://github.com/flutter/flutter/pull/146228) opened on on April 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146228) 56 additions and 4 deletions in 3 files</sub><br />
 
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [flutter_releases] Flutter beta 3.22.0-0.0.pre Framework Cherrypicks<br />
+    <sub>[#146239](https://github.com/flutter/flutter/pull/146239) opened on on April 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146239) 2 additions and 1 deletion in 2 files</sub><br />
+
