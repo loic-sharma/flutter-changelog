@@ -4,7 +4,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-30 commits.
+31 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea triple click gestures<br />
     <sub>[#144563](https://github.com/flutter/flutter/pull/144563) merged on April 2, 2024 &mdash; **Extra large:** [62 comments](https://github.com/flutter/flutter/pull/144563) over 4 weeks, 2406 additions and 195 deletions in 9 files</sub><br />
@@ -89,6 +89,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate `ButtonBar`, `ButtonBarThemeData`, and `ThemeData.buttonBarTheme`<br />
     <sub>[#145523](https://github.com/flutter/flutter/pull/145523) merged on April 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/145523) over 1 week, 136 additions and 15 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Faris Basha TM](https://github.com/farisbasha), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Jesse](https://github.com/sealesj)** &mdash; Refactor fuchsia_precache<br />
+    <sub>[#145978](https://github.com/flutter/flutter/pull/145978) merged on April 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145978) over 5 days, 33 additions and 26 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Renderflex cross intrinsic size with baseline alignment<br />
     <sub>[#146185](https://github.com/flutter/flutter/pull/146185) merged on April 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146185) over 11 hours, 55 additions and 60 deletions in 2 files</sub><br />
