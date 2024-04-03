@@ -32,9 +32,6 @@
 * **[Zayd Krunz](https://github.com/ShrootBuck)** &mdash; Redundant message fix<br />
     <sub>[#143978](https://github.com/flutter/flutter/pull/143978) opened on on February 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/143978) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[August](https://github.com/Gustl22)** &mdash; refactor: Perform plugin resolution per platform<br />
-    <sub>[#144506](https://github.com/flutter/flutter/pull/144506) opened on on March 2, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/144506) 57 additions and 59 deletions in 1 file</sub><br />
-
 * **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] include engine cp<br />
     <sub>[#144592](https://github.com/flutter/flutter/pull/144592) opened on on March 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144592) 1 addition and 1 deletion in 1 file</sub><br />
 
