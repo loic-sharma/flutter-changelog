@@ -64,7 +64,7 @@
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/31859944/60014acb-78bd-4dbb-a48d-74295aeb612c)</details></sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Bump to AGP 8.1/Gradle 8.3 (almost) everywhere<br />
-    <sub>[#146181](https://github.com/flutter/flutter/pull/146181) merged on April 4, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/146181) over 1 day, 2388 additions and 2013 deletions in 105 files</sub><br />
+    <sub>[#146181](https://github.com/flutter/flutter/pull/146181) merged on April 4, 2024 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/146181) over 1 day, 2388 additions and 2013 deletions in 105 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Update documentation to discourage using the TextEditingController.text setter<br />
