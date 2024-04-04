@@ -1314,7 +1314,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-6 commits.
+7 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Allow multi instance support with message channel name suffix<br />
     <sub>[#6224](https://github.com/flutter/packages/pull/6224) merged on April 3, 2024 &mdash; **Extra large:** [43 comments](https://github.com/flutter/packages/pull/6224) over 1 month, 3843 additions and 1497 deletions in 60 files</sub><br />
@@ -1336,6 +1336,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [camera_android_camerax] Move integration_test dependency to tests<br />
     <sub>[#6445](https://github.com/flutter/packages/pull/6445) merged on April 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6445) over 7 hours, 7 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Redistribute CODEOWNERS<br />
+    <sub>[#6457](https://github.com/flutter/packages/pull/6457) merged on April 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6457) over 22 hours, 12 additions and 14 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma), [David Iglesias](https://github.com/ditman), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [Tool] Add ability to check dependencies independently of dev-dependencies, exclude integration_test from dependencies<br />
     <sub>[#6446](https://github.com/flutter/packages/pull/6446) merged on April 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/6446) over 2 days, 75 additions and 1 deletion in 2 files</sub><br />
