@@ -53,9 +53,6 @@
 * **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Update text.dart<br />
     <sub>[#146117](https://github.com/flutter/flutter/pull/146117) opened on on April 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146117) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Give `generate_gradle_lockfiles.dart` functionality to exclude certain subdirectories<br />
-    <sub>[#146228](https://github.com/flutter/flutter/pull/146228) opened on on April 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146228) 56 additions and 4 deletions in 3 files</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement getDryBaseline for Stack and Overlay<br />
     <sub>[#146253](https://github.com/flutter/flutter/pull/146253) opened on on April 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146253) 145 additions and 71 deletions in 2 files</sub><br />
 
