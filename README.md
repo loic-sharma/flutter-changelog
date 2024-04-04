@@ -4,7 +4,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-38 commits.
+39 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea triple click gestures<br />
     <sub>[#144563](https://github.com/flutter/flutter/pull/144563) merged on April 2, 2024 &mdash; **Extra large:** [62 comments](https://github.com/flutter/flutter/pull/144563) over 4 weeks, 2406 additions and 195 deletions in 9 files</sub><br />
@@ -57,6 +57,10 @@
     <sub>[#146084](https://github.com/flutter/flutter/pull/146084) merged on April 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/146084) over 1 day, 8 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/31859944/60014acb-78bd-4dbb-a48d-74295aeb612c)</details></sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Update documentation to discourage using the TextEditingController.text setter<br />
+    <sub>[#146151](https://github.com/flutter/flutter/pull/146151) merged on April 4, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/146151) over 1 day, 5 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implements `RenderBox.computeDryBaseline` for material render boxes<br />
     <sub>[#146027](https://github.com/flutter/flutter/pull/146027) merged on April 2, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/146027) over 3 days, 384 additions and 263 deletions in 11 files</sub><br />
@@ -142,9 +146,9 @@
     <sub>[#145905](https://github.com/flutter/flutter/pull/145905) merged on April 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/145905) over 4 days, 20 additions and 9 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_container.0.dart API example.<br />
-    <sub>[#145995](https://github.com/flutter/flutter/pull/145995) merged on April 1, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/145995) over 3 days, 71 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#146245](https://github.com/flutter/flutter/pull/146245) merged on April 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146245) over 56 minutes, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Update ownership to GitHub handles<br />
     <sub>[#146221](https://github.com/flutter/flutter/pull/146221) merged on April 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146221) over 1 hour, 3 additions and 3 deletions in 1 file</sub><br />
@@ -158,13 +162,13 @@
     <sub>[#146185](https://github.com/flutter/flutter/pull/146185) merged on April 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146185) over 11 hours, 55 additions and 60 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_container.0.dart API example.<br />
+    <sub>[#145995](https://github.com/flutter/flutter/pull/145995) merged on April 1, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/145995) over 3 days, 71 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
 * **[Jesse](https://github.com/sealesj)** &mdash; Refactor customer_testing<br />
     <sub>[#145911](https://github.com/flutter/flutter/pull/145911) merged on April 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145911) over 6 days, 53 additions and 43 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#146245](https://github.com/flutter/flutter/pull/146245) merged on April 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146245) over 56 minutes, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### March 23, 2024 to March 29, 2024
 
@@ -614,7 +618,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable logging a warning when the user opts out of using Impeller.<br />
-    <sub>[#51849](https://github.com/flutter/engine/pull/51849) merged on April 3, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/51849) over 23 hours, 41 additions and 1 deletion in 5 files</sub><br />
+    <sub>[#51849](https://github.com/flutter/engine/pull/51849) merged on April 3, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/51849) over 23 hours, 41 additions and 1 deletion in 5 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Add a TextureGLES API for wrapping a framebuffer and use it to implement OpenGL FBO targets in the embedder library<br />
