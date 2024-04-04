@@ -91,7 +91,11 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for theme_extension.1.dart API example.<br />
-    <sub>[#145819](https://github.com/flutter/flutter/pull/145819) merged on April 3, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/145819) over 1 week, 112 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#145819](https://github.com/flutter/flutter/pull/145819) merged on April 3, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/145819) over 1 week, 112 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for material_state_mouse_cursor.0.dart API example.<br />
+    <sub>[#145987](https://github.com/flutter/flutter/pull/145987) merged on April 3, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/145987) over 4 days, 92 additions and 7 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Kallen Tu](https://github.com/kallentu)** &mdash; Add `none` language strings to code blocks.<br />
@@ -110,17 +114,13 @@
     <sub>[#146245](https://github.com/flutter/flutter/pull/146245) merged on April 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146245) over 56 minutes, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[keyonghan](https://github.com/keyonghan)** &mdash; Update ownership to GitHub handles<br />
-    <sub>[#146221](https://github.com/flutter/flutter/pull/146221) merged on April 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146221) over 1 hour, 3 additions and 3 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix typos in bottom_sheet.dart<br />
+    <sub>[#146188](https://github.com/flutter/flutter/pull/146188) merged on April 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146188) over 7 hours, 14 additions and 14 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix chip baseline implementation<br />
     <sub>[#146162](https://github.com/flutter/flutter/pull/146162) merged on April 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146162) over 4 hours, 83 additions and 112 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for material_state_mouse_cursor.0.dart API example.<br />
-    <sub>[#145987](https://github.com/flutter/flutter/pull/145987) merged on April 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/145987) over 4 days, 92 additions and 7 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update material_color_utilities package version to latest 0.11.1<br />
     <sub>[#145959](https://github.com/flutter/flutter/pull/145959) merged on April 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/145959) over 4 days, 131 additions and 129 deletions in 61 files</sub><br />
@@ -146,6 +146,10 @@
     <sub>[#145995](https://github.com/flutter/flutter/pull/145995) merged on April 1, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/145995) over 3 days, 71 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
+* **[keyonghan](https://github.com/keyonghan)** &mdash; Update ownership to GitHub handles<br />
+    <sub>[#146221](https://github.com/flutter/flutter/pull/146221) merged on April 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146221) over 1 hour, 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
+
 * **[Jesse](https://github.com/sealesj)** &mdash; Refactor fuchsia_precache<br />
     <sub>[#145978](https://github.com/flutter/flutter/pull/145978) merged on April 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145978) over 5 days, 33 additions and 26 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
@@ -157,10 +161,6 @@
 * **[Jesse](https://github.com/sealesj)** &mdash; Refactor customer_testing<br />
     <sub>[#145911](https://github.com/flutter/flutter/pull/145911) merged on April 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/145911) over 6 days, 53 additions and 43 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix typos in bottom_sheet.dart<br />
-    <sub>[#146188](https://github.com/flutter/flutter/pull/146188) merged on April 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146188) over 7 hours, 14 additions and 14 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 ### March 23, 2024 to March 29, 2024
 
