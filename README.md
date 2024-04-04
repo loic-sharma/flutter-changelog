@@ -63,7 +63,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Set up Kotlin linting step in ci with ktlint<br />
-    <sub>[#143478](https://github.com/flutter/flutter/pull/143478) merged on April 3, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/143478) over 1 month, 69 additions and 9 deletions in 8 files</sub><br />
+    <sub>[#143478](https://github.com/flutter/flutter/pull/143478) merged on April 3, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/143478) over 1 month, 69 additions and 9 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix SliverMainAxisGroup layout in reverse<br />
