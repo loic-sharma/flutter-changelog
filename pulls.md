@@ -53,9 +53,6 @@
 * **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Update text.dart<br />
     <sub>[#146117](https://github.com/flutter/flutter/pull/146117) opened on on April 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146117) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement computeDryBaseline for `RenderWrap`<br />
-    <sub>[#146260](https://github.com/flutter/flutter/pull/146260) opened on on April 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/146260) 238 additions and 179 deletions in 3 files</sub><br />
-
 * **[Gil Nobrega](https://github.com/gilnobrega)** &mdash; Fix frozen `StretchingOverscrollIndicator` animation<br />
     <sub>[#146280](https://github.com/flutter/flutter/pull/146280) opened on on April 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146280) 1 addition and 1 deletion in 1 file</sub><br />
 
