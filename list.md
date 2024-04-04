@@ -1318,7 +1318,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-7 commits.
+8 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Allow multi instance support with message channel name suffix
     <sub>[#6224](https://github.com/flutter/packages/pull/6224) merged on April 3, 2024 &mdash; **Extra large:** [43 comments](https://github.com/flutter/packages/pull/6224) over 1 month, 3843 additions and 1497 deletions in 60 files</sub>
@@ -1344,6 +1344,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Redistribute CODEOWNERS
     <sub>[#6457](https://github.com/flutter/packages/pull/6457) merged on April 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6457) over 22 hours, 12 additions and 14 deletions in 1 file</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma), [David Iglesias](https://github.com/ditman), [LouiseHsu](https://github.com/LouiseHsu)</sub>
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Fix macos_platform_tests package build times out when built for all packages
+    <sub>[#6463](https://github.com/flutter/packages/pull/6463) merged on April 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6463) over 54 minutes, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [Tool] Add ability to check dependencies independently of dev-dependencies, exclude integration_test from dependencies
     <sub>[#6446](https://github.com/flutter/packages/pull/6446) merged on April 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/6446) over 2 days, 75 additions and 1 deletion in 2 files</sub>
