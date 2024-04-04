@@ -59,3 +59,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement getDryBaseline for Stack and Overlay<br />
     <sub>[#146253](https://github.com/flutter/flutter/pull/146253) opened on on April 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146253) 145 additions and 71 deletions in 2 files</sub><br />
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [tools] Fix `--template=plugin_ffi` formatting<br />
+    <sub>[#146269](https://github.com/flutter/flutter/pull/146269) opened on on April 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146269) 1 addition and 2 deletions in 1 file</sub><br />
+
