@@ -49,14 +49,14 @@
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2024-04-02 at 17 12 43](https://github.com/flutter/flutter/assets/48603081/33865ca0-d48d-4651-9c83-9bdcd6369cb8)</details></sub>
 
+* **[Igor Hnízdo](https://github.com/Michal-MK)** &mdash; `ExpansionTile` Unable to remove right padding from title<br />
+    <sub>[#145271](https://github.com/flutter/flutter/pull/145271) merged on April 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/145271) over 2 weeks, 41 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Dispose FocusNode in tests.<br />
     <sub>[#146161](https://github.com/flutter/flutter/pull/146161) merged on April 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146161) over 1 hour, 20 additions and 5 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
     <sub><details><summary>1 image...</summary><img width="544" alt="Screenshot 2024-04-02 at 3 41 18 PM" src="https://github.com/flutter/flutter/assets/12115586/f228e53c-0e27-4cdf-8278-163c84af374e"></details></sub>
-
-* **[Igor Hnízdo](https://github.com/Michal-MK)** &mdash; `ExpansionTile` Unable to remove right padding from title<br />
-    <sub>[#145271](https://github.com/flutter/flutter/pull/145271) merged on April 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/145271) over 2 weeks, 41 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Leo Farias](https://github.com/leoafarias)** &mdash; Fix TextStyle.lerp() to properly interpolate text shadows<br />
     <sub>[#145666](https://github.com/flutter/flutter/pull/145666) merged on April 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145666) over 1 week, 24 additions and 2 deletions in 2 files</sub><br />
