@@ -580,7 +580,7 @@
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] eliminate sub-render pass for blended color + texture vertices.<br />
-    <sub>[#51778](https://github.com/flutter/engine/pull/51778) merged on April 3, 2024 &mdash; **Medium:** [32 comments](https://github.com/flutter/engine/pull/51778) over 5 days, 363 additions and 3 deletions in 10 files</sub><br />
+    <sub>[#51778](https://github.com/flutter/engine/pull/51778) merged on April 3, 2024 &mdash; **Medium:** [33 comments](https://github.com/flutter/engine/pull/51778) over 5 days, 363 additions and 3 deletions in 10 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Do not use `adb shell screenrecord` during CI runs.<br />
