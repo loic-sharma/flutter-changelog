@@ -1370,6 +1370,10 @@
     <sub>[#6445](https://github.com/flutter/packages/pull/6445) merged on April 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6445) over 7 hours, 7 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [Tool] Add ability to check dependencies independently of dev-dependencies, exclude integration_test from dependencies
+    <sub>[#6446](https://github.com/flutter/packages/pull/6446) merged on April 3, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/6446) over 2 days, 75 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Eugene Kuleshov](https://github.com/ekuleshov), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Redistribute CODEOWNERS
     <sub>[#6457](https://github.com/flutter/packages/pull/6457) merged on April 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6457) over 22 hours, 12 additions and 14 deletions in 1 file</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma), [David Iglesias](https://github.com/ditman), [LouiseHsu](https://github.com/LouiseHsu)</sub>
@@ -1377,10 +1381,6 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Fix macos_platform_tests package build times out when built for all packages
     <sub>[#6463](https://github.com/flutter/packages/pull/6463) merged on April 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6463) over 54 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; [Tool] Add ability to check dependencies independently of dev-dependencies, exclude integration_test from dependencies
-    <sub>[#6446](https://github.com/flutter/packages/pull/6446) merged on April 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/6446) over 2 days, 75 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 ### March 23, 2024 to March 29, 2024
 
