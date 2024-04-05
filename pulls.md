@@ -62,3 +62,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; `flutter/lib/src/`: refactoring if-chains into switch expressions<br />
     <sub>[#146293](https://github.com/flutter/flutter/pull/146293) opened on on April 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/146293) 111 additions and 203 deletions in 19 files</sub><br />
 
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#146331](https://github.com/flutter/flutter/pull/146331) opened on on April 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146331) 2 additions and 2 deletions in 1 file</sub><br />
+
