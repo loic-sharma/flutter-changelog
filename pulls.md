@@ -56,12 +56,12 @@
 * **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Update text.dart<br />
     <sub>[#146117](https://github.com/flutter/flutter/pull/146117) opened on on April 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146117) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Gil Nobrega](https://github.com/gilnobrega)** &mdash; Fix frozen `StretchingOverscrollIndicator` animation<br />
-    <sub>[#146280](https://github.com/flutter/flutter/pull/146280) opened on on April 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146280) 66 additions and 1 deletion in 2 files</sub><br />
-
 * **[Nate](https://github.com/nate-thegrate)** &mdash; `flutter/lib/src/`: refactoring if-chains into switch expressions<br />
     <sub>[#146293](https://github.com/flutter/flutter/pull/146293) opened on on April 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/146293) 111 additions and 203 deletions in 19 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `_RenderDecorator.computeDryBaseline` <br />
     <sub>[#146365](https://github.com/flutter/flutter/pull/146365) opened on on April 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/146365) 306 additions and 382 deletions in 2 files</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase the recommended Xcode version to Xcode 15<br />
+    <sub>[#146367](https://github.com/flutter/flutter/pull/146367) opened on on April 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146367) 29 additions and 8 deletions in 3 files</sub><br />
 
