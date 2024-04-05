@@ -56,3 +56,6 @@
 * **[Gil Nobrega](https://github.com/gilnobrega)** &mdash; Fix frozen `StretchingOverscrollIndicator` animation<br />
     <sub>[#146280](https://github.com/flutter/flutter/pull/146280) opened on on April 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146280) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; `flutter/lib/src/`: refactoring if-chains into switch expressions<br />
+    <sub>[#146293](https://github.com/flutter/flutter/pull/146293) opened on on April 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/146293) 111 additions and 203 deletions in 19 files</sub><br />
+
