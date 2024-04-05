@@ -62,3 +62,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; `flutter/lib/src/`: refactoring if-chains into switch expressions<br />
     <sub>[#146293](https://github.com/flutter/flutter/pull/146293) opened on on April 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/146293) 111 additions and 203 deletions in 19 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Reland "Bump to AGP 8.1/Gradle 8.3 (almost) everywhere"<br />
+    <sub>[#146307](https://github.com/flutter/flutter/pull/146307) opened on on April 4, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/146307) 2391 additions and 2013 deletions in 106 files</sub><br />
+
