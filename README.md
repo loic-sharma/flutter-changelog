@@ -1339,7 +1339,11 @@
 
 ### March 30, 2024 to April 5, 2024
 
-9 commits.
+10 commits.
+
+* **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] Camera with MediaSettings: platform implementations (federated)<br />
+    <sub>[#5223](https://github.com/flutter/packages/pull/5223) merged on April 5, 2024 &mdash; **Extra large:** [287 comments](https://github.com/flutter/packages/pull/5223) over 5 months, 2703 additions and 416 deletions in 67 files</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman), [David Iglesias](https://github.com/ditman), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Allow multi instance support with message channel name suffix<br />
     <sub>[#6224](https://github.com/flutter/packages/pull/6224) merged on April 3, 2024 &mdash; **Extra large:** [43 comments](https://github.com/flutter/packages/pull/6224) over 1 month, 3843 additions and 1497 deletions in 60 files</sub><br />
