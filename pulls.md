@@ -62,3 +62,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; `flutter/lib/src/`: refactoring if-chains into switch expressions<br />
     <sub>[#146293](https://github.com/flutter/flutter/pull/146293) opened on on April 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/146293) 111 additions and 203 deletions in 19 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownButtonFormField throws when onChange is null<br />
+    <sub>[#146342](https://github.com/flutter/flutter/pull/146342) opened on on April 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146342) 35 additions and 2 deletions in 2 files</sub><br />
+
