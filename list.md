@@ -1367,7 +1367,7 @@
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma), [David Iglesias](https://github.com/ditman), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Fix macos_platform_tests package build times out when built for all packages
-    <sub>[#6463](https://github.com/flutter/packages/pull/6463) merged on April 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6463) over 54 minutes, 1 addition and 1 deletion in 1 file</sub>
+    <sub>[#6463](https://github.com/flutter/packages/pull/6463) merged on April 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6463) over 54 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [Tool] Add ability to check dependencies independently of dev-dependencies, exclude integration_test from dependencies

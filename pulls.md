@@ -39,7 +39,7 @@
     <sub>[#145016](https://github.com/flutter/flutter/pull/145016) opened on on March 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145016) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; refactor: Rework getting plugin implementation candidates and plugin resolution<br />
-    <sub>[#145258](https://github.com/flutter/flutter/pull/145258) opened on on March 16, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/145258) 129 additions and 97 deletions in 1 file</sub><br />
+    <sub>[#145258](https://github.com/flutter/flutter/pull/145258) opened on on March 16, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/145258) 129 additions and 97 deletions in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] use dart test to run flutter driver files<br />
     <sub>[#145502](https://github.com/flutter/flutter/pull/145502) opened on on March 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145502) 17 additions and 7 deletions in 3 files</sub><br />
