@@ -4,7 +4,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-47 commits.
+48 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea triple click gestures<br />
     <sub>[#144563](https://github.com/flutter/flutter/pull/144563) merged on April 2, 2024 &mdash; **Extra large:** [62 comments](https://github.com/flutter/flutter/pull/144563) over 4 weeks, 2406 additions and 195 deletions in 9 files</sub><br />
@@ -49,6 +49,11 @@
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2024-04-02 at 17 12 43](https://github.com/flutter/flutter/assets/48603081/33865ca0-d48d-4651-9c83-9bdcd6369cb8)</details></sub>
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix cursor is not centered when cursorHeight is set (non-Apple platforms).<br />
+    <sub>[#145829](https://github.com/flutter/flutter/pull/145829) merged on April 5, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/145829) over 1 week, 98 additions and 6 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/2d1b855d-d36c-4941-85be-5044ea0e9bb2) | ![image](https://github.com/flutter/flutter/assets/840911/306510c8-42ca-45c7-8c25-ddfa2e22c7f3)</details></sub>
+
 * **[Igor Hnízdo](https://github.com/Michal-MK)** &mdash; `ExpansionTile` Unable to remove right padding from title<br />
     <sub>[#145271](https://github.com/flutter/flutter/pull/145271) merged on April 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/145271) over 2 weeks, 41 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
@@ -75,17 +80,21 @@
     <sub>[#146151](https://github.com/flutter/flutter/pull/146151) merged on April 4, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/146151) over 1 day, 5 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implements `RenderBox.computeDryBaseline` for material render boxes<br />
-    <sub>[#146027](https://github.com/flutter/flutter/pull/146027) merged on April 2, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/146027) over 3 days, 384 additions and 263 deletions in 11 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
 * **[philipfranchi](https://github.com/philipfranchi)** &mdash; Adds semanticsLabel to MenuItemButton<br />
     <sub>[#145846](https://github.com/flutter/flutter/pull/145846) merged on April 4, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/145846) over 1 week, 48 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Francisco Magdaleno](https://github.com/franciscojma86), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implements `RenderBox.computeDryBaseline` for material render boxes<br />
+    <sub>[#146027](https://github.com/flutter/flutter/pull/146027) merged on April 2, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/146027) over 3 days, 384 additions and 263 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Set up Kotlin linting step in ci with ktlint<br />
     <sub>[#143478](https://github.com/flutter/flutter/pull/143478) merged on April 3, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/143478) over 1 month, 69 additions and 9 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Kallen Tu](https://github.com/kallentu)** &mdash; Add info strings to code blocks.<br />
+    <sub>[#146085](https://github.com/flutter/flutter/pull/146085) merged on April 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146085) over 2 hours, 15 additions and 15 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix SliverMainAxisGroup layout in reverse<br />
     <sub>[#145572](https://github.com/flutter/flutter/pull/145572) merged on April 1, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/145572) over 1 week, 99 additions and 9 deletions in 2 files</sub><br />
@@ -94,10 +103,6 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Flutter Gradle Plugin: add versionName and versionCode to FlutterExtension<br />
     <sub>[#146044](https://github.com/flutter/flutter/pull/146044) merged on April 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146044) over 1 day, 9 additions and 27 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Kallen Tu](https://github.com/kallentu)** &mdash; Add info strings to code blocks.<br />
-    <sub>[#146085](https://github.com/flutter/flutter/pull/146085) merged on April 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146085) over 2 hours, 15 additions and 15 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; refactor: Perform plugin resolution per platform<br />
     <sub>[#144506](https://github.com/flutter/flutter/pull/144506) merged on April 5, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/144506) over 1 month, 57 additions and 59 deletions in 1 file</sub><br />
@@ -139,6 +144,10 @@
     <sub>[#145523](https://github.com/flutter/flutter/pull/145523) merged on April 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/145523) over 1 week, 136 additions and 15 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Faris Basha TM](https://github.com/farisbasha), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[Kallen Tu](https://github.com/kallentu)** &mdash; Add `none` language strings to code blocks.<br />
+    <sub>[#146154](https://github.com/flutter/flutter/pull/146154) merged on April 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146154) over 2 hours, 17 additions and 17 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Sync lints and enable `annotate_redeclares`<br />
     <sub>[#146144](https://github.com/flutter/flutter/pull/146144) merged on April 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146144) over 2 hours, 3 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Phil Quitslund](https://github.com/pq)</sub><br />
@@ -146,10 +155,6 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Flutter templates example app Gradle memory settings<br />
     <sub>[#146275](https://github.com/flutter/flutter/pull/146275) merged on April 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146275) over 46 minutes, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Kallen Tu](https://github.com/kallentu)** &mdash; Add `none` language strings to code blocks.<br />
-    <sub>[#146154](https://github.com/flutter/flutter/pull/146154) merged on April 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146154) over 2 hours, 17 additions and 17 deletions in 13 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Update ownership to GitHub handles<br />
     <sub>[#146221](https://github.com/flutter/flutter/pull/146221) merged on April 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146221) over 1 hour, 3 additions and 3 deletions in 1 file</sub><br />
