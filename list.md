@@ -688,7 +688,7 @@
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove #if SHELL_ENABLE_METAL checks in iOS code
-    <sub>[#51636](https://github.com/flutter/engine/pull/51636) merged on April 4, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/51636) over 1 week, 17 additions and 51 deletions in 4 files</sub>
+    <sub>[#51636](https://github.com/flutter/engine/pull/51636) merged on April 4, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/51636) over 1 week, 17 additions and 51 deletions in 4 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable logging a warning when the user opts out of using Impeller.
