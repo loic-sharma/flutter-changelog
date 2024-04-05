@@ -1335,7 +1335,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-8 commits.
+9 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Allow multi instance support with message channel name suffix<br />
     <sub>[#6224](https://github.com/flutter/packages/pull/6224) merged on April 3, 2024 &mdash; **Extra large:** [43 comments](https://github.com/flutter/packages/pull/6224) over 1 month, 3843 additions and 1497 deletions in 60 files</sub><br />
@@ -1353,6 +1353,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [various] Remove all traces of the `_ambiguate` workaround<br />
     <sub>[#6449](https://github.com/flutter/packages/pull/6449) merged on April 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6449) over 17 hours, 24 additions and 42 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Timm Preetz](https://github.com/tp)** &mdash; [video_player] Call `super.dispose` last in README example<br />
+    <sub>[#6051](https://github.com/flutter/packages/pull/6051) merged on April 5, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/6051) over 1 month, 7 additions and 3 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [camera_android_camerax] Move integration_test dependency to tests<br />
     <sub>[#6445](https://github.com/flutter/packages/pull/6445) merged on April 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6445) over 7 hours, 7 additions and 3 deletions in 2 files</sub><br />
