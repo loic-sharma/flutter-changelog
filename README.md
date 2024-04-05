@@ -105,7 +105,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; refactor: Perform plugin resolution per platform<br />
-    <sub>[#144506](https://github.com/flutter/flutter/pull/144506) merged on April 5, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/144506) over 1 month, 57 additions and 59 deletions in 1 file</sub><br />
+    <sub>[#144506](https://github.com/flutter/flutter/pull/144506) merged on April 5, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/144506) over 1 month, 57 additions and 59 deletions in 1 file</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Bump to AGP 8.1/Gradle 8.3 (almost) everywhere (#146181)"<br />
