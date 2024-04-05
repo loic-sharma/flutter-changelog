@@ -62,3 +62,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; `flutter/lib/src/`: refactoring if-chains into switch expressions<br />
     <sub>[#146293](https://github.com/flutter/flutter/pull/146293) opened on on April 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/146293) 111 additions and 203 deletions in 19 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `_RenderDecorator.computeDryBaseline` <br />
+    <sub>[#146365](https://github.com/flutter/flutter/pull/146365) opened on on April 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/146365) 306 additions and 382 deletions in 2 files</sub><br />
+
