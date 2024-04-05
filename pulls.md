@@ -62,3 +62,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; `flutter/lib/src/`: refactoring if-chains into switch expressions<br />
     <sub>[#146293](https://github.com/flutter/flutter/pull/146293) opened on on April 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/146293) 111 additions and 203 deletions in 19 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Copy part files and sourcemaps when building with dart2js.<br />
+    <sub>[#146361](https://github.com/flutter/flutter/pull/146361) opened on on April 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146361) 65 additions and 19 deletions in 2 files</sub><br />
+

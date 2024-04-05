@@ -4,7 +4,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-51 commits.
+52 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea triple click gestures
     <sub>[#144563](https://github.com/flutter/flutter/pull/144563) merged on April 2, 2024 &mdash; **Extra large:** [62 comments](https://github.com/flutter/flutter/pull/144563) over 4 weeks, 2406 additions and 195 deletions in 9 files</sub>
@@ -80,13 +80,13 @@
     <sub>[#146151](https://github.com/flutter/flutter/pull/146151) merged on April 4, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/146151) over 1 day, 5 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
-* **[philipfranchi](https://github.com/philipfranchi)** &mdash; Adds semanticsLabel to MenuItemButton
-    <sub>[#145846](https://github.com/flutter/flutter/pull/145846) merged on April 4, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/145846) over 1 week, 48 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Francisco Magdaleno](https://github.com/franciscojma86), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implements `RenderBox.computeDryBaseline` for material render boxes
     <sub>[#146027](https://github.com/flutter/flutter/pull/146027) merged on April 2, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/146027) over 3 days, 384 additions and 263 deletions in 11 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[philipfranchi](https://github.com/philipfranchi)** &mdash; Adds semanticsLabel to MenuItemButton
+    <sub>[#145846](https://github.com/flutter/flutter/pull/145846) merged on April 4, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/145846) over 1 week, 48 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Francisco Magdaleno](https://github.com/franciscojma86), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Set up Kotlin linting step in ci with ktlint
     <sub>[#143478](https://github.com/flutter/flutter/pull/143478) merged on April 3, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/143478) over 1 month, 69 additions and 9 deletions in 8 files</sub>
@@ -104,6 +104,10 @@
     <sub>[#146085](https://github.com/flutter/flutter/pull/146085) merged on April 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146085) over 2 hours, 15 additions and 15 deletions in 8 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `computeDryBaseline` for rendering / widgets RenderBoxes
+    <sub>[#146143](https://github.com/flutter/flutter/pull/146143) merged on April 3, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/146143) over 1 day, 321 additions and 212 deletions in 9 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
 * **[August](https://github.com/Gustl22)** &mdash; refactor: Perform plugin resolution per platform
     <sub>[#144506](https://github.com/flutter/flutter/pull/144506) merged on April 5, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/144506) over 1 month, 57 additions and 59 deletions in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Christopher Fujino](https://github.com/christopherfujino)</sub>
@@ -111,10 +115,6 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Bump to AGP 8.1/Gradle 8.3 (almost) everywhere (#146181)"
     <sub>[#146305](https://github.com/flutter/flutter/pull/146305) merged on April 4, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/146305) over 1 minute, 2011 additions and 2386 deletions in 104 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `computeDryBaseline` for rendering / widgets RenderBoxes
-    <sub>[#146143](https://github.com/flutter/flutter/pull/146143) merged on April 3, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/146143) over 1 day, 321 additions and 212 deletions in 9 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Fixes some gesture recognizers are not disposed.
     <sub>[#146072](https://github.com/flutter/flutter/pull/146072) merged on April 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146072) over 1 hour, 10 additions and 10 deletions in 2 files</sub>
@@ -140,6 +140,10 @@
     <sub>[#146228](https://github.com/flutter/flutter/pull/146228) merged on April 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146228) over 23 hours, 56 additions and 4 deletions in 3 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Flutter templates example app Gradle memory settings
+    <sub>[#146275](https://github.com/flutter/flutter/pull/146275) merged on April 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146275) over 46 minutes, 2 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
 * **[Kallen Tu](https://github.com/kallentu)** &mdash; Add `none` language strings to code blocks.
     <sub>[#146154](https://github.com/flutter/flutter/pull/146154) merged on April 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146154) over 2 hours, 17 additions and 17 deletions in 13 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
@@ -152,17 +156,21 @@
     <sub>[#145523](https://github.com/flutter/flutter/pull/145523) merged on April 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/145523) over 1 week, 136 additions and 15 deletions in 7 files</sub>
     <sub>Reviewed by: [Faris Basha TM](https://github.com/farisbasha), [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Flutter templates example app Gradle memory settings
-    <sub>[#146275](https://github.com/flutter/flutter/pull/146275) merged on April 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146275) over 46 minutes, 2 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Copy part files and sourcemaps when building with dart2js.
+    <sub>[#146356](https://github.com/flutter/flutter/pull/146356) merged on April 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146356) over 1 hour, 65 additions and 19 deletions in 2 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
-    <sub>[#146245](https://github.com/flutter/flutter/pull/146245) merged on April 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146245) over 56 minutes, 2 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+* **[Jesse](https://github.com/sealesj)** &mdash; Refactor docs
+    <sub>[#145998](https://github.com/flutter/flutter/pull/145998) merged on April 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145998) over 4 days, 22 additions and 17 deletions in 2 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Jesse](https://github.com/sealesj)** &mdash; Refactor analyze
     <sub>[#146138](https://github.com/flutter/flutter/pull/146138) merged on April 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146138) over 5 hours, 22 additions and 14 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
+    <sub>[#146245](https://github.com/flutter/flutter/pull/146245) merged on April 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146245) over 56 minutes, 2 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Update ownership to GitHub handles
     <sub>[#146221](https://github.com/flutter/flutter/pull/146221) merged on April 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146221) over 1 hour, 3 additions and 3 deletions in 1 file</sub>
@@ -211,10 +219,6 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
     <sub>[#146331](https://github.com/flutter/flutter/pull/146331) merged on April 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146331) over 52 minutes, 2 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-
-* **[Jesse](https://github.com/sealesj)** &mdash; Refactor docs
-    <sub>[#145998](https://github.com/flutter/flutter/pull/145998) merged on April 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145998) over 4 days, 22 additions and 17 deletions in 2 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Reland "Bump to AGP 8.1/Gradle 8.3 (almost) everywhere"
     <sub>[#146307](https://github.com/flutter/flutter/pull/146307) merged on April 5, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/146307) over 21 hours, 2391 additions and 2013 deletions in 106 files</sub>
