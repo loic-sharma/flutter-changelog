@@ -1371,8 +1371,8 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [Tool] Add ability to check dependencies independently of dev-dependencies, exclude integration_test from dependencies<br />
-    <sub>[#6446](https://github.com/flutter/packages/pull/6446) merged on April 3, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/6446) over 2 days, 75 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Eugene Kuleshov](https://github.com/ekuleshov), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub>[#6446](https://github.com/flutter/packages/pull/6446) merged on April 3, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/6446) over 2 days, 75 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Eugene Kuleshov](https://github.com/ekuleshov)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Redistribute CODEOWNERS<br />
     <sub>[#6457](https://github.com/flutter/packages/pull/6457) merged on April 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6457) over 22 hours, 12 additions and 14 deletions in 1 file</sub><br />
