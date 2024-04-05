@@ -59,6 +59,3 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `_RenderDecorator.computeDryBaseline` <br />
     <sub>[#146365](https://github.com/flutter/flutter/pull/146365) opened on on April 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/146365) 306 additions and 382 deletions in 2 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase the recommended Xcode version to Xcode 15<br />
-    <sub>[#146367](https://github.com/flutter/flutter/pull/146367) opened on on April 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146367) 29 additions and 8 deletions in 3 files</sub><br />
-
