@@ -39,7 +39,7 @@
     <sub>[#145016](https://github.com/flutter/flutter/pull/145016) opened on on March 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145016) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; refactor: Rework getting plugin implementation candidates and plugin resolution<br />
-    <sub>[#145258](https://github.com/flutter/flutter/pull/145258) opened on on March 16, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/145258) 129 additions and 97 deletions in 1 file</sub><br />
+    <sub>[#145258](https://github.com/flutter/flutter/pull/145258) opened on on March 16, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/145258) 129 additions and 97 deletions in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] use dart test to run flutter driver files<br />
     <sub>[#145502](https://github.com/flutter/flutter/pull/145502) opened on on March 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/145502) 17 additions and 7 deletions in 3 files</sub><br />
@@ -61,7 +61,4 @@
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; `flutter/lib/src/`: refactoring if-chains into switch expressions<br />
     <sub>[#146293](https://github.com/flutter/flutter/pull/146293) opened on on April 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/146293) 111 additions and 203 deletions in 19 files</sub><br />
-
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#146348](https://github.com/flutter/flutter/pull/146348) opened on on April 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146348) 3 additions and 3 deletions in 1 file</sub><br />
 
