@@ -692,7 +692,7 @@
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] batch up filter graph command buffers.
-    <sub>[#51912](https://github.com/flutter/engine/pull/51912) merged on April 5, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/51912) over 23 hours, 108 additions and 33 deletions in 7 files</sub>
+    <sub>[#51912](https://github.com/flutter/engine/pull/51912) merged on April 5, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/51912) over 23 hours, 108 additions and 33 deletions in 7 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove #if SHELL_ENABLE_METAL checks in iOS code
