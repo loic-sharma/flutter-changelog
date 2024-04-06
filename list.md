@@ -4,7 +4,7 @@
 
 ### March 30, 2024 to April 5, 2024
 
-53 commits.
+54 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea triple click gestures
     <sub>[#144563](https://github.com/flutter/flutter/pull/144563) merged on April 2, 2024 &mdash; **Extra large:** [62 comments](https://github.com/flutter/flutter/pull/144563) over 4 weeks, 2406 additions and 195 deletions in 9 files</sub>
@@ -80,13 +80,13 @@
     <sub>[#146151](https://github.com/flutter/flutter/pull/146151) merged on April 4, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/146151) over 1 day, 5 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implements `RenderBox.computeDryBaseline` for material render boxes
-    <sub>[#146027](https://github.com/flutter/flutter/pull/146027) merged on April 2, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/146027) over 3 days, 384 additions and 263 deletions in 11 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
 * **[philipfranchi](https://github.com/philipfranchi)** &mdash; Adds semanticsLabel to MenuItemButton
     <sub>[#145846](https://github.com/flutter/flutter/pull/145846) merged on April 4, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/145846) over 1 week, 48 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Francisco Magdaleno](https://github.com/franciscojma86), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implements `RenderBox.computeDryBaseline` for material render boxes
+    <sub>[#146027](https://github.com/flutter/flutter/pull/146027) merged on April 2, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/146027) over 3 days, 384 additions and 263 deletions in 11 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Kallen Tu](https://github.com/kallentu)** &mdash; Add info strings to code blocks.
     <sub>[#146085](https://github.com/flutter/flutter/pull/146085) merged on April 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146085) over 2 hours, 15 additions and 15 deletions in 8 files</sub>
@@ -104,13 +104,17 @@
     <sub>[#143478](https://github.com/flutter/flutter/pull/143478) merged on April 3, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/143478) over 1 month, 69 additions and 9 deletions in 8 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[August](https://github.com/Gustl22)** &mdash; refactor: Perform plugin resolution per platform
+    <sub>[#144506](https://github.com/flutter/flutter/pull/144506) merged on April 5, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/144506) over 1 month, 57 additions and 59 deletions in 1 file</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `computeDryBaseline` for rendering / widgets RenderBoxes
     <sub>[#146143](https://github.com/flutter/flutter/pull/146143) merged on April 3, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/146143) over 1 day, 321 additions and 212 deletions in 9 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[August](https://github.com/Gustl22)** &mdash; refactor: Perform plugin resolution per platform
-    <sub>[#144506](https://github.com/flutter/flutter/pull/144506) merged on April 5, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/144506) over 1 month, 57 additions and 59 deletions in 1 file</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Prepare for RenderDecorator.computeBaseline changes.
+    <sub>[#146363](https://github.com/flutter/flutter/pull/146363) merged on April 6, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/146363) over 1 day, 258 additions and 376 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Bump to AGP 8.1/Gradle 8.3 (almost) everywhere (#146181)"
     <sub>[#146305](https://github.com/flutter/flutter/pull/146305) merged on April 4, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/146305) over 1 minute, 2011 additions and 2386 deletions in 104 files</sub>
@@ -164,13 +168,13 @@
     <sub>[#145998](https://github.com/flutter/flutter/pull/145998) merged on April 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145998) over 4 days, 22 additions and 17 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
-    <sub>[#146245](https://github.com/flutter/flutter/pull/146245) merged on April 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146245) over 56 minutes, 2 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-
 * **[Jesse](https://github.com/sealesj)** &mdash; Refactor analyze
     <sub>[#146138](https://github.com/flutter/flutter/pull/146138) merged on April 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146138) over 5 hours, 22 additions and 14 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
+    <sub>[#146245](https://github.com/flutter/flutter/pull/146245) merged on April 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146245) over 56 minutes, 2 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Update ownership to GitHub handles
     <sub>[#146221](https://github.com/flutter/flutter/pull/146221) merged on April 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146221) over 1 hour, 3 additions and 3 deletions in 1 file</sub>
@@ -204,13 +208,13 @@
     <sub>[#146162](https://github.com/flutter/flutter/pull/146162) merged on April 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146162) over 4 hours, 83 additions and 112 deletions in 2 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Make FileSystem dependency explicit througout.
-    <sub>[#146008](https://github.com/flutter/flutter/pull/146008) merged on April 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146008) over 1 week, 38 additions and 16 deletions in 2 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_container.0.dart API example.
     <sub>[#145995](https://github.com/flutter/flutter/pull/145995) merged on April 1, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/145995) over 3 days, 71 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Make FileSystem dependency explicit througout.
+    <sub>[#146008](https://github.com/flutter/flutter/pull/146008) merged on April 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146008) over 1 week, 38 additions and 16 deletions in 2 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update material_color_utilities package version to latest 0.11.1
     <sub>[#145959](https://github.com/flutter/flutter/pull/145959) merged on April 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/145959) over 4 days, 131 additions and 129 deletions in 61 files</sub>
