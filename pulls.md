@@ -62,3 +62,6 @@
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [Fix]: MenuAnchor is close when screen size change (#146380)<br />
     <sub>[#146384](https://github.com/flutter/flutter/pull/146384) opened on on April 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146384) 17 additions and 1 deletion in 2 files</sub><br />
 
+* **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add hitTestBehavior and rootOverlay to LongPressDraggable constructor…<br />
+    <sub>[#146386](https://github.com/flutter/flutter/pull/146386) opened on on April 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146386) 88 additions and 0 deletions in 2 files</sub><br />
+
