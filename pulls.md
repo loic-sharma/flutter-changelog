@@ -59,3 +59,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `_RenderDecorator.computeDryBaseline` <br />
     <sub>[#146365](https://github.com/flutter/flutter/pull/146365) opened on on April 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/146365) 306 additions and 382 deletions in 2 files</sub><br />
 
+* **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [Fix]: MenuAnchor is close when screen size change (#146380)<br />
+    <sub>[#146384](https://github.com/flutter/flutter/pull/146384) opened on on April 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146384) 17 additions and 1 deletion in 2 files</sub><br />
+
