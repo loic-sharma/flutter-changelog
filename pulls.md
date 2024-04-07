@@ -65,3 +65,6 @@
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add hitTestBehavior and rootOverlay to LongPressDraggable constructor…<br />
     <sub>[#146386](https://github.com/flutter/flutter/pull/146386) opened on on April 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146386) 88 additions and 0 deletions in 2 files</sub><br />
 
+* **[淡泊明志](https://github.com/YueLiXing)** &mdash; use hard link，Optimized directory display in xcode.<br />
+    <sub>[#146396](https://github.com/flutter/flutter/pull/146396) opened on on April 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146396) 11 additions and 1 deletion in 1 file</sub><br />
+
