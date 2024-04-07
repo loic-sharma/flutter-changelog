@@ -1395,7 +1395,11 @@
 
 ### March 30, 2024 to April 5, 2024
 
-10 commits.
+11 commits.
+
+* **[Piotr Denert](https://github.com/pdenert)** &mdash; Add limit to image_picker_platform_interface<br />
+    <sub>[#6434](https://github.com/flutter/packages/pull/6434) merged on April 7, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/packages/pull/6434) over 1 week, 296 additions and 12 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] Camera with MediaSettings: platform implementations (federated)<br />
     <sub>[#5223](https://github.com/flutter/packages/pull/5223) merged on April 5, 2024 &mdash; **Extra large:** [287 comments](https://github.com/flutter/packages/pull/5223) over 5 months, 2703 additions and 416 deletions in 67 files</sub><br />
