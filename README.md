@@ -484,7 +484,11 @@
 
 ### April 6, 2024 to April 12, 2024
 
-4 commits.
+5 commits.
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Run GN before looking for targets. Default to build config targets<br />
+    <sub>[#51956](https://github.com/flutter/engine/pull/51956) merged on April 8, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/51956) over 1 day, 523 additions and 233 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Kallen Tu](https://github.com/kallentu)** &mdash; Add `missing_code_block_language_in_doc_comment` lint to flutter/engine.<br />
     <sub>[#51944](https://github.com/flutter/engine/pull/51944) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51944) over 2 days, 18 additions and 17 deletions in 10 files</sub><br />
