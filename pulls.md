@@ -71,3 +71,6 @@
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add configurable hitTestBehavior to Scrollable<br />
     <sub>[#146403](https://github.com/flutter/flutter/pull/146403) opened on on April 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146403) 82 additions and 1 deletion in 4 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Flutter `README.md` image sources<br />
+    <sub>[#146430](https://github.com/flutter/flutter/pull/146430) opened on on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146430) 2 additions and 2 deletions in 1 file</sub><br />
+
