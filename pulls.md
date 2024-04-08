@@ -68,9 +68,6 @@
 * **[Muhammad Mohiuddin](https://github.com/MohiuddinM)** &mdash; Add shouldRebuild argument to ValueListenableBuilder to control rebuilds<br />
     <sub>[#146397](https://github.com/flutter/flutter/pull/146397) opened on on April 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146397) 93 additions and 1 deletion in 2 files</sub><br />
 
-* **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add configurable hitTestBehavior to Scrollable<br />
-    <sub>[#146403](https://github.com/flutter/flutter/pull/146403) opened on on April 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146403) 82 additions and 1 deletion in 4 files</sub><br />
-
 * **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; fix: Check active entries on parent navigator for `hasActiveRouteBelow`<br />
     <sub>[#146428](https://github.com/flutter/flutter/pull/146428) opened on on April 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146428) 74 additions and 0 deletions in 2 files</sub><br />
 
