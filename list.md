@@ -493,7 +493,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-5 commits.
+6 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Run GN before looking for targets. Default to build config targets
     <sub>[#51956](https://github.com/flutter/engine/pull/51956) merged on April 8, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/51956) over 1 day, 523 additions and 233 deletions in 10 files</sub>
@@ -502,6 +502,10 @@
 * **[Kallen Tu](https://github.com/kallentu)** &mdash; Add `missing_code_block_language_in_doc_comment` lint to flutter/engine.
     <sub>[#51944](https://github.com/flutter/engine/pull/51944) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51944) over 2 days, 18 additions and 17 deletions in 10 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove #if SHELL_ENABLE_METAL checks in darwin code
+    <sub>[#51947](https://github.com/flutter/engine/pull/51947) merged on April 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51947) over 3 days, 17 additions and 40 deletions in 5 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run local_engine.json builds in prod
     <sub>[#51931](https://github.com/flutter/engine/pull/51931) merged on April 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51931) over 3 days, 34 additions and 10 deletions in 4 files</sub>
@@ -1098,7 +1102,7 @@
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[Krešimir Forjan](https://github.com/kforjan)** &mdash; [go_router] Fixes deep links with no path
-    <sub>[#6447](https://github.com/flutter/packages/pull/6447) merged on April 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6447) over 1 week, 83 additions and 11 deletions in 6 files</sub>
+    <sub>[#6447](https://github.com/flutter/packages/pull/6447) merged on April 8, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/6447) over 1 week, 83 additions and 11 deletions in 6 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 ### March 30, 2024 to April 5, 2024
