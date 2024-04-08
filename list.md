@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### April 6, 2024 to April 12, 2024
+
+1 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase the recommended Xcode version to Xcode 15
+    <sub>[#146367](https://github.com/flutter/flutter/pull/146367) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146367) over 2 days, 29 additions and 8 deletions in 3 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 ### March 30, 2024 to April 5, 2024
 
-54 commits.
+<details>
+<summary>54 commits...</summary>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Implement SelectionArea triple click gestures
     <sub>[#144563](https://github.com/flutter/flutter/pull/144563) merged on April 2, 2024 &mdash; **Extra large:** [62 comments](https://github.com/flutter/flutter/pull/144563) over 4 weeks, 2406 additions and 195 deletions in 9 files</sub>
@@ -231,6 +240,8 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Reland "Bump to AGP 8.1/Gradle 8.3 (almost) everywhere"
     <sub>[#146307](https://github.com/flutter/flutter/pull/146307) merged on April 5, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/146307) over 21 hours, 2391 additions and 2013 deletions in 106 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
+</details>
 
 ### March 23, 2024 to March 29, 2024
 
