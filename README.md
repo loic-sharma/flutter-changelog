@@ -4,7 +4,12 @@
 
 ### April 6, 2024 to April 12, 2024
 
-5 commits.
+6 commits.
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Text editing inside of Transformed.scale<br />
+    <sub>[#146019](https://github.com/flutter/flutter/pull/146019) merged on April 8, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/146019) over 1 week, 414 additions and 52 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+    <sub><details><summary>2 images...</summary><img src="https://github.com/flutter/flutter/assets/389558/a5a45472-98c5-4cdf-b382-218971fd9404" /><img src="https://github.com/flutter/flutter/assets/389558/f396a1af-2546-4e38-a9d9-6c6edfa38d94" /></details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add a custom shape example for `AppBar.shape`<br />
     <sub>[#146421](https://github.com/flutter/flutter/pull/146421) merged on April 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146421) over 6 hours, 189 additions and 0 deletions in 3 files</sub><br />

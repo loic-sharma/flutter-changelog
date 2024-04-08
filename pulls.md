@@ -53,9 +53,6 @@
 * **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Update text.dart<br />
     <sub>[#146117](https://github.com/flutter/flutter/pull/146117) opened on on April 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146117) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; `flutter/lib/src/`: refactoring if-chains into switch expressions<br />
-    <sub>[#146293](https://github.com/flutter/flutter/pull/146293) opened on on April 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/146293) 111 additions and 203 deletions in 19 files</sub><br />
-
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [Fix]: MenuAnchor is close when screen size change (#146380)<br />
     <sub>[#146384](https://github.com/flutter/flutter/pull/146384) opened on on April 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146384) 40 additions and 1 deletion in 2 files</sub><br />
 
