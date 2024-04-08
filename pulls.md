@@ -77,6 +77,3 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Flutter `README.md` image sources<br />
     <sub>[#146430](https://github.com/flutter/flutter/pull/146430) opened on on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146430) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Increase the recommended Xcode version to Xcode 15<br />
-    <sub>[#146440](https://github.com/flutter/flutter/pull/146440) opened on on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146440) 29 additions and 8 deletions in 3 files</sub><br />
-
