@@ -110,7 +110,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Set up Kotlin linting step in ci with ktlint<br />
-    <sub>[#143478](https://github.com/flutter/flutter/pull/143478) merged on April 3, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/143478) over 1 month, 69 additions and 9 deletions in 8 files</sub><br />
+    <sub>[#143478](https://github.com/flutter/flutter/pull/143478) merged on April 3, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/143478) over 1 month, 69 additions and 9 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; refactor: Perform plugin resolution per platform<br />
@@ -1046,9 +1046,18 @@
 
 ## flutter/packages
 
+### April 6, 2024 to April 12, 2024
+
+1 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [in_app_purchase] Convert Android data objects to Pigeon<br />
+    <sub>[#6453](https://github.com/flutter/packages/pull/6453) merged on April 8, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/6453) over 5 days, 3049 additions and 640 deletions in 25 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 ### March 30, 2024 to April 5, 2024
 
-11 commits.
+<details>
+<summary>11 commits...</summary>
 
 * **[Piotr Denert](https://github.com/pdenert)** &mdash; Add limit to image_picker_platform_interface<br />
     <sub>[#6434](https://github.com/flutter/packages/pull/6434) merged on April 7, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/packages/pull/6434) over 1 week, 296 additions and 12 deletions in 8 files</sub><br />
@@ -1094,6 +1103,8 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Fix macos_platform_tests package build times out when built for all packages<br />
     <sub>[#6463](https://github.com/flutter/packages/pull/6463) merged on April 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6463) over 54 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+</details>
 
 ### March 23, 2024 to March 29, 2024
 
