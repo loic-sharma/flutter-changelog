@@ -72,5 +72,5 @@
     <sub>[#146428](https://github.com/flutter/flutter/pull/146428) opened on on April 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146428) 74 additions and 0 deletions in 2 files</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Flutter `README.md` image sources<br />
-    <sub>[#146430](https://github.com/flutter/flutter/pull/146430) opened on on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146430) 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#146430](https://github.com/flutter/flutter/pull/146430) opened on on April 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146430) 2 additions and 2 deletions in 1 file</sub><br />
 
