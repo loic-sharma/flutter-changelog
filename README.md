@@ -4,7 +4,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-3 commits.
+4 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add a custom shape example for `AppBar.shape`<br />
     <sub>[#146421](https://github.com/flutter/flutter/pull/146421) merged on April 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146421) over 6 hours, 189 additions and 0 deletions in 3 files</sub><br />
@@ -19,6 +19,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase the recommended Xcode version to Xcode 15<br />
     <sub>[#146367](https://github.com/flutter/flutter/pull/146367) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146367) over 2 days, 29 additions and 8 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#146444](https://github.com/flutter/flutter/pull/146444) merged on April 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146444) over 38 minutes, 76 additions and 76 deletions in 38 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### March 30, 2024 to April 5, 2024
 
