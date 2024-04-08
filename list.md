@@ -4,7 +4,12 @@
 
 ### April 6, 2024 to April 12, 2024
 
-2 commits.
+3 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add a custom shape example for `AppBar.shape`
+    <sub>[#146421](https://github.com/flutter/flutter/pull/146421) merged on April 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146421) over 6 hours, 189 additions and 0 deletions in 3 files</sub>
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
+    <sub><details><summary>1 image...</summary>![Screenshot 2024-04-08 at 14 21 04](https://github.com/flutter/flutter/assets/48603081/ae3eda2b-b709-4652-9f2c-dd7b7dcfeb5c)</details></sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove double heading
     <sub>[#146441](https://github.com/flutter/flutter/pull/146441) merged on April 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146441) over 44 minutes, 0 additions and 2 deletions in 1 file</sub>
@@ -475,7 +480,11 @@
 
 ### April 6, 2024 to April 12, 2024
 
-1 commits.
+2 commits.
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use the AOT snapshot built by the Dart SDK for the frontend server
+    <sub>[#51943](https://github.com/flutter/engine/pull/51943) merged on April 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51943) over 2 days, 17 additions and 15 deletions in 7 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 5b812b9ec220 to f7239b3c25af (13 revisions)
     <sub>[#51964](https://github.com/flutter/engine/pull/51964) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51964) over 2 hours, 6 additions and 6 deletions in 3 files</sub>
