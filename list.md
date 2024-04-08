@@ -115,7 +115,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Set up Kotlin linting step in ci with ktlint
-    <sub>[#143478](https://github.com/flutter/flutter/pull/143478) merged on April 3, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/143478) over 1 month, 69 additions and 9 deletions in 8 files</sub>
+    <sub>[#143478](https://github.com/flutter/flutter/pull/143478) merged on April 3, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/143478) over 1 month, 69 additions and 9 deletions in 8 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[August](https://github.com/Gustl22)** &mdash; refactor: Perform plugin resolution per platform
