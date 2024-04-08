@@ -4,7 +4,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-4 commits.
+5 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add a custom shape example for `AppBar.shape`
     <sub>[#146421](https://github.com/flutter/flutter/pull/146421) merged on April 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146421) over 6 hours, 189 additions and 0 deletions in 3 files</sub>
@@ -19,6 +19,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase the recommended Xcode version to Xcode 15
     <sub>[#146367](https://github.com/flutter/flutter/pull/146367) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146367) over 2 days, 29 additions and 8 deletions in 3 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownButtonFormField throws when onChange is null
+    <sub>[#146342](https://github.com/flutter/flutter/pull/146342) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146342) over 3 days, 35 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
     <sub>[#146444](https://github.com/flutter/flutter/pull/146444) merged on April 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146444) over 38 minutes, 76 additions and 76 deletions in 38 files</sub>
