@@ -83,3 +83,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update gen_keycodes templates<br />
     <sub>[#146481](https://github.com/flutter/flutter/pull/146481) opened on on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146481) 7 additions and 7 deletions in 3 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator label position ignore visual density<br />
+    <sub>[#146488](https://github.com/flutter/flutter/pull/146488) opened on on April 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146488) 159 additions and 9 deletions in 2 files</sub><br />
+
