@@ -1112,7 +1112,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-4 commits.
+5 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [in_app_purchase] Convert Android data objects to Pigeon
     <sub>[#6453](https://github.com/flutter/packages/pull/6453) merged on April 8, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/6453) over 5 days, 3049 additions and 640 deletions in 25 files</sub>
@@ -1125,6 +1125,10 @@
 * **[Krešimir Forjan](https://github.com/kforjan)** &mdash; [go_router] Fixes deep links with no path
     <sub>[#6447](https://github.com/flutter/packages/pull/6447) merged on April 8, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/6447) over 1 week, 83 additions and 11 deletions in 6 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Release compileSdk changes
+    <sub>[#6491](https://github.com/flutter/packages/pull/6491) merged on April 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6491) over 15 hours, 4 additions and 4 deletions in 4 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [camera_android] Remove `TestUtils.java`
     <sub>[#6490](https://github.com/flutter/packages/pull/6490) merged on April 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6490) over 1 hour, 91 additions and 147 deletions in 7 files</sub>
