@@ -66,7 +66,7 @@
     <sub>[#146397](https://github.com/flutter/flutter/pull/146397) opened on on April 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146397) 93 additions and 1 deletion in 2 files</sub><br />
 
 * **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; fix: Check active entries on parent navigator for `hasActiveRouteBelow`<br />
-    <sub>[#146428](https://github.com/flutter/flutter/pull/146428) opened on on April 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146428) 74 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#146428](https://github.com/flutter/flutter/pull/146428) opened on on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146428) 74 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jesse](https://github.com/sealesj)** &mdash; Refactor verify codesigned<br />
     <sub>[#146450](https://github.com/flutter/flutter/pull/146450) opened on on April 8, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/146450) 375 additions and 364 deletions in 3 files</sub><br />
