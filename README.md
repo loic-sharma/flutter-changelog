@@ -498,7 +498,11 @@
 
 ### April 6, 2024 to April 12, 2024
 
-8 commits.
+9 commits.
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement hit testing and handle platform view cursor changes<br />
+    <sub>[#43101](https://github.com/flutter/engine/pull/43101) merged on April 9, 2024 &mdash; **Large:** [15 comments](https://github.com/flutter/engine/pull/43101) over 9 months, 484 additions and 69 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] ensure precision is matched between fragment and vertex stage for PowerVR GPU bug<br />
     <sub>[#51974](https://github.com/flutter/engine/pull/51974) merged on April 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51974) over 1 hour, 70 additions and 70 deletions in 6 files</sub><br />
