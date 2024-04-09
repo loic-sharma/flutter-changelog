@@ -502,7 +502,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-12 commits.
+14 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement hit testing and handle platform view cursor changes
     <sub>[#43101](https://github.com/flutter/engine/pull/43101) merged on April 9, 2024 &mdash; **Large:** [15 comments](https://github.com/flutter/engine/pull/43101) over 9 months, 484 additions and 69 deletions in 10 files</sub>
@@ -528,6 +528,10 @@
     <sub>[#51944](https://github.com/flutter/engine/pull/51944) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51944) over 2 days, 18 additions and 17 deletions in 10 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
+* **[Jim Graham](https://github.com/flar)** &mdash; better output from engine layer unit test failures
+    <sub>[#51975](https://github.com/flutter/engine/pull/51975) merged on April 9, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/51975) over 18 hours, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove #if SHELL_ENABLE_METAL checks in darwin code
     <sub>[#51947](https://github.com/flutter/engine/pull/51947) merged on April 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51947) over 3 days, 17 additions and 40 deletions in 5 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -551,6 +555,10 @@
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 5b812b9ec220 to f7239b3c25af (13 revisions)
     <sub>[#51964](https://github.com/flutter/engine/pull/51964) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51964) over 2 hours, 6 additions and 6 deletions in 3 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Roll Dart SDK from 78174b41ab0f to 7a5e410f982e (1 revision) (#51980)"
+    <sub>[#51990](https://github.com/flutter/engine/pull/51990) merged on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51990) over 1 hour, 5 additions and 5 deletions in 3 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 ### March 30, 2024 to April 5, 2024
 
