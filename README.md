@@ -493,7 +493,15 @@
 
 ### April 6, 2024 to April 12, 2024
 
-6 commits.
+8 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] ensure precision is matched between fragment and vertex stage for PowerVR GPU bug<br />
+    <sub>[#51974](https://github.com/flutter/engine/pull/51974) merged on April 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51974) over 1 hour, 70 additions and 70 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Use Impeller geometry classes in DLMatrixClipTracker<br />
+    <sub>[#51919](https://github.com/flutter/engine/pull/51919) merged on April 9, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/engine/pull/51919) over 4 days, 2017 additions and 642 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Run GN before looking for targets. Default to build config targets<br />
     <sub>[#51956](https://github.com/flutter/engine/pull/51956) merged on April 8, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/51956) over 1 day, 523 additions and 233 deletions in 10 files</sub><br />

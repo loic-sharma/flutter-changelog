@@ -74,6 +74,6 @@
 * **[Jesse](https://github.com/sealesj)** &mdash; Refactor verify codesigned<br />
     <sub>[#146450](https://github.com/flutter/flutter/pull/146450) opened on on April 8, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/146450) 375 additions and 364 deletions in 3 files</sub><br />
 
-* **[hangyu](https://github.com/hangyujin)** &mdash; Update the gradle task to add fallback scheme and host if needed when retrieving deep links.<br />
-    <sub>[#146470](https://github.com/flutter/flutter/pull/146470) opened on on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146470) 59 additions and 5 deletions in 2 files</sub><br />
+* **[delltrak](https://github.com/delltrak)** &mdash; Correction Needed for Broken Links in README.md<br />
+    <sub>[#146472](https://github.com/flutter/flutter/pull/146472) opened on on April 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146472) 2 additions and 2 deletions in 1 file</sub><br />
 
