@@ -502,15 +502,19 @@
 
 ### April 6, 2024 to April 12, 2024
 
-15 commits.
+16 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete engine v1 android embedding
-    <sub>[#51229](https://github.com/flutter/engine/pull/51229) merged on April 9, 2024 &mdash; **Extra large:** [13 comments](https://github.com/flutter/engine/pull/51229) over 1 month, 8 additions and 3574 deletions in 23 files</sub>
+    <sub>[#51229](https://github.com/flutter/engine/pull/51229) merged on April 9, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/engine/pull/51229) over 1 month, 8 additions and 3574 deletions in 23 files</sub>
     <sub>Reviewed by: [HBS](https://github.com/MrHBS), [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement hit testing and handle platform view cursor changes
     <sub>[#43101](https://github.com/flutter/engine/pull/43101) merged on April 9, 2024 &mdash; **Large:** [15 comments](https://github.com/flutter/engine/pull/43101) over 9 months, 484 additions and 69 deletions in 10 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Delete engine v1 android embedding (#51229)"
+    <sub>[#51996](https://github.com/flutter/engine/pull/51996) merged on April 9, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/51996) over 1 minute, 3574 additions and 8 deletions in 23 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Move the Dart SDK to //flutter/third_party/dart
     <sub>[#51917](https://github.com/flutter/engine/pull/51917) merged on April 9, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/51917) over 4 days, 4056 additions and 4053 deletions in 47 files</sub>
