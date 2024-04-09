@@ -681,7 +681,7 @@
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Generate only one "Frame Request Pending" event for each pending call to BeginFrame<br />
-    <sub>[#51857](https://github.com/flutter/engine/pull/51857) merged on April 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51857) over 1 day, 79 additions and 2 deletions in 3 files</sub><br />
+    <sub>[#51857](https://github.com/flutter/engine/pull/51857) merged on April 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51857) over 1 day, 79 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Fixup help text a bit<br />
