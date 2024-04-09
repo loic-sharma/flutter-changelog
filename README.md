@@ -62,15 +62,15 @@
     <sub>Reviewed by: [iaiao](https://github.com/wer-mathurin), [Kate Lovett](https://github.com/Piinks)</sub><br />
     <sub><details><summary>2 images...</summary>![Screenshot 2024-03-25 at 17 13 05](https://github.com/flutter/flutter/assets/48603081/0c91d279-23e8-40d9-ab86-c08013c73666)![Screenshot 2024-03-25 at 17 11 54](https://github.com/flutter/flutter/assets/48603081/d042d02a-e7be-4f47-a90c-8a1ee0f7f5f3)</details></sub>
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix InputDecorator suffix and prefix IconButtons ignore `IconButtonTheme`<br />
+    <sub>[#145473](https://github.com/flutter/flutter/pull/145473) merged on April 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/145473) over 2 weeks, 169 additions and 14 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub><details><summary>2 images...</summary><img src="https://github.com/flutter/flutter/assets/48603081/d0fc8043-8fbf-4dd0-92c3-1c4c60736011"  /><img src="https://github.com/flutter/flutter/assets/48603081/89f5fb3e-112a-48c0-af1e-721456e8a35b" /></details></sub>
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `MenuItemButton` overflow<br />
     <sub>[#143932](https://github.com/flutter/flutter/pull/143932) merged on April 2, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/143932) over 1 month, 181 additions and 21 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
     <sub><details><summary>2 images...</summary>![before](https://github.com/flutter/flutter/assets/48603081/27879cf6-4567-442d-a355-7f8492612fa4)![after](https://github.com/flutter/flutter/assets/48603081/25e5ab90-e2a1-4080-a7e1-51cd98ff0a77)</details></sub>
-
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix InputDecorator suffix and prefix IconButtons ignore `IconButtonTheme`<br />
-    <sub>[#145473](https://github.com/flutter/flutter/pull/145473) merged on April 4, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/145473) over 2 weeks, 169 additions and 14 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc)</sub><br />
-    <sub><details><summary>2 images...</summary><img src="https://github.com/flutter/flutter/assets/48603081/d0fc8043-8fbf-4dd0-92c3-1c4c60736011"  /><img src="https://github.com/flutter/flutter/assets/48603081/89f5fb3e-112a-48c0-af1e-721456e8a35b" /></details></sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix border color is wrong for a focused and hovered TextField<br />
     <sub>[#146127](https://github.com/flutter/flutter/pull/146127) merged on April 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146127) over 6 hours, 88 additions and 12 deletions in 2 files</sub><br />
