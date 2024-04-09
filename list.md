@@ -1102,7 +1102,7 @@
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[Krešimir Forjan](https://github.com/kforjan)** &mdash; [go_router] Fixes deep links with no path
-    <sub>[#6447](https://github.com/flutter/packages/pull/6447) merged on April 8, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/6447) over 1 week, 83 additions and 11 deletions in 6 files</sub>
+    <sub>[#6447](https://github.com/flutter/packages/pull/6447) merged on April 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/6447) over 1 week, 83 additions and 11 deletions in 6 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [camera_android] Remove `TestUtils.java`
