@@ -80,3 +80,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Allow A/B tests to run as just aggretator of local engine benchmarks<br />
     <sub>[#146479](https://github.com/flutter/flutter/pull/146479) opened on on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146479) 26 additions and 15 deletions in 1 file</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update gen_keycodes templates<br />
+    <sub>[#146481](https://github.com/flutter/flutter/pull/146481) opened on on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146481) 7 additions and 7 deletions in 3 files</sub><br />
+
