@@ -69,5 +69,5 @@
     <sub>[#146481](https://github.com/flutter/flutter/pull/146481) opened on on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146481) 7 additions and 7 deletions in 3 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove additional references to engine v1 android embedding<br />
-    <sub>[#146523](https://github.com/flutter/flutter/pull/146523) opened on on April 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146523) 1 addition and 6 deletions in 2 files</sub><br />
+    <sub>[#146523](https://github.com/flutter/flutter/pull/146523) opened on on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146523) 1 addition and 6 deletions in 2 files</sub><br />
 
