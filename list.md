@@ -4,7 +4,12 @@
 
 ### April 6, 2024 to April 12, 2024
 
-10 commits.
+11 commits.
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator label position ignore visual density
+    <sub>[#146488](https://github.com/flutter/flutter/pull/146488) merged on April 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146488) over 13 hours, 159 additions and 9 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+    <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/flutter/assets/840911/bd9bdb6e-477c-4db0-ae8f-74e18d19f29e) | ![image](https://github.com/flutter/flutter/assets/840911/25e59c44-0139-4813-be28-472302d6970e)![image](https://github.com/flutter/flutter/assets/840911/1c52493b-b17b-407b-93cc-69120207b716) | ![image](https://github.com/flutter/flutter/assets/840911/1fc4a8b6-429b-476c-b5bf-ff2934bf5293)</details></sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Text editing inside of Transformed.scale
     <sub>[#146019](https://github.com/flutter/flutter/pull/146019) merged on April 8, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/146019) over 1 week, 414 additions and 52 deletions in 5 files</sub>
