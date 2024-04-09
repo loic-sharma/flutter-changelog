@@ -4,7 +4,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-9 commits.
+10 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Text editing inside of Transformed.scale<br />
     <sub>[#146019](https://github.com/flutter/flutter/pull/146019) merged on April 8, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/146019) over 1 week, 414 additions and 52 deletions in 5 files</sub><br />
@@ -29,6 +29,10 @@
     <sub>[#146441](https://github.com/flutter/flutter/pull/146441) merged on April 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146441) over 44 minutes, 0 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2024-04-08 at 10 03 12 AM](https://github.com/flutter/flutter/assets/1227763/30108439-59e7-43b3-9ba5-fe57e04e7f10)</details></sub>
+
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Support mdns when attaching to proxied devices.<br />
+    <sub>[#146021](https://github.com/flutter/flutter/pull/146021) merged on April 9, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/146021) over 1 week, 897 additions and 121 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase the recommended Xcode version to Xcode 15<br />
     <sub>[#146367](https://github.com/flutter/flutter/pull/146367) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146367) over 2 days, 29 additions and 8 deletions in 3 files</sub><br />
