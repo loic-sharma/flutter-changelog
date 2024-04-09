@@ -550,7 +550,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try postsubmit_overrides for one mac build
-    <sub>[#51676](https://github.com/flutter/engine/pull/51676) merged on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51676) over 2 weeks, 17 additions and 2 deletions in 1 file</sub>
+    <sub>[#51676](https://github.com/flutter/engine/pull/51676) merged on April 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51676) over 2 weeks, 17 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; better output from engine layer unit test failures

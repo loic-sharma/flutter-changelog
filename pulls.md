@@ -53,9 +53,6 @@
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [Fix]: MenuAnchor is close when screen size change (#146380)<br />
     <sub>[#146384](https://github.com/flutter/flutter/pull/146384) opened on on April 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146384) 40 additions and 1 deletion in 2 files</sub><br />
 
-* **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add hitTestBehavior and rootOverlay to LongPressDraggable constructor…<br />
-    <sub>[#146386](https://github.com/flutter/flutter/pull/146386) opened on on April 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146386) 88 additions and 0 deletions in 2 files</sub><br />
-
 * **[淡泊明志](https://github.com/YueLiXing)** &mdash; use hard link，Optimized directory display in xcode.<br />
     <sub>[#146396](https://github.com/flutter/flutter/pull/146396) opened on on April 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146396) 11 additions and 1 deletion in 1 file</sub><br />
 
@@ -70,4 +67,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update gen_keycodes templates<br />
     <sub>[#146481](https://github.com/flutter/flutter/pull/146481) opened on on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146481) 7 additions and 7 deletions in 3 files</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove additional references to engine v1 android embedding<br />
+    <sub>[#146523](https://github.com/flutter/flutter/pull/146523) opened on on April 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146523) 1 addition and 6 deletions in 2 files</sub><br />
 
