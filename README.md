@@ -515,7 +515,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-19 commits.
+20 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete engine v1 android embedding<br />
     <sub>[#51229](https://github.com/flutter/engine/pull/51229) merged on April 9, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/engine/pull/51229) over 1 month, 8 additions and 3574 deletions in 23 files</sub><br />
@@ -528,6 +528,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Delete engine v1 android embedding (#51229)"<br />
     <sub>[#51996](https://github.com/flutter/engine/pull/51996) merged on April 9, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/51996) over 1 minute, 3574 additions and 8 deletions in 23 files</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Refactor KHR swapchains to make it easy to reuse backend agnostic components.<br />
+    <sub>[#52002](https://github.com/flutter/engine/pull/52002) merged on April 9, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/52002) over 1 hour, 435 additions and 282 deletions in 19 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Move the Dart SDK to //flutter/third_party/dart<br />
     <sub>[#51917](https://github.com/flutter/engine/pull/51917) merged on April 9, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/51917) over 4 days, 4056 additions and 4053 deletions in 47 files</sub><br />
