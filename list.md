@@ -4,7 +4,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-7 commits.
+8 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Text editing inside of Transformed.scale
     <sub>[#146019](https://github.com/flutter/flutter/pull/146019) merged on April 8, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/146019) over 1 week, 414 additions and 52 deletions in 5 files</sub>
@@ -29,6 +29,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase the recommended Xcode version to Xcode 15
     <sub>[#146367](https://github.com/flutter/flutter/pull/146367) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146367) over 2 days, 29 additions and 8 deletions in 3 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
+    <sub>[#146515](https://github.com/flutter/flutter/pull/146515) merged on April 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146515) over 48 minutes, 2 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownButtonFormField throws when onChange is null
     <sub>[#146342](https://github.com/flutter/flutter/pull/146342) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146342) over 3 days, 35 additions and 2 deletions in 2 files</sub>
@@ -498,7 +502,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-11 commits.
+12 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement hit testing and handle platform view cursor changes
     <sub>[#43101](https://github.com/flutter/engine/pull/43101) merged on April 9, 2024 &mdash; **Large:** [15 comments](https://github.com/flutter/engine/pull/43101) over 9 months, 484 additions and 69 deletions in 10 files</sub>
@@ -535,6 +539,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use the AOT snapshot built by the Dart SDK for the frontend server
     <sub>[#51943](https://github.com/flutter/engine/pull/51943) merged on April 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51943) over 2 days, 17 additions and 15 deletions in 7 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Reify the SkPicture pointer as the right type.
+    <sub>[#51991](https://github.com/flutter/engine/pull/51991) merged on April 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51991) over 52 minutes, 2 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Dart SDK from 7a5e410f982e to db99af14c4bc (1 revision) (#51986)"
     <sub>[#51989](https://github.com/flutter/engine/pull/51989) merged on April 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51989) over 1 minute, 1 addition and 1 deletion in 1 file</sub>

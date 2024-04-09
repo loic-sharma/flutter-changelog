@@ -74,6 +74,3 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update gen_keycodes templates<br />
     <sub>[#146481](https://github.com/flutter/flutter/pull/146481) opened on on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146481) 7 additions and 7 deletions in 3 files</sub><br />
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#146515](https://github.com/flutter/flutter/pull/146515) opened on on April 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146515) 2 additions and 2 deletions in 1 file</sub><br />
-
