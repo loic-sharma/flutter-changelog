@@ -68,9 +68,6 @@
 * **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; fix: Check active entries on parent navigator for `hasActiveRouteBelow`<br />
     <sub>[#146428](https://github.com/flutter/flutter/pull/146428) opened on on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146428) 74 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jesse](https://github.com/sealesj)** &mdash; Refactor verify codesigned<br />
-    <sub>[#146450](https://github.com/flutter/flutter/pull/146450) opened on on April 8, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/146450) 375 additions and 364 deletions in 3 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Allow A/B tests to run as just aggretator of local engine benchmarks<br />
     <sub>[#146479](https://github.com/flutter/flutter/pull/146479) opened on on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146479) 26 additions and 15 deletions in 1 file</sub><br />
 
