@@ -4,12 +4,17 @@
 
 ### April 6, 2024 to April 12, 2024
 
-6 commits.
+7 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Text editing inside of Transformed.scale<br />
     <sub>[#146019](https://github.com/flutter/flutter/pull/146019) merged on April 8, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/146019) over 1 week, 414 additions and 52 deletions in 5 files</sub><br />
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
     <sub><details><summary>2 images...</summary><img src="https://github.com/flutter/flutter/assets/389558/a5a45472-98c5-4cdf-b382-218971fd9404" /><img src="https://github.com/flutter/flutter/assets/389558/f396a1af-2546-4e38-a9d9-6c6edfa38d94" /></details></sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Flutter `README.md` image sources<br />
+    <sub>[#146430](https://github.com/flutter/flutter/pull/146430) merged on April 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146430) over 17 hours, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+    <sub><details><summary>2 images...</summary>![Screenshot 2024-04-08 at 18 19 30](https://github.com/flutter/flutter/assets/48603081/56549762-b7c8-41a1-89db-cd45cd98b35a)![Screenshot 2024-04-08 at 18 19 23](https://github.com/flutter/flutter/assets/48603081/35d5772f-1144-4166-99cb-fded79550762)</details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add a custom shape example for `AppBar.shape`<br />
     <sub>[#146421](https://github.com/flutter/flutter/pull/146421) merged on April 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146421) over 6 hours, 189 additions and 0 deletions in 3 files</sub><br />
@@ -63,7 +68,7 @@
     <sub><details><summary>2 images...</summary>![before](https://github.com/flutter/flutter/assets/48603081/27879cf6-4567-442d-a355-7f8492612fa4)![after](https://github.com/flutter/flutter/assets/48603081/25e5ab90-e2a1-4080-a7e1-51cd98ff0a77)</details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix InputDecorator suffix and prefix IconButtons ignore `IconButtonTheme`<br />
-    <sub>[#145473](https://github.com/flutter/flutter/pull/145473) merged on April 4, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/145473) over 2 weeks, 169 additions and 14 deletions in 2 files</sub><br />
+    <sub>[#145473](https://github.com/flutter/flutter/pull/145473) merged on April 4, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/145473) over 2 weeks, 169 additions and 14 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc)</sub><br />
     <sub><details><summary>2 images...</summary><img src="https://github.com/flutter/flutter/assets/48603081/d0fc8043-8fbf-4dd0-92c3-1c4c60736011"  /><img src="https://github.com/flutter/flutter/assets/48603081/89f5fb3e-112a-48c0-af1e-721456e8a35b" /></details></sub>
 
