@@ -77,6 +77,3 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update gen_keycodes templates<br />
     <sub>[#146481](https://github.com/flutter/flutter/pull/146481) opened on on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146481) 7 additions and 7 deletions in 3 files</sub><br />
 
-* **[anshshr](https://github.com/anshshr)** &mdash; Update analyze_snippet_code_test.dart<br />
-    <sub>[#146511](https://github.com/flutter/flutter/pull/146511) opened on on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146511) 1 addition and 9 deletions in 1 file</sub><br />
-
