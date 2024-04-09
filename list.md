@@ -4,7 +4,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-8 commits.
+9 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Text editing inside of Transformed.scale
     <sub>[#146019](https://github.com/flutter/flutter/pull/146019) merged on April 8, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/146019) over 1 week, 414 additions and 52 deletions in 5 files</sub>
@@ -15,6 +15,10 @@
     <sub>[#146430](https://github.com/flutter/flutter/pull/146430) merged on April 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146430) over 17 hours, 2 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot 2024-04-08 at 18 19 30](https://github.com/flutter/flutter/assets/48603081/56549762-b7c8-41a1-89db-cd45cd98b35a)![Screenshot 2024-04-08 at 18 19 23](https://github.com/flutter/flutter/assets/48603081/35d5772f-1144-4166-99cb-fded79550762)</details></sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix skwasm tests
+    <sub>[#145570](https://github.com/flutter/flutter/pull/145570) merged on April 9, 2024 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/145570) over 2 weeks, 230 additions and 177 deletions in 48 files</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add a custom shape example for `AppBar.shape`
     <sub>[#146421](https://github.com/flutter/flutter/pull/146421) merged on April 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146421) over 6 hours, 189 additions and 0 deletions in 3 files</sub>
