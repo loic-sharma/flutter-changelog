@@ -68,6 +68,3 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing control flow collections<br />
     <sub>[#146601](https://github.com/flutter/flutter/pull/146601) opened on on April 10, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/146601) 275 additions and 494 deletions in 36 files</sub><br />
 
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Update app Android gradle scripts to use flutter.versionName and flutter.versionCode<br />
-    <sub>[#146604](https://github.com/flutter/flutter/pull/146604) opened on on April 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146604) 4 additions and 40 deletions in 2 files</sub><br />
-
