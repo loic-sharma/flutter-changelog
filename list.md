@@ -523,7 +523,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-27 commits.
+28 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete engine v1 android embedding
     <sub>[#51229](https://github.com/flutter/engine/pull/51229) merged on April 9, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/engine/pull/51229) over 1 month, 8 additions and 3574 deletions in 23 files</sub>
@@ -576,6 +576,10 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Add postsubmit overrides for mac builders.
     <sub>[#51385](https://github.com/flutter/engine/pull/51385) merged on April 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51385) over 3 weeks, 29 additions and 5 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Adds iOS builds to local_engine.json
+    <sub>[#52027](https://github.com/flutter/engine/pull/52027) merged on April 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52027) over 39 minutes, 163 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] NumberNear implements precision-based comparisons
     <sub>[#52001](https://github.com/flutter/engine/pull/52001) merged on April 10, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52001) over 5 hours, 68 additions and 37 deletions in 5 files</sub>
