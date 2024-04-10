@@ -523,7 +523,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-29 commits.
+31 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete engine v1 android embedding<br />
     <sub>[#51229](https://github.com/flutter/engine/pull/51229) merged on April 9, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/engine/pull/51229) over 1 month, 8 additions and 3574 deletions in 23 files</sub><br />
@@ -536,6 +536,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Delete engine v1 android embedding (#51229)"<br />
     <sub>[#51996](https://github.com/flutter/engine/pull/51996) merged on April 9, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/51996) over 1 minute, 3574 additions and 8 deletions in 23 files</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Enable gtest-parallel for Impeller unit tests<br />
+    <sub>[#52004](https://github.com/flutter/engine/pull/52004) merged on April 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52004) over 1 day, 11 additions and 8 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] post image task to main handler.<br />
     <sub>[#52025](https://github.com/flutter/engine/pull/52025) merged on April 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52025) over 1 hour, 3 additions and 1 deletion in 1 file</sub><br />
@@ -576,6 +580,10 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Add postsubmit overrides for mac builders.<br />
     <sub>[#51385](https://github.com/flutter/engine/pull/51385) merged on April 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51385) over 3 weeks, 29 additions and 5 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Manual roll ICU from a622de35ac31 to bad7ddbf9213 (7 revisions)<br />
+    <sub>[#52031](https://github.com/flutter/engine/pull/52031) merged on April 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52031) over 1 hour, 2 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Adds iOS builds to local_engine.json<br />
     <sub>[#52027](https://github.com/flutter/engine/pull/52027) merged on April 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52027) over 39 minutes, 163 additions and 0 deletions in 1 file</sub><br />
