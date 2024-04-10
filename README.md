@@ -523,7 +523,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-28 commits.
+29 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete engine v1 android embedding<br />
     <sub>[#51229](https://github.com/flutter/engine/pull/51229) merged on April 9, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/engine/pull/51229) over 1 month, 8 additions and 3574 deletions in 23 files</sub><br />
@@ -612,6 +612,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use the AOT snapshot built by the Dart SDK for the frontend server<br />
     <sub>[#51943](https://github.com/flutter/engine/pull/51943) merged on April 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51943) over 2 days, 17 additions and 15 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub><br />
+
+* **[William Hesse](https://github.com/whesse)** &mdash; Add additional dependencies to const_finder's pubspec.yaml<br />
+    <sub>[#52033](https://github.com/flutter/engine/pull/52033) merged on April 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52033) over 38 minutes, 4 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove stencil clipping logic.<br />
     <sub>[#51999](https://github.com/flutter/engine/pull/51999) merged on April 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51999) over 1 hour, 14 additions and 95 deletions in 2 files</sub><br />
