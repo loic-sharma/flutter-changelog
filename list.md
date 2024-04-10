@@ -52,7 +52,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownButtonFormField throws when onChange is null
-    <sub>[#146342](https://github.com/flutter/flutter/pull/146342) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146342) over 3 days, 35 additions and 2 deletions in 2 files</sub>
+    <sub>[#146342](https://github.com/flutter/flutter/pull/146342) merged on April 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146342) over 3 days, 35 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
