@@ -4,7 +4,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-12 commits.
+13 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator label position ignore visual density<br />
     <sub>[#146488](https://github.com/flutter/flutter/pull/146488) merged on April 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146488) over 13 hours, 159 additions and 9 deletions in 2 files</sub><br />
@@ -46,6 +46,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase the recommended Xcode version to Xcode 15<br />
     <sub>[#146367](https://github.com/flutter/flutter/pull/146367) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146367) over 2 days, 29 additions and 8 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Convert ProjectMigration and ProjectMigrator to be async<br />
+    <sub>[#146537](https://github.com/flutter/flutter/pull/146537) merged on April 10, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/146537) over 16 hours, 242 additions and 242 deletions in 39 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#146515](https://github.com/flutter/flutter/pull/146515) merged on April 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146515) over 48 minutes, 2 additions and 2 deletions in 1 file</sub><br />
@@ -519,7 +523,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-24 commits.
+25 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete engine v1 android embedding<br />
     <sub>[#51229](https://github.com/flutter/engine/pull/51229) merged on April 9, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/engine/pull/51229) over 1 month, 8 additions and 3574 deletions in 23 files</sub><br />
@@ -532,6 +536,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Delete engine v1 android embedding (#51229)"<br />
     <sub>[#51996](https://github.com/flutter/engine/pull/51996) merged on April 9, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/51996) over 1 minute, 3574 additions and 8 deletions in 23 files</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Use RBE in mac builds in presubmit but not postsubmit<br />
+    <sub>[#52018](https://github.com/flutter/engine/pull/52018) merged on April 10, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/52018) over 51 minutes, 417 additions and 32 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [keyonghan](https://github.com/keyonghan)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Refactor KHR swapchains to make it easy to reuse backend agnostic components.<br />
     <sub>[#52002](https://github.com/flutter/engine/pull/52002) merged on April 9, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/52002) over 1 hour, 435 additions and 282 deletions in 19 files</sub><br />
