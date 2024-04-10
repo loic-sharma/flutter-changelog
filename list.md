@@ -561,6 +561,10 @@
     <sub>[#51956](https://github.com/flutter/engine/pull/51956) merged on April 8, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/51956) over 1 day, 523 additions and 233 deletions in 10 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds --lto flag to build. Plumbs verbose flag differently.
+    <sub>[#52021](https://github.com/flutter/engine/pull/52021) merged on April 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52021) over 1 hour, 65 additions and 26 deletions in 11 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 * **[Kallen Tu](https://github.com/kallentu)** &mdash; Add `missing_code_block_language_in_doc_comment` lint to flutter/engine.
     <sub>[#51944](https://github.com/flutter/engine/pull/51944) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51944) over 2 days, 18 additions and 17 deletions in 10 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
@@ -568,10 +572,6 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Add postsubmit overrides for mac builders.
     <sub>[#51385](https://github.com/flutter/engine/pull/51385) merged on April 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51385) over 3 weeks, 29 additions and 5 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds --lto flag to build. Plumbs verbose flag differently.
-    <sub>[#52021](https://github.com/flutter/engine/pull/52021) merged on April 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52021) over 1 hour, 65 additions and 26 deletions in 11 files</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] NumberNear implements precision-based comparisons
     <sub>[#52001](https://github.com/flutter/engine/pull/52001) merged on April 10, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52001) over 5 hours, 68 additions and 37 deletions in 5 files</sub>
