@@ -1189,7 +1189,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-5 commits.
+6 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [in_app_purchase] Convert Android data objects to Pigeon
     <sub>[#6453](https://github.com/flutter/packages/pull/6453) merged on April 8, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/6453) over 5 days, 3049 additions and 640 deletions in 25 files</sub>
@@ -1210,6 +1210,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [camera_android] Remove `TestUtils.java`
     <sub>[#6490](https://github.com/flutter/packages/pull/6490) merged on April 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6490) over 1 hour, 91 additions and 147 deletions in 7 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [in_app_purchase_android] Cleanup, create listener where it is used
+    <sub>[#6489](https://github.com/flutter/packages/pull/6489) merged on April 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6489) over 1 day, 146 additions and 97 deletions in 8 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Gray Mackall](https://github.com/gmackall)</sub>
 
 ### March 30, 2024 to April 5, 2024
 
