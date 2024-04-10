@@ -71,3 +71,6 @@
 * **[Shahriar Nasim Nafi](https://github.com/SNNafi)** &mdash; Handle cases when activity-alias is used in AndroidManifest.xml<br />
     <sub>[#146548](https://github.com/flutter/flutter/pull/146548) opened on on April 10, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/146548) 533 additions and 2 deletions in 2 files</sub><br />
 
+* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; - Fixes state leaking text controller<br />
+    <sub>[#146571](https://github.com/flutter/flutter/pull/146571) opened on on April 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146571) 7 additions and 3 deletions in 2 files</sub><br />
+
