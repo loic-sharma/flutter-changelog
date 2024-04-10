@@ -4,7 +4,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-14 commits.
+15 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator label position ignore visual density<br />
     <sub>[#146488](https://github.com/flutter/flutter/pull/146488) merged on April 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146488) over 13 hours, 159 additions and 9 deletions in 2 files</sub><br />
@@ -50,6 +50,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase the recommended Xcode version to Xcode 15<br />
     <sub>[#146367](https://github.com/flutter/flutter/pull/146367) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146367) over 2 days, 29 additions and 8 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#146606](https://github.com/flutter/flutter/pull/146606) merged on April 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146606) over 50 minutes, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Convert ProjectMigration and ProjectMigrator to be async<br />
     <sub>[#146537](https://github.com/flutter/flutter/pull/146537) merged on April 10, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/146537) over 16 hours, 242 additions and 242 deletions in 39 files</sub><br />
