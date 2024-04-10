@@ -48,7 +48,7 @@
     <sub>[#146117](https://github.com/flutter/flutter/pull/146117) opened on on April 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146117) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [Fix]: MenuAnchor is close when screen size change (#146380)<br />
-    <sub>[#146384](https://github.com/flutter/flutter/pull/146384) opened on on April 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146384) 40 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#146384](https://github.com/flutter/flutter/pull/146384) opened on on April 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146384) 40 additions and 1 deletion in 2 files</sub><br />
 
 * **[淡泊明志](https://github.com/YueLiXing)** &mdash; use hard link，Optimized directory display in xcode.<br />
     <sub>[#146396](https://github.com/flutter/flutter/pull/146396) opened on on April 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146396) 11 additions and 1 deletion in 1 file</sub><br />
@@ -60,7 +60,7 @@
     <sub>[#146428](https://github.com/flutter/flutter/pull/146428) opened on on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146428) 74 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Allow A/B tests to run as just aggretator of local engine benchmarks<br />
-    <sub>[#146479](https://github.com/flutter/flutter/pull/146479) opened on on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146479) 26 additions and 15 deletions in 1 file</sub><br />
+    <sub>[#146479](https://github.com/flutter/flutter/pull/146479) opened on on April 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146479) 26 additions and 15 deletions in 1 file</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update gen_keycodes templates<br />
     <sub>[#146481](https://github.com/flutter/flutter/pull/146481) opened on on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146481) 7 additions and 7 deletions in 3 files</sub><br />
