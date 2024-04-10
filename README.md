@@ -4,7 +4,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-13 commits.
+14 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator label position ignore visual density<br />
     <sub>[#146488](https://github.com/flutter/flutter/pull/146488) merged on April 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146488) over 13 hours, 159 additions and 9 deletions in 2 files</sub><br />
@@ -42,6 +42,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Correct doc for AnimationMin<br />
     <sub>[#146531](https://github.com/flutter/flutter/pull/146531) merged on April 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146531) over 51 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove additional references to engine v1 android embedding<br />
+    <sub>[#146523](https://github.com/flutter/flutter/pull/146523) merged on April 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146523) over 1 day, 1 addition and 6 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase the recommended Xcode version to Xcode 15<br />
     <sub>[#146367](https://github.com/flutter/flutter/pull/146367) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146367) over 2 days, 29 additions and 8 deletions in 3 files</sub><br />
@@ -523,7 +527,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-31 commits.
+33 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete engine v1 android embedding<br />
     <sub>[#51229](https://github.com/flutter/engine/pull/51229) merged on April 9, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/engine/pull/51229) over 1 month, 8 additions and 3574 deletions in 23 files</sub><br />
@@ -569,6 +573,10 @@
     <sub>[#51956](https://github.com/flutter/engine/pull/51956) merged on April 8, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/51956) over 1 day, 523 additions and 233 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate FlutterRestorationPlugin, FlutterTextureRegistryRelay, FlutterScreenAndSceneIfLoaded to ARC<br />
+    <sub>[#51984](https://github.com/flutter/engine/pull/51984) merged on April 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/51984) over 1 day, 15 additions and 17 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds --lto flag to build. Plumbs verbose flag differently.<br />
     <sub>[#52021](https://github.com/flutter/engine/pull/52021) merged on April 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52021) over 1 hour, 65 additions and 26 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
@@ -580,6 +588,10 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Add postsubmit overrides for mac builders.<br />
     <sub>[#51385](https://github.com/flutter/engine/pull/51385) merged on April 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51385) over 3 weeks, 29 additions and 5 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Engine] allow --enable-asserts flag to be passed to dart vm in profile mode.<br />
+    <sub>[#52029](https://github.com/flutter/engine/pull/52029) merged on April 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52029) over 2 hours, 11 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Manual roll ICU from a622de35ac31 to bad7ddbf9213 (7 revisions)<br />
     <sub>[#52031](https://github.com/flutter/engine/pull/52031) merged on April 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52031) over 1 hour, 2 additions and 3 deletions in 2 files</sub><br />
