@@ -71,9 +71,6 @@
 * **[Shahriar Nasim Nafi](https://github.com/SNNafi)** &mdash; Handle cases when activity-alias is used in AndroidManifest.xml<br />
     <sub>[#146548](https://github.com/flutter/flutter/pull/146548) opened on on April 10, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/146548) 533 additions and 2 deletions in 2 files</sub><br />
 
-* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; - Fixes _DropdownMenuState leaking text controller<br />
-    <sub>[#146571](https://github.com/flutter/flutter/pull/146571) opened on on April 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146571) 7 additions and 3 deletions in 2 files</sub><br />
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix label text color is wrong for a focused and hovered TextField<br />
     <sub>[#146572](https://github.com/flutter/flutter/pull/146572) opened on on April 10, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/146572) 385 additions and 78 deletions in 3 files</sub><br />
 
