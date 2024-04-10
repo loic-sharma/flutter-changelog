@@ -71,3 +71,6 @@
 * **[Shahriar Nasim Nafi](https://github.com/SNNafi)** &mdash; Handle cases when activity-alias is used in AndroidManifest.xml<br />
     <sub>[#146548](https://github.com/flutter/flutter/pull/146548) opened on on April 10, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/146548) 533 additions and 2 deletions in 2 files</sub><br />
 
+* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update CS and googlesource.com link branches<br />
+    <sub>[#146558](https://github.com/flutter/flutter/pull/146558) opened on on April 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146558) 9 additions and 9 deletions in 6 files</sub><br />
+
