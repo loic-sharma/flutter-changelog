@@ -523,7 +523,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-26 commits.
+27 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete engine v1 android embedding
     <sub>[#51229](https://github.com/flutter/engine/pull/51229) merged on April 9, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/engine/pull/51229) over 1 month, 8 additions and 3574 deletions in 23 files</sub>
@@ -536,6 +536,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Delete engine v1 android embedding (#51229)"
     <sub>[#51996](https://github.com/flutter/engine/pull/51996) merged on April 9, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/51996) over 1 minute, 3574 additions and 8 deletions in 23 files</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] post image task to main handler.
+    <sub>[#52025](https://github.com/flutter/engine/pull/52025) merged on April 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52025) over 1 hour, 3 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Use RBE in mac builds in presubmit but not postsubmit
     <sub>[#52018](https://github.com/flutter/engine/pull/52018) merged on April 10, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/52018) over 51 minutes, 417 additions and 32 deletions in 3 files</sub>
