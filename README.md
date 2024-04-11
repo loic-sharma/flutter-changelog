@@ -4,7 +4,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-19 commits.
+20 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator label position ignore visual density<br />
     <sub>[#146488](https://github.com/flutter/flutter/pull/146488) merged on April 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146488) over 13 hours, 159 additions and 9 deletions in 2 files</sub><br />
@@ -50,6 +50,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Correct doc for AnimationMin<br />
     <sub>[#146531](https://github.com/flutter/flutter/pull/146531) merged on April 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146531) over 51 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Update app Android gradle scripts to use flutter.versionName and flutter.versionCode<br />
+    <sub>[#146604](https://github.com/flutter/flutter/pull/146604) merged on April 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146604) over 16 hours, 4 additions and 40 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [tools] Fix `--template=plugin_ffi` formatting<br />
     <sub>[#146269](https://github.com/flutter/flutter/pull/146269) merged on April 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146269) over 6 days, 1 addition and 2 deletions in 1 file</sub><br />
