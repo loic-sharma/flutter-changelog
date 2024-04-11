@@ -4,7 +4,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-15 commits.
+16 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator label position ignore visual density<br />
     <sub>[#146488](https://github.com/flutter/flutter/pull/146488) merged on April 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146488) over 13 hours, 159 additions and 9 deletions in 2 files</sub><br />
@@ -42,6 +42,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Correct doc for AnimationMin<br />
     <sub>[#146531](https://github.com/flutter/flutter/pull/146531) merged on April 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146531) over 51 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Disable single character mode in the terminal when exiting flutter_tools<br />
+    <sub>[#146534](https://github.com/flutter/flutter/pull/146534) merged on April 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/146534) over 1 day, 21 additions and 2 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove additional references to engine v1 android embedding<br />
     <sub>[#146523](https://github.com/flutter/flutter/pull/146523) merged on April 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146523) over 1 day, 1 addition and 6 deletions in 2 files</sub><br />
