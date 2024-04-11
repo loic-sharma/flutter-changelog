@@ -4,7 +4,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-21 commits.
+22 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator label position ignore visual density<br />
     <sub>[#146488](https://github.com/flutter/flutter/pull/146488) merged on April 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146488) over 13 hours, 159 additions and 9 deletions in 2 files</sub><br />
@@ -54,6 +54,10 @@
 * **[Jesse](https://github.com/sealesj)** &mdash; Refactor verify codesigned<br />
     <sub>[#146450](https://github.com/flutter/flutter/pull/146450) merged on April 11, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/146450) over 2 days, 375 additions and 364 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaking curved animation.<br />
+    <sub>[#146644](https://github.com/flutter/flutter/pull/146644) merged on April 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146644) over 2 hours, 12 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jacob Richman](https://github.com/jacob314)</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Update app Android gradle scripts to use flutter.versionName and flutter.versionCode<br />
     <sub>[#146604](https://github.com/flutter/flutter/pull/146604) merged on April 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146604) over 16 hours, 4 additions and 40 deletions in 2 files</sub><br />
