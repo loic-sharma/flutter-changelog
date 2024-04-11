@@ -80,6 +80,3 @@
 * **[abylaykhan](https://github.com/abikko)** &mdash; Added ListTileControlAffinity into the ListTileTheme<br />
     <sub>[#146630](https://github.com/flutter/flutter/pull/146630) opened on on April 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146630) 61 additions and 34 deletions in 5 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix filled text field active indicator overflows container bounds<br />
-    <sub>[#146637](https://github.com/flutter/flutter/pull/146637) opened on on April 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146637) 74 additions and 57 deletions in 2 files</sub><br />
-
