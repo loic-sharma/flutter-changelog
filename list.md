@@ -559,7 +559,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-38 commits.
+39 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete engine v1 android embedding
     <sub>[#51229](https://github.com/flutter/engine/pull/51229) merged on April 9, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/engine/pull/51229) over 1 month, 8 additions and 3574 deletions in 23 files</sub>
@@ -577,9 +577,13 @@
     <sub>[#51759](https://github.com/flutter/engine/pull/51759) merged on April 11, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/51759) over 1 week, 219 additions and 10 deletions in 2 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Allow adding/removing views
-    <sub>[#51923](https://github.com/flutter/engine/pull/51923) merged on April 11, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/51923) over 6 days, 275 additions and 25 deletions in 9 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt), [yaakovschectman](https://github.com/yaakovschectman)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] ensure precision is matched between fragment and vertex stage for PowerVR GPU bug
+    <sub>[#51974](https://github.com/flutter/engine/pull/51974) merged on April 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51974) over 1 hour, 70 additions and 70 deletions in 6 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Use Impeller geometry classes in DLMatrixClipTracker
+    <sub>[#51919](https://github.com/flutter/engine/pull/51919) merged on April 9, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/engine/pull/51919) over 4 days, 2017 additions and 642 deletions in 13 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Enable gtest-parallel for Impeller unit tests
     <sub>[#52004](https://github.com/flutter/engine/pull/52004) merged on April 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52004) over 1 day, 11 additions and 8 deletions in 1 file</sub>
@@ -601,17 +605,13 @@
     <sub>[#51917](https://github.com/flutter/engine/pull/51917) merged on April 9, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/51917) over 4 days, 4056 additions and 4053 deletions in 47 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] ensure precision is matched between fragment and vertex stage for PowerVR GPU bug
-    <sub>[#51974](https://github.com/flutter/engine/pull/51974) merged on April 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51974) over 1 hour, 70 additions and 70 deletions in 6 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Run GN before looking for targets. Default to build config targets
     <sub>[#51956](https://github.com/flutter/engine/pull/51956) merged on April 8, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/51956) over 1 day, 523 additions and 233 deletions in 10 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Jim Graham](https://github.com/flar)** &mdash; Use Impeller geometry classes in DLMatrixClipTracker
-    <sub>[#51919](https://github.com/flutter/engine/pull/51919) merged on April 9, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/engine/pull/51919) over 4 days, 2017 additions and 642 deletions in 13 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Allow adding/removing views
+    <sub>[#51923](https://github.com/flutter/engine/pull/51923) merged on April 11, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/51923) over 6 days, 275 additions and 25 deletions in 9 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate FlutterRestorationPlugin, FlutterTextureRegistryRelay, FlutterScreenAndSceneIfLoaded to ARC
     <sub>[#51984](https://github.com/flutter/engine/pull/51984) merged on April 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/51984) over 1 day, 15 additions and 17 deletions in 6 files</sub>
@@ -628,6 +628,10 @@
 * **[godofredoc](https://github.com/godofredoc)** &mdash; Add postsubmit overrides for mac builders.
     <sub>[#51385](https://github.com/flutter/engine/pull/51385) merged on April 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51385) over 3 weeks, 29 additions and 5 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Save and restore OpenGL bindings that are changed by fl_renderer_render
+    <sub>[#51887](https://github.com/flutter/engine/pull/51887) merged on April 11, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/51887) over 1 week, 95 additions and 1 deletion in 5 files</sub>
+    <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Correctly plumb usage line length limit
     <sub>[#52039](https://github.com/flutter/engine/pull/52039) merged on April 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52039) over 17 hours, 83 additions and 9 deletions in 11 files</sub>
@@ -649,17 +653,17 @@
     <sub>[#52001](https://github.com/flutter/engine/pull/52001) merged on April 10, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52001) over 5 hours, 68 additions and 37 deletions in 5 files</sub>
     <sub>Reviewed by: [Gaël](https://github.com/Logharaa), [Brandon DeRosier](https://github.com/bdero)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Use type safe masks for HardwareBufferUsage.
-    <sub>[#52008](https://github.com/flutter/engine/pull/52008) merged on April 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52008) over 3 hours, 18 additions and 16 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove #if SHELL_ENABLE_METAL checks in darwin code
+    <sub>[#51947](https://github.com/flutter/engine/pull/51947) merged on April 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51947) over 3 days, 17 additions and 40 deletions in 5 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use the AOT snapshot built by the Dart SDK for the frontend server
+    <sub>[#51943](https://github.com/flutter/engine/pull/51943) merged on April 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51943) over 2 days, 17 additions and 15 deletions in 7 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run local_engine.json builds in prod
     <sub>[#51931](https://github.com/flutter/engine/pull/51931) merged on April 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51931) over 3 days, 34 additions and 10 deletions in 4 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove #if SHELL_ENABLE_METAL checks in darwin code
-    <sub>[#51947](https://github.com/flutter/engine/pull/51947) merged on April 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51947) over 3 days, 17 additions and 40 deletions in 5 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update embedder example apps to run with the current engine tree
     <sub>[#51995](https://github.com/flutter/engine/pull/51995) merged on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51995) over 4 hours, 10 additions and 4 deletions in 7 files</sub>
@@ -673,13 +677,9 @@
     <sub>[#51975](https://github.com/flutter/engine/pull/51975) merged on April 9, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/51975) over 18 hours, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use the AOT snapshot built by the Dart SDK for the frontend server
-    <sub>[#51943](https://github.com/flutter/engine/pull/51943) merged on April 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51943) over 2 days, 17 additions and 15 deletions in 7 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub>
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Reify the SkPicture pointer as the right type.
-    <sub>[#51991](https://github.com/flutter/engine/pull/51991) merged on April 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51991) over 52 minutes, 2 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Use type safe masks for HardwareBufferUsage.
+    <sub>[#52008](https://github.com/flutter/engine/pull/52008) merged on April 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52008) over 3 hours, 18 additions and 16 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Dart SDK from 7a5e410f982e to db99af14c4bc (1 revision) (#51986)"
     <sub>[#51989](https://github.com/flutter/engine/pull/51989) merged on April 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51989) over 1 minute, 1 addition and 1 deletion in 1 file</sub>
@@ -700,6 +700,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove StC flag.
     <sub>[#51992](https://github.com/flutter/engine/pull/51992) merged on April 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51992) over 1 hour, 21 additions and 140 deletions in 11 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Reify the SkPicture pointer as the right type.
+    <sub>[#51991](https://github.com/flutter/engine/pull/51991) merged on April 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51991) over 52 minutes, 2 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 5b812b9ec220 to f7239b3c25af (13 revisions)
     <sub>[#51964](https://github.com/flutter/engine/pull/51964) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51964) over 2 hours, 6 additions and 6 deletions in 3 files</sub>
