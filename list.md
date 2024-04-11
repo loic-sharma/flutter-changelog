@@ -551,7 +551,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-36 commits.
+37 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete engine v1 android embedding
     <sub>[#51229](https://github.com/flutter/engine/pull/51229) merged on April 9, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/engine/pull/51229) over 1 month, 8 additions and 3574 deletions in 23 files</sub>
@@ -617,6 +617,10 @@
     <sub>[#51385](https://github.com/flutter/engine/pull/51385) merged on April 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51385) over 3 weeks, 29 additions and 5 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Correctly plumb usage line length limit
+    <sub>[#52039](https://github.com/flutter/engine/pull/52039) merged on April 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52039) over 17 hours, 83 additions and 9 deletions in 11 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Engine] allow --enable-asserts flag to be passed to dart vm in profile mode.
     <sub>[#52029](https://github.com/flutter/engine/pull/52029) merged on April 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52029) over 2 hours, 11 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub>
@@ -637,9 +641,9 @@
     <sub>[#52008](https://github.com/flutter/engine/pull/52008) merged on April 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52008) over 3 hours, 18 additions and 16 deletions in 2 files</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update embedder example apps to run with the current engine tree
-    <sub>[#51995](https://github.com/flutter/engine/pull/51995) merged on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51995) over 4 hours, 10 additions and 4 deletions in 7 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run local_engine.json builds in prod
+    <sub>[#51931](https://github.com/flutter/engine/pull/51931) merged on April 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51931) over 3 days, 34 additions and 10 deletions in 4 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use the AOT snapshot built by the Dart SDK for the frontend server
     <sub>[#51943](https://github.com/flutter/engine/pull/51943) merged on April 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51943) over 2 days, 17 additions and 15 deletions in 7 files</sub>
@@ -649,9 +653,9 @@
     <sub>[#51975](https://github.com/flutter/engine/pull/51975) merged on April 9, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/51975) over 18 hours, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run local_engine.json builds in prod
-    <sub>[#51931](https://github.com/flutter/engine/pull/51931) merged on April 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51931) over 3 days, 34 additions and 10 deletions in 4 files</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update embedder example apps to run with the current engine tree
+    <sub>[#51995](https://github.com/flutter/engine/pull/51995) merged on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51995) over 4 hours, 10 additions and 4 deletions in 7 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try postsubmit_overrides for one mac build
     <sub>[#51676](https://github.com/flutter/engine/pull/51676) merged on April 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51676) over 2 weeks, 17 additions and 2 deletions in 1 file</sub>
@@ -660,10 +664,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove #if SHELL_ENABLE_METAL checks in darwin code
     <sub>[#51947](https://github.com/flutter/engine/pull/51947) merged on April 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51947) over 3 days, 17 additions and 40 deletions in 5 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove stencil clipping logic.
-    <sub>[#51999](https://github.com/flutter/engine/pull/51999) merged on April 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51999) over 1 hour, 14 additions and 95 deletions in 2 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove StC flag.
     <sub>[#51992](https://github.com/flutter/engine/pull/51992) merged on April 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51992) over 1 hour, 21 additions and 140 deletions in 11 files</sub>
@@ -683,6 +683,10 @@
 
 * **[William Hesse](https://github.com/whesse)** &mdash; Add additional dependencies to const_finder's pubspec.yaml
     <sub>[#52033](https://github.com/flutter/engine/pull/52033) merged on April 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52033) over 38 minutes, 4 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove stencil clipping logic.
+    <sub>[#51999](https://github.com/flutter/engine/pull/51999) merged on April 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51999) over 1 hour, 14 additions and 95 deletions in 2 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 5b812b9ec220 to f7239b3c25af (13 revisions)
