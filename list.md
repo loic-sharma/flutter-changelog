@@ -551,7 +551,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-33 commits.
+34 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete engine v1 android embedding
     <sub>[#51229](https://github.com/flutter/engine/pull/51229) merged on April 9, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/engine/pull/51229) over 1 month, 8 additions and 3574 deletions in 23 files</sub>
@@ -637,9 +637,9 @@
     <sub>[#51995](https://github.com/flutter/engine/pull/51995) merged on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51995) over 4 hours, 10 additions and 4 deletions in 7 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try postsubmit_overrides for one mac build
-    <sub>[#51676](https://github.com/flutter/engine/pull/51676) merged on April 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51676) over 2 weeks, 17 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use the AOT snapshot built by the Dart SDK for the frontend server
+    <sub>[#51943](https://github.com/flutter/engine/pull/51943) merged on April 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51943) over 2 days, 17 additions and 15 deletions in 7 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; better output from engine layer unit test failures
     <sub>[#51975](https://github.com/flutter/engine/pull/51975) merged on April 9, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/51975) over 18 hours, 1 addition and 0 deletions in 1 file</sub>
@@ -653,9 +653,13 @@
     <sub>[#51931](https://github.com/flutter/engine/pull/51931) merged on April 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51931) over 3 days, 34 additions and 10 deletions in 4 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use the AOT snapshot built by the Dart SDK for the frontend server
-    <sub>[#51943](https://github.com/flutter/engine/pull/51943) merged on April 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51943) over 2 days, 17 additions and 15 deletions in 7 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub>
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try postsubmit_overrides for one mac build
+    <sub>[#51676](https://github.com/flutter/engine/pull/51676) merged on April 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51676) over 2 weeks, 17 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Dart SDK from 764bdb7d0344 to 0219e897c6ac (1 revision) (#52053)"
+    <sub>[#52058](https://github.com/flutter/engine/pull/52058) merged on April 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52058) over 58 seconds, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[William Hesse](https://github.com/whesse)** &mdash; Add additional dependencies to const_finder's pubspec.yaml
     <sub>[#52033](https://github.com/flutter/engine/pull/52033) merged on April 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52033) over 38 minutes, 4 additions and 0 deletions in 1 file</sub>
