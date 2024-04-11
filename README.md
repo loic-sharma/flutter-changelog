@@ -1308,6 +1308,10 @@
     <sub>[#6447](https://github.com/flutter/packages/pull/6447) merged on April 8, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/6447) over 1 week, 83 additions and 11 deletions in 6 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
+* **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Access current location using uri.path to support deep links<br />
+    <sub>[#6474](https://github.com/flutter/packages/pull/6474) merged on April 11, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/6474) over 5 days, 47 additions and 38 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
+
 * **[Eugene Kuleshov](https://github.com/ekuleshov)** &mdash; [tool] Check for `test` and `flutter_test` in non-dev dependencies<br />
     <sub>[#6472](https://github.com/flutter/packages/pull/6472) merged on April 10, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/6472) over 4 days, 29 additions and 11 deletions in 6 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
@@ -1319,10 +1323,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [camera_android] Remove `TestUtils.java`<br />
     <sub>[#6490](https://github.com/flutter/packages/pull/6490) merged on April 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6490) over 1 hour, 91 additions and 147 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Access current location using uri.path to support deep links<br />
-    <sub>[#6474](https://github.com/flutter/packages/pull/6474) merged on April 11, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/6474) over 5 days, 47 additions and 38 deletions in 12 files</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Shorten interval for releasing weak references to Dart-wrapped native objects<br />
     <sub>[#6493](https://github.com/flutter/packages/pull/6493) merged on April 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6493) over 23 hours, 59 additions and 7 deletions in 4 files</sub><br />
