@@ -1320,16 +1320,16 @@
     <sub>[#6238](https://github.com/flutter/packages/pull/6238) merged on April 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6238) over 1 month, 33 additions and 3 deletions in 5 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
+* **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Access current location using uri.path to support deep links
+    <sub>[#6474](https://github.com/flutter/packages/pull/6474) merged on April 11, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/6474) over 5 days, 47 additions and 38 deletions in 12 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
+
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [packages] Set parallelizable to NO to reduce test flakiness in packages project tests
     <sub>[#6471](https://github.com/flutter/packages/pull/6471) merged on April 11, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6471) over 5 days, 7 additions and 7 deletions in 4 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Krešimir Forjan](https://github.com/kforjan)** &mdash; [go_router] Fixes deep links with no path
     <sub>[#6447](https://github.com/flutter/packages/pull/6447) merged on April 8, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/6447) over 1 week, 83 additions and 11 deletions in 6 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
-
-* **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Access current location using uri.path to support deep links
-    <sub>[#6474](https://github.com/flutter/packages/pull/6474) merged on April 11, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/6474) over 5 days, 47 additions and 38 deletions in 12 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[Eugene Kuleshov](https://github.com/ekuleshov)** &mdash; [tool] Check for `test` and `flutter_test` in non-dev dependencies
