@@ -48,7 +48,7 @@
     <sub>[#146117](https://github.com/flutter/flutter/pull/146117) opened on on April 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146117) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [Fix]: MenuAnchor is close when screen size change (#146380)<br />
-    <sub>[#146384](https://github.com/flutter/flutter/pull/146384) opened on on April 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146384) 40 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#146384](https://github.com/flutter/flutter/pull/146384) opened on on April 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146384) 40 additions and 1 deletion in 2 files</sub><br />
 
 * **[淡泊明志](https://github.com/YueLiXing)** &mdash; use hard link，Optimized directory display in xcode.<br />
     <sub>[#146396](https://github.com/flutter/flutter/pull/146396) opened on on April 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146396) 11 additions and 1 deletion in 1 file</sub><br />
@@ -69,5 +69,5 @@
     <sub>[#146601](https://github.com/flutter/flutter/pull/146601) opened on on April 10, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/146601) 275 additions and 494 deletions in 36 files</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Revert getOffsetForCaret logarithmic search fix<br />
-    <sub>[#146608](https://github.com/flutter/flutter/pull/146608) opened on on April 10, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/146608) 812 additions and 915 deletions in 7 files</sub><br />
+    <sub>[#146608](https://github.com/flutter/flutter/pull/146608) opened on on April 10, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/146608) 812 additions and 915 deletions in 7 files</sub><br />
 
