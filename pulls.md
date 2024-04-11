@@ -77,3 +77,6 @@
 * **[Rexios](https://github.com/Rexios80)** &mdash; Add CopyInterceptor support to SelectionArea<br />
     <sub>[#146625](https://github.com/flutter/flutter/pull/146625) opened on on April 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146625) 161 additions and 14 deletions in 5 files</sub><br />
 
+* **[abylaykhan](https://github.com/abikko)** &mdash; Added ListTileControlAffinity into the ListTileTheme<br />
+    <sub>[#146630](https://github.com/flutter/flutter/pull/146630) opened on on April 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146630) 38 additions and 13 deletions in 5 files</sub><br />
+
