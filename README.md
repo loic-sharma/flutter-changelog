@@ -559,7 +559,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-40 commits.
+41 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete engine v1 android embedding<br />
     <sub>[#51229](https://github.com/flutter/engine/pull/51229) merged on April 9, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/engine/pull/51229) over 1 month, 8 additions and 3574 deletions in 23 files</sub><br />
@@ -576,6 +576,14 @@
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Composite multiple layers in Windows software rendering<br />
     <sub>[#51759](https://github.com/flutter/engine/pull/51759) merged on April 11, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/51759) over 1 week, 219 additions and 10 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Use Impeller geometry classes in DLMatrixClipTracker<br />
+    <sub>[#51919](https://github.com/flutter/engine/pull/51919) merged on April 9, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/engine/pull/51919) over 4 days, 2017 additions and 642 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Move the Dart SDK to //flutter/third_party/dart<br />
+    <sub>[#51917](https://github.com/flutter/engine/pull/51917) merged on April 9, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/51917) over 4 days, 4056 additions and 4053 deletions in 47 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] ensure precision is matched between fragment and vertex stage for PowerVR GPU bug<br />
     <sub>[#51974](https://github.com/flutter/engine/pull/51974) merged on April 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51974) over 1 hour, 70 additions and 70 deletions in 6 files</sub><br />
@@ -601,29 +609,25 @@
     <sub>[#52002](https://github.com/flutter/engine/pull/52002) merged on April 9, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/52002) over 1 hour, 435 additions and 282 deletions in 19 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Move the Dart SDK to //flutter/third_party/dart<br />
-    <sub>[#51917](https://github.com/flutter/engine/pull/51917) merged on April 9, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/51917) over 4 days, 4056 additions and 4053 deletions in 47 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[Jim Graham](https://github.com/flar)** &mdash; Use Impeller geometry classes in DLMatrixClipTracker<br />
-    <sub>[#51919](https://github.com/flutter/engine/pull/51919) merged on April 9, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/engine/pull/51919) over 4 days, 2017 additions and 642 deletions in 13 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Run GN before looking for targets. Default to build config targets<br />
     <sub>[#51956](https://github.com/flutter/engine/pull/51956) merged on April 8, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/51956) over 1 day, 523 additions and 233 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds --lto flag to build. Plumbs verbose flag differently.<br />
+    <sub>[#52021](https://github.com/flutter/engine/pull/52021) merged on April 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52021) over 1 hour, 65 additions and 26 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate FlutterRestorationPlugin, FlutterTextureRegistryRelay, FlutterScreenAndSceneIfLoaded to ARC<br />
     <sub>[#51984](https://github.com/flutter/engine/pull/51984) merged on April 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/51984) over 1 day, 15 additions and 17 deletions in 6 files</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds --lto flag to build. Plumbs verbose flag differently.<br />
-    <sub>[#52021](https://github.com/flutter/engine/pull/52021) merged on April 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52021) over 1 hour, 65 additions and 26 deletions in 11 files</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
 * **[Kallen Tu](https://github.com/kallentu)** &mdash; Add `missing_code_block_language_in_doc_comment` lint to flutter/engine.<br />
     <sub>[#51944](https://github.com/flutter/engine/pull/51944) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51944) over 2 days, 18 additions and 17 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Move `Shell::Add/RemoveView` to `PlatformView` and refine embedder API doc<br />
+    <sub>[#52003](https://github.com/flutter/engine/pull/52003) merged on April 11, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/52003) over 1 day, 217 additions and 82 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[巢鹏](https://github.com/chaopeng)** &mdash; [Fuchsia] Support per app present latency tracing<br />
     <sub>[#51503](https://github.com/flutter/engine/pull/51503) merged on April 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/51503) over 3 weeks, 6 additions and 1 deletion in 2 files</sub><br />
@@ -657,6 +661,22 @@
     <sub>[#52001](https://github.com/flutter/engine/pull/52001) merged on April 10, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52001) over 5 hours, 68 additions and 37 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Gaël](https://github.com/Logharaa), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use the AOT snapshot built by the Dart SDK for the frontend server<br />
+    <sub>[#51943](https://github.com/flutter/engine/pull/51943) merged on April 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51943) over 2 days, 17 additions and 15 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run local_engine.json builds in prod<br />
+    <sub>[#51931](https://github.com/flutter/engine/pull/51931) merged on April 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51931) over 3 days, 34 additions and 10 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try postsubmit_overrides for one mac build<br />
+    <sub>[#51676](https://github.com/flutter/engine/pull/51676) merged on April 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51676) over 2 weeks, 17 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; better output from engine layer unit test failures<br />
+    <sub>[#51975](https://github.com/flutter/engine/pull/51975) merged on April 9, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/51975) over 18 hours, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove #if SHELL_ENABLE_METAL checks in darwin code<br />
     <sub>[#51947](https://github.com/flutter/engine/pull/51947) merged on April 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51947) over 3 days, 17 additions and 40 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -668,26 +688,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update embedder example apps to run with the current engine tree<br />
     <sub>[#51995](https://github.com/flutter/engine/pull/51995) merged on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51995) over 4 hours, 10 additions and 4 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try postsubmit_overrides for one mac build<br />
-    <sub>[#51676](https://github.com/flutter/engine/pull/51676) merged on April 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51676) over 2 weeks, 17 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [godofredoc](https://github.com/godofredoc)</sub><br />
-
-* **[Jim Graham](https://github.com/flar)** &mdash; better output from engine layer unit test failures<br />
-    <sub>[#51975](https://github.com/flutter/engine/pull/51975) merged on April 9, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/51975) over 18 hours, 1 addition and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run local_engine.json builds in prod<br />
-    <sub>[#51931](https://github.com/flutter/engine/pull/51931) merged on April 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51931) over 3 days, 34 additions and 10 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use the AOT snapshot built by the Dart SDK for the frontend server<br />
-    <sub>[#51943](https://github.com/flutter/engine/pull/51943) merged on April 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51943) over 2 days, 17 additions and 15 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub><br />
-
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Dart SDK from 764bdb7d0344 to 0219e897c6ac (1 revision) (#52053)"<br />
-    <sub>[#52058](https://github.com/flutter/engine/pull/52058) merged on April 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52058) over 58 seconds, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[William Hesse](https://github.com/whesse)** &mdash; Add additional dependencies to const_finder's pubspec.yaml<br />
     <sub>[#52033](https://github.com/flutter/engine/pull/52033) merged on April 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52033) over 38 minutes, 4 additions and 0 deletions in 1 file</sub><br />
@@ -707,6 +707,10 @@
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Dart SDK from 7a5e410f982e to db99af14c4bc (1 revision) (#51986)"<br />
     <sub>[#51989](https://github.com/flutter/engine/pull/51989) merged on April 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/51989) over 1 minute, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Dart SDK from 764bdb7d0344 to 0219e897c6ac (1 revision) (#52053)"<br />
+    <sub>[#52058](https://github.com/flutter/engine/pull/52058) merged on April 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52058) over 58 seconds, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 5b812b9ec220 to f7239b3c25af (13 revisions)<br />
@@ -1293,7 +1297,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-11 commits.
+12 commits.
 
 * **[Volodymyr Buberenko](https://github.com/vbuberen)** &mdash; Update multiple packages to depend on versions with iOS privacy manifest included<br />
     <sub>[#6355](https://github.com/flutter/packages/pull/6355) merged on April 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/6355) over 3 weeks, 27 additions and 15 deletions in 10 files</sub><br />
@@ -1331,6 +1335,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [camera_android] Remove `TestUtils.java`<br />
     <sub>[#6490](https://github.com/flutter/packages/pull/6490) merged on April 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6490) over 1 hour, 91 additions and 147 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Remove OCMock from iOS implementation<br />
+    <sub>[#6503](https://github.com/flutter/packages/pull/6503) merged on April 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6503) over 3 hours, 68 additions and 36 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Shorten interval for releasing weak references to Dart-wrapped native objects<br />
     <sub>[#6493](https://github.com/flutter/packages/pull/6493) merged on April 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6493) over 23 hours, 59 additions and 7 deletions in 4 files</sub><br />
