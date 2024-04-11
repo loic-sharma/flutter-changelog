@@ -4,7 +4,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-18 commits.
+19 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator label position ignore visual density<br />
     <sub>[#146488](https://github.com/flutter/flutter/pull/146488) merged on April 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146488) over 13 hours, 159 additions and 9 deletions in 2 files</sub><br />
@@ -15,6 +15,10 @@
     <sub>[#146019](https://github.com/flutter/flutter/pull/146019) merged on April 8, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/146019) over 1 week, 414 additions and 52 deletions in 5 files</sub><br />
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
     <sub><details><summary>2 images...</summary><img src="https://github.com/flutter/flutter/assets/389558/a5a45472-98c5-4cdf-b382-218971fd9404" /><img src="https://github.com/flutter/flutter/assets/389558/f396a1af-2546-4e38-a9d9-6c6edfa38d94" /></details></sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix out of sync templates files and add a check<br />
+    <sub>[#145747](https://github.com/flutter/flutter/pull/145747) merged on April 11, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/145747) over 2 weeks, 538 additions and 13 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Michael Goderbauer](https://github.com/goderbauer), [Pierre-Louis](https://github.com/guidezpl), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Flutter `README.md` image sources<br />
     <sub>[#146430](https://github.com/flutter/flutter/pull/146430) merged on April 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146430) over 17 hours, 2 additions and 2 deletions in 1 file</sub><br />
