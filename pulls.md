@@ -74,6 +74,3 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Revert getOffsetForCaret logarithmic search fix<br />
     <sub>[#146608](https://github.com/flutter/flutter/pull/146608) opened on on April 10, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/146608) 812 additions and 915 deletions in 7 files</sub><br />
 
-* **[godofredoc](https://github.com/godofredoc)** &mdash; Prepare integration test driver to pass a destination directory.<br />
-    <sub>[#146615](https://github.com/flutter/flutter/pull/146615) opened on on April 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146615) 13 additions and 11 deletions in 7 files</sub><br />
-
