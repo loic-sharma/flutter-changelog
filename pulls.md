@@ -80,3 +80,6 @@
 * **[abylaykhan](https://github.com/abikko)** &mdash; Added ListTileControlAffinity into the ListTileTheme<br />
     <sub>[#146630](https://github.com/flutter/flutter/pull/146630) opened on on April 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146630) 61 additions and 34 deletions in 5 files</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaking curved animation.<br />
+    <sub>[#146644](https://github.com/flutter/flutter/pull/146644) opened on on April 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146644) 12 additions and 5 deletions in 2 files</sub><br />
+
