@@ -1285,7 +1285,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-10 commits.
+11 commits.
 
 * **[Volodymyr Buberenko](https://github.com/vbuberen)** &mdash; Update multiple packages to depend on versions with iOS privacy manifest included
     <sub>[#6355](https://github.com/flutter/packages/pull/6355) merged on April 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/6355) over 3 weeks, 27 additions and 15 deletions in 10 files</sub>
@@ -1319,6 +1319,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [camera_android] Remove `TestUtils.java`
     <sub>[#6490](https://github.com/flutter/packages/pull/6490) merged on April 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6490) over 1 hour, 91 additions and 147 deletions in 7 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Access current location using uri.path to support deep links
+    <sub>[#6474](https://github.com/flutter/packages/pull/6474) merged on April 11, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/6474) over 5 days, 47 additions and 38 deletions in 12 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Shorten interval for releasing weak references to Dart-wrapped native objects
     <sub>[#6493](https://github.com/flutter/packages/pull/6493) merged on April 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6493) over 23 hours, 59 additions and 7 deletions in 4 files</sub>
