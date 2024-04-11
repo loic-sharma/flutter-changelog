@@ -4,7 +4,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-16 commits.
+17 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator label position ignore visual density<br />
     <sub>[#146488](https://github.com/flutter/flutter/pull/146488) merged on April 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146488) over 13 hours, 159 additions and 9 deletions in 2 files</sub><br />
@@ -38,6 +38,10 @@
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Support mdns when attaching to proxied devices.<br />
     <sub>[#146021](https://github.com/flutter/flutter/pull/146021) merged on April 9, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/146021) over 1 week, 897 additions and 121 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `IconButton` theming in the `InputDecorator`<br />
+    <sub>[#146567](https://github.com/flutter/flutter/pull/146567) merged on April 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146567) over 18 hours, 91 additions and 24 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Correct doc for AnimationMin<br />
     <sub>[#146531](https://github.com/flutter/flutter/pull/146531) merged on April 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146531) over 51 minutes, 1 addition and 1 deletion in 1 file</sub><br />
