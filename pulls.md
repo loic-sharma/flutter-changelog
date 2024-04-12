@@ -80,3 +80,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix curved animation memory leak for scrollbar<br />
     <sub>[#146670](https://github.com/flutter/flutter/pull/146670) opened on on April 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146670) 7 additions and 2 deletions in 2 files</sub><br />
 
+* **[drown0315](https://github.com/drown0315)** &mdash; Improved documentation for SpringSimulation<br />
+    <sub>[#146674](https://github.com/flutter/flutter/pull/146674) opened on on April 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146674) 38 additions and 1 deletion in 1 file</sub><br />
+
