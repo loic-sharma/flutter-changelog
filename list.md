@@ -4,7 +4,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-23 commits.
+24 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator label position ignore visual density
     <sub>[#146488](https://github.com/flutter/flutter/pull/146488) merged on April 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146488) over 13 hours, 159 additions and 9 deletions in 2 files</sub>
@@ -54,6 +54,10 @@
 * **[Jesse](https://github.com/sealesj)** &mdash; Refactor verify codesigned
     <sub>[#146450](https://github.com/flutter/flutter/pull/146450) merged on April 11, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/146450) over 2 days, 375 additions and 364 deletions in 3 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [Windows] Drop support for Windows 7/8 apps in template
+    <sub>[#146668](https://github.com/flutter/flutter/pull/146668) merged on April 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146668) over 33 minutes, 0 additions and 78 deletions in 13 files</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaking curved animation.
     <sub>[#146644](https://github.com/flutter/flutter/pull/146644) merged on April 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146644) over 2 hours, 12 additions and 5 deletions in 2 files</sub>
