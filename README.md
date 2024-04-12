@@ -4,7 +4,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-30 commits.
+31 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Support `flutter run --wasm` and `flutter drive --wasm`.<br />
     <sub>[#146231](https://github.com/flutter/flutter/pull/146231) merged on April 12, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/146231) over 1 week, 337 additions and 64 deletions in 29 files</sub><br />
@@ -70,6 +70,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [Windows] Drop support for Windows 7/8 apps in template<br />
     <sub>[#146668](https://github.com/flutter/flutter/pull/146668) merged on April 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146668) over 33 minutes, 0 additions and 78 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Light sliver clean up before SliverTree<br />
+    <sub>[#146696](https://github.com/flutter/flutter/pull/146696) merged on April 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146696) over 1 hour, 132 additions and 144 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update gen_keycodes templates<br />
     <sub>[#146481](https://github.com/flutter/flutter/pull/146481) merged on April 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146481) over 3 days, 7 additions and 7 deletions in 3 files</sub><br />
