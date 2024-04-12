@@ -75,5 +75,5 @@
     <sub>[#146630](https://github.com/flutter/flutter/pull/146630) opened on on April 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146630) 61 additions and 34 deletions in 5 files</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Scrollbar thumb drag gestures now produce one drag start scroll notification, and one drag end.<br />
-    <sub>[#146654](https://github.com/flutter/flutter/pull/146654) opened on on April 11, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/146654) 667 additions and 93 deletions in 8 files</sub><br />
+    <sub>[#146654](https://github.com/flutter/flutter/pull/146654) opened on on April 11, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/146654) 749 additions and 99 deletions in 9 files</sub><br />
 
