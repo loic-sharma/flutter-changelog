@@ -4,7 +4,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-25 commits.
+26 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator label position ignore visual density<br />
     <sub>[#146488](https://github.com/flutter/flutter/pull/146488) merged on April 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146488) over 13 hours, 159 additions and 9 deletions in 2 files</sub><br />
@@ -86,6 +86,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase the recommended Xcode version to Xcode 15<br />
     <sub>[#146367](https://github.com/flutter/flutter/pull/146367) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146367) over 2 days, 29 additions and 8 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix curved animation memory leak for scrollbar<br />
+    <sub>[#146670](https://github.com/flutter/flutter/pull/146670) merged on April 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146670) over 13 hours, 7 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update the gradle task to add fallback scheme and host if needed when retrieving deep links.<br />
     <sub>[#146470](https://github.com/flutter/flutter/pull/146470) merged on April 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/146470) over 2 days, 62 additions and 8 deletions in 2 files</sub><br />
