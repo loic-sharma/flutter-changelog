@@ -4,7 +4,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-33 commits.
+34 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Support `flutter run --wasm` and `flutter drive --wasm`.
     <sub>[#146231](https://github.com/flutter/flutter/pull/146231) merged on April 12, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/146231) over 1 week, 337 additions and 64 deletions in 29 files</sub>
@@ -51,13 +51,13 @@
     <sub>[#146021](https://github.com/flutter/flutter/pull/146021) merged on April 9, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/146021) over 1 week, 897 additions and 121 deletions in 13 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Allow A/B tests to run as just aggregator of local engine benchmarks
-    <sub>[#146479](https://github.com/flutter/flutter/pull/146479) merged on April 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146479) over 3 days, 26 additions and 15 deletions in 1 file</sub>
-    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `IconButton` theming in the `InputDecorator`
     <sub>[#146567](https://github.com/flutter/flutter/pull/146567) merged on April 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146567) over 18 hours, 91 additions and 24 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Allow A/B tests to run as just aggregator of local engine benchmarks
+    <sub>[#146479](https://github.com/flutter/flutter/pull/146479) merged on April 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146479) over 3 days, 26 additions and 15 deletions in 1 file</sub>
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Correct doc for AnimationMin
     <sub>[#146531](https://github.com/flutter/flutter/pull/146531) merged on April 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146531) over 51 minutes, 1 addition and 1 deletion in 1 file</sub>
@@ -95,16 +95,16 @@
     <sub>[#146269](https://github.com/flutter/flutter/pull/146269) merged on April 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146269) over 6 days, 1 addition and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Liam Appelbe](https://github.com/liamappelbe)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Disable single character mode in the terminal when exiting flutter_tools
-    <sub>[#146534](https://github.com/flutter/flutter/pull/146534) merged on April 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/146534) over 1 day, 21 additions and 2 deletions in 4 files</sub>
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase the recommended Xcode version to Xcode 15
+    <sub>[#146367](https://github.com/flutter/flutter/pull/146367) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146367) over 2 days, 29 additions and 8 deletions in 3 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove additional references to engine v1 android embedding
     <sub>[#146523](https://github.com/flutter/flutter/pull/146523) merged on April 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146523) over 1 day, 1 addition and 6 deletions in 2 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Camille Simon](https://github.com/camsim99)</sub>
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase the recommended Xcode version to Xcode 15
-    <sub>[#146367](https://github.com/flutter/flutter/pull/146367) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146367) over 2 days, 29 additions and 8 deletions in 3 files</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Disable single character mode in the terminal when exiting flutter_tools
+    <sub>[#146534](https://github.com/flutter/flutter/pull/146534) merged on April 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/146534) over 1 day, 21 additions and 2 deletions in 4 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Avoid forwarding the data after socket is disconnected.
@@ -141,6 +141,10 @@
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
     <sub>[#146444](https://github.com/flutter/flutter/pull/146444) merged on April 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146444) over 38 minutes, 76 additions and 76 deletions in 38 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
+    <sub>[#146704](https://github.com/flutter/flutter/pull/146704) merged on April 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146704) over 44 minutes, 18 additions and 18 deletions in 6 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### March 30, 2024 to April 5, 2024
