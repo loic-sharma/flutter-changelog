@@ -74,9 +74,6 @@
 * **[abylaykhan](https://github.com/abikko)** &mdash; Added ListTileControlAffinity into the ListTileTheme<br />
     <sub>[#146630](https://github.com/flutter/flutter/pull/146630) opened on on April 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146630) 61 additions and 34 deletions in 5 files</sub><br />
 
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; Scrollbar thumb drag gestures now produce one start and one end scroll notification<br />
-    <sub>[#146654](https://github.com/flutter/flutter/pull/146654) opened on on April 11, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/146654) 749 additions and 99 deletions in 9 files</sub><br />
-
 * **[drown0315](https://github.com/drown0315)** &mdash; Improved documentation for SpringSimulation<br />
     <sub>[#146674](https://github.com/flutter/flutter/pull/146674) opened on on April 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146674) 41 additions and 1 deletion in 1 file</sub><br />
 
