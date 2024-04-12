@@ -4,7 +4,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-28 commits.
+29 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Support `flutter run --wasm` and `flutter drive --wasm`.
     <sub>[#146231](https://github.com/flutter/flutter/pull/146231) merged on April 12, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/146231) over 1 week, 337 additions and 64 deletions in 29 files</sub>
@@ -94,6 +94,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase the recommended Xcode version to Xcode 15
     <sub>[#146367](https://github.com/flutter/flutter/pull/146367) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146367) over 2 days, 29 additions and 8 deletions in 3 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix `getOffsetForCaret` crash
+    <sub>[#146669](https://github.com/flutter/flutter/pull/146669) merged on April 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146669) over 18 hours, 21 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix curved animation memory leak for scrollbar
     <sub>[#146670](https://github.com/flutter/flutter/pull/146670) merged on April 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146670) over 13 hours, 7 additions and 2 deletions in 2 files</sub>

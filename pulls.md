@@ -68,9 +68,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing control flow collections<br />
     <sub>[#146601](https://github.com/flutter/flutter/pull/146601) opened on on April 10, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/146601) 275 additions and 494 deletions in 36 files</sub><br />
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Revert getOffsetForCaret logarithmic search fix<br />
-    <sub>[#146608](https://github.com/flutter/flutter/pull/146608) opened on on April 10, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/146608) 812 additions and 915 deletions in 7 files</sub><br />
-
 * **[abylaykhan](https://github.com/abikko)** &mdash; Added ListTileControlAffinity into the ListTileTheme<br />
     <sub>[#146630](https://github.com/flutter/flutter/pull/146630) opened on on April 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146630) 61 additions and 34 deletions in 5 files</sub><br />
 
