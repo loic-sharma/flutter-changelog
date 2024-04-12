@@ -4,7 +4,11 @@
 
 ### April 6, 2024 to April 12, 2024
 
-26 commits.
+27 commits.
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Support `flutter run --wasm` and `flutter drive --wasm`.
+    <sub>[#146231](https://github.com/flutter/flutter/pull/146231) merged on April 12, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/146231) over 1 week, 337 additions and 64 deletions in 29 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator label position ignore visual density
     <sub>[#146488](https://github.com/flutter/flutter/pull/146488) merged on April 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146488) over 13 hours, 159 additions and 9 deletions in 2 files</sub>
