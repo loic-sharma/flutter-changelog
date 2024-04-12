@@ -1329,12 +1329,16 @@
 
 ### April 6, 2024 to April 12, 2024
 
-12 commits.
+14 commits.
 
 * **[Volodymyr Buberenko](https://github.com/vbuberen)** &mdash; Update multiple packages to depend on versions with iOS privacy manifest included
     <sub>[#6355](https://github.com/flutter/packages/pull/6355) merged on April 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/6355) over 3 weeks, 27 additions and 15 deletions in 10 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
     <sub><details><summary>1 image...</summary><img width="681" alt="Screenshot 2024-03-19 at 12 36 47" src="https://github.com/flutter/packages/assets/13467769/c81e5a15-86d8-4270-aafe-845679fc901b"></details></sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Darwin implementation cleanup
+    <sub>[#6507](https://github.com/flutter/packages/pull/6507) merged on April 12, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/6507) over 4 hours, 718 additions and 1160 deletions in 15 files</sub>
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [in_app_purchase] Convert Android data objects to Pigeon
     <sub>[#6453](https://github.com/flutter/packages/pull/6453) merged on April 8, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/6453) over 5 days, 3049 additions and 640 deletions in 25 files</sub>
@@ -1359,6 +1363,10 @@
 * **[Eugene Kuleshov](https://github.com/ekuleshov)** &mdash; [tool] Check for `test` and `flutter_test` in non-dev dependencies
     <sub>[#6472](https://github.com/flutter/packages/pull/6472) merged on April 10, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/6472) over 4 days, 29 additions and 11 deletions in 6 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Many] Bump to min minSdkVersion of 19 across all plugins
+    <sub>[#6506](https://github.com/flutter/packages/pull/6506) merged on April 12, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6506) over 21 hours, 87 additions and 85 deletions in 34 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Release compileSdk changes
     <sub>[#6491](https://github.com/flutter/packages/pull/6491) merged on April 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6491) over 15 hours, 4 additions and 4 deletions in 4 files</sub>
