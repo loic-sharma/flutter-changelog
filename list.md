@@ -4,7 +4,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-24 commits.
+25 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator label position ignore visual density
     <sub>[#146488](https://github.com/flutter/flutter/pull/146488) merged on April 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146488) over 13 hours, 159 additions and 9 deletions in 2 files</sub>
@@ -42,6 +42,10 @@
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Support mdns when attaching to proxied devices.
     <sub>[#146021](https://github.com/flutter/flutter/pull/146021) merged on April 9, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/146021) over 1 week, 897 additions and 121 deletions in 13 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Allow A/B tests to run as just aggregator of local engine benchmarks
+    <sub>[#146479](https://github.com/flutter/flutter/pull/146479) merged on April 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146479) over 3 days, 26 additions and 15 deletions in 1 file</sub>
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `IconButton` theming in the `InputDecorator`
     <sub>[#146567](https://github.com/flutter/flutter/pull/146567) merged on April 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146567) over 18 hours, 91 additions and 24 deletions in 2 files</sub>
