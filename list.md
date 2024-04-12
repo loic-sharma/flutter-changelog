@@ -4,7 +4,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-29 commits.
+30 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Support `flutter run --wasm` and `flutter drive --wasm`.
     <sub>[#146231](https://github.com/flutter/flutter/pull/146231) merged on April 12, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/146231) over 1 week, 337 additions and 64 deletions in 29 files</sub>
@@ -42,6 +42,10 @@
     <sub>[#146441](https://github.com/flutter/flutter/pull/146441) merged on April 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146441) over 44 minutes, 0 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot 2024-04-08 at 10 03 12 AM](https://github.com/flutter/flutter/assets/1227763/30108439-59e7-43b3-9ba5-fe57e04e7f10)</details></sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix label text color is wrong for a focused and hovered TextField
+    <sub>[#146572](https://github.com/flutter/flutter/pull/146572) merged on April 12, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/146572) over 2 days, 373 additions and 65 deletions in 3 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Support mdns when attaching to proxied devices.
     <sub>[#146021](https://github.com/flutter/flutter/pull/146021) merged on April 9, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/146021) over 1 week, 897 additions and 121 deletions in 13 files</sub>
