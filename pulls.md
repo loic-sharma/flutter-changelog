@@ -83,6 +83,3 @@
 * **[drown0315](https://github.com/drown0315)** &mdash; Improved documentation for SpringSimulation<br />
     <sub>[#146674](https://github.com/flutter/flutter/pull/146674) opened on on April 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146674) 41 additions and 1 deletion in 1 file</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add missing `overlayColor` property in `styleFrom` methods<br />
-    <sub>[#146685](https://github.com/flutter/flutter/pull/146685) opened on on April 12, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/146685) 623 additions and 74 deletions in 9 files</sub><br />
-
