@@ -95,3 +95,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for gesture_detector.0.dart and gesture_detector.1.dart API examples.<br />
     <sub>[#146724](https://github.com/flutter/flutter/pull/146724) opened on on April 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146724) 92 additions and 2 deletions in 3 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for preferred_size.0.dart API example.<br />
+    <sub>[#146725](https://github.com/flutter/flutter/pull/146725) opened on on April 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146725) 35 additions and 1 deletion in 2 files</sub><br />
+
