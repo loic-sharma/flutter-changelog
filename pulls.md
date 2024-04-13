@@ -77,3 +77,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_padding.0.dart API example.<br />
     <sub>[#146718](https://github.com/flutter/flutter/pull/146718) opened on on April 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146718) 50 additions and 1 deletion in 2 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_align.0.dart API example.<br />
+    <sub>[#146719](https://github.com/flutter/flutter/pull/146719) opened on on April 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146719) 47 additions and 1 deletion in 2 files</sub><br />
+
