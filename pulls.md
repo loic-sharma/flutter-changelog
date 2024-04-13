@@ -86,3 +86,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_fractionally_sized_box.0.dart API example.<br />
     <sub>[#146721](https://github.com/flutter/flutter/pull/146721) opened on on April 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146721) 56 additions and 1 deletion in 2 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for sliver_animated_opacity.0.dart API example.<br />
+    <sub>[#146722](https://github.com/flutter/flutter/pull/146722) opened on on April 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146722) 50 additions and 1 deletion in 2 files</sub><br />
+
