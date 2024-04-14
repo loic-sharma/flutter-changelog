@@ -678,7 +678,7 @@
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate FlutterEmbedderKeyResponder to ARC
-    <sub>[#52048](https://github.com/flutter/engine/pull/52048) merged on April 12, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/52048) over 1 day, 22 additions and 38 deletions in 4 files</sub>
+    <sub>[#52048](https://github.com/flutter/engine/pull/52048) merged on April 12, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/52048) over 1 day, 22 additions and 38 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate FlutterRestorationPlugin, FlutterTextureRegistryRelay, FlutterScreenAndSceneIfLoaded to ARC
