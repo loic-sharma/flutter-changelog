@@ -4,7 +4,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-35 commits.
+36 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Support `flutter run --wasm` and `flutter drive --wasm`.<br />
     <sub>[#146231](https://github.com/flutter/flutter/pull/146231) merged on April 12, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/146231) over 1 week, 337 additions and 64 deletions in 29 files</sub><br />
@@ -99,13 +99,13 @@
     <sub>[#146534](https://github.com/flutter/flutter/pull/146534) merged on April 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/146534) over 1 day, 21 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase the recommended Xcode version to Xcode 15<br />
-    <sub>[#146367](https://github.com/flutter/flutter/pull/146367) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146367) over 2 days, 29 additions and 8 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove additional references to engine v1 android embedding<br />
     <sub>[#146523](https://github.com/flutter/flutter/pull/146523) merged on April 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146523) over 1 day, 1 addition and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase the recommended Xcode version to Xcode 15<br />
+    <sub>[#146367](https://github.com/flutter/flutter/pull/146367) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146367) over 2 days, 29 additions and 8 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Avoid forwarding the data after socket is disconnected.<br />
     <sub>[#146665](https://github.com/flutter/flutter/pull/146665) merged on April 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146665) over 23 hours, 33 additions and 2 deletions in 2 files</sub><br />
@@ -142,6 +142,10 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#146444](https://github.com/flutter/flutter/pull/146444) merged on April 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146444) over 38 minutes, 76 additions and 76 deletions in 38 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; - Fixes _DropdownMenuState leaking text controller<br />
+    <sub>[#146571](https://github.com/flutter/flutter/pull/146571) merged on April 14, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/146571) over 4 days, 20 additions and 18 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `FloatingActionButton`<br />
     <sub>[#146711](https://github.com/flutter/flutter/pull/146711) merged on April 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146711) over 17 hours, 68 additions and 38 deletions in 5 files</sub><br />
