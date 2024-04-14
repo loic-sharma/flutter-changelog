@@ -1381,7 +1381,7 @@
 
 ### April 6, 2024 to April 12, 2024
 
-14 commits.
+15 commits.
 
 * **[Volodymyr Buberenko](https://github.com/vbuberen)** &mdash; Update multiple packages to depend on versions with iOS privacy manifest included<br />
     <sub>[#6355](https://github.com/flutter/packages/pull/6355) merged on April 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/6355) over 3 weeks, 27 additions and 15 deletions in 10 files</sub><br />
@@ -1427,6 +1427,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [camera_android] Remove `TestUtils.java`<br />
     <sub>[#6490](https://github.com/flutter/packages/pull/6490) merged on April 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6490) over 1 hour, 91 additions and 147 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Collin Jackson](https://github.com/collinjackson)** &mdash; Fix error in markdown parsing image dimensions<br />
+    <sub>[#6518](https://github.com/flutter/packages/pull/6518) merged on April 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6518) over 2 hours, 43 additions and 3 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Remove OCMock from iOS implementation<br />
     <sub>[#6503](https://github.com/flutter/packages/pull/6503) merged on April 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6503) over 3 hours, 68 additions and 36 deletions in 8 files</sub><br />
