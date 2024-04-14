@@ -95,6 +95,3 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for preferred_size.0.dart API example.<br />
     <sub>[#146725](https://github.com/flutter/flutter/pull/146725) opened on on April 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146725) 35 additions and 1 deletion in 2 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix not disposed handler.<br />
-    <sub>[#146727](https://github.com/flutter/flutter/pull/146727) opened on on April 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146727) 1 addition and 9 deletions in 2 files</sub><br />
-
