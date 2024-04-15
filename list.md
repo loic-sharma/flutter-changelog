@@ -950,7 +950,11 @@
 
 ### April 13, 2024 to April 19, 2024
 
-1 commits.
+2 commits.
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [url_launcher][web] Link should work when triggered by keyboard
+    <sub>[#6505](https://github.com/flutter/packages/pull/6505) merged on April 15, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/6505) over 3 days, 331 additions and 11 deletions in 4 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update local_auth_android minSdkVersion to 19
     <sub>[#6537](https://github.com/flutter/packages/pull/6537) merged on April 15, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/6537) over 1 hour, 7 additions and 6 deletions in 3 files</sub>
