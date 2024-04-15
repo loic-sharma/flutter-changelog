@@ -98,3 +98,6 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Re-land fix for not disposed TabController<br />
     <sub>[#146745](https://github.com/flutter/flutter/pull/146745) opened on on April 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146745) 19 additions and 9 deletions in 4 files</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Switch to relevant `Remote` constructors<br />
+    <sub>[#146773](https://github.com/flutter/flutter/pull/146773) opened on on April 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146773) 15 additions and 51 deletions in 5 files</sub><br />
+
