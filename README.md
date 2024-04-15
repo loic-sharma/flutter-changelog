@@ -423,7 +423,28 @@
 
 ### April 13, 2024 to April 19, 2024
 
-1 commits.
+6 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use Wang's formula for quad/cubic subdivision.<br />
+    <sub>[#52079](https://github.com/flutter/engine/pull/52079) merged on April 15, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/52079) over 3 days, 134 additions and 116 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/engine/assets/8975114/8dc45012-3999-4598-ac3b-713e09d5a31f)![image](https://github.com/flutter/engine/assets/8975114/8a90636f-9698-46e6-bd3f-2f47c8abdbba)</details></sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] moved to bgra10_xr<br />
+    <sub>[#52019](https://github.com/flutter/engine/pull/52019) merged on April 15, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/engine/pull/52019) over 5 days, 76 additions and 34 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] organize shaders a bit, make filter shaders use same vertex source.<br />
+    <sub>[#52113](https://github.com/flutter/engine/pull/52113) merged on April 15, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/52113) over 1 day, 393 additions and 1283 deletions in 23 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate FlutterCallbackCache and FlutterKeyboardManager to ARC<br />
+    <sub>[#51983](https://github.com/flutter/engine/pull/51983) merged on April 15, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/engine/pull/51983) over 6 days, 50 additions and 138 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll buildroot and set ios_use_simulator variable used by Skia GN scripts<br />
+    <sub>[#52101](https://github.com/flutter/engine/pull/52101) merged on April 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52101) over 2 days, 7 additions and 6 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [scenarios] test disabling surface clear.<br />
     <sub>[#52128](https://github.com/flutter/engine/pull/52128) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52128) over 43 minutes, 6 additions and 1 deletion in 3 files</sub><br />
