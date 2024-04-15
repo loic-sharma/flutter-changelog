@@ -904,9 +904,18 @@
 
 ## flutter/packages
 
+### April 13, 2024 to April 19, 2024
+
+1 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update local_auth_android minSdkVersion to 19
+    <sub>[#6537](https://github.com/flutter/packages/pull/6537) merged on April 15, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/6537) over 1 hour, 7 additions and 6 deletions in 3 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+
 ### April 6, 2024 to April 12, 2024
 
-15 commits.
+<details>
+<summary>15 commits...</summary>
 
 * **[Volodymyr Buberenko](https://github.com/vbuberen)** &mdash; Update multiple packages to depend on versions with iOS privacy manifest included
     <sub>[#6355](https://github.com/flutter/packages/pull/6355) merged on April 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/6355) over 3 weeks, 27 additions and 15 deletions in 10 files</sub>
@@ -968,6 +977,8 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [in_app_purchase_android] Cleanup, create listener where it is used
     <sub>[#6489](https://github.com/flutter/packages/pull/6489) merged on April 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6489) over 1 day, 146 additions and 97 deletions in 8 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Gray Mackall](https://github.com/gmackall)</sub>
+
+</details>
 
 ### March 30, 2024 to April 5, 2024
 
