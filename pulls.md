@@ -101,6 +101,3 @@
 * **[Matt Carroll](https://github.com/matthew-carroll)** &mdash; Added missing tests for OverflowBar example.<br />
     <sub>[#146780](https://github.com/flutter/flutter/pull/146780) opened on on April 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146780) 28 additions and 1 deletion in 2 files</sub><br />
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#146782](https://github.com/flutter/flutter/pull/146782) opened on on April 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146782) 4 additions and 4 deletions in 2 files</sub><br />
-
