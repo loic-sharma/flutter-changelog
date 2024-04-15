@@ -4,7 +4,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-3 commits.
+5 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix filled text field active indicator overflows container bounds<br />
     <sub>[#146637](https://github.com/flutter/flutter/pull/146637) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146637) over 3 days, 74 additions and 57 deletions in 2 files</sub><br />
@@ -14,6 +14,14 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing control flow collections<br />
     <sub>[#146601](https://github.com/flutter/flutter/pull/146601) merged on April 15, 2024 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/146601) over 4 days, 276 additions and 494 deletions in 37 files</sub><br />
     <sub>Reviewed by: [Stephen Adams](https://github.com/rakudrama), [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Update leak related TODOs.<br />
+    <sub>[#146743](https://github.com/flutter/flutter/pull/146743) merged on April 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146743) over 21 hours, 10 additions and 25 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Doctor] Improve CocoaPods messages<br />
+    <sub>[#146701](https://github.com/flutter/flutter/pull/146701) merged on April 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146701) over 2 days, 27 additions and 13 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; test: Fix memory leak in transitions test<br />
     <sub>[#146747](https://github.com/flutter/flutter/pull/146747) merged on April 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146747) over 14 hours, 55 additions and 47 deletions in 1 file</sub><br />
