@@ -4,7 +4,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-6 commits.
+7 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix filled text field active indicator overflows container bounds
     <sub>[#146637](https://github.com/flutter/flutter/pull/146637) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146637) over 3 days, 74 additions and 57 deletions in 2 files</sub>
@@ -26,6 +26,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Doctor] Improve CocoaPods messages
     <sub>[#146701](https://github.com/flutter/flutter/pull/146701) merged on April 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146701) over 2 days, 27 additions and 13 deletions in 4 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
+    <sub>[#146782](https://github.com/flutter/flutter/pull/146782) merged on April 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146782) over 1 hour, 4 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; test: Fix memory leak in transitions test
     <sub>[#146747](https://github.com/flutter/flutter/pull/146747) merged on April 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146747) over 14 hours, 55 additions and 47 deletions in 1 file</sub>
