@@ -101,9 +101,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in `BottomNavigationBar`<br />
     <sub>[#146748](https://github.com/flutter/flutter/pull/146748) opened on on April 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146748) 34 additions and 26 deletions in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland fix TextField helper top padding on M3<br />
-    <sub>[#146754](https://github.com/flutter/flutter/pull/146754) opened on on April 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146754) 6 additions and 7 deletions in 2 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in paginated tables<br />
     <sub>[#146755](https://github.com/flutter/flutter/pull/146755) opened on on April 15, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/146755) 227 additions and 169 deletions in 3 files</sub><br />
 
