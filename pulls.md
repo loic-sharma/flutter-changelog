@@ -101,3 +101,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Switch to relevant `Remote` constructors<br />
     <sub>[#146773](https://github.com/flutter/flutter/pull/146773) opened on on April 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146773) 15 additions and 51 deletions in 5 files</sub><br />
 
+* **[Matt Carroll](https://github.com/matthew-carroll)** &mdash; Added missing tests for OverflowBar example.<br />
+    <sub>[#146780](https://github.com/flutter/flutter/pull/146780) opened on on April 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146780) 28 additions and 0 deletions in 1 file</sub><br />
+
