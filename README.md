@@ -2,9 +2,19 @@
 
 ## flutter/flutter
 
+### April 13, 2024 to April 19, 2024
+
+1 commits.
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix filled text field active indicator overflows container bounds<br />
+    <sub>[#146637](https://github.com/flutter/flutter/pull/146637) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146637) over 3 days, 74 additions and 57 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/ed2878ba-130a-4410-b170-423d00a8893d) | ![image](https://github.com/flutter/flutter/assets/840911/f78d06c0-a161-4ab6-b01f-dae297939956)</details></sub>
+
 ### April 6, 2024 to April 12, 2024
 
-36 commits.
+<details>
+<summary>36 commits...</summary>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Support `flutter run --wasm` and `flutter drive --wasm`.<br />
     <sub>[#146231](https://github.com/flutter/flutter/pull/146231) merged on April 12, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/146231) over 1 week, 337 additions and 64 deletions in 29 files</sub><br />
@@ -154,6 +164,8 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#146704](https://github.com/flutter/flutter/pull/146704) merged on April 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146704) over 44 minutes, 18 additions and 18 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### March 30, 2024 to April 5, 2024
 
