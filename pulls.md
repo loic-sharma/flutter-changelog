@@ -95,3 +95,9 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for preferred_size.0.dart API example.<br />
     <sub>[#146725](https://github.com/flutter/flutter/pull/146725) opened on on April 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146725) 35 additions and 1 deletion in 2 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; test: Fix memory leak in transitions test<br />
+    <sub>[#146747](https://github.com/flutter/flutter/pull/146747) opened on on April 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146747) 55 additions and 47 deletions in 1 file</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in `BottomNavigationBar`<br />
+    <sub>[#146748](https://github.com/flutter/flutter/pull/146748) opened on on April 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146748) 34 additions and 26 deletions in 2 files</sub><br />
+
