@@ -447,7 +447,7 @@
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/engine/assets/8975114/8dc45012-3999-4598-ac3b-713e09d5a31f)![image](https://github.com/flutter/engine/assets/8975114/8a90636f-9698-46e6-bd3f-2f47c8abdbba)</details></sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] moved to bgra10_xr
-    <sub>[#52019](https://github.com/flutter/engine/pull/52019) merged on April 15, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/52019) over 5 days, 76 additions and 34 deletions in 10 files</sub>
+    <sub>[#52019](https://github.com/flutter/engine/pull/52019) merged on April 15, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/engine/pull/52019) over 5 days, 76 additions and 34 deletions in 10 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] organize shaders a bit, make filter shaders use same vertex source.
