@@ -421,9 +421,18 @@
 
 ## flutter/engine
 
+### April 13, 2024 to April 19, 2024
+
+1 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [scenarios] test disabling surface clear.
+    <sub>[#52128](https://github.com/flutter/engine/pull/52128) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52128) over 43 minutes, 6 additions and 1 deletion in 3 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
 ### April 6, 2024 to April 12, 2024
 
-48 commits.
+<details>
+<summary>48 commits...</summary>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete engine v1 android embedding
     <sub>[#51229](https://github.com/flutter/engine/pull/51229) merged on April 9, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/engine/pull/51229) over 1 month, 8 additions and 3574 deletions in 23 files</sub>
@@ -616,6 +625,8 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Roll Dart SDK from 78174b41ab0f to 7a5e410f982e (1 revision) (#51980)"
     <sub>[#51990](https://github.com/flutter/engine/pull/51990) merged on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51990) over 1 hour, 5 additions and 5 deletions in 3 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+</details>
 
 ### March 30, 2024 to April 5, 2024
 
