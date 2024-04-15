@@ -438,7 +438,7 @@
 6 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use Wang's formula for quad/cubic subdivision.<br />
-    <sub>[#52079](https://github.com/flutter/engine/pull/52079) merged on April 15, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/52079) over 3 days, 134 additions and 116 deletions in 8 files</sub><br />
+    <sub>[#52079](https://github.com/flutter/engine/pull/52079) merged on April 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52079) over 3 days, 134 additions and 116 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/engine/assets/8975114/8dc45012-3999-4598-ac3b-713e09d5a31f)![image](https://github.com/flutter/engine/assets/8975114/8a90636f-9698-46e6-bd3f-2f47c8abdbba)</details></sub>
 
@@ -950,11 +950,15 @@
 
 ### April 13, 2024 to April 19, 2024
 
-2 commits.
+3 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [url_launcher][web] Link should work when triggered by keyboard<br />
     <sub>[#6505](https://github.com/flutter/packages/pull/6505) merged on April 15, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/6505) over 3 days, 331 additions and 11 deletions in 4 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[Michael McGuiness](https://github.com/mike-v2)** &mdash; [image_picker] Adopt code excerpts in README<br />
+    <sub>[#5523](https://github.com/flutter/packages/pull/5523) merged on April 15, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/5523) over 4 months, 110 additions and 9 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update local_auth_android minSdkVersion to 19<br />
     <sub>[#6537](https://github.com/flutter/packages/pull/6537) merged on April 15, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/6537) over 1 hour, 7 additions and 6 deletions in 3 files</sub><br />
