@@ -4,7 +4,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-5 commits.
+6 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix filled text field active indicator overflows container bounds
     <sub>[#146637](https://github.com/flutter/flutter/pull/146637) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146637) over 3 days, 74 additions and 57 deletions in 2 files</sub>
@@ -14,6 +14,10 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing control flow collections
     <sub>[#146601](https://github.com/flutter/flutter/pull/146601) merged on April 15, 2024 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/146601) over 4 days, 276 additions and 494 deletions in 37 files</sub>
     <sub>Reviewed by: [Stephen Adams](https://github.com/rakudrama), [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add hitTestBehavior and rootOverlay to LongPressDraggable constructor…
+    <sub>[#146386](https://github.com/flutter/flutter/pull/146386) merged on April 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/146386) over 1 week, 88 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Update leak related TODOs.
     <sub>[#146743](https://github.com/flutter/flutter/pull/146743) merged on April 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146743) over 21 hours, 10 additions and 25 deletions in 7 files</sub>
