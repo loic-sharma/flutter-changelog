@@ -104,3 +104,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a breadcrumb for the pub autoroller<br />
     <sub>[#146786](https://github.com/flutter/flutter/pull/146786) opened on on April 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146786) 12 additions and 3 deletions in 2 files</sub><br />
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Predictive back route transitions by default<br />
+    <sub>[#146788](https://github.com/flutter/flutter/pull/146788) opened on on April 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146788) 232 additions and 2 deletions in 2 files</sub><br />
+
