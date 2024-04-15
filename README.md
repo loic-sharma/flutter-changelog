@@ -499,6 +499,10 @@
     <sub>[#51917](https://github.com/flutter/engine/pull/51917) merged on April 9, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/51917) over 4 days, 4056 additions and 4053 deletions in 47 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate FlutterEmbedderKeyResponder to ARC<br />
+    <sub>[#52048](https://github.com/flutter/engine/pull/52048) merged on April 12, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/52048) over 1 day, 22 additions and 38 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update iOS KeyCodeMap dictionary literal and migrate to ARC<br />
     <sub>[#51981](https://github.com/flutter/engine/pull/51981) merged on April 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/51981) over 2 days, 4 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
@@ -523,17 +527,13 @@
     <sub>[#52002](https://github.com/flutter/engine/pull/52002) merged on April 9, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/52002) over 1 hour, 435 additions and 282 deletions in 19 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds --lto flag to build. Plumbs verbose flag differently.<br />
-    <sub>[#52021](https://github.com/flutter/engine/pull/52021) merged on April 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52021) over 1 hour, 65 additions and 26 deletions in 11 files</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate FlutterEmbedderKeyResponder to ARC<br />
-    <sub>[#52048](https://github.com/flutter/engine/pull/52048) merged on April 12, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/52048) over 1 day, 22 additions and 38 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate FlutterRestorationPlugin, FlutterTextureRegistryRelay, FlutterScreenAndSceneIfLoaded to ARC<br />
     <sub>[#51984](https://github.com/flutter/engine/pull/51984) merged on April 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/51984) over 1 day, 15 additions and 17 deletions in 6 files</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Adds --lto flag to build. Plumbs verbose flag differently.<br />
+    <sub>[#52021](https://github.com/flutter/engine/pull/52021) merged on April 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52021) over 1 hour, 65 additions and 26 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Kallen Tu](https://github.com/kallentu)** &mdash; Add `missing_code_block_language_in_doc_comment` lint to flutter/engine.<br />
     <sub>[#51944](https://github.com/flutter/engine/pull/51944) merged on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/51944) over 2 days, 18 additions and 17 deletions in 10 files</sub><br />
