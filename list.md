@@ -439,7 +439,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-10 commits.
+11 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use Wang's formula for quad/cubic subdivision.
     <sub>[#52079](https://github.com/flutter/engine/pull/52079) merged on April 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52079) over 3 days, 134 additions and 116 deletions in 8 files</sub>
@@ -481,6 +481,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [scenarios] test disabling surface clear.
     <sub>[#52128](https://github.com/flutter/engine/pull/52128) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52128) over 43 minutes, 6 additions and 1 deletion in 3 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Relands "[Impeller] moved to bgra10_xr (#52019)"
+    <sub>[#52142](https://github.com/flutter/engine/pull/52142) merged on April 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52142) over 1 hour, 78 additions and 35 deletions in 10 files</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 ### April 6, 2024 to April 12, 2024
 
