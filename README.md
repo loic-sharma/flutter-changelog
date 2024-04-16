@@ -974,7 +974,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-4 commits.
+5 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [url_launcher][web] Link should work when triggered by keyboard<br />
     <sub>[#6505](https://github.com/flutter/packages/pull/6505) merged on April 15, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/6505) over 3 days, 331 additions and 11 deletions in 4 files</sub><br />
@@ -991,6 +991,10 @@
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; [video_player] Calls `onDestroy` instead of `initialize` in onDetachedFromEngine<br />
     <sub>[#6501](https://github.com/flutter/packages/pull/6501) merged on April 16, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6501) over 4 days, 8 additions and 4 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [CupertinoIcons] fix broken icons and vertical alignment, bump the version to 1.08<br />
+    <sub>[#6520](https://github.com/flutter/packages/pull/6520) merged on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6520) over 1 day, 4 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 ### April 6, 2024 to April 12, 2024
 
