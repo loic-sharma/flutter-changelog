@@ -116,3 +116,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove now-redundant tests for isForEnvironment<br />
     <sub>[#146804](https://github.com/flutter/flutter/pull/146804) opened on on April 16, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/146804) 0 additions and 321 deletions in 1 file</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; bump cupertino_icons to 1.08<br />
+    <sub>[#146806](https://github.com/flutter/flutter/pull/146806) opened on on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146806) 3 additions and 5 deletions in 3 files</sub><br />
+
