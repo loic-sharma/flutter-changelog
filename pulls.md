@@ -107,3 +107,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Make goldenFileComparator a field instead of a trivial property<br />
     <sub>[#146800](https://github.com/flutter/flutter/pull/146800) opened on on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146800) 1 addition and 5 deletions in 1 file</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Assert that the goldenFileComparator is a LocalFileComparator<br />
+    <sub>[#146802](https://github.com/flutter/flutter/pull/146802) opened on on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146802) 15 additions and 0 deletions in 1 file</sub><br />
+
