@@ -116,3 +116,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove now-redundant tests for isForEnvironment<br />
     <sub>[#146804](https://github.com/flutter/flutter/pull/146804) opened on on April 16, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/146804) 0 additions and 321 deletions in 1 file</sub><br />
 
+* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fix test-case for RenderView<br />
+    <sub>[#146825](https://github.com/flutter/flutter/pull/146825) opened on on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146825) 1 addition and 3 deletions in 1 file</sub><br />
+
