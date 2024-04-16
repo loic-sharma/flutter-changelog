@@ -104,3 +104,6 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Predictive back route transitions by default<br />
     <sub>[#146788](https://github.com/flutter/flutter/pull/146788) opened on on April 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146788) 232 additions and 2 deletions in 2 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Make goldenFileComparator a field instead of a trivial property<br />
+    <sub>[#146800](https://github.com/flutter/flutter/pull/146800) opened on on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146800) 1 addition and 5 deletions in 1 file</sub><br />
+
