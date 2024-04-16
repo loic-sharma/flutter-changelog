@@ -1007,7 +1007,11 @@
 
 ### April 13, 2024 to April 19, 2024
 
-7 commits.
+8 commits.
+
+* **[Piotr Denert](https://github.com/pdenert)** &mdash; [image_picker] Add limit parameter to pickMultiImage and pickMultipleMedia to ios and Android
+    <sub>[#6201](https://github.com/flutter/packages/pull/6201) merged on April 16, 2024 &mdash; **Large:** [65 comments](https://github.com/flutter/packages/pull/6201) over 1 month, 1111 additions and 366 deletions in 35 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Victoria Ashworth](https://github.com/vashworth), [Gray Mackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Rodolfo Ruiz](https://github.com/rrpadilla)** &mdash; [google_maps_flutter] update ios privacy manifest
     <sub>[#6511](https://github.com/flutter/packages/pull/6511) merged on April 16, 2024 &mdash; **Extra large:** [20 comments](https://github.com/flutter/packages/pull/6511) over 3 days, 331 additions and 3328 deletions in 110 files</sub>
