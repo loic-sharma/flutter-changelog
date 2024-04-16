@@ -1007,7 +1007,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-6 commits.
+7 commits.
 
 * **[Rodolfo Ruiz](https://github.com/rrpadilla)** &mdash; [google_maps_flutter] update ios privacy manifest<br />
     <sub>[#6511](https://github.com/flutter/packages/pull/6511) merged on April 16, 2024 &mdash; **Extra large:** [20 comments](https://github.com/flutter/packages/pull/6511) over 3 days, 331 additions and 3328 deletions in 110 files</sub><br />
@@ -1016,6 +1016,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [url_launcher][web] Link should work when triggered by keyboard<br />
     <sub>[#6505](https://github.com/flutter/packages/pull/6505) merged on April 15, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/6505) over 3 days, 331 additions and 11 deletions in 4 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Remove iOS thread-safe result class<br />
+    <sub>[#6498](https://github.com/flutter/packages/pull/6498) merged on April 16, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/6498) over 6 days, 283 additions and 583 deletions in 28 files</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Michael McGuiness](https://github.com/mike-v2)** &mdash; [image_picker] Adopt code excerpts in README<br />
     <sub>[#5523](https://github.com/flutter/packages/pull/5523) merged on April 15, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/5523) over 4 months, 110 additions and 9 deletions in 6 files</sub><br />
