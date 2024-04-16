@@ -4,7 +4,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-9 commits.
+10 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix filled text field active indicator overflows container bounds<br />
     <sub>[#146637](https://github.com/flutter/flutter/pull/146637) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146637) over 3 days, 74 additions and 57 deletions in 2 files</sub><br />
@@ -26,6 +26,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Doctor] Improve CocoaPods messages<br />
     <sub>[#146701](https://github.com/flutter/flutter/pull/146701) merged on April 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146701) over 2 days, 27 additions and 13 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix leak memory in `Tooltip` and account detail<br />
+    <sub>[#146833](https://github.com/flutter/flutter/pull/146833) merged on April 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146833) over 2 hours, 27 additions and 6 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in `BottomNavigationBar`<br />
     <sub>[#146748](https://github.com/flutter/flutter/pull/146748) merged on April 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146748) over 1 day, 8 additions and 1 deletion in 2 files</sub><br />
