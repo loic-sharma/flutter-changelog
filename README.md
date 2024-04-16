@@ -447,7 +447,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-13 commits.
+14 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use Wang's formula for quad/cubic subdivision.<br />
     <sub>[#52079](https://github.com/flutter/engine/pull/52079) merged on April 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52079) over 3 days, 134 additions and 116 deletions in 8 files</sub><br />
@@ -462,6 +462,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] moved to bgra10_xr<br />
     <sub>[#52019](https://github.com/flutter/engine/pull/52019) merged on April 15, 2024 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/52019) over 5 days, 76 additions and 34 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll reclient, libpng, and zlib<br />
+    <sub>[#52072](https://github.com/flutter/engine/pull/52072) merged on April 16, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/52072) over 4 days, 464 additions and 14 deletions in 27 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] organize shaders a bit, make filter shaders use same vertex source.<br />
     <sub>[#52113](https://github.com/flutter/engine/pull/52113) merged on April 15, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/52113) over 1 day, 393 additions and 1283 deletions in 23 files</sub><br />
