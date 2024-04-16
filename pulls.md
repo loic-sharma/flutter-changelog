@@ -119,3 +119,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; bump cupertino_icons to 1.08<br />
     <sub>[#146806](https://github.com/flutter/flutter/pull/146806) opened on on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146806) 3 additions and 5 deletions in 3 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix `getOffsetForCaret` crash<br />
+    <sub>[#146813](https://github.com/flutter/flutter/pull/146813) opened on on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146813) 21 additions and 2 deletions in 2 files</sub><br />
+
