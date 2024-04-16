@@ -451,7 +451,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-15 commits.
+16 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use Wang's formula for quad/cubic subdivision.<br />
     <sub>[#52079](https://github.com/flutter/engine/pull/52079) merged on April 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52079) over 3 days, 134 additions and 116 deletions in 8 files</sub><br />
@@ -486,6 +486,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] moved to bgra10_xr (#52019)"<br />
     <sub>[#52140](https://github.com/flutter/engine/pull/52140) merged on April 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52140) over 1 minute, 34 additions and 76 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] removes advanced plus blending<br />
+    <sub>[#52163](https://github.com/flutter/engine/pull/52163) merged on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52163) over 2 hours, 65 additions and 180 deletions in 19 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate vsync_waiter_ios to ARC<br />
     <sub>[#52104](https://github.com/flutter/engine/pull/52104) merged on April 16, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/52104) over 2 days, 70 additions and 71 deletions in 6 files</sub><br />
