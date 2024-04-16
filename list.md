@@ -999,7 +999,11 @@
 
 ### April 13, 2024 to April 19, 2024
 
-5 commits.
+6 commits.
+
+* **[Rodolfo Ruiz](https://github.com/rrpadilla)** &mdash; [google_maps_flutter] update ios privacy manifest
+    <sub>[#6511](https://github.com/flutter/packages/pull/6511) merged on April 16, 2024 &mdash; **Extra large:** [20 comments](https://github.com/flutter/packages/pull/6511) over 3 days, 331 additions and 3328 deletions in 110 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [url_launcher][web] Link should work when triggered by keyboard
     <sub>[#6505](https://github.com/flutter/packages/pull/6505) merged on April 15, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/6505) over 3 days, 331 additions and 11 deletions in 4 files</sub>
