@@ -447,12 +447,17 @@
 
 ### April 13, 2024 to April 19, 2024
 
-12 commits.
+13 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use Wang's formula for quad/cubic subdivision.<br />
     <sub>[#52079](https://github.com/flutter/engine/pull/52079) merged on April 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52079) over 3 days, 134 additions and 116 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/engine/assets/8975114/8dc45012-3999-4598-ac3b-713e09d5a31f)![image](https://github.com/flutter/engine/assets/8975114/8a90636f-9698-46e6-bd3f-2f47c8abdbba)</details></sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Only print "gclient sync" warning once during rebase<br />
+    <sub>[#52133](https://github.com/flutter/engine/pull/52133) merged on April 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52133) over 20 hours, 3 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+    <sub><details><summary>2 images...</summary>![rebase](https://github.com/flutter/engine/assets/682784/db7279c7-ca27-4ccf-9f6b-f9c4ad10c20a)![Screenshot 2024-04-15 at 2 06 24 PM](https://github.com/flutter/engine/assets/682784/bc80a6bc-9fd9-447f-b060-18f3a5b05775)</details></sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] moved to bgra10_xr<br />
     <sub>[#52019](https://github.com/flutter/engine/pull/52019) merged on April 15, 2024 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/52019) over 5 days, 76 additions and 34 deletions in 10 files</sub><br />
