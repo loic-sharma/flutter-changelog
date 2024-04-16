@@ -4,7 +4,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-15 commits.
+16 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix filled text field active indicator overflows container bounds
     <sub>[#146637](https://github.com/flutter/flutter/pull/146637) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146637) over 3 days, 74 additions and 57 deletions in 2 files</sub>
@@ -22,6 +22,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove checked mode references
     <sub>[#146845](https://github.com/flutter/flutter/pull/146845) merged on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146845) over 1 hour, 6 additions and 6 deletions in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fix test-case for RenderView
+    <sub>[#146825](https://github.com/flutter/flutter/pull/146825) merged on April 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146825) over 7 hours, 1 addition and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [iOS] Migrate @UIApplicationMain attribute to @main
     <sub>[#146707](https://github.com/flutter/flutter/pull/146707) merged on April 16, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/146707) over 3 days, 173 additions and 20 deletions in 14 files</sub>

@@ -98,3 +98,6 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Predictive back route transitions by default<br />
     <sub>[#146788](https://github.com/flutter/flutter/pull/146788) opened on on April 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146788) 232 additions and 2 deletions in 2 files</sub><br />
 
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#146851](https://github.com/flutter/flutter/pull/146851) opened on on April 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146851) 2 additions and 2 deletions in 1 file</sub><br />
+
