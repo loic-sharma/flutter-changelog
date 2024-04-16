@@ -92,9 +92,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for preferred_size.0.dart API example.<br />
     <sub>[#146725](https://github.com/flutter/flutter/pull/146725) opened on on April 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146725) 35 additions and 1 deletion in 2 files</sub><br />
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Switch to relevant `Remote` constructors<br />
-    <sub>[#146773](https://github.com/flutter/flutter/pull/146773) opened on on April 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146773) 15 additions and 51 deletions in 5 files</sub><br />
-
 * **[Matt Carroll](https://github.com/matthew-carroll)** &mdash; Added missing tests for OverflowBar example.<br />
     <sub>[#146780](https://github.com/flutter/flutter/pull/146780) opened on on April 15, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/146780) 28 additions and 1 deletion in 2 files</sub><br />
 
@@ -109,9 +106,6 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Assert that the goldenFileComparator is a LocalFileComparator<br />
     <sub>[#146802](https://github.com/flutter/flutter/pull/146802) opened on on April 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146802) 15 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Rewrap some lines that are about to get much longer.<br />
-    <sub>[#146803](https://github.com/flutter/flutter/pull/146803) opened on on April 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146803) 38 additions and 10 deletions in 1 file</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove now-redundant tests for isForEnvironment<br />
     <sub>[#146804](https://github.com/flutter/flutter/pull/146804) opened on on April 16, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/146804) 0 additions and 321 deletions in 1 file</sub><br />
