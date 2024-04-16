@@ -68,17 +68,11 @@
 * **[drown0315](https://github.com/drown0315)** &mdash; Improved documentation for SpringSimulation<br />
     <sub>[#146674](https://github.com/flutter/flutter/pull/146674) opened on on April 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146674) 41 additions and 1 deletion in 1 file</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_padding.0.dart API example.<br />
-    <sub>[#146718](https://github.com/flutter/flutter/pull/146718) opened on on April 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146718) 50 additions and 1 deletion in 2 files</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_align.0.dart API example.<br />
     <sub>[#146719](https://github.com/flutter/flutter/pull/146719) opened on on April 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146719) 47 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_positioned.0.dart API example.<br />
     <sub>[#146720](https://github.com/flutter/flutter/pull/146720) opened on on April 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146720) 56 additions and 1 deletion in 2 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_fractionally_sized_box.0.dart API example.<br />
-    <sub>[#146721](https://github.com/flutter/flutter/pull/146721) opened on on April 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146721) 56 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for sliver_animated_opacity.0.dart API example.<br />
     <sub>[#146722](https://github.com/flutter/flutter/pull/146722) opened on on April 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146722) 50 additions and 1 deletion in 2 files</sub><br />
@@ -88,7 +82,4 @@
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Predictive back route transitions by default<br />
     <sub>[#146788](https://github.com/flutter/flutter/pull/146788) opened on on April 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146788) 232 additions and 2 deletions in 2 files</sub><br />
-
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#146851](https://github.com/flutter/flutter/pull/146851) opened on on April 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146851) 2 additions and 2 deletions in 1 file</sub><br />
 
