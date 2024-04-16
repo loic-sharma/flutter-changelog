@@ -110,6 +110,3 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove now-redundant tests for isForEnvironment<br />
     <sub>[#146804](https://github.com/flutter/flutter/pull/146804) opened on on April 16, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/146804) 0 additions and 321 deletions in 1 file</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix leak memory in `Tooltip` and account detail<br />
-    <sub>[#146833](https://github.com/flutter/flutter/pull/146833) opened on on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146833) 27 additions and 6 deletions in 5 files</sub><br />
-
