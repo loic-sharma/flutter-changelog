@@ -475,7 +475,12 @@
 
 ### April 13, 2024 to April 19, 2024
 
-17 commits.
+18 commits.
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] remove most temporary allocation during polyline generation. (#52131)"<br />
+    <sub>[#52177](https://github.com/flutter/engine/pull/52177) merged on April 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/52177) over 1 minute, 429 additions and 480 deletions in 14 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/engine/assets/8975114/90a6d70f-db22-4684-80f9-1cea3dc21ac5)</details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use Wang's formula for quad/cubic subdivision.<br />
     <sub>[#52079](https://github.com/flutter/engine/pull/52079) merged on April 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52079) over 3 days, 134 additions and 116 deletions in 8 files</sub><br />
@@ -483,7 +488,7 @@
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/engine/assets/8975114/8dc45012-3999-4598-ac3b-713e09d5a31f)![image](https://github.com/flutter/engine/assets/8975114/8a90636f-9698-46e6-bd3f-2f47c8abdbba)</details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove most temporary allocation during polyline generation.<br />
-    <sub>[#52131](https://github.com/flutter/engine/pull/52131) merged on April 16, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/52131) over 22 hours, 480 additions and 429 deletions in 14 files</sub><br />
+    <sub>[#52131](https://github.com/flutter/engine/pull/52131) merged on April 16, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/engine/pull/52131) over 22 hours, 480 additions and 429 deletions in 14 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Only print "gclient sync" warning once during rebase<br />
