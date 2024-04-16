@@ -447,12 +447,16 @@
 
 ### April 13, 2024 to April 19, 2024
 
-14 commits.
+15 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use Wang's formula for quad/cubic subdivision.
     <sub>[#52079](https://github.com/flutter/engine/pull/52079) merged on April 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52079) over 3 days, 134 additions and 116 deletions in 8 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/engine/assets/8975114/8dc45012-3999-4598-ac3b-713e09d5a31f)![image](https://github.com/flutter/engine/assets/8975114/8a90636f-9698-46e6-bd3f-2f47c8abdbba)</details></sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove most temporary allocation during polyline generation.
+    <sub>[#52131](https://github.com/flutter/engine/pull/52131) merged on April 16, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/52131) over 22 hours, 480 additions and 429 deletions in 14 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Only print "gclient sync" warning once during rebase
     <sub>[#52133](https://github.com/flutter/engine/pull/52133) merged on April 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52133) over 20 hours, 3 additions and 0 deletions in 1 file</sub>
