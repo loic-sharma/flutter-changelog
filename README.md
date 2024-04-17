@@ -40,7 +40,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update link branches to `main`<br />
-    <sub>[#146558](https://github.com/flutter/flutter/pull/146558) merged on April 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146558) over 6 days, 120 additions and 55 deletions in 41 files</sub><br />
+    <sub>[#146558](https://github.com/flutter/flutter/pull/146558) merged on April 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146558) over 6 days, 120 additions and 55 deletions in 41 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix doc reference to RendererBinding.renderViews<br />
