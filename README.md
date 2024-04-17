@@ -4,7 +4,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-26 commits.
+27 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix filled text field active indicator overflows container bounds<br />
     <sub>[#146637](https://github.com/flutter/flutter/pull/146637) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146637) over 3 days, 74 additions and 57 deletions in 2 files</sub><br />
@@ -42,6 +42,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [iOS] Migrate @UIApplicationMain attribute to @main<br />
     <sub>[#146707](https://github.com/flutter/flutter/pull/146707) merged on April 16, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/146707) over 3 days, 173 additions and 20 deletions in 14 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in paginated tables<br />
+    <sub>[#146755](https://github.com/flutter/flutter/pull/146755) merged on April 17, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/146755) over 2 days, 116 additions and 73 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Derek Xu](https://github.com/derekxu16)** &mdash; Unpin frontend_server_client and roll packages<br />
     <sub>[#146650](https://github.com/flutter/flutter/pull/146650) merged on April 17, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/146650) over 5 days, 76 additions and 77 deletions in 39 files</sub><br />
@@ -1116,7 +1120,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-10 commits.
+11 commits.
 
 * **[Piotr Denert](https://github.com/pdenert)** &mdash; [image_picker] Add limit parameter to pickMultiImage and pickMultipleMedia to ios and Android<br />
     <sub>[#6201](https://github.com/flutter/packages/pull/6201) merged on April 16, 2024 &mdash; **Large:** [65 comments](https://github.com/flutter/packages/pull/6201) over 1 month, 1111 additions and 366 deletions in 35 files</sub><br />
@@ -1125,6 +1129,10 @@
 * **[Rodolfo Ruiz](https://github.com/rrpadilla)** &mdash; [google_maps_flutter] update ios privacy manifest<br />
     <sub>[#6511](https://github.com/flutter/packages/pull/6511) merged on April 16, 2024 &mdash; **Extra large:** [20 comments](https://github.com/flutter/packages/pull/6511) over 3 days, 331 additions and 3328 deletions in 110 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [google_sign_in_ios] Upgrade GoogleSignIn iOS SDK to 7.1<br />
+    <sub>[#6404](https://github.com/flutter/packages/pull/6404) merged on April 17, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/packages/pull/6404) over 3 weeks, 65 additions and 15 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [url_launcher][web] Link should work when triggered by keyboard<br />
     <sub>[#6505](https://github.com/flutter/packages/pull/6505) merged on April 15, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/6505) over 3 days, 331 additions and 11 deletions in 4 files</sub><br />
