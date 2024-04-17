@@ -80,3 +80,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in data table<br />
     <sub>[#146892](https://github.com/flutter/flutter/pull/146892) opened on on April 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146892) 10 additions and 5 deletions in 2 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Try to be more consistent about deleting test apps in devicelab logic<br />
+    <sub>[#146931](https://github.com/flutter/flutter/pull/146931) opened on on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146931) 74 additions and 34 deletions in 23 files</sub><br />
+
