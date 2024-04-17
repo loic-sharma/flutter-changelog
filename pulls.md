@@ -65,12 +65,15 @@
 * **[abylaykhan](https://github.com/abikko)** &mdash; Added ListTileControlAffinity into the ListTileTheme<br />
     <sub>[#146630](https://github.com/flutter/flutter/pull/146630) opened on on April 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146630) 61 additions and 34 deletions in 5 files</sub><br />
 
-* **[drown0315](https://github.com/drown0315)** &mdash; Improved documentation for SpringSimulation<br />
-    <sub>[#146674](https://github.com/flutter/flutter/pull/146674) opened on on April 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146674) 41 additions and 1 deletion in 1 file</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a breadcrumb for the pub autoroller<br />
     <sub>[#146786](https://github.com/flutter/flutter/pull/146786) opened on on April 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146786) 12 additions and 3 deletions in 2 files</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Predictive back route transitions by default<br />
     <sub>[#146788](https://github.com/flutter/flutter/pull/146788) opened on on April 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146788) 232 additions and 2 deletions in 2 files</sub><br />
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#146942](https://github.com/flutter/flutter/pull/146942) opened on on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146942) 30 additions and 2 deletions in 1 file</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for focus_node.0.dart API example.<br />
+    <sub>[#146943](https://github.com/flutter/flutter/pull/146943) opened on on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146943) 193 additions and 1 deletion in 2 files</sub><br />
 
