@@ -4,7 +4,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-20 commits.
+21 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix filled text field active indicator overflows container bounds<br />
     <sub>[#146637](https://github.com/flutter/flutter/pull/146637) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146637) over 3 days, 74 additions and 57 deletions in 2 files</sub><br />
@@ -34,6 +34,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [iOS] Migrate @UIApplicationMain attribute to @main<br />
     <sub>[#146707](https://github.com/flutter/flutter/pull/146707) merged on April 16, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/146707) over 3 days, 173 additions and 20 deletions in 14 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Tab` indicator image configuration doesn't inherit device pixel ratio<br />
+    <sub>[#146812](https://github.com/flutter/flutter/pull/146812) merged on April 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146812) over 22 hours, 73 additions and 0 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update link branches to `main`<br />
     <sub>[#146558](https://github.com/flutter/flutter/pull/146558) merged on April 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146558) over 6 days, 120 additions and 55 deletions in 41 files</sub><br />
