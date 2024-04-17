@@ -503,7 +503,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-22 commits.
+23 commits.
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] remove most temporary allocation during polyline generation. (#52131)"
     <sub>[#52177](https://github.com/flutter/engine/pull/52177) merged on April 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/52177) over 1 minute, 429 additions and 480 deletions in 14 files</sub>
@@ -547,6 +547,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] moved to bgra10_xr (#52019)"
     <sub>[#52140](https://github.com/flutter/engine/pull/52140) merged on April 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52140) over 1 minute, 34 additions and 76 deletions in 10 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added static check that fragment shader and vertex shaders slots match
+    <sub>[#52174](https://github.com/flutter/engine/pull/52174) merged on April 17, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/52174) over 17 hours, 84 additions and 0 deletions in 3 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] FlutterSurfaceManager should not return surfaces that are in use
     <sub>[#52082](https://github.com/flutter/engine/pull/52082) merged on April 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52082) over 4 days, 108 additions and 13 deletions in 5 files</sub>
