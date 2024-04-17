@@ -4,7 +4,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-24 commits.
+25 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix filled text field active indicator overflows container bounds
     <sub>[#146637](https://github.com/flutter/flutter/pull/146637) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146637) over 3 days, 74 additions and 57 deletions in 2 files</sub>
@@ -22,6 +22,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove checked mode references
     <sub>[#146845](https://github.com/flutter/flutter/pull/146845) merged on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146845) over 1 hour, 6 additions and 6 deletions in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Try to be more consistent about deleting test apps in devicelab logic.
+    <sub>[#146856](https://github.com/flutter/flutter/pull/146856) merged on April 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146856) over 17 hours, 66 additions and 22 deletions in 22 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fix test-case for RenderView
     <sub>[#146825](https://github.com/flutter/flutter/pull/146825) merged on April 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146825) over 7 hours, 1 addition and 3 deletions in 1 file</sub>
@@ -507,7 +511,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-25 commits.
+26 commits.
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] remove most temporary allocation during polyline generation. (#52131)"
     <sub>[#52177](https://github.com/flutter/engine/pull/52177) merged on April 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/52177) over 1 minute, 429 additions and 480 deletions in 14 files</sub>
@@ -607,6 +611,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [scenarios] test disabling surface clear.
     <sub>[#52128](https://github.com/flutter/engine/pull/52128) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52128) over 43 minutes, 6 additions and 1 deletion in 3 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Alexander Markov](https://github.com/alexmarkov)** &mdash; Cleanup obsolete Dart VM flags
+    <sub>[#52197](https://github.com/flutter/engine/pull/52197) merged on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52197) over 1 hour, 0 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Relands "[Impeller] moved to bgra10_xr (#52019)"
     <sub>[#52142](https://github.com/flutter/engine/pull/52142) merged on April 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52142) over 1 hour, 78 additions and 35 deletions in 10 files</sub>
