@@ -4,7 +4,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-23 commits.
+24 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix filled text field active indicator overflows container bounds<br />
     <sub>[#146637](https://github.com/flutter/flutter/pull/146637) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146637) over 3 days, 74 additions and 57 deletions in 2 files</sub><br />
@@ -34,6 +34,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [iOS] Migrate @UIApplicationMain attribute to @main<br />
     <sub>[#146707](https://github.com/flutter/flutter/pull/146707) merged on April 16, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/146707) over 3 days, 173 additions and 20 deletions in 14 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Derek Xu](https://github.com/derekxu16)** &mdash; Unpin frontend_server_client and roll packages<br />
+    <sub>[#146650](https://github.com/flutter/flutter/pull/146650) merged on April 17, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/146650) over 5 days, 76 additions and 77 deletions in 39 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Tab` indicator image configuration doesn't inherit device pixel ratio<br />
     <sub>[#146812](https://github.com/flutter/flutter/pull/146812) merged on April 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146812) over 22 hours, 73 additions and 0 deletions in 3 files</sub><br />
@@ -503,7 +507,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-23 commits.
+24 commits.
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] remove most temporary allocation during polyline generation. (#52131)"<br />
     <sub>[#52177](https://github.com/flutter/engine/pull/52177) merged on April 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/52177) over 1 minute, 429 additions and 480 deletions in 14 files</sub><br />
@@ -551,6 +555,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added static check that fragment shader and vertex shaders slots match<br />
     <sub>[#52174](https://github.com/flutter/engine/pull/52174) merged on April 17, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/52174) over 17 hours, 84 additions and 0 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add/remove view failures should not hang<br />
+    <sub>[#52164](https://github.com/flutter/engine/pull/52164) merged on April 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/52164) over 23 hours, 70 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] FlutterSurfaceManager should not return surfaces that are in use<br />
     <sub>[#52082](https://github.com/flutter/engine/pull/52082) merged on April 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52082) over 4 days, 108 additions and 13 deletions in 5 files</sub><br />
