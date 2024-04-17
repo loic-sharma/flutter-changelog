@@ -543,7 +543,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-33 commits.
+34 commits.
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] remove most temporary allocation during polyline generation. (#52131)"<br />
     <sub>[#52177](https://github.com/flutter/engine/pull/52177) merged on April 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/52177) over 1 minute, 429 additions and 480 deletions in 14 files</sub><br />
@@ -600,6 +600,10 @@
     <sub>[#52174](https://github.com/flutter/engine/pull/52174) merged on April 17, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/52174) over 17 hours, 84 additions and 0 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix CkBrowserImageDecoder conversion of images to ImageByteFormat.rawRgba and rawStraightRgba<br />
+    <sub>[#52089](https://github.com/flutter/engine/pull/52089) merged on April 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52089) over 4 days, 78 additions and 8 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Handle interleaved movement and gesture events<br />
     <sub>[#52201](https://github.com/flutter/engine/pull/52201) merged on April 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52201) over 1 hour, 43 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Callum Moffat](https://github.com/moffatman)</sub><br />
@@ -628,9 +632,9 @@
     <sub>[#52163](https://github.com/flutter/engine/pull/52163) merged on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52163) over 2 hours, 65 additions and 180 deletions in 19 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate vsync_waiter_ios to ARC<br />
-    <sub>[#52104](https://github.com/flutter/engine/pull/52104) merged on April 16, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/52104) over 2 days, 70 additions and 71 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [scenarios] test disabling surface clear.<br />
+    <sub>[#52128](https://github.com/flutter/engine/pull/52128) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52128) over 43 minutes, 6 additions and 1 deletion in 3 files</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Update the readme to reflect current guidance on how to try Impeller.<br />
     <sub>[#52135](https://github.com/flutter/engine/pull/52135) merged on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52135) over 2 hours, 24 additions and 3 deletions in 1 file</sub><br />
@@ -648,13 +652,9 @@
     <sub>[#52101](https://github.com/flutter/engine/pull/52101) merged on April 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52101) over 2 days, 7 additions and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [scenarios] test disabling surface clear.<br />
-    <sub>[#52128](https://github.com/flutter/engine/pull/52128) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52128) over 43 minutes, 6 additions and 1 deletion in 3 files</sub><br />
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix incorrect function name in documentation<br />
-    <sub>[#52184](https://github.com/flutter/engine/pull/52184) merged on April 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52184) over 18 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate vsync_waiter_ios to ARC<br />
+    <sub>[#52104](https://github.com/flutter/engine/pull/52104) merged on April 16, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/52104) over 2 days, 70 additions and 71 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Delete `EntityPass::AddSubpassInline`.<br />
     <sub>[#52182](https://github.com/flutter/engine/pull/52182) merged on April 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52182) over 19 hours, 0 additions and 26 deletions in 2 files</sub><br />
@@ -675,6 +675,10 @@
 * **[Alexander Markov](https://github.com/alexmarkov)** &mdash; Cleanup obsolete Dart VM flags<br />
     <sub>[#52197](https://github.com/flutter/engine/pull/52197) merged on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52197) over 1 hour, 0 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix incorrect function name in documentation<br />
+    <sub>[#52184](https://github.com/flutter/engine/pull/52184) merged on April 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52184) over 18 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Relands "[Impeller] moved to bgra10_xr (#52019)"<br />
     <sub>[#52142](https://github.com/flutter/engine/pull/52142) merged on April 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52142) over 1 hour, 78 additions and 35 deletions in 10 files</sub><br />
