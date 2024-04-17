@@ -519,7 +519,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-27 commits.
+30 commits.
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] remove most temporary allocation during polyline generation. (#52131)"
     <sub>[#52177](https://github.com/flutter/engine/pull/52177) merged on April 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/52177) over 1 minute, 429 additions and 480 deletions in 14 files</sub>
@@ -543,6 +543,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] moved to bgra10_xr
     <sub>[#52019](https://github.com/flutter/engine/pull/52019) merged on April 15, 2024 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/52019) over 5 days, 76 additions and 34 deletions in 10 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Replace LinkedLists that are used as a queue in android FlutterRenderer with ArrayDeques
+    <sub>[#51494](https://github.com/flutter/engine/pull/51494) merged on April 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51494) over 1 month, 3 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] move AccessibilityAnnouncements into SemanticsOwner
     <sub>[#52138](https://github.com/flutter/engine/pull/52138) merged on April 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52138) over 1 day, 45 additions and 26 deletions in 7 files</sub>
@@ -619,6 +623,14 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [scenarios] test disabling surface clear.
     <sub>[#52128](https://github.com/flutter/engine/pull/52128) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52128) over 43 minutes, 6 additions and 1 deletion in 3 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove old clip height tracking from Entity.
+    <sub>[#52178](https://github.com/flutter/engine/pull/52178) merged on April 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52178) over 19 hours, 37 additions and 76 deletions in 11 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Use booleans instead of counting backdrop reads.
+    <sub>[#52181](https://github.com/flutter/engine/pull/52181) merged on April 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52181) over 18 hours, 18 additions and 20 deletions in 4 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[bungeman](https://github.com/bungeman)** &mdash; Update Skia's BUILD.gn
     <sub>[#52194](https://github.com/flutter/engine/pull/52194) merged on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52194) over 3 hours, 0 additions and 3 deletions in 1 file</sub>
