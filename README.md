@@ -4,7 +4,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-18 commits.
+19 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix filled text field active indicator overflows container bounds<br />
     <sub>[#146637](https://github.com/flutter/flutter/pull/146637) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146637) over 3 days, 74 additions and 57 deletions in 2 files</sub><br />
@@ -46,6 +46,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Doctor] Improve CocoaPods messages<br />
     <sub>[#146701](https://github.com/flutter/flutter/pull/146701) merged on April 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146701) over 2 days, 27 additions and 13 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Rewrap some lines that are about to get much longer.<br />
+    <sub>[#146803](https://github.com/flutter/flutter/pull/146803) merged on April 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146803) over 22 hours, 38 additions and 10 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Switch to relevant `Remote` constructors<br />
     <sub>[#146773](https://github.com/flutter/flutter/pull/146773) merged on April 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146773) over 1 day, 15 additions and 51 deletions in 5 files</sub><br />
