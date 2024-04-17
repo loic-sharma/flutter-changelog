@@ -495,7 +495,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-19 commits.
+20 commits.
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] remove most temporary allocation during polyline generation. (#52131)"
     <sub>[#52177](https://github.com/flutter/engine/pull/52177) merged on April 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/52177) over 1 minute, 429 additions and 480 deletions in 14 files</sub>
@@ -539,6 +539,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] moved to bgra10_xr (#52019)"
     <sub>[#52140](https://github.com/flutter/engine/pull/52140) merged on April 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52140) over 1 minute, 34 additions and 76 deletions in 10 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Handle reparenting platform views
+    <sub>[#52152](https://github.com/flutter/engine/pull/52152) merged on April 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52152) over 1 day, 34 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate FlutterChannelKeyResponder and FlutterSpellCheckPlugin to ARC
     <sub>[#52148](https://github.com/flutter/engine/pull/52148) merged on April 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/52148) over 18 hours, 40 additions and 60 deletions in 4 files</sub>
